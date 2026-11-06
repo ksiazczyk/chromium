@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls utility interface
+// summary: Declares CookieControlsUtil helpers for expiration day counts, enforced icons, and enforced tooltips.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_BROWSER_UI_COOKIE_CONTROLS_UTIL_H_
 #define COMPONENTS_CONTENT_SETTINGS_BROWSER_UI_COOKIE_CONTROLS_UTIL_H_
 

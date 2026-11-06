@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebsiteSettingsRegistry
+// summary: Unit tests verifying registry lookup by type and name, platform-dependent registration behavior, and WebsiteSettingsInfo properties such as pref names and default values.
+// ---
+
 #include "components/content_settings/core/browser/website_settings_registry.h"
 
 #include <memory>

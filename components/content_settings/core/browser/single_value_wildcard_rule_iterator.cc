@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleValueWildcardRuleIterator implementation
+// summary: Implements a rule iterator that yields at most one content settings rule with wildcard primary and secondary patterns for a given value.
+// ---
+
 #include "components/content_settings/core/browser/single_value_wildcard_rule_iterator.h"
 
 namespace content_settings {

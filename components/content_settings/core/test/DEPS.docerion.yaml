@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content settings core test
+summary: Defines include rules allowing the test directory to depend on components/content_settings/core/browser.

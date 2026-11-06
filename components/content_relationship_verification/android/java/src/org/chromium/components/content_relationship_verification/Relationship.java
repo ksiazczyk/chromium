@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Asset Link relationship data class
+// summary: Stores a Digital Asset Link relationship's package name, origin, relation and signature fingerprints with a stable string serialization for persistence.
+// ---
+
 package org.chromium.components.content_relationship_verification;
 
 import org.chromium.build.annotations.NullMarked;

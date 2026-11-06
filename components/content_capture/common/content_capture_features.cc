@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content capture feature flags implementation
+// summary: Implements content capture feature checks, including platform enablement and the metadata-for-data-share feature flag.
+// ---
+
 #include "components/content_capture/common/content_capture_features.h"
 
 #include "base/feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of content_settings.mojom.
+type: source
+title: Mojom definitions for content settings structures
+summary: Defines Mojo structs and enums mirroring C++ content settings types such as patterns, metadata, and rules for IPC.

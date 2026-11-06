@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: ContentCapture directory metadata
+summary: Points the directory metadata to the shared COMMON_METADATA mixins defined for the content_capture component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of content setting rule helpers
+// summary: Implements ContentSettingPatternSource, rule filtering for renderer content types, and conversion helpers for content settings.
+// ---
+
 #include "components/content_settings/core/common/content_settings.h"
 
 #include <algorithm>

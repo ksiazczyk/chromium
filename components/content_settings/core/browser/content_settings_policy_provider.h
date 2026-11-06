@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyProvider class declaration for managed content settings
+// summary: Declares the PolicyProvider that derives managed content settings from enterprise policies, reading managed defaults and per-URL exceptions from preferences.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_POLICY_PROVIDER_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_POLICY_PROVIDER_H_
 

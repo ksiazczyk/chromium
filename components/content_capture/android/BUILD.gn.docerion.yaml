@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Android content capture
+summary: Defines GN targets for the Android content capture component, listing native and Java sources, JNI header generation, and dependencies.

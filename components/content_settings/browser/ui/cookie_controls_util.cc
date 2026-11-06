@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls utility implementation
+// summary: Implements helpers that compute days to cookie controls expiration and pick enforced icons and tooltips.
+// ---
+
 #include "components/content_settings/browser/ui/cookie_controls_util.h"
 
 #include <memory>

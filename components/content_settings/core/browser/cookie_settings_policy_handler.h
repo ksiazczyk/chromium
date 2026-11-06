@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie settings policy handler class declaration
+// summary: Declares the CookieSettingsPolicyHandler that maps the BlockThirdPartyCookies policy to the cookie controls mode preference.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_COOKIE_SETTINGS_POLICY_HANDLER_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_COOKIE_SETTINGS_POLICY_HANDLER_H_
 

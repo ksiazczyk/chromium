@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the homepage URL detection helper
+// summary: Tests IsHomepageUrl with invalid, root, locale-prefixed, and non-homepage URLs.
+// ---
+
 #include "components/contextual_cueing/contextual_cueing_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

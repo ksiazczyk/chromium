@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlAllowlistTest
+// summary: Robolectric unit tests for UrlAllowlist verifying URL matching against exact host allowlists, regular expressions, combined rules, and malformed URLs.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.junit.Assert.assertFalse;

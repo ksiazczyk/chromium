@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the content settings renderer
+summary: Specifies allowed include dependencies for the renderer directory, with an extra rule for the browser test file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android onscreen content provider implementation
+// summary: Implements the Android onscreen content provider, converting captured sessions and frames into Java objects and forwarding capture events over JNI.
+// ---
+
 #include "components/content_capture/android/onscreen_content_provider_android.h"
 
 #include <utility>

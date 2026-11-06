@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL allowlist for content capture
+// summary: Helper for ContentCaptureConsumer's shouldCapture that checks whether any URL's host matches an allowed host set or regex pattern list.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.net.Uri;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the contextual cueing component
+summary: Defines GN source sets for the contextual cueing component and its unit tests, listing sources and dependencies on base, url, re2, and gtest.

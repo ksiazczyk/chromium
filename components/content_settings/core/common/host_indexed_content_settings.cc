@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host-indexed content settings implementation
+// summary: Implements HostIndexedContentSettings, which indexes content setting rules by host for faster lookups while preserving provider precedence and handling wildcard and IP hosts.
+// ---
+
 #include "components/content_settings/core/common/host_indexed_content_settings.h"
 
 #include <cstddef>

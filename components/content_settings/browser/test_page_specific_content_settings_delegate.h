@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test delegate header for page-specific content settings
+// summary: Declares TestPageSpecificContentSettingsDelegate, a stub delegate supplying prefs and a settings map for tests.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_BROWSER_TEST_PAGE_SPECIFIC_CONTENT_SETTINGS_DELEGATE_H_
 #define COMPONENTS_CONTENT_SETTINGS_BROWSER_TEST_PAGE_SPECIFIC_CONTENT_SETTINGS_DELEGATE_H_
 

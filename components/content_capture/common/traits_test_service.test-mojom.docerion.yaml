@@ -1,0 +1,4 @@
+# Docerion header of traits_test_service.test-mojom.
+type: test
+title: TraitsTestService test mojom interface
+summary: Mojom test interface whose methods echo their arguments back, used to test serialization and deserialization of ContentCaptureData struct traits.

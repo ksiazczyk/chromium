@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Content extraction OWNERS
+summary: OWNERS file that inherits reviewer assignments from the optimization_guide component via a file reference.

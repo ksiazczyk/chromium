@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureReceiver class declaration
+// summary: Declares the per-RenderFrameHost mojom receiver that captures, updates and removes content sessions and manages title and favicon updates.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_RECEIVER_H_
 #define COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_RECEIVER_H_
 

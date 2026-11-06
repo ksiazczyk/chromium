@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation setting delegate unit tests
+// summary: Tests parsing, validation, ephemeral state coalescing, and incognito inheritance of geolocation permission settings.
+// ---
+
 #include "components/content_settings/core/browser/geolocation_setting_delegate.h"
 
 #include "base/test/scoped_feature_list.h"

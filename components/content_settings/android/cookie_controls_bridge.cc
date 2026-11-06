@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls bridge implementation
+// summary: Implements the JNI bridge that relays cookie controls state changes between the native controller and the Java UI.
+// ---
+
 #include "components/content_settings/android/cookie_controls_bridge.h"
 
 #include <memory>

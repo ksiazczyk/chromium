@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie settings unit tests
+// summary: Extensive unit tests for CookieSettings covering third-party cookie blocking, storage access grants, feature interactions, and incognito behavior.
+// ---
+
 #include "components/content_settings/core/browser/cookie_settings.h"
 
 #include <cstddef>

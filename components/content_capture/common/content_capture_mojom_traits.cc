@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureData Mojo traits deserialization
+// summary: Implements the StructTraits Read method that deserializes Mojo data into content_capture::ContentCaptureData.
+// ---
+
 #include "components/content_capture/common/content_capture_mojom_traits.h"
 
 #include "mojo/public/cpp/base/string16_mojom_traits.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin verifier helper for manifest statements
+// summary: Parses Digital Asset Link statements declared in an app's Android manifest metadata to extract the claimed web origins.
+// ---
+
 package org.chromium.components.content_relationship_verification;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party site data access type enum
+// summary: Defines the ThirdPartySiteDataAccessType enum describing states of third-party site data accesses for logging, kept in sync with enums.xml.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_THIRD_PARTY_SITE_DATA_ACCESS_TYPE_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_THIRD_PARTY_SITE_DATA_ACCESS_TYPE_H_
 

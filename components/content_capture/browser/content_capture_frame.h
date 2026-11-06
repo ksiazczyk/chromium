@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureFrame struct and session types
+// summary: Declares the browser-side captured frame struct with id, url, bounds, children, title and favicon, plus the ContentCaptureSession frame hierarchy type.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_FRAME_H_
 #define COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_FRAME_H_
 

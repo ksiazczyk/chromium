@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the content capture browser component
+summary: Defines the browser, test_support and unit_tests source sets with their sources and dependencies for the content capture browser code.

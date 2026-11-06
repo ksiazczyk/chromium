@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Response header verifier unit tests
+// summary: Unit tests covering ResponseHeaderVerifier behavior for empty, star, none, and package list values of the embedder ancestors header.
+// ---
+
 #include "components/content_relationship_verification/response_header_verifier.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

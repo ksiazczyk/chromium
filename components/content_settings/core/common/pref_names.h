@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings preference name constants
+// summary: Defines constant preference name strings for content settings, including managed default settings for many content types and cookie controls mode.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_PREF_NAMES_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_PREF_NAMES_H_
 

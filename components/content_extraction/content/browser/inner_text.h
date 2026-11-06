@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inner text extraction API header
+// summary: Declares GetInnerText and GetInnerTextWithParams, which combine the inner text of a frame and its same-origin iframes and optionally report a node offset.
+// ---
+
 #ifndef COMPONENTS_CONTENT_EXTRACTION_CONTENT_BROWSER_INNER_TEXT_H_
 #define COMPONENTS_CONTENT_EXTRACTION_CONTENT_BROWSER_INNER_TEXT_H_
 

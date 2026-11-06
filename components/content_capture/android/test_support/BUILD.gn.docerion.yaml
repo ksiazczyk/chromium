@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for content capture Android test support
+summary: Defines the test_support source_set, an Android Java library, and JNI header generation for the content capture Android test support code.

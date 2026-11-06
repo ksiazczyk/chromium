@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for content settings test support
+summary: GN build file defining the testonly test_support static library that bundles the mock provider and test utilities for content settings.

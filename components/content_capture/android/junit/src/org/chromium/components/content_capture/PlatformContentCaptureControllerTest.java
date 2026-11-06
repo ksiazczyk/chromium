@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformContentCaptureControllerTest
+// summary: Robolectric unit tests for PlatformContentCaptureController covering AiAi service detection, content capture conditions, and URL capture decisions.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.junit.Assert.assertEquals;

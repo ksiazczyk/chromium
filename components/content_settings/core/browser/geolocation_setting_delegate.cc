@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation setting delegate implementation
+// summary: Implements validation, incognito inheritance, serialization, and ephemeral state handling for geolocation permission settings with approximate and precise components.
+// ---
+
 #include "components/content_settings/core/browser/geolocation_setting_delegate.h"
 
 #include <optional>

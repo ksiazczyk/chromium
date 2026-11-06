@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for content capture JUnit tests
+summary: Defines the Robolectric JUnit test target for the content capture Android component, listing its test sources and build dependencies.

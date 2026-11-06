@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservableProvider implementation for content settings
+// summary: Implements the ObservableProvider base class that manages an observer list and notifies observers when content settings change for given patterns and types.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_observable_provider.h"
 #include "base/observer_list.h"
 

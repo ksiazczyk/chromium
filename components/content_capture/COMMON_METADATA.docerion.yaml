@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: ContentCapture common metadata
+summary: Defines the Monorail component and public Buganizer component ID used for issues in the content_capture directory.

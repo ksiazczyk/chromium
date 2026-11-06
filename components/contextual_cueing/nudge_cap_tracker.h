@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge cap tracker header
+// summary: Declares NudgeCapTracker, which caps contextual cueing nudges over a time window by keeping only the recent nudge timestamps needed to enforce the limit.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_CUEING_NUDGE_CAP_TRACKER_H_
 #define COMPONENTS_CONTEXTUAL_CUEING_NUDGE_CAP_TRACKER_H_
 

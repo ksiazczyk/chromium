@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content capture proto Java library build file
+summary: GN build file defining a proto_java_library target for content_capture_metadata.proto, visible to the Android content capture component.

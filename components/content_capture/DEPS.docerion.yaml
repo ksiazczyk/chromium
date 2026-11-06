@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ContentCapture dependency rules
+summary: Sets include rules that allow dependencies on mojo and ui for code in the content_capture directory.

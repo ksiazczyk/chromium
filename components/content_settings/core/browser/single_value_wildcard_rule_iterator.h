@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleValueWildcardRuleIterator class declaration
+// summary: Declares a RuleIterator subclass that returns either zero or one content settings rule built from wildcard patterns.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_SINGLE_VALUE_WILDCARD_RULE_ITERATOR_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_SINGLE_VALUE_WILDCARD_RULE_ITERATOR_H_
 

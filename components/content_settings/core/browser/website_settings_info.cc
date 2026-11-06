@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteSettingsInfo implementation
+// summary: Implements WebsiteSettingsInfo, deriving exception, partitioned, and default preference names from the setting name and computing pref registration flags and secondary pattern support.
+// ---
+
 #include "components/content_settings/core/browser/website_settings_info.h"
 
 #include <utility>

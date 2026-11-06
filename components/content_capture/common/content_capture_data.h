@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureData struct definition
+// summary: Defines the ContentCaptureData struct, a tree of captured on-screen text content with ids, values, bounds and children.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_COMMON_CONTENT_CAPTURE_DATA_H_
 #define COMPONENTS_CONTENT_CAPTURE_COMMON_CONTENT_CAPTURE_DATA_H_
 

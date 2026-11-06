@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC param traits generation for content settings
+// summary: Generates IPC param traits read and write methods for content settings types via IPC macro includes.
+// ---
+
 // Get basic type definitions.
 #include "components/content_settings/core/common/content_settings_param_traits.h"
 

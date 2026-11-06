@@ -1,3 +1,11 @@
+---
+type: readme
+title: ContentCapture Component
+summary: Describes the renderer and browser parts of the ContentCapture component and how its classes forward captured content from blink to embedders such as Android.
+relations:
+  - references /third_party/blink/renderer/core/content_capture/README.md
+---
+
 # ContentCapture Component
 
 This directory contains ContentCapture’s renderer and browser parts. They work

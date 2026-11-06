@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java model of a captured frame
+// summary: Java representation of the native content_capture_frame.h, holding a frame's URL, title, and favicon along with id and bounds.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.graphics.Rect;

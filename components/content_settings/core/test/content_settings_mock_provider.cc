@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock content settings provider implementation
+// summary: Implements the MockProvider content settings provider that stores rules in a value map and supports read-only mode for use in tests.
+// ---
+
 #include "components/content_settings/core/test/content_settings_mock_provider.h"
 #include "components/content_settings/core/browser/content_settings_rule.h"
 #include "components/content_settings/core/common/content_settings_metadata.h"

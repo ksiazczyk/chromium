@@ -1,0 +1,4 @@
+# Docerion header of content_capture_data.mojom.
+type: source
+title: ContentCaptureData Mojom struct definition
+summary: Defines the Mojo struct mirroring content_capture::ContentCaptureData for serialization over IPC.

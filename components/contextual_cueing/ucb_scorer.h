@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UCB scorer header
+// summary: Declares TargetStats, UCBHyperparameters and CalculateUCBScore, which ranks contextual cueing candidates with an Upper Confidence Bound formula.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_CUEING_UCB_SCORER_H_
 #define COMPONENTS_CONTEXTUAL_CUEING_UCB_SCORER_H_
 

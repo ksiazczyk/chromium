@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helpers for content capture
+// summary: Implements a fake content capture sender, session-removed tracker, consumer helper and provider setup used by the content capture unit tests.
+// ---
+
 #include "components/content_capture/browser/content_capture_test_helper.h"
 
 #include "base/run_loop.h"

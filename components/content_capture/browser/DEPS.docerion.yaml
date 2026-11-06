@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the content capture browser directory
+summary: Restricts allowed includes for the directory, granting access to content public browser APIs and blink mojom interfaces, with extra rules for test files.

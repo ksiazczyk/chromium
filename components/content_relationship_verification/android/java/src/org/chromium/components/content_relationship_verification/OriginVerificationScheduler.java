@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin verification scheduler
+// summary: Schedules Digital Asset Link origin verification requests for pending origins, ensuring the statement list on the website is fetched at most once.
+// ---
+
 package org.chromium.components.content_relationship_verification;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

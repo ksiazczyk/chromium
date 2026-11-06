@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for content capture common
+summary: Defines the common source set, Mojo interface and type targets, and the unit test target for the content capture component.

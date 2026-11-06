@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginVerifier JNI bridge declaration
+// summary: Declares the OriginVerifier class that bridges Java calls to Digital Asset Links origin verification on Android.
+// ---
+
 #ifndef COMPONENTS_CONTENT_RELATIONSHIP_VERIFICATION_ORIGIN_VERIFIER_H_
 #define COMPONENTS_CONTENT_RELATIONSHIP_VERIFICATION_ORIGIN_VERIFIER_H_
 

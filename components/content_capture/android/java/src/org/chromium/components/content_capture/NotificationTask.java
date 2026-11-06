@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationTask
+// summary: Abstract background task that communicates with the Android ContentCapture service, building sessions and notifying view events while handling platform exceptions.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.graphics.Rect;

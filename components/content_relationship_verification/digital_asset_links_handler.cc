@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Asset Links handler implementation
+// summary: Implements requests to the Digital Asset Links web API to verify declared relationships between web domains and Android apps or WebAPK manifests.
+// ---
+
 #include "components/content_relationship_verification/digital_asset_links_handler.h"
 
 #include <optional>

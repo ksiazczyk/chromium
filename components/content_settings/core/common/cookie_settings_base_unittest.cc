@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieSettingsBase unit tests
+// summary: Unit tests for CookieSettingsBase covering cookie setting behavior such as session-only deletion using callback-based test settings.
+// ---
+
 #include "components/content_settings/core/common/cookie_settings_base.h"
 
 #include "base/functional/bind.h"

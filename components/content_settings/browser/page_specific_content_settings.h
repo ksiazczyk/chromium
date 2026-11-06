@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page-specific content settings header
+// summary: Declares PageSpecificContentSettings, a per-document class that tracks accessed and blocked content, site data access details, and observers.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_BROWSER_PAGE_SPECIFIC_CONTENT_SETTINGS_H_
 #define COMPONENTS_CONTENT_SETTINGS_BROWSER_PAGE_SPECIFIC_CONTENT_SETTINGS_H_
 

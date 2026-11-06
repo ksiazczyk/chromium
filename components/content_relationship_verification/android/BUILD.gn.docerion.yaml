@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for content relationship verification Android component
+summary: GN build file defining the Android Java library, Robolectric unit test support, and JNI header generation for the content relationship verification component.

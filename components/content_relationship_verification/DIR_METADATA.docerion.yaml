@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking component metadata
+summary: Declares the Monorail component and Buganizer component ID used for tracking issues in this directory.

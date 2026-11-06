@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the content settings common directory
+summary: Lists allowed header dependencies for the directory, covering Mojo, IPC, net cookie headers, and privacy sandbox features.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureSender class declaration
+// summary: Declares the RenderFrameObserver and WebContentCaptureClient that enables content capture in blink and sends results to the browser process.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_RENDERER_CONTENT_CAPTURE_SENDER_H_
 #define COMPONENTS_CONTENT_CAPTURE_RENDERER_CONTENT_CAPTURE_SENDER_H_
 

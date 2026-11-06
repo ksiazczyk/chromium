@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the nudge cap tracker
+// summary: Tests nudge eligibility capping with mock time, covering unrestricted mode, a three-nudges-per-24-hours cap, and retrieval of the most recent nudge time.
+// ---
+
 #include "components/contextual_cueing/nudge_cap_tracker.h"
 
 #include "base/test/task_environment.h"

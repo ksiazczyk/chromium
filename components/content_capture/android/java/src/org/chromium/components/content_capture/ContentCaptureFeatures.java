@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Content capture feature flag checks
+// summary: Queries native code for whether content capture is enabled and supports a command-line switch to dump captured content to logcat for testing.
+// ---
+
 package org.chromium.components.content_capture;
 
 import org.jni_zero.NativeMethods;

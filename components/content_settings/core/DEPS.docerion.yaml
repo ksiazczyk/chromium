@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content settings core DEPS include rules
+summary: Defines dependency rules for the content settings core directory, blocking external includes while allowing its common subcomponent.

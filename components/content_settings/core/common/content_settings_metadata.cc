@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuleMetaData implementation for content settings
+// summary: Implements the RuleMetaData class, including applying constraints, setting expiration and lifetime, expiry checks and lifetime computation for content setting rules.
+// ---
+
 #include "components/content_settings/core/common/content_settings_metadata.h"
 
 #include <stddef.h>

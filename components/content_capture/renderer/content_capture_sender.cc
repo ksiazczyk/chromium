@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content capture sender implementation for the renderer
+// summary: Implements the per-frame sender that receives captured and removed content from blink and forwards it to the browser process over Mojo.
+// ---
+
 #include "components/content_capture/renderer/content_capture_sender.h"
 
 #include <vector>

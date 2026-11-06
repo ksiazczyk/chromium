@@ -4,6 +4,12 @@
 
 // Interface for objects providing content setting rules.
 
+// ---docerion
+// type: source
+// title: Content settings provider interface
+// summary: Defines ProviderInterface, the base interface for objects that supply content setting rules and accept website setting updates.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_PROVIDER_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_PROVIDER_H_
 

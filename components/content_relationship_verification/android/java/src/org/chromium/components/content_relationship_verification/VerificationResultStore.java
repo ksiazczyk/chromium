@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Asset Link verification result store
+// summary: Stores results of Digital Asset Link verifications, managing persisted relationships plus non-persistent verification overrides in a singleton.
+// ---
+
 package org.chromium.components.content_relationship_verification;
 
 import androidx.annotation.VisibleForTesting;

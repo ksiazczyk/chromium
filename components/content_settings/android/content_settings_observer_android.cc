@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings observer Android implementation
+// summary: Implements the JNI bridge that forwards content setting changes from the native HostContentSettingsMap to the Java ContentSettingsObserver.
+// ---
+
 #include "components/content_settings/android/content_settings_observer_android.h"
 
 #include "base/android/jni_android.h"

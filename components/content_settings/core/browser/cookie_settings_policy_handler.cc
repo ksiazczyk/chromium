@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie settings policy handler implementation
+// summary: Applies the BlockThirdPartyCookies policy and the default cookie content setting to the cookie controls mode preference, including implicit blocking when cookies are blocked by policy.
+// ---
+
 #include "components/content_settings/core/browser/cookie_settings_policy_handler.h"
 
 #include "components/content_settings/core/browser/cookie_settings.h"

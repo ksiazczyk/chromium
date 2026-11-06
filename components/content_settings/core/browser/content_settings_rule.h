@@ -4,6 +4,12 @@
 
 // Interface for objects providing content setting rules.
 
+// ---docerion
+// type: source
+// title: Content settings rule interfaces
+// summary: Declares the Rule struct and RuleIterator interfaces, including ConcatenationIterator, used to iterate over content setting rules with patterns, values and metadata.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_RULE_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_RULE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host content settings map implementation
+// summary: Implements the per-profile service that maps hosts to content settings, wiring providers, observers, expiration handling, and preference registration.
+// ---
+
 #include "components/content_settings/core/browser/host_content_settings_map.h"
 
 #include <stddef.h>

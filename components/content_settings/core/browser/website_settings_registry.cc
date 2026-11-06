@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteSettingsRegistry implementation
+// summary: Implements the WebsiteSettingsRegistry singleton that registers website settings per platform, forces unsynced status on mobile, and supports lookup by type or name.
+// ---
+
 #include "components/content_settings/core/browser/website_settings_registry.h"
 
 #include <utility>

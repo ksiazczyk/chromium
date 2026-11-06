@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyProvider implementation for managed content settings
+// summary: Implements the policy-based content settings provider that maps managed preferences to default and per-URL settings, ordered from least to most restrictive policy.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_policy_provider.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the content settings browser component
+summary: GN build file defining the browser static library, the cookie_settings source set and unit tests with their sources and dependencies.

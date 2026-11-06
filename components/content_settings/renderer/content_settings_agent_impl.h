@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings agent class declaration
+// summary: Declares ContentSettingsAgentImpl, a per-RenderFrame agent of the browser content settings machinery with delegate hooks for allowlists and clipboard policy.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_RENDERER_CONTENT_SETTINGS_AGENT_IMPL_H_
 #define COMPONENTS_CONTENT_SETTINGS_RENDERER_CONTENT_SETTINGS_AGENT_IMPL_H_
 

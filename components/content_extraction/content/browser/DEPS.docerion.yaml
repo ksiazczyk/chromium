@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content extraction browser
+summary: Specifies allowed include directories for the content extraction browser folder, with an extra rule permitting content/shell in the browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings UMA utility implementation
+// summary: Implements histogram recording for content settings, mapping setting types to histogram values and logging setting changes by value such as allow, block and ask.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_uma_util.h"
 
 #include <functional>

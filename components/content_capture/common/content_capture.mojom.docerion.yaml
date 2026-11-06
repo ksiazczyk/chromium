@@ -1,0 +1,4 @@
+# Docerion header of content_capture.mojom.
+type: source
+title: ContentCapture Mojo IPC interface definitions
+summary: Defines the ContentCaptureReceiver and ContentCaptureSender Mojo interfaces used to send captured page content from the renderer to the browser.

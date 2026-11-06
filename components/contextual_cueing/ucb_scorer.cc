@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UCB scorer implementation
+// summary: Implements CalculateUCBScore, combining an exploit term from clicks and dismissals with an exploration bonus, using guardrails against invalid or zero inputs.
+// ---
+
 #include "components/contextual_cueing/ucb_scorer.h"
 
 #include <algorithm>

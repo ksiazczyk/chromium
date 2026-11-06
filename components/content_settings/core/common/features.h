@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings feature flag declarations
+// summary: Declares content settings feature flags and parameters, including approximate geolocation permission and storage access API features.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_FEATURES_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_FEATURES_H_
 

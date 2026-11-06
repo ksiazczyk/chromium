@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for inner text content extraction
+summary: Defines the browser static library target for inner text extraction along with its unit test and browser test source sets and their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task to remove captured content from the platform
+// summary: Notification task that tells the platform which captured content ids disappeared from a session via notifyViewsDisappeared.
+// ---
+
 package org.chromium.components.content_capture;
 
 import org.chromium.build.annotations.NullMarked;

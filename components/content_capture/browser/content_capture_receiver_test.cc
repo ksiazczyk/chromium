@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for ContentCaptureReceiver
+// summary: Parametrized unit tests covering capture, update, removal, session handling, title and favicon behavior, including back-forward cache scenarios.
+// ---
+
 #include "components/content_capture/browser/content_capture_receiver.h"
 
 #include "base/json/json_reader.h"

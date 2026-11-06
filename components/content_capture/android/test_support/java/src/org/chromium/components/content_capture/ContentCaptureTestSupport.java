@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ContentCaptureTestSupport
+// summary: Java test support class for the content capture component that disables favicon retrieval from web contents and simulates favicon URL updates through JNI native calls.
+// ---
+
 package org.chromium.components.content_capture;
 
 import org.jni_zero.JNINamespace;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for content settings common files
+summary: Delegates review of Mojom and trait files to the IPC security owners while leaving other files to default owners.

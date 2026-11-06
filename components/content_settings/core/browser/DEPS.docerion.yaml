@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the content settings browser directory
+summary: DEPS file listing the directories that code in the content settings core browser folder is allowed to include from.

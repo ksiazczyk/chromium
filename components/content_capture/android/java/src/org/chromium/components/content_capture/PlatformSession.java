@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSession
+// summary: Manages the Android platform content capture session, mapping frame IDs to ContentCaptureSession and AutofillId pairs.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.os.Build;

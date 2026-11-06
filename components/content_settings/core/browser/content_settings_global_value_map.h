@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global value map class declaration
+// summary: Declares a simplified value map for global content settings applying to all sites, leaving synchronization to the client.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_GLOBAL_VALUE_MAP_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_GLOBAL_VALUE_MAP_H_
 

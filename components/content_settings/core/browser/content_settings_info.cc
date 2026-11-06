@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings info implementation
+// summary: Implements per-type content settings metadata, including setting validation, default value checks and incognito inheritance behavior.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_info.h"
 
 #include <optional>

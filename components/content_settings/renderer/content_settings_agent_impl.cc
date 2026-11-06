@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings agent implementation
+// summary: Implements the renderer-side content settings agent that applies browser content settings rules per render frame, including storage access and clipboard checks.
+// ---
+
 #include "components/content_settings/renderer/content_settings_agent_impl.h"
 
 #include <utility>

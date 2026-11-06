@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI test support for simulating content capture favicon updates
+// summary: C++ JNI implementation that lets Java tests disable favicon fetching and simulate favicon URL updates through the content capture onscreen content provider.
+// ---
+
 #include <optional>
 #include <string>
 

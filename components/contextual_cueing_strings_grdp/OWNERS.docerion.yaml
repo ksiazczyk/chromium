@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Contextual cueing strings OWNERS file
+summary: OWNERS file that delegates ownership of the contextual cueing strings resources to components/contextual_cueing/OWNERS.

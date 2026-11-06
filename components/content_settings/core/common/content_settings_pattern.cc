@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsPattern implementation
+// summary: Implements the ContentSettingsPattern class, including scheme handling, domain comparison, pattern matching and precedence relations for content setting rules.
+// ---
+
 #include "components/content_settings/core/common/content_settings_pattern.h"
 
 #include <stddef.h>

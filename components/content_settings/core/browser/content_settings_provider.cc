@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProviderInterface default GetRule implementation
+// summary: Implements the default GetRule lookup for content settings providers by scanning rule iterators for a matching, unexpired rule.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_provider.h"
 
 #include "base/feature_list.h"

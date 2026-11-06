@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSettingsRegistry unit tests
+// summary: Tests registry lookups across platforms and verifies registered properties such as pref names, defaults, and schemes.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_registry.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for content settings mojo traits
+// summary: Verifies round-trip serialization of content settings patterns, enums, rule metadata and pattern sources through mojo.
+// ---
+
 #include "components/content_settings/core/common/content_settings_mojom_traits.h"
 
 #include "base/test/gtest_util.h"

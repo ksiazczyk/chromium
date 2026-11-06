@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsTypeSet Java counterpart of the C++ type set
+// summary: Java wrapper mirroring content_settings::ContentSettingsTypeSet that holds a single content settings type and reports whether it covers all types.
+// ---
+
 package org.chromium.components.content_settings;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserModifiableProvider base implementation
+// summary: Implements default ExpireWebsiteSetting and EnsureUpdatedSettings behavior shared by user-modifiable content settings providers.
+// ---
+
 #include "components/content_settings/core/browser/user_modifiable_provider.h"
 
 #include "base/functional/callback.h"

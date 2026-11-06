@@ -4,6 +4,12 @@
 
 // Patterns used in content setting rules.
 
+// ---docerion
+// type: source
+// title: ContentSettingsPattern class declaration
+// summary: Declares the ContentSettingsPattern class with pattern relations, scheme types, scopes and pattern parts used in content setting rules.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_PATTERN_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_PATTERN_H_
 
