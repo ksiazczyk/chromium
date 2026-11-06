@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local device name info struct and utility declarations
+// summary: Declares LocalDeviceNameInfo and functions for the local device's type, OS type, form factor and personalizable name used by the sync device info code.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_LOCAL_DEVICE_INFO_UTIL_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_LOCAL_DEVICE_INFO_UTIL_H_
 

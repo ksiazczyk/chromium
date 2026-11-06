@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the PrefToValueMapBridge JNI bridge class
+// summary: Declares the C++ PrefToValueMapBridge class that holds a Java reference and exposes methods for putting string, int, and boolean preference values.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_SYNCED_SET_UP_ANDROID_PREF_TO_VALUE_MAP_BRIDGE_H_
 #define COMPONENTS_SYNC_PREFERENCES_SYNCED_SET_UP_ANDROID_PREF_TO_VALUE_MAP_BRIDGE_H_
 

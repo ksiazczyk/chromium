@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session sync test helper
+// summary: Builds session header, window and tab specifics protobufs with configurable titles and URLs for use in session sync unit tests.
+// ---
+
 #include "components/sync_sessions/session_sync_test_helper.h"
 
 #include <stddef.h>

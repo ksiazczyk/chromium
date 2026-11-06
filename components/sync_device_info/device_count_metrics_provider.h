@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device count metrics provider header
+// summary: Declares DeviceCountMetricsProvider, which emits the number of active syncing devices on UMA upload.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_COUNT_METRICS_PROVIDER_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_COUNT_METRICS_PROVIDER_H_
 

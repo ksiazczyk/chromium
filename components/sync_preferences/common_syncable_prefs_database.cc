@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common syncable preferences database implementation
+// summary: Implements the database that maps cross-platform preference names to their syncable preference metadata.
+// ---
+
 #include "components/sync_preferences/common_syncable_prefs_database.h"
 
 #include <string_view>

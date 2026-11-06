@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device info sync service declarations
+// summary: Declares a fake DeviceInfoSyncService with fake tracker and local device provider for use in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_FAKE_DEVICE_INFO_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_FAKE_DEVICE_INFO_SYNC_SERVICE_H_
 

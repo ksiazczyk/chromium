@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent GUID preprocessing header
+// summary: Declares the function that populates missing parent GUIDs in bookmark sync updates and the enum used for UMA logging of GUID sources.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_PARENT_GUID_PREPROCESSING_H_
 #define COMPONENTS_SYNC_BOOKMARKS_PARENT_GUID_PREPROCESSING_H_
 

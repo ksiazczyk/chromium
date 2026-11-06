@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInfoProtoEnumUtil unit tests
+// summary: Unit tests verifying OS and form factor derivation from device type and round-trip conversions between DeviceInfo enums and sync protocol enums.
+// ---
+
 #include "components/sync_device_info/device_info_proto_enum_util.h"
 
 #include <utility>

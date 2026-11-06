@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device info sync service implementation
+// summary: Implements a fake DeviceInfoSyncService that exposes fake tracker, local provider and controller delegate for tests.
+// ---
+
 #include "components/sync_device_info/fake_device_info_sync_service.h"
 
 namespace syncer {

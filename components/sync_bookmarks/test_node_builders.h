@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test node builders declaration
+// summary: Declares UrlBuilder and FolderBuilder test helpers for conveniently and compactly building bookmark URL and folder nodes in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_TEST_NODE_BUILDERS_H_
 #define COMPONENTS_SYNC_BOOKMARKS_TEST_NODE_BUILDERS_H_
 

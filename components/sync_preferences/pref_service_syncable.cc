@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncable PrefService implementation
+// summary: Implements PrefServiceSyncable, a PrefService that associates preferences with sync and clears demographics prefs when sync is disabled.
+// ---
+
 #include "components/sync_preferences/pref_service_syncable.h"
 
 #include <utility>

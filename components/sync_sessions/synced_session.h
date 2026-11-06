@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSession data conversion declarations
+// summary: Declares helpers converting session objects to and from sync protos plus the SyncedSession and SyncedSessionWindow structs used by session sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SYNCED_SESSION_H_
 #define COMPONENTS_SYNC_SESSIONS_SYNCED_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS personalizable device name implementation
+// summary: ChromeOS implementation that maps the device type to a generic name such as Chromebook and uses it as the personalizable device name.
+// ---
+
 #include <string>
 
 #include "chromeos/constants/devicetype.h"

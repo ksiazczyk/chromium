@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark data type processor unit tests
+// summary: Unit tests for the bookmark sync data type processor, covering activation, commit requests, remote update application and metadata handling.
+// ---
+
 #include "components/sync_bookmarks/bookmark_data_type_processor.h"
 
 #include <map>

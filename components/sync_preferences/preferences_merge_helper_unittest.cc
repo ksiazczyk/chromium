@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preferences merge helper unit tests
+// summary: Unit tests for the preference merge helper, covering list and dictionary merging and splitting updates between local and account values.
+// ---
+
 #include "components/sync_preferences/preferences_merge_helper.h"
 
 #include <unordered_map>

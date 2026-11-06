@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSessionSyncService declaration
+// summary: Declares a GoogleMock implementation of SessionSyncService stubbing shutdown, id mapping, and foreign session subscriptions for tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_MOCK_SESSION_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_SESSIONS_MOCK_SESSION_SYNC_SERVICE_H_
 

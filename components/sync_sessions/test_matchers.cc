@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matchers for session sync entities
+// summary: Implements gmock matchers that verify session header and tab sync entities against expected tags, times, windows, tabs, and URLs.
+// ---
+
 #include "components/sync_sessions/test_matchers.h"
 
 #include "components/sessions/core/session_id.h"

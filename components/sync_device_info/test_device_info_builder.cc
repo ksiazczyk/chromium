@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestDeviceInfoBuilder implementation
+// summary: Implements a test builder that constructs DeviceInfo objects with sensible defaults derived from the OS type for use in tests.
+// ---
+
 #include "components/sync_device_info/test_device_info_builder.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context item sync bridge header
+// summary: Declares the commit-only sync bridge for encrypted tab context items, which uses container-specific encryption keys instead of sync's Nigori infrastructure.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_ITEM_SYNC_BRIDGE_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_ITEM_SYNC_BRIDGE_H_
 

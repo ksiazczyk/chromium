@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefServiceSyncable class header
+// summary: Declares PrefServiceSyncable, a PrefService subclass that syncs preferences and requires syncability to be declared when preferences are registered.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_SYNCABLE_H_
 #define COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_SYNCABLE_H_
 

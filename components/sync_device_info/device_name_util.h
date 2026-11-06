@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device display name utility declarations
+// summary: Declares helpers that compute display names for synced devices from client names, server-provided names and hardware heuristics.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_NAME_UTIL_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_NAME_UTIL_H_
 

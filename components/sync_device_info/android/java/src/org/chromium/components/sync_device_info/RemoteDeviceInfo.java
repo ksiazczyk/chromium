@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceInfo Java class
+// summary: Java class that mirrors the native syncer::RemoteDeviceInfo struct over JNI, holding device name, cache GUID, form factor, OS type and last active time.
+// ---
+
 package org.chromium.components.sync_device_info;
 
 import org.jni_zero.CalledByNative;

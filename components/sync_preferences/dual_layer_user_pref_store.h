@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dual layer user pref store interface
+// summary: Declares a two-layer pref store that overlays account-scoped preferences on local profile preferences for syncing.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_DUAL_LAYER_USER_PREF_STORE_H_
 #define COMPONENTS_SYNC_PREFERENCES_DUAL_LAYER_USER_PREF_STORE_H_
 

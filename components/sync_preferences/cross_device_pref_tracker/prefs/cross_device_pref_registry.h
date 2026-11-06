@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device preference registration declaration
+// summary: Declares RegisterProfilePrefs, which registers cross-device preferences as profile prefs, with no Local State equivalent.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_PREFS_CROSS_DEVICE_PREF_REGISTRY_H_
 #define COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_PREFS_CROSS_DEVICE_PREF_REGISTRY_H_
 

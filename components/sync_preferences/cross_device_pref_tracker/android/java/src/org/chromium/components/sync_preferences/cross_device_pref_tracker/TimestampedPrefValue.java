@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimestampedPrefValue
+// summary: Generic value object holding a preference value, its last observed change time and the source device's Sync cache GUID, with factory methods called from native code.
+// ---
+
 package org.chromium.components.sync_preferences.cross_device_pref_tracker;
 
 import org.jni_zero.CalledByNative;

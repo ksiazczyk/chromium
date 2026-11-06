@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenTabsUIDelegateImpl unit tests
+// summary: Unit tests verifying sorting of foreign sessions and tabs and other OpenTabsUIDelegateImpl behavior.
+// ---
+
 #include "components/sync_sessions/open_tabs_ui_delegate_impl.h"
 
 #include <vector>

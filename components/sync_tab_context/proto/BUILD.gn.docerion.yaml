@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the sync tab context proto library
+summary: Defines the proto_library build target for ephemeral_key_service.proto with dependencies on the sync protocol and timestamp protos.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing PrefServiceSyncable declaration
+// summary: Declares TestingPrefServiceSyncable, a test version of PrefServiceSyncable with injectable stores for unit tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_TESTING_PREF_SERVICE_SYNCABLE_H_
 #define COMPONENTS_SYNC_PREFERENCES_TESTING_PREF_SERVICE_SYNCABLE_H_
 

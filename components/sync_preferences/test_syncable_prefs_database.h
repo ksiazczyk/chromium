@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fake syncable prefs database declaration
+// summary: Declares TestSyncablePrefsDatabase, a test fake returning syncable preference metadata from an in-memory map.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_TEST_SYNCABLE_PREFS_DATABASE_H_
 #define COMPONENTS_SYNC_PREFERENCES_TEST_SYNCABLE_PREFS_DATABASE_H_
 

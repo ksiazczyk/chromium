@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionsGlobalIdMapper class declaration
+// summary: Declares the sessions implementation of GlobalIdMapper that tracks navigation IDs and resolves the latest global ID for a navigation.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SESSIONS_GLOBAL_ID_MAPPER_H_
 #define COMPONENTS_SYNC_SESSIONS_SESSIONS_GLOBAL_ID_MAPPER_H_
 

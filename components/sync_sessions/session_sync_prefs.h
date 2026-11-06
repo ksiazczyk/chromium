@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncPrefs header
+// summary: Declares SessionSyncPrefs, which persists whether local session data is out of sync so quick restarts do not wipe local tab data.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_PREFS_H_
 #define COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_PREFS_H_
 

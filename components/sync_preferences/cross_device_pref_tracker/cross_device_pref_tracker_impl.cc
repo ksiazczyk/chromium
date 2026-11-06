@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDevicePrefTrackerImpl implementation
+// summary: Implements the tracker, storing pref values in cross-device syncable dictionary prefs, computing service status, and adding Android JNI bindings.
+// ---
+
 // Enable VLOG level 1.
 #undef ENABLED_VLOG_LEVEL
 #define ENABLED_VLOG_LEVEL 1

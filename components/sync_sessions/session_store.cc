@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStore implementation
+// summary: Implements persistence and in-memory management of sync session entities, including storage key encoding and decoding.
+// ---
+
 #include "components/sync_sessions/session_store.h"
 
 #include <stdint.h>

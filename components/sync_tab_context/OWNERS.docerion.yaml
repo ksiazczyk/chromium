@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the sync tab context component
+summary: Delegates ownership to the sync component owners file and lists one additional owner email address.

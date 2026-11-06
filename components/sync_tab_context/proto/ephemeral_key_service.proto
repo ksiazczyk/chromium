@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ephemeral key service protobuf definitions
+// summary: Defines proto2 request and response messages for generating ephemeral keys, including an agile symmetric key set and creation and expiry timestamps.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

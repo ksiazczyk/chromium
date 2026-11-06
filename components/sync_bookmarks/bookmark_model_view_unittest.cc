@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model view unit tests
+// summary: Unit tests checking that BookmarkModelView exposes the correct permanent folders and identifies syncable nodes for local and account views.
+// ---
+
 #include "components/sync_bookmarks/bookmark_model_view.h"
 
 #include <memory>

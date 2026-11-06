@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfo class implementation
+// summary: Implements the DeviceInfo class that models properties of a synced device, including sharing and phone-as-a-security-key details.
+// ---
+
 #include "components/sync_device_info/device_info.h"
 
 #include <optional>

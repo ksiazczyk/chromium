@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local device info util unit tests
+// summary: Unit tests for GetPersonalizableDeviceNameBlocking, covering the default name and ChromeOS Chromebook and Chromebox device types.
+// ---
+
 #include "components/sync_device_info/local_device_info_util.h"
 
 #include <utility>

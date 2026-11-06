@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestDeviceInfoBuilder header
+// summary: Declares a fluent builder for creating syncer::DeviceInfo test objects with overridable properties such as GUID, OS type and sharing info.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_TEST_DEVICE_INFO_BUILDER_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_TEST_DEVICE_INFO_BUILDER_H_
 

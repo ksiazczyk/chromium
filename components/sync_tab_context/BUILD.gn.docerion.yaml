@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the sync tab context component
+summary: GN build file defining the constants, sync_tab_context, test_support and unit_tests targets with their sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for synced_set_up
+summary: Restricts header includes in this directory to the allowed cross-device pref name headers.

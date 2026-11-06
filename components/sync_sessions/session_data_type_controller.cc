@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionDataTypeController implementation
+// summary: Implements the sync data type controller for the SESSIONS type, delegating precondition checks to a history helper.
+// ---
+
 #include "components/sync_sessions/session_data_type_controller.h"
 
 #include <utility>

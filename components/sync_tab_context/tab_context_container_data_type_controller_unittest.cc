@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context container data type controller unit tests
+// summary: Unit tests verifying that the container data type controller enables sync only with a trusted vault passphrase and otherwise stops and clears data.
+// ---
+
 #include "components/sync_tab_context/tab_context_container_data_type_controller.h"
 
 #include <memory>

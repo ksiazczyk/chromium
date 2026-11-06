@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common cross-device pref provider implementation
+// summary: Implements the common provider that returns the platform-independent profile and local-state prefs tracked across devices.
+// ---
+
 #include "components/sync_preferences/cross_device_pref_tracker/common_cross_device_pref_provider.h"
 
 #include "base/no_destructor.h"

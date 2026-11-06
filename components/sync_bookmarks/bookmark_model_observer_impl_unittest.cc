@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model observer unit tests
+// summary: Unit tests verifying that BookmarkModelObserverImpl correctly tracks local bookmark additions, moves, removals, changes and deletions for sync.
+// ---
+
 
 #include "components/sync_bookmarks/bookmark_model_observer_impl.h"
 

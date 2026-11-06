@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionStore unit tests
+// summary: Unit tests covering SessionStore opening, entity persistence, metadata handling, and specifics validation.
+// ---
+
 #include "components/sync_sessions/session_store.h"
 
 #include <map>

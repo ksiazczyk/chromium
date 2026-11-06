@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local session event handler implementation
+// summary: Implements propagation of local tab and window changes into the synced session tracker and sync layer, including Android placeholder tab handling and UMA metrics.
+// ---
+
 #include "components/sync_sessions/local_session_event_handler_impl.h"
 
 #include <algorithm>

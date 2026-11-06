@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload outcome enum
+// summary: Defines the UploadOutcome enum that reports whether an asynchronous page context upload succeeded or failed.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_UPLOAD_OUTCOME_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_UPLOAD_OUTCOME_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInfoSyncBridge unit tests
+// summary: Unit tests for DeviceInfoSyncBridge covering merge of full sync data, incremental changes, commits, expiration, and device count tracking.
+// ---
+
 #include "components/sync_device_info/device_info_sync_bridge.h"
 
 #include <algorithm>

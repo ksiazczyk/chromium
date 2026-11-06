@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpRpcBasedEphemeralKeyFetcher class declaration
+// summary: Declares an EphemeralKeyFetcher implementation that uses IdentityManager OAuth2 tokens and HTTP POST RPCs to fetch ephemeral key sets.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_HTTP_RPC_BASED_EPHEMERAL_KEY_FETCHER_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_HTTP_RPC_BASED_EPHEMERAL_KEY_FETCHER_H_
 

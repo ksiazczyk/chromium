@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local device name and type utilities implementation
+// summary: Implements helpers that collect the local device's name info, device type, OS type and form factor, with platform-specific pieces defined elsewhere.
+// ---
+
 #include "components/sync_device_info/local_device_info_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InitialAccountBookmarkDeduplicator unit tests
+// summary: Unit tests covering deduplication of local bookmarks against account bookmarks, including duplicate URL and folder removal cases.
+// ---
+
 #include "components/sync_bookmarks/initial_account_bookmark_deduplicator.h"
 
 #include <memory>

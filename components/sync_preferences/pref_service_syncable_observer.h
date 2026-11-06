@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefServiceSyncableObserver interface
+// summary: Defines the observer interface notified when the syncing state of a syncable PrefService changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_SYNCABLE_OBSERVER_H_
 #define COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_SYNCABLE_OBSERVER_H_
 

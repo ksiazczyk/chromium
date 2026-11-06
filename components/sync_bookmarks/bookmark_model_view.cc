@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model view implementation
+// summary: Implements BookmarkModelView, a sync-focused wrapper around BookmarkModel that filters syncable nodes and delegates model operations.
+// ---
+
 #include "components/sync_bookmarks/bookmark_model_view.h"
 
 #include "base/check.h"

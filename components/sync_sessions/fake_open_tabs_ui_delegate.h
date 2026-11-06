@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake open tabs UI delegate declarations
+// summary: Declares the FakeOpenTabsUIDelegate class with helpers to add sessions and tabs for testing.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_FAKE_OPEN_TABS_UI_DELEGATE_H_
 #define COMPONENTS_SYNC_SESSIONS_FAKE_OPEN_TABS_UI_DELEGATE_H_
 

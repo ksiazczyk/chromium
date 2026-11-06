@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context container sync bridge implementation
+// summary: Implements the sync bridge for encrypted tab context containers, creating containers with random encryption keys and persisting their specifics in the data type store.
+// ---
+
 #include "components/sync_tab_context/tab_context_container_sync_bridge.h"
 
 #include <utility>

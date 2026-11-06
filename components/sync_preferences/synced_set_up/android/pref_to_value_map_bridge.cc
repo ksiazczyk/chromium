@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the PrefToValueMapBridge JNI bridge
+// summary: Implements the C++ side of the JNI bridge that creates the native bridge object and forwards string, int, and boolean preference writes to Java.
+// ---
+
 #include "components/sync_preferences/synced_set_up/android/pref_to_value_map_bridge.h"
 
 #include "base/android/jni_android.h"

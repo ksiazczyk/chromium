@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sync_device_info
+summary: Points to the shared sync component metadata through a mixin entry.

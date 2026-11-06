@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sync_sessions
+summary: Inherits common metadata from the components/sync directory via a mixin.

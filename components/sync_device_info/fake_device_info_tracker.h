@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device info tracker declarations
+// summary: Declares a fake DeviceInfoTracker for tests with methods to add, remove, replace devices and override counts and sync state.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_FAKE_DEVICE_INFO_TRACKER_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_FAKE_DEVICE_INFO_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the preference model associator
+// summary: Implements PrefModelAssociator, which merges local preferences with synced data and processes sync changes for preference data types.
+// ---
+
 #include "components/sync_preferences/pref_model_associator.h"
 
 #include <algorithm>

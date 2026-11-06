@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedWindowDelegatesGetter interface
+// summary: Interface for accessing SyncedWindowDelegate instances, with subclasses defining platform-specific lookup.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SYNCED_WINDOW_DELEGATES_GETTER_H_
 #define COMPONENTS_SYNC_SESSIONS_SYNCED_WINDOW_DELEGATES_GETTER_H_
 

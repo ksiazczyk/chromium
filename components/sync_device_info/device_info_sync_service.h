@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoSyncService interface header
+// summary: Declares the abstract keyed service for the DEVICE_INFO sync datatype, exposing local device info, the device tracker, the controller delegate, and local device info refresh.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_SYNC_SERVICE_H_
 

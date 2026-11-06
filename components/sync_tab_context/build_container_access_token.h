@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Container access token builder declaration
+// summary: Declares BuildContainerAccessToken, which returns a serialized token or nullopt when encryption of the container key set fails.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_BUILD_CONTAINER_ACCESS_TOKEN_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_BUILD_CONTAINER_ACCESS_TOKEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the preference model associator
+// summary: Declares PrefModelAssociator, the SyncableService containing all preference sync logic, and its PrefService interaction hooks.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_PREF_MODEL_ASSOCIATOR_H_
 #define COMPONENTS_SYNC_PREFERENCES_PREF_MODEL_ASSOCIATOR_H_
 

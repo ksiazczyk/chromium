@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit lint checks for sync_bookmarks
+# summary: Runs lint checks on sync_bookmarks C++ source files during upload and commit.
+# ---
+
 """Presubmit script for sync_bookmarks component.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

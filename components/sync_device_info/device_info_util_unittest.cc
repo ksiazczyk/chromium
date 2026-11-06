@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInfoUtil unit tests
+// summary: Unit tests verifying pulse delay calculation, the active device threshold, and round-tripping between client tags and cache GUIDs.
+// ---
+
 #include "components/sync_device_info/device_info_util.h"
 
 #include "base/time/time.h"

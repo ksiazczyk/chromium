@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device info tracker implementation
+// summary: Implements an in-memory fake DeviceInfoTracker that stores devices, notifies observers and supports test overrides.
+// ---
+
 #include "components/sync_device_info/fake_device_info_tracker.h"
 
 #include <algorithm>

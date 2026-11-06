@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark local data batch uploader implementation
+// summary: Implements description and migration of local bookmark data for account storage sync, including upload limits and related histogram metrics.
+// ---
+
 #include "components/sync_bookmarks/bookmark_local_data_batch_uploader.h"
 
 #include <algorithm>

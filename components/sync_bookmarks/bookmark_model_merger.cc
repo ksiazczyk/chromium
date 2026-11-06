@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model merger implementation
+// summary: Merges the local bookmark model with remote server updates on first sync, handling UUID duplicates and invalid updates with UMA metrics.
+// ---
+
 #include "components/sync_bookmarks/bookmark_model_merger.h"
 
 #include <algorithm>

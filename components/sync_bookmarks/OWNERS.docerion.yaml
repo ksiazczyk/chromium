@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for sync_bookmarks
+summary: Delegates code review ownership to the components/sync OWNERS file.

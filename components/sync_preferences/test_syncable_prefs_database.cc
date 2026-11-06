@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fake for the syncable prefs database
+// summary: Implements TestSyncablePrefsDatabase, a test fake that serves syncable preference metadata from a provided map.
+// ---
+
 #include "components/sync_preferences/test_syncable_prefs_database.h"
 
 #include <string_view>

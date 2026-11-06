@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device name utility implementation
+// summary: Builds localized, human-readable device names, detecting Windows auto-generated names and applying locale-aware title casing by form factor.
+// ---
+
 #include "components/sync_device_info/device_name_util.h"
 
 #include <optional>

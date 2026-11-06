@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark data type processor class declaration
+// summary: Declares the processor bridging the bookmark model with the sync engine, including metadata encoding and restore APIs.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_DATA_TYPE_PROCESSOR_H_
 

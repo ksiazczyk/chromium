@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device display name utility unit tests
+// summary: Unit tests verifying display name computation and duplicate-name disambiguation across Apple, Windows and ChromeOS devices.
+// ---
+
 #include "components/sync_device_info/device_name_util.h"
 
 #include <memory>

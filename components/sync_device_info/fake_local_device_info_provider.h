@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake local device info provider declarations
+// summary: Declares a fake MutableLocalDeviceInfoProvider for tests with mutable device info and initialization callbacks.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_FAKE_LOCAL_DEVICE_INFO_PROVIDER_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_FAKE_LOCAL_DEVICE_INFO_PROVIDER_H_
 

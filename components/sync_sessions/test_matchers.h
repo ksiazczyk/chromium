@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matcher declarations for session sync entities
+// summary: Declares gmock matchers for session headers, tabs, and synced sessions used to assert sync entity contents in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_TEST_MATCHERS_H_
 #define COMPONENTS_SYNC_SESSIONS_TEST_MATCHERS_H_
 

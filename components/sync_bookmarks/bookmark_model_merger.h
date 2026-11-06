@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model merger header
+// summary: Declares BookmarkModelMerger, which performs a best-effort merge of local and remote bookmark trees when bookmark sync is first enabled.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_MODEL_MERGER_H_
 #define COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_MODEL_MERGER_H_
 

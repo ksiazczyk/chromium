@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoPrefs implementation
+// summary: Implements DeviceInfoPrefs, which stores recently used local cache GUIDs with timestamps in preferences and garbage-collects expired or corrupt entries.
+// ---
+
 #include "components/sync_device_info/device_info_prefs.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced preference observer interface
+// summary: Defines the SyncedPrefObserver interface with callbacks for synced preference changes and initial syncing events.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_SYNCED_PREF_OBSERVER_H_
 #define COMPONENTS_SYNC_PREFERENCES_SYNCED_PREF_OBSERVER_H_
 

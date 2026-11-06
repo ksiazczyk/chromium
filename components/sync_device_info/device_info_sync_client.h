@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoSyncClient interface header
+// summary: Declares the interface clients of DeviceInfoSyncService implement to supply local device state such as FCM tokens, interested data types, sharing info, and Glic triggering details.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_SYNC_CLIENT_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_SYNC_CLIENT_H_
 

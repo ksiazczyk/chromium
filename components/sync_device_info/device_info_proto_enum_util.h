@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info proto enum conversion declarations
+// summary: Declares conversion functions between DeviceInfo and sync protocol enums for OS type, form factor, device type, SendTab receiving type, and sharing features.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_PROTO_ENUM_UTIL_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_PROTO_ENUM_UTIL_H_
 

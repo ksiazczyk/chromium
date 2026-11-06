@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Building container access tokens
+// summary: Implements BuildContainerAccessToken, which encrypts the container key set with a fetched ephemeral key into a serialized token proto.
+// ---
+
 #include "components/sync_tab_context/build_container_access_token.h"
 
 #include <cstdint>

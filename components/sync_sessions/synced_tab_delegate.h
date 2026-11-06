@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedTabDelegate interface
+// summary: Abstract interface insulating session sync code from WebContents, NavigationController, and the extensions TabHelper.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SYNCED_TAB_DELEGATE_H__
 #define COMPONENTS_SYNC_SESSIONS_SYNCED_TAB_DELEGATE_H__
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestBookmarkModelView class declaration
+// summary: Declares TestBookmarkModelView, a test BookmarkModelView wrapper with convenience AddFolder and AddURL overloads commonly used in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_TEST_BOOKMARK_MODEL_VIEW_H_
 #define COMPONENTS_SYNC_BOOKMARKS_TEST_BOOKMARK_MODEL_VIEW_H_
 

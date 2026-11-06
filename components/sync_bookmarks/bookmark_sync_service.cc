@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkSyncService implementation
+// summary: Implements the keyed service that owns the bookmark data type processor and exposes sync metadata encoding, decoding and controller delegate access.
+// ---
+
 #include "components/sync_bookmarks/bookmark_sync_service.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for cross-device pref tracker
+summary: Defines GN source sets for the cross-device pref tracker, its timestamped pref value helper, and unit tests, with Android-specific dependencies.

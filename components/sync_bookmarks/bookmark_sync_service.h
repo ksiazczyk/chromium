@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkSyncService class declaration
+// summary: Declares BookmarkSyncService, a keyed service owning the bookmark data type processor and exposing sync metadata tracking and model view accessors.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_SYNC_SERVICE_H_
 

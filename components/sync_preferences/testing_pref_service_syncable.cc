@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing PrefServiceSyncable implementation
+// summary: Implements TestingPrefServiceSyncable, a test version of PrefServiceSyncable built from injectable testing pref stores.
+// ---
+
 #include "components/sync_preferences/testing_pref_service_syncable.h"
 
 #include <memory>

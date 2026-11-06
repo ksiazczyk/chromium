@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent GUID preprocessing unit tests
+// summary: Unit tests verifying GUID lookup by sync ID, handling of permanent folders, and population of parent GUIDs in initial updates.
+// ---
+
 #include "components/sync_bookmarks/parent_guid_preprocessing.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device preference registration implementation
+// summary: Registers the cross-device dictionary preferences as syncable profile prefs in the given PrefRegistrySyncable.
+// ---
+
 #include "components/sync_preferences/cross_device_pref_tracker/prefs/cross_device_pref_registry.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

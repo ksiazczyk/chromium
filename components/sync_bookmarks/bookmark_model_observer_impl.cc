@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model observer implementation
+// summary: Observes local bookmark model changes and updates the synced bookmark tracker, nudging the sync engine to commit those changes.
+// ---
+
 #include "components/sync_bookmarks/bookmark_model_observer_impl.h"
 
 #include <utility>

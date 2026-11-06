@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDevicePrefTracker
+// summary: Java JNI counterpart to the C++ CrossDevicePrefTracker that notifies observers of remote preference changes and service status, and queries known pref values.
+// ---
+
 package org.chromium.components.sync_preferences.cross_device_pref_tracker;
 
 import org.jni_zero.CalledByNative;

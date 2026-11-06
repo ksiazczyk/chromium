@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the local device info provider implementation
+// summary: Unit tests for LocalDeviceInfoProviderImpl, covering initialization, client name updates and callbacks using a mocked DeviceInfoSyncClient.
+// ---
+
 #include "components/sync_device_info/local_device_info_provider_impl.h"
 
 #include <optional>

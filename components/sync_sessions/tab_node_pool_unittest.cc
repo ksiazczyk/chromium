@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab node pool unit tests
+// summary: Unit tests for TabNodePool covering tab node reassociation, freeing, cleanup, and max used tab node ID behavior.
+// ---
+
 #include "components/sync_sessions/tab_node_pool.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSyncSessionsClient declaration
+// summary: Declares a GoogleMock implementation of SyncSessionsClient with stubbed prefs, store factory, window delegates, and event router access.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_MOCK_SYNC_SESSIONS_CLIENT_H_
 #define COMPONENTS_SYNC_SESSIONS_MOCK_SYNC_SESSIONS_CLIENT_H_
 

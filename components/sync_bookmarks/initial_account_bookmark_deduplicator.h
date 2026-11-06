@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitialAccountBookmarkDeduplicator class declaration
+// summary: Declares InitialAccountBookmarkDeduplicator, which removes local bookmark subtrees duplicated in account storage upon initial sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_INITIAL_ACCOUNT_BOOKMARK_DEDUPLICATOR_H_
 #define COMPONENTS_SYNC_BOOKMARKS_INITIAL_ACCOUNT_BOOKMARK_DEDUPLICATOR_H_
 

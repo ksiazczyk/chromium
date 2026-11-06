@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimestampedPrefValue JNI bridge header
+// summary: Declares the TimestampedPrefValueBridge class that wraps a native TimestampedPrefValue as its Java counterpart for Android.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_ANDROID_TIMESTAMPED_PREF_VALUE_BRIDGE_ANDROID_H_
 #define COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_ANDROID_TIMESTAMPED_PREF_VALUE_BRIDGE_ANDROID_H_
 

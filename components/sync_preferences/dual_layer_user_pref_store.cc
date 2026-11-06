@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dual layer user pref store implementation
+// summary: Implements a pref store that combines local and account-scoped preferences with dual writes and merge handling.
+// ---
+
 #include "components/sync_preferences/dual_layer_user_pref_store.h"
 
 #include <optional>

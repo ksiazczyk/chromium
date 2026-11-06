@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context item sync bridge implementation
+// summary: Implements the commit-only ENCRYPTED_TAB_CONTEXT_ITEM sync bridge that uploads encrypted item blobs and tracks pending commits with completion callbacks.
+// ---
+
 #include "components/sync_tab_context/tab_context_item_sync_bridge.h"
 
 #include <utility>

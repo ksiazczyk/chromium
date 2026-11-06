@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for synced set up utilities
+summary: Defines GN source_set targets for the Synced Set Up utils and their unit tests, including platform-conditional Android dependencies.

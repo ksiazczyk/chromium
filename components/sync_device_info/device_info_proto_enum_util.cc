@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info proto enum conversion functions
+// summary: Implements conversion functions between DeviceInfo enums and sync protocol enums, including deriving OS type and form factor from the sync device type.
+// ---
+
 #include "components/sync_device_info/device_info_proto_enum_util.h"
 
 #include "base/notreached.h"

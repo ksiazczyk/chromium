@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpRpcBasedEphemeralKeyFetcher unit tests
+// summary: Unit tests for the HTTP RPC ephemeral key fetcher covering invalid server URLs, token fetch failures, HTTP errors and successful key responses.
+// ---
+
 #include "components/sync_tab_context/http_rpc_based_ephemeral_key_fetcher.h"
 
 #include <memory>

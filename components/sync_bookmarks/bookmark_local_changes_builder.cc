@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark local changes builder implementation
+// summary: Builds commit requests for locally changed or deleted bookmarks from the synced bookmark tracker, deferring entries until favicons are loaded.
+// ---
+
 #include "components/sync_bookmarks/bookmark_local_changes_builder.h"
 
 #include <memory>

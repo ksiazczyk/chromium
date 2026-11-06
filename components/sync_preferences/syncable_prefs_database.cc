@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncablePrefsDatabase implementation
+// summary: Implements SyncablePrefsDatabase methods that query whether preferences are syncable, mergeable or always syncing.
+// ---
+
 #include "components/sync_preferences/syncable_prefs_database.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local device info provider implementation class declaration
+// summary: Declares LocalDeviceInfoProviderImpl, the MutableLocalDeviceInfoProvider that builds and exposes the local device's DeviceInfo for sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_LOCAL_DEVICE_INFO_PROVIDER_IMPL_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_LOCAL_DEVICE_INFO_PROVIDER_IMPL_H_
 

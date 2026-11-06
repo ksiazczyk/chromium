@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpRpcBasedEphemeralKeyFetcher implementation
+// summary: Implements fetching of ephemeral key sets by obtaining an OAuth2 access token and issuing an HTTP POST RPC to the ephemeral key server.
+// ---
+
 #include "components/sync_tab_context/http_rpc_based_ephemeral_key_fetcher.h"
 
 #include <utility>

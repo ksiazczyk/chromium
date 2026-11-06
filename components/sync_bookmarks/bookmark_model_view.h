@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model view header
+// summary: Declares BookmarkModelView, an abstraction exposing the minimal bookmark model API needed by sync and mapping local or account permanent folders.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_MODEL_VIEW_H_
 #define COMPONENTS_SYNC_BOOKMARKS_BOOKMARK_MODEL_VIEW_H_
 

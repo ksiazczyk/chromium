@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncTestHelper class declaration
+// summary: Declares static helpers that build SessionSpecifics headers, windows and tabs for use in session sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_TEST_HELPER_H_
 #define COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_TEST_HELPER_H_
 

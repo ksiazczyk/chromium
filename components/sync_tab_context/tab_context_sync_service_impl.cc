@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context sync service implementation
+// summary: Implements the tab context sync service, compressing and encrypting page context on a background thread before uploading it through the container and item sync bridges.
+// ---
+
 #include "components/sync_tab_context/tab_context_sync_service_impl.h"
 
 #include <utility>

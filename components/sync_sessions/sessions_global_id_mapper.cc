@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionsGlobalIdMapper implementation
+// summary: Implements tracking of navigation global IDs, mapping them to unique IDs, notifying observers of changes and cleaning up old entries.
+// ---
+
 #include "components/sync_sessions/sessions_global_id_mapper.h"
 
 #include <map>
