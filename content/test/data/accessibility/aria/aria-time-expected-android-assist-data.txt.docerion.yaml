@@ -1,0 +1,4 @@
+# Docerion header of aria-time-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-time test
+summary: Expected Android assist data snapshot describing the accessibility tree produced by the aria-time test page.

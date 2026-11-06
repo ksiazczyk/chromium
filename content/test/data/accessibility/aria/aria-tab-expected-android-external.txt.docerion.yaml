@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-expected-android-external.txt.
+type: test
+title: ARIA tab expected Android external tree
+summary: Expected Android external accessibility tree snapshot for the ARIA tab test, listing a tab list with two clickable tabs and their actions.

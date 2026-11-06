@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-mac.txt.
+type: test
+title: Expected macOS accessibility output for the ARIA switch test
+summary: Expected macOS accessibility tree for the ARIA switch test page, showing switches as AXCheckBox with AXSwitch subrole and their values.

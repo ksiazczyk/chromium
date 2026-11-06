@@ -1,0 +1,4 @@
+# Docerion header of aria-set-counts-with-tree-levels-expected-blink.txt.
+type: test
+title: ARIA set counts with tree levels expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the tree-levels test, showing hierarchicalLevel, setSize and posInSet for tree items.

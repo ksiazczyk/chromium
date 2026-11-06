@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for nested ARIA textbox test
+summary: Expected macOS accessibility tree for the nested ARIA textbox test, with AXTextField, AXTextArea, AXGroup and AXStaticText nodes.

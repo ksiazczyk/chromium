@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-expected-android-assist-data.txt.
+type: test
+title: aria-slider expected android assist data output
+summary: Expected Android assist data snapshot for the aria-slider test, showing a SeekBar with aria value attributes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for nested ARIA textbox test
+summary: Expected Android assist data dump for the nested ARIA textbox test, describing EditText and TextView nodes with roles and aria-labels.

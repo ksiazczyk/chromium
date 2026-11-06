@@ -1,0 +1,4 @@
+# Docerion header of aria-togglebutton-expected-win.txt.
+type: test
+title: ARIA toggle button expected accessibility tree for Windows
+summary: Expected Windows accessibility tree for the ARIA toggle button test, showing IA2 toggle button roles with pressed and mixed states.

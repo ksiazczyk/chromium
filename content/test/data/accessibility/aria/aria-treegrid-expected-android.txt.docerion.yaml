@@ -1,0 +1,4 @@
+# Docerion header of aria-treegrid-expected-android.txt.
+type: test
+title: aria-treegrid expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-treegrid test, describing grid views, rows and collection items with row and column indices.

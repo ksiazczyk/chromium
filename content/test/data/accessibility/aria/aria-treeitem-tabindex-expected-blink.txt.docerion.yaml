@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-tabindex-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for treeitem tabindex
+summary: Expected Blink accessibility tree dump for the treeitem tabindex test, showing tree items named Cat and Dog with set size and position values.

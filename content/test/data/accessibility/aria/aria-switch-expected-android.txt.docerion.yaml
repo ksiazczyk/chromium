@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the ARIA switch test
+summary: Expected Android accessibility tree dump for the ARIA switch test page showing four switches and their checked states.

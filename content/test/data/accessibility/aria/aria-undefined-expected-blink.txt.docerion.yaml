@@ -1,0 +1,4 @@
+# Docerion header of aria-undefined-expected-blink.txt.
+type: test
+title: aria-undefined expected Blink output
+summary: Expected Blink accessibility tree for the aria-undefined test, showing resulting roles and states when ARIA attributes are absent.

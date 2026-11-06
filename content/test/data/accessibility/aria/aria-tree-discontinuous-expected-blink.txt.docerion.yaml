@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-blink.txt.
+type: test
+title: aria-tree-discontinuous expected Blink tree output
+summary: Expected Blink internal accessibility tree snapshot for the discontinuous tree test with two tree items.

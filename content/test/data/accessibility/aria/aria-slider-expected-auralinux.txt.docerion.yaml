@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-expected-auralinux.txt.
+type: test
+title: aria-slider expected auralinux output
+summary: Expected Linux accessibility tree snapshot for the aria-slider test, showing a horizontal slider with current, minimum and maximum values.

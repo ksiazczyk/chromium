@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-android-assist-data.txt.
+type: test
+title: ARIA sort on ARIA grid expected Android assist data
+summary: Expected Android assist data snapshot for the aria-sort grid test, covering grids with column headers in various sort states.

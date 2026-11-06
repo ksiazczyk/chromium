@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for nested treeitem lists
+summary: Expected Aura Linux accessibility tree dump for the nested treeitem test, showing tree and tree item nodes with setsize and posinset values.

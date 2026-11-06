@@ -1,0 +1,4 @@
+# Docerion header of aria-undefined.html.
+type: test
+title: aria-undefined test page
+summary: HTML test page covering boolean and token ARIA attributes left unset, to verify default behavior matches the literal undefined test.

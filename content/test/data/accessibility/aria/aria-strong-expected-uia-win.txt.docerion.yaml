@@ -1,0 +1,4 @@
+# Docerion header of aria-strong-expected-uia-win.txt.
+type: test
+title: aria-strong expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree snapshot for the aria-strong test, showing how the strong role and strong elements are exposed on Windows.

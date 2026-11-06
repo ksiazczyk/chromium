@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-selection-expected-android.txt.
+type: test
+title: Expected Android accessibility output for textbox selection test
+summary: Expected Android accessibility tree snapshot for the ARIA textbox with selection test, showing single-line and multiline editable text fields.

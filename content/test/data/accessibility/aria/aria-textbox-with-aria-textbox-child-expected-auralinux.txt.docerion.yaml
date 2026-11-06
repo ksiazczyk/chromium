@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for nested ARIA textbox test
+summary: Expected Linux accessibility tree for the nested ARIA textbox test, showing entries, paragraphs and editable multi-line states.

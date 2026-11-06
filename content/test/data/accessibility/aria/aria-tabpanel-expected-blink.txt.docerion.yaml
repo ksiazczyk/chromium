@@ -1,0 +1,4 @@
+# Docerion header of aria-tabpanel-expected-blink.txt.
+type: test
+title: ARIA tabpanel expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree output for the ARIA tabpanel test, covering tab list, tabs, headings, static text and the tab panel.

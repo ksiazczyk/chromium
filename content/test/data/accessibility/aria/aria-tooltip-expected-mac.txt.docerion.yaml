@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-mac.txt.
+type: test
+title: aria-tooltip expected macOS accessibility tree
+summary: Expected macOS accessibility tree output for the aria tooltip test with custom content on the text field and a tooltip group.

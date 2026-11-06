@@ -1,0 +1,4 @@
+# Docerion header of aria-set-counts-with-hidden-items-expected-blink.txt.
+type: test
+title: ARIA set counts with hidden items expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the hidden-items test, showing setSize and posInSet values for list options including hidden ones.

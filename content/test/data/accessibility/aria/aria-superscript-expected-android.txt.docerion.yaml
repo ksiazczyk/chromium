@@ -1,0 +1,4 @@
+# Docerion header of aria-superscript-expected-android.txt.
+type: test
+title: aria-superscript expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-superscript test page.

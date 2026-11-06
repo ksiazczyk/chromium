@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-android-assist-data.txt.
+type: test
+title: ARIA setsize expected Android assist data
+summary: Expected Android assist data snapshot for the aria-setsize test page, showing listbox and option views with set size attributes.

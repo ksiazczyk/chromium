@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-expected-blink.txt.
+type: test
+title: ARIA tab expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the ARIA tab test with a tab list containing two tab nodes and static text.

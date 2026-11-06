@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the ARIA tablist test
+summary: Expected Windows accessibility tree dump for the ARIA tablist test page, mapping tablist and tab roles with horizontal state.

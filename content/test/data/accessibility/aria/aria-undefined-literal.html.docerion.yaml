@@ -1,0 +1,4 @@
+# Docerion header of aria-undefined-literal.html.
+type: test
+title: aria-undefined-literal test page
+summary: HTML test page setting every boolean and token ARIA attribute to the undefined string literal to verify it is treated as undefined.

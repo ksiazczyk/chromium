@@ -1,0 +1,4 @@
+# Docerion header of aria-timer-expected-blink.txt.
+type: test
+title: aria-timer expected Blink output
+summary: Expected Blink accessibility tree snapshot for the aria timer role test.

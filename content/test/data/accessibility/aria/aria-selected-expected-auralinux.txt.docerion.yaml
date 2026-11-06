@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-expected-auralinux.txt.
+type: test
+title: Expected auralinux accessibility tree for aria-selected
+summary: Expected accessibility tree snapshot for the aria-selected test on Linux, showing list items with selected and selectable states.

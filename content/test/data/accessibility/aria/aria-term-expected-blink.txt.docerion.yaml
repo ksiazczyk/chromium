@@ -1,0 +1,4 @@
+# Docerion header of aria-term-expected-blink.txt.
+type: test
+title: aria-term expected accessibility tree for Blink
+summary: Expected Blink internal accessibility tree for the aria-term test, listing term and definition nodes with static text and inline text boxes.

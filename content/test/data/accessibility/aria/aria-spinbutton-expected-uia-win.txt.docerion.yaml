@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-expected-uia-win.txt.
+type: test
+title: ARIA spinbutton expected Windows UIA output
+summary: Expected Windows UIA accessibility tree snapshot for the ARIA spinbutton test page, with spinner range value properties.

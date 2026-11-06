@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child.html.
+type: test
+title: ARIA textbox with nested textbox child test page
+summary: HTML test fixture with nested role=textbox elements mixing editable and non-editable children, used to verify accessibility tree behavior across platforms.

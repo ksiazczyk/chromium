@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-android.txt.
+type: test
+title: aria-tree-discontinuous expected Android output
+summary: Expected Android accessibility snapshot for the discontinuous tree test showing two tree items named card content.

@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-expected-android.txt.
+type: test
+title: aria-textbox expected Android tree
+summary: Expected Android accessibility tree for the aria-textbox test, describing two clickable, editable multiline EditText fields.

@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemin-expected-android-external.txt.
+type: test
+title: aria-valuemin expected Android external output
+summary: Expected Android accessibility tree in external format for the aria-valuemin test page, listing RangeInfo for progressbar, scrollbar, slider and spinbutton roles.

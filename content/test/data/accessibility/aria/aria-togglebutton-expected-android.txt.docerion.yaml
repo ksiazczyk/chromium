@@ -1,0 +1,4 @@
+# Docerion header of aria-togglebutton-expected-android.txt.
+type: test
+title: ARIA toggle button expected accessibility tree for Android
+summary: Expected Android accessibility tree for the ARIA toggle button test, listing a regular button and toggle buttons with false, true and mixed checked states.

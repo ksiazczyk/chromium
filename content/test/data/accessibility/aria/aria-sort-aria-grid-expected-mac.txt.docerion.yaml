@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-mac.txt.
+type: test
+title: ARIA sort on ARIA grid expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree for the aria-sort grid test, including AXSortDirection values for sorted headers.

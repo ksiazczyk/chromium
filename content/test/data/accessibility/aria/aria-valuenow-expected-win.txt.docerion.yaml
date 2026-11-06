@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-win.txt.
+type: test
+title: aria-valuenow expected Windows output
+summary: Expected Windows accessibility tree snapshot for the aria-valuenow test page, with a progressbar role and current value 3.

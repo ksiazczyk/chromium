@@ -1,0 +1,4 @@
+# Docerion header of aria-time-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the aria-time test
+summary: Expected Blink accessibility tree snapshot for the aria-time test page.

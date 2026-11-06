@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-expected-win.txt.
+type: test
+title: ARIA slider expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility output for the ARIA slider test page, including slider value and min/max range.

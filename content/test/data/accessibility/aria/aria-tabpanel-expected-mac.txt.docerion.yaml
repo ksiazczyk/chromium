@@ -1,0 +1,4 @@
+# Docerion header of aria-tabpanel-expected-mac.txt.
+type: test
+title: ARIA tabpanel expected macOS accessibility tree
+summary: Expected macOS accessibility tree output for the ARIA tabpanel test, with a tab group of tab buttons, headings and an AXTabPanel containing static text.

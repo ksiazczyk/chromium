@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-expected-mac.txt.
+type: test
+title: ARIA slider expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree output for the ARIA slider test page, showing a slider with value 5.

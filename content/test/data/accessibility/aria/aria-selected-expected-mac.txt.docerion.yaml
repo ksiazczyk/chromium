@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for aria-selected
+summary: Expected macOS AX tree output for the aria-selected test, showing selected states on a list and its static text children.

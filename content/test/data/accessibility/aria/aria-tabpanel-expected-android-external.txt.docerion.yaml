@@ -1,0 +1,4 @@
+# Docerion header of aria-tabpanel-expected-android-external.txt.
+type: test
+title: ARIA tabpanel expected Android external accessibility tree
+summary: Expected Android WebView accessibility tree output for the ARIA tabpanel test, listing tab list, tab, heading and tab panel roles in the external bundle format.

@@ -1,0 +1,4 @@
+# Docerion header of aria-time-expected-win.txt.
+type: test
+title: Expected Windows IA2 output for the aria-time test
+summary: Expected Windows IA2 accessibility tree snapshot for the aria-time test page.

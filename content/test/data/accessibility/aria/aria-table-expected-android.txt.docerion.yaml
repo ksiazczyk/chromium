@@ -1,0 +1,4 @@
+# Docerion header of aria-table-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for ARIA table
+summary: Expected Android accessibility tree snapshot for the ARIA table test page with rows, cells and column headers.

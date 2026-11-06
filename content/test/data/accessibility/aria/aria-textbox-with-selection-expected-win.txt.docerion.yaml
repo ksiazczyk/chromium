@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-selection-expected-win.txt.
+type: test
+title: Expected Windows accessibility output for textbox selection test
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the ARIA textbox with selection test, including selection ranges and caret offsets.

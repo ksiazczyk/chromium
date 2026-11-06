@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-android-assist-data.txt.
+type: test
+title: aria-treeitem nested in lists expected Android assist data
+summary: Expected Android assist data snapshot for the aria-treeitem-nested-in-lists test, showing tree and treeitem roles with position, set size and level info.

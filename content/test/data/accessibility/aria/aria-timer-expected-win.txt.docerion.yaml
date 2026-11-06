@@ -1,0 +1,4 @@
+# Docerion header of aria-timer-expected-win.txt.
+type: test
+title: aria-timer expected Windows output
+summary: Expected Windows accessibility tree snapshot for the aria timer role test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for the ARIA tablist test
+summary: Expected Linux accessibility tree dump for the ARIA tablist test page, showing horizontal tab lists with setsize and posinset values.

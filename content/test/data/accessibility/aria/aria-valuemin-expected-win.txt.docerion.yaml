@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemin-expected-win.txt.
+type: test
+title: aria-valuemin expected output for Windows
+summary: Expected Windows accessibility tree for the aria-valuemin test page, listing progressbar, scrollbar, slider and spinbutton roles with their minimum values.

@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for the ARIA switch test
+summary: Expected Linux accessibility tree for the ARIA switch test page, listing toggle buttons with the switch role and their checked state.

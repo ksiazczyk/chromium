@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-win.txt.
+type: test
+title: aria-tooltip expected Windows accessibility output
+summary: Expected Windows accessibility tree snapshot for the aria tooltip test, showing a text field with a tooltip description.

@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemax-expected-win.txt.
+type: test
+title: aria-valuemax expected Windows output
+summary: Expected Windows accessibility tree for the aria-valuemax test page, listing role, value and maximumValue for progressbar, scrollbar, slider and spinbutton roles.

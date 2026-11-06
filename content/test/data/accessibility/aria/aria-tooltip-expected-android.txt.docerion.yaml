@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-android.txt.
+type: test
+title: aria-tooltip expected Android accessibility tree
+summary: Expected Android accessibility tree output for the aria tooltip test with an editable text field and a tooltip view.

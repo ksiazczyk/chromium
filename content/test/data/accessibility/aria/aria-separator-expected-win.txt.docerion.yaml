@@ -1,0 +1,4 @@
+# Docerion header of aria-separator-expected-win.txt.
+type: test
+title: ARIA separator expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree snapshot for the ARIA separator test, including separator roles, states and current values.

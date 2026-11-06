@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for nested treeitem lists
+summary: Expected Android accessibility tree dump for the nested treeitem test, listing tree and tree item nodes with item counts, row indices and nested schedule tasks.

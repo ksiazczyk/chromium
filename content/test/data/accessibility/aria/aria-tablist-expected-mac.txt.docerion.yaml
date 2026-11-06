@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the ARIA tablist test
+summary: Expected macOS AX tree dump for the ARIA tablist test page, with tab groups and tab buttons at each nesting level.

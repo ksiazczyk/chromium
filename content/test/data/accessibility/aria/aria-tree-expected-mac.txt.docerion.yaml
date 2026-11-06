@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expected-mac.txt.
+type: test
+title: ARIA tree expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the aria-tree test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the ARIA tablist test
+summary: Expected Blink internal accessibility tree for the ARIA tablist test page, including tabList and tab nodes with setSize and posInSet.

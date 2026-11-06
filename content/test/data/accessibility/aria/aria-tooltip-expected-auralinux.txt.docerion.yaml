@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-auralinux.txt.
+type: test
+title: aria-tooltip expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree output for the aria tooltip test, showing the entry and tooltip relation.

@@ -1,0 +1,4 @@
+# Docerion header of aria-two-owners-remove-one-expected-blink.txt.
+type: test
+title: aria-two-owners-remove-one expected Blink output
+summary: Expected Blink accessibility tree snapshot after one of two aria-owns owners is removed in the aria-two-owners-remove-one test.

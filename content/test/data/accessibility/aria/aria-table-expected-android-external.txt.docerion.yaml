@@ -1,0 +1,4 @@
+# Docerion header of aria-table-expected-android-external.txt.
+type: test
+title: Expected Android external output for ARIA table
+summary: Expected Android external accessibility output describing the ARIA table test page with collection and header information.

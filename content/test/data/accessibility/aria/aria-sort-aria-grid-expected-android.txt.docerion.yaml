@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-android.txt.
+type: test
+title: ARIA sort on ARIA grid expected Android output
+summary: Expected Android accessibility tree dump for the aria-sort grid test with grids, headers and cells in different sort states.

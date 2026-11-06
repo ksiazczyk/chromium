@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-expected-blink.txt.
+type: test
+title: aria-textbox expected accessibility tree for Blink
+summary: Expected Blink internal accessibility tree for the aria-textbox test, describing multiline text fields with static and inline text boxes.

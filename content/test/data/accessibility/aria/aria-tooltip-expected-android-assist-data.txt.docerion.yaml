@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-android-assist-data.txt.
+type: test
+title: aria-tooltip expected Android assist data
+summary: Expected Android assist data output for the aria tooltip test, showing an input described by a tooltip element.

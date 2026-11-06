@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-expected-blink.txt.
+type: test
+title: aria-slider expected Blink output
+summary: Expected Blink accessibility tree dump for the aria-slider test, showing a slider with valueForRange and min/max range values.

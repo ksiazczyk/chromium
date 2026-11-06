@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expected-win.txt.
+type: test
+title: ARIA tree expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the aria-tree test page.

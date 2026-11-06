@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-auralinux.txt.
+type: test
+title: aria-setsize expected auralinux output
+summary: Expected Linux accessibility tree snapshot for the aria-setsize test, showing list boxes with posinset and setsize values.

@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-android-external.txt.
+type: test
+title: ARIA sort on ARIA grid expected Android external output
+summary: Expected Android external accessibility output for the aria-sort grid test, including collection item and sort direction info.

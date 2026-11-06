@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-selected
+summary: Expected Windows role-based accessibility tree for the aria-selected test, showing list items with SELECTED and FOCUSABLE states.

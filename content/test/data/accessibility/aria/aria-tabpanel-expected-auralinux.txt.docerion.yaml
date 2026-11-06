@@ -1,0 +1,4 @@
+# Docerion header of aria-tabpanel-expected-auralinux.txt.
+type: test
+title: ARIA tabpanel expected Linux accessibility tree
+summary: Expected Linux accessibility tree output for the ARIA tabpanel test, showing tab list, selectable tabs, headings and a labelled scroll pane for the panel.

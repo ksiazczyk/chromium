@@ -1,0 +1,4 @@
+# Docerion header of aria-subscript-expected-auralinux.txt.
+type: test
+title: aria-subscript expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the aria-subscript test, including text-position=sub annotations on nodes.

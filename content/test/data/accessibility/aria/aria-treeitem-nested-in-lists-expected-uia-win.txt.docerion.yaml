@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for nested treeitem lists
+summary: Expected UIA Windows accessibility tree dump for the nested treeitem test, showing tree and tree item elements with selection and expand-collapse states.

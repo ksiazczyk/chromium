@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-html-table-expected-mac.txt.
+type: test
+title: aria-sort HTML table expected macOS tree
+summary: Expected macOS accessibility tree snapshot with AXSortDirection values for the aria-sort HTML table test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-term-expected-android-assist-data.txt.
+type: test
+title: ARIA term expected Android assist data
+summary: Expected Android assist data snapshot for the ARIA term test, showing term and definition roles within a list.

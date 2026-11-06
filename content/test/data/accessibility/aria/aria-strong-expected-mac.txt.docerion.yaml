@@ -1,0 +1,4 @@
+# Docerion header of aria-strong-expected-mac.txt.
+type: test
+title: aria-strong expected output for Mac
+summary: Expected macOS accessibility tree snapshot for the aria-strong test, showing AXStrongStyleGroup nodes for strong elements with and without names.

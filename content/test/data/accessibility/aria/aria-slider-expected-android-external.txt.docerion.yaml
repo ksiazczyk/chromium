@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-expected-android-external.txt.
+type: test
+title: aria-slider expected android external output
+summary: Expected Android external accessibility snapshot for the aria-slider test, showing a SeekBar with range info and actions.

@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-non-text-children-expected-mac.txt.
+type: test
+title: ARIA textbox with non-text children expected macOS results
+summary: Expected macOS AX accessibility tree snapshot for the ARIA textbox with non-text children accessibility test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemin-expected-android.txt.
+type: test
+title: aria-valuemin expected Android output
+summary: Expected Android accessibility tree for the aria-valuemin test page, showing range min, max and current values for progressbar, scrollbar, slider and spinbutton roles.

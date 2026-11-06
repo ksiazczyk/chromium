@@ -1,0 +1,4 @@
+# Docerion header of aria-togglebutton-expected-mac.txt.
+type: test
+title: ARIA toggle button expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the ARIA toggle button test, showing AXToggleButton checkboxes with values 0, 1 and 2.

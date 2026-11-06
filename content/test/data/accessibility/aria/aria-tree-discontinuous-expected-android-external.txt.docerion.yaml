@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-android-external.txt.
+type: test
+title: aria-tree-discontinuous expected Android external output
+summary: Expected Android external accessibility snapshot for the discontinuous tree test with hierarchical collection info for tree items.

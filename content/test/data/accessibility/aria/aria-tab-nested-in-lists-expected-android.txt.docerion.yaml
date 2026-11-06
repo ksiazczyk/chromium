@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-nested-in-lists-expected-android.txt.
+type: test
+title: ARIA tab nested in lists expected Android tree
+summary: Expected Android accessibility tree snapshot for the ARIA tab nested in lists test with four clickable tabs in a tab list collection.

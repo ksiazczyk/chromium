@@ -1,0 +1,4 @@
+# Docerion header of aria-undefined-literal-expected-blink.txt.
+type: test
+title: aria-undefined-literal expected Blink output
+summary: Expected Blink accessibility tree for the aria-undefined-literal test, where ARIA attributes are explicitly set to the string undefined.

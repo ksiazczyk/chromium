@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the ARIA tablist test
+summary: Expected Android assist data snapshot for the ARIA tablist test page, describing the widget hierarchy and text of tabs at each nesting level.

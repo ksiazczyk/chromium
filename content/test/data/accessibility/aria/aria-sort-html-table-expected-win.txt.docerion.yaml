@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-html-table-expected-win.txt.
+type: test
+title: aria-sort HTML table expected Windows tree
+summary: Expected Windows accessibility tree snapshot with sort properties for the aria-sort HTML table test.

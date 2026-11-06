@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expected-blink.txt.
+type: test
+title: ARIA tree expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-tree test page.

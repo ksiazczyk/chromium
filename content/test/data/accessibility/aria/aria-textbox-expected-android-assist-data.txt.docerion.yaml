@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-expected-android-assist-data.txt.
+type: test
+title: aria-textbox expected Android assist data
+summary: Expected Android assist data dump for the aria-textbox test, showing editable plaintext-only textbox elements with aria-multiline attributes.

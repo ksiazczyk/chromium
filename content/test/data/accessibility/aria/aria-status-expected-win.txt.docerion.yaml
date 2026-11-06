@@ -1,0 +1,4 @@
+# Docerion header of aria-status-expected-win.txt.
+type: test
+title: aria-status expected output for Windows
+summary: Expected Windows accessibility tree snapshot for the aria-status test, showing status bar roles and live region properties.

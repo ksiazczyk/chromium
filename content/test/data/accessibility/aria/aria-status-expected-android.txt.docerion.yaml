@@ -1,0 +1,4 @@
+# Docerion header of aria-status-expected-android.txt.
+type: test
+title: ARIA status expected Android output
+summary: Expected Android accessibility tree snapshot for the ARIA status test page, showing status role views with live region types.

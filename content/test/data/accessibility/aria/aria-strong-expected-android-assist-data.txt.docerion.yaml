@@ -1,0 +1,4 @@
+# Docerion header of aria-strong-expected-android-assist-data.txt.
+type: test
+title: aria-strong expected Android assist data
+summary: Expected Android assist data output for the aria-strong test, describing the view hierarchy for strong role elements with and without names.

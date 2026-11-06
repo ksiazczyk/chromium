@@ -1,0 +1,4 @@
+# Docerion header of aria-separator-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-separator
+summary: Expected Blink accessibility tree for the aria-separator test, showing horizontal splitters with range values and their static text.

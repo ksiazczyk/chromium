@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-android-external.txt.
+type: test
+title: Expected Android external output for the ARIA tablist test
+summary: Expected Android accessibility snapshot in external format for the ARIA tablist test page, listing collection info, actions and roles for tabs.

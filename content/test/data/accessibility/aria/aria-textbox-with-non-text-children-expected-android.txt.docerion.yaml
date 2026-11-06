@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-non-text-children-expected-android.txt.
+type: test
+title: ARIA textbox with non-text children expected Android results
+summary: Expected Android accessibility tree snapshot for the ARIA textbox with non-text children accessibility test.

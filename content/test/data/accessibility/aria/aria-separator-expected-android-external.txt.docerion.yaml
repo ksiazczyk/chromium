@@ -1,0 +1,4 @@
+# Docerion header of aria-separator-expected-android-external.txt.
+type: test
+title: Expected Android external tree for aria-separator
+summary: Expected Android external accessibility tree for the aria-separator test, showing splitter views with focus, click, and progress actions.

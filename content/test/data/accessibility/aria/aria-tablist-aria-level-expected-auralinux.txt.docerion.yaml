@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-aria-level-expected-auralinux.txt.
+type: test
+title: ARIA tablist aria-level expected Linux snapshot
+summary: Expected Linux accessibility snapshot for the nested ARIA tablist test, showing page tab lists and tabs with setsize and posinset values.

@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-html-table-expected-auralinux.txt.
+type: test
+title: aria-sort HTML table expected Linux tree
+summary: Expected Linux accessibility tree snapshot showing sort state on table headers for the aria-sort HTML table test.
