@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT characteristic service provider implementation
+// summary: Implements a fake GATT characteristic service provider that handles simulated read, write, and notification requests for local GATT characteristics via a delegate.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_characteristic_service_provider.h"
 
 #include <algorithm>

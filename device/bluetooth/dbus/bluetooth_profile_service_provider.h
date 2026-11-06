@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth profile service provider interface
+// summary: Declares the D-Bus service provider interface and delegate for handling profile connection requests from the Bluetooth daemon.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_PROFILE_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_PROFILE_SERVICE_PROVIDER_H_
 

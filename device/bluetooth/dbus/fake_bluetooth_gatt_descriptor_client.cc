@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT descriptor client implementation
+// summary: Implements a fake GATT descriptor client that simulates Bluetooth daemon GATT descriptor objects, including the client characteristic configuration descriptor.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_descriptor_client.h"
 
 #include <vector>

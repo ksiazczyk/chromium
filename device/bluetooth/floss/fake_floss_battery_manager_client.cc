@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Fake Floss battery manager client implementation
+// summary: Implements FakeFlossBatteryManagerClient, a test fake returning a battery set with a fixed default percentage for the queried device.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_battery_manager_client.h"
 
 #include "base/task/single_thread_task_runner.h"

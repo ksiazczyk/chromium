@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exported callback manager unit tests
+// summary: Unit tests for ExportedCallbackManager verifying D-Bus parameter parsing, callback forwarding and invalid-parameter error responses.
+// ---
+
 #include "device/bluetooth/floss/exported_callback_manager.h"
 
 #include <utility>

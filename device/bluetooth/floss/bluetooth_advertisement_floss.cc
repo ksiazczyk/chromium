@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss BLE advertisement implementation
+// summary: Implements BLE advertising sets for Floss, translating Chromium advertisement data and parameters into the Floss format.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_advertisement_floss.h"
 
 #include <iomanip>

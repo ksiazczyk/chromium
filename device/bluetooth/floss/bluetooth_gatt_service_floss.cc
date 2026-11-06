@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss GATT service implementation
+// summary: Implements the Floss GATT service, mapping GATT statuses to error codes and dispatching client and server events by handle.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_gatt_service_floss.h"
 
 #include "device/bluetooth/floss/floss_dbus_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdvertisementMonitorManagerClient class declaration
+// summary: Declares FakeBluetoothAdvertisementMonitorManagerClient, which simulates the Bluetooth daemon's Advertisement Monitor Manager object for test cases and exposes the registered application provider.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_ADVERTISEMENT_MONITOR_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_ADVERTISEMENT_MONITOR_MANAGER_CLIENT_H_
 

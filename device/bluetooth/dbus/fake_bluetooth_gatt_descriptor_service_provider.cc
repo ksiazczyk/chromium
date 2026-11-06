@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT descriptor service provider implementation
+// summary: Implements the fake GATT descriptor service provider that simulates a local GATT descriptor for tests and the Linux desktop, handling read and write value requests.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_descriptor_service_provider.h"
 
 #include <algorithm>

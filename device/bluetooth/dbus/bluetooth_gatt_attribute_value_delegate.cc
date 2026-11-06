@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT attribute value delegate implementation
+// summary: Implements the base BluetoothGattAttributeValueDelegate, resolving devices by D-Bus object path for local GATT services.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_attribute_value_delegate.h"
 
 #include "dbus/object_path.h"

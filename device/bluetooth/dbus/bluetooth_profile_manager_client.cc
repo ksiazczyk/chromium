@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth profile manager client implementation
+// summary: Implements the production D-Bus client for registering and unregistering Bluetooth profiles with the BlueZ profile manager.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_profile_manager_client.h"
 
 #include "base/check.h"

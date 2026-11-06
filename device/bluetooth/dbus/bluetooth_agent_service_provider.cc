@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth agent service provider implementation
+// summary: Implements the D-Bus agent service provider that answers BlueZ pairing requests with PIN codes, passkeys and confirmations on behalf of a delegate.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_agent_service_provider.h"
 
 #include <memory>

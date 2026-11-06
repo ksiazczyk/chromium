@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Fake Floss GATT manager client class declaration
+// summary: Declares FakeFlossGattManagerClient, a test fake that keeps a map of registered GATT services keyed by D-Bus-assigned instance ID.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_GATT_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_GATT_MANAGER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth LE advertising manager client implementation
+// summary: Implements a fake Bluetooth advertising manager D-Bus client that simulates registering and unregistering LE advertisements and enforces a maximum of five registered advertisements.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_le_advertising_manager_client.h"
 
 #include <algorithm>

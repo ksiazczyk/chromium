@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss manager client D-Bus interface header
+// summary: Declares FlossManagerClient, a D-Bus client that tracks available Floss Bluetooth adapters, their enabled state, and default adapter changes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_MANAGER_CLIENT_H_
 

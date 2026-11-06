@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss adapter D-Bus client implementation
+// summary: Implements the Floss adapter D-Bus client, handling discovery, bonding, discoverability and adapter properties.
+// ---
+
 #include "device/bluetooth/floss/floss_adapter_client.h"
 
 #include <algorithm>

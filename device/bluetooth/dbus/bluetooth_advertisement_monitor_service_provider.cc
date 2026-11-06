@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertisement monitor service provider factory
+// summary: Factory that creates either the real or fake Bluetooth advertisement monitor service provider depending on whether D-Bus fakes are in use.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_advertisement_monitor_service_provider.h"
 
 #include "base/logging.h"

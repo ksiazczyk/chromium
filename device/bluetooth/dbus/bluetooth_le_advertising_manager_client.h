@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth LE advertising manager client interface
+// summary: Declares the D-Bus client for BlueZ's advertising manager with methods to register, unregister, and configure LE advertisements.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_LE_ADVERTISING_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_LE_ADVERTISING_MANAGER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT service service provider implementation header
+// summary: Declares the production BluetoothGattServiceServiceProviderImpl class that exports GATT service properties over D-Bus.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_SERVICE_SERVICE_PROVIDER_IMPL_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_SERVICE_SERVICE_PROVIDER_IMPL_H_
 

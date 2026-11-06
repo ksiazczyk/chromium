@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss BLE advertisement class declaration
+// summary: Declares BluetoothAdvertisementFloss, which represents a BLE advertising set and supports start, stop, and interval changes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_ADVERTISEMENT_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_ADVERTISEMENT_FLOSS_H_
 

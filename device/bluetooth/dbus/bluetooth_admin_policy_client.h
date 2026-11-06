@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth admin policy D-Bus client interface
+// summary: Declares BluetoothAdminPolicyClient for the org.bluez.AdminPolicy1 interface with properties, observers, and service allow list control.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADMIN_POLICY_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADMIN_POLICY_CLIENT_H_
 

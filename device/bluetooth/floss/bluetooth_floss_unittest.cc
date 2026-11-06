@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Floss Bluetooth implementation
+// summary: Exercises the Floss adapter, device, and advertising code against fake Floss D-Bus clients and a fake LE scan session delegate.
+// ---
+
 #include <algorithm>
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter D-Bus client interface
+// summary: Declares the BluetoothAdapterClient class with adapter properties, observers, error types, and discovery filters for communicating with local Bluetooth adapters.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADAPTER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_ADAPTER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth debug manager client implementation
+// summary: Implements the D-Bus client for the Bluetooth debug manager, supporting LL privacy, Bluetooth quality reports and setting BlueZ and kernel logging verbosity levels.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_debug_manager_client.h"
 
 #include "base/check.h"

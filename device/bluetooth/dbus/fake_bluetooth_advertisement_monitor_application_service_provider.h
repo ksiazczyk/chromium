@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBluetoothAdvertisementMonitorApplicationServiceProvider class declaration
+// summary: Declares FakeBluetoothAdvertisementMonitorApplicationServiceProvider, a test fake simulating an advertisement monitor application provider that tracks its registered monitors.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_ADVERTISEMENT_MONITOR_APPLICATION_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_ADVERTISEMENT_MONITOR_APPLICATION_SERVICE_PROVIDER_H_
 

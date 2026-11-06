@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT application service provider implementation
+// summary: Implements a fake GATT application service provider that registers and unregisters local GATT services with the fake GATT manager client.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_application_service_provider.h"
 
 #include <string>

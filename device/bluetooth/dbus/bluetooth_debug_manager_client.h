@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth debug manager client header
+// summary: Declares BluetoothDebugManagerClient, the D-Bus client for the Bluetooth daemon's debug manager with methods for LL privacy, quality reports and log levels.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_DEBUG_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_DEBUG_MANAGER_CLIENT_H_
 

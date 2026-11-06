@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth profile manager client implementation
+// summary: Implements a fake Bluetooth profile manager D-Bus client that simulates registering and unregistering profiles by UUID and reports errors for invalid or duplicate registrations.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_profile_manager_client.h"
 
 #include "base/location.h"

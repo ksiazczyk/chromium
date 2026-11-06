@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertisement monitor service provider implementation
+// summary: Production implementation that exports the Release, Activate, DeviceFound and DeviceLost D-Bus methods for an advertisement monitor object.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_advertisement_monitor_service_provider_impl.h"
 
 #include "base/functional/bind.h"

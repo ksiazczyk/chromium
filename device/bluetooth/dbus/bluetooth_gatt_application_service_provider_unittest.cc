@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Bluetooth GATT application service provider
+// summary: Unit tests that verify the GATT application service provider builds correct D-Bus GetManagedObjects responses for services, characteristics and descriptors.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_application_service_provider.h"
 
 #include <string>

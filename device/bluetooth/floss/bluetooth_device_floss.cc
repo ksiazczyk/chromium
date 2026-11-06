@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss Bluetooth device implementation
+// summary: Implements the BluetoothDevice interface for Floss, covering device properties, pairing, bonding, and connection handling.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_device_floss.h"
 
 #include <memory>

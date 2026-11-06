@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss GATT connection implementation
+// summary: Implements GATT connection tracking for Floss, observing adapter and GATT client D-Bus events to update connection state.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_gatt_connection_floss.h"
 
 #include "base/functional/bind.h"

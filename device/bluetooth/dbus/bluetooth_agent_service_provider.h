@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth agent service provider header
+// summary: Declares BluetoothAgentServiceProvider, a D-Bus object the Bluetooth daemon calls during remote device pairing, with a delegate interface for PIN, passkey and confirmation requests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_AGENT_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_AGENT_SERVICE_PROVIDER_H_
 

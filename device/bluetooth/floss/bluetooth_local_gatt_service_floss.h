@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss local GATT service class declaration
+// summary: Declares BluetoothLocalGattServiceFloss, the Floss implementation of local GATT services with registration, characteristic management and instance ID handling.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOCAL_GATT_SERVICE_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOCAL_GATT_SERVICE_FLOSS_H_
 

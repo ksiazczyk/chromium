@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRemoteGattCharacteristic implementation
+// summary: Implements a fake remote GATT characteristic that simulates read, write and notification responses and manages fake descriptors.
+// ---
+
 #include "device/bluetooth/emulation/fake_remote_gatt_characteristic.h"
 
 #include <algorithm>

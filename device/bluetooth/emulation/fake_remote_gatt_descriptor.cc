@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRemoteGattDescriptor implementation
+// summary: Implements FakeRemoteGattDescriptor, dispatching simulated read and write responses for emulated remote GATT descriptors and reporting when all pending responses are consumed.
+// ---
+
 #include "device/bluetooth/emulation/fake_remote_gatt_descriptor.h"
 
 #include <utility>

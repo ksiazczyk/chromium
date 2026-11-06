@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeReadResponse implementation
+// summary: Implements the FakeReadResponse class that stores a GATT code and optional value for dispatching fake read responses.
+// ---
+
 #include "device/bluetooth/emulation/fake_read_response.h"
 
 namespace bluetooth {

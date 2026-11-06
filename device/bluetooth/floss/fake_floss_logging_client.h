@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss logging client class declaration
+// summary: Declares FakeFlossLoggingClient, a test fake for the Floss debug logging D-Bus client with testing accessors.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_LOGGING_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FAKE_FLOSS_LOGGING_CLIENT_H_
 

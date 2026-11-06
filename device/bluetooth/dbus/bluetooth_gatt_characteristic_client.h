@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicClient header
+// summary: Declares the bluez D-Bus client for communicating with remote GATT characteristic objects exposed by the Bluetooth daemon, including properties, observers, and read/write calls.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_CHARACTERISTIC_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_CHARACTERISTIC_CLIENT_H_
 

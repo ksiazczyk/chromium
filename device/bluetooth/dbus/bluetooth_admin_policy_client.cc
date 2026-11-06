@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth admin policy D-Bus client implementation
+// summary: Implements the D-Bus client for BlueZ's admin policy interface, exposing service allow list properties and the SetServiceAllowList method.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_admin_policy_client.h"
 
 #include "base/functional/bind.h"

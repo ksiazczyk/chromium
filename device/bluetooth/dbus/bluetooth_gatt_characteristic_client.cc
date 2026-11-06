@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT characteristic D-Bus client implementation
+// summary: Implements the D-Bus client for the GATT characteristic interface, exposing properties, observers and read, write and notification calls.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_characteristic_client.h"
 
 #include <stddef.h>

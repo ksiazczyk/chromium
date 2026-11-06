@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth profile manager client interface
+// summary: Declares the client used to communicate with the Bluetooth daemon's profile manager, including profile registration options and roles.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_PROFILE_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_PROFILE_MANAGER_CLIENT_H_
 

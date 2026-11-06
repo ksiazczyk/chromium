@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss advertiser client implementation
+// summary: Implements FakeFlossAdvertiserClient, a test fake whose advertising set calls count invocations and post success callbacks asynchronously.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_advertiser_client.h"
 
 #include "base/logging.h"

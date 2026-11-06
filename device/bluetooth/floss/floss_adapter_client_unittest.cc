@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss adapter client unit tests
+// summary: Unit tests for the Floss adapter D-Bus client, covering adapter methods, callbacks and observer notifications with mock D-Bus objects.
+// ---
+
 #include "device/bluetooth/floss/floss_adapter_client.h"
 
 #include <utility>

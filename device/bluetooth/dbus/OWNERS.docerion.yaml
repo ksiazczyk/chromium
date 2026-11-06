@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Bluetooth D-Bus directory
+summary: Lists the code owners responsible for reviewing changes to the Bluetooth D-Bus clients and providers.

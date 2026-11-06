@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlueZ D-Bus client base interface
+// summary: Defines the base interface for all BlueZ D-Bus clients, restricting Init calls to BluezDBusManager.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUEZ_DBUS_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUEZ_DBUS_CLIENT_H_
 

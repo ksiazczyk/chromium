@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicServiceProvider factory
+// summary: Creates either the real or the fake D-Bus GATT characteristic service provider depending on whether fakes are in use.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_characteristic_service_provider.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth agent manager client implementation
+// summary: Implements the D-Bus client for the BlueZ agent manager, supporting agent registration, unregistration and default agent requests.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_agent_manager_client.h"
 
 #include "base/check.h"

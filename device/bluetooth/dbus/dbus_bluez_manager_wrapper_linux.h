@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusBluezManagerWrapperLinux class declaration
+// summary: Declares the DBusBluezManagerWrapperLinux class that abstracts initialization of BluezDBusManager so targets that do not use DBus can provide stub implementations.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_DBUS_BLUEZ_MANAGER_WRAPPER_LINUX_H_
 #define DEVICE_BLUETOOTH_DBUS_DBUS_BLUEZ_MANAGER_WRAPPER_LINUX_H_
 

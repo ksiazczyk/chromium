@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GATT application service provider production implementation
+// summary: Implements the production GATT application service provider, exporting the D-Bus ObjectManager GetManagedObjects method and creating attribute service providers.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_application_service_provider_impl.h"
 
 #include "base/functional/bind.h"

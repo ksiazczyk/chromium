@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device client implementation
+// summary: Implements the D-Bus client for objects representing remote Bluetooth devices, including service record attribute parsing and connection information retrieval.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_device_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth input client implementation
+// summary: Implements the fake Bluetooth input client that simulates the Bluetooth daemon's input device objects with simulated device addition and removal.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_input_client.h"
 
 #include <map>

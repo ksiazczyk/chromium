@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorClient implementation
+// summary: Implements the production D-Bus client for remote GATT descriptors, exposing properties, observers, and read and write value calls to the Bluetooth daemon.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_descriptor_client.h"
 
 #include <stddef.h>

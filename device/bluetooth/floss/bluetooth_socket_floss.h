@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss Bluetooth socket class declaration
+// summary: Declares BluetoothSocketFloss, the Floss implementation of BluetoothSocketNet for connecting to and listening for Bluetooth services.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_SOCKET_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_SOCKET_FLOSS_H_
 

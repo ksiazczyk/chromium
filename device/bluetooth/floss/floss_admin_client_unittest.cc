@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlossAdminClient unit tests
+// summary: Unit tests for the Floss admin D-Bus client using mock D-Bus objects, covering callback registration, policy effects and the service allowlist.
+// ---
+
 #include "device/bluetooth/floss/floss_admin_client.h"
 
 #include <map>

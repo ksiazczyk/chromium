@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth profile service provider implementation
+// summary: Implements the exported D-Bus object that the Bluetooth daemon calls to open, close, and cancel application profile connections.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_profile_service_provider.h"
 
 #include <memory>

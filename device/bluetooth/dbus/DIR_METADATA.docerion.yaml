@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Bluetooth D-Bus directory
+summary: Assigns the OS>Systems>Bluetooth monorail component and Buganizer component ID 1457189 for issues in this directory.

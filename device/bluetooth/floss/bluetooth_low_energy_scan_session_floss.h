@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss low energy scan session class declaration
+// summary: Declares BluetoothLowEnergyScanSessionFloss, the Floss implementation of BLE scan sessions with filter conversion and delegate callback hooks.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_FLOSS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth input client interface
+// summary: Declares the D-Bus client for Bluetooth input (HID) devices, including reconnect mode properties and an observer interface.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_INPUT_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_INPUT_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertisement monitor manager client implementation
+// summary: Implements the D-Bus client that registers and unregisters advertisement monitor applications with the BlueZ Bluetooth daemon and exposes supported monitor properties.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_advertisement_monitor_manager_client.h"
 
 #include "base/check.h"

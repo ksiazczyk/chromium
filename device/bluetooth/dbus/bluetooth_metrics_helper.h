@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth metrics helper declarations
+// summary: Declares metric name constants and helper functions for recording BlueZ D-Bus call results and latency.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_METRICS_HELPER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_METRICS_HELPER_H_
 

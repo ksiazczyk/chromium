@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss GATT manager client declarations
+// summary: Declares GATT enums, structs, and the FlossGattManagerClient D-Bus client interface for the Floss Bluetooth stack.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_GATT_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_GATT_MANAGER_CLIENT_H_
 

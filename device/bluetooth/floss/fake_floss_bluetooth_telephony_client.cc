@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Fake Floss telephony client implementation
+// summary: Implements FakeFlossBluetoothTelephonyClient, a test fake whose SetPhoneOpsEnabled call immediately reports success without D-Bus interaction.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_bluetooth_telephony_client.h"
 
 #include "base/task/single_thread_task_runner.h"

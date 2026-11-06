@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss remote GATT characteristic implementation
+// summary: Implements BluetoothRemoteGattCharacteristicFloss, handling reads, writes and notifications of remote GATT characteristics via the Floss D-Bus client.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_remote_gatt_characteristic_floss.h"
 
 #include "base/containers/to_vector.h"

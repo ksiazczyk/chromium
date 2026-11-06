@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossBluetoothTelephonyClient implementation
+// summary: Implements the FlossBluetoothTelephonyClient D-Bus client that talks to the Floss daemon for telephony operations such as enabling phone operations.
+// ---
+
 #include "device/bluetooth/floss/floss_bluetooth_telephony_client.h"
 
 namespace floss {

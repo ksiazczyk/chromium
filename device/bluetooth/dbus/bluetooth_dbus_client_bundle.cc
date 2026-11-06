@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth D-Bus client bundle implementation
+// summary: Implements the bundle that creates and owns all Bluetooth D-Bus clients, selecting real or fake implementations and also managing alternate adapter, admin policy and device clients.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_dbus_client_bundle.h"
 
 #include <memory>

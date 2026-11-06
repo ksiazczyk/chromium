@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss LE scan client declarations
+// summary: Declares scan settings, filters, results, the scanner observer interface, and the FlossLEScanClient D-Bus client.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_LESCAN_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_LESCAN_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss manager client implementation
+// summary: Implements the Floss manager D-Bus client that tracks adapters, the default adapter, and Floss enablement with retries.
+// ---
+
 #include "device/bluetooth/floss/floss_manager_client.h"
 
 #include <memory>

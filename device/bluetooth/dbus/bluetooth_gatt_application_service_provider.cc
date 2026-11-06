@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT application service provider implementation
+// summary: Implements the D-Bus provider that exposes GATT application objects to the Bluetooth daemon, converting characteristic properties and permissions into D-Bus flag strings.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_application_service_provider.h"
 
 #include <algorithm>

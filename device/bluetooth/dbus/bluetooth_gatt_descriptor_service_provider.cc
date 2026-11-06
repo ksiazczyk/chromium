@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorServiceProvider factory
+// summary: Factory that creates either the production or fake D-Bus service provider exporting a local GATT descriptor to the Bluetooth daemon.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_descriptor_service_provider.h"
 
 #include "base/logging.h"

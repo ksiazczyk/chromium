@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss Bluetooth adapter class declaration
+// summary: Declares BluetoothAdapterFloss, the BluetoothAdapter implementation for platforms that use the Floss D-Bus front-end of the Fluoride stack.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_ADAPTER_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_ADAPTER_FLOSS_H_
 

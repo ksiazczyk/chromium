@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss Bluetooth device class declaration
+// summary: Declares BluetoothDeviceFloss, the BluetoothDevice implementation for Floss platforms, managed by BluetoothAdapterFloss.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_DEVICE_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_DEVICE_FLOSS_H_
 

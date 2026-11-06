@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorServiceProviderImpl implementation
+// summary: Production implementation exporting the org.bluez.GattDescriptor1 interface and DBus.Properties methods for a local GATT descriptor.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_descriptor_service_provider_impl.h"
 
 #include <cstddef>

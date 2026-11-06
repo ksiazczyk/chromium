@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT attribute helpers implementation
+// summary: Implements ReadOptions, a helper that parses a D-Bus options dictionary into a map of string keys to message readers for GATT attribute providers.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_attribute_helpers.h"
 
 #include <string>

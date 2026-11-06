@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FlossAdminClient header
+// summary: Declares the FlossAdminClient D-Bus client, its observer interface and the PolicyEffect struct for the Floss admin API.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_ADMIN_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_ADMIN_CLIENT_H_
 

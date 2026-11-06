@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth LE advertising manager client declaration
+// summary: Declares FakeBluetoothLEAdvertisingManagerClient, which simulates the Bluetooth daemon's advertising manager for tests and the Linux desktop and tracks advertisement service providers.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_LE_ADVERTISING_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_FAKE_BLUETOOTH_LE_ADVERTISING_MANAGER_CLIENT_H_
 

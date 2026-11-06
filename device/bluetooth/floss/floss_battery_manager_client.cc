@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossBatteryManagerClient implementation
+// summary: Implements the D-Bus client for the Floss battery manager, including Battery and BatterySet serialization and callback registration.
+// ---
+
 #include "device/bluetooth/floss/floss_battery_manager_client.h"
 
 #include "base/no_destructor.h"

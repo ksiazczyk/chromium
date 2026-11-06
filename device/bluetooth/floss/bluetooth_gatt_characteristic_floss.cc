@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floss GATT characteristic permission and property conversion
+// summary: Implements mappings between Floss and Chromium GATT characteristic permissions and properties.
+// ---
+
 #include "device/bluetooth/floss/bluetooth_gatt_characteristic_floss.h"
 
 #include "device/bluetooth/floss/floss_gatt_manager_client.h"

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss SDP record types
+// summary: Defines the BtSdpType enum and a variant of SDP record structs such as MAS, MNS, PSE, OPS, SAP, and DIP records for the Floss D-Bus API.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_SDP_TYPES_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_SDP_TYPES_H_
 

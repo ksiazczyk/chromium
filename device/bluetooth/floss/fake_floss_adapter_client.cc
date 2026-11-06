@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Floss adapter client implementation
+// summary: Implements a fake FlossAdapterClient with predefined test devices, bonding and discovery behavior for use in unit tests.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_adapter_client.h"
 
 #include <string>

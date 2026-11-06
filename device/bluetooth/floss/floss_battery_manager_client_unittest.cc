@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlossBatteryManagerClient unit tests
+// summary: Unit tests for the Floss battery manager D-Bus client using mock D-Bus objects, covering callback registration and battery information updates.
+// ---
+
 #include "device/bluetooth/floss/floss_battery_manager_client.h"
 
 #include <utility>

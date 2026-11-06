@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth device client implementation
+// summary: Implements a fake Bluetooth device client that simulates Bluetooth daemon device objects, including pairing, connecting, and simulated devices, for tests and the Linux desktop.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_device_client.h"
 
 #include <fcntl.h>

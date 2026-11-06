@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Floss GATT unit tests
+// summary: Unit tests for the Floss GATT implementation, exercising adapter, device, and GATT objects through fake Floss D-Bus clients.
+// ---
+
 #include "base/logging.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

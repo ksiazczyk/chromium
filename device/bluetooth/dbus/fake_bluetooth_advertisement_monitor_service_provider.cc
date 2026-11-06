@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth advertisement monitor service provider implementation
+// summary: Implements the fake BlueZ advertisement monitor service provider that simulates an advertisement monitor D-Bus object for use in test cases.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_advertisement_monitor_service_provider.h"
 
 namespace bluez {

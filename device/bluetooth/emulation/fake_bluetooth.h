@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FakeBluetooth class declaration
+// summary: Declares the FakeBluetooth class that implements the FakeBluetooth Mojo interface on top of the C++ device Bluetooth API.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EMULATION_FAKE_BLUETOOTH_H_
 #define DEVICE_BLUETOOTH_EMULATION_FAKE_BLUETOOTH_H_
 

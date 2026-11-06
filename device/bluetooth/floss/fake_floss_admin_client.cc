@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Floss admin client implementation
+// summary: Implements FakeFlossAdminClient, a test fake of the Floss admin D-Bus client whose Init skips bus setup and immediately signals readiness.
+// ---
+
 #include "device/bluetooth/floss/fake_floss_admin_client.h"
 
 #include "base/logging.h"

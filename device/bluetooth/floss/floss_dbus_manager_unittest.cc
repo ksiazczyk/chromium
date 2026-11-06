@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlossDBusManager unit tests
+// summary: Unit tests for FlossDBusManager adapter switching, covering client readiness callbacks, timeouts and partially present client interfaces.
+// ---
+
 #include "device/bluetooth/floss/floss_dbus_manager.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT service service provider factory
+// summary: Factory that creates the real or fake D-Bus service provider for exporting GATT service hierarchies to the Bluetooth daemon.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_gatt_service_service_provider.h"
 
 #include "base/logging.h"

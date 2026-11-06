@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GATT service service provider interface
+// summary: Declares the D-Bus service provider interface for registering GATT service hierarchies with the Bluetooth daemon.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_SERVICE_SERVICE_PROVIDER_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_SERVICE_SERVICE_PROVIDER_H_
 

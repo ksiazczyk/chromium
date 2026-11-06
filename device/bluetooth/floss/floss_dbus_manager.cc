@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossDBusManager implementation
+// summary: Implements FlossDBusManager, which manages D-Bus client lifetimes, waits for the Floss manager service, and handles adapter switching.
+// ---
+
 #include "device/bluetooth/floss/floss_dbus_manager.h"
 
 #include <memory>

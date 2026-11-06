@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth GATT service client implementation
+// summary: Implements the fake GATT service client that simulates the Bluetooth daemon's GATT service objects, including emulated Heart Rate and Battery services.
+// ---
+
 #include "device/bluetooth/dbus/fake_bluetooth_gatt_service_client.h"
 
 #include "base/functional/bind.h"

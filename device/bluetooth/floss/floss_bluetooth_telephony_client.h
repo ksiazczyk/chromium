@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FlossBluetoothTelephonyClient class declaration
+// summary: Declares the FlossBluetoothTelephonyClient D-Bus client for telephony operations like enabling phone ops, managed by FlossClientBundle and initialized per adapter.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_FLOSS_BLUETOOTH_TELEPHONY_CLIENT_H_
 #define DEVICE_BLUETOOTH_FLOSS_FLOSS_BLUETOOTH_TELEPHONY_CLIENT_H_
 

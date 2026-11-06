@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattManagerClient interface
+// summary: Declares the client used to communicate with the GATT manager of the Bluetooth daemon, including RegisterApplication and UnregisterApplication.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_MANAGER_CLIENT_H_
 #define DEVICE_BLUETOOTH_DBUS_BLUETOOTH_GATT_MANAGER_CLIENT_H_
 

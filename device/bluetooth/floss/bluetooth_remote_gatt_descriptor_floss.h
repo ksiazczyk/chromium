@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Floss remote GATT descriptor class declaration
+// summary: Declares the Floss implementation of remote GATT descriptors, handling reads, writes and value notifications through the Floss GATT client observer interface.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_REMOTE_GATT_DESCRIPTOR_FLOSS_H_
 #define DEVICE_BLUETOOTH_FLOSS_BLUETOOTH_REMOTE_GATT_DESCRIPTOR_FLOSS_H_
 

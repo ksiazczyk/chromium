@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth input client implementation
+// summary: Production implementation of the D-Bus client for Bluetooth input (HID) devices, exposing properties and observer notifications.
+// ---
+
 #include "device/bluetooth/dbus/bluetooth_input_client.h"
 
 #include <map>
