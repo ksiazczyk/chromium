@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-focus-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for custom menulist focus
+summary: Expected Windows accessibility focus event log for focusing a custom select element.

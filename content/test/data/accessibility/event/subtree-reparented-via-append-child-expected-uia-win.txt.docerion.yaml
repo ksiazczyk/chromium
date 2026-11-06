@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-append-child-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for subtree-reparented-via-append-child
+summary: Expected UI Automation event output on Windows for the subtree-reparented-via-append-child test, marked as skipped due to flakiness.

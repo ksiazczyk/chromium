@@ -1,0 +1,4 @@
+# Docerion header of material-design-fab-expected-mac.txt.
+type: test
+title: Material design FAB expected Mac trees
+summary: Expected macOS AX tree dumps before and after each go() pass for the material design FAB event test.

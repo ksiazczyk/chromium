@@ -1,0 +1,4 @@
+# Docerion header of reparent-element-with-activedescendant-element-expected-auralinux.txt.
+type: test
+title: Reparent element with activedescendant element expected Linux events
+summary: Expected Linux AT-SPI accessibility events for the reparent-element-with-activedescendant-element test using the element-based active descendant API.

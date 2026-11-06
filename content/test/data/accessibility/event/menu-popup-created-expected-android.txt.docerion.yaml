@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-created-expected-android.txt.
+type: test
+title: Expected Android accessibility events for menu popup creation
+summary: Expected Android accessibility event sequence for the menu popup creation test, listing window content and state changes after the initial page load.

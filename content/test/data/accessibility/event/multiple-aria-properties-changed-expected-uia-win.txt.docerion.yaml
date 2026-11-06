@@ -1,0 +1,4 @@
+# Docerion header of multiple-aria-properties-changed-expected-uia-win.txt.
+type: test
+title: multiple-aria-properties-changed expected UIA events for Windows
+summary: Expected UIA AriaProperties change events for checkboxes when several ARIA attributes change at once in the multiple-aria-properties-changed test.

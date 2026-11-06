@@ -1,0 +1,4 @@
+# Docerion header of tabindex-added-on-aria-hidden-expected-auralinux.txt.
+type: test
+title: Expected Auralinux output for tabindex added on aria-hidden test
+summary: Expected Auralinux accessibility output for the tabindex added on aria-hidden test, containing only a blank line and thus no expected events.

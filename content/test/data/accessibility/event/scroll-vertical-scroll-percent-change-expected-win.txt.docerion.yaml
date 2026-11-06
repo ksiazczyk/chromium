@@ -1,0 +1,4 @@
+# Docerion header of scroll-vertical-scroll-percent-change-expected-win.txt.
+type: test
+title: Expected Windows events for vertical scroll percent change test
+summary: Expected Windows accessibility event output for the vertical scroll percent change test, listing EVENT_SYSTEM_SCROLLINGEND events on the document and scroll container.

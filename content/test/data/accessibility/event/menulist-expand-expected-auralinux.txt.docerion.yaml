@@ -1,0 +1,4 @@
+# Docerion header of menulist-expand-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for menulist expand test
+summary: Expected AT-SPI accessibility event output for the menulist expand test on Linux, covering focus, expanded and selected state changes.

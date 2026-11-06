@@ -1,0 +1,4 @@
+# Docerion header of menubar-show-hide-menus-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for menubar-show-hide-menus test
+summary: Expected Windows menu popup start and end plus state-change events for the menubar-show-hide-menus test page across its test passes.

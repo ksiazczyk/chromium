@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-ignored-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for subtree-reparented-ignored-changed
+summary: Expected Android accessibility event output for the subtree-reparented-ignored-changed test.

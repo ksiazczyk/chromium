@@ -1,0 +1,4 @@
+# Docerion header of same-page-link-navigation-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for same-page link navigation
+summary: Expected AuraLinux accessibility event log for the same-page link navigation test, including caret moves and text insertions.

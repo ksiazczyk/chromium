@@ -1,0 +1,4 @@
+# Docerion header of material-design-progress-expected-mac.txt.
+type: test
+title: Material design progress expected Mac events
+summary: Expected macOS AX value-changed events for the Material Web progress test.

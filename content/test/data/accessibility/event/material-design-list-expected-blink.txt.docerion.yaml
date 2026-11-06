@@ -1,0 +1,4 @@
+# Docerion header of material-design-list-expected-blink.txt.
+type: test
+title: Material design list expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots for the material design list test, dumped before and after each go() pass.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-expand-collapse.html.
+type: test
+title: Custom menulist expand and collapse accessibility test page
+summary: HTML test page using a select with base-select appearance and a button to trigger expand and collapse accessibility events.

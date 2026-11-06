@@ -1,0 +1,4 @@
+# Docerion header of range-value-step-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for range value step change
+summary: Expected UIA on Windows accessibility events for the range-value-step-changed test, listing RangeValue large change, small change and value property notifications on a slider role.

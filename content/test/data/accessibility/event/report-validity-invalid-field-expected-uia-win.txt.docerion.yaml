@@ -1,0 +1,4 @@
+# Docerion header of report-validity-invalid-field-expected-uia-win.txt.
+type: test
+title: Report validity invalid field expected events for UIA on Windows
+summary: Expected UIA accessibility events for the report-validity-invalid-field test, expecting an AutomationFocusChanged event on the pet name textbox.

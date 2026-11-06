@@ -1,0 +1,4 @@
+# Docerion header of pressed-state-changed-expected-android.txt.
+type: test
+title: Pressed state changed expected Android events
+summary: Expected Android accessibility events emitted when a toggle button's aria-pressed state changes.

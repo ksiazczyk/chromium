@@ -1,0 +1,4 @@
+# Docerion header of reparent-element-with-active-descendant-expected-android.txt.
+type: test
+title: Reparent element with active descendant expected Android events
+summary: Expected Android accessibility event sequence for the reparent-element-with-active-descendant test, covering menu focus and content-changed events.

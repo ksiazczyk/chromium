@@ -1,0 +1,4 @@
+# Docerion header of remove-child-expected-uia-win.txt.
+type: test
+title: Remove child expected events for UIA on Windows
+summary: Expected UIA accessibility events on Windows for the remove child test, listing structure change notifications for child removal on a list.

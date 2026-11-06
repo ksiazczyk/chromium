@@ -1,0 +1,4 @@
+# Docerion header of menubar-show-hide-menus-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for menubar-show-hide-menus test
+summary: Expected UIA menu opened and closed plus expand-collapse state events for the menubar-show-hide-menus test page across its test passes.

@@ -1,0 +1,4 @@
+# Docerion header of name-change-indirect-expected-win.txt.
+type: test
+title: Indirect name change expected events for Windows
+summary: Expected Windows accessibility events including text insertion and removal when heading text changes indirectly.

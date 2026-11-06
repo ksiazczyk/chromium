@@ -1,0 +1,4 @@
+# Docerion header of menulist-focus.html.
+type: test
+title: Menulist focus test page
+summary: HTML test page with a select element whose go() function focuses it to trigger accessibility focus events.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-expected-auralinux.txt.
+type: test
+title: Menulist collapse expected events for Linux AT-SPI
+summary: Expected Linux AT-SPI accessibility events when a select menu list collapses, used as the expected output for the menulist-collapse web test.

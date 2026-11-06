@@ -1,0 +1,4 @@
+# Docerion header of range-value-minimum-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for range value minimum change
+summary: Expected UIA on Windows accessibility events for the range-value-minimum-changed test, listing AriaProperties and RangeValueMinimum change notifications on a slider role.

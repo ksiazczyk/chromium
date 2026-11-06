@@ -1,0 +1,4 @@
+# Docerion header of range-value-value-changed-expected-uia-win.txt.
+type: test
+title: Range value changed expected events for UIA on Windows
+summary: Expected UIA accessibility events on Windows for the range input value change test, listing AriaProperties and RangeValueValue change notifications.

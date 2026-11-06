@@ -1,0 +1,4 @@
+# Docerion header of name-change-indirect-expected-uia-win.txt.
+type: test
+title: Indirect name change expected events for UIA on Windows
+summary: Expected UIA name-changed events for the heading and main landmark when heading text changes indirectly.

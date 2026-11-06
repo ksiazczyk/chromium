@@ -1,0 +1,4 @@
+# Docerion header of menubar-show-hide-menus-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for menubar-show-hide-menus test
+summary: Expected Linux AT-SPI state-change events for the menubar-show-hide-menus test page as the File menu expands, shows and hides across test passes.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-progress-expected-uia-win.txt.
+type: test
+title: Material design progress expected UIA Win events
+summary: Expected UIA property and range value change events for the Material Web progress test.

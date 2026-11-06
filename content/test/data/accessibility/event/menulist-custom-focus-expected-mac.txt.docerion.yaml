@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-focus-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for custom menulist focus
+summary: Expected macOS AX notification log for focusing a custom select element.

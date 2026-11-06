@@ -1,0 +1,4 @@
+# Docerion header of range-value-is-readonly-changed-expected-uia-win.txt.
+type: test
+title: Range value readonly changed expected UIA Win events
+summary: Expected UIA property-change events on Windows for a slider's readonly and enabled state changes.

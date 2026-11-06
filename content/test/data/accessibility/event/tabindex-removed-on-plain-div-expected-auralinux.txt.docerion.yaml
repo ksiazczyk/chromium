@@ -1,0 +1,4 @@
+# Docerion header of tabindex-removed-on-plain-div-expected-auralinux.txt.
+type: test
+title: tabindex-removed-on-plain-div expected events for Linux
+summary: Expected accessibility event output for the tabindex-removed-on-plain-div test on Linux; the file is effectively empty.

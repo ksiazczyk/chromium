@@ -1,0 +1,4 @@
+# Docerion header of select-selected-add-remove-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for select selection add and remove
+summary: Expected Linux accessibility event output for the select-selected-add-remove test, listing selection changed and selected state changes on list items.

@@ -1,0 +1,4 @@
+# Docerion header of range-value-value-changed-expected-auralinux.txt.
+type: test
+title: Range value changed expected events for Linux
+summary: Expected Linux accessibility events for the range input value change test, listing VALUE-CHANGED notifications on a slider role.

@@ -1,0 +1,4 @@
+# Docerion header of pressed-state-changed-expected-win.txt.
+type: test
+title: Pressed state changed expected Windows events
+summary: Expected Windows EVENT_OBJECT_STATECHANGE event for the button's pressed state change.

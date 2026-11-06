@@ -1,0 +1,4 @@
+# Docerion header of menu-opened-closed-expected-uia-win.txt.
+type: test
+title: Menu opened and closed expected UIA events (Windows)
+summary: Expected UIA menu opened, closed and property change events for the menu test on Windows, with a skip note referencing a Chromium bug.

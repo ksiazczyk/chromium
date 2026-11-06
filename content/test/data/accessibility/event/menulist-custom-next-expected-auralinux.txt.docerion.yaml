@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-next-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for menulist custom next test
+summary: Expected AT-SPI accessibility event output for the menulist custom next test on Linux, covering focus, selection and state changes on a combobox.

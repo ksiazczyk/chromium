@@ -1,0 +1,4 @@
+# Docerion header of material-design-tabs-expected-win.txt.
+type: test
+title: Material design tabs expected Win events
+summary: Expected Windows MSAA/IA2 selection and state change events for the material design tabs test.

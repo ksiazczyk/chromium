@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-ignored-changed.html.
+type: test
+title: Subtree-reparented-ignored-changed accessibility test page
+summary: HTML test page that sets tabindex on a wrapper div and focuses a readonly search input to observe reparenting-related accessibility events.

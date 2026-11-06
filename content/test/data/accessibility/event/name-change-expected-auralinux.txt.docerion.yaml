@@ -1,0 +1,4 @@
+# Docerion header of name-change-expected-auralinux.txt.
+type: test
+title: name-change expected events for Linux
+summary: Expected Linux name-changed event for a heading whose accessible name changes in the name-change test.

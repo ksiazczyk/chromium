@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-mac.txt.
+type: test
+title: Expected Mac events for select multiple activate options test
+summary: Expected Mac accessibility event output for the select multiple activate options test, listing AXFocusedUIElementChanged and AXSelectedChildrenChanged events.

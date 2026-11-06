@@ -1,0 +1,4 @@
+# Docerion header of material-design-icon-button-expected-auralinux.txt.
+type: test
+title: Material design icon button expected Auralinux trees
+summary: Expected Linux accessibility tree dumps and pressed state changes for the material design icon button event test.

@@ -1,0 +1,4 @@
+# Docerion header of report-validity-invalid-field-expected-android.txt.
+type: test
+title: Report validity invalid field expected events for Android
+summary: Expected Android accessibility event sequence for the report-validity-invalid-field test, listing window content, state, selection, and content-invalid changes around the pet name field.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-menu-expected-mac.txt.
+type: test
+title: Material design menu expected Mac events
+summary: Expected macOS accessibility tree and menu opened or closed events for the material design menu test across its go() passes.

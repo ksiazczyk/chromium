@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-auralinux.txt.
+type: test
+title: Expected auralinux events for select multiple activate options test
+summary: Expected auralinux accessibility event output for the select multiple activate options test, listing focus, selection changed and state change events.

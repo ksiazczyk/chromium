@@ -1,0 +1,4 @@
+# Docerion header of popover-expanded-changed-expected-android.txt.
+type: test
+title: Popover expanded changed expected Android events
+summary: Expected Android accessibility event log for popover expanded-state changes triggered by buttons.

@@ -1,0 +1,4 @@
+# Docerion header of reparent-element-with-active-descendant.html.
+type: test
+title: Reparent element with active descendant test page
+summary: HTML test page that moves aria-activedescendant through menu items and reparents a wrapper element to exercise accessibility events.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-fab-expected-auralinux.txt.
+type: test
+title: Material design FAB expected Auralinux trees
+summary: Expected Linux accessibility tree dumps before and after each go() pass for the material design FAB event test.

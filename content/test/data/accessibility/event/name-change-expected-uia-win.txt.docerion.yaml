@@ -1,0 +1,4 @@
+# Docerion header of name-change-expected-uia-win.txt.
+type: test
+title: Name change expected events for UIA on Windows
+summary: Expected UIA events recorded when a heading's accessible name changes to After via aria-label.

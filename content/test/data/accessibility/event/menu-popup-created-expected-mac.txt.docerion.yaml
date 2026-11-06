@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-created-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for menu popup creation
+summary: Expected macOS accessibility events for the menu popup creation test, listing AXMenuOpened and AXMenuClosed notifications per continuation.

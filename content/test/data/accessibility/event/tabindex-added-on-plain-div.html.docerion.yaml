@@ -1,0 +1,4 @@
+# Docerion header of tabindex-added-on-plain-div.html.
+type: test
+title: tabindex-added-on-plain-div accessibility event test page
+summary: HTML test page that sets tabIndex on a plain div to trigger accessibility events for the paired expected-output files.

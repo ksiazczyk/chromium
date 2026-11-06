@@ -1,0 +1,4 @@
+# Docerion header of menubar-show-hide-menus-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for menubar-show-hide-menus test
+summary: Expected macOS AXMenu opened and closed plus expanded-changed events for the menubar-show-hide-menus test page across its test passes.

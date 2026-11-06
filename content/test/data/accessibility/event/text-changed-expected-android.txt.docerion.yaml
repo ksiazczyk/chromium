@@ -1,0 +1,4 @@
+# Docerion header of text-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for text changes
+summary: Expected Android accessibility event output for the text-changed test page.

@@ -1,0 +1,4 @@
+# Docerion header of native-spinbutton-appending-text-changed.html.
+type: test
+title: Native spinbutton appending text changed test page
+summary: HTML page with a number input whose value is changed from 10 to 12 while focused to trigger text change events.

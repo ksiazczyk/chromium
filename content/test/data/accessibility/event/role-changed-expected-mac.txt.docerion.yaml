@@ -1,0 +1,4 @@
+# Docerion header of role-changed-expected-mac.txt.
+type: test
+title: Role changed expected events for Mac
+summary: Expected macOS accessibility events for the role-changed test, expecting an AXTitleChanged event on the button.

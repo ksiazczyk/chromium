@@ -1,0 +1,4 @@
+# Docerion header of remove-hidden-attribute-subtree.html.
+type: test
+title: Test page removing the hidden attribute from a list item
+summary: HTML test page with a ul list whose third item is hidden; a go() function removes the hidden attribute to trigger accessibility events.

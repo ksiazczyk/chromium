@@ -1,0 +1,4 @@
+# Docerion header of menulist-next-expected-win.txt.
+type: test
+title: menulist-next expected accessibility events for Windows
+summary: Expected Windows accessibility events, such as focus, selection and state changes on select options, for the menulist-next test.

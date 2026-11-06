@@ -1,0 +1,4 @@
+# Docerion header of material-design-radio-expected-uia-win.txt.
+type: test
+title: Material Web radio expected UIA events on Windows
+summary: Expected Windows UI Automation property, selection and toggle change events for the Material Web radio event test.

@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-append-child-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for subtree-reparented-via-append-child
+summary: Expected MSAA and IAccessible2 event output on Windows for the subtree-reparented-via-append-child accessibility test.

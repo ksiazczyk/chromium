@@ -1,0 +1,4 @@
+# Docerion header of text-align-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for text-align changes
+summary: Expected IAccessible2 accessibility event output on Windows for the text-align-changed test page.

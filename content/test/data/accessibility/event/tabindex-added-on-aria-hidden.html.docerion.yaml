@@ -1,0 +1,4 @@
+# Docerion header of tabindex-added-on-aria-hidden.html.
+type: test
+title: tabindex-added-on-aria-hidden accessibility event test page
+summary: HTML test page that sets tabIndex on an aria-hidden div to trigger accessibility events for the paired expected-output files.

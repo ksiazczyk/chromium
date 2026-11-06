@@ -1,0 +1,4 @@
+# Docerion header of material-design-list-expected-auralinux.txt.
+type: test
+title: Material design list expected Auralinux events
+summary: Expected Linux accessibility tree and focus state changes for the material design list test, recorded before and after each go() pass.

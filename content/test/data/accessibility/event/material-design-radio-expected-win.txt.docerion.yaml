@@ -1,0 +1,4 @@
+# Docerion header of material-design-radio-expected-win.txt.
+type: test
+title: Material Web radio expected Windows MSAA events
+summary: Expected Windows EVENT_OBJECT_STATECHANGE notifications for checked state changes of the Material Web radio options.

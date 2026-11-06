@@ -1,0 +1,4 @@
+# Docerion header of tabindex-added-on-plain-div-expected-win.txt.
+type: test
+title: Expected Windows events for tabindex-added-on-plain-div test
+summary: Expected Windows accessibility event output for the tabindex-added-on-plain-div test, showing a state change on a focusable div.

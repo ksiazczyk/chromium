@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-created-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility events for menu popup creation
+summary: Expected UIA accessibility events on Windows for the menu popup creation test, listing MenuOpened and MenuClosed notifications per continuation.

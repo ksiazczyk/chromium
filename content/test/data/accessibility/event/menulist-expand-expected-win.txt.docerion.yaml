@@ -1,0 +1,4 @@
+# Docerion header of menulist-expand-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for menulist expand test
+summary: Expected Windows UIA and IA2 accessibility event output for the menulist expand test on a select combobox.

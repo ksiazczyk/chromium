@@ -1,0 +1,4 @@
+# Docerion header of material-design-radio-expected-mac.txt.
+type: test
+title: Material Web radio expected macOS accessibility events
+summary: Expected macOS AX tree snapshots and AXValueChanged notifications for the Material Web radio event test across three passes.

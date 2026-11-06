@@ -1,0 +1,4 @@
+# Docerion header of native-spinbutton-arrow-up-changed.html.
+type: test
+title: Native spinbutton arrow up test page
+summary: HTML test page that focuses a number input and steps it up to trigger accessibility events.

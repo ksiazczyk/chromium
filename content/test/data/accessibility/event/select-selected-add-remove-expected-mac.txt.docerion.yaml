@@ -1,0 +1,4 @@
+# Docerion header of select-selected-add-remove-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for select selection add and remove
+summary: Expected Mac accessibility event output for the select-selected-add-remove test, listing AXSelectedChildrenChanged and AXValueChanged notifications.

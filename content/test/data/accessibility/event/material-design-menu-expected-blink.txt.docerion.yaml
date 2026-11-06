@@ -1,0 +1,4 @@
+# Docerion header of material-design-menu-expected-blink.txt.
+type: test
+title: Material design menu expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots for the material design menu test, showing menu open and close transitions across go() passes.

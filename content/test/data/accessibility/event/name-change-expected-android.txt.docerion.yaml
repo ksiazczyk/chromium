@@ -1,0 +1,4 @@
+# Docerion header of name-change-expected-android.txt.
+type: test
+title: name-change expected events for Android
+summary: Expected Android accessibility events when a heading's accessible name changes in the name-change test.

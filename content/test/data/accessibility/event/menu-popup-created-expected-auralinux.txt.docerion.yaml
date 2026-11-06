@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-created-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for menu popup creation
+summary: Expected Linux accessibility events for the menu popup creation test, recording menu showing state changes across continuations.

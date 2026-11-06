@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-static-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility events for menu-popup-static test
+summary: Expected UIA (Windows) accessibility event output for the menu-popup-static test page, listing the continuation events the test should produce.

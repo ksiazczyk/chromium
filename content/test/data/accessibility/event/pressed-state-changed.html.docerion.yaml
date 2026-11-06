@@ -1,0 +1,4 @@
+# Docerion header of pressed-state-changed.html.
+type: test
+title: Pressed state changed test page
+summary: HTML test page that sets aria-pressed to true on a button to trigger accessibility events.

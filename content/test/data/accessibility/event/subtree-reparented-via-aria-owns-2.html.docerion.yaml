@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-aria-owns-2.html.
+type: test
+title: Subtree reparented via aria-owns accessibility event test page 2
+summary: HTML test page variant that sets aria-owns on a group to reparent the search landmark, originally covering a tree serializer clearing bug that no longer occurs.

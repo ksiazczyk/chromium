@@ -1,0 +1,4 @@
+# Docerion header of remove-hidden-attribute-subtree-expected-win.txt.
+type: test
+title: Expected Windows output for remove-hidden-attribute-subtree test
+summary: Expected Windows accessibility events for the subtree page that removes the hidden attribute, including reorder, show and text-inserted events.

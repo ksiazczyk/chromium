@@ -1,0 +1,4 @@
+# Docerion header of material-design-progress-expected-win.txt.
+type: test
+title: Material design progress expected Win events
+summary: Expected Win32 value-change events for the Material Web progress test.

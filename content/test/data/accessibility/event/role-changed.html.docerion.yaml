@@ -1,0 +1,4 @@
+# Docerion header of role-changed.html.
+type: test
+title: Role changed accessibility event test page
+summary: HTML test page that changes a div's ARIA role from group to button via script to trigger a role-changed accessibility event.

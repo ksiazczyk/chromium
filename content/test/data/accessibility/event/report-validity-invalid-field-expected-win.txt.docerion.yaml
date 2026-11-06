@@ -1,0 +1,4 @@
+# Docerion header of report-validity-invalid-field-expected-win.txt.
+type: test
+title: Report validity invalid field expected events for Windows
+summary: Expected Windows accessibility events for the report-validity-invalid-field test, covering focus on the pet name field and an alert carrying the validity message.

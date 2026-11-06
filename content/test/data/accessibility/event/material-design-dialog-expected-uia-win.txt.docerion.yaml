@@ -1,0 +1,4 @@
+# Docerion header of material-design-dialog-expected-uia-win.txt.
+type: test
+title: Material design dialog expected UIA Win events
+summary: Expected UIA-Win accessibility events for the material design dialog test, listing AriaProperties changes on the dialog and focus changes on the OK button.

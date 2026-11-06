@@ -1,0 +1,4 @@
+# Docerion header of remove-hidden-attribute-expected-android.txt.
+type: test
+title: Remove hidden attribute expected events for Android
+summary: Expected Android accessibility events for the remove hidden attribute test, listing window content changed notifications on the WebView and a ListView.

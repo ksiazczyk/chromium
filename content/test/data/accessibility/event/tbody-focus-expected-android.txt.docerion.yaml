@@ -1,0 +1,4 @@
+# Docerion header of tbody-focus-expected-android.txt.
+type: test
+title: tbody-focus expected events for Android
+summary: Expected Android accessibility events, mainly window content changes, for the tbody-focus test.

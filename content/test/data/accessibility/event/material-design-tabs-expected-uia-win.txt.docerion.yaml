@@ -1,0 +1,4 @@
+# Docerion header of material-design-tabs-expected-uia-win.txt.
+type: test
+title: Material design tabs expected UIA Win events
+summary: Expected UIA accessibility events for tab selection in the material design tabs event test.

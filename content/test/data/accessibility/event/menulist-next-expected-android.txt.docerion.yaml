@@ -1,0 +1,4 @@
+# Docerion header of menulist-next-expected-android.txt.
+type: test
+title: Menulist next expected events for Android
+summary: Expected Android window content-changed accessibility events while moving to the next item in a select menu list.

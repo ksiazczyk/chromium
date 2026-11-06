@@ -1,0 +1,4 @@
+# Docerion header of tabindex-removed-on-aria-hidden.html.
+type: test
+title: tabindex-removed-on-aria-hidden accessibility event test page
+summary: HTML test page that removes the tabindex attribute from an aria-hidden div to trigger accessibility events for the paired expected-output files.

@@ -1,0 +1,4 @@
+# Docerion header of tabindex-removed-on-aria-hidden-expected-win.txt.
+type: test
+title: Expected Windows events for tabindex-removed-on-aria-hidden test
+summary: Expected Windows accessibility event output for the tabindex-removed-on-aria-hidden test page, currently empty.

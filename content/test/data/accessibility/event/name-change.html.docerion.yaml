@@ -1,0 +1,4 @@
+# Docerion header of name-change.html.
+type: test
+title: Name change test page
+summary: HTML page whose go() function sets an aria-label on a heading to trigger an accessible name change event.

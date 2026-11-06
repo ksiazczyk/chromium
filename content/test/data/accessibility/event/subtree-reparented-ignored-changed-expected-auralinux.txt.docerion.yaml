@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-ignored-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for subtree-reparented-ignored-changed
+summary: Expected AT-SPI event output on Linux for the subtree-reparented-ignored-changed accessibility test.

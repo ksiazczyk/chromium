@@ -1,0 +1,4 @@
+# Docerion header of material-design-switch-expected-auralinux.txt.
+type: test
+title: Material Web switch expected accessibility tree for Linux
+summary: Expected Linux accessibility tree dumps showing the Material Web switch toggling checked state across three passes.

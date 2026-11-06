@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-next-expected-mac.txt.
+type: test
+title: Menulist collapse next expected events for macOS
+summary: Expected macOS AX accessibility events when selecting the next option in a collapsing select menu, used for the menulist-collapse-next web test.

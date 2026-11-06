@@ -1,0 +1,4 @@
+# Docerion header of scoped-content-changed-disabled-expected-android.txt.
+type: test
+title: Expected Android events for scoped content changed with disabled setting
+summary: Expected Android accessibility event log for the scoped content changed test when the scoped content-changed feature is disabled.

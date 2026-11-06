@@ -1,0 +1,4 @@
+# Docerion header of material-design-radio-expected-auralinux.txt.
+type: test
+title: Material design radio expected Auralinux events
+summary: Expected Linux accessibility tree dumps and checked state changes for the Material Web radio test.

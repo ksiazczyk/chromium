@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-expected-mac.txt.
+type: test
+title: Menulist collapse expected events for macOS
+summary: Expected macOS AX accessibility events when a select menu list collapses, used as the expected output for the menulist-collapse web test.

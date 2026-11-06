@@ -1,0 +1,4 @@
+# Docerion header of material-design-fab-expected-blink.txt.
+type: test
+title: Material design FAB expected Blink trees
+summary: Expected Blink accessibility tree dumps for the material design FAB event test, marking changed nodes such as the lowered state of the Add button.

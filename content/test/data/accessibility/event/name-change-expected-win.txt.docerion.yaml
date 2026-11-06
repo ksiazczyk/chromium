@@ -1,0 +1,4 @@
+# Docerion header of name-change-expected-win.txt.
+type: test
+title: Name change expected events for Windows
+summary: Expected Windows accessibility events when a heading's accessible name changes via aria-label.

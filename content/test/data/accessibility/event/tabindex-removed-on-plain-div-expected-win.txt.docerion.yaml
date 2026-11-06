@@ -1,0 +1,4 @@
+# Docerion header of tabindex-removed-on-plain-div-expected-win.txt.
+type: test
+title: tabindex-removed-on-plain-div expected events for Windows
+summary: Expected accessibility event output, a state change on the div, for removing tabindex from a plain div on Windows.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-next-expected-auralinux.txt.
+type: test
+title: Menulist next expected events for Linux
+summary: Expected Linux focus, selection and expansion events while moving to the next item in a select menu list.

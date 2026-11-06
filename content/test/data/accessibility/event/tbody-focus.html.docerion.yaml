@@ -1,0 +1,4 @@
+# Docerion header of tbody-focus.html.
+type: test
+title: tbody-focus test page
+summary: HTML test page with a table whose tbody is focused by script to trigger accessibility focus events.

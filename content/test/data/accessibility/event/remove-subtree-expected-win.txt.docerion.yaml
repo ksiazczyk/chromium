@@ -1,0 +1,4 @@
+# Docerion header of remove-subtree-expected-win.txt.
+type: test
+title: Expected Windows output for remove-subtree test
+summary: Expected Windows accessibility events for removing a list item, including hide, reorder and text-removed events.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-progress-expected-blink.txt.
+type: test
+title: Material design progress expected Blink tree dumps
+summary: Expected Blink accessibility tree dumps recorded across successive progress value changes.

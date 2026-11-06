@@ -1,0 +1,4 @@
+# Docerion header of scroll-horizontal-scroll-percent-change-expected-android.txt.
+type: test
+title: Expected Android events for horizontal scroll percent change
+summary: Expected Android accessibility event log for the horizontal scroll percent change test, covering WebView and scroll container scroll events.

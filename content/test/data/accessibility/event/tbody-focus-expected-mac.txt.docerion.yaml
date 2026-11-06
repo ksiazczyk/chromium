@@ -1,0 +1,4 @@
+# Docerion header of tbody-focus-expected-mac.txt.
+type: test
+title: tbody-focus expected events for macOS
+summary: Expected macOS AXFocusedUIElementChanged event when the tbody element receives focus.

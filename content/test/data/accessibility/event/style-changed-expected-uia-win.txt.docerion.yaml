@@ -1,0 +1,4 @@
+# Docerion header of style-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility events for style change
+summary: Expected UIA event output for the style-changed test on Windows, expecting a single LayoutInvalidated event on the document.
