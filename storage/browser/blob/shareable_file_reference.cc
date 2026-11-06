@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shareable file reference implementation
+// summary: Implements ShareableFileReference, a global path-keyed map ensuring one reference per file path, with creation, lookup, and final release callback support.
+// ---
+
 #include "storage/browser/blob/shareable_file_reference.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob data item class interface
+// summary: Declares the ref-counted BlobDataItem that owns immutable backing data for blob items, including its DataHandle interface for reading main and side data.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_DATA_ITEM_H_
 #define STORAGE_BROWSER_BLOB_BLOB_DATA_ITEM_H_
 

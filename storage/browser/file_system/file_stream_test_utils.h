@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream test helper declarations
+// summary: Declares test helper functions for reading from file stream readers, retrieving lengths and writing to file stream writers.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_TEST_UTILS_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage directory interface
+// summary: Declares the StorageDirectory interface for handling the WebStorage directory where Storage Buckets data is persisted for a profile.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_STORAGE_DIRECTORY_H_
 #define STORAGE_BROWSER_QUOTA_STORAGE_DIRECTORY_H_
 

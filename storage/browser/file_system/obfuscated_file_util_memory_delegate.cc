@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscatedFileUtilMemoryDelegate implementation
+// summary: Implements an in-memory ObfuscatedFileUtil delegate that keeps a directory tree of entries and checks available memory before allocating file content.
+// ---
+
 #include "storage/browser/file_system/obfuscated_file_util_memory_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedContext class declaration
+// summary: Declares IsolatedContext, which manages isolated filesystem mount points identified by filesystem IDs, with refcounted ScopedFSHandle and FileInfoSet helpers.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_ISOLATED_CONTEXT_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_ISOLATED_CONTEXT_H_
 

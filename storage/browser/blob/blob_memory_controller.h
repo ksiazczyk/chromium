@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobMemoryController class declaration
+// summary: Declares BlobMemoryController, which decides how blob data is stored by tracking memory and file quota, choosing transport strategies, and paging to disk.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_MEMORY_CONTROLLER_H_
 #define STORAGE_BROWSER_BLOB_BLOB_MEMORY_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileWriterDelegate unit tests
+// summary: Unit tests verifying that FileWriterDelegate writes blob data to sandboxed filesystems correctly, tracking bytes written, quota usage and error handling.
+// ---
+
 #include "storage/browser/file_system/file_writer_delegate.h"
 
 #include <stdint.h>

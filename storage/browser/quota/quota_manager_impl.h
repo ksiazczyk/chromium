@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaManagerImpl class declaration
+// summary: Declares QuotaManagerImpl, the eviction handler interface, and usage info types for the browser-side quota management system.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_MANAGER_IMPL_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_MANAGER_IMPL_H_
 

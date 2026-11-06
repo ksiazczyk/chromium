@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileStreamWriter interface for file writes
+// summary: Declares the FileStreamWriter interface for asynchronous writes to file-like objects, covering Write, Cancel and Flush with FlushMode semantics and error codes.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_WRITER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_WRITER_H_
 

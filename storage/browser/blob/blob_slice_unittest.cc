@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob slicing unit tests
+// summary: Tests blob slicing functionality now merged into BlobDataBuilder, verifying item copies, offsets, and quota states for sliced blobs.
+// ---
+
 #include "storage/browser/blob/blob_storage_context.h"
 
 #include <memory>

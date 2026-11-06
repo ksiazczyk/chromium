@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the quota directory
+summary: Lists code owners for the quota directory and delegates Mojom file reviews to security owners.

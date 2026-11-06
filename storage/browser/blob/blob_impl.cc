@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobImpl implementation
+// summary: Implements the Mojo blink::mojom::Blob service, handling cloning, range and full reads, data pipe access, loading, and snapshots.
+// ---
+
 #include "storage/browser/blob/blob_impl.h"
 
 #include <limits>

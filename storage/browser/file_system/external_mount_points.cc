@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External mount points implementation
+// summary: Implements registration and resolution of named external filesystem mount points, mapping mount names to host paths and cracking filesystem URLs into virtual paths.
+// ---
+
 #include "storage/browser/file_system/external_mount_points.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerBoundObserverList helper
+// summary: Template observer list that dispatches notifications to each observer on the sequenced task runner it was registered with, plus type aliases for access, change, and update observers.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_TASK_RUNNER_BOUND_OBSERVER_LIST_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_TASK_RUNNER_BOUND_OBSERVER_LIST_H_
 

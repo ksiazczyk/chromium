@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob storage constants and limits declaration
+// summary: Declares default blob storage size constants and the BlobStorageLimits struct governing memory, disk, and file transport limits.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_STORAGE_CONSTANTS_H_
 #define STORAGE_BROWSER_BLOB_BLOB_STORAGE_CONSTANTS_H_
 

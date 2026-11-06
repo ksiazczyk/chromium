@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobURLLoader header for serving blob URL requests
+// summary: Declares BlobURLLoader, a self-destructing Mojo URLLoader that handles requests for blob URLs and reads blob data through MojoBlobReader.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_URL_LOADER_H_
 #define STORAGE_BROWSER_BLOB_BLOB_URL_LOADER_H_
 

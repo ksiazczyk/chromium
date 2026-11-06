@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxOriginDatabaseInterface
+// summary: Abstract interface for origin-to-path databases, providing methods to check, create, remove, and list origin records and to drop or rewrite the database.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_ORIGIN_DATABASE_INTERFACE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_ORIGIN_DATABASE_INTERFACE_H_
 

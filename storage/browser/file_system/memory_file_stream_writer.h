@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryFileStreamWriter class declaration
+// summary: Declares a FileStreamWriter subclass that writes to in-memory files with support for cancelling pending operations and flushing.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_MEMORY_FILE_STREAM_WRITER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_MEMORY_FILE_STREAM_WRITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxOriginDatabase unit tests
+// summary: Unit tests covering basic origin path mapping, distinct paths for multiple origins, dropping and reopening the database, and deleting origin entries.
+// ---
+
 #include "storage/browser/file_system/sandbox_origin_database.h"
 
 #include <stddef.h>

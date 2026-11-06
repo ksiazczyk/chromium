@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File observer interfaces
+// summary: Defines abstract observer interfaces for file update, access and change notifications used to track sandboxed filesystem operations.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_OBSERVERS_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_OBSERVERS_H_
 

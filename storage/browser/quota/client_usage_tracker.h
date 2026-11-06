@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientUsageTracker class declaration
+// summary: Declares the per-client usage tracker that caches bucket usage and handles usage cache updates for quota clients.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_CLIENT_USAGE_TRACKER_H_
 #define STORAGE_BROWSER_QUOTA_CLIENT_USAGE_TRACKER_H_
 

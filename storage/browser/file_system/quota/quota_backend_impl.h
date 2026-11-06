@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaBackendImpl class header
+// summary: Declares the quota backend owned by QuotaReservationManager that bridges reservations to the quota manager proxy.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_BACKEND_IMPL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_BACKEND_IMPL_H_
 

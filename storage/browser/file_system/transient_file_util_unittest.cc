@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransientFileUtil unit tests
+// summary: Unit tests that register temporary files in the isolated context and verify snapshot creation, file info lookup, and cleanup behavior of TransientFileUtil.
+// ---
+
 #include <memory>
 #include <string>
 

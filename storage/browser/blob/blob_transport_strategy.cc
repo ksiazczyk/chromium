@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob transport strategy implementation
+// summary: Implements transport strategies for under-construction blob bytes, including embedded data, reply-based, and data pipe transports.
+// ---
+
 #include "storage/browser/blob/blob_transport_strategy.h"
 
 #include <memory>

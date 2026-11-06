@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobMemoryController implementation
+// summary: Implements blob storage limits and quota decisions, including memory and file quota allocation, transport strategies, and paging memory to disk.
+// ---
+
 #include "storage/browser/blob/blob_memory_controller.h"
 
 #include <algorithm>

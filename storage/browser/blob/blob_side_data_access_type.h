@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobSideDataAccessType enum declaration
+// summary: Declares the BlobSideDataAccessType enum used for UMA logging of blob side data access patterns, with values persisted to logs.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_SIDE_DATA_ACCESS_TYPE_H_
 #define STORAGE_BROWSER_BLOB_BLOB_SIDE_DATA_ACCESS_TYPE_H_
 

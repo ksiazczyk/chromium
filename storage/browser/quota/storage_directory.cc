@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage directory management
+// summary: Implements creation, dooming, and cleanup of the profile WebStorage directory and per-bucket storage directories used for Storage Buckets data.
+// ---
+
 #include "storage/browser/quota/storage_directory.h"
 
 #include "base/files/file_enumerator.h"

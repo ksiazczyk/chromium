@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobBuilderFromStream implementation
+// summary: Implements building a blob from a data pipe stream, managing memory chunks, disk paging, and quota allocation as data arrives.
+// ---
+
 #include "storage/browser/blob/blob_builder_from_stream.h"
 
 #include "base/compiler_specific.h"

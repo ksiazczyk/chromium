@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota database schema migrations
+// summary: Implements schema upgrades for the QuotaManager SQL database, including the version 10 to 11 migration with migration histograms.
+// ---
+
 #include "storage/browser/quota/quota_database_migrations.h"
 
 #include <string>

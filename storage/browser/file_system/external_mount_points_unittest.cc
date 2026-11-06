@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External mount points unit tests
+// summary: Unit tests covering registration, revocation and path resolution of external mount points, including overlapping paths and invalid names.
+// ---
+
 #include "storage/browser/file_system/external_mount_points.h"
 
 #include <stddef.h>

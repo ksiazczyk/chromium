@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quota temporary storage evictor unit tests
+// summary: Unit tests for the quota temporary storage evictor, using a mock eviction handler to exercise eviction rounds, LRU bucket ordering, and eviction behavior.
+// ---
+
 #include <stdint.h>
 
 #include <list>

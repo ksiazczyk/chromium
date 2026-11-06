@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream test helpers implementation
+// summary: Implements helper functions to read from FileStreamReader, fetch lengths and write strings to FileStreamWriter in tests.
+// ---
+
 #include "storage/browser/file_system/file_stream_test_utils.h"
 
 #include <string>

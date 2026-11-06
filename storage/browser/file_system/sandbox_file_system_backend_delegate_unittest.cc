@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox file system backend delegate unit tests
+// summary: Unit tests for SandboxFileSystemBackendDelegate covering access validation and filesystem opening with mock observers and quota proxies.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_system_backend_delegate.h"
 
 #include <memory>

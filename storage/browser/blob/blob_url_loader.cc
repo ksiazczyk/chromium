@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL loader implementation
+// summary: Implements BlobURLLoader, which serves blob data over the network URLLoader interface with range and content-type headers.
+// ---
+
 #include "storage/browser/blob/blob_url_loader.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOperationContext class header
+// summary: Declares the context class carried by FileSystemOperation and its delegated tasks, holding task runner, remaining quota, quota limit type, and observer lists.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPERATION_CONTEXT_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPERATION_CONTEXT_H_
 

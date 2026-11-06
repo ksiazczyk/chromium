@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file util unit tests
+// summary: Unit tests for LocalFileUtil covering file and directory operations through a test file system context.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

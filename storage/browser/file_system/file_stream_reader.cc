@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream reader snapshot time check
+// summary: Implements snapshot time verification for file stream readers, allowing a small delta when comparing expected modification times.
+// ---
+
 #include "storage/browser/file_system/file_stream_reader.h"
 
 #include <stdint.h>

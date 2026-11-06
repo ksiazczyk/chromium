@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileWriterDelegate implementation
+// summary: Implements writing data from a blob reader or Mojo data pipe into a file stream writer, with progress reporting, flushing and cancellation support.
+// ---
+
 #include "storage/browser/file_system/file_writer_delegate.h"
 
 #include <stdint.h>

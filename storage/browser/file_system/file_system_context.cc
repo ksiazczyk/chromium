@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemContext implementation
+// summary: Implements FileSystemContext, which owns registered backends and mount points and resolves, opens and manages file systems for the FileSystem API.
+// ---
+
 #include "storage/browser/file_system/file_system_context.h"
 
 #include <stddef.h>

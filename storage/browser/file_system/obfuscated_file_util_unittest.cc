@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObfuscatedFileUtil unit tests
+// summary: Extensive unit tests for ObfuscatedFileUtil covering copy and move cases, quota handling, incognito mode and bucket-based test modes.
+// ---
+
 #include "storage/browser/file_system/obfuscated_file_util.h"
 
 #include <stddef.h>

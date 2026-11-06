@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CopyOrMoveOperationDelegate unit tests
+// summary: Unit tests covering recursive copy and move operations, including file validators, hook delegates, progress callbacks, and error behavior.
+// ---
+
 #include "storage/browser/file_system/copy_or_move_operation_delegate.h"
 
 #include <stddef.h>

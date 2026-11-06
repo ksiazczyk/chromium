@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move hook delegate composite implementation
+// summary: Implements a composite copy-or-move hook delegate that fans hook calls out to multiple child delegates and reduces their status and error results.
+// ---
+
 #include "storage/browser/file_system/copy_or_move_hook_delegate_composite.h"
 
 #include <memory>

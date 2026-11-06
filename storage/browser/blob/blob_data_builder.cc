@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobDataBuilder implementation
+// summary: Implements BlobDataBuilder, including appending data and populating future bytes and file items for blob construction.
+// ---
+
 #include "storage/browser/blob/blob_data_builder.h"
 
 #include <stddef.h>

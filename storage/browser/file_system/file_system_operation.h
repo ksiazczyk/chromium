@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOperation interface for file system operations
+// summary: Defines the FileSystemOperation interface class implementing the W3C File API directories and system operations, with one operation per instance and callback-based results.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPERATION_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPERATION_H_
 

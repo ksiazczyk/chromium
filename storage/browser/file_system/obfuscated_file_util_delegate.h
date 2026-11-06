@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscatedFileUtilDelegate interface
+// summary: Abstract interface for the delegate that performs all ObfuscatedFileUtil operations touching disk, such as open, create, copy, move, truncate and delete.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_OBFUSCATED_FILE_UTIL_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_OBFUSCATED_FILE_UTIL_DELEGATE_H_
 

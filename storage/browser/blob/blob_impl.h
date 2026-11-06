@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobImpl class declaration
+// summary: Declares BlobImpl, the Mojo implementation of blink::mojom::Blob and DataPipeGetter backed by a BlobDataHandle that self-destructs when unbound.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_IMPL_H_
 #define STORAGE_BROWSER_BLOB_BLOB_IMPL_H_
 

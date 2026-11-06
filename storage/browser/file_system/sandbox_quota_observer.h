@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxQuotaObserver class declaration
+// summary: Declares a thread-safe observer that tracks usage deltas during file operations and reports them to the quota manager proxy and usage cache.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_QUOTA_OBSERVER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_QUOTA_OBSERVER_H_
 

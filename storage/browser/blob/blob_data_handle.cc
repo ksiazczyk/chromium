@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob data handle implementation
+// summary: Implements BlobDataHandle, which keeps a blob alive in the storage context and provides status checks, construction callbacks, snapshots, and reader creation.
+// ---
+
 #include "storage/browser/blob/blob_data_handle.h"
 
 #include <stdint.h>

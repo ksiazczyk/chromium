@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL loader factory
+// summary: Declares a URLLoaderFactory that can load exactly one blob URL, keeps the referenced blob alive, and self-destroys when bindings close.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_URL_LOADER_FACTORY_H_
 #define STORAGE_BROWSER_BLOB_BLOB_URL_LOADER_FACTORY_H_
 

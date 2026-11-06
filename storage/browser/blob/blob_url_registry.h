@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL registry
+// summary: Declares BlobUrlRegistry, the browser-side store of blob URL to blob mappings with storage key partitioning status checks.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_URL_REGISTRY_H_
 #define STORAGE_BROWSER_BLOB_BLOB_URL_REGISTRY_H_
 

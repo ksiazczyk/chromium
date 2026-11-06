@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Special storage policy implementation
+// summary: Implements observer registration and notification methods for storage policy events such as granted, revoked, cleared, and general policy changes.
+// ---
+
 #include "storage/browser/quota/special_storage_policy.h"
 
 #include "base/observer_list.h"

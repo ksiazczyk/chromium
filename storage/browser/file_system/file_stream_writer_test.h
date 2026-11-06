@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared FileStreamWriter test framework
+// summary: Provides a reusable gtest base class and typed tests that multiple FileStreamWriter implementations share by overriding file creation, writer factory and content hooks.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_WRITER_TEST_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_WRITER_TEST_H_
 

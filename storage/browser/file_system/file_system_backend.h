@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemBackend interface
+// summary: Defines the interface for file system backends, including type handling, URL resolution and factories for file util, watcher managers, validators, readers and operations.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_BACKEND_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_BACKEND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file stream writer implementation
+// summary: Implements LocalFileStreamWriter, which writes local files asynchronously through net::FileStream with open, seek, flush and cancel support.
+// ---
+
 #include "storage/browser/file_system/local_file_stream_writer.h"
 
 #include <stdint.h>

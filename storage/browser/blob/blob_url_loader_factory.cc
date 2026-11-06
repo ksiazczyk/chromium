@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL loader factory implementation
+// summary: Implements BlobURLLoaderFactory, creating URLLoader factories bound to a single blob or a blob URL token and reporting errors for invalid requests.
+// ---
+
 #include "storage/browser/blob/blob_url_loader_factory.h"
 
 #include "base/functional/bind.h"

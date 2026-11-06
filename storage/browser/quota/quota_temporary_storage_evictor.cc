@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Temporary storage evictor implementation
+// summary: Implements periodic eviction rounds that evict expired or least-desirable temporary storage buckets when usage or disk space crosses thresholds.
+// ---
+
 #include "storage/browser/quota/quota_temporary_storage_evictor.h"
 
 #include <stdint.h>

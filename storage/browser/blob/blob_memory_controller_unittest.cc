@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobMemoryController unit tests
+// summary: Unit tests for BlobMemoryController covering quota limits, transport strategies, disk space handling, and paging behavior with test limits.
+// ---
+
 #include "storage/browser/blob/blob_memory_controller.h"
 
 #include <array>

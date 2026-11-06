@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxDirectoryDatabase unit tests
+// summary: Unit tests covering hierarchy links, database repair, consistency checks and other operations of the sandbox directory database.
+// ---
+
 #include "storage/browser/file_system/sandbox_directory_database.h"
 
 #include <math.h>

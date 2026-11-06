@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemFileUtil enumerator implementations
+// summary: Implements placeholder and empty file enumerator behavior for FileSystemFileUtil, returning OK errors and yielding no entries.
+// ---
+
 #include <stdint.h>
 
 #include "storage/browser/file_system/file_system_file_util.h"

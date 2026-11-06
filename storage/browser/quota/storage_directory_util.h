@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage bucket path utility declarations
+// summary: Declares functions that construct disk paths for bucket data and client-specific data under a given profile path.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_STORAGE_DIRECTORY_UTIL_H_
 #define STORAGE_BROWSER_QUOTA_STORAGE_DIRECTORY_UTIL_H_
 

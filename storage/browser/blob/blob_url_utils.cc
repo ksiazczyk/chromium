@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL utilities
+// summary: Implements BlobUrlUtils helpers that detect and strip fragments from blob URLs.
+// ---
+
 #include "storage/browser/blob/blob_url_utils.h"
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxOriginDatabaseInterface OriginRecord definitions
+// summary: Defines the constructors and destructor for the OriginRecord struct of the sandbox origin database interface.
+// ---
+
 #include "storage/browser/file_system/sandbox_origin_database_interface.h"
 
 namespace storage {

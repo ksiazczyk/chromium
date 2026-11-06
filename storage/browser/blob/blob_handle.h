@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobHandle class declaration
+// summary: Declares BlobHandle, a refcounted wrapper around a blink::mojom::Blob Mojo remote with accessors and a Clone method.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_HANDLE_H_
 #define STORAGE_BROWSER_BLOB_BLOB_HANDLE_H_
 

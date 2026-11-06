@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemURL implementation
+// summary: Implements FileSystemURL, the virtual file path for Chromium's virtual file systems, including sibling creation, test factory methods, and type-to-path validity checks.
+// ---
+
 #include "storage/browser/file_system/file_system_url.h"
 
 #include <compare>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncFileUtilAdapter implementation
+// summary: Implements the adapter that runs synchronous FileSystemFileUtil operations on worker threads and forwards results to asynchronous callbacks.
+// ---
+
 #include "storage/browser/file_system/async_file_util_adapter.h"
 
 #include <stddef.h>

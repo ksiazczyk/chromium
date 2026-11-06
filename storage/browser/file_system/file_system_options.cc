@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOptions implementation
+// summary: Implements FileSystemOptions constructors and the is_in_memory check based on profile mode, forced in-memory flag, and additional allowed schemes.
+// ---
+
 #include "storage/browser/file_system/file_system_options.h"
 
 namespace storage {

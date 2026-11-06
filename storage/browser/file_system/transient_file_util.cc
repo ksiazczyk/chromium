@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientFileUtil implementation
+// summary: Creates snapshot files for transient isolated file systems and revokes the file system registration when the snapshot file goes out of scope.
+// ---
+
 #include "storage/browser/file_system/transient_file_util.h"
 
 #include <string>

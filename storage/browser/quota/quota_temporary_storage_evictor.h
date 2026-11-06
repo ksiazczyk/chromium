@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Temporary storage evictor declarations
+// summary: Declares QuotaTemporaryStorageEvictor, which runs timed eviction rounds and reports statistics and histograms for temporary storage eviction.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_TEMPORARY_STORAGE_EVICTOR_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_TEMPORARY_STORAGE_EVICTOR_H_
 

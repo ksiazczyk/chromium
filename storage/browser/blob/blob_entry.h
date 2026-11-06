@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob entry class interface
+// summary: Declares BlobEntry, the registry representation of a blob, including item copy entries and building state for pending quota and referenced blobs.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_ENTRY_H_
 #define STORAGE_BROWSER_BLOB_BLOB_ENTRY_H_
 

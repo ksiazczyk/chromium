@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemRequestInfo implementation
+// summary: Implements the FileSystemRequestInfo constructor that copies the request URL, storage domain, content id, and storage key into the struct.
+// ---
+
 #include "storage/browser/file_system/file_system_request_info.h"
 
 #include "third_party/blink/public/common/storage_key/storage_key.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quota Mojo bindings build target
+summary: Defines the GN build target that compiles the quota Mojo interface files with their public dependencies.

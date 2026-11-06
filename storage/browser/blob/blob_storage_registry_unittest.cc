@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobStorageRegistry unit tests
+// summary: Unit tests verifying UUID registration, lookup, and deletion behavior of BlobStorageRegistry.
+// ---
+
 #include "storage/browser/blob/blob_storage_registry.h"
 
 #include "storage/browser/blob/blob_entry.h"

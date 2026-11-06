@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota override handle declarations
+// summary: Declares QuotaOverrideHandle, a per-sequence handle owned by DevTools clients to override and manage storage quota per storage key.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_OVERRIDE_HANDLE_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_OVERRIDE_HANDLE_H_
 

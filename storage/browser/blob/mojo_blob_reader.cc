@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo blob reader implementation
+// summary: Implements MojoBlobReader, which reads a blob for a given handle and byte range into a mojo data pipe, reporting size, side data, and completion to a delegate.
+// ---
+
 #include "storage/browser/blob/mojo_blob_reader.h"
 
 #include "base/functional/bind.h"

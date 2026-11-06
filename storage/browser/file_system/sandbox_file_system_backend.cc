@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox file system backend implementation
+// summary: Implements the FileSystemBackend for temporary and persistent sandboxed filesystems, including quota observer setup, URL resolution and operation creation.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_system_backend.h"
 
 #include <stdint.h>

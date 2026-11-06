@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobStorageContext unit tests
+// summary: Unit tests for BlobStorageContext covering blob creation, refcounting, memory limits, and file-backed storage.
+// ---
+
 #include "storage/browser/blob/blob_storage_context.h"
 
 #include <stdint.h>

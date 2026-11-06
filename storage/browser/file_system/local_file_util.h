@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFileUtil class declaration
+// summary: Declares LocalFileUtil, a FileSystemFileUtil that performs file and directory operations on the local filesystem and hides symlinks for security.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_LOCAL_FILE_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_LOCAL_FILE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileWriterDelegate class declaration
+// summary: Declares FileWriterDelegate, which streams blob or data pipe data into a file via FileStreamWriter and reports write progress, completion status and errors.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_WRITER_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_WRITER_DELEGATE_H_
 

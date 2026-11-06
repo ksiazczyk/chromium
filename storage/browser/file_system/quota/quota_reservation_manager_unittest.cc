@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuotaReservationManager unit tests
+// summary: Unit tests for QuotaReservationManager using a fake quota backend and writer to verify quota reservation and file growth handling.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

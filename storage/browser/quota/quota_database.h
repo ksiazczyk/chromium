@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaDatabase class declaration
+// summary: Declares the QuotaDatabase class that stores and manages quota-controlled origin bucket data and metadata, owned by QuotaManagerImpl.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_DATABASE_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_DATABASE_H_
 

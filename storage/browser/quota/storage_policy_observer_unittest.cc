@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StoragePolicyObserver unit tests
+// summary: Unit tests verifying that StoragePolicyObserver reports purge-on-shutdown updates for session-only origins and none for regular origins.
+// ---
+
 #include "storage/browser/quota/storage_policy_observer.h"
 
 #include "base/test/task_environment.h"

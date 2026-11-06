@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOperationRunner class header
+// summary: Declares the central interface for running FileSystem API operations, returning OperationID handles that can be used to cancel in-flight operations.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPERATION_RUNNER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPERATION_RUNNER_H_
 

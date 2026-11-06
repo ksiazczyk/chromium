@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxDirectoryDatabase header
+// summary: Declares the database that stores path entries for the sandbox file system without creating or touching real files.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_DIRECTORY_DATABASE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_DIRECTORY_DATABASE_H_
 

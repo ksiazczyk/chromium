@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscatedFileUtilMemoryDelegate class declaration
+// summary: Declares the in-memory ObfuscatedFileUtilDelegate that stores files and directories in an Entry tree instead of touching disk.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_OBFUSCATED_FILE_UTIL_MEMORY_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_OBFUSCATED_FILE_UTIL_MEMORY_DELEGATE_H_
 

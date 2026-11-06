@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageTracker implementation
+// summary: Implements UsageTracker, aggregating global, storage key, and bucket usage across registered quota clients with caching and callback batching.
+// ---
+
 #include "storage/browser/quota/usage_tracker.h"
 
 #include <stdint.h>

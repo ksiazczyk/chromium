@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped file implementation
+// summary: Implements ScopedFile, which wraps a file path and can delete the file or run scope-out callbacks on a task runner when the last reference is released.
+// ---
+
 #include "storage/browser/blob/scoped_file.h"
 
 #include "base/files/file_util.h"

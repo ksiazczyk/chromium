@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecursiveOperationDelegate unit tests
+// summary: Unit tests that verify traversal order and error handling of recursive operations using a logging delegate implementation.
+// ---
+
 #include "storage/browser/file_system/recursive_operation_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOperationRunner implementation
+// summary: Implements the operation runner that creates, tracks, and cancels file system operations by OperationID and dispatches results to callbacks.
+// ---
+
 #include "storage/browser/file_system/file_system_operation_runner.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Special storage policy interface
+// summary: Declares the SpecialStoragePolicy interface that storage subsystems query to determine protected, unlimited, persistent, isolated, and session-only origins.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_SPECIAL_STORAGE_POLICY_H_
 #define STORAGE_BROWSER_QUOTA_SPECIAL_STORAGE_POLICY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL store
+// summary: Declares BlobURLStoreImpl, the per-storage-key browser-side BlobURLStore that validates blob URLs and resolves them to loaders or tokens.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_URL_STORE_IMPL_H_
 #define STORAGE_BROWSER_BLOB_BLOB_URL_STORE_IMPL_H_
 

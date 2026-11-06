@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob data snapshot implementation
+// summary: Implements BlobDataSnapshot constructors, memory usage calculation over byte items, and debug printing of snapshot contents.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

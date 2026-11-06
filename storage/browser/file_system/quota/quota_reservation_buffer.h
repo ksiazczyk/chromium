@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaReservationBuffer class declaration
+// summary: Declares QuotaReservationBuffer, which manages quota reservations and open file handles, staging consumed quota until files are closed.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_RESERVATION_BUFFER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_RESERVATION_BUFFER_H_
 

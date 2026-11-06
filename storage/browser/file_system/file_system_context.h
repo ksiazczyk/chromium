@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemContext class declaration
+// summary: Declares FileSystemContext, the profile-owned hub that keeps backends and mount points, resolves URLs and creates stream readers, writers and operations.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_CONTEXT_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFileStreamWriter class declaration
+// summary: Declares LocalFileStreamWriter, a thin wrapper around net::FileStream for asynchronous writing of local files.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_LOCAL_FILE_STREAM_WRITER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_LOCAL_FILE_STREAM_WRITER_H_
 

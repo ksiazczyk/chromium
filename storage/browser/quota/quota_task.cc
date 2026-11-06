@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota task base implementation
+// summary: Implements QuotaTask and QuotaTaskObserver, which track and abort asynchronous quota tasks and schedule their deletion on completion.
+// ---
+
 #include "storage/browser/quota/quota_task.h"
 
 #include <algorithm>

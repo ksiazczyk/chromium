@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatcherManager interface
+// summary: Declares the WatcherManager interface for file system backends to add and remove directory watchers with change and deletion notification callbacks.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_WATCHER_MANAGER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_WATCHER_MANAGER_H_
 

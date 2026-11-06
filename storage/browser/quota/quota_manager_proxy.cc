@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaManagerProxy implementation
+// summary: Implements the thread-safe proxy that forwards quota manager calls to QuotaManagerImpl on its task runner and resolves bucket storage paths.
+// ---
+
 #include "storage/browser/quota/quota_manager_proxy.h"
 
 #include <stdint.h>

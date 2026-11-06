@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quota manager unit tests
+// summary: Unit tests for the quota manager implementation, covering usage and quota queries, bucket handling, and eviction behavior with mock quota clients.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

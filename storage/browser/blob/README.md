@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome's Blob Storage System Design
+summary: Design document explaining Chrome's blob storage system, covering terminology, storage limits, usage via mojo and blink, and browser-side transportation and storage internals.
+relations:
+  - documents /third_party/blink/public/mojom/blob/blob.mojom
+---
+
 # Chrome's Blob Storage System Design
 
 Elaboration of the blob storage system in Chrome.

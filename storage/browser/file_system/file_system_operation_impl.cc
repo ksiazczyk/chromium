@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOperationImpl implementation
+// summary: Implements the default FileSystemOperation behavior for create, copy, move, read, remove, write, and truncate operations, including quota and bucket space checks.
+// ---
+
 #include "storage/browser/file_system/file_system_operation_impl.h"
 
 #include <stdint.h>

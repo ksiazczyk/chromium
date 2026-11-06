@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox file system backend delegate declaration
+// summary: Declares SandboxFileSystemBackendDelegate, which provides quota utilities and shared logic used by the sandbox and sync filesystem backends.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_FILE_SYSTEM_BACKEND_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_FILE_SYSTEM_BACKEND_DELEGATE_H_
 

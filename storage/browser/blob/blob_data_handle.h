@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob data handle class interface
+// summary: Declares BlobDataHandle, a copyable handle that keeps a blob alive in BlobStorageContext and exposes construction status, snapshots, and reader creation across threads.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_DATA_HANDLE_H_
 #define STORAGE_BROWSER_BLOB_BLOB_DATA_HANDLE_H_
 

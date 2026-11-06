@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaReservationBuffer implementation
+// summary: Implements QuotaReservationBuffer, which stages and commits quota usage for open files per origin and file system type.
+// ---
+
 #include "storage/browser/file_system/quota/quota_reservation_buffer.h"
 
 #include <stdint.h>

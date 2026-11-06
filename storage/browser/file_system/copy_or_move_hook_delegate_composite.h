@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOrMoveHookDelegateComposite class declaration
+// summary: Declares a composite hook delegate that owns multiple copy-or-move hook delegates, invokes them in order, and aggregates their results.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_HOOK_DELEGATE_COMPOSITE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_HOOK_DELEGATE_COMPOSITE_H_
 

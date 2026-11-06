@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOrMoveOperationDelegate class declaration
+// summary: Declares the delegate for recursive copy and move operations, including the StreamCopyHelper that copies files via reader and writer streams.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_OPERATION_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_OPERATION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota settings declarations
+// summary: Defines the QuotaSettings struct and functions for the embedder to provide pool size, per-storage-key quota, and remaining-space thresholds.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_SETTINGS_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_SETTINGS_H_
 

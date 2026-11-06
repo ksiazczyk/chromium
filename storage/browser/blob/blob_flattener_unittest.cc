@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob flattener unit tests
+// summary: Unit tests for the blob flattening functionality now merged into BlobDataBuilder, exercising blob construction, items, and memory limits against a test context.
+// ---
+
 #include <memory>
 #include <string_view>
 

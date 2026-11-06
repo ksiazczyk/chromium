@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemURL header
+// summary: Declares FileSystemURL, the virtual file path object for sandboxed and external file systems, with documentation of its history, storage keys, buckets, and URL cracking.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_URL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_URL_H_
 

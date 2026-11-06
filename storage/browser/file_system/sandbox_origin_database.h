@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxOriginDatabase class declaration
+// summary: Declares the leveldb-backed origin database class with init and recovery options for looking up, adding, removing, and listing origin paths.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_ORIGIN_DATABASE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_ORIGIN_DATABASE_H_
 

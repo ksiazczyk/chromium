@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file stream reader implementation
+// summary: Implements LocalFileStreamReader, which reads local files through net::FileStream with range support, expected modification time checks and scoped file access handling.
+// ---
+
 #include "storage/browser/file_system/local_file_stream_reader.h"
 
 #include <stdint.h>

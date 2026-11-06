@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncFileUtil interface for filesystem-specific file operations
+// summary: Defines the asynchronous interface that filesystem backends implement to provide file operations dispatched by FileSystemOperationImpl.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_ASYNC_FILE_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_ASYNC_FILE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsageTracker unit tests
+// summary: Unit tests exercising UsageTracker usage aggregation and caching with a mock quota client and a real QuotaManagerImpl in a temp directory.
+// ---
+
 #include "storage/browser/quota/usage_tracker.h"
 
 #include <stdint.h>

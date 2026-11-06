@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecursiveOperationDelegate base class header
+// summary: Declares the base class for recursive operation delegates, which subclasses customize by overriding ProcessFile, ProcessDirectory and PostProcessDirectory.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_RECURSIVE_OPERATION_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_RECURSIVE_OPERATION_DELEGATE_H_
 

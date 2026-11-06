@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFileUtil class declaration
+// summary: Declares static helpers wrapping the OS native filesystem, including copy or move modes, file info, directory handling and deletion operations.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_NATIVE_FILE_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_NATIVE_FILE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxOriginDatabase implementation
+// summary: Implements a leveldb-backed database that maps origins to unique sandbox directory paths, with initialization, corruption repair, and deletion recovery options.
+// ---
+
 #include "storage/browser/file_system/sandbox_origin_database.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox file system backend unit tests
+// summary: Unit tests for the sandbox file system backend, verifying root path resolution for different origins and file URIs across temporary and persistent file system types, including non-default buckets.
+// ---
+
 
 #include "storage/browser/file_system/sandbox_file_system_backend.h"
 

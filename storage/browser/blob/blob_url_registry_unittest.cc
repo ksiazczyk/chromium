@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob URL registry unit tests
+// summary: Unit tests for BlobUrlRegistry covering URL registration, duplicate mapping rejection, removal, and partitioned blob URL access scenarios.
+// ---
+
 #include "storage/browser/blob/blob_url_registry.h"
 
 #include "base/functional/callback.h"

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Quota system overview
+summary: Explains the quota system's key components, implementation, storage pressure, eviction, and related resources.
+relations:
+  - references /storage/browser/quota/quota_settings.cc
+  - documents /storage/browser/quota/client_usage_tracker.cc
+  - documents /storage/browser/quota/quota_database.cc
+---
+
 # Overview
 
 The quota system's primary role is to set and enforce limits on disk usage at

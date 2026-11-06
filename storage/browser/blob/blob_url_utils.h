@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL hash fragment utilities header
+// summary: Declares BlobUrlUtils helpers that detect and strip hash fragments from blob URLs, since GURL mishandles fragments in the blob URL format.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_URL_UTILS_H_
 #define STORAGE_BROWSER_BLOB_BLOB_URL_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOrMoveHookDelegate interface
+// summary: Declares a delegate interface for copy and move operation hooks, documenting callback sequences for progress, errors, and completion events.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_HOOK_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_HOOK_DELEGATE_H_
 

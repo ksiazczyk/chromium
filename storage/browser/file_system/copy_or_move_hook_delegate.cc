@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOrMoveHookDelegate implementation
+// summary: Provides default implementations of the copy or move hook callbacks, which succeed without action and report default error handling.
+// ---
+
 #include "storage/browser/file_system/copy_or_move_hook_delegate.h"
 
 #include "base/files/file.h"

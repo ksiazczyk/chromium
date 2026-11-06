@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory file stream writer unit tests
+// summary: Runs the shared FileStreamWriter typed test suite against the memory-backed writer using an in-memory obfuscated file util delegate.
+// ---
+
 #include "storage/browser/file_system/memory_file_stream_writer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob data snapshot class interface
+// summary: Declares BlobDataSnapshot, which holds references to blob item resources so backing storage stays alive for the lifetime of the snapshot.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_DATA_SNAPSHOT_H_
 #define STORAGE_BROWSER_BLOB_BLOB_DATA_SNAPSHOT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quota database migration unit tests
+// summary: Unit tests verifying quota database schema migrations, including the upgrade from version 10 to 11 and migration histogram recording.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"

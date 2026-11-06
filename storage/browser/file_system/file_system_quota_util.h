@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemQuotaUtil interface header
+// summary: Defines the FileSystemQuotaUtil abstract interface with synchronous quota utilities for bucket deletion, usage tracking, storage cleanup, and quota reservations on file task runners.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_QUOTA_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_QUOTA_UTIL_H_
 

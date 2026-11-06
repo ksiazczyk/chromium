@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dragged file util implementation
+// summary: Implements file utilities for dragged-file isolated file systems, enumerating dropped files and restricting access to hidden items.
+// ---
+
 #include "storage/browser/file_system/dragged_file_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file util implementation
+// summary: Implements LocalFileUtil, which maps virtual file system URLs to platform paths and performs create, copy, move, delete and enumeration operations on local files.
+// ---
+
 #include "storage/browser/file_system/local_file_util.h"
 
 #include <stdint.h>

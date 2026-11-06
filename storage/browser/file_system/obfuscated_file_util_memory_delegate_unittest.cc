@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObfuscatedFileUtilMemoryDelegate unit tests
+// summary: Unit tests for the in-memory delegate covering file creation, deletion, path normalization and paths beyond the root.
+// ---
+
 #include "storage/browser/file_system/obfuscated_file_util_memory_delegate.h"
 
 #include <memory>
