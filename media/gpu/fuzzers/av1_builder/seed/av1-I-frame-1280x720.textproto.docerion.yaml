@@ -1,0 +1,4 @@
+# Docerion header of av1-I-frame-1280x720.textproto.
+type: data
+title: av1-I-frame-1280x720.textproto
+summary: Seed corpus file holding a 1280x720 AV1 key frame (sequence and frame headers) in protobuf text format, used as input for the AV1 builder fuzzer.

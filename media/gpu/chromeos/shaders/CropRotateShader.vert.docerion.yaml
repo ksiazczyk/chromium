@@ -1,0 +1,4 @@
+# Docerion header of CropRotateShader.vert.
+type: source
+title: CropRotate vertex shader
+summary: Vertex shader that computes vertex positions and texture coordinates for scaling, rotation, and crop using push constants.

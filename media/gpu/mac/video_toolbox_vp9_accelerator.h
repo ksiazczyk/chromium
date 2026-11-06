@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox VP9 accelerator header
+// summary: Declares VideoToolboxVP9Accelerator, a VP9Decoder accelerator that builds superframes from unprocessed bitstream and produces one output per superframe.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_VP9_ACCELERATOR_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_VP9_ACCELERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test image class for loading image files
+// summary: Declares the Image class that loads image files and exposes format, size, rotation and checksum properties.
+// ---
+
 #ifndef MEDIA_GPU_TEST_IMAGE_H_
 #define MEDIA_GPU_TEST_IMAGE_H_
 

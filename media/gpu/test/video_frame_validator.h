@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame validator header
+// summary: Declares the VideoFrameValidator base class with threshold and average validation modes for PSNR and SSIM frame checks.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_FRAME_VALIDATOR_H_
 #define MEDIA_GPU_TEST_VIDEO_FRAME_VALIDATOR_H_
 

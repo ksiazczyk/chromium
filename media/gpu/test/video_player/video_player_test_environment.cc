@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video player test environment implementation
+// summary: Implements VideoPlayerTestEnvironment, creating the test video bitstream (with a default test video) and exposing validator, decoder implementation, and frame output settings for video decode tests.
+// ---
+
 #include "media/gpu/test/video_player/video_player_test_environment.h"
 
 #include <algorithm>

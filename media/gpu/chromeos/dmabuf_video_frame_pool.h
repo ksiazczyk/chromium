@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMABUF video frame pool interface
+// summary: Defines the DmabufVideoFramePool interface for allocating and managing DMA-buf video frames, covering layout initialization, frame retrieval, and exhaustion handling.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_DMABUF_VIDEO_FRAME_POOL_H_
 #define MEDIA_GPU_CHROMEOS_DMABUF_VIDEO_FRAME_POOL_H_
 

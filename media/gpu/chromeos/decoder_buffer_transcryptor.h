@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder buffer transcryptor interface
+// summary: Declares DecoderBufferTranscryptor, which queues and decrypts buffers via the CDM context for protected content decoding, notably in AMD implementations.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_DECODER_BUFFER_TRANSCRYPTOR_H_
 #define MEDIA_GPU_CHROMEOS_DECODER_BUFFER_TRANSCRYPTOR_H_
 

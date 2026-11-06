@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOPVideoDecoder implementation
+// summary: Implements a proxy video decoder that communicates with an out-of-process video decoder over Mojo, enforcing state invariants with CHECKs.
+// ---
+
 #include "media/gpu/chromeos/oop_video_decoder.h"
 
 #include "base/functional/callback_helpers.h"

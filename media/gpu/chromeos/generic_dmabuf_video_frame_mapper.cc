@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic DmaBuf video frame mapper
+// summary: Implements a generic mapper that mmaps DmaBuf-backed video frames into CPU-accessible memory and wraps them as VideoFrames.
+// ---
+
 #include "media/gpu/chromeos/generic_dmabuf_video_frame_mapper.h"
 
 #include <sys/mman.h>

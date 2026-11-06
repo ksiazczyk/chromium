@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuBufferLayout declaration
+// summary: Declares GpuBufferLayout, which describes a GPU buffer's fourcc format, size, per-plane color layouts, and DRM format modifier.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_GPU_BUFFER_LAYOUT_H_
 #define MEDIA_GPU_CHROMEOS_GPU_BUFFER_LAYOUT_H_
 

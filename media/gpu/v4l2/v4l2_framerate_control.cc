@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 frame rate control implementation
+// summary: Implements V4L2FrameRateControl, which estimates the decoded frame rate from frame durations and reports it to the hardware via V4L2 ioctls.
+// ---
+
 #include "media/gpu/v4l2/v4l2_framerate_control.h"
 
 #include <linux/videodev2.h>

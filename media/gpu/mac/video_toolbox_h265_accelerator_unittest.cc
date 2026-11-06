@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video Toolbox H265 accelerator unit tests
+// summary: Tests the H265 accelerator's VPS/SPS/PPS processing, slice submission, sample buffer creation, and picture output using real HEVC bitstream data.
+// ---
+
 #include "media/gpu/mac/video_toolbox_h265_accelerator.h"
 
 #include <memory>

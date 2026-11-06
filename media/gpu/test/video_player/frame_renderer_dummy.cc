@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy frame renderer implementation for video decoder tests
+// summary: Implements a dummy frame renderer that consumes decoded frames immediately or simulates rendering with configurable frame duration and VSync interval.
+// ---
+
 #include "media/gpu/test/video_player/frame_renderer_dummy.h"
 
 #include <algorithm>

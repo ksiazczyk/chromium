@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 boolean decoder implementation
+// summary: Implements the VP9 boolean arithmetic decoder per spec section 9.2, including range decoding, literal reads, padding consumption and a shift-count lookup table.
+// ---
+
 #include "media/gpu/v4l2/vp9/vp9_bool_decoder.h"
 
 #include <algorithm>

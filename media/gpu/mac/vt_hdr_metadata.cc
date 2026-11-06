@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox HDR metadata SEI builder
+// summary: Parses mastering display color volume and content light level extensions from a sample buffer and builds an Annex B SEI NAL unit for H.264 or HEVC.
+// ---
+
 #include "media/gpu/mac/vt_hdr_metadata.h"
 
 #include <optional>

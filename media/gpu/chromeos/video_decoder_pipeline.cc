@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderPipeline implementation
+// summary: Implements the ChromeOS video decoder pipeline, picking renderable output formats and managing frame pools and image processors for VA-API and V4L2 decoders.
+// ---
+
 #include "media/gpu/chromeos/video_decoder_pipeline.h"
 
 #include <algorithm>

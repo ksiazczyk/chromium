@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media GPU ChromeOS
+summary: Specifies additional include rules allowing dependencies on cdm_factory_daemon, Mojo bindings, and the cdm_oemcrypto system API constants.

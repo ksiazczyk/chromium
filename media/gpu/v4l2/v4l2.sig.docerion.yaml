@@ -1,0 +1,4 @@
+# Docerion header of v4l2.sig.
+type: reference
+title: libv4l2 function signatures (v4l2.sig)
+summary: Declares the libv4l2 functions used by Chromium code, such as v4l2_close, v4l2_ioctl and v4l2_fd_open.

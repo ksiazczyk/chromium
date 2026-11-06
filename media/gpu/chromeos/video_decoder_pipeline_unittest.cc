@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoDecoderPipeline unit tests
+// summary: Unit tests for the ChromeOS video decoder pipeline using mock frame pools, decoders and frame resource converters to verify decoding behavior.
+// ---
+
 #include "media/gpu/chromeos/video_decoder_pipeline.h"
 
 #include <vector>

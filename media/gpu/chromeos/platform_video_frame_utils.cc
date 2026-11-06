@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform video frame utilities implementation
+// summary: Implements GBM and DRM based allocation of platform video frames, including GpuMemoryBuffer handles and DMABUF frames.
+// ---
+
 #include "media/gpu/chromeos/platform_video_frame_utils.h"
 
 #include <drm_fourcc.h>

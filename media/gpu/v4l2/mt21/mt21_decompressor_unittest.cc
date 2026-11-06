@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MT21 decompressor unit tests
+// summary: Tests the MT21 decompressor using synthetic compressed frames built by a block writer helper, including Golomb-Rice encoding and performance reporting.
+// ---
+
 #include "base/compiler_specific.h"
 #include "build/build_config.h"
 

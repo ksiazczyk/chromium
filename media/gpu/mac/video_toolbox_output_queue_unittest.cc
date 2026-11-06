@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoToolbox output queue unit tests
+// summary: Unit tests covering construction, scheduling, reordering, flushing and reset behavior of VideoToolboxOutputQueue.
+// ---
+
 #include "media/gpu/mac/video_toolbox_output_queue.h"
 
 #include "base/functional/bind.h"

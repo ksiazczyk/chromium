@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for shader files
+# summary: Presubmit script that verifies shaders.h is kept in sync with the shader sources by rerunning compile_shaders.py.
+# ---
+
 """Presubmit script for the media/gpu/chromeos/shaders folder.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

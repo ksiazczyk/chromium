@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fourcc unit tests
+// summary: Unit tests verifying Fourcc conversions between V4L2 pixel formats and Chromium video pixel formats, including round-trip checks.
+// ---
+
 #include "media/gpu/chromeos/fourcc.h"
 
 #include <optional>

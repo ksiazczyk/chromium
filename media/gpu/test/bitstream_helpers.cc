@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitstream processor reference implementation for video tests
+// summary: Implements creation and lifetime handling of the reference-counted BitstreamRef used by test bitstream processors.
+// ---
+
 #include "media/gpu/test/bitstream_helpers.h"
 
 #include "base/memory/scoped_refptr.h"

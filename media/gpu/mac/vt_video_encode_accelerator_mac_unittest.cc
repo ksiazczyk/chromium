@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoToolbox video encode accelerator unit tests
+// summary: Unit tests exercising the VideoToolbox encoder with test clients, checking keyframes, bitstream output, encoder info changes and HDR metadata handling.
+// ---
+
 #include "media/gpu/mac/vt_video_encode_accelerator_mac.h"
 
 #include <memory>

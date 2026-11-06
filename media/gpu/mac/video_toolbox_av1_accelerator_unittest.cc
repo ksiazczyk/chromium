@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the VideoToolbox AV1 accelerator
+// summary: GoogleTest suite verifying sample buffer creation and output for raw frames and superframes decoded by the AV1 accelerator.
+// ---
+
 #include <memory>
 
 #include "media/base/media_util.h"

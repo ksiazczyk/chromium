@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageProcessorBackend declaration
+// summary: Declares ImageProcessorBackend, the base class defining port configurations, output modes, ready and error callbacks, and the FrameResource processing interface.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_BACKEND_H_
 #define MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_BACKEND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RawVideo implementation for video test data
+// summary: Implements RawVideo, which loads raw or compressed video data with JSON metadata and decodes VP9 frames to supply frame data for GPU video tests.
+// ---
+
 #include "media/gpu/test/raw_video.h"
 
 #include <array>

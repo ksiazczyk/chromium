@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 decoded picture buffer class
+// summary: Declares the H265Picture class and the H265DPB decoded picture buffer that stores decoded HEVC pictures for future display and reference during decoding.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_H265_DPB_H_
 #define MEDIA_GPU_V4L2_TEST_H265_DPB_H_
 

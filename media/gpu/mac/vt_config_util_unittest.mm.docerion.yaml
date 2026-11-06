@@ -1,0 +1,4 @@
+# Docerion header of vt_config_util_unittest.mm.
+type: test
+title: VideoToolbox config utility unit tests
+summary: Unit tests verifying that format extensions built from color spaces, pixel formats and HDR metadata produce the expected CoreMedia dictionaries and attachments.

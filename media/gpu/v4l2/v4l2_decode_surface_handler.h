@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 decode surface handler interface
+// summary: Declares the V4L2-specific handler interface for creating secure surfaces, submitting slices and resuming decoding.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_DECODE_SURFACE_HANDLER_H_
 #define MEDIA_GPU_V4L2_V4L2_DECODE_SURFACE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGpuChannel class declaration
+// summary: Declares the MediaGpuChannel class holding a GPU channel pointer and an Android overlay factory callback for the media GPU IPC service.
+// ---
+
 #ifndef MEDIA_GPU_IPC_SERVICE_MEDIA_GPU_CHANNEL_H_
 #define MEDIA_GPU_IPC_SERVICE_MEDIA_GPU_CHANNEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibYUV image processor backend header
+// summary: Declares LibYUVImageProcessorBackend, a software image processor that converts and scales frames mapped into CPU space using libyuv.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_LIBYUV_IMAGE_PROCESSOR_BACKEND_H_
 #define MEDIA_GPU_CHROMEOS_LIBYUV_IMAGE_PROCESSOR_BACKEND_H_
 

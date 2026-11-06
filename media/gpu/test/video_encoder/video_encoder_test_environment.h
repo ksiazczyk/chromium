@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encoder test environment header
+// summary: Declares the VideoEncoderTestEnvironment class that sets up and tears down video encoder tests and provides access to test video, codec profile, SVC layers, bitrate allocation, and output settings.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_ENCODER_VIDEO_ENCODER_TEST_ENVIRONMENT_H_
 #define MEDIA_GPU_TEST_VIDEO_ENCODER_VIDEO_ENCODER_TEST_ENVIRONMENT_H_
 

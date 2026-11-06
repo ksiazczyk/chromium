@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP9 video decoder delegate implementation
+// summary: Implements the VP9 accelerator delegate for the V4L2 video decoder, mapping VP9 frame parameters to V4L2 controls with optional compressed header support.
+// ---
+
 #include "media/gpu/v4l2/v4l2_video_decoder_delegate_vp9.h"
 
 #include <linux/v4l2-controls.h>

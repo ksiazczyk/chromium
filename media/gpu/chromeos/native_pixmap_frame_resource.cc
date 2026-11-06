@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapFrameResource implementation
+// summary: Implements a FrameResource backed by a NativePixmapDmaBuf, with factories that allocate GPU memory buffers or adopt DMABuf file descriptors after size validation.
+// ---
+
 #include "media/gpu/chromeos/native_pixmap_frame_resource.h"
 
 #include <atomic>

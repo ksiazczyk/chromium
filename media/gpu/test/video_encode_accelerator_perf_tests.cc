@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encode accelerator performance tests
+// summary: Runs performance tests for video encode accelerators, supporting codec, bitrate, SVC and speed/quality measurement options.
+// ---
+
 #include <algorithm>
 #include <iomanip>
 #include <iostream>

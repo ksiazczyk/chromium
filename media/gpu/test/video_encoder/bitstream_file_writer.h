@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitstream file writer header
+// summary: Declares BitstreamFileWriter, a BitstreamProcessor that writes encoded bitstreams to an output file, with support for spatial and temporal layer selection.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_ENCODER_BITSTREAM_FILE_WRITER_H_
 #define MEDIA_GPU_TEST_VIDEO_ENCODER_BITSTREAM_FILE_WRITER_H_
 

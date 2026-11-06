@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video Toolbox H264 accelerator unit tests
+// summary: Tests the H264 accelerator's parameter set processing, slice submission, sample buffer creation, and picture output using real SPS/PPS bitstream data.
+// ---
+
 #include "media/gpu/mac/video_toolbox_h264_accelerator.h"
 
 #include <memory>

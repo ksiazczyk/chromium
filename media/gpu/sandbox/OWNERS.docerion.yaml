@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file inheriting sandbox/linux reviewers
+summary: Sets noparent and delegates ownership review to the sandbox/linux OWNERS file.

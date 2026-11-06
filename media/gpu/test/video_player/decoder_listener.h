@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder test event listener header
+// summary: Declares the DecoderListener class with its event enum and methods to play, reset, flush and wait for video decoder events during video player tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_PLAYER_DECODER_LISTENER_H_
 #define MEDIA_GPU_TEST_VIDEO_PLAYER_DECODER_LISTENER_H_
 

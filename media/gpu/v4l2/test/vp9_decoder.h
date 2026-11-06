@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 decoder class header
+// summary: Declares Vp9Decoder, which decodes VP9-encoded IVF streams using V4L2 ioctl calls and refreshes reference frame slots.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_VP9_DECODER_H_
 #define MEDIA_GPU_V4L2_TEST_VP9_DECODER_H_
 

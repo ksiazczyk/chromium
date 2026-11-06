@@ -1,0 +1,4 @@
+# Docerion header of v4l2_stub_header.fragment.
+type: source
+title: V4L2 stub header fragment
+summary: Header fragment included in the generated V4L2 stub file to pull in libv4l2 declarations.

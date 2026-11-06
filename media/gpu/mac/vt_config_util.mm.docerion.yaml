@@ -1,0 +1,4 @@
+# Docerion header of vt_config_util.mm.
+type: source
+title: VideoToolbox config utility implementation
+summary: Implements helpers that map Chromium video color spaces, codecs and HDR metadata into CoreMedia format extension dictionaries used by VideoToolbox on macOS.

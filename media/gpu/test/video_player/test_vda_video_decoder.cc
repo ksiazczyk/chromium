@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test VDA video decoder implementation
+// summary: Implements the TestVDAVideoDecoder, which translates between the media VideoDecoder and VideoDecodeAccelerator interfaces so VD-based tests can run against VDAs.
+// ---
+
 #include "media/gpu/test/video_player/test_vda_video_decoder.h"
 
 #include <GLES2/gl2.h>

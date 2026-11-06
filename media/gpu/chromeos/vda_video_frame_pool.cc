@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VdaVideoFramePool implementation
+// summary: Implements a DMA-buf frame pool that delegates buffer allocation requests to a VideoDecodeAccelerator and supplies the resulting frames to a VideoDecoder.
+// ---
+
 #include "media/gpu/chromeos/vda_video_frame_pool.h"
 
 #include "base/functional/bind.h"

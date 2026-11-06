@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame helpers header
+// summary: Declares the VideoFrameProcessor interface and helper functions to convert, scale, clone and create video frames in various storage types.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_FRAME_HELPERS_H_
 #define MEDIA_GPU_TEST_VIDEO_FRAME_HELPERS_H_
 

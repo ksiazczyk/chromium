@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RawVideo class for raw video test data
+// summary: Declares the RawVideo class that owns raw video data and exposes frame access, pixel format, frame rate, resolution and layout for video tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_RAW_VIDEO_H_
 #define MEDIA_GPU_TEST_RAW_VIDEO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image processor performance test
+// summary: Performance test that measures image processor conversion and scaling throughput on V4L2 devices and reports perf results.
+// ---
+
 #include <sys/mman.h>
 #include <sys/poll.h>
 

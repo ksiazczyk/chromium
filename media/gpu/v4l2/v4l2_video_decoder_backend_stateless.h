@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 stateless video decoder backend declarations
+// summary: Declares the V4L2StatelessVideoDecoderBackend class, which combines the decoder backend and decode surface handler roles for stateless V4L2 decoding.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_BACKEND_STATELESS_H_
 #define MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_BACKEND_STATELESS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encoder test environment implementation
+// summary: Implements the video encoder test environment, mapping codec and SVC mode parameters to profiles and computing default target bitrates for validation, quality, and speed performance tests.
+// ---
+
 #include "media/gpu/test/video_encoder/video_encoder_test_environment.h"
 
 #include <algorithm>

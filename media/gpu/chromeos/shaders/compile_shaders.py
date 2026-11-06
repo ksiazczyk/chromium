@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Vulkan shader compilation script
+# summary: Script that compiles .vert and .frag files with glslangValidator and wraps the SPIR-V bytecode in a generated C++ header.
+# ---
+
 """Wrapper script for compiling Vulkan shaders.
 
 Vulkan shaders need to be compiled ahead of time rather than on the fly. This

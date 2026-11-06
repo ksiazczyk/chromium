@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decode accelerator tests
+// summary: Runs video decode accelerator tests, validating decoded frames with checksums or quality metrics and optionally writing frames to disk.
+// ---
+
 #include <limits>
 #include <memory>
 

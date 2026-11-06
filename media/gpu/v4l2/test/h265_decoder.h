@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 decoder class for V4L2 stateless decoding
+// summary: Declares the H265Decoder class that parses HEVC bitstreams and decodes frames via V4L2 slice decoding, with decoder state handling, POC calculation, and DPB output logic.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_H265_DECODER_H_
 #define MEDIA_GPU_V4L2_TEST_H265_DECODER_H_
 

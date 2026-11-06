@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image processor test client header
+// summary: Declares the ImageProcessorClient class used in tests to convert images via an ImageProcessor and wait for processed frames and errors.
+// ---
+
 #ifndef MEDIA_GPU_TEST_IMAGE_PROCESSOR_IMAGE_PROCESSOR_CLIENT_H_
 #define MEDIA_GPU_TEST_IMAGE_PROCESSOR_IMAGE_PROCESSOR_CLIENT_H_
 

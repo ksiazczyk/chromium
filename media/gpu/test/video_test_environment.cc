@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video test environment implementation
+// summary: Sets up logging, mojo, task environment, feature flags and VA-API or V4L2 initialization for media GPU video tests.
+// ---
+
 #include "media/gpu/test/video_test_environment.h"
 
 #include "base/logging.h"

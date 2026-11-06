@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 stateless decoder implementation
+// summary: Implements VP8 decoding by translating parsed VP8 frame headers into V4L2 controls and managing reference frame buffers.
+// ---
+
 #include "media/gpu/v4l2/test/vp8_decoder.h"
 
 #include <linux/v4l2-controls.h>

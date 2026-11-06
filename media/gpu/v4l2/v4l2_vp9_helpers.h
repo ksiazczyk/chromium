@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP9 helpers header
+// summary: Declares AppendVP9SuperFrameIndex, which appends a superframe index to a VP9 k-SVC DecoderBuffer and adjusts show_frame for the top spatial layer.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VP9_HELPERS_H_
 #define MEDIA_GPU_V4L2_V4L2_VP9_HELPERS_H_
 

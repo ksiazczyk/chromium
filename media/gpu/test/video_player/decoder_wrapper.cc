@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder wrapper implementation for video player tests
+// summary: Implements the DecoderWrapper that connects the video decoder with the frame renderer and frame processors and handles threading for video player tests.
+// ---
+
 #include "media/gpu/test/video_player/decoder_wrapper.h"
 
 #include <string>

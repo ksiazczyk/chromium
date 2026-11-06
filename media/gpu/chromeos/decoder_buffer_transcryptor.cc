@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder buffer transcryptor implementation
+// summary: Implements transcryption of decoder buffers through the CDM decryptor, including VP9 superframe splitting, before they are passed to the video decoder pipeline.
+// ---
+
 #include "media/gpu/chromeos/decoder_buffer_transcryptor.h"
 
 #include "base/compiler_specific.h"

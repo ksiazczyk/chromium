@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registered frame converter implementation
+// summary: Converts FrameResources into VideoFrames wrapping tracking tokens and registers them with a FrameRegistry.
+// ---
+
 #include "media/gpu/chromeos/registered_frame_converter.h"
 
 #include "base/location.h"

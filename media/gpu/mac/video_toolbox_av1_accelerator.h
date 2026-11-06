@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox AV1 accelerator class declaration
+// summary: Declares VideoToolboxAV1Accelerator, an AV1Decoder::AV1Accelerator with decode and output callbacks and active format state.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_AV1_ACCELERATOR_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_AV1_ACCELERATOR_H_
 

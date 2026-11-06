@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decode accelerator test suite implementation
+// summary: Implements the video decode accelerator test suite, parsing command-line options and setting up the environment for decoder tests.
+// ---
+
 #include "media/gpu/test/video_decode_accelerator_test_suite.h"
 #include "base/test/task_environment.h"
 

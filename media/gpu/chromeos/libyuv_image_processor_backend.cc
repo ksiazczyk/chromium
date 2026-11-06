@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibYUV image processor backend implementation
+// summary: Implements a software image processor backend that uses libyuv for pixel format conversion, cropping and scaling of video frames.
+// ---
+
 #include "media/gpu/chromeos/libyuv_image_processor_backend.h"
 
 #include <sys/mman.h>

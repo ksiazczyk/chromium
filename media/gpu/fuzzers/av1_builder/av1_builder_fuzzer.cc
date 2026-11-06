@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer for the AV1 bitstream builder
+// summary: libFuzzer target that converts protobuf-based sequence and frame header inputs into AV1 bitstreams via AV1BitstreamBuilder, clamping values to avoid CHECK failures.
+// ---
+
 #include "media/gpu/av1_builder.h"
 
 #include <stddef.h>

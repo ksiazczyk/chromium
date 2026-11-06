@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform video frame pool implementation
+// summary: Implements a DMABUF video frame pool that allocates and recycles platform frame resources for hardware video decoding.
+// ---
+
 #include "media/gpu/chromeos/platform_video_frame_pool.h"
 
 #include <optional>

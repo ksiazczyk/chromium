@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapFrameResource header
+// summary: Declares NativePixmapFrameResource, a frame resource backed by gfx::NativePixmapDmaBuf whose pixel data is only accessible through a mapper.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_NATIVE_PIXMAP_FRAME_RESOURCE_H_
 #define MEDIA_GPU_CHROMEOS_NATIVE_PIXMAP_FRAME_RESOURCE_H_
 

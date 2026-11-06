@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleVideoFrameConverter implementation
+// summary: Implements a frame resource converter that unwraps a VideoFrame from a VideoFrameResource and outputs it for the ChromeOS GPU video decode pipeline.
+// ---
+
 #include "media/gpu/chromeos/simple_video_frame_converter.h"
 
 #include "base/logging.h"

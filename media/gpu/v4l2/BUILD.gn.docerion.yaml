@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: V4L2 build configuration (BUILD.gn)
+summary: GN build rules defining the v4l2 source set, its conditional platform sources, libraries and dependencies.

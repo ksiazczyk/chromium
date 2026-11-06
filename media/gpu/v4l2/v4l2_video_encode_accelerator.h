@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video encode accelerator header
+// summary: Declares the V4L2 video encode accelerator class that interfaces with a V4L2 codec device and may use an image processor for input format conversion.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VIDEO_ENCODE_ACCELERATOR_H_
 #define MEDIA_GPU_V4L2_V4L2_VIDEO_ENCODE_ACCELERATOR_H_
 

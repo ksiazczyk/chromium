@@ -1,0 +1,4 @@
+# Docerion header of MT2TShader.vert.
+type: source
+title: MT2T to AR30 vertex shader
+summary: Vertex shader that computes tile addresses and intra-tile coordinates for MT2T to AR30 conversion, accounting for packed LSB data.

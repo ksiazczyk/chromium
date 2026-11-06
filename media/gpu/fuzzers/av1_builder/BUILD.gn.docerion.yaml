@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for the av1_builder fuzzer
+summary: GN build file defining the av1_builder_fuzzer_inputs proto library and the av1_builder_fuzzer fuzzer test target, built on Windows or with VA-API.

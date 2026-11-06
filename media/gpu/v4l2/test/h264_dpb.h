@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: H.264 decoded picture buffer class
+// summary: Declares H264SliceMetadata and the H264DPB decoded picture buffer used to track H.264 pictures for reference marking, output, and reordering during decoding.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_H264_DPB_H_
 #define MEDIA_GPU_V4L2_TEST_H264_DPB_H_
 

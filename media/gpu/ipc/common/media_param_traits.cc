@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC param traits for media BitstreamBuffer
+// summary: Implements writing and reading of media::BitstreamBuffer fields, including encryption data and duplicate region, for IPC messages.
+// ---
+
 #include "media/gpu/ipc/common/media_param_traits.h"
 
 #include <stddef.h>

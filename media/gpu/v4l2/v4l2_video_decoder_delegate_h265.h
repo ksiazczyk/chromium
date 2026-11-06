@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 H.265 video decoder delegate header
+// summary: Declares the V4L2 H.265 accelerator delegate that implements the H265Decoder accelerator interface for hardware HEVC decoding.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_DELEGATE_H265_H_
 #define MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_DELEGATE_H265_H_
 

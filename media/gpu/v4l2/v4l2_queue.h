@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 queue interface
+// summary: Declares V4L2Queue, V4L2Buffer and writable buffer reference classes for preparing and queuing MMAP, USERPTR and DMABUF buffers via V4L2.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_QUEUE_H_
 #define MEDIA_GPU_V4L2_V4L2_QUEUE_H_
 

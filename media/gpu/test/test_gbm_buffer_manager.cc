@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test GBM buffer manager implementation
+// summary: Implements TestGbmBufferManager and TestGbmBuffer, which create, map and import GBM/DmaBuf buffers for GPU video tests.
+// ---
+
 #include "media/gpu/test/test_gbm_buffer_manager.h"
 
 #include <drm_fourcc.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox HDR metadata SEI builder header
+// summary: Declares BuildHdrMetadataSeiNalu, which builds an Annex B SEI NAL unit from HDR static metadata in a CMSampleBuffer and returns an empty vector when none is present.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VT_HDR_METADATA_H_
 #define MEDIA_GPU_MAC_VT_HDR_METADATA_H_
 

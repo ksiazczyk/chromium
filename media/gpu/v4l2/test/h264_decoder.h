@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: H.264 decoder class for V4L2 stateless decoding
+// summary: Declares the H264Decoder class that parses H.264 bitstreams and decodes frames via V4L2 slice decoding, covering slice metadata, DPB handling, and buffer reuse.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_H264_DECODER_H_
 #define MEDIA_GPU_V4L2_TEST_H264_DECODER_H_
 

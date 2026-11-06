@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP8 video decoder delegate implementation
+// summary: Implements the VP8 accelerator delegate for the V4L2 video decoder, converting VP8 segmentation, loop filter, quantization and entropy headers to V4L2 controls.
+// ---
+
 #include "v4l2_video_decoder_delegate_vp8.h"
 
 #include <linux/v4l2-controls.h>

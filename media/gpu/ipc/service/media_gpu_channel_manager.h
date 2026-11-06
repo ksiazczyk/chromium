@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGpuChannelManager class declaration
+// summary: Declares MediaGpuChannelManager, which tracks media GPU channels by client ID and unguessable channel token and provides lookup and teardown methods.
+// ---
+
 #ifndef MEDIA_GPU_IPC_SERVICE_MEDIA_GPU_CHANNEL_MANAGER_H_
 #define MEDIA_GPU_IPC_SERVICE_MEDIA_GPU_CHANNEL_MANAGER_H_
 

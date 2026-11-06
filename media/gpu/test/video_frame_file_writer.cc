@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame file writer implementation
+// summary: Implements writing video frames to disk as PNG or raw I420 YUV files on a dedicated writer thread with an output limit.
+// ---
+
 #include "media/gpu/test/video_frame_file_writer.h"
 
 #include <utility>

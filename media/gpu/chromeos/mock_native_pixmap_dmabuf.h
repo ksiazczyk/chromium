@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NativePixmapDmaBuf helper header
+// summary: Declares CreateMockNativePixmapDmaBuf, which builds a NativePixmapDmaBuf with valid metadata and /dev/null file descriptors for use in tests.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_MOCK_NATIVE_PIXMAP_DMABUF_H_
 #define MEDIA_GPU_CHROMEOS_MOCK_NATIVE_PIXMAP_DMABUF_H_
 

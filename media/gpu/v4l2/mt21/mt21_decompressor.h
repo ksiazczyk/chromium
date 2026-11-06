@@ -17,6 +17,12 @@
 // the number of cores, the CPU IDs of the cores, the timings of the SIMD
 // instructions, the availability of ARM64, etc, will all be incorrect.
 
+// ---docerion
+// type: source
+// title: MT21 decompressor header
+// summary: Declares the MT21Decompressor class and MT21DecompressionJob for converting the MT21C pixel format to NV12, restricted to ARM builds for the MT8173.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_MT21_MT21_DECOMPRESSOR_H_
 #define MEDIA_GPU_V4L2_MT21_MT21_DECOMPRESSOR_H_
 

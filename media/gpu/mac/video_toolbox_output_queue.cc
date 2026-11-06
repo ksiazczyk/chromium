@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox output queue implementation
+// summary: Implements the output queue that emits fulfilled codec pictures in presentation order and posts output and flush callbacks to the task runner.
+// ---
+
 #include "media/gpu/mac/video_toolbox_output_queue.h"
 
 #include <utility>

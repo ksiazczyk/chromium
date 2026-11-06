@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test image loading implementation
+// summary: Implements loading of raw YUV image files with JSON metadata and MD5 checksum verification for tests.
+// ---
+
 #include "media/gpu/test/image.h"
 
 #include <memory>

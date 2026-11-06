@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitstream file writer implementation
+// summary: Implements BitstreamFileWriter, which writes encoded video bitstreams to disk in IVF format for VP8/VP9 or H.264 AnnexB format, on a dedicated writer thread.
+// ---
+
 #include "media/gpu/test/video_encoder/bitstream_file_writer.h"
 
 #include <algorithm>

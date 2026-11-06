@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 device and decoder unit tests
+// summary: Parametrized unit tests that exercise V4L2 queue setup and stateful decoder buffer allocations against DRM devices.
+// ---
+
 #include <drm.h>
 #include <fcntl.h>
 #include <gbm.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image processor tests
+// summary: Test suite that verifies image processor format conversion, scaling and overlay behavior across GL, LibYUV, V4L2 and VAAPI backends.
+// ---
+
 
 #include "media/gpu/chromeos/image_processor.h"
 

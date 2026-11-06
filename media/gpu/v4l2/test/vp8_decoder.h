@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 decoder class header
+// summary: Declares Vp8Decoder, which decodes VP8 IVF streams through V4L2 stateless decoding and manages reference frame slots.
+// ---
+
 
 #ifndef MEDIA_GPU_V4L2_TEST_VP8_DECODER_H_
 #define MEDIA_GPU_V4L2_TEST_VP8_DECODER_H_

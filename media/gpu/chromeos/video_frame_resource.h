@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameResource class header
+// summary: Declares a FrameResource implementation backed by a media::VideoFrame, exposing plane data, dmabuf fds, layout, metadata, color space, and wrapping frame creation.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_VIDEO_FRAME_RESOURCE_H_
 #define MEDIA_GPU_CHROMEOS_VIDEO_FRAME_RESOURCE_H_
 

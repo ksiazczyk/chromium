@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test GBM buffer manager and buffer classes
+// summary: Declares TestGbmBufferManager and TestGbmBuffer for creating, mapping and importing GBM buffers in GPU video tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_TEST_GBM_BUFFER_MANAGER_H_
 #define MEDIA_GPU_TEST_TEST_GBM_BUFFER_MANAGER_H_
 

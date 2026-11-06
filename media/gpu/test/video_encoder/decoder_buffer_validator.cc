@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decoder buffer validator implementation
+// summary: Implements codec-specific validators for H.264, VP8, VP9 and AV1 that parse encoded decoder buffers and check that their structure, profiles and metadata are valid.
+// ---
+
 #include "media/gpu/test/video_encoder/decoder_buffer_validator.h"
 
 #include <set>

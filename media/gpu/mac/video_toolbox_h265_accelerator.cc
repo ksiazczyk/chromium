@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox H265 accelerator implementation
+// summary: Implements the H265Decoder accelerator that tracks VPS/SPS/PPS parameter sets and creates HEVC format descriptions and samples for VideoToolbox decoding.
+// ---
+
 #include "media/gpu/mac/video_toolbox_h265_accelerator.h"
 
 #include <array>

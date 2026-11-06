@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 stateful video decoder implementation
+// summary: Implements a stateful V4L2 video decoder for ChromeOS drivers, handling event polling, resolution changes and the decode pipeline.
+// ---
+
 
 #include "media/gpu/v4l2/v4l2_stateful_video_decoder.h"
 

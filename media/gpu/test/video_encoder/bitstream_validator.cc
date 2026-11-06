@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitstream validator implementation
+// summary: Implements BitstreamValidator, which decodes encoded bitstreams with a software decoder (Dav1d, libvpx, or FFmpeg) and processes the resulting frames to verify correctness.
+// ---
+
 #include "media/gpu/test/video_encoder/bitstream_validator.h"
 
 #include <algorithm>

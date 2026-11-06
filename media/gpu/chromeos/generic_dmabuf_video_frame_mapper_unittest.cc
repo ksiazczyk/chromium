@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GenericDmaBufVideoFrameMapper unit tests
+// summary: Unit tests that build DMABUF-backed video frames in various layouts and verify GenericDmaBufVideoFrameMapper creation and frame mapping.
+// ---
+
 #include "media/gpu/chromeos/generic_dmabuf_video_frame_mapper.h"
 
 #include <sys/mman.h>

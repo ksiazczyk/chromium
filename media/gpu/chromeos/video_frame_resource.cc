@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameResource implementation
+// summary: Implements VideoFrameResource, a FrameResource wrapper around VideoFrame exposing CPU access, DMA-buf fds, shared images and frame metadata.
+// ---
+
 #include "media/gpu/chromeos/video_frame_resource.h"
 
 #include "base/functional/callback_helpers.h"

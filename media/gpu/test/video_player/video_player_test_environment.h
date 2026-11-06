@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video player test environment class declaration
+// summary: Declares VideoPlayerTestEnvironment, which sets up and tears down video decode test runs and provides accessors for the test video, validator type, decoder implementation, and frame output configuration.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_PLAYER_VIDEO_PLAYER_TEST_ENVIRONMENT_H_
 #define MEDIA_GPU_TEST_VIDEO_PLAYER_VIDEO_PLAYER_TEST_ENVIRONMENT_H_
 

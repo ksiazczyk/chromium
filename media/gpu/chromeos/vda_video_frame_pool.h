@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VdaVideoFramePool class declaration
+// summary: Declares VdaVideoFramePool, a DmabufVideoFramePool that allocates and manages DMA-buf FrameResources by delegating requests to a VDA instance.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_VDA_VIDEO_FRAME_POOL_H_
 #define MEDIA_GPU_CHROMEOS_VDA_VIDEO_FRAME_POOL_H_
 

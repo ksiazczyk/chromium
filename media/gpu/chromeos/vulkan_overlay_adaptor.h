@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanOverlayAdaptor class declaration
+// summary: Declares an image processor that uses Vulkan to detile and transform MM21 or MT2T frames, with a Process API supporting crop, overlay transform, and semaphores.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_VULKAN_OVERLAY_ADAPTOR_H_
 #define MEDIA_GPU_CHROMEOS_VULKAN_OVERLAY_ADAPTOR_H_
 

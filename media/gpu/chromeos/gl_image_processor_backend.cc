@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL image processor backend implementation
+// summary: Implements a GL-based image processor backend that imports NV12 frames as native pixmaps and performs scaling and conversion with OpenGL shaders.
+// ---
+
 #include "media/gpu/chromeos/gl_image_processor_backend.h"
 
 #include "base/metrics/histogram_macros.h"

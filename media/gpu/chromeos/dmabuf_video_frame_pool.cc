@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMABUF video frame pool base implementation
+// summary: Implements the non-virtual parts of DmabufVideoFramePool, such as setting the parent task runner and the downcast and fake-pool helpers.
+// ---
+
 #include "media/gpu/chromeos/dmabuf_video_frame_pool.h"
 #include "base/task/sequenced_task_runner.h"
 

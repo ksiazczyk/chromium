@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video Toolbox decompression session manager unit tests
+// summary: Unit tests for the macOS VideoToolbox decompression session manager, using a fake decompression session to exercise decode creation, completion, and failure paths.
+// ---
+
 #include <stdint.h>
 #include <memory>
 

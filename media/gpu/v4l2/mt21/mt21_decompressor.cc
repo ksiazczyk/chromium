@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MT21 decompressor implementation
+// summary: Implements MT21C to MM21/NV12 decompression, distributing subblock work across the MT8173's big and little CPU cores with affinity-pinned worker threads.
+// ---
+
 #include "media/gpu/v4l2/mt21/mt21_decompressor.h"
 
 #include <sched.h>

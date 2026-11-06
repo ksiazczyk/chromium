@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VdVideoDecodeAccelerator implementation
+// summary: Implements the VideoDecodeAccelerator interface backed by a VideoDecoder, including secure bitstream buffer decryption and bitstream ID to timestamp conversion.
+// ---
+
 #include "media/gpu/chromeos/vd_video_decode_accelerator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decoder backend base implementation
+// summary: Implements the V4L2VideoDecoderBackend base class, acquiring the V4L2 input and output queues shared by the stateful and stateless decoding backends.
+// ---
+
 #include "media/gpu/v4l2/v4l2_video_decoder_backend.h"
 
 #include "base/logging.h"

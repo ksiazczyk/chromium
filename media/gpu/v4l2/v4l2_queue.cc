@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 queue implementation
+// summary: Implements V4L2 buffer queues, requests and ioctl handling used to queue and dequeue buffers for hardware video decoding and encoding.
+// ---
+
 #include "media/gpu/v4l2/v4l2_queue.h"
 
 #include <errno.h>

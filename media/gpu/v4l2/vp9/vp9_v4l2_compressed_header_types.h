@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP9 compressed header data types
+// summary: Defines Vp9CompressedHeader and Vp9V4L2CompressedParseResult structures holding tx mode, reference mode and frame context for the V4L2 stateless VP9 uAPI.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_VP9_VP9_V4L2_COMPRESSED_HEADER_TYPES_H_
 #define MEDIA_GPU_V4L2_VP9_VP9_V4L2_COMPRESSED_HEADER_TYPES_H_
 

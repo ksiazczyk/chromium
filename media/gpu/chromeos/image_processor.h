@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageProcessor declaration
+// summary: Declares ImageProcessor, used to convert image formats such as I420 to NV12 with optional scaling when video hardware needs a different format.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_H_
 #define MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_H_
 

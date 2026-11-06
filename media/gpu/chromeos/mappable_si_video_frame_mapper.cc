@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableSIVideoFrameMapper implementation
+// summary: Maps video frames backed by mappable shared images into CPU-accessible memory, wrapping the plane data as external VideoFrames with lifetime-safe unmapping.
+// ---
+
 #include "media/gpu/chromeos/mappable_si_video_frame_mapper.h"
 
 #include <sys/mman.h>

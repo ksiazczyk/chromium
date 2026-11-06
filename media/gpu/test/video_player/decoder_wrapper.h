@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder wrapper header and configuration
+// summary: Declares the DecoderWrapper class and its configuration struct, which manage the decoder, renderer and frame processors used by video player tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_PLAYER_DECODER_WRAPPER_H_
 #define MEDIA_GPU_TEST_VIDEO_PLAYER_DECODER_WRAPPER_H_
 

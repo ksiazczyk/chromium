@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox NALU utility implementation
+// summary: Implements the parameter set tracker and helpers that create CMSampleBuffers from NALUs with length headers for VideoToolbox decoding.
+// ---
+
 #include "media/gpu/mac/video_toolbox_nalu_util.h"
 
 #include <array>

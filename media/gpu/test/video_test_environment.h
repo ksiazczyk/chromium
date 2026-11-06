@@ -4,6 +4,12 @@
 //
 // This file contains helper classes for video accelerator unittests.
 
+// ---docerion
+// type: test
+// title: Video accelerator test environment
+// summary: Declares the VideoTestEnvironment class and frame output configuration used to set up and tear down video accelerator unittests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_TEST_ENVIRONMENT_H_
 #define MEDIA_GPU_TEST_VIDEO_TEST_ENVIRONMENT_H_
 

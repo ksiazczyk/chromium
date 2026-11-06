@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 JPEG encode accelerator header
+// summary: Declares V4L2JpegEncodeAccelerator, a chromeos_camera::JpegEncodeAccelerator implementation that encodes YUV420 frames to JPEG via V4L2 hardware.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_JPEG_ENCODE_ACCELERATOR_H_
 #define MEDIA_GPU_V4L2_V4L2_JPEG_ENCODE_ACCELERATOR_H_
 

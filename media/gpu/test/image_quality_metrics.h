@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image quality metrics helpers for video frame tests
+// summary: Declares helpers that compare video frames and compute PSNR, SSIM, log-likelihood and AR30 PSNR metrics to assess image quality in GPU video tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_IMAGE_QUALITY_METRICS_H_
 #define MEDIA_GPU_TEST_IMAGE_QUALITY_METRICS_H_
 

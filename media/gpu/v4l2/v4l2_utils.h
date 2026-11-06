@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 utility functions header
+// summary: Declares V4L2 helper functions for format conversion, profile enumeration, scalability modes and ioctl callbacks.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_UTILS_H_
 #define MEDIA_GPU_V4L2_V4L2_UTILS_H_
 

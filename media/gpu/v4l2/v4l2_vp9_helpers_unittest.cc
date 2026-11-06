@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 VP9 helpers unit tests
+// summary: Unit tests that verify the generated superframe index size and that a VP9 parser can decode frames from buffers with the appended superframe index.
+// ---
+
 
 #include "media/gpu/v4l2/v4l2_vp9_helpers.h"
 

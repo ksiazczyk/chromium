@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 frame rate control header
+// summary: Declares V4L2FrameRateControl, which tracks frame durations to estimate playback frame rate for hardware decoders that need it for resource allocation.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_FRAMERATE_CONTROL_H_
 #define MEDIA_GPU_V4L2_V4L2_FRAMERATE_CONTROL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenericDmaBufVideoFrameMapper declaration
+// summary: Declares GenericDmaBufVideoFrameMapper, a VideoFrameMapper that maps DMABUF-backed video frames into memory for a given pixel format.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_GENERIC_DMABUF_VIDEO_FRAME_MAPPER_H_
 #define MEDIA_GPU_CHROMEOS_GENERIC_DMABUF_VIDEO_FRAME_MAPPER_H_
 

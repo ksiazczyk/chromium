@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 compressed header parser implementation
+// summary: Implements VP9 compressed header syntax parsing per spec section 6.3, reading tx mode, probability delta updates, reference mode and other probs into the frame context.
+// ---
+
 #include "media/gpu/v4l2/vp9/vp9_compressed_header_parser.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleVideoFrameConverter class declaration
+// summary: Declares SimpleVideoFrameConverter, a FrameResourceConverter that retrieves a VideoFrame from a VideoFrameResource wrapped by OOPVideoDecoder.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_SIMPLE_VIDEO_FRAME_CONVERTER_H_
 #define MEDIA_GPU_CHROMEOS_SIMPLE_VIDEO_FRAME_CONVERTER_H_
 

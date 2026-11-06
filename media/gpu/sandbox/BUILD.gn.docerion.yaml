@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the media GPU sandbox
+summary: Defines the sandbox source_set that compiles the Linux hardware video decoding and encoding sandbox hooks under build flags and links sandbox policy dependencies.

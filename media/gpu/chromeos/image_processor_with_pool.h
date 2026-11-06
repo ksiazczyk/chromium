@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image processor with frame pool header
+// summary: Declares ImageProcessorWithPool, which pairs an image processor with a frame pool so callers process frames without managing output buffers.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_WITH_POOL_H_
 #define MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_WITH_POOL_H_
 
