@@ -1,0 +1,4 @@
+# Docerion header of accessibility-row-header-ui-elements-expected.txt.
+type: test
+title: Expected output for accessibilityRowHeaderUIElements test
+summary: Expected results recording accessibilityRowHeaderUIElements calls on a table, row header, cell, and two column headers.

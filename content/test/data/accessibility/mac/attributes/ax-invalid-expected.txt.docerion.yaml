@@ -1,0 +1,4 @@
+# Docerion header of ax-invalid-expected.txt.
+type: test
+title: Expected results for AXInvalid attribute test
+summary: Expected output for the macOS accessibility test checking the AXInvalid attribute on elements with various aria-invalid values.

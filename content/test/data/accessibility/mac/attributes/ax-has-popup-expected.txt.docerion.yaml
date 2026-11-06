@@ -1,0 +1,4 @@
+# Docerion header of ax-has-popup-expected.txt.
+type: test
+title: Expected AXHasPopup accessibility attribute results
+summary: Expected macOS accessibility attribute values for the AXHasPopup test comparing a combobox with aria-haspopup against a plain div.

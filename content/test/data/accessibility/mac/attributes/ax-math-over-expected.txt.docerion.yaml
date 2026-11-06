@@ -1,0 +1,4 @@
+# Docerion header of ax-math-over-expected.txt.
+type: test
+title: Expected AXMathOver attribute output for MathML mover tests
+summary: Expected macOS accessibility AXMathOver attribute values for MathML mover and munderover elements, listing child counts and values.

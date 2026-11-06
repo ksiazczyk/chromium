@@ -1,0 +1,4 @@
+# Docerion header of accessibility-header-expected.txt.
+type: test
+title: accessibilityHeader expected results
+summary: Expected output showing parse errors for the accessibilityHeader method on a table and row in the Mac accessibility test.

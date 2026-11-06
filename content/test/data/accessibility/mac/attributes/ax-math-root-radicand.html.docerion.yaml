@@ -1,0 +1,4 @@
+# Docerion header of ax-math-root-radicand.html.
+type: test
+title: MathML msqrt and mroot radicand accessibility test page
+summary: HTML test page with MathML msqrt and mroot elements whose AXMathRootRadicand accessibility attributes are checked on macOS.

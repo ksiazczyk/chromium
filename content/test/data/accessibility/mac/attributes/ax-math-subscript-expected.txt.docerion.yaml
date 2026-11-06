@@ -1,0 +1,4 @@
+# Docerion header of ax-math-subscript-expected.txt.
+type: test
+title: Expected results for MathML subscript accessibility attribute test
+summary: Expected macOS accessibility output for the MathML subscript test, listing AXMathSubscript attribute values for msub and msubsup elements.

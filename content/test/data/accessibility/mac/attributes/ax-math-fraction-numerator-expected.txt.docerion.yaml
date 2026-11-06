@@ -1,0 +1,4 @@
+# Docerion header of ax-math-fraction-numerator-expected.txt.
+type: test
+title: AXMathFractionNumerator attribute test expectations
+summary: Expected AXMathFractionNumerator accessibility attribute values for complete and incomplete MathML fraction elements.

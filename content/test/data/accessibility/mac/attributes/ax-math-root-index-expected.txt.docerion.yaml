@@ -1,0 +1,4 @@
+# Docerion header of ax-math-root-index-expected.txt.
+type: test
+title: Expected AXMathRootIndex attribute output for MathML roots
+summary: Expected macOS accessibility AXMathRootIndex values for MathML mroot elements, including a case with no root index.

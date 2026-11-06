@@ -1,0 +1,4 @@
+# Docerion header of accessibility-number-of-characters-expected.txt.
+type: test
+title: Expected output for accessibilityNumberOfCharacters
+summary: Expected Mac accessibility output verifying that an input with the value hello world reports 11 characters via accessibilityNumberOfCharacters.

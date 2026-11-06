@@ -1,0 +1,4 @@
+# Docerion header of italic-expected.txt.
+type: test
+title: Italic text attributed string expected output
+summary: Expected macOS accessibility attributed string output for a text marker range over italic text, listing font size, color and the AXFontItalic attribute.

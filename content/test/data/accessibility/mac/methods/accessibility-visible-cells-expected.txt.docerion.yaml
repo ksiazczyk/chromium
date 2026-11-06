@@ -1,0 +1,4 @@
+# Docerion header of accessibility-visible-cells-expected.txt.
+type: test
+title: Expected results for accessibilityVisibleCells test
+summary: Expected output listing the cell identifiers returned by a table's accessibilityVisibleCells method.

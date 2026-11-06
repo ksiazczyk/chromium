@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-current-expected.txt.
+type: test
+title: Expected results for the aria-current Mac accessibility test
+summary: Expected macOS accessibility output listing AXARIACurrent values for elements with page, step, location, date, time, true, false, and none aria-current settings.

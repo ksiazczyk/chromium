@@ -1,0 +1,4 @@
+# Docerion header of ax-line-text-marker-range-for-text-marker-expected.txt.
+type: test
+title: AX line text marker range expected results
+summary: Expected output for the Mac accessibility test checking that AXLineTextMarkerRangeForTextMarker returns correct line ranges in a textarea and contenteditable.

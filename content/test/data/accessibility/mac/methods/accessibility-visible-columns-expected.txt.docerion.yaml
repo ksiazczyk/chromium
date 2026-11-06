@@ -1,0 +1,4 @@
+# Docerion header of accessibility-visible-columns-expected.txt.
+type: test
+title: Expected output for accessibilityVisibleColumns test
+summary: Expected results listing the accessibilityVisibleColumns values returned for a table in the macOS accessibility test.

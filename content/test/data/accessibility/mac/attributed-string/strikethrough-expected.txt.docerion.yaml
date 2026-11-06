@@ -1,0 +1,4 @@
+# Docerion header of strikethrough-expected.txt.
+type: test
+title: Strikethrough expected output
+summary: Expected attributed string output for strikethrough text, showing AXStrikethrough and suggested deletion attributes for the queried text marker range.

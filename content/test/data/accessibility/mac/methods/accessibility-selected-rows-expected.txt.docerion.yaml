@@ -1,0 +1,4 @@
+# Docerion header of accessibility-selected-rows-expected.txt.
+type: test
+title: Expected output for accessibilitySelectedRows test
+summary: Expected accessibilitySelectedRows results for grid, tree, and treegrid elements plus a non-applicable element.

@@ -1,0 +1,4 @@
+# Docerion header of ax-dom-identifier-expected.txt.
+type: test
+title: AXDOMIdentifier expected results
+summary: Expected output verifying that AXDOMIdentifier reports the element id for a header and an empty value for its child button.

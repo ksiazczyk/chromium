@@ -1,0 +1,4 @@
+# Docerion header of is-accessibility-expanded-expected.txt.
+type: test
+title: Expected output for isAccessibilityExpanded test
+summary: Expected results for isAccessibilityExpanded and selector-allowed checks on menu items, separators, and other elements.

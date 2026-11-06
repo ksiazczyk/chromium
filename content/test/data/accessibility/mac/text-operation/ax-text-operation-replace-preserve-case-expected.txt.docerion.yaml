@@ -1,0 +1,4 @@
+# Docerion header of ax-text-operation-replace-preserve-case-expected.txt.
+type: test
+title: Replace preserve-case text operation expected results
+summary: Expected output for the macOS accessibility test that replaces text while preserving the replacement string's case.

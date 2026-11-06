@@ -1,0 +1,4 @@
+# Docerion header of is-accessibility-element-expected.txt.
+type: test
+title: Expected output for isAccessibilityElement test
+summary: Expected result asserting that the document reports isAccessibilityElement as true in the macOS accessibility test.

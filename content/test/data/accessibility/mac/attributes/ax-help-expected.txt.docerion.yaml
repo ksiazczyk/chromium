@@ -1,0 +1,4 @@
+# Docerion header of ax-help-expected.txt.
+type: test
+title: Expected AXHelp accessibility attribute results
+summary: Expected macOS accessibility attribute values for the AXHelp test comparing a link with a title attribute against a plain div.

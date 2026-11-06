@@ -1,0 +1,4 @@
+# Docerion header of ax-math-over.html.
+type: test
+title: MathML mover and munderover accessibility test page
+summary: HTML test page with MathML mover and munderover elements whose AXMathOver accessibility attributes are checked on macOS.

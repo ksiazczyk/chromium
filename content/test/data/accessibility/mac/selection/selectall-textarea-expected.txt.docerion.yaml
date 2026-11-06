@@ -1,0 +1,4 @@
+# Docerion header of selectall-textarea-expected.txt.
+type: test
+title: Select all textarea expected output
+summary: Expected macOS accessibility output for selecting all text in a textarea via AXSelectedTextMarkerRange, including the AXSelectedTextChanged notification.

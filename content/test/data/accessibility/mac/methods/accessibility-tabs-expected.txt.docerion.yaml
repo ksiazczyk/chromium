@@ -1,0 +1,4 @@
+# Docerion header of accessibility-tabs-expected.txt.
+type: test
+title: Expected output for accessibilityTabs test
+summary: Expected accessibilityTabs results for a tablist and a tab, both of which fail to parse.

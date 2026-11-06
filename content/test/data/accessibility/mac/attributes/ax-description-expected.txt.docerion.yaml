@@ -1,0 +1,4 @@
+# Docerion header of ax-description-expected.txt.
+type: test
+title: AXDescription expected results
+summary: Expected macOS accessibility output verifying that AXDescription is a generic attribute mapped to accessibilityLabel for a labeled input and empty for an unlabeled one.

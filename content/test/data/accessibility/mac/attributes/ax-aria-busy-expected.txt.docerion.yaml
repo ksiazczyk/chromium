@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-busy-expected.txt.
+type: test
+title: Expected AXARIABusy accessibility attribute results
+summary: Expected macOS accessibility output verifying the AXARIABusy attribute for aria-busy true, false and unset elements.

@@ -1,0 +1,4 @@
+# Docerion header of is-accessibility-disclosed-expected.txt.
+type: test
+title: Expected output for isAccessibilityDisclosed test
+summary: Expected results for the isAccessibilityDisclosed values of an expanded and a collapsed tree item in the macOS accessibility test.

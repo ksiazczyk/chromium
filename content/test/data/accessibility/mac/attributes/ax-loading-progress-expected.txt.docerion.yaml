@@ -1,0 +1,4 @@
+# Docerion header of ax-loading-progress-expected.txt.
+type: test
+title: AXLoadingProgress attribute test expectations
+summary: Expected macOS accessibility results for the AXLoadingProgress attribute on a document and a not-applicable element whose value can still be requested.

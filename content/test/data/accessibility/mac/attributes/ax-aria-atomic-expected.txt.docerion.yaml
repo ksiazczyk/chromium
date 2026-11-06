@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-atomic-expected.txt.
+type: test
+title: Expected AXARIAAtomic accessibility attribute results
+summary: Expected macOS accessibility output verifying the AXARIAAtomic attribute for aria-atomic true, false and unset values.

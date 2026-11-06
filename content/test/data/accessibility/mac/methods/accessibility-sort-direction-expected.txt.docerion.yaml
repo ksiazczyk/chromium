@@ -1,0 +1,4 @@
+# Docerion header of accessibility-sort-direction-expected.txt.
+type: test
+title: Expected output for accessibilitySortDirection test
+summary: Expected accessibilitySortDirection results for column and row headers with implicit, explicit, ascending, descending, and other sort states.

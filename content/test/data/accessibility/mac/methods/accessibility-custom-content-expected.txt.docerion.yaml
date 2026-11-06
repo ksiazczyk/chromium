@@ -1,0 +1,4 @@
+# Docerion header of accessibility-custom-content-expected.txt.
+type: test
+title: Expected output for accessibilityCustomContent test
+summary: Expected results asserting custom content label and value derived from aria-label and aria-description, plus a NULL case for an empty div.

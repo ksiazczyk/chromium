@@ -1,0 +1,4 @@
+# Docerion header of ax-title-ui-element-expected.txt.
+type: test
+title: Expected output for the AXTitleUIElement accessibility attribute test
+summary: Expected macOS accessibility output checking that a labelled control does not expose an AXTitleUIElement attribute.

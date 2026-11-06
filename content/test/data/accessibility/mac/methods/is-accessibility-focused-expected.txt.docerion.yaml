@@ -1,0 +1,4 @@
+# Docerion header of is-accessibility-focused-expected.txt.
+type: test
+title: Expected results for isAccessibilityFocused test
+summary: Expected output for the Mac accessibility test verifying that isAccessibilityFocused returns true only for the focused element.

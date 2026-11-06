@@ -1,0 +1,4 @@
+# Docerion header of accessibility-column-index-range-expected.txt.
+type: test
+title: Expected output for accessibilityColumnIndexRange test
+summary: Expected results asserting that a header cell reports an accessibilityColumnIndexRange with location 0 and length 0.

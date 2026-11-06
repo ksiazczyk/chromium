@@ -1,0 +1,4 @@
+# Docerion header of ax-editable-ancestor-expected.txt.
+type: test
+title: AXEditableAncestor expected results
+summary: Expected output verifying the AXEditableAncestor attribute for editable elements, non-applicable nodes, nested contenteditable paragraphs and the document.

@@ -1,0 +1,4 @@
+# Docerion header of ax-previous-word-start-text-marker-for-text-marker-expected.txt.
+type: test
+title: AX previous word start text marker expected results
+summary: Expected output for the Mac accessibility test checking that AXPreviousWordStartTextMarkerForTextMarker finds the start of the previous word in a textarea.

@@ -1,0 +1,4 @@
+# Docerion header of ax-aria-row-index-expected.txt.
+type: test
+title: AXARIARowIndex expected results
+summary: Expected macOS accessibility output for the aria-rowindex test, listing AXARIARowIndex attribute presence and values for table cells and a plain div.

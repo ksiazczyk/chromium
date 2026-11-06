@@ -1,0 +1,4 @@
+# Docerion header of accessibility-disclosure-level-expected.txt.
+type: test
+title: accessibilityDisclosureLevel expected results
+summary: Expected disclosure level values for two tree items at different nesting depths in the Mac accessibility test.

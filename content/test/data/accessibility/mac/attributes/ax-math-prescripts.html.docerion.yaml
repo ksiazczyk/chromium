@@ -1,0 +1,4 @@
+# Docerion header of ax-math-prescripts.html.
+type: test
+title: MathML mmultiscripts prescripts accessibility test page
+summary: HTML test page with MathML mmultiscripts elements whose AXMathPrescripts accessibility attributes are checked on macOS.

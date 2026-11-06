@@ -1,0 +1,4 @@
+# Docerion header of accessibility-scrollbars-expected.txt.
+type: test
+title: Expected output for accessibilityScrollBars test
+summary: Expected results recording accessibilityLabel calls on the horizontal and vertical scrollbars of the main group.

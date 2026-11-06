@@ -1,0 +1,4 @@
+# Docerion header of ax-insertion-point-line-number-expected.txt.
+type: test
+title: Expected results for AXInsertionPointLineNumber attribute test
+summary: Expected output for the macOS accessibility test verifying AXInsertionPointLineNumber across empty, single-line, and multi-line inputs and textareas.

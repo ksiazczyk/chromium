@@ -1,0 +1,4 @@
+# Docerion header of ax-is-multi-selectable-expected.txt.
+type: test
+title: Expected results for AXIsMultiSelectable attribute test
+summary: Expected output for the macOS accessibility test checking the AXIsMultiSelectable attribute on listboxes with and without aria-multiselectable.

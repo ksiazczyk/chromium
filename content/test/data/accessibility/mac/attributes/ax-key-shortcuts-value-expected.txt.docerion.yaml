@@ -1,0 +1,4 @@
+# Docerion header of ax-key-shortcuts-value-expected.txt.
+type: test
+title: Expected results for AXKeyShortcutsValue attribute test
+summary: Expected output for the macOS accessibility test checking the AXKeyShortcutsValue attribute for a button with aria-keyshortcuts.

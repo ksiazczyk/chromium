@@ -1,0 +1,4 @@
+# Docerion header of ax-insertion-point-line-number-contenteditable-expected.txt.
+type: test
+title: Expected results for AXInsertionPointLineNumber in contenteditable
+summary: Expected output for the macOS accessibility test checking AXInsertionPointLineNumber in a contenteditable element, including known incorrect values tracked in a Chromium bug.

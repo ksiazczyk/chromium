@@ -1,0 +1,4 @@
+# Docerion header of mark-expected.txt.
+type: test
+title: Mark text attributed string expected output
+summary: Expected attributed string output for a mark element, checking the AXHighlight attribute in macOS accessibility output.

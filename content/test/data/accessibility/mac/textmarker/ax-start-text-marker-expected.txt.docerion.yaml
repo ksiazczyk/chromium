@@ -1,0 +1,4 @@
+# Docerion header of ax-start-text-marker-expected.txt.
+type: test
+title: AX start text marker expected results
+summary: Expected output for the Mac accessibility test checking that AXStartTextMarker returns the start text marker of a paragraph.

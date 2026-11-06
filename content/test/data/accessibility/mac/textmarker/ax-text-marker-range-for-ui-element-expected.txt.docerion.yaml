@@ -1,0 +1,4 @@
+# Docerion header of ax-text-marker-range-for-ui-element-expected.txt.
+type: test
+title: AX text marker range for UI element expected results
+summary: Expected output for the Mac accessibility test checking that AXTextMarkerRangeForUIElement returns the full text range of a textarea, both directly and via a proxy.

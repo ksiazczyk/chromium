@@ -1,0 +1,4 @@
+# Docerion header of ax-text-operation-replace-expected.txt.
+type: test
+title: Replace text operation expected results
+summary: Expected output for the macOS accessibility test that replaces text with case-matching transformations in editable elements.

@@ -1,0 +1,4 @@
+# Docerion header of ax-selected-rows-expected.txt.
+type: test
+title: AXSelectedRows attribute expected results
+summary: Expected macOS accessibility output for the AXSelectedRows attribute test on grid, tree, and treegrid elements.

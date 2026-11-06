@@ -1,0 +1,4 @@
+# Docerion header of accessibility-column-count-expected.txt.
+type: test
+title: Expected output for accessibilityColumnCount test
+summary: Expected results file asserting that a simple table reports an accessibilityColumnCount of 2.

@@ -1,0 +1,4 @@
+# Docerion header of chrome-ax-node-id-expected.txt.
+type: test
+title: ChromeAXNodeId attribute expected results
+summary: Expected output for the macOS accessibility test checking the ChromeAXNodeId attribute on a div.

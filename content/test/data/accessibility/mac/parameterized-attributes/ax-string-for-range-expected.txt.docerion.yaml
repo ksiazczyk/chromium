@@ -1,0 +1,4 @@
+# Docerion header of ax-string-for-range-expected.txt.
+type: test
+title: Expected results for AXStringForRange accessibility test
+summary: Expected output verifying that an input element supports the AXStringForRange parameterized attribute and returns the substring for a given range.

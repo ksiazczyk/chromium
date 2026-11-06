@@ -1,0 +1,4 @@
+# Docerion header of accessibility-label-expected.txt.
+type: test
+title: Expected accessibilityLabel values for labeled controls
+summary: Expected output listing accessibilityLabel values for input, radio and checkbox elements.

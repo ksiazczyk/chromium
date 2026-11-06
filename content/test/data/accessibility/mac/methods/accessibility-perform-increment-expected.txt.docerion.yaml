@@ -1,0 +1,4 @@
+# Docerion header of accessibility-perform-increment-expected.txt.
+type: test
+title: Expected output for accessibilityPerformIncrement
+summary: Expected results showing a slider value rise from 1 to 2 after accessibilityPerformIncrement and a failed increment call on a text input.

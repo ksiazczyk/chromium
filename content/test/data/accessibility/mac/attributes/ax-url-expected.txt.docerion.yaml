@@ -1,0 +1,4 @@
+# Docerion header of ax-url-expected.txt.
+type: test
+title: Expected output for the AXURL accessibility attribute test
+summary: Expected macOS accessibility output verifying a link exposes AXURL with its href and that a non-link element does not.

@@ -1,0 +1,4 @@
+# Docerion header of ax-size-expected.txt.
+type: test
+title: Expected output for the AXSize accessibility attribute test
+summary: Expected macOS accessibility output listing AXSize attribute presence and pixel dimensions for a plain div and a clipped div.

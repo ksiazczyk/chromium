@@ -1,0 +1,4 @@
+# Docerion header of ax-math-subscript.html.
+type: test
+title: MathML subscript accessibility test page
+summary: HTML test page with msub and msubsup MathML elements whose AXMathSubscript attribute values are checked on macOS.

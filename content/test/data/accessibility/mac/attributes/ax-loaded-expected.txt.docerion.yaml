@@ -1,0 +1,4 @@
+# Docerion header of ax-loaded-expected.txt.
+type: test
+title: AXLoaded attribute test expectations
+summary: Expected macOS accessibility results for the AXLoaded attribute on a document and a not-applicable element whose value can still be requested.

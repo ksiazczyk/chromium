@@ -1,0 +1,4 @@
+# Docerion header of accessibility-is-ignored-expected.txt.
+type: test
+title: Expected accessibilityIsIgnored result for document
+summary: Expected output asserting that the document is not ignored by accessibility.

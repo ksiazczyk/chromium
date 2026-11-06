@@ -1,0 +1,4 @@
+# Docerion header of ax-owns-expected.txt.
+type: test
+title: Expected results for AXOwns accessibility attribute test
+summary: Expected macOS accessibility output for the AXOwns test, covering combobox inputs with and without active descendants and non-combobox elements.

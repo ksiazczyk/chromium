@@ -1,0 +1,4 @@
+# Docerion header of set-accessibility-focused-expected.txt.
+type: test
+title: Expected results for setAccessibilityFocused test
+summary: Expected output for the Mac accessibility test verifying that setAccessibilityFocused moves the AX focused element to a text field.

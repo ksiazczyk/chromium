@@ -1,0 +1,4 @@
+# Docerion header of accessibility-selected-text-and-range-expected.txt.
+type: test
+title: Expected output for accessibilitySelectedText and range test
+summary: Expected accessibilitySelectedTextRange and accessibilitySelectedText results for a text input with a selection.

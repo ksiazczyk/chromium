@@ -1,0 +1,4 @@
+# Docerion header of accessibility-columns-expected.txt.
+type: test
+title: Expected output for accessibilityColumns test
+summary: Expected results file showing that the accessibilityColumns call on a table fails with a FAILED_TO_PARSE error.

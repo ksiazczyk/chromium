@@ -1,0 +1,4 @@
+# Docerion header of aria-description-in-axcustomcontent-expected.txt.
+type: test
+title: aria-description in AXCustomContent expected results
+summary: Expected macOS accessibility output showing aria-description and aria-describedby values surfaced via AXCustomContent rather than AXHelp.

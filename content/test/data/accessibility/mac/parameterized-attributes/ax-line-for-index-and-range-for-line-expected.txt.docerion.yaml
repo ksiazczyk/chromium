@@ -1,0 +1,4 @@
+# Docerion header of ax-line-for-index-and-range-for-line-expected.txt.
+type: test
+title: Expected results for AXLineForIndex and AXRangeForLine accessibility test
+summary: Expected output verifying that a textarea supports AXLineForIndex and AXRangeForLine and that converting a line index yields the correct character range.
