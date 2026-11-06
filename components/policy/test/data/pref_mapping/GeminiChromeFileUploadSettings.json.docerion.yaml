@@ -1,0 +1,4 @@
+# Docerion header of GeminiChromeFileUploadSettings.json.
+type: test
+title: GeminiChromeFileUploadSettings pref mapping test data
+summary: Test data checking that the GeminiChromeFileUploadSettings policy maps to the glic.file_upload_allowed preference on desktop platforms.

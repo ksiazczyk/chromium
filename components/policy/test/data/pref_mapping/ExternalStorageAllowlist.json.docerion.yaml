@@ -1,0 +1,4 @@
+# Docerion header of ExternalStorageAllowlist.json.
+type: test
+title: ExternalStorageAllowlist pref mapping test data
+summary: Policy pref mapping test cases for the ExternalStorageAllowlist policy, covering defaults, valid USB vendor and product IDs and invalid entries on ChromeOS.

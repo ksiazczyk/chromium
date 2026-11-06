@@ -1,0 +1,4 @@
+# Docerion header of ExemptDomainFileTypePairsFromFileTypeDownloadWarnings.json.
+type: test
+title: ExemptDomainFileTypePairsFromFileTypeDownloadWarnings pref mapping test data
+summary: Simple policy pref mapping test, gated on the SAFE_BROWSING_AVAILABLE build flag, for the download warning exemption policy and its list of domain and file extension pairs.

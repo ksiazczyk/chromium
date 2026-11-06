@@ -1,0 +1,4 @@
+# Docerion header of DeviceExtensionsSystemLogEnabled.json.
+type: test
+title: DeviceExtensionsSystemLogEnabled pref mapping test data
+summary: Pref mapping test data explaining that the DeviceExtensionsSystemLogEnabled policy maps into CrosSettings and needs no direct pref test.

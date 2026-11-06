@@ -1,0 +1,4 @@
+# Docerion header of DeviceMinimumVersion.json.
+type: test
+title: DeviceMinimumVersion pref mapping test data
+summary: Declares that no pref mapping test exists for the DeviceMinimumVersion policy because it maps into CrosSettings.

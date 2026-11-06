@@ -1,0 +1,4 @@
+# Docerion header of HttpHeaderInjection.json.
+type: test
+title: HttpHeaderInjection policy pref mapping test data
+summary: Contains policy pref mapping test cases for the HttpHeaderInjection policy, covering valid header rules plus invalid header names and values.

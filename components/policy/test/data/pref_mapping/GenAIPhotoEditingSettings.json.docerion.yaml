@@ -1,0 +1,4 @@
+# Docerion header of GenAIPhotoEditingSettings.json.
+type: test
+title: GenAIPhotoEditingSettings pref mapping test data
+summary: Test data verifying that the GenAIPhotoEditingSettings policy maps to the ash.gen_ai_photo_editing_settings preference on ChromeOS.

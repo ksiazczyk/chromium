@@ -1,0 +1,4 @@
+# Docerion header of DeviceMinimumVersionAueMessage.json.
+type: test
+title: DeviceMinimumVersionAueMessage pref mapping test data
+summary: Declares that no pref mapping test exists for the DeviceMinimumVersionAueMessage policy because it maps into CrosSettings.

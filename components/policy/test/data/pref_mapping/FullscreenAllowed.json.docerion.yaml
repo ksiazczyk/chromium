@@ -1,0 +1,4 @@
+# Docerion header of FullscreenAllowed.json.
+type: test
+title: FullscreenAllowed pref mapping test data
+summary: Test data verifying that the FullscreenAllowed policy maps to the apps.fullscreen.allowed preference on desktop platforms.

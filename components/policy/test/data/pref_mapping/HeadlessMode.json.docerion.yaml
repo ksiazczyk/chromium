@@ -1,0 +1,4 @@
+# Docerion header of HeadlessMode.json.
+type: test
+title: HeadlessMode policy pref mapping test data
+summary: Test data verifying that the HeadlessMode policy maps to the headless.mode local state preference with its mode values on desktop platforms.

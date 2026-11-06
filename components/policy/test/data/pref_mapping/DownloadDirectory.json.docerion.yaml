@@ -1,0 +1,4 @@
+# Docerion header of DownloadDirectory.json.
+type: test
+title: DownloadDirectory policy pref mapping test data
+summary: Test data checking the DownloadDirectory policy sets download directory preferences, including a ChromeOS case for Google Drive downloads.

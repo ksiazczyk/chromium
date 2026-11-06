@@ -1,0 +1,4 @@
+# Docerion header of ExternalStorageReadOnly.json.
+type: test
+title: ExternalStorageReadOnly pref mapping test data
+summary: Simple policy pref mapping test for the ExternalStorageReadOnly policy and the hardware.external_storage_read_only preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of GenAISmartGroupingSettings.json.
+type: test
+title: GenAISmartGroupingSettings pref mapping test data
+summary: Test data verifying that the GenAISmartGroupingSettings policy maps to the ash.gen_ai_smart_grouping_settings preference on ChromeOS.

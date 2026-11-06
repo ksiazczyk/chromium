@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseCustomLabel.json.
+type: test
+title: EnterpriseCustomLabel pref mapping tests
+summary: Test cases checking how the EnterpriseCustomLabel policy sets the enterprise_label.custom_value.for_profile preference for machine and user scope from cloud policy.

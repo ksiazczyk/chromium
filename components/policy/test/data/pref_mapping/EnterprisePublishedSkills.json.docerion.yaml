@@ -1,0 +1,4 @@
+# Docerion header of EnterprisePublishedSkills.json.
+type: test
+title: EnterprisePublishedSkills pref mapping test data
+summary: Policy pref mapping test verifying that the EnterprisePublishedSkills policy with skill URL and hash entries maps to the skills.enterprise_published_skills pref.

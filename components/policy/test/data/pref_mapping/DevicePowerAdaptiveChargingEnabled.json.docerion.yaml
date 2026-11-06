@@ -1,0 +1,4 @@
+# Docerion header of DevicePowerAdaptiveChargingEnabled.json.
+type: test
+title: DevicePowerAdaptiveChargingEnabled pref mapping test
+summary: Simple pref mapping test for ChromeOS checking the power.adaptive_charging_enabled pref with default true and test values true and false.

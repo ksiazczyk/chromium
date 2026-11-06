@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenFaceGazeEnabled.json.
+type: test
+title: DeviceLoginScreenFaceGazeEnabled pref mapping test data
+summary: Tests mapping of the DeviceLoginScreenFaceGazeEnabled policy to the face gaze accessibility pref on the sign-in profile.

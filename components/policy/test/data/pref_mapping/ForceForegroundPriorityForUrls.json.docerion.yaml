@@ -1,0 +1,4 @@
+# Docerion header of ForceForegroundPriorityForUrls.json.
+type: test
+title: ForceForegroundPriorityForUrls policy pref mapping test data
+summary: Test data verifying that the ForceForegroundPriorityForUrls policy maps to the performance_tuning.force_foreground_priority_for_urls preference with URL pattern lists.

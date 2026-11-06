@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenSelectToSpeakEnabled.json.
+type: test
+title: DeviceLoginScreenSelectToSpeakEnabled pref mapping test data
+summary: Test data checking that the login screen select-to-speak policy maps to the settings.a11y.select_to_speak pref in the sign-in profile.

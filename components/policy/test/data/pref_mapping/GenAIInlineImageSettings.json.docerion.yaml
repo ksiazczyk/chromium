@@ -1,0 +1,4 @@
+# Docerion header of GenAIInlineImageSettings.json.
+type: test
+title: GenAIInlineImageSettings pref mapping test data
+summary: Test data verifying that the GenAIInlineImageSettings policy maps to the settings.lobster.enterprise_settings preference on ChromeOS.

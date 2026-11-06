@@ -1,0 +1,4 @@
+# Docerion header of DeviceSwitchFunctionKeysBehaviorEnabled.json.
+type: test
+title: DeviceSwitchFunctionKeysBehaviorEnabled pref mapping test data
+summary: Pref mapping test data mapping the policy to the ash.settings.switch_function_keys_behavior_enabled local state pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceHostnameTemplate.json.
+type: test
+title: DeviceHostnameTemplate pref mapping test data
+summary: Pref mapping test data explaining that the DeviceHostnameTemplate policy maps into CrosSettings and needs no direct pref test.

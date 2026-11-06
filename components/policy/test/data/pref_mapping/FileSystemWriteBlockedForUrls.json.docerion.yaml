@@ -1,0 +1,4 @@
+# Docerion header of FileSystemWriteBlockedForUrls.json.
+type: test
+title: FileSystemWriteBlockedForUrls pref mapping test data
+summary: Test data verifying that the FileSystemWriteBlockedForUrls policy maps to the profile.managed_file_system_write_blocked_for_urls pref across the supported desktop and ChromeOS platforms.

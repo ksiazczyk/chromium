@@ -1,0 +1,4 @@
+# Docerion header of ExtensionInstallSources.json.
+type: test
+title: ExtensionInstallSources pref mapping test data
+summary: Simple policy pref mapping test data for ExtensionInstallSources, checking the extensions.allowed_install_sites pref with an allowed install source URL pattern.

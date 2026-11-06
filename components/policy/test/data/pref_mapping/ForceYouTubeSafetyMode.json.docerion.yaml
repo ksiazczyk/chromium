@@ -1,0 +1,4 @@
+# Docerion header of ForceYouTubeSafetyMode.json.
+type: test
+title: ForceYouTubeSafetyMode pref mapping test data
+summary: Test data covering how the deprecated ForceYouTubeSafetyMode policy interacts with ForceYouTubeRestrict when setting the YouTube restrict level.

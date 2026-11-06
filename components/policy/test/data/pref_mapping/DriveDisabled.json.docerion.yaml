@@ -1,0 +1,4 @@
+# Docerion header of DriveDisabled.json.
+type: test
+title: DriveDisabled policy pref mapping test data
+summary: ChromeOS test data checking the DriveDisabled policy maps to the gdata.disabled preference.

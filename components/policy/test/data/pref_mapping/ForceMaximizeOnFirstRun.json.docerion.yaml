@@ -1,0 +1,4 @@
+# Docerion header of ForceMaximizeOnFirstRun.json.
+type: test
+title: ForceMaximizeOnFirstRun pref mapping test data
+summary: Test data verifying that the ForceMaximizeOnFirstRun policy maps to the ui.force_maximize_on_first_run preference on ChromeOS.

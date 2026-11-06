@@ -1,0 +1,4 @@
+# Docerion header of DnsOverHttpsExcludedDomains.json.
+type: test
+title: DnsOverHttpsExcludedDomains pref mapping test data
+summary: Test data verifying the DnsOverHttpsExcludedDomains policy maps to the dns_over_https.excluded_domains preference on ChromeOS.

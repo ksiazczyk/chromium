@@ -1,0 +1,4 @@
+# Docerion header of GenAiDefaultSettings.json.
+type: test
+title: GenAiDefaultSettings pref mapping test data
+summary: Test data verifying that the GenAiDefaultSettings policy maps to many GenAI-related preferences such as DevTools, omnibox and Lens settings on desktop platforms.

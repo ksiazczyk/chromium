@@ -1,0 +1,4 @@
+# Docerion header of EnableUnsafeSwiftShader.json.
+type: test
+title: EnableUnsafeSwiftShader pref mapping test
+summary: Test data verifying the EnableUnsafeSwiftShader policy maps to the enable_unsafe_swiftshader local state preference on Windows, Linux and Mac.

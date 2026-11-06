@@ -1,0 +1,4 @@
+# Docerion header of DeviceGuestModeEnabled.json.
+type: test
+title: DeviceGuestModeEnabled pref mapping test data
+summary: Pref mapping test data explaining that the DeviceGuestModeEnabled policy maps into CrosSettings and needs no direct pref test.

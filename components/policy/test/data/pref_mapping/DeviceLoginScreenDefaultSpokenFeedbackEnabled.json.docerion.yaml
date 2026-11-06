@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenDefaultSpokenFeedbackEnabled.json.
+type: test
+title: DeviceLoginScreenDefaultSpokenFeedbackEnabled pref mapping test data
+summary: Test data recording that the pref mapping test for DeviceLoginScreenDefaultSpokenFeedbackEnabled is missing because the mandatory policy is remapped as recommended in the sign-in profile.

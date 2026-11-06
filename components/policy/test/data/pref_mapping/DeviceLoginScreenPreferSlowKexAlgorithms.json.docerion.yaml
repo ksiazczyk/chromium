@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenPreferSlowKexAlgorithms.json.
+type: test
+title: DeviceLoginScreenPreferSlowKexAlgorithms pref mapping test data
+summary: Test data checking that the login screen prefer slow key exchange algorithms policy maps to the ssl.compliance.key_exchange pref in the sign-in profile.

@@ -1,0 +1,4 @@
+# Docerion header of HelpMeReadSettings.json.
+type: test
+title: HelpMeReadSettings policy pref mapping test data
+summary: Test data verifying the HelpMeReadSettings policy maps to the settings.managed.help_me_read preference on ChromeOS with default and enterprise values.

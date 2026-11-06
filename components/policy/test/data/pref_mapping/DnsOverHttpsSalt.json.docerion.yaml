@@ -1,0 +1,4 @@
+# Docerion header of DnsOverHttpsSalt.json.
+type: test
+title: DnsOverHttpsSalt pref mapping test data
+summary: Test data verifying the DnsOverHttpsSalt policy maps to the dns_over_https.salt preference when secure DNS with identifiers is configured on ChromeOS.

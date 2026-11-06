@@ -1,0 +1,4 @@
+# Docerion header of EcheAllowed.json.
+type: test
+title: EcheAllowed policy pref mapping test data
+summary: Test data mapping the EcheAllowed policy to the eche.allowed pref on ChromeOS with true and false values to test.

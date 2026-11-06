@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenShowOptionsInSystemTrayMenu.json.
+type: test
+title: DeviceLoginScreenShowOptionsInSystemTrayMenu pref mapping test data
+summary: Test data checking that the login screen system tray accessibility menu policy maps to the settings.a11y.enable_menu pref in the sign-in profile.

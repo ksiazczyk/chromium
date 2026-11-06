@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenVirtualKeyboardEnabled.json.
+type: test
+title: DeviceLoginScreenVirtualKeyboardEnabled pref mapping test data
+summary: Test data verifying that the DeviceLoginScreenVirtualKeyboardEnabled policy maps to the settings.a11y.virtual_keyboard pref in the ChromeOS sign-in profile.

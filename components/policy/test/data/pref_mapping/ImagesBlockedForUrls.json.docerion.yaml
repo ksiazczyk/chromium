@@ -1,0 +1,4 @@
+# Docerion header of ImagesBlockedForUrls.json.
+type: test
+title: ImagesBlockedForUrls pref mapping test data
+summary: Test data mapping the ImagesBlockedForUrls policy to a managed URL list preference across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of EnhancedNetworkVoicesInSelectToSpeakAllowed.json.
+type: test
+title: EnhancedNetworkVoicesInSelectToSpeakAllowed pref mapping test
+summary: Test data verifying the policy maps to the Select-to-Speak enhanced network voices accessibility preference on ChromeOS and can also be set as a recommended policy.

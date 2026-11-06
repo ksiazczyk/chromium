@@ -1,0 +1,4 @@
+# Docerion header of ExplicitlyAllowedNetworkPorts.json.
+type: test
+title: ExplicitlyAllowedNetworkPorts policy pref mapping test data
+summary: Test data verifying that the ExplicitlyAllowedNetworkPorts policy maps to the net.explicitly_allowed_network_ports pref in local state, covering the default and an empty policy value.

@@ -1,0 +1,4 @@
+# Docerion header of FocusModeSoundsEnabled.json.
+type: test
+title: FocusModeSoundsEnabled policy pref mapping test data
+summary: Test data verifying that the FocusModeSoundsEnabled policy maps to the ash.focus_mode.sounds_enabled preference on ChromeOS with enabled, focus-sounds and disabled values.

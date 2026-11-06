@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenPreferSlowCiphers.json.
+type: test
+title: DeviceLoginScreenPreferSlowCiphers pref mapping test data
+summary: Test data checking that the login screen prefer slow ciphers policy maps to the ssl.compliance.cipher pref in the sign-in profile.

@@ -1,0 +1,4 @@
+# Docerion header of HttpsUpgradesEnabled.json.
+type: test
+title: HttpsUpgradesEnabled policy pref mapping test data
+summary: Defines expected mappings from the HttpsUpgradesEnabled policy to the https_upgrades.policy.upgrades_enabled pref with true and false test values.

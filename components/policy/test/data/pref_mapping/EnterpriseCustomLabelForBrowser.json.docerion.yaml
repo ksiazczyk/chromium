@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseCustomLabelForBrowser.json.
+type: test
+title: EnterpriseCustomLabelForBrowser pref mapping tests
+summary: Test cases checking how the EnterpriseCustomLabelForBrowser policy sets the enterprise_label.custom_value.for_browser local state preference for machine scope.

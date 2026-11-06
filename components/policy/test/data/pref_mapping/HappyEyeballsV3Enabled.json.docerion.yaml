@@ -1,0 +1,4 @@
+# Docerion header of HappyEyeballsV3Enabled.json.
+type: test
+title: HappyEyeballsV3Enabled policy pref mapping test data
+summary: Test data verifying that the HappyEyeballsV3Enabled policy maps to the net.happy_eyeballs_v3_enabled local state preference across all supported platforms.

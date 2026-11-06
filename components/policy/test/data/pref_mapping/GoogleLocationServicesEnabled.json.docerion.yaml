@@ -1,0 +1,4 @@
+# Docerion header of GoogleLocationServicesEnabled.json.
+type: test
+title: GoogleLocationServicesEnabled policy pref mapping test data
+summary: Test data noting that GoogleLocationServicesEnabled has no simple pref mapping test because it is covered by a custom privacy hub policy browser test.

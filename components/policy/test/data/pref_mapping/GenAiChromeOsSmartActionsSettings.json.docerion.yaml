@@ -1,0 +1,4 @@
+# Docerion header of GenAiChromeOsSmartActionsSettings.json.
+type: test
+title: GenAiChromeOsSmartActionsSettings pref mapping test data
+summary: Test data verifying that the GenAiChromeOsSmartActionsSettings policy maps to the ash.scanner.enterprise_policy_allowed preference on ChromeOS.

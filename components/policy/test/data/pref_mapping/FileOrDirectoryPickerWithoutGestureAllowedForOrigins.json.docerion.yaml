@@ -1,0 +1,4 @@
+# Docerion header of FileOrDirectoryPickerWithoutGestureAllowedForOrigins.json.
+type: test
+title: FileOrDirectoryPickerWithoutGestureAllowedForOrigins pref mapping test data
+summary: Test data verifying that the FileOrDirectoryPickerWithoutGestureAllowedForOrigins policy maps to the file_system.file_or_directory_picker_without_allowed_for_origins pref on win, linux, mac, chromeos and fuchsia.

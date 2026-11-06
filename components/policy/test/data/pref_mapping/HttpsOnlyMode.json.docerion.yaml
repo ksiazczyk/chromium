@@ -1,0 +1,4 @@
+# Docerion header of HttpsOnlyMode.json.
+type: test
+title: HttpsOnlyMode policy pref mapping test data
+summary: Maps HttpsOnlyMode policy values such as disallowed, allowed, force_enabled, and force_balanced_enabled to the HTTPS-only and HTTPS-first mode prefs.

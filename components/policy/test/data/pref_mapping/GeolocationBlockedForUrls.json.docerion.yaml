@@ -1,0 +1,4 @@
+# Docerion header of GeolocationBlockedForUrls.json.
+type: test
+title: GeolocationBlockedForUrls pref mapping test data
+summary: Test data verifying that the GeolocationBlockedForUrls policy maps to the managed geolocation blocked URLs preference across six platforms.

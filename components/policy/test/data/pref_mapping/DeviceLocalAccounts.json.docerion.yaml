@@ -1,0 +1,4 @@
+# Docerion header of DeviceLocalAccounts.json.
+type: test
+title: DeviceLocalAccounts pref mapping test data
+summary: Test data entry explaining that no pref mapping test exists because the policy maps into CrosSettings.

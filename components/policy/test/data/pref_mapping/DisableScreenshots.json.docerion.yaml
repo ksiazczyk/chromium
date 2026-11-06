@@ -1,0 +1,4 @@
+# Docerion header of DisableScreenshots.json.
+type: test
+title: DisableScreenshots pref mapping test data
+summary: Test data verifying the DisableScreenshots policy maps to the disable_screenshots preference on all supported platforms.

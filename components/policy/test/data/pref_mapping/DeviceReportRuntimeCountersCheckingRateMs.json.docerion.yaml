@@ -1,0 +1,4 @@
+# Docerion header of DeviceReportRuntimeCountersCheckingRateMs.json.
+type: test
+title: DeviceReportRuntimeCountersCheckingRateMs pref mapping test data
+summary: Test data explaining that the DeviceReportRuntimeCountersCheckingRateMs policy has no pref mapping test because it maps into CrosSettings.

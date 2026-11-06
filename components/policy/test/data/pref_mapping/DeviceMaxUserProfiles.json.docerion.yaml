@@ -1,0 +1,4 @@
+# Docerion header of DeviceMaxUserProfiles.json.
+type: test
+title: DeviceMaxUserProfiles pref mapping test data
+summary: Records that DeviceMaxUserProfiles has no pref mapping test because the policy maps into CrosSettings.

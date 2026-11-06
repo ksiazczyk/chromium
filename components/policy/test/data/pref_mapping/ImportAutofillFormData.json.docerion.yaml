@@ -1,0 +1,4 @@
+# Docerion header of ImportAutofillFormData.json.
+type: test
+title: ImportAutofillFormData pref mapping test data
+summary: Test data mapping the ImportAutofillFormData policy to the import_dialog_autofill_form_data preference, including recommended values.

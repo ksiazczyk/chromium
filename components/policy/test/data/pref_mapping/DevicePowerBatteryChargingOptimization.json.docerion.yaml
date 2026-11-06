@@ -1,0 +1,4 @@
+# Docerion header of DevicePowerBatteryChargingOptimization.json.
+type: test
+title: DevicePowerBatteryChargingOptimization pref mapping tests
+summary: Pref mapping test cases verifying how DevicePowerBatteryChargingOptimization sets adaptive charging and charge limit prefs and overrides DevicePowerAdaptiveChargingEnabled.

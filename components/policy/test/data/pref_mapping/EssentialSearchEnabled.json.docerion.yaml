@@ -1,0 +1,4 @@
+# Docerion header of EssentialSearchEnabled.json.
+type: test
+title: EssentialSearchEnabled pref mapping test data
+summary: Simple policy pref mapping test for the EssentialSearchEnabled policy on ChromeOS, checking the essential_search_enabled pref with true and false values.

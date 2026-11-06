@@ -1,0 +1,4 @@
+# Docerion header of IdleDetectionAllowedForUrls.json.
+type: test
+title: IdleDetectionAllowedForUrls pref mapping test data
+summary: Test data mapping the IdleDetectionAllowedForUrls policy to a managed URL list preference across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceWiFiFastTransitionEnabled.json.
+type: test
+title: DeviceWiFiFastTransitionEnabled pref mapping test data
+summary: Simple policy pref mapping test data for the DeviceWiFiFastTransitionEnabled policy and the net.device_wifi_fast_transition_enabled local state pref.

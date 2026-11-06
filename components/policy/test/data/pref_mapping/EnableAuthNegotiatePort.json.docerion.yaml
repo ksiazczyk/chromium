@@ -1,0 +1,4 @@
+# Docerion header of EnableAuthNegotiatePort.json.
+type: test
+title: EnableAuthNegotiatePort policy pref mapping test data
+summary: Test data mapping the EnableAuthNegotiatePort policy to the auth.enable_negotiate_port pref in local state on Windows, Linux, Mac, ChromeOS and Fuchsia.

@@ -1,0 +1,4 @@
+# Docerion header of FileSystemReadAskForUrls.json.
+type: test
+title: FileSystemReadAskForUrls pref mapping test data
+summary: Test data verifying that the FileSystemReadAskForUrls policy maps to the profile.managed_file_system_read_ask_for_urls pref across the supported desktop and ChromeOS platforms.

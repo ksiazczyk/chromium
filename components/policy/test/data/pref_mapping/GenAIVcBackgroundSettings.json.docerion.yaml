@@ -1,0 +1,4 @@
+# Docerion header of GenAIVcBackgroundSettings.json.
+type: test
+title: GenAIVcBackgroundSettings pref mapping test data
+summary: Test data verifying that the GenAIVcBackgroundSettings policy maps to the video call background enterprise settings preference on ChromeOS.

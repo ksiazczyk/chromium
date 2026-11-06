@@ -1,0 +1,4 @@
+# Docerion header of DeviceScreensaverLoginScreenEnabled.json.
+type: test
+title: DeviceScreensaverLoginScreenEnabled pref mapping test data
+summary: Simple policy pref mapping test data verifying DeviceScreensaverLoginScreenEnabled maps to ash.ambient.managed_screensaver.enabled in the signin profile.

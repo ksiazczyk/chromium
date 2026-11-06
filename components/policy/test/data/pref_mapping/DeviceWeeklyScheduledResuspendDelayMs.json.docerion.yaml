@@ -1,0 +1,4 @@
+# Docerion header of DeviceWeeklyScheduledResuspendDelayMs.json.
+type: test
+title: DeviceWeeklyScheduledResuspendDelayMs pref mapping test data
+summary: Policy pref mapping test data checking DeviceWeeklyScheduledResuspendDelayMs maps to the device_weekly_scheduled_resuspend_delay_ms local state pref on ChromeOS.

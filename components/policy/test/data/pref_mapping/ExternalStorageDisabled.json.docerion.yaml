@@ -1,0 +1,4 @@
+# Docerion header of ExternalStorageDisabled.json.
+type: test
+title: ExternalStorageDisabled pref mapping test data
+summary: Simple policy pref mapping test for the ExternalStorageDisabled policy and the hardware.external_storage_disabled preference on ChromeOS.

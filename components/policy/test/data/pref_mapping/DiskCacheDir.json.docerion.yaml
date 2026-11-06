@@ -1,0 +1,4 @@
+# Docerion header of DiskCacheDir.json.
+type: test
+title: DiskCacheDir pref mapping test data
+summary: Test data verifying the DiskCacheDir policy maps to the browser.disk_cache_dir preference stored in local state.

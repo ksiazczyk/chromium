@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenPrimaryMouseButtonSwitch.json.
+type: test
+title: DeviceLoginScreenPrimaryMouseButtonSwitch pref mapping test data
+summary: Test data checking that the login screen primary mouse button switch policy maps to the settings.mouse.primary_right pref in the sign-in profile.

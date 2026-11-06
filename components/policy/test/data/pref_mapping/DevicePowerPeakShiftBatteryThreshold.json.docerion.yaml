@@ -1,0 +1,4 @@
+# Docerion header of DevicePowerPeakShiftBatteryThreshold.json.
+type: test
+title: DevicePowerPeakShiftBatteryThreshold pref mapping test data
+summary: Test data mapping the DevicePowerPeakShiftBatteryThreshold policy to the ash.power.peak_shift_battery_threshold local state pref on ChromeOS.

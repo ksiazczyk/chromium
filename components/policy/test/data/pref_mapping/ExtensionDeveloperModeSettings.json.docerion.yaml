@@ -1,0 +1,4 @@
+# Docerion header of ExtensionDeveloperModeSettings.json.
+type: test
+title: ExtensionDeveloperModeSettings policy pref mapping test data
+summary: Test data checking how ExtensionDeveloperModeSettings controls the extensions.ui.developer_mode pref and takes precedence over DeveloperToolsAvailability.

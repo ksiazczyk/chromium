@@ -1,0 +1,4 @@
+# Docerion header of HomeAndEndKeysModifier.json.
+type: test
+title: HomeAndEndKeysModifier policy pref mapping test data
+summary: Test data verifying the HomeAndEndKeysModifier policy maps to the ash.settings.home_and_end_keys_modifier preference on ChromeOS.

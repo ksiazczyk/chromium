@@ -1,0 +1,4 @@
+# Docerion header of DeviceExternalPrintServersAllowlist.json.
+type: test
+title: DeviceExternalPrintServersAllowlist pref mapping test
+summary: Pref mapping test verifying the device_external_print_servers_allowlist pref in local state with sample allowlist IDs on ChromeOS.

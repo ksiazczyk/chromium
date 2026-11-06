@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenWebHidAllowDevicesForUrls.json.
+type: test
+title: DeviceLoginScreenWebHidAllowDevicesForUrls pref mapping test data
+summary: Test data verifying that DeviceLoginScreenWebHidAllowDevicesForUrls maps to the managed.web_hid_allow_devices_for_urls_on_login_screen pref in local state.

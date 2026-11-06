@@ -1,0 +1,4 @@
+# Docerion header of DeviceFlexHwDataForProductImprovementEnabled.json.
+type: test
+title: DeviceFlexHwDataForProductImprovementEnabled test data
+summary: Pref mapping test data noting the DeviceFlexHwDataForProductImprovementEnabled policy is read only by ChromeOS Flex services, not Chrome.

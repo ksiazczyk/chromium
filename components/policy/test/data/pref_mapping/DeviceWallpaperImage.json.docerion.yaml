@@ -1,0 +1,4 @@
+# Docerion header of DeviceWallpaperImage.json.
+type: test
+title: DeviceWallpaperImage pref mapping test data
+summary: Declares no pref mapping test for the DeviceWallpaperImage policy because it maps into CrosSettings.

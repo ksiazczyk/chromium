@@ -1,0 +1,4 @@
+# Docerion header of GeminiActOnWebBlockedForURLs.json.
+type: test
+title: GeminiActOnWebBlockedForURLs pref mapping test data
+summary: Test data checking that the GeminiActOnWebBlockedForURLs policy maps to the glic.actuation_on_web_blocked_for_urls preference across platforms.

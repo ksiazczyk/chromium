@@ -1,0 +1,4 @@
+# Docerion header of DeviceScheduledReboot.json.
+type: test
+title: DeviceScheduledReboot pref mapping test data
+summary: Declares no pref mapping test for the DeviceScheduledReboot policy because it maps into CrosSettings.

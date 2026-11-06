@@ -1,0 +1,4 @@
+# Docerion header of GeminiEnterpriseSettings.json.
+type: test
+title: GeminiEnterpriseSettings missing test placeholder
+summary: Placeholder stating the GeminiEnterpriseSettings policy is no longer supported and has no pref mapping test until the Admin console stops referencing it.

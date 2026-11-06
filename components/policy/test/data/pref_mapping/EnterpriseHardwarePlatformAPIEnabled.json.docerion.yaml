@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseHardwarePlatformAPIEnabled.json.
+type: test
+title: EnterpriseHardwarePlatformAPIEnabled pref mapping test data
+summary: Test data verifying that the EnterpriseHardwarePlatformAPIEnabled policy maps to the enterprise_hardware_platform_api.enabled pref on Windows, Linux, Mac, ChromeOS and desktop Android.

@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseSearchAggregatorSettings.json.
+type: test
+title: EnterpriseSearchAggregatorSettings pref mapping test data
+summary: Declares no pref mapping test for the EnterpriseSearchAggregatorSettings policy because of its complex timestamp-based mapping, pointing to a browser test instead.

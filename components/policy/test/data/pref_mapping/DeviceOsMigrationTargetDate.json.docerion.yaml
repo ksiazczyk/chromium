@@ -1,0 +1,4 @@
+# Docerion header of DeviceOsMigrationTargetDate.json.
+type: test
+title: DeviceOsMigrationTargetDate pref mapping test data
+summary: Declares that no pref mapping test exists for the DeviceOsMigrationTargetDate policy because it maps into CrosSettings.

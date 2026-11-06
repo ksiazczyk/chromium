@@ -1,0 +1,4 @@
+# Docerion header of DeviceFamilyLinkAccountsAllowed.json.
+type: test
+title: DeviceFamilyLinkAccountsAllowed pref mapping test data
+summary: Pref mapping test data explaining that the DeviceFamilyLinkAccountsAllowed policy maps into CrosSettings and needs no direct pref test.

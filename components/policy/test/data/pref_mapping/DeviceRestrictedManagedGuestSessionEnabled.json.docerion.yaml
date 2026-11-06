@@ -1,0 +1,4 @@
+# Docerion header of DeviceRestrictedManagedGuestSessionEnabled.json.
+type: test
+title: DeviceRestrictedManagedGuestSessionEnabled pref mapping test data
+summary: Test data explaining that the DeviceRestrictedManagedGuestSessionEnabled policy has no pref mapping test because it maps into CrosSettings.

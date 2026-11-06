@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseLogoUrl.json.
+type: test
+title: EnterpriseLogoUrl pref mapping test data
+summary: Policy pref mapping test cases for the EnterpriseLogoUrl policy, covering profile and browser logo prefs, invalid URL handling and machine versus user cloud scope.

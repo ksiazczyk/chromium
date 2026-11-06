@@ -1,0 +1,4 @@
+# Docerion header of DeviceHardwareVideoDecodingEnabled.json.
+type: test
+title: DeviceHardwareVideoDecodingEnabled pref mapping test data
+summary: Pref mapping test data noting the DeviceHardwareVideoDecodingEnabled policy is not mapped to prefs and is handled in ChromeOS code.

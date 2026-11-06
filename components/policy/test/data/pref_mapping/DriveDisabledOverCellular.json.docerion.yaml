@@ -1,0 +1,4 @@
+# Docerion header of DriveDisabledOverCellular.json.
+type: test
+title: DriveDisabledOverCellular policy pref mapping test data
+summary: ChromeOS test data verifying the DriveDisabledOverCellular policy maps to the gdata.cellular.disabled preference.

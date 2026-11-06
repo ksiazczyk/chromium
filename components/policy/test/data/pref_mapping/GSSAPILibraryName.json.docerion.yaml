@@ -1,0 +1,4 @@
+# Docerion header of GSSAPILibraryName.json.
+type: test
+title: GSSAPILibraryName pref mapping test data
+summary: Test data checking that the GSSAPILibraryName policy sets the auth.gssapi_library_name local state preference on Linux.

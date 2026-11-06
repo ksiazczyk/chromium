@@ -1,0 +1,4 @@
+# Docerion header of ExtensionAllowedTypes.json.
+type: test
+title: ExtensionAllowedTypes policy pref mapping test data
+summary: Test data verifying that the ExtensionAllowedTypes policy maps each allowed extension type, such as extension, theme, and platform app, to the corresponding extensions.allowed_types value.

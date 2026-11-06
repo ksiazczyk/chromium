@@ -1,0 +1,4 @@
+# Docerion header of FastPairEnabled.json.
+type: test
+title: FastPairEnabled pref mapping test data
+summary: Policy pref mapping test cases for the FastPairEnabled policy, checking default, forced-disabled and fallback behaviour of the ash.fast_pair.enabled preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceUserAllowlist.json.
+type: test
+title: DeviceUserAllowlist pref mapping test data
+summary: Declares no pref mapping test for the DeviceUserAllowlist policy because it maps into CrosSettings.

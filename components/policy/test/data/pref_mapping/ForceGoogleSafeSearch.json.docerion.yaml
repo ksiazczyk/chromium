@@ -1,0 +1,4 @@
+# Docerion header of ForceGoogleSafeSearch.json.
+type: test
+title: ForceGoogleSafeSearch policy pref mapping test data
+summary: Test data verifying the ForceGoogleSafeSearch policy mapping and that it overrules ForceSafeSearch when both policies are set.

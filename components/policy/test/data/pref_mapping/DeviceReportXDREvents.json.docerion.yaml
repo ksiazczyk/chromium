@@ -1,0 +1,4 @@
+# Docerion header of DeviceReportXDREvents.json.
+type: test
+title: DeviceReportXDREvents pref mapping test data
+summary: Test data explaining that the DeviceReportXDREvents policy has no pref mapping test because it maps into CrosSettings.

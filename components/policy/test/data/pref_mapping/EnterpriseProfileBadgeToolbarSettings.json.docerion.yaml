@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseProfileBadgeToolbarSettings.json.
+type: test
+title: EnterpriseProfileBadgeToolbarSettings pref mapping test data
+summary: Simple policy pref mapping test for the EnterpriseProfileBadgeToolbarSettings policy against the enterprise.profile_badging.toolbar_settings pref with values 0 and 1.

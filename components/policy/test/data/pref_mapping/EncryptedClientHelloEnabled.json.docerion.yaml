@@ -1,0 +1,4 @@
+# Docerion header of EncryptedClientHelloEnabled.json.
+type: test
+title: EncryptedClientHelloEnabled pref mapping test
+summary: Test data verifying the EncryptedClientHelloEnabled policy maps to the ssl.ech_enabled local state preference across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of FloatingAccessibilityMenuEnabled.json.
+type: test
+title: FloatingAccessibilityMenuEnabled pref mapping test data
+summary: Test data verifying that the FloatingAccessibilityMenuEnabled policy maps to the settings.a11y.floating_menu pref on ChromeOS with true and false values.

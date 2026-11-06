@@ -1,0 +1,4 @@
+# Docerion header of DeviceQuirksDownloadEnabled.json.
+type: test
+title: DeviceQuirksDownloadEnabled pref mapping test data
+summary: Test data explaining that the DeviceQuirksDownloadEnabled policy has no pref mapping test because it maps into CrosSettings.

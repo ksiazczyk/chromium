@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenDefaultHighContrastEnabled.json.
+type: test
+title: DeviceLoginScreenDefaultHighContrastEnabled pref mapping test data
+summary: Test data recording that the pref mapping test for DeviceLoginScreenDefaultHighContrastEnabled is missing because the mandatory policy is remapped as recommended in the sign-in profile.

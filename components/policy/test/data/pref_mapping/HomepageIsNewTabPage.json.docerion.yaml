@@ -1,0 +1,4 @@
+# Docerion header of HomepageIsNewTabPage.json.
+type: test
+title: HomepageIsNewTabPage policy pref mapping test data
+summary: Test data verifying the HomepageIsNewTabPage policy maps to the homepage_is_newtabpage preference across platforms and can be recommended.

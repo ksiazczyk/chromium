@@ -1,0 +1,4 @@
+# Docerion header of IdleWarningDelayAC.json.
+type: test
+title: IdleWarningDelay AC pref mapping test data
+summary: Test data mapping a policy to the power.ac_idle_warning_delay_ms preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of FloatingSsoEnabled.json.
+type: test
+title: FloatingSsoEnabled policy pref mapping test data
+summary: Test data verifying that the FloatingSsoEnabled policy maps to the floating_sso_enabled preference on ChromeOS with true and false values.

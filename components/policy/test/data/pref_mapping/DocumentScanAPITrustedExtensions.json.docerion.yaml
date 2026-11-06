@@ -1,0 +1,4 @@
+# Docerion header of DocumentScanAPITrustedExtensions.json.
+type: test
+title: DocumentScanAPITrustedExtensions policy pref mapping test data
+summary: ChromeOS test data checking the DocumentScanAPITrustedExtensions policy maps to the document scan API trusted extensions preference.

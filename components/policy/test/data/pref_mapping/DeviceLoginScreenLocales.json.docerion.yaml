@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenLocales.json.
+type: test
+title: DeviceLoginScreenLocales pref mapping test data
+summary: Tests mapping of the DeviceLoginScreenLocales policy to the forced languages pref on the sign-in profile.

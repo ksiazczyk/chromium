@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenAccessibilityShortcutsEnabled.json.
+type: test
+title: DeviceLoginScreenAccessibilityShortcutsEnabled pref mapping test data
+summary: Test data for the simple policy pref mapping test checking that DeviceLoginScreenAccessibilityShortcutsEnabled sets the accessibility shortcuts preference in the ChromeOS sign-in profile.

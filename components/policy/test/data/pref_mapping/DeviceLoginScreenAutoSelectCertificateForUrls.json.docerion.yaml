@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenAutoSelectCertificateForUrls.json.
+type: test
+title: DeviceLoginScreenAutoSelectCertificateForUrls pref mapping test data
+summary: Test data for the simple policy pref mapping test checking that DeviceLoginScreenAutoSelectCertificateForUrls sets the certificate auto-selection preference in the ChromeOS sign-in profile.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceHindiInscriptLayoutEnabled.json.
+type: test
+title: DeviceHindiInscriptLayoutEnabled pref mapping test data
+summary: Pref mapping test data explaining that the DeviceHindiInscriptLayoutEnabled policy maps into CrosSettings and needs no direct pref test.

@@ -1,0 +1,4 @@
+# Docerion header of HistoryClustersVisible.json.
+type: test
+title: HistoryClustersVisible policy pref mapping test data
+summary: Test data verifying the HistoryClustersVisible policy maps to the history_clusters.visible preference across desktop, ChromeOS, Fuchsia and Android.

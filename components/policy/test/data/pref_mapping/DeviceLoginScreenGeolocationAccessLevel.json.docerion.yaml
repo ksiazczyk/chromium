@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenGeolocationAccessLevel.json.
+type: test
+title: DeviceLoginScreenGeolocationAccessLevel pref mapping test data
+summary: Tests how DeviceLoginScreenGeolocationAccessLevel values map to the geolocation allowed pref, including handling of unknown future values as disallowed.

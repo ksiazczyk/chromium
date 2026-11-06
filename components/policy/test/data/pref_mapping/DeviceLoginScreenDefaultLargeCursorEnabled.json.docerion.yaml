@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenDefaultLargeCursorEnabled.json.
+type: test
+title: DeviceLoginScreenDefaultLargeCursorEnabled pref mapping test data
+summary: Test data recording that the pref mapping test for DeviceLoginScreenDefaultLargeCursorEnabled is missing because the mandatory policy is remapped as recommended in the sign-in profile.

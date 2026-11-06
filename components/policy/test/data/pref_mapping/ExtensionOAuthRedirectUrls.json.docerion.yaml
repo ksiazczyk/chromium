@@ -1,0 +1,4 @@
+# Docerion header of ExtensionOAuthRedirectUrls.json.
+type: test
+title: ExtensionOAuthRedirectUrls pref mapping test data
+summary: Simple policy pref mapping test data for ExtensionOAuthRedirectUrls, checking the extensions.oauth_redirect_urls pref on ChromeOS.

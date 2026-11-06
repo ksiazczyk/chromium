@@ -1,0 +1,4 @@
+# Docerion header of FilePickerChooseFromDriveSettings.json.
+type: test
+title: FilePickerChooseFromDriveSettings missing test note
+summary: Test entry documenting that no pref mapping test exists for the FilePickerChooseFromDriveSettings policy because it maps into an iOS-specific pref.

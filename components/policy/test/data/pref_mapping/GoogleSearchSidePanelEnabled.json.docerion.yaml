@@ -1,0 +1,4 @@
+# Docerion header of GoogleSearchSidePanelEnabled.json.
+type: test
+title: GoogleSearchSidePanelEnabled policy pref mapping test data
+summary: Test data verifying that the GoogleSearchSidePanelEnabled policy maps to the side_panel.google_search_side_panel_enabled preference on desktop platforms.

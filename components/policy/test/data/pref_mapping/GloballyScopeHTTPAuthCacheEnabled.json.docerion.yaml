@@ -1,0 +1,4 @@
+# Docerion header of GloballyScopeHTTPAuthCacheEnabled.json.
+type: test
+title: GloballyScopeHTTPAuthCacheEnabled policy pref mapping test data
+summary: Test data verifying that the GloballyScopeHTTPAuthCacheEnabled policy maps to the auth.globally_scoped_http_auth_cache_enabled preference across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceKeyboardBacklightColor.json.
+type: test
+title: DeviceKeyboardBacklightColor policy pref mapping test data
+summary: Test data for the simple policy pref mapping test checking that DeviceKeyboardBacklightColor sets the keyboard backlight color preference on ChromeOS with values 0 to 7 and 100.

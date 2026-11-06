@@ -1,0 +1,4 @@
+# Docerion header of ExtensionCacheSize.json.
+type: test
+title: ExtensionCacheSize policy pref mapping test data
+summary: Test data noting that no pref mapping test exists for the ExtensionCacheSize policy because it maps into CrosSettings.

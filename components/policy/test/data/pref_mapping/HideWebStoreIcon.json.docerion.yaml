@@ -1,0 +1,4 @@
+# Docerion header of HideWebStoreIcon.json.
+type: test
+title: HideWebStoreIcon policy pref mapping test data
+summary: Test data verifying the HideWebStoreIcon policy maps to the hide_web_store_icon preference across Windows, Linux, Mac, ChromeOS and Fuchsia.

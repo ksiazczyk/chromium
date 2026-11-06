@@ -1,0 +1,4 @@
+# Docerion header of DeviceWeeklyScheduledSuspend.json.
+type: test
+title: DeviceWeeklyScheduledSuspend pref mapping test data
+summary: Policy pref mapping test data checking DeviceWeeklyScheduledSuspend maps to the device_weekly_scheduled_suspend pref, covering default, empty and set values.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenLargeCursorEnabled.json.
+type: test
+title: DeviceLoginScreenLargeCursorEnabled pref mapping test data
+summary: Tests mapping of the DeviceLoginScreenLargeCursorEnabled policy to the large cursor accessibility pref on the sign-in profile.

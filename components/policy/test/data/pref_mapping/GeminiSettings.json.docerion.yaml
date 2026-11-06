@@ -1,0 +1,4 @@
+# Docerion header of GeminiSettings.json.
+type: test
+title: GeminiSettings pref mapping test data
+summary: Test data verifying the GeminiSettings policy maps to the browser.gemini_settings preference on Android, desktop and ChromeOS.

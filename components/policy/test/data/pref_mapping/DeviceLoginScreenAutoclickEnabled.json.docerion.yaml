@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenAutoclickEnabled.json.
+type: test
+title: DeviceLoginScreenAutoclickEnabled pref mapping test data
+summary: Test data for the simple policy pref mapping test of the DeviceLoginScreenAutoclickEnabled policy, mapping it to the settings.a11y.autoclick pref in the sign-in profile on ChromeOS.

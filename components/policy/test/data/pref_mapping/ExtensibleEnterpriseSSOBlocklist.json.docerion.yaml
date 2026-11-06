@@ -1,0 +1,4 @@
+# Docerion header of ExtensibleEnterpriseSSOBlocklist.json.
+type: test
+title: ExtensibleEnterpriseSSOBlocklist policy pref mapping test data
+summary: Test data for macOS checking how the ExtensibleEnterpriseSSOBlocklist policy enables or disables extensible enterprise SSO and filters the enabled IDP list for Microsoft and Okta.

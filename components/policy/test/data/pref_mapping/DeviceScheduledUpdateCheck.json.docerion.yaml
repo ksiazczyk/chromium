@@ -1,0 +1,4 @@
+# Docerion header of DeviceScheduledUpdateCheck.json.
+type: test
+title: DeviceScheduledUpdateCheck pref mapping test data
+summary: Declares no pref mapping test for the DeviceScheduledUpdateCheck policy because it maps into CrosSettings.

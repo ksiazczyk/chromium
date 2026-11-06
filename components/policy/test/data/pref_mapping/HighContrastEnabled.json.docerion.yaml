@@ -1,0 +1,4 @@
+# Docerion header of HighContrastEnabled.json.
+type: test
+title: HighContrastEnabled policy pref mapping test data
+summary: Test data verifying the HighContrastEnabled policy maps to the settings.a11y.high_contrast_enabled preference on ChromeOS.

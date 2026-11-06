@@ -1,0 +1,4 @@
+# Docerion header of DeviceLocalAccountAutoLoginDelay.json.
+type: test
+title: DeviceLocalAccountAutoLoginDelay pref mapping test data
+summary: Test data entry explaining that no pref mapping test exists because the policy maps into CrosSettings.

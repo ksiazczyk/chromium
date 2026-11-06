@@ -1,0 +1,4 @@
+# Docerion header of EmojiSuggestionEnabled.json.
+type: test
+title: EmojiSuggestionEnabled policy pref mapping test data
+summary: Test data mapping the EmojiSuggestionEnabled policy to the assistive_input.emoji_suggestion.enterprise_allowed pref on ChromeOS.

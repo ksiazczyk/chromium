@@ -1,0 +1,4 @@
+# Docerion header of ForceYouTubeRestrict.json.
+type: test
+title: ForceYouTubeRestrict pref mapping test data
+summary: Test data verifying that the ForceYouTubeRestrict policy maps to the settings.force_youtube_restrict preference with values 0 through 2.

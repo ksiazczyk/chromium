@@ -1,0 +1,4 @@
+# Docerion header of DeviceRebootOnShutdown.json.
+type: test
+title: DeviceRebootOnShutdown pref mapping test data
+summary: Test data explaining that the DeviceRebootOnShutdown policy has no pref mapping test because it maps into CrosSettings.

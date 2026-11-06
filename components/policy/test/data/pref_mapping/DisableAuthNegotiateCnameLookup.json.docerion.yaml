@@ -1,0 +1,4 @@
+# Docerion header of DisableAuthNegotiateCnameLookup.json.
+type: test
+title: DisableAuthNegotiateCnameLookup pref mapping test data
+summary: Simple policy pref mapping test data for the DisableAuthNegotiateCnameLookup policy and the auth.disable_negotiate_cname_lookup local state pref.

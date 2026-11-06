@@ -1,0 +1,4 @@
+# Docerion header of IdleActionAC.json.
+type: test
+title: IdleActionAC policy pref mapping test data
+summary: Defines expected mappings from the IdleActionAC policy to the ChromeOS power.ac_idle_action pref with values 0 through 3.

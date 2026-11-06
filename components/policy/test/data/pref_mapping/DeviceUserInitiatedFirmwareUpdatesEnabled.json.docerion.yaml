@@ -1,0 +1,4 @@
+# Docerion header of DeviceUserInitiatedFirmwareUpdatesEnabled.json.
+type: test
+title: DeviceUserInitiatedFirmwareUpdatesEnabled pref mapping test data
+summary: Declares no pref mapping test for the DeviceUserInitiatedFirmwareUpdatesEnabled policy because it maps into CrosSettings.

@@ -1,0 +1,4 @@
+# Docerion header of DownloadRestrictions.json.
+type: test
+title: DownloadRestrictions policy pref mapping test data
+summary: Test data verifying the DownloadRestrictions policy maps to the download_restrictions preference across platforms with values zero through four.

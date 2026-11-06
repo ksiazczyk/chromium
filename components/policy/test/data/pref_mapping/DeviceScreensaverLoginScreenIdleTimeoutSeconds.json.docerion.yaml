@@ -1,0 +1,4 @@
+# Docerion header of DeviceScreensaverLoginScreenIdleTimeoutSeconds.json.
+type: test
+title: DeviceScreensaverLoginScreenIdleTimeoutSeconds pref mapping test data
+summary: Simple policy pref mapping test data verifying DeviceScreensaverLoginScreenIdleTimeoutSeconds maps to ash.ambient.managed_screensaver.idle_timeout_seconds.

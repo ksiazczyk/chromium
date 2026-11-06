@@ -1,0 +1,4 @@
+# Docerion header of DevicePowerPeakShiftEnabled.json.
+type: test
+title: DevicePowerPeakShiftEnabled pref mapping test data
+summary: Test data mapping the DevicePowerPeakShiftEnabled policy to the ash.power.peak_shift_enabled local state pref on ChromeOS.

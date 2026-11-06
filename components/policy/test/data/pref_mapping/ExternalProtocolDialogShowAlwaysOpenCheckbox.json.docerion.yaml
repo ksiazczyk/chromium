@@ -1,0 +1,4 @@
+# Docerion header of ExternalProtocolDialogShowAlwaysOpenCheckbox.json.
+type: test
+title: ExternalProtocolDialogShowAlwaysOpenCheckbox pref mapping test data
+summary: Test data verifying the ExternalProtocolDialogShowAlwaysOpenCheckbox policy maps to the external_protocol_dialog.show_always_open_checkbox preference on Windows, Linux, Mac and Fuchsia.

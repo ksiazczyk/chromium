@@ -1,0 +1,4 @@
+# Docerion header of DeviceVariationsRestrictParameter.json.
+type: test
+title: DeviceVariationsRestrictParameter pref mapping test data
+summary: Declares no pref mapping test for the DeviceVariationsRestrictParameter policy because it maps into CrosSettings.

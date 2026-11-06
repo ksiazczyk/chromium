@@ -1,0 +1,4 @@
+# Docerion header of DeviceReportNetworkEvents.json.
+type: test
+title: DeviceReportNetworkEvents pref mapping test data
+summary: Test data explaining that the DeviceReportNetworkEvents policy has no pref mapping test because it maps into CrosSettings.

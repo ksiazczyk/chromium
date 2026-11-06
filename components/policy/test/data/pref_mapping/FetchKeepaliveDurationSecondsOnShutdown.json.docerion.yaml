@@ -1,0 +1,4 @@
+# Docerion header of FetchKeepaliveDurationSecondsOnShutdown.json.
+type: test
+title: FetchKeepaliveDurationSecondsOnShutdown pref mapping test data
+summary: Simple policy pref mapping test for the FetchKeepaliveDurationSecondsOnShutdown policy and the fetch_keepalive_duration_on_shutdown preference on desktop platforms.

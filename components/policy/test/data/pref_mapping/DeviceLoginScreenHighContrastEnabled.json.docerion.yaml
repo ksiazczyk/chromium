@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenHighContrastEnabled.json.
+type: test
+title: DeviceLoginScreenHighContrastEnabled pref mapping test data
+summary: Tests mapping of the DeviceLoginScreenHighContrastEnabled policy to the high contrast accessibility pref on the sign-in profile.

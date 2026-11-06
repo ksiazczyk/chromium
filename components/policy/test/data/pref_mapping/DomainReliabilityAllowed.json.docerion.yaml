@@ -1,0 +1,4 @@
+# Docerion header of DomainReliabilityAllowed.json.
+type: test
+title: DomainReliabilityAllowed policy pref mapping test data
+summary: Test data verifying the DomainReliabilityAllowed policy maps to the domain_reliability.allowed_by_policy preference on desktop and Android platforms.

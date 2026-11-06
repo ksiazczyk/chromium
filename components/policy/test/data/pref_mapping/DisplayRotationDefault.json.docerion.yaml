@@ -1,0 +1,4 @@
+# Docerion header of DisplayRotationDefault.json.
+type: test
+title: DisplayRotationDefault pref mapping test data
+summary: Placeholder test data explaining that DisplayRotationDefault has no pref mapping test because the policy maps into CrosSettings.

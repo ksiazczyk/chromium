@@ -1,0 +1,4 @@
+# Docerion header of ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls.json.
+type: test
+title: ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls pref test data
+summary: Test data verifying that the ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls policy maps to the extensions.extended_background_lifetime_urls pref.

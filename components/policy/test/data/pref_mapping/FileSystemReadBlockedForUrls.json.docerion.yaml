@@ -1,0 +1,4 @@
+# Docerion header of FileSystemReadBlockedForUrls.json.
+type: test
+title: FileSystemReadBlockedForUrls pref mapping test data
+summary: Test data verifying that the FileSystemReadBlockedForUrls policy maps to the profile.managed_file_system_read_blocked_for_urls pref across the supported desktop and ChromeOS platforms.

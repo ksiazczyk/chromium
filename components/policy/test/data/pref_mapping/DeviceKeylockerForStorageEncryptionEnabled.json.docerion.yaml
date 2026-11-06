@@ -1,0 +1,4 @@
+# Docerion header of DeviceKeylockerForStorageEncryptionEnabled.json.
+type: test
+title: DeviceKeylockerForStorageEncryptionEnabled pref mapping test data
+summary: Test data entry explaining that no pref mapping test exists because this ChromeOS device policy is used only by cryptohome and not by Chrome.

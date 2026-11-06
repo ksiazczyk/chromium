@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenExtensions.json.
+type: test
+title: DeviceLoginScreenExtensions pref mapping test data
+summary: Tests how the DeviceLoginScreenExtensions policy maps to the extensions.install.forcelist pref in the sign-in profile, including default and forced-install values.
