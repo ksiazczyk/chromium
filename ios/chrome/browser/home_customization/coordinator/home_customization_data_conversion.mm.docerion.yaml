@@ -1,0 +1,4 @@
+# Docerion header of home_customization_data_conversion.mm.
+type: source
+title: Home customization data conversion implementation
+summary: Implements conversions between framing coordinate structs and UIColor dictionaries parsed from six-digit hex color strings.

@@ -1,0 +1,4 @@
+# Docerion header of incognito_reauth_scene_agent.mm.
+type: source
+title: Incognito reauth scene agent implementation
+summary: Implements the scene agent that registers incognito prefs, tracks backgrounding time for soft lock, and triggers incognito reauthentication with metrics.

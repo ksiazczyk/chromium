@@ -1,0 +1,4 @@
+# Docerion header of home_background_image_service.mm.
+type: source
+title: Home background image service implementation
+summary: Implements the service that fetches default and collection background images via NtpBackgroundService, buffering results behind a barrier closure and logging fetch error metrics.

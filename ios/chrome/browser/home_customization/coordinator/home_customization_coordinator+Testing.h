@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization coordinator testing category
+// summary: Testing category exposing internal coordinator properties such as the main view controller, magic stack view controller, and mediator for unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_HOME_CUSTOMIZATION_COORDINATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_HOME_CUSTOMIZATION_COORDINATOR_TESTING_H_
 

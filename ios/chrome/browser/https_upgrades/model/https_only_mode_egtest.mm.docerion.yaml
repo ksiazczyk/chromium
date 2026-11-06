@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_egtest.mm.
+type: test
+title: HTTPS-Only Mode Earl Grey integration tests
+summary: Earl Grey tests verifying HTTPS-Only Mode navigation upgrades, interstitial display, fallbacks and allowlist behavior.

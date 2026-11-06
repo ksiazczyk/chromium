@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_configuration_mediator_unittest.mm.
+type: test
+title: Background configuration mediator unit tests
+summary: Unit tests for the background configuration mediator using fake services, mock image fetcher, and histogram testing.

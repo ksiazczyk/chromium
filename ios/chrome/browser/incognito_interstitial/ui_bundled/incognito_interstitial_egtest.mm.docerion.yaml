@@ -1,0 +1,4 @@
+# Docerion header of incognito_interstitial_egtest.mm.
+type: test
+title: Incognito interstitial Earl Grey tests
+summary: Earl Grey UI tests covering the open in incognito, open in Chrome and other incognito interstitial journeys with policy setup.

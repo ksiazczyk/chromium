@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background customization configuration protocol
+// summary: Declares a protocol carrying the data needed to display a background option in the customization gallery.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_BACKGROUND_CUSTOMIZATION_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_BACKGROUND_CUSTOMIZATION_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of home_background_customization_service_factory.mm.
+type: source
+title: Home background customization service factory implementation
+summary: Builds the home background customization service for each profile with its dependencies and registers its profile preferences.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization seed colors header
+// summary: Declares the SeedColor struct with scheme variant and accessibility name ID, plus the array of nine seed colors used for background color palette configurations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_HOME_CUSTOMIZATION_SEED_COLORS_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_HOME_CUSTOMIZATION_SEED_COLORS_H_
 

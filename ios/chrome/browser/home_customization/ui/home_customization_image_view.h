@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization image view interface
+// summary: Declares a view for displaying gallery and user-provided customization images with framing and animated background support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_IMAGE_VIEW_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_IMAGE_VIEW_H_
 

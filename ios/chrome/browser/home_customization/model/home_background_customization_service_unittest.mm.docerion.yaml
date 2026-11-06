@@ -1,0 +1,4 @@
+# Docerion header of home_background_customization_service_unittest.mm.
+type: test
+title: Home background customization service unit tests
+summary: Unit tests for the home background customization service covering preferences, sync behavior, observers, and background image handling.

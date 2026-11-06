@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_cell_unittest.mm.
+type: test
+title: Home customization background cell unit tests
+summary: Unit tests verifying that the background cell inserts or omits the search engine logo view depending on whether the mediator provides a non-nil view.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetcherServiceFactory header
+// summary: Declares the profile-keyed service factory that owns ImageFetcherService instances associated with each profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_IMAGE_FETCHER_MODEL_IMAGE_FETCHER_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_IMAGE_FETCHER_MODEL_IMAGE_FETCHER_SERVICE_FACTORY_H_
 

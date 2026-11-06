@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP background service factory header
+// summary: Declares a profile-keyed singleton factory that owns NtpBackgroundService instances and associates them with profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_NTP_BACKGROUND_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_NTP_BACKGROUND_SERVICE_FACTORY_H_
 

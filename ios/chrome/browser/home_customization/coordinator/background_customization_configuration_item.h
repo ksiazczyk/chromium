@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background customization configuration item header
+// summary: Declares a class representing a background customization choice, with initializers for collection images, synced backgrounds, colors, and user uploads.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_BACKGROUND_CUSTOMIZATION_CONFIGURATION_ITEM_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_BACKGROUND_CUSTOMIZATION_CONFIGURATION_ITEM_H_
 

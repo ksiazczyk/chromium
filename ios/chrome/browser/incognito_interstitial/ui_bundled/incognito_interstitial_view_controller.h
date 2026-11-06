@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito interstitial view controller header
+// summary: Declares the promo-style view controller that shows the incognito interstitial UI, its delegate, URL loader delegate and URL text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_VIEW_CONTROLLER_H_
 

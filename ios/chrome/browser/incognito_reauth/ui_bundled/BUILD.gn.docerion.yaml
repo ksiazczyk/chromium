@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for incognito reauth UI
+summary: Defines GN source sets and unit and Earl Grey test targets for the incognito reauth UI components.

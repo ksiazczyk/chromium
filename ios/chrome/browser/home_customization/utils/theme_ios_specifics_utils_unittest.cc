@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThemeIosSpecifics equivalence helpers
+// summary: GoogleTest suite verifying the equivalence helpers for NTP custom backgrounds and user color themes in ThemeIosSpecifics protos.
+// ---
+
 #include "ios/chrome/browser/home_customization/utils/theme_ios_specifics_utils.h"
 
 #include <string>

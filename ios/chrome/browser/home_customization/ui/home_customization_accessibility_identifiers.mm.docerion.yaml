@@ -1,0 +1,4 @@
+# Docerion header of home_customization_accessibility_identifiers.mm.
+type: source
+title: Home customization accessibility identifier definitions
+summary: Defines the accessibility identifier string constants used by the home customization UI.

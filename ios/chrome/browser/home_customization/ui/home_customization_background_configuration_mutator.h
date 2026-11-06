@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background configuration mutator protocol
+// summary: Defines the mutator protocol for applying, saving, discarding, and deleting NTP background configurations and for fetching thumbnail or user-uploaded images.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_BACKGROUND_CONFIGURATION_MUTATOR_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_BACKGROUND_CONFIGURATION_MUTATOR_H_
 

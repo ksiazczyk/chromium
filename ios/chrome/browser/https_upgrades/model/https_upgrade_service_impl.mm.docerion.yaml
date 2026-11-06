@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_service_impl.mm.
+type: source
+title: HTTPS upgrade service implementation
+summary: Implements the HTTPS-Only mode allowlist service with a 15-day default expiration for HTTP bypasses.

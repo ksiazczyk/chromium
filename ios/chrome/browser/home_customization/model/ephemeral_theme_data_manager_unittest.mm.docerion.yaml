@@ -1,0 +1,4 @@
+# Docerion header of ephemeral_theme_data_manager_unittest.mm.
+type: test
+title: EphemeralThemeDataManager unit tests
+summary: Unit tests covering fetching, saving, and cleanup of ephemeral theme assets using a test URL loader factory and a temporary directory.

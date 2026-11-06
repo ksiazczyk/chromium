@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeIosSpecifics proto equivalence helpers implementation
+// summary: Implements equivalence comparisons for NTP custom background, user color theme, and ThemeIosSpecifics sync protos.
+// ---
+
 #include "ios/chrome/browser/home_customization/utils/theme_ios_specifics_utils.h"
 
 #include "components/sync/protocol/theme_ios_specifics.pb.h"

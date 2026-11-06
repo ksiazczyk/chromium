@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background collection configuration class
+// summary: Declares a class that groups a background collection name with its configurations and display order.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_BACKGROUND_COLLECTION_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_BACKGROUND_COLLECTION_CONFIGURATION_H_
 

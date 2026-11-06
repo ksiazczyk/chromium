@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito interstitial coordinator delegate protocol
+// summary: Declares the callback that tells the owner to stop the incognito interstitial coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_COORDINATOR_DELEGATE_H_
 

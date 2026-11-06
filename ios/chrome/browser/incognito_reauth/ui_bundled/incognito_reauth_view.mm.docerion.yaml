@@ -1,0 +1,4 @@
+# Docerion header of incognito_reauth_view.mm.
+type: source
+title: Incognito reauth view implementation
+summary: Implements the blurred overlay view for incognito reauth, building the logo, authenticate button, and secondary button with soft lock support.

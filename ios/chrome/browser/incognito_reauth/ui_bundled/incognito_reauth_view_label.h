@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito reauth view label header
+// summary: Declares a UILabel subclass with an owner protocol that notifies the owner whenever the label's layout changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INCOGNITO_REAUTH_UI_BUNDLED_INCOGNITO_REAUTH_VIEW_LABEL_H_
 #define IOS_CHROME_BROWSER_INCOGNITO_REAUTH_UI_BUNDLED_INCOGNITO_REAUTH_VIEW_LABEL_H_
 

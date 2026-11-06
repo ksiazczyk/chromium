@@ -1,0 +1,4 @@
+# Docerion header of home_customization_link_cell.mm.
+type: source
+title: Home customization link cell implementation
+summary: Implements the external link cell with title, subtitle, icon and tap-to-navigate handling.

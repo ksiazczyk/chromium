@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito interstitial coordinator header
+// summary: Declares the coordinator that manages the incognito interstitial view controller, its delegate, tab opener and URL load parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_COORDINATOR_H_
 

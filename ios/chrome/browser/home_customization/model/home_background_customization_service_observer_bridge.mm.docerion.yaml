@@ -1,0 +1,4 @@
+# Docerion header of home_background_customization_service_observer_bridge.mm.
+type: source
+title: Home background customization service observer bridge implementation
+summary: Implements the Objective-C observer bridge that forwards background change notifications from the customization service.

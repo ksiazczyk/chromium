@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization magic stack view controller interface
+// summary: Declares the view controller for the Magic Stack page of the home customization menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_MAGIC_STACK_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_MAGIC_STACK_VIEW_CONTROLLER_H_
 

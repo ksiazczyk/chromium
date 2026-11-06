@@ -1,0 +1,4 @@
+# Docerion header of home_customization_helper.mm.
+type: source
+title: HomeCustomizationHelper class implementation
+summary: Implements HomeCustomizationHelper, returning localized titles, subtitles, SF Symbol icons, and identifiers for customization toggles and links.

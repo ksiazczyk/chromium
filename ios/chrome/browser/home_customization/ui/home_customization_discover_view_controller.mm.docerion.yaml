@@ -1,0 +1,4 @@
+# Docerion header of home_customization_discover_view_controller.mm.
+type: source
+title: Discover page view controller implementation
+summary: Implements the Discover feed page with a collection view, link cell and header registrations, and a diffable data source.

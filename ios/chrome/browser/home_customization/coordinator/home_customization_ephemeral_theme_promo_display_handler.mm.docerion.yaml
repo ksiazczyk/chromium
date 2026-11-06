@@ -1,0 +1,4 @@
+# Docerion header of home_customization_ephemeral_theme_promo_display_handler.mm.
+type: source
+title: Home Customization Ephemeral Theme Promo Display Handler implementation
+summary: Implements the ephemeral theme promo display handler, triggering the home background customization promo through the new tab page commands handler.

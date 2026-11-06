@@ -1,0 +1,4 @@
+# Docerion header of ntp_background_service_factory.mm.
+type: source
+title: NTP background service factory implementation
+summary: Creates an NtpBackgroundService for each profile using the application locale storage and the profile's shared URL loader factory.

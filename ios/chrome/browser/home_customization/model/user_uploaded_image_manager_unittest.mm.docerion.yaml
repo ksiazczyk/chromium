@@ -1,0 +1,4 @@
+# Docerion header of user_uploaded_image_manager_unittest.mm.
+type: test
+title: User uploaded image manager unit tests
+summary: Tests storing, loading, and deleting user-uploaded images, verifying file creation, image sizes, error handling, and memory footprint metrics.

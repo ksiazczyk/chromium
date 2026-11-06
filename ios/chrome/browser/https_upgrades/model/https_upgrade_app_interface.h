@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpsUpgradeAppInterface header
+// summary: Declares the Earl Grey app interface for setting test ports, delays and inspecting upgrade timers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HTTPS_UPGRADES_MODEL_HTTPS_UPGRADE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_HTTPS_UPGRADES_MODEL_HTTPS_UPGRADE_APP_INTERFACE_H_
 

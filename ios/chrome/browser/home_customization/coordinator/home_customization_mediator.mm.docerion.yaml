@@ -1,0 +1,4 @@
+# Docerion header of home_customization_mediator.mm.
+type: source
+title: Home Customization Mediator implementation
+summary: Implements the customization menu mediator, populating toggle and link data from preferences, Discover feed eligibility, shopping service, and tips manager.

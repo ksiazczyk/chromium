@@ -1,0 +1,4 @@
+# Docerion header of home_customization_custom_color_cell.mm.
+type: source
+title: Custom color cell implementation
+summary: Implements the custom color cell with an eyedropper symbol, circular border styling, and selection highlight for background color customization.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Centered flow layout class
+// summary: Declares a collection view flow layout subclass that horizontally centers each row of items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_CENTERED_FLOW_LAYOUT_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_CENTERED_FLOW_LAYOUT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of home_customization_seed_colors.mm.
+type: source
+title: Home customization seed colors implementation
+summary: Defines the array of nine seed colors in ARGB format with tonal spot or neutral scheme variants and accessibility label IDs for home background customization.

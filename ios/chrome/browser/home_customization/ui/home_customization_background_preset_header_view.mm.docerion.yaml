@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_preset_header_view.mm.
+type: source
+title: Background preset section header view implementation
+summary: Implements the header view with a styled, accessibility-aware text label for background preset sections.

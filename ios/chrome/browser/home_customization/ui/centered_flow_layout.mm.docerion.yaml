@@ -1,0 +1,4 @@
+# Docerion header of centered_flow_layout.mm.
+type: source
+title: Centered flow layout implementation
+summary: Implements the centered flow layout by adjusting item frames so rows narrower than the content width are centered.

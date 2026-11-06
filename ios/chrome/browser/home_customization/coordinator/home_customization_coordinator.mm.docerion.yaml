@@ -1,0 +1,4 @@
+# Docerion header of home_customization_coordinator.mm.
+type: source
+title: Home customization coordinator implementation
+summary: Implements the home customization menu coordinator, wiring mediators, view controllers, feature engagement, promos, and background picker flows.

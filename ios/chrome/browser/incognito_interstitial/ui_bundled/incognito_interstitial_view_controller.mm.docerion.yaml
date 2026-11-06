@@ -1,0 +1,4 @@
+# Docerion header of incognito_interstitial_view_controller.mm.
+type: source
+title: Incognito interstitial view controller implementation
+summary: Implements the iOS incognito interstitial screen, laying out the navigation bar, URL label with expand button, and promo-style action buttons for opening links in Chrome.

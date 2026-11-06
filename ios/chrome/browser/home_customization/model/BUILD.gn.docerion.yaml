@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for home customization model
+summary: GN build file defining the model, theme sync, seed colors, and unit test source sets with their dependencies for iOS home customization.

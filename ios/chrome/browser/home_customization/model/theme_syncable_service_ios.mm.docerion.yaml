@@ -1,0 +1,4 @@
+# Docerion header of theme_syncable_service_ios.mm.
+type: source
+title: iOS theme syncable service implementation
+summary: Implements syncing of iOS theme specifics, applying remote themes, uploading local changes, and caching or restoring the local theme around initial sync and sign-out.

@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_photo_framing_view_controller.mm.
+type: source
+title: Home customization image framing view controller implementation
+summary: Implements the full-screen photo framing interface with zooming, panning, pinch instructions, a fake omnibox preview, and save or cancel actions.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the test directory
+summary: Dependency allowlist for the home customization test directory, permitting includes from components/themes.

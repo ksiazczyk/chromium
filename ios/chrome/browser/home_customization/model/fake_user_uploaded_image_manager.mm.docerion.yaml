@@ -1,0 +1,4 @@
+# Docerion header of fake_user_uploaded_image_manager.mm.
+type: source
+title: FakeUserUploadedImageManager test fake implementation
+summary: Implements the in-memory fake image manager with UUID-based storage, loading, deletion, and unused image cleanup.

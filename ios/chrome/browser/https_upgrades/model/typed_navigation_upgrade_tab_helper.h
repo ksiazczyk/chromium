@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed navigation upgrade tab helper header
+// summary: Declares the tab helper that upgrades schemeless omnibox navigations to HTTPS and falls back to HTTP on failure or timeout.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HTTPS_UPGRADES_MODEL_TYPED_NAVIGATION_UPGRADE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_HTTPS_UPGRADES_MODEL_TYPED_NAVIGATION_UPGRADE_TAB_HELPER_H_
 

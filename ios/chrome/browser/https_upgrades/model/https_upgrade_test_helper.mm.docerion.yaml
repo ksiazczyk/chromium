@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_test_helper.mm.
+type: test
+title: HTTPS upgrade test helper implementation
+summary: Implements the HTTPS upgrade test base with embedded test server handlers for standard, fake HTTPS, redirect and hung responses.

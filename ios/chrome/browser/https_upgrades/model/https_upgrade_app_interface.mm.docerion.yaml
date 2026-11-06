@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_app_interface.mm.
+type: test
+title: HttpsUpgradeAppInterface implementation
+summary: Implements app-side test controls for HTTPS upgrade ports, fallback delay, timer checks and allowlist clearing.

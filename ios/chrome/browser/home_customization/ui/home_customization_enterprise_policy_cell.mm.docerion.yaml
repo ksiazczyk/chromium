@@ -1,0 +1,4 @@
+# Docerion header of home_customization_enterprise_policy_cell.mm.
+type: source
+title: Enterprise policy cell implementation
+summary: Implements the enterprise policy cell with an enterprise icon, a learn-more link in the text, and layout styling.

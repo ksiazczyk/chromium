@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for home customization UI
+summary: Specifies the include rules that govern which directories this UI folder may depend on.

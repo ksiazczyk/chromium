@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito reauth commands protocol
+// summary: Declares the IncognitoReauthCommands protocol for requesting and overriding incognito authentication per scene.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INCOGNITO_REAUTH_UI_BUNDLED_INCOGNITO_REAUTH_COMMANDS_H_
 #define IOS_CHROME_BROWSER_INCOGNITO_REAUTH_UI_BUNDLED_INCOGNITO_REAUTH_COMMANDS_H_
 

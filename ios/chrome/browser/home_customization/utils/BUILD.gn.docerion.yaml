@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for home customization utils
+summary: Defines the GN source_set for home customization utilities and its unit test target, listing sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Home customization coordinator dependency rules
+summary: Lists the include rules that control which directories this coordinator may depend on.

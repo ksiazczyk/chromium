@@ -1,0 +1,4 @@
+# Docerion header of theme_syncable_service_ios_unittest.mm.
+type: test
+title: ThemeSyncableServiceIOS unit tests
+summary: Unit tests for the iOS theme syncable service, covering merge and start syncing, remote theme handling, and stop behavior with histogram verification.
