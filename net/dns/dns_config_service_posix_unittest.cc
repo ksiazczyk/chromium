@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS config service POSIX unit tests
+// summary: Unit tests verifying conversion of res_state settings into DnsConfig on POSIX platforms.
+// ---
+
 #include "net/dns/dns_config_service_posix.h"
 
 #include <resolv.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS test utility implementation
+// summary: Provides DNS test helpers such as a mock address sorter, valid DnsConfig creation, and malformed response builders used by resolver tests.
+// ---
+
 #include "net/dns/dns_test_util.h"
 
 #include <stdint.h>

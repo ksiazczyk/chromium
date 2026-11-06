@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filtering details URL generator unit tests
+// summary: Tests URL template expansion, missing registry entries, and feature-flag enabled and disabled behavior for filtering details URL generation.
+// ---
+
 #include "net/dns/filtering_details_url_generator.h"
 
 #include <memory>

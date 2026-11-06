@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPv6 reachability override unit tests
+// summary: Parameterized tests checking that the IPv6 reachability override feature controls whether AAAA results are returned when IPv6 is unreachable.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/test/bind.h"
 #include "net/dns/host_resolver_manager_unittest.h"

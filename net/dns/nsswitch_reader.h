@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NsswitchReader interface for nsswitch.conf
+// summary: Declares NsswitchReader, which parses the hosts entry of Posix nsswitch.conf into service specifications.
+// ---
+
 #ifndef NET_DNS_NSSWITCH_READER_H_
 #define NET_DNS_NSSWITCH_READER_H_
 

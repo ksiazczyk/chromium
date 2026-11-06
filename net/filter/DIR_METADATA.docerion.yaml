@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Filter directory metadata
+summary: Maps the net/filter directory to the Internals>Network>Filters issue tracker component for bug routing.

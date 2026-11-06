@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsUdpTracker unit tests
+// summary: Unit tests verifying DnsUdpTracker low-entropy detection for recognized and unrecognized ID mismatches, expired records, and port reuse.
+// ---
+
 #include "net/dns/dns_udp_tracker.h"
 
 #include "base/test/simple_test_tick_clock.h"

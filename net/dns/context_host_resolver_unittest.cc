@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextHostResolver unit tests
+// summary: Unit tests for ContextHostResolver, exercising host resolution with mock DNS clients, caching, and task environment behavior.
+// ---
+
 #include "net/dns/context_host_resolver.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NsswitchReader
+// summary: Unit tests verifying parsing of nsswitch.conf hosts entries, default handling, services, and actions.
+// ---
+
 #include "net/dns/nsswitch_reader.h"
 
 #include <string>

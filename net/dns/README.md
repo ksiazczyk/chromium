@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Host Resolution
+summary: Overview of host resolution in the Chrome network stack, covering usage, test support and the implementation of HostResolver and DNS.
+relations:
+  - references /content/public/test/browser_test_base.h
+  - documents /content/public/test/test_host_resolver.h
+  - references /net/base/host_mapping_rules.h
+---
+
 # Chrome Host Resolution
 
 Implementation and support of host resolution for the Chrome network stack.

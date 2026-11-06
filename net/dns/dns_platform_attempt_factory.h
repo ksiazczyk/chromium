@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsPlatformAttemptFactory interface
+// summary: Interface for creating platform-backed DnsAttempt instances used by DnsTransactionFactory's kPlatform attempt mode.
+// ---
+
 #ifndef NET_DNS_DNS_PLATFORM_ATTEMPT_FACTORY_H_
 #define NET_DNS_DNS_PLATFORM_ATTEMPT_FACTORY_H_
 

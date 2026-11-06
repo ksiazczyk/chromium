@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemDnsConfigChangeNotifier implementation
+// summary: Implements SystemDnsConfigChangeNotifier, dispatching system DNS configuration changes to registered observers on their own sequences.
+// ---
+
 #include "net/dns/system_dns_config_change_notifier.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brotli source stream implementation
+// summary: Implements a filter stream that decodes Brotli-compressed data, optionally using a shared dictionary, and records compression metrics.
+// ---
+
 #include "net/filter/brotli_source_stream.h"
 
 #include <stdint.h>

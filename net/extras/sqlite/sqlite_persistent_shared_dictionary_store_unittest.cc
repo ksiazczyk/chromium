@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite persistent shared dictionary store unit tests
+// summary: Unit tests for the shared dictionary store, covering schema migrations, registration, eviction, and query behavior.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_shared_dictionary_store.h"
 
 #include <optional>

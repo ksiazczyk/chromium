@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context host resolver header
+// summary: Declares ContextHostResolver, a HostResolver wrapper owned by a URLRequestContext that routes requests through a shared HostResolverManager.
+// ---
+
 #ifndef NET_DNS_CONTEXT_HOST_RESOLVER_H_
 #define NET_DNS_CONTEXT_HOST_RESOLVER_H_
 

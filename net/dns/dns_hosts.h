@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS hosts parsing types and interfaces
+// summary: Declares the DnsHosts mapping, comma handling modes, and parser interfaces for reading hosts files such as /etc/hosts.
+// ---
+
 #ifndef NET_DNS_DNS_HOSTS_H_
 #define NET_DNS_DNS_HOSTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS response result extractor header
+// summary: Declares DnsResponseResultExtractor, a parser that extracts host resolver results and errors from DNS responses.
+// ---
+
 #ifndef NET_DNS_DNS_RESPONSE_RESULT_EXTRACTOR_H_
 #define NET_DNS_DNS_RESPONSE_RESULT_EXTRACTOR_H_
 

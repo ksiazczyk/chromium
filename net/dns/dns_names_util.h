@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS name utility declarations
+// summary: Declares utilities for validating, converting and comparing DNS names between dotted form and wire format.
+// ---
+
 #ifndef NET_DNS_DNS_NAMES_UTIL_H_
 #define NET_DNS_DNS_NAMES_UTIL_H_
 

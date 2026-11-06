@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent reporting and NEL store implementation
+// summary: Implements SQLite-backed persistence for Network Error Logging policies and Reporting endpoints and endpoint groups.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_reporting_and_nel_store.h"
 
 #include <list>

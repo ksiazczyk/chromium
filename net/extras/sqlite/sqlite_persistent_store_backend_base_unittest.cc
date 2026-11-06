@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite persistent store backend base unit tests
+// summary: Unit tests for the backend base class, verifying database initialization behavior after the backend is closed.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_store_backend_base.h"
 
 #include <memory>

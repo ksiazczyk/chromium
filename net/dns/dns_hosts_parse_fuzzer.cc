@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer entry point for DNS hosts parsing
+// summary: LibFuzzer harness that exercises hosts file parsing in both comma modes to uncover crashes or parsing bugs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

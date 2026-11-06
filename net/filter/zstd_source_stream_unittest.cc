@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zstd source stream unit tests
+// summary: Unit tests verifying Zstd decoding behavior, dictionary handling and UMA histograms against test data files.
+// ---
+
 #include "net/filter/zstd_source_stream.h"
 
 #include <stdint.h>

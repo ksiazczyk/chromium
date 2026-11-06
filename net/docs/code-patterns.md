@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chrome Network Stack Common Coding Patterns
+summary: Describes common coding patterns in the Chrome network stack, such as combined error and byte count returns, sync/async returns, and the DoLoop state machine.
+relations:
+  - references /net/base/net_error_list.h
+---
+
 # Chrome Network Stack Common Coding Patterns
 
 ## Combined error and byte count into a single value

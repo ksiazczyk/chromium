@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: nsswitch.conf hosts parsing implementation
+// summary: Reads and parses the hosts database entry of /etc/nsswitch.conf to determine the name resolution service order.
+// ---
+
 #include "net/dns/nsswitch_reader.h"
 
 #include <string>

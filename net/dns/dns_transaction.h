@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsTransaction API declarations
+// summary: Declares DnsTransaction, DnsProbeRunner, and DnsTransactionFactory for asynchronous DNS queries over UDP, TCP, DoH, or platform APIs.
+// ---
+
 #ifndef NET_DNS_DNS_TRANSACTION_H_
 #define NET_DNS_DNS_TRANSACTION_H_
 

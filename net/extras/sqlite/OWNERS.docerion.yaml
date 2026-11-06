@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the sqlite extras directory
+summary: Specifies code owners for the directory, with per-file owner rules for the reporting, NEL, and shared dictionary stores.

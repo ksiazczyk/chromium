@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSourceStream implementation
+// summary: Implements MockSourceStream, a test SourceStream that replays queued read results synchronously or asynchronously for filter stream tests.
+// ---
+
 #include "net/filter/mock_source_stream.h"
 
 #include <stdint.h>

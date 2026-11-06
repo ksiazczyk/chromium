@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS response unit tests
+// summary: Unit tests for DnsRecordParser and DnsResponse, covering name parsing, record iteration, and error cases.
+// ---
+
 #include "net/dns/dns_response.h"
 
 #include <stdint.h>

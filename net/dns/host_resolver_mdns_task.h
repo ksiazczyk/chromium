@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverMdnsTask class declaration
+// summary: Declares HostResolverMdnsTask, a resolver job task that resolves a hostname using multicast DNS transactions and cancels pending work on destruction.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MDNS_TASK_H_
 #define NET_DNS_HOST_RESOLVER_MDNS_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS server iterator implementation
+// summary: Implements server selection iterators that pick the next nameserver or DoH server for DNS transaction attempts.
+// ---
+
 #include "net/dns/dns_server_iterator.h"
 
 #include <optional>

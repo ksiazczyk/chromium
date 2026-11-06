@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service endpoint request implementation
+// summary: Implements HostResolverManager::ServiceEndpointRequestImpl, which resolves service endpoints with IPv6 reachability checks and notifies a delegate of updates.
+// ---
+
 #include "net/dns/host_resolver_manager_service_endpoint_request_impl.h"
 
 #include <sstream>

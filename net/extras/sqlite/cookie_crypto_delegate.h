@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieCryptoDelegate interface for cookie encryption
+// summary: Declares the CookieCryptoDelegate interface used to encrypt and decrypt cookies in the persistent cookie store.
+// ---
+
 #ifndef NET_EXTRAS_SQLITE_COOKIE_CRYPTO_DELEGATE_H_
 #define NET_EXTRAS_SQLITE_COOKIE_CRYPTO_DELEGATE_H_
 

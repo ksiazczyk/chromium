@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsUDPAttempt implementation
+// summary: Implements DnsUDPAttempt, a DNS attempt that connects a datagram socket, sends the query, and reads the UDP response.
+// ---
+
 #include "net/dns/dns_udp_attempt.h"
 
 #include <stdint.h>

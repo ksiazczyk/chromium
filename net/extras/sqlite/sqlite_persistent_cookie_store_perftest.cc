@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite persistent cookie store performance tests
+// summary: Benchmarks load and commit operations of the SQLite persistent cookie store across many domains and cookies.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_cookie_store.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform DNS attempt implementation
+// summary: Implements DnsAttempt using Android's android_res_nquery and android_res_nresult APIs to resolve hostnames without writing DNS packets to a socket.
+// ---
+
 #include "net/dns/dns_platform_android_attempt.h"
 
 #include <android/multinetwork.h>

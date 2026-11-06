@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System DNS resolution task implementation
+// summary: Implements the system DNS resolution task that runs getaddrinfo-style lookups on a blocking thread pool task runner, with an overridable task runner for tests.
+// ---
+
 #include "net/dns/host_resolver_system_task.h"
 
 #include <memory>

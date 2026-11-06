@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service endpoint request unit tests
+// summary: Unit tests for the host resolver service endpoint request implementation, covering endpoint updates, cancellation, sorting, and request completion behavior.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

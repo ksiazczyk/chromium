@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd disabled stub
+// summary: Provides stub Zstd stream factory functions that return null when Zstd support is disabled in the build.
+// ---
+
 #include "net/filter/zstd_source_stream.h"
 
 namespace net {

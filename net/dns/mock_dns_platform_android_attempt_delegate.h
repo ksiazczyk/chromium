@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Android DNS platform attempt delegate header
+// summary: Declares a gmock-based delegate for Android DNS platform attempts, mocking the Query, Result, and Close methods for testing.
+// ---
+
 #ifndef NET_DNS_MOCK_DNS_PLATFORM_ANDROID_ATTEMPT_H_
 #define NET_DNS_MOCK_DNS_PLATFORM_ANDROID_ATTEMPT_H_
 

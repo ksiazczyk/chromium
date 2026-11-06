@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryUsageInfo struct declaration
+// summary: Declares a struct pairing a shared dictionary isolation key with the total size in bytes of dictionaries in use.
+// ---
+
 #ifndef NET_EXTRAS_SHARED_DICTIONARY_SHARED_DICTIONARY_USAGE_INFO_H_
 #define NET_EXTRAS_SHARED_DICTIONARY_SHARED_DICTIONARY_USAGE_INFO_H_
 

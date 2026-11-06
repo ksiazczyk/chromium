@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS-over-HTTPS attempt class declaration
+// summary: Declares DnsHTTPAttempt, a DnsAttempt subclass that sends DNS queries via URLRequest and exposes DoH-specific isolation info.
+// ---
+
 #ifndef NET_DNS_DNS_HTTP_ATTEMPT_H_
 #define NET_DNS_DNS_HTTP_ATTEMPT_H_
 

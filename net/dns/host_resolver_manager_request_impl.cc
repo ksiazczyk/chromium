@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverManager request implementation
+// summary: Implements HostResolverManager::RequestImpl, an outstanding resolve request that starts jobs and reports address, endpoint, text, hostname and DNS alias results.
+// ---
+
 #include "net/dns/host_resolver_manager_request_impl.h"
 
 #include <deque>

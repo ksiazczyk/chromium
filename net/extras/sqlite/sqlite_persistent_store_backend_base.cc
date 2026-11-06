@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent store backend base implementation
+// summary: Implements shared SQLite database initialization, flushing, and closing logic used by persistent net stores.
+// ---
+
 #include "sqlite_persistent_store_backend_base.h"
 
 #include <utility>

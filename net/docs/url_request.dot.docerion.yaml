@@ -1,0 +1,4 @@
+# Docerion header of url_request.dot.
+type: asset
+title: URLRequest class diagram source
+summary: Graphviz dot source describing the relationships between URLRequest, jobs, HTTP transactions, streams, and socket pools, used to generate the url_request.png diagram.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host resolver internal result implementation
+// summary: Implements the internal host resolver result types (data, metadata, error, alias), including serialization to and from base::Value.
+// ---
+
 #include "net/dns/host_resolver_internal_result.h"
 
 #include <map>

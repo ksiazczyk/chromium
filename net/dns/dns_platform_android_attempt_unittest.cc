@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsPlatformAndroidAttempt unit tests
+// summary: Unit tests for the Android platform DNS attempt covering success, NXDOMAIN, truncated and malformed responses using a mock delegate.
+// ---
+
 #include "net/dns/dns_platform_android_attempt.h"
 
 #include <android/multinetwork.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsConfigService base implementation
+// summary: Implements the core DnsConfigService logic for reading and watching system DNS settings and hosts files, with a serial hosts reader and change invalidation.
+// ---
+
 #include "net/dns/dns_config_service.h"
 
 #include <memory>

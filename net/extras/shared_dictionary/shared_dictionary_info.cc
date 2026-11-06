@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryInfo implementation
+// summary: Implements the SharedDictionaryInfo constructors, copy and move operations, equality comparison, and expiration time calculation.
+// ---
+
 #include "net/extras/shared_dictionary/shared_dictionary_info.h"
 
 namespace net {

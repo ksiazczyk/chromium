@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS alias utility header
+// summary: Declares FixUpDnsAliases, a helper that sanitizes sets of DNS alias hostnames into canonical, valid forms.
+// ---
+
 #ifndef NET_DNS_DNS_ALIAS_UTILITY_H_
 #define NET_DNS_DNS_ALIAS_UTILITY_H_
 

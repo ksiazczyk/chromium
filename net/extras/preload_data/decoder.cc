@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadDecoder implementation with BitReader and HuffmanDecoder
+// summary: Implements the PreloadDecoder bit-level reader and Huffman decoder used to decode entries from preloaded network data such as the HSTS preload list trie.
+// ---
+
 #include "net/extras/preload_data/decoder.h"
 
 #include "base/check_op.h"

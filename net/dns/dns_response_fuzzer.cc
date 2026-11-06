@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS response fuzzer
+// summary: LibFuzzer harness that validates DnsResponse parsing with and without a matching query, checking counts, records, and query consistency.
+// ---
+
 #include "net/dns/dns_response.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

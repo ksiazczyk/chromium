@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brotli source stream API
+// summary: Declares factory functions for creating Brotli decoding streams, with and without a shared dictionary.
+// ---
+
 #ifndef NET_FILTER_BROTLI_SOURCE_STREAM_H_
 #define NET_FILTER_BROTLI_SOURCE_STREAM_H_
 

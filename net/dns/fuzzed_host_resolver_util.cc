@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzed host resolver utilities
+// summary: Builds a ContextHostResolver driven by FuzzedDataProvider to produce fuzzed DNS configs, addresses, and socket behavior for tests and fuzzers.
+// ---
+
 #include "net/dns/fuzzed_host_resolver_util.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

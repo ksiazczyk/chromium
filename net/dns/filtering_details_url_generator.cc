@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filtering details URL generator implementation
+// summary: Implements a singleton registry that expands URL templates for DNS filtering incident details, gated by feature flags and supporting test overrides.
+// ---
+
 #include "net/dns/filtering_details_url_generator.h"
 
 #include <optional>

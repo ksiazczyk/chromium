@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsConfig system resolver configuration struct
+// summary: Defines the DnsConfig struct holding system resolver settings such as nameservers, search list, hosts, resolv.conf options, and DoH/DoT configuration.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_H_
 #define NET_DNS_DNS_CONFIG_H_
 

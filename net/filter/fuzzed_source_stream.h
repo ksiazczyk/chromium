@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuzzedSourceStream class declaration
+// summary: Declares FuzzedSourceStream, a test SourceStream that lets tests and fuzzers specify the data returned for each Read call.
+// ---
+
 #ifndef NET_FILTER_FUZZED_SOURCE_STREAM_H_
 #define NET_FILTER_FUZZED_SOURCE_STREAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS task results manager unit tests
+// summary: Unit tests for service endpoint updates, address hints, aliases, and resolution delay handling in DnsTaskResultsManager.
+// ---
+
 #include "net/dns/dns_task_results_manager.h"
 
 #include <algorithm>

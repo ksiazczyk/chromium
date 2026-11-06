@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent store backend base header
+// summary: Declares SQLitePersistentStoreBackendBase, the shared base class handling SQLite database initialization and commits for net stores.
+// ---
+
 #ifndef NET_EXTRAS_SQLITE_SQLITE_PERSISTENT_STORE_BACKEND_BASE_H_
 #define NET_EXTRAS_SQLITE_SQLITE_PERSISTENT_STORE_BACKEND_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brotli source stream fuzzer
+// summary: Fuzzer that feeds fuzzed input through BrotliSourceStream, optionally with a shared dictionary, to uncover decoding crashes.
+// ---
+
 #include "net/filter/brotli_source_stream.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback-only network detection
+// summary: Implements HaveOnlyLoopbackAddresses across platforms, using cached Linux address maps when available and getifaddrs or Android network APIs otherwise.
+// ---
+
 #include "net/dns/loopback_only.h"
 
 #include "base/compiler_specific.h"

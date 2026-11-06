@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResolveContext unit tests
+// summary: Unit tests for ResolveContext covering DoH server availability, autoupgrade behavior, caching and fallback across DNS configurations.
+// ---
+
 #include "net/dns/resolve_context.h"
 
 #include <stdint.h>

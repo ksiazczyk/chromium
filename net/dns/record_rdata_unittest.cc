@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordRdata unit tests
+// summary: Unit tests for RecordRdata subclasses verifying wire-format parsing and equality of SRV, A, AAAA, CNAME and other record types.
+// ---
+
 #include "net/dns/record_rdata.h"
 
 #include <stdint.h>

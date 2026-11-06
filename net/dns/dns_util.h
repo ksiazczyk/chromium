@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS utility declarations
+// summary: Declares helpers for DoH upgrade server discovery, DNS name pointers, query type conversion, provider IDs for histograms, and secure DNS mode strings.
+// ---
+
 #ifndef NET_DNS_DNS_UTIL_H_
 #define NET_DNS_DNS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPSSVC metrics unit tests
+// summary: Parameterized unit tests verifying that HttpssvcMetrics records the expected UMA histogram samples for secure and insecure DNS queries.
+// ---
+
 #include "net/dns/httpssvc_metrics.h"
 
 #include <optional>

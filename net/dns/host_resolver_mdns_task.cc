@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverMdnsTask implementation
+// summary: Implements the multicast DNS task that resolves hostnames via MDns transactions and parses records into host resolver internal results.
+// ---
+
 #include "net/dns/host_resolver_mdns_task.h"
 
 #include <algorithm>

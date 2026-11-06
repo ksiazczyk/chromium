@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DNS config service header
+// summary: Declares DnsConfigServiceAndroid, which reads and watches Android system DNS settings as a NetworkChangeNotifier observer.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_SERVICE_ANDROID_H_
 #define NET_DNS_DNS_CONFIG_SERVICE_ANDROID_H_
 

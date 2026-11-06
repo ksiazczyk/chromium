@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaleHostResolver implementation
+// summary: Implements StaleHostResolver, which returns stale cached DNS results after a delay when fresh resolution is slow, trading accuracy for lower latency.
+// ---
+
 #include "net/dns/stale_host_resolver.h"
 
 #include <memory>

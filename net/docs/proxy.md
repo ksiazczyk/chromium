@@ -1,3 +1,9 @@
+---
+type: reference
+title: Proxy support in Chrome
+summary: Reference on Chrome proxy behavior covering proxy identifiers and schemes, manual settings, bypass rules, PAC scripts, and debugging proxy resolution with Net Logs.
+---
+
 # Proxy support in Chrome
 
 This document establishes basic proxy terminology and describes Chrome-specific

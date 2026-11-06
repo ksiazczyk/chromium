@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemDnsConfigChangeNotifier class declaration
+// summary: Declares a thread-safe notifier for system DNS configuration changes, intended for internal use by HostResolverManager and NetworkChangeNotifier.
+// ---
+
 #ifndef NET_DNS_SYSTEM_DNS_CONFIG_CHANGE_NOTIFIER_H_
 #define NET_DNS_SYSTEM_DNS_CONFIG_CHANGE_NOTIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context host resolver implementation
+// summary: Implements ContextHostResolver, forwarding host resolution requests through a HostResolverManager with per-URLRequestContext parameters and shutdown handling.
+// ---
+
 #include "net/dns/context_host_resolver.h"
 
 #include <optional>

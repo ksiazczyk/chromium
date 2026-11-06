@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverManager job implementation
+// summary: Implements HostResolverManager::Job, which aggregates host resolution requests sharing a key and runs DNS, mDNS, NAT64 and system tasks with caching and fallback tracking.
+// ---
+
 #include "net/dns/host_resolver_manager_job.h"
 
 #include <algorithm>

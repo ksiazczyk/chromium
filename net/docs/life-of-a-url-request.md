@@ -1,3 +1,11 @@
+---
+type: guide
+title: Life of a URLRequest
+summary: Walks through how a URL request travels through the Chrome network stack, covering the network service, delegates, socket pools, cache, redirects, proxies, and prioritization.
+relations:
+  - references /services/network/README.md
+---
+
 # Life of a URLRequest
 
 This document gives an overview of the browser's lower-layers for networking.

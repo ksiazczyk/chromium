@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialWorker implementation
+// summary: Implements SerialWorker, which runs work items one at a time on a thread pool and retries failures using exponential backoff.
+// ---
+
 #include "net/dns/serial_worker.h"
 
 #include <memory>

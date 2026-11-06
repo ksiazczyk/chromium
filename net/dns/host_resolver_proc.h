@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverProc interface declaration
+// summary: Declares the HostResolverProc interface, a getaddrinfo-like procedure chain used by HostResolverManager and tests to control host resolution.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_PROC_H_
 #define NET_DNS_HOST_RESOLVER_PROC_H_
 

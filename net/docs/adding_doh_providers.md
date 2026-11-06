@@ -1,3 +1,12 @@
+---
+type: guide
+title: Adding and Modifying DoH Providers
+summary: Explains how to request and implement changes to Chrome's DNS-over-HTTPS provider list, including the approval process and DohProviderEntry fields.
+relations:
+  - documents /net/dns/public/doh_provider_entry.cc
+  - documents /net/dns/public/doh_provider_entry.h
+---
+
 # Adding/Modifying DoH providers
 
 Chrome performs autoupgrade of Classic DNS resolvers to equivalent same-provider

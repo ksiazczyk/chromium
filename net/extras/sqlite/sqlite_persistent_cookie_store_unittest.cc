@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite persistent cookie store unit tests
+// summary: Unit tests for the SQLite persistent cookie store covering loading, encryption, deletion, and database behavior.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_cookie_store.h"
 
 #include <stdint.h>

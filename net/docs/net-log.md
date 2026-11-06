@@ -1,3 +1,13 @@
+---
+type: guide
+title: NetLog design and usage
+summary: Describes the design of NetLog and gives rules and worked examples for adding new net logging code with attention to performance, privacy, and security.
+relations:
+  - references /net/log/OWNERS
+  - references /net/log/net_log_capture_mode.h
+  - references /net/log/net_log_event_type_list.h
+---
+
 # NetLog
 
 This document describes the design and use of logging through NetLog.

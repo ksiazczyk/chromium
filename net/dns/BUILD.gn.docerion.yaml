@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for net/dns
+summary: Defines the GN build targets, source lists and platform-specific dependencies for the net/dns host resolution library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverManager request declarations
+// summary: Declares HostResolverManager::RequestImpl, the user-owned resolve request holding callbacks, parameters and job linkage for host resolution.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MANAGER_REQUEST_IMPL_H_
 #define NET_DNS_HOST_RESOLVER_MANAGER_REQUEST_IMPL_H_
 

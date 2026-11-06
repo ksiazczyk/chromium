@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordParsed implementation
+// summary: Implements RecordParsed, which parses a DNS resource record from wire format into typed rdata and supports equality comparison.
+// ---
+
 #include "net/dns/record_parsed.h"
 
 #include <utility>

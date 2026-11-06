@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS record RDATA fuzzer
+// summary: Fuzz harness that parses arbitrary inputs as HTTPS record RDATA and checks parser determinism, equality invariants, and alias and service form accessors.
+// ---
+
 #include "net/dns/https_record_rdata.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

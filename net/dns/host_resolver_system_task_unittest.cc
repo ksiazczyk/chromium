@@ -5,6 +5,12 @@
 // Note that most functionality of HostResolverSystemTask is tested indirectly
 // via the HostResolverManager tests.
 
+// ---docerion
+// type: test
+// title: HostResolverSystemTask unit tests
+// summary: Unit tests verifying that HostResolverSystemTask converts system resolver address lists into internal host resolver results for A, AAAA, and empty query outcomes.
+// ---
+
 #include "net/dns/host_resolver_system_task.h"
 
 #include <memory>

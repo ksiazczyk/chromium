@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS config service Linux unit tests
+// summary: Unit tests for the Linux DNS config service, covering resolv.conf and nsswitch parsing into DnsConfig.
+// ---
+
 #include "net/dns/dns_config_service_linux.h"
 
 #include <arpa/inet.h>

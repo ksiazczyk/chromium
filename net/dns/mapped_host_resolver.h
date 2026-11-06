@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mapped host resolver interface
+// summary: Declares MappedHostResolver, a HostResolver wrapper that applies MAP and EXCLUDE rules to requests before delegating to an inner resolver.
+// ---
+
 #ifndef NET_DNS_MAPPED_HOST_RESOLVER_H_
 #define NET_DNS_MAPPED_HOST_RESOLVER_H_
 

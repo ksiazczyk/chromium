@@ -1,3 +1,11 @@
+---
+type: guide
+title: Life of a Feature in //net
+summary: Explains the full lifecycle of a //net feature, from design and layering considerations across platforms and products to implementation and eventual deprecation.
+relations:
+  - references /net/docs/supported-projects.md
+---
+
 # Life of a Feature
 
 In the years since the Chromium browser was first open-sourced, the `//net`

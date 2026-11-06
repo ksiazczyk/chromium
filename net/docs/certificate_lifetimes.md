@@ -1,3 +1,9 @@
+---
+type: reference
+title: Certificate Lifetimes
+summary: Documents Chrome's requirement that publicly trusted TLS certificates issued after September 2020 have a validity period of 398 days or less.
+---
+
 # Certificate Lifetimes
 
 As part of our ongoing commitment to ensuring users’ security, Google is

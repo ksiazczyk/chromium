@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS response and resource record implementation
+// summary: Implements DnsResourceRecord, DnsRecordParser, and DnsResponse, including wire-format parsing of names, questions, and resource records.
+// ---
+
 #include "net/dns/dns_response.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zstd source stream fuzzer
+// summary: Fuzzes ZstdSourceStream decoding with and without a shared dictionary using FuzzedDataProvider input.
+// ---
+
 #include "net/filter/zstd_source_stream.h"
 
 #include <utility>

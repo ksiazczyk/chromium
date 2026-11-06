@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostResolverManager test fixture
+// summary: Shared test fixture and helpers for HostResolverManager unit tests, providing resolver creation and parameterized test methods.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MANAGER_UNITTEST_H_
 #define NET_DNS_HOST_RESOLVER_MANAGER_UNITTEST_H_
 

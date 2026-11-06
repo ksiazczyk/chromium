@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsPlatformAndroidAttempt class declaration
+// summary: Declares the Android-specific DnsAttempt that uses platform DNS APIs on Android 29+ and exposes a delegate interface for mocking in tests.
+// ---
+
 #ifndef NET_DNS_DNS_PLATFORM_ANDROID_ATTEMPT_H_
 #define NET_DNS_DNS_PLATFORM_ANDROID_ATTEMPT_H_
 

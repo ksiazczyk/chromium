@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS query construction
+// summary: Builds DNS query packets, merging OPT record rdata with EDNS options, structured errors and block-length padding according to the padding strategy.
+// ---
+
 #include "net/dns/dns_query.h"
 
 #include <stddef.h>

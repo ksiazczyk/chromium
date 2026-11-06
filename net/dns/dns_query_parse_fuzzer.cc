@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS query parse fuzzer
+// summary: LibFuzzer entry point that feeds arbitrary bytes to DnsQuery::Parse to uncover crashes or bugs in DNS query parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

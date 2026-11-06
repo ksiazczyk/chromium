@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolver interface
+// summary: Declares the HostResolver interface for resolving hostnames or IP literals to address lists and other DNS-style results, typically via ContextHostResolver.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_H_
 #define NET_DNS_HOST_RESOLVER_H_
 

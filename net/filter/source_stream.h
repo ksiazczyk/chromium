@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SourceStream byte producer interface
+// summary: Defines the abstract SourceStream interface for asynchronous byte reads, stream description logging and completion checks.
+// ---
+
 #ifndef NET_FILTER_SOURCE_STREAM_H_
 #define NET_FILTER_SOURCE_STREAM_H_
 

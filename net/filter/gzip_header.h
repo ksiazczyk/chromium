@@ -12,6 +12,12 @@
 // you've read from a file or socket.
 //
 
+// ---docerion
+// type: source
+// title: GZipHeader class declaration
+// summary: Declares the GZipHeader class for incrementally parsing gzip headers and detecting gzip magic bytes at the start of a buffer.
+// ---
+
 #ifndef NET_FILTER_GZIP_HEADER_H_
 #define NET_FILTER_GZIP_HEADER_H_
 

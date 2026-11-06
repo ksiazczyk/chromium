@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loopback-only address detection tests
+// summary: Unit tests for RunHaveOnlyLoopbackAddressesJob covering loopback, link-local, and non-loopback address configurations on Linux.
+// ---
+
 #include "net/dns/loopback_only.h"
 
 #include <optional>

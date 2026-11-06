@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock host resolver header
+// summary: Declares MockHostResolver and its RuleResolver for configuring static hostname-to-address rules used by network tests instead of real DNS lookups.
+// ---
+
 #ifndef NET_DNS_MOCK_HOST_RESOLVER_H_
 #define NET_DNS_MOCK_HOST_RESOLVER_H_
 

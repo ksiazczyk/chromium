@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DNS config service implementation
+// summary: Reads and watches Windows system DNS settings from the registry and IP Helper API to build DnsConfig.
+// ---
+
 #include "net/dns/dns_config_service_win.h"
 
 #include <sysinfoapi.h>

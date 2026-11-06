@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostResolverManager job and JobKey declarations
+// summary: Declares HostResolverManager::JobKey and Job, which group requests for the same host and dispatch them via PrioritizedDispatcher while tracking DNS fallback paths.
+// ---
+
 #ifndef NET_DNS_HOST_RESOLVER_MANAGER_JOB_H_
 #define NET_DNS_HOST_RESOLVER_MANAGER_JOB_H_
 

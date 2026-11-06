@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLitePersistentReportingAndNelStore class declaration
+// summary: Declares SQLitePersistentReportingAndNelStore, the SQLite implementation of the persistent NEL and Reporting stores.
+// ---
+
 #ifndef NET_EXTRAS_SQLITE_SQLITE_PERSISTENT_REPORTING_AND_NEL_STORE_H_
 #define NET_EXTRAS_SQLITE_SQLITE_PERSISTENT_REPORTING_AND_NEL_STORE_H_
 

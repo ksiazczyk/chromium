@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite persistent Reporting and NEL store unit tests
+// summary: Unit tests for the SQLite-backed persistent store of Reporting and Network Error Logging data, covering operation coalescing and database behavior.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_reporting_and_nel_store.h"
 
 #include <memory>

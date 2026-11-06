@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd source stream implementation
+// summary: Implements Zstd content decoding as a FilterSourceStream with shared dictionary support, memory limits and UMA metrics.
+// ---
+
 #include "net/filter/zstd_source_stream.h"
 
 #include <algorithm>

@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Chrome Network Bug Triage: Components and Labels'
+summary: Lists the bug tracker components and labels used when triaging Chrome network bugs, including common non-network components and caveats.
+---
+
 # Chrome Network Bug Triage : Components and labels
 
 ## Some network component caveats

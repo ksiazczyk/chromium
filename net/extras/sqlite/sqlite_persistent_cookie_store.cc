@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent cookie store implementation
+// summary: Implements the SQLite-backed persistent cookie store, including database operations, encryption, and load and commit problem metrics.
+// ---
+
 #include "net/extras/sqlite/sqlite_persistent_cookie_store.h"
 
 #include <iterator>

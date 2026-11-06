@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS record RDATA parsing implementation
+// summary: Implements parsing of HTTPS DNS record RDATA, handling service parameters such as mandatory keys, ALPN IDs, port, IPv4 and IPv6 hints, ECH config, and trust anchor IDs.
+// ---
+
 #include "net/dns/https_record_rdata.h"
 
 #include <stddef.h>

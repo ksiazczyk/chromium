@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connect predictor LRU cache implementation
+// summary: Implements ConnectPredictor with a multi-level LRU cache partitioned by network handle and anonymization key, masking addresses to subnet or prefix boundaries.
+// ---
+
 #include "net/dns/connect_predictor_lru_cache.h"
 
 #include "net/base/features.h"

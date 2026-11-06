@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker mapping
+summary: Maps the directory to the Internals>Network>Cookies monorail component and a Buganizer component for issue tracking.

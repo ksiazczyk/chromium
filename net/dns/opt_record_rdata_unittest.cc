@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptRecordRdata unit tests
+// summary: Unit tests for parsing DNS OPT record rdata, covering multiple OPTs, EDE options, and malformed size handling.
+// ---
+
 #include "net/dns/opt_record_rdata.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS-over-HTTPS attempt implementation
+// summary: Implements DNS query attempts over HTTP transport, building GET or POST requests from DoH server templates and processing the responses.
+// ---
+
 #include "net/dns/dns_http_attempt.h"
 
 #include <stdint.h>

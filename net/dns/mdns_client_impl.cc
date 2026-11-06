@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS client implementation
+// summary: Implements the multicast DNS client, including socket connections, listeners, transactions, cache refresh logic, and query metrics for print, scan, and cast services.
+// ---
+
 #include "net/dns/mdns_client_impl.h"
 
 #include <algorithm>

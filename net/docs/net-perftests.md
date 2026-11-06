@@ -1,3 +1,9 @@
+---
+type: guide
+title: Running net_perftests
+summary: Explains how to build and run the net stack microbenchmarks, including recommended GN settings, noise reduction tips, and guidance for writing new tests and running on Android.
+---
+
 # Running net_perftests
 
 ## Summary

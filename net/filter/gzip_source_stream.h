@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GzipSourceStream class declaration
+// summary: Declares GzipSourceStream, a FilterSourceStream that applies gzip and deflate content decoding to a data stream using zlib.
+// ---
+
 #ifndef NET_FILTER_GZIP_SOURCE_STREAM_H_
 #define NET_FILTER_GZIP_SOURCE_STREAM_H_
 

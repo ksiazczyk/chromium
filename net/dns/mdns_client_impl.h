@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS client implementation header
+// summary: Declares the mDNS client implementation classes, including MDnsConnection, MDnsClientImpl with its core, listeners, and the socket factory.
+// ---
+
 #ifndef NET_DNS_MDNS_CLIENT_IMPL_H_
 #define NET_DNS_MDNS_CLIENT_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS response and resource record declarations
+// summary: Declares DnsResourceRecord, DnsRecordParser, and DnsResponse for representing and parsing DNS response packets per RFC 1035.
+// ---
+
 #ifndef NET_DNS_DNS_RESPONSE_H_
 #define NET_DNS_DNS_RESPONSE_H_
 

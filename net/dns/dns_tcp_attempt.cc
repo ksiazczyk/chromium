@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsTCPAttempt implementation
+// summary: Implements DnsTCPAttempt, a DNS attempt that connects a stream socket, sends a length-prefixed query, and reads the response over TCP.
+// ---
+
 #include "net/dns/dns_tcp_attempt.h"
 
 #include <stdint.h>

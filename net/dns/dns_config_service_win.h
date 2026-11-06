@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DNS config service declarations
+// summary: Declares DnsConfigServiceWin and helpers that convert Windows DNS system settings into a DnsConfig.
+// ---
+
 #ifndef NET_DNS_DNS_CONFIG_SERVICE_WIN_H_
 #define NET_DNS_DNS_CONFIG_SERVICE_WIN_H_
 
