@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual entrypoint and menu template
+// summary: Lit HTML template that composes the contextual entrypoint button and contextual action menu with bound state properties.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {hasAllowedInputs} from './common.js';

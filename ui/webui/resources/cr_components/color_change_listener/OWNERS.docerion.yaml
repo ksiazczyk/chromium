@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for color_change_listener
+summary: Lists the component's code owners and routes reviews of Mojom files to the IPC security owners.

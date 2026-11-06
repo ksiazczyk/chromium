@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for history clusters
+summary: Points the directory to the shared history clusters component metadata via a mixins entry.

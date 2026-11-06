@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Management page state and app utilities
+// summary: Provides state creation, app and permission lookup helpers, sub-app and parent-app resolution, sorting, and metrics histogram naming for the App Management page.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 
 import type {App, Permission} from './app_management.mojom-webui.js';

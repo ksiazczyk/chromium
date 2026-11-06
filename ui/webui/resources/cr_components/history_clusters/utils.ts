@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search highlight utility for history clusters
+// summary: Utility that populates an element with text highlighted according to mojom match positions, converting them for search_highlight_utils.
+// ---
+
 import {highlight} from '//resources/js/search_highlight_utils.js';
 
 import type {MatchPosition} from './history_cluster_types.mojom-webui.js';

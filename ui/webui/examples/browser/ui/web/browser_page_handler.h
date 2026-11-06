@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser page handler class declaration
+// summary: Declares the DocumentService-based page handler that serves WebUI navigation requests and clears its controller pointer when the controller is destroyed.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_UI_WEB_BROWSER_PAGE_HANDLER_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_UI_WEB_BROWSER_PAGE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History clusters WebUI build definition
+summary: GN build file defining Mojo bindings and the WebUI build target for the history clusters component.

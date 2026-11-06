@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics proxy for history clusters
+// summary: Abstraction layer for recording cluster, related search and visit metrics, designed so it can be mocked in tests.
+// ---
+
 import type {URLVisit} from './history_cluster_types.mojom-webui.js';
 import {Annotation} from './history_cluster_types.mojom-webui.js';
 import {browserProxyFactory, VisitType} from './history_clusters.mojom-webui.js';

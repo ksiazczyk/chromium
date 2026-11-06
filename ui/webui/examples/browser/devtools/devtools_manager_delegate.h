@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools manager delegate class declaration for the webui examples browser
+// summary: Declares DevToolsManagerDelegate, which provides the browser context and creates content windows and agent hosts for DevTools targets.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_DEVTOOLS_DEVTOOLS_MANAGER_DELEGATE_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_DEVTOOLS_DEVTOOLS_MANAGER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color scheme mode component template
+// summary: Lit HTML template that renders a segmented button with light, dark and system color scheme options.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CustomizeColorSchemeModeElement} from './customize_color_scheme_mode.js';

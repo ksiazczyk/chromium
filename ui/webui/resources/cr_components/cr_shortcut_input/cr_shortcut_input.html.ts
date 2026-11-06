@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-shortcut-input component
+// summary: Lit HTML template rendering a cr-input with edit and clear icon buttons bound to the component's readonly, error, and capture state.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrShortcutInputElement} from './cr_shortcut_input.js';

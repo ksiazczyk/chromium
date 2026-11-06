@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the browser example WebUI resources
+summary: GN build target that bundles the example browser's static files, TypeScript sources, and Mojo bindings into a WebUI resource build.

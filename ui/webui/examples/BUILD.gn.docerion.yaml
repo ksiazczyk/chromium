@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the WebUI examples app
+summary: Defines the testonly webui_examples_lib static library, grit resources, and pak repack targets for the standalone WebUI examples embedder, with platform-specific Aura and Mac sources.

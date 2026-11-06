@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmented button web component
+// summary: Lit custom element segmented-button that wraps a cr-radio-group to provide a segmented control with a selected value and group label.
+// ---
+
 import '//resources/cr_elements/cr_radio_group/cr_radio_group.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox element mixin
+// summary: Lit mixin providing shared composebox behavior for file, tab, and Drive uploads, voice search, submit actions, and usage metrics recording.
+// ---
+
 import type {SearchAnimatedGlowElement} from '//resources/cr_components/search/animated_glow.js';
 import {ComposeboxContextAddedMethod, GlowAnimationState} from '//resources/cr_components/search/constants.js';
 import {DragAndDropHandler} from '//resources/cr_components/search/drag_drop_handler.js';

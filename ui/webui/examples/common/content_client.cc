@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI examples content client implementation
+// summary: Implements the webui_examples ContentClient by returning data resources and resource bytes from the shared ResourceBundle for given resource IDs and scale factors.
+// ---
+
 #include "ui/webui/examples/common/content_client.h"
 
 #include <string_view>

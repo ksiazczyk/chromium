@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contextual action menu styles
+summary: Lit CSS styles for the contextual action menu, including menu card layout, share tabs flyout positioning, tab previews, and dropdown items.
+*/
+
 #menu {
   --color-sys-divider: var(--color-composebox-file-carousel-divider);
   --cr-menu-background-color: var(--color-composebox-background,

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI examples content client class declaration
+// summary: Declares the webui_examples ContentClient subclass of content::ContentClient that overrides GetDataResource and GetDataResourceBytes to supply bundled resources.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_COMMON_CONTENT_CLIENT_H_
 #define UI_WEBUI_EXAMPLES_COMMON_CONTENT_CLIENT_H_
 

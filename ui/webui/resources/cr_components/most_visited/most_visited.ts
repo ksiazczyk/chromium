@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited element (cr-most-visited)
+// summary: Lit WebUI element that renders and manages most-visited tiles, including editing, adding and removing shortcuts, tile dragging, theming, and browser proxy communication.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';

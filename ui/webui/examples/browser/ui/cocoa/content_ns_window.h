@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentNSWindow class declaration for a Cocoa browser window
+// summary: Declares the webui_examples ContentNSWindow class that wraps an NSWindow hosting a content WebContents, with title, show, and close-callback APIs.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_UI_COCOA_CONTENT_NS_WINDOW_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_UI_COCOA_CONTENT_NS_WINDOW_H_
 

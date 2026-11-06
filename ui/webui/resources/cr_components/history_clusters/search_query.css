@@ -9,6 +9,12 @@
  * #include=history-clusters-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search query element styles
+summary: Lit CSS styles for the search-query element, defining the suggestion chip pill appearance, icon, and hover and focus states.
+*/
+
 :host {
   --border-color: var(--color-suggestion-chip-border,
       var(--cr-fallback-color-tonal-outline));

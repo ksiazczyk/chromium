@@ -9,6 +9,12 @@
  * See README.md for more information.
  */
 
+// ---docerion
+// type: source
+// title: Shared help bubble mixin implementation
+// summary: Implements the logic common to the Polymer and Lit help bubble mixins, managing controllers, Mojo listeners, anchor registration and bubble lifecycle events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {EventTracker} from '//resources/js/event_tracker.js';
 import {TrackedElementManager} from '//resources/js/tracked_element/tracked_element_manager.js';

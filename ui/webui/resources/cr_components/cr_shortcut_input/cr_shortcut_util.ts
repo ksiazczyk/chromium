@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard shortcut helper utilities
+// summary: Defines a Key enum and helpers that validate key codes, apply modifier policies, and convert keystroke events to display strings per platform.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import {isChromeOS, isMac} from '//resources/js/platform.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller factory class declaration
+// summary: Declares the WebUIControllerFactory class for the webui examples browser, which maps chrome scheme URLs to WebUI controllers and reports whether a URL is handled by WebUI.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_WEBUI_CONTROLLER_FACTORY_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_WEBUI_CONTROLLER_FACTORY_H_
 

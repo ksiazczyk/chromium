@@ -1,0 +1,4 @@
+# Docerion header of color_change_listener.mojom.
+type: source
+title: Mojo interface definitions for color change listener
+summary: Defines the PageHandler and Page Mojo interfaces used to notify a WebUI page when its associated browser-side ColorProvider changes.

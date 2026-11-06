@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contextual entrypoint and menu styles
+summary: Lit CSS styles for the contextual entrypoint and menu wrapper, setting entrypoint width and the menu-open hover background.
+*/
+
 :host {
   width: var(--cr-composebox-entrypoint-width, auto);
 }

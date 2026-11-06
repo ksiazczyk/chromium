@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result image component template
+// summary: Lit HTML template for the result image element, rendering a decorative SVG illustration and the fetched page image when available.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HistoryEmbeddingsResultImageElement} from './result_image.ts';

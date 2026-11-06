@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the HelpBubble WebUI component
+summary: Defines GN targets for the Mojom bindings and the WebUI build of the help bubble TypeScript, CSS, and generated resources.

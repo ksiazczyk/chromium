@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainDelegate class for the webui examples app
+// summary: Declares the MainDelegate class derived from content::ContentMainDelegate, listing its startup overrides and the content, browser, and renderer client members it owns.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_APP_MAIN_DELEGATE_H_
 #define UI_WEBUI_EXAMPLES_APP_MAIN_DELEGATE_H_
 

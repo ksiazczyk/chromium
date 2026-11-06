@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI examples render frame observer header
+// summary: Declares the webui_examples RenderFrameObserver class with self-ownership and navigation lifecycle callbacks such as DidStartNavigation and ReadyToCommitNavigation.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_RENDERER_RENDER_FRAME_OBSERVER_H_
 #define UI_WEBUI_EXAMPLES_RENDERER_RENDER_FRAME_OBSERVER_H_
 

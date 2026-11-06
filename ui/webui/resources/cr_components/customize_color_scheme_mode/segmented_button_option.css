@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Segmented button option styles
+summary: Lit CSS styles for segmented-button-option, covering checked, hover and focus states, ripple colors and container-query-based icon hiding.
+*/
+
 #button {
   border-radius: var(--segmented-button-height);
   box-sizing: border-box;

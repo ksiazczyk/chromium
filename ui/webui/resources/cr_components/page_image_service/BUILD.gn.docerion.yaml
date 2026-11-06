@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the page_image_service WebUI component
+summary: Defines the GN build for the page_image_service WebUI component, compiling browser_proxy.ts with generated Mojom TypeScript bindings and generating a GRD resource.

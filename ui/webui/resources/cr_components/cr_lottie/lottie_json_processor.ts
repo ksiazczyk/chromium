@@ -7,6 +7,12 @@
  * dynamic theming with Chrome Desktop Design System (CDDS) tokens.
  */
 
+// ---docerion
+// type: source
+// title: Lottie JSON processor for dynamic theming
+// summary: Parses Lottie JSON animation structures to map Chrome Desktop Design System color tokens for dynamic theming of animations.
+// ---
+
 /** String variant of the type field used for comparison during parsing. */
 const LOTTIE_GRADIENT_FILL_TYPE = 'gf';
 

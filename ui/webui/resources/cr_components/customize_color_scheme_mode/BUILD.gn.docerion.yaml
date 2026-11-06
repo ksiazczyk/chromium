@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the color scheme mode component
+summary: GN build file defining the mojom bindings target and the WebUI build target with its TypeScript, CSS and SVG inputs.

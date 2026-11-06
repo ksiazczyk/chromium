@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search query custom element
+// summary: Custom element that displays a related search query pill in a history cluster, recording metrics and opening the URL when activated.
+// ---
+
 import {CrRippleMixin} from '//resources/cr_elements/cr_ripple/cr_ripple_mixin.js';
 import {assert} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

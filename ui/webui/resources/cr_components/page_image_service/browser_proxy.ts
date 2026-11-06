@@ -6,6 +6,12 @@
  * @fileoverview The browser proxy used to access `PageImageService` from WebUI.
  */
 
+// ---docerion
+// type: source
+// title: PageImageService browser proxy for WebUI
+// summary: Singleton TypeScript browser proxy that gives WebUI pages access to the PageImageService Mojom handler.
+// ---
+
 import type {PageImageServiceHandlerRemote} from './page_image_service.mojom-webui.js';
 import {PageImageServiceHandler} from './page_image_service.mojom-webui.js';
 

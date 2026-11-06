@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: File thumbnail styles
+summary: CSS styles for composebox file thumbnail chips, covering spinners, image chips, PDF and document icons, and remove buttons.
+*/
+
 :host {
   --image-chip-border-radius_: var(--file-chip-border-radius, 8px);
   --pdf-icon-background-color_: rgba(219, 69, 55, 1); /* red */

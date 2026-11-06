@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the color_change_listener component
+summary: Defines the GN build targets for the component, including the Mojom bindings target and the WebUI TypeScript build with generated resources.

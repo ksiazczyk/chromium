@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContext implementation for the WebUI example browser
+// summary: Implements the webui_examples BrowserContext, backing it with a temporary directory and returning null delegates for most content browser services.
+// ---
+
 #include "ui/webui/examples/browser/browser_context.h"
 
 #include "content/public/browser/browser_thread.h"

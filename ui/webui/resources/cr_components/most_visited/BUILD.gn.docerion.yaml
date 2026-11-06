@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the most visited component
+summary: Defines GN targets for the most visited mojom bindings and the WebUI build of its TypeScript, CSS and SVG resources.

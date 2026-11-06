@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History cluster custom element
+// summary: Custom element that displays a history cluster and handles visit clicks, hiding, and removal.
+// ---
+
 import './cluster_menu.js';
 import './horizontal_carousel.js';
 import './search_query.js';

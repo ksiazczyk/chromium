@@ -1,0 +1,4 @@
+# Docerion header of mac_init.mm.
+type: source
+title: macOS application setup for the webui examples app
+summary: Implements the ExamplesApplication NSApplication subclass with native event processor support and MacPreBrowserMain, which creates and activates the shared application on macOS.

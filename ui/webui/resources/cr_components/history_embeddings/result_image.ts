@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result image element
+// summary: Lit element that shows a thumbnail for a history embeddings search result by fetching its image through the page image service browser proxy.
+// ---
+
 import '//resources/cr_elements/cr_auto_img/cr_auto_img.js';
 
 import {PageImageServiceBrowserProxy} from '//resources/cr_components/page_image_service/browser_proxy.js';

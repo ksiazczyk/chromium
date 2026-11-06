@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with mixin reference
+summary: DIR_METADATA file that applies the customize chrome common metadata mixin to this directory.

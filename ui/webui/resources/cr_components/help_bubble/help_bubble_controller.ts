@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpBubble controller for anchor tracking and placement
+// summary: Implements the HelpBubbleController class that tracks anchor elements, computes bubble positioning with RTL mirroring and padding clamping, and manages one bubble's lifecycle.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import type {Options as TrackedElementOptions} from '//resources/js/tracked_element/tracked_element_manager.js';
 import type {InsetsF, RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';

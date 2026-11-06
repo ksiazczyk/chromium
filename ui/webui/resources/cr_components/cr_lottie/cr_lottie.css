@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-lottie element
+summary: Lit style sheet for the cr-lottie element that stretches the animation canvas to full width and height.
+*/
+
 canvas {
   height: 100%;
   width: 100%;

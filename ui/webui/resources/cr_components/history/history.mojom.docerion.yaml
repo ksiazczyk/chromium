@@ -1,0 +1,4 @@
+# Docerion header of history.mojom.
+type: source
+title: History page Mojo interface definitions
+summary: Defines Mojo structs and enums for history entries, queries, devices, filtering behavior, and critical actions exchanged between the browser and the history WebUI.

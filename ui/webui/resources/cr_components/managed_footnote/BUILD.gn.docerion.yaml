@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Managed footnote component build definition
+summary: GN build rules that compile the managed footnote WebUI component, its TypeScript and CSS resources, and dependencies.

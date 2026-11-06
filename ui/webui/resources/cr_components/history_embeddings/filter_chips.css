@@ -10,6 +10,12 @@
  * #include=md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Filter chips styles
+summary: Lit styles for the filter chips element covering layout, divider, and suggestion chip appearance.
+*/
+
 :host {
   display: flex;
   align-items: center;

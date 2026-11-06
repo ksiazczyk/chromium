@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the webui examples main delegate
+// summary: Implements MainDelegate startup hooks that initialize logging, install the content client, load the webui_examples resource pak, and create the browser and renderer clients.
+// ---
+
 #include "ui/webui/examples/app/main_delegate.h"
 
 #include "base/check.h"

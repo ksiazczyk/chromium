@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the help bubble element
+// summary: Renders the help bubble markup with title, body, icon, progress dots, buttons, close control, and arrow, including accessibility attributes.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HelpBubbleElement} from './help_bubble.js';

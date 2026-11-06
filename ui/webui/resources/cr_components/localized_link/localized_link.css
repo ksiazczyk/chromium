@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the localized-link element
+summary: CSS for the localized-link WebUI element, covering host display, disabled state, link colors, and action-link selection behavior.
+*/
+
 :host {
   --cr-localized-link-display: inline;
   display: block;

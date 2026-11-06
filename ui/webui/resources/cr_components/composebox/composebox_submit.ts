@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox submit button element
+// summary: Defines the cr-composebox-submit custom element that renders the submit button and fires submit-click and focus events.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import type {CrIconButtonElement} from '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

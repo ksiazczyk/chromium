@@ -1,0 +1,4 @@
+# Docerion header of most_visited.mojom.
+type: source
+title: Mojom interfaces for most visited tiles
+summary: Mojom definitions of the browser and WebUI handlers for adding, editing, reordering and logging most visited tiles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools frontend class declaration for the webui examples browser
+// summary: Declares the DevToolsFrontend class used to create a DevTools frontend for inspected web contents and expose its frontend URL.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_DEVTOOLS_DEVTOOLS_FRONTEND_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_DEVTOOLS_DEVTOOLS_FRONTEND_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: cr_components directory README
+summary: Describes the directory as containing complex Lit (and legacy Polymer) web components shared across Web UIs, explains their allowed I18n, Mojo, and extension API dependencies, and points to build_webui() guidance for building them.
+---
+
 This directory contains complex Lit web components for Web UI (as well as some
 legacy Polymer components; no new Polymer components may be added). They may be
 shared between Settings, login, stand alone dialogs, etc.

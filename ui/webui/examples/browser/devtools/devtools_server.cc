@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools remote debugging HTTP server implementation
+// summary: Implements a TCP socket factory plus StartHttpHandler, StopHttpHandler, and GetHttpHandlerPort functions that run the remote debugging server on localhost.
+// ---
+
 #include "ui/webui/examples/browser/devtools/devtools_server.h"
 
 #include <atomic>

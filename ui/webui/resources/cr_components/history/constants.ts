@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History UMA metrics constants
+// summary: Defines UMA histogram enums for history result clicks and embeddings user actions, plus a minimum age threshold for counting query result metrics.
+// ---
+
 /**
  * Histogram buckets for UMA tracking of which type of result the History user
  * clicked.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox file inputs HTML template
+// summary: Lit HTML template providing hidden image and attachment file inputs that trigger upload events in the composebox.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxFileInputsElement} from './composebox_file_inputs.js';

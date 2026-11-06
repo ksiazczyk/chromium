@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error scrim Lit template
+// summary: Lit HTML template that renders the error message and a dismiss button inside the error scrim when an error message is set.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ErrorScrimElement} from './error_scrim.js';

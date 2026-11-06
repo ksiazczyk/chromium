@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: WebUI resources presubmit checks
+# summary: Presubmit script that checks icon names, translations, SVG optimization, and web dev style, and restricts new JS and Polymer files in WebUI resources.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 def CheckIconNames(input_api, output_api):

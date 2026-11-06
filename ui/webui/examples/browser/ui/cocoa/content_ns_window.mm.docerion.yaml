@@ -1,0 +1,4 @@
+# Docerion header of content_ns_window.mm.
+type: source
+title: ContentNSWindow implementation for a Cocoa browser window
+summary: Implements ContentNSWindow by creating a resizable NSWindow around a WebContents view and using a close-notification observer to run the close callback.

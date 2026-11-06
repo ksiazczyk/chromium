@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the webui examples browser UI
+summary: Sets per-file ownership rules so that changes to Mojo files require approval from the IPC security owners.

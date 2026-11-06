@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox voice search element
+// summary: Implements the voice search element with a Web Speech API state machine, error handling, metrics recording, and permission prompt behavior.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './composebox_submit.js';
 

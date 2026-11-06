@@ -1,0 +1,4 @@
+# Docerion header of history_clusters.mojom.
+type: source
+title: History clusters Mojo interface definitions
+summary: Mojo interface defining the browser-side handler and data types for querying, loading, hiding and removing history clusters from the WebUI.

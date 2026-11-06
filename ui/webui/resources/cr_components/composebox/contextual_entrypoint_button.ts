@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual entrypoint button element
+// summary: Lit element implementing the contextual entrypoint button that lets users add tab context to the composebox, handling animation states, shared tabs, and feature flags.
+// ---
+
 import './icons.html.js';
 import './composebox_tab_favicon.js';
 import './composebox_favicon_group.js';

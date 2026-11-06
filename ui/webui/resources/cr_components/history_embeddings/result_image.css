@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Result image component styles
+summary: Lit stylesheet for the result image element, defining a gradient background, illustration coloring, image fitting, and dark mode variants.
+*/
+
 :host {
   --gradient-start-color_: var(
       --color-history-embeddings-image-background-gradient-start,

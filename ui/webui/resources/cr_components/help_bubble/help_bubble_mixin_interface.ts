@@ -9,6 +9,12 @@
  * See README.md for more information.
  */
 
+// ---docerion
+// type: source
+// title: HelpBubble mixin interface
+// summary: Declares the HelpBubbleMixinInterface contract, documenting registration, unregistration, visibility queries, anchor activation notifications and testing helpers.
+// ---
+
 import type {HelpBubbleElement} from './help_bubble.js';
 import type {BrowserProxy, HelpBubbleParams} from './help_bubble.mojom-webui.js';
 import type {HelpBubbleOptions, Trackable} from './help_bubble_controller.js';

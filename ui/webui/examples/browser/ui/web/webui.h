@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI gallery controller class declaration
+// summary: Declares the WebUIController for the main host that serves the WebUI gallery resources.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_UI_WEB_WEBUI_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_UI_WEB_WEBUI_H_
 

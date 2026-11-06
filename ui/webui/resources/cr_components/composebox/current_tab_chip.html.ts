@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current tab chip Lit template
+// summary: Lit HTML template that renders a button chip for asking about the current tab whenever a current tab is available.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CurrentTabChipElement} from './current_tab_chip.js';

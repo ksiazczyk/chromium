@@ -1,0 +1,4 @@
+# Docerion header of history_embeddings.mojom.
+type: source
+title: History embeddings Mojom interface
+summary: Mojo interface and structs defining search queries, results, answers, metrics, and user feedback for the WebUI.

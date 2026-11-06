@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management UI constants and metrics enums
+// summary: Defines page types, entry point and user action enums, and app map types used by the app management page.
+// ---
+
 import type {App} from './app_management.mojom-webui.js';
 
 /**

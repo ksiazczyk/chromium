@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tool chip template
+// summary: Lit HTML template rendering the tool chip button with its icon, label, and close icon in legacy and Clank variants.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxToolChipElement} from './composebox_tool_chip.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the commerce WebUI components
+summary: GN build file that builds the commerce cr_components WebUI, listing the shopping service proxy TypeScript file and its Mojo bindings dependencies.

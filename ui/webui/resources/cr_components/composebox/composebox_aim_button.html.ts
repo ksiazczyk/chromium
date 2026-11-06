@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox AIM button HTML template
+// summary: Lit HTML template rendering the AIM button with leading and trailing icons, label, disabled state and click handling.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxAimButtonElement} from './composebox_aim_button.js';

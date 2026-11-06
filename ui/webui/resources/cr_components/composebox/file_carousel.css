@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: File carousel styles
+summary: Styles the file thumbnail carousel in the composebox, including two-row scrolling with top and bottom fade gradients and spacing for top placement.
+*/
+
 :host {
   --composebox-thumbnail-height: 44px;
   --composebox-thumbnail-gap: 6px;

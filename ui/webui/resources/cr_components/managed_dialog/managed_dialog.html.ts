@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the managed dialog
+// summary: Exports a getHtml function rendering a cr-dialog with a policy icon, title, body content, and an OK button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ManagedDialogElement} from './managed_dialog.js';

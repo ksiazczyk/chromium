@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current tab chip element
+// summary: Lit element that shows a chip for the current tab and fires an add-tab-context event with the tab id, title, and url on click, while recording usage metrics.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 
 import {ComposeboxContextAddedMethod} from '//resources/cr_components/search/constants.js';

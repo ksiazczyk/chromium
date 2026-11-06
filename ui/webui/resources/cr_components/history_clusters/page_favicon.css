@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Page favicon styles
+summary: Lit CSS styles for the page favicon element, sizing and positioning the page image within history clusters.
+*/
+
 :host {
   align-items: center;
   background-color: var(--entity-image-background-color);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller factory implementation for the examples browser
+// summary: Implements the WebUI controller factory for the webui examples browser, creating controllers for the WebUI and Browser hosts on chrome scheme URLs and reporting matching WebUI types.
+// ---
+
 #include "ui/webui/examples/browser/webui_controller_factory.h"
 
 #include "content/public/browser/web_ui_controller.h"

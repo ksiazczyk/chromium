@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox input element
+// summary: Lit element implementing the composebox text input with chip insertion, Trusted Types sanitization, smart compose hints, and caret handling.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';

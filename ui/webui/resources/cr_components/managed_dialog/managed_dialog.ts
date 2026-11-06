@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedDialogElement Lit custom element
+// summary: Defines the managed-dialog custom element shown when a user interacts with UI features managed by their organization.
+// ---
+
 /**
  * @fileoverview 'managed-dialog' is a dialog that is displayed when a user
  * interact with some UI features which are managed by the user's organization.

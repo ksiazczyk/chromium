@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Error scrim styles
+summary: Styles the error scrim overlay covering the composebox on errors, with light and dark mode colors, compact mode layout, and dismiss button styling.
+*/
+
 #errorScrim {
   align-items: center;
   background-color: var(--color-composebox-error-scrim-background, rgba(255, 255, 255, 0.9));

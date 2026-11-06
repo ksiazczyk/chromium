@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox AIM button element
+// summary: Lit element implementing the AIM button with exit and send modes, keyboard activation handling and click event forwarding.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';

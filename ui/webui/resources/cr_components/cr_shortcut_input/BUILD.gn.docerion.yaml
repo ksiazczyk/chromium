@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for cr_shortcut_input
+summary: GN build file defining the build_webui target that compiles the component's CSS and TypeScript files into a grd resource with its TypeScript dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox Lens search HTML template
+// summary: Lit template for the Lens search entry point, rendering either an icon button or a pill button depending on the isIcon state.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxLensSearchElement} from './composebox_lens_search.js';
