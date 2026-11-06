@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header declaring Settings interactive UI test element queries
+// summary: Declares DeepQuery helper functions that locate ChromeOS Settings UI elements for interactive UI tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_SETTINGS_INTERACTIVE_UITEST_ELEMENTS_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_SETTINGS_INTERACTIVE_UITEST_ELEMENTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of test_sudo_helper.py.
+type: script
+title: Root task socket server for Crosier tests
+summary: Runs as root and serves a socket so integration tests running as chronos can execute privileged commands and manage session manager.

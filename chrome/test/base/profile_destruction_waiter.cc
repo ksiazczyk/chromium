@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile destruction waiter implementation
+// summary: Implements ProfileDestructionWaiter, which runs a blocking wait until a Profile object is about to be destroyed in tests.
+// ---
+
 #include "chrome/test/base/profile_destruction_waiter.h"
 
 ProfileDestructionWaiter::ProfileDestructionWaiter(Profile* profile) {

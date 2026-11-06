@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete change observer header
+// summary: Declares a test helper observing the autocomplete controller emitter so tests can wait until autocomplete results change.
+// ---
+
 #ifndef CHROME_TEST_BASE_AUTOCOMPLETE_CHANGE_OBSERVER_H_
 #define CHROME_TEST_BASE_AUTOCOMPLETE_CHANGE_OBSERVER_H_
 

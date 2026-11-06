@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test mixin implementation
+// summary: Implements InProcessBrowserTestMixin and its host, which dispatch test lifecycle callbacks to registered mixins in setup order and reverse order on teardown.
+// ---
+
 #include "chrome/test/base/in_process_browser_test_mixin.h"
 
 #include <ranges>

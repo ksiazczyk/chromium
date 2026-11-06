@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test theme provider interface
+// summary: Declares a test ui::ThemeProvider implementation that lets tests set custom colors and otherwise returns default or null values.
+// ---
+
 #ifndef CHROME_TEST_BASE_TEST_THEME_PROVIDER_H_
 #define CHROME_TEST_BASE_TEST_THEME_PROVIDER_H_
 

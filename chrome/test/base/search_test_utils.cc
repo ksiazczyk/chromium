@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search test utilities
+// summary: Provides search_test_utils helpers, including waiting for the TemplateURLService to finish loading during tests.
+// ---
+
 #include "chrome/test/base/search_test_utils.h"
 
 #include "base/memory/ref_counted.h"

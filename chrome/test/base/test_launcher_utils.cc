@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test launcher utilities implementation
+// summary: Prepares browser command line switches for tests and creates or overrides temporary user data directories.
+// ---
+
 #include "chrome/test/base/test_launcher_utils.h"
 
 #include <memory>

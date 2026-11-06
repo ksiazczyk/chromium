@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows implementation of interactive test window helpers
+// summary: Implements Windows native window hiding, showing and focus with retries, diagnostics and desktop snapshots when window activation fails.
+// ---
+
 #include "chrome/test/base/interactive_test_utils.h"
 
 #include <windows.h>

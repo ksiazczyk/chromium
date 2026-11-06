@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user integration base test implementation
+// summary: Implements the base test class that sets up a Crosier production Gaia login fixture for supervised users on branded builds.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/supervised_user_integration_base_test.h"
 
 #include "chrome/test/base/chromeos/crosier/ash_integration_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Warn before disconnecting Bluetooth interactive UI test
+// summary: Interactive UI test verifying the warning dialog shown when turning Bluetooth off in ChromeOS settings, covering both the BlueZ and Floss stacks.
+// ---
+
 #include <string>
 
 #include "ash/ash_element_identifiers.h"

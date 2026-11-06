@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGaiaMixin implementation
+// summary: Implements a browser test mixin that configures Chrome to talk to a fake Gaia server with fake users, tokens and cookies for login tests.
+// ---
+
 #include "chrome/test/base/fake_gaia_mixin.h"
 
 #include "base/command_line.h"

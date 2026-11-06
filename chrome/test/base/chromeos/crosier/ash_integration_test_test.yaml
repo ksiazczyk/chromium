@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Test metadata for AshIntegrationTestTest
+# summary: Defines the harness, owners, criteria, and tagged test cases for the AshIntegrationTestTest suite in Crosier.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "AshIntegrationTestTest"

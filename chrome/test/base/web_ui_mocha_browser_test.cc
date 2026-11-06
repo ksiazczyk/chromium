@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mocha browser test base implementation
+// summary: Implements the WebUIMochaBrowserTest base class that loads and runs WebUI Mocha JavaScript tests and reports sub-test results.
+// ---
+
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 
 #include <optional>

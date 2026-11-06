@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS browser tests main entry point
+// summary: Entry point for browser tests on ChromeOS that enables Ash UI controls for test cases that rely on them.
+// ---
+
 #include "ash/test/ui_controls_ash.h"
 #include "base/command_line.h"
 #include "base/test/launcher/test_launcher.h"

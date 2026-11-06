@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test definition proto
+// summary: Defines the TestInfo proto message describing test metadata such as description, contacts, team email, and buganizer components.
+// ---
+
 syntax = "proto3";
 
 package chrome_test_base_chromeos_crosier;

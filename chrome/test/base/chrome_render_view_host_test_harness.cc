@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderViewHostTestHarness implementation
+// summary: Implements ChromeRenderViewHostTestHarness, supplying a TestingProfile browser context and ChromeOS shell teardown for renderer host tests.
+// ---
+
 #include "chrome/test/base/chrome_render_view_host_test_harness.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript browser test header
+// summary: Declares JavaScriptBrowserTest, a base class providing JavaScript library loading and test call construction for browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_JAVASCRIPT_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_ASH_JAVASCRIPT_BROWSER_TEST_H_
 

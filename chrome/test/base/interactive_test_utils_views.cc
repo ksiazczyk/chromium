@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views implementation of interactive test utilities
+// summary: Implements view focus checks, mouse clicks and focus requests for interactive tests using the Views toolkit.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

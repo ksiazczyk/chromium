@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitForServiceConnectedObserver implementation
+// summary: Implements a test state observer that waits for and reports the connection state of the cellular service matching a given ICCID.
+// ---
+
 #include "chrome/test/base/ash/interactive/cellular/wait_for_service_connected_observer.h"
 
 #include "base/functional/callback_helpers.h"

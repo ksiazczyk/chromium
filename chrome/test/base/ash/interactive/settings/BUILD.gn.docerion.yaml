@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for settings interactive UI test support
+summary: Defines a test_support source set that builds the interactive UI test element helpers for ChromeOS Settings.

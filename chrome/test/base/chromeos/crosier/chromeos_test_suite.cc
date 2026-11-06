@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test suite implementation
+// summary: Implements ChromeOSTestSuite initialization with system input injection, sudo helper socket wait and mojo broker switch handling.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/chromeos_test_suite.h"
 
 #include "ash/test/ui_controls_ash.h"

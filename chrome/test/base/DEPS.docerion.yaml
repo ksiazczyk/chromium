@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/test/base
+summary: Grants sources in this directory permission to include specific components headers such as device reauth, os crypt, and record replay.

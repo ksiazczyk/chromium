@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for VPN in ChromeOS Settings
+// summary: Interactive browser tests that add, connect, disconnect, and forget a built-in OpenVPN via the ChromeOS Settings UI, using fake Shill services and a test NSS certificate database.
+// ---
+
 #include "ash/ash_element_identifiers.h"
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"

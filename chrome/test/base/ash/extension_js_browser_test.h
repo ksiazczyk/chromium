@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension JS browser test header
+// summary: Declares ExtensionJSBrowserTest, a base class for JavaScript-based tests against extensions with extension loading and coverage support.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_EXTENSION_JS_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_ASH_EXTENSION_JS_BROWSER_TEST_H_
 

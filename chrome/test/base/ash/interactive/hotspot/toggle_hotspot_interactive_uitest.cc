@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toggle hotspot interactive UI tests
+// summary: Interactive UI tests for enabling and disabling hotspot in ChromeOS Settings, including mobile data and timeout scenarios.
+// ---
+
 #include "ash/ash_element_identifiers.h"
 #include "ash/style/switch.h"
 #include "chrome/browser/ash/login/lock/screen_locker_tester.h"

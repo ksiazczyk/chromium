@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools listener browser test
+// summary: Browser test that attaches a DevTools listener to agent hosts and collects JavaScript code coverage into a temporary directory.
+// ---
+
 #include "chrome/test/base/devtools_listener.h"
 
 #include <map>

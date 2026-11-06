@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-platform browser test utilities header
+// summary: Declares chrome_test_utils functions for accessing active tabs, WebContents, profiles, and reliable URL navigation in browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_TEST_UTILS_H_
 #define CHROME_TEST_BASE_CHROME_TEST_UTILS_H_
 

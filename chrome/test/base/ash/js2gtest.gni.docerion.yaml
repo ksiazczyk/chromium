@@ -1,0 +1,4 @@
+# Docerion header of js2gtest.gni.
+type: config
+title: js2gtest GN build template
+summary: Defines the js2gtest GN build template that generates C++ gtest wrappers from JavaScript test sources for ChromeOS.

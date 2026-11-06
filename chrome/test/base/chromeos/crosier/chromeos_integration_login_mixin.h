@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login mixin for ChromeOS integration tests
+// summary: Declares ChromeOSIntegrationLoginMixin and its login modes for signing in test users via stub sessions, test API, or production GAIA.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_INTEGRATION_LOGIN_MIXIN_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_INTEGRATION_LOGIN_MIXIN_H_
 

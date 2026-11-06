@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process browser test base class
+// summary: Declares InProcessBrowserTest, the base class for browser tests that bring up browser instances in-process, with hooks for command line, user data directory and main-thread setup.
+// ---
+
 #ifndef CHROME_TEST_BASE_IN_PROCESS_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_IN_PROCESS_BROWSER_TEST_H_
 

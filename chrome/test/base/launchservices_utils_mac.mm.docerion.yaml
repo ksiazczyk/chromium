@@ -1,0 +1,4 @@
+# Docerion header of launchservices_utils_mac.mm.
+type: test
+title: LaunchServices test utility implementation for Mac
+summary: Registers the Chromium or Google Chrome app bundle with LaunchServices and guesses the bundle path from the executable location.

@@ -1,0 +1,4 @@
+# Docerion header of in_process_browser_test_mac_interactive_uitest.mm.
+type: test
+title: Mac interactive tests for in-process browser tests
+summary: Interactive Mac browser tests verifying that test bodies run inside NSApplication run and that key window activation passes to the parent when a child window is ordered out.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android UI test utilities implementation
+// summary: Implements android_ui_test_utils helpers, such as opening a URL in a new tab, for use with AndroidBrowserTest fixtures.
+// ---
+
 #include "chrome/test/base/android/android_ui_test_utils.h"
 
 #include "chrome/browser/android/tab_android.h"

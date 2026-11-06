@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for VPN interactive UI tests
+summary: Allows the VPN test directory to include headers from the crypto and net projects.

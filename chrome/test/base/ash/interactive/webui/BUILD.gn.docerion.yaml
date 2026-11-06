@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for WebUI interactive UI test support
+summary: Defines a test-only source_set bundling the interactive UI test element helpers and depending on the shared UI test support target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac bundle swizzler test helper
+// summary: Declares ScopedBundleSwizzlerMac, which swizzles +[NSBundle mainBundle] to return a partial mock with a custom bundle identifier during tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_SCOPED_BUNDLE_SWIZZLER_MAC_H_
 #define CHROME_TEST_BASE_SCOPED_BUNDLE_SWIZZLER_MAC_H_
 

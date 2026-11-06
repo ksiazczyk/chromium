@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM UI elements interactive UI tests
+// summary: Interactive UI test checking that the OS Settings cellular details page shows the expected elements for a connected eSIM network.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/cellular/cellular_util.h"

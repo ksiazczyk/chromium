@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile waiter implementation
+// summary: Implements ProfileWaiter, which blocks until a new profile is added to the ProfileManager and returns the added profile.
+// ---
+
 #include "chrome/test/base/profile_waiter.h"
 
 #include "chrome/browser/browser_process.h"

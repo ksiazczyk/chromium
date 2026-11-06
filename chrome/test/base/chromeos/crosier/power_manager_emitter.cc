@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power manager event emitter
+// summary: Test helper that stops powerd and emits power manager input events over the system D-Bus via the sudo helper client.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/power_manager_emitter.h"
 
 #include "base/strings/stringprintf.h"

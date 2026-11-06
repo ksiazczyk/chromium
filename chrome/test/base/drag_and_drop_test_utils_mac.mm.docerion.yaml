@@ -1,0 +1,4 @@
+# Docerion header of drag_and_drop_test_utils_mac.mm.
+type: test
+title: Mac implementation of drag and drop test utilities
+summary: Implements DragAndDropSimulator for macOS using a fake NSDraggingInfo and pasteboard to inject drag events in browser tests.

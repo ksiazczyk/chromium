@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular roaming interactive UI tests
+// summary: Interactive UI test verifying the data roaming toggle shows an enterprise policy icon when roaming is restricted by policy.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/cellular/esim_interactive_uitest_base.h"

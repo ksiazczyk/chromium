@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo ChromeOS integration test
+// summary: Demo ChromeOS integration test illustrating how to run a browser test on a ChromeOS device or virtual machine, including network allowlisting and browser teardown.
+// ---
+
 #include <vector>
 
 #include "ash/constants/ash_switches.h"

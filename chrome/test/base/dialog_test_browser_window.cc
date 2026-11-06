@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dialog test browser window implementation
+// summary: Implements a test browser window that acts as a WebContents modal dialog host so tests can parent modal dialogs without a real browser window.
+// ---
+
 #include "chrome/test/base/dialog_test_browser_window.h"
 
 #include <memory>

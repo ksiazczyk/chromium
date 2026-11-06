@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the in-process browser test framework
+// summary: Browser tests exercising InProcessBrowserTest itself, including parameterized test support and verification that external host resolution fails by default.
+// ---
+
 #include "chrome/test/base/in_process_browser_test.h"
 
 #include <stddef.h>

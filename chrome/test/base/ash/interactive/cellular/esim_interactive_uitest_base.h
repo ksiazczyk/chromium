@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM interactive UI test base class header
+// summary: Declares the base test class for eSIM interactive UI tests, which sets up context, system apps and a fake eUICC.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_ESIM_INTERACTIVE_UITEST_BASE_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_ESIM_INTERACTIVE_UITEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser window implementation
+// summary: Implements a stub BrowserWindow for tests that only provides a valid location bar while other getters return null.
+// ---
+
 #include "chrome/test/base/test_browser_window.h"
 
 #include <utility>

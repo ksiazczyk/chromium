@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LaunchServices test utility declarations for Mac
+// summary: Declares helpers to register the Chromium app bundle with LaunchServices and guess its path, needed for tests that install protocol handlers.
+// ---
+
 #ifndef CHROME_TEST_BASE_LAUNCHSERVICES_UTILS_MAC_H_
 #define CHROME_TEST_BASE_LAUNCHSERVICES_UTILS_MAC_H_
 

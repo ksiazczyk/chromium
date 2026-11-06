@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crosier helper build targets
+summary: Defines copy, source set and Crosier integration test targets for the helper directory's scripts and C++ sources.

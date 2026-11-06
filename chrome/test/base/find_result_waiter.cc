@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find result waiter implementation
+// summary: Implements a test helper that blocks the UI thread until find-in-page results arrive and records the active match ordinal, match count and selection rect.
+// ---
+
 #include "chrome/test/base/find_result_waiter.h"
 
 #include "base/run_loop.h"

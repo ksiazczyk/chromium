@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test sudo helper client implementation
+// summary: Implements the client that sends JSON commands and session manager requests to the test sudo helper server over a Unix socket.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/helper/test_sudo_helper_client.h"
 
 #include <sys/socket.h>

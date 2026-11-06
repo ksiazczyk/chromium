@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unix socket utility header
+// summary: Declares socket creation, binding and string or buffer read and send helpers used by the test sudo helper code.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_HELPER_UTILS_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_HELPER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login mixin implementation for ChromeOS integration tests
+// summary: Implements login flows for integration tests across stub, test, GAIA, and custom GAIA modes, including cryptohome mount checks.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/chromeos_integration_login_mixin.h"
 
 #include "ash/constants/ash_switches.h"

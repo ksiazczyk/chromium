@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura interactive test utility declarations
+// summary: Declares Aura variants of the native window hide, show and focus helpers shared between win-aura and non-win-aura builds.
+// ---
+
 #ifndef CHROME_TEST_BASE_INTERACTIVE_TEST_UTILS_AURA_H_
 #define CHROME_TEST_BASE_INTERACTIVE_TEST_UTILS_AURA_H_
 

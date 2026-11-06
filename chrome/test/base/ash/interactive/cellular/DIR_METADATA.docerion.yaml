@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cellular test directory metadata
+summary: Metadata routing the cellular test directory to buganizer component 1131774 and the cros-device-enablement team.

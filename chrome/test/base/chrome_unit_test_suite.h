@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeUnitTestSuite header
+// summary: Declares ChromeUnitTestSuite, which adds stub services needed by unit tests but not by browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_UNIT_TEST_SUITE_H_
 #define CHROME_TEST_BASE_CHROME_UNIT_TEST_SUITE_H_
 

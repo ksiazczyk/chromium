@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM profile rename interactive UI tests
+// summary: Interactive UI test that renames an eSIM profile through the OS Settings rename dialog and verifies the new network name.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/cellular/cellular_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test launcher implementation
+// summary: Implements the Chrome test launcher that sets up and runs Chrome unit and browser tests, including platform-specific crash, profiler and firewall handling.
+// ---
+
 #include "chrome/test/base/chrome_test_launcher.h"
 
 #include <memory>

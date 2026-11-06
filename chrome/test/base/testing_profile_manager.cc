@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingProfileManager implementation
+// summary: Implements TestingProfileManager, which sets up a ProfileManager on TestingBrowserProcess and creates registered testing profiles for multi-profile tests.
+// ---
+
 #include "chrome/test/base/testing_profile_manager.h"
 
 #include <stddef.h>

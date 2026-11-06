@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped channel override test helper
+// summary: Declares ScopedChannelOverride, which lets tests temporarily override the browser's release channel with platform-specific backends.
+// ---
+
 #ifndef CHROME_TEST_BASE_SCOPED_CHANNEL_OVERRIDE_H_
 #define CHROME_TEST_BASE_SCOPED_CHANNEL_OVERRIDE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebFeatureHistogramTester header
+// summary: Declares a test helper wrapping base::HistogramTester for asserting WebFeature use counts, plus count map utilities.
+// ---
+
 #ifndef CHROME_TEST_BASE_WEB_FEATURE_HISTOGRAM_TESTER_H_
 #define CHROME_TEST_BASE_WEB_FEATURE_HISTOGRAM_TESTER_H_
 

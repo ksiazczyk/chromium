@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test sudo helper client tests
+// summary: Verifies running commands as root, resetting DUT state files and starting or stopping session manager through the client.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/helper/test_sudo_helper_client.h"
 
 #include "base/files/file_util.h"

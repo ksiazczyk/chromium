@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows scoped channel override implementation
+// summary: Implements ScopedChannelOverride on Windows by configuring install_static::InstallDetails for the requested install mode and channel.
+// ---
+
 #include "chrome/test/base/scoped_channel_override.h"
 
 #include <memory>

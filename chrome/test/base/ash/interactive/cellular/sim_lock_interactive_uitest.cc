@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SIM lock interactive UI tests
+// summary: Interactive UI tests covering SIM lock states, PIN entry with correct and incorrect PINs, retry counts, and related notifications.
+// ---
+
 #include <string>
 
 #include "ash/ash_element_identifiers.h"

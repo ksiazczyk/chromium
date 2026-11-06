@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mocha browser test self tests
+// summary: Browser tests verifying WebUIMochaBrowserTest name canonicalization, JS message processing, coverage reporting and failure detection.
+// ---
+
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 
 #include <string>

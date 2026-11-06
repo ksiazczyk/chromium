@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot configuration update interactive UI tests
+// summary: Interactive UI tests for changing the hotspot SSID through the ChromeOS Settings internet page.
+// ---
+
 #include <string>
 
 #include "chrome/test/base/ash/interactive/hotspot/hotspot_config_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test switches declarations
+// summary: Declares the test command-line switch constants whose values are documented alongside their definitions in the corresponding .cc file.
+// ---
+
 #ifndef CHROME_TEST_BASE_TEST_SWITCHES_H_
 #define CHROME_TEST_BASE_TEST_SWITCHES_H_
 

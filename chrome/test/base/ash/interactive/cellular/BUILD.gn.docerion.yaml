@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for cellular interactive UI tests
+summary: GN build file defining the interactive_ui_tests and test_support targets for the ChromeOS cellular interactive UI tests.

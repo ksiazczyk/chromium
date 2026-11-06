@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base class for ash-chrome ChromeOS integration tests
+// summary: Declares the AshIntegrationTest base class with login and ARC mixins for tests of ash-chrome integration with the ChromeOS platform.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_ASH_INTEGRATION_TEST_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_ASH_INTEGRATION_TEST_H_
 

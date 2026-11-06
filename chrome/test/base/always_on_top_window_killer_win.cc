@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on-top window killer for Windows tests
+// summary: Windows implementation that logs and closes stray always-on-top windows and saves desktop snapshots when browser tests time out.
+// ---
+
 #include "chrome/test/base/always_on_top_window_killer_win.h"
 
 #include <Windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular test support utilities header
+// summary: Declares EuiccInfo, SimInfo and helper functions to configure eSIM profiles and generate cellular policy dictionaries in tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_CELLULAR_UTIL_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_CELLULAR_UTIL_H_
 

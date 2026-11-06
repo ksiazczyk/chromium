@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for interactive Ash UI tests
+summary: Defines the interactive_ui_tests and test_support source sets with their sources, defines, and dependencies for ChromeOS interactive Ash tests.

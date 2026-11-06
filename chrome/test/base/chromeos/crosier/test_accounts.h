@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test account data structures and loaders header
+// summary: Declares FamilyTestData and helpers that pick Gaia or supervised family test accounts from the test accounts pool.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_TEST_ACCOUNTS_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_TEST_ACCOUNTS_H_
 

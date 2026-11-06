@@ -1,0 +1,4 @@
+# Docerion header of reset_dut.py.
+type: script
+title: DUT reset script for Crosier tests
+summary: Python script that resets ChromeOS device state files, cryptohome volumes and daemons so login-related tests can pass.

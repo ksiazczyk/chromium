@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows process lineage holder
+// summary: Holds the PID and command line of a Windows process and its running ancestors for test diagnostics.
+// ---
+
 #ifndef CHROME_TEST_BASE_PROCESS_LINEAGE_WIN_H_
 #define CHROME_TEST_BASE_PROCESS_LINEAGE_WIN_H_
 

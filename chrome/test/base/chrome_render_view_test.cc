@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderViewTest implementation
+// summary: Implements the ChromeRenderViewTest fixture that emulates a single RenderView with Chrome clients plus test autofill, spellcheck and record-replay agents.
+// ---
+
 #include "chrome/test/base/chrome_render_view_test.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test account loader implementation
+// summary: Loads Gaia and family test account credentials from the internal test accounts JSON file for use in Crosier tests.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/test_accounts.h"
 
 #include <memory>

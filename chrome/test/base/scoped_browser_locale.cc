@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped browser locale test helper
+// summary: RAII helper that temporarily overrides the application locale for a test and restores the previous locale on destruction.
+// ---
+
 #include "chrome/test/base/scoped_browser_locale.h"
 
 #include "chrome/browser/browser_process.h"

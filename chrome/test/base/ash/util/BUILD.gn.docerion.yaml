@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ash test support library
+summary: GN build file that defines the testonly static_library test_support containing ash_test_util sources and its Chromium dependencies.

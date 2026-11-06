@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EsimNameObserver implementation
+// summary: Implements a Kombucha state observer that tracks eSIM network display name changes via the Hermes profile client for use in tests.
+// ---
+
 #include "chrome/test/base/ash/interactive/cellular/esim_name_observer.h"
 
 #include "base/logging.h"

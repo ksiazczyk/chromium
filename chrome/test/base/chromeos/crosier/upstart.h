@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upstart job control wrapper header
+// summary: Declares a wrapper around the initctl command for controlling and querying Upstart jobs in ChromeOS tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_UPSTART_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_UPSTART_H_
 

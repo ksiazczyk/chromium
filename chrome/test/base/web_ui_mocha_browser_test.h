@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mocha browser test base header
+// summary: Declares WebUIMochaBrowserTest, SubTestResult and helpers for running WebUI Mocha tests from browser tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_WEB_UI_MOCHA_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_WEB_UI_MOCHA_BROWSER_TEST_H_
 

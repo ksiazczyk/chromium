@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test mixin declarations
+// summary: Declares InProcessBrowserTestMixin and InProcessBrowserTestMixinHost for adding test lifecycle hooks to browser tests without subclassing the test base.
+// ---
+
 #ifndef CHROME_TEST_BASE_IN_PROCESS_BROWSER_TEST_MIXIN_H_
 #define CHROME_TEST_BASE_IN_PROCESS_BROWSER_TEST_MIXIN_H_
 

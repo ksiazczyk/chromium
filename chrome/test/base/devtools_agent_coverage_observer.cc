@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools agent coverage observer implementation
+// summary: Implements an observer that attaches to DevTools agent hosts and collects JavaScript code coverage during browser tests.
+// ---
+
 #include "chrome/test/base/devtools_agent_coverage_observer.h"
 
 #include <ostream>

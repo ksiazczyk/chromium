@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 unit test base implementation
+// summary: Implements the V8UnitTest base class that sets up a V8 context, locates and loads JavaScript libraries, and runs JavaScript test fixtures.
+// ---
+
 #include "chrome/test/base/ash/v8_unit_test.h"
 
 #include <string_view>

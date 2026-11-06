@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Bluetooth interactive UI tests
+summary: GN build config defining the interactive UI test target and the test support sources for ChromeOS Bluetooth tests.

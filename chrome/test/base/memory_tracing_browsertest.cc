@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory tracing browser tests
+// summary: Browser tests that begin tracing, trigger global memory dumps and verify memory-infra trace events while navigating and creating renderers.
+// ---
+
 #include "base/allocator/buildflags.h"
 #include "base/command_line.h"
 #include "base/location.h"

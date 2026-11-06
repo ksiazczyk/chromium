@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user login delegate header
+// summary: Declares a custom Gaia login delegate that logs in supervised user types such as Unicorn, Geller, and Griffin in Crosier tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_SUPERVISED_USER_LOGIN_DELEGATE_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_SUPERVISED_USER_LOGIN_DELEGATE_H_
 

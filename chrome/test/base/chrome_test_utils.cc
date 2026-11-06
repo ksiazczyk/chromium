@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-platform browser test utilities
+// summary: Implements chrome_test_utils helpers to get active WebContents, tabs, and profiles and to navigate URLs on Android and desktop.
+// ---
+
 #include "chrome/test/base/chrome_test_utils.h"
 
 #include "build/build_config.h"

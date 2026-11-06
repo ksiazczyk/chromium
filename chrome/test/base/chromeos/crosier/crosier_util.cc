@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crosier test info tagging utility
+// summary: Adds ownership metadata such as contacts, team email and buganizer IDs as tags to ChromeOS integration test results.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/crosier_util.h"
 
 #include "base/test/gtest_tags.h"

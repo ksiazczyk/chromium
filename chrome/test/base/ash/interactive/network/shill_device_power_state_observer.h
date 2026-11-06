@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill device power state observer header
+// summary: Declares ShillDevicePowerStateObserver, a Kombucha helper that observes the enabled state of a Shill device type.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_NETWORK_SHILL_DEVICE_POWER_STATE_OBSERVER_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_NETWORK_SHILL_DEVICE_POWER_STATE_OBSERVER_H_
 

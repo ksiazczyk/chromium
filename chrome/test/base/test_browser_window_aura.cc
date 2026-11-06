@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura test browser window implementation
+// summary: Implements Aura and Views based test browser windows plus helpers that create browsers using them.
+// ---
+
 #include "chrome/test/base/test_browser_window_aura.h"
 
 #include <memory>

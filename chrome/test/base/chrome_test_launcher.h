@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test launcher header
+// summary: Declares ChromeTestSuiteRunner, ChromeTestChromeMainDelegate, ChromeTestLauncherDelegate and LaunchChromeTests for launching Chrome tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROME_TEST_LAUNCHER_H_
 #define CHROME_TEST_BASE_CHROME_TEST_LAUNCHER_H_
 

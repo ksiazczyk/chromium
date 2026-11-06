@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotations for skipping Crosier tests by requirement
+// summary: Provides the TEST_IS_INFORMATIONAL and TEST_REQUIRES macros and a Requirement enum to skip tests that lack hardware or board support.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_ANNOTATIONS_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_ANNOTATIONS_H_
 

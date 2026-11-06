@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveAshTest base class implementation
+// summary: Implements the InteractiveAshTest base class with Kombucha helpers, JavaScript action snippets, and utilities for system web apps and Settings navigation.
+// ---
+
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"
 
 #include <optional>

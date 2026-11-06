@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows process inspector interface
+// summary: Interface for an inspector that reads properties such as parent PID and command line from a remote process.
+// ---
+
 #ifndef CHROME_TEST_BASE_PROCESS_INSPECTOR_WIN_H_
 #define CHROME_TEST_BASE_PROCESS_INSPECTOR_WIN_H_
 

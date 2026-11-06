@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth power state observer header
+// summary: Declares a Kombucha state observer that synchronously tracks the Bluetooth adapter power state in tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_BLUETOOTH_BLUETOOTH_POWER_STATE_OBSERVER_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_BLUETOOTH_BLUETOOTH_POWER_STATE_OBSERVER_H_
 

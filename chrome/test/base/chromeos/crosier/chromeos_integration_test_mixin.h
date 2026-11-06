@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS integration test mixin
+// summary: Declares ChromeOSIntegrationTestMixin, the base mixin for tests in chromeos_integration_tests running on hardware or in a VM.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_INTEGRATION_TEST_MIXIN_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_INTEGRATION_TEST_MIXIN_H_
 

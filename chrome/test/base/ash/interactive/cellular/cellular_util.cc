@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular test support utilities implementation
+// summary: Implements test helpers that configure fake eSIM profiles, eUICCs and cellular network policies for interactive UI tests.
+// ---
+
 #include "chrome/test/base/ash/interactive/cellular/cellular_util.h"
 
 #include "base/check.h"

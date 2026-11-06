@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for pairing a Bluetooth device
+// summary: Interactive UI test that pairs a Bluetooth device via Quick Settings and verifies the pairing code dialog flow.
+// ---
+
 #include <string>
 
 #include "ash/ash_element_identifiers.h"

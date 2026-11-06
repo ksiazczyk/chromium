@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Upstart test support helper
+// summary: Unit tests for the upstart helper, covering job status parsing, querying job status and existence, and waiting for job states on ChromeOS.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/upstart.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

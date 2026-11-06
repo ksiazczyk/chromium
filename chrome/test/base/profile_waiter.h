@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile waiter test helper
+// summary: Declares ProfileWaiter, a ProfileManagerObserver helper that synchronously waits for a new normal profile to be created in tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_PROFILE_WAITER_H_
 #define CHROME_TEST_BASE_PROFILE_WAITER_H_
 

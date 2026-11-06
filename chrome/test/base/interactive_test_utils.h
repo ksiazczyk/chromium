@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive test utilities for browser UI tests
+// summary: Declares helpers for interactive browser tests, including waiting for browser activation, focusing and clicking views, and sending synchronized key press events.
+// ---
+
 #ifndef CHROME_TEST_BASE_INTERACTIVE_TEST_UTILS_H_
 #define CHROME_TEST_BASE_INTERACTIVE_TEST_UTILS_H_
 

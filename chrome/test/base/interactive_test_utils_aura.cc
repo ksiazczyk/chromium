@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura implementation of interactive test window helpers
+// summary: Implements Aura variants of hiding, showing and focusing native windows used by interactive tests on non-Windows platforms.
+// ---
+
 #include "chrome/test/base/interactive_test_utils_aura.h"
 
 #include "build/build_config.h"

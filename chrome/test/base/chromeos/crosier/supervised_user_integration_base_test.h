@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user integration base test class header
+// summary: Declares an Ash integration test base class that sets up production Gaia login for supervised users on branded builds.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_SUPERVISED_USER_INTEGRATION_BASE_TEST_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_SUPERVISED_USER_INTEGRATION_BASE_TEST_H_
 

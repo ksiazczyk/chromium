@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EsimNameObserver header
+// summary: Declares a helper observer class that interactive tests use to watch eSIM carrier profile nickname changes over D-Bus.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_ESIM_NAME_OBSERVER_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_CELLULAR_ESIM_NAME_OBSERVER_H_
 

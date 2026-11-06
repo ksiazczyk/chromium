@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cellular test directory owners
+summary: Owners file that delegates directory ownership to the ChromeOS network components OWNERS file.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for chrome/test/base
+# summary: Extends the repository root Ruff lint configuration and sets a four-space indent width for Python files in this test directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

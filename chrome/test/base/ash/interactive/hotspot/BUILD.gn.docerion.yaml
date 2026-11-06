@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Hotspot interactive UI tests build configuration
+summary: GN build file defining the interactive UI test target and the test support sources for hotspot tests.

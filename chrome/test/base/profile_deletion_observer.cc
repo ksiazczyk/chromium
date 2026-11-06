@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile deletion observer implementation
+// summary: Test observer that runs a wait loop until a profile is removed from the profile attributes storage.
+// ---
+
 #include "chrome/test/base/profile_deletion_observer.h"
 
 #include "chrome/browser/browser_process.h"

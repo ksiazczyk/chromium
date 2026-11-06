@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for VPN interactive UI tests
+summary: Records the Buganizer component ID and owning team email for the VPN interactive UI test directory.

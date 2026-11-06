@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo WebUI browser test implementation
+// summary: Implements MojoWebUIBrowserTest, which binds a Mojo TestRunner interface to run JavaScript tests in WebUI pages.
+// ---
+
 #include "chrome/test/base/ash/mojo_web_ui_browser_test.h"
 
 #include <utility>

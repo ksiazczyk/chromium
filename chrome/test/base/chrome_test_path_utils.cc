@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test path utilities implementation
+// summary: Implements chrome_test_utils helpers that resolve and override the Chrome test data directory and build test file paths and URLs.
+// ---
+
 #include "chrome/test/base/chrome_test_path_utils.h"
 
 #include "base/path_service.h"

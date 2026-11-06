@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for Android UI test utilities
+// summary: Declares android_ui_test_utils helper functions for use with AndroidBrowserTest, including opening a URL in a new tab.
+// ---
+
 #ifndef CHROME_TEST_BASE_ANDROID_ANDROID_UI_TEST_UTILS_H_
 #define CHROME_TEST_BASE_ANDROID_ANDROID_UI_TEST_UTILS_H_
 

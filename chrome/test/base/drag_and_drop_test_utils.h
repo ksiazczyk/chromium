@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop test utilities header
+// summary: Declares DragAndDropSimulator and related helpers to simulate OS-level drag and drop events into WebContents during tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_DRAG_AND_DROP_TEST_UTILS_H_
 #define CHROME_TEST_BASE_DRAG_AND_DROP_TEST_UTILS_H_
 

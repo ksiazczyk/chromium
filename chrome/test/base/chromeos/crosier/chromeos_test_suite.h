@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test suite declaration
+// summary: Declares the ChromeOSTestSuite that creates services needed by Ash for on-device ChromeOS integration tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_TEST_SUITE_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_CHROMEOS_TEST_SUITE_H_
 

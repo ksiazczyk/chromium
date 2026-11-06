@@ -1,0 +1,4 @@
+# Docerion header of interactive_test_utils_mac.mm.
+type: test
+title: Mac implementation of interactive test window helpers
+summary: Implements macOS window hiding, activation and focus helpers for interactive tests, including detection and clearing of stuck keyboard modifiers.

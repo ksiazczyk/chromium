@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI test handler for Ash browser tests
+// summary: Declares the WebUITestHandler class that registers test framework handlers on WebUI objects and runs or preloads JavaScript in WebUI frames, waiting for and reporting test pass or fail results.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_WEB_UI_TEST_HANDLER_H_
 #define CHROME_TEST_BASE_ASH_WEB_UI_TEST_HANDLER_H_
 

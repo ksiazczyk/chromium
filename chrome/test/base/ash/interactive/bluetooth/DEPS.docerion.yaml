@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Bluetooth interactive tests
+summary: Include rules allowing dbus, device/bluetooth and specific Chrome dependencies for the Bluetooth interactive test directory.

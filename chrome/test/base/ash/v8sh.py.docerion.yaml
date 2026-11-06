@@ -1,0 +1,4 @@
+# Docerion header of v8sh.py.
+type: script
+title: V8 shell wrapper for js2gtest
+summary: Python wrapper that invokes the V8 shell for the js2gtest GN template, maintaining argument lists and generating inlinable C++ and JS test outputs.

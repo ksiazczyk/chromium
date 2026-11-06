@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile destruction waiter test helper
+// summary: Declares ProfileDestructionWaiter, a ProfileObserver-based helper that lets tests wait until a profile is destroyed.
+// ---
+
 #ifndef CHROME_TEST_BASE_PROFILE_DESTRUCTION_WAITER_H_
 #define CHROME_TEST_BASE_PROFILE_DESTRUCTION_WAITER_H_
 

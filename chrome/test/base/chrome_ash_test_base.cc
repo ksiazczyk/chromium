@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeAshTestBase implementation
+// summary: Implements an AshTestBase subclass for Chrome tests that verifies the Ash shell and TestingBrowserProcess share the same local state.
+// ---
+
 #include "chrome/test/base/chrome_ash_test_base.h"
 
 #include <memory>

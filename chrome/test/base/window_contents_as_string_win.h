@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the window contents as string helper
+// summary: Declares WindowContentsAsString, a helper returning a UI Automation based string representation of a window's contents, with an example of the output format.
+// ---
+
 #ifndef CHROME_TEST_BASE_WINDOW_CONTENTS_AS_STRING_WIN_H_
 #define CHROME_TEST_BASE_WINDOW_CONTENTS_AS_STRING_WIN_H_
 

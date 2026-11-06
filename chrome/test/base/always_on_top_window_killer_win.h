@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on-top window killer header
+// summary: Declares KillAlwaysOnTopWindows and the RunType enum used to clean up always-on-top windows before shards or after test timeouts on Windows.
+// ---
+
 #ifndef CHROME_TEST_BASE_ALWAYS_ON_TOP_WINDOW_KILLER_WIN_H_
 #define CHROME_TEST_BASE_ALWAYS_ON_TOP_WINDOW_KILLER_WIN_H_
 

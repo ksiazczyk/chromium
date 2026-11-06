@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic smoke test for the AshIntegrationTest framework
+// summary: Verifies the framework works by installing system apps, checking the active user profile, and opening browser windows.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/ash_integration_test.h"
 
 #include "url/gurl.h"

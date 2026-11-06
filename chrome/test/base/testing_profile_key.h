@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingProfileKey declaration
+// summary: Declares TestingProfileKey, a ProfileKey subclass designed for use with TestingProfile in tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_TESTING_PROFILE_KEY_H_
 #define CHROME_TEST_BASE_TESTING_PROFILE_KEY_H_
 

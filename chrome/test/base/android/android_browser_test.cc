@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the AndroidBrowserTest base class
+// summary: Implements the AndroidBrowserTest base class that sets up test servers, user data directories, and network connection tracking for Android browser tests.
+// ---
+
 #include "chrome/test/base/android/android_browser_test.h"
 
 #include <ranges>

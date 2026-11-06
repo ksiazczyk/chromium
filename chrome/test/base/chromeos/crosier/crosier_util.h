@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crosier test info utility header
+// summary: Declares AddTestInfo, which attaches test ownership and contact information during ChromeOS integration test setup.
+// ---
+
 #ifndef CHROME_TEST_BASE_CHROMEOS_CROSIER_CROSIER_UTIL_H_
 #define CHROME_TEST_BASE_CHROMEOS_CROSIER_CROSIER_UTIL_H_
 

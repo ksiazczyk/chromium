@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser closed waiter header
+// summary: Declares a browser collection observer test helper that waits for a specified browser to close, returning immediately if it is already closed.
+// ---
+
 #ifndef CHROME_TEST_BASE_BROWSER_CLOSED_WAITER_H_
 #define CHROME_TEST_BASE_BROWSER_CLOSED_WAITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supervised user login delegate implementation
+// summary: Implements custom Gaia login steps for supervised user accounts, entering child and parent credentials during Crosier tests.
+// ---
+
 #include "chrome/test/base/chromeos/crosier/supervised_user_login_delegate.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for interactive Ash tests
+summary: Specifies allowed include dependencies for the interactive Ash test directory, including exceptions to the ChromeOS rule against depending on //chrome.

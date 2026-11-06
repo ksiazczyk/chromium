@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the AndroidBrowserTest base class
+// summary: Declares the AndroidBrowserTest base class for browser tests on Android, with hooks for command line setup, user data directories, and keyed services.
+// ---
+
 #ifndef CHROME_TEST_BASE_ANDROID_ANDROID_BROWSER_TEST_H_
 #define CHROME_TEST_BASE_ANDROID_ANDROID_BROWSER_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for Bluetooth pairing dialog deep query test helpers
+// summary: Declares DeepQuery helper functions for locating Bluetooth pairing dialog elements in interactive WebUI tests.
+// ---
+
 #ifndef CHROME_TEST_BASE_ASH_INTERACTIVE_WEBUI_INTERACTIVE_UITEST_ELEMENTS_H_
 #define CHROME_TEST_BASE_ASH_INTERACTIVE_WEBUI_INTERACTIVE_UITEST_ELEMENTS_H_
 
