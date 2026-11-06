@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for attestation evidence conversion
+// summary: Declares ConvertToAttestationEvidence, which converts an oak AttestResponse proto into an optional AttestationEvidence.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PROTO_UTILS_ATTESTATION_EVIDENCE_UTILS_H_
 #define COMPONENTS_PRIVATE_AI_PROTO_UTILS_ATTESTATION_EVIDENCE_UTILS_H_
 

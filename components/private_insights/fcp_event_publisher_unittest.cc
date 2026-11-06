@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the FCP event publisher
+// summary: Unit tests verifying that the FCP event publisher emits the expected histograms and user actions for each event.
+// ---
+
 #include "components/private_insights/fcp_event_publisher.h"
 
 #include "base/test/metrics/histogram_tester.h"

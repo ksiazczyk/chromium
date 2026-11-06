@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OakCtVerifier implementation
+// summary: Implements OakCT hostname derivation from a TCA root and certificate chain verification through the network service's certificate verifier.
+// ---
+
 #include "components/private_ai/attestation/oak_ct_verifier.h"
 
 #include <string>

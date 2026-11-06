@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens store implementation
+// summary: Implements PrivateVerificationTokensStore, an asynchronous token store that caches tokens per issuer and persists them through a sequenced database task runner.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_store.h"
 
 #include <optional>

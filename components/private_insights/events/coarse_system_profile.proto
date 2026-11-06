@@ -5,6 +5,12 @@
 // Proto definition for the system profile attached to Private Insights
 // events. Shared by all event protos in this directory.
 
+// ---docerion
+// type: source
+// title: Coarse system profile proto for Private Insights events
+// summary: Defines the CoarseSystemProfile message with country, language, Chrome version, channel, and platform fields shared by all Private Insights event protos.
+// ---
+
 syntax = "proto3";
 
 package private_insights.events;

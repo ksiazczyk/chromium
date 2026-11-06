@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens parameters API
+// summary: Declares the parameters struct holding batch sizes, redeemer limits, request sizes and response limits for the token protocol.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_VERIFICATION_TOKENS_COMMON_PRIVATE_VERIFICATION_TOKENS_PARAMETERS_H_
 #define COMPONENTS_PRIVATE_VERIFICATION_TOKENS_COMMON_PRIVATE_VERIFICATION_TOKENS_PARAMETERS_H_
 

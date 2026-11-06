@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure channel implementation
+// summary: Implements SecureChannelImpl, managing attestation, handshake, request queueing, and encrypted request and response flow over a WebSocket transport.
+// ---
+
 #include "components/private_ai/secure_channel_impl.h"
 
 #include <memory>

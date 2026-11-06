@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenFetcherHelper class declaration
+// summary: Declares helpers for invoking BlindSignAuth off the main thread and converting quiche tokens into BlindSignedAuthToken entries.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_FETCHER_HELPER_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_FETCHER_HELPER_H_
 

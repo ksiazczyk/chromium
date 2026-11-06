@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Insights feature flags
+// summary: Defines the Private Insights feature and its parameters, including upload interval, FCP server URI, population name, retry delays and event limits.
+// ---
+
 #include "components/private_insights/private_insights_features.h"
 
 #include "base/time/time.h"

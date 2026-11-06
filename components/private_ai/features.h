@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Private AI feature flag declarations
+// summary: Declares the Private AI feature flags and extern feature parameters covering endpoints, token server paths, cache sizing, backoff and unused connection timeout.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_FEATURES_H_
 #define COMPONENTS_PRIVATE_AI_FEATURES_H_
 

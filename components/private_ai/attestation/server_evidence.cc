@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation evidence struct definitions
+// summary: Provides default and move constructors and destructors for the Endorsement, EndorsedEvidence and AttestationEvidence structs.
+// ---
+
 #include "components/private_ai/attestation/server_evidence.h"
 
 namespace private_ai {

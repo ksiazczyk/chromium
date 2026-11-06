@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for ConfigHttp request handling
+// summary: Unit tests verifying ConfigHttp request URLs, headers, response handling and error paths against a test URL loader factory.
+// ---
+
 #include "components/private_ai/phosphor/config_http.h"
 
 #include <map>

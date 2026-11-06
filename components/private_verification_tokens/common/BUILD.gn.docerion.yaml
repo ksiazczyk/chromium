@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Private verification tokens common BUILD.gn build targets
+summary: Defines GN source sets and dependencies for the private verification tokens component, including its public key, token, fetcher, database, store, parameters, metrics, issuer config, and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile count metrics logging
+// summary: Logs histograms for total, managed, signed-in, active, and unused profile counts with activity threshold suffixes.
+// ---
+
 #include "components/profile_metrics/counts.h"
 
 #include "base/metrics/histogram_functions.h"

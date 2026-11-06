@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for private AI content
+summary: Defines source_set targets for the private AI network and Oak Session content drivers plus their unit tests.

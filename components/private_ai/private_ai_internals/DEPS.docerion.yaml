@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for private_ai_internals
+summary: Defines include rules that allow the private_ai_internals component to include headers from optimization_guide core and proto as well as version_info.

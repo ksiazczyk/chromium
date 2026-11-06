@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureTokenManager unit tests
+// summary: Unit tests for FeatureTokenManager that use a mock TokenFetcher with expected GetAuthnTokens calls to exercise token fetching behavior.
+// ---
+
 #include "components/private_ai/phosphor/feature_token_manager.h"
 
 #include <deque>

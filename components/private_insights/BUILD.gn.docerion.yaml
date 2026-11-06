@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for private_insights
+summary: Defines GN build targets for the private_insights component, its FCP helper source sets and the unit test target.

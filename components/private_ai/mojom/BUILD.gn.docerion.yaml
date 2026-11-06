@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for private_ai mojom target
+summary: GN build file that defines the private_ai mojom target, listing oak_session.mojom as source and wiring up typemaps with traits files.

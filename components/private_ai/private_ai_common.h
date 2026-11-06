@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI common request and response types
+// summary: Defines common Request and Response type aliases as byte vectors for serialized protos.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PRIVATE_AI_COMMON_H_
 #define COMPONENTS_PRIVATE_AI_PRIVATE_AI_COMMON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Verification key utilities unit tests
+// summary: Unit tests for Tink signature parsing and verification key loading, covering valid, malformed, empty and invalid key data cases.
+// ---
+
 #include "components/private_ai/attestation/verification_key_utils.h"
 
 #include <cstdint>

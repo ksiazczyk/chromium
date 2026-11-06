@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport layer interface for PrivateAI sessions
+// summary: Defines the abstract Transport interface with its error kinds and response callback for raw connection and data transfer of Oak session requests and responses.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TRANSPORT_H_
 #define COMPONENTS_PRIVATE_AI_TRANSPORT_H_
 

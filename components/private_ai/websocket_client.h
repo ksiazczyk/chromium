@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket transport class declaration
+// summary: Declares the WebSocketClient class that implements the Transport interface and the streaming WebSocket delegate for PrivateAI encrypted sessions.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_WEBSOCKET_CLIENT_H_
 #define COMPONENTS_PRIVATE_AI_WEBSOCKET_CLIENT_H_
 

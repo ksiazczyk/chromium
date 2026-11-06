@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection proxy decorator header
+// summary: Declares ConnectionProxy, a Connection decorator that buffers requests until a proxied connection is established via a token and NetworkContext.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_PROXY_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_PROXY_H_
 

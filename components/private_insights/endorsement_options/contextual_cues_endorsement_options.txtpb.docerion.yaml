@@ -1,0 +1,4 @@
+# Docerion header of contextual_cues_endorsement_options.txtpb.
+type: data
+title: Endorsement options verifying keys and transparency log settings
+summary: Text protobuf data listing ECDSA verifying keys for KMS, access policy, and Rekor transparency log requirements used by private insights endorsement.

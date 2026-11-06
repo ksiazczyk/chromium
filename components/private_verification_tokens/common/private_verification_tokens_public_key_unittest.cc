@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens public key unit tests
+// summary: Unit tests for PrivateVerificationTokensPublicKey covering creation, accessors and the truncated key ID computed from the public key hash.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_public_key.h"
 
 #include <string>

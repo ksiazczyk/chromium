@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile state metrics API and enums
+// summary: Declares the UnconsentedPrimaryAccountType and StateSuffix enums plus logging functions for profile state metrics.
+// ---
+
 #ifndef COMPONENTS_PROFILE_METRICS_STATE_H_
 #define COMPONENTS_PROFILE_METRICS_STATE_H_
 

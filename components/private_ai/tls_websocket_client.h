@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS WebSocket client for Oak TLS sessions
+// summary: Declares TlsWebSocketClient, which wraps and unwraps raw TLS frames into TlsSessionRequest and TlsSessionResponse protobufs over a WebSocket for Oak TLS sessions.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TLS_WEBSOCKET_CLIENT_H_
 #define COMPONENTS_PRIVATE_AI_TLS_WEBSOCKET_CLIENT_H_
 

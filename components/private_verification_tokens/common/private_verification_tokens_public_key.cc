@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens public key implementation
+// summary: Implements the public key class, computing SHA-256 key IDs from serialized issuer public keys and exposing key metadata.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_public_key.h"
 
 #include <utility>

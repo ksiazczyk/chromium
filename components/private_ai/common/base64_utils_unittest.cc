@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Base64 to Base64Url conversion
+// summary: Tests ConvertBase64toBase64Url with empty, valid, padded, and invalid Base64 inputs under different padding policies.
+// ---
+
 #include "components/private_ai/common/base64_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

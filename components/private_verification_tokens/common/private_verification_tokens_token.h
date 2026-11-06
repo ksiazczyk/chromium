@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens token class
+// summary: Defines the PrivateVerificationTokensToken type holding an issuer origin, serialized token bytes, key ID, expiration, version and creation time.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_VERIFICATION_TOKENS_COMMON_PRIVATE_VERIFICATION_TOKENS_TOKEN_H_
 #define COMPONENTS_PRIVATE_VERIFICATION_TOKENS_COMMON_PRIVATE_VERIFICATION_TOKENS_TOKEN_H_
 

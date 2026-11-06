@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for private_ai common
+summary: Defines GN source sets for the private_ai common utilities and their unit tests, with dependencies on base and testing libraries.

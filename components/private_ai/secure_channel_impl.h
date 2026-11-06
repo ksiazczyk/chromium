@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure channel implementation header
+// summary: Declares SecureChannelImpl and its factory, including session establishment states and callbacks for encrypted request handling.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_SECURE_CHANNEL_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_SECURE_CHANNEL_IMPL_H_
 

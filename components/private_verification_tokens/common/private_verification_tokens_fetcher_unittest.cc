@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens fetcher unit tests
+// summary: Unit tests for the token fetcher using a test URL loader factory to verify request headers, credentials mode, timeouts, and response handling.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_fetcher.h"
 
 #include <memory>

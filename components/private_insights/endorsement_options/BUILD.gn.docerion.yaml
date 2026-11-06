@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for endorsement options proto conversion
+summary: GN build file that converts the contextual cues endorsement options textproto into a binary proto using the access policy endorsement options schema.

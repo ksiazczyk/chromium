@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Insights service implementation
+// summary: Implements the PrivateInsightsService that schedules periodic uploads, runs federated computations via FCP and records outcome and timing histograms.
+// ---
+
 #include "components/private_insights/private_insights_service.h"
 
 #include <string>

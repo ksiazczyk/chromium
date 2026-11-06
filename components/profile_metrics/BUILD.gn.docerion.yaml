@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Profile metrics GN build definition
+summary: Defines the profile_metrics static library, its unit test target, and Android Java enum generation from browser_profile_type.h.

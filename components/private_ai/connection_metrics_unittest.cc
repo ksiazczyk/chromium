@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection metrics unit tests
+// summary: Verifies with HistogramTester that ConnectionMetrics records request size, feature name, latency, response size, and status code histograms.
+// ---
+
 #include "components/private_ai/connection_metrics.h"
 
 #include <memory>

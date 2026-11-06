@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket transport implementation for Oak sessions
+// summary: Implements the Transport interface over WebSocket, serializing SessionRequest protos, parsing SessionResponse messages, and recording connection metrics with a traffic annotation.
+// ---
+
 #include "components/private_ai/websocket_client.h"
 
 #include <optional>

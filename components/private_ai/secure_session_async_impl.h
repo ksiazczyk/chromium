@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureSessionAsyncImpl header
+// summary: Declares SecureSessionAsyncImpl, a SecureSession implementation that performs handshake, encryption and decryption asynchronously through a Mojo OakSession service.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_SECURE_SESSION_ASYNC_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_SECURE_SESSION_ASYNC_IMPL_H_
 

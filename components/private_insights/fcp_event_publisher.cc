@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCP event publisher implementation
+// summary: Implements the federated compute event publisher that records PrivateInsights.FcpEvent user actions and histograms.
+// ---
+
 #include "components/private_insights/fcp_event_publisher.h"
 
 #include "base/logging.h"

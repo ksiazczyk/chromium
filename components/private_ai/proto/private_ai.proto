@@ -5,6 +5,12 @@
 // This file contains a subset of the messages defined in go/zmdhe.
 // Add additional messages as needed.
 
+// ---docerion
+// type: source
+// title: Private AI request and response protobuf messages
+// summary: Defines protobuf messages for Private AI requests and responses, including content generation, anonymous token, and PAIC execute messages with feature name enums.
+// ---
+
 edition = "2023";
 
 option optimize_for = LITE_RUNTIME;

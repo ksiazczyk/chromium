@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureSessionImpl header
+// summary: Declares SecureSessionImpl, which runs a Noise handshake and provides encryption and decryption for a secure session.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CRYPTO_SECURE_SESSION_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_CRYPTO_SECURE_SESSION_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockBlindSignAuth class declaration
+// summary: Declares a mock of the quiche BlindSignAuth interface that returns configurable tokens or status so tests can stub token fetching.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_MOCK_BLIND_SIGN_AUTH_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_MOCK_BLIND_SIGN_AUTH_H_
 

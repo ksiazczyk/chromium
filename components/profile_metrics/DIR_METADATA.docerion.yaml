@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for profile metrics
+summary: Points the directory to the shared Chrome browser profiles metadata mixins for ownership and issue routing.

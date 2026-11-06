@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OakCtVerifier unit tests
+// summary: Tests OakCT verification outcomes using a fake NetworkContext that returns canned certificate verification results.
+// ---
+
 #include "components/private_ai/attestation/oak_ct_verifier.h"
 
 #include <optional>

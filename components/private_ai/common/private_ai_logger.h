@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI logger interface
+// summary: Declares PrivateAiLogger with an observer interface for info and error log notifications and observer list management.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_COMMON_PRIVATE_AI_LOGGER_H_
 #define COMPONENTS_PRIVATE_AI_COMMON_PRIVATE_AI_LOGGER_H_
 

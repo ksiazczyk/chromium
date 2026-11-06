@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for private_insights
+summary: Declares the owning team email and Buganizer component for the private_insights directory.

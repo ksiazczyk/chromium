@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection manager unit tests
+// summary: Unit tests for ConnectionManager covering connection creation, reuse of existing connections, recreation after disconnect, and asynchronous destruction.
+// ---
+
 #include "components/private_ai/connection_manager.h"
 
 #include <memory>

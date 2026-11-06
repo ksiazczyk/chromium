@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenFetcherImpl unit tests
+// summary: Unit tests for the token fetcher implementation, covering blind-signed auth token conversion, OAuth token provisioning, and backoff jitter behavior.
+// ---
+
 #include "components/private_ai/phosphor/token_fetcher_impl.h"
 
 #include <memory>

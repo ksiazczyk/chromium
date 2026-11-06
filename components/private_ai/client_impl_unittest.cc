@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientImpl unit tests
+// summary: Unit tests for the PrivateAI ClientImpl, exercising request flows through a fake connection factory and fake connection, including successful text request handling.
+// ---
+
 #include "components/private_ai/client_impl.h"
 
 #include <memory>

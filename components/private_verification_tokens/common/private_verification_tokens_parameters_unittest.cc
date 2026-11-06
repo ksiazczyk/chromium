@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parameters unit tests
+// summary: Unit tests verifying parameter values for version 1, rejection of unknown versions and the ATHM token type constant.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_parameters.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

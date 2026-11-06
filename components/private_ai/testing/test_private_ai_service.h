@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrivateAiService test helper header
+// summary: Declares a PrivateAiService subclass for tests that manages the mock BlindSignAuth client and cleans up on shutdown.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_TEST_PRIVATE_AI_SERVICE_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_TEST_PRIVATE_AI_SERVICE_H_
 

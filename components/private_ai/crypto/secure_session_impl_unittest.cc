@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureSessionImpl unit tests
+// summary: End-to-end tests for the Noise handshake and bidirectional encryption and decryption, including invalid handshake and pre-handshake failure cases.
+// ---
+
 #include "components/private_ai/crypto/secure_session_impl.h"
 
 #include "components/private_ai/crypto/constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64 to Base64Url conversion header
+// summary: Declares ConvertBase64toBase64Url for converting a standard Base64 string to Base64Url with a chosen padding policy.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_COMMON_BASE64_UTILS_H_
 #define COMPONENTS_PRIVATE_AI_COMMON_BASE64_UTILS_H_
 

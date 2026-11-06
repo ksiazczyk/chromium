@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FCP utility unit tests
+// summary: Tests HTTP method mapping, net error to FCP status conversion, request header filtering and extraction, and CountdownLatch synchronization behavior.
+// ---
+
 #include "components/private_insights/fcp_utils.h"
 
 #include <atomic>

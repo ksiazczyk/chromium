@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Private AI internals WebUI build configuration
+summary: GN build rules that assemble the Private AI internals WebUI from static CSS/HTML files, TypeScript sources, and generated Mojo bindings.

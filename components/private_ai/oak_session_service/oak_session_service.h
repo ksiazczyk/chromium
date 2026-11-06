@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OakSessionService class declaration
+// summary: Declares the OakSessionService class that implements mojom::OakSession for a sandboxed process, with handshake state tracking and a Mojo receiver.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_OAK_SESSION_SERVICE_OAK_SESSION_SERVICE_H_
 #define COMPONENTS_PRIVATE_AI_OAK_SESSION_SERVICE_OAK_SESSION_SERVICE_H_
 

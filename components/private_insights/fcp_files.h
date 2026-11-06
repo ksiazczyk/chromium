@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpFiles header for the FCP client Files interface
+// summary: Declares FcpFiles, the Private Insights implementation of the federated compute client Files interface for temporary file creation.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_FILES_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_FILES_H_
 

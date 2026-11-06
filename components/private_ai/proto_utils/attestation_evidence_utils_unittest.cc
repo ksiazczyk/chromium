@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for attestation evidence conversion
+// summary: gtest suite covering successful endorsement conversion, non-matching events, missing endorsements, and empty responses.
+// ---
+
 #include "components/private_ai/proto_utils/attestation_evidence_utils.h"
 
 #include <optional>

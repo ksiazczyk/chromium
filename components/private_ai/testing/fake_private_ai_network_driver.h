@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePrivateAiNetworkDriver test double header
+// summary: Declares a PrivateAiNetworkDriver fake with a settable IsProxyConfigured value for use in Private AI unit tests.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_TESTING_FAKE_PRIVATE_AI_NETWORK_DRIVER_H_
 #define COMPONENTS_PRIVATE_AI_TESTING_FAKE_PRIVATE_AI_NETWORK_DRIVER_H_
 

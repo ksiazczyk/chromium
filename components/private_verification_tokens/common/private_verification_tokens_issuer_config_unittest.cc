@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Issuer config unit tests
+// summary: Unit tests covering validation of issuer config fields including version, expiration, decoded public keys, batch size and redeemers.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_issuer_config.h"
 
 #include <cstdint>

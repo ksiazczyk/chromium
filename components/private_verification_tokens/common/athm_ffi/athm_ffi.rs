@@ -28,6 +28,12 @@
 //! TODO: These entry points decode untrusted serialized input and are prime
 //! fuzz targets; add cargo-fuzz/libfuzzer coverage for them in a follow-up.
 
+// ---docerion
+// type: source
+// title: ATHM FFI crate root exposing Privacy Pass operations to C++
+// summary: Crate root bridging the Anonymous Tokens with Hidden Metadata crate to C++ via Crubit, re-exporting client, issuer, and framing modules built on BoringSSL primitives.
+// ---
+
 pub mod privacy_pass_client;
 pub mod privacy_pass_common;
 pub mod privacy_pass_issuer;

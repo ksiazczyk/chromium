@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI client implementation header
+// summary: Declares ClientImpl, which sends requests through a connection manager and reports results to callers via callbacks.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CLIENT_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_CLIENT_IMPL_H_
 

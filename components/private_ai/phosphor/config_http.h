@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigHttp interface implementing quiche BlindSignMessageInterface
+// summary: Declares ConfigHttp, the BlindSignMessageInterface implementation that fetches blind sign auth messages over HTTP for the BSA library.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_CONFIG_HTTP_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_CONFIG_HTTP_H_
 

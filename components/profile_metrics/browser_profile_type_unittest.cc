@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser profile type unit tests
+// summary: Verifies that every BrowserProfileType value can be assigned to and retrieved from a fake browser context.
+// ---
+
 #include "components/profile_metrics/browser_profile_type.h"
 #include "base/supports_user_data.h"
 #include "testing/gtest/include/gtest/gtest.h"

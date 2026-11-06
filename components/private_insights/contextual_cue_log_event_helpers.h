@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cue log event helpers header
+// summary: Declares platform-independent helpers for building ContextualCueLogEvent protos, including JSON serialization of page info.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_CONTEXTUAL_CUE_LOG_EVENT_HELPERS_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_CONTEXTUAL_CUE_LOG_EVENT_HELPERS_H_
 

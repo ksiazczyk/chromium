@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens issuer config implementation
+// summary: Implements parsing and validation of issuer configuration dictionaries, including version, public keys, batch size, expiration and redeemer checks.
+// ---
+
 #include "components/private_verification_tokens/common/private_verification_tokens_issuer_config.h"
 
 #include <cstdint>

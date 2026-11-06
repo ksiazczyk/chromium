@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Private Insights event protos
+summary: Defines proto_library GN targets for the coarse system profile, contextual cue, and storage access event protos, wiring their dependencies.

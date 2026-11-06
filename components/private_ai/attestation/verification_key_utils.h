@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verification key utilities interface
+// summary: Declares the VerificationKey struct and helpers to load verification keys from processed key data and parse Tink signatures.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_ATTESTATION_VERIFICATION_KEY_UTILS_H_
 #define COMPONENTS_PRIVATE_AI_ATTESTATION_VERIFICATION_KEY_UTILS_H_
 

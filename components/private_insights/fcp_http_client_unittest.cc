@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the FCP HTTP client
+// summary: Tests the FCP HTTP client request flow, including off-UI-sequence request performance and histogram metrics, using a test URL loader factory.
+// ---
+
 #include "components/private_insights/fcp_http_client.h"
 
 #include <atomic>

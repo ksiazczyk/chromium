@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for private_verification_tokens unit tests
+summary: GN build file defining unit test targets and a standalone test binary for the private_verification_tokens component, including optional Rust-backed tests.

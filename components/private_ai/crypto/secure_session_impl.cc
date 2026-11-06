@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the secure session handshake and encryption
+// summary: Implements the client-side Noise NN handshake over P-256 ECDH and delegates post-handshake encryption and decryption to the Crypter.
+// ---
+
 #include "components/private_ai/crypto/secure_session_impl.h"
 
 #include <stdint.h>

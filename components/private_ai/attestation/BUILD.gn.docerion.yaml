@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the attestation component
+summary: Defines the attestation source set and its unit test target, listing sources and dependencies for the private AI attestation code.

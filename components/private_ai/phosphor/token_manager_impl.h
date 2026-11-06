@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenManagerImpl class declaration
+// summary: Declares TokenManagerImpl, which populates terminal and proxy token caches from a provided TokenFetcher with configurable batch size and low water mark.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_MANAGER_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_TOKEN_MANAGER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionFactoryImpl implementation
+// summary: Implements the connection factory, assembling a connection stack with secure channel, token attestation, proxy, and timeout layers plus establishment latency metrics.
+// ---
+
 #include "components/private_ai/connection_factory_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test server secure session header
+// summary: Declares TestServerSecureSession, a helper that mirrors SecureSessionImpl for the responder role in Noise handshake end-to-end tests.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CRYPTO_TEST_SERVER_SECURE_SESSION_H_
 #define COMPONENTS_PRIVATE_AI_CRYPTO_TEST_SERVER_SECURE_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionManager implementation
+// summary: Implements per-feature connection management, creating connections on demand and handling disconnects with a two-step pending-destruction process.
+// ---
+
 #include "components/private_ai/connection_manager.h"
 
 #include <memory>

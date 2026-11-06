@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure session interface
+// summary: Declares the SecureSession interface for cryptographic handshake, encryption, and decryption operations with asynchronous callbacks.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_SECURE_SESSION_H_
 #define COMPONENTS_PRIVATE_AI_SECURE_SESSION_H_
 

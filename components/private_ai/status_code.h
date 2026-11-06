@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI status code enum
+// summary: Defines the StatusCode enum of PrivateAI client operation outcomes, with stable values persisted to logs and mirrored in the histograms enums.xml.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_STATUS_CODE_H_
 #define COMPONENTS_PRIVATE_AI_STATUS_CODE_H_
 

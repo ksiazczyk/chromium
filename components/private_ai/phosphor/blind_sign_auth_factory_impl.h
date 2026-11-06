@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlindSignAuthFactoryImpl class declaration
+// summary: Declares BlindSignAuthFactoryImpl, the concrete BlindSignAuthFactory that creates blind sign auth instances.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_BLIND_SIGN_AUTH_FACTORY_IMPL_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_BLIND_SIGN_AUTH_FACTORY_IMPL_H_
 

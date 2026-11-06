@@ -1,0 +1,4 @@
+# Docerion header of private_ai_internals.mojom.
+type: source
+title: Mojo interfaces for the private AI internals page
+summary: Defines Mojo interfaces and types for the private AI internals page, covering connect, close, and send request calls plus log message updates from the browser.

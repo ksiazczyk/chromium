@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI client implementation
+// summary: Implements ClientImpl request building and response handling for text, GenerateContent, and PAIC messages via the connection manager.
+// ---
+
 #include "components/private_ai/client_impl.h"
 
 #include <memory>

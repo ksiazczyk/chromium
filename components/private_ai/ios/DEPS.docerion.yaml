@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Private AI iOS include rules
+summary: DEPS file allowing the Private AI iOS component to include headers from ios/web/public.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCP utility helpers header
+// summary: Declares FCP HTTP conversion helpers and the CountdownLatch that bridges FCP's synchronous request contract with Chromium's asynchronous network stack.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_UTILS_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_UTILS_H_
 

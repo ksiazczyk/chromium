@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private AI network driver content unit tests
+// summary: Unit tests verifying cert verifier params, network context creation, and proxy configuration behavior of the content network driver.
+// ---
+
 #include "components/private_ai/content/private_ai_network_driver_content.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection token attestation implementation
+// summary: Implements the ConnectionTokenAttestation decorator that fetches a blind-signed auth token and sends the client attestation request before other Private AI requests.
+// ---
+
 #include "components/private_ai/connection_token_attestation.h"
 
 #include <algorithm>

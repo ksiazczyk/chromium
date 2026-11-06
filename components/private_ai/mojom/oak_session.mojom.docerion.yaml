@@ -1,0 +1,4 @@
+# Docerion header of oak_session.mojom.
+type: source
+title: OakSession Mojom interface definition
+summary: Defines the HandshakeMessage struct and the OakSession interface for initiating and completing a handshake and then encrypting or decrypting data exchanged with a server.

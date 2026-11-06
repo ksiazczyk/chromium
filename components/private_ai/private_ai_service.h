@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI service header
+// summary: Declares PrivateAiService, a KeyedService that manages OAuth2 and phosphor authentication tokens for PrivateAI and observes the user's sign-in state.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PRIVATE_AI_SERVICE_H_
 #define COMPONENTS_PRIVATE_AI_PRIVATE_AI_SERVICE_H_
 

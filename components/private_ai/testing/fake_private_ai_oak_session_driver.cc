@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePrivateAiOakSessionDriver implementation
+// summary: Implements a fake Oak session driver that hands back a preconfigured mojo remote for the OakSession service.
+// ---
+
 #include "components/private_ai/testing/fake_private_ai_oak_session_driver.h"
 
 namespace private_ai {

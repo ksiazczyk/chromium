@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Crypter post-handshake encryption
+// summary: Implements AES-256-GCM encryption and decryption with sequence-number nonces and padding of messages to a 32-byte granularity.
+// ---
+
 #include "components/private_ai/crypto/crypter.h"
 
 #include <algorithm>

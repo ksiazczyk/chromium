@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Pass ATHM batch request header
+// summary: Declares PrivacyPassAthmBatchRequest, a single-use class that builds batched ATHM token request bodies and unblinds server responses into Privacy Pass tokens.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_VERIFICATION_TOKENS_COMMON_PRIVACY_PASS_ATHM_BATCH_REQUEST_H_
 #define COMPONENTS_PRIVATE_VERIFICATION_TOKENS_COMMON_PRIVACY_PASS_ATHM_BATCH_REQUEST_H_
 

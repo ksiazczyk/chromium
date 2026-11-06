@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Pass ATHM batch request implementation
+// summary: Implements creation and finalization of batched Privacy Pass token requests using Anonymous Tokens with Hidden Metadata through the Rust ATHM FFI.
+// ---
+
 #include "components/private_verification_tokens/common/privacy_pass_athm_batch_request.h"
 
 #include <utility>

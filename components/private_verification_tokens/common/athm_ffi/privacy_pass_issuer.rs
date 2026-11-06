@@ -4,6 +4,12 @@
 
 //! Issuer-side operations for Privacy Pass ATHM.
 
+// ---docerion
+// type: source
+// title: Issuer-side Privacy Pass ATHM operations
+// summary: Implements the Privacy Pass ATHM issuer with key generation, public key encoding, and single and batch token issuance from parsed request batches.
+// ---
+
 use athm::{
     Encodable, Params, PrivateKey, PublicKey, PublicKeyProof, Token, TokenRequest, TokenResponse,
 };

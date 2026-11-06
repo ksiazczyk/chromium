@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI internals browser proxy
+// summary: Defines the browser proxy interface and singleton implementation that forwards connect, close, and request calls to the Mojo handler.
+// ---
+
 import type {PrivateAiInternalsPageHandlerRemote, PrivateAiResponseMojoType} from './private_ai_internals.mojom-webui.js';
 import {PrivateAiInternalsPageCallbackRouter, PrivateAiInternalsPageHandler} from './private_ai_internals.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection timeout decorator header
+// summary: Declares ConnectionTimeout, a Connection decorator that invokes request callbacks with kTimeout if responses are not received in time.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_TIMEOUT_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_TIMEOUT_H_
 

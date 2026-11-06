@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for quiche integration
+summary: Grants the mock blind sign auth implementation access to the abseil span header required for quiche integration.

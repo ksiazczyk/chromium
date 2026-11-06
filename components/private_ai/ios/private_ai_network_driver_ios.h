@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AI network driver iOS header
+// summary: Declares PrivateAiNetworkDriverIOS, the iOS implementation of the Private AI network driver interface.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_IOS_PRIVATE_AI_NETWORK_DRIVER_IOS_H_
 #define COMPONENTS_PRIVATE_AI_IOS_PRIVATE_AI_NETWORK_DRIVER_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FcpFiles temporary file creation
+// summary: Verifies that FcpFiles creates temporary files that exist on disk and that they are cleaned up afterwards.
+// ---
+
 #include "components/private_insights/fcp_files.h"
 
 #include "base/files/file_util.h"

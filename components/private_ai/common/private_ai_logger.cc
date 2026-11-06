@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAI logger implementation
+// summary: Implements PrivateAiLogger info and error logging that writes via base logging and notifies registered observers.
+// ---
+
 #include "components/private_ai/common/private_ai_logger.h"
 
 #include <string_view>

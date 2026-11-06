@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockBlindSignAuth implementation
+// summary: Implements the mock BlindSignAuth that records GetTokens calls and returns configured tokens or an error status for tests.
+// ---
+
 #include "components/private_ai/phosphor/mock_blind_sign_auth.h"
 
 #include <memory>

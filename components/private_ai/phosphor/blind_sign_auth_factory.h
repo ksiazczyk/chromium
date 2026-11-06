@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlindSignAuthFactory interface for creating blind sign auth instances
+// summary: Declares the BlindSignAuthFactory interface for creating quiche BlindSignAuthInterface instances from a pending URL loader factory.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_BLIND_SIGN_AUTH_FACTORY_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_BLIND_SIGN_AUTH_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private insights service unit tests
+// summary: Unit tests for the private insights service, mocking federated computation runs and verifying upload triggering, outcome histograms, and feature-flagged behavior.
+// ---
+
 #include "components/private_insights/private_insights_service.h"
 
 #include <atomic>

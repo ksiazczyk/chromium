@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation evidence conversion from AttestResponse proto
+// summary: Implements ConvertToAttestationEvidence, parsing session binding public key endorsements out of an oak AttestResponse into AttestationEvidence.
+// ---
+
 #include "components/private_ai/proto_utils/attestation_evidence_utils.h"
 
 #include "base/containers/span.h"

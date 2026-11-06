@@ -1,0 +1,4 @@
+# Docerion header of private_ai_oak_session_driver_ios.mm.
+type: source
+title: Private AI Oak Session driver iOS implementation
+summary: Implements the iOS Oak Session driver, binding in-process Oak Session services and erasing them on disconnect.

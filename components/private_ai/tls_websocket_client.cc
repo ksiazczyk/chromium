@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsWebSocketClient implementation
+// summary: Implements TlsWebSocketClient, which sends and receives encrypted frames wrapped in TlsSession protos over a TLS 1.3 WebSocket connection to the PrivateAI service.
+// ---
+
 #include "components/private_ai/tls_websocket_client.h"
 
 #include <utility>

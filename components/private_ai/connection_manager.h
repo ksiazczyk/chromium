@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionManager header
+// summary: Declares ConnectionManager, which keeps one connection per feature name and safely destroys disconnected connections while propagating status codes.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CONNECTION_MANAGER_H_
 #define COMPONENTS_PRIVATE_AI_CONNECTION_MANAGER_H_
 

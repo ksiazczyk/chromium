@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for private AI content
+summary: Grants the directory access to content-layer browser, network service, and test headers via include rules.

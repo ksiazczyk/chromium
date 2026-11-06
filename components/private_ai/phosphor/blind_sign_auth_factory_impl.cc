@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlindSignAuthFactoryImpl creating quiche BlindSignAuth with Privacy Pass
+// summary: Implements the factory by constructing a quiche BlindSignAuth with Privacy Pass enabled and a ConfigHttp message handler.
+// ---
+
 #include "components/private_ai/phosphor/blind_sign_auth_factory_impl.h"
 
 #include <memory>

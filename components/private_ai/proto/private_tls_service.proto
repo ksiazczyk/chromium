@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TLS session protobuf messages
+// summary: Defines the TlsSessionRequest and TlsSessionResponse messages carrying raw frame bytes for the private AI TLS service.
+// ---
+
 edition = "2023";
 
 package private_ai.proto;

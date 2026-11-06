@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noise class interface for the Noise Protocol Framework
+// summary: Declares the Noise class supporting KNpsk0, NKpsk0, NK, and NN handshake patterns with symmetric-state operations and traffic key derivation.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_CRYPTO_NOISE_H_
 #define COMPONENTS_PRIVATE_AI_CRYPTO_NOISE_H_
 

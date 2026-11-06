@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTokenManager class declaration
+// summary: Declares a per-feature manager that caches blind-signed auth tokens, fetches refills via a TokenFetcher, and serves pending GetAuthToken callbacks.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_AI_PHOSPHOR_FEATURE_TOKEN_MANAGER_H_
 #define COMPONENTS_PRIVATE_AI_PHOSPHOR_FEATURE_TOKEN_MANAGER_H_
 

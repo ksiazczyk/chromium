@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProfileType enum and accessors
+// summary: Defines the log-persisted BrowserProfileType enum and declares functions to set and get a browser context's profile type.
+// ---
+
 #ifndef COMPONENTS_PROFILE_METRICS_BROWSER_PROFILE_TYPE_H_
 #define COMPONENTS_PROFILE_METRICS_BROWSER_PROFILE_TYPE_H_
 

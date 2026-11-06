@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenManagerImpl implementation
+// summary: Implements TokenManager by delegating terminal and proxy layer token caching to FeatureTokenManager instances backed by a TokenFetcher.
+// ---
+
 #include "components/private_ai/phosphor/token_manager_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBlindSignAuthFactory implementation
+// summary: Implements the test factory that creates a phosphor MockBlindSignAuth and keeps a pointer to it for tests.
+// ---
+
 #include "components/private_ai/testing/test_blind_sign_auth_factory.h"
 
 #include "net/third_party/quiche/src/quiche/blind_sign_auth/blind_sign_auth_interface.h"

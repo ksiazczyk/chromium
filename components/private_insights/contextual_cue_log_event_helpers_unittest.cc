@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for contextual cue log event helpers
+// summary: Unit tests covering JSON serialization and proto population helpers for contextual cue log events.
+// ---
+
 #include "components/private_insights/contextual_cue_log_event_helpers.h"
 
 #include <vector>

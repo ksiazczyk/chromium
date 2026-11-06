@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Google RPC code parsing
+// summary: Tests ParseGoogleRpcCode across valid codes, missing prefixes, invalid codes, empty input, and UTF-8 strings, expecting UNKNOWN for unparseable reasons.
+// ---
+
 #include "components/private_ai/proto_utils/google_rpc_code.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

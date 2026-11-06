@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpSimpleTaskEnvironment header
+// summary: Declares the FcpSimpleTaskEnvironment class that adapts base and cache directories, example results and HTTP request management to the FCP client task environment interface.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_SIMPLE_TASK_ENVIRONMENT_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_SIMPLE_TASK_ENVIRONMENT_H_
 

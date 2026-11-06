@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the HandshakeMessage struct
+// summary: Provides constructors, destructor, and move operations for the handshake message holding an ephemeral public key and ciphertext.
+// ---
+
 #include "components/private_ai/crypto/handshake_message.h"
 
 #include <stdint.h>

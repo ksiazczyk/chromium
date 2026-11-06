@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for profile metrics
+summary: Delegates code review ownership of this directory to the Chrome browser profiles OWNERS file.

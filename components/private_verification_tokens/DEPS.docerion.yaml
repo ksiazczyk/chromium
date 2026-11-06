@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for private_verification_tokens
+summary: Defines the allowed include dependencies for the component, with extra rules for unit test files.

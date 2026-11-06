@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpFlags header for FCP client runtime flags
+// summary: Declares FcpFlags, the Private Insights implementation of the FCP client Flags interface exposing configurable runtime settings.
+// ---
+
 #ifndef COMPONENTS_PRIVATE_INSIGHTS_FCP_FLAGS_H_
 #define COMPONENTS_PRIVATE_INSIGHTS_FCP_FLAGS_H_
 

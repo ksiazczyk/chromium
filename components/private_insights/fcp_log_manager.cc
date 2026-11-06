@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcpLogManager implementation for FCP diagnostic logging
+// summary: Implements the FCP client LogManager by emitting diagnostic codes to verbose logs while leaving histogram and model identifier hooks empty.
+// ---
+
 #include "components/private_insights/fcp_log_manager.h"
 
 #include "base/logging.h"

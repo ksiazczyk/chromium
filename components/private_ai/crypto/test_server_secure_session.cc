@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test server secure session implementation
+// summary: Implements a simulated server side of the secure session, completing the Noise NN handshake and encrypting and decrypting for end-to-end tests.
+// ---
+
 #include "components/private_ai/crypto/test_server_secure_session.h"
 
 #include <array>

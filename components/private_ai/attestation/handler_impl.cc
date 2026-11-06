@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationHandlerImpl implementation
+// summary: Implements attestation request creation and verification of endorsement signatures against loaded server verification keys.
+// ---
+
 #include "components/private_ai/attestation/handler_impl.h"
 
 #include <algorithm>

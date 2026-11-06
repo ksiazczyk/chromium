@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verification key loading and Tink signature parsing
+// summary: Loads processed keys into crypto public key objects keyed by ID and parses Tink-formatted signatures to extract the key ID and raw signature.
+// ---
+
 #include "components/private_ai/attestation/verification_key_utils.h"
 
 #include <cstdint>
