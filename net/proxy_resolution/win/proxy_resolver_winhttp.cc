@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverWinHttp implementation
+// summary: Implements a PAC proxy resolver on Windows using WinHTTP's WinHttpGetProxyForUrl, mapping WinHTTP errors to net error codes and rewriting WebSocket URLs for the system resolver.
+// ---
+
 #include "net/proxy_resolution/win/proxy_resolver_winhttp.h"
 
 #include <windows.h>

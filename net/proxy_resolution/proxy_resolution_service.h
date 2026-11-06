@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolutionService interface
+// summary: Declares the generic ProxyResolutionService interface that decides which proxy servers to use for URL requests, including resolution, success reporting and shutdown.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLUTION_SERVICE_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLUTION_SERVICE_H_
 

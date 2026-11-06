@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system proxy config service implementation
+// summary: Implements ProxyConfigServiceWin, which reads Internet Explorer proxy settings via WinHTTP and watches registry keys and network changes for updates.
+// ---
+
 #include "net/proxy_resolution/win/proxy_config_service_win.h"
 
 #include <windows.h>

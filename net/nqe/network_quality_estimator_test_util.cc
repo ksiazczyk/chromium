@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkQualityEstimator test helper implementation
+// summary: Implements TestNetworkQualityEstimator, a test double that runs requests against an embedded test server and simulates network changes for NQE tests.
+// ---
+
 #include "net/nqe/network_quality_estimator_test_util.h"
 
 #include "base/files/file_path.h"

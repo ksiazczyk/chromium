@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS proxy config service header
+// summary: Declares ProxyConfigServiceMac, a ProxyConfigService that watches macOS system settings and notifies observers of proxy configuration changes.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_MAC_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_MAC_H_
 

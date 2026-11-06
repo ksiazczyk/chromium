@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileNetLogObserver unit tests
+// summary: Unit tests covering FileNetLogObserver behavior, including bounded logging, event sizes, and parsing of written log files.
+// ---
+
 #include "net/log/file_net_log_observer.h"
 
 #include <string>

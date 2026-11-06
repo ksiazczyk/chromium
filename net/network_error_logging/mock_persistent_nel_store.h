@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock persistent NEL store header
+// summary: Declares MockPersistentNelStore, a PersistentNelStore test double that stashes commands in order and simulates loading pre-stored policies.
+// ---
+
 #ifndef NET_NETWORK_ERROR_LOGGING_MOCK_PERSISTENT_NEL_STORE_H_
 #define NET_NETWORK_ERROR_LOGGING_MOCK_PERSISTENT_NEL_STORE_H_
 

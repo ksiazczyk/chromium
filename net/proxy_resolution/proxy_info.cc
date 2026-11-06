@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyInfo implementation
+// summary: Implements the ProxyInfo class that holds proxy resolution results, with methods for direct connections, named proxies, PAC strings, fallback and retry handling.
+// ---
+
 #include "net/proxy_resolution/proxy_info.h"
 
 #include "net/proxy_resolution/proxy_retry_info.h"

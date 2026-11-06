@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android proxy config service header
+// summary: Declares ProxyConfigServiceAndroid, which watches Android system proxy settings via JNI and supports proxy override and bypass rules.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_ANDROID_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_ANDROID_H_
 

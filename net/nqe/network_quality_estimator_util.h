@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality estimator private host utilities declaration
+// summary: Declares IsRequestForPrivateHost and IsPrivateHostForTesting, which detect requests to private or reserved hosts unlikely to yield useful quality data.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_ESTIMATOR_UTIL_H_
 #define NET_NQE_NETWORK_QUALITY_ESTIMATOR_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux proxy config service implementation
+// summary: Implements ProxyConfigServiceLinux, which reads system proxy settings on Linux from environment variables, gconf, gsettings, or KDE kioslaverc files.
+// ---
+
 #include "net/proxy_resolution/proxy_config_service_linux.h"
 
 #include <errno.h>

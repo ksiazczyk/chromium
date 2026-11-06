@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configured proxy resolution request implementation
+// summary: Implements a single asynchronous proxy resolution request, including DNS-condition checks for proxy override rules and NetLog event logging.
+// ---
+
 #include "net/proxy_resolution/configured_proxy_resolution_request.h"
 
 #include <optional>

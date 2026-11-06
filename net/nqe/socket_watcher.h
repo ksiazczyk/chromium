@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket watcher class
+// summary: Declares a socket performance watcher that forwards RTT observations for network quality estimation.
+// ---
+
 #ifndef NET_NQE_SOCKET_WATCHER_H_
 #define NET_NQE_SOCKET_WATCHER_H_
 

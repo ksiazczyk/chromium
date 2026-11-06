@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolution request class
+// summary: Declares MacSystemProxyResolutionRequest, which manages a single asynchronous proxy resolution via macOS SystemConfiguration/CFNetwork APIs.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_MAC_MAC_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 #define NET_PROXY_RESOLUTION_MAC_MAC_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 

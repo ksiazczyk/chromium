@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkID struct
+// summary: Declares the NetworkID struct that uniquely identifies a network by connection type, name such as Wi-Fi SSID or MCC/MNC, and signal strength for quality estimation and caching.
+// ---
+
 #ifndef NET_NQE_NETWORK_ID_H_
 #define NET_NQE_NETWORK_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileNetLogObserver implementation
+// summary: Implements writing NetLog event streams to files, supporting bounded and unbounded logging in JSON and newline-delimited JSON formats.
+// ---
+
 #include "net/log/file_net_log_observer.h"
 
 #include <algorithm>

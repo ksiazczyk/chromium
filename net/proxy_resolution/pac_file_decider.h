@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PacFileDecider header
+// summary: Declares PacFileDecider, which decides which PAC script to use given the proxy configuration, trying WPAD DHCP, WPAD DNS, then a custom URL.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PAC_FILE_DECIDER_H_
 #define NET_PROXY_RESOLUTION_PAC_FILE_DECIDER_H_
 

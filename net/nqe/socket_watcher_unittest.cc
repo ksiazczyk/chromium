@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket watcher unit tests
+// summary: Unit tests verifying RTT notification throttling and callback behavior of the NQE socket watcher.
+// ---
+
 #include "net/nqe/socket_watcher.h"
 
 #include "base/functional/bind.h"

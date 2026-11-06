@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityEstimator class declaration
+// summary: Declares NetworkQualityEstimator, which estimates network quality from observed URLRequest traffic and notifies RTT, throughput and effective connection type observers.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_ESTIMATOR_H_
 #define NET_NQE_NETWORK_QUALITY_ESTIMATOR_H_
 

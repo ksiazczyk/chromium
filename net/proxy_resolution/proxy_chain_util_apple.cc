@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple proxy dictionary to proxy chain conversion
+// summary: Converts CoreFoundation proxy dictionaries into ProxyChain objects on Apple platforms, mapping CF proxy types to proxy server schemes and extracting host and port.
+// ---
+
 #include "net/proxy_resolution/proxy_chain_util_apple.h"
 
 #include <CFNetwork/CFProxySupport.h>

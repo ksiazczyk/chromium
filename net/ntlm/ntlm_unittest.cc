@@ -11,6 +11,12 @@
 //
 // [1] https://msdn.microsoft.com/en-us/library/cc236621.aspx
 
+// ---docerion
+// type: test
+// title: NTLM hashing unit tests
+// summary: Unit tests for the low-level NTLM cryptographic operations such as NTLM hash generation and 3DES key mapping, based on MS-NLMP Section 4.2 test data.
+// ---
+
 #include "net/ntlm/ntlm.h"
 
 #include <algorithm>

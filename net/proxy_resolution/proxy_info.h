@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyInfo class interface
+// summary: Declares ProxyInfo, which stores proxy information returned by proxy resolution, including direct and bypass flags, proxy chains, IP Protection state and fallback methods.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_INFO_H_
 #define NET_PROXY_RESOLUTION_PROXY_INFO_H_
 

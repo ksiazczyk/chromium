@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolver interface
+// summary: Declares the LinuxSystemProxyResolver interface for cross-process proxy resolution through the browser process via the XDG ProxyResolver portal, keeping D-Bus out of the sandboxed network service.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_LINUX_LINUX_SYSTEM_PROXY_RESOLVER_H_
 #define NET_PROXY_RESOLUTION_LINUX_LINUX_SYSTEM_PROXY_RESOLVER_H_
 

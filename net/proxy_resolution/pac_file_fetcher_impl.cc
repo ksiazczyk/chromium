@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PacFileFetcherImpl implementation
+// summary: Implements PAC script downloading through a URLRequestContext, enforcing size, timeout, MIME type, and charset handling rules.
+// ---
+
 #include "net/proxy_resolution/pac_file_fetcher_impl.h"
 
 #include <algorithm>

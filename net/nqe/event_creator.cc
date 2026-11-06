@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventCreator implementation
+// summary: Implements EventCreator, which adds NETWORK_QUALITY_CHANGED net log events when RTT, throughput, or effective connection type change meaningfully.
+// ---
+
 #include "net/nqe/event_creator.h"
 
 #include <stdlib.h>

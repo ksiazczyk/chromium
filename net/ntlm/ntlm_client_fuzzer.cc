@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTLM client fuzzer
+// summary: Fuzz target that feeds random strings and challenge messages into NtlmClient::GenerateAuthenticateMessage to explore error cases beyond accepted input limits.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

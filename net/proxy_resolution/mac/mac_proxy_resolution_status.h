@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac proxy resolution status enum
+// summary: Defines the MacProxyResolutionStatus enum of macOS proxy resolution outcomes used for logged metrics and kept in sync with the proxy resolver mojom.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_MAC_MAC_PROXY_RESOLUTION_STATUS_H_
 #define NET_PROXY_RESOLUTION_MAC_MAC_PROXY_RESOLUTION_STATUS_H_
 

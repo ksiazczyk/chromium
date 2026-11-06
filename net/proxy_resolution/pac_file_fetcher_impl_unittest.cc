@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PacFileFetcherImpl unit tests
+// summary: Unit tests for PacFileFetcherImpl using an embedded test server and local PAC test data to verify fetching behavior and constraints.
+// ---
+
 #include "net/proxy_resolution/pac_file_fetcher_impl.h"
 
 #include <optional>

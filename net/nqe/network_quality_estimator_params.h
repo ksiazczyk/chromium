@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityEstimatorParams class declaration
+// summary: Declares NetworkQualityEstimatorParams, which computes configuration values such as default observations, typical qualities and effective connection type thresholds.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_ESTIMATOR_PARAMS_H_
 #define NET_NQE_NETWORK_QUALITY_ESTIMATOR_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyInfo unit tests
+// summary: Unit tests covering ProxyInfo predicates such as is_direct_only, use versus override of proxy lists, IP Protection chains and proxy chain usage.
+// ---
+
 #include "net/proxy_resolution/proxy_info.h"
 
 #include "net/base/net_errors.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple proxy chain utility header
+// summary: Declares ProxyDictionaryToProxyChain, a utility that pulls a host and port pair from a CF dictionary and returns it as a ProxyChain, or an invalid chain on errors.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CHAIN_UTIL_APPLE_H_
 #define NET_PROXY_RESOLUTION_PROXY_CHAIN_UTIL_APPLE_H_
 

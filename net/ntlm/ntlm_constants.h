@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM protocol constants and types
+// summary: Defines NTLM message types, negotiate flags, security buffers, AV pair structures, and feature flags used throughout the NTLM implementation.
+// ---
+
 #ifndef NET_NTLM_NTLM_CONSTANTS_H_
 #define NET_NTLM_NTLM_CONSTANTS_H_
 

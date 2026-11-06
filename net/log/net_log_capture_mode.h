@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog capture mode definitions
+// summary: Defines the NetLogCaptureMode enum and helper functions that control which events are logged and how sensitive data such as credentials and socket bytes is redacted.
+// ---
+
 #ifndef NET_LOG_NET_LOG_CAPTURE_MODE_H_
 #define NET_LOG_NET_LOG_CAPTURE_MODE_H_
 

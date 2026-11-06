@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkQualityEstimator unit tests
+// summary: Extensive unit tests for NetworkQualityEstimator covering RTT and throughput observations, effective connection type computation, observers and histogram reporting.
+// ---
+
 
 #include "net/nqe/network_quality_estimator.h"
 

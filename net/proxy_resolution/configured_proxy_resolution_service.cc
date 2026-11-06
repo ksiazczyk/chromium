@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configured proxy resolution service implementation
+// summary: Implements the service that decides which proxy to use for URLs, handling PAC script fetching, polling policies, network changes, and queued pending requests.
+// ---
+
 #include "net/proxy_resolution/configured_proxy_resolution_service.h"
 
 #include <algorithm>

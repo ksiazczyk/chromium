@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM buffer writer implementation
+// summary: Implements bounds-checked sequential writes of little-endian values, security buffers, AvPairs and strings into NTLM message buffers.
+// ---
+
 #include "net/ntlm/ntlm_buffer_writer.h"
 
 #include <string.h>

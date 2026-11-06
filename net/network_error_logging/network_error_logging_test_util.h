@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network error logging test utility header
+// summary: Declares TestNetworkErrorLoggingService, a stub NEL service that records received headers and report details so unit tests can verify them.
+// ---
+
 #ifndef NET_NETWORK_ERROR_LOGGING_NETWORK_ERROR_LOGGING_TEST_UTIL_H_
 #define NET_NETWORK_ERROR_LOGGING_NETWORK_ERROR_LOGGING_TEST_UTIL_H_
 

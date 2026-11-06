@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy config header
+// summary: Defines ProxyConfig, which models user proxy settings across override rules, dynamic routing, automatic PAC, and manual per-scheme proxy categories.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_H_
 

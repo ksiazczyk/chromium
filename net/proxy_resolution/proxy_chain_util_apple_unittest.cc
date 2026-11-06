@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apple proxy chain utility unit test
+// summary: Unit test verifying that ProxyDictionaryToProxyChain returns an invalid ProxyChain when given a malformed proxy dictionary.
+// ---
+
 #include "net/proxy_resolution/proxy_chain_util_apple.h"
 
 #include <CFNetwork/CFProxySupport.h>

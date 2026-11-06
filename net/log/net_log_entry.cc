@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogEntry implementation
+// summary: Implements NetLogEntry serialization to a dictionary, cloning and parameter checks for events sent to NetLog observers.
+// ---
+
 #include "net/log/net_log_entry.h"
 
 #include <utility>

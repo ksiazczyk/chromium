@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PAC file fetcher header
+// summary: Declares MockPacFileFetcher, a test double for PacFileFetcher that defers fetch completion until NotifyFetchCompletion is called.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_MOCK_PAC_FILE_FETCHER_H_
 #define NET_PROXY_RESOLUTION_MOCK_PAC_FILE_FETCHER_H_
 

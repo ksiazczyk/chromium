@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogCaptureMode helper implementation
+// summary: Implements capture mode checks for sensitive data and socket bytes plus URL sanitization that redacts credentials for NetLog.
+// ---
+
 #include "net/log/net_log_capture_mode.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeightedObservation struct header
+// summary: Defines the internal WeightedObservation struct that pairs a network quality observation value with a time-decayed weight for NQE computations.
+// ---
+
 #ifndef NET_NQE_WEIGHTED_OBSERVATION_H_
 #define NET_NQE_WEIGHTED_OBSERVATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTT and throughput estimates observer interface
+// summary: Declares an observer interface notified when HTTP RTT, transport RTT, or downstream throughput estimates are computed.
+// ---
+
 #ifndef NET_NQE_RTT_THROUGHPUT_ESTIMATES_OBSERVER_H_
 #define NET_NQE_RTT_THROUGHPUT_ESTIMATES_OBSERVER_H_
 

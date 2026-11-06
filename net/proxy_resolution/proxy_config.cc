@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy config implementation
+// summary: Implements ProxyConfig and its ProxyRules, including parsing manual proxy rules from strings and applying them to URLs with bypass rule handling.
+// ---
+
 #include "net/proxy_resolution/proxy_config.h"
 
 #include <memory>

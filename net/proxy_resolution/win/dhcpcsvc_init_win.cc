@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP client service initialization for Windows
+// summary: Ensures the Windows DHCP client service library is initialized before any DHCP API calls, deliberately leaking the singleton at shutdown.
+// ---
+
 #include "net/proxy_resolution/win/dhcpcsvc_init_win.h"
 
 #include <windows.h>

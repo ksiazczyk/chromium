@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system proxy config service header
+// summary: Declares ProxyConfigServiceWin, a polling proxy config service that retrieves Windows system proxy settings and detects changes via registry watching.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_PROXY_CONFIG_SERVICE_WIN_H_
 #define NET_PROXY_RESOLUTION_WIN_PROXY_CONFIG_SERVICE_WIN_H_
 

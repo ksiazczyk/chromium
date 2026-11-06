@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogWithSource class header
+// summary: Declares NetLogWithSource, a helper that binds a NetLog source and offers convenience methods to add begin, end and parameterized log entries.
+// ---
+
 #ifndef NET_LOG_NET_LOG_WITH_SOURCE_H_
 #define NET_LOG_NET_LOG_WITH_SOURCE_H_
 

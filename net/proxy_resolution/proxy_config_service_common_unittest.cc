@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common proxy config test helper implementation
+// summary: Implements ProxyRulesExpectation helpers that verify expected proxy rules and bypass lists in proxy configuration unit tests.
+// ---
+
 #include "net/proxy_resolution/proxy_config_service_common_unittest.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLog value helper unit tests
+// summary: Unit tests for NetLog string escaping, binary Base64 encoding, and number serialization across integer ranges.
+// ---
+
 #include "net/log/net_log_values.h"
 
 #include <limits>

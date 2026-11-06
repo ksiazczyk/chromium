@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network quality store unit tests
+// summary: Unit tests verifying NetworkQualityStore caching behavior, including that unknown effective connection types are not cached and entries are added and retrieved by network ID.
+// ---
+
 #include "net/nqe/network_quality_store.h"
 
 #include "base/strings/string_number_conversions.h"

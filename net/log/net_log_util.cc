@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog utility implementation
+// summary: Implements helpers that build NetLog dumps, including net constants, network state info, and entries for active requests.
+// ---
+
 #include "net/log/net_log_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WinHTTP proxy resolver test hooks
+// summary: Declares a scoped override of WinHttpGetProxyForUrl so tests can replace the system resolver function used by ProxyResolverWinHttp.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_PROXY_RESOLVER_WINHTTP_TEST_HOOKS_H_
 #define NET_PROXY_RESOLUTION_WIN_PROXY_RESOLVER_WINHTTP_TEST_HOOKS_H_
 

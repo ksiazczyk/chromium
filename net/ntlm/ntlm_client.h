@@ -11,6 +11,12 @@
 // [3]
 // https://blogs.msdn.microsoft.com/openspecification/2013/03/26/ntlm-and-channel-binding-hash-aka-extended-protection-for-authentication/
 
+// ---docerion
+// type: source
+// title: NTLM client class header
+// summary: Declares the NtlmClient class that generates NTLMv1 and NTLMv2 negotiate and authenticate messages with support for MIC and Extended Protection for Authentication.
+// ---
+
 #ifndef NET_NTLM_NTLM_CLIENT_H_
 #define NET_NTLM_NTLM_CLIENT_H_
 

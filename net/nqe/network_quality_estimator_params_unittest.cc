@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkQualityEstimatorParams unit tests
+// summary: Unit tests verifying weight multiplier half life handling, typical network qualities and connection thresholds of NetworkQualityEstimatorParams.
+// ---
+
 #include "net/nqe/network_quality_estimator_params.h"
 
 #include <map>

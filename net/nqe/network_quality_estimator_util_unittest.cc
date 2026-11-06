@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkQualityEstimatorUtil unit tests
+// summary: Unit tests for private host detection, checking cached and uncached DNS resolutions against mock host resolver rules.
+// ---
+
 #include "net/nqe/network_quality_estimator_util.h"
 
 #include <memory>

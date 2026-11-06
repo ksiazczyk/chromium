@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer-to-peer connections count observer interface
+// summary: Declares the PeerToPeerConnectionsCountObserver interface whose callback is invoked whenever the count of peer-to-peer connections changes.
+// ---
+
 #ifndef NET_NQE_PEER_TO_PEER_CONNECTIONS_COUNT_OBSERVER_H_
 #define NET_NQE_PEER_TO_PEER_CONNECTIONS_COUNT_OBSERVER_H_
 

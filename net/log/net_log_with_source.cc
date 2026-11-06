@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogWithSource implementation
+// summary: Implements the NetLogWithSource wrapper used to add begin, end, and plain events tied to a specific log source.
+// ---
+
 #include "net/log/net_log_with_source.h"
 
 #include <memory>

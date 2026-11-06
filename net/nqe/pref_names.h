@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NQE network qualities pref name header
+// summary: Declares the exported pref name constant for persisting network quality observations.
+// ---
+
 #ifndef NET_NQE_PREF_NAMES_H_
 #define NET_NQE_PREF_NAMES_H_
 

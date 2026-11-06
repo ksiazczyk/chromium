@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHttpStatus enum header
+// summary: Defines the WinHttpStatus enum listing all failure points of WinHttp-based proxy resolution, kept in sync with the proxy_resolver.mojom and histogram definitions.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_WINHTTP_STATUS_H_
 #define NET_PROXY_RESOLUTION_WIN_WINHTTP_STATUS_H_
 

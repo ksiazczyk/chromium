@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS proxy config service header
+// summary: Declares ProxyConfigServiceIOS, a polling service that watches the iOS system proxy settings.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_IOS_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_IOS_H_
 

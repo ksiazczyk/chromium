@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkID serialization implementation
+// summary: Implements converting a NetworkID to and from a base64-encoded protobuf string, returning an unknown network on decode failure.
+// ---
+
 #include "net/nqe/network_id.h"
 
 #include "base/base64.h"

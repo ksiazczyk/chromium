@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PacFileDecider unit tests
+// summary: Unit tests for PacFileDecider covering PAC script selection order, fetch and parsing failures, and successful script validation.
+// ---
+
 #include <memory>
 #include <vector>
 

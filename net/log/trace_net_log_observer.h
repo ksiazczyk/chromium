@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceNetLogObserver header
+// summary: Declares an observer that watches for trace session start and emits NetLog events as Perfetto trace events with configurable options.
+// ---
+
 #ifndef NET_LOG_TRACE_NET_LOG_OBSERVER_H_
 #define NET_LOG_TRACE_NET_LOG_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyList class interface
+// summary: Declares ProxyList, which holds a prioritized list of proxy chains and handles fallback, PAC string parsing and removal of proxies without matching schemes.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_LIST_H_
 #define NET_PROXY_RESOLUTION_PROXY_LIST_H_
 

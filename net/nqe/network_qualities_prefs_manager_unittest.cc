@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network qualities prefs manager unit tests
+// summary: Unit tests covering writing, reading, and clearing of network quality prefs using a test pref delegate and a test network quality estimator.
+// ---
+
 #include "net/nqe/network_qualities_prefs_manager.h"
 
 #include <algorithm>

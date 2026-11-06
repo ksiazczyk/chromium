@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configured proxy resolution service header
+// summary: Declares ConfiguredProxyResolutionService, which resolves proxies from configurations and PAC files, including its PAC script polling policy interface.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_CONFIGURED_PROXY_RESOLUTION_SERVICE_H_
 #define NET_PROXY_RESOLUTION_CONFIGURED_PROXY_RESOLUTION_SERVICE_H_
 

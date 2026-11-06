@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Effective connection type name conversions
+// summary: Implements conversions between EffectiveConnectionType values and their string names, including handling of the deprecated Slow2G representation.
+// ---
+
 #include "net/nqe/effective_connection_type.h"
 
 #include <string_view>

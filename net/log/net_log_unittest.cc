@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLog unit tests
+// summary: Unit tests covering NetLog global events, entry addition, capture modes, and heavily redacted parameter stripping.
+// ---
+
 #include "net/log/net_log.h"
 
 #include <array>

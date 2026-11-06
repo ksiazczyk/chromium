@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network delegate error observer implementation
+// summary: Implements an error observer that forwards PAC script errors to a NetworkDelegate, posting back to the origin thread when called from elsewhere.
+// ---
+
 #include "net/proxy_resolution/network_delegate_error_observer.h"
 
 #include "base/functional/bind.h"

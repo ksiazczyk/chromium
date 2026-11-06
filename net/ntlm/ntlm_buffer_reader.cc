@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM buffer reader implementation
+// summary: Implements bounds-checked sequential reads of little-endian values, security buffers and target info AvPairs from NTLM message buffers.
+// ---
+
 #include "net/ntlm/ntlm_buffer_reader.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkID serialization unit test
+// summary: Unit test checking that a NetworkID survives a serialize and deserialize round trip unchanged.
+// ---
+
 #include "net/nqe/network_id.h"
 
 #include <string>

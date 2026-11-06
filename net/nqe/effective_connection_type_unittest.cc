@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Effective connection type unit tests
+// summary: Unit tests verifying round-trip conversion between effective connection type names and enum values, including the deprecated Slow2G string.
+// ---
+
 #include "net/nqe/effective_connection_type.h"
 
 #include <optional>

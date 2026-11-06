@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy config with traffic annotation header
+// summary: Declares ProxyConfigWithAnnotation, which encapsulates a ProxyConfig together with the network traffic annotation describing the config's source.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_WITH_ANNOTATION_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_WITH_ANNOTATION_H_
 

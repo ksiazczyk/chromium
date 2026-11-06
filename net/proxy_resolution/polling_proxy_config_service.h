@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Polling proxy config service header
+// summary: Declares PollingProxyConfigService, a base class for ProxyConfigService implementations that detect proxy setting changes by polling on a background thread.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_POLLING_PROXY_CONFIG_SERVICE_H_
 #define NET_PROXY_RESOLUTION_POLLING_PROXY_CONFIG_SERVICE_H_
 

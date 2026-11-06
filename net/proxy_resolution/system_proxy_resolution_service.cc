@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemProxyResolutionService base class implementation
+// summary: Implements the system proxy resolution service base class, managing pending requests, proxy retry info, the proxy delegate, and net log values.
+// ---
+
 #include "net/proxy_resolution/system_proxy_resolution_service.h"
 
 #include "base/check.h"

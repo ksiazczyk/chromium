@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket watcher factory class
+// summary: Declares a thread-safe factory that creates socket watchers for collecting RTT observations.
+// ---
+
 #ifndef NET_NQE_SOCKET_WATCHER_FACTORY_H_
 #define NET_NQE_SOCKET_WATCHER_FACTORY_H_
 

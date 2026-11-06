@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSystemProxyResolver interface header
+// summary: Declares the WindowsSystemProxyResolver interface used to resolve proxies for URLs via WinHttp APIs in a separate utility process, with a Request handle for cancellation.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_WINDOWS_SYSTEM_PROXY_RESOLVER_H_
 #define NET_PROXY_RESOLUTION_WIN_WINDOWS_SYSTEM_PROXY_RESOLVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux proxy resolution status enum header
+// summary: Defines the LinuxProxyResolutionStatus enum of outcomes for the XDG portal-backed Linux system proxy resolver, with values persisted to logs.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_LINUX_LINUX_PROXY_RESOLUTION_STATUS_H_
 #define NET_PROXY_RESOLUTION_LINUX_LINUX_PROXY_RESOLUTION_STATUS_H_
 

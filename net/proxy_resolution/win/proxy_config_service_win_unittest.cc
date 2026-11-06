@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyConfigServiceWin unit tests
+// summary: Unit tests verifying that Windows Internet Explorer proxy settings are converted into net::ProxyConfig, covering auto-detect, PAC URLs, per-scheme proxy rules and bypass lists.
+// ---
+
 #include "net/proxy_resolution/win/proxy_config_service_win.h"
 
 #include <array>

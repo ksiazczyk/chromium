@@ -9,6 +9,12 @@
 // no-include-guard-because-multiply-included
 // NOLINT(build/header_guard)
 
+// ---docerion
+// type: source
+// title: NetLog source type list
+// summary: Macro-expanded list of NetLog source type labels such as URL_REQUEST, SOCKET, and QUIC_SESSION, included where SOURCE_TYPE is defined.
+// ---
+
 // Used for global events which don't correspond to a particular entity.
 SOURCE_TYPE(NONE)
 

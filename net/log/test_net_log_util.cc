@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog test assertion helpers implementation
+// summary: Implements gtest assertion helpers that check recorded NetLog entries for expected events, phases, types and offsets.
+// ---
+
 #include "net/log/test_net_log_util.h"
 
 #include <cstddef>

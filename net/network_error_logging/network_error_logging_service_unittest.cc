@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network Error Logging service unit tests
+// summary: Parametrized unit tests for NetworkErrorLoggingService covering header handling, report queueing, and browsing data removal with and without a persistent store.
+// ---
+
 #include "net/network_error_logging/network_error_logging_service.h"
 
 #include <memory>

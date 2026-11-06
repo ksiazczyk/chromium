@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveHostResult implementation for DNS resolution results
+// summary: Implements ResolveHostResult, capturing the result code and empty-address-list state of a completed DNS resolution request and serializing it to a dictionary.
+// ---
+
 #include "net/proxy_resolution/resolve_host_request.h"
 
 namespace net {

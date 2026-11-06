@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-threaded proxy resolver factory header
+// summary: Declares MultiThreadedProxyResolverFactory, which provisions synchronous resolvers on lazily created worker threads up to a configurable maximum.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_MULTI_THREADED_PROXY_RESOLVER_H_
 #define NET_PROXY_RESOLUTION_MULTI_THREADED_PROXY_RESOLVER_H_
 

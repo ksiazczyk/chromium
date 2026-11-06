@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy host matching rules header
+// summary: Declares ProxyHostMatchingRules, an ordered, serializable rule list used to decide whether URLs should bypass the proxy, with implicit rule support.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_HOST_MATCHING_RULES_H_
 #define NET_PROXY_RESOLUTION_PROXY_HOST_MATCHING_RULES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolution service implementation
+// summary: Implements LinuxSystemProxyResolutionService, which resolves proxies on Linux via the org.freedesktop.portal.ProxyResolver portal and manages aborting pending requests.
+// ---
+
 #include "net/proxy_resolution/linux/linux_system_proxy_resolution_service.h"
 
 #include <utility>

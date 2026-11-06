@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualitiesPrefsManager class
+// summary: Declares the manager that creates and updates network quality information in persistent prefs through an embedder-provided PrefDelegate and cache observer interface.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITIES_PREFS_MANAGER_H_
 #define NET_NQE_NETWORK_QUALITIES_PREFS_MANAGER_H_
 

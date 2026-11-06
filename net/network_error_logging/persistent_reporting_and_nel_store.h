@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent reporting and NEL store interface
+// summary: Declares PersistentReportingAndNelStore, combining the persistent Reporting cache and NEL store interfaces for storing reports, clients, and NEL policies.
+// ---
+
 #ifndef NET_NETWORK_ERROR_LOGGING_PERSISTENT_REPORTING_AND_NEL_STORE_H_
 #define NET_NETWORK_ERROR_LOGGING_PERSISTENT_REPORTING_AND_NEL_STORE_H_
 

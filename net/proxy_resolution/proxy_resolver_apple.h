@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple proxy resolver factory header
+// summary: Declares ProxyResolverFactoryApple, which creates proxy resolvers backed by Apple CFProxySupport.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLVER_APPLE_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLVER_APPLE_H_
 

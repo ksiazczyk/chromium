@@ -20,6 +20,12 @@
 // General pseudo-events
 // --------------------------------------------------------------------------
 
+// ---docerion
+// type: source
+// title: NetLog event type list
+// summary: X-macro list of all NetLog event types with documented parameters, intended to be expanded into net_log_event_type.h and net_log_event_type.cc.
+// ---
+
 // Something got cancelled (we determine what is cancelled based on the
 // log context around it.)
 EVENT_TYPE(CANCELLED)

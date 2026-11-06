@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EffectiveConnectionType enum and helpers
+// summary: Defines the EffectiveConnectionType enum from Unknown to 4G and declares functions to convert between enum values and string names.
+// ---
+
 #ifndef NET_NQE_EFFECTIVE_CONNECTION_TYPE_H_
 #define NET_NQE_EFFECTIVE_CONNECTION_TYPE_H_
 

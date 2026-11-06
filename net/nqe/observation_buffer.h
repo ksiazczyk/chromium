@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observation buffer class declaration
+// summary: Declares ObservationBuffer, which stores time-sorted observations and computes weighted percentile values using weight multipliers per second and per signal strength level.
+// ---
+
 #ifndef NET_NQE_OBSERVATION_BUFFER_H_
 #define NET_NQE_OBSERVATION_BUFFER_H_
 

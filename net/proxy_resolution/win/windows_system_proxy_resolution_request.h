@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSystemProxyResolutionRequest header
+// summary: Declares the Windows implementation of SystemProxyResolutionRequest that manages a single asynchronous proxy resolution request via WinHTTP APIs.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_WINDOWS_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 #define NET_PROXY_RESOLUTION_WIN_WINDOWS_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 

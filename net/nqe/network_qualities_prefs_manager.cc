@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network qualities prefs manager implementation
+// summary: Implements persisting cached network quality information to prefs, including parsing stored dictionary values and capping the cache at twenty networks.
+// ---
+
 #include "net/nqe/network_qualities_prefs_manager.h"
 
 #include <optional>

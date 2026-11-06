@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS proxy config service implementation
+// summary: Implements ProxyConfigServiceIOS, which polls iOS CFNetwork system proxy settings every ten seconds and maps them into proxy configuration.
+// ---
+
 #include "net/proxy_resolution/proxy_config_service_ios.h"
 
 #include <CFNetwork/CFProxySupport.h>

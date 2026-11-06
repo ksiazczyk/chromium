@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyList implementation
+// summary: Implements ProxyList, a prioritized list of proxy chains with PAC string parsing, deprioritization of bad chains, scheme filtering and fallback support.
+// ---
+
 #include "net/proxy_resolution/proxy_list.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apple proxy resolver unit tests
+// summary: Unit tests for the Apple proxy resolver that use an embedded test server to serve valid, slow, hung, and missing PAC scripts and check resolution behavior.
+// ---
+
 #include "net/proxy_resolution/proxy_resolver_apple.h"
 
 #include <stdint.h>

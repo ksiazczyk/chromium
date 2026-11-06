@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolver error observer interface
+// summary: Defines the ProxyResolverErrorObserver interface for receiving JavaScript error messages raised by PAC scripts, possibly from a worker thread.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLVER_ERROR_OBSERVER_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLVER_ERROR_OBSERVER_H_
 
