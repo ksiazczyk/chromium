@@ -1,0 +1,4 @@
+# Docerion header of com.robtopx.geometryjumplite.json.
+type: config
+title: Geometry Jump Lite input overlay mapping
+summary: Defines keyboard mappings for Geometry Jump Lite, binding Space to jump and KeyG and KeyH to add and remove flag actions.

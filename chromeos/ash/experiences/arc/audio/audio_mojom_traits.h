@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device type mojom traits declaration
+// summary: Declares the EnumTraits specialization mapping audio device types between ash and ARC mojom definitions.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_AUDIO_AUDIO_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_AUDIO_AUDIO_MOJOM_TRAITS_H_
 

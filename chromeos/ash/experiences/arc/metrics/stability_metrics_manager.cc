@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability metrics manager implementation
+// summary: Implements a singleton that persists ARC enabled state and native bridge type in local state and records them as stability UMA metrics.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/stability_metrics_manager.h"
 
 #include <ostream>

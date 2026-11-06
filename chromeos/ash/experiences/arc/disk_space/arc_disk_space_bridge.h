@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC disk space bridge class declaration
+// summary: Declares the ArcDiskSpaceBridge keyed service and constants for Android UID, GID and project ID ranges used in disk quota queries.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_DISK_SPACE_ARC_DISK_SPACE_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_DISK_SPACE_ARC_DISK_SPACE_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyEventResultReceiver unit tests
+// summary: Unit tests covering callback expiry, stopped propagation, IME-consumed PROCESSKEY events, non-character keys, and unmodified Enter and Backspace handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/ime/key_event_result_receiver.h"
 
 #include "base/functional/callback_helpers.h"

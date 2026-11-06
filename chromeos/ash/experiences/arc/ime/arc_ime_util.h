@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC IME key event utility declarations
+// summary: Declares helper functions for detecting control characters and modifier keys in key events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_UTIL_H_
 

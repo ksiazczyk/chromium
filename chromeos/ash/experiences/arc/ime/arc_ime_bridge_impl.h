@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcImeBridgeImpl class header
+// summary: Declares ArcImeBridgeImpl, which implements ArcImeBridge and mojom::ImeHost for IME IPC with the ARC container.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_BRIDGE_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_BRIDGE_IMPL_H_
 

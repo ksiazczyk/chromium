@@ -1,0 +1,4 @@
+# Docerion header of com.azurgames.stackball.json.
+type: config
+title: Input overlay mapping for com.azurgames.stackball
+summary: Maps the Space key to a move tap action for com.azurgames.stackball in the ARC input overlay.

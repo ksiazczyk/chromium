@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bluetooth Mojo struct traits declarations
+// summary: Declares Mojo EnumTraits and StructTraits mapping device Bluetooth types such as UUIDs, advertisements and SDP attributes to ARC Mojo types.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_BLUETOOTH_BLUETOOTH_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_BLUETOOTH_BLUETOOTH_MOJOM_TRAITS_H_
 

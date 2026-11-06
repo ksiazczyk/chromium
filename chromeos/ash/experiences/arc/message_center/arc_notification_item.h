@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationItem interface
+// summary: Defines the ArcNotificationItem interface with observer notifications and methods for closing, clicking, settings, expansion and window ref counting.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_ITEM_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_ARC_NOTIFICATION_ITEM_H_
 

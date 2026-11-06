@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compat mode metrics implementation
+// summary: Records user actions and histograms for ARC resize lock actions such as resizing to phone or tablet and toggling resize lock.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/metrics.h"
 
 #include "base/metrics/histogram_functions.h"

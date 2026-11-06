@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMidisBridge implementation
+// summary: Implements the ARC MIDI host bridge service that bootstraps Mojo connections to the midis daemon over D-Bus and forwards MidisServer Connect requests.
+// ---
+
 #include "chromeos/ash/experiences/arc/midis/arc_midis_bridge.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.arc.testapp.inputoverlay.json.
+type: config
+title: ARC input overlay test app config
+summary: Defines tap and virtual joystick mappings used by the Chromium ARC input overlay test app.

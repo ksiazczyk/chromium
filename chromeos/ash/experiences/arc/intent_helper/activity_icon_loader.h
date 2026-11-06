@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityIconLoader class declaration
+// summary: Declares the loader that retrieves and caches activity icons from ARC, with result codes and callback types.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ACTIVITY_ICON_LOADER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ACTIVITY_ICON_LOADER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of com.pixelstar.pbr.json.
+type: config
+title: Pixel Star PBR input overlay mapping
+summary: Defines keyboard mappings for the Pixel Star PBR game, with a WASD virtual joystick plus Digit1 through Digit4 tap actions.

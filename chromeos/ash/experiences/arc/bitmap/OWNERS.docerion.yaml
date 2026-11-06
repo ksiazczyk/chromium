@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for arc bitmap Mojom traits files
+summary: Sets per-file ownership for Mojom traits files, requiring IPC and Chrome OS security owners without parent approval.

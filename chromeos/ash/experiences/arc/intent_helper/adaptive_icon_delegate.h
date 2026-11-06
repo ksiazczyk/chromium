@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdaptiveIconDelegate interface
+// summary: Declares the abstract delegate interface for generating adaptive icons from a set of activity icons.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ADAPTIVE_ICON_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_ADAPTIVE_ICON_DELEGATE_H_
 

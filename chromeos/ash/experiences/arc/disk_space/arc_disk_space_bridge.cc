@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC disk space bridge implementation
+// summary: Implements the bridge that proxies disk space and quota requests between ChromeOS and Android, querying spaced and userdataauth over D-Bus.
+// ---
+
 #include "chromeos/ash/experiences/arc/disk_space/arc_disk_space_bridge.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC file system directory
+summary: Allows this directory to include headers from storage/browser/file_system.

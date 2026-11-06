@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Input overlay resources build file (BUILD.gn)
+summary: GN build target that packages the per-game input overlay JSON resources into input_overlay_resources.pak via grit.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyEventResultReceiver class declaration
+// summary: Declares the KeyEventResultReceiver class, which tracks an expected key event, runs a done callback exactly once after post-IME dispatch, and expires it on timeout.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_IME_KEY_EVENT_RESULT_RECEIVER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_IME_KEY_EVENT_RESULT_RECEIVER_H_
 

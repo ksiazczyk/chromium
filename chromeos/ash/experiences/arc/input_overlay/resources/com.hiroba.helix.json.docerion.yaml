@@ -1,0 +1,4 @@
+# Docerion header of com.hiroba.helix.json.
+type: config
+title: Input overlay config for com.hiroba.helix
+summary: Maps the Space key to the move tap control for this game.

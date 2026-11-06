@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC Chrome feature flags bridge
+// summary: Verifies that the bridge notifies correct feature flag values to a fake ARC instance under different feature configurations.
+// ---
+
 #include "chromeos/ash/experiences/arc/chrome_feature_flags/arc_chrome_feature_flags_bridge.h"
 
 #include "ash/constants/ash_features.h"

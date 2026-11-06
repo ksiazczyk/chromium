@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcImeBridge interface for IME IPC with ARC container
+// summary: Declares the ArcImeBridge interface that encapsulates IME-related IPC between Chromium and the ARC container.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_BRIDGE_H_
 

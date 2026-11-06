@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentFilter class declaration
+// summary: Declares the chrome-side IntentFilter class with AuthorityEntry and PatternMatcher helpers to check whether a URL is likely handled by Android apps before expensive IPC calls.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_INTENT_FILTER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_INTENT_FILTER_H_
 

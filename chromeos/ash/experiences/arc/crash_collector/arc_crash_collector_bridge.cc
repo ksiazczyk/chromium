@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC crash collector bridge implementation
+// summary: Implements the Mojo CrashCollectorHost bridge that launches crash_reporter to save Java, native, and kernel ARC crash dumps and validates build properties.
+// ---
+
 #include "chromeos/ash/experiences/arc/crash_collector/arc_crash_collector_bridge.h"
 
 #include <inttypes.h>

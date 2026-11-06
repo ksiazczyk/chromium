@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMemoryBridge implementation
+// summary: Implements the ArcMemoryBridge keyed service and its singleton factory, forwarding DropCaches and Reclaim requests to the ARC VM's memory instance.
+// ---
+
 #include "chromeos/ash/experiences/arc/memory/arc_memory_bridge.h"
 
 #include <utility>

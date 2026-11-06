@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchModeMouseRewriter implementation
+// summary: Implements an event rewriter that adapts mouse and trackpad input for phone-optimized ARC apps, converting right clicks to long presses and wheel events to smooth scrolling.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/touch_mode_mouse_rewriter.h"
 
 #include <tuple>

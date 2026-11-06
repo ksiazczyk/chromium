@@ -1,0 +1,4 @@
+# Docerion header of com.Stellar.StackFall.json.
+type: config
+title: Input overlay mapping for com.Stellar.StackFall
+summary: Maps Space and Enter keys to move and boost tap actions for com.Stellar.StackFall in the ARC input overlay.

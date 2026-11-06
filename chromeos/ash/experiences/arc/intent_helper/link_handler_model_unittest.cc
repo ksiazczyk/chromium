@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkHandlerModel unit tests
+// summary: Unit tests for the Google redirect URL rewriting logic, covering no-op cases, valid rewrites, and query values that exceed the maximum length.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/link_handler_model.h"
 
 #include <string>

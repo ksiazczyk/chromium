@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcAppfuseBridge unit tests
+// summary: Unit test that constructs and destructs ArcAppfuseBridge for a test browser context to verify the service is created successfully.
+// ---
+
 #include "chromeos/ash/experiences/arc/appfuse/arc_appfuse_bridge.h"
 
 #include "base/memory/raw_ptr.h"

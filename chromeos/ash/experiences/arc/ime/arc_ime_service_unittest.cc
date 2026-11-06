@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcImeService
+// summary: Contains unit tests for ArcImeService using a fake IME bridge and a fake input method.
+// ---
+
 #include "chromeos/ash/experiences/arc/ime/arc_ime_service.h"
 
 #include <memory>

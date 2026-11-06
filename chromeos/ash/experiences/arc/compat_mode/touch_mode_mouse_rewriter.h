@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchModeMouseRewriter class header
+// summary: Declares an event rewriter that rewrites mouse events sent to phone-optimized ARC app windows, such as mapping right click to long press.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_TOUCH_MODE_MOUSE_REWRITER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_TOUCH_MODE_MOUSE_REWRITER_H_
 

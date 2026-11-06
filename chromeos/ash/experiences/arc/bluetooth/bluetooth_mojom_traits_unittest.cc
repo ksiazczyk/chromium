@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC bluetooth Mojo traits
+// summary: Tests serialization and deserialization of Bluetooth UUIDs and advertisement data between device and ARC Mojo representations.
+// ---
+
 #include "chromeos/ash/experiences/arc/bluetooth/bluetooth_mojom_traits.h"
 
 #include <string>

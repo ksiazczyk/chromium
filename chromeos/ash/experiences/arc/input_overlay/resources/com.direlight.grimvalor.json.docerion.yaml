@@ -1,0 +1,4 @@
+# Docerion header of com.direlight.grimvalor.json.
+type: config
+title: Input overlay config for Grimvalor
+summary: Defines keyboard-to-touch mappings for Grimvalor, binding keys to left, right, jump, attack, dodge and pause touch controls.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC audio
+summary: Defines the allowed include rules for the ARC audio directory, permitting includes from ash/public.

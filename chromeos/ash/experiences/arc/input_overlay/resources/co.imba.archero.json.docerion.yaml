@@ -1,0 +1,4 @@
+# Docerion header of co.imba.archero.json.
+type: config
+title: Input overlay mapping for co.imba.archero
+summary: Defines a WASD virtual joystick keyboard mapping for the co.imba.archero game in the ARC input overlay.

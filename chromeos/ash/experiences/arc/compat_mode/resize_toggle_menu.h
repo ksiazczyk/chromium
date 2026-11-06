@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize toggle menu header
+// summary: Declares ResizeToggleMenu, a bubble menu with phone, tablet and resizable buttons that applies resize compat modes to an ARC app window.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_RESIZE_TOGGLE_MENU_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_RESIZE_TOGGLE_MENU_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of com.robtopx.geometrydashworld.json.
+type: config
+title: Geometry Dash World input overlay mapping
+summary: Defines keyboard mappings for Geometry Dash World, binding Space to jump and KeyG and KeyH to add and remove flag actions.

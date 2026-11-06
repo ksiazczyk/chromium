@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcCustomTabModalDialogHost class declaration
+// summary: Declares an abstract WebContentsModalDialogHost for ARC custom tabs that lets web contents modal dialogs be drawn inside the custom tab window.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_CUSTOM_TAB_ARC_CUSTOM_TAB_MODAL_DIALOG_HOST_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_CUSTOM_TAB_ARC_CUSTOM_TAB_MODAL_DIALOG_HOST_H_
 

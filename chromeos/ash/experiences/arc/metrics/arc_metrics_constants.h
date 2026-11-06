@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC metrics constants and enums
+// summary: Defines shared constants and enums for ARC UMA metrics, including native bridge and user interaction types.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_ARC_METRICS_CONSTANTS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_ARC_METRICS_CONSTANTS_H_
 

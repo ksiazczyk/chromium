@@ -1,0 +1,4 @@
+# Docerion header of games.lightheart.mrautofire.json.
+type: config
+title: Mr Autofire input overlay config
+summary: Defines keyboard controls for the Mr Autofire game with a WASD virtual joystick plus jump and pause tap actions.

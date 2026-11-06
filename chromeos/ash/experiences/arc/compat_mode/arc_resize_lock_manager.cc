@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC resize lock manager implementation
+// summary: Implements the browser-context keyed service that enables, disables and tracks resize lock for ARC app windows, including splash dialog and metrics handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/arc_resize_lock_manager.h"
 
 #include "ash/game_dashboard/game_dashboard_controller.h"

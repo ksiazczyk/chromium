@@ -1,0 +1,4 @@
+# Docerion header of com.blackpanther.ninjaarashi2.json.
+type: config
+title: Input overlay mapping for com.blackpanther.ninjaarashi2
+summary: Defines keyboard tap mappings for movement, jump, attacks and pause in com.blackpanther.ninjaarashi2.

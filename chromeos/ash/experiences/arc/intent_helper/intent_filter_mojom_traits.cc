@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentFilter Mojo traits implementation
+// summary: Implements Mojo serialization traits that convert arc::IntentFilter, AuthorityEntry and PatternMatcher objects to and from their arc::mojom data view representations.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/intent_filter_mojom_traits.h"
 
 #include <optional>

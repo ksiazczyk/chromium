@@ -1,0 +1,4 @@
+# Docerion header of com.stack.ball.destroy.wood.json.
+type: config
+title: Stack Ball Destroy Wood input overlay config
+summary: Defines the keyboard mapping for the Stack Ball Destroy Wood game, mapping the Space key to a tap action.

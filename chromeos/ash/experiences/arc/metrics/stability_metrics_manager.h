@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability metrics manager header
+// summary: Declares the StabilityMetricsManager singleton for persisting and reporting ARC stability metrics across browser sessions.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_STABILITY_METRICS_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_STABILITY_METRICS_MANAGER_H_
 

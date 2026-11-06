@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification metrics utilities header
+// summary: Declares LogArcNotificationIsCustomNotification for recording whether an ARC notification is a custom notification.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_METRICS_UTILS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_METRICS_UTILS_H_
 

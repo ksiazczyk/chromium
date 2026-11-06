@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcImeService implementation for ARC text input
+// summary: Implements ArcImeService, which makes ARC windows behave as text input targets in the Chrome OS environment.
+// ---
+
 #include "chromeos/ash/experiences/arc/ime/arc_ime_service.h"
 
 #include <tuple>

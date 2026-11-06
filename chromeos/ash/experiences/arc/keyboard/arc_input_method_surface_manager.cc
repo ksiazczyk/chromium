@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInputMethodSurfaceManager implementation
+// summary: Implements the manager that tracks the active exo input method surface and notifies observers when ARC input method bounds change.
+// ---
+
 #include "chromeos/ash/experiences/arc/keyboard/arc_input_method_surface_manager.h"
 
 #include "components/exo/input_method_surface.h"

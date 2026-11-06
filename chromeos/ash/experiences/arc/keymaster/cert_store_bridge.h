@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cert store bridge class declaration
+// summary: Declares CertStoreBridge, which attaches a message pipe to the Mojo invitation and forwards Chrome OS key information to arc-keymasterd.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_KEYMASTER_CERT_STORE_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_KEYMASTER_CERT_STORE_BRIDGE_H_
 

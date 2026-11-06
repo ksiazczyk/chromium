@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc media session bridge header
+// summary: Declares ArcMediaSessionBridge, a browser-context keyed service that exposes the media session service to ARC for unified audio focus management.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MEDIA_SESSION_ARC_MEDIA_SESSION_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MEDIA_SESSION_ARC_MEDIA_SESSION_BRIDGE_H_
 

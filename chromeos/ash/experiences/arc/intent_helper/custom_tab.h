@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTab class header
+// summary: Declares the CustomTab class that embeds an ARC++ custom tab using a NativeViewHost and observes window bounds and stacking changes.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_CUSTOM_TAB_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_CUSTOM_TAB_H_
 

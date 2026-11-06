@@ -1,0 +1,4 @@
+# Docerion header of com.gabrielecirulli.app2048.json.
+type: config
+title: Input overlay config for 2048 (app2048)
+summary: Defines a WASD-driven virtual joystick for the original 2048 game by Gabriele Cirulli.

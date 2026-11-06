@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationSurfaceManagerImpl implementation
+// summary: Implements ArcNotificationSurfaceManagerImpl, which registers, removes, and looks up ARC notification surfaces by key while notifying observers.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_surface_manager_impl.h"
 
 #include <string>

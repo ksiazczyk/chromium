@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for ARC intent_helper
+summary: GN build file defining the intent_filter and intent_helper static libraries, constants target, and unit test source set.

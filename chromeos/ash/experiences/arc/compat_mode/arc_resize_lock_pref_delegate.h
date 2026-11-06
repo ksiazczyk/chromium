@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize lock preference delegate interface
+// summary: Declares an interface for reading and writing per-app resize lock state, confirmation requirement and splash screen dialog count preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_RESIZE_LOCK_PREF_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_RESIZE_LOCK_PREF_DELEGATE_H_
 

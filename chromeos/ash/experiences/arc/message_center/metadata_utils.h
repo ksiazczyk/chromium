@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification metadata utilities header
+// summary: Declares CreateNotificationFromArcNotificationData, which converts ARC notification data into message center notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_METADATA_UTILS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_METADATA_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize utility header
+// summary: Declares utility functions for resizing ARC app windows to phone or tablet modes and for enabling resizing with user confirmation.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_RESIZE_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_RESIZE_UTIL_H_
 

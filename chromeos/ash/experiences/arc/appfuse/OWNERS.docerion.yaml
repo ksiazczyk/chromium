@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists niwa@chromium.org as the code owner of the ARC appfuse directory.

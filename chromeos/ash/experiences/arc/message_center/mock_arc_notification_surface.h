@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ArcNotificationSurface header
+// summary: Declares MockArcNotificationSurface, a test double for ArcNotificationSurface with window and AX tree accessors.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_MOCK_ARC_NOTIFICATION_SURFACE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_MOCK_ARC_NOTIFICATION_SURFACE_H_
 

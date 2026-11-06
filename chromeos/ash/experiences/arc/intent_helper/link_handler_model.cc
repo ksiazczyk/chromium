@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkHandlerModel implementation
+// summary: Implements the model that queries ARC for handlers of a URL, rewrites Google redirect URLs found in query parameters, and opens the link with a selected handler.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/link_handler_model.h"
 
 #include <string_view>

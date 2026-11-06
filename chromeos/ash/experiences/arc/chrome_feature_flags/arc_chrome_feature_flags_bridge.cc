@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Chrome feature flags bridge implementation
+// summary: Implements the keyed service that notifies Chrome feature flag states, such as jelly colors and rounded window settings, to the ARC container.
+// ---
+
 #include "chromeos/ash/experiences/arc/chrome_feature_flags/arc_chrome_feature_flags_bridge.h"
 
 #include "ash/constants/ash_features.h"

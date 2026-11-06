@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcImeBridgeImpl implementation of the IME IPC bridge
+// summary: Implements the IME IPC bridge, converting composition data and forwarding IME requests to the ARC container.
+// ---
+
 #include "chromeos/ash/experiences/arc/ime/arc_ime_bridge_impl.h"
 
 #include <string>

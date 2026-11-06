@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Splash screen dialog view implementation
+// summary: Implements the bubble dialog that advertises the resize lock feature, with a highlight border, close button and window activation handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/arc_splash_screen_dialog_view.h"
 
 #include <memory>

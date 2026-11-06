@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC metrics service header
+// summary: Declares ArcMetricsService, a keyed service that gathers information from ARC services and sends UMA metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_ARC_METRICS_SERVICE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_METRICS_ARC_METRICS_SERVICE_H_
 

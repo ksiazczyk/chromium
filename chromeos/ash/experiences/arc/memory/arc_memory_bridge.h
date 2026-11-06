@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMemoryBridge class header
+// summary: Declares the ArcMemoryBridge keyed service, which provides DropCaches and Reclaim operations for ARC guest memory via the ARC bridge service.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MEMORY_ARC_MEMORY_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MEMORY_ARC_MEMORY_BRIDGE_H_
 

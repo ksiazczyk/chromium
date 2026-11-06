@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC window manager metrics unit tests
+// summary: Unit tests verifying that ARC window maximize, minimize, close, tablet mode and rotation delay histograms are recorded correctly.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/arc_wm_metrics.h"
 
 #include <memory>

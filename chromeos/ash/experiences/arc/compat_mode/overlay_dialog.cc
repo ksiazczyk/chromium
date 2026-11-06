@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay dialog implementation
+// summary: Implements a translucent overlay shown over ARC window content areas, matching rounded window corners when enabled.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/overlay_dialog.h"
 
 #include "ash/style/ash_color_id.h"

@@ -1,0 +1,4 @@
+# Docerion header of com.datavisionstudio.roguelike.json.
+type: config
+title: Input overlay config for com.datavisionstudio.roguelike
+summary: Defines keyboard-to-touch mappings for this game, binding the WASD keys to a virtual joystick move control.

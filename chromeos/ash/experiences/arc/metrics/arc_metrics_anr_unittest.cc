@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC ANR metrics unit tests
+// summary: Unit tests verifying ANR histogram reporting per app type, ANR type, and boot type using mock time.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/arc_metrics_anr.h"
 
 #include <array>

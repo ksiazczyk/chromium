@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bluetooth Mojo struct traits implementation
+// summary: Implements Mojo serialization traits that convert Chromium Bluetooth UUIDs, advertisement data and enums into ARC Mojo types.
+// ---
+
 #include "chromeos/ash/experiences/arc/bluetooth/bluetooth_mojom_traits.h"
 
 #include <initializer_list>

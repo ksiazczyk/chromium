@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentFilter implementation
+// summary: Implements the chrome-side IntentFilter class, including authority entries and pattern matchers, used to approximate Android intent filtering when matching URLs.
+// ---
+
 #include "chromeos/ash/experiences/arc/intent_helper/intent_filter.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of com.yuriychechulin.throwio.json.
+type: config
+title: Throw IO input overlay config
+summary: Defines keyboard controls for the Throw IO game with a WASD virtual joystick and a Space-key attack tap.

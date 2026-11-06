@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC bluetooth
+summary: Defines the include rules that allow the ARC bluetooth folder to depend on device/bluetooth headers.

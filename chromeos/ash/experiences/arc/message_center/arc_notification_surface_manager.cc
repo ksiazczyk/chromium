@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationSurfaceManager singleton base
+// summary: Implements the singleton instance registration and Get() accessor for the ArcNotificationSurfaceManager base class.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_surface_manager.h"
 
 #include "base/check_op.h"

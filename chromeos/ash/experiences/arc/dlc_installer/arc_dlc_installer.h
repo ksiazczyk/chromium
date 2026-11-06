@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcDlcInstaller class declaration
+// summary: Declares the ArcDlcInstaller class, its DlcState enum, and callbacks for preparing ARC and managing ARCVM DLC installation.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_DLC_INSTALLER_ARC_DLC_INSTALLER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_DLC_INSTALLER_ARC_DLC_INSTALLER_H_
 

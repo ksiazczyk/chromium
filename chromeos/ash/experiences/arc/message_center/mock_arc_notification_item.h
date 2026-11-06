@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ArcNotificationItem header
+// summary: Declares a mock notification item that counts close calls and returns dummy data for unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_MOCK_ARC_NOTIFICATION_ITEM_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MESSAGE_CENTER_MOCK_ARC_NOTIFICATION_ITEM_H_
 

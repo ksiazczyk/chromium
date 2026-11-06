@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcImeService class header
+// summary: Declares ArcImeService, a KeyedService and TextInputClient that handles IME behavior for ARC windows.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_SERVICE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_IME_ARC_IME_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of com.elegant.stack.ball.blast.crush.json.
+type: config
+title: Input overlay config for Stack Ball Blast Crush
+summary: Maps the Space key to the single tap control used by this Stack Ball game.

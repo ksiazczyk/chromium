@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ARC intent_helper
+summary: DEPS file restricting which directories such as ash/public, ui, and Google components this folder may include.

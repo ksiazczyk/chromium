@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc media session bridge unit test
+// summary: Unit test that verifies ArcMediaSessionBridge can be constructed and destructed for a test browser context.
+// ---
+
 #include "chromeos/ash/experiences/arc/media_session/arc_media_session_bridge.h"
 
 #include "base/memory/raw_ptr.h"

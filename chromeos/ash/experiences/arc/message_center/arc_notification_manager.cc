@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationManager implementation
+// summary: Implements the ARC notification manager that syncs Android notifications with Chrome's message center, including do-not-disturb and visibility handling.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_manager.h"
 
 #include <memory>

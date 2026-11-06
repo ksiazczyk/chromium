@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC camera bridge implementation
+// summary: Implements ArcCameraBridge, a browser-context keyed service that handles camera-related requests from the ARC container and starts the camera service over Mojo.
+// ---
+
 #include "chromeos/ash/experiences/arc/camera/arc_camera_bridge.h"
 
 #include <utility>

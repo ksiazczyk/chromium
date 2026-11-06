@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenUrlDelegate interface for opening ARC URLs in Chrome
+// summary: Declares an abstract delegate interface that opens URLs, web apps, Chrome pages, and launch intents from ARC in the Chrome browser.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_OPEN_URL_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_INTENT_HELPER_OPEN_URL_DELEGATE_H_
 

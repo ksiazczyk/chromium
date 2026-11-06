@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC metrics
+summary: Defines allowed include dependencies for the ARC metrics directory, with extra test-only include rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc media session bridge implementation
+// summary: Implements ArcMediaSessionBridge and an ArcAudioFocusManager wrapper that exposes Chrome's audio focus service to ARC while blocking disallowed calls.
+// ---
+
 #include "chromeos/ash/experiences/arc/media_session/arc_media_session_bridge.h"
 
 #include <utility>

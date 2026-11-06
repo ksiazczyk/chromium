@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC notification view unit tests
+// summary: Tests ArcNotificationView behavior using mock notification items and surfaces, including focus, control buttons and animations.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC window manager metrics implementation
+// summary: Records UMA histograms for ARC window operation delays such as maximizing, minimizing, closing, tablet mode transitions and display rotation.
+// ---
+
 #include "chromeos/ash/experiences/arc/metrics/arc_wm_metrics.h"
 
 #include "ash/public/cpp/app_types_util.h"

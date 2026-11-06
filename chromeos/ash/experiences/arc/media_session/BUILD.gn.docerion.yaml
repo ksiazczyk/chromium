@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the media_session library
+summary: GN build file defining the media_session static library with the ARC media session bridge sources and its build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of com.NikSanTech.FireDots3D.json.
+type: config
+title: Input overlay mapping for com.NikSanTech.FireDots3D
+summary: Maps the Space key to a tap action for the com.NikSanTech.FireDots3D game in the ARC input overlay.

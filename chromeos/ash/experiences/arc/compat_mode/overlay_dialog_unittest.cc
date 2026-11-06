@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay dialog unit tests
+// summary: Unit tests verifying that OverlayDialog shows and closes correctly and invokes its closing callback, with and without a dialog view.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/overlay_dialog.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compat mode button unit tests
+// summary: Verifies the compat mode button notifies its controller on mouse presses and tap-down gestures.
+// ---
+
 #include "chromeos/ash/experiences/arc/compat_mode/compat_mode_button.h"
 
 #include "base/time/time.h"

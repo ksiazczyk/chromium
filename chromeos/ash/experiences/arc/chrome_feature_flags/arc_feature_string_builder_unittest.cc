@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC feature string builder
+// summary: Checks the formatted string output for enabled and disabled features with and without parameters.
+// ---
+
 #include "chromeos/ash/experiences/arc/chrome_feature_flags/arc_feature_string_builder.h"
 
 #include "base/test/scoped_feature_list.h"

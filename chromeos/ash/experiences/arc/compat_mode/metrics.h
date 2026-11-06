@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compat mode metrics declarations
+// summary: Declares enums and functions for recording resize lock actions and state histograms in compat mode.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_METRICS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC window property utility
+// summary: Declares helpers that read the ARC app ID from an aura window or a views widget for compat mode code.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_WINDOW_PROPERTY_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_COMPAT_MODE_ARC_WINDOW_PROPERTY_UTIL_H_
 

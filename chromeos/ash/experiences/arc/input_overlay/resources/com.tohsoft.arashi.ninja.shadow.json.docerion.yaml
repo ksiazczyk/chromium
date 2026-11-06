@@ -1,0 +1,4 @@
+# Docerion header of com.tohsoft.arashi.ninja.shadow.json.
+type: config
+title: Ninja Arashi Shadow input overlay config
+summary: Defines keyboard controls for the Ninja Arashi Shadow game, mapping keys to movement, jump, attack, disguise and dash actions.

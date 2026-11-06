@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC notification surface manager implementation unit tests
+// summary: Unit tests for ArcNotificationSurfaceManagerImpl covering surface lookup, add and remove, and observer notifications.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_surface_manager_impl.h"
 
 #include "components/exo/notification_surface.h"

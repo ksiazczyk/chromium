@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC message center
+summary: Sets include rules restricting which headers this directory may use, with extra allowances for unit tests and temporary ARC migration paths.

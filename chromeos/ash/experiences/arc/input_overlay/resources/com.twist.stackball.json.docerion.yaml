@@ -1,0 +1,4 @@
+# Docerion header of com.twist.stackball.json.
+type: config
+title: Twist Stack Ball input overlay config
+summary: Defines the keyboard mapping for the Twist Stack Ball game, mapping the Space key to a tap action.

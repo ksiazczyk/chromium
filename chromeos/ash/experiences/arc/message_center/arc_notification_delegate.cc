@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcNotificationDelegate implementation
+// summary: Implements the notification delegate that forwards clicks, closes, settings and expansion events to the owning ArcNotificationItem.
+// ---
+
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_delegate.h"
 
 #include "chromeos/ash/experiences/arc/message_center/arc_notification_content_view.h"
