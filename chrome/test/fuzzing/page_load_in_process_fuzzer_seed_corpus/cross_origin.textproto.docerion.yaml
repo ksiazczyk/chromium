@@ -1,0 +1,4 @@
+# Docerion header of cross_origin.textproto.
+type: test
+title: Cross-origin seed for the page load in-process fuzzer
+summary: Seed corpus entry that serves HTML pages on two HTTPS origins, including a cross-origin iframe, as input for the page load in-process fuzzer.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: E2E test for the UserDataDir enterprise policy
+# summary: Sets the UserDataDir policy on a Windows client, forces a group policy update, and verifies via WebDriver output that Chrome uses and creates the configured user data directory.
+# ---
+
 import logging
 import os
 

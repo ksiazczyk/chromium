@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: BookmarkBarEnabled policy end-to-end tests
+# summary: Enterprise E2E tests that set the BookmarkBarEnabled policy on a Windows client and verify the Chrome bookmark bar is shown or hidden accordingly.
+# ---
+
 import logging
 import os
 from absl import flags

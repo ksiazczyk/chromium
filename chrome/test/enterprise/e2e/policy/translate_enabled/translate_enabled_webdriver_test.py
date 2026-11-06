@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Translate popup visibility WebDriver test
+# summary: Selenium and pywinauto UI test that opens a foreign-language page and prints whether Chrome's translate popup is visible, used by the TranslateEnabled policy test.
+# ---
+
 import time
 
 from absl import app, flags

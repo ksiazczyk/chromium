@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebContentsInteractionTestUtil helpers
+// summary: Unit tests covering the IsTruthy value check and the DeepQuery segment concatenation behavior of WebContentsInteractionTestUtil.
+// ---
+
 #include "chrome/test/interaction/webcontents_interaction_test_util.h"
 
 #include "base/values.h"

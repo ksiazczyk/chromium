@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Fullscreen detection UI helper
+# summary: Pywinauto UI script that presses F11 in Chrome, compares window and content sizes, and reports whether fullscreen mode is allowed.
+# ---
+
 import time
 from absl import app
 from pywinauto.application import Application

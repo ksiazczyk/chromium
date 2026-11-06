@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ForceGoogleSafeSearch enterprise policy E2E test
+# summary: Enterprise E2E test that enables or disables the ForceGoogleSafeSearch policy and asserts the resulting Google search URL parameters via a WebDriver test.
+# ---
+
 import os
 import logging
 from absl import flags

@@ -1,0 +1,4 @@
+# Docerion header of remote_transport_unittest.py.
+type: test
+title: Unit tests for remote transport
+summary: Unit tests covering connectivity checks, SSH error handling, and transport behavior in remote_transport.py.

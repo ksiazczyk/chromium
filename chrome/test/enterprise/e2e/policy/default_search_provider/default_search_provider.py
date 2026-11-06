@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Default search provider policy end-to-end tests
+# summary: Enterprise end-to-end test that applies DefaultSearchProviderEnabled, Name, and SearchURL policies and verifies Bing, Yahoo, and disabled search behavior on Windows.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import environment

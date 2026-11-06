@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise tests
+summary: Lists the code owners for the enterprise test directory and points to the GwsQ config that must be kept in sync.

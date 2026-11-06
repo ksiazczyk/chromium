@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement initialized observer implementation
+// summary: Implements a state observer that reports when a browser's feature engagement tracker finishes initializing.
+// ---
+
 #include "chrome/test/interaction/feature_engagement_initialized_observer.h"
 
 #include "chrome/browser/feature_engagement/tracker_factory.h"

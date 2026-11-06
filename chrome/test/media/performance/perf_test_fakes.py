@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Test doubles for media performance unit tests
+# summary: Provides shared test doubles such as a fake SSH runner and a patched test case base for the media performance unit tests.
+# ---
+
 """Test doubles shared by the media perf unit tests."""
 
 import errno

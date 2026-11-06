@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: URLAllowlist policy end-to-end tests
+# summary: End-to-end enterprise test verifying that the URLAllowlist policy permits listed sites and blocks unlisted ones, including in incognito mode.
+# ---
+
 import logging
 import os
 from chrome_ent_test.infra.core import before_all

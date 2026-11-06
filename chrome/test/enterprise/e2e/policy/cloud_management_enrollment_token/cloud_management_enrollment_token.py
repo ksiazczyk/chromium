@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CloudManagementEnrollmentToken policy E2E test
+# summary: Enterprise E2E test that sets the CloudManagementEnrollmentToken policy from a stored enrollment token and verifies CBCM enrollment status on a Windows client.
+# ---
+
 import os
 
 from infra import ChromeEnterpriseTestCase

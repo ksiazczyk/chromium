@@ -1,0 +1,4 @@
+# Docerion header of common_unittest.py.
+type: test
+title: Unit tests for the common perf test wrappers
+summary: Unit tests covering the shared wrappers in common.py, including re-exports, unreachable-sender handling, and teardown behavior.

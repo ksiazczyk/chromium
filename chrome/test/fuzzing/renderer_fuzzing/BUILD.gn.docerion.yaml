@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Renderer in-process fuzzer build targets
+summary: GN build file defining targets for renderer in-process fuzzers, including the fuzzer runner source set, the IPC interfaces dumper, and the MojoLPM fuzzer testcase generator.

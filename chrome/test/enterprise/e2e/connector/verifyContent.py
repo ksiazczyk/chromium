@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: VerifyContent event data holder
+# summary: Holds device ID and timestamp data that connector tests verify against reported events.
+# ---
+
 from datetime import datetime
 
 

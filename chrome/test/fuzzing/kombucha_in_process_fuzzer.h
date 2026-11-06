@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kombucha UI in-process fuzzer header
+// summary: Declares the KombuchaInProcessFuzzer class and custom interaction verbs for fuzzing Chrome's UI via the Kombucha framework.
+// ---
+
 #ifndef CHROME_TEST_FUZZING_KOMBUCHA_IN_PROCESS_FUZZER_H_
 #define CHROME_TEST_FUZZING_KOMBUCHA_IN_PROCESS_FUZZER_H_
 

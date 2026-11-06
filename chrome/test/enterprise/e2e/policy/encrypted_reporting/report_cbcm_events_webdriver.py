@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Encrypted reporting heartbeat event WebDriver test
+# summary: Selenium WebDriver test that launches Chrome with encrypted reporting heartbeat flags, reloads enterprise policies, verifies the policy status page, and prints the Chrome log to confirm heartbeat events were sent.
+# ---
+
 import os
 from absl import app
 import time

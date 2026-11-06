@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: ChromeOS sender setup via Crossbench
+# summary: Starts Chrome on a ChromeOS sender through Crossbench, mocking optional dependencies and installing a matching chromedriver.
+# ---
+
 """Starts Chrome on a ChromeOS sender through Crossbench."""
 
 import importlib.abc

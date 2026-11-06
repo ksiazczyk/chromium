@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Google Update policy rollback test via CBCM
+# summary: Enterprise e2e test that sets a cloud management enrollment token, triggers the Google Updater, and asserts the Chrome version decreases after rollback.
+# ---
+
 import os
 
 import packaging.version

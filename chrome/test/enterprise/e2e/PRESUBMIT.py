@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for enterprise e2e tests
+# summary: Runs presubmit checks that warn when changes use test accounts outside the shared OTA account pool.
+# ---
+
 """Presubmit checks for Chrome Enterprise E2E tests.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

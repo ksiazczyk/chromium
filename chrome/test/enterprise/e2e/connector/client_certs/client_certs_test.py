@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Client certificates enterprise E2E test
+# summary: Chrome enterprise end-to-end test that sets up Windows VMs, runs a TLS echo server, and asserts client certificate policies and fingerprints on the managed client.
+# ---
+
 import base64
 import json
 import os

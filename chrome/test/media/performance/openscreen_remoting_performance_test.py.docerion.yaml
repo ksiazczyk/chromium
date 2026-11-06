@@ -1,0 +1,4 @@
+# Docerion header of openscreen_remoting_performance_test.py.
+type: test
+title: Openscreen remoting performance test suite
+summary: Selenium-driven performance test suite for media remoting on a laptop sender, recording output with a Basler camera and reporting metrics.

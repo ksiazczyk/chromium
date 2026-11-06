@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveBrowserWindowTest API header
+// summary: Declares InteractiveBrowserWindowTestApi, the Kombucha mixin giving desktop browser tests a concise library of interactive test methods.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_INTERACTIVE_BROWSER_WINDOW_TEST_H_
 #define CHROME_TEST_INTERACTION_INTERACTIVE_BROWSER_WINDOW_TEST_H_
 

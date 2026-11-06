@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Combined reporting connector end-to-end test
+# summary: End-to-end enterprise test that enrolls a browser, triggers a Safe Browsing event, and verifies reporting events reach multiple connector backends such as Splunk, Chronicle, Pub/Sub, CrowdStrike and PAN.
+# ---
+
 import concurrent.futures
 from datetime import datetime
 import logging

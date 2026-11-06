@@ -1,0 +1,4 @@
+# Docerion header of openscreen_cast_performance_test.pydeps.
+type: config
+title: Dependency list for the openscreen cast performance test
+summary: Generated list of Python module dependencies for the openscreen cast performance test, consumed by the GN build.

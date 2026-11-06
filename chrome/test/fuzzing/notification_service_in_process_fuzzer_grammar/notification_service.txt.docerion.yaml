@@ -1,0 +1,4 @@
+# Docerion header of notification_service.txt.
+type: test
+title: Notification service in-process fuzzer grammar
+summary: Grammar rules describing Mojo notification message structures used to generate inputs for the notification service in-process fuzzer.

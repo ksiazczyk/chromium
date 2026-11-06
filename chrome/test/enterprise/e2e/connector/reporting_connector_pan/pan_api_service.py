@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Palo Alto Networks API service for XDR event verification
+# summary: Service class that authenticates to the Palo Alto Networks Cortex XDR API and queries events to verify reporting connector test outcomes.
+# ---
+
 from datetime import datetime
 from datetime import timezone
 import hashlib

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kombucha fuzzer fuzz case protobuf schema
+// summary: Defines the protobuf schema for UI fuzzing cases with actions, steps like clicks and drags, and browser accelerator commands.
+// ---
+
 syntax = "proto3";
 package test.fuzzing.ui_fuzzing;
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Google Update policy rollback test via GPO
+# summary: Enterprise e2e test that sets TargetVersionPrefix and RollbackToTargetVersion through group policy and asserts Chrome rolls back to the target major version.
+# ---
+
 
 import packaging.version
 from chrome_ent_test.infra.core import before_all

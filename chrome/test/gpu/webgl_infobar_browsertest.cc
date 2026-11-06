@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGL context loss info bar browser test
+// summary: Browser test that simulates a GPU crash and checks that a WebGL context loss info bar appears; currently disabled as flaky.
+// ---
+
 #include "base/command_line.h"
 #include "base/path_service.h"
 #include "base/strings/utf_string_conversions.h"

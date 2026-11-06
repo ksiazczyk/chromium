@@ -1,0 +1,4 @@
+# Docerion header of senders_unittest.py.
+type: test
+title: Unit tests for senders
+summary: Unit tests for the per-OS sender classes, covering sender creation, platform detection, and Chrome installation commands.

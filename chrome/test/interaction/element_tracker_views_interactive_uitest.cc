@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ElementTracker window minimize and restore interactive UI tests
+// summary: Interactive UI tests checking that ElementTracker handles window visibility and minimize or restore events as expected.
+// ---
+
 #include "base/debug/stack_trace.h"
 #include "base/scoped_observation.h"
 #include "base/task/single_thread_task_runner.h"

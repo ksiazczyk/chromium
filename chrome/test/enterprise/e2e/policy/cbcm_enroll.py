@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CBCM enrollment policy status verification
+# summary: Selenium script that checks the browser policy status legend, prints enrollment details such as the device ID, and triggers a report upload during CBCM enrollment testing.
+# ---
+
 import os
 from absl import app
 import time

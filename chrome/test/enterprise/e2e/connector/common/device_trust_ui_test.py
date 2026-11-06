@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Device trust connector UI end-to-end test
+# summary: Selenium-driven end-to-end test that verifies device trust key creation and loading by fetching policies and inspecting the Chrome connectors internals page.
+# ---
+
 import json
 import re
 import time

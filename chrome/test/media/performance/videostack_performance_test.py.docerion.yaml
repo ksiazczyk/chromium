@@ -1,0 +1,4 @@
+# Docerion header of videostack_performance_test.py.
+type: test
+title: Video playback performance test suite
+summary: Automates video playback performance tests with Selenium and chromedriver, recording with ffmpeg and measuring dropped frames and smoothness.

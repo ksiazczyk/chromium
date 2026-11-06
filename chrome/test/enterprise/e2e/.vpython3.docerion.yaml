@@ -1,0 +1,4 @@
+# Docerion header of .vpython3.
+type: config
+title: VPython spec for enterprise e2e test dependencies
+summary: Defines the Python package wheels needed to run the enterprise e2e test scripts in reproducible vpython environments locally and in LUCI.

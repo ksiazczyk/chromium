@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for media performance tests
+# summary: Presubmit hook that runs the unit tests in this directory on Linux and Mac hosts, skipping Windows.
+# ---
+
 """Presubmit script for chrome/test/media/performance.
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

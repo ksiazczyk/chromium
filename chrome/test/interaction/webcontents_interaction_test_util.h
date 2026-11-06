@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsInteractionTestUtil header
+// summary: Declares WebContentsInteractionTestUtil and its DeepQuery and StateChange types for treating loaded pages as tracked elements in tests.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_WEBCONTENTS_INTERACTION_TEST_UTIL_H_
 #define CHROME_TEST_INTERACTION_WEBCONTENTS_INTERACTION_TEST_UTIL_H_
 

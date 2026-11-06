@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Downloader for Chrome and chromedriver test binaries
+# summary: Command-line script that downloads the Chrome enterprise installer and chromedriver for a given channel to a local path.
+# ---
+
 """Download the required test binaries such as chrome installer and
    chromedriver for test args
 

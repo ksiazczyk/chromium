@@ -1,0 +1,4 @@
+# Docerion header of webidlhelpers.txt.
+type: test
+title: WebIDL fuzzer grammar helper rules
+summary: Grammar rules mapping WebIDL types to JavaScript values plus helper lines that create HTML elements for the in-process fuzzer.

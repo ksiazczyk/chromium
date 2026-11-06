@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: URLBlocklist policy E2E test
+# summary: Enterprise test that sets the URLBlocklist policy and verifies blocked and allowed sites, including in incognito mode, on Windows Chrome clients.
+# ---
+
 import logging
 import os
 from chrome_ent_test.infra.core import before_all

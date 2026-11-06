@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kombucha UI in-process fuzzer implementation
+// summary: Implements a fuzzer that drives random UI interactions such as clicks, drags and accelerators on the Chrome browser UI.
+// ---
+
 #include "chrome/test/fuzzing/kombucha_in_process_fuzzer.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation server
+// summary: Defines a Stream wrapper and an AutomationServer that listens on 127.0.0.1:8666 and hands socket traffic to the connection handler.
+// ---
+
 var socket = chrome.experimental.socket || chrome.socket;
 
 // Stream encapsulates read/write operations over socket.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Client certificates WebDriver UI test
+# summary: Selenium WebDriver script that signs into Chrome, gathers applied policies and client certificate fingerprints, and writes the results to a JSON file.
+# ---
+
 import json
 import socket
 import time

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Check whether an extension is installed
+# summary: Test helper that opens Chrome's extensions page with Selenium, searches nested shadow DOMs for the extension with the given ID, and prints TRUE or FALSE to report whether it is installed.
+# ---
+
 import time
 import traceback
 from absl import app, flags

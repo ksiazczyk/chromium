@@ -1,0 +1,4 @@
+# Docerion header of webcodecs.txt.
+type: test
+title: WebCodecs fuzzer main grammar
+summary: Main grammar for the WebCodecs in-process fuzzer, defining rules for codecs, encoder and decoder configurations, and other WebCodecs API values.

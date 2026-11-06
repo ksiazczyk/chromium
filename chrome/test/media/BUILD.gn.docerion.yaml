@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Media performance test build targets
+summary: GN build file defining a testonly group that aggregates openscreen cast, remoting, and videostack performance test targets under chrome/test/media/performance.

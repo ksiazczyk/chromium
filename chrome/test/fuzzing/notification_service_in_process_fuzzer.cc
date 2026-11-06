@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification service in-process fuzzer
+// summary: Fuzzer that uses DomatoLPM-generated JavaScript to exercise the notification service from a MojoJS-enabled page.
+// ---
+
 #include <string_view>
 
 #include "base/path_service.h"

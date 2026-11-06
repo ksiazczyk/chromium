@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Realtime reporting UI test
+# summary: Selenium and pywinauto UI test that visits unsafe pages and checks enterprise realtime reporting event upload histograms.
+# ---
+
 import json
 import logging
 import time

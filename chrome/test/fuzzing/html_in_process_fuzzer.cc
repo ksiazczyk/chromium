@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTML in-process fuzzer example
+// summary: Example InProcessFuzzer that encodes arbitrary HTML into a data URI and navigates to it.
+// ---
+
 #include <string_view>
 
 #include "base/strings/escape.h"

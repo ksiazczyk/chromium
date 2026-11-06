@@ -1,0 +1,4 @@
+# Docerion header of template.host.textpb.
+type: config
+title: CELab host file template for CI tests
+summary: Text proto template describing CELab test hosts and machine types, with tokens replaced by generate_host_files.py.

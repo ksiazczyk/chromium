@@ -1,0 +1,4 @@
+# Docerion header of echo_server.py.
+type: test
+title: HTTPS echo server for client certificate testing
+summary: HTTPS server that echoes the client certificate DER back to the orchestrating machine for connector certificate tests.

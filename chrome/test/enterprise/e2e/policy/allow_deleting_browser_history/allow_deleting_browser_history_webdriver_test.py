@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Allow deleting browser history WebDriver test
+# summary: Selenium WebDriver test that detects whether history deletion is enabled or disabled by checking the disabled attribute of the first history item's checkbox on the browser history page.
+# ---
+
 from absl import app
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions

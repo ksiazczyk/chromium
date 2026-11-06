@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Reporting connector with Chronicle end-to-end test
+# summary: End-to-end test that enrolls a browser, triggers an unsafe browsing event, and verifies the event reaches Chronicle through the realtime reporting connector.
+# ---
+
 import logging
 from datetime import datetime
 from chrome_ent_test.infra.core import before_all

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive browser test API implementation
+// summary: Implements Kombucha test verbs for instrumenting WebContents, WebUI elements, and mouse actions in browser tests.
+// ---
+
 #include "chrome/test/interaction/interactive_browser_test.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Gemini settings WebDriver test
+# summary: Selenium WebDriver test that signs into Chrome, reloads enterprise policies, and exports the browser's Gemini settings from internal preferences pages to a JSON results file.
+# ---
+
 import json
 import os
 import time

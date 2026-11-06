@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureHost in-process fuzzer
+// summary: In-process fuzzer that runs DomatoLPM-generated JavaScript against the VideoCaptureHost Mojo interface with MojoJS bindings enabled.
+// ---
+
 #include <string_view>
 
 #include "base/path_service.h"

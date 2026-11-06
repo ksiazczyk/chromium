@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Profile enrollment UI automation test
+# summary: UI automation script that signs in through Microsoft auth, completes work profile enrollment with Selenium and pywinauto, and checks profile status and cloud policies.
+# ---
+
 import time
 import logging
 import threading

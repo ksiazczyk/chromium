@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser interaction test utility implementation
+// summary: Implements browser-specific interaction test helpers for input simulation, browser lookup, and Skia Gold screenshot comparison.
+// ---
+
 #include "chrome/test/interaction/interaction_test_util_browser.h"
 
 #include <memory>

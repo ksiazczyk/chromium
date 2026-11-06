@@ -1,0 +1,4 @@
+# Docerion header of genai_test.asset.textpb.
+type: test
+title: GenAI policy test environment
+summary: Test asset defining the AD domain, domain controller, and client machines used by the GenAI policy E2E tests.

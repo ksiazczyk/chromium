@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kombucha interaction test build configuration
+summary: GN build file defining the Kombucha interaction test source set plus its unit, browser, and interactive UI test targets.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Splunk API Service for Event Verification
+# summary: Test helper that runs search jobs against a Splunk server API to verify Chrome reporting events exist.
+# ---
+
 
 import json
 import requests

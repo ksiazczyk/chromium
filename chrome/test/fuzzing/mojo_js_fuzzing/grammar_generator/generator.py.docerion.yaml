@@ -1,0 +1,4 @@
+# Docerion header of generator.py.
+type: test
+title: Domato grammar generator for Mojo JS fuzzing
+summary: Generates a Domato grammar from the root interfaces JSON file, building JavaScript boilerplate so Domato can interact with renderer-exposed browser interfaces.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Omaha Enterprise E2E test
+summary: Explains how to run the Omaha enterprise E2E test locally and links to requirement and test setup documentation.
+---
+
 # Omaha Enterprise E2E test
 
 Requirement Doc: <https://goto.google.com/cbe-omaha4-tests>

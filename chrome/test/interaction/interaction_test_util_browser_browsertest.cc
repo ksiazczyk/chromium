@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for InteractionTestUtilBrowser
+// summary: Browser tests verifying browser context lookup and screenshot comparison behavior of InteractionTestUtilBrowser.
+// ---
+
 #include "chrome/test/interaction/interaction_test_util_browser.h"
 
 #include <memory>

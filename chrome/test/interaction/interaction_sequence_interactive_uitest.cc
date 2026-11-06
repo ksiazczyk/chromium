@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractionSequence live browser interactive UI test
+// summary: Interactive UI test verifying basic InteractionSequence compatibility with a live browser via the app menu flow.
+// ---
+
 #include "ui/base/interaction/interaction_sequence.h"
 
 #include <string.h>

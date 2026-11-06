@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Extension install block check
+# summary: Selenium and pywinauto test that opens a given URL in Chrome and reports whether the admin-blocked extension message is shown.
+# ---
+
 import time
 
 from absl import app, flags

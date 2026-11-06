@@ -1,0 +1,4 @@
+# Docerion header of html_in_process_fuzzer.dictionary.
+type: data
+title: HTML fuzzer dictionary
+summary: libFuzzer dictionary of HTML tags and attributes used by the HTML in-process fuzzer.

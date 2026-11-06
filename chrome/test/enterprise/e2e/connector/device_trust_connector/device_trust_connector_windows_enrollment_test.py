@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Device Trust connector Windows enrollment end-to-end test
+# summary: Chrome enterprise end-to-end test that enrolls a Windows client via the Device Trust connector and asserts key creation, key sync, trust level, and client and server signals.
+# ---
+
 import json
 import logging
 import os

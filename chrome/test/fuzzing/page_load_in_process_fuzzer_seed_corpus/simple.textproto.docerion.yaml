@@ -1,0 +1,4 @@
+# Docerion header of simple.textproto.
+type: test
+title: Data URI seed for the page load in-process fuzzer
+summary: Seed corpus entry that navigates to a simple HTML page via a data URI as input for the page load in-process fuzzer.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Enterprise Chrome Web Store WebDriver test script
+# summary: Selenium WebDriver script that reloads Chrome policies and navigates to the Chrome Web Store to verify enterprise customization.
+# ---
+
 import time
 
 from absl import app  # Added import

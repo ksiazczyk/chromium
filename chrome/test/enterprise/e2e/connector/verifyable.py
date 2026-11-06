@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Verifyable verification interface
+# summary: Abstract interface whose TryVerify method is called repeatedly by connector tests until expected content is found or a timeout is reached.
+# ---
+
 from abc import ABC, abstractmethod
 from . import VerifyContent
 

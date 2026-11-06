@@ -1,0 +1,4 @@
+# Docerion header of generator.py.
+type: test
+title: Domato grammar generator from the WebIDL API database
+summary: Generates a Domato grammar from the WebIDL API database, building the JavaScript boilerplate that lets Domato interact with WebIDLs for fuzzing.

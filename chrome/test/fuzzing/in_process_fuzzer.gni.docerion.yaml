@@ -1,0 +1,4 @@
+# Docerion header of in_process_fuzzer.gni.
+type: test
+title: In-process fuzzer GN build template
+summary: GN template that builds in-process fuzzers with full browser test capabilities and tuned sanitizer, libFuzzer and Centipede options.

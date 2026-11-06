@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for InteractiveBrowserTest
+// summary: Extensive browser tests covering Kombucha verbs such as element dumping, clicks, scrolling, and web contents interaction.
+// ---
+
 #include "chrome/test/interaction/interactive_browser_test.h"
 
 #include <list>

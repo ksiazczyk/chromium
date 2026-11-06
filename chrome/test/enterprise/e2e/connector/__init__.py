@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Connector test package initializer
+# summary: Package initializer that imports shared test helpers and all connector test modules, with some imports disabled pending license renewals.
+# ---
+
 from .verifyContent import VerifyContent  # noqa: F401
 from .verifyable import Verifyable  # noqa: F401
 from .chrome_reporting_connector_test_case import (

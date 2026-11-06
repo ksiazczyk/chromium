@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for media performance test libraries
+summary: Defines testonly Python library targets that bundle the media performance test scripts and their runtime data dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of template.html.
+type: test
+title: WebCodecs fuzzer HTML template
+summary: HTML and JavaScript template that prepares WebCodecs test inputs like AudioData and VideoFrame and runs the generated fuzzer code in place of a placeholder.

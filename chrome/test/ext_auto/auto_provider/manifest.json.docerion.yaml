@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test Automation Provider extension manifest
+summary: Manifest for the Test Automation Provider extension, declaring background scripts and a broad set of permissions for browser automation testing.

@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Single-test runner for enterprise e2e tests
+# summary: Deploys the test environment and executes one enterprise e2e test case, with options for cleanup, filters and error log collection.
+# ---
+
 """The test runner that runs enterprise end-to-end tests."""
 
 import json

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ExtensionInstallBlocklist policy end-to-end tests
+# summary: Chrome enterprise E2E test case that sets the ExtensionInstallBlocklist policy and verifies blocked and allowed extension installs on a Windows client.
+# ---
+
 import logging
 import os
 from chrome_ent_test.infra.core import before_all

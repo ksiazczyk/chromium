@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Remote command transport for sender devices
+# summary: Runs commands on the sender device over SSH or locally, with connectivity checks and error types for unreachable senders.
+# ---
+
 """Runs commands on the sender DUT, either over SSH or on this machine.
 
 Use make_transport() to get the right Transport for a sender hostname. The

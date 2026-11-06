@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: YouTube restrict WebDriver helper script
+# summary: WebDriver helper that opens a given URL in Chrome and prints the page header text so the test can detect whether YouTube Restricted Mode is active.
+# ---
+
 import time
 
 from absl import app, flags

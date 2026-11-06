@@ -1,3 +1,13 @@
+---
+type: readme
+title: ATSPI in-process fuzzer README
+summary: Explains what bugs reported by the atspi_in_process_fuzzer mean and how to reproduce them.
+relations:
+  - documents /chrome/test/fuzzing/atspi_in_process_fuzzer.cc
+  - references /docs/security/severity-guidelines.md
+  - references /testing/libfuzzer/reproducing.md
+---
+
 So, you've had a bug reported by `atspi_in_process_fuzzer`? What does this mean?
 
 This fuzzer attempts to explore the Chrome UI using the same accessibility APIs

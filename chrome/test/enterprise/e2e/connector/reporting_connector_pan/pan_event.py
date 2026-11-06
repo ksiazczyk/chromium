@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: PanEvent model for events reported to the PAN console
+# summary: Defines an immutable event model with type, device id, reason and url used to match events queried from Palo Alto Networks XDR.
+# ---
+
 from typing import Any
 
 import attrs

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo IPC interfaces dumper browser test
+// summary: In-process browser test that enumerates frame and process bound Mojo interfaces and writes them as JSON to the file given by the IPC_DUMP_PATH environment variable.
+// ---
+
 #include "content/public/test/ipc_interfaces_dumper.h"
 
 #include <set>

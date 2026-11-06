@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for mouse interaction utility
+// summary: Parameterized interactive tests exercising mouse and touch-mode gestures such as move and click via InteractionTestUtilMouse.
+// ---
+
 #include "ui/views/interaction/mouse/interaction_test_util_mouse.h"
 
 #include "base/task/single_thread_task_runner.h"

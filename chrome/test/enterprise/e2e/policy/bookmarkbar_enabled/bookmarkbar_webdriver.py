@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Bookmark bar UI check with Selenium and pywinauto
+# summary: UI automation helper that connects to running Chrome via Selenium and pywinauto and prints whether the bookmark bar toolbar is present or missing.
+# ---
+
 from pywinauto.application import Application
 from pywinauto.findwindows import ElementNotFoundError
 from selenium import webdriver

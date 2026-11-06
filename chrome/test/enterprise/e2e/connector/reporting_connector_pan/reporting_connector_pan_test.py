@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: E2E test for realtime reporting pipeline with PAN
+# summary: Enterprise E2E test that triggers an unsafe browsing event in Chrome and verifies the corresponding event reaches Palo Alto Networks XDR.
+# ---
+
 from datetime import datetime
 import json
 import logging

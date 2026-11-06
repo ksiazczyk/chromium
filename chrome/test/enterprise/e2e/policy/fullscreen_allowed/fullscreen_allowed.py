@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: FullscreenAllowed policy E2E test
+# summary: Chrome enterprise end-to-end test that sets the FullscreenAllowed policy on a Windows domain and verifies fullscreen is enabled or blocked accordingly.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import environment

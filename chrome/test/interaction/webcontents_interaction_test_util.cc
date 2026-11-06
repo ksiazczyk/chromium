@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsInteractionTestUtil implementation
+// summary: Implements the utility that wraps a WebContents for InteractionSequence, supporting navigation, JavaScript injection, and state-change polling.
+// ---
+
 #include "chrome/test/interaction/webcontents_interaction_test_util.h"
 
 #include <algorithm>

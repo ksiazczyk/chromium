@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ChromeDataRegionSetting policy enterprise E2E tests
+# summary: Enterprise end-to-end tests that enroll machines and users and assert the ChromeDataRegionSetting policy value, source, scope and status.
+# ---
+
 import os
 import logging
 from absl import flags

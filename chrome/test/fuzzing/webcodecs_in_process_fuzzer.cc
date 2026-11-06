@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebCodecs in-process fuzzer
+// summary: In-process fuzzer that uses DomatoLPM to generate JavaScript from a WebCodecs grammar and executes it in a secure-context page to fuzz the WebCodecs API.
+// ---
+
 #include <string_view>
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: PasswordManagerEnabled policy end-to-end test
+# summary: Chrome enterprise test that sets the PasswordManagerEnabled policy on a Windows domain and asserts the browser's password manager toggle matches the policy via a WebDriver check.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import category

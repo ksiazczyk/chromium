@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Selenium WebDriver helper that performs a Google search
+# summary: Selenium script that runs a search on google.com and prints the resulting URL so the policy test can verify SafeSearch parameters.
+# ---
+
 from urllib.parse import unquote
 
 from selenium.webdriver.common.by import By

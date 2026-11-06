@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Apps shortcut visibility UI check
+# summary: UI automation script that connects to a running Chrome window and reports whether the Apps shortcut is visible.
+# ---
+
 from absl import app
 from pywinauto.application import Application
 

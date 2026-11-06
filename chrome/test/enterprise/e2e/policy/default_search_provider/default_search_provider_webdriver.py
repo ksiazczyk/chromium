@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Default search provider omnibox UI automation script
+# summary: UI automation script that types a query into Chrome's omnibox using pywinauto and Selenium, then prints the resulting URL for the policy test to assert on.
+# ---
+
 from pywinauto.application import Application
 from selenium import webdriver
 

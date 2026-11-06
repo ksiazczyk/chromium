@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CBCM heartbeat events encrypted reporting E2E test
+# summary: Enterprise E2E test that verifies CBCM-managed Chrome browsers send heartbeat events to the Chrome encrypted reporting server.
+# ---
+
 
 import logging
 import os

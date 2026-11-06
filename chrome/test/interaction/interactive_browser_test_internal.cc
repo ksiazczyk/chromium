@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveBrowserTest private implementation
+// summary: Implements InteractiveBrowserTestPrivate, including the JavaScript used to dump DOM elements and helpers for instrumenting WebContents in tests.
+// ---
+
 #include "chrome/test/interaction/interactive_browser_test_internal.h"
 
 #include <compare>

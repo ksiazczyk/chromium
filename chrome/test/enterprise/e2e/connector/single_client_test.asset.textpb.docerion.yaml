@@ -1,0 +1,4 @@
+# Docerion header of single_client_test.asset.textpb.
+type: config
+title: Single Windows client test environment configuration
+summary: Test asset defining a minimal environment with a single Windows client machine for single-machine connector test scenarios.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Reporting Connector with Splunk E2E Test
+# summary: End-to-end test that enrolls a Chrome browser, triggers an unsafe browsing event, and verifies it is reported to a Splunk instance.
+# ---
+
 import logging
 from datetime import datetime
 

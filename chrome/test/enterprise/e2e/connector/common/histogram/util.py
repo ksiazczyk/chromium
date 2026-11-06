@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Histogram parsing utilities for enterprise connector tests
+# summary: Defines data classes and a parse helper for Chrome histogram JSON responses used by enterprise connector e2e tests.
+# ---
+
 import json
 import socket
 from typing import Dict, List, Optional, Set

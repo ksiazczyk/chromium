@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ext_auto tests
+summary: Lists achuith@chromium.org as the owner responsible for reviewing changes to the ext_auto test directory.

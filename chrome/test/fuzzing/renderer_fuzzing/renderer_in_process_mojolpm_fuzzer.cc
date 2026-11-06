@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoLPM renderer in-process fuzzer adapter
+// summary: Implements RendererFuzzingAdapter, a proto-based renderer fuzzer that parses RendererTestcase protos and runs the generated MojoLPM testcase in the renderer process.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"
 #include "chrome/test/fuzzing/renderer_fuzzing/in_process_renderer_fuzzing.h"

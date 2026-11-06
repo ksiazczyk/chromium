@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ShowAppsShortcutInBookmarkBar policy E2E test
+# summary: Enterprise E2E test that verifies the Apps shortcut appears or disappears in the bookmark bar depending on the ShowAppsShortcutInBookmarkBar policy.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import environment
