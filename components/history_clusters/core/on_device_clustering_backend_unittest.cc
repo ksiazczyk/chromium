@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device clustering backend unit tests
+// summary: Unit tests for the on-device clustering backend covering cluster output, filtering, and optimization-guide host skipping.
+// ---
+
 #include "components/history_clusters/core/on_device_clustering_backend.h"
 
 #include "base/containers/flat_set.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File clustering backend unit tests
+// summary: Unit tests for FileClusteringBackend covering backend creation via the command line switch and loading clusters from a JSON override file.
+// ---
+
 #include "components/history_clusters/core/file_clustering_backend.h"
 #include <memory>
 

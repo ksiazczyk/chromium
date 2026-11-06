@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter cluster processor unit tests
+// summary: Unit tests verifying that clusters are filtered by criteria like images, categories, search terms, related searches, noisiness, and content visibility.
+// ---
+
 #include "components/history_clusters/core/filter_cluster_processor.h"
 
 #include <vector>

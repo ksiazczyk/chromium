@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters profile preference registration
+// summary: Registers profile preferences for Journeys visibility, keyword caches, and the last selected history tab.
+// ---
+
 #include "components/history_clusters/core/history_clusters_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

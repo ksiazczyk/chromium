@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context clusterer history service observer implementation
+// summary: Implements a HistoryServiceObserver that groups visits into in-progress clusters based on navigation context, search terms, and timing, with latency metrics.
+// ---
+
 #include "components/history_clusters/core/context_clusterer_history_service_observer.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the history clusters internals WebUI directory
+summary: Lists the allowed dependencies for code in the history clusters internals WebUI directory.

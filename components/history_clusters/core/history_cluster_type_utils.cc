@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History cluster type utilities implementation
+// summary: Implements conversions from history cluster and visit types to their mojom counterparts for the UI, including annotations, match positions, and debug info.
+// ---
+
 #include "components/history_clusters/core/history_cluster_type_utils.h"
 
 #include <optional>

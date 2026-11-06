@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device clustering utility implementations
+// summary: Implements helpers to merge duplicate visits, detect noisy visits, append cluster visits, and remove empty clusters.
+// ---
+
 #include "components/history_clusters/core/on_device_clustering_util.h"
 
 #include <algorithm>

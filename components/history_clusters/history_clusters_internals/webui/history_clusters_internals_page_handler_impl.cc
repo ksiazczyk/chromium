@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side handler for the history clusters internals page
+// summary: Implements the PageHandler Mojo interface, serving context clusters as JSON and forwarding debug log messages from the history clusters service.
+// ---
+
 #include "components/history_clusters/history_clusters_internals/webui/history_clusters_internals_page_handler_impl.h"
 
 #include "base/time/time.h"

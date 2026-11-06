@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update clusters task implementation
+// summary: Implements a service task that fetches annotated visits around a moving daily threshold, re-clusters them via the backend, and persists the resulting clusters.
+// ---
+
 #include "history_clusters_service_task_update_clusters.h"
 
 #include <utility>

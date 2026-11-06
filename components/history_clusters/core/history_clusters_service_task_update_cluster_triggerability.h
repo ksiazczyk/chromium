@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update cluster triggerability task header
+// summary: Declares the service task that updates triggerability metadata for persisted clusters, documenting its asynchronous callback flow and members.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_SERVICE_TASK_UPDATE_CLUSTER_TRIGGERABILITY_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_SERVICE_TASK_UPDATE_CLUSTER_TRIGGERABILITY_H_
 

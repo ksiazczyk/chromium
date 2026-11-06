@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File clustering backend header
+// summary: Declares FileClusteringBackend, a clustering backend that serves clusters read from a JSON file given by a command line switch, created only when the switch is enabled.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_FILE_CLUSTERING_BACKEND_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_FILE_CLUSTERING_BACKEND_H_
 

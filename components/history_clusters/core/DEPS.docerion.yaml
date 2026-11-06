@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: History clusters core include rules
+summary: Lists the allowed include dependencies for the history clusters core directory.

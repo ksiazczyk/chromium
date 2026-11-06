@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings feature declarations
+// summary: Declares the history embeddings features and the FeatureParameters struct holding tunable settings for search, passage extraction, and answering.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_HISTORY_EMBEDDINGS_FEATURES_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_HISTORY_EMBEDDINGS_FEATURES_H_
 

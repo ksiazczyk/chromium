@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get most recent clusters task declaration
+// summary: Declares the task that fetches newly generated clusters from unclustered visits and falls back to persisted clusters.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_SERVICE_TASK_GET_MOST_RECENT_CLUSTERS_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_SERVICE_TASK_GET_MOST_RECENT_CLUSTERS_H_
 

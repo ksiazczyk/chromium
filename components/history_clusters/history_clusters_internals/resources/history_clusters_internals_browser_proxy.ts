@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for History Clusters Internals
+// summary: Singleton browser proxy that binds the internals page to its Mojo page handler for callbacks and remote calls.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './history_clusters_internals.mojom-webui.js';
 
 export class HistoryClustersInternalsBrowserProxy {

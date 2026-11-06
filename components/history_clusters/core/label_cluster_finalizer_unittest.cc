@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Label cluster finalizer unit tests
+// summary: Unit tests verifying label selection from search terms and hostnames, including label source tracking.
+// ---
+
 #include "components/history_clusters/core/label_cluster_finalizer.h"
 
 #include "base/test/task_environment.h"

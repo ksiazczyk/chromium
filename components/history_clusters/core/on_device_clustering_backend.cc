@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device clustering backend implementation
+// summary: Implements the backend that clusters history visits on device, with engagement score caching, host skipping, and background-thread processing.
+// ---
+
 #include "components/history_clusters/core/on_device_clustering_backend.h"
 
 #include <algorithm>

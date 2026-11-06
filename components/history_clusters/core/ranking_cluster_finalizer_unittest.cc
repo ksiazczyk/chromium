@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RankingClusterFinalizer unit tests
+// summary: Unit tests verifying visit scoring and duplicate handling in RankingClusterFinalizer across same, different and similar URLs.
+// ---
+
 #include "components/history_clusters/core/ranking_cluster_finalizer.h"
 
 #include "base/test/task_environment.h"

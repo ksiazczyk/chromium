@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get most recent clusters for UI task implementation
+// summary: Task that fetches persisted clusters for the history UI using filter and continuation parameters.
+// ---
+
 #include "history_clusters_service_task_get_most_recent_clusters_for_ui.h"
 
 #include <utility>

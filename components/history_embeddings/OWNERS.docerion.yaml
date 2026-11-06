@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for history embeddings
+summary: Lists the Chromium developers responsible for reviewing changes in the history embeddings component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankingClusterFinalizer and VisitScores declaration
+// summary: Declares the VisitScores helper and RankingClusterFinalizer, which score visits with Finch-configurable weightings for duration, bookmarks, search result pages and images.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_RANKING_CLUSTER_FINALIZER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_RANKING_CLUSTER_FINALIZER_H_
 

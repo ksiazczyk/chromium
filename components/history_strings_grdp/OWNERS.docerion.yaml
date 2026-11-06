@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for history strings folder
+summary: Delegates ownership of this strings folder to the maintainers listed in components/history/OWNERS.

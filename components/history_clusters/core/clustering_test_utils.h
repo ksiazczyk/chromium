@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clustering test utilities header
+// summary: Declares test helpers for clustering tests, including VisitResult, ToVisitResults, and factory functions for visits, duplicate visits, and clusters.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTERING_TEST_UTILS_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTERING_TEST_UTILS_H_
 

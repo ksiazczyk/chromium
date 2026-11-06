@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector database unit tests
+// summary: Unit tests for VectorDatabase covering non-ASCII character erasure, embedding scoring, best score computation, and word match boosting behavior.
+// ---
+
 #include "components/history_embeddings/core/vector_database.h"
 
 #include <atomic>

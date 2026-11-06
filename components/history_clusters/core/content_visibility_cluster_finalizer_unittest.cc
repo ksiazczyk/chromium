@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content visibility cluster finalizer unit tests
+// summary: Unit tests covering visibility-score-based cluster filtering and the related filtering histogram metrics.
+// ---
+
 #include "components/history_clusters/core/content_visibility_cluster_finalizer.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the history clusters internals WebUI
+summary: Defines the static library, constants source set, and Mojo bindings targets that build the history clusters internals WebUI component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update clusters task header
+// summary: Declares the service task that clusters and re-clusters visits straddling a threshold, replacing old clusters as it advances day by day until today.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_SERVICE_TASK_UPDATE_CLUSTERS_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTERS_SERVICE_TASK_UPDATE_CLUSTERS_H_
 

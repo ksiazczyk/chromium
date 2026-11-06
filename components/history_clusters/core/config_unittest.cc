@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Config unit tests
+// summary: Unit tests verifying the Journeys locale and language allowlist behavior of the history clusters config, including wildcard and subcode handling.
+// ---
+
 #include "components/history_clusters/core/config.h"
 
 #include "base/test/scoped_feature_list.h"

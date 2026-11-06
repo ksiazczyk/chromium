@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Embeddings SQL database class declaration
+// summary: Declares the SqlDatabase class that provides on-disk SQLite storage for history passages and embeddings, including queries, iteration, and deletion.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_SQL_DATABASE_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_SQL_DATABASE_H_
 

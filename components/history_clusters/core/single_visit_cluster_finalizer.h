@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleVisitClusterFinalizer class declaration
+// summary: Declares a ClusterFinalizer subclass that marks single-visit clusters as not shown on prominent UI surfaces.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_SINGLE_VISIT_CLUSTER_FINALIZER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_SINGLE_VISIT_CLUSTER_FINALIZER_H_
 

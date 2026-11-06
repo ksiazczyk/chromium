@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device clustering feature flag definitions
+// summary: Defines feature flags controlling on-device clustering, blocklists, keyword filtering, and visit ranking.
+// ---
+
 #include "components/history_clusters/core/on_device_clustering_features.h"
 
 #include <algorithm>

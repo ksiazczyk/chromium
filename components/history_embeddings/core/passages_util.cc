@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passages compression and encryption utilities
+// summary: Converts passages protos into gzip-compressed, encrypted blobs for storage and decodes them back with size and memory guards.
+// ---
+
 #include "components/history_embeddings/core/passages_util.h"
 
 #include <string>

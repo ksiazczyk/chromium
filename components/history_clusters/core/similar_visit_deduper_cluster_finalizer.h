@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimilarVisitDeduperClusterFinalizer declaration
+// summary: Declares a cluster finalizer that dedupes similar visits based on URL and the host and title shown in the UI.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_SIMILAR_VISIT_DEDUPER_CLUSTER_FINALIZER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_SIMILAR_VISIT_DEDUPER_CLUSTER_FINALIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context clusterer history service observer header
+// summary: Declares the history service observer that groups visits into clusters, plus structs for in-progress clusters and cached engagement scores.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_CONTEXT_CLUSTERER_HISTORY_SERVICE_OBSERVER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_CONTEXT_CLUSTERER_HISTORY_SERVICE_OBSERVER_H_
 

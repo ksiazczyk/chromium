@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for history embeddings content
+summary: Lists the allowed include paths for the history embeddings content folder, with an extra rule for the unit test file.

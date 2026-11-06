@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryEmbeddingsService class declaration
+// summary: Declares the HistoryEmbeddingsService keyed service that computes and stores page embeddings and answers history searches via the embeddings database.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CONTENT_HISTORY_EMBEDDINGS_SERVICE_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CONTENT_HISTORY_EMBEDDINGS_SERVICE_H_
 

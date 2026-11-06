@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: History clusters strings OWNERS redirect
+summary: Redirects code ownership of the history clusters strings directory to the owners of components/history_clusters.

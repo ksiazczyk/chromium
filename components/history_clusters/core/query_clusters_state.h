@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryClustersState class declaration
+// summary: Declares QueryClustersState, which encapsulates results of a query to the history clusters service and manages fetching further batches of clusters as the user scrolls.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_QUERY_CLUSTERS_STATE_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_QUERY_CLUSTERS_STATE_H_
 

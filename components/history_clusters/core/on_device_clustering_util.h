@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device clustering utility declarations
+// summary: Declares helpers for merging duplicate visits, detecting noisy visits, and manipulating cluster visit lists.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_ON_DEVICE_CLUSTERING_UTIL_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_ON_DEVICE_CLUSTERING_UTIL_H_
 

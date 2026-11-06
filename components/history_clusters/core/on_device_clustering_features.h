@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device clustering feature flag declarations
+// summary: Declares the feature flags that configure the on-device clustering backend's behavior.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_ON_DEVICE_CLUSTERING_FEATURES_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_ON_DEVICE_CLUSTERING_FEATURES_H_
 

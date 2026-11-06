@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search strings update listener implementation
+// summary: Loads HistorySearchStrings protos from component updates on a background thread and stores filter word and stop word hashes.
+// ---
+
 #include "components/history_embeddings/core/search_strings_update_listener.h"
 
 #include "base/files/file_util.h"

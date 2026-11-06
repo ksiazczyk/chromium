@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters utility unit tests
+// summary: Unit tests verifying URL deduplication, query-based cluster filtering, and related utility behavior of the history clusters utilities.
+// ---
+
 
 #include "components/history_clusters/core/history_clusters_util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings service implementation
+// summary: Implements HistoryEmbeddingsService, which stores page embeddings, filters and scores search queries, and serves history search results with UMA logging.
+// ---
+
 #include "components/history_embeddings/content/history_embeddings_service.h"
 
 #include <algorithm>

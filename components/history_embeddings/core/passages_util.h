@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passages utility declarations
+// summary: Declares functions that compress and encrypt passages protos into database blobs and decrypt and decompress them back.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_PASSAGES_UTIL_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_PASSAGES_UTIL_H_
 

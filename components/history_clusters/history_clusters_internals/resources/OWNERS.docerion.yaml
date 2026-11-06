@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for history clusters internals resources
+summary: Delegates ownership of this directory to the owners file of the parent history_clusters component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters internals WebUI controller declaration
+// summary: Declares the HistoryClustersInternalsUI class, a Mojo WebUI controller that serves the history clusters internals page and creates its page handler.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_HISTORY_CLUSTERS_INTERNALS_WEBUI_HISTORY_CLUSTERS_INTERNALS_UI_H_
 #define COMPONENTS_HISTORY_CLUSTERS_HISTORY_CLUSTERS_INTERNALS_WEBUI_HISTORY_CLUSTERS_INTERNALS_UI_H_
 

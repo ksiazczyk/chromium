@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History cluster type utilities header
+// summary: Declares ClusterToMojom, which converts a history cluster into its mojom representation for UI consumption.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTER_TYPE_UTILS_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_HISTORY_CLUSTER_TYPE_UTILS_H_
 

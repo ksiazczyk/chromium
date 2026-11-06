@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword cluster finalizer implementation
+// summary: Builds a cluster's keyword map from visit search terms and keeps only the top-scoring keywords per cluster.
+// ---
+
 #include "components/history_clusters/core/keyword_cluster_finalizer.h"
 
 #include <queue>

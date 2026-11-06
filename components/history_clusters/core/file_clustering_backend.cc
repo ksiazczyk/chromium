@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based clustering backend implementation
+// summary: Implements a clustering backend that loads clusters from a JSON override file given on the command line, for testing and debugging purposes.
+// ---
+
 #include "components/history_clusters/core/file_clustering_backend.h"
 
 #include <optional>

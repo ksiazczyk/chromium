@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters utility implementation
+// summary: Implements utility functions for history clusters, including query matching, URL deduplication and display, visit sorting, and cluster filtering.
+// ---
+
 #include "components/history_clusters/core/history_clusters_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History embeddings search interfaces
+// summary: Declares ScoredUrlRow, SearchResult, and the HistoryEmbeddingsSearch interface for embedding-based history search results.
+// ---
+
 #ifndef COMPONENTS_HISTORY_EMBEDDINGS_CORE_HISTORY_EMBEDDINGS_SEARCH_H_
 #define COMPONENTS_HISTORY_EMBEDDINGS_CORE_HISTORY_EMBEDDINGS_SEARCH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClusterFinalizer abstract interface
+// summary: Declares the abstract base class for finalizers that perform operations such as deduping and scoring on a cluster.
+// ---
+
 #ifndef COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_FINALIZER_H_
 #define COMPONENTS_HISTORY_CLUSTERS_CORE_CLUSTER_FINALIZER_H_
 
