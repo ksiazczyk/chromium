@@ -1,0 +1,4 @@
+# Docerion header of language_settings_mediator_unittest.mm.
+type: test
+title: Language settings mediator unit tests
+summary: Unit tests verifying the mediator's language lists, Translate state updates, and consumer callbacks using mock preferences and a fake consumer.

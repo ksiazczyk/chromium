@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityButtonItem header
+// summary: Declares IdentityButtonItem, a table view item carrying avatar, name, email, Gaia ID, managed state, arrow direction, style and enabled properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_IDENTITY_BUTTON_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_IDENTITY_BUTTON_ITEM_H_
 

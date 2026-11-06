@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Save to Photos settings mutator header
+// summary: Declares FakeSaveToPhotosSettingsMutator, a fake SaveToPhotosSettingsMutator implementation recording the selected account for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_SAVE_TO_PHOTOS_FAKE_SAVE_TO_PHOTOS_SETTINGS_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_SAVE_TO_PHOTOS_FAKE_SAVE_TO_PHOTOS_SETTINGS_MUTATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of downloads_settings_coordinator.mm.
+type: source
+title: Downloads settings coordinator implementation
+summary: Implements the Downloads settings coordinator, wiring the table view controller with sign-in, Save to Photos and auto-deletion flows.

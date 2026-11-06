@@ -1,0 +1,4 @@
+# Docerion header of language_item.mm.
+type: source
+title: LanguageItem model class implementation
+summary: Implements LanguageItem, initializing the language tag and returning a known language tag as fallback when none is set.

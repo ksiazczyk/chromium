@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_mediator_unittest.mm.
+type: test
+title: Credit card scanner mediator unit tests
+summary: Unit tests verifying that the mediator informs both its delegate and consumer when a credit card scan completes.

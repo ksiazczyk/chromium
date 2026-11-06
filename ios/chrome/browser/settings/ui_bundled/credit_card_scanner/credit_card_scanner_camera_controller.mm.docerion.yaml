@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_camera_controller.mm.
+type: source
+title: Credit card scanner camera controller implementation
+summary: Configures the video data output for the capture session and forwards camera frames to the credit card scanner delegate.

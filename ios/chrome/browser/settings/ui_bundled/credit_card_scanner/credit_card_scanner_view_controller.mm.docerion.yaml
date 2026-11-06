@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_view_controller.mm.
+type: source
+title: Credit card scanner view controller implementation
+summary: Implements the credit card scanner view controller, recording scanner dismissal metrics, adding an enter-manually button, and forwarding camera results to the delegate.

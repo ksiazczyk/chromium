@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for default browser settings
+summary: DEPS file allowing includes from ios/chrome/browser/ntp/model within this directory.

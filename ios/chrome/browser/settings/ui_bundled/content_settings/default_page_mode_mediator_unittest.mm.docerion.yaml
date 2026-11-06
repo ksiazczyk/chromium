@@ -1,0 +1,4 @@
+# Docerion header of default_page_mode_mediator_unittest.mm.
+type: test
+title: Default page mode mediator unit tests
+summary: Unit tests verifying the mediator syncs the default page mode with content settings and notifies the consumer using a mock tracker.

@@ -1,0 +1,4 @@
+# Docerion header of downloads_settings_coordinator_unittest.mm.
+type: test
+title: Downloads settings coordinator unit tests
+summary: Unit tests for the Downloads settings coordinator using fake identities, test browsers and OCMock mocks.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credit card scanner build configuration
+summary: Defines the credit_card_scanner source set and unit_tests target with their sources, dependencies and frameworks for the GN build.

@@ -1,0 +1,4 @@
+# Docerion header of language_settings_app_interface.mm.
+type: test
+title: Language settings test app interface implementation
+summary: Implements test helpers that manipulate translate prefs such as adding languages, blocking languages and setting the recent target language.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode settings coordinator header
+// summary: Declares the coordinator and its delegate for presenting the Reading Mode settings screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_READER_MODE_SETTINGS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_READER_MODE_SETTINGS_COORDINATOR_H_
 

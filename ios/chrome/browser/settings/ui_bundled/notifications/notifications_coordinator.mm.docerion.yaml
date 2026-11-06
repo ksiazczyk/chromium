@@ -1,0 +1,4 @@
+# Docerion header of notifications_coordinator.mm.
+type: source
+title: Notifications coordinator implementation
+summary: Implements presentation of the notifications settings, including sub-coordinators, the mediator and the opt-in alert flow.

@@ -1,0 +1,4 @@
+# Docerion header of tracking_price_constants.mm.
+type: source
+title: Tracking price constants implementation
+summary: Defines the accessibility identifier strings used by the Tracking Price settings UI and its tests.

@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_mediator.mm.
+type: source
+title: Credit card scanner mediator implementation
+summary: Implements the credit card scanner mediator, passing scanned card details to the consumer and notifying the delegate when the scan finishes.

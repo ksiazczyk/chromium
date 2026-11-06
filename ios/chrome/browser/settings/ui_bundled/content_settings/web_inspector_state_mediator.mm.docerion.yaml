@@ -1,0 +1,4 @@
+# Docerion header of web_inspector_state_mediator.mm.
+type: source
+title: Web Inspector state mediator implementation
+summary: Implements the mediator with a PrefBackedBoolean for the Web Inspector enabled preference, forwarding toggle actions and pref changes to the consumer.

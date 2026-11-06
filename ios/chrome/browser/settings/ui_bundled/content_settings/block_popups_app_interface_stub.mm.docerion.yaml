@@ -1,0 +1,4 @@
+# Docerion header of block_popups_app_interface_stub.mm.
+type: test
+title: Block popups app interface Earl Grey stub
+summary: Registers BlockPopupsAppInterface as a stub class in the app main queue for Earl Grey test runs.

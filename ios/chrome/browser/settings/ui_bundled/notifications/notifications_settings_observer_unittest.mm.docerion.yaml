@@ -1,0 +1,4 @@
+# Docerion header of notifications_settings_observer_unittest.mm.
+type: test
+title: Notifications settings observer unit tests
+summary: Unit tests verifying that NotificationsSettingsObserver notifies its delegate with the correct push notification client id when preferences change.

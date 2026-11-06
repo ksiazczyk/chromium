@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for iOS downloads settings
+summary: GN build file defining the source sets, dependencies and unit test targets for the iOS Chrome Downloads settings UI.

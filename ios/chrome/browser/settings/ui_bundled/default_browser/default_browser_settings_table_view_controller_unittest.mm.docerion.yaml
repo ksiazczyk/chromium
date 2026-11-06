@@ -1,0 +1,4 @@
+# Docerion header of default_browser_settings_table_view_controller_unittest.mm.
+type: test
+title: Default browser settings controller unit tests
+summary: Unit tests verifying the title and section layout of the default browser settings view controller.

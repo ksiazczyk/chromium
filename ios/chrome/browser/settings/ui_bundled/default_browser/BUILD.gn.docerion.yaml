@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for default browser settings
+summary: GN build file defining the default browser settings source set, its dependencies, and the unit test target.

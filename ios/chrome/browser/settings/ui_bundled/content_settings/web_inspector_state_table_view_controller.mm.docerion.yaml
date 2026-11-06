@@ -1,0 +1,4 @@
+# Docerion header of web_inspector_state_table_view_controller.mm.
+type: source
+title: Web Inspector state table view controller implementation
+summary: Builds the Web Inspector settings screen with a switch item and device-specific footer, records user metrics, and forwards switch toggles to the delegate.

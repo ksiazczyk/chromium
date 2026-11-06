@@ -1,0 +1,4 @@
+# Docerion header of content_notifications_view_controller.mm.
+type: source
+title: Content notifications settings view controller implementation
+summary: Implements the iOS Chrome view controller for the content notifications settings screen, showing content and sports notification switches with a footer and recording user metrics actions.

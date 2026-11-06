@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_coordinator.mm.
+type: source
+title: Credit card scanner coordinator implementation
+summary: Presents the scanner view controller and mediator, records the scan outcome histogram and notifies the delegate when finished.

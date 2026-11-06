@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_settings_table_view_controller_unittest.mm.
+type: test
+title: Reader mode settings table view controller unit tests
+summary: Unit tests verifying that the Reading Mode settings screen loads its title and two sections correctly.

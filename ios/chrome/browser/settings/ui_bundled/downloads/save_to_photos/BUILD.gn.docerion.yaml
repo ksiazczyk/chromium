@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Save to Photos settings
+summary: GN build file defining the save_to_photos source set together with its test support and unit test targets and their dependencies.

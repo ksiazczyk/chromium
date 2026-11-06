@@ -1,0 +1,4 @@
+# Docerion header of content_notifications_mediator.mm.
+type: source
+title: Content notifications mediator implementation
+summary: Implements the mediator handling settings switches, preference updates, histograms, and push notification permission changes.

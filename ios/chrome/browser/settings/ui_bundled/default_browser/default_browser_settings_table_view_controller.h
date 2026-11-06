@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser settings table view controller header
+// summary: Declares the controller that shows instructions for making Chrome the default browser and links to the iOS Settings app.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DEFAULT_BROWSER_DEFAULT_BROWSER_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DEFAULT_BROWSER_DEFAULT_BROWSER_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 

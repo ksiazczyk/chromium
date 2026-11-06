@@ -1,0 +1,4 @@
+# Docerion header of tracking_price_coordinator.mm.
+type: source
+title: Tracking price coordinator implementation
+summary: Implements the Tracking Price coordinator, creating the view controller and mediator and presenting the push notification permission alert.

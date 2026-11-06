@@ -1,0 +1,4 @@
+# Docerion header of content_notifications_egtest.mm.
+type: test
+title: Content notifications Earl Grey test
+summary: Earl Grey test source for the content notifications settings, currently containing only the license header.

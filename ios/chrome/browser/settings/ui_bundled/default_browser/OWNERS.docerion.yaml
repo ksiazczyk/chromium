@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for default browser settings
+summary: OWNERS file delegating ownership to the default browser OWNERS file.

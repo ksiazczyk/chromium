@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Tracking Price settings
+summary: GN build definition for the Tracking Price settings feature, grouping coordinator, mediator, UI, constants and Earl Grey test targets with their dependencies.

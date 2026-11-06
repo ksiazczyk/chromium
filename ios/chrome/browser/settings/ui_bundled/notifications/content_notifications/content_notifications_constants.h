@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content notifications settings constants
+// summary: Declares the settings toggle action enum and accessibility identifier and SF Symbol constants for the content notifications settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_CONTENT_NOTIFICATIONS_CONTENT_NOTIFICATIONS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_CONTENT_NOTIFICATIONS_CONTENT_NOTIFICATIONS_CONSTANTS_H_
 

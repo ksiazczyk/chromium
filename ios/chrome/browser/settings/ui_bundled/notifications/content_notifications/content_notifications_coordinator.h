@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content notifications coordinator interface
+// summary: Declares the coordinator for the content notifications settings screen, its delegate, and the notifications alert presenter conformance.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_CONTENT_NOTIFICATIONS_CONTENT_NOTIFICATIONS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_CONTENT_NOTIFICATIONS_CONTENT_NOTIFICATIONS_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_inspector_state_mediator_unittest.mm.
+type: test
+title: Web Inspector state mediator unit tests
+summary: Unit tests verifying that the mediator keeps the Web Inspector preference and its consumer in sync, using a testing pref service and OCMock.

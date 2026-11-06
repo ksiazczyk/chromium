@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for settings info popover elements
+summary: Defines GN source sets for the info popover, enterprise info popover, and constants targets used by the iOS settings elements folder.

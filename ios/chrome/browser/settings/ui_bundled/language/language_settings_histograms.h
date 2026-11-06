@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language settings UMA histogram enums
+// summary: Declares UMA histogram names and append-only enums for Language Settings page impressions and user actions, kept in sync with enums.xml.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_LANGUAGE_LANGUAGE_SETTINGS_HISTOGRAMS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_LANGUAGE_LANGUAGE_SETTINGS_HISTOGRAMS_H_
 

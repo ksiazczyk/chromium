@@ -1,0 +1,4 @@
+# Docerion header of default_page_mode_table_view_controller_unittest.mm.
+type: test
+title: Default page mode table view controller unit tests
+summary: Unit tests verifying the default page mode screen items, title, and checkmark updates for mobile and desktop modes.

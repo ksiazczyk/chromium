@@ -1,0 +1,4 @@
+# Docerion header of content_settings_table_view_controller_unittest.mm.
+type: test
+title: Content settings table view controller unit tests
+summary: Unit tests verifying the content settings screen title, section and item counts, and switch preference accessibility updates.

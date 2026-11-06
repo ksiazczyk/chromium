@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_string_util.mm.
+type: source
+title: Credit card scanner string utilities implementation
+summary: Implements regex-based extraction of credit card numbers and expiration dates, including symbol stripping and similar-character substitution.

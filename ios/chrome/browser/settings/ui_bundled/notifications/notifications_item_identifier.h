@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications settings item identifier enum
+// summary: Defines an enum of item types shown on the notifications settings page, including content, tips, price tracking, safety check and send tab entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_NOTIFICATIONS_ITEM_IDENTIFIER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_NOTIFICATIONS_ITEM_IDENTIFIER_H_
 

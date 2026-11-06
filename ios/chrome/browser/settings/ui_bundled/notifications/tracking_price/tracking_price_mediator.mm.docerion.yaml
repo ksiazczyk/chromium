@@ -1,0 +1,4 @@
+# Docerion header of tracking_price_mediator.mm.
+type: source
+title: Tracking price mediator implementation
+summary: Implements the Tracking Price mediator, building the notification list items and observing preference and push notification changes.

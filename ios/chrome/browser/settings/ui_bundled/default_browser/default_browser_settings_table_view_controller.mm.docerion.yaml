@@ -1,0 +1,4 @@
+# Docerion header of default_browser_settings_table_view_controller.mm.
+type: source
+title: Default browser settings table view controller implementation
+summary: Implements the default browser settings UI, including usage metrics, intent donation, and navigation to iOS default browser settings.

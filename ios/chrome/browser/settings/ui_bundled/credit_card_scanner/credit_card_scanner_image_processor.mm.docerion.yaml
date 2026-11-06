@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_image_processor.mm.
+type: source
+title: Credit card scanner image processor implementation
+summary: Implements Vision-based text recognition over camera frames, tracking candidate card numbers and expiry dates and recording scan latency metrics.

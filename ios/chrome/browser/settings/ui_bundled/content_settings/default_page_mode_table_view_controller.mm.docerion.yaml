@@ -1,0 +1,4 @@
+# Docerion header of default_page_mode_table_view_controller.mm.
+type: source
+title: Default page mode table view controller implementation
+summary: Implements the table view controller for choosing the default page loading mode, showing mobile and desktop options with checkmarks and recording usage metrics.

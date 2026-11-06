@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content notifications settings build definition
+summary: GN build file defining source sets for the coordinator, mediator, UI, constants, and Earl Grey tests of the content notifications settings.

@@ -1,0 +1,4 @@
+# Docerion header of identity_button_cell.mm.
+type: source
+title: IdentityButtonCell implementation
+summary: Implements IdentityButtonCell, creating an IdentityButtonControl without rounded corners and constraining it to the cell content view.

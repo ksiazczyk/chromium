@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_view_controller_unittest.mm.
+type: test
+title: Credit card scanner view controller unit tests
+summary: Unit tests for the credit card scanner view controller covering enter-manually dismissal, button setup idempotency, and scanner dismissal metrics.

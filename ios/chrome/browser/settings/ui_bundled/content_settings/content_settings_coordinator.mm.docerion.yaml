@@ -1,0 +1,4 @@
+# Docerion header of content_settings_coordinator.mm.
+type: source
+title: Content settings coordinator implementation
+summary: Starts the content settings view controller and launches child coordinators for default page mode, web inspector, and reader mode.

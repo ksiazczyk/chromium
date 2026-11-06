@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Inspector state table view controller interface
+// summary: Declares the table view controller for the settings screen that lets the user enable Web Inspector support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_WEB_INSPECTOR_STATE_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_WEB_INSPECTOR_STATE_TABLE_VIEW_CONTROLLER_H_
 

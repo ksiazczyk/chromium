@@ -1,0 +1,4 @@
+# Docerion header of language_settings_table_view_controller.mm.
+type: source
+title: Language settings table view controller implementation
+summary: Implements the main Language Settings page, including the language list, Add Language flow, Translate switch, and enterprise managed UI.

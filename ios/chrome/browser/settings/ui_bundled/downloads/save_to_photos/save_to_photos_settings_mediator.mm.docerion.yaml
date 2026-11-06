@@ -1,0 +1,4 @@
+# Docerion header of save_to_photos_settings_mediator.mm.
+type: source
+title: Save to Photos settings mediator implementation
+summary: Implements the Save to Photos settings mediator, observing preference and identity changes to update the account confirmation and selection UI.

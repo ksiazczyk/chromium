@@ -1,0 +1,4 @@
+# Docerion header of content_notifications_coordinator.mm.
+type: source
+title: Content notifications coordinator implementation
+summary: Implements the coordinator that builds the mediator and view controller, pushes the settings screen, and presents the opt-in alert.

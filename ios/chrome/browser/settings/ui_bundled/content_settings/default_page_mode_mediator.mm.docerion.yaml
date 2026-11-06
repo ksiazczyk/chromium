@@ -1,0 +1,4 @@
+# Docerion header of default_page_mode_mediator.mm.
+type: source
+title: Default page mode mediator implementation
+summary: Implements the mediator that updates the request desktop site content setting and records feature engagement events on mode changes.

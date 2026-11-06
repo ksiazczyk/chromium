@@ -1,0 +1,4 @@
+# Docerion header of tracking_price_view_controller.mm.
+type: source
+title: TrackingPriceViewController implementation
+summary: Implements the price tracking settings screen, populating mobile and email notification table sections and recording close and back user metric actions.
