@@ -1,3 +1,9 @@
+---
+type: note
+title: Clang and C++ Modules in Chromium
+summary: Describes the exploration of Clang header modules in Chromium, how to enable them and their current limitations.
+---
+
 # Clang and C++ Modules in Chromium
 
 ## Overview

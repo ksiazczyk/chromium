@@ -1,3 +1,13 @@
+---
+type: guide
+title: CPU Profiling Chrome
+summary: How-to instructions for collecting CPU profiles of Chromium with perf, pprof, callgrind and platform tools on Linux, Android, ChromeOS and macOS.
+relations:
+  - references /docs/linux/profiling.md
+  - references /docs/media/profile-screenshot.png
+  - references /docs/profiling_content_shell_on_android.md
+---
+
 # CPU Profiling Chrome
 
 

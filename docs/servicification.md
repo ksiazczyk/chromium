@@ -1,3 +1,12 @@
+---
+type: guide
+title: Servicifying Chromium Features
+summary: Guide with guidelines and patterns for refactoring Chromium features into isolated services with well-defined Mojo API boundaries, covering setup, platforms, and decoupling strategies.
+relations:
+  - references /docs/README.md
+  - references /services/README.md
+---
+
 # Servicifying Chromium Features
 
 [TOC]

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Adding third_party Libraries
+summary: Guide to adding third-party libraries to //third_party, covering approval, directory layout, licensing, update mechanisms, and review.
+relations:
+  - references /docs/security/rule-of-2.md
+---
+
 # Adding third_party Libraries
 
 [TOC]

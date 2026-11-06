@@ -1,3 +1,11 @@
+---
+type: guide
+title: Commit Checklist for Chromium Workflow
+summary: Step-by-step checklist for branching, building, testing, uploading, reviewing, and landing change lists in Gerrit.
+relations:
+  - references /docs/contributing.md
+---
+
 # Commit Checklist for Chromium Workflow
 
 Here is a helpful checklist to go through before uploading change lists (CLs) on

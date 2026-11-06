@@ -1,3 +1,11 @@
+---
+type: guide
+title: Atom
+summary: How to set up the Atom editor with packages, autocomplete, linting and configuration for Chromium development.
+relations:
+  - references /tools/vim/chromium.ycm_extra_conf.py
+---
+
 # Atom
 
 [Atom](https://atom.io/)

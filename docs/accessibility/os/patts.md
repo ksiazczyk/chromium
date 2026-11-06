@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chrome OS PATTS speech synthesis engine
+summary: Developer documentation for building, testing, and updating the PATTS speech synthesis engine that ships with Chrome OS.
+relations:
+  - references /docs/accessibility/browser/tts.md
+  - references /docs/accessibility/os/espeak.md
+---
+
 # The Chrome OS PATTS speech synthesis engine
 
 Chrome OS comes with a speech synthesis engine developed internally at Google

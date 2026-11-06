@@ -1,3 +1,11 @@
+---
+type: guide
+title: How to design an enterprise policy
+summary: Guide for designing a new Chrome enterprise policy, covering when a policy is needed and how to define its name, type, default value, supported platforms, and launch details.
+relations:
+  - references /docs/enterprise/add_new_policy.md
+---
+
 # How to design an enterprise policy
 
 ## Summary

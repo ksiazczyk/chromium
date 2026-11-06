@@ -1,3 +1,11 @@
+---
+type: guide
+title: Clang Tool Refactoring
+summary: Guide to writing, building, running, and debugging Clang-based tools that perform global refactorings across Chromium code.
+relations:
+  - references /tools/clang/scripts/apply_edits.py
+---
+
 # Clang Tool Refactoring
 
 [TOC]

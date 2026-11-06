@@ -1,3 +1,9 @@
+---
+type: decision
+title: Connection Allowlist Design
+summary: Design document for restricting network connections via server-returned URLPattern allowlists across network service, browser, and renderer layers.
+---
+
 # Connection Allowlist Design
 
 References:

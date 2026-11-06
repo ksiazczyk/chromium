@@ -1,3 +1,11 @@
+---
+type: reference
+title: Linkers for macOS and iOS builds
+summary: Describes Chromium's default use of the LLD linker for macOS and iOS builds and the opt-in Apple linker for local development.
+relations:
+  - references /docs/clang.md
+---
+
 # Linkers for macOS and iOS builds
 
 Chromium defaults to LLVM's LLD linker for macOS and iOS builds, but supports opting into the Apple linker (ld-prime) for local macOS development.

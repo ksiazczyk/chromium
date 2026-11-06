@@ -1,3 +1,9 @@
+---
+type: guide
+title: Switch Access (for developers)
+summary: Developer guide to the Chrome OS Switch Access feature, covering usage, bug reporting, development, and the extension's architecture.
+---
+
 # Switch Access (for developers)
 
 Switch Access is a Chrome OS feature to control the computer with 1 or 2

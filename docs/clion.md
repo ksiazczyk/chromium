@@ -1,3 +1,11 @@
+---
+type: guide
+title: CLion Dev
+summary: Guide to setting up CLion for Chromium development, covering project import, custom build targets, debugging, and autocompletion configuration.
+relations:
+  - references /README.md
+---
+
 # CLion Dev
 
 CLion is an IDE

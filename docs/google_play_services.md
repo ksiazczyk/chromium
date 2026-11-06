@@ -1,3 +1,12 @@
+---
+type: reference
+title: Google Play Services in Chrome for Android
+summary: Brief overview of how Chrome for Android relies on Google Play Services and where the used libraries and versions are listed.
+relations:
+  - references /third_party/android_deps/README.md
+  - references /third_party/android_deps/build.gradle
+---
+
 # Google Play Services in Chrome for Android
 
 Google Play Services is a collection of [services] exposed on GMS-certified

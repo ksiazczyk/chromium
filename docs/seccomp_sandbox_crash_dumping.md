@@ -1,3 +1,11 @@
+---
+type: note
+title: seccomp Sandbox Crash Dumping
+summary: Discusses options for producing crash dumps from seccomp-sandboxed Linux processes and safe signal handling mechanisms inside the sandbox.
+relations:
+  - references /docs/linux/crash_dumping.md
+---
+
 # seccomp Sandbox Crash Dumping
 
 Currently, Breakpad relies on facilities that are disallowed inside the Linux

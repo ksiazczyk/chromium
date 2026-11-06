@@ -1,3 +1,12 @@
+---
+type: guide
+title: Working Remotely with Android
+summary: 'Explains two options for working remotely with an Android device attached to a laptop: mounting the build output over SSHFS or tunneling ADB over SSH.'
+relations:
+  - references /tools/android/adb_remote_setup.sh
+  - references /build/install-build-deps.sh
+---
+
 # Working remotely with Android
 
 [TOC]

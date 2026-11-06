@@ -1,3 +1,13 @@
+---
+type: guide
+title: Modifying Session History Serialization
+summary: Checklist of required steps and risks when adding values to the PageState serialization used for session and tab restore.
+relations:
+  - references /content/browser/renderer_host/navigation_entry_impl.h
+  - documents /content/browser/renderer_host/navigation_entry_impl.cc
+  - documents /content/browser/renderer_host/frame_navigation_entry.h
+---
+
 # Modifying Session History Serialization
 
 *Note: Please expand these steps as needed. See also

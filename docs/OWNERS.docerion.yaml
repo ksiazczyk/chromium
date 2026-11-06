@@ -1,0 +1,7 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the docs directory
+summary: Ownership rules for the docs directory, with supported_platforms.md owned by the ATL owners list and blundell@chromium.org.
+relations:
+  - references /docs/supported_platforms.md
+  - references /ATL_OWNERS

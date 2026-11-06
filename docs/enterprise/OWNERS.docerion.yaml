@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for enterprise documentation
+summary: Specifies the enterprise-policy-review alias as the preferred code review owner for the enterprise documentation.
+relations:
+  - references /components/policy/ENTERPRISE_POLICY_OWNERS

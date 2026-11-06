@@ -1,3 +1,9 @@
+---
+type: guide
+title: UIA Bug Reporting
+summary: Explains how to confirm whether a Chromium accessibility issue is caused by the UIA provider using feature flags and how to file the bug with the right title and component.
+---
+
 # UIA Bug Reporting
 
 UI Automation (UIA) is now enabled by default for most Windows users in Chromium. The only exception is users on older versions of JAWS that still force the legacy IA2 path. For more info, see the feature flag `DisableUiaProviderWhenJawsIsRunning`.

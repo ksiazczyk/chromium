@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chrome OS Build Instructions
+summary: Walks through building Chromium for Chrome OS, covering common setup, the linux-chromeos configuration, and Simple Chrome builds for real devices.
+relations:
+  - depends_on /docs/linux/build_instructions.md
+---
+
 # Chrome OS Build Instructions
 
 Chrome for Chromium OS can be built in a couple different ways. After following

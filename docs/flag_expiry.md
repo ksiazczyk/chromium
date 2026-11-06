@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chromium Flag Expiry
+summary: Outlines the process by which flags in Chromium expire and are removed from the codebase, including how to remove a flag and where the relevant source files live.
+relations:
+  - references /chrome/VERSION
+  - references /chrome/browser/about_flags.cc
+  - references /chrome/browser/expired_flags_list.h
+---
+
 # Chromium Flag Expiry
 
 ellyjones@ / avi@

@@ -1,3 +1,12 @@
+---
+type: reference
+title: Sandbox
+summary: Describes the Chromium sandbox design principles and the Windows implementation, including broker and target processes, tokens, job objects, and mitigation policies.
+relations:
+  - references /docs/design/sandbox_faq.md
+  - references /sandbox/linux/README.md
+---
+
 # Sandbox
 
 [TOC]

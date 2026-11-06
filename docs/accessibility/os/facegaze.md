@@ -1,3 +1,9 @@
+---
+type: reference
+title: ChromeOS FaceGaze
+summary: Documents the ChromeOS FaceGaze (Face control) feature for cursor control via head movement and facial gestures, including architecture and code structure.
+---
+
 # ChromeOS FaceGaze
 
 FaceGaze (publicly named "Face control") is a ChromeOS accessibility feature

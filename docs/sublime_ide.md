@@ -1,3 +1,9 @@
+---
+type: guide
+title: Using Sublime Text as your IDE
+summary: Guide to setting up Sublime Text as a Chromium IDE, covering configuration, linting, code completion via LSP or Ctags, and building.
+---
+
 # Using Sublime Text as your IDE
 
 Sublime Text is a fast, powerful and easily extensible code editor. Check out

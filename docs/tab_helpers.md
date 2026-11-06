@@ -1,3 +1,13 @@
+---
+type: guide
+title: Tab Helpers
+summary: Explains how tab helpers attach features to browser tabs via WebContentsObserver and WebContentsUserData, and notes their deprecation.
+relations:
+  - references /docs/chrome_browser_design_principles.md
+  - references /content/public/browser/web_contents_observer.h
+  - references /chrome/browser/ui/tabs/tab_strip_model.cc
+---
+
 # Tab Helpers
 
 The `content/` layer of Chromium has a class called `WebContents`, which is one

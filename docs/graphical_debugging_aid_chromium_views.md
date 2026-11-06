@@ -1,3 +1,12 @@
+---
+type: guide
+title: Graphical debugging aid for Chromium views
+summary: Describes a debugging tool that visualizes the views hierarchy as a graph using views::PrintViewGraph, debugger scripts, and GraphViz.
+relations:
+  - documents /ui/views/debug_utils.h
+  - references /tools/lldb/lldb_viewg.py
+---
+
 # Graphical Debugging Aid for Chromium Views
 
 ## Introduction

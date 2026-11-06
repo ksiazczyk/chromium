@@ -1,3 +1,9 @@
+---
+type: reference
+title: ChromeOS Dictation
+summary: Describes the ChromeOS Dictation feature for typing and editing text by voice, including user flow, code structure, testing, and Pumpkin semantic parsing.
+---
+
 # ChromeOS Dictation
 
 Dictation is a ChromeOS accessibility feature that allows users to type and edit

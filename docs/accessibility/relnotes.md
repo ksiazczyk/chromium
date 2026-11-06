@@ -1,3 +1,9 @@
+---
+type: guide
+title: Accessibility Release Notes
+summary: How-to guide explaining the required AX-Relnotes commit field and the team process for generating and compiling accessibility release notes each release cycle.
+---
+
 # Accessibility Release Notes
 
 ## TL;DR

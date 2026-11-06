@@ -1,3 +1,9 @@
+---
+type: reference
+title: GWP-ASan
+summary: Describes the GWP-ASan sampling debug allocator for detecting heap memory errors in the wild, including its allocator, crash handler, status, and limitations.
+---
+
 # GWP-ASan
 
 GWP-ASan is a debug tool intended to detect heap memory errors in the wild. It

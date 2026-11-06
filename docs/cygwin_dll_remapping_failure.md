@@ -1,3 +1,9 @@
+---
+type: guide
+title: Handling repeated failures of rebaseall to allow cygwin remaps
+summary: Troubleshooting steps for cygwin DLL remapping failures caused by external DLLs, including using rebaseall with a custom base address.
+---
+
 # Handling repeated failures of rebaseall to allow cygwin remaps
 
 Sometimes DLLs over which cygwin has no control get mapped into cygwin

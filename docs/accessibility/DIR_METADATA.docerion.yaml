@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Accessibility docs DIR_METADATA
+summary: Metadata mapping the accessibility docs directory to the Chromium accessibility team email, Monorail component, and public Buganizer component ID.

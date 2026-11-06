@@ -1,3 +1,13 @@
+---
+type: reference
+title: The Clang Code Coverage Wrapper
+summary: Describes the Clang code coverage wrapper that instruments selected source files to efficiently generate per-CL coverage reports during try jobs.
+relations:
+  - documents /build/toolchain/clang_code_coverage_wrapper.py
+  - references /docs/testing/code_coverage.md
+  - references /tools/code_coverage/coverage.py
+---
+
 # The Clang Code Coverage Wrapper
 
 The Clang code coverage wrapper

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Ad Tagging in Chromium
+summary: Design doc explaining how Chromium detects and tags ads via the subresource filter list and the AdTracker.
+---
+
 # Ad Tagging in Chromium
 
 Chromium is able to detect some ads and the resources they load in the

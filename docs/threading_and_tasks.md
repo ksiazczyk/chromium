@@ -1,3 +1,13 @@
+---
+type: reference
+title: Threading and Tasks in Chrome
+summary: Reference for Chrome's threading and task system, covering task posting, sequences, TaskTraits, delays, cancellation, and internals.
+relations:
+  - references /docs/threading_and_tasks_faq.md
+  - references /docs/callback.md
+  - references /base/functional/bind.h
+---
+
 # Threading and Tasks in Chrome
 
 [TOC]

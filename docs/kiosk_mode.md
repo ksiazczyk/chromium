@@ -1,3 +1,9 @@
+---
+type: guide
+title: Kiosk Mode
+summary: Steps to simulate kiosk mode in Chrome, using a Java applet to trigger full screen and JavaScript to invoke it when the kiosk page loads.
+---
+
 # Kiosk Mode
 
 If you have a real world kiosk application that you want to run on Google

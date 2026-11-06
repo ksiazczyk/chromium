@@ -1,3 +1,11 @@
+---
+type: reference
+title: Special Case URLs
+summary: 'Reference on URL types with special behavior in Chromium, including about:blank, about:srcdoc, sandboxed iframes, chrome: URLs, debug URLs, and javascript: URLs.'
+relations:
+  - references /docs/security/origin-vs-url.md
+---
+
 # Special Case URLs
 
 Several types of URLs lead to special case behavior in Chromium and are worth

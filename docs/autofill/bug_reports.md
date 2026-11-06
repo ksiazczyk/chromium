@@ -1,3 +1,9 @@
+---
+type: guide
+title: Meaningful bug reports for Chrome Autofill
+summary: Steps for collecting autofill-internals logs, URLs, and screenshots to file useful bug reports for form filling, credit cards, and password issues.
+---
+
 # Meaningful bug reports for Chrome Autofill
 
 ## Form filling

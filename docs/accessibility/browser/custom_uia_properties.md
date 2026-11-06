@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chrome's custom UI Automation properties
+summary: Documents the custom UI Automation properties Chrome exposes, including their GUIDs and how assistive technologies can look them up.
+relations:
+  - references /docs/accessibility/browser/uiautomation.md
+---
+
 # Chrome's custom UI Automation properties
 
 Chrome exposes custom [UI Automation (UIA)](uiautomation.md) properties when

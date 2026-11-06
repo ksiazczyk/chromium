@@ -1,3 +1,13 @@
+---
+type: guide
+title: Tips for productive Chromium code reviews
+summary: Practical tips for CL authors and reviewers to keep changes small, share context, and choose reviewers for faster, more productive Chromium code reviews.
+relations:
+  - references /docs/cl_respect.md
+  - references /docs/contributing.md
+  - references /docs/cr_respect.md
+---
+
 # Tips for productive Chromium code reviews
 
 This page is meant to help both CL authors and reviewers have a more productive,

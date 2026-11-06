@@ -1,3 +1,13 @@
+---
+type: reference
+title: ChromeOS Disable internal touchpad
+summary: Documents the ChromeOS feature for disabling the internal touchpad, covering the user flow, event rewriter implementation, and testing.
+relations:
+  - documents /ash/accessibility/disable_touchpad_event_rewriter.cc
+  - documents /chrome/browser/resources/ash/settings/os_a11y_page/cursor_and_touchpad_page.ts
+  - documents /chrome/browser/resources/ash/settings/device_page/per_device_touchpad_subsection.ts
+---
+
 # ChromeOS Disable internal touchpad
 
 To prevent accidental clicks and improve the experience for external mouse users,

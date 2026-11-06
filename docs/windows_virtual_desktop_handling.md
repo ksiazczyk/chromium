@@ -1,3 +1,11 @@
+---
+type: reference
+title: Windows 10 Virtual Desktop Support
+summary: Describes Chromium's support for Windows 10 virtual desktops, including restoring browser windows to their last desktop and keeping URL launches on the current desktop.
+relations:
+  - documents /chrome/browser/ui/views/frame/browser_desktop_window_tree_host_win.cc
+---
+
 #  Windows 10 Virtual Desktop support
 
 Windows 10 introduced Virtual Desktop support. Virtual Desktops are similar to

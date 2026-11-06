@@ -1,3 +1,12 @@
+---
+type: guide
+title: Accessing C++ Enums In Java
+summary: How to expose C++ enums to Java using generator annotations, GN build targets, and generated IntDef classes.
+relations:
+  - references /styleguide/java/java.md
+  - references /build/config/android/rules.gni
+---
+
 # Accessing C++ Enums In Java
 
 [TOC]

@@ -1,3 +1,12 @@
+---
+type: guide
+title: Converting Legacy IPC to Mojo
+summary: Guidance for converting legacy IPC messages to Mojo interfaces, covering routing, ordering, replies and Blink-specific advice.
+relations:
+  - references /docs/README.md
+  - references /docs/servicification.md
+---
+
 # Converting Legacy IPC to Mojo
 
 [TOC]

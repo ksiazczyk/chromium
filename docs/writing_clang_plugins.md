@@ -1,3 +1,12 @@
+---
+type: guide
+title: Writing Clang Plugins
+summary: A tutorial on writing clang plugins for Chromium, covering when plugins are appropriate, how to build them, and how to use the ASTConsumer and error emission interfaces.
+relations:
+  - references /docs/clang.md
+  - documents /tools/clang/plugins/ChromeClassTester.h
+---
+
 # Don't write a clang plugin
 
 [TOC]

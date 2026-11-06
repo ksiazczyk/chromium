@@ -1,3 +1,13 @@
+---
+type: guide
+title: Debugging Chromium
+summary: Overview of debugging Chromium and its child processes, with useful command-line flags and links to platform-specific debugging guides.
+relations:
+  - references /docs/debugging_with_crash_keys.md
+  - references /docs/fuchsia/debug_instructions.md
+  - references /docs/gpu/debugging_gpu_related_code.md
+---
+
 # Debugging Chromium
 
 This document provides a high-level overview of debugging the Chromium browser

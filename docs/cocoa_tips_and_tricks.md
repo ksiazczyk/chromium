@@ -1,3 +1,11 @@
+---
+type: guide
+title: Cocoa Tips and Tricks
+summary: Collection of idioms for writing Cocoa views and controllers in Chromium, including window controller lifecycle and GTest macros for ObjC.
+relations:
+  - references /testing/gtest_mac.h
+---
+
 # Cocoa Tips and Tricks
 
 A collection of idioms that we use when writing the Cocoa views and controllers

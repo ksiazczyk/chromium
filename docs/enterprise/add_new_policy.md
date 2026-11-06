@@ -1,3 +1,13 @@
+---
+type: guide
+title: Adding a new Chrome policy
+summary: Step-by-step guide to designing, declaring, and shipping a new Chrome enterprise policy, from YAML definition to groups, cloud policy, and launch.
+relations:
+  - references /docs/enterprise/description_guidelines.md
+  - references /docs/enterprise/policy_design.md
+  - references /components/policy/resources/templates/policies.yaml
+---
+
 # Policy Settings in Chrome
 
 ## Summary

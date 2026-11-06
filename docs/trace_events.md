@@ -1,3 +1,12 @@
+---
+type: guide
+title: Trace Event Best Practices
+summary: Best practices for emitting trace events in Chrome, covering category naming, Perfetto macros, static strings, and asynchronous events.
+relations:
+  - references /base/trace_event/builtin_categories.h
+  - references /base/trace_event/trace_event.h
+---
+
 # Trace Event Best Practices
 
 This document outlines best practices for emitting trace events in Chrome,

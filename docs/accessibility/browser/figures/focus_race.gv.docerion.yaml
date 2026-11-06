@@ -1,0 +1,4 @@
+# Docerion header of focus_race.gv.
+type: source
+title: Graphviz source of the focus race between render processes
+summary: Graphviz diagram of a focus race where focus events from buttons and text fields in two render processes reach the browser process.

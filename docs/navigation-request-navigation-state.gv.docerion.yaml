@@ -1,0 +1,6 @@
+# Docerion header of navigation-request-navigation-state.gv.
+type: data
+title: NavigationRequest NavigationState state graph
+summary: Graphviz graph of the NavigationState state machine in NavigationRequest, generated from navigation_request.cc with tools/state_transitions.
+relations:
+  - documents /content/browser/renderer_host/navigation_request.cc

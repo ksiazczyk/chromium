@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chromium Documentation Guidelines
+summary: Guidelines for documenting Chromium code, covering module, interface, and implementation documentation tiers, language conventions, and a FAQ.
+relations:
+  - references /styleguide/markdown/markdown.md
+---
+
 # **Chromium Documentation Guidelines**
 
 Chromium's code base is large. Very large. Like most large places, it can be hard to find your way around if you don't already know the way. It also changes a lot. Lots of people work on Chromium and refactoring, componentization, addition

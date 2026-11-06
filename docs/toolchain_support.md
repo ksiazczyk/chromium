@@ -1,3 +1,9 @@
+---
+type: reference
+title: Toolchain Support
+summary: Describes the build configurations supported by Chromium's toolchain team and how to get new configs supported.
+---
+
 Configurations supported by the toolchain team
 ==============================================
 

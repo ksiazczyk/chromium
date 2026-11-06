@@ -1,3 +1,13 @@
+---
+type: guide
+title: Managing Chromium Dependencies
+summary: Guide to managing Chromium dependencies with gclient and DEPS, covering adding, changing, rolling, and deleting dependencies and using checkdeps.
+relations:
+  - references /docs/gcs_dependencies.md
+  - references /docs/cipd_and_3pp.md
+  - references /.gitmodules
+---
+
 # Managing Chromium dependencies
 
 Chromium uses `gclient` (part of depot_tools) to manage dependencies (e.g. V8,

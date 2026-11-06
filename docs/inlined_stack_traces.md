@@ -1,3 +1,9 @@
+---
+type: guide
+title: Dealing with stack traces that involve inlined code
+summary: Walks through interpreting crash stack traces involving inlined code, from getting the matching source to translating addresses and dumping compiled code from a binary.
+---
+
 # Dealing with stack traces that involve inlined code
 
 [Rendered](https://chromium.googlesource.com/chromium/src/+/main/docs/inlined_stack_traces.md)

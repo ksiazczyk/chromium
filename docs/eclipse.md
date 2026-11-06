@@ -1,3 +1,12 @@
+---
+type: guide
+title: Eclipse Configuration for Android
+summary: Step-by-step instructions for configuring Eclipse for Chromium Android development, including one-time setup, workspace settings, and project configuration.
+relations:
+  - references /docs/android_studio.md
+  - references /tools/android/eclipse/android.importorder
+---
+
 # Eclipse Configuration for Android
 [TOC]
 

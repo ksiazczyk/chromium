@@ -1,0 +1,4 @@
+# Docerion header of ax_tree.gv.
+type: source
+title: Graphviz source of a simple accessibility tree
+summary: Graphviz definition of a simple accessibility tree with a dialog containing text and a button grouping with OK and Cancel.

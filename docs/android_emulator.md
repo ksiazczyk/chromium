@@ -1,3 +1,13 @@
+---
+type: guide
+title: Using an Android Emulator
+summary: How to build for and run Android emulators with Chromium, including prebuilt AVD configurations, custom emulator images, and command-line usage.
+relations:
+  - references /tools/android/avd/avd.py
+  - references /tools/android/avd/proto/android_32_google_apis_x64_foldable_landscape.textpb
+  - references /tools/android/avd/proto/android_35_google_apis_x64_tablet.textpb
+---
+
 # Using an Android Emulator
 Always use x86 emulators (or x86\_64 for testing 64-bit APKs). Although arm
 emulators exist, they are so slow that they are not worth your time.

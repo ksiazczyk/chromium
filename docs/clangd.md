@@ -1,3 +1,12 @@
+---
+type: guide
+title: Clangd
+summary: Instructions for getting, setting up, and using the clangd language server for code completion and navigation in Chromium.
+relations:
+  - references /tools/clang/scripts/generate_compdb.py
+  - references /tools/clang/scripts/build_clang_tools_extra.py
+---
+
 # Clangd
 
 ## Introduction

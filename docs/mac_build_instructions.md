@@ -1,3 +1,13 @@
+---
+type: guide
+title: Checking out and building Chromium for Mac
+summary: Step-by-step instructions for checking out the Chromium source and building, running, testing and debugging it on macOS.
+relations:
+  - references /build/config/mac/mac_sdk.gni
+  - references /docs/get_the_code.md
+  - references /docs/mac_arm64.md
+---
+
 # Checking out and building Chromium for Mac
 
 There are instructions for other platforms linked from the

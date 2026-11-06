@@ -1,0 +1,4 @@
+# Docerion header of proxy_approach.gv.
+type: source
+title: Proxy approach accessibility architecture diagram source
+summary: Graphviz source depicting a proxy accessibility tree in the browser process linked via blocking IPC to the render process accessibility and DOM trees.

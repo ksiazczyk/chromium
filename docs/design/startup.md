@@ -1,3 +1,11 @@
+---
+type: reference
+title: Startup
+summary: Explains how Chrome starts up on Windows, Mac, and Linux, from platform-specific entry points through ChromeMain to process-type-specific main functions.
+relations:
+  - references /chrome/app_shim/chrome_main_app_mode_mac.mm
+---
+
 # Startup
 
 Chrome is (mostly) shipped as a single executable that knows how to run as all

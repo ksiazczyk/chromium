@@ -1,3 +1,12 @@
+---
+type: reference
+title: Isolated Splits
+summary: Explains how Android isolated splits work in Chrome, covering OS support, known platform bugs and workarounds, and related quirks such as class loaders and resources.
+relations:
+  - references /docs/android_dynamic_feature_modules.md
+  - references /build/android/gyp/create_app_bundle.py
+---
+
 # Isolated Splits
 
 This doc aims to explain the ins and outs of using Isolated Splits on Android.

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Life of a Navigation
+summary: Traces the life of a Chromium navigation from URL entry to full page load, covering beforeunload, network request and response, commit, loading, observers, and throttles.
+relations:
+  - references /docs/navigation_concepts.md
+  - references /docs/session_history.md
+  - references /docs/special_case_urls.md
+---
+
 # Life of a Navigation
 
 Navigation is one of the main functions of a browser. It allows the user to

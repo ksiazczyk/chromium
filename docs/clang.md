@@ -1,3 +1,13 @@
+---
+type: reference
+title: Clang
+summary: Documents Chromium's prebuilt Clang toolchain, its supported configurations, style plugins, and ways to build or use a custom Clang binary.
+relations:
+  - references /docs/clang_static_analyzer.md
+  - references /tools/clang/scripts/build.py
+  - references /tools/clang/scripts/update.py
+---
+
 # Clang
 
 Chromium ships a prebuilt [clang](http://clang.llvm.org) binary.

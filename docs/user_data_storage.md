@@ -1,3 +1,11 @@
+---
+type: reference
+title: User Data Storage
+summary: Explains Chromium's policies for User Data directory files, including backward compatibility, version downgrade handling, and post-branch rules.
+relations:
+  - references /docs/user_data_dir.md
+---
+
 # User Data Storage
 
 This document explains the Chromium policies for files in the `User Data`

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome for Testing Configuration
+summary: Documents the --chrome-for-testing-config command-line switch and the JSON configuration schema, including required components with wildcard patterns, component directories, timeouts, and strict validation rules.
+---
+
 # Chrome for Testing Configuration
 
 Chrome for Testing (CfT) introduces a configuration file that allows users to

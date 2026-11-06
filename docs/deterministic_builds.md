@@ -1,3 +1,9 @@
+---
+type: guide
+title: Deterministic Builds
+summary: Explains Chromium's deterministic build goal and how to diagnose and handle failures on the deterministic build verification bots.
+---
+
 Deterministic builds
 ====================
 

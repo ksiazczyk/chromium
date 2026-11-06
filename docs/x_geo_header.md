@@ -1,3 +1,12 @@
+---
+type: reference
+title: X-Geo Geolocation Header Specification for Search Engines
+summary: Specifies the X-Geo HTTP header Chromium sends to eligible default search engines, covering opt-in requirements, the header format, and the protobuf payload schema.
+relations:
+  - references /third_party/search_engines_data/README.chromium
+  - references /components/omnibox/browser/proto/partner_location_descriptor.proto
+---
+
 # X-Geo Geolocation Header Specification for Search Engines
 
 This document describes the `X-Geo` HTTP header sent by Chromium to eligible

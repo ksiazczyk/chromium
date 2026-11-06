@@ -1,3 +1,12 @@
+---
+type: guide
+title: Profile-Guided Optimization (PGO)
+summary: Explains how to generate, fetch, and use PGO profiles for Chrome builds, including manual generation, custom profiles, and interaction with orderfile generation.
+relations:
+  - references /docs/orderfile.md
+  - references /build/config/compiler/pgo/pgo.gni
+---
+
 # Profile-Guided Optimization (PGO)
 
 [TOC]

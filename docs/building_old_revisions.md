@@ -1,3 +1,11 @@
+---
+type: guide
+title: Building old revisions
+summary: Tips for checking out and building older Chromium revisions, including matching depot_tools and syncing dependencies.
+relations:
+  - references /build/install-build-deps.sh
+---
+
 # Building old revisions
 
 Occasionally you may want to check out and build old versions of Chromium, such

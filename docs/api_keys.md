@@ -1,3 +1,9 @@
+---
+type: guide
+title: API Keys
+summary: Explains how to acquire Google API keys and supply them at build time or runtime for Chromium builds and derivatives.
+---
+
 # API Keys
 
 When using a custom build, fork, or integration of Chromium, or if you're

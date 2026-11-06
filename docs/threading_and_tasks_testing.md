@@ -1,3 +1,13 @@
+---
+type: guide
+title: Testing Components Which Post Tasks
+summary: Guide to unit testing Chromium components that post tasks, using TaskEnvironment variants, traits, and browser test patterns.
+relations:
+  - references /docs/threading_and_tasks.md
+  - references /docs/threading_and_tasks_faq.md
+  - references /base/task/thread_pool.h
+---
+
 # Testing Components Which Post Tasks
 
 [TOC]

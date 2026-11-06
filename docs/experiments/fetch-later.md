@@ -1,3 +1,9 @@
+---
+type: reference
+title: FetchLater API
+summary: Describes the experimental FetchLater API support in Chrome, what is and is not supported, and how to enable and verify it.
+---
+
 # fecthLater API
 
 - Contact: pending-beacon-experiment@chromium.org

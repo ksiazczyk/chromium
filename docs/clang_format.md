@@ -1,3 +1,13 @@
+---
+type: guide
+title: Using clang-format on Chromium C++ Code
+summary: Explains how to format Chromium C++ code with clang-format from the command line and through editor integrations.
+relations:
+  - references /docs/vscode.md
+  - references /styleguide/c++/c++.md
+  - references /tools/vim/clang-format.vim
+---
+
 # Using clang-format on Chromium C++ Code
 
 [TOC]

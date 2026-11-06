@@ -1,3 +1,13 @@
+---
+type: reference
+title: Code Reviews
+summary: Documents Chromium's code review policies, reviewer and author expectations, OWNERS files, and handling of mechanical changes.
+relations:
+  - references /CODE_OF_CONDUCT.md
+  - references /docs/cl_respect.md
+  - references /docs/cl_tips.md
+---
+
 # Code Reviews
 
 Code reviews are a central part of developing high-quality code for Chromium.

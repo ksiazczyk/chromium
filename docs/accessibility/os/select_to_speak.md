@@ -1,3 +1,11 @@
+---
+type: guide
+title: Select to Speak (for developers)
+summary: Developer guide to the Chrome OS Select to Speak feature, covering usage, bug reporting, development, testing, and how it works internally.
+relations:
+  - references /docs/accessibility/os/chromevox.md
+---
+
 # Select to Speak (for developers)
 
 Select to Speak is a Chrome OS feature to read text on the screen out loud.

@@ -1,3 +1,13 @@
+---
+type: guide
+title: 'Get the code: check out, build, and run Chromium'
+summary: Entry point for checking out and building Chromium, linking to self-contained build instruction pages for each supported host platform.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /docs/android_cast_build_instructions.md
+  - references /docs/chromeos_build_instructions.md
+---
+
 # Get the code: check out, build, and run Chromium.
 
 [Browse or Search Chromium Code](https://source.chromium.org/chromium) online.

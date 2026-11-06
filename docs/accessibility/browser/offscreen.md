@@ -1,3 +1,11 @@
+---
+type: reference
+title: Offscreen, Invisible and Size
+summary: Defines how Chrome applies the Offscreen and Invisible labels to accessibility nodes and how node bounding boxes are calculated.
+relations:
+  - references /third_party/blink/renderer/modules/accessibility/ax_object.cc
+---
+
 # Offscreen, Invisible and Size
 
 This document explains how Chrome interprets the guidelines to apply the labels

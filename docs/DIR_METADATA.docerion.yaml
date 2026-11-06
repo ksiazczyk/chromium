@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for the docs directory
+summary: Metadata mapping the docs directory to the Build monorail component, the build@chromium.org team email, and a public Buganizer component.

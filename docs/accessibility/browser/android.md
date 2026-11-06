@@ -1,3 +1,12 @@
+---
+type: reference
+title: Chrome Accessibility on Android
+summary: Explains how Chrome implements accessibility on Android, covering WebContentsAccessibility, AccessibilityNodeInfo caching, user actions, common gotchas, and testing.
+relations:
+  - references /content/public/android/java/src/org/chromium/content/browser/accessibility/WebContentsAccessibilityImpl.java
+  - references /components/embedder_support/android/java/src/org/chromium/components/embedder_support/view/ContentView.java
+---
+
 # Chrome Accessibility on Android
 
 This document covers some of the technical details of how Chrome

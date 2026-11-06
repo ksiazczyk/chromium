@@ -1,3 +1,11 @@
+---
+type: guide
+title: AddressSanitizer (ASan)
+summary: How to build, configure and run Chromium with the AddressSanitizer memory error detector on supported platforms.
+relations:
+  - references /tools/get_asan_chrome/get_asan_chrome.py
+---
+
 # AddressSanitizer (ASan)
 
 [AddressSanitizer](https://github.com/google/sanitizers) (ASan) is a fast memory

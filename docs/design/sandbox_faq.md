@@ -1,3 +1,9 @@
+---
+type: reference
+title: Sandbox FAQ
+summary: Answers common questions about the sandbox, such as what it protects against, how it works without a virtual machine, and how sandboxed processes communicate.
+---
+
 # Sandbox FAQ
 
 [TOC]

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Internationalized Domain Names (IDN) in Google Chrome
+summary: Explains how IDNs work and documents Chrome's IDN display policy, including protections against homograph attacks, avoiding lookalike warnings, and reporting security bugs.
+---
+
 # Internationalized Domain Names (IDN) in Google Chrome
 
 ## Background

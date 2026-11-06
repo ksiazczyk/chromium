@@ -1,3 +1,11 @@
+---
+type: reference
+title: Session History
+summary: Reference on how Chromium tracks per-tab session history in NavigationController, covering navigation pruning, subframe handling, replacement, classification, and persistence.
+relations:
+  - references /docs/modifying_session_history_serialization.md
+---
+
 # Session History
 
 A browser's session history keeps track of the navigations in each tab, to

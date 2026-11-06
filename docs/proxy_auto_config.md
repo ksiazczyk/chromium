@@ -1,3 +1,9 @@
+---
+type: decision
+title: Proxy Auto Config Using WPAD
+summary: Describes slow WPAD proxy detection at Chrome startup and proposes a fast 100ms DNS lookup timeout policy for proxy auto-config.
+---
+
 # Proxy Auto Config Using WPAD
 
 Most systems support manually configuring a proxy for web access, but this is

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Enterprise Management on ChromeOS
+summary: Overview of managing enrolled ChromeOS devices via the Google Admin console, covering kiosk settings, re-enrollment, and enrollment controls.
+relations:
+  - references /docs/enterprise/kiosk_public_session.md
+---
+
 # Enterprise Management on ChromeOS
 
 Once enrolled, ChromeOS device can be managed by organization admins via

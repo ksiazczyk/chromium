@@ -1,3 +1,9 @@
+---
+type: guide
+title: Vanilla msysgit workflow
+summary: Explains how to work on the Chromium git repository from Windows using msysgit, with a Linux or Mac checkout serving as upstream for branches and review tools.
+---
+
 # Vanilla msysgit workflow
 
 This describes how you can use msysgit on Windows to work on the Chromium git

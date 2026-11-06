@@ -1,3 +1,11 @@
+---
+type: guide
+title: Translation Screenshots
+summary: Explains how to add translation screenshots that give translators context for Chrome UI strings, including saving, uploading, and adding the sha1 file.
+relations:
+  - references /tools/translation/upload_screenshots.py
+---
+
 # Translation Screenshots
 
 We’d all like to ensure that the user experience in Chrome is optimal, no matter the locale. Translation Screenshots strives to achieve this. The goal is to improve translations of Chrome’s UI strings by providing more and clearer context for our translators. Bad localizations cause us to lose user trust and are expensive to fix, in both time and resources.

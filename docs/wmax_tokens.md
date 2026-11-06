@@ -1,3 +1,12 @@
+---
+type: note
+title: '-Wmax-tokens'
+summary: Describes the retired -Wmax-tokens experiment that used compiler pragmas as back stops against header size growth and explains what to do when hitting its warnings.
+relations:
+  - references /base/functional/callback_forward.h
+  - references /content/public/browser/render_frame_host.h
+---
+
 # -Wmax-tokens
 
 **Update 2022-08-02** The -Wmax-tokens experiment was [retired](https://chromium-review.googlesource.com/c/chromium/src/+/3804719)

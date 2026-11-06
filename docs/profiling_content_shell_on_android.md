@@ -1,3 +1,13 @@
+---
+type: guide
+title: Profiling Content Shell on Android
+summary: Step-by-step instructions for building, rooting and instrumenting an Android device to record perf profiles of Content Shell.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /build/android/envsetup.sh
+  - references /build/android/adb_profile_chrome
+---
+
 # Profiling Content Shell on Android
 
 Below are the instructions for setting up profiling for Content Shell on

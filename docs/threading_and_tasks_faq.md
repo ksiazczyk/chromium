@@ -1,3 +1,13 @@
+---
+type: reference
+title: Threading and Tasks in Chrome - FAQ
+summary: FAQ answering common questions about Chrome's threading and task system, including task scheduling, blocking calls, and sequences.
+relations:
+  - references /docs/threading_and_tasks.md
+  - references /base/task/thread_pool.h
+  - references /base/threading/scoped_blocking_call.h
+---
+
 # Threading and Tasks in Chrome - FAQ
 
 [TOC]

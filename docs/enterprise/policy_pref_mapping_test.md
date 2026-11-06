@@ -1,3 +1,13 @@
+---
+type: guide
+title: Policy to preference mapping tests
+summary: Explains how Chrome maps policy values to preferences, how to run the policy pref mapping tests, and the JSON format of the test cases.
+relations:
+  - references /chrome/browser/policy/configuration_policy_handler_list_factory.cc
+  - references /tools/autotest.py
+  - references /testing/xvfb.py
+---
+
 # Policy to preference mapping tests
 
 ## Introduction

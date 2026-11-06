@@ -1,3 +1,13 @@
+---
+type: guide
+title: Accessibility Performance Measurements
+summary: Explains how to run accessibility performance tests with Chromium's Telemetry framework, including stories, Blink perf tests, and results.
+relations:
+  - references /tools/perf/recording_benchmarks.md
+  - references /tools/perf/page_sets/system_health/accessibility_stories.py
+  - references /tools/perf/run_benchmark
+---
+
 # Accessibility Performance Measurements
 
 Accessibility support can have a negative impact on performance, so it is

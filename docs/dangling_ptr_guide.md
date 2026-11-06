@@ -1,3 +1,12 @@
+---
+type: guide
+title: Dangling Pointer Guide
+summary: Step-by-step help for fixing dangling pointers found by the detector, organized by ownership cases with fallback solutions and FAQ.
+relations:
+  - references /docs/dangling_ptr.md
+  - references /docs/unretained_dangling_ptr_guide.md
+---
+
 # Dangling Pointer Guide
 
 A dangling pointer has been found in your patch? This doc will help you fix it.

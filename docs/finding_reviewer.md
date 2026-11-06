@@ -1,3 +1,11 @@
+---
+type: guide
+title: Finding Somebody Who Knows How a Piece of Code Works
+summary: Tips for finding the right people to ask about how code works or to review changes, using OWNERS files, DIR_METADATA, tools, and community channels.
+relations:
+  - references /docs/code_reviews.md
+---
+
 # Finding somebody who knows how a piece of code works
 
 It can be more efficient to ask somebody how something works than to take weeks

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Debugging with Crash Keys
+summary: Explains how to use the crash key logging system to gather bug-specific data from production crashes, covering declaration, setting, redaction, and stack traces.
+relations:
+  - documents /components/crash/core/common/crash_key.h
+---
+
 # Debugging with Crash Keys
 
 Chrome is client-side software, which means that sometimes there are bugs that

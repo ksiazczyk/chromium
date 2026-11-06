@@ -1,3 +1,12 @@
+---
+type: reference
+title: How Chrome Accessibility Works, Part 3
+summary: Covers cross-platform accessibility abstractions, events, actions, hit testing, coordinates, text bounding boxes, and iframe handling.
+relations:
+  - references /docs/accessibility/browser/how_a11y_works.md
+  - references /docs/accessibility/browser/how_a11y_works_2.md
+---
+
 # How Chrome Accessibility Works, Part 3
 
 This document explains the technical details behind Chrome accessibility

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Accessing C++ Switches In Java
+summary: How to expose C++ command line switches to Java by generating switch constant classes from templates with GN build targets.
+relations:
+  - references /docs/android_accessing_cpp_enums_in_java.md
+  - references /docs/android_accessing_cpp_features_in_java.md
+  - references /build/config/android/rules.gni
+---
+
 # Accessing C++ Switches In Java
 
 [TOC]

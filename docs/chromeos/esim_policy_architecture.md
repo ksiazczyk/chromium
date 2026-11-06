@@ -1,3 +1,9 @@
+---
+type: reference
+title: ChromeOS eSIM Policy Architecture
+summary: Describes the ChromeOS eSIM enterprise policy architecture, including requirements and assumptions, the eSIM profile installation flow, and resulting behaviors such as policy-installed profiles appearing unmanaged.
+---
+
 # ChromeOS eSIM Policy Architecture
 
 ## Background

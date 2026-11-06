@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chromium Source Tree Overview
+summary: High-level map of the Chromium source tree explaining the purpose of major top-level directories such as chrome, content, base, net, mojo, and ui.
+---
+
 # Chromium Source Tree Overview
 
 This document provides a high-level map to the Chromium source code, explaining

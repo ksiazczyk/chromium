@@ -1,3 +1,12 @@
+---
+type: guide
+title: The Unsafe Buffers Clang Plugin
+summary: Documents the Unsafe Buffers Clang plugin, its warning suppressions, and patterns for replacing unsafe buffer and libc operations with safer C++ containers.
+relations:
+  - documents /tools/clang/plugins/UnsafeBuffersPlugin.cpp
+  - documents /build/config/unsafe_buffers_paths.txt
+---
+
 # The Unsafe Buffers Clang plugin.
 
 Our compiler contains a [plugin](../tools/clang/plugins/UnsafeBuffersPlugin.cpp)

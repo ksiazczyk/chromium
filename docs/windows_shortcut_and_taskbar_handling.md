@@ -1,3 +1,13 @@
+---
+type: reference
+title: Windows Shortcut and Pinned Taskbar Icon Handling
+summary: Explains how Chrome creates Windows desktop and start menu shortcuts, how pinned taskbar icons relate to App User Model IDs, and how multi-profile shortcuts are handled and diagnosed.
+relations:
+  - documents /chrome/browser/shell_integration_win.cc
+  - references /chrome/installer/util/shell_util.cc
+  - references /chrome/install_static/install_util.cc
+---
+
 # Windows Shortcut and Pinned Taskbar Icon handling
 
 When Chrome is installed on Windows, it creates a shortcut on the desktop that

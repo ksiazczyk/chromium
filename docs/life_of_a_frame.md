@@ -1,3 +1,11 @@
+---
+type: reference
+title: Life of a frame
+summary: Describes the Chromium compositor frame pipeline step by step, from BeginFrame through raster, activation, GPU draw, swap, and presentation, plus related pipeline reporter trace events.
+relations:
+  - references /docs/images/Life_of_frame.png
+---
+
 # Life of a frame
 
 [Original google doc](https://docs.google.com/document/d/1y6ZlGc2uH4ZBIrpEVM_wmfHgyvrcQG3LPRzG32FuVkQ/edit?usp=sharing)

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Integrating a feature with the Origin Trials framework
+summary: Step-by-step guide to exposing a Blink feature through the Origin Trials framework, covering runtime enabled features, gating access, base::Feature mapping, counting, and web tests.
+relations:
+  - references /android_webview/lib/aw_main_delegate.cc
+  - references /build/build_config.h
+  - references /third_party/blink/renderer/platform/RuntimeEnabledFeatures.md
+---
+
 # Integrating a feature with the Origin Trials framework
 
 To expose your feature via the [Origin Trials framework], there are a few code

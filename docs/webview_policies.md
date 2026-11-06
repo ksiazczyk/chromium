@@ -1,3 +1,9 @@
+---
+type: reference
+title: WebView policies
+summary: Describes how Android WebView supports a subset of Chrome policies applied through the App Restrictions mechanism on each embedder app.
+---
+
 # WebView Policies
 
 ## Overview

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Text to Speech in Chrome and Chrome OS
+summary: Outlines the text-to-speech code structure in Chrome and Chrome OS, from input APIs through utterance processing to platform output engines.
+relations:
+  - references /docs/accessibility/os/patts.md
+---
+
 # Text to Speech in Chrome and Chrome OS
 
 Chrome and Chrome OS allow developers to produce synthesized speech. This

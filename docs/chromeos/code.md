@@ -1,3 +1,9 @@
+---
+type: reference
+title: The architecture of Browser/ChromeOS code
+summary: Explains how code in the Chromium repository is and should be architected between the browser and ChromeOS, covering definitions, the desired separation of browser and OS code, and current policies.
+---
+
 # The architecture of Browser/ChromeOS code
 
 ## Overview

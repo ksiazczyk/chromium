@@ -1,3 +1,11 @@
+---
+type: guide
+title: Checking out and building Chromium for Windows
+summary: Step-by-step instructions for setting up Windows, installing required tools, fetching the code, building and running Chromium and its tests.
+relations:
+  - references /docs/get_the_code.md
+---
+
 # Checking out and Building Chromium for Windows
 
 There are instructions for other platforms linked from the

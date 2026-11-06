@@ -1,3 +1,9 @@
+---
+type: note
+title: Windows .order files are no longer used
+summary: Notes that Windows linker order files were replaced by profile-guided optimization using LLD's call graph profile sorting.
+---
+
 # Updating the Windows .order files
 
 Since [#824529](https://crrev.com/824529), order files are no longer used for

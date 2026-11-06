@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running the Takeout API extension query script
+summary: Guide to setting up Admin SDK API access and service accounts, then running the extension query scripts, with a sample of the data output.
+relations:
+  - documents /docs/enterprise/extension_query.py
+  - documents /docs/enterprise/extension_query_py2.py
+  - references /docs/enterprise/extension_query_sample.png
+---
+
 # Python script to compute an extension list using Takeout API
 
 ## Setup Access to API

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Checking out and building Chromium for Android
+summary: Instructions for checking out and building Chromium for Android, including dependencies, build setup, device installation, and emulator use.
+relations:
+  - references /docs/get_the_code.md
+  - references /docs/linux/build_instructions.md
+  - references /build/install-build-deps.sh
+---
+
 # Checking out and building Chromium for Android
 
 There are instructions for other platforms linked from the

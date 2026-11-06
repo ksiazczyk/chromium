@@ -1,3 +1,9 @@
+---
+type: guide
+title: Guidelines for Considering Branch Date in Project Planning
+summary: Recommendations for scheduling risky changes around Chromium branch points, covering persisted data, CL structure, metrics and stability bake time.
+---
+
 # Guidelines for Considering Branch Date in Project Planning
 
 *   Avoid changes to persisted data (e.g. data serialization, database schemas,

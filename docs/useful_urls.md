@@ -1,3 +1,9 @@
+---
+type: reference
+title: Useful URLs
+summary: A collection of useful Chromium links for build status, sheriffing, releases, source browsing, communication, performance, and binaries.
+---
+
 # Useful URLs
 
 Chromium has a lot of different pages for a lot of different things.

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Shared Libraries on Android
+summary: Documents how Chrome packages and ships native shared libraries on Android, including Trichrome and Monochrome variants, crash handling, relocations, and RELRO sharing.
+---
+
 # Shared Libraries on Android
 This doc outlines some tricks / gotchas / features of how we ship native code in
 Chrome on Android.

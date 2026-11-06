@@ -1,3 +1,12 @@
+---
+type: guide
+title: Android Debugging Instructions
+summary: How to debug Chrome on Android, covering launching, logcat logging, screenshots, view hierarchy inspection, Java debugging, and native C/C++ debugging with LLDB.
+relations:
+  - references /docs/android_studio.md
+  - references /build/android/screenshot.py
+---
+
 # Android Debugging Instructions
 
 Chrome on Android has java and c/c++ code. Each "side" have its own set of tools

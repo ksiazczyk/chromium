@@ -1,3 +1,12 @@
+---
+type: guide
+title: Intro to Mojo & Services
+summary: Introduces Mojo terminology and walks through defining interfaces, creating pipes and building out-of-process services in Chromium.
+relations:
+  - references /docs/README.md
+  - references /mojo/public/tools/bindings/mojom.gni
+---
+
 # Intro to Mojo &amp; Services
 
 [TOC]

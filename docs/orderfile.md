@@ -1,3 +1,13 @@
+---
+type: guide
+title: Orderfile
+summary: Explains what orderfiles are, how to generate and verify them, test performance, triage regressions, and how official orderfile generation runs on bots.
+relations:
+  - references /tools/cygprofile/generate_orderfile_full.py
+  - references /tools/cygprofile/check_orderfile.py
+  - references /build/config/compiler/BUILD.gn
+---
+
 # Orderfile
 
 [TOC]

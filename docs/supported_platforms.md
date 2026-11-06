@@ -1,3 +1,11 @@
+---
+type: reference
+title: Supported Chromium Products and Platforms
+summary: Canonical reference of which Chromium products are officially supported on which platforms, with definitions of support terms.
+relations:
+  - references /docs/OWNERS
+---
+
 Supported Chromium Products and Platforms
 =========================================
 

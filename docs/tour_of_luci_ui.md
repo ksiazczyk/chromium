@@ -1,3 +1,12 @@
+---
+type: guide
+title: A Tour of Continuous Integration UI
+summary: Tour of the LUCI continuous integration UI, covering its pages, site hierarchy, color key, and known issues.
+relations:
+  - references /docs/images/LUCI-Home.png
+  - references /docs/images/LUCI-Search.png
+---
+
 # A Tour of Continuous Integration UI
 
 This document details a tour of page layouts and site hierarchy for [LUCI

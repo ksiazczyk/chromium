@@ -1,3 +1,12 @@
+---
+type: reference
+title: Navigation Concepts
+summary: Explains key navigation concepts such as same-document vs cross-document, browser- vs renderer-initiated navigations, URL states, redirects, cancellation rules, and error pages.
+relations:
+  - references /docs/navigation.md
+  - references /docs/security/origin-vs-url.md
+---
+
 # Navigation Concepts
 
 This documentation covers a set of important topics to understand related to

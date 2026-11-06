@@ -1,3 +1,11 @@
+---
+type: reference
+title: ChromeVox (for developers)
+summary: Developer documentation for ChromeVox, the built-in Chrome OS screen reader, covering code location, directory structure, Linux development, and debugging.
+relations:
+  - references /docs/accessibility/os/chromevox_on_desktop_linux.md
+---
+
 # ChromeVox (for developers)
 
 ChromeVox is the built-in screen reader on Chrome OS. It was originally

@@ -1,3 +1,9 @@
+---
+type: reference
+title: RenderDocument project overview
+summary: Explains the RenderDocument project that gives every document its own RenderFrameHost, its rollout stages behind flags and the required test changes.
+---
+
 # What is RenderDocument?
 
 ## TL;DR

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Emacs
+summary: Guide to setting up Emacs for Chromium development, covering C++ style, git tools, syntax highlighting, code completion with ycmd, and debugging.
+relations:
+  - references /docs/linux/debugging.md
+  - references /mojo/public/tools/bindings/README.md
+  - references /tools/emacs/trybot.el
+---
+
 # Emacs
 
 [TOC]
