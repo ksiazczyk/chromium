@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolution service class
+// summary: Declares the macOS system proxy resolution service that decides proxies per URL using macOS SystemConfiguration/CFNetwork APIs.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_MAC_MAC_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 #define NET_PROXY_RESOLUTION_MAC_MAC_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 

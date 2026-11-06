@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolution service implementation
+// summary: Implements MacSystemProxyResolutionService, creating resolution requests, aborting pending ones on destruction, and finishing proxy resolution.
+// ---
+
 #include "net/proxy_resolution/mac/mac_system_proxy_resolution_service.h"
 
 #include <utility>

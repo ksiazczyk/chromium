@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog event type declarations
+// summary: Declares the NetLogEventType enum generated from the event type list, the NetLogEventPhase enum, and string conversion helpers.
+// ---
+
 #ifndef NET_LOG_NET_LOG_EVENT_TYPE_H_
 #define NET_LOG_NET_LOG_EVENT_TYPE_H_
 

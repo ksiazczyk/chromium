@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-threaded proxy resolver unit tests
+// summary: Tests MultiThreadedProxyResolver behavior including thread pooling, blocking resolvers, request ordering, cancellation, and NetLog events.
+// ---
+
 #include "net/proxy_resolution/multi_threaded_proxy_resolver.h"
 
 #include <array>

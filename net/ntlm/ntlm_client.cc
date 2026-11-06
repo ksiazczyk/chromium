@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM client message handling implementation
+// summary: Implements parsing of NTLM challenge messages and generation of negotiate and authenticate messages for NTLMv1 and NTLMv2 clients.
+// ---
+
 #include "net/ntlm/ntlm_client.h"
 
 #include <string.h>

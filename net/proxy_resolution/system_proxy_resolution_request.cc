@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemProxyResolutionRequest base class implementation
+// summary: Implements the system proxy resolution request base class, handling pending-request removal, cancellation net log events, and load state reporting.
+// ---
+
 #include "net/proxy_resolution/system_proxy_resolution_request.h"
 
 #include <utility>

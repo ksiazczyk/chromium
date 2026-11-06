@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyList unit tests
+// summary: Unit tests for ProxyList covering PAC string parsing, scheme filtering with proxy chains, deprioritization of bad proxy chains and fallback behavior.
+// ---
+
 #include "net/proxy_resolution/proxy_list.h"
 
 #include <vector>

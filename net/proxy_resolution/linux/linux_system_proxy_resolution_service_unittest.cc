@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux system proxy resolution service unit tests
+// summary: Unit tests for LinuxSystemProxyResolutionService using a mock LinuxSystemProxyResolver and the shared system proxy resolution service test fixtures.
+// ---
+
 #include "net/proxy_resolution/linux/linux_system_proxy_resolution_service.h"
 
 #include <memory>

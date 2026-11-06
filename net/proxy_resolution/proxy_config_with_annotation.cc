@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy config with traffic annotation implementation
+// summary: Implements ProxyConfigWithAnnotation, pairing a ProxyConfig with a network traffic annotation, including a default direct-connection annotation.
+// ---
+
 #include "net/proxy_resolution/proxy_config_with_annotation.h"
 
 namespace net {

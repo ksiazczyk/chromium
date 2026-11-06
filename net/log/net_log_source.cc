@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogSource implementation
+// summary: Implements NetLogSource constructors, validity checks and serialization of source dependencies into event parameter dictionaries.
+// ---
+
 #include "net/log/net_log_source.h"
 
 #include <memory>

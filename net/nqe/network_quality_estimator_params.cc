@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQualityEstimatorParams implementation
+// summary: Implements NetworkQualityEstimatorParams, parsing field trial variation parameters for RTT, throughput, half life and forced effective connection type settings.
+// ---
+
 
 #include "net/nqe/network_quality_estimator_params.h"
 

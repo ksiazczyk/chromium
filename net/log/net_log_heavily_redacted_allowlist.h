@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavily redacted netlog param allowlist
+// summary: Defines the fixed set of parameter keys kept in heavily redacted capture mode, with guidance on which privacy-sensitive information must be excluded.
+// ---
+
 #ifndef NET_LOG_NET_LOG_HEAVILY_REDACTED_ALLOWLIST_H_
 #define NET_LOG_NET_LOG_HEAVILY_REDACTED_ALLOWLIST_H_
 

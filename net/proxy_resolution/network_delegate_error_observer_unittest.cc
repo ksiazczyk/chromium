@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network delegate error observer unit tests
+// summary: Verifies that PAC script errors can be delivered from an arbitrary thread and that a null network delegate is handled without crashing.
+// ---
+
 #include "net/proxy_resolution/network_delegate_error_observer.h"
 
 #include <optional>

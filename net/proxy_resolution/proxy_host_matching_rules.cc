@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy host matching rules implementation
+// summary: Implements ProxyHostMatchingRules, parsing and evaluating proxy bypass rules including <local> and <-loopback> special rules and implicit bypass behavior.
+// ---
+
 #include "net/proxy_resolution/proxy_host_matching_rules.h"
 
 #include "base/strings/string_tokenizer.h"

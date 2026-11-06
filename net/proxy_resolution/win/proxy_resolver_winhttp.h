@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverFactoryWinHttp header
+// summary: Declares ProxyResolverFactoryWinHttp, a ProxyResolverFactory that creates proxy resolvers backed by WinHTTP and the Windows system proxy settings.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_PROXY_RESOLVER_WINHTTP_H_
 #define NET_PROXY_RESOLUTION_WIN_PROXY_RESOLVER_WINHTTP_H_
 

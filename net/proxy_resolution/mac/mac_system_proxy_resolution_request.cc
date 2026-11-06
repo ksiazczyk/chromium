@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolution request implementation
+// summary: Implements the macOS system proxy resolution request, covering traffic annotation, request cancellation, and status histogram recording.
+// ---
+
 #include "net/proxy_resolution/mac/mac_system_proxy_resolution_request.h"
 
 #include <utility>

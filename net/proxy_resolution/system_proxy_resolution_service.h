@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemProxyResolutionService base class declaration
+// summary: Declares the intermediate base class for OS-native proxy resolution services, defining pending request tracking, retry state, and the platform subclass contract.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 #define NET_PROXY_RESOLUTION_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 

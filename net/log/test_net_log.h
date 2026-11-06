@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingNetLogObserver header
+// summary: Declares a test-only NetLog observer that captures events and parameters into an in-memory buffer for inspection in tests.
+// ---
+
 #ifndef NET_LOG_TEST_NET_LOG_H_
 #define NET_LOG_TEST_NET_LOG_H_
 

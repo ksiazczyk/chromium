@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSystemProxyResolutionRequest implementation
+// summary: Implements an asynchronous Windows system proxy resolution request that starts cross-process WinHTTP resolution, reports completion results and records status histograms.
+// ---
+
 #include "net/proxy_resolution/win/windows_system_proxy_resolution_request.h"
 
 #include <utility>

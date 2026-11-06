@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP PAC file adapter fetcher header
+// summary: Declares DhcpPacFileAdapterFetcher, a state machine that fetches a DHCP-configured PAC URL for an adapter and downloads the PAC script.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_DHCP_PAC_FILE_ADAPTER_FETCHER_WIN_H_
 #define NET_PROXY_RESOLUTION_WIN_DHCP_PAC_FILE_ADAPTER_FETCHER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Polling proxy config service implementation
+// summary: Implements PollingProxyConfigService, which retrieves proxy settings on a worker thread at a set interval and notifies observers when the configuration changes.
+// ---
+
 #include "net/proxy_resolution/polling_proxy_config_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveHostResult struct declaration
+// summary: Declares the ResolveHostResult struct that captures the net error code of a completed DNS resolution request and whether its address list is empty.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_RESOLVE_HOST_REQUEST_H_
 #define NET_PROXY_RESOLUTION_RESOLVE_HOST_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolverFactory interface for creating proxy resolvers
+// summary: Defines the ProxyResolverFactory interface for creating ProxyResolver instances from PAC scripts, supporting either a script URL or the script bytes themselves.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLVER_FACTORY_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLVER_FACTORY_H_
 

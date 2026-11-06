@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observation buffer implementation
+// summary: Implements ObservationBuffer, which stores observations sorted by timestamp, evicts the oldest entry when full, and computes weighted percentile statistics over the observations.
+// ---
+
 #include "net/nqe/observation_buffer.h"
 
 #include <float.h>

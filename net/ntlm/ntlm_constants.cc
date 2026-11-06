@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM AvPair implementation
+// summary: Implements the AvPair constructors and assignment operators for NTLM target info AV pair structures declared in ntlm_constants.h.
+// ---
+
 #include "net/ntlm/ntlm_constants.h"
 
 namespace net::ntlm {

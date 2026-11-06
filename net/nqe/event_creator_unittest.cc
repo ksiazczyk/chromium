@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event creator unit tests
+// summary: Unit tests verifying that the event creator adds network quality changed events to the net log only when the effective connection type, RTT, or bandwidth changes meaningfully.
+// ---
+
 #include "net/nqe/event_creator.h"
 
 #include "base/time/time.h"

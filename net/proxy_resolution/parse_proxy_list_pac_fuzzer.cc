@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy list PAC string fuzzer
+// summary: LibFuzzer harness that parses arbitrary input as a PAC proxy list string via ProxyList::SetFromPacString, limiting input size to avoid slow IDN canonicalization.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TraceNetLogObserver implementation
+// summary: Implements an observer that forwards NetLog events to Perfetto trace events, including root and per-source track setup.
+// ---
+
 #include "net/log/trace_net_log_observer.h"
 
 #include <stdio.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PacFileFetcherImpl header
+// summary: Declares PacFileFetcherImpl, a PacFileFetcher that fetches PAC scripts via URLRequest with adjustable timeout and size limits for tests.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PAC_FILE_FETCHER_IMPL_H_
 #define NET_PROXY_RESOLUTION_PAC_FILE_FETCHER_IMPL_H_
 

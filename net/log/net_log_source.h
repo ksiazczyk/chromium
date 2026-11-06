@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogSource struct declaration
+// summary: Declares NetLogSource, which identifies the entity that generated a log entry through its type, unique id and start time.
+// ---
+
 #ifndef NET_LOG_NET_LOG_SOURCE_H_
 #define NET_LOG_NET_LOG_SOURCE_H_
 

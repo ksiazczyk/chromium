@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-threaded proxy resolver implementation
+// summary: Implements a proxy resolver that runs synchronous PAC resolvers on a pool of worker threads, with one executor per thread coordinated by a coordinator.
+// ---
+
 #include "net/proxy_resolution/multi_threaded_proxy_resolver.h"
 
 #include <memory>

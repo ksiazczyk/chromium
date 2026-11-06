@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DHCP PAC file adapter fetcher
+// summary: Unit tests for DhcpPacFileAdapterFetcher that stub out DHCP queries and script fetching to exercise the fetch state machine.
+// ---
+
 #include "net/proxy_resolution/win/dhcp_pac_file_adapter_fetcher_win.h"
 
 #include <memory>

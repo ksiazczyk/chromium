@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog implementation
+// summary: Implements the NetLog singleton, thread-safe observer management, entry dispatch, and heavy redaction of event parameters.
+// ---
+
 #include "net/log/net_log.h"
 
 #include <algorithm>

@@ -11,6 +11,12 @@
 // NOTE: If any TYPED_TEST_P cases are added, removed, or renamed, update the
 // REGISTER_TYPED_TEST_SUITE_P call at the bottom of this file.
 
+// ---docerion
+// type: test
+// title: Shared typed-test fixture for system proxy resolution services
+// summary: Provides shared typed-test infrastructure that platform-specific SystemProxyResolutionService test suites instantiate with their own traits structs.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_SYSTEM_PROXY_RESOLUTION_SERVICE_UNITTEST_INL_H_
 #define NET_PROXY_RESOLUTION_SYSTEM_PROXY_RESOLUTION_SERVICE_UNITTEST_INL_H_
 

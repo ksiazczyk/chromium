@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedNetworkQuality class declaration
+// summary: Declares a class that stores the quality of a previously seen network, with its update time, network quality metrics, and effective connection type.
+// ---
+
 #ifndef NET_NQE_CACHED_NETWORK_QUALITY_H_
 #define NET_NQE_CACHED_NETWORK_QUALITY_H_
 

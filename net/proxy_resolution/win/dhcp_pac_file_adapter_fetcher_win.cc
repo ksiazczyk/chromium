@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP PAC file adapter fetcher for Windows
+// summary: Implements DhcpPacFileAdapterFetcher, which queries the Windows DHCP API for a PAC URL on a network adapter and then downloads the PAC script.
+// ---
+
 #include "net/proxy_resolution/win/dhcp_pac_file_adapter_fetcher_win.h"
 
 #include <windows.h>

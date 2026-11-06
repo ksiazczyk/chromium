@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowsSystemProxyResolutionService unit tests
+// summary: Unit tests using a mock Windows system proxy resolver to exercise shared system proxy resolution service behavior, including WinHTTP statuses, errors and proxy list results.
+// ---
+
 #include "net/proxy_resolution/win/windows_system_proxy_resolution_service.h"
 
 #include <memory>

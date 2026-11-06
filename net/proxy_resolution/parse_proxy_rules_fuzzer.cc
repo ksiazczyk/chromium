@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy rules parser fuzzer
+// summary: LibFuzzer harness that parses arbitrary input as manual proxy rules using ProxyConfig::ProxyRules::ParseFromString.
+// ---
+
 #include <stdint.h>
 
 #include "base/containers/span.h"

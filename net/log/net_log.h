@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog class declaration
+// summary: Declares NetLog, the central destination for network stack log messages, with thread-safe observers and lazy parameter materialization.
+// ---
+
 #ifndef NET_LOG_NET_LOG_H_
 #define NET_LOG_NET_LOG_H_
 

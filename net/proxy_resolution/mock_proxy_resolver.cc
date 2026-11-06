@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock proxy resolver implementation
+// summary: Implements MockAsyncProxyResolver and its factory, tracking pending and cancelled jobs that tests complete manually via Job::CompleteNow.
+// ---
+
 #include "net/proxy_resolution/mock_proxy_resolver.h"
 
 #include <algorithm>

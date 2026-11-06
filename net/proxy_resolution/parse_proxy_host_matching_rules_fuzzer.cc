@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyHostMatchingRules parser fuzzer
+// summary: LibFuzzer entry point that parses arbitrary input as proxy host matching rules to uncover parser crashes on malformed data.
+// ---
+
 #include <stdint.h>
 
 #include <string>

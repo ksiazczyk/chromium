@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality store implementation
+// summary: Implements an in-memory store that caches network quality estimates per network ID in LRU order, evicts the oldest entries beyond a size limit, and notifies cache observers of changes.
+// ---
+
 #include "net/nqe/network_quality_store.h"
 
 #include "base/functional/bind.h"

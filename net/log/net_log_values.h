@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog value helpers header
+// summary: Declares helpers to build NetLog parameter values for strings, binary data, and integers of various widths.
+// ---
+
 #ifndef NET_LOG_NET_LOG_VALUES_H_
 #define NET_LOG_NET_LOG_VALUES_H_
 

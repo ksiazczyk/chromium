@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP client service initialization header
+// summary: Declares EnsureDhcpcsvcInit, which guarantees the Windows DHCP client service library is initialized before DHCP API use.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_DHCPCSVC_INIT_WIN_H_
 #define NET_PROXY_RESOLUTION_WIN_DHCPCSVC_INIT_WIN_H_
 

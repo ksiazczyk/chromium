@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog utility header
+// summary: Declares utility methods for creating NetLog dumps such as GetNetConstants, GetNetInfo, and CreateNetLogEntriesForActiveObjects.
+// ---
+
 #ifndef NET_LOG_NET_LOG_UTIL_H_
 #define NET_LOG_NET_LOG_UTIL_H_
 

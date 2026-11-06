@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket watcher implementation
+// summary: Watches sockets and reports RTT observations to the network quality estimator, throttling notifications and handling private addresses.
+// ---
+
 #include "net/nqe/socket_watcher.h"
 
 #include "base/functional/bind.h"

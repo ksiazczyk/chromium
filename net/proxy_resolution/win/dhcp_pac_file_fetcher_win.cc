@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DHCP PAC file fetcher implementation
+// summary: Implements DhcpPacFileFetcherWin, which enumerates DHCP-capable network adapters via the Win32 API and coordinates parallel DHCP PAC lookups.
+// ---
+
 #include "net/proxy_resolution/win/dhcp_pac_file_fetcher_win.h"
 
 #include <winsock2.h>

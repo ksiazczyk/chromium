@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throughput analyzer implementation
+// summary: Computes downstream throughput observations from network activity during observation windows for the network quality estimator.
+// ---
+
 #include "net/nqe/throughput_analyzer.h"
 
 #include <cmath>

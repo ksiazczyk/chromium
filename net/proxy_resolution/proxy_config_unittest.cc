@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyConfig unit tests
+// summary: Unit tests for ProxyConfig covering equality, proxy rules, bypass rules, reverse bypass, and dynamic routing configuration behavior.
+// ---
+
 #include "net/proxy_resolution/proxy_config.h"
 
 #include "base/json/json_writer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyConfigService interface for watching proxy settings
+// summary: Defines the ProxyConfigService interface for observing proxy configuration changes and creating the platform-specific system proxy config service.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_H_
 

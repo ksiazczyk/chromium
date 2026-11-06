@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality observation class declaration
+// summary: Declares the Observation class that records network quality metric values such as round trip time or throughput along with the time, signal strength, source, and remote host of the measurement.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_OBSERVATION_H_
 #define NET_NQE_NETWORK_QUALITY_OBSERVATION_H_
 

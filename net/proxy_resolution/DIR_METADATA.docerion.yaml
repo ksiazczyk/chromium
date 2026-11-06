@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Proxy resolution directory metadata
+summary: Metadata file assigning the directory to the Internals>Network>Proxy Monorail component and Buganizer component 1456619.

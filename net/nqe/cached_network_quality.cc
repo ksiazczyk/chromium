@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedNetworkQuality implementation
+// summary: Implements the CachedNetworkQuality class, including constructors, assignment, and the OlderThan comparison based on last update time.
+// ---
+
 #include "net/nqe/cached_network_quality.h"
 
 namespace net::nqe::internal {

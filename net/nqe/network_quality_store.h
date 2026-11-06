@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality store class declaration
+// summary: Declares NetworkQualityStore, which holds cached network qualities of different networks in memory with LRU eviction, lookup by network ID, and support for cache change observers.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_STORE_H_
 #define NET_NQE_NETWORK_QUALITY_STORE_H_
 

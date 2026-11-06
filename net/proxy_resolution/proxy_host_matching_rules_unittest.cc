@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyHostMatchingRules unit tests
+// summary: Unit tests verifying parsing and matching of proxy host matching rules, covering localhost, link-local and miscellaneous hosts across URL schemes and platforms.
+// ---
+
 #include "net/proxy_resolution/proxy_host_matching_rules.h"
 
 #include <string_view>

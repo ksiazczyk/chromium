@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observation buffer unit tests
+// summary: Unit tests verifying that the observation buffer stays bounded, remains sorted when observations arrive out of order, evicts the oldest entries, and computes percentiles correctly.
+// ---
+
 
 #include "net/nqe/observation_buffer.h"
 

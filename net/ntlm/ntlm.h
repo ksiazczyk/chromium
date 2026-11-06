@@ -8,6 +8,12 @@
 // [1] https://msdn.microsoft.com/en-us/library/cc236621.aspx
 // [2] http://davenport.sourceforge.net/ntlm.html
 
+// ---docerion
+// type: source
+// title: NTLM hash and response function declarations
+// summary: Declares NTLMv1 and NTLMv2 hash, response and session key generation functions based on the MS-NLMP authentication protocol specification.
+// ---
+
 #ifndef NET_NTLM_NTLM_H_
 #define NET_NTLM_NTLM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple CFNetwork proxy resolver implementation
+// summary: Implements proxy resolution on Apple platforms via CFProxySupport, converting CFNetwork proxy results into proxy lists and coordinating PAC execution with a shared run loop lock.
+// ---
+
 #include "net/proxy_resolution/proxy_resolver_apple.h"
 
 #include <CFNetwork/CFProxySupport.h>

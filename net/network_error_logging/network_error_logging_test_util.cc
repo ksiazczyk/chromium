@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test NEL service utility implementation
+// summary: Implements TestNetworkErrorLoggingService, which records received NEL headers and request errors so tests can inspect them.
+// ---
+
 #include "net/network_error_logging/network_error_logging_test_util.h"
 
 #include <algorithm>

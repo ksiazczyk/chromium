@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQuality class
+// summary: Declares the NetworkQuality class holding HTTP RTT, transport RTT, and downstream throughput estimates, plus the invalid RTT and throughput sentinel value.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_H_
 #define NET_NQE_NETWORK_QUALITY_H_
 

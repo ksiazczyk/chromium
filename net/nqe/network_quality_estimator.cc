@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality estimator core implementation
+// summary: Core implementation of the network quality estimator that observes URL requests and socket events to compute RTT, throughput, and effective connection type estimates.
+// ---
+
 #include "net/nqe/network_quality_estimator.h"
 
 #include <algorithm>

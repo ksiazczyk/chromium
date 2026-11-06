@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows DHCP PAC file fetcher
+// summary: Unit tests for DhcpPacFileFetcherWin, including end-to-end exercises of the Win32 DHCP APIs and mocked fetch and cancel scenarios.
+// ---
+
 #include "net/proxy_resolution/win/dhcp_pac_file_fetcher_win.h"
 
 #include <memory>

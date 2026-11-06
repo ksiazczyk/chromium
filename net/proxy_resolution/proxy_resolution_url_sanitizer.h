@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolution URL sanitizer interface
+// summary: Declares SanitizeUrlForProxyResolution and documents why HTTPS paths and queries must be hidden from PAC scripts, which are treated as attacker-controlled.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLUTION_URL_SANITIZER_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLUTION_URL_SANITIZER_H_
 

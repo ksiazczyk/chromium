@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network Error Logging service implementation
+// summary: Implements NetworkErrorLoggingService, mapping net error codes to NEL report types, parsing NEL headers, and queueing reports through the Reporting API.
+// ---
+
 #include "net/network_error_logging/network_error_logging_service.h"
 
 #include <memory>

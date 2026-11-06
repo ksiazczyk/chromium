@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog test assertion helpers header
+// summary: Declares gtest helpers for verifying NetLog entries and for extracting string, boolean, integer and net error parameter values.
+// ---
+
 #ifndef NET_LOG_TEST_NET_LOG_UTIL_H_
 #define NET_LOG_TEST_NET_LOG_UTIL_H_
 

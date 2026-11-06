@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtlmBufferReader unit tests
+// summary: Unit tests covering initialization, bounds checking and read operations of the NTLM buffer reader.
+// ---
+
 #include "net/ntlm/ntlm_buffer_reader.h"
 
 #include <array>

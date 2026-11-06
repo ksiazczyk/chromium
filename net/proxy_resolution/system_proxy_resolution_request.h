@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemProxyResolutionRequest base class declaration
+// summary: Declares the intermediate base class for platform-specific system proxy resolution requests, holding shared request state and the completion contract for subclasses.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 #define NET_PROXY_RESOLUTION_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 

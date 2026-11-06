@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyResolverWinHttp unit tests
+// summary: Parameterized unit tests ensuring the WinHTTP resolver does not auto-logon when the PAC script server issues an authentication challenge and instead reports ERR_PROXY_AUTH_UNSUPPORTED.
+// ---
+
 #include "net/proxy_resolution/win/proxy_resolver_winhttp.h"
 
 #include <windows.h>

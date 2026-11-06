@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolution service class header
+// summary: Declares LinuxSystemProxyResolutionService, which picks proxy servers for URL requests on Linux using the XDG desktop portal, mainly for sandboxes like Flatpak.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_LINUX_LINUX_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 #define NET_PROXY_RESOLUTION_LINUX_LINUX_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 

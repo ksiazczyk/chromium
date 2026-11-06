@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PAC file fetcher implementation
+// summary: Implements MockPacFileFetcher, a test double that holds fetch requests pending until NotifyFetchCompletion supplies a result.
+// ---
+
 #include "net/proxy_resolution/mock_pac_file_fetcher.h"
 
 #include <string>

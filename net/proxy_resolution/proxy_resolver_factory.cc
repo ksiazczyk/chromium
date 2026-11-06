@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolver factory base implementation
+// summary: Implements the ProxyResolverFactory constructor and destructor that record whether the factory expects raw PAC bytes.
+// ---
+
 #include "net/proxy_resolution/proxy_resolver_factory.h"
 
 #include "net/base/net_errors.h"

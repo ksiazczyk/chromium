@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throughput analyzer class
+// summary: Declares a class that makes throughput observations by counting bits received over URL request activity windows.
+// ---
+
 #ifndef NET_NQE_THROUGHPUT_ANALYZER_H_
 #define NET_NQE_THROUGHPUT_ANALYZER_H_
 

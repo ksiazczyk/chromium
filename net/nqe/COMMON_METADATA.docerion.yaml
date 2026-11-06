@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common bug tracking metadata for net/nqe
+summary: Defines the monorail component and public Buganizer component ID used for issues in the net/nqe directory.

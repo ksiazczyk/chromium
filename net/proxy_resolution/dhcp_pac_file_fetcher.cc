@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP PAC file fetcher implementation
+// summary: Implements the DhcpPacFileFetcher base class and DoNothingDhcpPacFileFetcher, which always fails fetches with ERR_NOT_IMPLEMENTED.
+// ---
+
 #include "net/proxy_resolution/dhcp_pac_file_fetcher.h"
 
 #include "net/base/net_errors.h"

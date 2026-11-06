@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSystemProxyResolutionService header
+// summary: Declares WindowsSystemProxyResolutionService, which decides which proxy servers to use per request relying entirely on WinHttp APIs rather than fetched proxy configurations.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_WINDOWS_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 #define NET_PROXY_RESOLUTION_WIN_WINDOWS_SYSTEM_PROXY_RESOLUTION_SERVICE_H_
 

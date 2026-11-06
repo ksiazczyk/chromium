@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PacFileDecider implementation
+// summary: Implements the helper that selects and downloads a PAC script via WPAD DHCP, WPAD DNS, or a custom PAC URL based on the proxy configuration.
+// ---
+
 #include "net/proxy_resolution/pac_file_decider.h"
 
 #include <utility>

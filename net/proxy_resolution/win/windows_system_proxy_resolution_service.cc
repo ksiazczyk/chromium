@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSystemProxyResolutionService implementation
+// summary: Implements the Windows system proxy resolution service, supported only on Windows 10 RS1 and later, which resolves proxies through WinHTTP in a separate process.
+// ---
+
 #include "net/proxy_resolution/win/windows_system_proxy_resolution_service.h"
 
 #include <utility>

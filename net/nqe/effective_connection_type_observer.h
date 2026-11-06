@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Effective connection type observer interface
+// summary: Declares the EffectiveConnectionTypeObserver interface whose OnEffectiveConnectionTypeChanged callback is invoked when the effective connection type changes.
+// ---
+
 #ifndef NET_NQE_EFFECTIVE_CONNECTION_TYPE_OBSERVER_H_
 #define NET_NQE_EFFECTIVE_CONNECTION_TYPE_OBSERVER_H_
 

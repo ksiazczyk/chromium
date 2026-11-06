@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DHCP PAC file fetcher header
+// summary: Declares DhcpPacFileFetcherWin, the Windows DhcpPacFileFetcher implementation that probes adapters for DHCP-configured PAC files.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_WIN_DHCP_PAC_FILE_FETCHER_WIN_H_
 #define NET_PROXY_RESOLUTION_WIN_DHCP_PAC_FILE_FETCHER_WIN_H_
 

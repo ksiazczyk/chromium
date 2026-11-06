@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetworkQualityEstimator test helper declaration
+// summary: Declares TestNetworkQualityEstimator, a NetworkQualityEstimator subclass for tests that overrides effective connection type and metric estimates.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_ESTIMATOR_TEST_UTIL_H_
 #define NET_NQE_NETWORK_QUALITY_ESTIMATOR_TEST_UTIL_H_
 

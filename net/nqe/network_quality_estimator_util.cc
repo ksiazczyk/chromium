@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality estimator private host utilities implementation
+// summary: Implements helpers that determine whether a request targets a private or reserved host by resolving it locally, used to skip low-value quality observations.
+// ---
+
 #include "net/nqe/network_quality_estimator_util.h"
 
 #include <memory>

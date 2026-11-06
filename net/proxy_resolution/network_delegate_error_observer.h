@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network delegate error observer header
+// summary: Declares NetworkDelegateErrorObserver, a ProxyResolverErrorObserver that routes PAC script errors to a NetworkDelegate on its own thread.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_NETWORK_DELEGATE_ERROR_OBSERVER_H_
 #define NET_PROXY_RESOLUTION_NETWORK_DELEGATE_ERROR_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configured proxy resolution service unit tests
+// summary: Unit tests for ConfiguredProxyResolutionService covering PAC polling policies, proxy override rules with DNS conditions, and proxy resolution behavior.
+// ---
+
 #include "net/proxy_resolution/configured_proxy_resolution_service.h"
 
 #include <array>

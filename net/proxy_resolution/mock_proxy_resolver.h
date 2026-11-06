@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock proxy resolver header
+// summary: Declares asynchronous mock proxy resolver and factory classes that let tests inspect pending and cancelled requests and complete them manually.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_MOCK_PROXY_RESOLVER_H_
 #define NET_PROXY_RESOLUTION_MOCK_PROXY_RESOLVER_H_
 

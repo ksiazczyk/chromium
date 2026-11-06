@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLog utility unit tests
+// summary: Unit tests verifying GetNetConstants and GetNetInfo output, including field trials and disabled DoH providers.
+// ---
+
 #include "net/log/net_log_util.h"
 
 #include <algorithm>

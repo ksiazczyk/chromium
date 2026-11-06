@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TraceNetLogObserver unit tests
+// summary: Unit tests verifying that TraceNetLogObserver emits NetLog events as trace events with correct categories, tracks and phases.
+// ---
+
 #include "net/log/trace_net_log_observer.h"
 
 #include <memory>

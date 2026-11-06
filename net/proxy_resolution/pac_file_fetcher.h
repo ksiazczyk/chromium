@@ -6,6 +6,12 @@
 // script. It is specific to fetching a PAC script; enforces timeout, max-size,
 // status code.
 
+// ---docerion
+// type: source
+// title: PacFileFetcher interface
+// summary: Declares the async PacFileFetcher interface for downloading PAC scripts with timeout, maximum size, and status code constraints.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PAC_FILE_FETCHER_H_
 #define NET_PROXY_RESOLUTION_PAC_FILE_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolve DNS operation enum
+// summary: Defines the ProxyResolveDnsOperation enum listing the DNS resolution and IP address lookup operations available to PAC scripts.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLVE_DNS_OPERATION_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLVE_DNS_OPERATION_H_
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Network Error Logging (NEL)
+summary: Explains the NEL implementation, describing how the service processes NEL headers, queues reports via the Reporting API, and persists policies to disk.
+relations:
+  - documents /net/network_error_logging/network_error_logging_service.h
+  - documents /net/http/http_network_transaction.cc
+  - documents /net/reporting/reporting_service.h
+---
+
 # Network Error Logging (NEL)
 
 Network Error Logging (NEL) provides out-of-band reporting of network errors

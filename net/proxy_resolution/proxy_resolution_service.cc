@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolutionService implementation
+// summary: Implements static helpers of ProxyResolutionService for merging proxy retry info, building bad proxy lists for NetLog and deprioritizing bad proxy chains.
+// ---
+
 #include "net/proxy_resolution/proxy_resolution_service.h"
 
 #include <utility>

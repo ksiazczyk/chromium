@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configured proxy resolution request header
+// summary: Declares ConfiguredProxyResolutionRequest, the concrete ProxyResolutionRequest that manages one asynchronous proxy resolution for the configured service.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_CONFIGURED_PROXY_RESOLUTION_REQUEST_H_
 #define NET_PROXY_RESOLUTION_CONFIGURED_PROXY_RESOLUTION_REQUEST_H_
 

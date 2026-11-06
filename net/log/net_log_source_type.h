@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog source type enum header
+// summary: Defines the NetLogSourceType enum identifying the entity that generated a log message, built from the source type list.
+// ---
+
 #ifndef NET_LOG_NET_LOG_SOURCE_TYPE_H_
 #define NET_LOG_NET_LOG_SOURCE_TYPE_H_
 

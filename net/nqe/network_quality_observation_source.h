@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality observation source enums
+// summary: Defines the NetworkQualityObservationSource enum describing where observations come from and the ObservationCategory enum grouping them into HTTP, transport, and end-to-end categories.
+// ---
+
 #ifndef NET_NQE_NETWORK_QUALITY_OBSERVATION_SOURCE_H_
 #define NET_NQE_NETWORK_QUALITY_OBSERVATION_SOURCE_H_
 

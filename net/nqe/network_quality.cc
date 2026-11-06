@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkQuality implementation
+// summary: Implements the NetworkQuality value type that caches HTTP RTT, transport RTT, and downstream throughput estimates with comparison and validity checks.
+// ---
+
 #include "net/nqe/network_quality.h"
 
 #include <utility>

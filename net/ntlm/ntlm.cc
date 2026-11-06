@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM hash and response generation implementation
+// summary: Implements NTLMv1 and NTLMv2 hash, LM and NTLM response, session key and target info AvPair helpers using BoringSSL DES, MD4, MD5 and HMAC.
+// ---
+
 #include "net/ntlm/ntlm.h"
 
 #include <string.h>

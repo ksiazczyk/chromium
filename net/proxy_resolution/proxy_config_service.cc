@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System proxy config service factory
+// summary: Creates the platform-specific system ProxyConfigService for Windows, iOS, macOS, Linux, Android, and ChromeOS, with a direct-connection fallback for other cases.
+// ---
+
 #include "net/proxy_resolution/proxy_config_service.h"
 
 #include <memory>

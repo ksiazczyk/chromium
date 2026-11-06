@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality observation implementation
+// summary: Implements the Observation class that records a network quality metric value with timestamp, signal strength, source, and optional remote host, and maps observation sources to categories.
+// ---
+
 #include "net/nqe/network_quality_observation.h"
 
 #include "base/check.h"

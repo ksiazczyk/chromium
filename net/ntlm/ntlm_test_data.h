@@ -13,6 +13,12 @@
 // [2] https://blogs.msdn.microsoft.com/openspecification/2013/03/26/ntlm-and-
 //         channel-binding-hash-aka-extended-protection-for-authentication/
 
+// ---docerion
+// type: test
+// title: NTLM test data
+// summary: Shared test inputs and expected values from the MS-NLMP specification and an EPA blog post, used by the NTLM tests to verify the implementation.
+// ---
+
 #ifndef NET_NTLM_NTLM_TEST_DATA_H_
 #define NET_NTLM_NTLM_TEST_DATA_H_
 

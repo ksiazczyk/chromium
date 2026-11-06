@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for net/nqe
+summary: DIR_METADATA file that links the net/nqe directory to the shared COMMON_METADATA bug tracking configuration via a mixin.

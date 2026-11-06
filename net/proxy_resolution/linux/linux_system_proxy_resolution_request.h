@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolution request class header
+// summary: Declares LinuxSystemProxyResolutionRequest, the concrete asynchronous proxy resolution request used by the Linux service through the XDG desktop portal.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_LINUX_LINUX_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 #define NET_PROXY_RESOLUTION_LINUX_LINUX_SYSTEM_PROXY_RESOLUTION_REQUEST_H_
 

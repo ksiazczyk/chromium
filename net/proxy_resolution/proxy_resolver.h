@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolver interface
+// summary: Defines the ProxyResolver interface for backends that compute proxy lists for URLs, typically backed by a PAC script, with support for concurrent and cancellable requests.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLVER_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLVER_H_
 

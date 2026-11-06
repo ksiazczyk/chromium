@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyRetryInfo struct and retry map for failed proxy chains
+// summary: Defines ProxyRetryInfo and the ProxyRetryInfoMap typedef that track when failed proxy chains may be retried and the network error that caused the failure.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RETRY_INFO_H_
 #define NET_PROXY_RESOLUTION_PROXY_RETRY_INFO_H_
 

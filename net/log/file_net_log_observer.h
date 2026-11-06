@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileNetLogObserver class declaration
+// summary: Declares the FileNetLogObserver API for capturing NetLog events to a file with size limits, capture modes, and output format options.
+// ---
+
 #ifndef NET_LOG_FILE_NET_LOG_OBSERVER_H_
 #define NET_LOG_FILE_NET_LOG_OBSERVER_H_
 

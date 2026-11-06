@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common proxy config test helper declarations
+// summary: Declares ProxyRulesExpectation, a test helper for describing and matching expected ProxyConfig proxy rules in unit tests.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_COMMON_UNITTEST_H_
 #define NET_PROXY_RESOLUTION_PROXY_CONFIG_SERVICE_COMMON_UNITTEST_H_
 

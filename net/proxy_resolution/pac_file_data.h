@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAC file data header
+// summary: Declares the thread-safe, reference-counted PacFileData wrapper that carries a PAC script as contents, a URL, or an auto-detect marker.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PAC_FILE_DATA_H_
 #define NET_PROXY_RESOLUTION_PAC_FILE_DATA_H_
 

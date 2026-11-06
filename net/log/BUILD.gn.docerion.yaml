@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for NetLog capture mode Java
+summary: GN build file defining a Java enum srcjar and Android library target generated from net_log_capture_mode.h.

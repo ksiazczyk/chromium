@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DHCP PAC file fetcher interface
+// summary: Declares the interface for fetching PAC scripts configured via DHCP, plus a do-nothing implementation for environments without DHCP support.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_DHCP_PAC_FILE_FETCHER_H_
 #define NET_PROXY_RESOLUTION_DHCP_PAC_FILE_FETCHER_H_
 

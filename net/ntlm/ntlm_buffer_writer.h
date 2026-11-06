@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtlmBufferWriter class declaration
+// summary: Declares a bounds-checked sequential writer that builds NTLM message buffers with typed write operations per the MS-NLMP specification.
+// ---
+
 #ifndef NET_NTLM_NTLM_BUFFER_WRITER_H_
 #define NET_NTLM_NTLM_BUFFER_WRITER_H_
 

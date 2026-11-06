@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkIDProto network identifier protobuf definition
+// summary: Defines a proto2 message that uniquely identifies a network via connection type, network ID (WiFi SSID or MCCMNC), and a signal strength value from 0 to 4.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLog capture mode unit tests
+// summary: Unit tests verifying which capture modes permit sensitive values and socket bytes, and that SanitizeUrlForNetLog strips URL credentials in restrictive modes.
+// ---
+
 #include "net/log/net_log_capture_mode.h"
 
 #include <string>

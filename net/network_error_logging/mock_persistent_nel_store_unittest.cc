@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock persistent NEL store unit tests
+// summary: Unit tests covering MockPersistentNelStore behavior such as finishing loads, pre-stored policies, and failed loads.
+// ---
+
 #include <string>
 
 #include "base/location.h"

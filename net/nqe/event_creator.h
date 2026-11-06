@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventCreator class declaration
+// summary: Declares EventCreator, which may add network quality changed events to the net log when metrics change meaningfully between updates.
+// ---
+
 #ifndef NET_NQE_EVENT_CREATOR_H_
 #define NET_NQE_EVENT_CREATOR_H_
 

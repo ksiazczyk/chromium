@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NtlmBufferWriter unit tests
+// summary: Unit tests covering initialization, bounds checking and write operations of the NTLM buffer writer.
+// ---
+
 #include "net/ntlm/ntlm_buffer_writer.h"
 
 #include "base/compiler_specific.h"

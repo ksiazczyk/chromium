@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingNetLogObserver implementation
+// summary: Implements a test-only NetLog observer that records entries in memory, supports filtered queries, clearing, callbacks and JSON export.
+// ---
+
 #include "net/log/test_net_log.h"
 
 #include <optional>

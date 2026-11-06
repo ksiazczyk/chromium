@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyResolutionRequest interface
+// summary: Declares an abstract interface for tracking proxy resolution requests that complete asynchronously, exposing the current load state.
+// ---
+
 #ifndef NET_PROXY_RESOLUTION_PROXY_RESOLUTION_REQUEST_H_
 #define NET_PROXY_RESOLUTION_PROXY_RESOLUTION_REQUEST_H_
 

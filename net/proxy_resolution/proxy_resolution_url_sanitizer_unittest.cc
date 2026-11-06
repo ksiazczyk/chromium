@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy resolution URL sanitizer unit tests
+// summary: Unit tests verifying that credentials and fragments are stripped from all URLs and that path and query are additionally removed for cryptographic schemes.
+// ---
+
 #include "net/proxy_resolution/proxy_resolution_url_sanitizer.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

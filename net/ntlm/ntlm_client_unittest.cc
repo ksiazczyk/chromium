@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTLM client unit tests
+// summary: Unit tests verifying NtlmClient message generation and parsing of challenge messages against test vectors from the MS-NLMP specification.
+// ---
+
 #include "net/ntlm/ntlm_client.h"
 
 #include <string>

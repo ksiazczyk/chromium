@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock persistent NEL store implementation
+// summary: Implements MockPersistentNelStore, recording store commands in a list so tests can verify policy load, add, update, delete, and flush operations.
+// ---
+
 #include "net/network_error_logging/mock_persistent_nel_store.h"
 
 #include <sstream>
