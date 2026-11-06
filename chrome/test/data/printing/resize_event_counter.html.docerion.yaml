@@ -1,0 +1,4 @@
+# Docerion header of resize_event_counter.html.
+type: test
+title: Resize event counter test page
+summary: Test page that counts window resize events and uses a special page size for printing tests.

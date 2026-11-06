@@ -1,0 +1,4 @@
+# Docerion header of loop_child_iframe.html.
+type: test
+title: Loop child iframe test page
+summary: Test page acting as a child frame of an iframe that embeds a cross-site iframe for printing tests.

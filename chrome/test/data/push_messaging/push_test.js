@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging browser test helper functions
+// summary: JavaScript helpers for push messaging browser tests covering service worker registration, push subscription, and permission requests.
+// ---
+
 'use strict';
 
 // The ResultQueue is a mechanism for passing messages back to the test

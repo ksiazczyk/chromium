@@ -1,0 +1,4 @@
+# Docerion header of prerendering.html.
+type: test
+title: Prerendering print events test page
+summary: Test page that records whether the beforeprint and afterprint events have fired, apparently for prerendering tests.

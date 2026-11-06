@@ -1,0 +1,4 @@
+# Docerion header of html_iframe.html.
+type: test
+title: Test page with iframe and subresources
+summary: HTML test page that embeds html_subresources.html in an iframe and loads additional stylesheet, script, and image subresources.

@@ -1,0 +1,4 @@
+# Docerion header of referrer-policy-start.html.
+type: test
+title: Referrer policy navigation start page
+summary: Start page that applies a referrer policy from URL parameters and then navigates or links to a redirect destination for referrer tests.

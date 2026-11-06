@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Web prefs test profile Preferences
+summary: Preferences file for a test profile that sets font-related web prefs and includes legacy font preferences expected to be ignored during testing.

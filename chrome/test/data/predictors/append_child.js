@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script adding subresources via appendChild
+// summary: JavaScript that appends an image, a stylesheet, and a script to the page for predictor tests.
+// ---
+
 var img = document.createElement("img");
 img.src = "/handled-by-test/image.png"
 document.body.appendChild(img);

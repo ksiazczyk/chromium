@@ -1,0 +1,4 @@
+# Docerion header of multi_page_article.html.
+type: test
+title: Multi-Page Reading Mode Test Article
+summary: HTML test fixture that builds a long multi-page article with top and bottom sentinel strings for the reading mode printing browser test.

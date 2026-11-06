@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Sample profile Preferences
+summary: Minimal Chrome preferences JSON for the sample test profile, setting the extensions theme to not use the system theme.

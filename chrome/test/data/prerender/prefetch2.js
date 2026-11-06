@@ -4,3 +4,9 @@
 
 // This is an additional script used to separately count loads from
 // prefetch_page2.html.
+
+// ---docerion
+// type: test
+// title: Second prefetch test script
+// summary: Additional test script used to separately count script loads from prefetch_page2.html.
+// ---

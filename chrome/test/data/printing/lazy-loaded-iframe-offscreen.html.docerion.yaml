@@ -1,0 +1,4 @@
+# Docerion header of lazy-loaded-iframe-offscreen.html.
+type: test
+title: Lazy-loaded offscreen iframe test page
+summary: Test page with a lazy-loaded same-origin iframe placed 40000 pixels offscreen for printing tests.

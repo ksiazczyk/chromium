@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Push messaging test manifest with GCM sender ID
+summary: Web app manifest providing a gcm_sender_id used by push messaging browser tests.

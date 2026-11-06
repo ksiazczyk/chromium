@@ -1,0 +1,4 @@
+# Docerion header of same_origin_fenced_frame.html.
+type: test
+title: Same-origin fenced frame test page
+summary: Test page that embeds a fenced frame loading the same-origin subframe_simple.html for Reduce Accept-Language tests.

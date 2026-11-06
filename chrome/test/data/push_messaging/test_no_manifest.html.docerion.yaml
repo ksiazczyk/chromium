@@ -1,0 +1,4 @@
+# Docerion header of test_no_manifest.html.
+type: test
+title: Push API test page without a manifest
+summary: Test HTML page for the Push API that loads the shared push test scripts and exercises push messaging without a manifest.

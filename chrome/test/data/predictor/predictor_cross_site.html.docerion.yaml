@@ -1,0 +1,4 @@
+# Docerion header of predictor_cross_site.html.
+type: test
+title: Cross-site predictor test page
+summary: Test page that loads fetch_cross_site.js to test the predictor's ability to predict host connections for preconnect and preresolve.

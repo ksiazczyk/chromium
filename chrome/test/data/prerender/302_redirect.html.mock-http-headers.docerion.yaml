@@ -1,0 +1,4 @@
+# Docerion header of 302_redirect.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for 302 redirect page
+summary: Mock HTTP response headers returning 302 Found with a Location of prefetch_page.html.

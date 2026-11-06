@@ -1,0 +1,4 @@
+# Docerion header of one_image.html.
+type: test
+title: One image page
+summary: Minimal test page containing a single image tag with a replaceable IMAGE_SRC placeholder.

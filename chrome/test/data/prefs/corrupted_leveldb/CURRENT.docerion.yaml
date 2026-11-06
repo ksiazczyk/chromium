@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT file for corrupted prefs test data
+summary: LevelDB CURRENT pointer file naming MANIFEST-000007, used as test data for corrupted preference database scenarios.

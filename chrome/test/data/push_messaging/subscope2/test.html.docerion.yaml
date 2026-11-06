@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Push API Sub-scope 2 Test
+summary: HTML test page for the Push API in subscope2 that loads the shared push messaging test scripts and manifest.

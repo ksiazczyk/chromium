@@ -1,0 +1,4 @@
+# Docerion header of appcache.manifest.mock-http-headers.
+type: test
+title: Mock HTTP headers for appcache manifest
+summary: Mock HTTP response headers serving an appcache manifest with the text/cache-manifest content type.

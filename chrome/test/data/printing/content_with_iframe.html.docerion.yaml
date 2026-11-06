@@ -1,0 +1,4 @@
+# Docerion header of content_with_iframe.html.
+type: test
+title: Cross-site iframe printing test page
+summary: Test page embedding a cross-site iframe to verify printing of iframe content.

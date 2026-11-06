@@ -1,0 +1,4 @@
+# Docerion header of server_redirect_base.html.mock-http-headers.
+type: test
+title: Server redirect base mock HTTP headers
+summary: Mock HTTP headers responding with a 302 redirect to client_redirect_base.html for the embedded test server.

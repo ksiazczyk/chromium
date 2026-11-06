@@ -1,0 +1,4 @@
+# Docerion header of Current Version.
+type: test
+title: Current Version
+summary: Test fixture marker file holding the current extension version (1.1) for a Chrome test profile with a complex theme.

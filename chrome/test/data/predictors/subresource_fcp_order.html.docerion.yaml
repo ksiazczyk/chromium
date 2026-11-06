@@ -1,0 +1,4 @@
+# Docerion header of subresource_fcp_order.html.
+type: test
+title: Subresource FCP order test page
+summary: Test page that loads a stylesheet, a script, and a delayed image to observe subresource ordering around first contentful paint.

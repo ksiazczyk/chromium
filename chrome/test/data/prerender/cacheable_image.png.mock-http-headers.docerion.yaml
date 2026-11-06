@@ -1,0 +1,4 @@
+# Docerion header of cacheable_image.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for cacheable image
+summary: Mock HTTP response headers serving a PNG image with a long cache lifetime and permissive CORS.

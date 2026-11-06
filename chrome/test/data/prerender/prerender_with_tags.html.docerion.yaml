@@ -1,0 +1,4 @@
+# Docerion header of prerender_with_tags.html.
+type: test
+title: Prerender with speculationrules tags test page
+summary: Test page using an inline speculationrules script that prerenders empty.html with the tag tag1.

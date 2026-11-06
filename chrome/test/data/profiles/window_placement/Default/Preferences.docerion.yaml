@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Window placement test profile preferences
+summary: Preferences file for a test browser profile that stores fixed window placement coordinates used by Chromium window placement tests.

@@ -1,0 +1,4 @@
+# Docerion header of connection_allowlist_inverted.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for connection allowlist inverted page
+summary: Mock HTTP response headers with a Connection-Allowlist limited to example.com for the inverted test page.

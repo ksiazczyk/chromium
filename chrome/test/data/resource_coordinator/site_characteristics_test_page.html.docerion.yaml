@@ -1,0 +1,4 @@
+# Docerion header of site_characteristics_test_page.html.
+type: test
+title: Site Characteristics Database Test Page
+summary: Test HTML page for the site characteristics database that can play audio, change the page title, and set a favicon.

@@ -1,0 +1,4 @@
+# Docerion header of legacy-layout-engine-known-bug.html.
+type: test
+title: Legacy layout engine known bug test page
+summary: Test page that lays out correctly under LayoutNG but not the legacy engine, used to detect which layout engine handles printing.

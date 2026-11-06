@@ -1,0 +1,4 @@
+# Docerion header of onprerendering_check.html.
+type: test
+title: Prerendering change event check
+summary: Test page that records whether the prerenderingchange event fires at least once during activation.

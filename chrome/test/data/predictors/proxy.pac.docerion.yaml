@@ -1,0 +1,4 @@
+# Docerion header of proxy.pac.
+type: test
+title: Proxy auto-config script for predictor tests
+summary: Proxy auto-config script that routes requests to test.com and related hosts through a local proxy and returns DIRECT for everything else.

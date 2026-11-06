@@ -1,0 +1,4 @@
+# Docerion header of push_messaging_test_android.html.
+type: test
+title: Android Push API instrumentation test page
+summary: Page used by the PushMessagingTest Android instrumentation test to subscribe to push and report results via the tab title.

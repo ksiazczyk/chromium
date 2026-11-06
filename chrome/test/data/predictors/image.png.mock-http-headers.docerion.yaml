@@ -1,0 +1,4 @@
+# Docerion header of image.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for image.png
+summary: Mock HTTP response headers served for image.png, returning 200 OK with a five-minute cache lifetime.

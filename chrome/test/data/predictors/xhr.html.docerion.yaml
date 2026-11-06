@@ -1,0 +1,4 @@
+# Docerion header of xhr.html.
+type: test
+title: XHR test page
+summary: Test page that includes xhr.js to trigger XMLHttpRequest-based subresource loads.

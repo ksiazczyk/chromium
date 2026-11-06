@@ -1,0 +1,4 @@
+# Docerion header of on_before_after_events.html.
+type: test
+title: Before and after print events test page
+summary: Test page that records whether the beforeprint and afterprint events have fired.

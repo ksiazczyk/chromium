@@ -1,0 +1,4 @@
+# Docerion header of html_subresources.html.
+type: test
+title: Test page loading subresources from multiple hosts
+summary: HTML test page that loads a stylesheet, web font, script, and image from different hosts to exercise subresource prediction.

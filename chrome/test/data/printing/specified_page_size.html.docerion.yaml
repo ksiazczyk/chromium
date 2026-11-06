@@ -1,0 +1,4 @@
+# Docerion header of specified_page_size.html.
+type: test
+title: Specified page size printing test page
+summary: Minimal HTML page using an @page rule with a 300px size and 10px margin to test printing with a specified page size.

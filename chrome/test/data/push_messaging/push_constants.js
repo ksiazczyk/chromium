@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging test constants with application server key
+// summary: Defines the NIST P-256 application server key and its Base64URL encoding shared by push messaging tests.
+// ---
+
 // NIST P-256 public key made available to tests. Must be an uncompressed
 // point in accordance with SEC1 2.3.3.
 var kApplicationServerKey = new Uint8Array([

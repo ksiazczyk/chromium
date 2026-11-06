@@ -1,0 +1,4 @@
+# Docerion header of oopif_frame.html.
+type: test
+title: Out-of-process iframe content page
+summary: Simple HTML page with a full-size red div that serves as the frame content for the oopif PrintToPDF test.

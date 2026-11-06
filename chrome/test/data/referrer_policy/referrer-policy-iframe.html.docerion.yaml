@@ -1,0 +1,4 @@
+# Docerion header of referrer-policy-iframe.html.
+type: test
+title: Referrer policy iframe test page
+summary: Minimal HTML page that sets the referrer meta policy to origin, used as iframe content in referrer policy browser tests.

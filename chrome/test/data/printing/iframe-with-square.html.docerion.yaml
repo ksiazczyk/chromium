@@ -1,0 +1,4 @@
+# Docerion header of iframe-with-square.html.
+type: test
+title: Iframe with square test page
+summary: Test page with filler text and a green square target used in iframe-related printing tests.

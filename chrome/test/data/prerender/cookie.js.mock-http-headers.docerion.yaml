@@ -1,0 +1,4 @@
+# Docerion header of cookie.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for cookie script
+summary: Mock HTTP response headers serving the cookie script as JavaScript and setting the oatmeal cookie.

@@ -1,0 +1,4 @@
+# Docerion header of scrolled-frame.html.
+type: test
+title: Scrolled frame printing test page
+summary: HTML test page that writes filler content, places a green target box and scrolls to it, used to test printing of scrolled frames.

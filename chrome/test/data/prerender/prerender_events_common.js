@@ -7,6 +7,12 @@
 
 // TODO(gavinp): Put more common loader logic in here.
 
+// ---docerion
+// type: test
+// title: Common JavaScript helpers for prerender event tests
+// summary: Shared JavaScript for prerender loader tests that adds prerender links and anchors and simulates clicks, modified clicks, and window.open events.
+// ---
+
 function AddPrerender(url, index) {
   var link = document.createElement('link');
   link.id = 'prerenderElement' + index;

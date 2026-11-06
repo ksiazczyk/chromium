@@ -1,0 +1,4 @@
+# Docerion header of lcpp_font.html.
+type: test
+title: Test page loading a font for LCP
+summary: Loads a TrueType font via @font-face so the LCP preload predictor can be tested with font resources.

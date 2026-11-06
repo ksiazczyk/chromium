@@ -1,0 +1,4 @@
+# Docerion header of prefetch_nostore_page.html.mock-http-headers.
+type: test
+title: No-store mock HTTP headers
+summary: 'Mock HTTP response headers that serve the no-store test page with Cache-Control: no-store.'

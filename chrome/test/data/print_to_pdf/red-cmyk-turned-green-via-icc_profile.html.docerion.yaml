@@ -1,0 +1,4 @@
+# Docerion header of red-cmyk-turned-green-via-icc_profile.html.
+type: test
+title: CMYK JPEG ICC profile color test page
+summary: HTML test page displaying a CMYK JPEG that turns green via its ICC profile, linked to Chromium bug 40276057.

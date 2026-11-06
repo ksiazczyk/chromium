@@ -1,0 +1,4 @@
+# Docerion header of 7_pages.html.
+type: test
+title: Print multiple N-up pages test page
+summary: HTML test page producing seven printed pages to exercise N-up printing tests.

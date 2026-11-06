@@ -1,0 +1,4 @@
+# Docerion header of prefetch_from_subframe.html.
+type: test
+title: Prefetch from subframe test page
+summary: Test page that loads a replaceable subframe URL in an iframe for prefetch testing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test printer provider extension background script
+// summary: Background script that registers two test printers and serves their CDD capabilities through the chrome.printerProvider API for printing tests.
+// ---
+
 const CDD_EXTENSION_PRINTER = {
   'version': '1.0',
   'printer': {

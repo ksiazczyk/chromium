@@ -1,0 +1,4 @@
+# Docerion header of referrer-policy-subresource.html.
+type: test
+title: Referrer policy subresource test page
+summary: Test page that applies a referrer policy from URL parameters and loads an image subresource to observe referrer behavior.

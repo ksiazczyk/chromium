@@ -1,0 +1,4 @@
+# Docerion header of 3_pages.html.
+type: test
+title: Print multiple pages test page
+summary: HTML test page that uses break-before page breaks to produce three printed pages for printing tests.

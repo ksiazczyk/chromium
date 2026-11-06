@@ -1,0 +1,4 @@
+# Docerion header of document_write.html.
+type: test
+title: Test page that includes document_write.js
+summary: HTML test page that loads document_write.js from the head during parsing.

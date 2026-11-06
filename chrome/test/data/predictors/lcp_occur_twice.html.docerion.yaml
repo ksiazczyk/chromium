@@ -1,0 +1,4 @@
+# Docerion header of lcp_occur_twice.html.
+type: test
+title: Test page observing two largest contentful paints
+summary: Records largest-contentful-paint and onload events while adding a second LCP candidate, for testing pages where LCP occurs twice.

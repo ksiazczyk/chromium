@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_sender_id.json.
+type: test
+title: Push messaging test manifest without sender ID
+summary: Web app manifest lacking a sender ID, used to test push subscription behavior when the sender ID is removed.

@@ -1,0 +1,4 @@
+# Docerion header of image.jpeg.mock-http-headers.
+type: test
+title: image.jpeg mock HTTP headers
+summary: Mock HTTP headers serving image.jpeg as a long-lived cacheable image/jpeg response.

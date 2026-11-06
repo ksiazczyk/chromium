@@ -1,0 +1,4 @@
+# Docerion header of media_print_image.html.
+type: test
+title: Print media image test page
+summary: HTML test page that applies a JPEG background image only under the print media type for PrintToPDF testing.

@@ -1,0 +1,4 @@
+# Docerion header of lazy-loaded-image-offscreen.html.
+type: test
+title: Lazy-loaded offscreen image test page
+summary: Test page with a lazy-loaded image placed 40000 pixels offscreen for printing tests.
