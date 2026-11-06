@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessageSupport class declaration
+// summary: Declares the PostMessageSupport helper and its Delegate interface for queueing and delivering postMessage traffic to MimeHandlerView guests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_GUEST_VIEW_MIME_HANDLER_VIEW_POST_MESSAGE_SUPPORT_H_
 #define EXTENSIONS_RENDERER_GUEST_VIEW_MIME_HANDLER_VIEW_POST_MESSAGE_SUPPORT_H_
 

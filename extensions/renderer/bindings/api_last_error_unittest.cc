@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: api_last_error_unittest.cc
+// summary: Unit tests for APILastError covering setting, clearing and reading the lastError object, message retrieval and reporting unchecked errors in V8 contexts.
+// ---
+
 #include "extensions/renderer/bindings/api_last_error.h"
 
 #include <array>

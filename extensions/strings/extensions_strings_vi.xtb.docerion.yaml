@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_vi.xtb.
+type: data
+title: Vietnamese translations for extension strings
+summary: Vietnamese translation bundle with localized strings for Chromium extension and app UI messages such as install prompts, permissions and errors.

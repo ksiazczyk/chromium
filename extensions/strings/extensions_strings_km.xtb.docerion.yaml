@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_km.xtb.
+type: data
+title: Extensions strings translation bundle (Khmer)
+summary: Khmer translation bundle providing localized UI strings for Chromium's extensions system, covering installation, permissions, and error messages.

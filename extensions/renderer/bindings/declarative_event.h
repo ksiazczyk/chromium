@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeclarativeEvent class declaration
+// summary: Declares the DeclarativeEvent gin::Wrappable class for declarative events that support rules instead of listeners, with AddRules, RemoveRules and GetRules bound methods.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_DECLARATIVE_EVENT_H_
 #define EXTENSIONS_RENDERER_BINDINGS_DECLARATIVE_EVENT_H_
 

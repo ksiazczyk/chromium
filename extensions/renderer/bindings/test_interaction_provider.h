@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInteractionProvider and ScopedTestUserActivation declarations
+// summary: Declares a test InteractionProvider stub and a scoped user activation mock for use in binding tests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_TEST_INTERACTION_PROVIDER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_TEST_INTERACTION_PROVIDER_H_
 

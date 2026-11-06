@@ -4,6 +4,12 @@
 
 // Custom binding for the contextMenus API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the contextMenus API
+// summary: Registers request handlers for create, remove, update, and removeAll on the chrome.contextMenus API using shared context menu handlers.
+// ---
+
 var contextMenusHandlers = require('contextMenusHandlers');
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

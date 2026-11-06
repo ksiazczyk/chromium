@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for API invocation error messages
+// summary: Tests that chained error messages for indices, properties, parameters, and invocations are formatted as expected.
+// ---
+
 #include "extensions/renderer/bindings/api_invocation_errors.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

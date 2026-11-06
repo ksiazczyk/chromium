@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_iw.xtb.
+type: data
+title: Extensions strings translation bundle (Hebrew)
+summary: Hebrew translations of Chromium's extension-related UI messages, stored in the XTB XML translation bundle format.

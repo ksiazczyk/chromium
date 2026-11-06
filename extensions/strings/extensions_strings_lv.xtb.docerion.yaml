@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_lv.xtb.
+type: data
+title: Extensions strings translation bundle (Latvian)
+summary: Latvian translation bundle providing localized UI strings for Chromium's extensions system, covering installation, permissions, and error messages.

@@ -4,6 +4,12 @@
 
 // The <extensionoptions> custom element.
 
+// ---docerion
+// type: source
+// title: Custom element registration for extensionoptions
+// summary: Registers the <extensionoptions> custom element as ExtensionOptionsElement, extending the shared guest view container element class.
+// ---
+
 var registerElement = require('guestViewContainerElement').registerElement;
 var GuestViewContainerElement =
     require('guestViewContainerElement').GuestViewContainerElement;

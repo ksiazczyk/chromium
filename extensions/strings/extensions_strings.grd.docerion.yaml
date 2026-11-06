@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings.grd.
+type: data
+title: Extensions module string definitions
+summary: Grit resource file defining the extensions module UI strings and the per-locale pak outputs built from its translation bundles.

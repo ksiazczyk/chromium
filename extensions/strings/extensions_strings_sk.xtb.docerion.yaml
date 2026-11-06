@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_sk.xtb.
+type: data
+title: Slovak extension strings translation bundle
+summary: Slovak translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

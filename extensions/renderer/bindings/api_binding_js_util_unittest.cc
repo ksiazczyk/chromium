@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for APIBindingJSUtil
+// summary: Unit tests for the JS binding utility object, covering last error handling, exception handling, and related utility methods through a V8 context.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_js_util.h"
 
 #include <optional>

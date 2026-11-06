@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBindingsSystem unit tests
+// summary: Unit tests for APIBindingsSystem using fake alpha, beta, and gamma API schemas to exercise requests, events, custom callbacks, and hooks.
+// ---
+
 #include "extensions/renderer/bindings/api_bindings_system_unittest.h"
 
 #include <string>

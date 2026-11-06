@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_zh-TW.xtb.
+type: data
+title: Traditional Chinese (Taiwan) translations for extension strings
+summary: Traditional Chinese (Taiwan) translation bundle with localized strings for Chromium extension and app UI messages such as install prompts and errors.

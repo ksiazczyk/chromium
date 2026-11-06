@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBindingTest fixture declaration
+// summary: Declares a common unit test base class for API bindings that creates an isolate and V8 contexts and checks for V8 leaks at the end of tests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_TEST_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_TEST_H_
 

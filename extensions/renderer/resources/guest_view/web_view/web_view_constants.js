@@ -4,6 +4,12 @@
 
 // This module contains constants used in webview.
 
+// ---docerion
+// type: source
+// title: WebView constants
+// summary: Defines shared <webview> constants, including attribute names and the error and warning messages used across the webview modules.
+// ---
+
 // Container for the webview constants.
 var WebViewConstants = {
   // Attributes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBinding class declaration
+// summary: Declares the APIBinding class that vends v8 objects for extension APIs with function interceptors, designed one-per-isolate and shared across contexts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_H_
 

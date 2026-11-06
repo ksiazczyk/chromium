@@ -4,6 +4,12 @@
 
 // The <webview> custom element. This defines <webview> at the extensions layer.
 
+// ---docerion
+// type: source
+// title: Extensions layer webview custom element
+// summary: Defines and registers the <webview> custom element at the extensions layer, forwarding API method calls to WebViewImpl and WebViewInternal.
+// ---
+
 var forwardApiMethods = require('guestViewContainerElement').forwardApiMethods;
 var registerElement = require('guestViewContainerElement').registerElement;
 var WebViewElement = require('webViewElement').WebViewElement;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventEmitter class declaration
+// summary: Declares the EventEmitter gin::Wrappable class that fires events to listeners with filter support, listener counting, invalidation and per-context lifecycle notes.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_EVENT_EMITTER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_EVENT_EMITTER_H_
 

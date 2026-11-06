@@ -4,6 +4,12 @@
 
 // Custom binding for the webViewRequest API.
 
+// ---docerion
+// type: source
+// title: webViewRequest API custom binding
+// summary: Custom binding for the webViewRequest API that builds declarative webRequest data types from the schema and validates their instances.
+// ---
+
 var declarativeWebRequestSchema =
     requireNative('schema_registry').GetSchema('declarativeWebRequest');
 

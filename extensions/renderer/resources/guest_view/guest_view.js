@@ -5,6 +5,12 @@
 // This module implements a wrapper for a guestview that manages its
 // creation, attaching, and destruction.
 
+// ---docerion
+// type: source
+// title: GuestView wrapper module
+// summary: Implements the GuestView wrapper that manages a guest view's creation, attaching, destruction, state machine, and resize events.
+// ---
+
 var $Document = require('safeMethods').SafeMethods.$Document;
 var $HTMLIFrameElement = require('safeMethods').SafeMethods.$HTMLIFrameElement;
 var $Node = require('safeMethods').SafeMethods.$Node;

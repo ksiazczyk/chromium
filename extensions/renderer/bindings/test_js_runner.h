@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestJSRunner unit test helper declarations
+// summary: Declares TestJSRunner, a JSRunner test double with Scope, AllowErrors, and Suspension helpers for installing and controlling a fake JS runner in unit tests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_TEST_JS_RUNNER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_TEST_JS_RUNNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API binding test utility implementations
+// summary: Implements test helpers that parse JSON strings, convert between V8 and base values, compile scripts, and run functions while capturing thrown errors.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_test_util.h"
 
 #include <string_view>

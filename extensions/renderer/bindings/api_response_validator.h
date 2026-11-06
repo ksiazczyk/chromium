@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: api_response_validator.h
+// summary: Declares APIResponseValidator, which validates browser-sent API responses and event arguments against the expected schema, with a test handler hook.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_RESPONSE_VALIDATOR_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_RESPONSE_VALIDATOR_H_
 

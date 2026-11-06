@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-context data lookup helper
+// summary: Template helper that fetches or creates per-context data attached to a V8 context through gin::PerContextData user data.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_GET_PER_CONTEXT_DATA_H_
 #define EXTENSIONS_RENDERER_BINDINGS_GET_PER_CONTEXT_DATA_H_
 

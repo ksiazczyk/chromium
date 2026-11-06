@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeclarativeEvent implementation for rule-based extension events
+// summary: Implements the DeclarativeEvent gin wrapper that lets extensions register rules for declarative events, building argument specs and signatures for addRules, removeRules and getRules.
+// ---
+
 #include "extensions/renderer/bindings/declarative_event.h"
 
 #include <algorithm>

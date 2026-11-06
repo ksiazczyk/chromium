@@ -4,6 +4,12 @@
 
 // This module implements the base attributes of the GuestView tags.
 
+// ---docerion
+// type: source
+// title: GuestView tag attribute base classes
+// summary: Implements the base attribute classes for GuestView tags, including boolean, integer, and read-only attribute variants with mutation handling.
+// ---
+
 var $parseInt = require('safeMethods').SafeMethods.$parseInt;
 var $Element = require('safeMethods').SafeMethods.$Element;
 

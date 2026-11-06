@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_hu.xtb.
+type: data
+title: Extensions strings translation bundle (Hungarian)
+summary: Hungarian translations of Chromium's extension-related UI messages, stored in the XTB XML translation bundle format.

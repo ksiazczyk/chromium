@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingHooks implementation
+// summary: Implements custom hook registration for API calls, including the JS hook interface for setting request, validation, and custom callback hooks.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_hooks.h"
 
 #include "base/debug/dump_without_crashing.h"

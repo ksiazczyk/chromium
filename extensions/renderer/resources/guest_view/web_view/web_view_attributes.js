@@ -4,6 +4,12 @@
 
 // This module implements the attributes of the <webview> tag.
 
+// ---docerion
+// type: source
+// title: WebView attribute implementations
+// summary: Implements the <webview> tag attributes such as allowtransparency, autosize, partition, and src, reacting to mutations and updating the guest.
+// ---
+
 var $Element = require('safeMethods').SafeMethods.$Element;
 var $MutationObserver = require('safeMethods').SafeMethods.$MutationObserver;
 var GuestViewAttributes = require('guestViewAttributes').GuestViewAttributes;

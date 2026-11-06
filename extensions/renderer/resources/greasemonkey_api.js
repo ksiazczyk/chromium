@@ -10,6 +10,12 @@
 // Partial implementation of the Greasemonkey API, see:
 // http://wiki.greasespot.net/Greasemonkey_Manual:APIs
 
+// ---docerion
+// type: source
+// title: Partial Greasemonkey API implementation
+// summary: Implements a subset of the Greasemonkey API such as GM_addStyle, GM_xmlhttpRequest, GM_openInTab and GM_log, with stubs for unsupported functions.
+// ---
+
 function GM_addStyle(css) {
   var parent = document.getElementsByTagName("head")[0];
   if (!parent) {

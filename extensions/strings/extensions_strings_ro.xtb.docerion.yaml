@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_ro.xtb.
+type: data
+title: Romanian extension strings translation bundle
+summary: Romanian translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

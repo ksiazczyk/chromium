@@ -4,6 +4,12 @@
 
 // Custom binding for the declarativeWebRequest API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the declarativeWebRequest API
+// summary: Defines constructors for declarativeWebRequest rule types such as RequestMatcher, redirects, and header or cookie actions with schema validation.
+// ---
+
 apiBridge.registerCustomHook(function(api) {
   var declarativeWebRequest = api.compiledApi;
 

@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_zu.xtb.
+type: data
+title: Zulu translations for extension strings
+summary: Zulu translation bundle with localized strings for Chromium extension and app UI messages such as install prompts, permissions and errors.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerView frame container implementation
+// summary: Implements MimeHandlerViewFrameContainer, resolving source and target frames and validating frame tokens for embedded MimeHandlerView guests.
+// ---
+
 #include "extensions/renderer/guest_view/mime_handler_view/mime_handler_view_frame_container.h"
 
 #include <string>

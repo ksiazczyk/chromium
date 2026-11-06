@@ -4,6 +4,12 @@
 
 // Custom binding for the fileSystem API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the fileSystem API
+// summary: Custom bindings for the chrome.fileSystem API that handle file entry arguments, entry retention and restoration, and deprecated function aliases.
+// ---
+
 var getFileBindingsForApi =
     require('fileEntryBindingUtil').getFileBindingsForApi;
 var fileBindings = getFileBindingsForApi('fileSystem');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events of the extensionoptions element
+// summary: Defines the events dispatched by the <extensionoptions> element, including close, load, preferredsizechanged and createfailed.
+// ---
+
 var CreateEvent = require('guestViewEvents').CreateEvent;
 var GuestViewEvents = require('guestViewEvents').GuestViewEvents;
 

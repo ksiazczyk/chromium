@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API binding shared types and enums
+// summary: Declares shared enums and callbacks for extension API bindings, including listener change types, promise support, async response types, and console error handling.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_TYPES_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_TYPES_H_
 

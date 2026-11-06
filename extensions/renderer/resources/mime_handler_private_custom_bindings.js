@@ -6,6 +6,12 @@
  * Custom bindings for the mime handler API.
  */
 
+// ---docerion
+// type: source
+// title: Custom bindings for the mime handler API
+// summary: Custom bindings for mimeHandlerPrivate that expose stream info, PDF plugin attributes and before-unload dialog control over Mojo.
+// ---
+
 var exceptionHandler = require('uncaught_exception_handler');
 var logActivity = requireNative('activityLogger');
 

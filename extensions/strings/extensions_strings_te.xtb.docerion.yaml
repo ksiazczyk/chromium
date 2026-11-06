@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_te.xtb.
+type: data
+title: Telugu extensions strings translation bundle
+summary: Telugu (te) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.

@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_pt-PT.xtb.
+type: data
+title: European Portuguese extension strings translation bundle
+summary: European Portuguese translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

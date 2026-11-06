@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingHooks class declaration
+// summary: Declares the APIBindingHooks class for registering custom hooks per API, with request result codes for handled, updated, thrown, and invalidated cases.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_HOOKS_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_HOOKS_H_
 

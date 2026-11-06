@@ -5,6 +5,12 @@
 // Common custom element registration code for the various guest view
 // containers.
 
+// ---docerion
+// type: source
+// title: GuestView container custom element registration
+// summary: Provides common custom element registration code for guest view container elements, wiring lifecycle callbacks and method handlers.
+// ---
+
 var $CustomElementRegistry =
     require('safeMethods').SafeMethods.$CustomElementRegistry;
 var $Element = require('safeMethods').SafeMethods.$Element;

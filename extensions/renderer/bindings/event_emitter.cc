@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventEmitter implementation for extension events
+// summary: Implements the EventEmitter gin wrapper that manages event listeners, supports filters, and dispatches events to listeners synchronously or asynchronously.
+// ---
+
 #include "extensions/renderer/bindings/event_emitter.h"
 
 #include <algorithm>

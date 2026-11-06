@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_ne.xtb.
+type: data
+title: Nepali translations of Chromium extension strings
+summary: XML translation bundle providing Nepali translations of user-facing Chromium extension strings, such as install prompts, permission messages and error texts.

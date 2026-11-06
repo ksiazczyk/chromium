@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API invocation error message helpers
+// summary: Implements formatted error message helpers describing invalid arguments, properties, and signatures when parsing extension API invocations.
+// ---
+
 #include "extensions/renderer/bindings/api_invocation_errors.h"
 
 #include <string_view>

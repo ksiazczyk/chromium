@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API binding context utility implementation
+// summary: Implements extension context validity tracking and invalidation, including per-context invalidation data, initialization, and response validation defaults.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_util.h"
 
 #include "base/auto_reset.h"

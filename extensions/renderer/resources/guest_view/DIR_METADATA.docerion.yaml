@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Guest view directory metadata
+summary: DIR_METADATA file that mixes in the common metadata from //components/guest_view/COMMON_METADATA for this directory.

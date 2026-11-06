@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_fa.xtb.
+type: data
+title: Extensions strings translation bundle for Persian
+summary: XML translation bundle with Persian localized strings for Chromium's extensions UI, covering install prompts, permission requests and error messages.

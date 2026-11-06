@@ -15,6 +15,12 @@
 // becomes
 // $Node.parentNode.get(myNode);
 
+// ---docerion
+// type: source
+// title: SafeMethods module
+// summary: Preserves references to original DOM methods and accessors before user code can overwrite them, exposing them with a $ prefix for guest view code.
+// ---
+
 function makeCallable(prototypeMethod) {
   return (thisArg, ...args) => {
     return $Function.apply(prototypeMethod, thisArg, args);

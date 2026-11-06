@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API type reference map implementation
+// summary: Implements APITypeReferenceMap, storing and lazily initializing argument specifications and method signatures for extension APIs.
+// ---
+
 #include "extensions/renderer/bindings/api_type_reference_map.h"
 
 #include <ostream>

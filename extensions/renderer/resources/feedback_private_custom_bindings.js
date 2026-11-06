@@ -4,6 +4,12 @@
 
 // Custom bindings for the feedbackPrivate API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the feedbackPrivate API
+// summary: Custom bindings that convert attached file and screenshot blobs into blob UUIDs before sending feedback through the feedbackPrivate API.
+// ---
+
 var blobNatives = requireNative('blob_natives');
 
 apiBridge.registerCustomHook(function(bindingsAPI) {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for extensions renderer resources
+summary: Defines grit and generate_grd targets that package extension renderer CSS, JavaScript bindings, and generated mojo resources into resource bundles.

@@ -6,6 +6,12 @@
  * Custom bindings for the mojoPrivate API.
  */
 
+// ---docerion
+// type: source
+// title: Custom bindings for the mojoPrivate API
+// summary: Custom bindings that add a requireAsync method to the mojoPrivate API, returning a promise for a required module's returnValue.
+// ---
+
 apiBridge.registerCustomHook(function(bindingsAPI) {
   let apiFunctions = bindingsAPI.apiFunctions;
 

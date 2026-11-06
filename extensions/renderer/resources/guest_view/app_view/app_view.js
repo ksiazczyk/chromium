@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppViewImpl guest view container implementation
+// summary: Implements the internal AppViewImpl logic for the appview guest view container, including connecting to an app, building container parameters, and showing an error node on failure.
+// ---
+
 var $Document = require('safeMethods').SafeMethods.$Document;
 var $HTMLElement = require('safeMethods').SafeMethods.$HTMLElement;
 var $Node = require('safeMethods').SafeMethods.$Node;

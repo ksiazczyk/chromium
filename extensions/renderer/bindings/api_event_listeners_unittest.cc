@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for API event listener lists
+// summary: Unit tests for filtered and unfiltered event listener lists, verifying listener change callbacks, counts, and filter handling.
+// ---
+
 #include "extensions/renderer/bindings/api_event_listeners.h"
 
 #include <functional>

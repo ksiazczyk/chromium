@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindingAccessChecker class declaration
+// summary: Declares BindingAccessChecker, a helper class for checking whether extension API features are available in a given context.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_BINDING_ACCESS_CHECKER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_BINDING_ACCESS_CHECKER_H_
 

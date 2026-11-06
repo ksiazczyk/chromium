@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionOptionsImpl for the extensionoptions guest view
+// summary: Implements ExtensionOptionsImpl, the guest view container backing the <extensionoptions> element, handling guest creation, attributes, events and container parameters.
+// ---
+
 var ExtensionOptionsConstants =
     require('extensionOptionsConstants').ExtensionOptionsConstants;
 var ExtensionOptionsEvents =

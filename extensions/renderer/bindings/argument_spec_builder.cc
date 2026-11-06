@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArgumentSpecBuilder implementation
+// summary: Implements ArgumentSpecBuilder, a fluent builder that incrementally constructs ArgumentSpec objects.
+// ---
+
 #include "extensions/renderer/bindings/argument_spec_builder.h"
 
 #include <string_view>

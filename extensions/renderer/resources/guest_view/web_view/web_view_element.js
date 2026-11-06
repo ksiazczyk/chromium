@@ -6,6 +6,12 @@
 // to define <webview> at the extensions layer and may be extended by an
 // embedder that wants to define its own <webview>.
 
+// ---docerion
+// type: source
+// title: Base webview element implementation
+// summary: Provides the base <webview> element class with methods like back, forward, executeScript, and insertCSS, extensible by embedders defining their own webview.
+// ---
+
 var GuestViewContainerElement =
     require('guestViewContainerElement').GuestViewContainerElement;
 var WebViewConstants = require('webViewConstants').WebViewConstants;

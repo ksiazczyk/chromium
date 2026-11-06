@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: api_response_validator_unittest.cc
+// summary: Unit tests for APIResponseValidator verifying that responses matching or deviating from the expected signature are handled correctly.
+// ---
+
 #include "extensions/renderer/bindings/api_response_validator.h"
 
 #include <optional>

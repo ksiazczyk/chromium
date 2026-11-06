@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared utilities for extension bindings
+// summary: Provides helpers for object iteration, dictionary lookup, setter-free property definition, and exposing private class implementations through public wrappers.
+// ---
+
 var nativeDeepCopy = requireNative('utils').deepCopy;
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API event handler implementation
+// summary: Implements the APIEventHandler that manages per-context event emitters, listener registration, filtering, argument massagers, and event dispatch.
+// ---
+
 #include "extensions/renderer/bindings/api_event_handler.h"
 
 #include <algorithm>

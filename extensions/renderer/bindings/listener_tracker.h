@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListenerTracker interface for cross-context event listeners
+// summary: Declares ListenerTracker to track filtered and unfiltered event listeners across multiple V8 contexts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_LISTENER_TRACKER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_LISTENER_TRACKER_H_
 

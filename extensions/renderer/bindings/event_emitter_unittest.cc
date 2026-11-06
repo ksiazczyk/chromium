@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventEmitter unit tests
+// summary: Unit tests for EventEmitter covering listener dispatch, exceptions thrown by listeners, filter handling and context invalidation.
+// ---
+
 #include "extensions/renderer/bindings/event_emitter.h"
 
 #include <string_view>

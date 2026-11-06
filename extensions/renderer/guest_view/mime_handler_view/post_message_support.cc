@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessageSupport implementation
+// summary: Implements gin-backed postMessage support that lets a MimeHandlerView embedder send messages to the extension loaded in the MimeHandlerViewGuest.
+// ---
+
 #include "extensions/renderer/guest_view/mime_handler_view/post_message_support.h"
 
 #include <utility>

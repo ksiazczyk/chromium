@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: api_signature_unittest.cc
+// summary: Unit tests for APISignature argument parsing covering required and optional arguments, objects, callbacks and error reporting.
+// ---
+
 #include "extensions/renderer/bindings/api_signature.h"
 
 #include <string_view>

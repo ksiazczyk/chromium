@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the automation API
+// summary: Implements custom bindings for the extension automation API, including desktop tree retrieval, focus lookup, and tree change observer management.
+// ---
+
 // Custom bindings for the automation API.
 const AutomationRootNode = require('automationNode').AutomationRootNode;
 const automationInternal = getInternalApi('automationInternal');

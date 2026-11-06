@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_sr-Latn.xtb.
+type: data
+title: Serbian (Latin) extension strings translation bundle
+summary: Serbian Latin-script translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

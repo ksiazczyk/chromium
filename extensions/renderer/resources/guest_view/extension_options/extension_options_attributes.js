@@ -4,6 +4,12 @@
 
 // This module implements the attributes of the <extensionoptions> tag.
 
+// ---docerion
+// type: source
+// title: Attributes of the extensionoptions element
+// summary: Defines the attributes of the <extensionoptions> tag, including the extension attribute that binds an extension and triggers guest creation when set.
+// ---
+
 var GuestViewAttributes = require('guestViewAttributes').GuestViewAttributes;
 var ExtensionOptionsConstants =
     require('extensionOptionsConstants').ExtensionOptionsConstants;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: api_signature.h
+// summary: Declares APISignature, representing an API method's expected signature with argument matching, async return details and promise support.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_SIGNATURE_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_SIGNATURE_H_
 

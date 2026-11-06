@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for renderer bindings
+summary: Defines include dependencies for the bindings module, keeping it independent of the extensions system with limited exceptions for event filtering and tests.

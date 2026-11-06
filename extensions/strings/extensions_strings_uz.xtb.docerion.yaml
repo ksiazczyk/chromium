@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_uz.xtb.
+type: data
+title: Uzbek extensions strings translation bundle
+summary: Uzbek (uz) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.

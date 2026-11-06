@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry ID manager for file entries
+// summary: Maps isolated file system entries to their entry IDs and back, registering unregistered entries as needed for extension file handling.
+// ---
+
 var fileSystemNatives = requireNative('file_system_natives');
 
 var nameToIds = {};

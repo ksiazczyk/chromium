@@ -4,6 +4,12 @@
 
 // Event management for GuestViewContainers.
 
+// ---docerion
+// type: source
+// title: GuestView event management
+// summary: Implements event management for guest view containers, mapping extension events to DOM events with scoped listeners and event properties.
+// ---
+
 var $EventTarget = require('safeMethods').SafeMethods.$EventTarget;
 var GuestViewInternalNatives = requireNative('guest_view_internal');
 var MessagingNatives = requireNative('messaging_natives');

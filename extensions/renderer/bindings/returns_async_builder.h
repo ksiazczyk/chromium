@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReturnsAsyncBuilder helper for test signatures
+// summary: Declares a utility class to build APISignature ReturnsAsync objects, primarily for use in tests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_RETURNS_ASYNC_BUILDER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_RETURNS_ASYNC_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon loading and setIcon argument handling
+// summary: Loads action icons in service worker and page contexts and normalizes setIcon details, converting image data to a binary form for the browser.
+// ---
+
 const exceptionHandler = require('uncaught_exception_handler');
 const imageUtil = require('imageUtil');
 const SetIconCommon = requireNative('setIcon').SetIconCommon;

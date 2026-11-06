@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerView container manager implementation
+// summary: Implements the renderer-side manager that creates and tracks MimeHandlerView frame containers and handles browser-issued commands per render frame.
+// ---
+
 #include "extensions/renderer/guest_view/mime_handler_view/mime_handler_view_container_manager.h"
 
 #include <algorithm>

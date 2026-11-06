@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInteractionProvider mock implementation
+// summary: Implements a test InteractionProvider with a scoped mock user activation state for extension binding tests.
+// ---
+
 #include "extensions/renderer/bindings/test_interaction_provider.h"
 
 #include "base/check.h"

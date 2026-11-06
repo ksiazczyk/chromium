@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BindingAccessChecker unit tests
+// summary: Unit tests for BindingAccessChecker verifying access checks and error throwing for unavailable APIs.
+// ---
+
 #include "extensions/renderer/bindings/binding_access_checker.h"
 
 #include "base/functional/bind.h"

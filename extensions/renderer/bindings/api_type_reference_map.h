@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APITypeReferenceMap class declaration
+// summary: Declares APITypeReferenceMap, a map of type specifications and method signatures for extension API definitions with lazy type initialization.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_TYPE_REFERENCE_MAP_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_TYPE_REFERENCE_MAP_H_
 

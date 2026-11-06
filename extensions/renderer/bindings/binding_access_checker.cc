@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindingAccessChecker implementation
+// summary: Implements BindingAccessChecker, verifying extension API availability in a context and throwing errors for unavailable features.
+// ---
+
 #include "extensions/renderer/bindings/binding_access_checker.h"
 
 #include "base/strings/stringprintf.h"

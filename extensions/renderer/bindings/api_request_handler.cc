@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: api_request_handler.cc
+// summary: Implements APIRequestHandler, which tracks pending extension API requests and delivers results to callbacks or promises in renderer contexts.
+// ---
+
 #include "extensions/renderer/bindings/api_request_handler.h"
 
 #include "base/functional/bind.h"

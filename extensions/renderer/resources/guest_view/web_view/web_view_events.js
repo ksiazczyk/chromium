@@ -4,6 +4,12 @@
 
 // Event management for WebView.
 
+// ---docerion
+// type: source
+// title: WebView event management
+// summary: Manages <webview> events by mapping event names to internal Chrome events and handling webRequest and message event dispatching.
+// ---
+
 var $Document = require('safeMethods').SafeMethods.$Document;
 var CreateEvent = require('guestViewEvents').CreateEvent;
 var DCHECK = requireNative('logging').DCHECK;
