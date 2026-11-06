@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestApiObserverRegistry implementation
+// summary: Implements the global singleton registry that notifies registered TestApiObservers of test pass, fail, message, and script result events.
+// ---
+
 #include "extensions/browser/api/test/test_api_observer_registry.h"
 
 #include <ostream>

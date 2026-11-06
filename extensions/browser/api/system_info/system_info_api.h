@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoAPI class declaration
+// summary: Declares SystemInfoAPI, a profile-scoped BrowserContextKeyedAPI that observes EventRouter for systemInfo listener arrival and removal.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SYSTEM_INFO_SYSTEM_INFO_API_H_
 #define EXTENSIONS_BROWSER_API_SYSTEM_INFO_SYSTEM_INFO_API_H_
 

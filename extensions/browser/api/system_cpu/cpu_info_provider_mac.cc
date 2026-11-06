@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS implementation of per-processor CPU time queries
+// summary: Implements QueryCpuTimePerProcessor on macOS using the Mach host_processor_info call and skips reporting under Rosetta translation.
+// ---
+
 #include "extensions/browser/api/system_cpu/cpu_info_provider.h"
 
 #include <mach/mach_host.h>

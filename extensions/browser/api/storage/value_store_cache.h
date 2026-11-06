@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreCache interface
+// summary: Defines the interface each storage API namespace implements to run value stores per extension and delete extension storage.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_VALUE_STORE_CACHE_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_VALUE_STORE_CACHE_H_
 

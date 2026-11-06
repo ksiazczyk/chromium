@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the extensions socket API source set
+summary: Defines the socket source set for the extensions browser API with its sources and dependencies, adding Chrome OS firewall hole files conditionally.

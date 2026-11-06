@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestEventDetails class declaration
+// summary: Declares the WebRequestEventDetails helper class that constructs webRequest event dictionaries, applying ExtraInfoSpec rules for optional keys such as headers and security info.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_EVENT_DETAILS_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_EVENT_DETAILS_H_
 

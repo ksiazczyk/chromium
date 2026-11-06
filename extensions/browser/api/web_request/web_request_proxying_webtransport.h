@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request proxying WebTransport header
+// summary: Declares StartWebRequestProxyingWebTransport, which starts proxying WebTransport handshakes when extensions want to listen to them.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_PROXYING_WEBTRANSPORT_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_PROXYING_WEBTRANSPORT_H_
 

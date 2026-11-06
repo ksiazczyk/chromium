@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the test UDP echo server
+// summary: Implements TestUdpEchoServer, a test UDP server that binds on localhost and echoes back every datagram it receives.
+// ---
+
 #include "extensions/browser/api/sockets_udp/test_udp_echo_server.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension web request event router unit tests
+// summary: Unit tests for the WebRequestEventRouter, covering request filter serialization round trips and event handling.
+// ---
+
 #include "extensions/browser/api/web_request/extension_web_request_event_router.h"
 
 #include <memory>

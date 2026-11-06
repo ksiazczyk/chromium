@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session storage manager unit tests
+// summary: Unit tests for SessionStorageManager covering set, get, remove, and clear operations across extensions plus quota enforcement with a reduced 1000-byte test quota.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

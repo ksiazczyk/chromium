@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the system_storage directory
+summary: Lists the owner responsible for the system_storage extension API directory.

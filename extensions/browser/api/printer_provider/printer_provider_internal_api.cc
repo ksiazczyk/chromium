@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderInternalAPI implementation
+// summary: Implements the chrome.printerProviderInternal extension functions that report extension results and notify observers of printers, capabilities, print and USB info outcomes.
+// ---
+
 #include "extensions/browser/api/printer_provider/printer_provider_internal_api.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form data parser implementation
+// summary: Implements URL-encoded and multipart form data parsers used to extract POST request fields for the web request API.
+// ---
+
 #include "extensions/browser/api/web_request/form_data_parser.h"
 
 #include <stddef.h>

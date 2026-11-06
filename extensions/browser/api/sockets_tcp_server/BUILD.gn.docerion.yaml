@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for sockets_tcp_server
+summary: GN build file defining the sockets_tcp_server source set with its source files and dependencies on base, content, extensions, mojo, and network services.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the extensions proxy API
+summary: Defines the proxy and proxy_api GN source sets with their source files and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the webcam_private source set
+summary: GN build file that defines the webcam_private source set with its sources and dependencies for ChromeOS extension webcam support.

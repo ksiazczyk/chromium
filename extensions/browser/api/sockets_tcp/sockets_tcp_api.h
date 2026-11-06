@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class declarations for the sockets.tcp extension API
+// summary: Declares the base API function classes and the individual sockets.tcp functions like create, update, connect, send, setKeepAlive, and setNoDelay.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKETS_TCP_SOCKETS_TCP_API_H_
 #define EXTENSIONS_BROWSER_API_SOCKETS_TCP_SOCKETS_TCP_API_H_
 

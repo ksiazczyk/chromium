@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the extensions test API source set
+summary: GN build file that defines the test source_set, listing the test API sources and their base, content, and extensions dependencies.

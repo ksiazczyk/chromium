@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket extension API function declarations
+// summary: Declares the SocketApiFunction base classes and the socket resource manager interfaces that let API functions manage socket instances per extension and browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_SOCKET_API_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_SOCKET_API_H_
 

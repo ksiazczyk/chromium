@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request proxying URL loader factory implementation
+// summary: Implements WebRequestProxyingURLLoaderFactory, which proxies network URL loader requests through the extension web request API so extensions can observe and modify them.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_proxying_url_loader_factory.h"
 
 #include <memory>

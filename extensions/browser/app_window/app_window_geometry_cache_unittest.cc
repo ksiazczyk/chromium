@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window geometry cache unit tests
+// summary: Unit tests for the app window geometry cache covering saving, loading from prefs, syncing, and extension unload behavior.
+// ---
+
 #include "extensions/browser/app_window/app_window_geometry_cache.h"
 
 #include <stddef.h>

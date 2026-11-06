@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Size constraints header
+// summary: Declares SizeConstraints, which represents unbounded minimum and maximum sizes for app windows and reports whether sizes are constrained or fixed.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_SIZE_CONSTRAINTS_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_SIZE_CONSTRAINTS_H_
 

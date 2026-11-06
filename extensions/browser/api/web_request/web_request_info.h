@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestInfo struct declaration
+// summary: Declares WebRequestInfo and its init params, carrying in-progress URL request data such as URL, method, headers, frame and web view data, and response details for WebRequest API internals.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_INFO_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System network API implementation (system_network_api.cc)
+// summary: Implements the system.network.getNetworkInterfaces extension function, querying the network service and converting the interface list into API results.
+// ---
+
 #include "extensions/browser/api/system_network/system_network_api.h"
 
 #include "base/functional/bind.h"

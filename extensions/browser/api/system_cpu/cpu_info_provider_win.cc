@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of per-processor CPU time queries
+// summary: Implements QueryCpuTimePerProcessor on Windows using NtQuerySystemInformation and adjusts kernel time to exclude idle time.
+// ---
+
 #include "extensions/browser/api/system_cpu/cpu_info_provider.h"
 
 #include <windows.h>

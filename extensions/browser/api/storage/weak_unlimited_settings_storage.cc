@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeakUnlimitedSettingsStorage implementation
+// summary: Implements the WeakUnlimitedSettingsStorage ValueStore decorator that forwards all operations to a delegate while forcing Set calls to ignore quota.
+// ---
+
 #include "extensions/browser/api/storage/weak_unlimited_settings_storage.h"
 
 using value_store::ValueStore;

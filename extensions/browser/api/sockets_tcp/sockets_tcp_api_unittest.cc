@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the sockets.tcp API
+// summary: Unit test verifying that SocketsTcpCreateFunction returns a valid result when creating a persistent named TCP socket.
+// ---
+
 #include "extensions/browser/api/sockets_tcp/sockets_tcp_api.h"
 
 #include <memory>

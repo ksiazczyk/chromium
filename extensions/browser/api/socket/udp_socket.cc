@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP socket implementation for extension socket APIs
+// summary: Implements UDPSocket connect, bind, read, send, and multicast group operations for the extension socket APIs over the network service mojo interface.
+// ---
+
 #include "extensions/browser/api/socket/udp_socket.h"
 
 #include <algorithm>

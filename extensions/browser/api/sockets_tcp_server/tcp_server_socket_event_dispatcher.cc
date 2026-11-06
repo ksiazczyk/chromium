@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP server socket event dispatcher implementation
+// summary: Implements the per-profile TCPServerSocketEventDispatcher that starts accept loops on listening server sockets and dispatches connection events to extensions.
+// ---
+
 #include "extensions/browser/api/sockets_tcp_server/tcp_server_socket_event_dispatcher.h"
 
 #include <memory>

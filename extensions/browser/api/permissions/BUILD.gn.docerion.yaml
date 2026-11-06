@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the permissions API
+summary: GN build definition that creates the permissions source_set, listing the permissions API sources and its public and private dependencies.

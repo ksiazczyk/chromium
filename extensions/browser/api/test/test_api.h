@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for chrome.test extension functions and event queue
+// summary: Declares the test-only extension function classes and the TestStartedAndFinishedEventQueue that queues onTestStarted and onTestFinished events when no listener is active.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_TEST_TEST_API_H_
 #define EXTENSIONS_BROWSER_API_TEST_TEST_API_H_
 

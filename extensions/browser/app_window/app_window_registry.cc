@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window registry implementation
+// summary: Implements the registry that tracks app windows per browser context, notifying observers and supporting lookups by app, web contents, or native window.
+// ---
+
 #include "extensions/browser/app_window/app_window_registry.h"
 
 #include <algorithm>

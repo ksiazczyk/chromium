@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the virtual keyboard private directory
+summary: Grants this directory permission to include headers from ash and ui/color.

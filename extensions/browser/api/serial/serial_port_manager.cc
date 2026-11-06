@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialPortManager implementation
+// summary: Implements the per-browser-context SerialPortManager that lists serial devices, opens ports, and dispatches receive events to extensions.
+// ---
+
 #include "extensions/browser/api/serial/serial_port_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderInternalAPI declaration
+// summary: Declares the PrinterProviderInternalAPI observer hub and the extension functions that report printerProvider request results back to the browser.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_INTERNAL_API_H_
 #define EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_INTERNAL_API_H_
 

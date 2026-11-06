@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the systemInfo API
+// summary: Tests systemInfo event dispatching across multiple browser contexts using a fake browser client, display provider, and storage monitor.
+// ---
+
 #include "extensions/browser/api/system_info/system_info_api.h"
 
 #include <string>

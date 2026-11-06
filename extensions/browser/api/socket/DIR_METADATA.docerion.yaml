@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the socket API directory
+summary: Maps the socket API directory to the Platform>Extensions>API Monorail component and a Buganizer component for issue tracking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the browser-side chrome.runtime API
+// summary: Implements the RuntimeAPI class, handling onStartup and onInstalled events, uninstall URLs, platform info, update checks, and delayed device restarts.
+// ---
+
 #include "extensions/browser/api/runtime/runtime_api.h"
 
 #include <algorithm>

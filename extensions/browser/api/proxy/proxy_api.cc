@@ -4,6 +4,12 @@
 
 // Implementation of the Chrome Extensions Proxy Settings API.
 
+// ---docerion
+// type: source
+// title: Proxy settings API implementation
+// summary: Implements the ProxyEventRouter that broadcasts proxy.onProxyError and PAC script error events to extensions.
+// ---
+
 #include "extensions/browser/api/proxy/proxy_api.h"
 
 #include <memory>

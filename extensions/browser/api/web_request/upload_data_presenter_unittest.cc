@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for upload data presenter
+// summary: Unit tests verifying that ParsedDataPresenter and RawDataPresenter handle keys containing dots and produce the expected raw byte and file entries.
+// ---
+
 #include "extensions/browser/api/web_request/upload_data_presenter.h"
 
 #include <stddef.h>

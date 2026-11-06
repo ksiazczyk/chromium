@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.usb extension API implementation
+// summary: Implements the chrome.usb extension functions for device enumeration, opening, configuration, and control, bulk, interrupt, and isochronous transfers.
+// ---
+
 #include "extensions/browser/api/usb/usb_api.h"
 
 #include <algorithm>

@@ -4,6 +4,12 @@
 
 // This file tests the chrome.runtime extension API.
 
+// ---docerion
+// type: test
+// title: Unit tests for the chrome.runtime extension API
+// summary: Tests the chrome.runtime API, covering setUninstallURL validation against the pref store and markListenerRegistrationComplete availability and error handling.
+// ---
+
 #include "extensions/browser/api/runtime/runtime_api.h"
 
 #include <optional>

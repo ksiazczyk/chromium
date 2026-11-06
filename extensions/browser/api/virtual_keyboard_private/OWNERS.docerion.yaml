@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the virtual keyboard private directory
+summary: Delegates code ownership for this directory to the ash keyboard OWNERS file.

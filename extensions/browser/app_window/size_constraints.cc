@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Size constraints implementation
+// summary: Implements clamping of window sizes to minimum and maximum bounds, including minimum sizes that account for rounded corners and frame insets.
+// ---
+
 #include "extensions/browser/app_window/size_constraints.h"
 
 #include <algorithm>

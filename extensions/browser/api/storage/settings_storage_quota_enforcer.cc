@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota enforcement implementation
+// summary: Implements SettingsStorageQuotaEnforcer, tracking JSON-serialized usage per key and rejecting writes that exceed the configured quota limits.
+// ---
+
 #include "extensions/browser/api/storage/settings_storage_quota_enforcer.h"
 
 #include <memory>

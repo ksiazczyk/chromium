@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderAPIFactory declaration
+// summary: Declares the browser-context keyed service factory that returns the PrinterProviderAPI instance for a given context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_API_FACTORY_H_
 #define EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_API_FACTORY_H_
 

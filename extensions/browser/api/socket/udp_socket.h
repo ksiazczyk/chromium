@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UDP socket class declaration for extension socket APIs
+// summary: Declares the UDPSocket class, including multicast group membership, multicast options, broadcast support, and UDP socket listener callbacks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_UDP_SOCKET_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_UDP_SOCKET_H_
 

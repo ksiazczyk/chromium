@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local value store cache declarations
+// summary: Declares LocalValueStoreCache, the ValueStoreCache for the LOCAL namespace that owns value stores for apps and extensions with local quota limits.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_LOCAL_VALUE_STORE_CACHE_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_LOCAL_VALUE_STORE_CACHE_H_
 

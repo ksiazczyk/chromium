@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2Webcam class declaration
+// summary: Declares the V4L2Webcam class that implements the Webcam interface over a V4L2 device file descriptor.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_V4L2_WEBCAM_H_
 #define EXTENSIONS_BROWSER_API_WEBCAM_PRIVATE_V4L2_WEBCAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderAPIFactory implementation
+// summary: Implements the singleton factory that builds and provides the per-browser-context PrinterProviderAPI keyed service.
+// ---
+
 #include "extensions/browser/api/printer_provider/printer_provider_api_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

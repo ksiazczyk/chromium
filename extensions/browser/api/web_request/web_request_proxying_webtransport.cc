@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request proxying WebTransport implementation
+// summary: Implements proxying of WebTransport handshakes so extensions can listen to and intercept WebTransport connection setup via the web request API.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_proxying_webtransport.h"
 
 #include <optional>

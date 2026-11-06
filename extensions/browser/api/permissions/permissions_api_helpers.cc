@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of permissions API pack and unpack helpers
+// summary: Implements helpers that convert between permission sets and the permissions API object, including unpacking API permissions with arguments such as usbDevices.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_api_helpers.h"
 
 #include <stddef.h>

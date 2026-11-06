@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage settings namespace enum
+// summary: Defines the enum of ValueStore-backed storage areas (local, sync, managed) and a function converting a namespace to its string representation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_NAMESPACE_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_NAMESPACE_H_
 

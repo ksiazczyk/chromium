@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-extension socket write quota checker implementation
+// summary: Implements WriteQuotaChecker, a browser-context-keyed service that limits and tracks pending socket write bytes per extension with a 200 MB cap.
+// ---
+
 #include "extensions/browser/api/socket/write_quota_checker.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: userScripts extension API implementation
+// summary: Implements the userScripts extension API functions for registering, listing, updating, unregistering and executing user scripts, including validation of script sources and execution worlds.
+// ---
+
 #include "extensions/browser/api/user_scripts/user_scripts_api.h"
 
 #include <memory>

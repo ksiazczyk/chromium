@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageFrontend class declaration
+// summary: Declares StorageFrontend, the BrowserContextKeyedAPI component of the extensions Storage API that manages value store caches and storage operations.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_STORAGE_FRONTEND_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_STORAGE_FRONTEND_H_
 

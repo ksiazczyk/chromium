@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestApiObserverRegistry declaration
+// summary: Declares the global TestApiObserverRegistry singleton that manages observers of chrome.test function calls across browser contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_TEST_TEST_API_OBSERVER_REGISTRY_H_
 #define EXTENSIONS_BROWSER_API_TEST_TEST_API_OBSERVER_REGISTRY_H_
 

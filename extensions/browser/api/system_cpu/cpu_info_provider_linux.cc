@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux implementation of per-processor CPU time queries
+// summary: Implements QueryCpuTimePerProcessor on Linux and ChromeOS by parsing /proc/stat, filling zeros for processors that are offline.
+// ---
+
 #include "extensions/browser/api/system_cpu/cpu_info_provider.h"
 
 #include <inttypes.h>

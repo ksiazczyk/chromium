@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for the sockets.udp extension API functions
+// summary: Declares the extension function classes for the sockets.udp API, including create, bind, send, setPaused, close, getInfo and getSockets.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKETS_UDP_SOCKETS_UDP_API_H_
 #define EXTENSIONS_BROWSER_API_SOCKETS_UDP_SOCKETS_UDP_API_H_
 

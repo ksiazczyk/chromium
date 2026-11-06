@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device manager implementation
+// summary: Implements the browser-context USB device manager that connects to the Device Service, tracks devices, and dispatches device add and remove events to extensions.
+// ---
+
 #include "extensions/browser/api/usb/usb_device_manager.h"
 
 #include <functional>

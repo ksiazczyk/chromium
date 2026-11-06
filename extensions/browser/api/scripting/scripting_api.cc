@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scripting extension API implementation
+// summary: Implements the chrome.scripting extension functions, including executeScript, insertCSS, removeCSS and content script registration.
+// ---
+
 #include "extensions/browser/api/scripting/scripting_api.h"
 
 #include "base/check.h"

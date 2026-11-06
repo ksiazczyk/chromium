@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Store private API declarations
+// summary: Declares the WebstorePrivateApi class with testing hooks for pending install approvals and the webstorePrivate extension function classes used to begin and complete Web Store installs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEBSTORE_PRIVATE_WEBSTORE_PRIVATE_API_H_
 #define EXTENSIONS_BROWSER_API_WEBSTORE_PRIVATE_WEBSTORE_PRIVATE_API_H_
 

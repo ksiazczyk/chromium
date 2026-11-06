@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoDataPump unit tests
+// summary: Unit tests verifying MojoDataPump behavior when receive or send streams are not ready or are closed, using Mojo data pipes and run loops.
+// ---
+
 #include "extensions/browser/api/socket/mojo_data_pump.h"
 
 #include <memory>

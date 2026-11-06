@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: system.cpu.getInfo extension function implementation
+// summary: Implements the system.cpu.getInfo extension function, starting an asynchronous CPU info query and responding with results or an error.
+// ---
+
 #include "extensions/browser/api/system_cpu/system_cpu_api.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

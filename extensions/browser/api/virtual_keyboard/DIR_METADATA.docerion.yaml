@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for virtual_keyboard
+summary: Sets metadata mixins for the directory, inheriting from the ash input method common metadata.

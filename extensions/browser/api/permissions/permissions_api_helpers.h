@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for permissions API pack and unpack helpers
+// summary: Declares PackPermissionSet, UnpackPermissionSet, and the UnpackPermissionSetResult struct that partitions required, optional, unlisted, and restricted file-scheme permissions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_API_HELPERS_H_
 #define EXTENSIONS_BROWSER_API_PERMISSIONS_PERMISSIONS_API_HELPERS_H_
 

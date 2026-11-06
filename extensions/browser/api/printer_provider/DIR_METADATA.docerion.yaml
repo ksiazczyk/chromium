@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for printer_provider
+summary: Routes issues for the directory to the Internals>Printing Monorail component and a public Buganizer component ID.

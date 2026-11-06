@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderPrintJob struct definition
+// summary: Defines the PrinterProviderPrintJob struct describing print jobs forwarded to extensions via the chrome.printerProvider.onPrintRequested event, including printer id, ticket and document data.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_PRINT_JOB_H_
 #define EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_PRINT_JOB_H_
 

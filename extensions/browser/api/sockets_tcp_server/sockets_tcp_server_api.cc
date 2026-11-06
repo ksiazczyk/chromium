@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sockets.tcpServer extension API implementation
+// summary: Implements the sockets.tcpServer extension API functions such as create, update, setPaused, listen, disconnect, close, and getInfo using resumable TCP server sockets with permission checks.
+// ---
+
 #include "extensions/browser/api/sockets_tcp_server/sockets_tcp_server_api.h"
 
 #include <memory>

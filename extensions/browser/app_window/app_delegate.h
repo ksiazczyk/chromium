@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppDelegate interface for app window browser services
+// summary: Declares an interface giving packaged apps access to browser services such as link handling, media access, file choosers and Picture-in-Picture.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_APP_DELEGATE_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_APP_DELEGATE_H_
 

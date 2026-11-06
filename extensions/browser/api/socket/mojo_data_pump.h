@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo data pump header
+// summary: Declares the MojoDataPump helper that reads from a Mojo consumer handle and writes to a producer handle for socket data transfer.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_MOJO_DATA_PUMP_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_MOJO_DATA_PUMP_H_
 

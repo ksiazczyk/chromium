@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device manager class declaration
+// summary: Declares the UsbDeviceManager keyed API, which observes the Event Router and Device Service to manage USB device lookup, IDs, and add/remove events.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_USB_USB_DEVICE_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_USB_USB_DEVICE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket base class header
+// summary: Declares the Socket API resource base class that wraps low-level sockets with housekeeping for extension-owned connections, plus callback typedefs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_SOCKET_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_SOCKET_H_
 

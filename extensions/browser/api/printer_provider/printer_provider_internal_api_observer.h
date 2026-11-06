@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderInternalAPIObserver interface
+// summary: Declares the observer interface for chrome.printerProviderInternal API calls, delivering printer, capability, print and USB printer info results with request IDs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_INTERNAL_API_OBSERVER_H_
 #define EXTENSIONS_BROWSER_API_PRINTER_PROVIDER_PRINTER_PROVIDER_INTERNAL_API_OBSERVER_H_
 

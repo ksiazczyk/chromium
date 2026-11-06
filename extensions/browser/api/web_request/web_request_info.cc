@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestInfo implementation
+// summary: Implements WebRequestInfo, building request representations for the WebRequest API with upload data sources, response and SSL info, and declarative net request action bookkeeping.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_info.h"
 
 #include <array>

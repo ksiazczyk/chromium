@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web request directory metadata
+summary: Directory metadata that mixes in COMMON_METADATA to inherit the issue tracker configuration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtocolHandlersManager class declaration
+// summary: Declares the BrowserContextKeyedAPI manager that observes extension load and unload events to keep protocol handler registrations in sync, with its own incognito instance.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PROTOCOL_HANDLERS_PROTOCOL_HANDLERS_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_PROTOCOL_HANDLERS_PROTOCOL_HANDLERS_MANAGER_H_
 

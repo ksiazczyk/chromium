@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.power API and PowerAPI service declarations
+// summary: Declares the requestKeepAwake, releaseKeepAwake and reportActivity extension functions plus the PowerAPI service that maps extension IDs to lock levels.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_POWER_POWER_API_H_
 #define EXTENSIONS_BROWSER_API_POWER_POWER_API_H_
 

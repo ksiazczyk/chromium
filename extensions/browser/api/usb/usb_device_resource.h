@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device resource class declaration
+// summary: Declares the UsbDeviceResource class, an ApiResource wrapper for a mojo remote to an open USB device together with its GUID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_USB_USB_DEVICE_RESOURCE_H_
 #define EXTENSIONS_BROWSER_API_USB_USB_DEVICE_RESOURCE_H_
 

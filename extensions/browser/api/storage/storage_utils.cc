@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage utilities implementation
+// summary: Implements per-storage-area access level preferences, renderer access checks, and conversion of value changes to dictionary values.
+// ---
+
 #include "extensions/browser/api/storage/storage_utils.h"
 
 #include <utility>

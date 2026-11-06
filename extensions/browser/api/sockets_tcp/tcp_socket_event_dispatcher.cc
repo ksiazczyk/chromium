@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the TCP socket event dispatcher
+// summary: Implements the TCPSocketEventDispatcher, which starts and continues socket reads and dispatches socket data events to extensions.
+// ---
+
 #include "extensions/browser/api/sockets_tcp/tcp_socket_event_dispatcher.h"
 
 #include <memory>

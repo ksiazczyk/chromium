@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS implementation of the webcamPrivate API
+// summary: Implements WebcamPrivateAPI on ChromeOS, opening IP or V4L2 webcams, resolving HMAC device IDs via the media device salt service, and wiring the PTZ, reset, home and preset extension functions.
+// ---
+
 #include "extensions/browser/api/webcam_private/webcam_private_api.h"
 
 #include <memory>

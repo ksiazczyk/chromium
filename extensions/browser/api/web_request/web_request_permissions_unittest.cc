@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web request permissions unit tests
+// summary: Unit tests for extension web request permissions, covering when requests to given URLs are hidden from extensions, including dependence on hash prefix real-time lookups.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_permissions.h"
 
 #include "base/memory/scoped_refptr.h"

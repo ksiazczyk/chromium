@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindow class declaration
+// summary: Declares AppWindow, the window type used by platform apps, together with the AppWindowContents interface and window type, frame and fullscreen enums.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_H_
 #define EXTENSIONS_BROWSER_APP_WINDOW_APP_WINDOW_H_
 

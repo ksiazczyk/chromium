@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.usb extension API function declarations
+// summary: Declares the extension function classes backing the chrome.usb API, including base classes for permission checking, device connections, and transfers.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_USB_USB_API_H_
 #define EXTENSIONS_BROWSER_API_USB_USB_API_H_
 

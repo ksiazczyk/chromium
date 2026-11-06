@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.power API implementation with wake lock management
+// summary: Implements the chrome.power extension functions and the per-profile PowerAPI that tracks keep-awake requests and activates or cancels wake locks.
+// ---
+
 #include "extensions/browser/api/power/power_api.h"
 
 #include "base/functional/bind.h"

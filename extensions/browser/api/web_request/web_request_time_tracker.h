@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionWebRequestTimeTracker header
+// summary: Declares ExtensionWebRequestTimeTracker, which measures delays extensions add to network requests via the webRequest API and records UMA histograms.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_TIME_TRACKER_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_TIME_TRACKER_H_
 

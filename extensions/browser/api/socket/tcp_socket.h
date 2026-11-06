@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP socket class declarations for extension socket APIs
+// summary: Declares the TCPSocket class with connect, listen, accept, read, write, keep-alive, and TLS upgrade methods used by the extension socket APIs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SOCKET_TCP_SOCKET_H_
 #define EXTENSIONS_BROWSER_API_SOCKET_TCP_SOCKET_H_
 

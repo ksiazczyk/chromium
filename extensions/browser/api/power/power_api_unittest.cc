@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PowerAPI wake lock handling
+// summary: Tests PowerAPI wake lock behavior with a FakeWakeLockManager that records simulated activate and cancel actions instead of real power management.
+// ---
+
 #include "extensions/browser/api/power/power_api.h"
 
 #include <memory>

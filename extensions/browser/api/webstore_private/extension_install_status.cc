@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install status implementation
+// summary: Implements determination of the install status for Chrome Web Store extensions, including checks whether enterprise policy blocks the install by mode, manifest type or required permissions.
+// ---
+
 #include "extensions/browser/api/webstore_private/extension_install_status.h"
 
 #include "base/memory/scoped_refptr.h"

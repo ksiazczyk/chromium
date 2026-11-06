@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash activity reporter delegate class declaration
+// summary: Declares ActivityReporterDelegateAsh, the Ash-specific subclass that reports user activity for chrome.power.reportActivity().
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_POWER_ACTIVITY_REPORTER_DELEGATE_ASH_H_
 #define EXTENSIONS_BROWSER_API_POWER_ACTIVITY_REPORTER_DELEGATE_ASH_H_
 

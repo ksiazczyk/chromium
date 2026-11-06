@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the MemoryInfoProvider class
+// summary: Declares MemoryInfoProvider, a SystemInfoProvider subclass that stores queried memory information and exposes it to the system memory API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SYSTEM_MEMORY_MEMORY_INFO_PROVIDER_H_
 #define EXTENSIONS_BROWSER_API_SYSTEM_MEMORY_MEMORY_INFO_PROVIDER_H_
 

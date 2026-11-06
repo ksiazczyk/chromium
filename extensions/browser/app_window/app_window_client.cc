@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowClient global accessor
+// summary: Stores and returns the process-wide AppWindowClient instance, with checks that tests set and clear it consistently.
+// ---
+
 #include "extensions/browser/app_window/app_window_client.h"
 
 #include "base/check_op.h"

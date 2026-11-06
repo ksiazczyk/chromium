@@ -4,6 +4,12 @@
 
 // Definition of helper functions for the Chrome Extensions Proxy Settings API.
 
+// ---docerion
+// type: source
+// title: Proxy API helper function declarations
+// summary: Declares helpers for parsing extension proxy config dictionaries and converting PAC scripts to and from data URLs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_PROXY_PROXY_API_HELPERS_H_
 #define EXTENSIONS_BROWSER_API_PROXY_PROXY_API_HELPERS_H_
 

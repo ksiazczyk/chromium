@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfoProvider implementation
+// summary: Implements the base DisplayInfoProvider that converts display::Screen data into DisplayUnitInfo structs for the chrome.system.display extension API, with unimplemented setters on this base class.
+// ---
+
 #include "extensions/browser/api/system_display/display_info_provider.h"
 
 #include "base/functional/bind.h"

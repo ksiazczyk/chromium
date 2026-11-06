@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage extension API implementation
+// summary: Implements the chrome.storage extension functions such as get, set, remove, clear and getBytesInUse, with quota limiting and access checks.
+// ---
+
 #include "extensions/browser/api/storage/storage_api.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota enforcer class declaration
+// summary: Declares SettingsStorageQuotaEnforcer, a ValueStore wrapper enforcing total bytes, per-item bytes and maximum item count quotas for a delegate store.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_STORAGE_QUOTA_ENFORCER_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_STORAGE_QUOTA_ENFORCER_H_
 

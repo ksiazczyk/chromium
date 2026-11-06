@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension web request event router implementation
+// summary: Implements the WebRequestEventRouter that dispatches web request lifecycle events to extensions and applies declarative net request actions.
+// ---
+
 #include "extensions/browser/api/web_request/extension_web_request_event_router.h"
 
 #include <algorithm>

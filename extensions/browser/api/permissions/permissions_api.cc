@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the chrome.permissions extension API functions
+// summary: Implements the chrome.permissions functions contains, getAll, remove, and request, including tab validation, error handling, and host access request rate limiting.
+// ---
+
 #include "extensions/browser/api/permissions/permissions_api.h"
 
 #include <memory>

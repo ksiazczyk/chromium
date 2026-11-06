@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuInfoProvider implementation
+// summary: Implements CpuInfoProvider, gathering processor count, architecture, model, CPU features, per-processor times, and ChromeOS CPU temperatures into a CpuInfo.
+// ---
+
 #include "extensions/browser/api/system_cpu/cpu_info_provider.h"
 
 #include "base/system/sys_info.h"

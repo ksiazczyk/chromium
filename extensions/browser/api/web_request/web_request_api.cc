@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestAPI implementation
+// summary: Implements the WebRequestAPI support class for the extensions webRequest API, handling event listeners, authentication requests, and proxy interactions.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_api.h"
 
 #include <stddef.h>

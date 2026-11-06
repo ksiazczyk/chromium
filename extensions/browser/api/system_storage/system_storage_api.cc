@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: system.storage extension API function implementations
+// summary: Implements the getInfo, ejectDevice and getAvailableCapacity extension functions backed by StorageInfoProvider and StorageMonitor.
+// ---
+
 #include "extensions/browser/api/system_storage/system_storage_api.h"
 
 #include "base/functional/bind.h"

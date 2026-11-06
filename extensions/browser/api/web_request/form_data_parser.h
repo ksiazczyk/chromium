@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form data parser interface
+// summary: Declares the FormDataParser interface and factory for parsing POST request form data into name-value pairs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_FORM_DATA_PARSER_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_FORM_DATA_PARSER_H_
 

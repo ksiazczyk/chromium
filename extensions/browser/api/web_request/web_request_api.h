@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestAPI class declaration
+// summary: Declares the WebRequestAPI class, a per-BrowserContext keyed service that observes event listeners and supports the extensions webRequest API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_API_H_
 #define EXTENSIONS_BROWSER_API_WEB_REQUEST_WEB_REQUEST_API_H_
 

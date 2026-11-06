@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the extension storage API
+summary: Defines source sets for settings observer, settings namespace, and the storage component, with their sources and dependencies for the extensions storage API.

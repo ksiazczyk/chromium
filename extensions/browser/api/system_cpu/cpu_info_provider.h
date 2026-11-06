@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuInfoProvider class declaration
+// summary: Declares the CpuInfoProvider singleton that extends SystemInfoProvider and supplies CPU information for the system.cpu extension API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_SYSTEM_CPU_CPU_INFO_PROVIDER_H_
 #define EXTENSIONS_BROWSER_API_SYSTEM_CPU_CPU_INFO_PROVIDER_H_
 

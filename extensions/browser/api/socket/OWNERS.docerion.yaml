@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the socket API directory
+summary: Lists reillyg@chromium.org and the Chrome OS terminal owners file as required reviewers for changes in this directory.

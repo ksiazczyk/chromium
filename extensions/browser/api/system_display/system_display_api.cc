@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: system.display extension function implementations
+// summary: Implements the chrome.system.display extension functions, including permission validation, ChromeOS and kiosk restrictions, and an overscan calibration overlay tracker.
+// ---
+
 #include "extensions/browser/api/system_display/system_display_api.h"
 
 #include <map>

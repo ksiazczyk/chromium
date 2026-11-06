@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage utilities declarations
+// summary: Declares helpers for getting and setting storage access levels, converting value changes, and checking renderer access to extension storage.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_STORAGE_UTILS_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_STORAGE_UTILS_H_
 

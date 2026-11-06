@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard delegate interface
+// summary: Declares the abstract VirtualKeyboardDelegate interface with operations such as keyboard config, key events, bounds, and clipboard history handling.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_VIRTUAL_KEYBOARD_PRIVATE_VIRTUAL_KEYBOARD_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_VIRTUAL_KEYBOARD_PRIVATE_VIRTUAL_KEYBOARD_DELEGATE_H_
 

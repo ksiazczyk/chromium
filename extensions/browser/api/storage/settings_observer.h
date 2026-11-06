@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings change observer callbacks
+// summary: Defines settings-changed callback types for the storage API and a helper that binds a callback to run on a given sequenced task runner.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_OBSERVER_H_
 #define EXTENSIONS_BROWSER_API_STORAGE_SETTINGS_OBSERVER_H_
 

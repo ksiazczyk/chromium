@@ -4,6 +4,12 @@
 
 // Constants for the Chrome Extensions Proxy Settings API.
 
+// ---docerion
+// type: source
+// title: Proxy API constant definitions
+// summary: Defines string constants for proxy configuration dictionary keys such as mode, pacScript, rules, and bypassList.
+// ---
+
 #include "extensions/browser/api/proxy/proxy_api_constants.h"
 
 #include "extensions/buildflags/buildflags.h"

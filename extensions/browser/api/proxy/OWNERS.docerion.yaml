@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the proxy API folder
+summary: Lists battre@chromium.org as the code owner of the proxy API directory.

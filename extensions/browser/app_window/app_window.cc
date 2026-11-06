@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindow implementation
+// summary: Implements the AppWindow class managing web contents, geometry, size constraints, fullscreen modes and modal dialogs for platform app windows.
+// ---
+
 #include "extensions/browser/app_window/app_window.h"
 
 #include <stddef.h>

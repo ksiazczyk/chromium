@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for protocol_handlers
+summary: GN build file defining the protocol_handlers source set with its sources and dependencies on base, extensions, and custom_handlers components.

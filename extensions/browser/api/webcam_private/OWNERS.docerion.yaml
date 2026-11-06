@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for webcam_private
+summary: Lists the owners responsible for reviewing changes to the webcam_private API directory.

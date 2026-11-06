@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard restrictFeatures extension function implementation
+// summary: Implements virtualKeyboard.restrictFeatures, applying handwriting and voice input restrictions through the input method manager and the private API delegate.
+// ---
+
 #include "extensions/browser/api/virtual_keyboard/virtual_keyboard_api.h"
 
 #include "base/functional/bind.h"

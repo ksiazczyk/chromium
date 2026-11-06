@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request time tracker implementation
+// summary: Tracks web request timings and records UMA histograms on request duration, blocking delay, and declarativeNetRequest evaluation time caused by extensions.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_time_tracker.h"
 
 #include "base/metrics/histogram_macros.h"

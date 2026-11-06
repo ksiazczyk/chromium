@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterProviderAPI implementation
+// summary: Implements the browser-side chrome.printerProvider API, dispatching printer, capability, print and USB info requests to extensions and making printer IDs unique across extensions.
+// ---
+
 #include "extensions/browser/api/printer_provider/printer_provider_api.h"
 
 #include <stddef.h>

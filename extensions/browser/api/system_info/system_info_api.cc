@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfo event router implementation
+// summary: Implements the systemInfo event router that tracks listeners and dispatches display-changed and removable storage events across browser contexts.
+// ---
+
 #include "extensions/browser/api/system_info/system_info_api.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the system_memory extension API
+summary: GN build file defining the system_memory source set with its source files and dependencies on the extensions browser and common API targets.

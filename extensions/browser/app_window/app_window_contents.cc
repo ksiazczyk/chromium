@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowContentsImpl implementation
+// summary: Implements creation and loading of the web contents for an app window and notifies the renderer of window property changes and closure.
+// ---
+
 #include "extensions/browser/app_window/app_window_contents.h"
 
 #include <memory>
