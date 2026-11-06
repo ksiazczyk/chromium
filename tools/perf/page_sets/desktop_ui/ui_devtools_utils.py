@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: UI DevTools input helper functions
+# summary: Provides helper functions to send simulated mouse and keyboard events to browser UI elements via UI DevTools, including PressKey, InputText and ClickOn.
+# ---
+
 '''
 This file provide some helper functions to send mouse and
 keyboard events to interact with the browser. Please see existing

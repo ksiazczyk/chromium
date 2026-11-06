@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Top website URL list
+# summary: Provides TOP_URL, a list of popular website URLs used by desktop UI performance stories to open tabs.
+# ---
+
 TOP_URL = [
   'https://' + host
   for host in [

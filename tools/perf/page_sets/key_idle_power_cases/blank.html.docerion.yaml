@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank Test Page
+summary: Empty HTML page serving as the blank baseline case for idle power measurements.

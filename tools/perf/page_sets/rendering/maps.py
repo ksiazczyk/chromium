@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Google Maps rendering story
+# summary: Defines a rendering story running the Google Maps performance test with WebGL requirements and cloud-stored data.
+# ---
+
 import os
 
 from page_sets.rendering import rendering_story

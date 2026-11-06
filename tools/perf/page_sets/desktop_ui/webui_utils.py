@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebUI inspection helper
+# summary: Provides the Inspect helper, which waits for a WebUI tab to load and returns a new action runner for interacting with it.
+# ---
+
 import py_utils
 from telemetry.internal.actions.action_runner import ActionRunner
 

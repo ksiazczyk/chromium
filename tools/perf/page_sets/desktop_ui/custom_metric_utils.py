@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Custom metric reporting helpers
+# summary: Helper functions and unit constants for reporting trace events as custom metrics in desktop UI benchmarks.
+# ---
+
 '''
 This file provides some helper functions to report trace events as metrics
 to show in custom metric

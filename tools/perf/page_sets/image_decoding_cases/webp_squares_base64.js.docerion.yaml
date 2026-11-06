@@ -1,0 +1,4 @@
+# Docerion header of webp_squares_base64.js.
+type: data
+title: Base64-encoded WebP square data
+summary: JavaScript array of base64-encoded WebP square images consumed by the WebP decoding benchmark page.

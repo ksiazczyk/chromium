@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Tough scrolling benchmark stories
+# summary: Defines rendering benchmark stories that scroll or fling pages at various speeds to measure scrolling performance.
+# ---
+
 import time
 
 from telemetry.internal.actions import page_action

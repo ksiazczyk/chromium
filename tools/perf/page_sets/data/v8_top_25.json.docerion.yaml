@@ -1,0 +1,4 @@
+# Docerion header of v8_top_25.json.
+type: data
+title: v8_top_25.json
+summary: Maps V8 top 25 benchmark stories, including cold, warm and hot variants, to their Web Page Replay archives.

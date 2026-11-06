@@ -1,0 +1,4 @@
+# Docerion header of css-animation.html.
+type: test
+title: CSS Animation Test Page
+summary: Test page that runs continuous 3D CSS animations of rotating poster rings as an idle power test case.

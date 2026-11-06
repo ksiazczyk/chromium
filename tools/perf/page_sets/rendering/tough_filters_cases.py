@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Tough filters rendering stories
+# summary: Defines rendering benchmark stories that stress SVG and CSS filter rendering, including an archived IE PirateMark benchmark page.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

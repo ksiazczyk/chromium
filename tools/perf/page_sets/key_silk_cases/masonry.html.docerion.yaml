@@ -1,0 +1,4 @@
+# Docerion header of masonry.html.
+type: test
+title: Masonry grid layout demo page
+summary: Page applying the Masonry cascading grid layout library to lorem ipsum items, a key Silk performance case.

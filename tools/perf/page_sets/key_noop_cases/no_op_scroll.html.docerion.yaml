@@ -1,0 +1,4 @@
+# Docerion header of no_op_scroll.html.
+type: test
+title: No-op scroll
+summary: Unscrollable test page representing a no-op scroll case in the performance page set.

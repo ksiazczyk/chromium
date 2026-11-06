@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Tough scrollbar scrolling rendering stories
+# summary: Defines rendering benchmark stories that drag the scrollbar up and down for 15 seconds, computing scrollbar geometry via injected JavaScript.
+# ---
+
 import time
 
 from telemetry.internal.actions import page_action

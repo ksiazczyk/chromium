@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Google account login helper
+# summary: Logs into Google accounts for old and new UI variants and can obtain login URLs for OTA test accounts.
+# ---
+
 from page_sets.login_helpers import login_utils
 
 from page_sets.helpers import override_online

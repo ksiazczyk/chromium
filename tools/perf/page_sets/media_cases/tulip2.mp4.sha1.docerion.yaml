@@ -1,0 +1,4 @@
+# Docerion header of tulip2.mp4.sha1.
+type: data
+title: tulip2.mp4 SHA-1 checksum
+summary: Holds the SHA-1 hash of the tulip2.mp4 video clip so the media performance test suite can verify the downloaded asset.

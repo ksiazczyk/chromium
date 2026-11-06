@@ -9,6 +9,12 @@
 # Please keep the names in this file in sync with
 # `chrome/browser/ui/browser_element_identifiers.h`
 
+# ---docerion
+# type: source
+# title: Browser element identifier constants
+# summary: Defines browser UI element identifier constants used by the desktop UI benchmark, kept in sync with the C++ browser element identifiers header.
+# ---
+
 kOmniboxElementId = 'kOmniboxElementId'
 kSideSearchButtonElementId = 'kSideSearchButtonElementId'
 kToolbarTabCounterButtonElementId = 'kToolbarTabCounterButtonElementId'

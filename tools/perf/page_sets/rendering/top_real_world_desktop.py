@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Top real-world desktop stories
+# summary: Defines desktop rendering stories for top real-world sites such as Google Search, YouTube and Facebook, with scrolling interactions and login helpers.
+# ---
+
 from telemetry.page import shared_page_state
 from telemetry.util import wpr_modes
 

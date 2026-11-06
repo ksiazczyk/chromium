@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Multi-tab story base class
+# summary: Base class for benchmark stories that open tabs from a URL list, wait for network quiescence, and measure frame time.
+# ---
+
 import logging
 import py_utils
 from page_sets.desktop_ui import desktop_ui_shared_state

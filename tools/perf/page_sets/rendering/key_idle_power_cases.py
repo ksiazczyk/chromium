@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Key idle power rendering story cases
+# summary: Defines mobile-only idle power stories measuring background activity for pages like animated GIFs and CSS animations.
+# ---
+
 from page_sets import android_screen_restoration_shared_state
 from page_sets.rendering import rendering_story
 from page_sets.rendering import story_tags

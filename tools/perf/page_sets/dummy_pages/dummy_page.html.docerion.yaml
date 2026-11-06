@@ -1,0 +1,4 @@
+# Docerion header of dummy_page.html.
+type: test
+title: Dummy test page
+summary: Minimal HTML page with a dummy value that exists solely for testing purposes in the performance page sets.

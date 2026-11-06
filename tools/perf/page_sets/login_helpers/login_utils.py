@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared login utilities
+# summary: Loads username and password pairs from the credentials file and offers helpers to fill and submit form inputs during logins.
+# ---
+
 import json
 import os
 

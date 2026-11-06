@@ -1,0 +1,4 @@
+# Docerion header of worker.js.
+type: source
+title: Maps performance test worker script
+summary: Compiled JavaScript web worker used by the Maps performance test to handle worker messaging.

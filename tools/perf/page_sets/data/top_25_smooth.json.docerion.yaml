@@ -1,0 +1,4 @@
+# Docerion header of top_25_smooth.json.
+type: data
+title: top_25_smooth WPR archive map
+summary: Maps each story of the top_25_smooth page set to its Web Page Replay archive and is updated via record_wpr rather than by hand.

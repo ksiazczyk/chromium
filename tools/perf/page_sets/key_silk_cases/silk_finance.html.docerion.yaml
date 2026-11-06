@@ -1,0 +1,4 @@
+# Docerion header of silk_finance.html.
+type: test
+title: Silk finance demo page
+summary: Mock finance page with stock quote widgets and news built from custom sf-* elements, a key Silk performance case.

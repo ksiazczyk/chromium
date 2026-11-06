@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LinkedIn login helper
+# summary: Provides desktop and mobile LinkedIn login routines, including a page reload needed for desktop pages on mobile devices.
+# ---
+
 from page_sets.login_helpers import login_utils
 
 

@@ -1,0 +1,4 @@
+# Docerion header of list_animation_simple.html.
+type: test
+title: Simple list animation demo page
+summary: Demo page with several scrollable lists that recycle items and slide in and out, for performance testing.

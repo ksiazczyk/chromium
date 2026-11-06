@@ -1,0 +1,4 @@
+# Docerion header of video.html.
+type: test
+title: Media src= performance test page
+summary: Test page that creates a video or audio element from query parameters, optionally keeping the renderer busy, to measure media src= playback performance in Chrome.

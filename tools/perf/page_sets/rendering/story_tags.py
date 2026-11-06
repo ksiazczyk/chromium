@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rendering story tags
+# summary: Defines named tags describing rendering story characteristics such as GPU rasterization, Motionmark and tough scrolling, and collects them into the ALL_TAGS list.
+# ---
+
 import collections
 
 

@@ -6,6 +6,12 @@
 // video tag to set up a media file for playback. The test takes several URL
 // parameters described in the loadTestParams() function.
 
+// ---docerion
+// type: source
+// title: Media Source Extensions test script
+// summary: JavaScript that appends media chunks to a MediaSource on a video tag and plays them, configured via URL parameters, for MSE performance testing.
+// ---
+
 (() => {
   // Map from media content to MIME type. All test content must be added to this
   // map. (Feel free to extend it for your test case!)

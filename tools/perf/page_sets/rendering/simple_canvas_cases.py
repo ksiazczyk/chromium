@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Simple canvas rendering stories
+# summary: Defines canvas rendering benchmark stories that load local simple_canvas HTML pages covering 2D canvas, WebGL, image data and hardware-accelerated canvas cases.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

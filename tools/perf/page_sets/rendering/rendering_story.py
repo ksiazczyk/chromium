@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rendering story base class
+# summary: Defines the abstract RenderingStory base class and its metaclass, handling story names, tags, supported platforms, browser arguments and tracing categories.
+# ---
+
 from page_sets.rendering import story_tags
 from page_sets.system_health import platforms
 

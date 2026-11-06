@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Key desktop move rendering story cases
+# summary: Defines desktop-only rendering stories such as Gmail scrollbar dragging for key desktop move interactions.
+# ---
+
 from telemetry.page import shared_page_state
 from telemetry.util import wpr_modes
 

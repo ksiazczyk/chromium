@@ -1,0 +1,4 @@
+# Docerion header of tracked.js.
+type: source
+title: Maps performance tracker library
+summary: Compiled Closure JavaScript library providing the Tracker that runs the Maps performance test and can upload WTF traces.

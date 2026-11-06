@@ -1,0 +1,4 @@
+# Docerion header of no_op_settimeout.html.
+type: test
+title: No-op setTimeout loop
+summary: Test page running a no-op setTimeout loop every 16 ms, used as a benchmark case in the performance page set.

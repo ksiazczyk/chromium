@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Tough desktop pinch zoom rendering stories
+# summary: Defines desktop-only rendering benchmark stories that run repeated pinch zoom gestures on Google properties and other sites, with login handling.
+# ---
+
 from telemetry.util import wpr_modes
 
 from page_sets.rendering import rendering_shared_state

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Tumblr login helper
+# summary: Automates signing into a Tumblr account on desktop through the multi-step email and password flow.
+# ---
+
 from page_sets.login_helpers import login_utils
 
 

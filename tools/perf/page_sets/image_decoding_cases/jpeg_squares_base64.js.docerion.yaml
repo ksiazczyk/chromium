@@ -1,0 +1,4 @@
+# Docerion header of jpeg_squares_base64.js.
+type: data
+title: Base64-encoded JPEG square data
+summary: JavaScript array of base64-encoded JPEG square images consumed by the JPEG decoding benchmark page.

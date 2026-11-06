@@ -1,0 +1,4 @@
+# Docerion header of animated-gif.html.
+type: test
+title: Animated GIF Test Page
+summary: Test page that displays an animated GIF as an idle power test case for GIF animation playback.

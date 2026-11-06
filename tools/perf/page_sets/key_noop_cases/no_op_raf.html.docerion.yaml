@@ -1,0 +1,4 @@
+# Docerion header of no_op_raf.html.
+type: test
+title: No-op requestAnimationFrame loop
+summary: Test page with many compositor layers and a no-op requestAnimationFrame loop, used as a benchmark case in the performance page set.

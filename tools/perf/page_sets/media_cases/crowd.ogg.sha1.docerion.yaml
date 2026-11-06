@@ -1,0 +1,4 @@
+# Docerion header of crowd.ogg.sha1.
+type: data
+title: crowd.ogg SHA-1 checksum
+summary: Stores the SHA-1 hash used to verify the crowd.ogg audio file fetched for the media performance page sets.

@@ -1,0 +1,4 @@
+# Docerion header of mse.html.
+type: test
+title: Media Source Extensions performance test page
+summary: HTML page with a video element used to test the Media Source Extensions implementation, loading mse.js to run the performance test.
