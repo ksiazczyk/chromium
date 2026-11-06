@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTOFILL_BNPL_KLARNA.png.sha1.
+type: data
+title: SHA1 hash for the Klarna BNPL screenshot
+summary: Holds the SHA1 checksum of the PNG screenshot associated with the Klarna buy-now-pay-later autofill string identifier.

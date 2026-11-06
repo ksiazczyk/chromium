@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTOFILL_CHROME_LOGO_ACCESSIBLE_NAME.png.sha1.
+type: asset
+title: Chrome logo accessible name image SHA1
+summary: Holds the SHA1 hash of the PNG screenshot for the Chrome logo accessible name string used in autofill payments UI tests.

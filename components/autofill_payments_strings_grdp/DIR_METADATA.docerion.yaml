@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for autofill payments strings
+summary: Directory metadata declaring the UI>Browser>Autofill>Payments monorail component, the payments-autofill-team@google.com contact and Buganizer component 1457039.

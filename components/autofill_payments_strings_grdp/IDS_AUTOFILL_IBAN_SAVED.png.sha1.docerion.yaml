@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTOFILL_IBAN_SAVED.png.sha1.
+type: asset
+title: SHA1 checksum for IDS_AUTOFILL_IBAN_SAVED image
+summary: Stores the SHA1 checksum of the PNG screenshot for the IBAN saved notification string, used to verify the externally stored image asset.
