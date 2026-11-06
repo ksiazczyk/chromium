@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock IME candidate window handler implementation
+// summary: Implements a mock candidate window handler that records lookup table updates and cursor bounds calls for tests.
+// ---
+
 #include "ui/base/ime/ash/mock_ime_candidate_window_handler.h"
 
 namespace ash {

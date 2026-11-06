@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockInputMethodManagerImpl implementation
+// summary: Implements MockInputMethodManagerImpl, a functional mock input method manager with fallback input methods, observer counters, and a fake keyboard.
+// ---
+
 #include "ui/base/ime/ash/mock_input_method_manager_impl.h"
 
 #include <memory>

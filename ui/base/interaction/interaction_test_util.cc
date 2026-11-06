@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtil implementation
+// summary: Implements InteractionTestUtil, which dispatches simulated UI actions such as button presses and tab selection to registered platform-specific simulators.
+// ---
+
 #include "ui/base/interaction/interaction_test_util.h"
 
 #include <array>

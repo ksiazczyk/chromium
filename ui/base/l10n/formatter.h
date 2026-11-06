@@ -5,6 +5,12 @@
 // This file contains implementation details, the public interface is declared
 // in time_format.h.
 
+// ---docerion
+// type: source
+// title: Formatter class for localized time messages
+// summary: Declares the Formatter class and helpers that TimeFormat uses for pluralized time messages.
+// ---
+
 #ifndef UI_BASE_L10N_FORMATTER_H_
 #define UI_BASE_L10N_FORMATTER_H_
 

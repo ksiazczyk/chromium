@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualKeyboardControllerStub implementation
+// summary: Implements a minimal stub virtual keyboard controller that tracks visibility and notifies registered observers.
+// ---
+
 #include "ui/base/ime/virtual_keyboard_controller_stub.h"
 #include "ui/gfx/geometry/rect.h"
 

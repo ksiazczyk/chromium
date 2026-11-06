@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of text edit command Mojom traits
+// summary: Implements conversion between ui::TextEditCommand and ui.mojom.TextEditCommand using the generated text_edit_commands.inc entries.
+// ---
+
 #include "ui/base/ime/mojom/text_edit_command_mojom_traits.h"
 
 #include "base/notreached.h"

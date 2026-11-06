@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring text edit command Mojom traits
+// summary: Declares the Mojo EnumTraits specialization that converts ui::TextEditCommand to and from ui.mojom.TextEditCommand.
+// ---
+
 #ifndef UI_BASE_IME_MOJOM_TEXT_EDIT_COMMAND_MOJOM_TRAITS_H_
 #define UI_BASE_IME_MOJOM_TEXT_EDIT_COMMAND_MOJOM_TRAITS_H_
 

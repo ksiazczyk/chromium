@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metadata unit tests
+// summary: Unit tests verifying metadata registration, member lookup, property change callbacks, and class property metadata across a test class hierarchy.
+// ---
+
 #include <algorithm>
 #include <string>
 

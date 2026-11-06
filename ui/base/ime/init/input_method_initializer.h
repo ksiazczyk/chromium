@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method initializer API
+// summary: Declares functions to initialize and shut down thread-local input method resources, including variants intended for unit tests.
+// ---
+
 #ifndef UI_BASE_IME_INIT_INPUT_METHOD_INITIALIZER_H_
 #define UI_BASE_IME_INIT_INPUT_METHOD_INITIALIZER_H_
 

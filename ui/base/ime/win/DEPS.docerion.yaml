@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Windows IME module
+summary: DEPS entry allowing this directory to include headers from components/stylus_handwriting/win.

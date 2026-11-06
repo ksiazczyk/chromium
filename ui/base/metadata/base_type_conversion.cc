@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementations of metadata base type converters
+// summary: Implements ToString, FromString, and valid-string helpers of TypeConverter specializations for numbers, strings, URLs, colors, and gfx geometry types.
+// ---
+
 #include "ui/base/metadata/base_type_conversion.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodDelegate interface for IME property access
+// summary: Declares an interface to read and persist input method related properties such as hardware keyboard layouts and localized strings.
+// ---
+
 #ifndef UI_BASE_IME_ASH_INPUT_METHOD_DELEGATE_H_
 #define UI_BASE_IME_ASH_INPUT_METHOD_DELEGATE_H_
 

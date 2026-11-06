@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodAsh implementation
+// summary: Implements the ash input method, handling key events, composition text, autocorrect and autocapitalization, and communication with the IME engine via IMEBridge.
+// ---
+
 #include "ui/base/ime/ash/input_method_ash.h"
 
 #include <stddef.h>

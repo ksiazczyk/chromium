@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputType enum for text input field types
+// summary: Enumerates text input field types such as text, password, search and date, kept in sync with Blink's WebTextInputType.
+// ---
+
 #ifndef UI_BASE_IME_TEXT_INPUT_TYPE_H_
 #define UI_BASE_IME_TEXT_INPUT_TYPE_H_
 

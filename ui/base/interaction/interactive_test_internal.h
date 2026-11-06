@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactive test internal declarations
+// summary: Declares InteractiveTestPrivate and the framework base class that back the interactive test API with setup, teardown, and debug support.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTIVE_TEST_INTERNAL_H_
 #define UI_BASE_INTERACTION_INTERACTIVE_TEST_INTERNAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the interaction library
+summary: Defines the interaction component, test support static library, and unit test source set with their sources and dependencies.

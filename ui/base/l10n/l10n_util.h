@@ -5,6 +5,12 @@
 // This file contains utility functions for dealing with localized
 // content.
 
+// ---docerion
+// type: source
+// title: Core localization utility declarations
+// summary: Declares l10n_util helpers for resolving locales, determining the application locale, and displaying locale and country names.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_UTIL_H_
 #define UI_BASE_L10N_L10N_UTIL_H_
 

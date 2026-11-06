@@ -1,0 +1,4 @@
+# Docerion header of interaction_test_util_mac.mm.
+type: source
+title: Mac InteractionTestUtil simulator implementation
+summary: Implements Mac menu item selection through MenuControllerCocoa and resolves native windows for tracked elements during interaction tests.

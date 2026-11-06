@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IME keyboard class declaration
+// summary: Declares FakeImeKeyboard, a test double of ImeKeyboard that tracks layout changes, auto-repeat rate and slow keys settings.
+// ---
+
 #ifndef UI_BASE_IME_ASH_FAKE_IME_KEYBOARD_H_
 #define UI_BASE_IME_ASH_FAKE_IME_KEYBOARD_H_
 

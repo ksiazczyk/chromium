@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurroundingTextTracker implementation
+// summary: Implements caching and emulation of surrounding text to bridge the timing gap between asynchronous IME requests and client commit notifications.
+// ---
+
 #include "ui/base/ime/surrounding_text_tracker.h"
 
 #include <string_view>

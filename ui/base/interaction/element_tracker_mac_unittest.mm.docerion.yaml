@@ -1,0 +1,4 @@
+# Docerion header of element_tracker_mac_unittest.mm.
+type: test
+title: ElementTrackerMac unit tests
+summary: Unit tests for the macOS element tracker using fake NSMenu hierarchies, screen bounds, and expected callback counts.

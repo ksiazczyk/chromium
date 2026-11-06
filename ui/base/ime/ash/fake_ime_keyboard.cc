@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IME keyboard implementation
+// summary: Implements a fake ImeKeyboard that records layout and auto-repeat calls so tests can inspect keyboard state changes.
+// ---
+
 #include "ui/base/ime/ash/fake_ime_keyboard.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualKeyboardControllerObserver interface
+// summary: Observer interface notified when the on-screen keyboard becomes visible or hidden, including keyboard bounds in dips.
+// ---
+
 #ifndef UI_BASE_IME_VIRTUAL_KEYBOARD_CONTROLLER_OBSERVER_H_
 #define UI_BASE_IME_VIRTUAL_KEYBOARD_CONTROLLER_OBSERVER_H_
 

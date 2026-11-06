@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Linux input method header
+// summary: Declares InputMethodAuraLinux, the ui::InputMethod implementation for Aura on Linux built on the LinuxInputMethodContext interface.
+// ---
+
 #ifndef UI_BASE_IME_LINUX_INPUT_METHOD_AURALINUX_H_
 #define UI_BASE_IME_LINUX_INPUT_METHOD_AURALINUX_H_
 

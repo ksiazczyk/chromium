@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singleton cache for class metadata registration
+// summary: Declares the MetaDataCache singleton and helper functions for registering per-class metadata, used by the metadata declaration macros.
+// ---
+
 #ifndef UI_BASE_METADATA_METADATA_CACHE_H_
 #define UI_BASE_METADATA_METADATA_CACHE_H_
 

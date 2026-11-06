@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension IME manager implementation
+// summary: Implements loading, allowlisting and descriptor generation for component extension input methods on ChromeOS.
+// ---
+
 #include "ui/base/ime/ash/component_extension_ime_manager.h"
 
 #include <stddef.h>

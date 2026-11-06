@@ -1,0 +1,4 @@
+# Docerion header of ime_types.mojom.
+type: source
+title: Mojom definitions for IME text input types
+summary: Defines Mojom enums for text input type, mode, and action plus the ImeTextSpan struct describing IME composition spans.

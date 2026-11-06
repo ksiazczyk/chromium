@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeKeyboard base implementation
+// summary: Base ImeKeyboard implementation managing observers, caps lock state, layout change notifications, and layout capability checks.
+// ---
+
 #include "ui/base/ime/ash/ime_keyboard.h"
 
 #include "base/containers/fixed_flat_set.h"

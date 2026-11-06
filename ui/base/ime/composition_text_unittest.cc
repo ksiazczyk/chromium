@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositionText unit tests
+// summary: Unit tests verifying that copying a CompositionText preserves its text, ImeTextSpans, and selection range.
+// ---
+
 #include "ui/base/ime/composition_text.h"
 
 #include <stddef.h>

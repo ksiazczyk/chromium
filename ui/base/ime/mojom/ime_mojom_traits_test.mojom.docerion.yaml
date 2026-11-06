@@ -1,0 +1,4 @@
+# Docerion header of ime_mojom_traits_test.mojom.
+type: test
+title: Mojom test interface for IME struct traits
+summary: Defines the IMEStructTraitsTest Mojo interface used to echo TextInputType values while testing the IME struct traits.

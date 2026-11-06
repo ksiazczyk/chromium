@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockIMEInputContextHandler test double
+// summary: Declares MockIMEInputContextHandler, a TextInputTarget mock with call counters, last-argument accessors, and a commit text observer for IME tests.
+// ---
+
 #ifndef UI_BASE_IME_ASH_MOCK_IME_INPUT_CONTEXT_HANDLER_H_
 #define UI_BASE_IME_ASH_MOCK_IME_INPUT_CONTEXT_HANDLER_H_
 

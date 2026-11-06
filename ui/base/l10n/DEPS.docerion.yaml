@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the l10n directory
+summary: Grants this directory access to ui_base_jni_headers when resolving include dependencies.

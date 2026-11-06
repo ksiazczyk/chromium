@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF bridge interface
+// summary: Declares TSFBridge, the thread-local high-level IME API over Windows Text Services Framework for composition, focus, and key event dispatch.
+// ---
+
 #ifndef UI_BASE_IME_WIN_TSF_BRIDGE_H_
 #define UI_BASE_IME_WIN_TSF_BRIDGE_H_
 

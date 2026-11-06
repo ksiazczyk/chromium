@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabTip on-screen keyboard display manager declaration
+// summary: Declares the VirtualKeyboardController implementation that displays the on-screen keyboard with TabTip.exe on Windows versions before 10.0.10240.0.
+// ---
+
 #ifndef UI_BASE_IME_WIN_ON_SCREEN_KEYBOARD_DISPLAY_MANAGER_TAB_TIP_H_
 #define UI_BASE_IME_WIN_ON_SCREEN_KEYBOARD_DISPLAY_MANAGER_TAB_TIP_H_
 

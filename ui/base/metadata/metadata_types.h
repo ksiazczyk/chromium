@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata types declarations
+// summary: Declares ClassMetaData, MetaDataProvider, PropertyFlags, and property key helpers used to describe classes and properties in the UI metadata framework.
+// ---
+
 #ifndef UI_BASE_METADATA_METADATA_TYPES_H_
 #define UI_BASE_METADATA_METADATA_TYPES_H_
 

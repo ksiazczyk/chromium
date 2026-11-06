@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputClient base implementation
+// summary: Provides default TextInputClient behavior such as grammar fragment handling, selection-and-replace on ChromeOS and logging of IndexFromPointFlags on Windows.
+// ---
+
 #include "ui/base/ime/text_input_client.h"
 
 #include <iomanip>

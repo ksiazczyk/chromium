@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium language matcher API declarations
+// summary: Declares accessors for accepted and platform language tags and their language tag matchers.
+// ---
+
 #ifndef UI_BASE_L10N_CHROMIUM_LANGUAGE_MATCHER_H_
 #define UI_BASE_L10N_CHROMIUM_LANGUAGE_MATCHER_H_
 

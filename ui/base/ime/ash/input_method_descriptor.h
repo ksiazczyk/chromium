@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodDescriptor structure for input method metadata
+// summary: Defines a structure describing an input method with ID, name, keyboard layout, language codes, indicator, login usability, and options or input view URLs.
+// ---
+
 #ifndef UI_BASE_IME_ASH_INPUT_METHOD_DESCRIPTOR_H_
 #define UI_BASE_IME_ASH_INPUT_METHOD_DESCRIPTOR_H_
 

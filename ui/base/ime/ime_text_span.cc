@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeTextSpan implementation
+// summary: Implements ImeTextSpan constructors describing composition text spans with underline style, colors, and suggestions.
+// ---
+
 #include "ui/base/ime/ime_text_span.h"
 
 #include <string>

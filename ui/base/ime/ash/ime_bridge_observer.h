@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME bridge observer interface
+// summary: Defines IMEBridgeObserver, an observer interface notified when the input context handler changes.
+// ---
+
 #ifndef UI_BASE_IME_ASH_IME_BRIDGE_OBSERVER_H_
 #define UI_BASE_IME_ASH_IME_BRIDGE_OBSERVER_H_
 

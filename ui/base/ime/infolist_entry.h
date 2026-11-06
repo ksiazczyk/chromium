@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfolistEntry struct header
+// summary: Declares the InfolistEntry struct, the data model for infolist window entries with title, body and highlighted flag.
+// ---
+
 #ifndef UI_BASE_IME_INFOLIST_ENTRY_H_
 #define UI_BASE_IME_INFOLIST_ENTRY_H_
 

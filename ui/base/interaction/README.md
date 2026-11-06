@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chromium Interaction Library
+summary: Explains named elements, element events, interaction sequences, and how to support additional UI frameworks for tutorials and interactive testing.
+relations:
+  - references /chrome/test/interaction/README.md
+  - documents /ui/base/interaction/element_identifier.h
+---
+
 # Chromium Interaction Library
 
 Note: for **Interactive Testing**, see the

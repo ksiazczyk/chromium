@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac element tracker declarations
+// summary: Declares TrackedElementMac and ElementTrackerMac, which map native Mac menus and menu items to tracked elements for the interaction library.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_TRACKER_MAC_H_
 #define UI_BASE_INTERACTION_ELEMENT_TRACKER_MAC_H_
 

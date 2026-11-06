@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux text edit command to string conversion
+// summary: Maps text edit commands such as delete and move operations to their string representations sent to the renderer for editing on Linux.
+// ---
+
 #include "ui/base/ime/linux/text_edit_command_auralinux.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF input scope conversion
+// summary: Converts Chromium text input types and modes to Windows InputScope values and implements the ITfInputScope COM interface.
+// ---
+
 #include "ui/base/ime/win/tsf_input_scope.h"
 
 #include <windows.h>

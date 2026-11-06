@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal macros for UI metadata generation
+// summary: Defines internal helper macros that generate metadata accessors, class declarations, and registration code for the Chromium UI metadata system.
+// ---
+
 #ifndef UI_BASE_METADATA_METADATA_MACROS_INTERNAL_H_
 #define UI_BASE_METADATA_METADATA_MACROS_INTERNAL_H_
 

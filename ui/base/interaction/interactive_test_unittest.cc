@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive test framework unit tests
+// summary: Unit tests covering the interactive test API, including simulators, actions, state observation, and temporary values.
+// ---
+
 #include "ui/base/interaction/interactive_test.h"
 
 #include <functional>

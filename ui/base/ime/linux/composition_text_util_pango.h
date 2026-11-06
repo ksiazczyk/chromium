@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pango composition text extraction header
+// summary: Declares ExtractCompositionTextFromGtkPreedit, which converts GTK preedit data into Chromium composition text structures.
+// ---
+
 #ifndef UI_BASE_IME_LINUX_COMPOSITION_TEXT_UTIL_PANGO_H_
 #define UI_BASE_IME_LINUX_COMPOSITION_TEXT_UTIL_PANGO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveTestApi implementation
+// summary: Implements InteractiveTestApi verbs such as PressButton and SelectTab as interaction sequence steps driven by InteractionTestUtil.
+// ---
+
 #include "ui/base/interaction/interactive_test.h"
 
 #include <functional>

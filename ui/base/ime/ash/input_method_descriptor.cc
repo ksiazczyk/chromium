@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodDescriptor implementation
+// summary: Implements InputMethodDescriptor construction and indicator generation, including fallbacks based on keyboard layout or language codes.
+// ---
+
 #include "ui/base/ime/ash/input_method_descriptor.h"
 
 #include <optional>

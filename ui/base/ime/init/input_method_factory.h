@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method factory API
+// summary: Declares CreateInputMethod and testing helpers such as SetUpInputMethodForTesting and ScopedTestInputMethodFactory.
+// ---
+
 #ifndef UI_BASE_IME_INIT_INPUT_METHOD_FACTORY_H_
 #define UI_BASE_IME_INIT_INPUT_METHOD_FACTORY_H_
 

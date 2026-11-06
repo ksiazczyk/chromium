@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped mock callback expectation macros for tests
+// summary: Header providing macros that fail a test unless mock callbacks are invoked exactly as expected within a given code scope.
+// ---
+
 #ifndef UI_BASE_INTERACTION_EXPECT_CALL_IN_SCOPE_H_
 #define UI_BASE_INTERACTION_EXPECT_CALL_IN_SCOPE_H_
 

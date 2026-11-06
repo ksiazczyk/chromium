@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrammarFragment implementation
+// summary: Implements the constructors and destructor of the GrammarFragment struct for grammar edit suggestions.
+// ---
+
 #include "ui/base/ime/grammar_fragment.h"
 
 namespace ui {

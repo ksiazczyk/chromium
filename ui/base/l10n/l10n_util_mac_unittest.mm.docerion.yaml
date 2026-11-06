@@ -1,0 +1,4 @@
+# Docerion header of l10n_util_mac_unittest.mm.
+type: test
+title: Unit tests for l10n_util_mac label fixup
+summary: Unit tests verifying that FixUpWindowsStyleLabel correctly transforms Windows-style ampersand labels and ellipses on Mac.

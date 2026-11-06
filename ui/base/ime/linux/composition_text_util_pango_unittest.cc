@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Pango composition text extraction
+// summary: Unit tests verifying that Pango preedit attributes are converted into correct composition text spans, including Unicode and offset edge cases.
+// ---
+
 #include "ui/base/ime/linux/composition_text_util_pango.h"
 
 #include <pango/pango-attributes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input method context factory implementation
+// summary: Creates a Linux input method context by trying the test factory, the Linux toolkit, the Ozone platform, and falling back to a fake context.
+// ---
+
 #include "ui/base/ime/linux/linux_input_method_context_factory.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property metadata declarations
+// summary: Declares metadata classes for read-only and read-write class properties, including string conversion, property flags, and void pointer casting helpers.
+// ---
+
 #ifndef UI_BASE_METADATA_PROPERTY_METADATA_H_
 #define UI_BASE_METADATA_PROPERTY_METADATA_H_
 

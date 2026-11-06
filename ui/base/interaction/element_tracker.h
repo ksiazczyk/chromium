@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementTracker and TrackedElement declarations
+// summary: Declares the platform-agnostic TrackedElement base class and ElementTracker, which tracks visible UI elements and notifies registered callbacks.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_TRACKER_H_
 #define UI_BASE_INTERACTION_ELEMENT_TRACKER_H_
 

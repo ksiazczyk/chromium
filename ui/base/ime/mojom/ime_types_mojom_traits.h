@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring IME Mojom type traits
+// summary: 'Declares Mojo EnumTraits and StructTraits specializations that map ui:: IME types to their ui.mojom equivalents.'
+// ---
+
 #ifndef UI_BASE_IME_MOJOM_IME_TYPES_MOJOM_TRAITS_H_
 #define UI_BASE_IME_MOJOM_IME_TYPES_MOJOM_TRAITS_H_
 

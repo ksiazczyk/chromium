@@ -1,0 +1,4 @@
+# Docerion header of l10n_util_mac_bridge.mm.
+type: source
+title: Objective-C bridge for l10n_util string functions
+summary: Implements the L10nUtils Objective-C class that wraps l10n_util message lookup, formatting, and plural string functions for Mac clients.

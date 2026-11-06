@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker component metadata for ui/base/ime
+summary: Points non-Chrome OS bugs to Buganizer component 1457629 and refers Chrome OS to the ash IME metadata.

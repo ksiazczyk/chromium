@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementTracker implementation
+// summary: Implements the element tracker that stores visible elements per identifier and context and dispatches shown, activated, hidden and custom event callbacks.
+// ---
+
 #include "ui/base/interaction/element_tracker.h"
 
 #include <algorithm>

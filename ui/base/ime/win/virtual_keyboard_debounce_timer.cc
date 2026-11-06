@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard debounce timer implementation
+// summary: Implements the debounce timer that delays and coalesces on-screen keyboard show and hide requests before invoking their callbacks.
+// ---
+
 #include "ui/base/ime/win/virtual_keyboard_debounce_timer.h"
 
 namespace ui {

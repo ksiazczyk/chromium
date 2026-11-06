@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyTextInputClient implementation
+// summary: Implements a stub TextInputClient that records composition, text insertion, and selection calls for use in tests.
+// ---
+
 #include "ui/base/ime/dummy_text_input_client.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementSpecifier class for identifying elements by ID or name
+// summary: Declares a variant-based specifier that describes a UI element either by an ElementIdentifier or by a string name, with comparison and truthiness operators.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_SPECIFIER_H_
 #define UI_BASE_INTERACTION_ELEMENT_SPECIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodUtil class declaration
+// summary: Declares the InputMethodUtil class providing input method names, descriptor lookups, language-code mappings and ID migration helpers.
+// ---
+
 #ifndef UI_BASE_IME_ASH_INPUT_METHOD_UTIL_H_
 #define UI_BASE_IME_ASH_INPUT_METHOD_UTIL_H_
 

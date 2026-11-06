@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodAsh class header for Ash input method
+// summary: Declares InputMethodAsh, the ui::InputMethod implementation for Ash that handles key events, composition, text commit, and grammar or autocorrect ranges.
+// ---
+
 #ifndef UI_BASE_IME_ASH_INPUT_METHOD_ASH_H_
 #define UI_BASE_IME_ASH_INPUT_METHOD_ASH_H_
 

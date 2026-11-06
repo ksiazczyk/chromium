@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodMinimal class header
+// summary: Declares InputMethodMinimal, a minimal ui::InputMethod implementation supporting only direct input without compositions or conversions.
+// ---
+
 #ifndef UI_BASE_IME_INPUT_METHOD_MINIMAL_H_
 #define UI_BASE_IME_INPUT_METHOD_MINIMAL_H_
 

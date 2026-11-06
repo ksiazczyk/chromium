@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized font size utility declarations
+// summary: Declares helpers that size localized content views using localized row and column counts.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_FONT_UTIL_H_
 #define UI_BASE_L10N_L10N_FONT_UTIL_H_
 

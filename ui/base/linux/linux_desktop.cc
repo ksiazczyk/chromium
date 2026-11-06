@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop environment info implementation
+// summary: Collects XDG_CURRENT_DESKTOP, XDG_SESSION_TYPE and GDMSESSION environment variables into a list of desktop environment info entries.
+// ---
+
 #include "ui/base/linux/linux_desktop.h"
 
 #include <optional>

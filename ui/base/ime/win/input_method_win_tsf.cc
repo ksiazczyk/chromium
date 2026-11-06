@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF-based Windows input method implementation
+// summary: Implements the TSF-based Windows input method, wiring focus, locale, and composition handling to the TSF bridge and event router.
+// ---
+
 #include "ui/base/ime/win/input_method_win_tsf.h"
 
 #include "ui/base/ime/text_input_client.h"

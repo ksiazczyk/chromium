@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardClient implementation
+// summary: Converts Fuchsia keyboard service key events and modifier states into Chromium ui::KeyEvents and forwards them to the input event sink.
+// ---
+
 #include "ui/base/ime/fuchsia/keyboard_client.h"
 
 #include <lib/async/default.h>

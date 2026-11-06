@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-screen keyboard display manager using InputPane
+// summary: Shows and hides the Windows on-screen keyboard through the InputPane API on a background thread for Windows 10 RS4 and later.
+// ---
+
 #include "ui/base/ime/win/on_screen_keyboard_display_manager_input_pane.h"
 
 #include "base/functional/bind.h"

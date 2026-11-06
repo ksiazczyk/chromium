@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key event auto-repeat suppression declarations
+// summary: Declares exported helpers to get and set whether a key event should be autorepeated or suppressed.
+// ---
+
 #ifndef UI_BASE_IME_EVENTS_H_
 #define UI_BASE_IME_EVENTS_H_
 

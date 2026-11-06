@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualKeyboardControllerFuchsia implementation
+// summary: Manages onscreen keyboard visibility by connecting to the Fuchsia virtual keyboard service and handling show, hide, and visibility watch requests.
+// ---
+
 #include "ui/base/ime/fuchsia/virtual_keyboard_controller_fuchsia.h"
 
 #include <fidl/fuchsia.input.virtualkeyboard/cpp/natural_ostream.h>

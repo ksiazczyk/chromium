@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodBase implementation
+// summary: Implements shared InputMethod functionality such as focused client tracking, observer notifications, virtual keyboard control and text input type handling.
+// ---
+
 #include "ui/base/ime/input_method_base.h"
 
 #include <tuple>

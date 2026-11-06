@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock input method implementation
+// summary: Implements a mock ui::InputMethod for testing that manages a focused text input client, notifies observers and dispatches key events.
+// ---
+
 #include "ui/base/ime/mock_input_method.h"
 
 #include "base/functional/callback.h"

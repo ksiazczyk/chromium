@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-screen keyboard display manager unit tests
+// summary: Unit tests for the TabTip and InputPane on-screen keyboard display managers, using a mock InputPane and observer to verify show, hide, and occlusion behavior.
+// ---
+
 #include <wrl/event.h>
 
 #include <memory>

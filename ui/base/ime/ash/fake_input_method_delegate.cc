@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake input method delegate implementation
+// summary: Implements a fake InputMethodDelegate that returns a configurable hardware keyboard layout and callback-based localized strings.
+// ---
+
 #include "ui/base/ime/ash/fake_input_method_delegate.h"
 
 namespace ash {

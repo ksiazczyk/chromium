@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeTextSpan struct header
+// summary: Defines the ImeTextSpan struct describing composition, suggestion, autocorrect and grammar markers with offsets, colors, thickness and underline styles.
+// ---
+
 #ifndef UI_BASE_IME_IME_TEXT_SPAN_H_
 #define UI_BASE_IME_IME_TEXT_SPAN_H_
 

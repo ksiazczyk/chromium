@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac localization string helpers
+// summary: Declares macOS helpers for localized strings, plural forms, label fixups, and Cocoa locale overrides.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_UTIL_MAC_H_
 #define UI_BASE_L10N_L10N_UTIL_MAC_H_
 

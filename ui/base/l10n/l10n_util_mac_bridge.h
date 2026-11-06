@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C bridge for l10n utilities
+// summary: Declares an Objective-C L10nUtils wrapper exposing C++ localization methods to Swift and Objective-C callers.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_UTIL_MAC_BRIDGE_H_
 #define UI_BASE_L10N_L10N_UTIL_MAC_BRIDGE_H_
 

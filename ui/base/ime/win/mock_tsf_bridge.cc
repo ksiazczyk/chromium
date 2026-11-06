@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock TSF bridge implementation
+// summary: Implements MockTSFBridge, a test double for TSFBridge that counts calls such as composition cancel and confirm for unit tests.
+// ---
+
 #include "ui/base/ime/win/mock_tsf_bridge.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of element_tracker_mac.mm.
+type: source
+title: ElementTrackerMac implementation for macOS menus
+summary: Implements macOS-specific element tracking that maps NSMenu items to tracked elements and dispatches ElementTracker shown, activated, and hidden events.

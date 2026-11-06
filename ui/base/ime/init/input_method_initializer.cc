@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method initializer implementation
+// summary: Implements input method initialization and shutdown, including the Windows TSF bridge and a Linux fake context factory for tests.
+// ---
+
 #include "ui/base/ime/init/input_method_initializer.h"
 
 #include "base/functional/bind.h"

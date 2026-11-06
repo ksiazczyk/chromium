@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME keymap interface
+// summary: Declares functions translating between DOM key code strings and ui::KeyboardCode values.
+// ---
+
 #ifndef UI_BASE_IME_ASH_IME_KEYMAP_H_
 #define UI_BASE_IME_ASH_IME_KEYMAP_H_
 

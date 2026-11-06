@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodManager global instance management
+// summary: Implements global access, initialization, and shutdown of the InputMethodManager singleton plus State and MenuItem definitions.
+// ---
+
 #include "ui/base/ime/ash/input_method_manager.h"
 
 #include "base/check.h"

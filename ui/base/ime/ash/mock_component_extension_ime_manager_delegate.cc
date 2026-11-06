@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock component extension IME manager delegate implementation
+// summary: Implements a mock IME manager delegate that serves a configurable IME list and login layout allowlist while recording load calls.
+// ---
+
 #include "ui/base/ime/ash/mock_component_extension_ime_manager_delegate.h"
 
 #include "ui/base/ime/ash/component_extension_ime_manager.h"

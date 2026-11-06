@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension IME utilities
+// summary: Unit tests verifying input method ID construction, extension ID extraction and IME type classification in extension_ime_util.
+// ---
+
 #include "ui/base/ime/ash/extension_ime_util.h"
 
 #include <string>

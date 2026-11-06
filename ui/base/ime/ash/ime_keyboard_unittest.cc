@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImeKeyboard unit tests
+// summary: Unit tests verifying ImeKeyboard observer notifications for caps lock and layout changes plus ISO Level 5 shift and AltGr availability.
+// ---
+
 #include "ui/base/ime/ash/ime_keyboard.h"
 
 #include "base/functional/callback.h"

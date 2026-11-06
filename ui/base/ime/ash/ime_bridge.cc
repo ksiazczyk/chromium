@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME bridge singleton implementation
+// summary: Implements the IMEBridge singleton that stores and serves the current input context, engine, candidate window and assistive window handlers.
+// ---
+
 #include "ui/base/ime/ash/ime_bridge.h"
 
 namespace ash {

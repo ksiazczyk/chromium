@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interface for component extension IME management
+// summary: Defines the abstract delegate used to list and load component extension input methods and to check the login layout allowlist.
+// ---
+
 #ifndef UI_BASE_IME_ASH_COMPONENT_EXTENSION_IME_MANAGER_DELEGATE_H_
 #define UI_BASE_IME_ASH_COMPONENT_EXTENSION_IME_MANAGER_DELEGATE_H_
 

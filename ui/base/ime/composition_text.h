@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositionText struct header
+// summary: Declares the CompositionText struct holding composition text content, ImeTextSpan styling information, and the selection range.
+// ---
+
 #ifndef UI_BASE_IME_COMPOSITION_TEXT_H_
 #define UI_BASE_IME_COMPOSITION_TEXT_H_
 

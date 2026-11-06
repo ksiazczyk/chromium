@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test element utilities declarations
+// summary: Declares TestElementBase and framework-specific test elements that act as pseudoelements for ElementTracker and InteractionSequence tests.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_TEST_UTIL_H_
 #define UI_BASE_INTERACTION_ELEMENT_TEST_UTIL_H_
 

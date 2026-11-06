@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock IME engine handler implementation
+// summary: Implements a mock IME engine handler that records focus, key event, reset and surrounding text calls for tests.
+// ---
+
 #include "ui/base/ime/ash/mock_ime_engine_handler.h"
 
 #include "ui/base/ime/text_input_flags.h"

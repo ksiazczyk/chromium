@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android localization utility implementations
+// summary: Implements Android JNI bindings for RTL layout checks, gesture mirroring, and locale display names via Java LocalizationUtils.
+// ---
+
 #include "ui/base/l10n/l10n_util_android.h"
 
 #include <stdint.h>

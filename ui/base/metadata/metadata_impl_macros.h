@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for implementing class metadata and properties
+// summary: Provides BEGIN_METADATA, ADD_PROPERTY_METADATA, and related macros that generate metadata implementations and register class properties.
+// ---
+
 #ifndef UI_BASE_METADATA_METADATA_IMPL_MACROS_H_
 #define UI_BASE_METADATA_METADATA_IMPL_MACROS_H_
 

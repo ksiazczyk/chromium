@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of compose sequence and dead key character composition
+// summary: Composes characters from key sequences, hexadecimal input, and dead keys using the generated compose table.
+// ---
+
 #include "ui/base/ime/character_composer.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF-based Windows input method class
+// summary: Declares InputMethodWinTSF, the Windows input method implementation built on the Text Services Framework APIs.
+// ---
+
 #ifndef UI_BASE_IME_WIN_INPUT_METHOD_WIN_TSF_H_
 #define UI_BASE_IME_WIN_INPUT_METHOD_WIN_TSF_H_
 

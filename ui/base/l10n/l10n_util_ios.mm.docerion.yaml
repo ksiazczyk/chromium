@@ -1,0 +1,4 @@
+# Docerion header of l10n_util_ios.mm.
+type: source
+title: iOS locale display name implementation
+summary: Implements iOS locale and country display names via NSLocale with a thread-local NSLocale cache.

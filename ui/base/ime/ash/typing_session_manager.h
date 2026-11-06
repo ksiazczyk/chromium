@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typing session manager for input method metrics
+// summary: Declares TypingSessionManager, which tracks typing sessions in the ash input method and records session duration and committed character count metrics.
+// ---
+
 #ifndef UI_BASE_IME_ASH_TYPING_SESSION_MANAGER_H_
 #define UI_BASE_IME_ASH_TYPING_SESSION_MANAGER_H_
 

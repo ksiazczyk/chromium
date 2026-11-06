@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash IME directory
+summary: Lists the directories that source files here may include from, such as ash constants, the IME mojom service and Ozone.

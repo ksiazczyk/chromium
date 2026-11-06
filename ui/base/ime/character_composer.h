@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CharacterComposer class header
+// summary: Declares CharacterComposer, which recognizes compose and dead key sequences and hexadecimal Unicode input to produce composed characters, plus the ComposeChecker interface.
+// ---
+
 #ifndef UI_BASE_IME_CHARACTER_COMPOSER_H_
 #define UI_BASE_IME_CHARACTER_COMPOSER_H_
 

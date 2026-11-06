@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element state observer implementations
+// summary: Implements state observers that track the count of matching elements and the presence of an element satisfying a predicate, subscribing to tracker callbacks.
+// ---
+
 #include "ui/base/interaction/element_state_observers.h"
 
 #include "ui/base/interaction/element_tracker.h"

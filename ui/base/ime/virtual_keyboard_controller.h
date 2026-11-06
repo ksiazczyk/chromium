@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualKeyboardController interface
+// summary: Interface for displaying and dismissing the on-screen keyboard and observing changes in its visibility.
+// ---
+
 #ifndef UI_BASE_IME_VIRTUAL_KEYBOARD_CONTROLLER_H_
 #define UI_BASE_IME_VIRTUAL_KEYBOARD_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of virtual_keyboard_types.mojom.
+type: source
+title: Virtual keyboard types Mojom definitions
+summary: Defines enums for virtual keyboard policy, visibility requests, and how the keyboard interacts with viewports and page layout.

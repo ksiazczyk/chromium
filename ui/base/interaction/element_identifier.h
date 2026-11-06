@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element identifier type and declaration macros
+// summary: Declares the ElementIdentifier unique identifier type and macros for declaring and defining identifiers that label UI elements for the interaction library.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_IDENTIFIER_H_
 #define UI_BASE_INTERACTION_ELEMENT_IDENTIFIER_H_
 

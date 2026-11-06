@@ -1,0 +1,4 @@
+# Docerion header of generate_character_composer_data.py.
+type: script
+title: Character composer data generator
+summary: Python script that converts dead-key and Compose sequences into a compact C++ header with a tree-based composition table.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream output for ElementContext
+// summary: Implements PrintTo and the ostream operator for ElementContext to aid test failure output.
+// ---
+
 #include "ui/base/interaction/element_identifier.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodFuchsia class declaration
+// summary: Declares the Fuchsia input method that handles input from physical keyboards and the IME service, with optional virtual keyboard control.
+// ---
+
 #ifndef UI_BASE_IME_FUCHSIA_INPUT_METHOD_FUCHSIA_H_
 #define UI_BASE_IME_FUCHSIA_INPUT_METHOD_FUCHSIA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME bridge singleton declaration
+// summary: Declares IMEBridge, a global singleton giving IME implementations access to input context, engine, candidate window and assistive window handlers.
+// ---
+
 #ifndef UI_BASE_IME_ASH_IME_BRIDGE_H_
 #define UI_BASE_IME_ASH_IME_BRIDGE_H_
 

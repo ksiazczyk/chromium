@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux text edit command header
+// summary: Declares TextEditCommandToString, which converts text edit commands into their string form for the renderer on Linux.
+// ---
+
 #ifndef UI_BASE_IME_LINUX_TEXT_EDIT_COMMAND_AURALINUX_H_
 #define UI_BASE_IME_LINUX_TEXT_EDIT_COMMAND_AURALINUX_H_
 

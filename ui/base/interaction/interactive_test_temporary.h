@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Temporary value machinery for interactive tests
+// summary: Declares typed identifiers and storage machinery for temporary values that persist across steps in interactive tests.
+// ---
+
 #ifndef UI_BASE_INTERACTION_INTERACTIVE_TEST_TEMPORARY_H_
 #define UI_BASE_INTERACTION_INTERACTIVE_TEST_TEMPORARY_H_
 

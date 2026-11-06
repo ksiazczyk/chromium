@@ -1,0 +1,4 @@
+# Docerion header of input_method_mac_unittest.mm.
+type: test
+title: InputMethodMac unit tests
+summary: Unit tests verifying that composition is cancelled before the focused text input client changes or is detached.

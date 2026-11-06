@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME keymap implementation
+// summary: Maps DOM key code strings to ui::KeyboardCode values and back using a lookup table for the ash input method.
+// ---
+
 #include "ui/base/ime/ash/ime_keymap.h"
 
 #include <stddef.h>

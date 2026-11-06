@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardClient class declaration
+// summary: Declares a FIDL KeyboardListener client that receives key events from the Fuchsia keyboard service and dispatches them into Chromium.
+// ---
+
 #ifndef UI_BASE_IME_FUCHSIA_KEYBOARD_CLIENT_H_
 #define UI_BASE_IME_FUCHSIA_KEYBOARD_CLIENT_H_
 

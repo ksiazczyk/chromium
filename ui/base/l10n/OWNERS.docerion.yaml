@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to base/i18n reviewers
+summary: Delegates ownership approvals for this directory to the owners listed in base/i18n/OWNERS.

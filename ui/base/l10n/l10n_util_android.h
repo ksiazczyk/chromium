@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android localization utility declarations
+// summary: Declares Android-specific l10n functions for locale display names and RTL layout queries.
+// ---
+
 #ifndef UI_BASE_L10N_L10N_UTIL_ANDROID_H_
 #define UI_BASE_L10N_L10N_UTIL_ANDROID_H_
 

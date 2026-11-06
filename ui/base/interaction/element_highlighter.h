@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementHighlighter interface for highlighting elements
+// summary: Declares a framework-agnostic highlighter for anchoring bubbles, with a Highlight handle and pluggable Backend registration.
+// ---
+
 #ifndef UI_BASE_INTERACTION_ELEMENT_HIGHLIGHTER_H_
 #define UI_BASE_INTERACTION_ELEMENT_HIGHLIGHTER_H_
 

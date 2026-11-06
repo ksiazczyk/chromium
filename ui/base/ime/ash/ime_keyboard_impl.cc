@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImeKeyboardImpl implementation
+// summary: Implements ImeKeyboard on device by delegating layout, caps lock, auto-repeat, and Slow Keys operations to the Ozone InputController.
+// ---
+
 #include "ui/base/ime/ash/ime_keyboard_impl.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized content sizing helpers
+// summary: Computes localized content width and height for a window from resource IDs and a font list.
+// ---
+
 #include "ui/base/l10n/l10n_font_util.h"
 
 #include "base/check_op.h"

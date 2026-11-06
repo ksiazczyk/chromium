@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TimeFormat
+// summary: Unit tests verifying localized time duration formatting across many time deltas, lengths, and formats in English.
+// ---
+
 #include "ui/base/l10n/time_format.h"
 
 #include <optional>

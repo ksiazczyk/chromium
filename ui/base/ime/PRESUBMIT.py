@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check keeping character composer data in sync
+# summary: Regenerates character_composer_data.h during presubmit and warns when it is hand-edited or out of sync with the sequence source.
+# ---
+
 """Presubmit script for ui/base/ime
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

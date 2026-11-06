@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionSequence implementation
+// summary: Implements ordered interaction sequences that follow expected user-UI events and invoke step start, end, completed, and aborted callbacks.
+// ---
+
 #include "ui/base/interaction/interaction_sequence.h"
 
 #include <array>

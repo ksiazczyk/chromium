@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TSF bridge implementation
+// summary: Implements the thread-local TSFBridge that manages the TSF thread manager, document contexts, and focused text input clients for IME handling.
+// ---
+
 #include "ui/base/ime/win/tsf_bridge.h"
 
 #include <msctf.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard debounce timer class declaration
+// summary: Declares VirtualKeyboardDebounceTimer, which throttles TryShow and TryHide system API calls for the Windows on-screen keyboard.
+// ---
+
 #ifndef UI_BASE_IME_WIN_VIRTUAL_KEYBOARD_DEBOUNCE_TIMER_H_
 #define UI_BASE_IME_WIN_VIRTUAL_KEYBOARD_DEBOUNCE_TIMER_H_
 

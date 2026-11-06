@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InputMethodAsh
+// summary: Unit tests exercising InputMethodAsh key event dispatch, composition handling, and text commit behavior with mock IME engine and candidate window handlers.
+// ---
+
 #include "ui/base/ime/ash/input_method_ash.h"
 
 #include <stddef.h>
