@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Specify whether the plugin finder should be disabled (deprecated)
+# summary: Deprecated policy removed in Chrome 64 that controlled whether automatic search and installation of missing plugins was disabled.
+# ---
+
 caption: Specify whether the plugin finder should be disabled (deprecated)
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Data leak prevention reporting policy
+# summary: Defines the ChromeOS policy that toggles real-time reporting of data leak prevention events for rules in the DataLeakPreventionRulesList policy.
+# ---
+
 caption: Enable data leak prevention reporting
 default: false
 desc: |-

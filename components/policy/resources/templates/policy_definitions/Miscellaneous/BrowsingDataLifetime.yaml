@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowsingDataLifetime Chrome policy definition
+# summary: Defines the policy configuring per-data-type lifetimes for automatic deletion of browsing data.
+# ---
+
 caption: Browsing Data Lifetime Settings
 desc: |-
   Configures browsing data lifetime settings for <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>. This policy allows admins to configure (per data-type) when data is deleted by the browser. This is useful for customers that work with sensitive customer data.

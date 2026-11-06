@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoLaunchProtocolsFromOrigins policy definition
+# summary: Defines protocols and allowed origin patterns that can launch external applications without prompting the user.
+# ---
+
 caption: Define a list of protocols that can launch an external application from listed
   origins without prompting the user
 desc: |-

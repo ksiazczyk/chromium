@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External Protocol Dialog Always Open Checkbox Policy
+# summary: Boolean policy controlling whether the "Always open" checkbox appears in external protocol launch confirmation prompts, letting users skip future prompts for a protocol.
+# ---
+
 caption: Show an "Always open" checkbox in external protocol dialog.
 default: true
 desc: |2-

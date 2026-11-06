@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Specifies whether WebAssembly modules can be sent cross-origin
+# summary: Deprecated Chrome policy that allowed cross-origin WebAssembly module sharing during the document.domain deprecation, supported through M98.
+# ---
+
 caption: Specifies whether WebAssembly modules can be sent cross-origin
 default: false
 deprecated: true

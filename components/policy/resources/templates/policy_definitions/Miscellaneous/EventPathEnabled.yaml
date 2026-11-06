@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Re-enable the Event.path API until M115
+# summary: Defines the deprecated EventPathEnabled policy that re-enabled the non-standard Event.path API until Chrome M115.
+# ---
+
 caption: Re-enable the Event.path API until M115.
 default: null
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: System-wide performance tracing policy definition
+# summary: Defines the ChromeOS policy that allows or prevents users from collecting system-wide performance traces.
+# ---
+
 caption: Allow collection of system-wide performance trace
 default: false
 default_for_managed_devices_doc_only: false

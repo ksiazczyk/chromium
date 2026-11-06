@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default download directory policy
+# summary: Defines the string policy setting Chrome's default download directory, which users can still change and which has no effect when the DownloadDirectory policy is set.
+# ---
+
 caption: Set default download directory
 desc: |-
   Setting the policy changes the default directory that Chrome downloads files to, but users can change the directory.

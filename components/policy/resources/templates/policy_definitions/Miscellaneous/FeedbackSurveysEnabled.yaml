@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: In-product feedback surveys policy
+# summary: Policy definition that controls whether Chrome in-product surveys are shown to users, with no effect when metrics reporting is disabled.
+# ---
+
 owners:
 - msramek@chromium.org
 - permissions-core@google.com

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeCleanupEnabled policy definition
+# summary: Defines the deprecated Chrome Cleanup policy controlling periodic scans for unwanted software on Windows.
+# ---
+
 caption: Enable Chrome Cleanup on Windows
 default: true
 deprecated: true

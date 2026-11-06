@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenSaverId policy definition
+# summary: Deprecated ChromeOS policy definition that sets the extension ID used as the sign-in screen saver in retail mode.
+# ---
+
 caption: Screen saver to be used on the sign-in screen in retail mode
 deprecated: true
 desc: |-

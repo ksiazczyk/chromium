@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserSignin Chrome policy definition
+# summary: Defines the policy controlling whether users can sign in to the browser and use account services.
+# ---
+
 caption: Browser sign in settings
 desc: |-
   This policy controls the sign-in behavior of the browser. It allows you to specify if the user can sign in to <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> with their account and use account related services like <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> Sync.

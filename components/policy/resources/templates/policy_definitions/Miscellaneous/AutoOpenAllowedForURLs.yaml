@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoOpenAllowedForURLs policy definition
+# summary: Lists URLs where the AutoOpenFileTypes policy may automatically open downloaded files.
+# ---
+
 caption: URLs where AutoOpenFileTypes can apply
 desc: |-
   List of URLs specifying which urls <ph name="AUTO_OPEN_FILE_TYPES_POLICY_NAME">AutoOpenFileTypes</ph> will apply to. This policy has no impact on automatically open values set by users.

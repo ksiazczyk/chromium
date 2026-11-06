@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Sets a list of Data Controls rules
+# summary: Chrome Enterprise Premium policy that configures data leak prevention rules controlling clipboard sharing and screenshots with BLOCK, WARN or REPORT levels.
+# ---
+
 caption: Sets a list of Data Controls rules.
 desc: |-
   Configures a list of Data Control rules to prevent data leaks.

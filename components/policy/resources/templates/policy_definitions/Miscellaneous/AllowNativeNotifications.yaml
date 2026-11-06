@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowNativeNotifications policy
+# summary: Defines the deprecated Linux Chrome policy on native notifications, superseded by the AllowSystemNotifications policy.
+# ---
+
 caption: Allows native notifications
 default: true
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable CORS check mitigations in the new CORS implementation
+# summary: Deprecated Chrome policy defining a list of HTTP headers exempt from CORS checks for extension compatibility, removed in Chrome 84.
+# ---
+
 caption: Enable <ph name="CORS">CORS</ph> check mitigations in the new <ph name="CORS">CORS</ph>
   implementation
 deprecated: true

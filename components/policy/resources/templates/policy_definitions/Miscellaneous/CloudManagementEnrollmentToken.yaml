@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudManagementEnrollmentToken policy definition
+# summary: Chrome policy definition holding the enrollment token used to register the browser with Chrome Enterprise Core cloud management.
+# ---
+
 caption: The enrollment token of cloud policy
 desc: |-
   Setting the policy means <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> tries to register itself with <ph name="CHROME_ENTERPRISE_CORE_NAME">Chrome Enterprise Core</ph> browser management. The value of this policy is an enrollment token you can retrieve from the <ph name="GOOGLE_ADMIN_CONSOLE_PRODUCT_NAME">Google Admin console</ph>.

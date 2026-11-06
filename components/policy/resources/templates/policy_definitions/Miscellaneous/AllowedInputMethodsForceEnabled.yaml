@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enforce allowed input methods to be enabled
+# summary: Defines the ChromeOS policy that forces every input method listed in AllowedInputMethods to be enabled in user sessions, ignoring the policy when AllowedInputMethods is unset or empty.
+# ---
+
 caption: Enforce all allowed input methods to be enabled in a user session
 desc: |-
   Setting the policy to true enforces all input methods from <ph name="ALLOWED_INPUT_METHODS_POLICY_NAME">AllowedInputMethods</ph> policy to be enabled in <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> sessions.

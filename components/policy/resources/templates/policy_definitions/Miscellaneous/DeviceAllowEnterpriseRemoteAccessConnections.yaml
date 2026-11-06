@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAllowEnterpriseRemoteAccessConnections policy definition
+# summary: Defines the ChromeOS device policy that controls whether enterprise admins can make remote access connections to the device when no user is present.
+# ---
+
 caption: Allow enterprise remote access connections to this machine
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowScreenLock policy
+# summary: Defines the ChromeOS policy that permits or blocks users from locking the screen.
+# ---
+
 caption: Permit locking the screen
 default: true
 desc: |-

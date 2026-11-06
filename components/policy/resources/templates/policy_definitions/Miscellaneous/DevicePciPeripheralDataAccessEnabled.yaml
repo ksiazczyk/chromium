@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePciPeripheralDataAccessEnabled policy definition
+# summary: ChromeOS policy controlling whether Thunderbolt/USB4 peripherals can connect through PCIe tunneling, defaulting to user choice.
+# ---
+
 caption: Enable Thunderbolt/USB4 peripheral data access
 desc: |2-
    If this policy is disabled user will not be able to fully connect their Thunderbolt/USB4 peripheral device through PCIe tunneling.

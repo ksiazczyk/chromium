@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Low disk space notification policy definition
+# summary: Defines the ChromeOS policy controlling whether a notification is shown when remaining disk space is low.
+# ---
+
 caption: Show notification when disk space is low
 default: false
 default_for_managed_devices_doc_only: false

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated privet printing policy
+# summary: Deprecated policy definition controlling whether available privet printers are shown to users in the print preview dialog.
+# ---
+
 caption: Enable deprecated privet printing
 default: false
 deprecated: true

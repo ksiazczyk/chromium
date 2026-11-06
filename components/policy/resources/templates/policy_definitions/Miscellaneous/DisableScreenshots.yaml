@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disable taking screenshots
+# summary: Policy that disallows screenshots and recordings via keyboard shortcuts or extension APIs, and from Chrome 154 also debugger attachment.
+# ---
+
 caption: Disable taking screenshots
 default: false
 desc: |-

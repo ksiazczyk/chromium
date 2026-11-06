@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow or deny audio capture
+# summary: Policy that enables or disables audio capture prompts, controlling microphone access for users and muting it for Android apps when disabled.
+# ---
+
 arc_support: For Android apps, this policy affects the microphone only. When this
   policy is set to true, the microphone is muted for all Android apps, with no exceptions.
 caption: Allow or deny audio capture

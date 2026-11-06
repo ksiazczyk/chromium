@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Contextual integrations of Google services on Google ChromeOS
+# summary: Defines the ChromeOS policy that enables or disables all contextual Google service integrations, with individual services selected by a companion policy.
+# ---
+
 caption: Contextual integrations of Google services on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
 default: true
 desc: |-

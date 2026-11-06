@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Launcher key function key behavior policy definition
+# summary: Defines the ChromeOS policy controlling whether the launcher/search key can change the behavior of function keys.
+# ---
+
 caption: Controls the setting "Use the launcher/search key to change the
   behavior of function keys"
 desc: |-

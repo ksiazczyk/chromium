@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Extension Install Whitelist Policy (Deprecated)
+# summary: Deprecated policy definition for exempting extension IDs from the installation blocklist, replaced by the ExtensionInstallAllowlist policy.
+# ---
+
 caption: Configure extension installation allowlist
 deprecated: true
 desc: This policy is deprecated and unsupported, please use the '<ph name="EXTENSION_INSTALL_ALLOWLIST_POLICY_NAME">ExtensionInstallAllowlist</ph>' policy instead.

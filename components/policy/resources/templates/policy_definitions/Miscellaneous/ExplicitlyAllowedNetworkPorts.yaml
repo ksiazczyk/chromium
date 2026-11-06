@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Explicitly Allowed Network Ports Policy
+# summary: Defines a Chrome policy listing network ports exempt from the built-in restricted port blocklist, with dated unblocking windows for ports such as 554, 10080, 6566, 989, and 990.
+# ---
+
 caption: Explicitly allowed network ports
 desc: |-
   There is a list of restricted ports built into <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>. Connections to these ports will fail. This setting permits bypassing that list. The value is a comma-separated list of zero or more ports that outgoing connections will be permitted on.

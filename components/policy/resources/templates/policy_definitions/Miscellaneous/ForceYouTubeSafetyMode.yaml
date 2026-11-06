@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ForceYouTubeSafetyMode policy definition
+# summary: Deprecated Chrome policy that forced YouTube Moderate Restricted Mode, superseded by the more fine-grained ForceYouTubeRestrict policy.
+# ---
+
 arc_support: This policy has no effect on the <ph name="ANDROID_NAME">Android</ph> <ph name="YOUTUBE_PRODUCT_NAME">YouTube</ph> app. If Safety Mode
   on <ph name="YOUTUBE_PRODUCT_NAME">YouTube</ph> should be enforced, installation of the <ph name="ANDROID_NAME">Android</ph> <ph name="YOUTUBE_PRODUCT_NAME">YouTube</ph> app should be
   disallowed.

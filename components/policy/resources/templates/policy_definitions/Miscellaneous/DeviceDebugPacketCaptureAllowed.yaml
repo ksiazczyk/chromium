@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceDebugPacketCaptureAllowed policy definition
+# summary: Defines a device policy that allows or blocks network packet captures on ChromeOS devices for debugging purposes.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Allow debug network packet captures
 default: true

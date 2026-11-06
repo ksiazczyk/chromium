@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Use a default referrer policy of no-referrer-when-downgrade
+# summary: Defines the deprecated Chrome policy that temporarily restores the no-referrer-when-downgrade default referrer policy, removed in version 88.
+# ---
+
 caption: Use a default referrer policy of no-referrer-when-downgrade.
 deprecated: true
 desc: |-

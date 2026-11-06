@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClientCertificateManagementAllowed policy definition
+# summary: ChromeOS policy definition controlling whether users may manage installed client certificates, with all, user-only, or no management options.
+# ---
+
 caption: Allow users to manage installed client certificates.
 default: 0
 desc: |-

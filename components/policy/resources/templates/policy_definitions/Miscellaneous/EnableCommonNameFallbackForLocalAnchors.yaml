@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Common name fallback for local anchors policy
+# summary: Deprecated policy definition that allowed server certificates from local trust anchors to match hostnames via commonName when subjectAlternativeName was missing.
+# ---
+
 caption: Allow certificates issued by local trust anchors without subjectAlternativeName
   extension
 deprecated: true

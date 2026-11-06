@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EcryptfsMigrationStrategy policy definition
+# summary: Deprecated policy definition specifying how ecryptfs-encrypted ChromeOS home directories migrate to ext4 encryption.
+# ---
+
 caption: Migration strategy for ecryptfs
 deprecated: true
 desc: |-

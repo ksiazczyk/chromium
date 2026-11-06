@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HTTP cache encryption policy definition
+# summary: Defines the CacheEncryptionEnabled policy letting administrators encrypt the browser HTTP cache on disk, with a possible performance impact.
+# ---
+
 caption: This policy allows administrators to encrypt http cache on disk.
 desc: |-
   This policy allows the administrators to encrypt browser http cache on disk.

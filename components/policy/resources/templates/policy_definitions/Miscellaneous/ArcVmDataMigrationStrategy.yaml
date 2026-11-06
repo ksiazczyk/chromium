@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcVmDataMigrationStrategy policy definition
+# summary: Defines the ChromeOS policy choosing whether users are prompted to migrate ARC data from virtio-fs to virtio-blk on ARM devices.
+# ---
+
 caption: Migration strategy for ARC VM Data Migration
 desc: |-
   Setting the policy specifies the action to take when the user's ARC data directory was created with virtio-fs. Unless virtio-fs data is migrated to virtio-blk, Android apps might run slower on ARC VM.

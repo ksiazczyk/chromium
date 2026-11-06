@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DiskCacheDir: Set disk cache directory policy'
+# summary: Policy definition that sets the directory Chrome uses for storing cached files on disk, overriding the --disk-cache-dir flag.
+# ---
+
 caption: Set disk cache directory
 desc: |-
   Setting the policy has <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> use the directory you provide for storing cached files on the disk—whether or not users specify the --disk-cache-dir flag.

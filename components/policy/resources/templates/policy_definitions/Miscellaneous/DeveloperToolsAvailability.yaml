@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeveloperToolsAvailability policy definition
+# summary: Defines the Chrome policy controlling where Chrome DevTools and the JavaScript console can be used, including interactions with allowlist, blocklist, and remote debugging policies.
+# ---
+
 arc_support: This policy also controls access to Android Developer Options. If you set
   this policy to 'DeveloperToolsDisallowed' (value 2), users cannot access
   Developer Options. If you set this policy to another value or leave it

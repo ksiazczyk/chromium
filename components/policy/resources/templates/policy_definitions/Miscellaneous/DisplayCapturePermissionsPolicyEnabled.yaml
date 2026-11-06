@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DisplayCapturePermissionsPolicyEnabled policy definition
+# summary: Deprecated temporary Chrome policy controlling whether the display-capture permissions-policy gates getDisplayMedia() calls.
+# ---
+
 caption: Specifies whether the display-capture permissions-policy is checked or skipped.
 default: true
 deprecated: true

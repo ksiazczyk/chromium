@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AdHocCodeSigningForPWAsEnabled policy
+# summary: Deprecated policy definition for ad-hoc signing of native applications created during Progressive Web App installation on macOS.
+# ---
+
 caption: Native application signing during Progressive Web Application installation
 deprecated: true
 desc: |-

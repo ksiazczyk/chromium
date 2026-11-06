@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Touch to Search
+# summary: Defines the Android Chrome policy that makes the Touch to Search feature available to users or turns it off completely.
+# ---
+
 caption: Enable Touch to Search
 default: true
 desc: |-

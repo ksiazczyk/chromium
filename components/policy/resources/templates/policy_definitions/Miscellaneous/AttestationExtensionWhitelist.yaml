@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AttestationExtensionWhitelist policy definition (deprecated)
+# summary: Deprecated ChromeOS policy listing extensions allowed to use the remote attestation API, replaced by AttestationExtensionAllowlist.
+# ---
+
 caption: Extensions allowed to to use the remote attestation API
 deprecated: true
 desc: |-

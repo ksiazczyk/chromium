@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disable support for 3D graphics APIs
+# summary: Policy that prevents webpages from accessing the WebGL API when enabled, supported on Chrome and ChromeOS.
+# ---
+
 caption: Disable support for 3D graphics APIs
 desc: |-
   Setting the policy to True (or setting <ph name="HARDWARE_ACCELERATION_MODE_ENABLED_POLICY_NAME">HardwareAccelerationModeEnabled</ph> to False) prevents webpages from accessing the WebGL API.

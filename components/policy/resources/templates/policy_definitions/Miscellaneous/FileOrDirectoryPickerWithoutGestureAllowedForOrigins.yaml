@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: File picker without user gesture origins policy
+# summary: Policy that lists origins allowed to call the file and directory picker web APIs without a prior user gesture for security-sensitive calls.
+# ---
+
 caption: Allow file or directory picker APIs to be called without prior user gesture
 desc: |-
   For security reasons, the

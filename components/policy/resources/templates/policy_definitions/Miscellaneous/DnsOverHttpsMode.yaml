@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DnsOverHttpsMode: DNS-over-HTTPS mode policy'
+# summary: Policy definition controlling the DNS-over-HTTPS resolver mode with off, automatic, and secure options.
+# ---
+
 caption: Controls the mode of DNS-over-HTTPS
 default_for_enterprise_users: 'off'
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLocalAccountManagedSessionEnabled policy definition
+# summary: Deprecated ChromeOS policy that let managed guest sessions lift public session restrictions, removed in ChromeOS version 88.
+# ---
+
 caption: Allow managed session on device
 deprecated: true
 desc: |-

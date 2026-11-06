@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoplayAllowed policy definition
+# summary: Controls whether Chrome may autoplay media, applying only to newly opened tabs when changed.
+# ---
+
 caption: Allow media autoplay
 desc: |-
   Setting the policy to True lets <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> autoplay media. Setting the policy to False stops <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> from autoplaying media.

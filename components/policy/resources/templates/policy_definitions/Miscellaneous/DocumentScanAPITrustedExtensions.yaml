@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DocumentScanAPITrustedExtensions policy definition
+# summary: ChromeOS policy listing extensions allowed to skip confirmation dialogs when accessing scanners via the chrome.documentScan API.
+# ---
+
 caption: Extensions allowed to skip confirmation dialogs when accessing scanners via
   chrome.documentScan API
 desc: |-

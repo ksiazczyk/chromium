@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow synchronous XHR during page dismissal (deprecated)
+# summary: Defines the deprecated Chrome policy that let admins permit pages to send synchronous XHR requests during page dismissal, removed in Chrome 99.
+# ---
+
 caption: Allows a page to perform synchronous XHR requests during page dismissal.
 default_for_enterprise_users: false
 deprecated: true

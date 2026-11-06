@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ephemeral profile
+# summary: Defines the Chrome policy that switches profiles to ephemeral mode so profile data is cleared from disk when the user session ends.
+# ---
+
 caption: Ephemeral profile
 desc: |-
   If set to enabled this policy forces the profile to be switched to ephemeral mode. If this policy is specified as an OS policy (e.g. GPO on Windows) it will apply to every profile on the system; if the policy is set as a Cloud policy it will apply only to a profile signed in with a managed account.

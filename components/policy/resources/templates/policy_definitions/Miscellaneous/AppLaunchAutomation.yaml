@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AppLaunchAutomation policy definition
+# summary: Defines the deprecated ChromeOS policy configuring automated launching of apps on user login or together from the launcher.
+# ---
+
 caption: App Launch Automation
 deprecated: true
 desc: Setting this policy allows administrators to configure automation for

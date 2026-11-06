@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EditBookmarksEnabled policy definition
+# summary: Policy definition that enables or disables users' ability to add, remove, modify, or upload bookmarks.
+# ---
+
 caption: Enable or disable bookmark editing
 desc: |-
   Setting the policy to Enabled or leaving it unset lets users add, remove, modify, or upload bookmarks.

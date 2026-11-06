@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeveloperToolsAvailabilityBlocklist policy definition
+# summary: Defines the Chrome policy listing URL patterns for which Chrome DevTools are blocked, with the allowlist taking precedence and DeveloperToolsAvailability as fallback.
+# ---
+
 caption: List of URL patterns for which <ph name="CHROME_DEVTOOLS_NAME">Chrome DevTools</ph> are blocked
 desc: |-
   This policy can be used to block <ph name="CHROME_DEVTOOLS_NAME">Chrome DevTools</ph> on specific URLs. For information on the URL format, see https://support.google.com/chrome/a?p=url_blocklist_filter_format.

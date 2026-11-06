@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kerberos delegation server allowlist (deprecated)
+# summary: Deprecated policy specifying servers for Kerberos delegation, replaced by the AuthNegotiateDelegateAllowlist policy.
+# ---
+
 caption: Kerberos delegation server allowlist
 deprecated: true
 desc: This policy is deprecated, please use the '<ph name="AUTH_NEGOTIATE_DELEGATE_ALLOWLIST_POLICY_NAME">AuthNegotiateDelegateAllowlist</ph>' policy instead.

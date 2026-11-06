@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowDinosaurEasterEgg policy
+# summary: Defines the ChromeOS policy that allows or blocks playing the offline dinosaur easter egg game.
+# ---
+
 caption: Allow Dinosaur Easter Egg Game
 default: null
 default_for_enterprise_users: false

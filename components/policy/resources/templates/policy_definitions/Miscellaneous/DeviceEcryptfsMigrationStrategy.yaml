@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceEcryptfsMigrationStrategy policy definition
+# summary: Defines the deprecated DeviceEcryptfsMigrationStrategy policy governing ecryptfs to ext4 encryption migration, removed in M61.
+# ---
+
 caption: Migration strategy for ecryptfs
 deprecated: true
 desc: |-

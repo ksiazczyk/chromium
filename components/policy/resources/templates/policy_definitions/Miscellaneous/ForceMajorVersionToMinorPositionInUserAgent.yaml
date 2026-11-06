@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Freeze User-Agent string major version at 99
+# summary: Defines the deprecated Chrome policy that freezes the User-Agent major version at 99 to work around sites assuming two-digit major versions.
+# ---
+
 caption: Freeze User-Agent string major version at 99
 default: 0
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DnsPrefetchingEnabled: network prediction policy'
+# summary: Deprecated Chrome policy that enabled network prediction including DNS prefetching, TCP preconnection, and prerendering, replaced by NetworkPredictionOptions.
+# ---
+
 caption: Enable network prediction
 deprecated: true
 desc: |-

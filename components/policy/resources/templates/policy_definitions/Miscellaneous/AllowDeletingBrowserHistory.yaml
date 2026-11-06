@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowDeletingBrowserHistory policy
+# summary: Defines the Chrome policy that enables or blocks users from deleting browser and download history.
+# ---
+
 caption: Enable deleting browser and download history
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BuiltinCertificateVerifierEnabled Chrome policy definition
+# summary: Deprecated policy definition for choosing the built-in or legacy platform certificate verifier.
+# ---
+
 caption: Determines whether the built-in certificate verifier will be used to verify
   server certificates
 default: null

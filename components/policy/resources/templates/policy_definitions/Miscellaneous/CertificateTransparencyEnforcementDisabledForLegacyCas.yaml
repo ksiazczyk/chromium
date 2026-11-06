@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Certificate Transparency exemption for legacy CAs policy definition
+# summary: Defines the deprecated list policy exempting legacy certificate authorities from Certificate Transparency enforcement, removed in Chrome 128.
+# ---
+
 caption: Disable Certificate Transparency enforcement for a list of Legacy Certificate
   Authorities
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnforceLocalAnchorConstraintsEnabled policy definition
+# summary: Deprecated Chrome policy that opted out of enforcing constraints encoded into platform trust store anchors, removed in version 126.
+# ---
+
 caption: Determines whether the built-in certificate verifier
   will enforce constraints encoded into trust anchors loaded from the platform
   trust store.

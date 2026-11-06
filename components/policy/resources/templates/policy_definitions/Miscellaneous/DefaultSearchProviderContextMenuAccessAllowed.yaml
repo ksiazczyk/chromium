@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default search provider context menu access policy
+# summary: Defines the policy enabling or disabling the context menu search item that relies on the default search provider, effective only when DefaultSearchProviderEnabled is set.
+# ---
+
 caption: Allow default search provider context menu search access
 desc: |-
   Enables the use of a default search provider on the context menu.

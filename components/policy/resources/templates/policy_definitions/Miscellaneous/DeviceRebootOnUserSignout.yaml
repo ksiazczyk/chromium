@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceRebootOnUserSignout policy definition
+# summary: ChromeOS policy that forces a device reboot on user sign-out when Android or a VM has started, applying only to unaffiliated users.
+# ---
+
 caption: Force device reboot when user sign out
 desc: "\n      This policy, when set to ArcSession, forces the device to reboot when\
   \ a user sign out if Android has started.\n      This policy, when set to ArcSessionOrVMStart,\

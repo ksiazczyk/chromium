@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceKeylockerForStorageEncryptionEnabled policy definition
+# summary: ChromeOS device policy controlling whether AES Keylocker is used for dm-crypt user storage encryption when supported.
+# ---
+
 caption: Controls use of <ph name="AES_KL_NAME">AES Keylocker</ph> for user storage
   encryption if supported
 default: false

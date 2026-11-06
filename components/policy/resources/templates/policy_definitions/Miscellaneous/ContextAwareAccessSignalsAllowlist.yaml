@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Device Trust Connector attestation flow for a list of URLs
+# summary: Defines the deprecated Chrome policy that enabled the Device Trust Connector attestation flow for listed URLs, later split into browser, user, and login-screen policies.
+# ---
+
 caption: Enable the <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> attestation flow for a list of URLs
 deprecated: true
 desc: |-

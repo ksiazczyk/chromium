@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable security warnings for command-line flags
+# summary: Defines the Chrome enterprise policy that shows or hides security warnings when potentially dangerous command-line flags are used to launch the browser.
+# ---
+
 caption: Enable security warnings for command-line flags
 default: true
 desc: |-

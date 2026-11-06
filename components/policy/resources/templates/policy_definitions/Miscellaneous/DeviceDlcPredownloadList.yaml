@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceDlcPredownloadList policy definition
+# summary: Defines a device policy listing downloadable content, such as scanner drivers, to predownload for all users on a ChromeOS device.
+# ---
+
 owners:
 - nedol@google.com
 - ust@google.com

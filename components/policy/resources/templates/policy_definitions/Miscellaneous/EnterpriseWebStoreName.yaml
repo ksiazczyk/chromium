@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enterprise web store name (deprecated)
+# summary: Defines the deprecated EnterpriseWebStoreName policy, retired as of Chrome version 29, that named the enterprise web store.
+# ---
+
 caption: Enterprise web store name (deprecated)
 deprecated: true
 desc: This setting has been retired as of <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>

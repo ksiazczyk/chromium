@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disable TLS False Start
+# summary: Deprecated policy that controlled the TLS False Start optimization, supported only through Chrome and ChromeOS 46.
+# ---
+
 caption: Disable TLS False Start
 deprecated: true
 desc: |-

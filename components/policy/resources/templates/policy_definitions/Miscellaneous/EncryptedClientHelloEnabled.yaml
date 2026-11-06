@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EncryptedClientHelloEnabled policy definition
+# summary: Defines the Chrome policy controlling whether the TLS Encrypted ClientHello (ECH) privacy extension is enabled.
+# ---
+
 caption: Enable TLS Encrypted ClientHello
 default: true
 desc: |-

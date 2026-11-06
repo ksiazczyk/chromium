@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow socket pool size randomization for proxies
+# summary: Defines the Chrome policy controlling socket pool size randomization for proxies, a security mechanism that randomly caps proxy connection pool capacity between the nominal limit and twice that value.
+# ---
+
 caption: Allow socket pool size randomization for proxies
 default: true
 desc: |-

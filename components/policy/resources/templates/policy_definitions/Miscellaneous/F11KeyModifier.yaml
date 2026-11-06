@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: F11 key modifier shortcut policy
+# summary: ChromeOS policy definition that selects which modifier shortcut remaps keyboard events to F11, with disabled, alt, shift, and ctrl+shift options.
+# ---
+
 caption: Control the shortcut used to trigger F11
 desc: |-
   This policy controls the selected shortcut option for remapping events to

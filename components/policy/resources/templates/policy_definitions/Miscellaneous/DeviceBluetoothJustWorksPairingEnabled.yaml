@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceBluetoothJustWorksPairingEnabled policy definition
+# summary: Defines a device policy controlling whether ChromeOS accepts Just Works Bluetooth pairing requests from nearby peripherals after login.
+# ---
+
 caption: Enable "Just Works" Bluetooth pairing
 desc: |-
  If this policy is disabled or left unset, your <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> device will reject "Just Works" pairing requests initiated by nearby Bluetooth peripherals.

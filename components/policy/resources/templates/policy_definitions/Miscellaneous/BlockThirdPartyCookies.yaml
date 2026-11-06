@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block third party cookies
+# summary: Defines the Chrome policy that blocks or allows third-party cookies and whether users can change the setting.
+# ---
+
 caption: Block third party cookies
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Contextual integrations of Google services on Google ChromeOS
+# summary: Defines the ChromeOS policy that selects which Google service integrations, such as Calendar, Tasks, and Drive, may appear on ChromeOS system surfaces.
+# ---
+
 caption: Contextual integrations of Google services on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
 desc: |-
   Improve productivity by allowing information from Google apps and services to appear on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> system surfaces.

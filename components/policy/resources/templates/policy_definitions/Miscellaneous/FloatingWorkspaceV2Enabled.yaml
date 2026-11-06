@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Floating Workspace V2 Service policy
+# summary: ChromeOS policy that enables the Floating Workspace V2 Service to restore browser and app windows from the previous device at login.
+# ---
+
 caption: Enable <ph name="PRODUCT_NAME">$1<ex>Floating Workspace</ex></ph> Service
 default: false
 desc: |-

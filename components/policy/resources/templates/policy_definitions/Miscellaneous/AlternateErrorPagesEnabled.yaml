@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable alternate error pages
+# summary: Defines the Chrome policy that controls whether Chrome uses built-in alternate error pages such as the not-found page, leaving the choice to users when unset.
+# ---
+
 caption: Enable alternate error pages
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allowed input methods in a user session
+# summary: Defines the ChromeOS policy that limits which input methods users can choose in a user session, allowing all supported methods when unset or empty.
+# ---
+
 caption: Configure the allowed input methods in a user session
 desc: |-
   Setting the policy lets users choose one of the input methods for <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> sessions that you specify.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutofillAddressEnabled policy definition
+# summary: Deprecated policy controlling AutoFill for addresses, replaced by the AutofillSettings policy.
+# ---
+
 caption: Enable AutoFill for addresses
 deprecated: true
 desc: |-

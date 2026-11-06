@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowBackForwardCacheForCacheControlNoStorePageEnabled policy
+# summary: 'Defines the Chrome policy that controls whether pages with a Cache-Control: no-store header may be stored in and restored from the back/forward cache.'
+# ---
+
 owners:
 - chrome-bfcache@google.com
 - leimy@chromium.org

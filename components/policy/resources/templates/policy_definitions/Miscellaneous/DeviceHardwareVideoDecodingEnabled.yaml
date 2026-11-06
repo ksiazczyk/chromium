@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceHardwareVideoDecodingEnabled policy definition
+# summary: ChromeOS device policy that enables or disables GPU hardware-accelerated video decoding on the device.
+# ---
+
 owners:
 - jeroendh@google.com
 - file://chrome/browser/ash/app_mode/OWNERS

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EasyUnlockAllowed policy definition
+# summary: Policy definition that allows or blocks ChromeOS users from using Smart Lock to unlock their device.
+# ---
+
 caption: Allow Smart Lock to be used
 default_for_enterprise_users: false
 desc: |-

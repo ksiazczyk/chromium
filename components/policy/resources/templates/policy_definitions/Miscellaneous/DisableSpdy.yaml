@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disable SPDY protocol
+# summary: Deprecated policy that disabled the SPDY protocol, removed in Chrome 54 after SPDY/3.1 support was dropped.
+# ---
+
 caption: Disable SPDY protocol
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceI18nShortcutsEnabled policy definition
+# summary: ChromeOS device policy controlling whether improved international keyboard shortcut mapping is enabled, intended as a temporary measure.
+# ---
+
 caption: ' Allows enabling/disabling international shortcut keys remaps'
 default: true
 default_for_managed_devices_doc_only: true

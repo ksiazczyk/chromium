@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePostQuantumKeyAgreementEnabled policy definition
+# summary: Deprecated ChromeOS device policy controlling whether TLS offers the ML-KEM post-quantum key agreement, to be removed after version 145.
+# ---
+
 caption: Enable post-quantum key agreement for TLS for device
 default: true
 deprecated: true

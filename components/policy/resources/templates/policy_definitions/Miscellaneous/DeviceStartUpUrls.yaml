@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Demo login startup URLs policy definition (deprecated)
+# summary: Defines the deprecated ChromeOS retail-mode policy listing the URLs loaded when a demo session starts.
+# ---
+
 caption: Load specified urls on demo login
 deprecated: true
 desc: |-

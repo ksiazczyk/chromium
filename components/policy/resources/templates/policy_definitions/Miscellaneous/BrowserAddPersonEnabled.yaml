@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable add person in user manager
+# summary: Defines the Chrome and Lacros policy controlling whether new profiles can be added from the user manager.
+# ---
+
 caption: Enable add person in user manager
 desc: |-
   If this policy is set to true or not configured, <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> and <ph name="LACROS_NAME">Lacros</ph> will allow to add a new person from the user manager.

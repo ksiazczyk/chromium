@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowFileSelectionDialogs policy
+# summary: Defines the Chrome policy that allows or blocks file selection dialogs for actions like uploads and bookmark imports.
+# ---
+
 caption: Allow invocation of file selection dialogs
 default: true
 desc: |-

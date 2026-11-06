@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Floating Workspace Service policy
+# summary: ChromeOS policy that launches browser and app windows from the user's last used device upon login via the Floating Workspace Service.
+# ---
+
 caption: Enable Floating Workspace Service
 default: false
 desc: |-

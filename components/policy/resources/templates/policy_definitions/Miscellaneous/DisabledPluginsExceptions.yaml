@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Specify a list of plugins that the user can enable or disable
+# summary: Deprecated list policy defining plugin exceptions users may enable or disable despite the DisabledPlugins blocklist.
+# ---
+
 caption: Specify a list of plugins that the user can enable or disable
 deprecated: true
 desc: |-

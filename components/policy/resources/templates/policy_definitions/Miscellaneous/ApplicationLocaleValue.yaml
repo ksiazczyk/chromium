@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ApplicationLocaleValue policy definition
+# summary: Defines the Windows Chrome policy specifying which application locale the browser uses.
+# ---
+
 caption: Application locale
 desc: |-
   Setting the policy specifies the locale <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> uses.

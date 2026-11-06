@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Delete key shortcut modifier policy
+# summary: Defines the ChromeOS policy remapping the Delete six pack key shortcut modifier between none, Alt, and Search in the remap keys settings.
+# ---
+
 caption: Control the shortcut used to trigger the Delete "six pack" key
 default: 2
 desc: |-

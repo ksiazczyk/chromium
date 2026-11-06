@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudManagementEnrollmentMandatory policy definition
+# summary: Chrome policy definition that mandates Chrome Enterprise Core browser enrollment and can block the Chrome launch process if enrollment fails.
+# ---
+
 caption: Enable mandatory cloud management enrollment
 desc: |-
   Setting the policy to Enabled mandates <ph name="CHROME_ENTERPRISE_CORE_NAME">Chrome Enterprise Core</ph> browser enrollment and blocks <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> launch process if failed.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: F12 key modifier shortcut policy
+# summary: ChromeOS policy definition that selects which modifier shortcut remaps keyboard events to F12, offering disabled, alt, shift, and ctrl+shift values.
+# ---
+
 caption: Control the shortcut used to trigger F12
 default: null
 desc: |-

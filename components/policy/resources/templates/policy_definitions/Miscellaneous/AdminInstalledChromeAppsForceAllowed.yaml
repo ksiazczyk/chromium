@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AdminInstalledChromeAppsForceAllowed policy
+# summary: Policy definition that lets admin-installed Chrome Apps continue to run and be installed regardless of default Chrome Apps enablement.
+# ---
+
 owners:
 - giovax@chromium.org
 - file://apps/DEPRECATION_OWNERS

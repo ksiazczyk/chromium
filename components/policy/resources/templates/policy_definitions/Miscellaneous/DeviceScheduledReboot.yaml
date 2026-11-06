@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device scheduled reboot policy definition
+# summary: Defines the ChromeOS policy for a custom daily, weekly, or monthly schedule to reboot managed devices.
+# ---
+
 caption: Set custom schedule to reboot devices
 desc: |
   Allows setting a custom schedule to reboot devices. Once set to True, the device will reboot to the schedule. The policy must be removed to cancel any more scheduled reboots.

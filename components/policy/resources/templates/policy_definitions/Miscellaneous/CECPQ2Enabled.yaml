@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CECPQ2 post-quantum TLS key-agreement policy definition
+# summary: Defines the removed CECPQ2Enabled policy that controlled the rollout of the CECPQ2 post-quantum key-agreement algorithm in TLS before its removal in M114.
+# ---
+
 caption: CECPQ2 post-quantum key-agreement enabled for TLS
 deprecated: true
 default: true

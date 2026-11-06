@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DomainReliabilityAllowed policy definition
+# summary: Policy definition controlling whether domain reliability diagnostic data may be sent to Google, following the metrics reporting settings.
+# ---
+
 caption: Allow reporting of domain reliability related data
 desc: |-
   If this policy is set false, domain reliability diagnostic data reporting is disabled and no data is sent to Google.

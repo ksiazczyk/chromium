@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FullRestoreMode policy definition
+# summary: ChromeOS policy that configures whether and how the last session is restored on login, effective only when FullRestoreEnabled is true.
+# ---
+
 caption: Configure app restore on login
 default: 2
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceExtendedFkeysModifier policy definition
+# summary: Deprecated ChromeOS device policy that selects the modifier shortcut used to remap key events to F11 and F12.
+# ---
+
 caption: Control the shortcut used to trigger F11/F12
 default: null
 deprecated: true

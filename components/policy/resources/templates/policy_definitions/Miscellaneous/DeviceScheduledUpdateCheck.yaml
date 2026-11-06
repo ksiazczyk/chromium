@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device scheduled update check policy definition
+# summary: Defines the ChromeOS policy for a custom daily, weekly, or monthly schedule to check for device updates.
+# ---
+
 caption: Set custom schedule to check for updates
 desc: Allows setting a custom schedule to check for updates. This applies to all users,
   and to all interfaces on the device. Once set, the device will check for updates

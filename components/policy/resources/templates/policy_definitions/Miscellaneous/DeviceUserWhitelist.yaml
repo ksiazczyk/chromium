@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Login user white list
+# summary: Deprecated ChromeOS device policy defining which users may sign in to the device, superseded by the DeviceUserAllowlist policy.
+# ---
+
 arc_support: This policy controls who may start a <ph name="PRODUCT_OS_NAME">$2<ex>ChromiumOS</ex></ph>
   session. It does not prevent users from signing in to additional Google accounts
   within Android. If you want to prevent this, configure the Android-specific <ph

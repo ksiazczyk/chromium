@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoOpenFileTypes policy definition
+# summary: Lists file types that should be automatically opened on download, still subject to Safe Browsing checks.
+# ---
+
 caption: List of file types that should be automatically opened on download
 desc: |-
   List of file types that should be automatically opened on download. The leading separator should not be included when listing the file type, so list "txt" instead of ".txt".

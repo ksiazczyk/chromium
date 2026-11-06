@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DisabledSchemes: Disable URL protocol schemes policy'
+# summary: Deprecated Chrome policy definition that disables listed URL protocol schemes and directs admins to use URLBlocklist instead.
+# ---
+
 caption: Disable URL protocol schemes
 deprecated: true
 desc: |-

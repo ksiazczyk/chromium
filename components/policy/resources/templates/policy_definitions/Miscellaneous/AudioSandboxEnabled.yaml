@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow the audio sandbox to run
+# summary: Policy controlling whether the audio process runs sandboxed, giving enterprises flexibility when security software interferes with the sandbox.
+# ---
+
 caption: Allow the audio sandbox to run
 default: null
 desc: |-

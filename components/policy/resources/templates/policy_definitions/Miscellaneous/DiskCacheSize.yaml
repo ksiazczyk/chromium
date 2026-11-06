@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'DiskCacheSize: Set disk cache size policy'
+# summary: Policy definition that sets the Chrome disk cache size in bytes, used as a hint to the browser's cache subsystems.
+# ---
+
 caption: Set disk cache size in bytes
 desc: |-
   Setting the policy to None has <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> use the default cache size for storing cached files on the disk. Users can't change it.

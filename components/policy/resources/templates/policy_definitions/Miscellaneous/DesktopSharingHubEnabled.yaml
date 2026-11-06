@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Desktop sharing hub policy
+# summary: Defines the policy enabling or removing the desktop sharing hub entry in the omnibox and 3-dot menu for sharing or saving the current webpage.
+# ---
+
 caption: Enable desktop sharing in the omnibox and 3-dot menu
 default: true
 desc: |-

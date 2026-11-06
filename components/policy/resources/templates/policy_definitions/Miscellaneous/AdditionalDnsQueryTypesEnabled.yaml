@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AdditionalDnsQueryTypesEnabled policy
+# summary: Policy definition controlling whether Chrome may query additional DNS record types when making insecure DNS requests.
+# ---
+
 caption: Allow DNS queries for additional DNS record types
 default: true
 desc: |-

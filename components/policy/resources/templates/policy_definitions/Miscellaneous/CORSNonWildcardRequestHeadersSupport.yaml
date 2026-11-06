@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CORS non-wildcard request headers policy definition
+# summary: Defines the temporary policy toggling Chrome's support for CORS non-wildcard request headers, where the wildcard no longer covers the Authorization header.
+# ---
+
 caption: CORS non-wildcard request headers support
 default: true
 desc: |-

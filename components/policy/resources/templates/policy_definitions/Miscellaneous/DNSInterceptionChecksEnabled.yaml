@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DNS interception checks enabled
+# summary: Chrome policy that enables or disables local DNS interception checks that detect proxies redirecting unknown host names.
+# ---
+
 caption: DNS interception checks enabled
 default: true
 desc: |-

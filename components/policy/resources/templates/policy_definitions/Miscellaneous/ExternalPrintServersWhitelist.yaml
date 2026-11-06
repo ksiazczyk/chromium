@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External Print Servers Whitelist Policy (Deprecated)
+# summary: Deprecated ChromeOS policy filtering which external print servers are queried for server printers by ID, replaced by ExternalPrintServersAllowlist.
+# ---
+
 caption: Enabled external print servers
 deprecated: true
 desc: |-

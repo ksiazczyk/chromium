@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAllowBluetooth policy definition
+# summary: Defines the ChromeOS device policy that allows or blocks users from turning Bluetooth on or off on the device.
+# ---
+
 caption: Allow bluetooth on device
 desc: |-
   Setting the policy to Enabled or leaving it unset lets users turn Bluetooth on or off.

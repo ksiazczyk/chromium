@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device restriction schedule policy definition
+# summary: Defines the ChromeOS policy that specifies weekly intervals when devices cannot be used and users cannot sign in.
+# ---
+
 caption: Specifies weekly intervals when ChromeOS devices cannot be used
 desc: |-
   Specifies weekly intervals when ChromeOS devices cannot be used.

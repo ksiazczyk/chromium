@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enterprise search aggregator settings
+# summary: Defines the EnterpriseSearchAggregatorSettings policy configuring a designated enterprise search aggregator with name, shortcut, search and suggest URLs for the omnibox.
+# ---
+
 caption: Enterprise search aggregator settings
 desc: |-
   This policy allows administrators to set a designated enterprise search aggregator that will provide search recommendations and results within the omnibox (address bar) and the search box on the New Tab page.

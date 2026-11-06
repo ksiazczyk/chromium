@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowPopupsDuringPageUnload policy
+# summary: Defines the deprecated Chrome policy that allowed pages to show pop-ups while unloading, removed in Chrome 88.
+# ---
+
 caption: Allows a page to show pop-ups during its unloading
 default_for_enterprise_users: false
 deprecated: true

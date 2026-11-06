@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserThemeColor Chrome policy definition
+# summary: Defines the policy that sets a hex color used to generate and apply the browser theme.
+# ---
+
 caption: Configure the color of the browser's theme
 default: null
 desc: |-

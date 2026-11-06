@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnterpriseCustomLabel policy definition
+# summary: Defines the Chrome policy that sets a custom, untranslated label shown next to the toolbar avatar for managed profiles.
+# ---
+
 caption: Set a custom enterprise label for a managed profile
 default: null
 desc: |-

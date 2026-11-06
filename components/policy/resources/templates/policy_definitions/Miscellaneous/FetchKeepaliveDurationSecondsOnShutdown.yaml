@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Fetch keepalive duration on shutdown policy
+# summary: Policy that sets how many seconds browser shutdown may be delayed to finish fetch keepalive requests, with zero disabling the feature.
+# ---
+
 caption: Fetch keepalive duration on Shutdown
 default: 0
 desc: |-

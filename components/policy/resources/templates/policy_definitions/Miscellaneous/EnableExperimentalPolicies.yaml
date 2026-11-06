@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Experimental policies policy
+# summary: Policy definition that allows Chrome to load named experimental, unsupported policies, warning they may change or be removed without notice.
+# ---
+
 caption: Enables experimental policies
 desc: |-
   Allows <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> to load experimental policies.

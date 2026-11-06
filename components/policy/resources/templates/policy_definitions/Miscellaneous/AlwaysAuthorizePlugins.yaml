@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AlwaysAuthorizePlugins policy definition
+# summary: Defines the deprecated Chrome policy that always runs plugins requiring authorization instead of asking users for permission.
+# ---
+
 caption: Always runs plugins that require authorization (deprecated)
 deprecated: true
 desc: |-
