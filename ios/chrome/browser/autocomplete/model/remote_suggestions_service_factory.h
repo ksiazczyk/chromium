@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteSuggestionsServiceFactory class declaration
+// summary: Declares a profile-keyed service factory singleton that associates RemoteSuggestionsService instances with iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_REMOTE_SUGGESTIONS_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_REMOTE_SUGGESTIONS_SERVICE_FACTORY_H_
 

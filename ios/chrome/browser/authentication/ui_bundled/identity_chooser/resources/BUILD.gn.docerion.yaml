@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Identity chooser resources build definition
+summary: GN build target that bundles the identity chooser asset catalog and its add-account images into the iOS app resources.

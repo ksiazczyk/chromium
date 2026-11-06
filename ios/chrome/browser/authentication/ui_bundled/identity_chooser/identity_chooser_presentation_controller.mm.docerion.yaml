@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_presentation_controller.mm.
+type: source
+title: Identity chooser presentation controller implementation
+summary: Sizes and centers the modal chooser, adds a shadow container, rounded clipping view and a full-screen close button.

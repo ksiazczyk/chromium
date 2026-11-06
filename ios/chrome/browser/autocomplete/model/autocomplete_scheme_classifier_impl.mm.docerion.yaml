@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_scheme_classifier_impl.mm.
+type: source
+title: AutocompleteSchemeClassifierImpl implementation
+summary: Classifies omnibox input schemes, treating handled protocols and JavaScript as URLs and other schemes as empty.

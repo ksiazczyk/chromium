@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_coordinator_unittest.mm.
+type: test
+title: FullscreenSigninCoordinator unit tests
+summary: Unit tests for the fullscreen sign-in coordinator using a fake delegate with TestFuture to capture sign-in results.

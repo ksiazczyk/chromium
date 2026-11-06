@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_view_controller.mm.
+type: source
+title: Identity chooser view controller implementation
+summary: Renders the identity list and Add Account item and reports selections to the presentation delegate.

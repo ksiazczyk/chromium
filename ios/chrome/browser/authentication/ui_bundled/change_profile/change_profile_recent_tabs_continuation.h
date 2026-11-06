@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change profile recent tabs continuation header
+// summary: Declares CreateChangeProfileRecentTabsContinuation, which returns a continuation opening the recent tabs view after a profile switch.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CHANGE_PROFILE_CHANGE_PROFILE_RECENT_TABS_CONTINUATION_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CHANGE_PROFILE_CHANGE_PROFILE_RECENT_TABS_CONTINUATION_H_
 

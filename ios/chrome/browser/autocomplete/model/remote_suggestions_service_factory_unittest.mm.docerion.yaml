@@ -1,0 +1,4 @@
+# Docerion header of remote_suggestions_service_factory_unittest.mm.
+type: test
+title: RemoteSuggestionsServiceFactory unit tests
+summary: Unit test verifying that RemoteSuggestionsServiceFactory creates service instances for regular and off-the-record profiles.

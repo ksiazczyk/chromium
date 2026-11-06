@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceSigninSceneAgent interface
+// summary: Declares a scene agent that registers the cross-device sign-in URL interceptor to trigger the sign-in flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_DEEPLINK_SIGNIN_CROSS_DEVICE_SIGNIN_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_DEEPLINK_SIGNIN_CROSS_DEVICE_SIGNIN_SCENE_AGENT_H_
 

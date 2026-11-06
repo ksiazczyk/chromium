@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for enterprise_utils
+summary: Defines the enterprise_utils source set with its source files and dependencies for the iOS Chrome authentication enterprise UI.

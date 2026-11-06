@@ -1,0 +1,4 @@
+# Docerion header of cross_device_signin_url_interceptor_unittest.mm.
+type: test
+title: CrossDeviceSigninURLInterceptor unit tests
+summary: Unit tests verifying interception of valid cross-device sign-in URLs and rejection of missing fields, disabled feature and incognito loads.

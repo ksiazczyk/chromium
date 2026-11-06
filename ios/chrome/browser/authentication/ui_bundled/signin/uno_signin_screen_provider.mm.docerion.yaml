@@ -1,0 +1,4 @@
+# Docerion header of uno_signin_screen_provider.mm.
+type: source
+title: UNO sign-in screen provider implementation
+summary: Implements UnoSigninScreenProvider with the sign-in, history sync, and steps completed screens.

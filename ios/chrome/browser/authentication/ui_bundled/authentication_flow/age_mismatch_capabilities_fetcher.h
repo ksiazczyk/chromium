@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age mismatch capabilities fetcher header
+// summary: Declares the AgeMismatchCapabilitiesFetcher interface that fetches the CanSignInToChrome account capability to check age restrictions before sign-in.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_AUTHENTICATION_FLOW_AGE_MISMATCH_CAPABILITIES_FETCHER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_AUTHENTICATION_FLOW_AGE_MISMATCH_CAPABILITIES_FETCHER_H_
 

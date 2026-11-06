@@ -1,0 +1,4 @@
+# Docerion header of consistency_sheet_presentation_controller.mm.
+type: source
+title: Consistency sheet presentation controller implementation
+summary: Implements centered and bottom display styles with a background dimmer for presenting the consistency sheet.

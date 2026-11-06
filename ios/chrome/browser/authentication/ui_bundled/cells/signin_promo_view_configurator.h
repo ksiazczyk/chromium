@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninPromoViewConfigurator interface
+// summary: Declares a class that configures SigninPromoView instances with user identity data, button titles and promo view styles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_SIGNIN_PROMO_VIEW_CONFIGURATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_SIGNIN_PROMO_VIEW_CONFIGURATOR_H_
 

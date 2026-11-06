@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_scoring_model_service_factory.mm.
+type: source
+title: Autocomplete scoring model service factory implementation
+summary: Implements the AutocompleteScoringModelService factory, building the service from the profile's Optimization Guide service or returning nullptr when unavailable.

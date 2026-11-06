@@ -1,0 +1,4 @@
+# Docerion header of authentication_flow_in_profile.mm.
+type: source
+title: Authentication flow in profile implementation
+summary: Implements the in-profile sign-in state machine covering sign-out, sign-in, user policy registration, capability fetching, and completion handling.

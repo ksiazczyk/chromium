@@ -1,0 +1,4 @@
+# Docerion header of signout_action_sheet_coordinator_unittest.mm.
+type: test
+title: Signout action sheet coordinator unit tests
+summary: Unit tests for the sign-out action sheet coordinator using fake identities, a mock sync service, and metrics testers.

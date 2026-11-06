@@ -1,0 +1,4 @@
+# Docerion header of fake_suggestions_builder.mm.
+type: test
+title: Fake suggestions builder implementation
+summary: Builds fake autocomplete matches with decreasing relevance, including verbatim, shortcut, search and history URL matches.

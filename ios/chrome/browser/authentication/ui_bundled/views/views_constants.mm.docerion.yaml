@@ -1,0 +1,4 @@
+# Docerion header of views_constants.mm.
+type: source
+title: Identity views constants definitions
+summary: Defines the accessibility identifier strings for the identity button control and the add account button.

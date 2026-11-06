@@ -1,0 +1,4 @@
+# Docerion header of change_profile_reading_list_continuation.mm.
+type: source
+title: Change profile reading list continuation implementation
+summary: Implements the continuation that shows the reading list view via the browser coordinator commands after switching profiles.

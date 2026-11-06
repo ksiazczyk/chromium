@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninPromoView modes, styles and accessibility constants
+// summary: Defines signin promo view modes and styles plus accessibility identifiers for promo and central account view elements.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_SIGNIN_PROMO_VIEW_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_SIGNIN_PROMO_VIEW_CONSTANTS_H_
 

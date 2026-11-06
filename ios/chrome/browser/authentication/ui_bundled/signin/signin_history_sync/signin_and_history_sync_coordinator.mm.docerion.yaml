@@ -1,0 +1,4 @@
+# Docerion header of signin_and_history_sync_coordinator.mm.
+type: source
+title: Sign-in and history sync coordinator implementation
+summary: Implements the sign-in and history sync flow, chaining instant, bottom sheet, or fullscreen sign-in steps with the History Sync opt-in screen.

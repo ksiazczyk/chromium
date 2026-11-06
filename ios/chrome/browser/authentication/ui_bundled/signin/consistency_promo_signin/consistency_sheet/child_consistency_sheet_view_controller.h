@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child consistency sheet view controller protocol
+// summary: Declares the protocol view controllers must implement to be pushed into the consistency sheet navigation controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_CONSISTENCY_PROMO_SIGNIN_CONSISTENCY_SHEET_CHILD_CONSISTENCY_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_CONSISTENCY_PROMO_SIGNIN_CONSISTENCY_SHEET_CHILD_CONSISTENCY_SHEET_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_coordinator_unittest.mm.
+type: test
+title: IdentityChooserCoordinator unit tests
+summary: Unit tests for the identity chooser coordinator using fake identities, a test delegate and OCMock.

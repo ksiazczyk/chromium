@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_coordinator.mm.
+type: source
+title: FullscreenSigninCoordinator implementation
+summary: Implements the fullscreen sign-in coordinator, presenting sign-in screens through a child coordinator and tracking sign-in progress.

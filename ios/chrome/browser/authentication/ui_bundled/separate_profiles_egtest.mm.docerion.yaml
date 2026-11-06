@@ -1,0 +1,4 @@
+# Docerion header of separate_profiles_egtest.mm.
+type: test
+title: Separate profiles Earl Grey tests
+summary: Earl Grey integration tests covering managed profile creation and browsing data separation and merging during profile separation flows.

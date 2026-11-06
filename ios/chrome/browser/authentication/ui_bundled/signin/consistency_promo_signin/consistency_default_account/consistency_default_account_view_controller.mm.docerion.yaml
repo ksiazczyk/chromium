@@ -1,0 +1,4 @@
+# Docerion header of consistency_default_account_view_controller.mm.
+type: source
+title: ConsistencyDefaultAccountViewController implementation
+summary: Implements the sign-in sheet UI with the identity button, primary action button, spinner, and Auto Layout constraints.

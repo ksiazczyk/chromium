@@ -1,0 +1,4 @@
+# Docerion header of central_account_view_unittest.mm.
+type: source
+title: Central account view unit tests
+summary: Unit tests verifying the avatar image, labels and management description of the central account view.

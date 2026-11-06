@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_promo_logger.mm.
+type: source
+title: Fullscreen sign-in promo logger implementation
+summary: Implements FullscreenSigninPromoLogger, recording promo display counts, available device identities, and sign-in outcomes.

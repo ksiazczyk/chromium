@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteClassifierFactory implementation
+// summary: Builds AutocompleteClassifier keyed services for iOS profiles using the default omnibox provider set.
+// ---
+
 #include "ios/chrome/browser/autocomplete/model/autocomplete_classifier_factory.h"
 
 #include "base/functional/bind.h"

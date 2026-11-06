@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_browser_agent.mm.
+type: source
+title: AutocompleteBrowserAgent implementation
+summary: Implements creation and management of autocomplete controllers, shortcuts helpers, and zero-suggest prefetchers per presentation context.

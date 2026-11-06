@@ -1,0 +1,4 @@
+# Docerion header of signout_action_sheet_coordinator.mm.
+type: source
+title: Signout action sheet coordinator implementation
+summary: Implements the sign-out action sheet coordinator, including the snackbar message with undo action and completion handling for profile changes.

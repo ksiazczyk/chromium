@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityButtonControl UIControl interface
+// summary: Declares IdentityButtonControl, a UIControl showing a Chrome identity's avatar, name and email with an arrow to pick another identity.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_VIEWS_IDENTITY_BUTTON_CONTROL_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_VIEWS_IDENTITY_BUTTON_CONTROL_H_
 

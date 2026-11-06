@@ -1,0 +1,4 @@
+# Docerion header of provider_state_service_factory.mm.
+type: source
+title: ProviderStateServiceFactory implementation
+summary: Implements the ProviderStateServiceFactory, creating a ProviderStateService instance for each profile.

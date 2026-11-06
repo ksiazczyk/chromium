@@ -1,0 +1,4 @@
+# Docerion header of signin_constants.mm.
+type: source
+title: Sign-in accessibility identifiers and promo constants
+summary: Defines accessibility identifiers, preference keys, and UMA action constants used across the sign-in UI.

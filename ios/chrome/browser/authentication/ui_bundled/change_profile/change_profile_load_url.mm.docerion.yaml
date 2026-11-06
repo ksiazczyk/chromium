@@ -1,0 +1,4 @@
+# Docerion header of change_profile_load_url.mm.
+type: source
+title: Change profile URL loading continuation implementation
+summary: Implements a change-profile continuation that loads a given URL in the current tab when it shows an NTP, otherwise in a new tab.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the authentication UI folder
+summary: Lists the directories whose headers code in the authentication UI folder is allowed to include.

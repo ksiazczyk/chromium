@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for autocomplete model
+summary: Defines the model and unit test source sets with their sources and dependencies for the iOS autocomplete model directory.

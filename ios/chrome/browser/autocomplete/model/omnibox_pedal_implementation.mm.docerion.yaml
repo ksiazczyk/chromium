@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_implementation.mm.
+type: source
+title: Omnibox pedal implementations
+summary: Implements omnibox pedal actions such as clearing browsing data and managing passwords, including label strings, synonym groups, and incognito metrics handling.

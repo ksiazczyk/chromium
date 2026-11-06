@@ -1,0 +1,4 @@
+# Docerion header of re_signin_infobar_delegate.mm.
+type: source
+title: Re-signin infobar delegate implementation
+summary: Implements the re-signin infobar delegate, creating the infobar when reauthentication is needed and presenting the sign-in screen when accepted.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise utils header for managed identity checks
+// summary: Declares helpers to check account restriction policies and determine whether a system identity is managed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_ENTERPRISE_ENTERPRISE_UTILS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_ENTERPRISE_ENTERPRISE_UTILS_H_
 

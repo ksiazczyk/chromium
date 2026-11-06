@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteBrowserAgent class declaration
+// summary: Declares a browser-scoped keyed service that owns AutocompleteController and shortcuts helper objects per omnibox presentation context.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_AUTOCOMPLETE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_MODEL_AUTOCOMPLETE_BROWSER_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in and history sync coordinator interface
+// summary: Declares SignInAndHistorySyncCoordinator, a coordinator that presents the sign-in flow followed by the History Sync opt-in screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_SIGNIN_HISTORY_SYNC_SIGNIN_AND_HISTORY_SYNC_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_SIGNIN_HISTORY_SYNC_SIGNIN_AND_HISTORY_SYNC_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test authentication flow delegate
+// summary: Declares a test double of the authentication flow delegate that reports sign-in completion and fails when used with a profile change.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_AUTHENTICATION_FLOW_TEST_AUTHENTICATION_FLOW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_AUTHENTICATION_FLOW_TEST_AUTHENTICATION_FLOW_DELEGATE_H_
 

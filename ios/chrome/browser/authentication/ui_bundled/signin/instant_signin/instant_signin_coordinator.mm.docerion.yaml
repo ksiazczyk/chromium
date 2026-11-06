@@ -1,0 +1,4 @@
+# Docerion header of instant_signin_coordinator.mm.
+type: source
+title: InstantSigninCoordinator implementation
+summary: Implements the instant sign-in coordinator, orchestrating the identity chooser, add account flow, activity overlay, and sign-in logging.

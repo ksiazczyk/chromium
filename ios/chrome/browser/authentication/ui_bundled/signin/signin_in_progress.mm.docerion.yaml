@@ -1,0 +1,4 @@
+# Docerion header of signin_in_progress.mm.
+type: source
+title: Sign-in in progress implementation
+summary: Implements SigninInProgress, notifying the audience that sign-in started on construction and finished on destruction.

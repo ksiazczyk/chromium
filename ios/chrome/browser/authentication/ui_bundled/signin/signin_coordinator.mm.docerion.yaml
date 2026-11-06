@@ -1,0 +1,4 @@
+# Docerion header of signin_coordinator.mm.
+type: source
+title: Sign-in coordinator implementation
+summary: Implements SigninCoordinator, dispatching to specialized sign-in coordinators and managing activity reporting, scene state and sign-in progress handling.

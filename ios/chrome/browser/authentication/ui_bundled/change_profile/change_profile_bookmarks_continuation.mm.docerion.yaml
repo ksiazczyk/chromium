@@ -1,0 +1,4 @@
+# Docerion header of change_profile_bookmarks_continuation.mm.
+type: source
+title: Change profile bookmarks continuation implementation
+summary: Opens the bookmarks manager through the browser coordinator commands after a profile switch.

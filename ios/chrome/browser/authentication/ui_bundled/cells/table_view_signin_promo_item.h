@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view sign-in promo item and cell interface
+// summary: Declares TableViewSigninPromoItem and TableViewSigninPromoCell, which host a SigninPromoView with a configurator and delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_TABLE_VIEW_SIGNIN_PROMO_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CELLS_TABLE_VIEW_SIGNIN_PROMO_ITEM_H_
 

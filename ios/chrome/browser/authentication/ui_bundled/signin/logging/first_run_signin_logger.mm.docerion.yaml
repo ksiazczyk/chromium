@@ -1,0 +1,4 @@
+# Docerion header of first_run_signin_logger.mm.
+type: source
+title: First-run sign-in logger implementation
+summary: Implements FirstRunSigninLogger to record sign-in started metrics and the first-run welcome and sign-in stage histogram.

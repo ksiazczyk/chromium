@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change profile open NTP continuation header
+// summary: Declares CreateChangeProfileOpensNTPContinuation, which returns a continuation opening the New Tab page unless the current tab already shows one.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CHANGE_PROFILE_CHANGE_PROFILE_OPEN_NTP_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CHANGE_PROFILE_CHANGE_PROFILE_OPEN_NTP_H_
 

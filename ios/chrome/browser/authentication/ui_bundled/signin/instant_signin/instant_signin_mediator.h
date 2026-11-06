@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantSigninMediator interface
+// summary: Declares the mediator that drives the sign-in-only flow and its delegate callbacks for completion, profile switching, and unavailable sign-in.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_INSTANT_SIGNIN_INSTANT_SIGNIN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_INSTANT_SIGNIN_INSTANT_SIGNIN_MEDIATOR_H_
 

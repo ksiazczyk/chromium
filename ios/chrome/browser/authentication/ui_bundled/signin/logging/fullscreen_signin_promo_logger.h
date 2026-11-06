@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen sign-in promo logger header
+// summary: Declares FullscreenSigninPromoLogger, which logs metrics for fullscreen sign-in promo operations shown during upgrades.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_LOGGING_FULLSCREEN_SIGNIN_PROMO_LOGGER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_LOGGING_FULLSCREEN_SIGNIN_PROMO_LOGGER_H_
 

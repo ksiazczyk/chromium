@@ -1,0 +1,4 @@
+# Docerion header of change_profile_recent_tabs_continuation.mm.
+type: source
+title: Change profile recent tabs continuation implementation
+summary: Implements the continuation that shows the recent tabs view through the browser coordinator commands after switching profiles.

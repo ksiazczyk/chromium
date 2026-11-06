@@ -1,0 +1,4 @@
+# Docerion header of deeplink_signin_coordinator.mm.
+type: source
+title: DeeplinkSigninCoordinator implementation
+summary: Implements the deeplink sign-in coordinator that resolves the selected identity and starts fullscreen or add-account sign-in flows.

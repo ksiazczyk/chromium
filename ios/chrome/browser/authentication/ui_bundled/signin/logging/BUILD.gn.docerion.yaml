@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sign-in logging build target definition
+summary: GN build file defining the logging source set with the sign-in logger sources and their dependency targets.

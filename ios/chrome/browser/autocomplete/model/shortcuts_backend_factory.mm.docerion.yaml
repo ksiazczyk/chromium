@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_backend_factory.mm.
+type: source
+title: ShortcutsBackendFactory implementation
+summary: Implements the ShortcutsBackendFactory, initializing a ShortcutsBackend with the profile's template URL and history services and shortcuts database.

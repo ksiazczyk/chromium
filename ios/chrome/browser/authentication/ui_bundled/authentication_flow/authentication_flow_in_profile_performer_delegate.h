@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticationFlowInProfilePerformer delegate protocol
+// summary: Declares the delegate protocol notified when in-profile performer steps complete, such as user policy registration and account capabilities fetching.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_AUTHENTICATION_FLOW_AUTHENTICATION_FLOW_IN_PROFILE_PERFORMER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_AUTHENTICATION_FLOW_AUTHENTICATION_FLOW_IN_PROFILE_PERFORMER_DELEGATE_H_
 

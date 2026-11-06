@@ -1,0 +1,4 @@
+# Docerion header of consistency_sheet_navigation_controller.mm.
+type: source
+title: Consistency sheet navigation controller implementation
+summary: Implements layout sizing, blurred background, and edge swipe interaction for the consistency sheet navigation controller.

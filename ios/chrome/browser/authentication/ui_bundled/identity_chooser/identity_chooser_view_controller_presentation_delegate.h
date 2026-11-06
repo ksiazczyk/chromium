@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityChooserViewController presentation delegate protocol
+// summary: Objective-C header defining the delegate protocol for IdentityChooserViewController presentation events, such as dismissal, tapping Add Account, and selecting an identity.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_IDENTITY_CHOOSER_IDENTITY_CHOOSER_VIEW_CONTROLLER_PRESENTATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_IDENTITY_CHOOSER_IDENTITY_CHOOSER_VIEW_CONTROLLER_PRESENTATION_DELEGATE_H_
 

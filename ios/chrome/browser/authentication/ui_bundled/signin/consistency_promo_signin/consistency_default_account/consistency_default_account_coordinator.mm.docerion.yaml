@@ -1,0 +1,4 @@
+# Docerion header of consistency_default_account_coordinator.mm.
+type: source
+title: ConsistencyDefaultAccountCoordinator implementation
+summary: Implements the coordinator that wires the mediator and view controller together for the default account sign-in promo.

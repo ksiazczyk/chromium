@@ -1,0 +1,4 @@
+# Docerion header of cross_device_signin_scene_agent.mm.
+type: source
+title: CrossDeviceSigninSceneAgent implementation
+summary: Implements the scene agent that registers the URL interceptor and dispatches sign-in commands from parsed deep link payloads.

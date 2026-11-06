@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Do-nothing continuation declarations
+// summary: Declares DoNothingContinuation and DoNothingContinuationProvider helpers for change profile continuations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CONTINUATION_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CONTINUATION_H_
 

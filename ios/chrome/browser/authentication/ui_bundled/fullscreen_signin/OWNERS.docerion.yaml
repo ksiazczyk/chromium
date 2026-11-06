@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the fullscreen_signin directory in the iOS Chrome authentication UI.

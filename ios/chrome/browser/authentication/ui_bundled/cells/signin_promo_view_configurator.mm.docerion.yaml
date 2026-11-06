@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_view_configurator.mm.
+type: source
+title: SigninPromoViewConfigurator implementation
+summary: Implements configuration of signin promo views for standard, compact and button-only styles, including spinner and button titles.

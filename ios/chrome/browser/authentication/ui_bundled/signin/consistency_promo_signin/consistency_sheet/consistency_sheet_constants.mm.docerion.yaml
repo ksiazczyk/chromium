@@ -1,0 +1,4 @@
+# Docerion header of consistency_sheet_constants.mm.
+type: source
+title: Consistency sheet constants implementation
+summary: Defines the maximum bottom sheet height ratio with the window as 0.75.

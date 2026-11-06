@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for autocomplete test support
+summary: Defines GN source sets for autocomplete test support, Earl Grey app support and the Earl Grey test support stub.

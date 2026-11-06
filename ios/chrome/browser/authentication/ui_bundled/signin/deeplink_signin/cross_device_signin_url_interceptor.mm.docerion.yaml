@@ -1,0 +1,4 @@
+# Docerion header of cross_device_signin_url_interceptor.mm.
+type: source
+title: CrossDeviceSigninURLInterceptor implementation
+summary: Implements interception of cross-device sign-in URLs, parsing the payload and skipping incognito or feature-disabled loads.

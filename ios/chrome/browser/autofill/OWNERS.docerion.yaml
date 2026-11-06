@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill OWNERS file
+summary: Lists the owners responsible for reviewing changes to the iOS Chrome autofill directory, with a note preferring subdirectory OWNERS files for most changes.

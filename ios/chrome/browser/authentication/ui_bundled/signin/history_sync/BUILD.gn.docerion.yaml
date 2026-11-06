@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for history_sync
+summary: Defines the history_sync source set with its source files and dependencies in the Chromium iOS GN build.

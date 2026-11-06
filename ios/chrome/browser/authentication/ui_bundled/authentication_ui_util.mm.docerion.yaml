@@ -1,0 +1,4 @@
+# Docerion header of authentication_ui_util.mm.
+type: source
+title: Sign-in UI utility implementation
+summary: Implements sign-in UI helpers, building error alerts and sign-out confirmation dialogs based on sync and account state.

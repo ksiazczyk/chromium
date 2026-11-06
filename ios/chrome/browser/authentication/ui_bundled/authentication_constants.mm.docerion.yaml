@@ -1,0 +1,4 @@
+# Docerion header of authentication_constants.mm.
+type: source
+title: Authentication UI constants definitions
+summary: Defines the values of the authentication UI layout constants and the sign-in sync screen accessibility identifier.

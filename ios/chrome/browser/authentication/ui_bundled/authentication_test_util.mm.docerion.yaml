@@ -1,0 +1,4 @@
+# Docerion header of authentication_test_util.mm.
+type: test
+title: Authentication test continuation helper implementations
+summary: Implements not-reached continuation helpers used to fail when unexpected change-profile continuations run in tests.

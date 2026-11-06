@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake suggestions builder header
+// summary: Declares a builder that creates AutocompleteMatch suggestions such as shortcut, search and history URL matches for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOCOMPLETE_TEST_FAKE_SUGGESTIONS_BUILDER_H_
 #define IOS_CHROME_BROWSER_AUTOCOMPLETE_TEST_FAKE_SUGGESTIONS_BUILDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_view_constants.mm.
+type: source
+title: SigninPromoView constant definitions
+summary: Defines the accessibility identifier strings used by signin promo views and central account views.

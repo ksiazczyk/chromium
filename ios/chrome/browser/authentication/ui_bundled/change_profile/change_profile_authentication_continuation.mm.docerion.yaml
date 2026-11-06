@@ -1,0 +1,4 @@
+# Docerion header of change_profile_authentication_continuation.mm.
+type: source
+title: Change profile authentication continuation implementation
+summary: Implements sign-in or sign-out for a URL context during a profile switch, opening URLs in the scene afterwards.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autocomplete test
+summary: Allows this test directory to include headers from ios/chrome/browser/omnibox/public.

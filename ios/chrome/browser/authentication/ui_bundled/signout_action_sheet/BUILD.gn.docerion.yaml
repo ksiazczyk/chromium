@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signout action sheet build configuration
+summary: Defines the GN build targets and dependencies for the signout action sheet coordinator and its unit and Earl Grey tests.

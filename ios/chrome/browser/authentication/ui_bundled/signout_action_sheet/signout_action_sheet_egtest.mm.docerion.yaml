@@ -1,0 +1,4 @@
+# Docerion header of signout_action_sheet_egtest.mm.
+type: test
+title: Signout action sheet Earl Grey tests
+summary: Earl Grey UI tests for the sign-out flow, verifying managed users in a managed browser sign out without a data-clearing confirmation dialog.

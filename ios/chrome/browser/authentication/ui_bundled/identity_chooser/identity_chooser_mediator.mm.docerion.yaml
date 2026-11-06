@@ -1,0 +1,4 @@
+# Docerion header of identity_chooser_mediator.mm.
+type: source
+title: Identity chooser mediator implementation
+summary: Loads on-device identities into table items, marks the default account, and observes identity manager changes.

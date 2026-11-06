@@ -1,0 +1,4 @@
+# Docerion header of deeplink_signin_coordinator_unittest.mm.
+type: test
+title: DeeplinkSigninCoordinator unit tests
+summary: Unit tests for the deeplink sign-in coordinator using fake identities, test profiles and OCMock to verify flow behavior.

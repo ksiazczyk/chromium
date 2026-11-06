@@ -1,0 +1,4 @@
+# Docerion header of signin_notification_infobar_delegate.mm.
+type: source
+title: Sign-in notification infobar delegate
+summary: Implements the delegate that shows a high-priority sign-in notification infobar with the primary account avatar, title, and a button opening settings.

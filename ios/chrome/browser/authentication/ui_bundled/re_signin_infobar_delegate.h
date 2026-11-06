@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Re-signin infobar delegate header
+// summary: Declares ReSignInInfoBarDelegate, a confirmation infobar that prompts the user to open the sign-in screen when sign-in state is out of date.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_RE_SIGNIN_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_RE_SIGNIN_INFOBAR_DELEGATE_H_
 

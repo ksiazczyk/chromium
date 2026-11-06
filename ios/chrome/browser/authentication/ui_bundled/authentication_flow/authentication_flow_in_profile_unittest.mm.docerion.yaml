@@ -1,0 +1,4 @@
+# Docerion header of authentication_flow_in_profile_unittest.mm.
+type: test
+title: AuthenticationFlowInProfile unit tests
+summary: Unit tests for the AuthenticationFlowInProfile flow, exercising sign-in, sign-out, and policy fetching with fake identities and a mocked performer.

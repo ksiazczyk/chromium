@@ -1,0 +1,4 @@
+# Docerion header of consistency_account_chooser_table_view_controller.mm.
+type: source
+title: Consistency account chooser table view controller implementation
+summary: Builds the identity and add-account table sections and handles identity selection and link taps in the chooser.

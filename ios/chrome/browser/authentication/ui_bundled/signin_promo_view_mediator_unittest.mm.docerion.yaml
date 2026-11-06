@@ -1,0 +1,4 @@
+# Docerion header of signin_promo_view_mediator_unittest.mm.
+type: test
+title: Sign-in promo view mediator unit tests
+summary: Unit tests for the sign-in promo view mediator using fake identities, mock sync and pref services, and OCMock.

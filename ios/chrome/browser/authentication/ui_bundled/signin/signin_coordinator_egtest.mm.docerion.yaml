@@ -1,0 +1,4 @@
+# Docerion header of signin_coordinator_egtest.mm.
+type: source
+title: Sign-in coordinator Earl Grey tests
+summary: Earl Grey UI tests covering sign-in flows, including histograms, bookmarks, settings, recent tabs and policy interactions during authentication.

@@ -1,0 +1,4 @@
+# Docerion header of signin_coordinator_unittest.mm.
+type: source
+title: Sign-in coordinator unit tests
+summary: Unit tests verifying SigninCoordinator activity reporting on start and stop using a minimal test subclass with test profile and browser fixtures.

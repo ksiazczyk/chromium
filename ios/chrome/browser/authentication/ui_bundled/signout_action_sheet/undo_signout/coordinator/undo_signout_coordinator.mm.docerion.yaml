@@ -1,0 +1,4 @@
+# Docerion header of undo_signout_coordinator.mm.
+type: source
+title: Undo sign-out coordinator implementation
+summary: Implements the coordinator that starts an AuthenticationFlow to sign the identity back in, undoing sign-out, and notifies the delegate when finished or cancelled.

@@ -1,0 +1,4 @@
+# Docerion header of change_profile_settings_continuation.mm.
+type: source
+title: Change profile settings continuation
+summary: Implements the change-profile continuation that opens the Settings UI, skipping it when the history promo is shown first.

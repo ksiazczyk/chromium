@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for authentication view asset resources
+summary: Declares the Assets.xcassets catalog with identity picker arrow images as bundle resources for the iOS Chrome authentication UI.

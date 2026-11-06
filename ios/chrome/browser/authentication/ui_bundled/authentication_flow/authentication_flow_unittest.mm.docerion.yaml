@@ -1,0 +1,4 @@
+# Docerion header of authentication_flow_unittest.mm.
+type: test
+title: Authentication flow unit tests
+summary: Unit tests for the authentication flow, exercising sign-in, profile switching, and managed account behavior with fake identities, sync services, and policy helpers.

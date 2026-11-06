@@ -1,0 +1,4 @@
+# Docerion header of test_authentication_flow_delegate.mm.
+type: test
+title: Test authentication flow delegate implementation
+summary: Implements the test authentication flow delegate, invoking the sign-in completion callback or the profile-switch continuation at most once.

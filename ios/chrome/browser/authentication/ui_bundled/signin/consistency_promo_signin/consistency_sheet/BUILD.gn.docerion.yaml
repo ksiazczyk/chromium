@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Consistency sheet BUILD.gn build definition
+summary: Defines the consistency_sheet source_set with its source files and build dependencies for the GN build.

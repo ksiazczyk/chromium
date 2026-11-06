@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncSigninCoordinator interface
+// summary: Declares the HistorySyncSigninCoordinator interface for presenting the History Sync Opt-In screen to users who are already signed in.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_HISTORY_SYNC_HISTORY_SYNC_SIGNIN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_SIGNIN_HISTORY_SYNC_HISTORY_SYNC_SIGNIN_COORDINATOR_H_
 

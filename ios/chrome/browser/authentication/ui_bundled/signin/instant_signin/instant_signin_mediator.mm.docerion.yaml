@@ -1,0 +1,4 @@
+# Docerion header of instant_signin_mediator.mm.
+type: source
+title: InstantSigninMediator implementation
+summary: Implements the mediator, observing the authentication service and identity manager to start, monitor, and interrupt the sign-in flow.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change profile authentication continuation interface
+// summary: Declares a continuation that starts the sign-in or sign-out flow when switching profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CHANGE_PROFILE_CHANGE_PROFILE_AUTHENTICATION_CONTINUATION_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_UI_BUNDLED_CHANGE_PROFILE_CHANGE_PROFILE_AUTHENTICATION_CONTINUATION_H_
 

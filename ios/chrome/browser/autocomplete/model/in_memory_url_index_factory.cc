@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index factory implementation
+// summary: Builds a per-profile InMemoryURLIndex for omnibox autocomplete from bookmark, history, and template URL services, redirecting to the regular profile in incognito.
+// ---
+
 #include "ios/chrome/browser/autocomplete/model/in_memory_url_index_factory.h"
 
 #include <utility>
