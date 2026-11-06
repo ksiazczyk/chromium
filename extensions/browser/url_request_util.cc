@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL request utilities
+// summary: Implements helpers that decide whether cross-renderer loads of extension resources are allowed, covering webview guests, hosted apps, and web-accessible resources.
+// ---
+
 #include "extensions/browser/url_request_util.h"
 
 #include <string_view>

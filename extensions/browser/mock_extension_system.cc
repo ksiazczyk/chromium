@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock extension system implementation
+// summary: Implements an empty ExtensionSystem for tests, returning null services by default and supporting an optional state store and ready signal.
+// ---
+
 #include "extensions/browser/mock_extension_system.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the AppWindowCreateFunction class
+// summary: Declares the AppWindowCreateFunction extension function that runs the app.window.create API and parses window creation options.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_APP_WINDOW_APP_WINDOW_API_H_
 #define EXTENSIONS_BROWSER_API_APP_WINDOW_APP_WINDOW_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen document host declaration
+// summary: Declares a host for offscreen extension documents that, unlike background pages, cannot register lazy event listeners.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_OFFSCREEN_DOCUMENT_HOST_H_
 #define EXTENSIONS_BROWSER_OFFSCREEN_DOCUMENT_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash implementation of CecPrivateDelegate
+// summary: Implements the ChromeOS Ash delegate by forwarding standby, wake-up, and power state queries to the CecServiceClient D-Bus client and converting its power states.
+// ---
+
 // clang-format off
 #include "extensions/browser/api/cec_private/cec_private_delegate.h"
 // clang-format on

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZipFileInstaller class declaration
+// summary: Declares the ZipFileInstaller class that unzips extension ZIP files via the Unzipper service and reports success or an error through a done callback.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_ZIPFILE_INSTALLER_H_
 #define EXTENSIONS_BROWSER_ZIPFILE_INSTALLER_H_
 

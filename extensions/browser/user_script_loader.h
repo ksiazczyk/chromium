@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScriptLoader class declaration
+// summary: Declares UserScriptLoader, which manages one logical unit of user scripts in shared memory and notifies renderers when scripts change or new renderers appear.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_USER_SCRIPT_LOADER_H_
 #define EXTENSIONS_BROWSER_USER_SCRIPT_LOADER_H_
 

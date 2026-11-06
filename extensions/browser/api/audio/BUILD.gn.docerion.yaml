@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Audio extension API build configuration
+summary: GN build file defining the audio source_set with its sources and dependencies for the ChromeOS extensions audio API.

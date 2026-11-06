@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest check level enum for extensions
+// summary: Defines the ManifestCheckLevel enum that controls how strictly an extension's manifest is compared against its expected manifest, from no checks to strict equality.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MANIFEST_CHECK_LEVEL_H_
 #define EXTENSIONS_BROWSER_MANIFEST_CHECK_LEVEL_H_
 

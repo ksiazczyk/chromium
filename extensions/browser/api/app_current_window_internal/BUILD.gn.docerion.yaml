@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for app_current_window_internal
+summary: Defines the app_current_window_internal source_set with its sources and build dependencies for platform apps.

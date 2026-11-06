@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS audio service implementation
+// summary: Implements AudioService on ChromeOS using CrasAudioHandler, translating device types and forwarding volume, gain and mute changes to observers.
+// ---
+
 #include "extensions/browser/api/audio/audio_service.h"
 
 #include <stddef.h>

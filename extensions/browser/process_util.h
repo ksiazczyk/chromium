@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process utilities header
+// summary: Declares the PersistentBackgroundPageState enum and the GetPersistentBackgroundPageState helper for checking extension background page readiness.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_UTIL_H_
 #define EXTENSIONS_BROWSER_PROCESS_UTIL_H_
 

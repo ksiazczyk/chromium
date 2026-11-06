@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the test event router observer
+// summary: Implements TestEventRouterObserver, recording dispatched events and providing RunLoop-based waits for events with a given name.
+// ---
+
 #include "extensions/browser/test_event_router_observer.h"
 
 #include <memory>

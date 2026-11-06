@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth private API header
+// summary: Declares the BluetoothPrivateAPI browser-context keyed service and the bluetoothPrivate extension functions such as setAdapterState, setPairingResponse, and connect.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_PRIVATE_API_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_PRIVATE_API_H_
 

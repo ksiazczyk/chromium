@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task queue utility declarations
+// summary: Declares helpers to determine the task queue for a lazy context and to activate or deactivate the service worker task queue when extensions are loaded or unloaded.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TASK_QUEUE_UTIL_H_
 #define EXTENSIONS_BROWSER_TASK_QUEUE_UTIL_H_
 

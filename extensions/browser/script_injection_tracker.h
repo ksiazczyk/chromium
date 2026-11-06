@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptInjectionTracker class header
+// summary: Declares a static class for observing and querying whether an extension's content or user scripts were ever injected into a render process.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCRIPT_INJECTION_TRACKER_H_
 #define EXTENSIONS_BROWSER_SCRIPT_INJECTION_TRACKER_H_
 

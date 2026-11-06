@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending extension info declaration
+// summary: Declares PendingExtensionInfo, which describes an extension awaiting installation in the next auto-update cycle.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PENDING_EXTENSION_INFO_H_
 #define EXTENSIONS_BROWSER_PENDING_EXTENSION_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network permissions updater header
+// summary: Declares NetworkPermissionsUpdater, a helper to update or reset extension network permissions in the network layer with completion callbacks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_NETWORK_PERMISSIONS_UPDATER_H_
 #define EXTENSIONS_BROWSER_NETWORK_PERMISSIONS_UPDATER_H_
 

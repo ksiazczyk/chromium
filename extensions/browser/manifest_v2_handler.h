@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest V2 deprecation handler interface
+// summary: Declares the ManifestV2Handler keyed service that manages deprecated MV2 extensions, including their states, installation and enable blocking, and notice acknowledgement prefs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MANIFEST_V2_HANDLER_H_
 #define EXTENSIONS_BROWSER_MANIFEST_V2_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension preference name constants
+// summary: Defines preference key constants shared between ExtensionPrefs and external clients such as extension APIs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PREF_NAMES_H_
 #define EXTENSIONS_BROWSER_PREF_NAMES_H_
 

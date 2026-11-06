@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock extension system and factory header
+// summary: Declares MockExtensionSystem, an empty ExtensionSystem for tests to derive from, plus a MockExtensionSystemFactory template for use with TestExtensionsBrowserClient.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MOCK_EXTENSION_SYSTEM_H_
 #define EXTENSIONS_BROWSER_MOCK_EXTENSION_SYSTEM_H_
 

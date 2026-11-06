@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingExtensionManager header
+// summary: Declares PendingExtensionManager, a KeyedService that tracks extensions currently being installed or updated to avoid races between multiple install sources.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PENDING_EXTENSION_MANAGER_H_
 #define EXTENSIONS_BROWSER_PENDING_EXTENSION_MANAGER_H_
 

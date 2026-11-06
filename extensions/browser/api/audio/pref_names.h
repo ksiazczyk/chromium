@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio API preference names header
+// summary: Declares the preference name constant holding known audio device stable IDs used to generate stable device IDs exposed to apps via the chrome.audio API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_AUDIO_PREF_NAMES_H_
 #define EXTENSIONS_BROWSER_API_AUDIO_PREF_NAMES_H_
 

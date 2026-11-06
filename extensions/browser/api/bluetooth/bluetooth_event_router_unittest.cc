@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth event router unit tests
+// summary: Unit tests for BluetoothEventRouter that verify listener add/remove handling, extension unload cleanup, and discovery filter setup using a mock Bluetooth adapter.
+// ---
+
 #include "extensions/browser/api/bluetooth/bluetooth_event_router.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedModuleService class declaration
+// summary: Declares SharedModuleService, a KeyedService and InstallGate that manages extension shared module imports and tracks dependent extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SHARED_MODULE_SERVICE_H_
 #define EXTENSIONS_BROWSER_SHARED_MODULE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension UI utility functions implementation
+// summary: Implements helpers that decide whether an extension should appear in extension settings, truncate long extension names for UI display, and create localized dummy extensions from a manifest.
+// ---
+
 #include "extensions/browser/ui_util.h"
 
 #include "base/command_line.h"

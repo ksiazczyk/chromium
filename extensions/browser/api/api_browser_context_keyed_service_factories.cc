@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyed service factory construction for extension APIs
+// summary: Creates the BrowserContextKeyedServiceFactory instances for extension APIs at the extensions layer, guarded by build-flag conditionals.
+// ---
+
 #include "extensions/browser/api/api_browser_context_keyed_service_factories.h"
 
 #include "build/build_config.h"

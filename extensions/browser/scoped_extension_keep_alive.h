@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBrowserContextKeepAlive base class
+// summary: Declares an abstract base class that embedders subclass to hold the keepalive objects they need for browser contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCOPED_EXTENSION_KEEP_ALIVE_H_
 #define EXTENSIONS_BROWSER_SCOPED_EXTENSION_KEEP_ALIVE_H_
 

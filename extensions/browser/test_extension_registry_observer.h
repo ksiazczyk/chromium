@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registry test observer declaration
+// summary: Header declaring an observer that listens for ExtensionRegistry notifications and waits for events, optionally filtered by extension ID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_EXTENSION_REGISTRY_OBSERVER_H_
 #define EXTENSIONS_BROWSER_TEST_EXTENSION_REGISTRY_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message tracker implementation
+// summary: Implements the MessageTracker keyed service that follows extension messages through pipeline stages and emits metrics on success, failure or hung stages.
+// ---
+
 #include "extensions/browser/message_tracker.h"
 
 #include <map>

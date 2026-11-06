@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLFetcher interface
+// summary: Declares the URLFetcher abstract interface with a Start method for initiating URL fetches.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_URL_FETCHER_H_
 #define EXTENSIONS_BROWSER_URL_FETCHER_H_
 

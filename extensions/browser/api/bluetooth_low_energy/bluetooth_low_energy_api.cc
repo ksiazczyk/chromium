@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: bluetoothLowEnergy extension API implementation
+// summary: Implements the BluetoothLowEnergyAPI keyed service, error strings, and extension functions for the bluetoothLowEnergy API.
+// ---
+
 #include "extensions/browser/api/bluetooth_low_energy/bluetooth_low_energy_api.h"
 
 #include <stdint.h>

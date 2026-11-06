@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed extension preference definitions
+// summary: Defines PrefMap constants for typed extension preferences such as corrupted disable counts, user permissions, and user script world configuration.
+// ---
+
 #include "extensions/browser/pref_types.h"
 
 namespace extensions {

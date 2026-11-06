@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the extensions Bluetooth API
+summary: Defines the ChromeOS-only bluetooth source_set for the extensions browser Bluetooth API, listing its source files and build dependencies.

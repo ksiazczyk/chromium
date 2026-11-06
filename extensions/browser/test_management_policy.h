@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestManagementPolicyProvider declaration
+// summary: Declares a test ManagementPolicy provider with action flags such as prohibit load, prohibit modify status, and must remain enabled, disabled, or installed, for testing extension management.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_MANAGEMENT_POLICY_H_
 #define EXTENSIONS_BROWSER_TEST_MANAGEMENT_POLICY_H_
 

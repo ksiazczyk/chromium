@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of cecPrivate extension API functions
+// summary: Implements kiosk-only extension functions that send HDMI-CEC standby and wake-up messages and query display CEC power states through the platform delegate.
+// ---
+
 #include "extensions/browser/api/cec_private/cec_private_api.h"
 
 #include <vector>

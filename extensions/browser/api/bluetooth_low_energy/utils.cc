@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Low Energy characteristic and descriptor value conversion helpers
+// summary: Implements conversion of Bluetooth Low Energy characteristics and descriptors to dictionary values, handling enum properties that the schema compiler cannot serialize.
+// ---
+
 #include "extensions/browser/api/bluetooth_low_energy/utils.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped SafeBrowsing database manager test helper
+// summary: Implements a scoped helper that temporarily swaps the SafeBrowsing database manager used by the extension blocklist during tests.
+// ---
+
 #include "extensions/browser/scoped_database_manager_for_test.h"
 
 #include "components/safe_browsing/core/browser/db/database_manager.h"

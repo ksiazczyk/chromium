@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script manager implementation
+// summary: Implements UserScriptManager, which creates and tracks user script loaders for extensions and embedders and handles the user scripts allowed preference state.
+// ---
+
 #include "extensions/browser/user_script_manager.h"
 
 #include "base/feature_list.h"

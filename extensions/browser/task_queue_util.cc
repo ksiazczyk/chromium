@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker task queue utility functions
+// summary: Implements helpers that locate, activate, and deactivate the service worker task queue for extensions, handling incognito split and spanning mode browser contexts.
+// ---
+
 #include "extensions/browser/task_queue_util.h"
 
 #include "content/public/browser/browser_context.h"

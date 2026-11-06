@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update install gate implementation
+// summary: Implements UpdateInstallGate, which delays extension updates while the previously installed version is in use or listens for the onUpdateAvailable event.
+// ---
+
 #include "extensions/browser/update_install_gate.h"
 
 #include "extensions/browser/event_router.h"

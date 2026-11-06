@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsCaptureClient header for capturing visible WebContents area
+// summary: Declares the WebContentsCaptureClient base class that captures and encodes the visible area of a WebContents for webview.captureVisibleRegion and tabs.captureVisibleTab.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_WEB_CONTENTS_CAPTURE_CLIENT_H_
 #define EXTENSIONS_BROWSER_API_WEB_CONTENTS_CAPTURE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreloadCheck test utilities
+// summary: Test helpers for PreloadCheck, providing a runner that captures check results and a stub that reports configured errors synchronously or asynchronously.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PRELOAD_CHECK_TEST_UTIL_H_
 #define EXTENSIONS_BROWSER_PRELOAD_CHECK_TEST_UTIL_H_
 

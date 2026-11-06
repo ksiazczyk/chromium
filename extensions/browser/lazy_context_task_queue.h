@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy context task queue interface
+// summary: Defines the LazyContextTaskQueue interface for queuing tasks that run after an extension's lazy background page or service worker is loaded.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_LAZY_CONTEXT_TASK_QUEUE_H_
 #define EXTENSIONS_BROWSER_LAZY_CONTEXT_TASK_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unpacked extension installer implementation
+// summary: Implements UnpackedInstaller, which installs and loads unpacked extensions from a directory, reporting load errors and enforcing policy and shared module checks.
+// ---
+
 #include "extensions/browser/unpacked_installer.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script injection tracker implementation
+// summary: Implements per-render-process tracking of extensions that have injected content or user scripts, supporting security decisions, UKM, and crash logging.
+// ---
+
 #include "extensions/browser/script_injection_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request utilities for extension resource loading
+// summary: Declares helpers that decide whether a resource request from one renderer may access an extension's resources in another renderer, sharing logic with the navigation throttle.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_URL_REQUEST_UTIL_H_
 #define EXTENSIONS_BROWSER_URL_REQUEST_UTIL_H_
 

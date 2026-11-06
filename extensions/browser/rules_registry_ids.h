@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rules registry ID constants
+// summary: Defines constants for the default and invalid rules registry IDs used by extension rules registries.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_RULES_REGISTRY_IDS_H_
 #define EXTENSIONS_BROWSER_RULES_REGISTRY_IDS_H_
 

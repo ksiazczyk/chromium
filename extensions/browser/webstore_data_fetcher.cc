@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore data fetcher implementation
+// summary: Fetches extension metadata from the Chrome Web Store through the item snippet API and reports responses to a delegate, with test hooks for mocking and logging.
+// ---
+
 #include "extensions/browser/webstore_data_fetcher.h"
 
 #include <optional>

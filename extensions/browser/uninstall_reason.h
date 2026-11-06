@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall reason and source enums
+// summary: Defines the stable UninstallReason and UninstallSource enums used in uninstall ping data and UMA histograms, with values that must not be reordered.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UNINSTALL_REASON_H_
 #define EXTENSIONS_BROWSER_UNINSTALL_REASON_H_
 

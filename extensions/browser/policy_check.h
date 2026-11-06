@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyCheck header
+// summary: Declares PolicyCheck, a PreloadCheck that verifies whether loading an extension is disabled by management policy.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_POLICY_CHECK_H_
 #define EXTENSIONS_BROWSER_POLICY_CHECK_H_
 

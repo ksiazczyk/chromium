@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StateStore class declaration
+// summary: Declares StateStore, a storage area for per-extension state persisted to disk with backends for rules, state, and scripts data.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_STATE_STORE_H_
 #define EXTENSIONS_BROWSER_STATE_STORE_H_
 

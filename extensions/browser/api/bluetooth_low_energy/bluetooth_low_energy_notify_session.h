@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Low Energy notify session API resource declaration
+// summary: Declares BluetoothLowEnergyNotifySession, an ApiResource wrapper around a GATT notify session managed on the UI thread for the Bluetooth Low Energy extension API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_BLUETOOTH_LOW_ENERGY_NOTIFY_SESSION_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_BLUETOOTH_LOW_ENERGY_NOTIFY_SESSION_H_
 

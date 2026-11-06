@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Clipboard extension API build targets
+summary: GN build file defining the clipboard source set and the clipboard_types source set with their dependencies for the extensions clipboard API.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessManager class declaration
+// summary: Declares the ProcessManager keyed service that manages dynamic state of running extensions, including host registration, service worker tracking and observer support.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_MANAGER_H_
 #define EXTENSIONS_BROWSER_PROCESS_MANAGER_H_
 

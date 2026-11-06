@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for extension API implementations
+summary: Defines GN groups aggregating the extension API implementation targets that embedders depend on, with platform-conditional dependencies.

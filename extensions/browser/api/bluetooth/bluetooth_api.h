@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth extension API service header
+// summary: Declares the BluetoothAPI keyed service and extension function classes for adapter state, device queries and discovery.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_API_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_BLUETOOTH_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View type utilities header
+// summary: Declares functions to get and set the mojom view type of a WebContents or render frame host in the extensions browser layer.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_VIEW_TYPE_UTILS_H_
 #define EXTENSIONS_BROWSER_VIEW_TYPE_UTILS_H_
 

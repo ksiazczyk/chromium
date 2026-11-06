@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard extension API implementation
+// summary: Implements the ClipboardAPI browser-context service that broadcasts clipboard change events and the setImageData extension function with validation of additional data items.
+// ---
+
 #include "extensions/browser/api/clipboard/clipboard_api.h"
 
 #include <memory>

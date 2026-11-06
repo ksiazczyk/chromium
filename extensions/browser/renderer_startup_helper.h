@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererStartupHelper header
+// summary: Declares RendererStartupHelper, a KeyedService and mojom RendererHost that initializes renderers with extension state and forwards activity log entries.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_RENDERER_STARTUP_HELPER_H_
 #define EXTENSIONS_BROWSER_RENDERER_STARTUP_HELPER_H_
 

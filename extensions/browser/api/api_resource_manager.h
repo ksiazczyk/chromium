@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiResourceManager template for extension API resource lifetime
+// summary: Template keyed service that manages the lifetime and per-extension lookup of API resources like sockets on the IO or UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_API_RESOURCE_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_API_RESOURCE_MANAGER_H_
 

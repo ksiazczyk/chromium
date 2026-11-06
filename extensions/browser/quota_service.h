@@ -11,6 +11,12 @@
 // arguments to a unique Bucket (the BucketMapper), and another to determine
 // if a new request involving such an item at a given time is a violation.
 
+// ---docerion
+// type: source
+// title: QuotaService header
+// summary: Declares QuotaService and QuotaLimitHeuristic, which limit abusive extension function requests via bucket-based quota heuristics on a single thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_QUOTA_SERVICE_H_
 #define EXTENSIONS_BROWSER_QUOTA_SERVICE_H_
 

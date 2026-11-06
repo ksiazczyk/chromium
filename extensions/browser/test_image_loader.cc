@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestImageLoader implementation
+// summary: Implements TestImageLoader, which loads an extension image resource asynchronously through ImageLoader and blocks until it can return the resulting SkBitmap for tests.
+// ---
+
 #include "extensions/browser/test_image_loader.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothApiSocket implementation
+// summary: Implements the BluetoothApiSocket resource that wraps native Bluetooth sockets, managing connection state, receive, send, accept, and disconnect operations for extensions.
+// ---
+
 #include "extensions/browser/api/bluetooth_socket/bluetooth_api_socket.h"
 
 #include "base/functional/bind.h"

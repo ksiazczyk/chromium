@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script world configuration manager implementation
+// summary: Implements UserScriptWorldConfigurationManager, a keyed service that stores user script world configurations in ExtensionPrefs and notifies renderers of changes.
+// ---
+
 #include "extensions/browser/user_script_world_configuration_manager.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

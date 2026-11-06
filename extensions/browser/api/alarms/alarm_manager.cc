@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alarm manager implementation
+// summary: Implements scheduling, persistence and firing of extension alarms, dispatching onAlarm events to extensions.
+// ---
+
 #include "extensions/browser/api/alarms/alarm_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core extensions browser API provider declaration
+// summary: Declares CoreExtensionsBrowserAPIProvider, which registers the core extension functions with the extension function registry.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CORE_EXTENSIONS_BROWSER_API_PROVIDER_H_
 #define EXTENSIONS_BROWSER_API_CORE_EXTENSIONS_BROWSER_API_PROVIDER_H_
 

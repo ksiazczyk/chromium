@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device permissions manager declarations
+// summary: Declares DevicePermissionEntry, DevicePermissions, and DevicePermissionsManager for tracking per-extension device access grants.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DEVICE_PERMISSIONS_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_DEVICE_PERMISSIONS_MANAGER_H_
 

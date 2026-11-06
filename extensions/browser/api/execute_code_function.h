@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execute code function base class declaration
+// summary: Declares ExecuteCodeFunction, the base class for code injection behind chrome.tabs.executeScript and chrome.webview.executeScript.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_EXECUTE_CODE_FUNCTION_H_
 #define EXTENSIONS_BROWSER_API_EXECUTE_CODE_FUNCTION_H_
 

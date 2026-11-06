@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed installation mode enum
+// summary: 'Defines the ManagedInstallationMode enum for policy-based extension installation modes: allowed, blocked, forced, recommended, and removed.'
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MANAGED_INSTALLATION_MODE_H_
 #define EXTENSIONS_BROWSER_MANAGED_INSTALLATION_MODE_H_
 

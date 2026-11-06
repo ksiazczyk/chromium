@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Low Energy value conversion helper declarations
+// summary: Declares helper functions that convert characteristics and descriptors to dictionary values, working around missing enum support in json_schema_compiler.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_UTILS_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_UTILS_H_
 

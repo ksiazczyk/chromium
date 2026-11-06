@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuotaService unit tests
+// summary: Unit tests for QuotaService and QuotaLimitHeuristic, exercising timed limits, bucket mapping, and quota violation detection with mock extension functions.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

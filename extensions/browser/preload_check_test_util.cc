@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for preload checks
+// summary: Provides PreloadCheckRunner and PreloadCheckStub helpers for running and stubbing preload checks in unit tests.
+// ---
+
 #include "extensions/browser/preload_check_test_util.h"
 
 #include "base/check.h"

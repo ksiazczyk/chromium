@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessMapFactory header
+// summary: Declares ProcessMapFactory, a BrowserContextKeyedServiceFactory that builds ProcessMap objects shared between incognito and original browser contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_MAP_FACTORY_H_
 #define EXTENSIONS_BROWSER_PROCESS_MAP_FACTORY_H_
 

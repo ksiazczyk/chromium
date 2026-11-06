@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyConnection class declaration
+// summary: Declares an ApiResource wrapper for device::BluetoothGattConnection that disconnects when deleted and lives on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_BLUETOOTH_LOW_ENERGY_CONNECTION_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_LOW_ENERGY_BLUETOOTH_LOW_ENERGY_CONNECTION_H_
 

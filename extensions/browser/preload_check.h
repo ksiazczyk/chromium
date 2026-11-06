@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload check interface for extension load preconditions
+// summary: Declares the PreloadCheck base class for possibly asynchronous verification of preconditions for loading an extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PRELOAD_CHECK_H_
 #define EXTENSIONS_BROWSER_PRELOAD_CHECK_H_
 

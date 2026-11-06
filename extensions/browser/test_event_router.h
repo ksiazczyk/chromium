@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test event router for observing extension events in tests
+// summary: Header declaring a test EventRouter subclass that lets tests observe, count, and verify events broadcast or dispatched to extensions, plus a factory helper to install it.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_TEST_EVENT_ROUTER_H_
 #define EXTENSIONS_BROWSER_TEST_EVENT_ROUTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scripting constants header
+// summary: Defines the StateStore storage key used to persist dynamic content script metadata across sessions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCRIPTING_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_SCRIPTING_CONSTANTS_H_
 

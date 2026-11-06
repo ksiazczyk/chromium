@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyEventRouter implementation
+// summary: Implements the router that bridges the bluetoothLowEnergy extension API to the internal device/bluetooth adapter and GATT stack.
+// ---
+
 #include "extensions/browser/api/bluetooth_low_energy/bluetooth_low_energy_event_router.h"
 
 #include <algorithm>

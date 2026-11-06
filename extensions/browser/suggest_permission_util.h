@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission suggestion utility declaration
+// summary: Declares IsExtensionWithPermissionOrSuggestInConsole, which checks an extension API permission or suggests it in the developer tools console.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SUGGEST_PERMISSION_UTIL_H_
 #define EXTENSIONS_BROWSER_SUGGEST_PERMISSION_UTIL_H_
 

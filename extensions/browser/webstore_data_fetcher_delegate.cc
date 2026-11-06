@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore data fetcher delegate constants
+// summary: Defines the webstore data keys and common error strings shared by WebstoreDataFetcherDelegate implementations.
+// ---
+
 #include "extensions/browser/webstore_data_fetcher_delegate.h"
 
 #include "extensions/buildflags/buildflags.h"

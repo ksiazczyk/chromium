@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped content verification ignore helper declaration
+// summary: Declares a scoped test helper that disables extension content verification while an instance is alive, with only one instance allowed at a time.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SCOPED_IGNORE_CONTENT_VERIFIER_FOR_TEST_H_
 #define EXTENSIONS_BROWSER_SCOPED_IGNORE_CONTENT_VERIFIER_FOR_TEST_H_
 

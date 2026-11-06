@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth socket API unit tests
+// summary: Contains unit tests verifying that bluetoothSocket.create fails without permission and that create followed by close works correctly.
+// ---
+
 #include "extensions/browser/api/bluetooth_socket/bluetooth_socket_api.h"
 
 #include <memory>

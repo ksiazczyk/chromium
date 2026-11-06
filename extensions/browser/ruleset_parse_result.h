@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset parse result header
+// summary: Declares RulesetParseResult, holding the error, install warnings and ruleset install prefs produced when parsing a declarative ruleset.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_RULESET_PARSE_RESULT_H_
 #define EXTENSIONS_BROWSER_RULESET_PARSE_RESULT_H_
 

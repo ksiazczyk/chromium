@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alarms API delay constants
+// summary: Defines minimum alarm periods for dev, MV2 and MV3 packed extensions plus the GetMinimumDelay helper.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_ALARMS_ALARMS_API_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_ALARMS_ALARMS_API_CONSTANTS_H_
 

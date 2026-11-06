@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerifiedContents class declaration
+// summary: Declares VerifiedContents, which encapsulates signed expected file hashes from a webstore verified_contents.json file to detect corruption of extension files on disk.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_VERIFIED_CONTENTS_H_
 #define EXTENSIONS_BROWSER_VERIFIED_CONTENTS_H_
 

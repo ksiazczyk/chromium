@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessMap implementation
+// summary: Implements ProcessMap, which records which renderer processes are associated with which extensions and answers process-based queries for enabled extensions and webviews.
+// ---
+
 #include "extensions/browser/process_map.h"
 
 #include <algorithm>

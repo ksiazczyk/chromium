@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore install helper header
+// summary: Declares ParseWebstoreData along with result, error, and callback types for parsing webstore manifests and fetching extension icons.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WEBSTORE_INSTALL_HELPER_H_
 #define EXTENSIONS_BROWSER_WEBSTORE_INSTALL_HELPER_H_
 

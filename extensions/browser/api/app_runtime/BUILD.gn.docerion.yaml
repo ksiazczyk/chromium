@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the app_runtime source set
+summary: GN build file that defines the app_runtime source set, listing the app runtime API sources and their dependencies within the extensions browser.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer startup helper unit tests
+// summary: Unit tests for the renderer startup helper that notifies renderer processes about extension loading, activation and policy-blocked hosts.
+// ---
+
 #include "extensions/browser/renderer_startup_helper.h"
 
 #include "base/memory/raw_ptr.h"

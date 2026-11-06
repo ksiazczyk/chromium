@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stable device ID calculator declarations
+// summary: Declares AudioDeviceIdCalculator, which maps audio service stable device IDs to stable ordinal IDs exposed to apps via the chrome.audio API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_AUDIO_AUDIO_DEVICE_ID_CALCULATOR_H_
 #define EXTENSIONS_BROWSER_API_AUDIO_AUDIO_DEVICE_ID_CALCULATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test blocklist state fetcher implementation
+// summary: Implements TestBlocklistStateFetcher, which emulates blocklist server responses by injecting configured verdicts into BlocklistStateFetcher requests during tests.
+// ---
+
 #include "extensions/browser/test_blocklist_state_fetcher.h"
 
 #include "components/safe_browsing/core/browser/db/sb_test_util.h"

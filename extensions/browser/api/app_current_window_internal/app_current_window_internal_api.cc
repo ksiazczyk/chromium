@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the app.currentWindowInternal extension API
+// summary: Implements extension API functions for the current app window, including bounds, focus, icon, shape, and always-on-top behavior.
+// ---
+
 #include "extensions/browser/api/app_current_window_internal/app_current_window_internal_api.h"
 
 #include <stdint.h>

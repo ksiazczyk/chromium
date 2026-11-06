@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessManagerDelegate interface
+// summary: Defines an embedder interface for customizing ProcessManager behavior, such as allowing background pages or deferring startup background host creation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_MANAGER_DELEGATE_H_
 #define EXTENSIONS_BROWSER_PROCESS_MANAGER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothApiSocket class declaration
+// summary: Declares the BluetoothApiSocket ApiResource with callbacks, error reasons, and methods for adopting, disconnecting, receiving, sending, and accepting on Bluetooth sockets.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_BLUETOOTH_SOCKET_BLUETOOTH_API_SOCKET_H_
 #define EXTENSIONS_BROWSER_API_BLUETOOTH_SOCKET_BLUETOOTH_API_SOCKET_H_
 

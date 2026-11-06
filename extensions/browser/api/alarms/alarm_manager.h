@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alarm manager class declaration
+// summary: Declares the Alarm struct and AlarmManager, which tracks pending alarms for every extension in a profile.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_ALARMS_ALARM_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_ALARMS_ALARM_MANAGER_H_
 

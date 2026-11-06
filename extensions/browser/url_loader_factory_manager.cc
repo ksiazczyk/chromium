@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory manager implementation
+// summary: Implements URLLoaderFactoryManager, which configures URLLoaderFactory objects for extension frames and content scripts, including CORS and ORB relaxation checks.
+// ---
+
 #include "extensions/browser/url_loader_factory_manager.h"
 
 #include <algorithm>

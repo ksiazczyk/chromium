@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore data fetcher delegate interface
+// summary: Declares the WebstoreDataFetcherDelegate interface with callbacks for webstore request failures, item snippet parse success, and parse failures.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WEBSTORE_DATA_FETCHER_DELEGATE_H_
 #define EXTENSIONS_BROWSER_WEBSTORE_DATA_FETCHER_DELEGATE_H_
 

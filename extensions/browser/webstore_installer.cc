@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore installer implementation
+// summary: Implements downloading extension CRX files from the Chrome Web Store into a dedicated folder and driving installation through CrxInstaller.
+// ---
+
 #include "extensions/browser/webstore_installer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared constants for extension browser APIs
+// summary: Defines the ExtensionSearchRedirectedByApi histogram enum and the tab-not-found error message used by extension APIs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_CONSTANTS_H_
 

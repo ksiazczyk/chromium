@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest V2 deprecation utility implementation
+// summary: Implements helpers that decide whether an extension is affected by the MV2 deprecation based on manifest version, extension type and install location.
+// ---
+
 #include "extensions/browser/manifest_v2_util.h"
 
 #include "extensions/buildflags/buildflags.h"

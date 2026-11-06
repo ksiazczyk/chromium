@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationInternalApiDelegate interface header
+// summary: Declares the AutomationInternalApiDelegate interface with virtual methods for permission checks, tree enabling, desktop automation, and event router setup.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_AUTOMATION_INTERNAL_AUTOMATION_INTERNAL_API_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_AUTOMATION_INTERNAL_AUTOMATION_INTERNAL_API_DELEGATE_H_
 

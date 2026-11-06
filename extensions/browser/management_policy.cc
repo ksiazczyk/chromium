@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management policy implementation
+// summary: Implements ManagementPolicy, aggregating registered providers' decisions on whether users may load, install, or modify extensions.
+// ---
+
 #include "extensions/browser/management_policy.h"
 
 #include "base/barrier_callback.h"

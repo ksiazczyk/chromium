@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessMapFactory implementation
+// summary: Implements the keyed service factory that creates and provides ProcessMap instances per browser context, redirecting incognito contexts to the original context.
+// ---
+
 #include "extensions/browser/process_map_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard extension API declarations
+// summary: Declares the ClipboardAPI keyed service observing clipboard changes and the ClipboardSetImageDataFunction for the clipboard.setImageData extension function.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CLIPBOARD_CLIPBOARD_API_H_
 #define EXTENSIONS_BROWSER_API_CLIPBOARD_CLIPBOARD_API_H_
 

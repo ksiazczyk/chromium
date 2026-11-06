@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed extension preference types and scopes
+// summary: Declares the PrefType and PrefScope enums and the PrefMap struct used to describe typed extension preferences.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PREF_TYPES_H_
 #define EXTENSIONS_BROWSER_PREF_TYPES_H_
 

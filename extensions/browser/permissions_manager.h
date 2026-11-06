@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsManager header
+// summary: Declares PermissionsManager, which manages user-scoped extension permissions such as blocking or allowing all extensions on a site and per-extension site access.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PERMISSIONS_MANAGER_H_
 #define EXTENSIONS_BROWSER_PERMISSIONS_MANAGER_H_
 

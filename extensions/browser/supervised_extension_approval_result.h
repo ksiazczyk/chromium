@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised extension approval result enum
+// summary: Defines the SupervisedExtensionApprovalResult enum describing outcomes of the supervised user extension approval flow, such as approved, canceled, failed, and blocked.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SUPERVISED_EXTENSION_APPROVAL_RESULT_H_
 #define EXTENSIONS_BROWSER_SUPERVISED_EXTENSION_APPROVAL_RESULT_H_
 

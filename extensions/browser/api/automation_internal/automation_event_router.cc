@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation event router implementation
+// summary: Implements the singleton router that dispatches accessibility events, location and scroll changes, tree destruction and action results from the browser to automation extensions.
+// ---
+
 #include "extensions/browser/api/automation_internal/automation_event_router.h"
 
 #include <algorithm>

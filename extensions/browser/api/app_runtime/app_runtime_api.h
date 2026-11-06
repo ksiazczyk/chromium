@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRuntimeEventRouter class declaration
+// summary: Declares the AppRuntimeEventRouter interface with static methods for dispatching app launch, file entry, URL handler and embed request events.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_APP_RUNTIME_APP_RUNTIME_API_H_
 #define EXTENSIONS_BROWSER_API_APP_RUNTIME_APP_RUNTIME_API_H_
 

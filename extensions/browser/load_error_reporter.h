@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load error reporter header
+// summary: Declares the LoadErrorReporter singleton and its observer interface for reporting extension load errors, primarily on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_LOAD_ERROR_REPORTER_H_
 #define EXTENSIONS_BROWSER_LOAD_ERROR_REPORTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore install result codes
+// summary: Declares the webstore_install Result enum and error string constants used by WebstoreStandaloneInstaller and its subclasses.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_WEBSTORE_INSTALL_RESULT_H_
 #define EXTENSIONS_BROWSER_WEBSTORE_INSTALL_RESULT_H_
 

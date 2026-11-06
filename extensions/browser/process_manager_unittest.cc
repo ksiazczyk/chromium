@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessManager unit tests
+// summary: Unit tests verifying that ProcessManager creates startup background hosts when the extension system is ready and honors delegate deferral of host creation.
+// ---
+
 #include "extensions/browser/process_manager.h"
 
 #include "build/android_buildflags.h"

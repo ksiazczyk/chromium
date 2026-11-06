@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnpackedInstaller class declaration
+// summary: Declares UnpackedInstaller, which installs and loads unpacked extensions from a directory, including synchronous command-line loading and test overrides.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UNPACKED_INSTALLER_H_
 #define EXTENSIONS_BROWSER_UNPACKED_INSTALLER_H_
 

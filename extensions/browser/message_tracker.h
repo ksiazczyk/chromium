@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message tracker interface
+// summary: Declares the MessageTracker keyed service that tracks extension messages sent to background contexts and reports pipeline result metrics, including failure reason enums.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MESSAGE_TRACKER_H_
 #define EXTENSIONS_BROWSER_MESSAGE_TRACKER_H_
 

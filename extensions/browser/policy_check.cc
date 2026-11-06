@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyCheck implementation
+// summary: Implements PolicyCheck, a PreloadCheck that queries ManagementPolicy to determine whether an extension is disallowed by policy and reports the resulting error.
+// ---
+
 #include "extensions/browser/policy_check.h"
 
 #include "content/public/browser/browser_context.h"

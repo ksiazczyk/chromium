@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the warning service
+// summary: Unit tests verifying that adding, deduplicating, and clearing extension warnings triggers observer notifications correctly.
+// ---
+
 #include "extensions/browser/warning_service.h"
 
 #include "content/public/test/test_browser_context.h"

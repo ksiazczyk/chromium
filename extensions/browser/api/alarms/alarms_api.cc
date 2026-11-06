@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.alarms API function implementation
+// summary: Implements the alarms create, get, getAll, clear and clearAll extension functions with create-info validation and warnings.
+// ---
+
 #include "extensions/browser/api/alarms/alarms_api.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the cec_private extension API
+summary: Defines the cec_private source_set with its sources and dependencies, asserting the build targets ChromeOS with extensions enabled.

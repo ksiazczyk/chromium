@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the bluetooth_low_energy source set
+summary: Defines the ChromeOS-only bluetooth_low_energy source set listing the API sources and their public and private dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore install result error strings
+// summary: Defines user-facing error message strings for webstore installation outcomes such as invalid item IDs, request errors, and cancelled installs.
+// ---
+
 #include "extensions/browser/webstore_install_result.h"
 
 namespace extensions {

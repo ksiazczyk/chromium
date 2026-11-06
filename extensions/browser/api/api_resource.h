@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiResource base class for extension API resources
+// summary: Defines the ApiResource interface representing resources an extension API manages, such as sockets, tracking the owning extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_API_RESOURCE_H_
 #define EXTENSIONS_BROWSER_API_API_RESOURCE_H_
 

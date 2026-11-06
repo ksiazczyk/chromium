@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZipFileInstaller implementation for extension ZIP installs
+// summary: Implements safe unzipping of extension ZIP files into unique directories under the unpacked extensions dir, with error messages and a done callback.
+// ---
+
 #include "extensions/browser/zipfile_installer.h"
 
 #include <algorithm>

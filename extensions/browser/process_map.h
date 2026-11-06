@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessMap class declaration
+// summary: Declares ProcessMap, a keyed service mapping extension IDs to process IDs, with documented caveats about Chrome's split, spanning and hosted app process models.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PROCESS_MAP_H_
 #define EXTENSIONS_BROWSER_PROCESS_MAP_H_
 

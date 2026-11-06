@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device permissions manager implementation
+// summary: Implements persistence and lookup of USB and HID device permissions granted to extensions, stored in extension prefs.
+// ---
+
 #include "extensions/browser/api/device_permissions_manager.h"
 
 #include <stddef.h>
