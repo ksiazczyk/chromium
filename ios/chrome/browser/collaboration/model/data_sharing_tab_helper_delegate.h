@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing tab helper delegate interface
+// summary: Declares a delegate interface for DataSharingTabHelper that gates joining shared tab groups and handles intercepted data sharing URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_DATA_SHARING_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_DATA_SHARING_TAB_HELPER_DELEGATE_H_
 

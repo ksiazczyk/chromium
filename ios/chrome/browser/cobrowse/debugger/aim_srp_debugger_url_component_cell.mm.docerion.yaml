@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_url_component_cell.mm.
+type: source
+title: AIMSRPDebuggerURLComponentCell implementation
+summary: Implements the URL component cell with a title label and right-aligned editable text view in a horizontal stack view.

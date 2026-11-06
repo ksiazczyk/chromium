@@ -1,0 +1,4 @@
+# Docerion header of bubble_presenter_unittest.mm.
+type: test
+title: BubblePresenter unit tests
+summary: Unit tests for BubblePresenter covering presentation of the send-tab-to-self omnibox bubble and its delegate-driven preconditions.

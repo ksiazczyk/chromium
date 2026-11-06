@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBasedIPHBrowserAgent header
+// summary: Declares TabBasedIPHBrowserAgent, a browser agent that triggers tab- and tab-list-based in-product help by observing bookmarks, reading list, send tab to self, and URL loading.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_MODEL_TAB_BASED_IPH_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_BUBBLE_MODEL_TAB_BASED_IPH_BROWSER_AGENT_H_
 

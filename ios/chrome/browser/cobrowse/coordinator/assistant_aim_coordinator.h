@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistantAIMCoordinator interface for the AI Mode flow
+// summary: Declares the Chrome coordinator that starts and controls the AI Mode assistant, including visibility control and web state reload methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_COORDINATOR_ASSISTANT_AIM_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_COBROWSE_COORDINATOR_ASSISTANT_AIM_COORDINATOR_H_
 

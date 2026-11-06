@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Shared Tab Groups feature check implementation
+summary: Implements the shared tab group join and create checks by consulting the collaboration service status.

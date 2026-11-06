@@ -1,0 +1,4 @@
+# Docerion header of commerce_push_notification_client_unittest.mm.
+type: test
+title: CommercePushNotificationClient unit tests
+summary: Unit tests covering notification type detection, payload serialization, interaction handling, and untrack price metrics for the commerce push notification client.

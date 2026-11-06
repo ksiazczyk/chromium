@@ -1,0 +1,4 @@
+# Docerion header of bubble_view_controller_presenter_unittest.mm.
+type: test
+title: BubbleViewControllerPresenter unit tests
+summary: Unit tests verifying that BubbleViewControllerPresenter adds the bubble to its parent on presentation, handles dismissal, and invokes the dismissal callback correctly.

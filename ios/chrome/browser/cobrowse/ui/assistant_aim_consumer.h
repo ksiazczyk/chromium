@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM consumer protocol
+// summary: Declares the consumer protocol that updates the Assistant AIM UI with web state views, history items, header titles and greeting messages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_CONSUMER_H_
 #define IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_CONSUMER_H_
 

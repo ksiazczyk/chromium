@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_header_view_unittest.mm.
+type: test
+title: Assistant AIM header view unit tests
+summary: Unit tests verifying header button accessibility labels and identifiers and that action buttons fill the pill height.

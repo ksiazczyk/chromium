@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for price card resources
+summary: Defines the build targets for the price card color source set and bundles the asset catalog resources for iOS.

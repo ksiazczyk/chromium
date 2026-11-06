@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CobrowseContext class declaration
+// summary: Declares the CobrowseContext object holding the triggering URL, search query, server session IDs, attached items, and entrypoint for the cobrowse flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_MODEL_COBROWSE_CONTEXT_H_
 #define IOS_CHROME_BROWSER_COBROWSE_MODEL_COBROWSE_CONTEXT_H_
 

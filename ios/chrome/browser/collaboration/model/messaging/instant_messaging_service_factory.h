@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant messaging service factory interface
+// summary: Declares the typed profile-keyed service factory that creates the instant messaging service per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_INSTANT_MESSAGING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_INSTANT_MESSAGING_SERVICE_FACTORY_H_
 

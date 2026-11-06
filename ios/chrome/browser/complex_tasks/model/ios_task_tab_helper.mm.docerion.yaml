@@ -1,0 +1,4 @@
+# Docerion header of ios_task_tab_helper.mm.
+type: source
+title: IOSTaskTabHelper implementation
+summary: Implements IOSTaskTabHelper, assigning task, parent and root task IDs to committed navigations based on the page transition type.

@@ -1,0 +1,4 @@
+# Docerion header of view_catalog_view_controller.mm.
+type: source
+title: View catalog view controller implementation
+summary: Lists signin promo and default browser promo catalog entries and navigates to their detail screens.

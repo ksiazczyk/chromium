@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleViewControllerPresenter Testing category header
+// summary: Testing category that exposes private BubbleViewControllerPresenter properties, such as the bubble view controller and dismissal and engagement timers, for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_VIEW_CONTROLLER_PRESENTER_TESTING_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_VIEW_CONTROLLER_PRESENTER_TESTING_H_
 

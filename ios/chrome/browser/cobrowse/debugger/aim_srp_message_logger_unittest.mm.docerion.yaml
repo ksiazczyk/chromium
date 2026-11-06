@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_message_logger_unittest.mm.
+type: test
+title: AIM SRP message logger unit tests
+summary: Unit tests verifying that the message logger stores, names and clears client-to-AIM and AIM-to-client events.

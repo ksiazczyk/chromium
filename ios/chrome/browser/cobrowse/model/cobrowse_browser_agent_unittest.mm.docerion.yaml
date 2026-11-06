@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_browser_agent_unittest.mm.
+type: test
+title: CobrowseBrowserAgent unit tests
+summary: Unit tests for the cobrowse browser agent covering context restoration from preferences and session termination behavior.

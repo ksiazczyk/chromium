@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingBrowserAgent declaration
+// summary: Declares a browser-scoped agent that implements the tab helper delegate and installs helpers on inserted web states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_DATA_SHARING_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_DATA_SHARING_BROWSER_AGENT_H_
 

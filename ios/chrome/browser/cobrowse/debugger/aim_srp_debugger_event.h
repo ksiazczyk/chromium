@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimSRPDebuggerEvent interface
+// summary: Declares the AimSRPDebuggerEvent model representing a single communication event to or from the AIM SRP, built from Lens proto messages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_EVENT_H_
 #define IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_EVENT_H_
 

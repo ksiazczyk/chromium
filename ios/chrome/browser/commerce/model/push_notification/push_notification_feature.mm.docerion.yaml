@@ -1,0 +1,4 @@
+# Docerion header of push_notification_feature.mm.
+type: source
+title: Price tracking and notification feature checks implementation
+summary: Implements the feature checks, using the profile's ShoppingService eligibility to determine whether price tracking notifications are enabled.

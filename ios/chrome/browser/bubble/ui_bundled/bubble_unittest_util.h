@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble view test helper declarations
+// summary: Declares helper functions that locate the close, snooze, and next buttons, title label, arrow, and page control subviews of a BubbleView for unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_UNITTEST_UTIL_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_BUBBLE_UNITTEST_UTIL_H_
 

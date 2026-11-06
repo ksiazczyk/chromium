@@ -1,0 +1,4 @@
+# Docerion header of bubble_constants.mm.
+type: source
+title: Bubble constants implementation
+summary: Defines values for bubble accessibility identifiers, visibility durations and dismissal metric names.

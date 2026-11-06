@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Safari switcher IPH eligibility utils implementation
+summary: Implements Safari switcher eligibility checks using device switcher segmentation results and first-run recency within sixty days.

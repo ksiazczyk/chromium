@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cobrowse model include rules
+summary: Specifies allowed include dependencies for the cobrowse model directory, with extra internal rules for the contextual tasks service factory.

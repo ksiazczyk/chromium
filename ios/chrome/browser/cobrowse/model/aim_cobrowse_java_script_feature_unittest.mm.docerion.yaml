@@ -1,0 +1,4 @@
+# Docerion header of aim_cobrowse_java_script_feature_unittest.mm.
+type: test
+title: AimCobrowseJavaScriptFeature unit tests
+summary: Unit tests covering native-to-web message serialization, missing main frame handling and origin checks for the AIM Cobrowse JavaScript feature.

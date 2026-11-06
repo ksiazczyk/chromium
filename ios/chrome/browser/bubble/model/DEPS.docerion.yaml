@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for bubble model
+summary: Specifies allowed include rules for the bubble model directory, listing permitted iOS Chrome model dependencies.

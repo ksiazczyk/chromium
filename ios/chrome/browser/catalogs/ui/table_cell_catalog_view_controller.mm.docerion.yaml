@@ -1,0 +1,4 @@
+# Docerion header of table_cell_catalog_view_controller.mm.
+type: source
+title: Table cell catalog view controller implementation
+summary: Implements the debug catalog displaying the various table view cells used across the app.

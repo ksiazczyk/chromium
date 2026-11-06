@@ -1,0 +1,4 @@
+# Docerion header of collaboration_group_infobar_delegate_unittest.mm.
+type: test
+title: Collaboration group infobar delegate unit tests
+summary: Unit tests for the collaboration group infobar delegate covering infobar creation and behavior using fake browsers, test profiles, and OCMock.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSContentRecordTaskId class header
+// summary: Declares IOSContentRecordTaskId, a class storing task, parent, root and children task IDs for navigation items to support task clustering.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPLEX_TASKS_MODEL_IOS_CONTENT_RECORD_TASK_ID_H_
 #define IOS_CHROME_BROWSER_COMPLEX_TASKS_MODEL_IOS_CONTENT_RECORD_TASK_ID_H_
 

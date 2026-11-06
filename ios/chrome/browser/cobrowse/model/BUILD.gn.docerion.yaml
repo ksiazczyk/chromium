@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cobrowse model GN build targets
+summary: Defines the model, factory, TypeScript optimization and unit test source sets with their dependencies for the iOS cobrowse feature.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for collaboration model
+summary: Delegates code review ownership to the OWNERS file of components/collaboration.

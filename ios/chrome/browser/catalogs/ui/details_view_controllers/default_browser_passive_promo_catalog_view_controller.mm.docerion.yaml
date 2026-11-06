@@ -1,0 +1,4 @@
+# Docerion header of default_browser_passive_promo_catalog_view_controller.mm.
+type: source
+title: Default browser passive promo catalog view controller implementation
+summary: Implements the catalog view controller that lays out the passive default browser promo card in a scroll view with a Done button.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the price card
+summary: Defines the price_card source_set with its Objective-C sources and build dependencies for the commerce UI.

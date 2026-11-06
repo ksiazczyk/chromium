@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cobrowse coordinator
+summary: Restricts which headers this directory may include, covering contextual tasks, signin, network, and tab helper APIs.

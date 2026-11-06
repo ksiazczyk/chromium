@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA directory metadata
+summary: Directory metadata that mixes in the common component updater metadata from the shared Chrome browser directory.

@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_browser_agent.mm.
+type: source
+title: DataSharingBrowserAgent implementation
+summary: Implements the browser agent by attaching tab helper delegates and forwarding intercepted share URLs to the collaboration service.

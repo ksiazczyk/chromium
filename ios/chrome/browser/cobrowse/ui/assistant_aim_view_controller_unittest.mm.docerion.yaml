@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_view_controller_unittest.mm.
+type: test
+title: Assistant AIM view controller unit tests
+summary: Unit tests for the Assistant AIM view controller, verifying that the signed-out history scroll view pauses so swiping expands the bottom sheet before scrolling internally.

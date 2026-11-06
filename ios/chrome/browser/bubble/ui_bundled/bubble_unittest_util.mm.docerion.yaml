@@ -1,0 +1,4 @@
+# Docerion header of bubble_unittest_util.mm.
+type: test
+title: Bubble view test helper implementations
+summary: Implements helpers that find bubble view subviews such as the close button, title label, and arrow by their accessibility identifiers.

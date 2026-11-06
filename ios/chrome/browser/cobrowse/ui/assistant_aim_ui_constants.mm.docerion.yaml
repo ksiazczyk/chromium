@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_ui_constants.mm.
+type: source
+title: Assistant AIM UI constants implementation
+summary: Defines the accessibility identifier strings and the sheet detent animation duration declared in the Assistant AIM UI constants header.

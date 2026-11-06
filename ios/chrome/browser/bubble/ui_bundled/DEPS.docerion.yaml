@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for bubble UI
+summary: Lists the headers and directories that the bubble UI directory is allowed to include.

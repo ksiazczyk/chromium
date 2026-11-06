@@ -1,0 +1,4 @@
+# Docerion header of bubble_presenter_egtest.mm.
+type: test
+title: Bubble presenter Earl Grey tests
+summary: Earl Grey integration tests verifying bubble presentation for IPH features across app relaunch configurations.

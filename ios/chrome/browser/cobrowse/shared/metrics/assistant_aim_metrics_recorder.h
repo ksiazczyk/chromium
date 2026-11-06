@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistantAIMMetricsRecorder class interface
+// summary: Declares the Objective-C recorder API for tracking Assistant AIM bottom sheet sessions, visibility, detents, and user actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_SHARED_METRICS_ASSISTANT_AIM_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_COBROWSE_SHARED_METRICS_ASSISTANT_AIM_METRICS_RECORDER_H_
 

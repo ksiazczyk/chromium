@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for commerce model
+summary: Lists the directories that code in the commerce model folder is allowed to include from.

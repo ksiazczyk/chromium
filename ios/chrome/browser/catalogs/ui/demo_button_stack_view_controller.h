@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo button stack view controller header
+// summary: Declares a demo view controller illustrating an implementation example of ButtonStackViewController.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CATALOGS_UI_DEMO_BUTTON_STACK_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CATALOGS_UI_DEMO_BUTTON_STACK_VIEW_CONTROLLER_H_
 

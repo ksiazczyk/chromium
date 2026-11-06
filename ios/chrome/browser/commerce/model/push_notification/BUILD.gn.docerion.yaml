@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce push notification BUILD.gn build targets
+summary: Defines the push_notification source set and its unit tests, listing sources, dependencies, and the UserNotifications framework for the GN build.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Assistant AIM metrics
+summary: Defines GN source_set targets for the Assistant AIM metrics constants, recorder, and unit tests together with their dependencies.

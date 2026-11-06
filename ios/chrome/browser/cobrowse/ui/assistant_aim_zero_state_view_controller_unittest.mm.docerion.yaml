@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_zero_state_view_controller_unittest.mm.
+type: test
+title: Assistant AIM zero state view controller unit tests
+summary: Unit tests verifying that the zero state greeting label scales its font when the content size category changes while the view is on screen.

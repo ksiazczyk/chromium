@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar swipe gesture in-product help view
+// summary: Declares the in-product help view for the toolbar swipe gesture that switches to the adjacent tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_GESTURE_IPH_TOOLBAR_SWIPE_GESTURE_IN_PRODUCT_HELP_VIEW_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_GESTURE_IPH_TOOLBAR_SWIPE_GESTURE_IN_PRODUCT_HELP_VIEW_H_
 

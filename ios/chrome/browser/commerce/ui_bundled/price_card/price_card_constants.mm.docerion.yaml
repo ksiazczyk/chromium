@@ -1,0 +1,4 @@
+# Docerion header of price_card_constants.mm.
+type: source
+title: Price card layout constants values
+summary: Defines the numeric values for the price card corner radius, indents and price to previous price spacing.

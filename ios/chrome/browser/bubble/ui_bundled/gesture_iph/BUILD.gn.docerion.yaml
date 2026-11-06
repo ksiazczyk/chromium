@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for gesture in-product help UI
+summary: Defines GN source sets for the gesture in-product help views, their constants, and test-only Earl Grey utilities with their dependencies.

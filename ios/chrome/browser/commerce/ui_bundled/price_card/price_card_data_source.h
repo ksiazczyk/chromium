@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceCardDataSource protocol
+// summary: Declares a protocol that asynchronously provides a PriceCardItem for a tab identifier to power the tab switching UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_UI_BUNDLED_PRICE_CARD_PRICE_CARD_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_COMMERCE_UI_BUNDLED_PRICE_CARD_PRICE_CARD_DATA_SOURCE_H_
 

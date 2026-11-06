@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guided tour bubble BUILD.gn build definition
+summary: Defines the guided_tour source_set listing its Objective-C sources and dependencies for the GN build.

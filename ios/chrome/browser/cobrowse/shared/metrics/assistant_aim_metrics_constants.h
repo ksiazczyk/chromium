@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM bottom sheet metrics constants
+// summary: Declares histogram name constants and persisted enums for entrypoints, state transitions, and header actions of the Assistant AIM bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_SHARED_METRICS_ASSISTANT_AIM_METRICS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_COBROWSE_SHARED_METRICS_ASSISTANT_AIM_METRICS_CONSTANTS_H_
 

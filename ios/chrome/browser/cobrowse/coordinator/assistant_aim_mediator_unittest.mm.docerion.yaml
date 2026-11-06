@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_mediator_unittest.mm.
+type: test
+title: Unit tests for AssistantAIMMediator
+summary: Tests mediator behavior such as zero-state URL loading, thread selection, and network change handling using web test fakes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM history item struct
+// summary: Defines the AssistantAIMHistoryItem struct holding a task ID and title for Assistant AIM history entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_HISTORY_ITEM_H_
 #define IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_HISTORY_ITEM_H_
 

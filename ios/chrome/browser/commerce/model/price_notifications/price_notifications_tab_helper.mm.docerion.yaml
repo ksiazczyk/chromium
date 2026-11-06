@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_tab_helper.mm.
+type: source
+title: PriceNotificationsTabHelper implementation
+summary: Implements navigation handling that triggers price notifications IPH and records shopping site visits for the Tips Manager.

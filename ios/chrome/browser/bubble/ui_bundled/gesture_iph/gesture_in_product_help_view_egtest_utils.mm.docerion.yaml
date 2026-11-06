@@ -1,0 +1,4 @@
+# Docerion header of gesture_in_product_help_view_egtest_utils.mm.
+type: test
+title: Gesture IPH Earl Grey test utilities
+summary: Shared helpers for Earl Grey tests to relaunch Chrome with gesture IPH features and assert the IPH bubble visibility.

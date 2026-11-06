@@ -1,0 +1,4 @@
+# Docerion header of semantic_color_names.mm.
+type: source
+title: Price card semantic color name definitions
+summary: Defines the price drop previous price text color constant, mapping it to the asset catalog color name.

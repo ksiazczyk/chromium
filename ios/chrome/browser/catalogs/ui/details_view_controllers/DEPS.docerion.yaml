@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS for details_view_controllers
+summary: Include rules restricting which Chromium directories the details_view_controllers code may include.

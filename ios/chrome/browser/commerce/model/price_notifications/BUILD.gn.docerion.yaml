@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price notifications build configuration
+summary: Defines the price_notifications source_set listing its tab helper sources and Chromium dependencies.

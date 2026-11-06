@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM SRP debugger URL view controller interface
+// summary: Declares a view controller that displays the loaded AIM URL with copy support and a delegate protocol for URL updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_URL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_COBROWSE_DEBUGGER_AIM_SRP_DEBUGGER_URL_VIEW_CONTROLLER_H_
 

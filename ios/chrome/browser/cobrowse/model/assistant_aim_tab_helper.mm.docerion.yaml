@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_tab_helper.mm.
+type: source
+title: AssistantAimTabHelper implementation
+summary: Implements handshake tracking across navigations and dispatch of received AIM messages to the registered callback.

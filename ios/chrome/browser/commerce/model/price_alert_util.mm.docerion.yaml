@@ -1,0 +1,4 @@
+# Docerion header of price_alert_util.mm.
+type: source
+title: Price alerts eligibility implementation
+summary: Implements eligibility checks for price alerts based on incognito state, en-US locale, sign-in, anonymized data collection consent and user settings.

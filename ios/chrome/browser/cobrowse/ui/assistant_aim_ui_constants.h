@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM UI constants header
+// summary: Declares accessibility identifiers for Assistant AIM buttons, views, and debugger components, plus the sheet detent animation duration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_UI_CONSTANTS_H_
 

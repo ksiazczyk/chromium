@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_history_view_controller_unittest.mm.
+type: test
+title: Assistant AIM history view controller unit tests
+summary: Unit tests verifying the signed-out zero state centering and layout of the history view controller across text size categories.

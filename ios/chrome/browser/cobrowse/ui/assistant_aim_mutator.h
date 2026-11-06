@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant AIM mutator protocol header
+// summary: Declares the AssistantAIMMutator protocol with callbacks for history taps, history task selection, starting a new thread, and tapping the minimized header.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_MUTATOR_H_
 #define IOS_CHROME_BROWSER_COBROWSE_UI_ASSISTANT_AIM_MUTATOR_H_
 

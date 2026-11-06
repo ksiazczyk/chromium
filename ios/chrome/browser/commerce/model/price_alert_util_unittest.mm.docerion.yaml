@@ -1,0 +1,4 @@
+# Docerion header of price_alert_util_unittest.mm.
+type: test
+title: Price alerts eligibility unit tests
+summary: Verifies price alert eligibility across sign-in, MSBB consent, incognito and user setting states using test profiles.

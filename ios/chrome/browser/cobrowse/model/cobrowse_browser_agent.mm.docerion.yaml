@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_browser_agent.mm.
+type: source
+title: CobrowseBrowserAgent implementation
+summary: Implements the cobrowse browser agent, including session persistence in preferences and scene state observation to terminate stale sessions.

@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_tab_helper_unittest.mm.
+type: test
+title: AssistantAimTabHelper unit tests
+summary: Tests handshake response handling, navigation resets and message callback invocation for the Assistant AIM tab helper.

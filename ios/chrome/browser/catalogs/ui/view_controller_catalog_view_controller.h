@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View controller catalog view controller header
+// summary: Declares the view controller that presents the iOS view controller catalog page, based on the settings root table view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CATALOGS_UI_VIEW_CONTROLLER_CATALOG_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CATALOGS_UI_VIEW_CONTROLLER_CATALOG_VIEW_CONTROLLER_H_
 

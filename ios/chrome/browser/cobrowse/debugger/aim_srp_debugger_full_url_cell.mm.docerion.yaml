@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_full_url_cell.mm.
+type: source
+title: AIMSRPDebuggerFullURLCell implementation
+summary: Implements the full URL cell with a monospaced text view laid out inside the cell content view.

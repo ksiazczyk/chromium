@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_metrics_recorder_unittest.mm.
+type: test
+title: AssistantAIMMetricsRecorder unit tests
+summary: Verifies the recorder's histogram output for dismissals, visibility pauses, detent changes, and engagement using mock time and HistogramTester.

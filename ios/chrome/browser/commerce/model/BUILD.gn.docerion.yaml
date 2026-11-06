@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS Chrome commerce model
+summary: Defines GN source sets and dependencies for the commerce model code, shopping service factory, session proto database and its unit tests.

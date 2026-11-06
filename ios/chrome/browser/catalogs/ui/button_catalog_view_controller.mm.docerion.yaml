@@ -1,0 +1,4 @@
+# Docerion header of button_catalog_view_controller.mm.
+type: source
+title: Button catalog view controller implementation
+summary: Builds a scrollable catalog of Chrome button styles, states and image variants for debugging.

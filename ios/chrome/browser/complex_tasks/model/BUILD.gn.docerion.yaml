@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the complex tasks model
+summary: Defines GN source_set targets for the iOS complex tasks model sources and its unit tests.

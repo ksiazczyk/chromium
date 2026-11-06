@@ -1,0 +1,4 @@
+# Docerion header of bubble_view_controller_unittest.mm.
+type: test
+title: BubbleViewController unit tests
+summary: Unit tests checking that BubbleViewController builds the expected subviews, such as close button, title, and snooze button, for each bubble view type.

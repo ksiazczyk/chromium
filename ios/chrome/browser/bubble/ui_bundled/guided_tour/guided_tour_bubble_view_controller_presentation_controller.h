@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guided tour bubble presentation controller header
+// summary: Declares the custom presentation controller with a dimmed background cutout and the bubble view positioner protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_GUIDED_TOUR_GUIDED_TOUR_BUBBLE_VIEW_CONTROLLER_PRESENTATION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BUBBLE_UI_BUNDLED_GUIDED_TOUR_GUIDED_TOUR_BUBBLE_VIEW_CONTROLLER_PRESENTATION_CONTROLLER_H_
 

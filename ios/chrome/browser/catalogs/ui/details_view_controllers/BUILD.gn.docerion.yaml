@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for details_view_controllers
+summary: GN build file defining the details_view_controllers source_set, its source files and its dependencies.

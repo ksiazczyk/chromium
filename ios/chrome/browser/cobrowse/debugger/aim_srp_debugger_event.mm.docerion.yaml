@@ -1,0 +1,4 @@
+# Docerion header of aim_srp_debugger_event.mm.
+type: source
+title: AimSRPDebuggerEvent implementation
+summary: Implements parsing of ClientToAim and AimToClient proto messages into event names and human-readable payload descriptions.

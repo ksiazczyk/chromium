@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging backend service bridge interface
+// summary: Declares an Objective-C protocol and a C++ observer that forwards messaging backend persistent message events to Objective-C.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_MESSAGING_BACKEND_SERVICE_BRIDGE_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_MESSAGING_BACKEND_SERVICE_BRIDGE_H_
 

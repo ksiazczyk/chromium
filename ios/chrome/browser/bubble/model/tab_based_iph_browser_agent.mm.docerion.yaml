@@ -1,0 +1,4 @@
+# Docerion header of tab_based_iph_browser_agent.mm.
+type: source
+title: TabBasedIPHBrowserAgent implementation
+summary: Implements TabBasedIPHBrowserAgent, handling events like pull-to-refresh and back/forward taps to attempt in-product help through the feature engagement tracker.

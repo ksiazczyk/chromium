@@ -1,0 +1,4 @@
+# Docerion header of cobrowse_util.mm.
+type: source
+title: AIM cobrowse eligibility utilities
+summary: Utility functions that determine whether AIM cobrowse and web selection search are eligible based on feature flags, preferences, and profile state.

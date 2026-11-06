@@ -1,0 +1,4 @@
+# Docerion header of shopping_service_factory.mm.
+type: source
+title: ShoppingServiceFactory implementation
+summary: Builds ShoppingService instances per profile, wiring dependencies such as bookmarks, sync, identity, history, and commerce proto databases.

@@ -1,0 +1,4 @@
+# Docerion header of ios_component_updater_configurator.mm.
+type: source
+title: iOS component updater configurator implementation
+summary: Implements the IOSConfigurator for iOS Chrome, supplying update URLs, check delays, and network, downloader, unzipper, and patcher factories.

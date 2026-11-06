@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Co-browse DEPS include rules
+summary: Defines the allowed include dependencies for the ios cobrowse directory, covering assistant, composebox, lens overlay, tabs model, and lens server proto paths.

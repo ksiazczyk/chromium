@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the messaging directory
+summary: Restricts which headers the messaging directory may include, allowing collaboration service construction headers.

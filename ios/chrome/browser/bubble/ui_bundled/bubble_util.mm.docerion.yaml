@@ -1,0 +1,4 @@
+# Docerion header of bubble_util.mm.
+type: source
+title: Bubble geometry utilities
+summary: Implements the geometry calculations that place a bubble relative to its anchor point, handling alignment, arrow direction, size limits, and RTL layouts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks service factory declaration
+// summary: Declares a profile-keyed factory that creates ContextualTasksService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COBROWSE_MODEL_IOS_CONTEXTUAL_TASKS_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_COBROWSE_MODEL_IOS_CONTEXTUAL_TASKS_SERVICE_FACTORY_H_
 

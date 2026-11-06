@@ -1,0 +1,4 @@
+# Docerion header of bubble_presenter_coordinator.mm.
+type: source
+title: BubblePresenterCoordinator implementation
+summary: Creates the BubblePresenter with profile services and wires command handlers when the coordinator starts.

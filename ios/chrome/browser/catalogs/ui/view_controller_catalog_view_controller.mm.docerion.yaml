@@ -1,0 +1,4 @@
+# Docerion header of view_controller_catalog_view_controller.mm.
+type: source
+title: View controller catalog view controller implementation
+summary: Implements the catalog table that lists demo view controllers such as alert, button stack, confirmation alert and animated promo screens.

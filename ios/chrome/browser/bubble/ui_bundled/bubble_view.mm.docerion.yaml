@@ -1,0 +1,4 @@
+# Docerion header of bubble_view.mm.
+type: source
+title: BubbleView implementation
+summary: Implements the bubble view's layout, drawing, arrow, buttons, page control, and styling constants for the speech bubble UI.

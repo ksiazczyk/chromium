@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShoppingPersistedDataTabHelper header
+// summary: Declares ShoppingPersistedDataTabHelper, a WebStateUserData tab helper that fetches and caches price drop data for shopping pages and logs related metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMMERCE_MODEL_SHOPPING_PERSISTED_DATA_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_COMMERCE_MODEL_SHOPPING_PERSISTED_DATA_TAB_HELPER_H_
 

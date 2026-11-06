@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button catalog view controller header
+// summary: Declares ButtonCatalogViewController, a settings root controller that presents the button catalog.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CATALOGS_UI_BUTTON_CATALOG_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CATALOGS_UI_BUTTON_CATALOG_VIEW_CONTROLLER_H_
 

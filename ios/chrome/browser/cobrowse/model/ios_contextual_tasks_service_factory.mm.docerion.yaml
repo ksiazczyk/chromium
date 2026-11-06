@@ -1,0 +1,4 @@
+# Docerion header of ios_contextual_tasks_service_factory.mm.
+type: source
+title: Contextual tasks service factory implementation
+summary: Implements the factory that builds ContextualTasksService with favicon, history, sync store, and identity manager dependencies per profile.

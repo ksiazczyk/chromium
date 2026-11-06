@@ -1,0 +1,4 @@
+# Docerion header of gesture_in_product_help_view.mm.
+type: source
+title: Gesture in-product help view implementation
+summary: Implements the gesture in-product help view layout, swipe animations, blurred background, accessibility, and dismissal handling.

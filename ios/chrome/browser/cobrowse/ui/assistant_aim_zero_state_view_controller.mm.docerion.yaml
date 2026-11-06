@@ -1,0 +1,4 @@
+# Docerion header of assistant_aim_zero_state_view_controller.mm.
+type: source
+title: Assistant AIM zero state view controller implementation
+summary: Implements the zero state view with a centered greeting label that supports Dynamic Type and uses the Assistant AIM accessibility identifier.

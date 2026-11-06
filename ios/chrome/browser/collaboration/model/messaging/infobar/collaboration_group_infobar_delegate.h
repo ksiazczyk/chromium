@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration group infobar delegate header
+// summary: Declares the delegate that shows collaboration group instant messages as confirm infobars, with helpers to create infobars and clear queued ones.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_INFOBAR_COLLABORATION_GROUP_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_COLLABORATION_MODEL_MESSAGING_INFOBAR_COLLABORATION_GROUP_INFOBAR_DELEGATE_H_
 
