@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Mac utilities header
+// summary: Declares converters between Skia types and CoreGraphics/Cocoa colors, rects, matrices, and images.
+// ---
+
 #ifndef SKIA_EXT_SKIA_UTILS_MAC_H_
 #define SKIA_EXT_SKIA_UTILS_MAC_H_
 

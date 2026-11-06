@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CFv2 test fonts provider implementation
+// summary: Implements GetTestFontsProvider for Fuchsia CFv2 by connecting to the fonts.Provider configured through the test fonts manifest shard.
+// ---
+
 #include "skia/ext/test_fonts_fuchsia.h"
 
 #include <lib/sys/cpp/component_context.h>

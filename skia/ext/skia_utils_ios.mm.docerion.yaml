@@ -1,0 +1,4 @@
+# Docerion header of skia_utils_ios.mm.
+type: source
+title: iOS Skia utilities implementation
+summary: Implements iOS conversions between Core Graphics images, UIImage and SkBitmap, including decoding multi-representation image data such as ICO files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite result code value consistency checks
+// summary: Static-asserts that the SqliteResultCode enum values match the constants exported by SQLite's sqlite3.h header.
+// ---
+
 #include "sql/sqlite_result_code_values.h"
 
 #include "third_party/sqlite/sqlite3.h"

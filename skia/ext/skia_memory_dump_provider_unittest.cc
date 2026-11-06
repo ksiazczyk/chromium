@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia memory dump provider unit tests
+// summary: Unit test verifying that the Skia memory dump provider dumps allocator entries like the glyph cache without crashing.
+// ---
+
 #include "skia/ext/skia_memory_dump_provider.h"
 
 #include <memory>

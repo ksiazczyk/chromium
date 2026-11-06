@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Benchmarking canvas implementation
+// summary: Records Skia draw commands and their render times as base::Value entries for benchmarking and debugging of canvas operations.
+// ---
+
 #include "skia/ext/benchmarking_canvas.h"
 
 #include <array>

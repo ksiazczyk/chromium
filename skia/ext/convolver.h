@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Convolution filter header
+// summary: Declares the ConvolutionFilter1D fixed-point filter class and convolution entry points, defining SIMD build macros per architecture.
+// ---
+
 #ifndef SKIA_EXT_CONVOLVER_H_
 #define SKIA_EXT_CONVOLVER_H_
 

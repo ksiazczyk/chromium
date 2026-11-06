@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: sql directory metadata
+summary: Declares the Chromium issue tracker component, team email, and Buganizer component ID for the sql directory.

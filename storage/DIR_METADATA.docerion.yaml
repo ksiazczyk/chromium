@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Storage directory metadata
+summary: Declares the Blink>Storage issue tracker component, the storage-dev team email and the public Buganizer component for the storage directory.

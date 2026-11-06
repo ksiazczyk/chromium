@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetaTable unit tests
+// summary: Unit tests for MetaTable covering table existence, deletion, razing of incompatible database versions, and mmap status handling.
+// ---
+
 #include "sql/meta_table.h"
 
 #include <stdint.h>

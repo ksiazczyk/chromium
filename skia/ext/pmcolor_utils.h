@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Premultiplied color utility helpers
+// summary: Inline helpers that scale premultiplied color channels by alpha and blend two premultiplied colors src-over.
+// ---
+
 #ifndef SKIA_EXT_PMCOLOR_UTILS_H_
 #define SKIA_EXT_PMCOLOR_UTILS_H_
 

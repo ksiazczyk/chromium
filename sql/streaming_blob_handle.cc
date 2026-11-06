@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingBlobHandle implementation
+// summary: Implements StreamingBlobHandle read, write, size, and close operations on top of the SQLite blob API, with error handling and a done callback.
+// ---
+
 #include "sql/streaming_blob_handle.h"
 
 #include <stdint.h>

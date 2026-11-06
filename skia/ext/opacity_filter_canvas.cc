@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpacityFilterCanvas implementation
+// summary: Implements a paint filter canvas that applies a global opacity to draw calls and can disable image filtering.
+// ---
+
 #include "skia/ext/opacity_filter_canvas.h"
 #include "third_party/skia/include/core/SkPaint.h"
 

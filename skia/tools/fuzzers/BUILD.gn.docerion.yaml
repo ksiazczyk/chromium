@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Skia fuzzers in Chromium
+summary: Defines fuzzer_test GN targets that build upstream Skia OSS-Fuzz targets within Chromium on Windows, including shared fuzzer sources, encoder and test font libraries.

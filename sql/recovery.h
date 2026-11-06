@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery class header
+// summary: Declares the Recovery class with strategies and result codes for recovering corrupted databases via SQLite's recovery extension.
+// ---
+
 #ifndef SQL_RECOVERY_H_
 #define SQL_RECOVERY_H_
 

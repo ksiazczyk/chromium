@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer environment setup for discardable memory
+// summary: Installs a test discardable memory allocator at startup so Skia fuzz targets can allocate discardable memory when run in Chromium's environment.
+// ---
+
 #include "base/test/test_discardable_memory_allocator.h"
 
 namespace {

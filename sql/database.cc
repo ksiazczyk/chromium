@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sql::Database implementation
+// summary: Implements the sql::Database wrapper around SQLite connections, covering opening, statement execution, transactions, error handling, and memory management.
+// ---
+
 #include "sql/database.h"
 
 #include <limits.h>

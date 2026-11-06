@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter fuzz stub for SkImageFilter test cases
+// summary: Standalone tool that reads serialized SkImageFilter test cases from files, deserializes them, and renders them on a canvas to detect crashes or memory issues during fuzzing.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/files/file_util.h"
 #include "base/logging.h"

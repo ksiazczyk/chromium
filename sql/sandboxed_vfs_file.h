@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS file header
+// summary: Declares the SandboxedVfsFile interface and the sqlite3_file bridge struct used for file access in sandboxed processes.
+// ---
+
 #ifndef SQL_SANDBOXED_VFS_FILE_H_
 #define SQL_SANDBOXED_VFS_FILE_H_
 

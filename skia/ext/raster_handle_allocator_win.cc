@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GDI raster handle allocator for platform canvas
+// summary: Implements a SkRasterHandleAllocator that allocates GDI HDC-backed bitmaps on Windows, including creation from shared sections for platform canvases.
+// ---
+
 #include <windows.h>
 
 #include <psapi.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform canvas implementation
+// summary: Implements helpers for creating software platform canvases and reading or accessing canvas pixels.
+// ---
+
 #include "skia/ext/platform_canvas.h"
 
 #include "base/check.h"

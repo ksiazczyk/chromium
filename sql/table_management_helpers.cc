@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table management helper implementations
+// summary: Implements helpers that build and run SQL statements for creating tables and indexes and for inserting, deleting, updating, and selecting rows on a database.
+// ---
+
 #include "sql/table_management_helpers.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed SQLite VFS header
+// summary: Declares SandboxedVfs, a SQLite VFS for sandboxed processes, with a Delegate interface for environment-specific file operations.
+// ---
+
 #ifndef SQL_SANDBOXED_VFS_H_
 #define SQL_SANDBOXED_VFS_H_
 

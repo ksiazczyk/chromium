@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia memory dump provider
+// summary: Implements a singleton memory dump provider that reports Skia glyph and resource cache usage to Chrome's trace event memory dumps.
+// ---
+
 #include "skia_memory_dump_provider.h"
 
 #include "base/trace_event/memory_allocator_dump.h"

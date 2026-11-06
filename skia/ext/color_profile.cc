@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProfile implementation
+// summary: Implements the ColorProfile class, deriving SkColorSpace, display color space, and HDR metadata from ICC profiles with CICP and sRGB fallbacks.
+// ---
+
 #include "skia/ext/color_profile.h"
 
 #include <array>

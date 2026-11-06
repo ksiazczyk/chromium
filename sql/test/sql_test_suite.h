@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL test suite header
+// summary: Declares SQLTestSuite, a base::TestSuite subclass that registers the sql test path provider during initialization.
+// ---
+
 #ifndef SQL_TEST_SQL_TEST_SUITE_H_
 #define SQL_TEST_SQL_TEST_SUITE_H_
 

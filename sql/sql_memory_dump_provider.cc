@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite memory dump provider
+// summary: Implements a memory dump provider that reports SQLite memory usage, high-water marks, and malloc counts to Chrome tracing.
+// ---
+
 #include "sql/sql_memory_dump_provider.h"
 
 #include <cstdint>

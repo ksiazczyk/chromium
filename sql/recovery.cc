@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database recovery implementation
+// summary: Implements the Recovery module that repairs corrupted SQLite databases using SQLite's recovery extension and records recovery outcome metrics.
+// ---
+
 #include "sql/recovery.h"
 
 #include <stddef.h>

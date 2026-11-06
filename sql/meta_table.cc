@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Meta table implementation
+// summary: Implements sql::MetaTable for storing schema version, compatible version and mmap status in a database's meta table, including compatibility razing checks.
+// ---
+
 #include "sql/meta_table.h"
 
 #include <cstdint>

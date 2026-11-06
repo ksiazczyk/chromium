@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite transaction RAII wrapper header
+// summary: Declares sql::Transaction, an RAII helper that begins, commits and automatically rolls back SQLite transactions, usable from a single sequence.
+// ---
+
 #ifndef SQL_TRANSACTION_H_
 #define SQL_TRANSACTION_H_
 

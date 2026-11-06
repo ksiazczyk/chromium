@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Release SkRefCnt variant
+// summary: Alternate SkRefCnt implementation for Chromium release builds that keeps only deref and provides no-op WTF adoption helpers.
+// ---
+
 #ifndef SKIA_CONFIG_SK_REF_CNT_EXT_RELEASE_H_
 #define SKIA_CONFIG_SK_REF_CNT_EXT_RELEASE_H_
 

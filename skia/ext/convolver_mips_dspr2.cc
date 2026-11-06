@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIPS DSPR2 image convolution implementation
+// summary: Implements SIMD-optimized horizontal and vertical image convolution routines for MIPS DSPR2 processors.
+// ---
+
 #include <algorithm>
 #include "skia/ext/convolver.h"
 #include "skia/ext/convolver_mips_dspr2.h"

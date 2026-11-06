@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestVfs interface
+// summary: Declares TestVfs, a scope guard that replaces SQLite's default VFS on construction and restores it on destruction so tests can customize file IO.
+// ---
+
 #ifndef SQL_TEST_TEST_VFS_H_
 #define SQL_TEST_TEST_VFS_H_
 

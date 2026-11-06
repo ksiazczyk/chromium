@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database memory dump provider
+// summary: Declares a trace-event memory dump provider that reports SQLite database memory usage such as cache, schema and statement sizes.
+// ---
+
 #ifndef SQL_DATABASE_MEMORY_DUMP_PROVIDER_H_
 #define SQL_DATABASE_MEMORY_DUMP_PROVIDER_H_
 

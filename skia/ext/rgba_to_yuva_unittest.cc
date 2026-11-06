@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RGBA to YUVA conversion
+// summary: Tests RGBA to YUVA conversion across color spaces, alpha types, plane configurations, subsampling, and self-copy scenarios.
+// ---
+
 #include "skia/ext/rgba_to_yuva.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

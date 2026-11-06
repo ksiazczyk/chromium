@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia in-process file locking for SQLite VFS
+// summary: Implements a process-wide lock manager that simulates SQLite file locking on Fuchsia, which lacks native file locking support.
+// ---
+
 #include "sql/vfs_wrapper_fuchsia.h"
 
 #include <string>

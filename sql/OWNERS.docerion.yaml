@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: sql directory owners
+summary: Lists the owners responsible for reviewing changes to the sql directory, with no parent owners inherited.

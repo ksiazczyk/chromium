@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the storage browser component
+summary: Defines the storage_browser component and related targets, listing blob and file system source files that make up Chromium's storage layer.

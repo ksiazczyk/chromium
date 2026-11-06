@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Codec utils unit tests
+// summary: Unit tests that smoke-test PNG encoding helpers, checking round-trip decoding and data URI output for SkPixmap and SkImage inputs.
+// ---
+
 #include "skia/ext/codec_utils.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

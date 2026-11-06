@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite VFS wrapper header
+// summary: Declares EnsureVfsWrapper() and the VfsFile structure used to wrap the default SQLite VFS with extra per-platform behavior.
+// ---
+
 #ifndef SQL_VFS_WRAPPER_H_
 #define SQL_VFS_WRAPPER_H_
 

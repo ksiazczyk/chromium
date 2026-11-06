@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia memory dump provider header
+// summary: Declares SkiaMemoryDumpProvider, a singleton that reports Skia memory usage such as the glyph cache to Chromium's trace event memory dumps.
+// ---
+
 #ifndef SKIA_EXT_SKIA_MEMORY_DUMP_PROVIDER_H_
 #define SKIA_EXT_SKIA_MEMORY_DUMP_PROVIDER_H_
 

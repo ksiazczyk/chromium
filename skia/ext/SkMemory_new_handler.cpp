@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia memory allocation with Chromium allocator
+// summary: Implements sk_malloc_flags and related Skia memory routines using Chromium's unchecked malloc, with out-of-memory handling and platform-specific realloc support.
+// ---
+
 #include <stdlib.h>
 
 #include <algorithm>

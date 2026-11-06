@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorProfile unit tests
+// summary: Tests ColorProfile display color space handling for D50 and non-D50 white points and HDR metadata extraction from ICC profiles.
+// ---
+
 #include "skia/ext/color_profile.h"
 
 #include "skia/ext/skia_utils_base.h"

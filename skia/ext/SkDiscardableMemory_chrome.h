@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome SkDiscardableMemory class declaration
+// summary: Declares SkDiscardableMemoryChrome, a wrapper that exposes base::DiscardableMemory through Skia's SkDiscardableMemory interface.
+// ---
+
 #ifndef SKIA_EXT_SKDISCARDABLEMEMORY_CHROME_H_
 #define SKIA_EXT_SKDISCARDABLEMEMORY_CHROME_H_
 

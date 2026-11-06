@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite memory dump provider header
+// summary: Declares a singleton provider that reports process-wide SQLite memory usage statistics to the tracing system, with a helper to query and reset the high-water mark.
+// ---
+
 #ifndef SQL_SQL_MEMORY_DUMP_PROVIDER_H_
 #define SQL_SQL_MEMORY_DUMP_PROVIDER_H_
 

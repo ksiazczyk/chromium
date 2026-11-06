@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite initialization implementation
+// summary: Implements EnsureSqliteInitialized, calling sqlite3_initialize once under a lock and optionally installing the wrapper VFS.
+// ---
+
 #include "sql/initialization.h"
 
 #include "base/no_destructor.h"

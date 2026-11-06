@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Statement class
+// summary: Unit tests covering sql::Statement behavior such as assignment, stepping, binding, reset, and error callback reporting against a temporary SQLite database.
+// ---
+
 #include "sql/statement.h"
 
 #include <cstdint>

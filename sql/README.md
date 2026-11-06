@@ -1,3 +1,9 @@
+---
+type: readme
+title: SQLite abstraction layer
+summary: Explains SQLite's storage and query execution model and provides SQL and schema style guidance, including which SQLite features are disabled in Chrome.
+---
+
 # SQLite abstraction layer
 
 [TOC]

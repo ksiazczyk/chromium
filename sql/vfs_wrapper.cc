@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite VFS wrapper implementation
+// summary: Implements a wrapping SQLite VFS that delegates file operations to the default VFS while adding macOS Time Machine exclusions and Fuchsia locking support.
+// ---
+
 #include "sql/vfs_wrapper.h"
 
 #include <cstring>

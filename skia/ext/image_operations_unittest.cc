@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageOperations unit tests
+// summary: Unit and fuzz tests for skia::ImageOperations, checking resize output colors and pixel behavior.
+// ---
+
 #include "skia/ext/image_operations.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transfer function scaling unit tests
+// summary: Unit tests verifying that ScaleTransferFunction round-trips through IsScaledTransferFunction and that all parameters are checked when detecting scaling.
+// ---
+
 #include "skia/ext/skcolorspace_trfn.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

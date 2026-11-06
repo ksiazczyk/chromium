@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite result code mapping implementation
+// summary: Maps SQLite result codes to compact logged codes for UMA reporting, flagging codes that Chrome should never encounter.
+// ---
+
 #include "sql/sqlite_result_code.h"
 
 #include <algorithm>

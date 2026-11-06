@@ -6,6 +6,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: NEON image convolution implementation
+// summary: Implements ARM NEON SIMD versions of the horizontal and vertical image convolution routines.
+// ---
+
 #include "skia/ext/convolver_neon.h"
 
 #include <arm_neon.h>

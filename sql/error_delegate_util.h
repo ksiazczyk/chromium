@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite error classification interface
+// summary: Declares helpers to detect catastrophic SQLite error codes caused by corruption and to build diagnostics info for corrupt database files.
+// ---
+
 #ifndef SQL_ERROR_DELEGATE_UTIL_H_
 #define SQL_ERROR_DELEGATE_UTIL_H_
 

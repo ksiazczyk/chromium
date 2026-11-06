@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Skia directory owners
+summary: Lists the owners who review changes in the skia directory, with a per-file rule routing Fuchsia-specific changes elsewhere.

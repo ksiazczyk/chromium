@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGBA to YUVA conversion interface
+// summary: Declares functions to blit RGBA images to YUVA surfaces and convert between RGBA and YUVA pixmaps with color space, region, and clearing options.
+// ---
+
 #ifndef SKIA_EXT_RGBA_TO_YUVA_H_
 #define SKIA_EXT_RGBA_TO_YUVA_H_
 

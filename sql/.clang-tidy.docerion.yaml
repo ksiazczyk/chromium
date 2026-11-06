@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: clang-tidy configuration for the sql directory
+summary: Enables the misc-include-cleaner check for the sql directory while inheriting the parent directory's clang-tidy configuration.

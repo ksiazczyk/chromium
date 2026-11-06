@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL test helpers implementation
+// summary: Implements test-only helpers for SQL database tests, such as corrupting the size in the database header and counting schema objects.
+// ---
+
 #include "sql/test/test_helpers.h"
 
 #include <stddef.h>

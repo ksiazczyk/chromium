@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite result code test matchers
+// summary: Provides gmock matchers that verify the primary result or error code of SQLite result codes in tests.
+// ---
+
 #ifndef SQL_TEST_MATCHERS_H_
 #define SQL_TEST_MATCHERS_H_
 

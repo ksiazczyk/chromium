@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSE2 SIMD convolution implementation
+// summary: SSE2-optimized convolution routines for horizontal, vertical, and four-row image convolution on x86.
+// ---
+
 #include "skia/ext/convolver_SSE2.h"
 
 #include <algorithm>

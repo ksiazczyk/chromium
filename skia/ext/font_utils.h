@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font utilities for Skia extensions
+// summary: Declares helpers for obtaining default font managers and typefaces, including Fontations-based instantiation, in Chromium's Skia extensions.
+// ---
+
 #ifndef SKIA_EXT_FONT_UTILS_H_
 #define SKIA_EXT_FONT_UTILS_H_
 

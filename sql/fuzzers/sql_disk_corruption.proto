@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto schema for SQL disk corruption fuzzer test cases
+// summary: Defines the RecoveryFuzzerTestCase message holding SQL queries, a recovery strategy, a WAL mode flag, and file-position to XOR-mask mutations for simulating disk corruption.
+// ---
+
 syntax = "proto2";
 
 package sql_fuzzers;

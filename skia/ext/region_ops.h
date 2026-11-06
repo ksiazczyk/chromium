@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for building regions from rect operations
+// summary: Declares the RegionRectOp struct and RegionFromRectOps function that build an SkRegion from ordered add and subtract rectangle operations.
+// ---
+
 #ifndef SKIA_EXT_REGION_OPS_H_
 #define SKIA_EXT_REGION_OPS_H_
 

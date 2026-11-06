@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive error test VFS implementation
+// summary: Implements a test SQLite VFS that simulates an unusable or full drive, returns I/O errors, and records the SQLite error codes it produces for testing error handling.
+// ---
+
 #include "sql/test/drive_error_test_vfs.h"
 
 #include <vector>

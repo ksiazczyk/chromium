@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatementID strong alias and SQL_FROM_HERE macro
+// summary: Defines the StatementID strong-alias type that identifies compiled SQLite statements by source file and line, plus the SQL_FROM_HERE macro that creates such IDs.
+// ---
+
 #ifndef SQL_STATEMENT_ID_H_
 #define SQL_STATEMENT_ID_H_
 

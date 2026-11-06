@@ -1,0 +1,4 @@
+# Docerion header of fuchsia_test_fonts_manifest.json.
+type: data
+title: Fuchsia test fonts manifest
+summary: JSON manifest describing test font families for Fuchsia, with aliases, fallback groups, weights, slants, and the TTF/OTF asset files that provide them.

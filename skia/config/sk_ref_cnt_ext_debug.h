@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug SkRefCnt variant with adoption tracking
+// summary: Alternate SkRefCnt implementation for Chromium debug builds that tracks adopted objects via flags and hooks into Blink's WTF adoption checks.
+// ---
+
 #ifndef SKIA_CONFIG_SK_REF_CNT_EXT_DEBUG_H_
 #define SKIA_CONFIG_SK_REF_CNT_EXT_DEBUG_H_
 

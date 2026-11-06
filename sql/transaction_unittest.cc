@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for sql::Transaction
+// summary: Unit tests covering commit, explicit and destruction-time rollback, nested transactions and database-close behavior of sql::Transaction in WAL and non-WAL modes.
+// ---
+
 #include "sql/transaction.h"
 
 #include <stdint.h>

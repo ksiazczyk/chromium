@@ -1,3 +1,11 @@
+---
+type: readme
+title: Skia Chromium integration overview
+summary: Explains that this directory holds Chromium-side utilities layered on Skia, including build rules, configuration, mojom serialization and platform implementations.
+relations:
+  - documents /skia/config/SkUserConfig.h
+---
+
 Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 
 The Skia library can be found in `//third_party/skia`, and full documentation

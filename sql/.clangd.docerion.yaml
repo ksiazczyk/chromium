@@ -1,0 +1,4 @@
+# Docerion header of .clangd.
+type: config
+title: clangd diagnostics configuration for the sql directory
+summary: Configures clangd to strictly report unused and missing includes in the sql directory until the check is enabled in the parent directory.

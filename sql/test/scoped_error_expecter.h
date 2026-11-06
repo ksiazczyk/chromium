@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped error expecter header
+// summary: Declares ScopedErrorExpecter, a scoper that lets tests expect specific SQLite errors so they are not treated as fatal in debug builds.
+// ---
+
 #ifndef SQL_TEST_SCOPED_ERROR_EXPECTER_H_
 #define SQL_TEST_SCOPED_ERROR_EXPECTER_H_
 

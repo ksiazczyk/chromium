@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LSX convolution declarations
+// summary: Declares the LoongArch LSX-optimized convolution functions used by the skia image convolver.
+// ---
+
 #ifndef SKIA_EXT_CONVOLVER_LSX_H_
 #define SKIA_EXT_CONVOLVER_LSX_H_
 

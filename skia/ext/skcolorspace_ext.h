@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkColorSpace approximate equality helper
+// summary: Declares skia::ApproximatelyEqual, which reports whether two SkColorSpace objects are approximately equal using Skia's internal per-parameter comparison tolerances.
+// ---
+
 #ifndef SKIA_EXT_SKCOLORSPACE_EXT_H_
 #define SKIA_EXT_SKCOLORSPACE_EXT_H_
 

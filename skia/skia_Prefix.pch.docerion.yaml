@@ -1,0 +1,4 @@
+# Docerion header of skia_Prefix.pch.
+type: config
+title: Skia framework prefix header
+summary: Prefix header for the Skia framework that imports Cocoa for Objective-C builds and includes the precompiled source.

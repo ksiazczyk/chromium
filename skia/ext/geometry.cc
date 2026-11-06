@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geometry helpers implementation
+// summary: Implements triangle coverage via Sutherland-Hodgman clipping, proportional rect scaling, and shader tiling helpers.
+// ---
+
 #include "skia/ext/geometry.h"
 
 #include <algorithm>

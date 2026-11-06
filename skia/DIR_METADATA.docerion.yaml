@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Skia bug tracking metadata
+summary: Maps the skia directory to the Internals>Skia monorail component and a Buganizer component ID for issue routing.

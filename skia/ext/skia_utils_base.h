@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia base utilities header
+// summary: Declares pickle helpers for Skia types, the SkBitmapToN32OpaqueOrPremul conversion, color and color space string formatting, and SkData byte span helpers.
+// ---
+
 #ifndef SKIA_EXT_SKIA_UTILS_BASE_H_
 #define SKIA_EXT_SKIA_UTILS_BASE_H_
 

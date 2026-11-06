@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped error expecter implementation
+// summary: Implements ScopedErrorExpecter, which installs a callback so tests can treat expected SQLite errors as non-fatal and verify they occurred.
+// ---
+
 #include "sql/test/scoped_error_expecter.h"
 
 #include "base/functional/bind.h"

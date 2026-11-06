@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive error test VFS header
+// summary: Declares DriveErrorTestVfs, an SQLite VFS for tests that can simulate drive errors and report the ordered list of errors it produced.
+// ---
+
 #ifndef SQL_TEST_DRIVE_ERROR_TEST_VFS_H_
 #define SQL_TEST_DRIVE_ERROR_TEST_VFS_H_
 

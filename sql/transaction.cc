@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transaction class implementation
+// summary: Implements the Transaction RAII wrapper that begins, commits, and rolls back SQLite transactions on a sql::Database, rolling back automatically on destruction.
+// ---
+
 #include "sql/transaction.h"
 
 #include "base/check.h"

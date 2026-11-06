@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Benchmarking canvas class declaration
+// summary: Declares BenchmarkingCanvas, an SkNWayCanvas subclass that counts executed draw commands, records them and reports per-command render times.
+// ---
+
 #ifndef SKIA_EXT_BENCHMARKING_CANVAS_H_
 #define SKIA_EXT_BENCHMARKING_CANVAS_H_
 
