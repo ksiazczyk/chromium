@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocketHandshakeStreamCreateHelper tests
+// summary: Unit tests for WebSocketHandshakeStreamCreateHelper covering creation of basic, HTTP/2, and HTTP/3 WebSocket handshake streams.
+// ---
+
 #include "net/websockets/websocket_handshake_stream_create_helper.h"
 
 #include <optional>

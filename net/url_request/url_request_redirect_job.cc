@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestRedirectJob implementation
+// summary: Implements a URLRequestJob that redirects requests to a specified URL by synthesizing redirect headers and reporting load timing.
+// ---
+
 #include "net/url_request/url_request_redirect_job.h"
 
 #include <string>

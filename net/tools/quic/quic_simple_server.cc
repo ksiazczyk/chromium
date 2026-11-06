@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple QUIC server implementation
+// summary: Implements QuicSimpleServer, a toy QUIC server that listens on a UDP socket, sets up crypto config, and dispatches packets to sessions.
+// ---
+
 #include "net/tools/quic/quic_simple_server.h"
 
 #include <string.h>

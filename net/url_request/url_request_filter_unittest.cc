@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestFilter unit tests
+// summary: Unit tests verifying URL and hostname matching, handler addition and removal, and hit counting in URLRequestFilter.
+// ---
+
 #include "net/url_request/url_request_filter.h"
 
 #include <memory>

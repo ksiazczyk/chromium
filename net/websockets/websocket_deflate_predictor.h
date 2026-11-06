@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket deflate predictor interface
+// summary: Declares the WebSocketDeflatePredictor interface used to decide whether outgoing WebSocket messages should be compressed.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_DEFLATE_PREDICTOR_H_
 #define NET_WEBSOCKETS_WEBSOCKET_DEFLATE_PREDICTOR_H_
 

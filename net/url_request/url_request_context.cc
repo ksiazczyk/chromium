@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContext implementation
+// summary: Implements URLRequestContext, managing shared network services such as the host resolver, proxy resolution, HTTP cache and cookie store, including shutdown ordering.
+// ---
+
 #include "net/url_request/url_request_context.h"
 
 #include <inttypes.h>

@@ -5,6 +5,12 @@
 // The key for WebSocket UserData in URLRequest objects. This is included in
 // net/url_request because net/websockets is not linked in on iOS.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake UserData key declaration
+// summary: Declares the kWebSocketHandshakeUserDataKey constant, the key for attaching WebSocket handshake UserData to URLRequest objects.
+// ---
+
 #ifndef NET_URL_REQUEST_WEBSOCKET_HANDSHAKE_USERDATA_KEY_H_
 #define NET_URL_REQUEST_WEBSOCKET_HANDSHAKE_USERDATA_KEY_H_
 

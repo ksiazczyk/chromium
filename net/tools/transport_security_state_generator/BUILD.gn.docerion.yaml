@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the transport security state generator
+summary: GN build file defining the generator source set, the test source set, and the transport_security_state_generator executable with their dependencies.

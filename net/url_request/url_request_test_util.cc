@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequest test utilities implementation
+// summary: Implements test support for URLRequest tests, including TestNetworkDelegate event ordering checks and helpers that build test URLRequest contexts.
+// ---
+
 #include "net/url_request/url_request_test_util.h"
 
 #include <memory>

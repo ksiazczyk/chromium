@@ -1,3 +1,13 @@
+---
+type: readme
+title: Transport Security State Generator
+summary: Documents the HSTS and HPKP preload list, how to run the generator, and the Huffman-coded trie format of the preloaded transport security data.
+relations:
+  - references /net/http/transport_security_state_static.json
+  - references /net/http/transport_security_state_static.pins
+  - references /net/http/transport_security_state_static.template
+---
+
 # Transport Security State Generator
 
 This directory contains the code for the transport security state generator, a

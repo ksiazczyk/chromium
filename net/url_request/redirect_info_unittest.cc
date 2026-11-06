@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redirect info unit tests
+// summary: Unit tests for RedirectInfo covering how request methods change per redirect status code and how URL fragments are copied to redirect targets.
+// ---
+
 #include "net/url_request/redirect_info.h"
 
 #include "base/memory/ref_counted.h"

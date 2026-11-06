@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket frame parser interface
+// summary: Declares WebSocketFrameParser, which decodes WebSocket frames from a byte stream into frame chunks without unmasking payloads.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_FRAME_PARSER_H_
 #define NET_WEBSOCKETS_WEBSOCKET_FRAME_PARSER_H_
 

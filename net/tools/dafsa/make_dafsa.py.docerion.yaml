@@ -1,0 +1,4 @@
+# Docerion header of make_dafsa.py.
+type: script
+title: DAFSA generator converting gperf word lists to C++ byte arrays
+summary: Parses strings and return values from a gperf file and emits a C++ byte array encoding a DAFSA graph as a memory-efficient replacement for a perfect hash table.

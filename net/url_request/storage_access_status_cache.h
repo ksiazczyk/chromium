@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageAccessStatusCache class
+// summary: Declares a cache holding the Storage Access status of a request, distinguishing unset, first-party and third-party states.
+// ---
+
 #ifndef NET_URL_REQUEST_STORAGE_ACCESS_STATUS_CACHE_H_
 #define NET_URL_REQUEST_STORAGE_ACCESS_STATUS_CACHE_H_
 

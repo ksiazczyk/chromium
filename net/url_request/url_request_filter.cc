@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestFilter implementation
+// summary: Implements URLRequestFilter, a singleton that intercepts requests by URL or hostname and substitutes custom interceptor jobs.
+// ---
+
 #include "net/url_request/url_request_filter.h"
 
 #include "base/logging.h"

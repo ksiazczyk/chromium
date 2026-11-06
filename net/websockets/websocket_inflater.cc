@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketInflater implementation
+// summary: Implements DEFLATE decompression for WebSocket permessage-deflate messages using zlib, with a queued input and a fixed-capacity ring output buffer.
+// ---
+
 #include "net/websockets/websocket_inflater.h"
 
 #include <string.h>

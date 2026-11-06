@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Traffic annotation GN build targets
+summary: GN build file defining the traffic_annotation source set and a testonly test_support target for annotation helpers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReferrerPolicy enum and parsing API
+// summary: Defines the ReferrerPolicy enum that controls the Referer header during redirects and declares ReferrerPolicyFromHeader for header parsing.
+// ---
+
 #ifndef NET_URL_REQUEST_REFERRER_POLICY_H_
 #define NET_URL_REQUEST_REFERRER_POLICY_H_
 

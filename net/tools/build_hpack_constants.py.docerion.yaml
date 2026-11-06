@@ -1,0 +1,4 @@
+# Docerion header of build_hpack_constants.py.
+type: script
+title: Build HPACK constants table
+summary: Generates the HPACK Huffman code table that must be manually inserted into net/spdy/hpack/hpack_constants.cc.

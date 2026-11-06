@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket error to net error conversion
+// summary: Implements WebSocketErrorToNetError, mapping WebSocket close status codes to the corresponding net::Error values.
+// ---
+
 #include "net/websockets/websocket_errors.h"
 
 

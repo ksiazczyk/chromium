@@ -5,6 +5,12 @@
 // A toy client, which connects to a specified port and sends QUIC
 // request to that endpoint.
 
+// ---docerion
+// type: source
+// title: QUIC client message loop network helper header
+// summary: Declares QuicClientMessageLooplNetworkHelper, a NetworkHelper implementation that drives a QUIC client via the Chromium message loop.
+// ---
+
 #ifndef NET_TOOLS_QUIC_QUIC_CLIENT_MESSAGE_LOOP_NETWORK_HELPER_H_
 #define NET_TOOLS_QUIC_QUIC_CLIENT_MESSAGE_LOOP_NETWORK_HELPER_H_
 

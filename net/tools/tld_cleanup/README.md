@@ -1,3 +1,12 @@
+---
+type: readme
+title: Updating the effective TLD names data file
+summary: Step-by-step instructions for updating effective_tld_names.dat and regenerating the gperf file with the tld_cleanup tool.
+relations:
+  - documents /net/base/registry_controlled_domains/effective_tld_names.dat
+  - references /net/base/registry_controlled_domains/registry_controlled_domain.cc
+---
+
 When updating `src/net/base/registry_controlled_domains/effective_tld_names.dat`:
 
 1. Obtain the new effective_tld_names.dat, probably by downloading

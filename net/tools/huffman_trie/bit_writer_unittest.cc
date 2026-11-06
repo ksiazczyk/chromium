@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitWriter unit tests
+// summary: Unit tests verifying BitWriter's WriteBit, WriteBits, and Flush behavior, including padding and expected byte output.
+// ---
+
 #include "net/tools/huffman_trie/bit_writer.h"
 #include "testing/gmock/include/gmock/gmock.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -4,6 +4,12 @@
 //
 // A simple class for resolving hostname synchronously.
 
+// ---docerion
+// type: source
+// title: Synchronous host resolver header
+// summary: Declares the net::SynchronousHostResolver class with a static Resolve method that resolves a hostname to an AddressList synchronously for use by the QUIC tools.
+// ---
+
 #ifndef NET_TOOLS_QUIC_SYNCHRONOUS_HOST_RESOLVER_H_
 #define NET_TOOLS_QUIC_SYNCHRONOUS_HOST_RESOLVER_H_
 

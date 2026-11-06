@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'signer_set_tool.cc: SignerSet code generator tool'
+// summary: Command-line tool that decodes PEM public keys, hashes them with SHA-256, and generates a C++ file embedding the serialized SignerSet proto and key byte constants.
+// ---
+
 #include <iostream>
 #include <map>
 #include <optional>

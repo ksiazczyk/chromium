@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content decoder tool unit tests
+// summary: Unit tests verifying that the decoder tool correctly decodes gzip and brotli encoded data back to the original source content.
+// ---
+
 #include "net/tools/content_decoder_tool/content_decoder_tool.h"
 
 #include <istream>

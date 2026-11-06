@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocketStreamCreateTestBase declaration
+// summary: Declares WebSocketStreamCreateTestBase, a helper base class providing common setup and wait helpers for WebSocket stream creation tests.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_STREAM_CREATE_TEST_BASE_H_
 #define NET_WEBSOCKETS_WEBSOCKET_STREAM_CREATE_TEST_BASE_H_
 

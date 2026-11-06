@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket basic stream implementation
+// summary: Implements WebSocketStream for non-multiplexed connections, handling RFC 6455 framing, masking and adaptive read buffer sizing.
+// ---
+
 #include "net/websockets/websocket_basic_stream.h"
 
 #include <stddef.h>

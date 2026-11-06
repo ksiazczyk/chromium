@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC simple server socket header
+// summary: Declares CreateQuicSimpleServerSocket, which builds a UDP server socket tuned for use in a QUIC server.
+// ---
+
 #ifndef NET_TOOLS_QUIC_QUIC_SIMPLE_SERVER_SOCKET_H_
 #define NET_TOOLS_QUIC_QUIC_SIMPLE_SERVER_SOCKET_H_
 

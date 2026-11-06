@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestTestJob implementation
+// summary: 'Implements URLRequestTestJob, a URLRequestJob that serves canned URLs, responses, redirects and errors for the test: scheme to simplify unit tests.'
+// ---
+
 #include "net/url_request/url_request_test_job.h"
 
 #include <algorithm>

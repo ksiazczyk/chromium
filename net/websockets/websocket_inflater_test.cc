@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocketInflater unit tests
+// summary: Unit tests for WebSocketInflater, covering inflation of compressed WebSocket payloads, context takeover, small output capacities, and invalid input handling.
+// ---
+
 #include "net/websockets/websocket_inflater.h"
 
 #include <string>

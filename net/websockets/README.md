@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebSocket protocol
+summary: Overview of the directory implementing the WebSocket protocol, linking design documents on handshakes, throttling, HTTP/2, extensions and auth.
+---
+
 # WebSocket protocol
 
 This directory contains the implementation of

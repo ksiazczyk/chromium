@@ -11,6 +11,12 @@
 // populated with "sane" default values. Read through the comments to figure out
 // what these are.
 
+// ---docerion
+// type: source
+// title: URLRequestContextBuilder class declaration
+// summary: Declares URLRequestContextBuilder, a helper that configures and builds a self-contained URLRequestContext with sensible defaults via Build().
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_CONTEXT_BUILDER_H_
 #define NET_URL_REQUEST_URL_REQUEST_CONTEXT_BUILDER_H_
 

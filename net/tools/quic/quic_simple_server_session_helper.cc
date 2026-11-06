@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC simple server session helper implementation
+// summary: Implements the crypto server stream helper, which accepts every client hello message for the simple QUIC server.
+// ---
+
 #include "net/tools/quic/quic_simple_server_session_helper.h"
 #include "net/third_party/quiche/src/quiche/quic/core/quic_connection_id.h"
 #include "net/third_party/quiche/src/quiche/quic/core/quic_utils.h"

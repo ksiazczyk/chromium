@@ -5,6 +5,12 @@
 // This command-line program dumps the contents of a set of cache files, either
 // to stdout or to another set of cache files.
 
+// ---docerion
+// type: source
+// title: dump_cache command-line tool
+// summary: Command-line program that dumps internal blockfile disk cache structures to stdout, with options for headers, contents, LRU lists, entries and allocation bitmaps.
+// ---
+
 #include <stdio.h>
 #include <string>
 

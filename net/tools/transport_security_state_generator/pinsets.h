@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinsets class header
+// summary: Declares the Pinsets class with maps holding SPKI hashes and pinsets used by the transport security state generator.
+// ---
+
 #ifndef NET_TOOLS_TRANSPORT_SECURITY_STATE_GENERATOR_PINSETS_H_
 #define NET_TOOLS_TRANSPORT_SECURITY_STATE_GENERATOR_PINSETS_H_
 

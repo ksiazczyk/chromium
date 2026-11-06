@@ -1,0 +1,4 @@
+# Docerion header of test_urls.json.
+type: data
+title: Test URLs for QUIC performance benchmarking
+summary: Lists test pages of varying sizes, from 1KB to about 1MB, used to measure QUIC performance with a standalone quic client and server.

@@ -1,0 +1,4 @@
+# Docerion header of generate-certs.sh.
+type: script
+title: Generate a CA and leaf certificate for the QUIC server
+summary: Shell script that uses OpenSSL to create a root CA and a short-lived leaf certificate, including a PKCS8 key, for use with the quic_server.

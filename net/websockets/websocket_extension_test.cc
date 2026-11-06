@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket extension unit tests
+// summary: Unit tests for the WebSocketExtension class, checking parameter equivalence rules and ToString output.
+// ---
+
 #include "net/websockets/websocket_extension.h"
 
 #include <string>

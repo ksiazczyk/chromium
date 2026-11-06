@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket HTTP/2 handshake stream header
+// summary: Declares WebSocketHttp2HandshakeStream, the WebSocketHandshakeStreamBase subclass that performs WebSocket handshakes over HTTP/2 SpdySessions.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_HTTP2_HANDSHAKE_STREAM_H_
 #define NET_WEBSOCKETS_WEBSOCKET_HTTP2_HANDSHAKE_STREAM_H_
 

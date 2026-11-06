@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinset class implementation
+// summary: Implements the Pinset class, adding named static and bad static SPKI hashes to a pinset.
+// ---
+
 #include "net/tools/transport_security_state_generator/pinset.h"
 
 namespace net::transport_security_state {

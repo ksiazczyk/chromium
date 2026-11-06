@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HuffmanBuilder implementation
+// summary: Implements the HuffmanBuilder class, which tracks character usage counts, builds a Huffman tree, and converts it to a representation table or a serialized byte vector.
+// ---
+
 #include "net/tools/huffman_trie/huffman/huffman_builder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: dump_files interface header
+// summary: Declares functions to check the cache file version and to dump cache contents, headers, lists, entries and allocation bitmaps.
+// ---
+
 #ifndef NET_TOOLS_DUMP_CACHE_DUMP_FILES_H_
 #define NET_TOOLS_DUMP_CACHE_DUMP_FILES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket deflater unit tests
+// summary: Unit tests for WebSocketDeflater covering context takeover, window bits, sync marks and expected deflated output bytes.
+// ---
+
 #include "net/websockets/websocket_deflater.h"
 
 #include <string>

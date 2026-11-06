@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root store tool implementation
+// summary: C++ tool that decodes PEM certificates, maps SHA-256 hashes to certificate bytes, and replaces trust anchor references in Chrome Root Store protos.
+// ---
+
 #include <inttypes.h>
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequest unit tests
+// summary: Large unit test suite for URLRequest covering behaviors such as redirects, cookies, authentication, certificates, caching, uploads and load timing.
+// ---
+
 #include "net/url_request/url_request.h"
 
 #include <stdint.h>

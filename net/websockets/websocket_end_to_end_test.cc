@@ -8,6 +8,12 @@
 // inefficient. However, it makes these tests a good fit for scenarios which
 // require special server configurations.
 
+// ---docerion
+// type: test
+// title: WebSocket end-to-end tests
+// summary: End-to-end WebSocket tests that restart a test server per test to exercise handshakes, proxies, authentication and special server configurations.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

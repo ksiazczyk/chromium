@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket frame types and constants
+// summary: Declares WebSocketFrameHeader, WebSocketFrame and WebSocketFrameChunk with opcodes, masking key and header size constants.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_FRAME_H_
 #define NET_WEBSOCKETS_WEBSOCKET_FRAME_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextGetterObserver interface
+// summary: Declares URLRequestContextGetterObserver, an interface notified before the URLRequestContext associated with a getter shuts down.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_CONTEXT_GETTER_OBSERVER_H_
 #define NET_URL_REQUEST_URL_REQUEST_CONTEXT_GETTER_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android traffic annotation tag conversion
+// summary: Implements NetworkTrafficAnnotationTag::FromJavaAnnotation to convert Java traffic annotation tags to the C++ type on Android.
+// ---
+
 #include "net/traffic_annotation/network_traffic_annotation.h"
 
 namespace net {

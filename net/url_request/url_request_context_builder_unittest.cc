@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestContextBuilder unit tests
+// summary: Unit tests for URLRequestContextBuilder covering proxy configuration, mock HTTP auth handlers, and reporting and NEL store setup.
+// ---
+
 #include "net/url_request/url_request_context_builder.h"
 
 #include "base/functional/callback_helpers.h"

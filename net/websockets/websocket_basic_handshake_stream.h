@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket basic handshake stream header
+// summary: Declares WebSocketBasicHandshakeStream, the HttpStream implementation that performs the WebSocket handshake and upgrades to a WebSocketStream.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_BASIC_HANDSHAKE_STREAM_H_
 #define NET_WEBSOCKETS_WEBSOCKET_BASIC_HANDSHAKE_STREAM_H_
 

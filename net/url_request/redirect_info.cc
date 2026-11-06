@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirect info computation
+// summary: Implements RedirectInfo::ComputeRedirectInfo, deriving the new method, URL, site for cookies, referrer, and referrer policy for HTTP redirects per the fetch spec.
+// ---
+
 #include "net/url_request/redirect_info.h"
 
 #include <string_view>

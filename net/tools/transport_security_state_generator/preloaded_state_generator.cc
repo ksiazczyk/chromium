@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloaded state generator implementation
+// summary: Generates C++ code for preloaded HSTS and PKP entries by filling a template with trie data, pin hashes and pinset definitions.
+// ---
+
 #include "net/tools/transport_security_state_generator/preloaded_state_generator.h"
 
 #include <string>

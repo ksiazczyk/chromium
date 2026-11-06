@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket frame implementation
+// summary: Implements WebSocket frame header writing, payload masking with vector-optimized paths, and frame header size calculation per RFC 6455.
+// ---
+
 #include "net/websockets/websocket_frame.h"
 
 #include <stddef.h>

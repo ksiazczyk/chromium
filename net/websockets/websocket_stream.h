@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketStream interface declaration
+// summary: Declares the transport-agnostic WebSocketStream interface and request types for connecting WebSocket streams over HTTP/1.1, HTTP/2, and HTTP/3.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_STREAM_H_
 #define NET_WEBSOCKETS_WEBSOCKET_STREAM_H_
 

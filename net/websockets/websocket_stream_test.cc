@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket stream tests
+// summary: Extensive tests for WebSocket stream creation and handshake behavior across basic and HTTP/2 handshake streams, including failures, timers, and metrics.
+// ---
+
 
 #include "net/websockets/websocket_stream.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake challenge header
+// summary: Declares ComputeSecWebSocketAccept, which derives the Sec-WebSocket-Accept header value from a handshake key.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_CHALLENGE_H_
 #define NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_CHALLENGE_H_
 

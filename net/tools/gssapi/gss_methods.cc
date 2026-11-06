@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub GSSAPI method exports
+// summary: Provides stub implementations of the GSSAPI functions used by //net, forming the main part of the fake GSSAPI library for smoke testing.
+// ---
+
 #include <cstring>
 
 #include "net/tools/gssapi/gss_types.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket HTTP/3 handshake stream header
+// summary: Declares WebSocketHttp3HandshakeStream, the WebSocketHandshakeStreamBase subclass that performs WebSocket handshakes over HTTP/3 QUIC sessions.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_HTTP3_HANDSHAKE_STREAM_H_
 #define NET_WEBSOCKETS_WEBSOCKET_HTTP3_HANDSHAKE_STREAM_H_
 

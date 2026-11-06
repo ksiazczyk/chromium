@@ -6,6 +6,12 @@
 // frame parsing itself functions correctly, as that is covered by the
 // WebSocketFrameParser tests.
 
+// ---docerion
+// type: test
+// title: WebSocket basic stream tests
+// summary: Unit tests for WebSocketBasicStream covering frame reading, writing, masking, control frames and close handling on a socket.
+// ---
+
 #include "net/websockets/websocket_basic_stream.h"
 
 #include <stddef.h>

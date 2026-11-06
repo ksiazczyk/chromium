@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SPKI hash unit tests
+// summary: Unit tests for SPKIHash::FromString covering valid SHA256 hashes and rejection of SHA1, wrong lengths and invalid base64.
+// ---
+
 #include "net/tools/transport_security_state_generator/spki_hash.h"
 
 #include "base/strings/string_number_conversions.h"

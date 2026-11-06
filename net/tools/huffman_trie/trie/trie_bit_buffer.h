@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrieBitBuffer header
+// summary: Declares the TrieBitBuffer class used by TrieWriter to accumulate bits, characters, and trie position references before output.
+// ---
+
 #ifndef NET_TOOLS_HUFFMAN_TRIE_TRIE_TRIE_BIT_BUFFER_H_
 #define NET_TOOLS_HUFFMAN_TRIE_TRIE_TRIE_BIT_BUFFER_H_
 

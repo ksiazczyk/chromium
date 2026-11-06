@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticHttpUserAgentSettings implementation
+// summary: Implements StaticHttpUserAgentSettings, returning the configured Accept-Language and User-Agent header values.
+// ---
+
 #include "net/url_request/static_http_user_agent_settings.h"
 
 namespace net {

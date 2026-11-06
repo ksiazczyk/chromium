@@ -1,0 +1,4 @@
+# Docerion header of run_client.py.
+type: script
+title: QUIC pageload benchmark client runner
+summary: Runs pageload experiments that fetch test URLs with quic_client or wget and records download delays and received packet counts to CSV files.

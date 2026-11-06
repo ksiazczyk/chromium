@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Huffman trie generator build targets
+summary: Defines GN source sets for the huffman trie generator sources and its unit test sources in Chromium's net tools.

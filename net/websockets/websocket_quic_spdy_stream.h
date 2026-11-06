@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketQuicSpdyStream declaration
+// summary: Declares WebSocketQuicSpdyStream and its delegate interface for reading and writing WebSocket frames over HTTP/3 QUIC streams.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_QUIC_SPDY_STREAM_H_
 #define NET_WEBSOCKETS_WEBSOCKET_QUIC_SPDY_STREAM_H_
 

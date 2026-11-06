@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for CertVerifyProc-based verification entry points
+// summary: Declares VerifyUsingCertVerifyProc and PrintCertVerifyResult for verifying certificates with a net::CertVerifyProc and reporting results.
+// ---
+
 #ifndef NET_TOOLS_CERT_VERIFY_TOOL_VERIFY_USING_CERT_VERIFY_PROC_H_
 #define NET_TOOLS_CERT_VERIFY_TOOL_VERIFY_USING_CERT_VERIFY_PROC_H_
 

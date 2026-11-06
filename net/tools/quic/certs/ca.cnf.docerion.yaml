@@ -1,0 +1,4 @@
+# Docerion header of ca.cnf.
+type: config
+title: QUIC test root CA OpenSSL configuration
+summary: OpenSSL configuration defining the root CA defaults, signing policy, certificate and CRL extensions used to generate QUIC test certificates.

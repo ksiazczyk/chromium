@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC simple server packet writer implementation
+// summary: Writes QUIC packets through a UDPServerSocket, notifies the dispatcher on write completion, and records sparse write error histograms.
+// ---
+
 #include "net/tools/quic/quic_simple_server_packet_writer.h"
 
 #include <utility>

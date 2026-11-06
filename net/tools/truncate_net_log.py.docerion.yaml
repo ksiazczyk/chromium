@@ -1,0 +1,4 @@
+# Docerion header of truncate_net_log.py.
+type: script
+title: Truncate a NetLog file to a target size
+summary: Creates a smaller copy of a chrome-net-export-log JSON file by dropping the oldest events until the desired size is reached.

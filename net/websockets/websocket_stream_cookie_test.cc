@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket stream cookie tests
+// summary: Tests cookie handling in WebSocket handshakes, verifying cookies are sent with requests and stored from Set-Cookie handshake responses.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

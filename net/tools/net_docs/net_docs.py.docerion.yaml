@@ -1,0 +1,4 @@
+# Docerion header of net_docs.py.
+type: source
+title: net_docs Markdown renderer
+summary: Command-line tool that reads and parses Markdown network stack documentation files and optionally renders them as HTML pages.

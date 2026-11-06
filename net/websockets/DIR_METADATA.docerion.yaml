@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebSocket directory metadata
+summary: Maps the WebSocket directory to the Blink>Network>WebSockets monorail component, the net-dev team email and a Buganizer component.

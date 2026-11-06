@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrieBitBuffer unit tests
+// summary: Unit tests verifying that TrieBitBuffer correctly writes single bits, multi-bit values, delta positions, Huffman characters, and sizes.
+// ---
+
 #include "net/tools/huffman_trie/trie/trie_bit_buffer.h"
 #include "net/tools/huffman_trie/bit_writer.h"
 #include "net/tools/huffman_trie/huffman/huffman_builder.h"

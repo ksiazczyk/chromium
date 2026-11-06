@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageAccessStatusCache unit tests
+// summary: Unit tests for StorageAccessStatusCache covering construction, equality checks, reset behavior and death tests for unset states.
+// ---
+
 #include "net/url_request/storage_access_status_cache.h"
 
 #include "base/test/gtest_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for certificate utilities
+// summary: Tests PEM certificate parsing, subject name extraction, and SPKI hash calculation using embedded self-signed certificates.
+// ---
+
 #include "net/tools/transport_security_state_generator/cert_util.h"
 
 #include <string>

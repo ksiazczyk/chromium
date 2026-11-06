@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextGetter interface
+// summary: Declares URLRequestContextGetter, a ref-counted interface for retrieving a URLRequestContext and the task runner on which network IO happens.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_CONTEXT_GETTER_H_
 #define NET_URL_REQUEST_URL_REQUEST_CONTEXT_GETTER_H_
 

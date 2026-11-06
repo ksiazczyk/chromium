@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestHttpJob header
+// summary: Declares URLRequestHttpJob, a URLRequestJob subclass built on HttpTransaction for HTTP, HTTPS, WS, and WSS URLs.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_HTTP_JOB_H_
 #define NET_URL_REQUEST_URL_REQUEST_HTTP_JOB_H_
 

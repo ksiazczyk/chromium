@@ -5,6 +5,12 @@
 // A toy client, which connects to a specified port and sends QUIC
 // request to that endpoint.
 
+// ---docerion
+// type: source
+// title: Simple QUIC client header
+// summary: Declares QuicSimpleClient, a toy QUIC client based on QuicSpdyClientBase that connects to a server and sends requests.
+// ---
+
 #ifndef NET_TOOLS_QUIC_QUIC_SIMPLE_CLIENT_H_
 #define NET_TOOLS_QUIC_QUIC_SIMPLE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket error codes and conversion declaration
+// summary: Defines the WebSocketError enum of RFC 6455 close status codes and reserved ranges, and declares WebSocketErrorToNetError.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_ERRORS_H_
 #define NET_WEBSOCKETS_WEBSOCKET_ERRORS_H_
 

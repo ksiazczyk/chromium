@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input file parsing implementation
+// summary: Parses the HSTS and HPKP JSON preload files and the certificates pins file into entries and pinsets, including certificate name matching.
+// ---
+
 #include "net/tools/transport_security_state_generator/input_file_parsers.h"
 
 #include <sstream>

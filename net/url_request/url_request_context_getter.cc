@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextGetter implementation
+// summary: Implements URLRequestContextGetter observer management, context shutdown notification, and thread-safe deletion on the network task runner.
+// ---
+
 #include "net/url_request/url_request_context_getter.h"
 
 #include "base/debug/leak_annotations.h"

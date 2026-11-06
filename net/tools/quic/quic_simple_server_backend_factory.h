@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC simple server backend factory header
+// summary: Declares QuicSimpleServerBackendFactory, a factory for creating backend instances such as the memory cache backend for the simple QUIC server.
+// ---
+
 #ifndef NET_TOOLS_QUIC_QUIC_SIMPLE_SERVER_BACKEND_FACTORY_H_
 #define NET_TOOLS_QUIC_QUIC_SIMPLE_SERVER_BACKEND_FACTORY_H_
 

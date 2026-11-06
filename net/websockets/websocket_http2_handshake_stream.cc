@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket HTTP/2 handshake stream implementation
+// summary: Implements the WebSocket handshake stream over HTTP/2 connections, sending the upgrade request on a SpdySession and validating the handshake response.
+// ---
+
 #include "net/websockets/websocket_http2_handshake_stream.h"
 
 #include <set>

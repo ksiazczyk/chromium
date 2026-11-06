@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirect info structure
+// summary: Declares the RedirectInfo struct capturing redirect details such as status code, new method and URL, first-party URL policy, referrer, and referrer policy.
+// ---
+
 #ifndef NET_URL_REQUEST_REDIRECT_INFO_H_
 #define NET_URL_REQUEST_REDIRECT_INFO_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Root store tool
+summary: Describes the tools in this directory for processing Chrome Root Store data and EV root data, with a TODO to document usage.
+---
+
 # Root store tool
 
 This directory contains tools for processing the

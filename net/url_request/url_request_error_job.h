@@ -5,6 +5,12 @@
 // Invalid URLs go through this URLRequestJob class rather than being
 // passed to the default job handler.
 
+// ---docerion
+// type: source
+// title: URLRequestErrorJob class declaration
+// summary: Declares URLRequestErrorJob, the job class used for invalid URLs so they fail with an error instead of reaching the default job handler.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_ERROR_JOB_H_
 #define NET_URL_REQUEST_URL_REQUEST_ERROR_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content decoder tool implementation
+// summary: Implements ContentDecoderToolProcessInput, which chains gzip, deflate, or brotli SourceStream decoders over an input stream and writes the decoded output.
+// ---
+
 #include "net/tools/content_decoder_tool/content_decoder_tool.h"
 
 #include <memory>

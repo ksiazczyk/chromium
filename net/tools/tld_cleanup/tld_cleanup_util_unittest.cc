@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TLD rule normalization
+// summary: Unit tests verifying normalization of TLD rules, including Windows line endings, private domain marking, and automatic parent TLD rules.
+// ---
+
 #include "net/tools/tld_cleanup/tld_cleanup_util.h"
 
 #include <initializer_list>

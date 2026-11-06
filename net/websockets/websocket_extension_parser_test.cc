@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket extension parser unit tests
+// summary: Unit tests covering parsing of WebSocket extension lists, including valid extensions with parameters and many invalid patterns.
+// ---
+
 #include "net/websockets/websocket_extension_parser.h"
 
 #include <string>

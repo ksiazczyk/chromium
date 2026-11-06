@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Root store tool build file
+summary: GN build file defining the root_store_tool executable target with its sources and dependencies on base, crypto, net/cert and BoringSSL.

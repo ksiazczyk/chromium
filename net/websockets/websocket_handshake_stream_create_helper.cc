@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketHandshakeStreamCreateHelper implementation
+// summary: Implements the helper that creates basic, HTTP/2, and HTTP/3 WebSocket handshake streams with permessage-deflate extensions for WebSocketStream connections.
+// ---
+
 #include "net/websockets/websocket_handshake_stream_create_helper.h"
 
 #include <set>

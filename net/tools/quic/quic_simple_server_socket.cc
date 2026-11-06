@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC simple server socket creation
+// summary: Creates and configures a UDP server socket for the QUIC server, handling address reuse, buffer sizes, and binding to the given endpoint.
+// ---
+
 #include "net/tools/quic/quic_simple_server_socket.h"
 
 #include "net/base/net_errors.h"

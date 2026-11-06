@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequest HTTP fuzzer
+// summary: Integration fuzzer exercising URLRequest handling of HTTP requests, including redirects, using fuzzed socket data.
+// ---
+
 #include "net/url_request/url_request.h"
 
 #include <stddef.h>

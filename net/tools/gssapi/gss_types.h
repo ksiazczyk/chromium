@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimal GSSAPI type definitions
+// summary: Declares a minimal subset of GSSAPI types and macros following RFC 2744 so the fake library can be built without depending on the host gssapi.h.
+// ---
+
 #ifndef NET_TOOLS_GSSAPI_GSS_TYPES_H_
 #define NET_TOOLS_GSSAPI_GSS_TYPES_H_
 

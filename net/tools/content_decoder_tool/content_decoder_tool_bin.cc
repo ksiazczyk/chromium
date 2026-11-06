@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content decoder command-line binary
+// summary: Command-line entry point that decodes stdin to stdout using content encoding arguments, mirroring a Content-Encoding HTTP response header value.
+// ---
+
 #include "net/tools/content_decoder_tool/content_decoder_tool.h"
 
 #include <iostream>

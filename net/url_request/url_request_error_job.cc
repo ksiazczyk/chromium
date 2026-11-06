@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestErrorJob implementation
+// summary: Implements URLRequestErrorJob, which asynchronously notifies a request of a fixed error code, with optional priority-based task runner selection.
+// ---
+
 #include "net/url_request/url_request_error_job.h"
 
 #include "base/compiler_specific.h"

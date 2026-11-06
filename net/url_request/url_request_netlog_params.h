@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequest NetLog parameter declarations
+// summary: Declares functions that return NetLog parameter values for URLRequest constructor and start events.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_NETLOG_PARAMS_H_
 #define NET_URL_REQUEST_URL_REQUEST_NETLOG_PARAMS_H_
 

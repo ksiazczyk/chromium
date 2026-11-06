@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrieEntry interface declaration
+// summary: Declares the abstract TrieEntry interface and the ReversedEntry helper used to build huffman tries from named entries.
+// ---
+
 #ifndef NET_TOOLS_HUFFMAN_TRIE_TRIE_ENTRY_H_
 #define NET_TOOLS_HUFFMAN_TRIE_TRIE_ENTRY_H_
 

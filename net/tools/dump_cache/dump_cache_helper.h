@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpCacheHelper header
+// summary: Declares the DumpCacheHelper::HexDump static helper for producing textual representations of binary data suitable for HTML pre blocks.
+// ---
+
 #ifndef NET_TOOLS_DUMP_CACHE_DUMP_CACHE_HELPER_H_
 #define NET_TOOLS_DUMP_CACHE_DUMP_CACHE_HELPER_H_
 

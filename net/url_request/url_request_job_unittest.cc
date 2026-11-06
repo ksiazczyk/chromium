@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestJob unit tests
+// summary: Tests URLRequestJob behavior with mock HTTP transactions, including gzip and brotli content decoding and referrer policy handling on redirects.
+// ---
+
 #include "net/url_request/url_request_job.h"
 
 #include <memory>

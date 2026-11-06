@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket frame masking performance tests
+// summary: Performance benchmarks measuring the time to mask short, long and 31-byte WebSocket frame payloads.
+// ---
+
 #include "net/websockets/websocket_frame.h"
 
 #include <stddef.h>
