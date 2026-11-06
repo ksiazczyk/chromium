@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StylusApiOption
+// summary: Interface that abstracts over the Android, Direct Writing and disabled stylus handlers, recording trigger metrics and providing the stylus pointer icon.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import android.content.Context;

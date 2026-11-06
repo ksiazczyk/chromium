@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectWritingTrigger unit tests
+// summary: Robolectric unit tests covering stylus motion event detection and Direct Writing trigger behavior when WebContents changes.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static org.junit.Assert.assertEquals;

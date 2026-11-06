@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Stylus handwriting Android include rules
+summary: Specifies include rules allowing the Android stylus handwriting component to depend on the base, content, and UI Android directories.

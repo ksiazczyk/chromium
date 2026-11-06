@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWritingSettingsHelper
+// summary: Helper that determines Direct Writing feature support based on Android version, Honeyboard default IME, feature settings and callback availability.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import android.os.Build;

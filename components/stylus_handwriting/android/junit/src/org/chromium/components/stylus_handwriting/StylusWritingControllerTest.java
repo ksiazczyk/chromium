@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StylusWritingController hover icon tests
+// summary: Robolectric tests for StylusWritingController focusing on when the stylus hover pointer icon is shown or cleared.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static org.junit.Assert.assertEquals;

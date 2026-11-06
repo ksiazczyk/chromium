@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Robolectric shadow for Android global settings
+// summary: Shadow class that lets tests read and set the Android global setting controlling stylus handwriting.
+// ---
+
 package org.chromium.components.stylus_handwriting.test_support;
 
 import android.content.ContentResolver;

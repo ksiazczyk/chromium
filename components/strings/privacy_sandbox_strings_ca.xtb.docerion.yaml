@@ -1,0 +1,4 @@
+# Docerion header of privacy_sandbox_strings_ca.xtb.
+type: data
+title: Privacy Sandbox strings in Catalan
+summary: Catalan XML translation bundle providing localized Privacy Sandbox and third-party cookie messages for Chromium settings and prompts.

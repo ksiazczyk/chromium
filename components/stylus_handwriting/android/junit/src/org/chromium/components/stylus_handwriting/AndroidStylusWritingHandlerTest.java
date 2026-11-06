@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidStylusWritingHandler unit tests
+// summary: Robolectric unit tests verifying when the Android stylus handwriting handler is enabled, covering Android version checks, settings state, and keyboard support.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static android.view.PointerIcon.TYPE_HANDWRITING;

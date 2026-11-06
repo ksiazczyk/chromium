@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Robolectric shadow for Android secure settings
+// summary: Shadow class that lets tests manipulate Android secure settings, including stylus handwriting and the default input method.
+// ---
+
 package org.chromium.components.stylus_handwriting.test_support;
 
 import android.content.ContentResolver;

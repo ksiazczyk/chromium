@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisabledStylusWritingHandler
+// summary: StylusWritingHandler implementation that represents the feature being disabled by clearing the handler on web contents and using a null pointer icon.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static android.view.PointerIcon.TYPE_NULL;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWritingServiceConfiguration
+// summary: Stores configuration values received from the Direct Writing service, such as toolbar hide delay, keep writing delay and trigger space thresholds.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static android.widget.directwriting.IDirectWritingService.KEY_BUNDLE_CONFIG_HIDE_DELAY;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Windows stylus handwriting component
+summary: Defines the GN component target for Windows stylus handwriting, listing features.cc and features.h as sources and depending on //base.

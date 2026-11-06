@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectWritingServiceBinder unit tests
+// summary: Robolectric unit tests covering registration and unregistration of the Direct Writing service callback and window focus change handling.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static org.mockito.ArgumentMatchers.any;

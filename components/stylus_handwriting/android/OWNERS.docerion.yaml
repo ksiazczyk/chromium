@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Stylus handwriting Android owners
+summary: Lists the code owners that must be included on all changes to the DirectWriting stylus handwriting code.

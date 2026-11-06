@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectWritingServiceCallback unit tests
+// summary: Robolectric unit tests covering gesture handling in the Direct Writing service callback, including two-point gestures and text conversion.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static org.junit.Assert.assertEquals;
