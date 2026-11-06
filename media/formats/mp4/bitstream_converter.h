@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitstream converter interface
+// summary: Declares the BitstreamConverter interface for common bitstream conversions such as H.264 MP4 to Annex B and elementary AAC to ADTS, with an AnalysisResult struct.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_BITSTREAM_CONVERTER_H_
 #define MEDIA_FORMATS_MP4_BITSTREAM_CONVERTER_H_
 

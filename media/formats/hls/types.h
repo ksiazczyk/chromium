@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS data type definitions
+// summary: Defines HLS value types such as DecimalInteger, DecimalResolution and quoted-string parsers used when reading playlist attributes.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_TYPES_H_
 #define MEDIA_FORMATS_HLS_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AC3 audio config parser
+// summary: Implements parsing of the AC3SpecificBox (dac3) to derive the channel count and channel layout per ETSI TS 102 366.
+// ---
+
 #include "media/formats/mp4/ac3.h"
 
 #include <algorithm>

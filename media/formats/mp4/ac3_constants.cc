@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AC3 channel layout table
+// summary: Defines the AC3 audio coding mode to channel layout conversion table indexed by lfeon and acmod values.
+// ---
+
 #include "media/formats/mp4/ac3_constants.h"
 
 #include <array>

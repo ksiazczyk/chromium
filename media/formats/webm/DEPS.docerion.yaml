@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebM DEPS include rules
+summary: Defines include rules for the WebM format directory, permitting dependencies on third_party/libwebm.

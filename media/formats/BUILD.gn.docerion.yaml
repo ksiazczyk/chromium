@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for media format parsers
+summary: Defines GN build targets for the media formats component, including a Rust safe MPEG audio parser library and a roll-up source set of MP4, WebM, MPEG, and WebCodecs stream parsers.

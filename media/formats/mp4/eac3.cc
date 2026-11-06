@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EAC3 parser implementation
+// summary: Implements parsing of the EAC3 dec3 decoder specific box to determine channel layout and count across independent and dependent substreams.
+// ---
+
 #include "media/formats/mp4/eac3.h"
 
 #include <algorithm>

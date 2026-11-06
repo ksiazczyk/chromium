@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multivariant playlist implementation
+// summary: Implements parsing of HLS multivariant playlists, building variant streams, rendition groups, and variable dictionaries from playlist tags.
+// ---
+
 #include "media/formats/hls/multivariant_playlist.h"
 
 #include <optional>

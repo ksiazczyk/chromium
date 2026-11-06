@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 Annex B to HEVC bitstream converter implementation
+// summary: Implements conversion of H.265 Annex B video chunks into HEVC format, maintaining the HEVCDecoderConfigurationRecord from VPS, SPS, PPS and HDR SEI NALUs.
+// ---
+
 #include "media/formats/mp4/h265_annex_b_to_hevc_bitstream_converter.h"
 
 #include <algorithm>

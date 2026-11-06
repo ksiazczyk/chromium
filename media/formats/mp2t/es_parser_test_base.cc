@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ES parser test base
+// summary: Shared base class for MPEG-2 TS ES parser unit tests, loading stream data, generating PES packets, and counting emitted configs and buffers.
+// ---
+
 #include "media/formats/mp2t/es_parser_test_base.h"
 
 #include <algorithm>

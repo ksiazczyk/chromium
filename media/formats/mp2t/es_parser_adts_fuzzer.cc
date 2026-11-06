@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EsParserAdts fuzzer entry point
+// summary: LibFuzzer entry point that feeds arbitrary data into the ADTS elementary stream parser to uncover crashes and hangs.
+// ---
+
 #include "media/formats/mp2t/es_parser_adts.h"
 
 #include <stddef.h>

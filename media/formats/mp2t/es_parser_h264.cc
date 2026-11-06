@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 ES parser implementation
+// summary: Implements the MPEG-2 TS H.264 elementary stream parser, including access unit splitting on AUD NALUs and Sample AES protected block handling.
+// ---
+
 #include "media/formats/mp2t/es_parser_h264.h"
 
 #include <limits>

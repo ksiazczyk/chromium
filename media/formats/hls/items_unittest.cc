@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Line item parsing unit tests
+// summary: Tests GetNextLineItem against expected tags, URIs, and errors for varied HLS manifest inputs.
+// ---
+
 #include "media/formats/hls/items.h"
 
 #include <string_view>

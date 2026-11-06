@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM tracks parser implementation
+// summary: Implements parsing of the WebM Tracks element, building media tracks with audio and video decoder configurations, track numbers, durations and encryption key IDs.
+// ---
+
 #include "media/formats/webm/webm_tracks_parser.h"
 
 #include <memory>

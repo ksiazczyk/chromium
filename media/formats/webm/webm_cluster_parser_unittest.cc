@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM cluster parser unit tests
+// summary: Unit tests for the WebM cluster parser covering block and Opus packet durations, encrypted frames, default duration estimation, and expected media log warnings.
+// ---
+
 #include "media/formats/webm/webm_cluster_parser.h"
 
 #include <stddef.h>

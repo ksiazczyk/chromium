@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CETS ECM section parser implementation
+// summary: Parses CETS-ECM sections per ISO/IEC 23001-9 to extract the key ID and IV and deliver them through a registration callback.
+// ---
+
 #include "media/formats/mp2t/ts_section_cets_ecm.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Descriptors class declaration
+// summary: Declares the Descriptors class used to read and query MPEG-2 descriptor lists attached to programs and program elements.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_DESCRIPTORS_H_
 #define MEDIA_FORMATS_MP2T_DESCRIPTORS_H_
 

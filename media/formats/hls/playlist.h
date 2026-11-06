@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playlist base class
+// summary: Declares the ref-counted HLS Playlist base class holding URI, security origin, version and independent segments state.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_PLAYLIST_H_
 #define MEDIA_FORMATS_HLS_PLAYLIST_H_
 

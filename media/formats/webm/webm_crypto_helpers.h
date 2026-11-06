@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM crypto helpers header
+// summary: Declares WebMCreateDecryptConfig, which produces a DecryptConfig and data offset for potentially encrypted WebM frames.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_CRYPTO_HELPERS_H_
 #define MEDIA_FORMATS_WEBM_WEBM_CRYPTO_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DTS:X audio configuration parsing
+// summary: Implements parsing of the udts box to extract DTS:X profile, frame duration, payload, channel mask, and sampling frequency.
+// ---
+
 #include "media/formats/mp4/dtsx.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAT section parser class declaration
+// summary: Declares TsSectionPat, which parses PAT sections and registers program number to PMT PID mappings via a callback.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_PAT_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_PAT_H_
 

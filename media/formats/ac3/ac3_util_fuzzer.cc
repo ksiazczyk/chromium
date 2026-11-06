@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ac3_util_fuzzer.cc
+// summary: Fuzz tests that feed arbitrary non-empty byte buffers to the Ac3Util sample-count parsers to verify they never crash.
+// ---
+
 #include <stdint.h>
 
 #include <vector>

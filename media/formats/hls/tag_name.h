@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS tag name enums and helpers
+// summary: Defines tag name enums for common, multivariant playlist, and media playlist HLS tags along with parsing and string conversion helpers.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_TAG_NAME_H_
 #define MEDIA_FORMATS_HLS_TAG_NAME_H_
 

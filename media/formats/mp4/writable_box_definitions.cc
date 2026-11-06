@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Writable MP4 box definitions implementation
+// summary: Implements constructors, destructors and copy semantics for writable MP4 box structs such as Movie, MovieFragment and sample entries.
+// ---
+
 #include "media/formats/mp4/writable_box_definitions.h"
 
 namespace media::mp4::writable_boxes {

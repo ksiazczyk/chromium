@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Writable MP4 box definitions
+// summary: Defines writable MP4 box structures and track fragment flags used to serialize movie and fragment boxes when muxing.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_WRITABLE_BOX_DEFINITIONS_H_
 #define MEDIA_FORMATS_MP4_WRITABLE_BOX_DEFINITIONS_H_
 

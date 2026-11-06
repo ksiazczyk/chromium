@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG audio stream parser base class header
+// summary: Declares the MPEGAudioStreamParserBase StreamParser class and its Header struct used by concrete MPEG audio parsers.
+// ---
+
 #ifndef MEDIA_FORMATS_MPEG_MPEG_AUDIO_STREAM_PARSER_BASE_H_
 #define MEDIA_FORMATS_MPEG_MPEG_AUDIO_STREAM_PARSER_BASE_H_
 

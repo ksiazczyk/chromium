@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM cluster parser
+// summary: Declares the WebMClusterParser class that parses WebM clusters into stream parser buffers, with per-track state, duration estimation, and Opus frame duration handling.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_CLUSTER_PARSER_H_
 #define MEDIA_FORMATS_WEBM_WEBM_CLUSTER_PARSER_H_
 

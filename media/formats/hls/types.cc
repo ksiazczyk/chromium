@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of HLS type parsers
+// summary: Implements parsing of HLS value types including time deltas, byte range expressions, ISO8601 dates, integers, floats and resolutions.
+// ---
+
 #include "media/formats/hls/types.h"
 
 #include <algorithm>

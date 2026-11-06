@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 parse result enum and macro
+// summary: Defines the ParseResult enum and a macro that logs and early-returns non-OK parse results in MP4 parsing code.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_PARSE_RESULT_H_
 #define MEDIA_FORMATS_MP4_PARSE_RESULT_H_
 

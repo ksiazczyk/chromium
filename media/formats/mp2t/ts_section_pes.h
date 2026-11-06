@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TsSectionPes header for PES section parsing
+// summary: Declares TsSectionPes, which reassembles PES packets from transport stream payloads and forwards them to an ES parser with unrolled PTS/DTS timestamps.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_PES_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_PES_H_
 

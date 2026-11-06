@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAT section parser implementation
+// summary: Implements parsing of the Program Association Table, validating sections and registering the single supported PMT PID via callback.
+// ---
+
 #include "media/formats/mp2t/ts_section_pat.h"
 
 #include <optional>

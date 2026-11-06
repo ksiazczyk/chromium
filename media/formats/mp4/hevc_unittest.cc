@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HEVC Annex-B analysis
+// summary: Tests HEVC::AnalyzeAnnexB keyframe detection and conformance checking across valid and invalid NALU sequences plus configuration record parsing from stream data.
+// ---
+
 
 #include "media/formats/mp4/hevc.h"
 

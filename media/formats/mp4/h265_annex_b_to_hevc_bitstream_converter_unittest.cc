@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.265 Annex B to HEVC converter unit tests
+// summary: Unit tests that convert recorded H.265 Annex B chunks and verify output bitstreams, VPS/SPS/PPS ordering and HEVCDecoderConfigurationRecord contents.
+// ---
+
 #include "media/formats/mp4/h265_annex_b_to_hevc_bitstream_converter.h"
 
 #include <stdint.h>

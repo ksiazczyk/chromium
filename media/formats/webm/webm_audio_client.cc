@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM audio client implementation
+// summary: Implements WebMAudioClient, which parses Audio track elements and initializes AudioDecoderConfig for Vorbis and Opus codecs.
+// ---
+
 #include "media/formats/webm/webm_audio_client.h"
 
 #include "media/base/audio_decoder_config.h"

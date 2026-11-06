@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus extra data constants
+// summary: Defines Opus extra data layout offsets, channel mapping families, the 48 kHz default sample rate, and helpers for Vorbis-to-Chromium channel mapping.
+// ---
+
 #ifndef MEDIA_FORMATS_COMMON_OPUS_CONSTANTS_H_
 #define MEDIA_FORMATS_COMMON_OPUS_CONSTANTS_H_
 

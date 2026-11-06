@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCodecs encoded chunk stream parser implementation
+// summary: Implements the WebCodecsEncodedChunkStreamParser, a StreamParser that emits audio or video decoder configs and processes queues of encoded chunks instead of parsing byte streams.
+// ---
+
 #include "media/formats/webcodecs/webcodecs_encoded_chunk_stream_parser.h"
 
 #include <string>

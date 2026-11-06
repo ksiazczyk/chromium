@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM tracks parser unit tests
+// summary: Unit tests for WebMTracksParser covering ignored text tracks, precision-capped default durations and audio/video decoder configuration parsing.
+// ---
+
 #include "media/formats/webm/webm_tracks_parser.h"
 
 #include <stddef.h>

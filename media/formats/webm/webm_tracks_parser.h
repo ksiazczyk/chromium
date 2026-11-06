@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM tracks parser header
+// summary: Declares the WebMTracksParser for parsing WebM Tracks elements and exposing track numbers, decoder configs, default durations and detected track counts.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_TRACKS_PARSER_H_
 #define MEDIA_FORMATS_WEBM_WEBM_TRACKS_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TsSectionPmt implementation for Program Map Table parsing
+// summary: Implements parsing of MPEG-2 PMT PSI sections, validating table fields, reading stream types and descriptors, and registering elementary stream PIDs via a callback.
+// ---
+
 #include "media/formats/mp2t/ts_section_pmt.h"
 
 #include <map>

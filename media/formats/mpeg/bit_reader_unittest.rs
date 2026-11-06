@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust bit reader unit tests
+// summary: Covers normal operation, out-of-bounds reads, bit skipping, bits-read counting, and slow-path refill for the Rust bit reader.
+// ---
+
 chromium::import! {
     "//media/formats:safe_mpeg_audio_parsers";
 }

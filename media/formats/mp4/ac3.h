@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AC3 parser class declaration
+// summary: Declares the AC3 class that parses the dac3 box in ISO BMFF files and provides channel count and channel layout accessors.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_AC3_H_
 #define MEDIA_FORMATS_MP4_AC3_H_
 

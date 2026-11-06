@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timestamp unroller header
+// summary: Declares TimestampUnroller, which converts 33-bit MPEG-2 TS timestamps into continuous 64-bit timestamps and can be reset.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TIMESTAMP_UNROLLER_H_
 #define MEDIA_FORMATS_MP2T_TIMESTAMP_UNROLLER_H_
 

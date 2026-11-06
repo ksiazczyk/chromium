@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EAC3 parser unit tests
+// summary: Unit tests verifying EAC3 parsing of channel counts and layouts from mono through 7.1 configurations.
+// ---
+
 #include <stdint.h>
 
 #include "media/base/mock_media_log.h"

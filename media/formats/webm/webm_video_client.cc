@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM video client implementation
+// summary: Implements the WebMVideoClient helper that parses Video track element fields and initializes VideoDecoderConfig for VP8, VP9 and AV1 codecs including color and projection metadata.
+// ---
+
 #include "media/formats/webm/webm_video_client.h"
 
 #include "media/base/video_decoder_config.h"

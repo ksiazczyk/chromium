@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAC parser class declaration
+// summary: Declares the AAC class that parses decoder specific information from the esds box and exposes sample rate, channel layout, profile and ADTS helpers.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_AAC_H_
 #define MEDIA_FORMATS_MP4_AAC_H_
 

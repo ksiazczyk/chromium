@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 box definitions implementation
+// summary: Implements parsing of MP4 box structures, including Dolby Vision configuration, color volume metadata, encryption and codec configuration boxes.
+// ---
+
 #include "media/formats/mp4/box_definitions.h"
 
 #include <bitset>

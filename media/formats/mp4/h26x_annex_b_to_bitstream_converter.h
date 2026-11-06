@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.26x Annex B to AVC/HEVC bitstream converter header
+// summary: Declares H26xAnnexBToBitstreamConverter, a wrapper that selects the H.264 or H.265 Annex B converter and provides chunk conversion, codec description and profile.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_H26X_ANNEX_B_TO_BITSTREAM_CONVERTER_H_
 #define MEDIA_FORMATS_MP4_H26X_ANNEX_B_TO_BITSTREAM_CONVERTER_H_
 

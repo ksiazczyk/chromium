@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS rendition manager unit tests
+// summary: Extensive unit tests for RenditionManager covering codec support filtering, variant selection, and adaptation behavior across platforms.
+// ---
+
 #include "media/formats/hls/rendition_manager.h"
 
 #include <optional>

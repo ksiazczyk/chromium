@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AAC audio config parser
+// summary: Implements parsing of AAC AudioSpecificConfig from the esds box in ISO BMFF files, covering base and HE-AAC profiles and ADTS header generation.
+// ---
+
 #include "media/formats/mp4/aac.h"
 
 #include <stddef.h>

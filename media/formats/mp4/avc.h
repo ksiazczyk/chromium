@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AVC bitstream converter interface
+// summary: Declares the AVC class with static helpers for Annex B conversion, parameter set insertion, keyframe analysis and the AVC bitstream converter for MP4 containers.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_AVC_H_
 #define MEDIA_FORMATS_MP4_AVC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AC4 parser class declaration
+// summary: Declares the AC4 class and AC4StreamInfo struct for parsing AC4 decoder specific information from the dac4 box in ISO BMFF files.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_AC4_H_
 #define MEDIA_FORMATS_MP4_AC4_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS parse status codes
+// summary: Defines the ParseStatusCode enum and status traits enumerating all HLS playlist parsing errors with readable names.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_PARSE_STATUS_H_
 #define MEDIA_FORMATS_HLS_PARSE_STATUS_H_
 

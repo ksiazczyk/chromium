@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CETS ECM section parser class declaration
+// summary: Declares TsSectionCetsEcm, which parses encrypted TS ECM sections and reports new key ID and IV pairs via a callback.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_CETS_ECM_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_CETS_ECM_H_
 

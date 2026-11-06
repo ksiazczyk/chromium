@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AAC parser unit tests
+// summary: Unit tests verifying AAC config parsing, sample rates, channel layouts, implicit SBR handling and unsupported profile log messages.
+// ---
+
 #include "media/formats/mp4/aac.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TS section parser interface
+// summary: Defines the TsSection interface for parsing MPEG-2 transport stream sections, including special PID values and the Parse, Flush, and Reset methods.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_H_
 

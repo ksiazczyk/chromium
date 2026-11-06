@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media playlist parser
+// summary: Implements parsing of HLS media playlists into segments, durations, and playback state such as target duration and end list.
+// ---
+
 #include "media/formats/hls/media_playlist.h"
 
 #include <cmath>

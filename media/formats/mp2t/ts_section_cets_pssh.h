@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CETS PSSH section parser class declaration
+// summary: Declares TsSectionCetsPssh, which parses CETS-PSSH sections and forwards pssh box data through a callback.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_CETS_PSSH_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_CETS_PSSH_H_
 

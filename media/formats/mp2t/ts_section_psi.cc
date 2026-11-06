@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TsSectionPsi implementation for PSI section assembly
+// summary: Implements the PSI section base logic with pointer field handling, buffering, section length checks and CRC-32 validation before dispatching to ParsePsiSection.
+// ---
+
 #include "media/formats/mp2t/ts_section_psi.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ES descriptor unit tests
+// summary: Unit tests covering ESDescriptor parsing of single and multi-byte lengths, non-AAC object types, empty data, and ESDS creation.
+// ---
+
 #include "media/formats/mp4/es_descriptor.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timestamp unroller unit tests
+// summary: Unit tests verifying that TimestampUnroller restores timestamps truncated to 33 bits back to their original 64-bit values.
+// ---
+
 #include "media/formats/mp2t/timestamp_unroller.h"
 
 #include <stddef.h>

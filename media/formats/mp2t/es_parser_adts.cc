@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADTS audio stream parser implementation
+// summary: Implements the ADTS elementary stream parser that locates ADTS frames, updates audio configurations and emits audio buffers.
+// ---
+
 #include "media/formats/mp2t/es_parser_adts.h"
 
 #include <stddef.h>

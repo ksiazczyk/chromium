@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 box reader implementation
+// summary: Implements BufferReader and BoxReader for reading big-endian values and parsing MP4/ISO BMFF box headers and child boxes.
+// ---
+
 #include "media/formats/mp4/box_reader.h"
 
 #include <stddef.h>

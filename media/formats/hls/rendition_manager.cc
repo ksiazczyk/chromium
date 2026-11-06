@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition manager implementation
+// summary: Implements rendition selection, filtering supported variants by codec support and bandwidth, and firing callbacks when selections change.
+// ---
+
 #include "media/formats/hls/rendition_manager.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Line item parser fuzzer
+// summary: Fuzzes GetNextLineItem to check iterator invariants and that only EOF or invalid line ending errors are returned.
+// ---
+
 #include "media/formats/hls/items.h"
 
 #include <cstddef>

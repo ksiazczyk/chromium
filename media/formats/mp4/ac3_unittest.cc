@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AC3 parser unit tests
+// summary: Unit tests verifying AC3 config parsing and channel layout results for invalid input and mono through 5.1 configurations.
+// ---
+
 #include <stdint.h>
 
 #include "media/base/channel_layout.h"

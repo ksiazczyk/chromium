@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus packet builder header
+// summary: Declares the OpusPacket class and BuildAllOpusPackets helper for building Opus packet configurations as defined by RFC 6716.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_OPUS_PACKET_BUILDER_H_
 #define MEDIA_FORMATS_WEBM_OPUS_PACKET_BUILDER_H_
 

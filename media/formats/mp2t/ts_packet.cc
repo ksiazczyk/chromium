@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TS packet parsing implementation
+// summary: Implements TS packet synchronization on syncwords and header parsing, including adaptation field handling and payload extraction.
+// ---
+
 #include "media/formats/mp2t/ts_packet.h"
 
 #include <memory>

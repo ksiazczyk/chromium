@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CAT section parser class declaration
+// summary: Declares TsSectionCat, which parses CAT sections and reports CENC PIDs and the encryption scheme through callbacks.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_CAT_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_CAT_H_
 

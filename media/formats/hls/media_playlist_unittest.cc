@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media playlist unit tests
+// summary: Unit tests covering HLS media playlist parsing, including segments, durations, target duration limits, and expected parse errors.
+// ---
+
 #include "media/formats/hls/media_playlist.h"
 
 #include <initializer_list>

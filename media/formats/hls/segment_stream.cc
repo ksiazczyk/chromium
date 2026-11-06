@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS segment stream implementation
+// summary: Implements SegmentStream, which queues media segments for download, supports seeking, and swaps in new playlists for live stream adaptation.
+// ---
+
 #include "media/formats/hls/segment_stream.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG-2 TS stream parser header
+// summary: Declares Mp2tStreamParser, the StreamParser implementation for MPEG-2 transport streams, covering PID filtering, decoder config changes and buffer emission.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_MP2T_STREAM_PARSER_H_
 #define MEDIA_FORMATS_MP2T_MP2T_STREAM_PARSER_H_
 

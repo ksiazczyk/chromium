@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM parser unit tests
+// summary: Unit tests for WebMListParser and WebMParserClient covering clusters, segments, and malformed element sizes using a mock client.
+// ---
+
 #include "media/formats/webm/webm_parser.h"
 
 #include <stddef.h>

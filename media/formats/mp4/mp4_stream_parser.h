@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 stream parser class declaration
+// summary: Declares MP4StreamParser, the StreamParser implementation that incrementally parses MP4 boxes and sample data into media track buffers.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_MP4_STREAM_PARSER_H_
 #define MEDIA_FORMATS_MP4_MP4_STREAM_PARSER_H_
 

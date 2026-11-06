@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentEncoding class implementation
+// summary: Implements the ContentEncoding class, including construction with invalid defaults and setting the encryption key ID from byte data.
+// ---
+
 #include "media/formats/webm/webm_content_encodings.h"
 
 #include "base/check_op.h"

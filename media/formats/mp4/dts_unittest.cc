@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DTS configuration parsing
+// summary: Unit tests checking DTS parsing of empty, short, and normal ddts payloads and the extracted stream parameters.
+// ---
+
 #include <stdint.h>
 
 #include <string>

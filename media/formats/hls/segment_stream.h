@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS segment stream declaration
+// summary: Declares SegmentStream, a queue of segments to fetch in order with seeking, playlist replacement, and live stream skipping per RFC 8216.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_SEGMENT_STREAM_H_
 #define MEDIA_FORMATS_HLS_SEGMENT_STREAM_H_
 

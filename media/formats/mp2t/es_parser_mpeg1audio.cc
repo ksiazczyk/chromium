@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG1 audio ES parser implementation
+// summary: Implements the MPEG-2 TS MPEG-1 audio elementary stream parser, locating audio frames, updating the audio configuration, and emitting timed buffers.
+// ---
+
 #include "media/formats/mp2t/es_parser_mpeg1audio.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elementary stream parser base implementation
+// summary: Implements the EsParser base class that queues elementary stream bytes and associates timing descriptors with stream positions.
+// ---
+
 #include "media/formats/mp2t/es_parser.h"
 
 #include "base/logging.h"

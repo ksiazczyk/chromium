@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media segment unit tests
+// summary: Unit tests verifying encryption data IV export, both from a parsed IV value and derived from the media sequence number.
+// ---
+
 #include "media/formats/hls/media_segment.h"
 
 #include "media/formats/hls/parse_status.h"

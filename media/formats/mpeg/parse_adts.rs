@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADTS frame header parser in Rust
+// summary: Parses ADTS audio frame headers to extract frame size, sample rate, channel layout and AAC config values.
+// ---
+
 use crate::bit_reader::SimpleBitReader;
 use crate::ffi::MpegAudioHeaderInfo;
 use crate::ParserError;

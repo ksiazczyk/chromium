@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for MP4 box reader
+// summary: LibFuzzer harness that parses arbitrary data as a top-level MP4 box and scans its children to expose BoxReader parsing bugs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

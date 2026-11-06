@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media playlist parser fuzzer
+// summary: Fuzzer harness that feeds random input into MediaPlaylist and optionally MultivariantPlaylist parsing to uncover crashes and parsing bugs.
+// ---
+
 #include "media/formats/hls/media_playlist.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

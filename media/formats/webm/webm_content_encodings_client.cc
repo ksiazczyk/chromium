@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM content encodings client implementation
+// summary: Implements the WebMContentEncodingsClient, parsing ContentEncodings elements, applying default values, and validating mandatory encryption fields.
+// ---
+
 #include "media/formats/webm/webm_content_encodings_client.h"
 
 #include <memory>

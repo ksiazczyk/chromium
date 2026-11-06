@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP4 NALU test helper
+// summary: Declares helpers that convert NALU type strings into Annex B buffers with subsamples for use in MP4 unit tests.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_NALU_TEST_HELPER_H_
 #define MEDIA_FORMATS_MP4_NALU_TEST_HELPER_H_
 

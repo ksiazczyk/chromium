@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FourCC to string conversion
+// summary: Implements FourCCToString, converting a FourCC value to a printable string with a hexadecimal fallback for unprintable characters.
+// ---
+
 
 #include "media/formats/mp4/fourccs.h"
 

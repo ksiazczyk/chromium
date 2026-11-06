@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG-1 audio stream parser implementation
+// summary: Implements the MPEG-1 audio (MP3) stream parser, converting Rust FFI header results into the C++ parser's Header structure.
+// ---
+
 #include "media/formats/mpeg/mpeg1_audio_stream_parser.h"
 
 #include <array>

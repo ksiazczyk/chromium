@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multivariant playlist class declaration
+// summary: Declares the MultivariantPlaylist class that parses HLS master playlist sources and exposes variants and the variable dictionary.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_MULTIVARIANT_PLAYLIST_H_
 #define MEDIA_FORMATS_HLS_MULTIVARIANT_PLAYLIST_H_
 

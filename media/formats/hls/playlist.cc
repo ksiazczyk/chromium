@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playlist base class implementation
+// summary: Implements the HLS Playlist base class and IdentifyPlaylist, which detects playlist kind and version from playlist source.
+// ---
+
 #include "media/formats/hls/playlist.h"
 
 #include <variant>

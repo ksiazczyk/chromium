@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HLS tag parsing
+// summary: Verifies parsing of HLS tags, covering successful tag construction and expected error codes for malformed or missing tag content.
+// ---
+
 #include "media/formats/hls/tags.h"
 
 #include <algorithm>

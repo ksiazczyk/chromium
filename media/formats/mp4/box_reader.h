@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 box reader class declarations
+// summary: Declares the Box interface plus BufferReader and BoxReader classes used to parse MP4 boxes from byte buffers.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_BOX_READER_H_
 #define MEDIA_FORMATS_MP4_BOX_READER_H_
 

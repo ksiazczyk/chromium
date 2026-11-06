@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SampleToGroupIterator unit tests
+// summary: Tests SampleToGroupIterator behavior for empty tables and for advancing through compact sample-to-group entries.
+// ---
+
 
 #include "media/formats/mp4/sample_to_group_iterator.h"
 

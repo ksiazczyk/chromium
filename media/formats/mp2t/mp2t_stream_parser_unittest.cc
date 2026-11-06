@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MPEG-2 TS stream parser unit tests
+// summary: Unit tests for the MP2T stream parser covering stream parsing, timestamp monotonicity and Sample AES decryption of encrypted streams.
+// ---
+
 #include "media/formats/mp2t/mp2t_stream_parser.h"
 
 #include <openssl/aes.h>

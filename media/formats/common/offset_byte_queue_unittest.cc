@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OffsetByteQueue unit tests
+// summary: Unit tests verifying OffsetByteQueue head and tail tracking, DataAt peeking, and Trim behavior including end-of-stream cases.
+// ---
+
 #include "base/numerics/safe_conversions.h"
 
 #include "media/formats/common/offset_byte_queue.h"

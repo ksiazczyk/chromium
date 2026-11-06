@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CAT section parser implementation
+// summary: Implements parsing of the Conditional Access Table, extracting CENC PID and encryption scheme descriptors and registering them via callbacks.
+// ---
+
 #include "media/formats/mp2t/ts_section_cat.h"
 
 #include <optional>

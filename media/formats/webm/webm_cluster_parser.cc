@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM cluster parser implementation
+// summary: Implements WebMClusterParser, which parses WebM clusters into audio and video stream parser buffers, handling timecodes, durations and encryption.
+// ---
+
 #include "media/formats/webm/webm_cluster_parser.h"
 
 #include <bit>

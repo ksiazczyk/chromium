@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TsSectionPmt header for PMT section parsing
+// summary: Declares TsSectionPmt, a PSI section parser that reads Program Map Table entries and registers ES PIDs with stream types and descriptors through a callback.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_PMT_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_PMT_H_
 

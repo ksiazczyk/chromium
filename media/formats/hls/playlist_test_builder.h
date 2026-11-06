@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Playlist test builder base
+// summary: Template base class for building playlist test cases, handling playlist text assembly, parsing and expectation checks.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_PLAYLIST_TEST_BUILDER_H_
 #define MEDIA_FORMATS_HLS_PLAYLIST_TEST_BUILDER_H_
 

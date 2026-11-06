@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracks builder header
+// summary: Declares TracksBuilder and its Track class for constructing WebM Tracks elements with configurable track properties.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_TRACKS_BUILDER_H_
 #define MEDIA_FORMATS_WEBM_TRACKS_BUILDER_H_
 

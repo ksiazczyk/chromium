@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TS packet header
+// summary: Declares TsPacket, which parses 188-byte MPEG-2 transport stream packets and exposes PID, indicators and payload accessors.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_PACKET_H_
 #define MEDIA_FORMATS_MP2T_TS_PACKET_H_
 

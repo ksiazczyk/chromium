@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ac3_util.h
+// summary: Declares the media::Ac3Util class with static methods for counting audio samples in AC3 and E-AC3 syncframe buffers.
+// ---
+
 #ifndef MEDIA_FORMATS_AC3_AC3_UTIL_H_
 #define MEDIA_FORMATS_AC3_AC3_UTIL_H_
 

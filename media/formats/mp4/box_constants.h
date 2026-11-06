@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 box constants
+// summary: Defines the identity display matrix constant for ISO/IEC 14496-12 video tracks, representing video frames shown unscaled and without rotation or zoom.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_BOX_CONSTANTS_H_
 #define MEDIA_FORMATS_MP4_BOX_CONSTANTS_H_
 

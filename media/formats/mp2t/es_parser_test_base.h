@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ES parser test base class header
+// summary: Shared base class for elementary stream parser unit tests, providing packet loading, PES packet processing and tracking of config and buffer callbacks.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_ES_PARSER_TEST_BASE_H_
 #define MEDIA_FORMATS_MP2T_ES_PARSER_TEST_BASE_H_
 

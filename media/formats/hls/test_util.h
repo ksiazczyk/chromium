@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared helpers for HLS unit tests
+// summary: Provides inline test helpers for creating variable names and byte ranges plus a RoughlyEqual comparison for TimeDelta values with tolerance.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_TEST_UTIL_H_
 #define MEDIA_FORMATS_HLS_TEST_UTIL_H_
 

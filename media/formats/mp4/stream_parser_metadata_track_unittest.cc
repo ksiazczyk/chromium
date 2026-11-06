@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StreamParserMetadataTrack unit tests
+// summary: Tests attaching, holding, and flushing metadata buffers for render tracks in the stream parser metadata track.
+// ---
+
 #include "media/formats/mp4/stream_parser_metadata_track.h"
 
 #include <vector>

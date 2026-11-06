@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elementary stream descriptor header
+// summary: Declares the ESDescriptor class plus object type and tag enums for parsing elementary stream descriptors from esds boxes.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_ES_DESCRIPTOR_H_
 #define MEDIA_FORMATS_MP4_ES_DESCRIPTOR_H_
 

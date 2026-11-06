@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP2T common macros and constants
+// summary: Shared macros, log levels and audio/video track ID constants for the MPEG-2 TS parsing code, including the RCHECK parsing guard macro.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_MP2T_COMMON_H_
 #define MEDIA_FORMATS_MP2T_MP2T_COMMON_H_
 

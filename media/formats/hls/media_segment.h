@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media segment class declaration
+// summary: Declares the ref-counted MediaSegment class with nested initialization segment and encryption data types for HLS media segments.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_MEDIA_SEGMENT_H_
 #define MEDIA_FORMATS_HLS_MEDIA_SEGMENT_H_
 

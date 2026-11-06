@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MPEG1 audio ES parser unit tests
+// summary: Unit tests for the MPEG-2 TS MPEG-1 audio elementary stream parser, verifying buffer counts with and without timing information.
+// ---
+
 #include <vector>
 
 #include "base/functional/bind.h"

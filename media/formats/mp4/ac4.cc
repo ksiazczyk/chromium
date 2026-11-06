@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AC4 decoder specific info parser
+// summary: Implements parsing of AC4 DSI from the dac4 box, including presentations, substream groups, bitrate info and speaker layout mapping.
+// ---
+
 #include "media/formats/mp4/ac4.h"
 
 #include <algorithm>

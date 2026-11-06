@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ac3_util.cc
+// summary: Implements Ac3Util helpers that parse (E-)AC3 synchronization frame headers and compute the total number of audio samples in a buffer.
+// ---
+
 #include "media/formats/ac3/ac3_util.h"
 
 #include <array>

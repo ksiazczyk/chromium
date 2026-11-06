@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitstream converter base implementation
+// summary: Implements constructors and the destructor for the BitstreamConverter interface and its AnalysisResult struct.
+// ---
+
 #include "media/formats/mp4/bitstream_converter.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HLS type parsing
+// summary: Tests parsing of decimal integers, floating-point values and other HLS types, checking valid inputs and expected error codes.
+// ---
+
 #include "media/formats/hls/types.h"
 
 #include <initializer_list>

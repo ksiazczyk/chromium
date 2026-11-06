@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EsAdapterVideo unit tests
+// summary: Unit tests for the video ES adapter, verifying frame duration computation and key frame replacement behavior.
+// ---
+
 #include "media/formats/mp2t/es_adapter_video.h"
 
 #include <stddef.h>

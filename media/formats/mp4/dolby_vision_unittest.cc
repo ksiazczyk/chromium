@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Dolby Vision configuration parsing
+// summary: Unit tests that parse sample Dolby Vision configuration records and check profile, level, and flag values.
+// ---
+
 #include "media/formats/mp4/dolby_vision.h"
 
 #include "media/base/video_codecs.h"

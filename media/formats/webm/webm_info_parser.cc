@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM Info parser implementation
+// summary: Parses the WebM Info element to extract timecode scale, duration, and DateUTC values with default handling for missing timecode scale.
+// ---
+
 #include "media/formats/webm/webm_info_parser.h"
 
 #include "base/logging.h"

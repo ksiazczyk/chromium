@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracks builder implementation
+// summary: Implements TracksBuilder, which serializes Matroska track entries with video, audio and text track elements for constructing test data.
+// ---
+
 #include "media/formats/webm/tracks_builder.h"
 
 #include "base/bit_cast.h"

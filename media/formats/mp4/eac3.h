@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EAC3 parser header
+// summary: Declares the EAC3 class that parses E-AC-3 decoder specific information from the dec3 box in ISO BMFF files.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_EAC3_H_
 #define MEDIA_FORMATS_MP4_EAC3_H_
 
