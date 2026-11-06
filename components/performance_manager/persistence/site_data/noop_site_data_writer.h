@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoopSiteDataWriter class declaration
+// summary: Declares NoopSiteDataWriter, a SiteDataWriter specialization that discards all site feature notifications and is created by NonRecordingSiteDataCache.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_NOOP_SITE_DATA_WRITER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_NOOP_SITE_DATA_WRITER_H_
 

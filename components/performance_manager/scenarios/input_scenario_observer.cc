@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input scenario observer implementation
+// summary: Implements an observer that aggregates per-frame input scenarios into per-process and global counts and updates the corresponding shared scenario state.
+// ---
+
 #include "components/performance_manager/scenarios/input_scenario_observer.h"
 
 #include "base/check.h"

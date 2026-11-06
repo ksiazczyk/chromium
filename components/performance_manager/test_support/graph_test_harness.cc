@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph test harness implementation
+// summary: Implements TestGraphImpl node creation helpers and the GraphTestHarness fixture with a mock-time task environment.
+// ---
+
 #include "components/performance_manager/test_support/graph_test_harness.h"
 
 #include "base/functional/bind.h"

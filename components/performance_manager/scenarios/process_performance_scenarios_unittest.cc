@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process performance scenarios unit tests
+// summary: Tests process scenario getters and observer notifications, including handling of failed shared memory mapping.
+// ---
+
 #include "components/performance_manager/public/scenarios/process_performance_scenarios.h"
 
 #include <optional>

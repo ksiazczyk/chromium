@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker client pages header
+// summary: Declares GetWorkerClientPagesAndBrowsingInstances, which returns the client pages and browsing instances of a worker node.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_WORKER_CLIENT_PAGES_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_WORKER_CLIENT_PAGES_H_
 

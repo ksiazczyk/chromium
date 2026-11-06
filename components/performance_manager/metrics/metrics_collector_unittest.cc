@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MetricsCollector process lifetime metrics
+// summary: Graph harness tests verifying that MetricsCollector records the expected Renderer.ProcessLifetime3 histogram samples for launch, exit, deletion, extension, and content type scenarios.
+// ---
+
 #include "components/performance_manager/public/metrics/metrics_collector.h"
 
 #include <utility>

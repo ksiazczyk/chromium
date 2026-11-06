@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus power manager sampling event source implementation
+// summary: Implements a sampling event source that triggers battery sampling callbacks when the ChromeOS power manager reports power changes, with a 30 second interval.
+// ---
+
 #include "components/performance_manager/power/dbus_power_manager_sampling_event_source.h"
 
 namespace performance_manager::power {

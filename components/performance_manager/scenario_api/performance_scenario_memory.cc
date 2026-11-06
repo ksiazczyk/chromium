@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scenario shared memory mapping implementation
+// summary: Implements mapping of read-only shared memory holding performance scenario state and wiring it to observer lists.
+// ---
+
 #include "components/performance_manager/scenario_api/performance_scenario_memory.h"
 
 #include <optional>

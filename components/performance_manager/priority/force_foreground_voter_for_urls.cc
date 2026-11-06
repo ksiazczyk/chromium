@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceForegroundVoterForUrls implementation
+// summary: Implements a voter that forces foreground priority for frames and workers whose URLs match per-profile URL patterns, updating votes when patterns or URLs change.
+// ---
+
 #include "components/performance_manager/priority/force_foreground_voter_for_urls.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simulated CPU measurement delegates for tests
+// summary: Declares a simulated CPU measurement delegate factory that lets unit tests fake CPU usage reported for process nodes.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_RESOURCE_ATTRIBUTION_MEASUREMENT_DELEGATES_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_RESOURCE_ATTRIBUTION_MEASUREMENT_DELEGATES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance Manager browser test harness implementation
+// summary: Implements the browser test fixture that initializes the Performance Manager graph, tracks browser contexts, and supports navigation and console message waits.
+// ---
+
 #include "components/performance_manager/test_support/performance_manager_browsertest_harness.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataWriter implementation
+// summary: Implements SiteDataWriter methods that forward tab load, visibility, feature usage, and performance measurement events to SiteDataImpl.
+// ---
+
 #include "components/performance_manager/persistence/site_data/site_data_writer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InheritClientPriorityVoter header
+// summary: Declares a voter that ensures child workers inherit the priority of their client frames or workers.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_INHERIT_CLIENT_PRIORITY_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_INHERIT_CLIENT_PRIORITY_VOTER_H_
 

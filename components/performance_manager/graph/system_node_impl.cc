@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System node implementation
+// summary: Implements SystemNodeImpl, notifying observers when process memory metrics become available.
+// ---
+
 #include "components/performance_manager/graph/system_node_impl.h"
 
 #include <algorithm>

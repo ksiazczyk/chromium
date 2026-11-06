@@ -4,6 +4,12 @@
 
 // Common functionality for unittest and browsertest harnesses.
 
+// ---docerion
+// type: source
+// title: Performance Manager test harness helper
+// summary: Header for a helper that sets up and tears down the Performance Manager in unit and browser tests, with hooks for WebContents creation, BrowserContext handling and graph feature configuration.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_TEST_HARNESS_HELPER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_TEST_HARNESS_HELPER_H_
 

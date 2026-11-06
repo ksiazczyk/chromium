@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 detailed memory decorator unit tests
+// summary: Unit tests for the V8DetailedMemoryDecorator covering measurement modes, request scheduling, observer notifications, and object lifetime handling with mock reporters.
+// ---
+
 #include "components/performance_manager/public/v8_memory/v8_detailed_memory.h"
 
 #include <memory>

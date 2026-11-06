@@ -1,3 +1,11 @@
+---
+type: readme
+title: Resource Attribution Overview
+summary: Explains the Resource Attribution component's purpose, public API location, and implementation architecture of delegates, providers, and the query scheduler.
+relations:
+  - references /components/performance_manager/resource_attribution/doc/overview.png
+---
+
 # Resource Attribution Overview
 
 [TOC]

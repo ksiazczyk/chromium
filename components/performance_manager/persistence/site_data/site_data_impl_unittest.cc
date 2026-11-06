@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteDataImpl unit tests
+// summary: Unit tests for SiteDataImpl covering load and unload events, feature usage tracking, and data-loaded callbacks using a mock data store.
+// ---
+
 #include "components/performance_manager/persistence/site_data/site_data_impl.h"
 
 #include "base/byte_size.h"

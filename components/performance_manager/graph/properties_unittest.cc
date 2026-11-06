@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node property unit tests
+// summary: Tests observed property behavior including always, on-change and previous-value observer notifications and death checks.
+// ---
+
 #include "components/performance_manager/graph/properties.h"
 
 #include "base/observer_list.h"

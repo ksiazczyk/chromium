@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MaxVoteAggregator unit tests
+// summary: Unit tests for MaxVoteAggregator covering single and multiple voters, vote removal, and top vote forwarding across frame, worker, page and process nodes.
+// ---
+
 #include "components/performance_manager/public/priority/max_vote_aggregator.h"
 
 #include <optional>

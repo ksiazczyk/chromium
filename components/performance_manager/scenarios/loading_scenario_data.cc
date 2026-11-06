@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading scenario data implementation
+// summary: Implements loading page count and per-process frame count helpers used to compute loading scenarios, with checked increment and decrement operations.
+// ---
+
 #include "components/performance_manager/scenarios/loading_scenario_data.h"
 
 #include <map>

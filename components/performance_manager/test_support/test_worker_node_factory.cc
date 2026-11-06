@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test worker node factory implementation
+// summary: Implements the test factory that creates dedicated and shared worker nodes, attaches client frames or workers, and cleans up those relationships on deletion.
+// ---
+
 #include "components/performance_manager/test_support/test_worker_node_factory.h"
 
 #include "base/memory/raw_ptr.h"

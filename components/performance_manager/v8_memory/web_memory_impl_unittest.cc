@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebMeasureMemory implementation unit tests
+// summary: Unit tests for WebMemoryMeasurer covering measurement of same-origin, cross-origin, and cross-browsing-context-group frames using the V8 detailed memory machinery.
+// ---
+
 #include "components/performance_manager/v8_memory/web_memory_impl.h"
 
 #include <memory>

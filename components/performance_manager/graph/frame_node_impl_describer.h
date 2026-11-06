@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameNodeImplDescriber declaration
+// summary: Declares a graph-owned describer that registers itself with the node data describer registry to expose frame node data.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_FRAME_NODE_IMPL_DESCRIBER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_FRAME_NODE_IMPL_DESCRIBER_H_
 

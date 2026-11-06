@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Type helpers unit tests
+// summary: Unit tests for variant type helpers such as kIsVariantAlternative, GetAsOptional, and variant vector lookup utilities.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/type_helpers.h"
 
 #include <optional>

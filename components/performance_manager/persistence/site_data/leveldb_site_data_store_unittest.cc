@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB site data store unit tests
+// summary: Unit tests covering read, write, clear and store size operations of LevelDBSiteDataStore, including handling of read-only directories.
+// ---
+
 #include "components/performance_manager/persistence/site_data/leveldb_site_data_store.h"
 
 #include <limits>

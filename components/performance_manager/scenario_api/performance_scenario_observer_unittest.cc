@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scenario observer unit tests
+// summary: Unit tests for scenario observer lists, covering scope lookup, change notifications, and pattern matching behavior.
+// ---
+
 #include "components/performance_manager/scenario_api/performance_scenario_observer.h"
 
 #include <atomic>

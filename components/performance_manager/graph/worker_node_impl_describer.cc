@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker node data describer implementation
+// summary: Implements WorkerNodeImplDescriber, which serializes worker node properties such as type, URL, origin, priority, and metrics for debugging output.
+// ---
+
 #include "components/performance_manager/graph/worker_node_impl_describer.h"
 
 #include <utility>

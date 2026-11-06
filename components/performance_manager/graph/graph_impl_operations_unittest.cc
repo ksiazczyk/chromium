@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GraphImplOperations unit tests
+// summary: Unit tests for GraphImplOperations, setting up multi-process frame trees and worker hierarchies to verify graph queries and traversal helpers.
+// ---
+
 #include "components/performance_manager/graph/graph_impl_operations.h"
 
 #include <algorithm>

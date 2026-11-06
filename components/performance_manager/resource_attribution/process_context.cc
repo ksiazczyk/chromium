@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process context implementation
+// summary: Implements ProcessContext, which identifies browser, renderer, and browser child processes for resource attribution queries.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/process_context.h"
 
 #include <optional>

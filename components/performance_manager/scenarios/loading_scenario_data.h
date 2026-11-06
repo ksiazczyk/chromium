@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading scenario data header
+// summary: Declares LoadingScenarioCounts and LoadingScenarioPageFrameCounts inline data classes that track loading pages and frames per process for scenario computation.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_LOADING_SCENARIO_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_LOADING_SCENARIO_DATA_H_
 

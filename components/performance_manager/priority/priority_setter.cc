@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrioritySetter implementation
+// summary: Implements PrioritySetter, which applies top votes to frames, workers and renderer processes by setting their priority and reason.
+// ---
+
 #include "components/performance_manager/priority/priority_setter.h"
 
 #include "base/check_op.h"

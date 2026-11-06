@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System node implementation unit tests
+// summary: Unit tests for SystemNodeImpl covering safe downcasting and system node observer notification behavior when observers are added and removed.
+// ---
+
 #include "components/performance_manager/graph/system_node_impl.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageToFrameVoteExpander class declaration
+// summary: Declares PageToFrameVoteExpander, an observer that casts each page's top vote on every frame of the page so frames inherit page-level priority.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_PAGE_TO_FRAME_VOTE_EXPANDER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_PAGE_TO_FRAME_VOTE_EXPANDER_H_
 

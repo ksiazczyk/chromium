@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance Manager unit test harness implementation
+// summary: Implements the RenderViewHostTestHarness-based fixture that initializes the Performance Manager and provides dedicated, shared, and service worker factories for unit tests.
+// ---
+
 #include "components/performance_manager/test_support/performance_manager_test_harness.h"
 
 #include <memory>

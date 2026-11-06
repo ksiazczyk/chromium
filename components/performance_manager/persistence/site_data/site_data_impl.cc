@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataImpl implementation
+// summary: Implements SiteDataImpl, which tracks per-origin site feature usage, load/unload events, and load-time performance measurements backed by a SiteDataProto.
+// ---
+
 #include "components/performance_manager/persistence/site_data/site_data_impl.h"
 
 #include <algorithm>

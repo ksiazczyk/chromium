@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleTestSiteDataReader implementation
+// summary: Implements SimpleTestSiteDataReader, a test SiteDataReader that reports fixed background feature usage and behaves as if site data is fully loaded.
+// ---
+
 #include "components/performance_manager/test_support/persistence/test_site_data_reader.h"
 
 #include <optional>

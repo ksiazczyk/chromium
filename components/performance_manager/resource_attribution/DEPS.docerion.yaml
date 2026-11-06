@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Resource attribution DEPS include rules
+summary: Defines the allowed include rules for the resource attribution directory, permitting its alias header and IPC constants.

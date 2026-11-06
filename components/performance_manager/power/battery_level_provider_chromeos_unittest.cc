@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS battery level provider unit tests
+// summary: Unit tests for BatteryLevelProviderChromeOS using a fake power manager client to cover missing status, absent battery and mAh, mWh and percentage reporting.
+// ---
+
 #include "components/performance_manager/power/battery_level_provider_chromeos.h"
 
 #include "base/power_monitor/battery_state_sampler.h"

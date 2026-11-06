@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkerContext unit tests
+// summary: Unit tests that verify WorkerContext creation and behavior from worker tokens and worker nodes using the performance manager test harness.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/worker_context.h"
 
 #include <memory>

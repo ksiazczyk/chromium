@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageResourceMonitor reporting page CPU usage UKM
+// summary: Implements PageResourceMonitor, periodically querying resource attribution for per-page CPU time and reporting UKM metrics with foreground, background, and audible state classification.
+// ---
+
 #include "components/performance_manager/public/metrics/page_resource_monitor.h"
 
 #include <stdint.h>

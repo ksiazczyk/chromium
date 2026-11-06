@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scenario API build targets
+summary: Defines the scenario_api component, test support, and unit test build targets for the performance scenario API.

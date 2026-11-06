@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing observer declarations
+// summary: Declares the TracingObserver interface and TracingObserverList, a graph-owned observer list for trace session start notifications.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_TRACING_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_TRACING_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WithheldFromViewVoter unit tests
+// summary: Tests vote casting and withdrawal for withheld pages across all frames, including the configuration that ignores main frame visibility.
+// ---
+
 #include "components/performance_manager/priority/withheld_from_view_voter.h"
 
 #include <memory>

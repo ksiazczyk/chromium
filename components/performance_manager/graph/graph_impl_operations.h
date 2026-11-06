@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphImplOperations header
+// summary: Declares GraphImplOperations, a collection of static utilities for common queries and traversals over the performance manager graph, such as associated nodes and frame tree visits.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_GRAPH_IMPL_OPERATIONS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_GRAPH_IMPL_OPERATIONS_H_
 

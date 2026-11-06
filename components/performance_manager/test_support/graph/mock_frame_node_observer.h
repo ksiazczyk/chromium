@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock FrameNodeObserver for graph tests
+// summary: Declares a GMock FrameNodeObserver with lenient and strict variants that mock all frame node observer callbacks for performance manager tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_MOCK_FRAME_NODE_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_MOCK_FRAME_NODE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test worker node factory
+// summary: Declares a factory that simplifies creating dedicated and shared worker nodes with client frames or workers for Performance Manager graph tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_TEST_WORKER_NODE_FACTORY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_TEST_WORKER_NODE_FACTORY_H_
 

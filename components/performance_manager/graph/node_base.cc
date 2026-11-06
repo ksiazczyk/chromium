@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeBase implementation
+// summary: Implements shared node lifecycle, graph membership and property notification behavior for graph nodes.
+// ---
+
 #include "components/performance_manager/graph/node_base.h"
 
 #include "base/check_op.h"

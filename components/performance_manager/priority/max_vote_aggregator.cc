@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaxVoteAggregator implementation
+// summary: Implements MaxVoteAggregator, which tracks votes per node context and notifies observers when the highest-priority top vote changes.
+// ---
+
 #include "components/performance_manager/public/priority/max_vote_aggregator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading scenario observer implementation
+// summary: Implements an observer that tracks page loading, visibility and focus changes to update per-process and global loading scenarios.
+// ---
+
 #include "components/performance_manager/scenarios/loading_scenario_observer.h"
 
 #include <atomic>

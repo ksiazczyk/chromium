@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab revisit tracker implementation
+// summary: Tracks tab state changes and records revisit and close metrics through UKM entries and capped histograms.
+// ---
+
 #include "components/performance_manager/public/user_tuning/tab_revisit_tracker.h"
 
 #include <algorithm>

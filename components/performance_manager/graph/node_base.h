@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeBase class header
+// summary: Declares NodeBase, the common base class providing shared functionality for performance manager graph nodes.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_BASE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_BASE_H_
 

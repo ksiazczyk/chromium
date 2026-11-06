@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameNodeImpl data describer
+// summary: Builds a dictionary describing frame node properties such as URL, lifecycle state, priority and visibility for debugging and introspection.
+// ---
+
 #include "components/performance_manager/graph/frame_node_impl_describer.h"
 
 #include <sstream>

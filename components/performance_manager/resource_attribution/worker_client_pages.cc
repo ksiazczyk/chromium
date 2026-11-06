@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker client pages implementation
+// summary: Implements a helper that collects the set of pages and browsing instances that are clients of a given worker node.
+// ---
+
 #include "components/performance_manager/resource_attribution/worker_client_pages.h"
 
 #include "components/performance_manager/public/graph/frame_node.h"

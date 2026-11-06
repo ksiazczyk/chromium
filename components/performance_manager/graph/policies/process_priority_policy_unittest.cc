@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process priority policy unit tests
+// summary: Unit tests for ProcessPriorityPolicy using the PerformanceManager test harness, verifying that graph priority changes are reflected to the RenderProcessHost across different threading and feature configurations.
+// ---
+
 #include "components/performance_manager/graph/policies/process_priority_policy.h"
 
 #include <memory>

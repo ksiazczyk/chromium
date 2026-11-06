@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame Context Unit Tests
+// summary: Unit tests verifying FrameContext creation from RenderFrameHost and frame nodes, context equality and hashing, and behavior without PerformanceManager.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/frame_context.h"
 
 #include <memory>

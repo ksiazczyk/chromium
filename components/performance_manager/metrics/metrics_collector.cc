@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsCollector recording renderer process lifetime histograms
+// summary: Implements MetricsCollector, observing process nodes in the performance manager graph and recording renderer and utility process lifetime histograms split by hosted content type.
+// ---
+
 #include "components/performance_manager/public/metrics/metrics_collector.h"
 
 #include <optional>

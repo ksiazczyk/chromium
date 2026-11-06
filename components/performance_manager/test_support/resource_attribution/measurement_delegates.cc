@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simulated CPU measurement delegate implementation
+// summary: Implements a factory and delegate that simulate CPU usage measurements per process for resource attribution tests.
+// ---
+
 #include "components/performance_manager/test_support/resource_attribution/measurement_delegates.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InheritParentPriorityVoter unit tests
+// summary: Unit tests verifying that InheritParentPriorityVoter casts votes on child frames inheriting their parent frame's priority, including ad frames.
+// ---
+
 #include "components/performance_manager/priority/inherit_parent_priority_voter.h"
 
 #include "base/memory/raw_ptr.h"

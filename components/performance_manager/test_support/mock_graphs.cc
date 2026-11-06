@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock graph implementations
+// summary: Builds mock graph topologies such as a single page in a single process, using test process nodes with fixed PIDs.
+// ---
+
 #include "components/performance_manager/test_support/mock_graphs.h"
 
 #include <string>

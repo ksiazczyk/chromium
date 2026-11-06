@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance scenarios unit tests
+// summary: Unit tests verifying that scenario state reads and updates work across global and per-process shared memory mappings.
+// ---
+
 #include "components/performance_manager/scenario_api/performance_scenarios.h"
 
 #include <atomic>

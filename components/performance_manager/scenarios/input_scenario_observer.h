@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input scenario observer header
+// summary: Declares InputScenarioObserver, a graph observer that tracks frame input scenarios per process and updates process and global input scenarios.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_INPUT_SCENARIO_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_INPUT_SCENARIO_OBSERVER_H_
 

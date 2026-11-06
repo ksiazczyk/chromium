@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource attribution queries unit tests
+// summary: Unit tests for the resource attribution query API, covering scoped and one-shot queries, result observers, and CPU and memory measurements.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/queries.h"
 
 #include <map>

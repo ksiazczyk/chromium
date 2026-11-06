@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageToFrameVoteExpander implementation
+// summary: Implements PageToFrameVoteExpander, which propagates the top vote of each page to all of its frames through the MaxVoteAggregator.
+// ---
+
 #include "components/performance_manager/priority/page_to_frame_vote_expander.h"
 
 #include "base/check.h"

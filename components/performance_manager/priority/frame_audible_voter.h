@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameAudibleVoter header
+// summary: Declares FrameAudibleVoter, a frame node observer that votes USER_BLOCKING priority for audible frames and LOWEST priority for non-audible frames.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FRAME_AUDIBLE_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FRAME_AUDIBLE_VOTER_H_
 

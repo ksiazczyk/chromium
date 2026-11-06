@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClosingPageVoter class declaration
+// summary: Declares the ClosingPageVoter class, a priority voter and page node observer that boosts the priority of closing pages, with the vote applying to all of the page's frames.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_CLOSING_PAGE_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_CLOSING_PAGE_VOTER_H_
 

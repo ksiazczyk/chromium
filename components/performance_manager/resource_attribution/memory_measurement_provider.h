@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Measurement Provider Header
+// summary: Declares MemoryMeasurementProvider, a node data describer that requests memory summaries and caches the latest measurement results for describing node data.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_MEMORY_MEASUREMENT_PROVIDER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_MEMORY_MEASUREMENT_PROVIDER_H_
 

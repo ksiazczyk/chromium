@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page node describer implementation
+// summary: Registers a node data describer that reports PageNodeImpl state such as visibility, loading and permissions for debugging.
+// ---
+
 #include "components/performance_manager/graph/page_node_impl_describer.h"
 
 #include <optional>

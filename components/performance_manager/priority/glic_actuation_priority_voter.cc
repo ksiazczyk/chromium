@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicActuationPriorityVoter implementation
+// summary: Implements a voter that boosts the priority of a page's main frames while Glic task actuation is in progress.
+// ---
+
 #include "components/performance_manager/priority/glic_actuation_priority_voter.h"
 
 #include <utility>

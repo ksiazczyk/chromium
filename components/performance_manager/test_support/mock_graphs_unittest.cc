@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for mock graphs
+// summary: Verifies that mock graph process nodes expose the expected process types, PIDs and host proxies.
+// ---
+
 #include "components/performance_manager/test_support/mock_graphs.h"
 
 #include "base/process/process_handle.h"

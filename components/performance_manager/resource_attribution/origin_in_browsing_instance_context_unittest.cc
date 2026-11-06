@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin in browsing instance context unit tests
+// summary: Unit tests verifying equality, hashing, and accessors of OriginInBrowsingInstanceContext across origins and browsing instances.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/origin_in_browsing_instance_context.h"
 
 #include "content/public/browser/browsing_instance_id.h"

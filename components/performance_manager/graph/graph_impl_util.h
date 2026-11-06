@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphImpl utility header
+// summary: Header providing the UpcastNodeSet template that converts a set of node impl pointers into a sorted set of public node pointers.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_GRAPH_IMPL_UTIL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_GRAPH_IMPL_UTIL_H_
 

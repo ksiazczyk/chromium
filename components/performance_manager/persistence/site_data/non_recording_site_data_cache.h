@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-recording site data cache header
+// summary: Declares NonRecordingSiteDataCache, a SiteDataCache for off-the-record profiles that ensures no site data is persisted.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_NON_RECORDING_SITE_DATA_CACHE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_NON_RECORDING_SITE_DATA_CACHE_H_
 

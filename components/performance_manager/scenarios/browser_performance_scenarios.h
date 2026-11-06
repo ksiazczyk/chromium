@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser performance scenarios header
+// summary: Declares functions to manage browser-side shared memory for scenario state and to atomically set loading and input scenarios per process or globally.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_BROWSER_PERFORMANCE_SCENARIOS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_BROWSER_PERFORMANCE_SCENARIOS_H_
 

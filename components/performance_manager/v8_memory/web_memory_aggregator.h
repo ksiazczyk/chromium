@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMemoryAggregator class declaration
+// summary: Declares the aggregator that combines the latest memory measurement results across execution contexts according to the web memory specification rules.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_WEB_MEMORY_AGGREGATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_WEB_MEMORY_AGGREGATOR_H_
 

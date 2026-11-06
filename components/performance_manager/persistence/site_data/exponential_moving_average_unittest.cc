@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exponential moving average unit tests
+// summary: Unit tests verifying append, prepend, session continuation and clear behavior of the ExponentialMovingAverage class.
+// ---
+
 #include "components/performance_manager/persistence/site_data/exponential_moving_average.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

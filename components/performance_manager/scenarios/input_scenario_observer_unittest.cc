@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the input scenario observer
+// summary: Unit tests verifying that frame input scenario changes correctly update per-process and global input scenarios read from shared memory.
+// ---
+
 #include "components/performance_manager/scenarios/input_scenario_observer.h"
 
 #include <atomic>

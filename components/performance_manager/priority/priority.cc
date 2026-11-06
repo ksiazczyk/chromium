@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Priority reason comparison and page closing helpers
+// summary: Implements priority reason comparison, PriorityAndReason equality, and SetPageIsClosing, which notifies the ClosingPageVoter when a tab is closing.
+// ---
+
 #include "components/performance_manager/public/priority/priority.h"
 
 #include <cstring>

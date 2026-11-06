@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameAudibleVoter implementation
+// summary: Implements FrameAudibleVoter, which casts USER_BLOCKING votes for audible frames and lowest-priority votes otherwise, updating votes when audibility changes.
+// ---
+
 #include "components/performance_manager/priority/frame_audible_voter.h"
 
 #include <utility>

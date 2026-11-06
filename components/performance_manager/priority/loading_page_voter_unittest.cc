@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingPageVoter unit tests
+// summary: Unit tests for LoadingPageVoter covering vote casting for loading pages, active tab changes, embedded subpages, and load initiator behavior.
+// ---
+
 #include "components/performance_manager/priority/loading_page_voter.h"
 
 #include "components/performance_manager/public/decorators/page_live_state_decorator.h"

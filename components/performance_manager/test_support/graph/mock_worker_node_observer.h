@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock WorkerNodeObserver for graph tests
+// summary: Declares a GMock WorkerNodeObserver with lenient and strict variants that mock all worker node observer callbacks for performance manager tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_MOCK_WORKER_NODE_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_MOCK_WORKER_NODE_OBSERVER_H_
 

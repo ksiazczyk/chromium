@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingPageVoter implementation
+// summary: Implements the LoadingPageVoter, which boosts the priority of loading pages depending on active tab state and whether the load was user- or browser-initiated.
+// ---
+
 #include "components/performance_manager/priority/loading_page_voter.h"
 
 #include <optional>

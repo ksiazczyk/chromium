@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context implementation
+// summary: Implements PageContext, which links a WebContents to its performance manager PageNode for resource attribution queries.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/page_context.h"
 
 #include <utility>

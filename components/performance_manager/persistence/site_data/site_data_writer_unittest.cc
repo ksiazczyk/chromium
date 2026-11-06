@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteDataWriter unit tests
+// summary: Unit tests for SiteDataWriter verifying that notification events update feature usage and loaded tab state in SiteDataImpl.
+// ---
+
 #include "components/performance_manager/persistence/site_data/site_data_writer.h"
 
 #include "base/byte_size.h"

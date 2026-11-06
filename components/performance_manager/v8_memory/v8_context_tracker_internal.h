@@ -7,6 +7,12 @@
 // namespace so as not to pollute the "v8_memory", which houses the actual
 // consumer API.
 
+// ---docerion
+// type: source
+// title: V8 context tracker internal data structures
+// summary: Declares internal per-process data structures used by the V8ContextTracker, exposed in a header only for testing and kept in an internal namespace.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_CONTEXT_TRACKER_INTERNAL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_CONTEXT_TRACKER_INTERNAL_H_
 

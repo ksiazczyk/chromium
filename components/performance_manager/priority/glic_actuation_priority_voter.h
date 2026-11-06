@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicActuationPriorityVoter header
+// summary: Declares a voter that raises main frame priority to user-blocking while a page performs Glic task actuation.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_GLIC_ACTUATION_PRIORITY_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_GLIC_ACTUATION_PRIORITY_VOTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process performance scenario observer list implementation
+// summary: Implements the observer list that notifies observers of loading and input scenario changes for a specific process.
+// ---
+
 #include "components/performance_manager/public/scenarios/process_performance_scenario_observer.h"
 
 #include <utility>

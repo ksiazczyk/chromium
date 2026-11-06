@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager namespace aliases
+// summary: Imports commonly used performance_manager symbols into the resource_attribution namespace for convenience in the implementation.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_PERFORMANCE_MANAGER_ALIASES_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_PERFORMANCE_MANAGER_ALIASES_H_
 

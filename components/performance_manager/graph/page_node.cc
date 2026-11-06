@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page node string conversion helpers
+// summary: Implements PageNode::ToString for page types and loading states and defines PageNodeObserver constructor and destructor.
+// ---
+
 #include "components/performance_manager/public/graph/page_node.h"
 
 #include "components/performance_manager/graph/page_node_impl.h"

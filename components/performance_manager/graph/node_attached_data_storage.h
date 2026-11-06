@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeAttachedDataStorage header
+// summary: Declares a storage class that keeps NodeAttachedData instances keyed per node using NodeInlineData.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_ATTACHED_DATA_STORAGE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_ATTACHED_DATA_STORAGE_H_
 

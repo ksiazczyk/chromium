@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node inline data unit tests
+// summary: Unit tests covering creation, access and destruction of sparse and non-sparse node inline data storage on graph nodes.
+// ---
+
 #include "components/performance_manager/graph/node_inline_data.h"
 
 #include <string>

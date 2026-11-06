@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB site data store implementation
+// summary: Implements the LevelDB-backed site data store, including database key serialization, corruption repair and asynchronous blocking operations.
+// ---
+
 #include "components/performance_manager/persistence/site_data/leveldb_site_data_store.h"
 
 #include <atomic>

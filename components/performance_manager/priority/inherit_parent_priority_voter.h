@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InheritParentPriorityVoter header
+// summary: Declares a voter that lets child frames inherit a higher priority from their parent frame, excluding ad frames.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_INHERIT_PARENT_PRIORITY_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_INHERIT_PARENT_PRIORITY_VOTER_H_
 

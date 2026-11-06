@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionServiceWorkerVoter implementation
+// summary: Implements the ExtensionServiceWorkerVoter, which votes USER_BLOCKING priority for chrome-extension service workers and a minimal priority for other workers.
+// ---
+
 #include "components/performance_manager/priority/extension_service_worker_voter.h"
 
 #include "components/performance_manager/public/graph/graph.h"

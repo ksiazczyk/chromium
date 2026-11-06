@@ -1,3 +1,9 @@
+---
+type: readme
+title: Performance Manager priority voting system
+summary: Explains the priority voting system that assigns priorities to frames, workers, pages and processes, covering the vote flow, invariants, and the difference between voters and derived votes.
+---
+
 The **PriorityVotingSystem** is responsible for assigning the
 priority of the votable nodes in the graph.
 

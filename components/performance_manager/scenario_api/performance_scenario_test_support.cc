@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance scenario test helper implementation
+// summary: Implements a helper that creates and manipulates shared scenario state for unit tests, with optional memory mapping.
+// ---
+
 #include "components/performance_manager/scenario_api/performance_scenario_test_support.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceForegroundVoter implementation
+// summary: Implements the ForceForegroundVoter, which unconditionally casts USER_BLOCKING votes on every frame and worker node as they are added to the graph.
+// ---
+
 #include "components/performance_manager/priority/force_foreground_voter.h"
 
 #include <utility>

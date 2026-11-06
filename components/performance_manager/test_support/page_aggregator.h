@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page aggregator test helper declaration
+// summary: Declares a testing helper that creates a page aggregator and passes it to the performance manager graph.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PAGE_AGGREGATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PAGE_AGGREGATOR_H_
 

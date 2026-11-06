@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web memory aggregator implementation
+// summary: Implements the aggregator that traverses the frame and worker graph to build a memory measurement breakdown following the performance.measureUserAgentSpecificMemory spec.
+// ---
+
 #include "components/performance_manager/v8_memory/web_memory_aggregator.h"
 
 #include <algorithm>

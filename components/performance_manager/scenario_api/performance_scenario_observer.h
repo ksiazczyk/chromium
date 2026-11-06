@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scenario observer interfaces and observer list
+// summary: Declares observers for scenario changes and pattern matching, plus the thread-safe PerformanceScenarioObserverList.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIO_API_PERFORMANCE_SCENARIO_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIO_API_PERFORMANCE_SCENARIO_OBSERVER_H_
 

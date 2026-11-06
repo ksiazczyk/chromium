@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 context tracker unit tests
+// summary: Unit tests for the V8ContextTracker covering context creation, detachment, and destruction accounting across mock graphs with multiple processes.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker.h"
 
 #include <memory>

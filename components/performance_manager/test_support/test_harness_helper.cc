@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance Manager test harness helper implementation
+// summary: Implements the helper that creates and tears down the Performance Manager, configures graph features, and forwards registry notifications for test harnesses.
+// ---
+
 #include "components/performance_manager/test_support/test_harness_helper.h"
 
 #include <utility>

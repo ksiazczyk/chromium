@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process performance scenario accessors
+// summary: Implements functions that read a process's loading and input scenarios from its shared scenario memory state.
+// ---
+
 #include "components/performance_manager/public/scenarios/process_performance_scenarios.h"
 
 #include <atomic>

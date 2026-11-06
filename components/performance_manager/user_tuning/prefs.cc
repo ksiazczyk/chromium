@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User tuning preferences implementation
+// summary: Implements registration, migration and access of performance tuning preferences such as memory saver mode, battery saver mode and tab discarding exceptions.
+// ---
+
 #include "components/performance_manager/public/user_tuning/prefs.h"
 
 #include <iterator>

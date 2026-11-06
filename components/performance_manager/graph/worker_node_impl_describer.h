@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker node data describer header
+// summary: Declares WorkerNodeImplDescriber, a graph-owned node data describer that exposes worker node data for debugging.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_WORKER_NODE_IMPL_DESCRIBER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_WORKER_NODE_IMPL_DESCRIBER_H_
 

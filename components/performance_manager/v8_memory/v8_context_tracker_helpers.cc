@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 context tracker helpers implementation
+// summary: Implements helper functions for the V8 context tracker, including token classification for workers and worklets, extension ID validation, and V8ContextDescription validation.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker_helpers.h"
 
 #include "base/check.h"

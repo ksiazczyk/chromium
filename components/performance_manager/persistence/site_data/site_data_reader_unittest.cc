@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteDataReader unit tests
+// summary: Unit tests for SiteDataReader verifying feature usage accessors and reader destruction behavior against a mock data store.
+// ---
+
 #include "components/performance_manager/public/persistence/site_data/site_data_reader.h"
 
 #include <memory>

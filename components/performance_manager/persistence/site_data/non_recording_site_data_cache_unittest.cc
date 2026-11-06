@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-recording site data cache unit tests
+// summary: Unit tests verifying that writers from the non-recording cache record no observations and that the inspector interface is registered.
+// ---
+
 #include "components/performance_manager/persistence/site_data/non_recording_site_data_cache.h"
 
 #include "base/functional/callback_helpers.h"

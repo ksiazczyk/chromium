@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PriorityVotingSystem unit tests
+// summary: Tests that votes cast through the priority voting system propagate to frames, workers and processes and that removals reset priorities correctly.
+// ---
+
 #include "components/performance_manager/public/priority/priority_voting_system.h"
 
 #include <memory>

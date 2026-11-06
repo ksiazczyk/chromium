@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web memory aggregator unit tests
+// summary: Unit tests verifying memory breakdown aggregation, attribution scopes, and cross-origin handling for the web memory aggregator.
+// ---
+
 #include "components/performance_manager/v8_memory/web_memory_aggregator.h"
 
 #include <algorithm>

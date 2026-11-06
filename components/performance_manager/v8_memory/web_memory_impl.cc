@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web memory API implementation
+// summary: Implements WebMemoryMeasurer and the measure-memory security checker that start per-frame memory measurements and return aggregated results to the renderer.
+// ---
+
 #include "components/performance_manager/v8_memory/web_memory_impl.h"
 
 #include <algorithm>

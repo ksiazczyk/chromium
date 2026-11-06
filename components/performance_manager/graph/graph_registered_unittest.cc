@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GraphRegistered unit tests
+// summary: Unit tests for graph object registration, checking typed registration, duplicate and mismatched unregister failures, and ownership callbacks.
+// ---
+
 #include "components/performance_manager/public/graph/graph_registered.h"
 
 #include <memory>

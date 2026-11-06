@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionServiceWorkerVoter unit tests
+// summary: Unit tests verifying that the ExtensionServiceWorkerVoter votes USER_BLOCKING for extension service workers and a minimal priority for non-extension workers.
+// ---
+
 #include "components/performance_manager/priority/extension_service_worker_voter.h"
 
 #include "base/test/scoped_feature_list.h"

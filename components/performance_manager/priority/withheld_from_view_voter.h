@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithheldFromViewVoter class header
+// summary: Declares a priority voter that boosts frames of pages withheld from view so hidden pages are not deprioritized while loading, with an option to skip main frames.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_WITHHELD_FROM_VIEW_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_WITHHELD_FROM_VIEW_VOTER_H_
 

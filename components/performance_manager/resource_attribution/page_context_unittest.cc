@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context unit tests
+// summary: Unit tests covering PageContext creation from WebContents and PageNode, comparison by permanent ID, and behavior across navigations.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/page_context.h"
 
 #include <memory>

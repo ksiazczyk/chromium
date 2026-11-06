@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextCollection class declaration
+// summary: Declares a collection that holds individual resource contexts or all contexts of a given type, used to select measurement targets.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_CONTEXT_COLLECTION_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_CONTEXT_COLLECTION_H_
 

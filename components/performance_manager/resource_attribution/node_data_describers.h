@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result metadata describer header
+// summary: Declares DescribeResultMetadata, which renders result metadata as a mergeable dictionary for node descriptions in the discards graph debug page.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_NODE_DATA_DESCRIBERS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_NODE_DATA_DESCRIBERS_H_
 

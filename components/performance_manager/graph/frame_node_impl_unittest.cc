@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameNodeImpl unit tests
+// summary: Unit tests for the frame node implementation covering safe downcasting, frame tree node IDs, lifecycle state and observer notifications.
+// ---
+
 #include "components/performance_manager/graph/frame_node_impl.h"
 
 #include <algorithm>

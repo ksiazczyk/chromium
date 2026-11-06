@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 context tracker helpers unit tests
+// summary: Unit tests for the tracker helper functions, covering extension ID validation, worklet and worker token checks, execution context lookup, and V8ContextDescription validation.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker_helpers.h"
 
 #include "base/memory/raw_ptr.h"

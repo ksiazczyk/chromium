@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameCapturingMediaStreamVoter unit tests
+// summary: Unit tests verifying FrameCapturingMediaStreamVoter votes change with the frame's media stream capturing state and are removed on frame deletion.
+// ---
+
 #include "components/performance_manager/priority/frame_capturing_media_stream_voter.h"
 
 #include <memory>

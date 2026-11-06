@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU Measurement Monitor Unit Tests
+// summary: Unit tests for the CPU measurement monitor, covering delegate-based CPU measurements, worker and frame attribution, and origin-in-browsing-instance query results.
+// ---
+
 #include "components/performance_manager/resource_attribution/cpu_measurement_monitor.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 context tracker internal implementation
+// summary: Implements the internal data structures of the V8ContextTracker, including ExecutionContextData, RemoteFrameData, and V8ContextData lifecycle and reference tracking.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker_internal.h"
 
 #include <utility>

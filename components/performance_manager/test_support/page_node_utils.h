@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page node test utilities
+// summary: Declares testing helpers for retrieving a PageNode for a WebContents and overriding its type and loading state in unit tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PAGE_NODE_UTILS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PAGE_NODE_UTILS_H_
 

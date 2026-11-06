@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery level provider factory
+// summary: Creates a platform-appropriate battery level provider, using the ChromeOS implementation on ChromeOS and the base default implementation elsewhere.
+// ---
+
 #include "components/performance_manager/public/power/battery_level_provider_creator.h"
 
 #include <utility>

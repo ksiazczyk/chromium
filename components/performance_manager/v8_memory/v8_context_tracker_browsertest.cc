@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 context tracker browser tests
+// summary: Browser tests verifying V8 context and execution context counts as pages navigate, using the PerformanceManager browser test harness with site-per-process isolation.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker.h"
 
 #include <memory>

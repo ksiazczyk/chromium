@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attribution implementation helper templates
+// summary: Header providing template helpers that split a resource value among the frame and worker node impls hosted in a process.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_ATTRIBUTION_IMPL_HELPERS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RESOURCE_ATTRIBUTION_ATTRIBUTION_IMPL_HELPERS_H_
 

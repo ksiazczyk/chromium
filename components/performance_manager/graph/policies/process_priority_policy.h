@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessPriorityPolicy class declaration
+// summary: Declares the ProcessPriorityPolicy class, a GraphOwned ProcessNodeObserver that propagates process priority changes to actual processes, with testing seam callbacks and single-instance DCHECKs.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_POLICIES_PROCESS_PRIORITY_POLICY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_POLICIES_PROCESS_PRIORITY_POLICY_H_
 

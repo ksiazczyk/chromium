@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QueryScheduler unit tests
+// summary: Unit tests for the QueryScheduler covering scoped query registration, repeating queries, and CPU and memory result delivery.
+// ---
+
 #include "components/performance_manager/resource_attribution/query_scheduler.h"
 
 #include <memory>
