@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: 'v8_handle_migrate test: auto destructuring original input'
+// summary: Original input of the v8_handle_migrate clang tool test covering structured bindings that destructure a pair of handles.
+// ---
+
 #include <utility>
 
 #include "base/handles.h"

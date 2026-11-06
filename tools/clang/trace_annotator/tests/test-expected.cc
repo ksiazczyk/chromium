@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected annotated output for trace annotator test
+// summary: Expected result of running the trace annotator on the test sample, showing where TRACE_EVENT0 macros should be inserted across functions, templates and classes.
+// ---
+
 #include <algorithm>
 #include <vector>
 

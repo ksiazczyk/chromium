@@ -1,0 +1,4 @@
+# Docerion header of download_fuzz_corpora.py.
+type: script
+title: Fuzzing corpora downloader
+summary: Downloads libfuzzer, centipede and fuzzilli corpora from Google Storage buckets for built fuzzer targets.

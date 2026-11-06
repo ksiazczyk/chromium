@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr install command
+# summary: Implements the cr install command, which builds targets with the selected builder and then reinstalls them via the installer.
+# ---
+
 """A module for the install command."""
 
 import cr

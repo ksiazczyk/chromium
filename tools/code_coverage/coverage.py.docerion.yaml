@@ -1,0 +1,4 @@
+# Docerion header of coverage.py.
+type: script
+title: Clang code coverage report generator
+summary: Generates code coverage reports from Clang source-based coverage by building and running test, fuzz or web test targets.

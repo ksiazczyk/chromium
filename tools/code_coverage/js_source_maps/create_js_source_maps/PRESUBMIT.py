@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for create_js_source_maps
+# summary: Runs formatting, ESLint style checks and the create_js_source_maps unit tests on changed Python, JavaScript and TypeScript files during presubmit.
+# ---
+
 """create_js_source_maps presubmit script.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts for

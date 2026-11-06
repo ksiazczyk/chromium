@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original unannotated input for trace annotator test
+// summary: Unannotated C++ sample with functions, namespaces, templates and classes used as input for the trace annotator tool test.
+// ---
+
 #include <algorithm>
 #include <vector>
 

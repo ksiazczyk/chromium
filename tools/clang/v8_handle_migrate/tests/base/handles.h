@@ -4,6 +4,12 @@
 
 // A mock header file, containing some basic stuff from v8/src/handles/handles.h
 
+// ---docerion
+// type: test
+// title: Mock V8 handles header for migration tests
+// summary: Mock header mimicking v8/src/handles/handles.h that provides Handle, DirectHandle and IndirectHandle templates as test input for the v8_handle_migrate clang tool.
+// ---
+
 #ifndef TOOLS_CLANG_V8_HANDLE_MIGRATE_TESTS_BASE_HANDLES_H_
 #define TOOLS_CLANG_V8_HANDLE_MIGRATE_TESTS_BASE_HANDLES_H_
 

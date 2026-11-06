@@ -4,6 +4,12 @@
 
 //! Utilities to handle vendored third-party crates.
 
+// ---docerion
+// type: source
+// title: Utilities for vendored third-party crates
+// summary: Provides utilities for handling vendored third-party crates, including epoch computation from semver versions and crate visibility levels.
+// ---
+
 use crate::config::{BuildConfig, CrateConfig};
 use crate::deps;
 use crate::manifest;

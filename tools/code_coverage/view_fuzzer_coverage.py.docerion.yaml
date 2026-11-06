@@ -1,0 +1,4 @@
+# Docerion header of view_fuzzer_coverage.py.
+type: script
+title: Local fuzzer coverage HTML report
+summary: Script that builds a fuzzer with coverage instrumentation and generates a local HTML report of ClusterFuzz exploration coverage.

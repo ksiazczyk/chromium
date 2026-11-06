@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gnrt command-line entry point
+// summary: Defines the gnrt CLI with add, fmt, gen, update, and vendor subcommands and dispatches them after locating Chromium checkout paths.
+// ---
+
 #![forbid(unsafe_op_in_unsafe_fn)]
 #![forbid(unsafe_code)]
 

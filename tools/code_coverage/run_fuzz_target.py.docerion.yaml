@@ -1,0 +1,4 @@
+# Docerion header of run_fuzz_target.py.
+type: script
+title: Run a single fuzz target with coverage instrumentation
+summary: Script that runs one fuzz target built with code coverage instrumentation, preparing the bot or dummy corpus and collecting coverage output.

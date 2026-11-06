@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: CodeQL tool directory owners
+summary: Lists the maintainers responsible for the tools/codeql directory.

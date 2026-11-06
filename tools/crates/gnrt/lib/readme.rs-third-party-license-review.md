@@ -1,3 +1,11 @@
+---
+type: note
+title: Reviewing license-related changes in readme.rs
+summary: Quick note for reviewers of readme.rs describing when license-related changes need extra review under Chromium's third-party license process.
+relations:
+  - references /docs/adding_to_third_party.md
+---
+
 ## Quick note how to review license-related changes in `readme.rs`
 
 For changes that add support for a new license kind, please follow the

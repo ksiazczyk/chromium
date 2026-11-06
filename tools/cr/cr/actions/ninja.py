@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Ninja builder action for cr
+# summary: Implements the cr Builder plugin using ninja (autoninja) to build, clean and discover build targets in the build directory.
+# ---
+
 """A module to add ninja support to cr."""
 
 import os

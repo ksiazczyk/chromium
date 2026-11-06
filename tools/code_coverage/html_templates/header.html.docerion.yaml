@@ -1,0 +1,4 @@
+# Docerion header of header.html.
+type: source
+title: Coverage report header template
+summary: HTML template providing the page head, style overrides and links to component, directory and file coverage views.

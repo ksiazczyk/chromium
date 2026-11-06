@@ -1,0 +1,4 @@
+# Docerion header of test_metadata.json.
+type: test
+title: Cargo metadata test fixture
+summary: Cargo metadata output used as gnrt test input, describing packages such as autocfg, bar, and cc with their licenses, targets, and dependencies.

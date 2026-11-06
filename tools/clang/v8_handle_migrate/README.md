@@ -1,3 +1,13 @@
+---
+type: readme
+title: Handle to DirectHandle migration tool
+summary: Explains how to build, run and test the v8_handle_migrate clang tool against a V8 build with direct handle support enabled.
+relations:
+  - references /tools/clang/scripts/build.py
+  - references /tools/clang/scripts/generate_compdb.py
+  - references /tools/clang/scripts/run_tool.py
+---
+
 # Handle to DirectHandle migration tool
 
 A clang tool for the migration of `v8::internal::Handle<T>` to

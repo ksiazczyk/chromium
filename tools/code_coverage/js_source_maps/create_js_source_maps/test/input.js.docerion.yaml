@@ -1,0 +1,4 @@
+# Docerion header of input.js.
+type: test
+title: Test input fixture for source map creation
+summary: Fixture JavaScript file with numbered lines and grit conditional blocks that serves as the original input when testing JavaScript source map generation.

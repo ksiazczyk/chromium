@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clang tool rewriting StringPiece as_string calls to std::string
+// summary: Clang Transformer tool that rewrites base::StringPiece as_string() calls into explicit std::string conversions in Chromium code.
+// ---
+
 #include <assert.h>
 #include <stdlib.h>
 #include <algorithm>

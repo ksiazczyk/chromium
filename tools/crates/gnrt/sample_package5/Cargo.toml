@@ -12,6 +12,12 @@
 # across host (build) and target (normal) dependencies, so the `build.rs`
 # dependency should not see `target_only`.
 
+# ---docerion
+# type: config
+# title: Cargo manifest for sample_package5
+# summary: Cargo manifest defining sample_package5 as a gnrt unit test input that checks which version of Cargo's feature resolver gnrt simulates.
+# ---
+
 [package]
 name = "sample_package5"
 version = "0.1.0"

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CodeQL queries pack configuration
+# summary: CodeQL pack manifest declaring the chrome-codeql-queries pack and its dependency on the codeql/cpp-all library.
+# ---
+
 name: chrome-codeql-queries
 version: 0.0.0
 dependencies:

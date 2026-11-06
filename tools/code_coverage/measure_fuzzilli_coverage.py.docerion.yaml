@@ -1,0 +1,4 @@
+# Docerion header of measure_fuzzilli_coverage.py.
+type: source
+title: Fuzzilli coverage measurement tool
+summary: Runs Fuzzilli for a given duration against a coverage build and generates a code coverage report with optional filters.

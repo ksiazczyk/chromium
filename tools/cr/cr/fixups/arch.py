@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Architecture output directory fixups
+# summary: Defines init hooks that fix CR_ARCH values in old output directories, such as invalid early defaults and the rename of mips and arm to mips32 and arm32.
+# ---
+
 """A module for architecture output directory fixups."""
 
 from __future__ import print_function

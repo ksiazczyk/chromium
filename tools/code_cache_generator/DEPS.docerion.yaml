@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the code cache generator
+summary: Lists the include rules that allow base, gin, mojo, blink public, and v8 headers within this directory.

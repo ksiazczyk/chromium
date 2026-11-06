@@ -1,6 +1,13 @@
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Target plugin base class for the cr tool
+# summary: Implements the Target base class that resolves, validates and configures buildable and runnable targets, including test type detection and target lookup by name.
+# ---
+
 """Module to hold the Target plugin."""
 
 from __future__ import print_function

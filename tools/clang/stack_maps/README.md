@@ -1,3 +1,9 @@
+---
+type: readme
+title: Stack maps prototype README
+summary: Explains the prototype for generating stack maps to garbage-collected objects with clang/LLVM, including build and test instructions.
+---
+
 Prototype and playground for generating stack maps to garbage-collected objects
 using clang/llvm infrastructure.
 

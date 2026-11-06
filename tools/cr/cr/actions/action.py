@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Action plugin base class
+# summary: Defines the Action plugin base class providing the standard interface for adding actions to cr commands, including selector arguments and skip detection.
+# ---
+
 """A module for the Action plugin base class."""
 
 import cr

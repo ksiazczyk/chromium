@@ -4,6 +4,12 @@
 
 //! Paths and helpers for running within a Chromium checkout.
 
+// ---docerion
+// type: source
+// title: Chromium checkout path helpers
+// summary: Resolves paths within a Chromium checkout and converts them to GN paths for use by the gnrt tool.
+// ---
+
 use crate::crates::{Epoch, NormalizedName};
 use itertools::Itertools;
 use std::env;

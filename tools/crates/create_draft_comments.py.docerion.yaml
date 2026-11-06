@@ -1,0 +1,4 @@
+# Docerion header of create_draft_comments.py.
+type: script
+title: Create draft comments in Gerrit reviews
+summary: Helper script that creates draft comments in a Gerrit review for lines matching a trigger regex, typically to flag unsafe code in vendored crates.

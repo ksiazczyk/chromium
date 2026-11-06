@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sysroot test files README
+summary: Explains how the presence of crtbegin.o and GCC 4.6 C++ directories in this sysroot makes Clang add GCC C++ library and standard include paths, referencing lib/Driver/ToolChains.cpp.
+---
+
 Clang looks for the presence of crtbegin.o to decide whether to add GCC standard
 C++ library directories to the system header lookup path.
 

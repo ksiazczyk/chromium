@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux runner and installer actions
+# summary: Provides Linux platform runner and installer implementations that execute binaries directly from the output directory without an install step.
+# ---
+
 """A module to hold linux specific action implementations."""
 
 import cr

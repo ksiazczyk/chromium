@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for stack maps
+summary: Chromium directory metadata assigning the stack maps tool to the Blink>JavaScript>GC component and the v8-dev team.

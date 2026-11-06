@@ -1,0 +1,4 @@
+# Docerion header of create_js_source_maps_test.py.
+type: test
+title: Create JS source maps unit tests
+summary: Runs the create_js_source_maps.js processor and translate_source_map.js helper to verify that post-processed JavaScript lines map back to their original locations, with and without inline source maps.

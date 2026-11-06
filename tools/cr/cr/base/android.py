@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android platform implementation for cr
+# summary: Defines the AndroidPlatform plugin with adb, APK and GN settings plus an init hook that ensures the client is android capable before creating android output directories.
+# ---
+
 """The android specific platform implementation module."""
 
 from __future__ import print_function

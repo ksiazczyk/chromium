@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: 'v8_handle_migrate test: virtual method expected output'
+// summary: Expected output of the v8_handle_migrate clang tool test covering virtual and overridden methods that take handle parameters.
+// ---
+
 #include "base/handles.h"
 #include "base/objects.h"
 

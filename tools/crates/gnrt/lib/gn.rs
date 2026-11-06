@@ -4,6 +4,12 @@
 
 //! GN build file generation.
 
+// ---docerion
+// type: source
+// title: GN build file generation for vendored crates
+// summary: Defines data structures for generating GN BUILD.gn files for crate epochs, including rules, visibility, conditions, and dependency groups.
+// ---
+
 use crate::condition::Condition;
 use crate::config::BuildConfig;
 use crate::crates::CrateFiles;

@@ -9,6 +9,12 @@
 // deref the value after this call should yield the same object that was
 // initially allocated.
 
+// ---docerion
+// type: test
+// title: Relocation of handles across function calls
+// summary: C++ test verifying that Handle'd heap objects passed through nested function calls still dereference to the same object after a moving GC collection.
+// ---
+
 #include <assert.h>
 #include "objects.h"
 #include "tests.h"

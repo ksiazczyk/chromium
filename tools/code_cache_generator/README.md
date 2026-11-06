@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebUI code cache generator
+summary: Explains how the generator compiles WebUI JavaScript modules into V8 code caches at build time, covering build integration, cache validity, cross-compilation, cost, and testing.
+relations:
+  - references /build/toolchain/mac/BUILD.gn
+  - references /chrome/chrome_paks.gni
+  - references /content/public/common/content_features.cc
+---
+
 # WebUI code cache generator
 
 [`code_cache_generator`](code_cache_generator.cc) compiles WebUI JavaScript

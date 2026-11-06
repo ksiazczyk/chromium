@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr base package initialization
+# summary: Initializes the cr tool base package and imports the platform, buildtype and client supporting modules.
+# ---
+
 """A package for the base supporting classes of the cr tool."""
 
 import cr

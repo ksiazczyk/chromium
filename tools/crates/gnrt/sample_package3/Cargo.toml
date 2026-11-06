@@ -12,6 +12,12 @@
 #
 # Output from `cargo metadata` has been saved in `gnrt/lib/test_metadata3.json`.
 
+# ---docerion
+# type: config
+# title: sample_package3 Cargo manifest
+# summary: Cargo manifest for a sample package that serves as test input for gnrt's Windows gnu-vs-msvc dependency resolution.
+# ---
+
 [package]
 name = "sample_package3"
 version = "0.1.0"

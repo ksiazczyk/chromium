@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the WebUI code cache generator
+summary: Defines the code_cache_generator executable and its dependencies for compiling bundled Chromium JavaScript into V8 code cache at build time.

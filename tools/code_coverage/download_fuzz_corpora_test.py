@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Fuzzing corpora downloader tests
+# summary: Unit tests for the corpora download script, covering argument validation, mocked gsutil downloads and corpus unzipping.
+# ---
+
 import argparse
 import ntpath
 import os

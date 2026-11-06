@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr info command
+# summary: Implements the cr info command, which prints environment information or the values of requested cr variables.
+# ---
+
 """A module for the info implementation of Command."""
 
 from __future__ import print_function

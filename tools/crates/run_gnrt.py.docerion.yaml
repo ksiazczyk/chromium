@@ -1,0 +1,4 @@
+# Docerion header of run_gnrt.py.
+type: script
+title: Build and run gnrt
+summary: Python wrapper that builds and runs the gnrt tool through cargo, intended to be invoked from the checkout root.

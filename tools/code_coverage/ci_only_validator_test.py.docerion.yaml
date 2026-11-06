@@ -1,0 +1,4 @@
+# Docerion header of ci_only_validator_test.py.
+type: test
+title: Unit tests for ci_only_validator
+summary: Unit tests for trybot discovery and local or git configuration reading in ci_only_validator.py.

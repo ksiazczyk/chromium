@@ -1,0 +1,4 @@
+# Docerion header of extract_sources.py.
+type: script
+title: Extract compiled files from build logs
+summary: Reads a build log from stdin and prints the sorted source files that clang++ attempted to compile.

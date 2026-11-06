@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit unit test checks
+# summary: Runs the directory's Python unit tests for affected files during presubmit checks on non-Windows platforms.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 USE_PYTHON3 = True
 

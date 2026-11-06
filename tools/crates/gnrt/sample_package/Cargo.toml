@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cargo manifest for sample_package
+# summary: Defines the sample Cargo package, its workspace members bar and foo, and dependencies used to exercise gnrt dependency resolution.
+# ---
+
 [package]
 name = "sample_package"
 version = "0.1.0"

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cargo manifest for the foo sample package
+# summary: Cargo.toml defining the foo package (version 0.1.0, edition 2021) with a prost-derive dependency only for aarch64 targets.
+# ---
+
 [package]
 name = "foo"
 version = "0.1.0"

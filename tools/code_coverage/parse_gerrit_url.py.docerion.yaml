@@ -1,0 +1,4 @@
+# Docerion header of parse_gerrit_url.py.
+type: source
+title: Gerrit CL URL parser
+summary: Extracts host, project, change number, and patchset from a Gerrit CL URL and prints the details as JSON.

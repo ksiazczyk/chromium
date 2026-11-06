@@ -1,0 +1,4 @@
+# Docerion header of coverage_consts.py.
+type: source
+title: Fuzzer constants for coverage tools
+summary: Defines the list of libFuzzer targets with corpora used by the coverage scripts.

@@ -1,0 +1,4 @@
+# Docerion header of test_suite_mapper_test.py.
+type: test
+title: Unit tests for the test suite mapper
+summary: Unit tests for test_suite_mapper.py covering isolate map parsing, GN refs handling, and test suite extraction using a fake filesystem.

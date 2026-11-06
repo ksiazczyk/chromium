@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Builder base class
+# summary: Defines the Builder base class for build system plugins, requiring Build and Clean implementations plus target discovery and fuzzy target matching helpers.
+# ---
+
 """A module for the Builder base class."""
 
 import difflib

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Run all fuzzers for coverage
+# summary: Runs all Chromium fuzzer targets with their corpora across multiple fuzzing engines and saves profdata files for coverage reports.
+# ---
+
 """Run all Chromium libfuzzer targets that have corresponding corpora,
  then save the profdata files.
 

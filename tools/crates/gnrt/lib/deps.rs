@@ -4,6 +4,12 @@
 
 //! Utilities to process `cargo metadata` dependency graph.
 
+// ---docerion
+// type: source
+// title: Cargo metadata dependency graph utilities
+// summary: Processes the cargo metadata dependency graph into package and dependency information used for later build file generation.
+// ---
+
 use crate::{
     condition::Condition, config::BuildConfig, crates, group::Group,
     inherit::find_inherited_privilege_group,

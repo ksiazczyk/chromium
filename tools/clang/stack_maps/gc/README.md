@@ -1,3 +1,9 @@
+---
+type: readme
+title: Stack Map Artefact GC
+summary: Describes the runtime for observing and testing LLVM-generated stack maps, covering the GC API and the stack map parser.
+---
+
 # Stack Map Artefact GC
 
 This directory contains the implementation of the runtime system necessary to

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code cache generator executable
+// summary: Command-line tool that compiles a WebUI JavaScript module with V8 and writes the serialized code cache, loading the target's snapshot for cross-compilation.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/files/file.h"

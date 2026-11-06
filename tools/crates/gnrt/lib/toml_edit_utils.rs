@@ -4,6 +4,12 @@
 
 //! Utilities for editing `.toml` files.
 
+// ---docerion
+// type: source
+// title: TOML editing and formatting utilities
+// summary: Rust helpers that sort and format TOML documents for gnrt config files while preserving comments, including unit tests.
+// ---
+
 use itertools::Itertools;
 use std::collections::HashMap;
 use toml_edit::visit_mut::VisitMut;

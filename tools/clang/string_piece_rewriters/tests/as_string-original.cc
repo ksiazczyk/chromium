@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'as_string-original: input fixture for the StringPiece rewriter test'
+// summary: Input fixture with base::StringPiece as_string() calls, including negative cases, used to verify the clang rewriter's transformations.
+// ---
+
 #include <iostream>
 #include <memory>
 

@@ -1,0 +1,4 @@
+# Docerion header of unsafe_todo_remover.py.
+type: script
+title: UNSAFE_TODO() remover script
+summary: Python tool that verifies and removes redundant UNSAFE_TODO() wrappers by locally recompiling files across many builders, with resumable state in out.json.

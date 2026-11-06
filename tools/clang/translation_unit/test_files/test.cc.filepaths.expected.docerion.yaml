@@ -1,0 +1,4 @@
+# Docerion header of test.cc.filepaths.expected.
+type: data
+title: test.cc expected file paths
+summary: Expected file path output listing the headers and sources referenced by the test.cc translation unit test case.

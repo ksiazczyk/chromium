@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Plugin management system for the cr tool
+# summary: Defines the Plugin base class and supporting code that controls how plugins are discovered, configured and activated.
+# ---
+
 """The plugin management system for the cr tool.
 
 This holds the Plugin class and supporting code, that controls how plugins are

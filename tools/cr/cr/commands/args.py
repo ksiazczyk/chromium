@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr args command for editing build configuration
+# summary: Implements the cr args command, which opens the build configuration of the selected out directory in a text editor.
+# ---
+
 """A module for the args command."""
 
 from __future__ import print_function

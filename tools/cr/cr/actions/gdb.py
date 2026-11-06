@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GDB debugger implementation
+# summary: Implements the cr.Debugger interface by launching gdb on Linux, detecting the gdb binary on the path during class initialization.
+# ---
+
 import os
 
 import cr

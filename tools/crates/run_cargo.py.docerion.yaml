@@ -1,0 +1,4 @@
+# Docerion header of run_cargo.py.
+type: script
+title: Run cargo from the Chromium Rust toolchain
+summary: Wrapper that runs cargo from Chromium's hermetic Rust toolchain, passing arguments through and configuring Windows toolchain flags as needed.

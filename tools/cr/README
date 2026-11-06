@@ -1,3 +1,9 @@
+---
+type: readme
+title: cr tool README
+summary: Introduces cr, a unified interface for working with output directories, and explains how to enable the bash helpers and tab completion.
+---
+
 cr is a unified interface to dealing with output directories, and all the
 things you do with them.
 

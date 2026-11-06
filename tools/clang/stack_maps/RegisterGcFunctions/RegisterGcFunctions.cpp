@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LLVM module pass registering GC statepoint functions
+// summary: LLVM module pass that copies llvm.global.annotations onto functions and sets the statepoint-example GC strategy on functions annotated with statepoint.
+// ---
+
 #include "llvm/IR/Function.h"
 #include "llvm/IR/InstIterator.h"
 #include "llvm/IR/Instructions.h"

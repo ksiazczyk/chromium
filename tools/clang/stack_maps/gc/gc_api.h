@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GC API header
+// summary: Declares the Heap, FrameRoots and SafepointTable types that model a simple semi-space collector over LLVM stack maps.
+// ---
+
 #ifndef TOOLS_CLANG_STACK_MAPS_GC_GC_API_H_
 #define TOOLS_CLANG_STACK_MAPS_GC_GC_API_H_
 

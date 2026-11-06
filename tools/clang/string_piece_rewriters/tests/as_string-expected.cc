@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'as_string-expected: expected output of the StringPiece rewriter test'
+// summary: Expected output fixture showing how as_string() calls on base::StringPiece are rewritten to direct usage or explicit std::string construction.
+// ---
+
 #include <iostream>
 #include <memory>
 

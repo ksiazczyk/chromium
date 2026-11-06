@@ -1,0 +1,4 @@
+# Docerion header of string.
+type: test
+title: Empty string test fixture
+summary: Empty placeholder file in a mock sysroot that stands in for the C++ standard library string header in clang translation unit tests.

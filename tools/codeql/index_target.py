@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Chromium CodeQL database builder
+# summary: Builds a CodeQL database for a Chromium GN target by initializing the database, tracing ninja compilation, and finalizing it.
+# ---
+
 """Script for building a Chromium CodeQL database."""
 
 import argparse

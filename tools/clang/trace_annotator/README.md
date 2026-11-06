@@ -1,3 +1,13 @@
+---
+type: readme
+title: Trace Annotator Tool
+summary: Documents the Clang tool that bulk-annotates functions with TRACE_EVENT macros, including build, test, run and debugging workflow instructions.
+relations:
+  - references /docs/clang_tool_refactoring.md
+  - references /tools/clang/scripts/build.py
+  - references /tools/clang/scripts/test_tool.py
+---
+
 # Trace Annotator Tool
 
 ## Introduction

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Code coverage directory metadata
+summary: Tracks the monorail component, team email and Buganizer component for the code coverage tools.

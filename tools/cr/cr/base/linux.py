@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux host and platform implementation for cr
+# summary: Defines LinuxHost and LinuxPlatform with default code paths, binary location and chrome devel sandbox settings for Linux.
+# ---
+
 """The linux specific host and platform implementation module."""
 
 import os

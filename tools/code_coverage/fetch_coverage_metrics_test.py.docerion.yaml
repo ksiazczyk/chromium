@@ -1,0 +1,4 @@
+# Docerion header of fetch_coverage_metrics_test.py.
+type: test
+title: Coverage metrics fetcher tests
+summary: Unit tests for the coverage metrics fetcher, covering percentage parsing, network helpers and the CLI workflow with mocked requests.

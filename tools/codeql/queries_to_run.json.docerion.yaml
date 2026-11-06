@@ -1,0 +1,4 @@
+# Docerion header of queries_to_run.json.
+type: config
+title: CodeQL queries to run per target
+summary: Maps CodeQL targets such as d8 and chrome to the list of queries that should be run against them.

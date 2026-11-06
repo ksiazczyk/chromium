@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for sample_package
+# summary: Ignores the Cargo target build directory so build artifacts are not tracked in version control.
+# ---
+
 target/

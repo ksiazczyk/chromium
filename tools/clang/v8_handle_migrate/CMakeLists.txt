@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build configuration for v8_handle_migrate
+# summary: CMake build file that defines the v8_handle_migrate clang tool executable and links the LLVM and Clang libraries it needs.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   Support
   )

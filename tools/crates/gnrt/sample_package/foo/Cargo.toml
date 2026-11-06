@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cargo.toml for the foo sample package
+# summary: Rust package manifest declaring the foo package (version 0.1.0, edition 2021) with dependencies on bar renamed as baz and time 0.3.14.
+# ---
+
 [package]
 name = "foo"
 version = "0.1.0"

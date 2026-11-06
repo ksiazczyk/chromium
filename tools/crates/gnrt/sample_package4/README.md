@@ -1,3 +1,12 @@
+---
+type: readme
+title: README for gnrt dependency resolution test package
+summary: Explains that this sample Cargo package tests gnrt's dependency resolution, reproducing a target-arch-conditional dependency scenario captured in test_metadata4.json.
+relations:
+  - documents /tools/crates/gnrt/lib/test_metadata4.json
+  - references /build/rust/cargo_crate.gni
+---
+
 This is a sample Cargo package to test `gnrt`'s dependency resolution. The
 output of `cargo metadata` is recorded and used as test data.
 

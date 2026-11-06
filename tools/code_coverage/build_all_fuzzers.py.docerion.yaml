@@ -1,0 +1,4 @@
+# Docerion header of build_all_fuzzers.py.
+type: script
+title: Build all fuzzers with corpora
+summary: Builds all Chromium libFuzzer targets that have corresponding corpora into the given output directory.

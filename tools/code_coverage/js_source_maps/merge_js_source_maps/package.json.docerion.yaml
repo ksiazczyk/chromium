@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: npm package manifest for merge_js_source_maps
+summary: npm package metadata declaring the module name, version, entry point, and included files for the source map merger.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code coverage tools owners
+summary: Lists the directory owners and delegates reviews of fuzzer scripts to the libFuzzer owners.

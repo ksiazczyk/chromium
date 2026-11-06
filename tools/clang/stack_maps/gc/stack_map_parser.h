@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack map parser header
+// summary: Defines packed structs for the LLVM V3 stackmap format and the StackmapV3Parser class that reads the section byte by byte.
+// ---
+
 #ifndef TOOLS_CLANG_STACK_MAPS_GC_STACK_MAP_PARSER_H_
 #define TOOLS_CLANG_STACK_MAPS_GC_STACK_MAP_PARSER_H_
 

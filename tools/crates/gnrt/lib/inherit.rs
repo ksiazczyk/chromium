@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inherited privilege group resolution
+// summary: Computes a crate's inherited privilege group from ancestors and dependencies, and resolves inherited boolean config flags.
+// ---
+
 use crate::config;
 use crate::group::Group;
 

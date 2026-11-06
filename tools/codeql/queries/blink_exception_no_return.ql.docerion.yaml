@@ -1,0 +1,4 @@
+# Docerion header of blink_exception_no_return.ql.
+type: source
+title: Blink Throw*Exception call without return CodeQL query
+summary: CodeQL query that warns when Blink code calls ThrowDOMException, ThrowSecurityError, ThrowRangeError or ThrowTypeError without a following return.

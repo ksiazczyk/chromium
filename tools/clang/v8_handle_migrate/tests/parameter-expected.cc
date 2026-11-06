@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: Expected output for the parameter test case
+// summary: Expected result of the v8_handle_migrate clang tool for a test where Handle parameters should become DirectHandle parameters.
+// ---
+
 #include "base/handles.h"
 #include "base/objects.h"
 

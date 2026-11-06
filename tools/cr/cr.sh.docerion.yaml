@@ -1,0 +1,4 @@
+# Docerion header of cr.sh.
+type: script
+title: Deprecated cr.sh wrapper
+summary: Deprecated script that prints a warning and forwards to cr-bash-helpers.sh before being removed.

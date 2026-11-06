@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe code detector
+// summary: Heuristically detects unsafe blocks and impls in Rust source via a syn visitor, helping gnrt decide allow_unsafe settings for vendored crates.
+// ---
+
 use proc_macro2::TokenStream;
 use syn::visit::Visit;
 use syn::{ExprUnsafe, File, ItemImpl, ItemMod, Meta};

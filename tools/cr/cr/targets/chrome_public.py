@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome Public target definitions for the cr tool
+# summary: Defines the chrome_public and chrome_public_test targets with Android package and activity settings for running Chrome.
+# ---
+
 """Module for the chrome_public targets."""
 
 import cr

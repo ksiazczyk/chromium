@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr debug command
+# summary: Implements the cr debug command, which builds, installs and launches a target binary under the selected debugger.
+# ---
+
 """A module for the run command."""
 
 import cr

@@ -1,0 +1,4 @@
+# Docerion header of test_relative_sysroot.cc.filepaths.expected.
+type: data
+title: test_relative_sysroot.cc expected file paths
+summary: Expected file path output for the relative sysroot translation unit test case.

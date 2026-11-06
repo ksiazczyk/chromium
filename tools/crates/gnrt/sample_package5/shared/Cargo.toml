@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Cargo manifest for the shared package
+# summary: Cargo.toml manifest defining the shared Rust crate, version 0.1.0, edition 2021, with an empty target_only feature.
+# ---
+
 [package]
 name = "shared"
 version = "0.1.0"

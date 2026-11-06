@@ -1,0 +1,4 @@
+# Docerion header of bootstrap_deps.
+type: config
+title: Bootstrap dependencies for tools/perf
+summary: Specifies dependencies and includes needed to bootstrap tools/perf outside a normal Chrome checkout.

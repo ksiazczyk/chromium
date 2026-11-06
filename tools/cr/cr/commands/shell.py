@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr shell command implementation
+# summary: Implements the cr shell command that launches an interactive shell or arbitrary command with the environment used by the build system.
+# ---
+
 """A module for the shell command."""
 
 from __future__ import print_function

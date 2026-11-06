@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Platform support module for the cr tool
+# summary: Defines the Platform plugin base class that selects the target operating system for builds and applies platform-specific PATH fixups in the cr context.
+# ---
+
 """Module for the target platform support."""
 
 from importlib import import_module

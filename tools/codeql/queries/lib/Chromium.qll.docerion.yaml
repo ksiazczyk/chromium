@@ -1,0 +1,4 @@
+# Docerion header of Chromium.qll.
+type: source
+title: Chromium CodeQL library for identifying Chromium and Blink code
+summary: CodeQL library defining predicates that classify files and elements as Chromium code, ubiquitous Chromium code, or Blink code based on file path patterns.

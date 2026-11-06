@@ -1,0 +1,4 @@
+# Docerion header of test_metadata3.json.
+type: test
+title: Cargo metadata test fixture 3
+summary: Cargo metadata for sample_package3 and dependencies like termcolor and windows-sys, used as gnrt test input.

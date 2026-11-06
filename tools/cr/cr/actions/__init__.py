@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr actions package init
+# summary: Package initializer that imports the standard action modules used by cr tool commands to perform work in sequences.
+# ---
+
 """A package to hold all the actions for the cr tool.
 
 This package holds the standard actions used by the commands in the cr tool.

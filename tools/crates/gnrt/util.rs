@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared utilities for gnrt commands
+// summary: Provides helpers for running cargo and other processes, building guppy package graphs, and rendering Handlebars templates.
+// ---
+
 use anyhow::{ensure, format_err, Context, Result};
 use handlebars::{handlebars_helper, Renderable};
 use serde::Serialize;

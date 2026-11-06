@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build definition for the stack map GC library
+# summary: Builds the GC library from the GC API, stack map parser and x86-64 shim sources, keeping frame pointers enabled.
+# ---
+
 cmake_minimum_required(VERSION 3.13)
 enable_language(ASM)
 

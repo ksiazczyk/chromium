@@ -1,0 +1,4 @@
+# Docerion header of grep_for_vet_relevant_keywords.sh.
+type: script
+title: Grep crate sources for cargo vet keywords
+summary: Shell script that greps a vendored crate's sources for keywords such as unsafe, fs, and crypto to help verify cargo vet audit criteria.

@@ -1,0 +1,4 @@
+# Docerion header of hello_world.ql.
+type: test
+title: Trivial hello world CodeQL test query
+summary: Trivial CodeQL query that selects all C++ functions in the target and is intended for test purposes only.
