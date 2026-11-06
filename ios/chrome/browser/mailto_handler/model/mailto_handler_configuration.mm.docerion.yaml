@@ -1,0 +1,4 @@
+# Docerion header of mailto_handler_configuration.mm.
+type: source
+title: Mailto handler configuration implementation
+summary: Implements the MailtoHandlerConfiguration Objective-C class declared in the corresponding header.

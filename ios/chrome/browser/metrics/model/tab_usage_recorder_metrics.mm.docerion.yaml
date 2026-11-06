@@ -1,0 +1,4 @@
+# Docerion header of tab_usage_recorder_metrics.mm.
+type: source
+title: Tab usage recorder metrics definitions
+summary: Defines the histogram name constants and values used by the tab usage recorder metrics.

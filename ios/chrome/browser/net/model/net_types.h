@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network protocol handler map type definition
+// summary: Defines ProtocolHandlerMap, a mapping from URL scheme names to the URLRequestJobFactory protocol handlers that service them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_NET_TYPES_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_NET_TYPES_H_
 

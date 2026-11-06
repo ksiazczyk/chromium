@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito blocker scene agent header
+// summary: Declares IncognitoBlockerSceneAgent, a scene agent that shows an overlay to hide incognito content from the iOS task switcher.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_INCOGNITO_BLOCKER_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_INCOGNITO_BLOCKER_SCENE_AGENT_H_
 

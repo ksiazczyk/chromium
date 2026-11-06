@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main content broadcast test utility header
+// summary: Declares VerifyMainContentUIBroadcast, which checks whether main content UI state properties are broadcast through a ChromeBroadcaster.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_TEST_MAIN_CONTENT_BROADCAST_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_TEST_MAIN_CONTENT_BROADCAST_TEST_UTIL_H_
 

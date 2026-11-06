@@ -1,0 +1,4 @@
+# Docerion header of ios_push_notifications_metrics_provider_unittest.mm.
+type: test
+title: IOS push notifications metrics provider unit tests
+summary: Unit tests for the push notifications metrics provider using mocked notification settings, personal and work test profiles, and histogram testing.

@@ -1,0 +1,4 @@
+# Docerion header of browser_impl.mm.
+type: source
+title: BrowserImpl class implementation
+summary: Implements BrowserImpl, including creation and destruction of the inactive counterpart browser, observer notification, and the Browser factory method.

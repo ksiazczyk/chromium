@@ -1,0 +1,4 @@
+# Docerion header of ios_profile_session_durations_service_factory.mm.
+type: source
+title: IOS profile session durations service factory implementation
+summary: Builds the session durations service per profile, depending on sync, identity, and profile metrics services; incognito session time counts toward the regular profile.

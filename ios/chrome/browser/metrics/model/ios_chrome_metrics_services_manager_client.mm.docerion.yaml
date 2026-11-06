@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_metrics_services_manager_client.mm.
+type: source
+title: IOSChromeMetricsServicesManagerClient implementation
+summary: Implements creation of the variations service, metrics service client, and metrics state manager for iOS Chrome, including incognito session checks.

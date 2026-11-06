@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for the main content UI test source set
+summary: Defines a test-only source set listing the main content UI test utilities and their build dependencies.

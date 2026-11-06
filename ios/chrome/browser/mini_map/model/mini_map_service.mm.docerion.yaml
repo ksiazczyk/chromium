@@ -1,0 +1,4 @@
+# Docerion header of mini_map_service.mm.
+type: source
+title: MiniMapService implementation
+summary: Implements mini map pref observation, Google default search engine checks and an app-scoped observer tracking Google Maps installation.

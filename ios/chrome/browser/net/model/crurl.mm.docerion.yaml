@@ -1,0 +1,4 @@
+# Docerion header of crurl.mm.
+type: source
+title: CrURL Objective-C wrapper for GURL and NSURL conversion
+summary: Objective-C implementation of CrURL that keeps URLs stored as GURL and converts to NSURL only when needed by UIKit or Foundation.

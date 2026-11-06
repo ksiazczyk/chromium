@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the browser layout coordinator
+summary: GN build file defining the coordinator source set and its unit test target along with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the metrics model directory
+summary: Lists the code owner for the directory and delegates review of default browser metrics provider files to the default browser owners.

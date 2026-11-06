@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics declarations
+// summary: Declares memory_util functions for iOS memory metrics corresponding to Instruments and Xcode readings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MEMORY_MODEL_MEMORY_METRICS_H_
 #define IOS_CHROME_BROWSER_MEMORY_MODEL_MEMORY_METRICS_H_
 

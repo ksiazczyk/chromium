@@ -1,0 +1,4 @@
+# Docerion header of bookmark_model_metrics_service_factory.mm.
+type: source
+title: BookmarkModelMetricsServiceFactory implementation
+summary: Builds BookmarkModelMetricsService instances bound to each profile's bookmark model.

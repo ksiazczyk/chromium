@@ -1,0 +1,4 @@
+# Docerion header of tab_usage_recorder_service_factory.mm.
+type: source
+title: Tab usage recorder service factory implementation
+summary: Implements the profile-keyed factory that builds TabUsageRecorderService instances depending on browser list and session restoration services.

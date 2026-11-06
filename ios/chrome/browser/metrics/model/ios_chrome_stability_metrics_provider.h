@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeStabilityMetricsProvider header
+// summary: Declares a metrics provider that gathers Chrome stability metrics such as page load counts and renderer crashes on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_IOS_CHROME_STABILITY_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_IOS_CHROME_STABILITY_METRICS_PROVIDER_H_
 

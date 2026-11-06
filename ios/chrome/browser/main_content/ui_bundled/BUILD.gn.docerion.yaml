@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Main content UI build targets
+summary: GN build file defining the ui, ui_broadcasting_util, and unit_tests source sets with their sources and dependencies for the main content UI.

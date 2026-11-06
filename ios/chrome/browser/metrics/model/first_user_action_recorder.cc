@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First user action recorder implementation
+// summary: Records whether the first user action after backgrounding starts a new task, continues an existing task, or expires.
+// ---
+
 #include "ios/chrome/browser/metrics/model/first_user_action_recorder.h"
 
 #include <algorithm>

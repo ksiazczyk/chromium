@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web scroll view main content UI forwarder declarations
+// summary: Declares a helper that forwards scroll events from the active WebState's scroll view proxy to a MainContentUIStateUpdater.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_WEB_SCROLL_VIEW_MAIN_CONTENT_UI_FORWARDER_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_WEB_SCROLL_VIEW_MAIN_CONTENT_UI_FORWARDER_H_
 

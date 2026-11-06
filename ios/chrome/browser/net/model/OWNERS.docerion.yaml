@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the net model directory
+summary: Lists droger@chromium.org as the owner responsible for the net model directory.

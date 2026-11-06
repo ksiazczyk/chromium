@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainContentUI protocol
+// summary: Declares the MainContentUI protocol for the UI displaying the main content area, exposing its MainContentUIState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_MAIN_CONTENT_UI_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_MAIN_CONTENT_UI_H_
 

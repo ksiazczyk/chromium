@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_metrics_service_client_unittest.mm.
+type: test
+title: IOSChromeMetricsServiceClient unit tests
+summary: Unit tests for the iOS Chrome metrics service client covering log file filtering, profile event registration, and reporting state changes.

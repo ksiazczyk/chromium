@@ -1,0 +1,4 @@
+# Docerion header of browser_action_factory_unittest.mm.
+type: test
+title: BrowserActionFactory unit tests
+summary: Tests BrowserActionFactory actions using a test browser, test profile and mocked command handlers.

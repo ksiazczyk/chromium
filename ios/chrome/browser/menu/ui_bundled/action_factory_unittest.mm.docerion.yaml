@@ -1,0 +1,4 @@
+# Docerion header of action_factory_unittest.mm.
+type: test
+title: ActionFactory unit tests
+summary: Verifies that ActionFactory actions have the expected titles, images and recorded histogram entries.

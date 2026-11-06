@@ -1,0 +1,4 @@
+# Docerion header of histogram_bridge.mm.
+type: source
+title: Histogram bridge implementation
+summary: Implements HistogramBridge methods that report MetricKit long durations, memory, exit reasons and hang time samples as UMA histograms.

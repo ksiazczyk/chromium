@@ -1,0 +1,4 @@
+# Docerion header of connection_type_observer_bridge.mm.
+type: source
+title: ConnectionTypeObserverBridge implementation
+summary: Implements the connection type observer bridge, registering with NetworkChangeNotifier and forwarding changes to the delegate.

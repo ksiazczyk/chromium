@@ -1,0 +1,4 @@
+# Docerion header of action_factory.mm.
+type: source
+title: ActionFactory implementation
+summary: Implements UIAction creation for menu scenarios such as copy URL, share, pin tab and edit, recording metrics on execution.

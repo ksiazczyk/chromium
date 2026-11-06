@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for main UI bundled
+summary: Defines GN source_set targets for the default browser promo, incognito blocker, and UI blocker scene agents plus the main ui_bundled browser lifecycle code.

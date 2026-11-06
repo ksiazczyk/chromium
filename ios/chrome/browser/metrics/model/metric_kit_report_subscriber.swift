@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricKit report subscriber
+// summary: Swift singleton that subscribes to MetricKit reports and reports foreground time and metric results to IOS.MetricKit histograms grouped by state reporting domain.
+// ---
+
 import Foundation
 
 #if canImport(StateReporting) && canImport(MetricKit) && compiler(>=6.4)

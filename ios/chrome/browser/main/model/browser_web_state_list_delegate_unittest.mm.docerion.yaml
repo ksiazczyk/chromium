@@ -1,0 +1,4 @@
+# Docerion header of browser_web_state_list_delegate_unittest.mm.
+type: test
+title: BrowserWebStateListDelegate unit tests
+summary: Parameterized unit tests checking that the insertion and activation policies are respected when web states are inserted, activated, or removed.

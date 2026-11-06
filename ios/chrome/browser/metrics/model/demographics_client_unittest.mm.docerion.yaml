@@ -1,0 +1,4 @@
+# Docerion header of demographics_client_unittest.mm.
+type: test
+title: Demographics client unit tests
+summary: Unit tests verifying network time retrieval, sync service access and profile count reporting for DemographicsClient.

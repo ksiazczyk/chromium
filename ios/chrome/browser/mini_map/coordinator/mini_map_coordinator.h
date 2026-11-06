@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MiniMapCoordinator interface
+// summary: Declares the coordinator that presents mini maps for an address text or a maps URL, with modes and optional IPH.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MINI_MAP_COORDINATOR_MINI_MAP_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_MINI_MAP_COORDINATOR_MINI_MAP_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ukm_egtest.mm.
+type: test
+title: UKM Earl Grey tests
+summary: Earl Grey tests verifying UKM recording is enabled and disabled through sign-in, history sync, and metrics consent flows.

@@ -1,0 +1,4 @@
+# Docerion header of tab_usage_recorder_browser_agent_unittest.mm.
+type: test
+title: Tab usage recorder browser agent unit tests
+summary: Unit tests covering tab usage recording behavior including restored tabs, renderer termination, and backgrounding metric handling.

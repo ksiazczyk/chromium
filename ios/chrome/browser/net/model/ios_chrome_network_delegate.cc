@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome network delegate implementation
+// summary: Implements the network delegate hook that cancels and reports requests whose referrer header violates policy.
+// ---
+
 #include "ios/chrome/browser/net/model/ios_chrome_network_delegate.h"
 
 #include <stdlib.h>

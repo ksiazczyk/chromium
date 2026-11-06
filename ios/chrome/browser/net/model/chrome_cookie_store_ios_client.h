@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeCookieStoreIOSClient declaration
+// summary: Declares the Chrome implementation of net::CookieStoreIOSClient, which lives on the IO thread.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_CHROME_COOKIE_STORE_IOS_CLIENT_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_CHROME_COOKIE_STORE_IOS_CLIENT_H_
 

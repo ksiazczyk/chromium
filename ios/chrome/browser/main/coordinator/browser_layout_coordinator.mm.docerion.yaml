@@ -1,0 +1,4 @@
+# Docerion header of browser_layout_coordinator.mm.
+type: source
+title: BrowserLayoutCoordinator implementation
+summary: Implements the browser layout coordinator, wiring up infobar overlay containers, the tab strip, fullscreen updates and the safe area provider.

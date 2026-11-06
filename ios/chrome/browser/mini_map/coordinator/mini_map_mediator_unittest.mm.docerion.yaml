@@ -1,0 +1,4 @@
+# Docerion header of mini_map_mediator_unittest.mm.
+type: test
+title: MiniMapMediator unit tests
+summary: Tests mediator consent behavior, including IPH display and preference updates, against a strict mock delegate.

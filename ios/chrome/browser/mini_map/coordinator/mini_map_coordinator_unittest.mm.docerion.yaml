@@ -1,0 +1,4 @@
+# Docerion header of mini_map_coordinator_unittest.mm.
+type: test
+title: MiniMapCoordinator unit tests
+summary: Tests coordinator logic and its links to the mini map controller using mock factories, command handlers, and OCMock.

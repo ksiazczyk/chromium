@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetryableURLFetcher header
+// summary: Declares the RetryableURLFetcher class and its delegate protocol for fetching a URL with optional backoff-based retries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_RETRYABLE_URL_FETCHER_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_RETRYABLE_URL_FETCHER_H_
 

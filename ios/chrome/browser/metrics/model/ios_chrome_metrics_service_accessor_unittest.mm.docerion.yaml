@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_metrics_service_accessor_unittest.mm.
+type: test
+title: IOSChromeMetricsServiceAccessor unit tests
+summary: Unit tests verifying the metrics and crash reporting consent behavior of IOSChromeMetricsServiceAccessor under Chrome and non-Chrome branding.

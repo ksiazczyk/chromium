@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceptLanguagePrefWatcher declaration
+// summary: Declares a helper class that watches the Accept-Language preference on the UI thread and shares its value safely with the IO thread.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_ACCEPT_LANGUAGE_PREF_WATCHER_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_ACCEPT_LANGUAGE_PREF_WATCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for iOS Chrome net model
+summary: Defines GN source sets and dependencies for the iOS Chrome network model, including unit test and Earl Grey test targets.

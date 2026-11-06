@@ -1,0 +1,4 @@
+# Docerion header of mini_map_tab_helper_unittest.mm.
+type: test
+title: MiniMapTabHelper unit tests
+summary: Tests interception of Google Maps links, opt-out URL handling and mini map success and failure navigation flows with fake web states.

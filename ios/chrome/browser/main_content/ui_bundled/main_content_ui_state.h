@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainContentUIState and updater declarations
+// summary: Declares MainContentUIState encapsulating broadcasted scroll view state and MainContentUIStateUpdater, which updates the state from scroll view events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_MAIN_CONTENT_UI_STATE_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_MAIN_CONTENT_UI_STATE_H_
 

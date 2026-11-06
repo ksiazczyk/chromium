@@ -1,0 +1,4 @@
+# Docerion header of incognito_usage_app_state_agent_unittest.mm.
+type: test
+title: Incognito usage app state agent unit tests
+summary: Verifies that sufficiently long incognito sessions are recorded to IOS.Incognito.TimeSpent while short sessions are ignored.

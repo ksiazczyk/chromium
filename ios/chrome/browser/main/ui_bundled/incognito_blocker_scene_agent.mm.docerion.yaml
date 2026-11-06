@@ -1,0 +1,4 @@
+# Docerion header of incognito_blocker_scene_agent.mm.
+type: source
+title: Incognito blocker scene agent implementation
+summary: Scene agent that covers incognito content and the QR scanner with a launch-screen overlay when the scene is backgrounded, hiding it from the app switcher.

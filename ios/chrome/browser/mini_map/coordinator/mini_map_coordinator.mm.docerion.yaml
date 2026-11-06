@@ -1,0 +1,4 @@
+# Docerion header of mini_map_coordinator.mm.
+type: source
+title: MiniMapCoordinator implementation
+summary: Implements mini map presentation, consent handling via the mediator, and command dispatch for settings and snackbars.

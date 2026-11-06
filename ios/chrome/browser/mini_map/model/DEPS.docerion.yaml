@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mini map model dependency rules
+summary: Allows the mini map model directory to include download, profile, search engines and signin model headers.

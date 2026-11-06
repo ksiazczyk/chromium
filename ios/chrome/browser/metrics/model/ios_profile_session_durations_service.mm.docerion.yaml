@@ -1,0 +1,4 @@
+# Docerion header of ios_profile_session_durations_service.mm.
+type: source
+title: IOS profile session durations service implementation
+summary: Implements session duration tracking by forwarding session start and end events to sync, MSBB, and password metrics recorders.

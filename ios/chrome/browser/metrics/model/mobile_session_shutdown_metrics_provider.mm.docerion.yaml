@@ -1,0 +1,4 @@
+# Docerion header of mobile_session_shutdown_metrics_provider.mm.
+type: source
+title: Mobile session shutdown metrics provider implementation
+summary: Records tab count histograms before clean shutdowns and crashes, skipping first launches after an upgrade.

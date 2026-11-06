@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First user action recorder unit tests
+// summary: Unit tests verifying expiration, NTP start, new task, continuation, rethrown and ignored user actions are recorded correctly.
+// ---
+
 #include "ios/chrome/browser/metrics/model/first_user_action_recorder.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of mobile_session_shutdown_metrics_provider_unittest.mm.
+type: test
+title: Mobile session shutdown metrics provider unit tests
+summary: Unit tests verifying tab count metrics recorded after clean shutdowns and crashes using a fake upgrade-state provider.

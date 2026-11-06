@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserImpl class header
+// summary: Declares BrowserImpl, the concrete Browser implementation managing the web state list, command dispatcher, scene state, observers, and inactive browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_MODEL_BROWSER_IMPL_H_
 #define IOS_CHROME_BROWSER_MAIN_MODEL_BROWSER_IMPL_H_
 

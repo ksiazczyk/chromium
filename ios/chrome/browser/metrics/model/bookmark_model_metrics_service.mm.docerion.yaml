@@ -1,0 +1,4 @@
+# Docerion header of bookmark_model_metrics_service.mm.
+type: source
+title: BookmarkModelMetricsService implementation
+summary: Implements the bookmark model observer that keeps the bookmark nodes count crash key up to date for a profile.

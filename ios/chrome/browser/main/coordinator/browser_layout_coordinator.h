@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserLayoutCoordinator interface declaration
+// summary: Declares the BrowserLayoutCoordinator interface that manages the BrowserLayoutViewController and the displayed browser view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_COORDINATOR_BROWSER_LAYOUT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_MAIN_COORDINATOR_BROWSER_LAYOUT_COORDINATOR_H_
 

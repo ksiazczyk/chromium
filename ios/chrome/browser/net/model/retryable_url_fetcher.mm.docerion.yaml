@@ -1,0 +1,4 @@
+# Docerion header of retryable_url_fetcher.mm.
+type: source
+title: RetryableURLFetcher implementation
+summary: Implements RetryableURLFetcher, issuing requests via SimpleURLLoader and retrying failed fetches according to the configured backoff policy.

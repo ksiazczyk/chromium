@@ -1,0 +1,4 @@
+# Docerion header of pageload_foreground_duration_tab_helper_unittest.mm.
+type: test
+title: Pageload foreground duration tab helper unit tests
+summary: Unit tests verifying UKM logging for committed navigations, same-document navigations, and page foreground sessions.

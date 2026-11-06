@@ -1,0 +1,4 @@
+# Docerion header of mini_map_service_unittest.mm.
+type: test
+title: MiniMapService unit tests
+summary: Tests that the service reports mini map feature state, Google default search engine changes and Google Maps installation correctly.

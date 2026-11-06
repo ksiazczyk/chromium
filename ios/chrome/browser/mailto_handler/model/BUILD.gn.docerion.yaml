@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mailto handler model build rules
+summary: Defines GN source_set targets for the mailto handler model and its service factory, including dependencies that avoid circular includes.

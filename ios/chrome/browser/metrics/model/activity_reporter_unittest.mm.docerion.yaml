@@ -1,0 +1,4 @@
+# Docerion header of activity_reporter_unittest.mm.
+type: test
+title: ActivityReporter unit tests
+summary: Unit tests verifying ActivityReporter and MetricKitReportSubscriber initialization, report decoding, and expected histogram logging.

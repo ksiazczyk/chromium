@@ -1,0 +1,4 @@
+# Docerion header of ios_push_notifications_metrics_provider.mm.
+type: source
+title: IOS push notifications metrics provider implementation
+summary: Records histograms for notification permission status of push notification clients such as content, sports, tips, safety check, and send tab, based on signed-in identity.

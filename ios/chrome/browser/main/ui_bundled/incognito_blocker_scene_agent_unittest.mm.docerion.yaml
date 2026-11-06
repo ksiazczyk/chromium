@@ -1,0 +1,4 @@
+# Docerion header of incognito_blocker_scene_agent_unittest.mm.
+type: test
+title: Incognito blocker scene agent unit tests
+summary: Unit tests verifying that the incognito blocker overlay is added and removed on scene activation changes, including the multiple-windows topmost-window case.

@@ -1,0 +1,4 @@
+# Docerion header of browser_action_factory.mm.
+type: source
+title: BrowserActionFactory implementation
+summary: Implements browser-dependent menu actions such as opening URLs in new or incognito tabs and searching with Lens.

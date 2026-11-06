@@ -1,0 +1,4 @@
+# Docerion header of test_main_content_ui_observer.mm.
+type: test
+title: Test main content UI observer implementation
+summary: Implements TestMainContentUIObserver by registering with the broadcaster for content scroll offset broadcasts and recording the received y offset.

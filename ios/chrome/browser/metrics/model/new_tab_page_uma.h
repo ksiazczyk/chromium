@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page UMA action helpers header
+// summary: Declares action types and helper functions for recording New Tab Page user actions to UMA.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_NEW_TAB_PAGE_UMA_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_NEW_TAB_PAGE_UMA_H_
 

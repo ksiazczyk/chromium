@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Family Link user metrics provider header
+// summary: Declares a metrics provider that categorizes each profile's primary account into Family Link supervision types to segment the Chrome user population.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_IOS_FAMILY_LINK_USER_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_IOS_FAMILY_LINK_USER_METRICS_PROVIDER_H_
 

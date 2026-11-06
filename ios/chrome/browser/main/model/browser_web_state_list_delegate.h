@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWebStateListDelegate header
+// summary: Declares BrowserWebStateListDelegate, a WebStateList delegate with insertion and activation policies controlling tab helper attachment and realization.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_MODEL_BROWSER_WEB_STATE_LIST_DELEGATE_H_
 #define IOS_CHROME_BROWSER_MAIN_MODEL_BROWSER_WEB_STATE_LIST_DELEGATE_H_
 

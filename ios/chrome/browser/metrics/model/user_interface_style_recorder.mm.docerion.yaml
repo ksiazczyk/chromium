@@ -1,0 +1,4 @@
+# Docerion header of user_interface_style_recorder.mm.
+type: source
+title: UserInterfaceStyleRecorder implementation
+summary: Records the current light or dark interface style to histograms, bucketed by the device's local time of day, when the app becomes active or the style changes in the foreground.

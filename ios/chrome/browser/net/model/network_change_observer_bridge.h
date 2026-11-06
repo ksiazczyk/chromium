@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network change observer bridge declaration
+// summary: Declares the NetworkChangeObserving protocol and a bridge class that forwards net::NetworkChangeNotifier events to Objective-C observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_NETWORK_CHANGE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_NETWORK_CHANGE_OBSERVER_BRIDGE_H_
 

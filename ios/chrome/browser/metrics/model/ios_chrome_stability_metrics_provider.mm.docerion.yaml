@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_stability_metrics_provider.mm.
+type: source
+title: iOS Chrome stability metrics provider implementation
+summary: Implements the iOS Chrome stability metrics provider, recording page load counts by navigation type and renderer crashes to UMA histograms when recording is enabled.

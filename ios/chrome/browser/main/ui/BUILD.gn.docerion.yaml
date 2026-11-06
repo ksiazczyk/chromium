@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the ui source set
+summary: Defines the ui source_set with the browser layout sources, its dependency targets, and the UIKit framework for the iOS Chrome main UI.

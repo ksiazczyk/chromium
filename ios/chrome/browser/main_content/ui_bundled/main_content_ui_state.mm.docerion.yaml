@@ -1,0 +1,4 @@
+# Docerion header of main_content_ui_state.mm.
+type: source
+title: MainContentUIState implementation
+summary: Implements MainContentUIState properties and MainContentUIStateUpdater handling of scroll, drag, zoom, deceleration, and interrupted scroll events.

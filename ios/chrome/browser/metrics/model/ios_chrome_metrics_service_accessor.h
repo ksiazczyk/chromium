@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics service accessor interface
+// summary: Declares a class that limits and documents access to metrics service helpers such as synthetic field trial registration and reporting state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_IOS_CHROME_METRICS_SERVICE_ACCESSOR_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_IOS_CHROME_METRICS_SERVICE_ACCESSOR_H_
 

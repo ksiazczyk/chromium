@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for iOS Chrome metrics model
+summary: Defines GN source sets and dependencies for the iOS Chrome metrics model components such as demographics client, accessor, and bookmark model metrics.

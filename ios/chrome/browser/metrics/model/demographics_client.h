@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demographics client interface
+// summary: Declares the client that supplies profile, sync, prefs and network time information to the demographic metrics provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_DEMOGRAPHICS_CLIENT_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_DEMOGRAPHICS_CLIENT_H_
 

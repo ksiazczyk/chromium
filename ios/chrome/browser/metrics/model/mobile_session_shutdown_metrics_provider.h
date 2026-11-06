@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile session shutdown metrics provider header
+// summary: Declares a metrics provider that supplies immediately available previous-session shutdown data such as tab counts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_MOBILE_SESSION_SHUTDOWN_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_MOBILE_SESSION_SHUTDOWN_METRICS_PROVIDER_H_
 

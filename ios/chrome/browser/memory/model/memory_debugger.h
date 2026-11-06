@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDebugger view header
+// summary: Declares MemoryDebugger, a UIView showing memory information and tools to investigate memory issues, with timer invalidation requirements.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MEMORY_MODEL_MEMORY_DEBUGGER_H_
 #define IOS_CHROME_BROWSER_MEMORY_MODEL_MEMORY_DEBUGGER_H_
 

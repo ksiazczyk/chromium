@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MiniMapServiceFactory class header
+// summary: Declares the typed profile keyed service factory that creates a MiniMapService instance per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MINI_MAP_MODEL_MINI_MAP_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_MINI_MAP_MODEL_MINI_MAP_SERVICE_FACTORY_H_
 

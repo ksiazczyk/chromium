@@ -1,0 +1,4 @@
+# Docerion header of demographics_client.mm.
+type: source
+title: Demographics client implementation
+summary: Implements profile lookup, sync service access, local and profile prefs, and network time retrieval for demographic metrics.

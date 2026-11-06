@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserLayoutViewControllerConsumer protocol
+// summary: Declares the BrowserLayoutViewControllerConsumer protocol for updating tab strip and background views with fullscreen offset and alpha values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_UI_BROWSER_LAYOUT_VIEW_CONTROLLER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_MAIN_UI_BROWSER_LAYOUT_VIEW_CONTROLLER_CONSUMER_H_
 

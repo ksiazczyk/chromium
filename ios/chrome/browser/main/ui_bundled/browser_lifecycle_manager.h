@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser lifecycle manager header
+// summary: Declares BrowserLifecycleManager, which creates and owns main and incognito Browser instances and coordinators and registers their command endpoints.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_BROWSER_LIFECYCLE_MANAGER_H_
 #define IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_BROWSER_LIFECYCLE_MANAGER_H_
 

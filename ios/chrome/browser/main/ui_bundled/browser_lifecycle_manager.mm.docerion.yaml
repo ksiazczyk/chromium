@@ -1,0 +1,4 @@
+# Docerion header of browser_lifecycle_manager.mm.
+type: source
+title: Browser lifecycle manager implementation
+summary: Implements BrowserLifecycleManager, setting up main and OTR browsers, coordinators, session loading, and incognito profile lifecycle handling.

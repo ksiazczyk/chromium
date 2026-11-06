@@ -1,0 +1,4 @@
+# Docerion header of browser_web_state_list_delegate.mm.
+type: source
+title: BrowserWebStateListDelegate implementation
+summary: Implements BrowserWebStateListDelegate, attaching tab helpers on insertion and forcing realization on activation according to its configured policies.

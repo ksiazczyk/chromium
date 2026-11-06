@@ -1,0 +1,4 @@
+# Docerion header of browser_layout_coordinator_unittest.mm.
+type: test
+title: BrowserLayoutCoordinator unit tests
+summary: Unit tests covering coordinator start and stop, incognito state, browser view controller assignment and tab strip visibility behavior.

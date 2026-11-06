@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser agent attachment utility header
+// summary: Declares AttachBrowserAgents, which attaches browser agents to a Browser, skipping agents that are unused for inactive or off-the-record browsers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_MODEL_BROWSER_AGENT_UTIL_H_
 #define IOS_CHROME_BROWSER_MAIN_MODEL_BROWSER_AGENT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab usage recorder browser agent header
+// summary: Declares a browser agent that reports tab lifecycle usage metrics such as tab switches, page loads, reloads, and renderer terminations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_TAB_USAGE_RECORDER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_TAB_USAGE_RECORDER_BROWSER_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of user_interface_style_recorder_unittest.mm.
+type: test
+title: UserInterfaceStyleRecorder unit tests
+summary: Unit tests verifying that dark mode metrics are reported to the correct time-of-day histogram buckets using mocked clocks and timezone overrides.

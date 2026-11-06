@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS profile session metrics provider header
+// summary: Declares the factory function that creates the iOS profile session metrics provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_IOS_PROFILE_SESSION_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_IOS_PROFILE_SESSION_METRICS_PROVIDER_H_
 

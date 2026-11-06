@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_stability_metrics_provider_unittest.mm.
+type: test
+title: iOS Chrome stability metrics provider unit tests
+summary: Unit tests verifying that page load and navigation histograms are recorded only when recording is enabled and classified by navigation type.

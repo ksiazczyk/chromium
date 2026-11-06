@@ -1,0 +1,4 @@
+# Docerion header of incognito_usage_app_state_agent.mm.
+type: source
+title: Incognito usage app state agent implementation
+summary: Tracks incognito content visibility across scenes and records session durations to the IOS.Incognito.TimeSpent histogram.

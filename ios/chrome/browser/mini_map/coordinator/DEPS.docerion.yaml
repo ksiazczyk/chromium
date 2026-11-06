@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mini map coordinator include rules
+summary: Restricts the includes allowed in the mini map coordinator directory to specific model and annotation headers.

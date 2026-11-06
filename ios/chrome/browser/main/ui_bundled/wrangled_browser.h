@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrangledBrowser browser provider header
+// summary: Declares WrangledBrowser, a BrowserProvider wrapper around BrowserCoordinator intended for use only by SceneController.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_WRANGLED_BROWSER_H_
 #define IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_WRANGLED_BROWSER_H_
 

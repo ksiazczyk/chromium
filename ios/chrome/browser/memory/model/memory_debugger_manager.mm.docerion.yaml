@@ -1,0 +1,4 @@
+# Docerion header of memory_debugger_manager.mm.
+type: source
+title: MemoryDebuggerManager implementation
+summary: Implements MemoryDebuggerManager by observing the show-memory-debugging pref to add or remove the debugger view.

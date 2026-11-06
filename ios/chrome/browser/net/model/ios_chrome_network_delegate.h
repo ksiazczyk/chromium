@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome network delegate class declaration
+// summary: Declares IOSChromeNetworkDelegate, the central point for adding Chrome hooks into the network stack on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_IOS_CHROME_NETWORK_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_IOS_CHROME_NETWORK_DELEGATE_H_
 

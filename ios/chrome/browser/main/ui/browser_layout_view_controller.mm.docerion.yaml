@@ -1,0 +1,4 @@
+# Docerion header of browser_layout_view_controller.mm.
+type: source
+title: BrowserLayoutViewController implementation
+summary: Implements the browser layout container, handling child view controller management, fullscreen updates, status bar background views, and tab strip layout.

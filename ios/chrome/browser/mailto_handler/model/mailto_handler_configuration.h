@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mailto handler configuration interface
+// summary: Declares the MailtoHandlerConfiguration object holding identity, preferences, and single sign-on dependencies used by MailtoHandlerService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAILTO_HANDLER_MODEL_MAILTO_HANDLER_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_MAILTO_HANDLER_MODEL_MAILTO_HANDLER_CONFIGURATION_H_
 
