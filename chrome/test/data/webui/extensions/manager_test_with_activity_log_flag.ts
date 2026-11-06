@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions manager activity log navigation tests
+// summary: WebUI test suite verifying navigation to the activity log page when the activity log flag is enabled, for both valid and invalid extension IDs.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ExtensionsManagerElement} from 'chrome://extensions/extensions.js';

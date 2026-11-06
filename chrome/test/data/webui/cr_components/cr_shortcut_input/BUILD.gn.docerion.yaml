@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for cr-shortcut-input WebUI tests
+summary: Defines the GN build target that compiles the cr-shortcut-input WebUI test suite together with its TypeScript dependencies and path mappings.

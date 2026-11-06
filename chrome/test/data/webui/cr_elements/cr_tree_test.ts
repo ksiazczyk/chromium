@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-tree tests
+// summary: WebUI test suite for cr-tree and cr-tree-item covering tree structure, selection expanding ancestors, and arrow key collapse and expand.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_tree/cr_tree_item.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';

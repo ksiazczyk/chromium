@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-loading-gradient element tests
+// summary: WebUI tests verifying that cr-loading-gradient elements assign unique clip-path IDs to their SVG gradients.
+// ---
+
 import 'chrome://resources/cr_elements/cr_loading_gradient/cr_loading_gradient.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

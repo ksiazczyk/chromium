@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions manager WebUI refresh 2026 tests
+// summary: Test suite checking that the extensions manager applies the webui-refresh-2026 color styles only when the feature flag is enabled.
+// ---
+
 import type {ExtensionsManagerElement} from 'chrome://extensions/extensions.js';
 import {COLORS_CSS_SELECTOR} from 'chrome://extensions/extensions.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Help bubble WebUI tests build definition
+summary: Defines the GN build target that compiles the help bubble WebUI test sources together with their Lit, Polymer, and Mojo dependencies.

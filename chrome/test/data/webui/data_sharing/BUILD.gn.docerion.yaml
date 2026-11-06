@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data sharing WebUI tests BUILD.gn
+summary: GN build configuration for the data sharing WebUI tests, wiring up the C++ browser test and TypeScript test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox embedder mixin tests
+// summary: Extensive tests for the composebox embedder mixin covering input states, tools, models, file attachments, tabs and Fusebox action requests.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import './test_composebox_mixin.js';
 

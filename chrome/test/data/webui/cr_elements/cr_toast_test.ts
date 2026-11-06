@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-toast element tests
+// summary: WebUI tests covering show and hide, auto-hide durations, and slotted content visibility of the cr-toast element.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_toast/cr_toast.js';
 

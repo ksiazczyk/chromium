@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for cr-shortcut-input. */
 
+// ---docerion
+// type: test
+// title: cr-shortcut-input WebUI test suite
+// summary: Tests the cr-shortcut-input element, covering shortcut capture, validation error messages, shortcut updates, and clearing behavior.
+// ---
+
 import 'chrome://resources/cr_components/cr_shortcut_input/cr_shortcut_input.js';
 import 'chrome://extensions/strings.m.js';
 

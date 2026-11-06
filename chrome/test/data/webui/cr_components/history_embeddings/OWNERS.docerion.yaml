@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates review ownership for these tests to the owners of the history_embeddings source component via a file reference.

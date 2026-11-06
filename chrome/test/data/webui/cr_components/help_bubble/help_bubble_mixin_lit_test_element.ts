@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit test element for help bubble mixin
+// summary: Defines a Lit test element applying the help bubble mixin, with title, paragraph, list, and custom anchor elements for testing.
+// ---
+
 import './help_bubble_mixin_lit_test_container.js';
 
 import {HelpBubbleMixinLit} from 'chrome://resources/cr_components/help_bubble/help_bubble_mixin_lit.js';

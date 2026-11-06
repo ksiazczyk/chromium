@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test custom help bubble Lit template
+// summary: Lit HTML template for the test custom help bubble element, rendering cancel, dismiss, snooze, and action buttons wired to click handlers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TestCustomHelpBubbleElement} from './test_custom_help_bubble.js';

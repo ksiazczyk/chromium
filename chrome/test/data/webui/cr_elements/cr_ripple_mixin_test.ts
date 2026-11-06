@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrRippleMixin WebUI tests
+// summary: WebUI test suite for the CrRippleMixin, testing ripple creation, custom ripple containers, and the noink behavior on a dummy Lit element.
+// ---
+
 // clang-format off
 import {CrRippleMixin} from 'chrome://resources/cr_elements/cr_ripple/cr_ripple_mixin.js';
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';

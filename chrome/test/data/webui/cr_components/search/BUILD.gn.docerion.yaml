@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for search cr_components WebUI tests
+summary: GN build file that defines the WebUI test target for the search cr_components, building recording_wave_test.ts with its TypeScript dependencies.

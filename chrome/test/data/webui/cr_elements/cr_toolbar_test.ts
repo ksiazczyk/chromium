@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for cr-toolbar. */
 
+// ---docerion
+// type: test
+// title: cr-toolbar tests
+// summary: WebUI test suite for the cr-toolbar element covering always-show-logo, custom logo slotting, and search input ARIA description.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_toolbar/cr_toolbar.js';
 

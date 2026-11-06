@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit permissions dialog tests
+// summary: WebUI test suite for the site permissions edit dialog covering site sets, subdomain text and matching extension lists.
+// ---
+
 /**
  * @fileoverview
  * Suite of tests for site-permissions-edit-permissions-dialog.

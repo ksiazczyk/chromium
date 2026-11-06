@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads toolbar element tests
+// summary: Mocha tests covering the downloads-toolbar element, including search spinner, clear-all behavior and undo toast.
+// ---
+
 import type {CrToastManagerElement, DownloadsToolbarElement} from 'chrome://downloads/downloads.js';
 import {SearchService} from 'chrome://downloads/downloads.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

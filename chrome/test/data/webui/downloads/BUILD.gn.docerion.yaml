@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Downloads WebUI tests build configuration
+summary: GN build configuration that assembles the C++ browser tests and TypeScript test files for the downloads WebUI test suite.

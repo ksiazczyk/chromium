@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature showcase app TypeScript tests
+// summary: Mocha tests for the feature showcase app element, mocking page handlers, browser proxies and media queries across its steps.
+// ---
+
 import 'chrome://feature-showcase/app.js';
 import 'chrome://feature-showcase/feature_showcase_stepper.js';
 import 'chrome://feature-showcase/gemini/gemini_step.js';

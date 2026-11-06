@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flags experiment element WebUI tests
+// summary: WebUI tests for the experiment element, checking layout, option selection states, and permalink visibility.
+// ---
+
 import 'chrome://flags/experiment.js';
 
 import type {ExperimentElement} from 'chrome://flags/experiment.js';

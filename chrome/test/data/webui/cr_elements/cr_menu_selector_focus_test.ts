@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-menu-selector focus tests
+// summary: WebUI tests for cr-menu-selector keyboard focus behavior, including arrow key navigation, wrapping, and skipping disabled or hidden items.
+// ---
+
 import 'chrome://resources/cr_elements/cr_menu_selector/cr_menu_selector.js';
 
 import type {CrMenuSelectorElement} from 'chrome://resources/cr_elements/cr_menu_selector/cr_menu_selector.js';

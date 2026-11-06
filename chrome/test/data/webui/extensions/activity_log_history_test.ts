@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for activity-log-history. */
 
+// ---docerion
+// type: test
+// title: Activity log history tests
+// summary: Test suite for the activity-log-history element using sample API call, DOM access, content script and web request activities.
+// ---
+
 import type {ActivityLogHistoryElement} from 'chrome://extensions/extensions.js';
 import {ActivityLogPageState} from 'chrome://extensions/extensions.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

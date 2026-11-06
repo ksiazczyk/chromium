@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device log WebUI TypeScript tests
+// summary: Mocha tests for the device log WebUI app, using a mocked browser proxy to verify log loading, display, refresh, and clearing.
+// ---
+
 import 'chrome://device-log/app.js';
 
 import type {DeviceLogAppElement} from 'chrome://device-log/app.js';

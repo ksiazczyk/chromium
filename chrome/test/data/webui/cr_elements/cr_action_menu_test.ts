@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-action-menu element
+// summary: Interactive UI tests covering the cr-action-menu element's open and close events, focus management, and keyboard navigation.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 

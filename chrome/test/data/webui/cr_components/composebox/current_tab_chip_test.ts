@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Current tab chip tests
+// summary: WebUI tests for the composebox current tab chip, verifying visibility with tab suggestions, click event data and context-added metrics.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://resources/cr_components/composebox/current_tab_chip.js';
 

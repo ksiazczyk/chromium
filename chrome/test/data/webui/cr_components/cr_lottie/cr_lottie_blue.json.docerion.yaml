@@ -1,0 +1,4 @@
+# Docerion header of cr_lottie_blue.json.
+type: data
+title: Sample blue Lottie animation for cr-lottie tests
+summary: Lottie animation JSON rendering a solid blue rectangle, used as a static test fixture for cr-lottie rendering tests.

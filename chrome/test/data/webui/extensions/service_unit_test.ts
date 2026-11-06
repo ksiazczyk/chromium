@@ -8,6 +8,12 @@
  * extension APIs (and not mocking them out via a TestService).
  */
 
+// ---docerion
+// type: test
+// title: Extensions service unit tests
+// summary: Unit test suite for the extensions Service checking that failed setEnabled and openReviewPage API calls do not throw runtime errors.
+// ---
+
 import {Service} from 'chrome://extensions/extensions.js';
 import type {ServiceInterface} from 'chrome://extensions/extensions.js';
 

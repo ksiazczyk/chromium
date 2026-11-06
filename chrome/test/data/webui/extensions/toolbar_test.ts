@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar tests
+// summary: WebUI test suite for the extensions-toolbar element, covering dev mode layout, policy and child account restrictions, and click handlers for load, update, and pack actions.
+// ---
+
 import type {ExtensionsToolbarElement} from 'chrome://extensions/extensions.js';
 import {getToastManager} from 'chrome://extensions/extensions.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

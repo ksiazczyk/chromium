@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site permissions list tests
+// summary: WebUI test suite for the site-permissions-list element, covering adding sites, removing them via the action menu, and opening edit URL and permissions dialogs.
+// ---
+
 /** @fileoverview Suite of tests for site-permissions-list. */
 import 'chrome://extensions/extensions.js';
 

@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox Lens Search element tests
+// summary: Tests that the cr-composebox-lens-search element renders its hint label with correct accessibility attributes and dispatches a click event.
+// ---
+
 import 'chrome://resources/cr_components/composebox/composebox_lens_search.js';
 
 import type {ComposeboxLensSearchElement} from 'chrome://resources/cr_components/composebox/composebox_lens_search.js';

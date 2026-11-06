@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual action menu tests
+// summary: WebUI tests for the composebox contextual action menu, covering multi-tab selection, share-tabs flyout layout, keyboard handling, menu closing and metrics.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://resources/cr_components/composebox/contextual_action_menu.js';
 import 'chrome://resources/cr_components/composebox/composebox_favicon_group.js';

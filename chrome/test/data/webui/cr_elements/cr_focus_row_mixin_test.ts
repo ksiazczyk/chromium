@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FocusRowMixin tests
+// summary: WebUI tests for the FocusRowMixin covering focus row controls, id and aria-rowindex handling, and focus passing between rows.
+// ---
+
 // clang-format off
 import {FocusRowMixin} from 'chrome://resources/cr_elements/focus_row_mixin.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

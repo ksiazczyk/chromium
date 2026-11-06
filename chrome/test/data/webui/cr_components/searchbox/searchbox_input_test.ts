@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox input tests
+// summary: WebUI test suite for the cr-searchbox-input element, covering icons, clipboard behavior and inline autocomplete interactions.
+// ---
+
 import 'chrome://resources/cr_components/searchbox/searchbox_input.js';
 
 import {createSearchMatchForTesting, SearchboxBrowserProxy} from 'chrome://resources/cr_components/searchbox/searchbox_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio levels processor tests
+// summary: Tests the audio levels processor for silence handling, RMS smoothing, rapid level drops, low SNR edge cases, and speech reaction timing.
+// ---
+
 import {AudioLevelsProcessor} from 'chrome://resources/cr_components/search/audio_levels.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

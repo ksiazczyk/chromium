@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for extensions-detail-view. */
 
+// ---docerion
+// type: test
+// title: Extensions detail view test suite
+// summary: WebUI test suite for the extensions detail view, covering layout, permission checkboxes, warnings, and MV2 deprecation notice dismissal.
+// ---
+
 import type {CrCheckboxElement, ExtensionsDetailViewElement, ExtensionsToggleRowElement} from 'chrome://extensions/extensions.js';
 import {navigation, Page} from 'chrome://extensions/extensions.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

@@ -1,0 +1,4 @@
+# Docerion header of cr_lottie_tokenized.json.
+type: data
+title: Tokenized Lottie animation test fixture
+summary: Lottie animation JSON whose shape colors reference CDDS color tokens, used to test cr-lottie token replacement.

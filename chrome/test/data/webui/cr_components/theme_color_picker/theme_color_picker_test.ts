@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme color picker element tests
+// summary: WebUI tests covering the theme color picker element, including default colors in light and dark mode and interactions with a mocked mojo handler.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/strings.m.js';
 import 'chrome://resources/cr_components/theme_color_picker/theme_color_picker.js';
 

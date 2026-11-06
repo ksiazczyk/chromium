@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox file inputs tests
+// summary: Tests the file inputs element's image and file picker events, file change handling, and no-op behavior when inputs are disabled.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 
 import {ComposeboxFileInputsElement} from 'chrome://resources/cr_components/composebox/composebox_file_inputs.js';

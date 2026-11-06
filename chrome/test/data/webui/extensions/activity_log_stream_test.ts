@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for activity-log-stream. */
 
+// ---docerion
+// type: test
+// title: Activity log stream tests
+// summary: Test suite for the activity-log-stream element, covering stream toggling and display of incoming extension activity events.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {ActivityLogStreamElement, ActivityLogStreamItemElement} from 'chrome://extensions/extensions.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited element WebUI tests
+// summary: WebUI test suite for the MostVisited cr_components element, covering tile rendering, add/edit shortcuts, show more/less, and related behaviors.
+// ---
+
 import {TileSource} from '//resources/mojo/components/ntp_tiles/tile_source.mojom-webui.js';
 import {MostVisitedElement} from 'chrome://resources/cr_components/most_visited/most_visited.js';
 import type {AutoRemovedEventDetail} from 'chrome://resources/cr_components/most_visited/most_visited.js';

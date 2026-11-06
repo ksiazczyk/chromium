@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for managed-dialog. */
 
+// ---docerion
+// type: test
+// title: Managed dialog tests
+// summary: Mocha suite for the managed-dialog element verifying title and body rendering and dismissal of the dialog via the OK button.
+// ---
+
 import 'chrome://resources/cr_components/managed_dialog/managed_dialog.js';
 
 import type {ManagedDialogElement} from 'chrome://resources/cr_components/managed_dialog/managed_dialog.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test feedback browser proxy mock
+// summary: Mock implementation of the feedback browser proxy that records method calls and provides configurable responses for the feedback WebUI tests.
+// ---
+
 import type {FeedbackBrowserProxy, GetUserMediaParams} from 'chrome://feedback/js/feedback_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

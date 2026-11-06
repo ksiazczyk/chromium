@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-url-list-item tests
+// summary: WebUI test suite for cr-url-list-item covering favicon and folder icon toggling, custom icon slots, count truncation, and active state.
+// ---
+
 import 'chrome://resources/cr_elements/cr_url_list_item/cr_url_list_item.js';
 
 import type {CrUrlListItemElement} from 'chrome://resources/cr_elements/cr_url_list_item/cr_url_list_item.js';

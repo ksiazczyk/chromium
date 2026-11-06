@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-lazy-list element tests
+// summary: WebUI tests for the cr-lazy-list element covering chunked rendering, scroll targets and offsets, list padding, and focus restoration.
+// ---
+
 import 'chrome://resources/cr_elements/cr_lazy_list/cr_lazy_list.js';
 
 import type {CrLazyListElement} from 'chrome://resources/cr_elements/cr_lazy_list/cr_lazy_list.js';

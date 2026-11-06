@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension options dialog tests
+// summary: WebUI test suite verifying the extension options dialog layout, size limits and visibility when shown for an extension.
+// ---
+
 /** @fileoverview Suite of tests for extension-options-dialog. */
 import 'chrome://extensions/extensions.js';
 

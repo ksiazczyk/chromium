@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-collapse element
+// summary: Verifies the cr-collapse element's expand and collapse behavior, animation timing, and two-way binding with Polymer parent elements.
+// ---
+
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 
 import type {CrCollapseElement} from 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';

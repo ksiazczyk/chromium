@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the theme color picker test directory
+summary: Declares directory metadata for the theme color picker WebUI tests, mixing in the common metadata of the Customize Chrome UI directory.

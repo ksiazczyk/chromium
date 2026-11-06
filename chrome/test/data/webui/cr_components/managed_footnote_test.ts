@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for managed-footnote. */
 
+// ---docerion
+// type: test
+// title: Managed footnote tests
+// summary: Mocha suite for the managed-footnote element checking visibility based on isManaged, loadTimeData browser and device messages, and is-managed-changed events.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_components/managed_footnote/managed_footnote.js';
 

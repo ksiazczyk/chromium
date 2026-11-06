@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-lazy-render-lit element tests
+// summary: WebUI tests for the Lit-based cr-lazy-render-lit element covering deferred stamping, one-way binding, events, and instance reuse.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_lazy_render/cr_lazy_render_lit.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';

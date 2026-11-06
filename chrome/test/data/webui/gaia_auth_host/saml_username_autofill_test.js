@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SAML username autofill tests
+// summary: Tests autofilling the username into IdP login URLs, covering existing parameters, missing email, and non-HTTPS login pages.
+// ---
+
 import {maybeAutofillUsername} from 'chrome://chrome-signin/gaia_auth_host/saml_username_autofill.js';
 import {appendParam} from 'chrome://resources/js/util.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

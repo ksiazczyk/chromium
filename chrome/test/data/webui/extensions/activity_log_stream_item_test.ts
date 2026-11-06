@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for activity-log-stream-item. */
 
+// ---docerion
+// type: test
+// title: Activity log stream item tests
+// summary: Test suite for the activity-log-stream-item element, covering expandability, detail visibility and arg URL placeholder handling.
+// ---
+
 import type {ActivityLogStreamItemElement, StreamItem} from 'chrome://extensions/extensions.js';
 import {ARG_URL_PLACEHOLDER} from 'chrome://extensions/extensions.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

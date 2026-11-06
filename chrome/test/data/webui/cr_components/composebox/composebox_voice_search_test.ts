@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox voice search tests
+// summary: Tests for the cr-composebox-voice-search element covering recognition sessions, glow animations, autocomplete matches and metrics recording.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import './test_composebox_mixin.js';
 import 'chrome://resources/cr_components/composebox/composebox_voice_search.js';

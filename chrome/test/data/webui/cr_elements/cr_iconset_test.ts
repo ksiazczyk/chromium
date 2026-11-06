@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-iconset element tests
+// summary: WebUI tests for the cr-iconset element covering icon registration, icon creation, and applying or removing icons on host elements.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';
 
 import type {CrIconsetElement} from 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File carousel tests
+// summary: WebUI tests for the composebox file carousel, covering file thumbnail rendering, tab chip tooltips and thumbnail lookup by UUID with a mocked ResizeObserver.
+// ---
+
 import 'chrome://resources/cr_components/composebox/file_carousel.js';
 import 'chrome://contextual-tasks/strings.m.js';
 

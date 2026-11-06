@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions sidebar tests
+// summary: WebUI test suite for the extensions sidebar covering selected sections, click handlers, hrefs and the developer promo.
+// ---
+
 /** @fileoverview Suite of tests for extension-sidebar. */
 import type {ExtensionsSidebarElement} from 'chrome://extensions/extensions.js';
 import {navigation, Page} from 'chrome://extensions/extensions.js';

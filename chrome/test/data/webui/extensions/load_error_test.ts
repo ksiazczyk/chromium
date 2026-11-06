@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for extension-load-error. */
 
+// ---docerion
+// type: test
+// title: Extension load error element tests
+// summary: WebUI test suite for the extension load error dialog, covering retry actions, code sections, file path rows, and generic error display.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import type {LoadErrorElement} from 'chrome://extensions/extensions.js';

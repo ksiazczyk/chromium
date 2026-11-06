@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio wave animation tests
+// summary: Tests the audio wave element's SVG structure, listening state transitions, and transcript-driven syllable bump animation behavior.
+// ---
+
 import 'chrome://resources/cr_components/search/audio_wave.js';
 
 import type {AudioWaveElement, Bump} from 'chrome://resources/cr_components/search/audio_wave.js';

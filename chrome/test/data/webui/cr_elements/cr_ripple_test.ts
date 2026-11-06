@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-ripple WebUI tests
+// summary: WebUI test suite for the cr-ripple element, verifying ripple animations triggered by pointer events, keyboard input, and programmatic down and up actions.
+// ---
+
 import 'chrome://resources/cr_elements/cr_ripple/cr_ripple.js';
 
 import type {CrRippleElement} from 'chrome://resources/cr_elements/cr_ripple/cr_ripple.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter chips element tests
+// summary: Tests the history embeddings filter chips element, covering suggestion chip selection, show-results-by-group visibility, and change event dispatching.
+// ---
+
 import 'chrome://history/strings.m.js';
 import 'chrome://resources/cr_components/history_embeddings/filter_chips.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History clusters WebUI tests build definition
+summary: Defines the GN build target that bundles the history clusters WebUI TypeScript tests with their C++ browser test files, TypeScript dependencies, and path mappings.

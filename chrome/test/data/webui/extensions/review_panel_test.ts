@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions review panel tests
+// summary: WebUI test suite for the review panel checking safety check text, the collapsible extension list and completion state visibility.
+// ---
+
 /** @fileoverview Suite of tests for extensions-review-panel. */
 import 'chrome://extensions/extensions.js';
 

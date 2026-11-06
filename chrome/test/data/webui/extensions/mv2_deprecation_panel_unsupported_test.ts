@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MV2 deprecation panel unsupported stage tests
+// summary: Test suite for the MV2 deprecation panel in its unsupported stage, covering extension rows, header visibility, and notice dismissal interactions.
+// ---
+
 /** @fileoverview Suite of tests for extensions-mv2-deprecation-panel. */
 import 'chrome://extensions/extensions.js';
 

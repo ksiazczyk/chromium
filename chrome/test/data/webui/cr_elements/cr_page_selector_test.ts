@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-page-selector WebUI tests
+// summary: WebUI test suite for the cr-page-selector element, verifying selected-page visibility, the show-all attribute, click behavior, and nested slot handling.
+// ---
+
 import 'chrome://resources/cr_elements/cr_page_selector/cr_page_selector.js';
 
 import type {CrPageSelectorElement} from 'chrome://resources/cr_elements/cr_page_selector/cr_page_selector.js';

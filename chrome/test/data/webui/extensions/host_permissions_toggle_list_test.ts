@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host permissions toggle list tests
+// summary: Tests the host permissions toggle list display and toggling for specific-site and all-sites host access.
+// ---
+
 import type {ExtensionsHostPermissionsToggleListElement, ExtensionsToggleRowElement} from 'chrome://extensions/extensions.js';
 import {UserAction} from 'chrome://extensions/extensions.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

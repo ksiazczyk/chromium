@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox WebUI tests build definition
+summary: Defines the GN build target that compiles the composebox WebUI TypeScript tests, listing test files, dependencies, and TypeScript path mappings.

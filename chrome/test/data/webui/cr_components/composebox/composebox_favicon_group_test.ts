@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox favicon group tests
+// summary: Tests favicon group rendering, the overflow counter for more than three tabs, and z-index stacking isolation against overlapping overlays.
+// ---
+
 import 'chrome://resources/cr_components/composebox/composebox_favicon_group.js';
 
 import type {ComposeboxFaviconGroupElement} from 'chrome://resources/cr_components/composebox/composebox_favicon_group.js';

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cr_components tests
+summary: Grants the cr_components test directory permission to include headers from components/contextual_tasks/public.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Searchbox tests OWNERS
+summary: Points to the shared searchbox component OWNERS file, delegating review ownership for these WebUI tests.

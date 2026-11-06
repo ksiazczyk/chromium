@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change authenticator tests
+// summary: Tests detection of successful password change redirects for ADFS, Azure AD, and Ping identity provider endpoints.
+// ---
+
 import {detectPasswordChangeSuccess} from 'chrome://chrome-signin/gaia_auth_host/password_change_authenticator.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

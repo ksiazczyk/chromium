@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-profile-avatar-selector WebUI tests
+// summary: WebUI test suite for the cr-profile-avatar-selector element, covering avatar display, selection state, and keyboard focus and tab order behavior.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_profile_avatar_selector/cr_profile_avatar_selector.js';
 

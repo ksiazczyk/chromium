@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test suite for the cr-lottie WebUI component
+// summary: TypeScript suite verifying cr-lottie initialization, playback, canvas pixel output, and processing of tokenized Lottie animations.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_components/cr_lottie/cr_lottie.js';
 

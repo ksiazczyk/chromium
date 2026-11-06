@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Feature showcase test directory metadata
+summary: DIR_METADATA entry that inherits the common Chrome profiles metadata via mixins.

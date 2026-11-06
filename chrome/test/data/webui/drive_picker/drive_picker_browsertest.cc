@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive Picker host browser test harness
+// summary: C++ WebUI mocha browser tests that run the Drive Picker host app, sanitizer and untrusted app suites, enabling the composebox Drive context menu feature.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

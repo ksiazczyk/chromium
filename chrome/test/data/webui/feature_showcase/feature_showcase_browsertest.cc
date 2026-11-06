@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature Showcase browser test
+// summary: Browser test that enables first-run desktop refresh and Gemini showcase feature flags and runs the Feature Showcase WebUI mocha test suite.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

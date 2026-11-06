@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device log WebUI tests build definition
+summary: GN build file defining the build_webui_tests target that wires up the C++ browser test and TypeScript tests for the device log WebUI.

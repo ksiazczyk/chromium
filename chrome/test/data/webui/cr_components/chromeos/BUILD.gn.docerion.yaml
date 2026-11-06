@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Chrome OS cr_components WebUI tests build file
+summary: GN build file that compiles the Chrome OS cr_components WebUI TypeScript test sources and fakes for bluetooth, cellular setup, network, and network health into a test library.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for history embeddings WebUI tests
+summary: GN build file that defines the WebUI test target for the history embeddings components, listing test sources, browser test files, and TypeScript dependencies.

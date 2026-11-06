@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive Picker sanitizer WebUI test
+// summary: Mocha tests verifying DrivePickerSanitizer validates Drive document fields, allowed types, size bytes and thumbnail URLs, and raises sanitization errors.
+// ---
+
 import {DrivePickerSanitizer, SanitizationError} from 'chrome://drive-picker-host/untrusted/sanitizer.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

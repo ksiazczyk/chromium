@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for gaia_auth_host test resources
+summary: Bundles the local gaia_auth_host WebUI test files into a generated GRDP resource file served under the gaia_auth_host prefix.

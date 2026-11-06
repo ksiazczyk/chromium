@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site permissions site group tests
+// summary: WebUI test suite for the site-permissions-site-group element, verifying expansion of grouped sites and permitted versus restricted subtext handling.
+// ---
+
 /** @fileoverview Suite of tests for site-permissions-site-group. */
 import 'chrome://extensions/extensions.js';
 

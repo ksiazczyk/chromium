@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr_elements focus browser test runner
+// summary: C++ browser test that runs the interactive focus mocha test suites for cr_elements components, with some Mac-only tests disabled.
+// ---
+
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"
 

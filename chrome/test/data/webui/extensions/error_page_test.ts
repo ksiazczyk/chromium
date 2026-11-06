@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error page tests
+// summary: Tests the extensions error page with a mock delegate, covering runtime and manifest errors, layout, and error source requests.
+// ---
+
 /** @fileoverview Suite of tests for extensions-detail-view. */
 import 'chrome://extensions/extensions.js';
 

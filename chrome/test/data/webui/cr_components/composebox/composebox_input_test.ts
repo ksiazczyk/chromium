@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox input element tests
+// summary: WebUI tests for the cr-composebox-input element covering chip rendering, the text mirror, cancel button visibility and event forwarding.
+// ---
+
 import 'chrome://resources/cr_components/composebox/composebox_input.js';
 
 import {CHIP_CLASS, CHIP_LABEL_CLASS, createChipElement, getChipPolicyForTesting, NON_BREAKING_SPACE} from 'chrome://resources/cr_components/composebox/composebox_input.js';

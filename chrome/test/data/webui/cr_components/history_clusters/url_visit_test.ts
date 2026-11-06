@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL visit element WebUI tests
+// summary: Tests the url-visit element in side panel mode, checking tooltip values for short and long URLs and that tooltips update when the visit changes.
+// ---
+
 import 'chrome://history/strings.m.js';
 import 'chrome://resources/cr_components/history_clusters/url_visit.js';
 

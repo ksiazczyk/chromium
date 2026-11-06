@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox match element tests
+// summary: Tests rendering of autocomplete matches in cr-composebox-match, including primary and secondary text placement, styling and rich image matches.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://resources/cr_components/composebox/composebox_match.js';
 

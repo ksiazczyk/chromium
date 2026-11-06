@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: GN build definition for discards WebUI tests
+summary: Defines the build target that compiles the discards browser test and TypeScript test sources with the WebUI test build rules.

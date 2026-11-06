@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-progress WebUI tests
+// summary: WebUI test suite for the cr-progress element, checking ARIA attributes, value clamping and styling, indeterminate mode, and attribute reflection.
+// ---
+
 import 'chrome://resources/cr_elements/cr_progress/cr_progress.js';
 
 import type {CrProgressElement} from 'chrome://resources/cr_elements/cr_progress/cr_progress.js';

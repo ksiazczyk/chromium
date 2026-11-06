@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-icon-button element tests
+// summary: WebUI tests for the cr-icon-button element covering disabled state, tabindex behavior, and cr-icon creation and reuse.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/icons.html.js';

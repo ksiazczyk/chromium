@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble element test suite
+// summary: WebUI test suite for the help bubble element covering buttons, progress indicators, body layout in top and main containers, and dismissal events.
+// ---
+
 import 'chrome://resources/cr_components/help_bubble/help_bubble.js';
 
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';

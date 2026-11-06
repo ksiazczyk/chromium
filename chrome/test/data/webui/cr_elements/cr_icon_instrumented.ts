@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instrumented cr-icon test helper
+// summary: Test-only subclass of cr-icon that exposes an updatedComplete promise so tests can catch errors thrown in Lit's updated lifecycle callback.
+// ---
+
 import {CrIconElement} from '//resources/cr_elements/cr_icon/cr_icon.js';
 import {PromiseResolver} from '//resources/js/promise_resolver.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

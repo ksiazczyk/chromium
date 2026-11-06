@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojom conversion utils tests
+// summary: Mocha tests verifying that toMojomGroupData converts SDK group data into the expected mojom GroupData structure.
+// ---
+
 import {DataSharingMemberRoleEnum} from 'chrome-untrusted://data-sharing/data_sharing_sdk_types.js';
 import {MemberRole} from 'chrome-untrusted://data-sharing/group_data.mojom-webui.js';
 import type {GroupData} from 'chrome-untrusted://data-sharing/group_data.mojom-webui.js';

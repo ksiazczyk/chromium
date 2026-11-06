@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-policy-indicator WebUI tests
+// summary: WebUI test suite for the cr-policy-indicator element, checking tooltip icon visibility, icon class, and text for policy, parent, child, recommended, and extension indicator types.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/policy/cr_policy_indicator.js';
 import 'chrome://resources/cr_elements/policy/cr_tooltip_icon.js';

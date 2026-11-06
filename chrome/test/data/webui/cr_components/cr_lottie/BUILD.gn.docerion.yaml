@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for cr_lottie WebUI tests
+summary: GN build definition that assembles the cr-lottie WebUI test target with its TypeScript test file and static Lottie JSON fixtures.

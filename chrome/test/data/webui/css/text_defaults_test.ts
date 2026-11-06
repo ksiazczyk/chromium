@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text defaults font family test
+// summary: WebUI test asserting that text_defaults.css and text_defaults_md.css apply the expected per-platform font-family rules and inheritance.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 

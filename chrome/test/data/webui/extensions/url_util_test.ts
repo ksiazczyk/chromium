@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL utility tests
+// summary: WebUI test suite checking that getFaviconUrl builds the expected favicon2 image sets for normal URLs and URLs with wildcards.
+// ---
+
 import 'chrome://extensions/extensions.js';
 
 import {getFaviconUrl} from 'chrome://extensions/extensions.js';

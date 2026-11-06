@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-auto-img element
+// summary: Verifies how the cr-auto-img element translates auto-src values into image URLs, including Google Photos parameters and rejection of data URLs.
+// ---
+
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 
 import {CrAutoImgElement} from 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';

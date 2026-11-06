@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-splitter element tests
+// summary: WebUI tests verifying mouse-driven resizing of previous and next elements by the cr-splitter element.
+// ---
+
 import 'chrome://resources/cr_elements/cr_splitter/cr_splitter.js';
 
 import type {CrSplitterElement} from 'chrome://resources/cr_elements/cr_splitter/cr_splitter.js';

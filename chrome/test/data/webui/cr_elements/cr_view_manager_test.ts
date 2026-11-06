@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-view-manager tests
+// summary: WebUI test suite for cr-view-manager covering single and multiple view switching, show-all mode, and view enter and exit event firing.
+// ---
+
 // clang-format off
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import 'chrome://resources/cr_elements/cr_lazy_render/cr_lazy_render.js';

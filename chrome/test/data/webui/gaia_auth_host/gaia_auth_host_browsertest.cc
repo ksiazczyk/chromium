@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GaiaAuthHost WebUI Mocha browser test
+// summary: Browser test that runs the gaia_auth_host JavaScript suites for password change, SAML password attributes, timestamps, and username autofill.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

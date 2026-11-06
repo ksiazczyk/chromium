@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-infinite-list element tests
+// summary: WebUI tests for the cr-infinite-list element, including scrolling behavior and interaction with items using FocusRowMixinLit.
+// ---
+
 import 'chrome://resources/cr_elements/cr_infinite_list/cr_infinite_list.js';
 
 import type {CrInfiniteListElement} from 'chrome://resources/cr_elements/cr_infinite_list/cr_infinite_list.js';

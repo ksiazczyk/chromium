@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for cr_components WebUI tests
+summary: Defines the GN build target that assembles the cr_components WebUI Mocha test files, TypeScript definitions, dependencies, and path mappings.

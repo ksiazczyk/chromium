@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop handler tests
+// summary: Tests the extensions page drag-and-drop handler for directory and file drops, including a regression test for null entry handling.
+// ---
+
 import {DragAndDropHandler, Service} from 'chrome://extensions/extensions.js';
 
 import {TestService} from './test_service.js';

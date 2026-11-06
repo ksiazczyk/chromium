@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error scrim tests
+// summary: WebUI tests for the composebox error scrim, checking that error messages are displayed and the dismiss button fires the dismiss event.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 
 import {ErrorScrimElement} from 'chrome://resources/cr_components/composebox/error_scrim.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: dedupingMixin tests
+// summary: WebUI tests verifying dedupingMixin for Lit and Polymer, ensuring mixins are applied once for direct, transitive, and repeated use.
+// ---
+
 import {dedupingMixin as dedupingMixinLit} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 // <if expr="not is_android">
 import {dedupingMixin as dedupingMixinPolymer} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

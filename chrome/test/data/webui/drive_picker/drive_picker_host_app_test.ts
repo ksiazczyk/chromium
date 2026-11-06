@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive Picker host app WebUI tests
+// summary: WebUI test suite verifying that the drive picker host app element attaches to the DOM and embeds the picker content in an untrusted iframe.
+// ---
+
 import 'chrome://drive-picker-host/app.js';
 
 import type {DrivePickerHostAppElement} from 'chrome://drive-picker-host/app.js';

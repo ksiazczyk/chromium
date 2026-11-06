@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-scrollable WebUI tests
+// summary: WebUI test suite for the cr-scrollable Lit styles, checking that top and bottom borders appear and hide correctly while scrolling.
+// ---
+
 import {getCss as getCrScrollableCss} from 'chrome://resources/cr_elements/cr_scrollable_lit.css.js';
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';

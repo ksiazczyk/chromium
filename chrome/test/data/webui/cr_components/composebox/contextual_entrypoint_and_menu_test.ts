@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual entrypoint and menu tests
+// summary: WebUI tests for the composebox contextual entrypoint and menu, checking description visibility in tool mode and menu opening on entrypoint click.
+// ---
+
 import 'chrome://contextual-tasks/strings.m.js';
 import 'chrome://resources/cr_components/composebox/contextual_entrypoint_and_menu.js';
 

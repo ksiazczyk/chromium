@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color change listener tests
+// summary: Mocha suite verifying that ColorChangeUpdater refreshes the colors.css stylesheet URL with version and sets parameters and handles malformed or missing links.
+// ---
+
 // clang-format off
 import {COLORS_CSS_SELECTOR, ColorChangeUpdater} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';
 // <if expr="is_chromeos">

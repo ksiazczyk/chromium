@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedback app WebUI tests
+// summary: Mocha tests for the feedback dialog UI, covering layout visibility, screenshot capture failures, system info checkbox, and related behaviors.
+// ---
+
 import 'chrome://feedback/app.js';
 
 import type {AppElement} from 'chrome://feedback/app.js';

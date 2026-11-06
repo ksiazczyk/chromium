@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Placeholder text cycler tests
+// summary: WebUI test suite checking that PlaceholderTextCycler cycles an input element's placeholder text through transition strings.
+// ---
+
 import {PlaceholderTextCycler} from 'chrome://resources/cr_components/searchbox/placeholder_text_cycler.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 

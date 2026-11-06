@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize color scheme mode tests
+// summary: Mocha tests for the customize color scheme mode element checking the initial checked option and that selection changes call setColorSchemeMode.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/strings.m.js';
 
 import type {ColorSchemeModeOption} from 'chrome://resources/cr_components/customize_color_scheme_mode/customize_color_scheme_mode.js';

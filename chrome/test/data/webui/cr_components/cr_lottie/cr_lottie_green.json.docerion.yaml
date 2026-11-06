@@ -1,0 +1,4 @@
+# Docerion header of cr_lottie_green.json.
+type: data
+title: Sample green Lottie animation for cr-lottie tests
+summary: Lottie animation JSON rendering a solid green rectangle, used as a static test fixture for cr-lottie rendering tests.

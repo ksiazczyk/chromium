@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for composebox tests
+summary: TypeScript configuration extending the WebUI test base config and enabling chai, mocha and dom-speech-recognition type definitions.

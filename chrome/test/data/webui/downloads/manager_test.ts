@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads manager element tests
+// summary: Mocha tests covering the downloads-manager element, including item insertion, updates, removal and date rendering.
+// ---
+
 import type {CrToastManagerElement, DownloadsManagerElement, PageRemote} from 'chrome://downloads/downloads.js';
 import {browserProxyFactory, DangerType, loadTimeData, State} from 'chrome://downloads/downloads.js';
 import {isMac} from 'chrome://resources/js/platform.js';

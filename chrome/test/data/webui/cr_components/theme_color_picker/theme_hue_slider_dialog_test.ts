@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme hue slider dialog tests
+// summary: WebUI tests for the hue slider dialog covering slider range setup, knob color updates, hue selection on pointer and key events, and dialog show, hide, and positioning.
+// ---
+
 import 'chrome://resources/cr_components/theme_color_picker/theme_hue_slider_dialog.js';
 import 'chrome://customize-chrome-side-panel.top-chrome/strings.m.js';
 
