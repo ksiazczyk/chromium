@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/chromeos
+summary: Lists the owners who must review changes in ui/chromeos, with a per-file rule for file_manager_strings.grdp.

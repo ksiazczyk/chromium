@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 desktop window move client header
+// summary: Declares X11DesktopWindowMoveClient and its Delegate interface for moving desktop windows during drags via an X11 whole-screen move loop.
+// ---
+
 #ifndef UI_BASE_X_X11_DESKTOP_WINDOW_MOVE_CLIENT_H_
 #define UI_BASE_X_X11_DESKTOP_WINDOW_MOVE_CLIENT_H_
 

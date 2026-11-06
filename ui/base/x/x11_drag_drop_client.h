@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDragDropClient class header
+// summary: Declares XDragDropClient, which routes incoming and outgoing XDND drag-and-drop events for X11 windows via a delegate interface.
+// ---
+
 #ifndef UI_BASE_X_X11_DRAG_DROP_CLIENT_H_
 #define UI_BASE_X_X11_DRAG_DROP_CLIENT_H_
 

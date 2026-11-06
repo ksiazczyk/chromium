@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 display manager implementation
+// summary: Implements XDisplayManager, which fetches and maintains the list of X11 displays using XRandR and notifies observers of display and workspace changes.
+// ---
+
 #include "ui/base/x/x11_display_manager.h"
 
 #include <utility>

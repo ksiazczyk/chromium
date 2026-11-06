@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 UI controls test helper
+// summary: Implements a test helper that synthesizes X11 key and mouse input events and runs closures after pending UI events.
+// ---
+
 #include "ui/base/x/test/x11_ui_controls_test_helper.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity power manager notifier header
+// summary: Declares the UserActivityPowerManagerNotifier class, which observes user activity, stylus, fingerprint, and power manager events to report activity.
+// ---
+
 #ifndef UI_CHROMEOS_USER_ACTIVITY_POWER_MANAGER_NOTIFIER_H_
 #define UI_CHROMEOS_USER_ACTIVITY_POWER_MANAGER_NOTIFIER_H_
 

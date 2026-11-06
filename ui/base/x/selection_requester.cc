@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 selection requester implementation
+// summary: Implements SelectionRequester, which queues and performs X11 selection conversion requests with timeouts and incremental transfer support.
+// ---
+
 #include "ui/base/x/selection_requester.h"
 
 #include <algorithm>

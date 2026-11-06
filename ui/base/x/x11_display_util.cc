@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 display utilities implementation
+// summary: Implements helpers that build display lists from XRandR data and read work areas, ICC profiles, and EDID information from the X server.
+// ---
+
 #include "ui/base/x/x11_display_util.h"
 
 #include <dlfcn.h>

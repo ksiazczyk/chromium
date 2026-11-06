@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 software bitmap presenter implementation
+// summary: Implements software bitmap presentation on X11, compositing bitmaps onto drawables via image transfers and the shared memory image pool.
+// ---
+
 #include "ui/base/x/x11_software_bitmap_presenter.h"
 
 #include <stddef.h>

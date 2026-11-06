@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 workspace handler implementation
+// summary: Implements X11WorkspaceHandler, which tracks the current desktop via the _NET_CURRENT_DESKTOP root window property and notifies a delegate of changes.
+// ---
+
 #include "ui/base/x/x11_workspace_handler.h"
 
 #include "base/compiler_specific.h"

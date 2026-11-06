@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleQueryX11 implementation
+// summary: Queries the X11 screensaver extension to report the number of seconds since the last user input.
+// ---
+
 #include "ui/base/x/x11_idle_query.h"
 
 #include "ui/gfx/x/connection.h"

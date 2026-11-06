@@ -1,0 +1,4 @@
+# Docerion header of file_manager_strings.grdp.
+type: data
+title: File Manager string resources
+summary: Grit-part XML providing localized strings for the ChromeOS File Manager, including labels, warnings, and confirmation dialogs.

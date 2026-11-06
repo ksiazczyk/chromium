@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrandrIntervalOnlyVSyncProvider implementation
+// summary: Implements a VSync provider that reports the refresh interval from XRandr output change events, falling back to a 60 Hz default when XRandr is unavailable.
+// ---
+
 #include "ui/base/x/x11_xrandr_interval_only_vsync_provider.h"
 
 #include "base/functional/bind.h"

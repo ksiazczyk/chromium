@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 screensaver header
+// summary: Declares IsXScreensaverActive, which reports whether the X11 screensaver is currently active.
+// ---
+
 #ifndef UI_BASE_X_X11_SCREENSAVER_H_
 #define UI_BASE_X_X11_SCREENSAVER_H_
 

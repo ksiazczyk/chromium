@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 display utilities header
+// summary: Declares functions for building fallback and XRandR-based display lists, primary display refresh interval lookup, and range and rectangle distance metrics.
+// ---
+
 #ifndef UI_BASE_X_X11_DISPLAY_UTIL_H_
 #define UI_BASE_X_X11_DISPLAY_UTIL_H_
 

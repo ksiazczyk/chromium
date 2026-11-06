@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDragDropClient implementation
+// summary: Implements the XDND and XDS protocols so Chrome windows can send and receive drag-and-drop data with other X11 applications.
+// ---
+
 #include "ui/base/x/x11_drag_drop_client.h"
 
 #include "base/containers/flat_set.h"

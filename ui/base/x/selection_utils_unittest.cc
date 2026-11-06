@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection utils unit tests
+// summary: Unit tests verifying the SelectionFormatMap contains behavior for X11 selection atoms in ui::SelectionUtils.
+// ---
+
 #include "ui/base/x/selection_utils.h"
 
 #include "base/memory/ref_counted_memory.h"

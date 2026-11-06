@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 user input monitor implementation
+// summary: Implements XUserInputMonitor, which counts key presses from XInput raw device events and publishes the count through a shared memory mapping.
+// ---
+
 #include "ui/base/x/x11_user_input_monitor.h"
 
 #include "base/containers/span.h"

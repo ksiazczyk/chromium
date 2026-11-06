@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 move loop delegate interface
+// summary: Declares the X11MoveLoopDelegate interface that receives mouse movement, mouse release, and loop-end events while an X11 move loop tracks a drag.
+// ---
+
 #ifndef UI_BASE_X_X11_MOVE_LOOP_DELEGATE_H_
 #define UI_BASE_X_X11_MOVE_LOOP_DELEGATE_H_
 

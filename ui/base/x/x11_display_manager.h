@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 display manager header
+// summary: Declares XDisplayManager, responsible for tracking connected X11 screens, scale factors, and workspace changes through DisplayObserver notifications.
+// ---
+
 #ifndef UI_BASE_X_X11_DISPLAY_MANAGER_H_
 #define UI_BASE_X_X11_DISPLAY_MANAGER_H_
 

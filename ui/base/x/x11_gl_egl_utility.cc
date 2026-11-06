@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 EGL utility implementation
+// summary: Supplies X11-specific EGL display attributes and chooses alpha and buffer sizes based on the window visual.
+// ---
+
 #include "ui/base/x/x11_gl_egl_utility.h"
 
 #include <algorithm>

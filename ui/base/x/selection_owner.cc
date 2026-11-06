@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 selection owner implementation
+// summary: Implements SelectionOwner, which holds X11 selection ownership and serves requested data, including incremental INCR transfers.
+// ---
+
 #include "ui/base/x/selection_owner.h"
 
 #include <algorithm>

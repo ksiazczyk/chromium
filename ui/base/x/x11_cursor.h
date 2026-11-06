@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 cursor header
+// summary: Declares X11Cursor, a ref-counted class holding an X11 cursor resource with load callbacks and cleanup of the X11 resource on destruction.
+// ---
+
 #ifndef UI_BASE_X_X11_CURSOR_H_
 #define UI_BASE_X_X11_CURSOR_H_
 

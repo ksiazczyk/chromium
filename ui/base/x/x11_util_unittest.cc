@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 utility unit tests
+// summary: Unit tests verifying that native window icon extraction picks the largest icon with correct pixels and that WM_CLASS hints are written nul-terminated.
+// ---
+
 #include "ui/base/x/x11_util.h"
 
 #include <cstdint>

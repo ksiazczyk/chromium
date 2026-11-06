@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 whole screen move loop unit tests
+// summary: Unit test verifying that ending the move loop survives self-deletion of the loop object while the nested run loop is active.
+// ---
+
 #include "ui/base/x/x11_whole_screen_move_loop.h"
 
 #include <memory>

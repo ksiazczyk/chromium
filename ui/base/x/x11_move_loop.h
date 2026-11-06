@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11MoveLoop interface
+// summary: Defines the X11MoveLoop interface that runs a nested loop with a grabbed pointer to implement dragging and cursor updates.
+// ---
+
 #ifndef UI_BASE_X_X11_MOVE_LOOP_H_
 #define UI_BASE_X_X11_MOVE_LOOP_H_
 

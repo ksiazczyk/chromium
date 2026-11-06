@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 clipboard helper implementation
+// summary: Implements XClipboardHelper core X11 clipboard integration, including XFixes-based selection change observation, shared by the legacy and Ozone X11 backends.
+// ---
+
 #include "ui/base/x/x11_clipboard_helper.h"
 
 #include <algorithm>

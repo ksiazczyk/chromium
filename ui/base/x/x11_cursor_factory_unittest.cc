@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 cursor factory unit tests
+// summary: Unit test checking that creating an image cursor from an empty SkBitmap returns the invisible default cursor.
+// ---
+
 #include "ui/base/x/x11_cursor_factory.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

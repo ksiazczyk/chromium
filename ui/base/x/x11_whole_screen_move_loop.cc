@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 whole screen move loop implementation
+// summary: Implements a nested run loop that grabs the pointer and dispatches mouse events to drive window dragging and movement on X11.
+// ---
+
 #include "ui/base/x/x11_whole_screen_move_loop.h"
 
 #include <stddef.h>

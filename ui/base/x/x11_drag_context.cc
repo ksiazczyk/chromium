@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 drag context implementation
+// summary: Implements XDragContext, which handles XDND protocol messages and negotiates drag-and-drop data types and actions between X11 windows.
+// ---
+
 #include "ui/base/x/x11_drag_context.h"
 
 #include "base/logging.h"

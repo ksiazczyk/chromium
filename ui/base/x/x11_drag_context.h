@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDragContext class header
+// summary: Declares XDragContext, which manages XDND drag-and-drop data exchange and action negotiation between X11 windows.
+// ---
+
 #ifndef UI_BASE_X_X11_DRAG_CONTEXT_H_
 #define UI_BASE_X_X11_DRAG_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 whole screen move loop header
+// summary: Declares X11WholeScreenMoveLoop, which runs a nested event loop with a pointer grab on an input-only window to implement dragging.
+// ---
+
 #ifndef UI_BASE_X_X11_WHOLE_SCREEN_MOVE_LOOP_H_
 #define UI_BASE_X_X11_WHOLE_SCREEN_MOVE_LOOP_H_
 

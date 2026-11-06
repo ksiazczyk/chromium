@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 UI controls test helper header
+// summary: Declares a test helper that sends synthetic X11 key and mouse events for UI controls testing.
+// ---
+
 #ifndef UI_BASE_X_TEST_X11_UI_CONTROLS_TEST_HELPER_H_
 #define UI_BASE_X_TEST_X11_UI_CONTROLS_TEST_HELPER_H_
 

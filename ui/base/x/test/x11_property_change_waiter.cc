@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 property change waiter
+// summary: Implements a test helper that blocks the run loop until a given property on an X11 window changes.
+// ---
+
 #include "ui/base/x/test/x11_property_change_waiter.h"
 
 #include <utility>

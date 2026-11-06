@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 property change waiter header
+// summary: Declares a test helper class that blocks until the value of a property on an X11 window changes.
+// ---
+
 #ifndef UI_BASE_X_TEST_X11_PROPERTY_CHANGE_WAITER_H_
 #define UI_BASE_X_TEST_X11_PROPERTY_CHANGE_WAITER_H_
 

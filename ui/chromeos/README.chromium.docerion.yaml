@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: About the ui/chromeos directory
+summary: Explains that this directory holds UI code that is ChromeOS-specific, not part of Ash, and used outside of Ash.

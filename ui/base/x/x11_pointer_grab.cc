@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 pointer grab implementation
+// summary: Implements X11 pointer grabbing using XInput2 device grabs with a core pointer fallback, plus support for changing the cursor of an active grab.
+// ---
+
 #include "ui/base/x/x11_pointer_grab.h"
 
 #include "base/cancelable_callback.h"
