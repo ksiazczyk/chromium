@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate feature flags
+// summary: Defines base::Feature flags controlling prefs-based certificate storage and Windows software key and TPM TLS 1.3 compatibility behavior.
+// ---
+
 #include "components/enterprise/client_certificates/core/features.h"
 
 namespace client_certificates::features {

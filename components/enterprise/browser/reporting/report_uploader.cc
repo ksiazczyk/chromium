@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report uploader implementation
+// summary: Implements ReportUploader, which uploads report requests sequentially with backoff retries and records response and policy status metrics.
+// ---
+
 #include "components/enterprise/browser/reporting/report_uploader.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for enterprise identifiers
+summary: Defines the identifiers static library and a test-only source set with their public headers, sources and dependencies for the enterprise browser identifiers component.

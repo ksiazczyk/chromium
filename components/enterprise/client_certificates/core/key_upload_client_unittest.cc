@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key upload client unit tests
+// summary: Unit tests for KeyUploadClient covering request construction, certificate provisioning, and server response handling using mocked keys.
+// ---
+
 #include "components/enterprise/client_certificates/core/key_upload_client.h"
 
 #include <string_view>

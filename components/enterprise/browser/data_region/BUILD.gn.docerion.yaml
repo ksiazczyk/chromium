@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the data_region component
+summary: Defines the data_region static library target, listing the policy handler sources and dependencies on base and the policy core browser component.

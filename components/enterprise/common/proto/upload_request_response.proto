@@ -7,6 +7,12 @@
 // Any modifications to this file should be kept in sync with the original to
 // maintain wire-format of requests.
 
+// ---docerion
+// type: source
+// title: Event upload request and response protos
+// summary: Defines UploadEventsRequest and UploadEventsResponse messages for the reporting pipeline, kept in sync with google3 originals.
+// ---
+
 syntax = "proto3";
 
 package chrome.cros.reporting.proto;

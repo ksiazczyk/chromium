@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SaaS usage aggregation utilities
+// summary: Parameterized unit tests verifying that navigation recording aggregates domain counts and encryption protocols correctly.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_aggregation_utils.h"
 
 #include <map>

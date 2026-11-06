@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for browser_binding
+summary: Specifies allowed include rules for the browser_binding directory, granting Android sources access to JNI bindings, crypto, net, jni_zero and BoringSSL headers.

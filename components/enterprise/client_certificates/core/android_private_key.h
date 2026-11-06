@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android client certificate private key class declaration
+// summary: Declares the AndroidPrivateKey class that wraps an Android browser key as a client certificate private key with a security level accessor.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_ANDROID_PRIVATE_KEY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_ANDROID_PRIVATE_KEY_H_
 

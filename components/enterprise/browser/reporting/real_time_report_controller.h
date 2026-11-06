@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report controller class declaration
+// summary: Declares the controller that coordinates real-time enterprise report generation and upload through the encrypted reporting pipeline, including its delegate interface and report configuration.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_REPORT_CONTROLLER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_REPORT_CONTROLLER_H_
 

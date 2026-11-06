@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser launch event controller unit tests
+// summary: Unit tests for the browser launch event controller using mock collector and uploader to verify upload, retry, and policy-enabled behavior.
+// ---
+
 #include "components/enterprise/browser/reporting/browser_launch/browser_launch_event_controller.h"
 
 #include <memory>

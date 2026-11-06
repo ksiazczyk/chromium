@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsReportingSchedulerBridge
+// summary: JNI utility class that lets native C++ code schedule or cancel the signals reporting background task through the Java background task scheduler.
+// ---
+
 package org.chromium.components.enterprise.reporting;
 
 import org.jni_zero.CalledByNative;

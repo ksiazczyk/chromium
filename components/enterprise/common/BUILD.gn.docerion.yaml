@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for enterprise common strings and files scan data
+summary: GN build file defining the strings and files_scan_data static libraries plus the unit_tests target for the enterprise common component.

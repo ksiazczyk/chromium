@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage reporting controller implementation
+// summary: Implements the controller that records navigations to configured SaaS domains and Gemini in Chrome usage into browser and profile preferences.
+// ---
+
 #include "components/enterprise/browser/reporting/saas_usage/saas_usage_reporting_controller.h"
 
 #include <memory>

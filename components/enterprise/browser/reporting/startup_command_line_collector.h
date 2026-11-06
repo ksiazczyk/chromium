@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup command line collector interface
+// summary: Declares a singleton utility that captures startup command line switch keys early in browser startup for later enterprise reporting.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_STARTUP_COMMAND_LINE_COLLECTOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_STARTUP_COMMAND_LINE_COLLECTOR_H_
 

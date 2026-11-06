@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Endpoint fetcher class declaration
+// summary: Declares EndpointFetcher with its request parameters, response struct, callbacks and authentication and HTTP method enums.
+// ---
+
 #ifndef COMPONENTS_ENDPOINT_FETCHER_ENDPOINT_FETCHER_H_
 #define COMPONENTS_ENDPOINT_FETCHER_ENDPOINT_FETCHER_H_
 

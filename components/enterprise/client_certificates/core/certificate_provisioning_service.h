@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate provisioning service interface
+// summary: Declares the CertificateProvisioningService keyed service interface for provisioning, retrieving, and deleting managed client identities.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CERTIFICATE_PROVISIONING_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CERTIFICATE_PROVISIONING_SERVICE_H_
 

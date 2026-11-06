@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android build targets for client certificate browser key binding
+summary: Defines GN targets that build the BrowserKey and BrowserKeyStore Java sources, generate JNI bindings, and run BrowserKeyStore unit tests for the Android client certificates component.

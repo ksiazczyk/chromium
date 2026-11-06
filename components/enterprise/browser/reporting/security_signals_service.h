@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security signals service interface
+// summary: Defines the SecurityReportTrigger enum and the interface for a service that schedules, triggers, and uploads user security signals reports.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SECURITY_SIGNALS_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SECURITY_SIGNALS_SERVICE_H_
 

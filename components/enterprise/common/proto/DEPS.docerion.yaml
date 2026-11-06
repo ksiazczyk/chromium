@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the proto directory
+summary: Grants this directory include access to headers from third_party/metrics_proto.

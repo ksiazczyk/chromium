@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL client certificate identity wrapper unit tests
+// summary: Unit tests verifying that the wrapper exposes its certificate and that AcquirePrivateKey returns the private key given at construction.
+// ---
+
 #include "components/enterprise/client_certificates/core/ssl_client_cert_identity_wrapper.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of certificate_provisioning_service_ios_unittest.mm.
+type: test
+title: Unit tests for the iOS certificate provisioning service
+summary: Tests the iOS provisioning service against a mocked core service, verifying identity conversion to SecIdentityRef, deletion, status and error metrics.

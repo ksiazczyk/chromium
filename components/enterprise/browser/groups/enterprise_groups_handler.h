@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups handler class declarations
+// summary: Declares the handler classes that observe cloud policy updates and copy enterprise group IDs to browser and profile preferences.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_GROUPS_ENTERPRISE_GROUPS_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_GROUPS_ENTERPRISE_GROUPS_HANDLER_H_
 

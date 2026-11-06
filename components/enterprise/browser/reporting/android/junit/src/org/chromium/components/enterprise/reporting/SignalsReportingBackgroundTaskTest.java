@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalsReportingBackgroundTaskTest
+// summary: JUnit unit tests verifying the start and stop task behavior of the SignalsReportingBackgroundTask, including rescheduling and native loading results.
+// ---
+
 package org.chromium.components.enterprise.reporting;
 
 import static org.junit.Assert.assertEquals;

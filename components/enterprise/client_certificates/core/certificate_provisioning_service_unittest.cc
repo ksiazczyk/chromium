@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the certificate provisioning service
+// summary: Unit tests covering managed identity provisioning, policy handling, identity deletion, and status reporting using mock stores and upload clients.
+// ---
+
 #include "components/enterprise/client_certificates/core/certificate_provisioning_service.h"
 
 #include <optional>

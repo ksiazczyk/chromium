@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups feature flag declarations
+// summary: Declares the enterprise groups feature flags, including the experiments toggle and a fake group for Finch testing.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_GROUPS_GROUPS_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_GROUPS_GROUPS_FEATURES_H_
 

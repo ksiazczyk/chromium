@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportGenerator class declaration for enterprise reporting
+// summary: Declares the ReportGenerator class that asynchronously builds enterprise report requests with hardware, machine and browser information for cloud reporting.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_GENERATOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_GENERATOR_H_
 

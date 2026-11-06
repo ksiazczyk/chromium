@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped SSL key converter header
+// summary: Declares ScopedSSLKeyConverter, a test helper that mocks unexportable signing key providers based on whether unexportable keys are supported.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_SCOPED_SSL_KEY_CONVERTER_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_SCOPED_SSL_KEY_CONVERTER_H_
 

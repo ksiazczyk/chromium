@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EC private key unit tests
+// summary: Unit tests checking that EC P-256 keys report the expected algorithm, SPKI, signatures, and serialized proto and dictionary representations.
+// ---
+
 #include "components/enterprise/client_certificates/core/ec_private_key.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Client certificates unit test build targets
+summary: GN build file defining a testonly unit_tests source set that aggregates client certificate test targets, including Android and iOS variants.

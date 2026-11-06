@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake browser DM token storage class declaration
+// summary: Declares FakeBrowserDMTokenStorage and its MockDelegate, a fake storage implementation for testing CBCM token handling with configurable values.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_CONTROLLER_FAKE_BROWSER_DM_TOKEN_STORAGE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_CONTROLLER_FAKE_BROWSER_DM_TOKEN_STORAGE_H_
 

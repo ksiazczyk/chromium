@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate preferences registration
+// summary: Registers profile and local state preferences that control managed client certificate provisioning and identity configuration.
+// ---
+
 #include "components/enterprise/client_certificates/core/prefs.h"
 
 #include "components/enterprise/client_certificates/core/constants.h"

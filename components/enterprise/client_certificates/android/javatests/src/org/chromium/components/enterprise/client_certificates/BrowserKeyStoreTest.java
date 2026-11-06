@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserKeyStoreTest
+// summary: Android instrumentation tests for BrowserKeyStore, covering key creation behavior such as rejecting old API levels and generating EC keys when StrongBox is available.
+// ---
+
 package org.chromium.components.enterprise.client_certificates;
 
 import static org.junit.Assert.assertEquals;

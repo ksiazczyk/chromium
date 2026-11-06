@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS certificate provisioning service interface
+// summary: Declares CertificateProvisioningServiceIOS, which extends the core provisioning service with an iOS-specific identity lookup exposing a SecIdentityRef.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_IOS_CERTIFICATE_PROVISIONING_SERVICE_IOS_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_IOS_CERTIFICATE_PROVISIONING_SERVICE_IOS_H_
 

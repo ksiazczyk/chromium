@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage aggregation utilities header
+// summary: Declares utilities to record navigations, populate SaaS usage report domain metrics, and clear the aggregated report data.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SAAS_USAGE_SAAS_USAGE_AGGREGATION_UTILS_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_SAAS_USAGE_SAAS_USAGE_AGGREGATION_UTILS_H_
 

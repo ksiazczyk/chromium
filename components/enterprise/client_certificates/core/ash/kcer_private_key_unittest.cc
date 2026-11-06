@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KcerPrivateKey unit tests
+// summary: Tests KcerPrivateKey directly against real NSS-backed keys and certificates, covering signing, cert binding and serialization.
+// ---
+
 #include "components/enterprise/client_certificates/core/ash/kcer_private_key.h"
 
 #include <memory>

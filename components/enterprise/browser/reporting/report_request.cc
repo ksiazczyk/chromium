@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportRequest implementation
+// summary: Implements the ReportRequest class that wraps desktop, Chrome OS and profile report protos in a single variant for the upload queue.
+// ---
+
 #include "components/enterprise/browser/reporting/report_request.h"
 
 #include <variant>

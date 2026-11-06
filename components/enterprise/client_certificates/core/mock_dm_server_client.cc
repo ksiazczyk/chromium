@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DM server client implementation
+// summary: Implements the constructor and destructor of the MockDMServerClient test double used in unit tests.
+// ---
+
 #include "components/enterprise/client_certificates/core/mock_dm_server_client.h"
 
 namespace enterprise_attestation {

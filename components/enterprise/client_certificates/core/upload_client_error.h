@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadClientError enum definition
+// summary: Defines the UploadClientError enum for terminal client failures in upload flows, with fixed values used in histograms logging, plus expected type aliases.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_UPLOAD_CLIENT_ERROR_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_UPLOAD_CLIENT_ERROR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report controller implementation
+// summary: Coordinates generation and upload of real-time enterprise reports such as extension requests and legacy tech reports via configured uploaders.
+// ---
+
 #include "components/enterprise/browser/reporting/real_time_report_controller.h"
 
 #include "base/check.h"

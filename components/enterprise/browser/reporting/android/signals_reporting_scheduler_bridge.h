@@ -4,6 +4,12 @@
 //
 // Glue to pass Safe Browsing API requests between Chrome and GMSCore.
 
+// ---docerion
+// type: source
+// title: Signals reporting scheduler bridge header
+// summary: Declares the singleton SignalsReportingSchedulerBridge class that schedules or cancels signals reports and stores the pending report callback on Android.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_ANDROID_SIGNALS_REPORTING_SCHEDULER_BRIDGE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_ANDROID_SIGNALS_REPORTING_SCHEDULER_BRIDGE_H_
 

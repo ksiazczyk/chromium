@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browser report generator delegates
+// summary: Implements fake report generator delegates and a delegate factory used to support enterprise reporting tests.
+// ---
+
 #include "components/enterprise/browser/reporting/fake_browser_report_generator_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref URL list matcher implementation
+// summary: Implements matching of URLs against URL patterns stored in a preference list, applying priority rules for exact hosts, path length and list order.
+// ---
+
 #include "components/enterprise/browser/reporting/pref_url_list_matcher.h"
 
 #include "base/functional/bind.h"

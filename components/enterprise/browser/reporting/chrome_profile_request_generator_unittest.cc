@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome profile request generator unit tests
+// summary: Unit tests for the Chrome profile request generator covering report types, security signals and attestation results.
+// ---
+
 #include "components/enterprise/browser/reporting/chrome_profile_request_generator.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB certificate store unit tests
+// summary: Unit tests for the LevelDB-backed certificate store, covering initialization, identity persistence, and certificate commits through a fake proto database.
+// ---
+
 #include "components/enterprise/client_certificates/core/leveldb_certificate_store.h"
 
 #include <map>

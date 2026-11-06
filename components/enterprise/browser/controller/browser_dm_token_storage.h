@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser DM token storage class declaration
+// summary: Declares BrowserDMTokenStorage, a sequenced singleton that stores and retrieves enrollment and DM tokens through a platform-specific delegate for enterprise enrollment.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_CONTROLLER_BROWSER_DM_TOKEN_STORAGE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_CONTROLLER_BROWSER_DM_TOKEN_STORAGE_H_
 

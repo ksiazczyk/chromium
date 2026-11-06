@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECPrivateKey class header
+// summary: Declares the ECPrivateKey class wrapping a crypto keypair to provide signing, subject public key info, algorithm reporting and serialization.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_EC_PRIVATE_KEY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_EC_PRIVATE_KEY_H_
 

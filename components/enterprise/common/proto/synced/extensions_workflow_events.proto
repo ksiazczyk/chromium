@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions workflow event protobuf
+// summary: Defines the ExtensionsWorkflowEvent message sent when a user requests or cancels an extension, including justification, client type, and device name.
+// ---
+
 syntax = "proto3";
 
 package enterprise_reporting;

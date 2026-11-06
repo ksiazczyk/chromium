@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report uploader implementation
+// summary: Implements creation of the CBCM reporting queue and enqueuing of real-time reports, recording enqueue status in histogram metrics.
+// ---
+
 #include "components/enterprise/browser/reporting/real_time_uploader.h"
 
 #include <queue>

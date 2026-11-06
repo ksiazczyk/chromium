@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock profile ID delegate header
+// summary: Declares a gmock-based mock of the ProfileIdDelegate interface that fakes device ID retrieval in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_IDENTIFIERS_MOCK_PROFILE_ID_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_IDENTIFIERS_MOCK_PROFILE_ID_DELEGATE_H_
 

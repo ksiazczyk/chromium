@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting feature flags declarations
+// summary: Declares feature flags for enterprise reporting, including SaaS usage, iOS signal sharing, Android package name identifiers, and uploads on profile open.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORTING_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORTING_FEATURES_H_
 

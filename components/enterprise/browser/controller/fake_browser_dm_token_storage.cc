@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake browser DM token storage implementation
+// summary: Implements FakeBrowserDMTokenStorage, a test double letting tests set CBCM client ID, tokens and error options instead of reading them from the operating system.
+// ---
+
 #include "components/enterprise/browser/controller/fake_browser_dm_token_storage.h"
 
 #include "base/command_line.h"

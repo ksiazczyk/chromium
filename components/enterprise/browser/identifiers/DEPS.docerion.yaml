@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the identifiers component
+summary: Grants the identifiers directory permission to include headers from components/keyed_service/core.

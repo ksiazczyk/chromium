@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise connectors proto definitions
+// summary: Defines protobuf messages and enums for enterprise content analysis connectors, including scan metadata and connector types.
+// ---
+
 syntax = "proto2";
 
 package enterprise_connectors;

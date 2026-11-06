@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identifiers profile preferences implementation
+// summary: Registers the enterprise_profile_guid string preference used to store the generated profile GUID.
+// ---
+
 #include "components/enterprise/browser/identifiers/identifiers_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

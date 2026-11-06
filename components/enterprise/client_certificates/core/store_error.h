@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoreError enum definition
+// summary: Defines the StoreError enum covering all certificate store API failures, with fixed values used in histograms logging, plus a StoreErrorOr expected alias.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_STORE_ERROR_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_STORE_ERROR_H_
 

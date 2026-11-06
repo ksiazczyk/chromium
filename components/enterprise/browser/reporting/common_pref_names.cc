@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting common preference names
+// summary: Defines preference name constants for cloud reporting, upload timestamps, security signals, SaaS usage, and extension requests.
+// ---
+
 #include "components/enterprise/browser/reporting/common_pref_names.h"
 
 namespace enterprise_reporting {

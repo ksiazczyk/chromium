@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud reporting frequency policy handler header
+// summary: Declares the policy handler that validates and applies the cloud reporting frequency policy to preferences.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CLOUD_REPORTING_FREQUENCY_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_CLOUD_REPORTING_FREQUENCY_POLICY_HANDLER_H_
 

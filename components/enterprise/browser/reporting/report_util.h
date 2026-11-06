@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report utilities header
+// summary: Declares reporting utility functions including file path obfuscation, value translation, security signal extraction to JSON, and report generation error metrics.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_UTIL_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_UTIL_H_
 

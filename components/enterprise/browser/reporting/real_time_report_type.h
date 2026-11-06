@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report type enum
+// summary: Defines the RealTimeReportType enum listing real-time report kinds such as extension request and legacy technology.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_REPORT_TYPE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_REPORT_TYPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable private key class declaration
+// summary: Declares the UnexportablePrivateKey class wrapping a crypto::UnexportableSigningKey with a configurable private key source, including iOS SecKeyRef support.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_UNEXPORTABLE_PRIVATE_KEY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_UNEXPORTABLE_PRIVATE_KEY_H_
 

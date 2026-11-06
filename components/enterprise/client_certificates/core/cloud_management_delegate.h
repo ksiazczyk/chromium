@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudManagementDelegate interface header
+// summary: Declares an abstract delegate that supplies the DM token and uploads the browser public key to the DM server for the current user or browser context.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CLOUD_MANAGEMENT_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_CLOUD_MANAGEMENT_DELEGATE_H_
 

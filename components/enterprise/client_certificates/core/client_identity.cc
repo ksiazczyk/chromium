@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client identity implementation
+// summary: Implements the ClientIdentity value type, including construction, copy semantics, and equality comparison.
+// ---
+
 #include "components/enterprise/client_certificates/core/client_identity.h"
 
 #include <utility>

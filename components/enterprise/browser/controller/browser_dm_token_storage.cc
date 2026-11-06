@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser DM token storage implementation
+// summary: Implements the singleton BrowserDMTokenStorage that caches and stores the DM token, enrollment token and client ID used to enroll browsers for enterprise management.
+// ---
+
 #include "components/enterprise/browser/controller/browser_dm_token_storage.h"
 
 #include <stddef.h>

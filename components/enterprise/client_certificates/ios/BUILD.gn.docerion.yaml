@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS client certificates component
+summary: Defines the GN source sets for the iOS client certificate code and its unit tests, listing public headers, sources, dependencies and linked Apple frameworks.

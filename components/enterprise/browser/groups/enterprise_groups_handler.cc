@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups handler implementation
+// summary: Implements base, browser, and profile handlers that copy available enterprise group IDs from cloud policy data into local state preferences.
+// ---
+
 #include "components/enterprise/browser/groups/enterprise_groups_handler.h"
 
 #include <string>

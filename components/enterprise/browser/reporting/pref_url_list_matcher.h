@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefURLListMatcher class declaration
+// summary: Declares a matcher that compares URLs against patterns from a PrefService list and documents the matching and tie-breaking rules.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_PREF_URL_LIST_MATCHER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_PREF_URL_LIST_MATCHER_H_
 

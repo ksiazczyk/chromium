@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PrefsCertificateStore
+// summary: Unit tests covering private key creation, certificate commits, identity loading and deletion in the prefs-backed certificate store.
+// ---
+
 #include "components/enterprise/client_certificates/core/prefs_certificate_store.h"
 
 #include <map>

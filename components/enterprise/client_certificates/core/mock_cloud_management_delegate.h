@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock cloud management delegate
+// summary: GMock test double for CloudManagementDelegate that stubs DM token retrieval and browser public key uploads for tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_CLOUD_MANAGEMENT_DELEGATE_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_MOCK_CLOUD_MANAGEMENT_DELEGATE_H_
 

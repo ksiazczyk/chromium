@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser launch event controller implementation
+// summary: Implements collection and upload of browser launch events, with exponential backoff retries, policy preference observation, and histogram metrics for upload results.
+// ---
+
 #include "components/enterprise/browser/reporting/browser_launch/browser_launch_event_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerPrivateKeyFactory class declaration
+// summary: Declares the ChromeOS PrivateKeyFactory that generates and loads keys via Kcer in the user's Chaps PKCS#11 slot with software fallback.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_ASH_KCER_PRIVATE_KEY_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_ASH_KCER_PRIVATE_KEY_FACTORY_H_
 

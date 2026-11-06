@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android client certificate private key implementation
+// summary: Implements AndroidPrivateKey, wrapping an Android browser key to sign data on a thread pool and serialize itself to proto and dict forms.
+// ---
+
 #include "components/enterprise/client_certificates/core/android_private_key.h"
 
 #include "base/check.h"

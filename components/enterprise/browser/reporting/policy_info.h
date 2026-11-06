@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy info helper declarations
+// summary: Declares helpers that append Chrome and extension policy details and cloud policy fetch timestamps into profile report protobufs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_POLICY_INFO_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_POLICY_INFO_H_
 

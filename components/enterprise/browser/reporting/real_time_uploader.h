@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report uploader class declaration
+// summary: Declares a helper class that uploads real-time reports through the encrypted reporting pipeline and must be used on the main thread.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_UPLOADER_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_UPLOADER_H_
 

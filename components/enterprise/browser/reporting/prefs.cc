@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting preference registration
+// summary: Registers local state and profile preferences for cloud reporting, including upload timestamps, frequency, security signals and SaaS usage report settings.
+// ---
+
 #include "components/enterprise/browser/reporting/prefs.h"
 
 #include <string>

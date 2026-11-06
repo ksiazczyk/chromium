@@ -1,0 +1,4 @@
+# Docerion header of client_identity_ios_error.mm.
+type: source
+title: Client identity iOS error to string implementation
+summary: Implements ClientIdentityIOSErrorToString, mapping each error enum value to a human-readable string for logging and diagnostics.

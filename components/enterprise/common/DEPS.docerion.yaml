@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the enterprise common directory
+summary: DEPS file allowing includes from content/public and ui/base/clipboard within the enterprise common component.

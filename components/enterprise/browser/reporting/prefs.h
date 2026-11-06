@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise reporting preference registration declarations
+// summary: Declares functions to register local state and profile preferences used by enterprise cloud reporting.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_PREFS_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_PREFS_H_
 

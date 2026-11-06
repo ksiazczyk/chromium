@@ -5,6 +5,12 @@
 // Defines the enterprise-related command-line switches used on several
 // platforms.
 
+// ---docerion
+// type: source
+// title: Enterprise browser command-line switch declarations
+// summary: Declares the enterprise-related command-line switches shared across several platforms.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_ENTERPRISE_SWITCHES_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_ENTERPRISE_SWITCHES_H_
 

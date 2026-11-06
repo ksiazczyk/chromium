@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL key converter implementation
+// summary: Converts unexportable signing keys into net SSL private keys using platform-specific wrappers on Windows and Mac, with a testing hook.
+// ---
+
 #include "components/enterprise/client_certificates/core/ssl_key_converter.h"
 
 #include "base/check.h"

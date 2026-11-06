@@ -1,0 +1,4 @@
+# Docerion header of CEP_OWNERS.
+type: config
+title: CEP code review owners list
+summary: Lists the owners for Chrome Enterprise Premium code reviews, preferring the cep-review@ group alias over individual reviewers.

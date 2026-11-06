@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup command line collector implementation
+// summary: Implements the singleton collector that captures the browser's startup command line and exposes its switch keys for enterprise reporting.
+// ---
+
 #include "components/enterprise/browser/reporting/startup_command_line_collector.h"
 
 #include "base/command_line.h"

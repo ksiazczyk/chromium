@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash client certificates core directory
+summary: Defines allowed include dependencies for the directory, with extra test-only rules for the Kcer unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows software private key factory
+// summary: Unit tests verifying creation and loading of Windows OS software private keys, including dict-based loading with invalid keys and behavior on unsupported devices.
+// ---
+
 #include "components/enterprise/client_certificates/core/win/windows_software_private_key_factory.h"
 
 #include "base/memory/scoped_refptr.h"

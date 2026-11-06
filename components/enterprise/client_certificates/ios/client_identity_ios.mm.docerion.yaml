@@ -1,0 +1,4 @@
+# Docerion header of client_identity_ios.mm.
+type: source
+title: iOS client identity wrapper implementation
+summary: Implements ClientIdentityIOS creation by converting the certificate and key with the Security framework and linking them into a SecIdentityRef.

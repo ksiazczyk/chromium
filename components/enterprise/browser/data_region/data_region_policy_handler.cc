@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data region policy handler implementation
+// summary: Implements DataRegionPolicyHandler as an IntRangePolicyHandler that accepts data region policy values from 0 to 2 and maps them to a preference path.
+// ---
+
 #include "components/enterprise/browser/data_region/data_region_policy_handler.h"
 
 namespace policy {

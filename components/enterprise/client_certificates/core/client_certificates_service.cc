@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificates service implementation
+// summary: Implements the service that aggregates client certificates from platform, profile, and browser provisioning services and filters them against server certificate requests.
+// ---
+
 #include "components/enterprise/client_certificates/core/client_certificates_service.h"
 
 #include <iterator>

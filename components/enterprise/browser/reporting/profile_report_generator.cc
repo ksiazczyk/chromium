@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile report generator implementation
+// summary: Generates ChromeUserProfileInfo reports with sign-in, affiliation, extension, extension request and policy information for a given profile path.
+// ---
+
 #include "components/enterprise/browser/reporting/profile_report_generator.h"
 
 #include <utility>

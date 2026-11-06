@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserKeyStore Android unit tests
+// summary: Unit tests for BrowserKeyStoreAndroid covering null Java reference conversion and key creation, signing and deletion on devices with and without StrongBox support.
+// ---
+
 #include "components/enterprise/client_certificates/android/browser_binding/browser_key_store_android.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportType enum definition
+// summary: Defines the ReportType enum distinguishing browser, browser version and profile reports, plus a helper returning metric suffixes.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_TYPE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORT_TYPE_H_
 

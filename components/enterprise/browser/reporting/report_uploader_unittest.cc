@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report uploader unit tests
+// summary: Unit tests for ReportUploader covering report upload, retry and error handling, and response metrics across ChromeOS and desktop platforms.
+// ---
+
 #include "components/enterprise/browser/reporting/report_uploader.h"
 
 #include <array>

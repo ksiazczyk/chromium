@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time report generator class declaration
+// summary: Declares a generator for small, frequently uploaded enterprise reports that are sent through the encrypted reporting pipeline via a delegate interface.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_REPORT_GENERATOR_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REAL_TIME_REPORT_GENERATOR_H_
 

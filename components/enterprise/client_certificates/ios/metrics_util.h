@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS client identity error logging metrics utility
+// summary: Declares LogClientIdentityIOSError, which logs terminal errors from ClientIdentityIOS instantiation, using a logging context to distinguish Browser and Profile levels.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_IOS_METRICS_UTIL_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_IOS_METRICS_UTIL_H_
 

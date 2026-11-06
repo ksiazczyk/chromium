@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerPrivateKey class declaration
+// summary: Declares a PrivateKey implementation that wraps a Kcer-managed ChromeOS key living in the TPM, with cert binding and signing APIs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_ASH_KCER_PRIVATE_KEY_H_
 #define COMPONENTS_ENTERPRISE_CLIENT_CERTIFICATES_CORE_ASH_KCER_PRIVATE_KEY_H_
 

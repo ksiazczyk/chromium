@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows software private key factory implementation
+// summary: Implements a Windows factory that creates and loads OS software-backed unexportable private keys through the Microsoft software key provider on background threads.
+// ---
+
 #include "components/enterprise/client_certificates/core/win/windows_software_private_key_factory.h"
 
 #include <array>

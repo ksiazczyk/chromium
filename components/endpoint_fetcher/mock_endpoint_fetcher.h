@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock endpoint fetcher declaration
+// summary: Declares a gmock-based MockEndpointFetcher subclass used to fake endpoint fetches in tests.
+// ---
+
 #ifndef COMPONENTS_ENDPOINT_FETCHER_MOCK_ENDPOINT_FETCHER_H_
 #define COMPONENTS_ENDPOINT_FETCHER_MOCK_ENDPOINT_FETCHER_H_
 

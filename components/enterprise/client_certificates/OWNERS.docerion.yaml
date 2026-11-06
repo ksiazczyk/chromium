@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the client certificates component
+summary: Lists the owners responsible for reviewing changes to the enterprise client certificates component.

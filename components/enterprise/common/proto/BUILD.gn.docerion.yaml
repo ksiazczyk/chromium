@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise proto build targets
+summary: GN build file defining proto library, fuzzable proto, and proto extras targets for enterprise event protos.

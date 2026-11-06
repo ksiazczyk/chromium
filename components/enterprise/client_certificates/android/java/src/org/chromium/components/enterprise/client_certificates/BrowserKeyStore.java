@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserKeyStore
+// summary: Java helper that creates and stores browser keys in the AndroidKeyStore, mapping external credential identifiers to keystore aliases and building credential parameter lists for native callers.
+// ---
+
 package org.chromium.components.enterprise.client_certificates;
 
 import android.content.pm.PackageManager;

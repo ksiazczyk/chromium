@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for client certificates core
+summary: Defines GN source sets and platform-conditional sources and dependencies for the enterprise client certificates core component.

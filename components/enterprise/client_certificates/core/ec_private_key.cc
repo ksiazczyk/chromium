@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECPrivateKey implementation
+// summary: Implements a software EC private key that signs data with ECDSA-SHA256 on a thread pool and serializes the key to proto or dictionary form.
+// ---
+
 #include "components/enterprise/client_certificates/core/ec_private_key.h"
 
 #include <optional>

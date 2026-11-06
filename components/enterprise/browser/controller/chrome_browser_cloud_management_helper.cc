@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Browser Cloud Management helper implementation
+// summary: Implements CBCM helpers that register a CloudPolicyClient with an enrollment token and set up machine-level user cloud policy fetching using the DM token.
+// ---
+
 #include "components/enterprise/browser/controller/chrome_browser_cloud_management_helper.h"
 
 #include <utility>

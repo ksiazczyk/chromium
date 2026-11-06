@@ -5,6 +5,12 @@
 // DO NOT MODIFY: This file is automatically synced and modifications will be
 // overwritten. Edit in Google3 instead.
 
+// ---docerion
+// type: source
+// title: Chrome reporting entity proto definitions
+// summary: Protobuf definitions for Chrome enterprise reporting events (SafeBrowsing, DLP, policy validation, extension installs), auto-synced from Google3 and not to be edited locally.
+// ---
+
 syntax = "proto3";
 
 package chrome.cros.reporting.proto;

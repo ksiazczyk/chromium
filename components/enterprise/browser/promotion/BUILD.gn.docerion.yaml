@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for enterprise promotion
+summary: Defines GN source sets for the promotion preferences and eligibility checker, listing their sources and dependencies on base, policy, prefs, and signin components.

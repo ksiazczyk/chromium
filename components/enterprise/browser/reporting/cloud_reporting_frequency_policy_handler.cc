@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud reporting frequency policy handler implementation
+// summary: Maps the CloudReportingUploadFrequency policy to a clamped upload frequency preference expressed in hours.
+// ---
+
 #include "components/enterprise/browser/reporting/cloud_reporting_frequency_policy_handler.h"
 
 #include "base/json/values_util.h"

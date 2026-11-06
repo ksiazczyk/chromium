@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerPrivateKeyFactory implementation
+// summary: Implements generation and loading of Kcer client-cert keys, falling back from hardware-backed to software keys and recording metrics.
+// ---
+
 #include "components/enterprise/client_certificates/core/ash/kcer_private_key_factory.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserKeyStore Android implementation
+// summary: Implements BrowserKeyStore on Android by delegating to a Java BrowserKeyStore over JNI, including conversion of credential parameters into Java lists.
+// ---
+
 #include "components/enterprise/client_certificates/android/browser_binding/browser_key_store_android.h"
 
 #include "base/android/scoped_java_ref.h"

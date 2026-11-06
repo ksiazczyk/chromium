@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID service header
+// summary: Declares the ProfileIdService keyed service that creates identifiers for non-OTR profiles, including its error enum and generation API.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_IDENTIFIERS_PROFILE_ID_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_IDENTIFIERS_PROFILE_ID_SERVICE_H_
 

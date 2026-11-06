@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promotion eligibility checker unit tests
+// summary: Unit tests for PromotionEligibilityChecker covering access token fetching, eligibility determination, and locale or dismissed banner conditions using mock policy and identity clients.
+// ---
+
 #include "components/enterprise/browser/promotion/promotion_eligibility_checker.h"
 
 #include <utility>

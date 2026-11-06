@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting delegate factory interface
+// summary: Abstract factory interface for creating platform-specific reporting delegates for browser, profile, real-time, and scheduled report generation.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORTING_DELEGATE_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_BROWSER_REPORTING_REPORTING_DELEGATE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadClientError to string conversion
+// summary: Implements UploadClientErrorToString, mapping upload client failure states such as missing DM token or invalid upload URL to their string names.
+// ---
+
 #include "components/enterprise/client_certificates/core/upload_client_error.h"
 
 namespace client_certificates {

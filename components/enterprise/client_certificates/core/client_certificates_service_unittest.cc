@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the client certificates service
+// summary: Unit tests verifying aggregation of platform and managed identities from profile and browser provisioning services.
+// ---
+
 #include "components/enterprise/client_certificates/core/client_certificates_service.h"
 
 #include "base/test/gmock_callback_support.h"

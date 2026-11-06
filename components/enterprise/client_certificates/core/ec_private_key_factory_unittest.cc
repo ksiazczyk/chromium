@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EC private key factory unit tests
+// summary: Unit tests verifying that ECPrivateKeyFactory creates, signs, and reloads EC private keys from both proto and dictionary forms.
+// ---
+
 #include "components/enterprise/client_certificates/core/ec_private_key_factory.h"
 
 #include <utility>

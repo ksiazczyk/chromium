@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Endpoint fetcher build targets
+summary: Defines GN source sets for the endpoint fetcher component, its unit tests and its test support with their dependencies.

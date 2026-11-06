@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable private key implementation
+// summary: Implements the UnexportablePrivateKey wrapper that signs data on a thread pool and serializes wrapped keys to proto or dict form, with iOS SecKeyRef support.
+// ---
+
 #include "components/enterprise/client_certificates/core/unexportable_private_key.h"
 
 #include "base/check.h"
