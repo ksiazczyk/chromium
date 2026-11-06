@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks Internals page handler class declaration
+// summary: Declares the NotebooksInternalsPageHandler class, which implements the Mojo PageHandler interface and observes the Notebooks eligibility service.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNALS_WEBUI_NOTEBOOKS_INTERNALS_PAGE_HANDLER_H_
 #define COMPONENTS_NOTEBOOKS_INTERNALS_WEBUI_NOTEBOOKS_INTERNALS_PAGE_HANDLER_H_
 

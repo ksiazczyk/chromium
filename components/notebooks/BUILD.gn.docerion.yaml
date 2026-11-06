@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notebooks component unit tests build file
+summary: GN build file that groups the unit test targets of the Notebooks component, adding a Blink WebUI test target when use_blink is enabled.

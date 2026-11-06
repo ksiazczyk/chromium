@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileTitleSource enum header
+// summary: Defines the TileTitleSource enum describing where an NTP tile's displayed title comes from, such as manifest, meta tag or title tag.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_TILE_TITLE_SOURCE_H_
 #define COMPONENTS_NTP_TILES_TILE_TITLE_SOURCE_H_
 

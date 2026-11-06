@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemVisuals holding the item icon bitmap
+// summary: Java counterpart of the C++ OfflineItemVisuals class that carries the Bitmap icon used to visualize an offline item.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import android.graphics.Bitmap;

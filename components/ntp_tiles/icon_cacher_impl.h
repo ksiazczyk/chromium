@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconCacherImpl class declaration
+// summary: Declares the IconCacherImpl class that fetches and caches icons for Popular Sites and MostLikely tiles with in-flight request tracking.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ICON_CACHER_IMPL_H_
 #define COMPONENTS_NTP_TILES_ICON_CACHER_IMPL_H_
 

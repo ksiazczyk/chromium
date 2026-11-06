@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedSites implementation
+// summary: Implements building and merging most visited site tiles from history, popular sites, custom links, homepage and enterprise shortcuts.
+// ---
+
 #include "components/ntp_tiles/most_visited_sites.h"
 
 #include <algorithm>

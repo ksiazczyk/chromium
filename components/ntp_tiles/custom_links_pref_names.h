@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom links preference name constants
+// summary: Defines pref key constants for custom link lists and initialization per scope, plus flags for preinstalled app removal and the AI Mode tile index.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_CUSTOM_LINKS_PREF_NAMES_H_
 #define COMPONENTS_NTP_TILES_CUSTOM_LINKS_PREF_NAMES_H_
 

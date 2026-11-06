@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchObserverList class declaration
+// summary: Declares a user-data observer list that manages NoStatePrefetchObserver registration per RenderFrame.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_OBSERVER_LIST_H_
 #define COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_OBSERVER_LIST_H_
 

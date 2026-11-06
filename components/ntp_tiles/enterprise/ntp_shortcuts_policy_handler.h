@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPShortcuts policy handler declaration
+// summary: Declares the configuration policy handler for the NTPShortcuts policy, including its field keys, maximum shortcut count and text length limits.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ENTERPRISE_NTP_SHORTCUTS_POLICY_HANDLER_H_
 #define COMPONENTS_NTP_TILES_ENTERPRISE_NTP_SHORTCUTS_POLICY_HANDLER_H_
 

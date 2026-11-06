@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals WebUI message handler class declaration
+// summary: Declares the NTPTilesInternalsMessageHandler class, a MostVisitedSites observer that handles WebUI messages for the tiles internals page via an embedder-provided client bridge.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_WEBUI_NTP_TILES_INTERNALS_MESSAGE_HANDLER_H_
 #define COMPONENTS_NTP_TILES_WEBUI_NTP_TILES_INTERNALS_MESSAGE_HANDLER_H_
 

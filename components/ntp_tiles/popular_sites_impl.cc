@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopularSitesImpl implementation
+// summary: Implements fetching and caching of popular sites JSON from gstatic URLs, with country and version overrides and fallback handling.
+// ---
+
 #include "components/ntp_tiles/popular_sites_impl.h"
 
 #include <stddef.h>

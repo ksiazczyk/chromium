@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPShortcuts policy handler implementation
+// summary: Implements the policy handler that validates NTPShortcuts policy entries and converts them into preference dictionaries for enterprise NTP shortcuts.
+// ---
+
 #include "components/ntp_tiles/enterprise/ntp_shortcuts_policy_handler.h"
 
 #include <string>

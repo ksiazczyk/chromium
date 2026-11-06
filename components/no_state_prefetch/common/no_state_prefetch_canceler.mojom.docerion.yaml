@@ -1,0 +1,4 @@
+# Docerion header of no_state_prefetch_canceler.mojom.
+type: source
+title: NoStatePrefetch canceler Mojo interface
+summary: Defines the NoStatePrefetchCanceler Mojo interface that lets a NoStatePrefetch renderer cancel prefetching for unsupported schemes or after subresources are discovered.

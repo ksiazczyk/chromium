@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popular sites preference names
+// summary: Defines preference name constants used to override and cache popular sites settings such as URL, directory, country, and version.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_POPULAR_SITES_PREF_NAMES_H_
 #define COMPONENTS_NTP_TILES_POPULAR_SITES_PREF_NAMES_H_
 

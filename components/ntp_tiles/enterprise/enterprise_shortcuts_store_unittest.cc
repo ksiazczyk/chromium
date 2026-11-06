@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnterpriseShortcutsStore unit tests
+// summary: Unit tests for the enterprise shortcuts store, covering storing and retrieving NTP shortcut links, change notifications and empty list handling.
+// ---
+
 #include "components/ntp_tiles/enterprise/enterprise_shortcuts_store.h"
 
 #include <memory>

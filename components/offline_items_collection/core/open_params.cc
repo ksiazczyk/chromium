@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenParams implementation
+// summary: Implements constructors for the OpenParams struct used when opening an OfflineItem.
+// ---
+
 #include "components/offline_items_collection/core/open_params.h"
 
 namespace offline_items_collection {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentId class identifying offline items by namespace and id
+// summary: Java counterpart of the C++ ContentId class that identifies an offline item via a namespace and id pair, with equality, hash code and string representation.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import android.text.TextUtils;

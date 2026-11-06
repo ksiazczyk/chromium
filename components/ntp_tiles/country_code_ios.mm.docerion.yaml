@@ -1,0 +1,4 @@
+# Docerion header of country_code_ios.mm.
+type: source
+title: iOS device country code implementation
+summary: Implements retrieval of the device country code from the current iOS locale using Foundation.

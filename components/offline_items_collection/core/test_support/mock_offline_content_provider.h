@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock offline content provider header
+// summary: Declares a gmock-based mock of OfflineContentProvider with a mock observer, item and visuals setters, notification helpers and mocked provider methods for tests.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_TEST_SUPPORT_MOCK_OFFLINE_CONTENT_PROVIDER_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_TEST_SUPPORT_MOCK_OFFLINE_CONTENT_PROVIDER_H_
 

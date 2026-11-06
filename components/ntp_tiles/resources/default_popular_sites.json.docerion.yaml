@@ -1,0 +1,4 @@
+# Docerion header of default_popular_sites.json.
+type: data
+title: Default popular sites for new tab page tiles
+summary: Default list of popular sites shown as tiles on the new tab page, pairing each entry's title and URL with a large icon URL.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchHistograms class header
+// summary: Declares NoStatePrefetchHistograms, a stateless helper that records histograms for the NoStatePrefetchManager, including origin-based prefixes and final status.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_HISTOGRAMS_H_
 #define COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_HISTOGRAMS_H_
 

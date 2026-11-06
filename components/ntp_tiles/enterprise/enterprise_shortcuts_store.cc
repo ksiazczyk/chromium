@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseShortcutsStore implementation
+// summary: Implements reading, writing and clearing enterprise shortcut data in profile preferences, including parsing stored shortcut dictionaries and observing policy changes.
+// ---
+
 #include "components/ntp_tiles/enterprise/enterprise_shortcuts_store.h"
 
 #include <string>

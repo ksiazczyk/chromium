@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomLinksManagerImpl class declaration
+// summary: Declares the non-test CustomLinksManager implementation that manages custom NTP links, observes history deletions and persists links per CustomLinksScope.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_CUSTOM_LINKS_MANAGER_IMPL_H_
 #define COMPONENTS_NTP_TILES_CUSTOM_LINKS_MANAGER_IMPL_H_
 

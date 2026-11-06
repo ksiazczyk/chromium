@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Notebooks component common metadata
+summary: Common metadata file assigning Buganizer component 2171353 and the chrome-ai-productivity-eng team email to the Notebooks directory.

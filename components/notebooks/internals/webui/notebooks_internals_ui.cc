@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks Internals UI Implementation
+// summary: Implements the WebUI controller for the notebooks internals debug page, creating the data source and binding the Mojo page handler factory.
+// ---
+
 #include "components/notebooks/internals/webui/notebooks_internals_ui.h"
 
 #include <utility>

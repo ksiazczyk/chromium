@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: NoStatePrefetch common owners rules
+summary: Assigns IPC security owners as required reviewers for message header and Mojom file changes in this directory.

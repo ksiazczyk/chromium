@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks Internals UI Header
+// summary: Declares the WebUI controller class for the notebooks internals debug page, including Mojo interface binding and page handler creation.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNALS_WEBUI_NOTEBOOKS_INTERNALS_UI_H_
 #define COMPONENTS_NOTEBOOKS_INTERNALS_WEBUI_NOTEBOOKS_INTERNALS_UI_H_
 

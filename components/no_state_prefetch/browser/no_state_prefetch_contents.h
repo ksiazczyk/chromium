@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchContents class declaration
+// summary: Declares the NoStatePrefetchContents WebContents observer and canceler with factory and observer interfaces for prefetch lifecycle events.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_CONTENTS_H_
 #define COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_CONTENTS_H_
 

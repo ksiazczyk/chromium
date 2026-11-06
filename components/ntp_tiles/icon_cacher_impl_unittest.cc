@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IconCacherImpl
+// summary: Unit tests verifying icon fetching, caching and callback behavior of IconCacherImpl with mocked image fetchers and favicon services.
+// ---
+
 #include "components/ntp_tiles/icon_cacher_impl.h"
 
 #include <memory>

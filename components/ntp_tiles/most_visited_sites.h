@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedSites class declaration
+// summary: Declares the MostVisitedSites class that tracks the list of most visited sites and notifies observers when tiles or icons change.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_MOST_VISITED_SITES_H_
 #define COMPONENTS_NTP_TILES_MOST_VISITED_SITES_H_
 

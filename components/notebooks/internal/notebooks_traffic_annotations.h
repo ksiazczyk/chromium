@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks traffic annotations declarations
+// summary: Declares functions that return network traffic annotation tags for notebooks service network requests.
+// ---
+
 #ifndef COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_TRAFFIC_ANNOTATIONS_H_
 #define COMPONENTS_NOTEBOOKS_INTERNAL_NOTEBOOKS_TRAFFIC_ANNOTATIONS_H_
 

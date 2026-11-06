@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchHelper implementation
+// summary: Tracks per-frame no-state prefetch progress, manages URL loader throttles, and signals the browser when prefetching finishes.
+// ---
+
 #include "components/no_state_prefetch/renderer/no_state_prefetch_helper.h"
 
 #include "base/metrics/field_trial.h"

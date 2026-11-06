@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the notebooks internals app
+// summary: Exports getHtml() rendering the eligibility and configuration tables that show user eligibility, the notebooks feature flag and the notebook home URL.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {NotebooksInternalsAppElement} from './app.js';

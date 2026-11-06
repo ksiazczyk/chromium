@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchClient implementation
+// summary: Implements a WebView observer that reports whether the main frame is currently being no-state prefetched.
+// ---
+
 #include "components/no_state_prefetch/renderer/no_state_prefetch_client.h"
 
 #include "base/logging.h"

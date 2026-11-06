@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchHistory implementation
+// summary: Implements the bounded per-session history of prefetched pages, adding entries and serializing them as values for display.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_history.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoStatePrefetchProcessorImpl unit tests
+// summary: Unit tests verifying that Start, Cancel, and mojo disconnect calls propagate to a mocked NoStatePrefetchLinkManager.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_processor_impl.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItem and ContentId implementation
+// summary: Implements constructors, equality operators, and default field values for the ContentId and OfflineItem structs.
+// ---
+
 #include "components/offline_items_collection/core/offline_item.h"
 
 #include <utility>

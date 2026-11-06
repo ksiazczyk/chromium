@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottledOfflineContentProvider class declaration
+// summary: Declares ThrottledOfflineContentProvider, a wrapper around an OfflineContentProvider that queues item updates and flushes them after actions or when the delay elapses.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_THROTTLED_OFFLINE_CONTENT_PROVIDER_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_THROTTLED_OFFLINE_CONTENT_PROVIDER_H_
 

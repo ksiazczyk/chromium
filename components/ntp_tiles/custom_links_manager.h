@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom links manager interface
+// summary: Defines the interface for managing user-customized New Tab Page shortcut links, covering storage scopes, sync, and Most Visited initialization.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_CUSTOM_LINKS_MANAGER_H_
 #define COMPONENTS_NTP_TILES_CUSTOM_LINKS_MANAGER_H_
 

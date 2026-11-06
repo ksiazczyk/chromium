@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for no_state_prefetch
+summary: Lists the code owners nhiroki@chromium.org and ryansturm@chromium.org responsible for the no_state_prefetch directory.

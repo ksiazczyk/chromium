@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks network service implementation
+// summary: Implements notebook network requests such as create and list via EndpointFetcher with OAuth, device and platform provenance parameters.
+// ---
+
 #include "components/notebooks/internal/notebooks_network_service_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mock offline content provider implementation
+// summary: Implements ScopedMockOfflineContentProvider, which registers a mock provider with an OfflineContentAggregator under a namespace and unregisters on destruction.
+// ---
+
 #include "components/offline_items_collection/core/test_support/scoped_mock_offline_content_provider.h"
 
 #include "components/offline_items_collection/core/offline_content_aggregator.h"

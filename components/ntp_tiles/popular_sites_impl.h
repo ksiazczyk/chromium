@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopularSitesImpl class declaration
+// summary: Declares PopularSitesImpl, the production implementation of PopularSites that downloads and caches popular sites data in preferences.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_POPULAR_SITES_IMPL_H_
 #define COMPONENTS_NTP_TILES_POPULAR_SITES_IMPL_H_
 

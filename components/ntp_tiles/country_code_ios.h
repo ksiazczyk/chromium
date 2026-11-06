@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS device country code interface
+// summary: Declares the function that returns the device country code on iOS for use by the ntp_tiles component.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_COUNTRY_CODE_IOS_H_
 #define COMPONENTS_NTP_TILES_COUNTRY_CODE_IOS_H_
 

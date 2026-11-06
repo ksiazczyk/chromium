@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles feature flag definitions
+// summary: Defines base::Feature entries for the AIM button refactor experiment and the PopularSites baked-in content and server favicon features.
+// ---
+
 #include "components/ntp_tiles/features.h"
 
 #include "base/feature_list.h"

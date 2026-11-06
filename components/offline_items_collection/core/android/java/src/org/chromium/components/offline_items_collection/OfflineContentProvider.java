@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentProvider interface for offline item access
+// summary: Java interface counterpart of the C++ OfflineContentProvider defining operations on offline items such as open, remove, cancel, pause, resume, queries, visuals and share, plus an observer interface.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import org.chromium.base.Callback;

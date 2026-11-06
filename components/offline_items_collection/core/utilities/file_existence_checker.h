@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileExistenceChecker header for bulk missing-file detection
+// summary: Header-only FileExistenceChecker class that checks which of a collection of file paths with IDs point to missing files, running the check on a blocking sequenced task runner and returning results via callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_UTILITIES_FILE_EXISTENCE_CHECKER_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_UTILITIES_FILE_EXISTENCE_CHECKER_H_
 

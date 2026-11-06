@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks network service unit tests
+// summary: Unit tests for the notebooks network service using a fake endpoint fetcher to verify request construction and response handling.
+// ---
+
 #include "components/notebooks/internal/notebooks_network_service_impl.h"
 
 #include <memory>

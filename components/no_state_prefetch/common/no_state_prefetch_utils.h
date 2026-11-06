@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch utility functions header
+// summary: Declares NoStatePrefetch helper functions for validating URL schemes and HTTP methods and for composing prerender histogram names.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_UTILS_H_
 #define COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_UTILS_H_
 

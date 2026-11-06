@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise shortcuts preference name constants
+// summary: Defines preference name constants for the enterprise shortcuts policy and user lists on desktop platforms, restricted to the ntp_tiles component.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_PREF_NAMES_H_
 #define COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_PREF_NAMES_H_
 

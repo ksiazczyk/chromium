@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemFilter enum
+// summary: Defines the OfflineItemFilter enum categorizing offline items as page, video, audio, image, document, or other.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_OFFLINE_ITEM_FILTER_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_OFFLINE_ITEM_FILTER_H_
 

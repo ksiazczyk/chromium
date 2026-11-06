@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoStatePrefetchHistory unit tests
+// summary: Unit tests verifying NoStatePrefetchHistory entry serialization, capacity-based eviction and ordering of prefetched page records.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_history.h"
 
 #include <stddef.h>

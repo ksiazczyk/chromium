@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for notebooks internal
+summary: DEPS file listing allowed include paths for the notebooks internal directory, with a special rule for the network service unit test.

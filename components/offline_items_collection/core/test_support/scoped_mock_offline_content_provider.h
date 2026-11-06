@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped mock offline content provider header
+// summary: Declares ScopedMockOfflineContentProvider, a MockOfflineContentProvider that registers with an OfflineContentAggregator, plus a scoped observer helper class.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_TEST_SUPPORT_SCOPED_MOCK_OFFLINE_CONTENT_PROVIDER_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_TEST_SUPPORT_SCOPED_MOCK_OFFLINE_CONTENT_PROVIDER_H_
 

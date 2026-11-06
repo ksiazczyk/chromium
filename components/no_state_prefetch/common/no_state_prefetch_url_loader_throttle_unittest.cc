@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoStatePrefetch URL loader throttle unit tests
+// summary: Unit tests verifying that the NoStatePrefetch URL loader throttle runs its destruction closure on the current sequence, including after DetachFromCurrentSequence.
+// ---
+
 #include "components/no_state_prefetch/common/no_state_prefetch_url_loader_throttle.h"
 
 #include "base/location.h"

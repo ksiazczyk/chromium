@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAggregator implementation
+// summary: Implements aggregation of multiple OfflineContentProviders, routing item actions and queries to the provider registered under the item's namespace.
+// ---
+
 #include "components/offline_items_collection/core/offline_content_aggregator.h"
 
 #include <algorithm>

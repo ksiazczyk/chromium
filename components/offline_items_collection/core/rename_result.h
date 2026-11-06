@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenameResult enum for download rename outcomes
+// summary: Defines the RenameResult enum listing possible outcomes of renaming a download item, generated as a Java enum for Android and kept in sync with enums.xml.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_RENAME_RESULT_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_RENAME_RESULT_H_
 

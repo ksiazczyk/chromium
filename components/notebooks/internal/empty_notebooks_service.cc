@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty notebooks service implementation
+// summary: Implements EmptyNotebooksService as a no-op NotebooksService that returns no notebooks and is used when the Notebooks feature is disabled.
+// ---
+
 #include "components/notebooks/internal/empty_notebooks_service.h"
 
 #include "base/notreached.h"

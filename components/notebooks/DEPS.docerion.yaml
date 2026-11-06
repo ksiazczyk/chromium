@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Notebooks component dependency rules
+summary: DEPS file with include rules permitting dependencies on the keyed_service core and sync components.

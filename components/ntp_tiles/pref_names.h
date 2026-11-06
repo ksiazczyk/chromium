@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP home module preference names
+// summary: Defines preference name constants for enabling New Tab Page home modules like tab resumption, tips, Magic Stack, and Most Visited tiles.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_PREF_NAMES_H_
 #define COMPONENTS_NTP_TILES_PREF_NAMES_H_
 

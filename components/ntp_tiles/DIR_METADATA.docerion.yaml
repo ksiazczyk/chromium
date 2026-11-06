@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to shared mixins
+summary: Points the ntp_tiles directory to the shared metadata mixins defined in COMMON_METADATA.

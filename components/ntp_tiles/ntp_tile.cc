@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPTile implementation
+// summary: Implements the NTPTile struct with constructors and an equality operator comparing title, URL, source, and other tile attributes for New Tab Page suggestions.
+// ---
+
 #include "components/ntp_tiles/ntp_tile.h"
 
 namespace ntp_tiles {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebook sync bridge implementation
+// summary: Implements the DataTypeSyncBridge for NOTEBOOK sync, converting NotebookSpecifics into model entries and persisting them in a data type store.
+// ---
+
 #include "components/notebooks/internal/notebook_sync_bridge.h"
 
 #include <utility>

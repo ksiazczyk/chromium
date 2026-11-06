@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for offline_items_collection core
+summary: Defines the core static library, its unit test source set, and Android Java library and JNI targets for the offline items collection component.

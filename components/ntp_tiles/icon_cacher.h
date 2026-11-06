@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconCacher interface for caching NTP tile icons
+// summary: Declares the IconCacher interface that downloads and caches Popular Sites and MostLikely tile icons so FaviconService can serve them.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ICON_CACHER_H_
 #define COMPONENTS_NTP_TILES_ICON_CACHER_H_
 

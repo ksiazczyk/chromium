@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom links utility templates
+// summary: Header-only template helpers to reorder links within a list, undo the previous action and find a link by URL for custom NTP link management.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_CUSTOM_LINKS_UTIL_H_
 #define COMPONENTS_NTP_TILES_CUSTOM_LINKS_UTIL_H_
 

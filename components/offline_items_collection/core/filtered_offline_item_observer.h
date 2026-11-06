@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilteredOfflineItemObserver class declaration
+// summary: Declares a helper that lets clients register observers interested only in updates for a single offline item of a content provider.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_FILTERED_OFFLINE_ITEM_OBSERVER_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_FILTERED_OFFLINE_ITEM_OBSERVER_H_
 

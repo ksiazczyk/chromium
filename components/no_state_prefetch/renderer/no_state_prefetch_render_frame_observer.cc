@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchRenderFrameObserver implementation
+// summary: Registers the NoStatePrefetchMessages Mojo interface and creates the prefetch helper when a frame enters no-state prefetching.
+// ---
+
 #include "components/no_state_prefetch/renderer/no_state_prefetch_render_frame_observer.h"
 
 #include "components/no_state_prefetch/renderer/no_state_prefetch_helper.h"

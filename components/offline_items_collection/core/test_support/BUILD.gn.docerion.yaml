@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for offline items collection test support
+summary: GN build definition for the testonly test_support static library that bundles mock and helper sources for offline items collection tests and depends on base, gmock and gtest.

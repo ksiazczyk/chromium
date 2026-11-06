@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline content aggregator bridge header
+// summary: Declares the C++-to-Java bridge class for OfflineContentAggregator, which attaches as user data and handles JNI calls for opening, removing and managing offline items.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_ANDROID_OFFLINE_CONTENT_AGGREGATOR_BRIDGE_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_ANDROID_OFFLINE_CONTENT_AGGREGATOR_BRIDGE_H_
 

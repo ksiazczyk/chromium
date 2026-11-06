@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchHistory class header
+// summary: Declares NoStatePrefetchHistory, a fixed-capacity per-session history of prefetched URLs with final status, origin and end time entries.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_HISTORY_H_
 #define COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_HISTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of render_frame_prerender_messages.mojom.
+type: source
+title: Render frame prerender Mojo messages
+summary: Mojo interface defining the browser-to-render-frame message that marks a renderer as currently being NoStatePrefetched.

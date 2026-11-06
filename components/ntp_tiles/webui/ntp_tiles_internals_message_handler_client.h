@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals client interface for embedders
+// summary: Declares the abstract NTPTilesInternalsMessageHandlerClient interface that embedders implement to hook the message handler up to their WebUI APIs and preferences.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_WEBUI_NTP_TILES_INTERNALS_MESSAGE_HANDLER_CLIENT_H_
 #define COMPONENTS_NTP_TILES_WEBUI_NTP_TILES_INTERNALS_MESSAGE_HANDLER_CLIENT_H_
 

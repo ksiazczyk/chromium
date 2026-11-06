@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchProcessorImplDelegate interface
+// summary: Declares the delegate interface used to obtain the NoStatePrefetchLinkManager associated with a browser context.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_PROCESSOR_IMPL_DELEGATE_H_
 #define COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_PROCESSOR_IMPL_DELEGATE_H_
 

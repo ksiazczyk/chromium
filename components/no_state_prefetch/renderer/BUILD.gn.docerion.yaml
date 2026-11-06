@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the no-state prefetch renderer library
+summary: Defines the renderer static library target, listing the no-state prefetch sources and their component, content, and Blink dependencies.

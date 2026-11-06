@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Notebooks Internals WebUI
+summary: Defines GN build targets for the Notebooks Internals WebUI, including Mojo bindings generation, the webui source set, and unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: NoStatePrefetch common build targets
+summary: Defines the GN build targets for the NoStatePrefetch common static library, its Mojo bindings, and its unit tests.

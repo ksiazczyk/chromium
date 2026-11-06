@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for offline items collection
+summary: Sets the monorail component, team email and public Buganizer component ID used for issues in this directory.

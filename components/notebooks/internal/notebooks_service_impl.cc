@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks service implementation
+// summary: Implements NotebooksService by delegating to the notebooks model and sync bridge and forwarding model events to service observers.
+// ---
+
 #include "components/notebooks/internal/notebooks_service_impl.h"
 
 #include <utility>

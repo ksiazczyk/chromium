@@ -1,0 +1,4 @@
+# Docerion header of notebooks_internals.mojom.
+type: source
+title: Mojo interfaces for Notebooks Internals WebUI
+summary: Defines Mojo structs and interfaces for exchanging Notebooks feature flag state and profile eligibility between the WebUI page and the browser process.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchHelper class declaration
+// summary: Declares a RenderFrame observer that tracks whether a frame is being no-state prefetched and creates prefetch URL loader throttles.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_HELPER_H_
 #define COMPONENTS_NO_STATE_PREFETCH_RENDERER_NO_STATE_PREFETCH_HELPER_H_
 

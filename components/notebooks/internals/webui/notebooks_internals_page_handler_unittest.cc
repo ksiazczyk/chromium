@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notebooks Internals page handler unit tests
+// summary: Unit tests for the Notebooks Internals page handler using a mock eligibility service and page to verify feature flag state and eligibility reporting.
+// ---
+
 #include "components/notebooks/internals/webui/notebooks_internals_page_handler.h"
 
 #include <memory>

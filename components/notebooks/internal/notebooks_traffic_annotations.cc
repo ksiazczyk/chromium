@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notebooks network traffic annotations
+// summary: Defines network traffic annotation tags for notebook creation, adding notebook sources, and listing notebooks, documenting the data sent to Google services.
+// ---
+
 #include "components/notebooks/internal/notebooks_traffic_annotations.h"
 
 namespace notebooks {

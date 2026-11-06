@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to NTP webui owners
+summary: Points to the OWNERS file of chrome/browser/ui/webui/ntp to define who owns and can review this directory.

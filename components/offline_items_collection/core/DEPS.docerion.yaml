@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for offline_items_collection core
+summary: Declares the allowed include dependencies for the core directory, such as base, download, keyed_service, offline_pages, and ui/gfx.

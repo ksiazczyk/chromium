@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles switch declarations
+// summary: Declares the kEnableNTPSearchEngineCountryDetection switch constant for the ntp_tiles switches namespace.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_SWITCHES_H_
 #define COMPONENTS_NTP_TILES_SWITCHES_H_
 

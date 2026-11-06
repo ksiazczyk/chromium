@@ -1,0 +1,4 @@
+# Docerion header of default_popular_sites_without_popular_apps.json.
+type: data
+title: Default popular sites without popular apps
+summary: Default new tab page tile list for configurations without popular apps, covering sites like Facebook, YouTube, Wikipedia and Google with titles, URLs and icons.

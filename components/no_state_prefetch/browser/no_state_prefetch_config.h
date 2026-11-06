@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchConfig struct declaration
+// summary: Declares the NoStatePrefetchConfig struct holding prefetch settings such as max bytes, link concurrency, wait-to-launch and time-to-live durations.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_CONFIG_H_
 #define COMPONENTS_NO_STATE_PREFETCH_BROWSER_NO_STATE_PREFETCH_CONFIG_H_
 

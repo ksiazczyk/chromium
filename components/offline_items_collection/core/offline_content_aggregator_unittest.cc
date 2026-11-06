@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OfflineContentAggregator
+// summary: Unit tests for the OfflineContentAggregator, covering provider registration, item aggregation, and open behavior using mock providers.
+// ---
+
 #include "components/offline_items_collection/core/offline_content_aggregator.h"
 
 #include <map>

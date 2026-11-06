@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch final status enum
+// summary: Declares the FinalStatus enum describing whether NoStatePrefetch was used or why it was cancelled, with values persisted in histograms.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_FINAL_STATUS_H_
 #define COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_FINAL_STATUS_H_
 

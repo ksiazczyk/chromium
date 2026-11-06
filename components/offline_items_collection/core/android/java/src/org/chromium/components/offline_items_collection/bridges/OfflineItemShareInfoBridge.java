@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemShareInfoBridge
+// summary: Java counterpart of the C++ OfflineItemShareInfoBridge that creates OfflineItemShareInfo objects from a URI string via JNI.
+// ---
+
 package org.chromium.components.offline_items_collection.bridges;
 
 import android.net.Uri;

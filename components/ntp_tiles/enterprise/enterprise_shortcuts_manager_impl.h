@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseShortcutsManagerImpl class declaration
+// summary: Declares the EnterpriseShortcutsManager implementation that keeps current and previous link state, persists via the store and observes external link changes.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_MANAGER_IMPL_H_
 #define COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUTS_MANAGER_IMPL_H_
 

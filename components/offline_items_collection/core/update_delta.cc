@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateDelta merge implementation
+// summary: Implements UpdateDelta::MergeUpdates, combining two optional update deltas by OR-ing their state_changed and visuals_changed flags.
+// ---
+
 #include "components/offline_items_collection/core/update_delta.h"
 
 namespace offline_items_collection {

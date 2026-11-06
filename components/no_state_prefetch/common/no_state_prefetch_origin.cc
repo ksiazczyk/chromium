@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch origin names
+// summary: Maps each NoStatePrefetch Origin enum value to a human-readable name used for logging.
+// ---
+
 #include "components/no_state_prefetch/common/no_state_prefetch_origin.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NTP tiles metrics
+// summary: Unit tests verifying that NTP tile metrics are recorded into the expected UMA histogram buckets and source-specific suffixes.
+// ---
+
 #include "components/ntp_tiles/metrics.h"
 
 #include <stddef.h>

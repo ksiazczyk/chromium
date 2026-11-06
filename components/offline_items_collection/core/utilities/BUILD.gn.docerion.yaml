@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for offline items collection utilities
+summary: Defines the utilities source set with the file existence checker and a testonly unit_tests source set with its gtest dependencies.

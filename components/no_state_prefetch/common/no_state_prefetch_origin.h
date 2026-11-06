@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch origin enum
+// summary: Declares the Origin enum indicating what triggered a NoStatePrefetch, retaining obsolete legacy values for historical numbering.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_ORIGIN_H_
 #define COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_ORIGIN_H_
 

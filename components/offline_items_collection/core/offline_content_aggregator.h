@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAggregator class declaration
+// summary: Declares a KeyedService OfflineContentProvider that merges multiple providers into one data set, with namespace-based registration and routing rules.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_OFFLINE_CONTENT_AGGREGATOR_H_
 #define COMPONENTS_OFFLINE_ITEMS_COLLECTION_CORE_OFFLINE_CONTENT_AGGREGATOR_H_
 

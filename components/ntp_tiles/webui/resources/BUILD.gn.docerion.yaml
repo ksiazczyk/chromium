@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the NTP Tiles Internals WebUI
+summary: GN build definition that compiles the NTP Tiles Internals CSS, HTML, and TypeScript into a trusted WebUI target with Mojo tile source bindings.

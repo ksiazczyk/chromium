@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconCacherImpl implementation
+// summary: Implements icon fetching and caching for NTP tiles using FaviconService, LargeIconService, image fetching and data decoding.
+// ---
+
 #include "components/ntp_tiles/icon_cacher_impl.h"
 
 #include <utility>

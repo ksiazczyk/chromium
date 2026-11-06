@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchConfig defaults
+// summary: Implements the NoStatePrefetchConfig constructor with default values for memory limits, link concurrency, rate limiting, lifetimes and tab bounds.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_config.h"
 
 namespace prerender {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineItemBridge unit test for default OfflineItem creation
+// summary: Java unit test invoked from native code via JNI that verifies OfflineItemBridge creates a default OfflineItem with the expected filter, state, fail state and pending state values.
+// ---
+
 package org.chromium.components.offline_items_collection.bridges;
 
 import org.jni_zero.CalledByNative;

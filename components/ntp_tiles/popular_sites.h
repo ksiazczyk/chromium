@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopularSites interface
+// summary: Declares the PopularSites interface that supplies suggested popular sites for the New Tab Page when there are not enough personalized tiles.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_POPULAR_SITES_H_
 #define COMPONENTS_NTP_TILES_POPULAR_SITES_H_
 

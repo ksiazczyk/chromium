@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseShortcutsManager implementation
+// summary: Implements link management operations backed by the shortcuts store and profile preferences, including undo of the last action and change notifications.
+// ---
+
 #include "components/ntp_tiles/enterprise/enterprise_shortcuts_manager_impl.h"
 
 #include <vector>

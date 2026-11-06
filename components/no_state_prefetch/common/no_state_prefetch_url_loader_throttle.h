@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetch URL loader throttle header
+// summary: Declares the NoStatePrefetchURLLoaderThrottle class that intercepts and controls resource requests during NoStatePrefetching.
+// ---
+
 #ifndef COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_URL_LOADER_THROTTLE_H_
 #define COMPONENTS_NO_STATE_PREFETCH_COMMON_NO_STATE_PREFETCH_URL_LOADER_THROTTLE_H_
 

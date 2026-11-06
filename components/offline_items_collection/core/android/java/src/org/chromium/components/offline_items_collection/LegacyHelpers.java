@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyHelpers for legacy offline content namespaces
+// summary: Helper class for the migration to OfflineItems that builds legacy ContentIds from GUIDs and checks whether an id belongs to legacy downloads, offline pages, content-indexed items or Android downloads.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import android.text.TextUtils;

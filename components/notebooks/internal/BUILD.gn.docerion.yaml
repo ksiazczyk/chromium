@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the notebooks internal library
+summary: GN build file defining the internal static library of notebooks sources and a testonly unit_tests source_set with their dependencies.

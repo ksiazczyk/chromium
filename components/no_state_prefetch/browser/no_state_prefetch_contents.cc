@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoStatePrefetchContents implementation
+// summary: Implements the hidden WebContents that renders a prefetched page, tracking load state, memory limits, preloading outcomes and cancellation.
+// ---
+
 #include "components/no_state_prefetch/browser/no_state_prefetch_contents.h"
 
 #include <stddef.h>

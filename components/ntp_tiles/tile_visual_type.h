@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileVisualType enum header
+// summary: Defines the TileVisualType enum describing the visual state of an NTP tile icon, from unloaded to real favicon or default gray box.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_TILE_VISUAL_TYPE_H_
 #define COMPONENTS_NTP_TILES_TILE_VISUAL_TYPE_H_
 

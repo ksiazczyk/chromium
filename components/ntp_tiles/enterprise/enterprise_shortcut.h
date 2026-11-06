@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseShortcut data structure definition
+// summary: Defines the EnterpriseShortcut struct holding a URL, title, policy origin and flags for user hiding, editing and deleting of NTP shortcuts.
+// ---
+
 #ifndef COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUT_H_
 #define COMPONENTS_NTP_TILES_ENTERPRISE_ENTERPRISE_SHORTCUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemBridge
+// summary: Java counterpart of the C++ OfflineItemBridge that builds OfflineItem instances from native code via JNI, handling OOM gracefully by returning null.
+// ---
+
 package org.chromium.components.offline_items_collection.bridges;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemShareInfo holding a share URI
+// summary: Java counterpart of the C++ OfflineItemShareInfo class that carries the Uri used when sharing an offline item.
+// ---
+
 package org.chromium.components.offline_items_collection;
 
 import android.net.Uri;

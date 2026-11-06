@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for offline items collection
+summary: Includes the shared COMMON_METADATA file as a mixin to apply its metadata settings to this directory.

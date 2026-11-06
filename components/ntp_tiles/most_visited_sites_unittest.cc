@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MostVisitedSites
+// summary: Unit tests covering tile selection, merging, section updates and observer notifications of MostVisitedSites.
+// ---
+
 #include "components/ntp_tiles/most_visited_sites.h"
 
 #include <stddef.h>

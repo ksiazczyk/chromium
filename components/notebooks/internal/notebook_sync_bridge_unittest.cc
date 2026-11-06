@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NotebookSyncBridge
+// summary: Unit tests covering client tags, storage keys, entity validation, specifics trimming and incremental sync changes of the notebook sync bridge.
+// ---
+
 #include "components/notebooks/internal/notebook_sync_bridge.h"
 
 #include <memory>
