@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_nl.xtb.
+type: data
+title: Dutch accessibility strings translation bundle
+summary: XML translation bundle with Dutch translations of accessibility UI strings, covering roles and actions such as toggle button, slider, and dialog.

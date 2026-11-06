@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_zh-HK.xtb.
+type: data
+title: Traditional Chinese (Hong Kong) UI strings translation bundle
+summary: XML translation bundle providing Hong Kong Traditional Chinese translations of UI strings, including notifications, time formats, and keyboard key names.

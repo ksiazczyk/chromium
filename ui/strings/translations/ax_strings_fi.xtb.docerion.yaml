@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_fi.xtb.
+type: data
+title: Finnish accessibility strings translation bundle
+summary: Finnish (fi) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

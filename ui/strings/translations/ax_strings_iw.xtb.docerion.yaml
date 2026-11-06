@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_iw.xtb.
+type: data
+title: Hebrew accessibility strings translation bundle
+summary: Hebrew translation bundle with localized accessibility strings for UI roles, controls, and actions such as menus, checkboxes, and date pickers.

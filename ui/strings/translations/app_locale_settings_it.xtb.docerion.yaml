@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_it.xtb.
+type: data
+title: Italian app locale settings
+summary: Empty translation bundle for Italian app locale settings, containing no platform-specific font overrides.

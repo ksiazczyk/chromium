@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_zh-TW.xtb.
+type: data
+title: App locale settings for Traditional Chinese (zh-TW)
+summary: XML translation bundle defining the minimum UI font size and per-platform web font families for Traditional Chinese on Windows, macOS, iOS, Linux and ChromeOS.

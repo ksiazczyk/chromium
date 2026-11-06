@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_et.xtb.
+type: data
+title: Estonian UI strings translation bundle
+summary: Estonian translations of UI strings in XTB XML format, covering notifications, menus, keyboard keys, and pluralized time and size messages.

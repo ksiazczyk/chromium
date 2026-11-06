@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_or.xtb.
+type: data
+title: Odia UI strings translation bundle
+summary: XML translation bundle with Odia translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

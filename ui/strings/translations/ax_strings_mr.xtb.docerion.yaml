@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_mr.xtb.
+type: data
+title: Marathi accessibility strings translation bundle
+summary: XML translation bundle with Marathi translations of accessibility UI strings, covering roles and actions such as toggle button, slider, and dialog.

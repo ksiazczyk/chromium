@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_uk.xtb.
+type: config
+title: Ukrainian app locale settings
+summary: Empty translation bundle for the Ukrainian locale with no locale-specific UI settings.

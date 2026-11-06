@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_fr-CA.xtb.
+type: data
+title: Canadian French accessibility strings translation bundle
+summary: Canadian French (fr-CA) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

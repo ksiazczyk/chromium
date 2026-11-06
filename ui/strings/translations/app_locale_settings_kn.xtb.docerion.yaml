@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_kn.xtb.
+type: data
+title: Kannada app locale settings
+summary: Translation bundle defining Kannada UI font size scalers and Noto Sans Kannada font families for Windows and ChromeOS.

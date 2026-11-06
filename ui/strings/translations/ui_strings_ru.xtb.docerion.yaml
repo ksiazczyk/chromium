@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ru.xtb.
+type: data
+title: Russian UI strings translation bundle
+summary: Russian translations of application UI strings in an XML translation bundle, keyed by numeric message IDs with plural rules and placeholders.

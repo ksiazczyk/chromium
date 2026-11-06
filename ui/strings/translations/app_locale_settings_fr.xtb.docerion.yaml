@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_fr.xtb.
+type: data
+title: French app locale settings translation bundle
+summary: Empty XML translation bundle holding locale settings for French, with no font overrides defined.

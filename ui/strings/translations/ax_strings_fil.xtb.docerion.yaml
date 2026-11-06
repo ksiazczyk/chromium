@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_fil.xtb.
+type: data
+title: Filipino accessibility strings translation bundle
+summary: Filipino (fil) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

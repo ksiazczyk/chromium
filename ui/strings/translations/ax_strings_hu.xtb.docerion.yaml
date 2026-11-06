@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_hu.xtb.
+type: data
+title: Hungarian accessibility strings translation bundle
+summary: Hungarian translation bundle with localized accessibility strings for UI roles, controls, and actions such as toggle buttons and date pickers.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_zh-HK.xtb.
+type: data
+title: Accessibility strings translations (Chinese, Hong Kong)
+summary: XML translation bundle with Hong Kong Chinese (zh-HK) localized accessibility strings for UI elements such as menus, dialogs, and media controls.

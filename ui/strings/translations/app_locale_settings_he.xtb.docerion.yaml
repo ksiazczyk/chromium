@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_he.xtb.
+type: data
+title: Hebrew app locale settings translation bundle
+summary: XML translation bundle holding locale settings for Hebrew, defining ChromeOS UI and web font families based on Noto Sans Hebrew.

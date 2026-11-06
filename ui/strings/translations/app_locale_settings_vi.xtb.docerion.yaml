@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_vi.xtb.
+type: config
+title: Vietnamese app locale settings
+summary: Empty translation bundle for the Vietnamese locale with no locale-specific UI settings.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ka.xtb.
+type: data
+title: Georgian accessibility strings translation bundle
+summary: Georgian translation bundle with localized accessibility strings for UI roles, controls, and actions such as menus, sliders, and date pickers.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_uk.xtb.
+type: data
+title: Ukrainian UI strings translation bundle
+summary: Ukrainian translations of UI strings keyed by numeric message IDs, with full plural categories for times, sizes, and interface messages.

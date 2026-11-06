@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_sv.xtb.
+type: config
+title: Swedish app locale settings
+summary: Empty translation bundle for the Swedish locale with no locale-specific UI settings.

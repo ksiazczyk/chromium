@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_el.xtb.
+type: config
+title: App locale settings for Greek
+summary: Empty XML translation bundle for Greek that defines no locale-specific font or size overrides.

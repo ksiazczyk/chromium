@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_ar.xtb.
+type: config
+title: App locale settings for Arabic
+summary: XML translation bundle that sets Arabic UI font settings, including a minimum UI font size of 10 and Noto Sans Arabic UI fonts on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_en-GB.xtb.
+type: config
+title: App locale settings for British English
+summary: Empty XML translation bundle for British English that defines no locale-specific font or size overrides.

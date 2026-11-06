@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_bg.xtb.
+type: config
+title: App locale settings for Bulgarian
+summary: Empty XML translation bundle for Bulgarian that defines no locale-specific font or size overrides.

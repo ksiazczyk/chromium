@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_km.xtb.
+type: data
+title: Khmer accessibility strings translation bundle
+summary: XML translation bundle providing Khmer localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

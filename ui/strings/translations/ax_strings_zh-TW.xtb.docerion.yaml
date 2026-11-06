@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_zh-TW.xtb.
+type: data
+title: Accessibility strings translations (Traditional Chinese, Taiwan)
+summary: XML translation bundle with Traditional Chinese (zh-TW) localized accessibility strings for UI elements such as menus, dialogs, and media controls.

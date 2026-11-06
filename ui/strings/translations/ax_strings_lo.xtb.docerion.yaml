@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_lo.xtb.
+type: data
+title: Lao accessibility strings translation bundle
+summary: XML translation bundle providing Lao localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

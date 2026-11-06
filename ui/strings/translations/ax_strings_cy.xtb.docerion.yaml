@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_cy.xtb.
+type: data
+title: Welsh accessibility strings translation bundle
+summary: XML translation bundle providing Welsh translations of accessibility UI strings such as menu items, dialogs, pickers, and media controls.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_th.xtb.
+type: data
+title: Thai UI strings translation bundle
+summary: Thai translations of UI strings keyed by numeric message IDs, covering notifications, sharing, window controls, and pluralized duration messages.

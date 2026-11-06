@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_mr.xtb.
+type: data
+title: Marathi UI strings translation bundle
+summary: XML translation bundle with Marathi translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

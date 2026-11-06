@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_no.xtb.
+type: data
+title: Norwegian accessibility strings translation bundle
+summary: XML translation bundle with Norwegian translations of accessibility UI strings, covering roles and actions such as toggle button, slider, and dialog.

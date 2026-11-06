@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_fr-CA.xtb.
+type: data
+title: French (Canada) UI strings translation bundle
+summary: French (Canada) translations of UI strings in XTB XML format, covering notifications, menus, keyboard keys, and pluralized time and size messages.

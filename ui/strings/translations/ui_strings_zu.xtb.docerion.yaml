@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_zu.xtb.
+type: data
+title: Zulu UI strings translation bundle
+summary: XML translation bundle providing Zulu translations of UI strings, including notifications, relative time formats, and keyboard key names.

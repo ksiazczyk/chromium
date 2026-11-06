@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_id.xtb.
+type: data
+title: UI strings translation bundle (Indonesian)
+summary: Indonesian XTB translation bundle with localized UI strings for notifications, time and size quantities, and common interface actions.

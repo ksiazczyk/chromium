@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_pt-PT.xtb.
+type: data
+title: European Portuguese UI strings translation bundle
+summary: European Portuguese translations of application UI strings in an XML translation bundle, keyed by numeric message IDs with plural rules and placeholders.

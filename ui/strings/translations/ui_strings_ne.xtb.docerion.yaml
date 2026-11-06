@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ne.xtb.
+type: data
+title: Nepali UI strings translation bundle
+summary: XML translation bundle with Nepali translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

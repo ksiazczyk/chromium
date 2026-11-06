@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_da.xtb.
+type: data
+title: UI strings translation bundle (Danish)
+summary: Danish translations of UI strings, stored as an XTB XML bundle keyed by numeric message IDs with plural and placeholder rules.

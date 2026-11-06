@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_hu.xtb.
+type: data
+title: Hungarian app locale settings
+summary: Empty translation bundle for Hungarian app locale settings, containing no platform-specific font overrides.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ta.xtb.
+type: data
+title: Accessibility strings translation bundle (Tamil)
+summary: Tamil XTB translation bundle with localized accessibility UI strings such as menu item, dialog, slider, and media controls, keyed by numeric message IDs.

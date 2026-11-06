@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_am.xtb.
+type: config
+title: App locale settings for Amharic
+summary: XML translation bundle that sets Amharic UI font families, using Abyssinica Sil on Windows and Roboto with Noto Sans Ethiopic on ChromeOS.

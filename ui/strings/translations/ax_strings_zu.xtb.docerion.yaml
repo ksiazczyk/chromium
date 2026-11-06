@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_zu.xtb.
+type: data
+title: Accessibility strings translations (Zulu)
+summary: XML translation bundle with Zulu localized accessibility strings for UI elements such as menus, dialogs, and media controls.

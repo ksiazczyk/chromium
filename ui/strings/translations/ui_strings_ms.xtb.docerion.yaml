@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ms.xtb.
+type: data
+title: Malay UI strings translation bundle
+summary: XML translation bundle with Malay translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

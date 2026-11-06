@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_gl.xtb.
+type: data
+title: Galician UI strings translation bundle
+summary: Galician translations of UI strings in XTB XML format, covering notifications, menus, keyboard keys, and pluralized time and size messages.

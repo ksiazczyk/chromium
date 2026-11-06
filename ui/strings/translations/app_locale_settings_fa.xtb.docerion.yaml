@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_fa.xtb.
+type: data
+title: Persian app locale settings translation bundle
+summary: XML translation bundle holding locale settings for Persian, setting the minimum UI font size to 10.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ka.xtb.
+type: data
+title: UI strings translation bundle (Georgian)
+summary: Georgian (ka) translation bundle mapping message IDs to localized UI strings, including pluralized time, notification, and sharing messages.

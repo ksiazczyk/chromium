@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ky.xtb.
+type: data
+title: UI strings translation bundle (Kyrgyz)
+summary: Kyrgyz (ky) translation bundle mapping message IDs to localized UI strings, including pluralized time, notification, and sharing messages.

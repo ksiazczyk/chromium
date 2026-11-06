@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_cs.xtb.
+type: config
+title: App locale settings for Czech
+summary: Empty XML translation bundle for Czech that defines no locale-specific font or size overrides.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ml.xtb.
+type: data
+title: Malayalam accessibility strings translation bundle
+summary: XML translation bundle providing Malayalam localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

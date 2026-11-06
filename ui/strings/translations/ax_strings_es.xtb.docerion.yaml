@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_es.xtb.
+type: data
+title: Spanish accessibility strings translation bundle
+summary: Spanish (es) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

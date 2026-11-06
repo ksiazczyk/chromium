@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ml.xtb.
+type: data
+title: Malayalam UI strings translation bundle
+summary: XML translation bundle with Malayalam translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

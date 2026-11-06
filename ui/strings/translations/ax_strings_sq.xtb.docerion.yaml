@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_sq.xtb.
+type: data
+title: Accessibility strings in Albanian
+summary: XML translation bundle providing Albanian localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

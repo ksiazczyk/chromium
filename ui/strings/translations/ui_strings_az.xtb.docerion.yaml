@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_az.xtb.
+type: data
+title: UI strings translations (Azerbaijani)
+summary: XML translation bundle with Azerbaijani localized UI strings including notifications, pluralized time and size messages, and keyboard labels.

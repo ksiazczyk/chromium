@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_hr.xtb.
+type: data
+title: UI strings translation bundle (Croatian)
+summary: Croatian XTB translation bundle with localized UI strings for notifications, time and size quantities, and common interface actions.

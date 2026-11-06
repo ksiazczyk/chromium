@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_pt-PT.xtb.
+type: data
+title: Accessibility strings in European Portuguese
+summary: XML translation bundle providing European Portuguese localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_zh-TW.xtb.
+type: data
+title: Traditional Chinese (Taiwan) UI strings translation bundle
+summary: XML translation bundle providing Taiwan Traditional Chinese translations of UI strings, including notifications, time formats, and keyboard key names.

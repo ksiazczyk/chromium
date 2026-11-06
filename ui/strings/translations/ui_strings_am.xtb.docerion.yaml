@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_am.xtb.
+type: data
+title: UI strings translations (Amharic)
+summary: XML translation bundle with Amharic localized UI strings including notifications, pluralized time and size messages, and keyboard labels.

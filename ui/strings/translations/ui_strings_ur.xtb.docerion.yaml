@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ur.xtb.
+type: data
+title: Urdu UI strings translation bundle
+summary: Urdu translations of UI strings keyed by numeric message IDs, covering notifications, sharing, keyboard keys, and pluralized time messages.

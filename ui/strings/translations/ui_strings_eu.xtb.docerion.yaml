@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_eu.xtb.
+type: data
+title: Basque UI strings translation bundle
+summary: Basque translations of UI strings in XTB XML format, covering notifications, menus, keyboard keys, and pluralized time and size messages.
