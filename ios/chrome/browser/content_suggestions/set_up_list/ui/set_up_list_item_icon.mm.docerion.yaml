@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_item_icon.mm.
+type: source
+title: SetUpListItemIcon implementation
+summary: Implements SetUpListItemIcon, building SF Symbol icons in compact, square, and circle variants with sparkle frame animations.

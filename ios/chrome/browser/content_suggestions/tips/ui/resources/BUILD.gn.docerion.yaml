@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tips resource bundling
+summary: GN build target that packages the tip animation JSON files into the iOS app bundle resources.

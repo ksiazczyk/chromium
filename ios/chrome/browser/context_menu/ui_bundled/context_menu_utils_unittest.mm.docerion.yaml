@@ -1,0 +1,4 @@
+# Docerion header of context_menu_utils_unittest.mm.
+type: test
+title: Context menu utils unit tests
+summary: Unit tests verifying context menu title generation for link URLs, JavaScript links, data URLs, and image alt text.

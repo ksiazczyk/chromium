@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StandaloneModuleView interface for Magic Stack modules
+// summary: Declares StandaloneModuleView for standalone Magic Stack modules, including a tap delegate protocol for module button interactions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_STANDALONE_MODULE_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_STANDALONE_MODULE_VIEW_H_
 

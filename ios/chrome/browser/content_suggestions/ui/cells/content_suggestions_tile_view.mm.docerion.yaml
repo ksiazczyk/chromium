@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_tile_view.mm.
+type: source
+title: Content suggestions tile view implementation
+summary: Implements the generic tile view layout with squircle background, title label and pointer interaction for most visited and action tiles.

@@ -1,0 +1,4 @@
+# Docerion header of ntp_theme_actionable_tip_view.mm.
+type: source
+title: NTP Theme actionable tip view implementation
+summary: Builds the color and background swatch buttons with selection borders plus a more button in a horizontal stack view.

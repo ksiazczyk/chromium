@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabPromoMediator class header
+// summary: Declares the SendTabPromoMediator interface that manages the state of the Send Tab to Self promo Magic Stack module.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_PROMO_MEDIATOR_H_
 

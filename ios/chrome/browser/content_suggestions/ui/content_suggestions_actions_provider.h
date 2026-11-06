@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsActionsProvider protocol
+// summary: Protocol supplying default context menu elements and accessibility custom actions for most visited items shown in content suggestions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_ACTIONS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_ACTIONS_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tips_magic_stack_mediator.mm.
+type: source
+title: TipsMagicStackMediator implementation
+summary: Implements the Magic Stack mediator, observing preferences, shopping, bookmark, and NTP theme state to build actionable tip module configs.

@@ -1,0 +1,4 @@
+# Docerion header of most_visited_item.mm.
+type: source
+title: MostVisitedItem implementation
+summary: Implements MostVisitedItem, including AI Mode tile detection, content view creation, state configuration and copying.

@@ -1,0 +1,4 @@
+# Docerion header of tab_resumption_view.mm.
+type: source
+title: Tab Resumption view implementation
+summary: Implements the Magic Stack tab resumption card layout with images, labels, theming, and the price drop chip.

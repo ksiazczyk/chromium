@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UseAutofillInstructionalViewController interface
+// summary: Declares UseAutofillInstructionalViewController, the full-screen animated instructional view controller for the Use Autofill tip.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_USE_AUTOFILL_INSTRUCTIONAL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_USE_AUTOFILL_INSTRUCTIONAL_VIEW_CONTROLLER_H_
 

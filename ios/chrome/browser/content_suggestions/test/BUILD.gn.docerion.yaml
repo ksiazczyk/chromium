@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for content suggestions Earl Grey tests
+summary: Defines GN build targets for the content suggestions Earl Grey tests and their test support sources.

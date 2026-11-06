@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsShortcutTileView interface header
+// summary: Declares ContentSuggestionsShortcutTileView, a tile view showing a collection shortcut with an icon and optional badge.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_TILE_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_TILE_VIEW_H_
 

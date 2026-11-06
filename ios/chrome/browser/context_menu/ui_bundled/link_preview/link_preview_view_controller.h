@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link preview view controller header
+// summary: Declares LinkPreviewViewController, a UIKit view controller conforming to LinkPreviewConsumer that displays a loaded webState view with its origin for the link preview feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_LINK_PREVIEW_LINK_PREVIEW_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_LINK_PREVIEW_LINK_PREVIEW_VIEW_CONTROLLER_H_
 

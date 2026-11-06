@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsModuleConfig interface for Tips module state
+// summary: Declares TipsModuleConfig, a helper class holding the current Tips module state such as the tip identifier, product image data, and event-handling audience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_TIPS_MODULE_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_TIPS_MODULE_CONFIG_H_
 

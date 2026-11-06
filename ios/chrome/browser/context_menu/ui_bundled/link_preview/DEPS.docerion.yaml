@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Link preview include rules
+summary: Restricts which headers and directories the link preview code is allowed to include.

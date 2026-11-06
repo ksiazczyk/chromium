@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking promo prefs header
+// summary: Declares the kPriceTrackingPromoDisabled pref key and the RegisterPriceTrackingPromoPrefs function for the Price Tracking Promo module.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_MODEL_PRICE_TRACKING_PROMO_PREFS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_MODEL_PRICE_TRACKING_PROMO_PREFS_H_
 

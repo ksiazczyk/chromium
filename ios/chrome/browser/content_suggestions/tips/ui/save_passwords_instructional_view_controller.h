@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save Passwords instructional view controller header
+// summary: Declares the full-screen animated view controller for the Save Passwords instructional tip.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_SAVE_PASSWORDS_INSTRUCTIONAL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_SAVE_PASSWORDS_INSTRUCTIONAL_VIEW_CONTROLLER_H_
 

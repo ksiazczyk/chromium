@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_mediator_unittest.mm.
+type: test
+title: ShortcutsMediator unit tests
+summary: Tests ShortcutsMediator behavior with mock delegates and dispatcher, including dispatching commands when opening the Reading List.

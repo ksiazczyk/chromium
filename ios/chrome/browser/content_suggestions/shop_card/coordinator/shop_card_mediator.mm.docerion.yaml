@@ -1,0 +1,4 @@
+# Docerion header of shop_card_mediator.mm.
+type: source
+title: Shop card mediator implementation
+summary: Implements ShopCardMediator, building shop card configs from price-tracked bookmarks with favicons, prices, and impression limits.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resumption mediator delegate protocol
+// summary: Declares the delegate protocol handling mediator events such as item updates, module removal and Magic Stack engagement logging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TAB_RESUMPTION_COORDINATOR_TAB_RESUMPTION_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TAB_RESUMPTION_COORDINATOR_TAB_RESUMPTION_MEDIATOR_DELEGATE_H_
 

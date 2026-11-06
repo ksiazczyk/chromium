@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_config.mm.
+type: source
+title: ShortcutsConfig implementation
+summary: Implements ShortcutsConfig copying, content comparison between configs, and the kShortcuts module type.

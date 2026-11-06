@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shortcuts UI GN build target
+summary: Defines the GN source_set for the shortcuts UI module, listing its sources, dependencies, and the UIKit framework.

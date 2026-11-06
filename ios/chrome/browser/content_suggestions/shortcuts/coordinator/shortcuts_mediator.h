@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutsMediator interface header
+// summary: Declares the ShortcutsMediator class that manages the state of the Shortcuts Magic Stack module and its delegates and dispatcher.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_COORDINATOR_SHORTCUTS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_COORDINATOR_SHORTCUTS_MEDIATOR_H_
 

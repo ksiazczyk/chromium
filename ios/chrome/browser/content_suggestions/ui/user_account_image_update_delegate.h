@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User account image update delegate protocol
+// summary: Delegate protocol for updating the UI with the current user account avatar, covering the signed-out state and signed-in updates with name, email, avatar image, and AI tier flag.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_USER_ACCOUNT_IMAGE_UPDATE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_USER_ACCOUNT_IMAGE_UPDATE_DELEGATE_H_
 

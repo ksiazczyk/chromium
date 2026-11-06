@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips metrics constant declarations
+// summary: Declares extern constants for Tips (Magic Stack) UMA histogram names and password promo dismissal user actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_MODEL_TIPS_METRICS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_MODEL_TIPS_METRICS_H_
 

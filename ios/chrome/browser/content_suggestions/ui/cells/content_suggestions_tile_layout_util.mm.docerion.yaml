@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_tile_layout_util.mm.
+type: source
+title: Content suggestions tile layout util
+summary: Provides the horizontal spacing between content suggestion tiles based on the horizontal and vertical size class of the trait collection.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsActionItem configuration object header
+// summary: Declares a configuration item for action tile views holding title, icon, accessibility label, reading list count and disabled state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_CONTENT_SUGGESTIONS_ACTION_ITEM_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_CONTENT_SUGGESTIONS_ACTION_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsPasswordsCoordinator interface
+// summary: Header declaring the coordinator that displays Password-related tips, such as saving passwords and using Autofill, based on a tip identifier.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_COORDINATOR_TIPS_PASSWORDS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_COORDINATOR_TIPS_PASSWORDS_COORDINATOR_H_
 

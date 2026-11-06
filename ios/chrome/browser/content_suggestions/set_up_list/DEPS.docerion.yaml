@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Set Up List DEPS include rules
+summary: Defines include rules for the set_up_list directory, restricting allowed dependencies to the default browser first run UI.

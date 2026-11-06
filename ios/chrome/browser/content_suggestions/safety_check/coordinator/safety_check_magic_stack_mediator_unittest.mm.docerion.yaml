@@ -1,0 +1,4 @@
+# Docerion header of safety_check_magic_stack_mediator_unittest.mm.
+type: test
+title: Safety Check Magic Stack mediator unit tests
+summary: Unit tests for SafetyCheckMagicStackMediator that verify delegate callbacks and Safety Check state handling using OCMock, test profiles, and a test password store.

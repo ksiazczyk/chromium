@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Link preview build targets
+summary: Defines the source sets and dependencies for the link preview coordinator, mediator, UI, and constants.

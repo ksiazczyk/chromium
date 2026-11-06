@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plus button tile view header
+// summary: Declares the cell content view for the add pinned site button, subclassed from the action tile view to share the shortcuts tiles color theme.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_UI_MOST_VISITED_TILES_PLUS_BUTTON_TILE_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_UI_MOST_VISITED_TILES_PLUS_BUTTON_TILE_VIEW_H_
 

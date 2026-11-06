@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_tile_view.mm.
+type: source
+title: ContentSuggestionsShortcutTileView implementation
+summary: Implements ContentSuggestionsShortcutTileView, applying themed background and icon colors for the new tab page image background.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsImageDataSource protocol
+// summary: Protocol used by content suggestions to asynchronously fetch favicon images for given URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_IMAGE_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_IMAGE_DATA_SOURCE_H_
 

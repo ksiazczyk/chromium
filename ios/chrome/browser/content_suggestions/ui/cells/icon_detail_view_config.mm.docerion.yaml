@@ -1,0 +1,4 @@
+# Docerion header of icon_detail_view_config.mm.
+type: source
+title: Icon detail view configuration implementation
+summary: Implements the icon detail view configuration, building an icon view configuration from the settings and copying all configuration properties.

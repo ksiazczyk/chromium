@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetUpListItemView testing category
+// summary: Declares a testing category on SetUpListItemView that exposes the private tap handler for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_ITEM_VIEW_TESTING_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_ITEM_VIEW_TESTING_H_
 

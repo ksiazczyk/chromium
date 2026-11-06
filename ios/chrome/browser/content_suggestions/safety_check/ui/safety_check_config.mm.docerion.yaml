@@ -1,0 +1,4 @@
+# Docerion header of safety_check_config.mm.
+type: source
+title: SafetyCheckConfig implementation
+summary: Implements SafetyCheckConfig, including initialization, running and default state checks, issue counting, and copying of configuration properties.

@@ -1,0 +1,4 @@
+# Docerion header of link_preview_coordinator.mm.
+type: source
+title: Link preview coordinator implementation
+summary: Configures the cloned preview web state and replaces the active tab with it when the preview is tapped.

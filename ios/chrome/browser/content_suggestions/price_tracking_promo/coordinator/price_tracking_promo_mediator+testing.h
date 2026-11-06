@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingPromoMediator testing category
+// summary: Category on PriceTrackingPromoMediator that exposes internal state like services, prefs, and config for use in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_COORDINATOR_PRICE_TRACKING_PROMO_MEDIATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_COORDINATOR_PRICE_TRACKING_PROMO_MEDIATOR_TESTING_H_
 

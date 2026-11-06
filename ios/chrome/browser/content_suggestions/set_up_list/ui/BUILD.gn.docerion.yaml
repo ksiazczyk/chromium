@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Set Up List UI target
+summary: Defines the GN source_set for the Set Up List UI, listing its sources, dependencies, and the UIKit framework.

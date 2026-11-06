@@ -1,0 +1,4 @@
+# Docerion header of ntp_home_test_utils.mm.
+type: test
+title: New tab page home test utilities
+summary: Implements ntp_home test helpers that locate NTP views and read background palette state from the view hierarchy.

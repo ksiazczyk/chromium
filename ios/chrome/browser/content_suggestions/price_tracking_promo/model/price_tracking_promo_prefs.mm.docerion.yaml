@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_prefs.mm.
+type: source
+title: Price tracking promo prefs implementation
+summary: Registers the price_tracking_promo.disabled boolean preference, defaulting to false, for the Price Tracking Promo module.

@@ -1,0 +1,4 @@
+# Docerion header of use_autofill_instructional_view_controller.mm.
+type: source
+title: UseAutofillInstructionalViewController implementation
+summary: Implements UseAutofillInstructionalViewController, configuring the use autofill animation, color providers, button stack, and localized title text.

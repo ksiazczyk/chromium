@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_mediator.mm.
+type: source
+title: PriceTrackingPromoMediator implementation
+summary: Implements the mediator logic for fetching subscriptions, building the promo config with favicons, enabling notification settings, and logging opt-in flow histograms.

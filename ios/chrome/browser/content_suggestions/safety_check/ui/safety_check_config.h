@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckConfig header with check states and counts
+// summary: Declares the SafetyCheckConfig helper class holding the Update Chrome, Password, and Safe Browsing check states, password counts, last run time, and audience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_UI_SAFETY_CHECK_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_UI_SAFETY_CHECK_CONFIG_H_
 

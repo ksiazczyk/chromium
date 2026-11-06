@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Safety Check model
+summary: Defines GN source sets for Safety Check preferences, utilities, and their unit tests with their dependencies.

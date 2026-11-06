@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the mediator unit test
+summary: Allows the Most Visited Tiles mediator unit test to include the history service test utility header.

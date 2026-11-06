@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StandaloneModuleViewConfig interface for module settings
+// summary: Declares StandaloneModuleViewConfig, a MagicStackModule subclass holding images, texts, and an accessibility identifier for standalone module views.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_STANDALONE_MODULE_VIEW_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_STANDALONE_MODULE_VIEW_CONFIG_H_
 

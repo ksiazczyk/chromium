@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Up List default browser promo coordinator interface
+// summary: Declares the coordinator that presents the Default Browser Promo from the Set Up List and forwards its events to a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_COORDINATOR_SET_UP_LIST_DEFAULT_BROWSER_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_COORDINATOR_SET_UP_LIST_DEFAULT_BROWSER_PROMO_COORDINATOR_H_
 

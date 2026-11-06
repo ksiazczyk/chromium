@@ -1,0 +1,4 @@
+# Docerion header of tips_module_view_unittest.mm.
+type: test
+title: Unit tests for the iOS tips module view
+summary: Platform tests verifying that TipsModuleView shows the default hero-cell layout and the correct accessibility identifier and subview count for each tip type.

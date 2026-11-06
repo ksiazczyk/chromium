@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the tips model source set
+summary: GN build file defining the model source_set that compiles tips_metrics.cc and tips_metrics.h.

@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_default_browser_promo_coordinator_unittest.mm.
+type: test
+title: Set Up List default browser promo coordinator unit tests
+summary: Unit tests verifying the promo coordinator's button handling, delegate callbacks, metrics, and default browser settings navigation.

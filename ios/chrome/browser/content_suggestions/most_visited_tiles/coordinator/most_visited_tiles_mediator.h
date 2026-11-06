@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Visited Tiles mediator header
+// summary: Declares the MostVisitedTilesMediator interface that manages Most Visited Tiles state for the Magic Stack content suggestions module.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_COORDINATOR_MOST_VISITED_TILES_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_COORDINATOR_MOST_VISITED_TILES_MEDIATOR_H_
 

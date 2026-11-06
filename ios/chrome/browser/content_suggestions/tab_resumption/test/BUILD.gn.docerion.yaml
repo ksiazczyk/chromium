@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab resumption Earl Grey tests build file
+summary: GN build configuration defining the eg2 test source set and its dependencies for the tab resumption UI tests.

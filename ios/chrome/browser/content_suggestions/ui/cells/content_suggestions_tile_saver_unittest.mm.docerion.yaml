@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_tile_saver_unittest.mm.
+type: test
+title: Content suggestions tile saver unit tests
+summary: Unit tests for saving and reading most visited tiles and favicons, using fake identities, test profiles and mock images.

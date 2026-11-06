@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP Customization promo view controller header
+// summary: Declares the bottom sheet view controller for the actionable NTP Customization tip, based on ButtonStackViewController.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_NTP_CUSTOMIZATION_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_NTP_CUSTOMIZATION_PROMO_VIEW_CONTROLLER_H_
 

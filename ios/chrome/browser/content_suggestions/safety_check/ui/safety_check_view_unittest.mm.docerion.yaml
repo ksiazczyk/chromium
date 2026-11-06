@@ -1,0 +1,4 @@
+# Docerion header of safety_check_view_unittest.mm.
+type: test
+title: Unit tests for SafetyCheckView layouts and states
+summary: Unit tests verifying that SafetyCheckView displays the correct subviews for default, running, all safe, and issue states.

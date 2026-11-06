@@ -1,0 +1,4 @@
+# Docerion header of safety_check_utils.mm.
+type: source
+title: Safety Check utilities implementation
+summary: Implements tap handling for update and password checks, invalid state checks, warning type counting, and elapsed time formatting for the Safety Check module.

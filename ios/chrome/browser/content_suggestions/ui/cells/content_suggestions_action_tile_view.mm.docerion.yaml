@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_action_tile_view.mm.
+type: source
+title: ContentSuggestionsActionTileView implementation
+summary: Implements the action tile view, configuring icon, badge count, accessibility and background theme for NTP image or color palettes.

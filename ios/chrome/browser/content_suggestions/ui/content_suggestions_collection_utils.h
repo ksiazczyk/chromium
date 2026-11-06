@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content suggestions collection layout utilities header
+// summary: Declares spacing constants and helper functions for doodle, logo, fake omnibox and header sizing on the new tab page across size classes and feature arms.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_COLLECTION_UTILS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_COLLECTION_UTILS_H_
 

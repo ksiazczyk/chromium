@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabPromoMediatorDelegate protocol header
+// summary: Declares the delegate protocol that receives events from SendTabPromoMediator, such as a sent tab being received or module removal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_PROMO_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_PROMO_MEDIATOR_DELEGATE_H_
 

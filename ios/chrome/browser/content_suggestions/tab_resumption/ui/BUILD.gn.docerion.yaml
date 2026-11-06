@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab Resumption UI build definition
+summary: Defines the ui and unit_tests source sets with their sources, dependencies, and frameworks for the Tab Resumption module.

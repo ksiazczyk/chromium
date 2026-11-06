@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_mediator.mm.
+type: source
+title: ShortcutsMediator implementation
+summary: Implements the mediator, building shortcut items, tracking reading list state, and handling shortcut commands and engagement logging.

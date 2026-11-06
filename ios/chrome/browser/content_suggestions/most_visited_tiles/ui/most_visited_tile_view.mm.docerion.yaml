@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tile_view.mm.
+type: source
+title: MostVisitedTileView implementation
+summary: Implements the most visited tile view with favicon layout, AI Mode styling, color updating and context menu interaction.

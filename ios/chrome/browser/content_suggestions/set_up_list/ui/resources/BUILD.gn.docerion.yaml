@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Set Up List resources build file
+summary: GN build target that bundles the set up list asset catalog, including all-set and sparkle animation imagesets, into the iOS app bundle.

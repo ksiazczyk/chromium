@@ -1,0 +1,4 @@
+# Docerion header of safety_check_magic_stack_mediator.mm.
+type: source
+title: Safety Check Magic Stack mediator implementation
+summary: Implements the mediator, observing Safety Check manager events and local and user preference changes to configure the Safety Check module in the Magic Stack.

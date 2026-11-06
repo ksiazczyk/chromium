@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetUpListConfig interface for the Set Up List module
+// summary: Declares SetUpListConfig, a MagicStackModule config holding the Set Up List items, compact layout flag, consumer source, and command handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_CONFIG_H_
 

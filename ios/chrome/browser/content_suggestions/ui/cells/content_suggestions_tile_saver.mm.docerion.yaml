@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_tile_saver.mm.
+type: source
+title: Content suggestions tile saver implementation
+summary: Implements saving most visited tiles and favicons to disk for the content suggestions widget, including tile list updates and removal of outdated icons.

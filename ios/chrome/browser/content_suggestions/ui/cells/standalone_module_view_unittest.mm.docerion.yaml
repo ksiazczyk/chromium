@@ -1,0 +1,4 @@
+# Docerion header of standalone_module_view_unittest.mm.
+type: test
+title: StandaloneModuleView unit tests
+summary: Unit tests for the StandaloneModuleView content suggestions cell, checking title, description, and button text plus favicon-related layout constraints when no product image is shown.

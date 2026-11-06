@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutsMediatorDelegate protocol
+// summary: Declares the delegate protocol used to report mediator reconfiguration and Magic Stack engagement events to its owner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_COORDINATOR_SHORTCUTS_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_COORDINATOR_SHORTCUTS_MEDIATOR_DELEGATE_H_
 

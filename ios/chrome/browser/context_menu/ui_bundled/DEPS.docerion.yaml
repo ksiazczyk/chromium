@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Context menu UI DEPS include rules
+summary: Restricts the headers and directories that the context menu UI directory is allowed to include.

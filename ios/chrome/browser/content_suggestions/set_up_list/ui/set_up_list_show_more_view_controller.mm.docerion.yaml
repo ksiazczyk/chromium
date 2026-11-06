@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_show_more_view_controller.mm.
+type: source
+title: SetUpListShowMoreViewController implementation
+summary: Builds the See More screen with title, subtitle and Set Up List items, and wires a Done button to dismiss via the tap delegate.

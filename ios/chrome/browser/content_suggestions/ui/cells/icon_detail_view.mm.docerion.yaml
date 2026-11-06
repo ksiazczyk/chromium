@@ -1,0 +1,4 @@
+# Docerion header of icon_detail_view.mm.
+type: source
+title: Icon detail view implementation
+summary: Implements the icon detail view layout with icon container, badge icons, checkmark and gradient overlay for Magic Stack content suggestions.

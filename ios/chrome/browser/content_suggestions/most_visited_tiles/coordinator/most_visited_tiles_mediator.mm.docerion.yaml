@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_mediator.mm.
+type: source
+title: Most Visited Tiles mediator implementation
+summary: Implements the mediator that fetches, refreshes and disables Most Visited Tiles and handles tile actions, favicons and metrics.

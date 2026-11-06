@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab resumption DEPS include rules
+summary: Defines the allowed include dependencies for the tab_resumption directory, such as visited URL ranking and snapshot headers.

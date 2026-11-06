@@ -1,0 +1,4 @@
+# Docerion header of ntp_theme_actionable_tip_config.mm.
+type: source
+title: NTP Theme actionable tip module config implementation
+summary: Implements copying, the tips module type and content comparison logic for the NTP Theme actionable tip config.

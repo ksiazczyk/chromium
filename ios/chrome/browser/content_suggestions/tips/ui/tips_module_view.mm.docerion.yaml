@@ -1,0 +1,4 @@
+# Docerion header of tips_module_view.mm.
+type: source
+title: TipsModuleView implementation
+summary: Implements TipsModuleView, building an IconDetailView from the Tips module configuration and managing separator visibility based on product image data.

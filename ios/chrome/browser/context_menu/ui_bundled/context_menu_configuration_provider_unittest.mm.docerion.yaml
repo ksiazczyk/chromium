@@ -1,0 +1,4 @@
+# Docerion header of context_menu_configuration_provider_unittest.mm.
+type: test
+title: Context menu configuration provider unit tests
+summary: Unit tests covering the context menu configuration provider's menus, previews and related metrics.

@@ -1,0 +1,4 @@
+# Docerion header of pinned_site_form_view_controller.mm.
+type: source
+title: Pinned site form view controller implementation
+summary: Implements the pinned site form with name and URL fields, validation error messages, metrics and handling of add and edit actions.

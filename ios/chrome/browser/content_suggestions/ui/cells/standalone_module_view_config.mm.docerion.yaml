@@ -1,0 +1,4 @@
+# Docerion header of standalone_module_view_config.mm.
+type: source
+title: StandaloneModuleViewConfig implementation with copy support
+summary: Implements the copy method for StandaloneModuleViewConfig, duplicating its image, text, and accessibility properties.

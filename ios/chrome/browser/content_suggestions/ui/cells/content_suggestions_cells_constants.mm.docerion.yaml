@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_cells_constants.mm.
+type: source
+title: Content suggestions cells constants implementation
+summary: Defines tile size values and accessibility identifier constants used by content suggestion cells.

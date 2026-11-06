@@ -1,0 +1,4 @@
+# Docerion header of shop_card_mediator_unittest.mm.
+type: test
+title: Shop card mediator unit tests
+summary: Unit tests for ShopCardMediator covering shop card config, impression limits, and engagement using mock services and OCMock.

@@ -1,0 +1,4 @@
+# Docerion header of icon_view_configuration.mm.
+type: source
+title: IconViewConfiguration implementation with icon presets
+summary: Implements IconViewConfiguration with convenience initializers for symbol- and image-based icons plus NSCopying support.

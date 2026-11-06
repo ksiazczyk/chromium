@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_show_more_item_view.mm.
+type: source
+title: SetUpListShowMoreItemView implementation
+summary: Builds the Magic Stack Set Up List item UI with icon, labels and a Try button, including strikethrough styling for completed items.
