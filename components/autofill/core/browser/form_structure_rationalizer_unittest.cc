@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormStructureRationalizer unit tests
+// summary: Unit tests covering the FormStructureRationalizer's adjustments of field type predictions across many form scenarios.
+// ---
+
 #include "components/autofill/core/browser/form_structure_rationalizer.h"
 
 #include <ranges>

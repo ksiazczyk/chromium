@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test password autofill agent
+// summary: Implements a test subclass of PasswordAutofillAgent that always allows frames to access the password manager in browser tests.
+// ---
+
 #include "components/autofill/content/renderer/test_password_autofill_agent.h"
 
 namespace autofill {

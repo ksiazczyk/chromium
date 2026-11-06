@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillCrowdsourcingManager
+// summary: Unit tests covering query and upload requests, HTTP response handling, caching and backoff behavior of the crowdsourcing manager.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/autofill_crowdsourcing_manager.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill content component
+summary: Defines include rules restricting the autofill content component to content, Mojo, and service manager public headers, with test-only exceptions.

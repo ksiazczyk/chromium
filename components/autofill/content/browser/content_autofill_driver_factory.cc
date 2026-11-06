@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentAutofillDriverFactory implementation
+// summary: Implements creation and lifecycle management of one ContentAutofillDriver per RenderFrameHost, including Mojo binding and observer notifications.
+// ---
+
 #include "components/autofill/content/browser/content_autofill_driver_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual testing import implementation
+// summary: Parses JSON from command-line flags or files to import autofill profiles, credit cards and AI entities for manual testing.
+// ---
+
 #include "components/autofill/core/browser/manual_testing_import.h"
 
 #include <optional>

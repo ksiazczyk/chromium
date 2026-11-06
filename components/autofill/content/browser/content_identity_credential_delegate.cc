@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentIdentityCredentialDelegate implementation
+// summary: Implements the content-layer identity credential delegate that generates verified autofill suggestions and notifies the WebID AutofillSource when a suggestion is accepted.
+// ---
+
 #include "components/autofill/content/browser/content_identity_credential_delegate.h"
 
 #include "base/functional/callback.h"

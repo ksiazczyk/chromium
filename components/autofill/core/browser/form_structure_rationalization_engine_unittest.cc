@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rationalization engine unit tests
+// summary: Unit tests verifying the rationalization engine's rule builders, conditions and type-changing actions on form fields.
+// ---
+
 #include "components/autofill/core/browser/form_structure_rationalization_engine.h"
 
 #include "base/containers/to_vector.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for form types
+// summary: Parameterized unit tests verifying FormHasAllCreditCardFields for forms with and without complete credit card fields.
+// ---
+
 #include "components/autofill/core/browser/form_types.h"
 
 #include "components/autofill/core/browser/field_types.h"

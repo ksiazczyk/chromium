@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormSubmissionTracker browser tests
+// summary: Browser tests verifying form submission detection, element tracking, and submission sources under varying autofill feature flags.
+// ---
+
 #include "components/autofill/content/renderer/form_submission_tracker.h"
 
 #include <optional>

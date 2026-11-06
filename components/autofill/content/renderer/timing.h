@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill renderer timing metrics declarations
+// summary: Declares CallTimerState with caller call sites and ScopedCallTimer, a stack-allocated timer that emits autofill UMA timing metrics when it goes out of scope.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_TIMING_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_TIMING_H_
 

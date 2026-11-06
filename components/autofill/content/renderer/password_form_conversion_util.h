@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form conversion utilities header
+// summary: Declares helpers that convert DOM forms into FormData for the password manager, detect GAIA forms, and compute sign-on realms.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_PASSWORD_FORM_CONVERSION_UTIL_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_PASSWORD_FORM_CONVERSION_UTIL_H_
 

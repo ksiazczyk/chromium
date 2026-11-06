@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form autofill utilities browser tests
+// summary: Browser tests for the form extraction and autofill utility functions declared in form_autofill_util.h.
+// ---
+
 #include "components/autofill/content/renderer/form_autofill_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript autofill tracker implementation
+// summary: Implements detection of JavaScript-driven form field value changes so custom JS autofill mechanisms on web pages can be recognised.
+// ---
+
 #include "components/autofill/content/renderer/javascript_autofill_tracker.h"
 
 #include <algorithm>

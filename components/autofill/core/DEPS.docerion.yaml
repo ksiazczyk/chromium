@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill core
+summary: Defines the include_rules for the autofill core component, allowing dependencies on os_crypt/async, pref_registry, unified_consent and webauthn/core.

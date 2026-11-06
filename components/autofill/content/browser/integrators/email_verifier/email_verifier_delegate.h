@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verifier delegate class declaration
+// summary: Declares the EmailVerifierDelegate class, which observes autofill managers and web contents to drive the email verification protocol flow and record flow results.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_INTEGRATORS_EMAIL_VERIFIER_EMAIL_VERIFIER_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_INTEGRATORS_EMAIL_VERIFIER_EMAIL_VERIFIER_DELEGATE_H_
 

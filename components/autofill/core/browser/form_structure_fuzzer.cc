@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormStructure libFuzzer harness
+// summary: libFuzzer harness that feeds random form data through FormStructure rationalization, sectioning and parsing-permission checks to uncover crashes.
+// ---
+
 #include "components/autofill/core/browser/form_structure.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

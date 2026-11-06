@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FormStructure
+// summary: Large unit test suite for FormStructure covering field counts, field type assignment and related form structure behavior.
+// ---
+
 #include "components/autofill/core/browser/form_structure.h"
 
 #include <stddef.h>

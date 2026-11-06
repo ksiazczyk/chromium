@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field types unit tests
+// summary: Unit tests verifying FieldType string conversion, round-tripping via TypeNameToFieldType, and validity of field type values.
+// ---
+
 #include "components/autofill/core/browser/field_types.h"
 
 #include "components/autofill/core/browser/field_type_util.h"

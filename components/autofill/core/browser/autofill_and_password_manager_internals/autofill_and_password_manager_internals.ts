@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill and password manager internals WebUI frontend logic
+// summary: TypeScript frontend for the internals page that records and renders autofill logs, with autoscroll, dialogs and URL hash configuration.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 

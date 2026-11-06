@@ -113,6 +113,12 @@
 //    }
 //  }
 
+// ---docerion
+// type: test
+// title: End-to-end heuristic classification tests
+// summary: End-to-end tests that classify recorded forms from JSON files in components/test/data/autofill/heuristics-json to tune heuristics and rationalization.
+// ---
+
 #include <iomanip>
 #include <ranges>
 #include <sstream>

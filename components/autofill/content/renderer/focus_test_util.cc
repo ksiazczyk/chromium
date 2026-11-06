@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus test utilities implementation
+// summary: Implements FocusTestUtils, which logs focus, blur and change events into a hidden input so renderer tests can check the order of field events.
+// ---
+
 #include <string>
 #include <string_view>
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the autofill browser directory
+summary: Delegates ownership of BUILD.gn changes in this directory to the payments OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form autofill utilities implementation
+// summary: Implements utility functions for form and field extraction, label inference, DOM traversal, and form field preview and autofilling in the renderer.
+// ---
+
 #include "components/autofill/content/renderer/form_autofill_util.h"
 
 #include <algorithm>

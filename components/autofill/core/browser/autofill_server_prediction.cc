@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillServerPrediction implementation
+// summary: Implements the AutofillServerPrediction helpers that expose the top server field type and whether the prediction is an override.
+// ---
+
 #include "components/autofill/core/browser/autofill_server_prediction.h"
 
 #include <optional>

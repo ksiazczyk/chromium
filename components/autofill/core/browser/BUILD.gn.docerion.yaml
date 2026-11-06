@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the autofill browser component
+summary: Defines build targets, sources, dependencies and resource rules for the autofill core browser component, including country data and address rewrite resources.

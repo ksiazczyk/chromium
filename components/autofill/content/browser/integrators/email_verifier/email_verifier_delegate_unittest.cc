@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verifier delegate unit tests
+// summary: Unit tests for the email verification delegate, using mocks to cover verification flows, strike database blocking, permission prompts, and UKM metrics.
+// ---
+
 #include "components/autofill/content/browser/integrators/email_verifier/email_verifier_delegate.h"
 
 #include "base/json/values_util.h"

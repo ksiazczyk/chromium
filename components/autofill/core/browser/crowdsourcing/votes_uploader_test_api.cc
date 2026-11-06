@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Votes uploader test API implementation
+// summary: Implements VotesUploaderTestApi::FlushPendingVotes, which blocks until all pending votes have been emitted or a timeout is reached.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/votes_uploader_test_api.h"
 
 #include "base/functional/callback_helpers.h"

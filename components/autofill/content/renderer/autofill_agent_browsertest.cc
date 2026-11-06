@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillAgent browser tests
+// summary: Browser tests verifying AutofillAgent behavior such as form extraction, suggestion triggers, and driver communication.
+// ---
+
 #include "components/autofill/content/renderer/autofill_agent.h"
 
 #include <stdint.h>

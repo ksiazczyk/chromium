@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill content browser GN build configuration
+summary: Defines the GN build targets for the autofill content browser component, including the browser library, proto libraries, test support, and unit tests.

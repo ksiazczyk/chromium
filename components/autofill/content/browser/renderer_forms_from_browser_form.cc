@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFormsFromBrowserForm implementation
+// summary: Translates a cached browser form into its renderer form constituents and resolves the render frame host hosting each form.
+// ---
+
 #include "components/autofill/content/browser/renderer_forms_from_browser_form.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefilled values detector unit tests
+// summary: Unit tests verifying that known username placeholders are lowercase and that prefilled email-domain values are detected correctly.
+// ---
+
 #include "components/autofill/content/renderer/prefilled_values_detector.h"
 
 #include "base/strings/string_util.h"

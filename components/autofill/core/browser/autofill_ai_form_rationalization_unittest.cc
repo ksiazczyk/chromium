@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI form rationalization
+// summary: Tests that attribute type assignments are rationalized according to entity required field constraints and license plate field handling.
+// ---
+
 #include "components/autofill/core/browser/autofill_ai_form_rationalization.h"
 
 #include "base/containers/to_vector.h"

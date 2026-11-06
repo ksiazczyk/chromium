@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill test form data utility declarations
+// summary: Declares the test helper CreateFormDataForRenderFrameHost, which builds FormData whose host frames match a RenderFrameHost.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_AUTOFILL_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_AUTOFILL_TEST_UTIL_H_
 

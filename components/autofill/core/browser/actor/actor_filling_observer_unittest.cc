@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActorFillingObserver
+// summary: Tests the filling observer callback behavior for empty input, destruction, and observed field fills.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_filling_observer.h"
 
 #include "base/containers/map_util.h"

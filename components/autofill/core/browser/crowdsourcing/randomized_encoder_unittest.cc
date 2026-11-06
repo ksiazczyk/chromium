@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Randomized encoder unit tests
+// summary: Unit tests comparing RandomizedEncoder output against a reference bit-selection encoder across all supported encoding schemes.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/randomized_encoder.h"
 
 #include <string_view>

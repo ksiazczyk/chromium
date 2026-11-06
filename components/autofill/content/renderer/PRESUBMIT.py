@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for the autofill renderer
+# summary: Presubmit script that flags banned function calls in renderer C++ files and points to documented alternatives.
+# ---
+
 """Chromium presubmit script for src/components/autofill/content/renderer.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

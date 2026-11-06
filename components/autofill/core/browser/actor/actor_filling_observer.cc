@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorFillingObserver implementation
+// summary: Implements tracking of autofill field completions and builds summaries of filled address or credit card data for the actor.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_filling_observer.h"
 
 #include <optional>

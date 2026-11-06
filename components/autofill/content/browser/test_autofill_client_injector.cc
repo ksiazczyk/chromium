@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillClientInjector base implementation
+// summary: Implements the injector base class that enforces a single live instance and creation order relative to the driver and manager injectors.
+// ---
+
 #include "components/autofill/content/browser/test_autofill_client_injector.h"
 
 #include "base/check.h"

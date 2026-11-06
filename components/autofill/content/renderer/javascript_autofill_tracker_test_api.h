@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript autofill tracker test API
+// summary: Exposes private members of JavaScriptAutofillTracker, such as its JS modification log, for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_JAVASCRIPT_AUTOFILL_TRACKER_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_JAVASCRIPT_AUTOFILL_TRACKER_TEST_API_H_
 

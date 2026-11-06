@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for autofill and password manager internals
+summary: Defines code owners for this directory, delegating most changes to the autofill owners and trivial WebUI changes to platform owners.

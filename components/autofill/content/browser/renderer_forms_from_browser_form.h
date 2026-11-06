@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFormsFromBrowserForm declarations
+// summary: Declares helpers that map flattened browser forms to renderer forms with their render frame host ids for use outside the autofill component.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_RENDERER_FORMS_FROM_BROWSER_FORM_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_RENDERER_FORMS_FROM_BROWSER_FORM_H_
 

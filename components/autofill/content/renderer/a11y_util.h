@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility suggestion availability utility header
+// summary: Declares SetAutofillSuggestionAvailability for setting Blink accessibility state on form control elements.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_A11Y_UTIL_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_A11Y_UTIL_H_
 

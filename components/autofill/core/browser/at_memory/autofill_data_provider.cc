@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data provider implementation
+// summary: Implements retrieval of addresses, payments, entities and loyalty cards as standardized AtMemory search results.
+// ---
+
 #include "components/autofill/core/browser/at_memory/autofill_data_provider.h"
 
 #include <stdint.h>

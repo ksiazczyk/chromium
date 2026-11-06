@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory enablement utility implementation
+// summary: Implements checks that decide whether AtMemory actions such as retrieving payments or contact info are allowed, based on feature flags, eligibility, policies and prefs.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_enablement_util.h"
 
 #include <algorithm>

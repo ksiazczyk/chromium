@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autofill crowdsourcing encoding
+// summary: Unit tests verifying that autofill query and upload requests are encoded correctly, including prediction overrides and metadata.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/autofill_crowdsourcing_encoding.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormCache implementation
+// summary: Implements the renderer-side cache of extracted forms, computing updated and removed forms while enforcing limits on extractable fields and child frames.
+// ---
+
 #include "components/autofill/content/renderer/form_cache.h"
 
 #include <algorithm>

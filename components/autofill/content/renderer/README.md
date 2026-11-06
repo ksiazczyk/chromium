@@ -1,3 +1,11 @@
+---
+type: readme
+title: Autofill renderer architecture
+summary: Explains the renderer's structure and the terminology of form controls, association, outermost form elements and ownership.
+relations:
+  - references /third_party/blink/renderer/core/dom/README.md
+---
+
 # Architecture
 
 - `form_autofill_util.{cc,h}` contains the functions for extracting and

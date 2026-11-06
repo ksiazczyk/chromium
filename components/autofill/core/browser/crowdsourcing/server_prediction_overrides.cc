@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server prediction overrides implementation
+// summary: Parses override specifications that manually override server field type predictions for given form and field signatures.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/server_prediction_overrides.h"
 
 #include <stdint.h>

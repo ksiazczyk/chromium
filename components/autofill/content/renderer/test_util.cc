@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill renderer test utilities
+// summary: Implements gmock matchers and helper functions for looking up DOM elements, forms and iframes in autofill renderer tests.
+// ---
+
 #include "components/autofill/content/renderer/test_util.h"
 
 #include "base/strings/strcat.h"

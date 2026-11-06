@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form structure rationalization engine implementation
+// summary: Implements the rule-based rationalization engine, including environment and field condition builders used to adjust form field types.
+// ---
+
 #include "components/autofill/core/browser/form_structure_rationalization_engine.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disambiguation of possible field types implementation
+// summary: Implements heuristics that narrow ambiguous possible field types, such as resolving name types shared between address profiles and credit cards.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/disambiguate_possible_field_types.h"
 
 #include <stddef.h>

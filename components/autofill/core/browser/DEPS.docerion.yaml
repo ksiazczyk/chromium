@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the autofill browser directory
+summary: Lists the allowed include dependencies for the autofill core browser code, with per-file exceptions for tests and specific sources.

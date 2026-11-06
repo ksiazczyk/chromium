@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form structure sectioning utility header
+// summary: Declares AssignSections, which partitions form fields into sections that are filled separately, keeping credit card fields in one distinct section.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_STRUCTURE_SECTIONING_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_STRUCTURE_SECTIONING_UTIL_H_
 

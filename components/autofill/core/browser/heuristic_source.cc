@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heuristic source selection for field predictions
+// summary: Implements helpers that pick the active heuristic prediction source (regexes or machine learning) and map it to pattern files and log strings.
+// ---
+
 #include "components/autofill/core/browser/heuristic_source.h"
 
 #include <optional>

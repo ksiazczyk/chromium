@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM label extraction browser tests
+// summary: Data-driven browser tests that verify Autofill's field label extraction against HTML DOMs and expected JSON outputs.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

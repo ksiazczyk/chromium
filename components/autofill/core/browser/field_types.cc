@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field types implementation
+// summary: Implements field type helpers, including a name-to-FieldType mapping used for string conversion and exposed to Android WebView Autofill Service APIs.
+// ---
+
 #include "components/autofill/core/browser/field_types.h"
 
 #include <array>

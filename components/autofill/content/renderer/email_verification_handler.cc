@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification handler implementation
+// summary: Implements handling of email verification tokens, locating hidden token fields and storing or retrieving nonces for email fields.
+// ---
+
 #include "components/autofill/content/renderer/email_verification_handler.h"
 
 #include <optional>

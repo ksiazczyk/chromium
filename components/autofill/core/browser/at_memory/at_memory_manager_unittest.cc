@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AtMemoryManager
+// summary: Extensive unit tests covering AtMemoryManager query handling, suggestion updates, metrics, and persisted search state using mock services and test data.
+// ---
+
 #include "components/autofill/core/browser/at_memory/at_memory_manager.h"
 
 #include <memory>

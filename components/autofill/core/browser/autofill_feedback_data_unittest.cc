@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autofill feedback data
+// summary: Verifies the JSON structure of the feedback data generated for form structures and their fields.
+// ---
+
 #include "components/autofill/core/browser/autofill_feedback_data.h"
 
 #include "base/json/json_reader.h"

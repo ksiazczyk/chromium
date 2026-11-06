@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form autofill issues browser tests
+// summary: Browser tests for the form issue emission logic, covering label, duplicate id, aria-labelledby and autocomplete attribute errors.
+// ---
+
 #include "components/autofill/content/renderer/form_autofill_issues.h"
 
 #include "base/compiler_specific.h"

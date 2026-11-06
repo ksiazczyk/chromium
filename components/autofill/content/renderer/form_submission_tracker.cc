@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSubmissionTracker implementation
+// summary: Implements tracking of user form interactions and detection of form submissions, including metrics on submission sources and cached versus extracted forms.
+// ---
+
 #include "components/autofill/content/renderer/form_submission_tracker.h"
 
 #include <optional>

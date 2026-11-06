@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentIdentityCredentialDelegate class declaration
+// summary: Declares the per-WebContents delegate that supplies identity credential autofill suggestions through an injectable AutofillSource callback.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_CONTENT_IDENTITY_CREDENTIAL_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_CONTENT_IDENTITY_CREDENTIAL_DELEGATE_H_
 

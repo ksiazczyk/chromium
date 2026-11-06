@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form predictions tracker implementation
+// summary: Implements FormPredictionsTracker, tracking forms in parsing state and awaiting server responses, and running waiting callbacks on completion or timeout.
+// ---
+
 #include "components/autofill/core/browser/form_predictions_tracker.h"
 
 #include <algorithm>

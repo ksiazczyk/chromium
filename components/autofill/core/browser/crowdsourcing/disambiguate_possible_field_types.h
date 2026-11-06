@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disambiguation of possible field types header
+// summary: Declares DisambiguatePossibleFieldTypes, which applies prioritized heuristics to select the most probable types for fields with ambiguous possible types.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_DISAMBIGUATE_POSSIBLE_FIELD_TYPES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_CROWDSOURCING_DISAMBIGUATE_POSSIBLE_FIELD_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor form filling service implementation
+// summary: Implements the Actor-to-Autofill form filling service, generating and applying address and credit card suggestions while recording latency and outcome metrics.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_form_filling_service_impl.h"
 
 #include <algorithm>

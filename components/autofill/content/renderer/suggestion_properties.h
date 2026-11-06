@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill suggestion trigger source properties declarations
+// summary: Declares functions that define properties of autofill suggestions, such as filling on empty values, based on the suggestion trigger source.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_SUGGESTION_PROPERTIES_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_SUGGESTION_PROPERTIES_H_
 

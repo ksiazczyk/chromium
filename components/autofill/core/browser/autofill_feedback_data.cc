@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill feedback data collection
+// summary: Builds JSON-like logs of autofill field metadata and the last autofill event for feedback reports.
+// ---
+
 #include "components/autofill/core/browser/autofill_feedback_data.h"
 
 #include <string>

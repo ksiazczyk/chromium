@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the actor directory
+summary: Restricts includes in this directory to components/actor/core and components/critical_actions/core/browser.

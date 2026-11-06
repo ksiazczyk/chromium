@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill suggestion trigger source properties
+// summary: Implements predicates that define autofill suggestion behavior per trigger source, such as filling on empty or long values and caret requirements.
+// ---
+
 #include "components/autofill/content/renderer/suggestion_properties.h"
 
 #include "base/notreached.h"

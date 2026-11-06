@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill log router factory unit tests
+// summary: Unit tests verifying that the autofill internals LogRouter service is available in normal profiles but not in incognito.
+// ---
+
 #include "components/autofill/content/browser/autofill_log_router_factory.h"
 
 #include "components/autofill/core/browser/logging/log_receiver.h"

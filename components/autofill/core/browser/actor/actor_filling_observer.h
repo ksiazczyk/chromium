@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorFillingObserver class declaration
+// summary: Declares an observer that watches observed fields until they are autofilled and invokes a callback with filled entities or an error.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FILLING_OBSERVER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ACTOR_ACTOR_FILLING_OBSERVER_H_
 

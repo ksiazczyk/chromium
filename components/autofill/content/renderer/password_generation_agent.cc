@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation agent implementation
+// summary: Implements the renderer-side agent coordinating password generation between the browser and WebKit, including previews and confirmation field handling.
+// ---
+
 #include "components/autofill/content/renderer/password_generation_agent.h"
 
 #include <algorithm>

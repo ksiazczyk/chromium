@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disambiguation of possible field types unit tests
+// summary: Unit tests verifying that DisambiguatePossibleFieldTypes correctly resolves ambiguous name and other field types based on surrounding fields.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/disambiguate_possible_field_types.h"
 
 #include <algorithm>

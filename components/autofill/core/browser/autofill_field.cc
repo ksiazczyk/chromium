@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillField implementation
+// summary: Implements the AutofillField class, including field type prediction prioritization with precedence exceptions and field metadata handling.
+// ---
+
 #include "components/autofill/core/browser/autofill_field.h"
 
 #include <stddef.h>

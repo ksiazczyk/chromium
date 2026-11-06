@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAgent implementation
+// summary: Implements the renderer-side AutofillAgent that manages form detection, field events, and autofill communication between Blink and the browser.
+// ---
+
 #include "components/autofill/content/renderer/autofill_agent.h"
 
 #include <stddef.h>

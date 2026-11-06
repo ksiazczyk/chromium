@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill test form data utilities
+// summary: Provides a test helper that creates a FormData bound to a given RenderFrameHost, assigning host frames and renderer IDs.
+// ---
+
 #include "components/autofill/content/browser/autofill_test_util.h"
 
 #include <utility>

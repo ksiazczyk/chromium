@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSubmissionTracker class declaration
+// summary: Declares FormSubmissionTracker, a RenderFrameObserver that tracks form and control changes and notifies observers of probable and actual form submissions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_FORM_SUBMISSION_TRACKER_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_FORM_SUBMISSION_TRACKER_H_
 

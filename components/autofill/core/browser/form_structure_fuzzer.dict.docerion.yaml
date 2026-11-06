@@ -1,0 +1,4 @@
+# Docerion header of form_structure_fuzzer.dict.
+type: test
+title: Fuzzer dictionary for form structure attributes
+summary: Dictionary of autofill attribute, section and value tokens used by the form structure fuzzer to generate meaningful inputs.

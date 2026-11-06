@@ -1,0 +1,4 @@
+# Docerion header of autofill_agent.mojom.
+type: source
+title: AutofillAgent mojom interface
+summary: Defines the AutofillAgent Mojo interface through which the browser calls into the renderer to trigger form extraction, fill or preview fields, and send field type predictions.

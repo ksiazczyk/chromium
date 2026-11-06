@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillClientInjector RAII helper
+// summary: RAII template that installs test AutofillClients of a given type into all newly created WebContents before the production client attaches.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_BROWSER_TEST_AUTOFILL_CLIENT_INJECTOR_H_
 #define COMPONENTS_AUTOFILL_CONTENT_BROWSER_TEST_AUTOFILL_CLIENT_INJECTOR_H_
 

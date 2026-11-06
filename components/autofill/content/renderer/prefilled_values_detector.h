@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefilled values detector header
+// summary: Declares the check for prefilled username placeholder values and exposes the list of known placeholders, mainly for testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_PREFILLED_VALUES_DETECTOR_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_PREFILLED_VALUES_DETECTOR_H_
 

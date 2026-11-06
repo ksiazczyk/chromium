@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form qualifiers implementation
+// summary: Implements checks on FormData and FormStructure, including allowed URL schemes, parsing permissions, autofillability and search-page exclusion.
+// ---
+
 #include "components/autofill/core/browser/form_qualifiers.h"
 
 #include <stddef.h>

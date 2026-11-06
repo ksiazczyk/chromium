@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill renderer build targets
+summary: GN build file defining the renderer static library, test support, unit test and browser test targets with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript autofill tracker browser tests
+// summary: Browser tests verifying detection of custom JS autofill dropdowns, field modification tracking, and billing/shipping form interactions.
+// ---
+
 #include "components/autofill/content/renderer/javascript_autofill_tracker.h"
 
 #include <memory>

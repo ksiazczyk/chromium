@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI form rationalization implementation
+// summary: Implements rationalization of Autofill AI attribute type assignments, enforcing required field constraints and removing adjacent license plate number fields.
+// ---
+
 #include "components/autofill/core/browser/autofill_ai_form_rationalization.h"
 
 #include <stddef.h>

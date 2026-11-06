@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillAgent form interaction browser tests
+// summary: Browser tests checking how AutofillAgent reacts to field focus, clicks, and focus loss across platforms.
+// ---
+
 #include <string>
 
 #include "base/feature_list.h"

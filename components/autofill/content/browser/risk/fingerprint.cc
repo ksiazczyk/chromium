@@ -10,6 +10,12 @@
 // data.  Step (1) requires waiting on several asynchronous callbacks, which are
 // managed by the FingerprintDataLoader class.
 
+// ---docerion
+// type: source
+// title: Autofill risk fingerprint implementation
+// summary: Implements fingerprint generation for the Google Wallet risk engine by asynchronously gathering machine characteristics and writing them into a fingerprint protocol buffer.
+// ---
+
 #include "components/autofill/content/browser/risk/fingerprint.h"
 
 #include <utility>

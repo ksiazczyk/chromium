@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillField class declaration
+// summary: Declares the AutofillField class representing a form field, including sections, prediction sources, and field type prediction data.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_FIELD_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_AUTOFILL_FIELD_H_
 

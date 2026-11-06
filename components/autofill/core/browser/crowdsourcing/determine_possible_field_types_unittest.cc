@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Determine possible field types unit tests
+// summary: Unit tests for determining the possible field types of Autofill form fields, covering profiles, credit cards, one-time tokens and field formats.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/determine_possible_field_types.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentAutofillDriver unit tests
+// summary: Unit tests for ContentAutofillDriver covering driver creation, navigation, prerendering, and Mojo messaging using test injectors and mocks.
+// ---
+
 #include "components/autofill/content/browser/content_autofill_driver.h"
 
 #include <stdint.h>

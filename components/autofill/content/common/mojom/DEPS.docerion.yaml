@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill mojom
+summary: Grants the autofill mojom directory include access to the ipc directory in Chromium's dependency checks.

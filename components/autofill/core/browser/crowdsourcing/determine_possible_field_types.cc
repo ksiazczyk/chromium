@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Determine possible field types implementation
+// summary: Determines which field types match submitted field values against stored profiles, credit cards, entities and loyalty cards for upload votes.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/determine_possible_field_types.h"
 
 #include <stddef.h>

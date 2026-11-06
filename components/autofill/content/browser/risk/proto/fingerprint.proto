@@ -5,6 +5,12 @@
 // This file contains the definition of protocol buffers for native browser
 // fingerprinting.
 
+// ---docerion
+// type: source
+// title: Autofill risk fingerprint protocol buffer definitions
+// summary: Defines proto2 messages for native browser fingerprinting in the autofill risk module, covering machine characteristics like plugins, CPU, GPU, fonts, screen data and transient state.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

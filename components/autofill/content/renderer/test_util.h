@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill renderer test utility declarations
+// summary: Declares test helpers for finding DOM elements, form controls and iframes by id and for matching form control element properties.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CONTENT_RENDERER_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CONTENT_RENDERER_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for accessibility suggestion availability
+// summary: Verifies that setting suggestion availability updates the accessibility state of input and select elements.
+// ---
+
 #include "components/autofill/content/renderer/a11y_util.h"
 
 #include "components/autofill/core/common/mojom/autofill_types.mojom-shared.h"

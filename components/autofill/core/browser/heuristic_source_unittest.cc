@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heuristic source unit tests
+// summary: Parameterized tests verifying that the active heuristic source depends on the Autofill model predictions feature flags.
+// ---
+
 #include "components/autofill/core/browser/heuristic_source.h"
 
 #include "base/strings/to_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Votes uploader unit tests
+// summary: Unit tests for VotesUploader covering vote uploads, SMS OTP retrieval, frame lifecycle changes, and metrics using a mock crowdsourcing manager.
+// ---
+
 #include "components/autofill/core/browser/crowdsourcing/votes_uploader.h"
 
 #include <memory>

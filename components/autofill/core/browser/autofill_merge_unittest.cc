@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill merge unit tests
+// summary: Data-driven unit tests that verify merging of address profiles during form data import using input files from the autofill test data directory.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

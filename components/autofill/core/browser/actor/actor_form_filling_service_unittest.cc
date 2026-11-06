@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor form filling service unit tests
+// summary: Unit tests for the actor form filling service covering suggestion generation, filling, previews, icons, and metrics behavior.
+// ---
+
 #include "components/autofill/core/browser/actor/actor_form_filling_service.h"
 
 #include <string_view>
