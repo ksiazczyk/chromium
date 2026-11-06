@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_service_factory.mm.
+type: source
+title: HTTPS upgrade service factory implementation
+summary: Implements HttpsUpgradeServiceFactory, building a per-profile HttpsUpgradeServiceImpl that depends on the HostContentSettingsMap.

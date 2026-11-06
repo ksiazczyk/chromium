@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for HTTPS upgrades model
+summary: Defines GN source sets building the HTTPS upgrade model code, its unit tests and Earl Grey test support.

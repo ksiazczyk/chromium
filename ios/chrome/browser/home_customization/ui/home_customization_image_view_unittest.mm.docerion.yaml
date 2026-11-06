@@ -1,0 +1,4 @@
+# Docerion header of home_customization_image_view_unittest.mm.
+type: test
+title: Home customization image view unit tests
+summary: Tests the UpdateDesiredFrame logic for rotating and shrinking image frames to fit within image bounds.

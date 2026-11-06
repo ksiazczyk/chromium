@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Home customization coordinator build targets
+summary: Defines the source set, sources, and dependencies for the home customization coordinator in the GN build system.

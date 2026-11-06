@@ -1,0 +1,4 @@
+# Docerion header of home_background_image_service_unittest.mm.
+type: test
+title: Home background image service unit tests
+summary: Unit tests for HomeBackgroundImageService covering successful and failed collection image fetches using a test URL loader factory and mock responses.

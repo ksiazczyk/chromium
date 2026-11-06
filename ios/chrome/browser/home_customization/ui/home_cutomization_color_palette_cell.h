@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization color palette cell header
+// summary: Declares a collection view cell that displays a single background color palette option for background customization.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUTOMIZATION_COLOR_PALETTE_CELL_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUTOMIZATION_COLOR_PALETTE_CELL_H_
 

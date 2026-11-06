@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background picker presentation delegate protocol
+// summary: Declares the protocol for presenting, dismissing, and cancelling the background picker and scheduling a photo-not-synced snackbar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_BACKGROUND_PICKER_PRESENTATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_BACKGROUND_PICKER_PRESENTATION_DELEGATE_H_
 

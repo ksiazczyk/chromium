@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the home customization UI source set
+summary: Defines the source set, source files and dependencies for the iOS home customization UI module.

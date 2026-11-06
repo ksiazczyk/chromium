@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home Customization Ephemeral Theme Promo Display Handler interface
+// summary: Declares a StandardPromoDisplayHandler that the Promos Manager calls to show the ephemeral theme promo for home customization on the new tab page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_HOME_CUSTOMIZATION_EPHEMERAL_THEME_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_HOME_CUSTOMIZATION_EPHEMERAL_THEME_PROMO_DISPLAY_HANDLER_H_
 

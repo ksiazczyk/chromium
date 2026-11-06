@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralThemeDataManager class header
+// summary: Declares the manager that downloads, caches on disk, and cleans up New Tab Page ephemeral theme assets stored in preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_EPHEMERAL_THEME_DATA_MANAGER_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_EPHEMERAL_THEME_DATA_MANAGER_H_
 

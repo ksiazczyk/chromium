@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for incognito interstitial resources
+summary: GN build rule that packages the incognito interstitial asset catalog images into the iOS app bundle.

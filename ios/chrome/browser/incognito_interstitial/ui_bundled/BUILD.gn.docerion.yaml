@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the incognito interstitial UI
+summary: Defines GN source sets for the constants, view controller UI, coordinator and Earl Grey tests of the incognito interstitial with their dependencies.

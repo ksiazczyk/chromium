@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_preset_gallery_picker_view_controller.mm.
+type: source
+title: Preset background gallery picker view controller implementation
+summary: Implements the preset background gallery with collection sections, skeleton loading animation, and background selection handling.

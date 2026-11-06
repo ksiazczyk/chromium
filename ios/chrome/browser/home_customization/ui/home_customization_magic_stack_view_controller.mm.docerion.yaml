@@ -1,0 +1,4 @@
+# Docerion header of home_customization_magic_stack_view_controller.mm.
+type: source
+title: Home customization magic stack view controller implementation
+summary: Implements the Magic Stack page with a collection view of toggle cells and a section header.

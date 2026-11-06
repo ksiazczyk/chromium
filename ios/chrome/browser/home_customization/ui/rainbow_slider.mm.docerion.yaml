@@ -1,0 +1,4 @@
+# Docerion header of rainbow_slider.mm.
+type: source
+title: RainbowSlider implementation
+summary: Implements the rainbow gradient track and custom thumb rendering that maps slider positions to hue values.

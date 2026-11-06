@@ -1,0 +1,4 @@
+# Docerion header of background_customization_configuration_item.mm.
+type: source
+title: Background customization configuration item implementation
+summary: Implements the background configuration item, building configuration identifiers and thumbnail URLs for each background style.

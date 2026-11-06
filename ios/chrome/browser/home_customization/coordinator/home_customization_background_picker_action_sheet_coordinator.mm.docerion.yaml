@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_picker_action_sheet_coordinator.mm.
+type: source
+title: Home customization background picker action sheet coordinator implementation
+summary: Implements the action sheet coordinator that presents background color, preset gallery, and photo picker flows and records user metrics for background choices.

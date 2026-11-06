@@ -1,0 +1,4 @@
+# Docerion header of home_customization_coordinator_unittest.mm.
+type: test
+title: Home customization coordinator unit tests
+summary: Unit tests for the home customization coordinator using a test profile, mock feature engagement tracker, and mocked snackbar command handling.

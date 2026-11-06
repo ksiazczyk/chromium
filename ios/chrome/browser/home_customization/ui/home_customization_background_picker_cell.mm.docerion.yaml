@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_picker_cell.mm.
+type: source
+title: Background picker cell for home customization
+summary: Implements a collection view cell with a plus icon that opens background picker options on tap and records a usage metric.

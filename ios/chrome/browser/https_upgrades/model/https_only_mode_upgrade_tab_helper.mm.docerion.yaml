@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_upgrade_tab_helper.mm.
+type: source
+title: HttpsOnlyModeUpgradeTabHelper implementation
+summary: Implements HTTPS upgrade state handling, load timeouts, fallback to HTTP, prerender cancellation and UMA metrics.

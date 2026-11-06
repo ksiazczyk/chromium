@@ -1,0 +1,4 @@
+# Docerion header of incognito_reauth_mediator.mm.
+type: source
+title: Incognito reauth mediator implementation
+summary: Implements the mediator that translates incognito lock state changes into consumer notifications with button labels.

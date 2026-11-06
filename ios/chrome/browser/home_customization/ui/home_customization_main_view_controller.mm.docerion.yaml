@@ -1,0 +1,4 @@
+# Docerion header of home_customization_main_view_controller.mm.
+type: source
+title: Home customization main view controller implementation
+summary: Implements the main Home customization menu page with collection view sections, toggle and background cells, thumbnail caching, and image load failure snackbars.

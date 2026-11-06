@@ -1,0 +1,4 @@
+# Docerion header of incognito_reauth_mediator_unittest.mm.
+type: test
+title: Incognito reauth mediator unit tests
+summary: Unit tests verifying the mediator notifies its consumer correctly for none, soft lock and reauth states.

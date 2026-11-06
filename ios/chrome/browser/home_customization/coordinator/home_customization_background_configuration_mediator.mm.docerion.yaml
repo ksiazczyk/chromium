@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_configuration_mediator.mm.
+type: source
+title: Background configuration mediator implementation
+summary: Implements loading background configurations, fetching gallery images, and saving or cancelling theme selections.

@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_app_interface_stub.mm.
+type: test
+title: HttpsUpgradeAppInterface Earl Grey stub
+summary: Stub app-side registration of HttpsUpgradeAppInterface used when running Earl Grey tests.

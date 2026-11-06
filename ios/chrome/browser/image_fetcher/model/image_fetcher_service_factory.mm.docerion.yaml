@@ -1,0 +1,4 @@
+# Docerion header of image_fetcher_service_factory.mm.
+type: source
+title: ImageFetcherServiceFactory implementation
+summary: Builds per-profile ImageFetcherService instances using a LevelDB metadata store, disk data store, and image cache.

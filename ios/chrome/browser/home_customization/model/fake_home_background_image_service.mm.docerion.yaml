@@ -1,0 +1,4 @@
+# Docerion header of fake_home_background_image_service.mm.
+type: source
+title: FakeHomeBackgroundImageService test fake implementation
+summary: Implements the fake background image service by returning the configured collection and default collection data.

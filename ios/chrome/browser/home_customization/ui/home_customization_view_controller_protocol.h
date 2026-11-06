@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization view controller protocol
+// summary: Defines a protocol for view controllers in the customization menu, covering collection view, data source, sections, cells, and dismissal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_VIEW_CONTROLLER_PROTOCOL_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_VIEW_CONTROLLER_PROTOCOL_H_
 

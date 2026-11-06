@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito interstitial view controller delegate protocol
+// summary: Declares the delegate protocol for the incognito interstitial view controller, including the callback invoked when the user taps the Cancel button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INCOGNITO_INTERSTITIAL_UI_BUNDLED_INCOGNITO_INTERSTITIAL_VIEW_CONTROLLER_DELEGATE_H_
 

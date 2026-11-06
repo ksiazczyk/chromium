@@ -1,0 +1,4 @@
+# Docerion header of home_customization_metrics_recorder.mm.
+type: source
+title: HomeCustomizationMetricsRecorder class implementation
+summary: Implements the metrics recorder, mapping each customization toggle type to its IOS.HomeCustomization user action name.

@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_color_picker_view_controller.mm.
+type: source
+title: Home customization background color picker view controller implementation
+summary: Implements the background color picker with color palette cells, a custom color cell, an animated rainbow slider footer, and user metrics logging.

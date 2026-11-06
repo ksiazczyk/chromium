@@ -1,0 +1,4 @@
+# Docerion header of home_background_image_service_factory.mm.
+type: source
+title: Home background image service factory implementation
+summary: Builds a HomeBackgroundImageService for each profile, wiring it to the profile's NtpBackgroundService and declaring that dependency.

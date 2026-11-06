@@ -1,0 +1,4 @@
+# Docerion header of incognito_interstitial_constants.mm.
+type: source
+title: Incognito interstitial constants implementation
+summary: Defines the accessibility identifier strings and histogram name constants declared in the incognito interstitial constants header.

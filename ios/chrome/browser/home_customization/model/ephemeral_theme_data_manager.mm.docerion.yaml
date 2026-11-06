@@ -1,0 +1,4 @@
+# Docerion header of ephemeral_theme_data_manager.mm.
+type: source
+title: EphemeralThemeDataManager implementation
+summary: Implements parallel asset downloads, file persistence, JSON color mapping parsing, and preference cleanup for the ephemeral theme promo.

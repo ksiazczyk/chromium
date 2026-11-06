@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the incognito interstitial UI
+summary: Restricts includes in this directory to the incognito reauth, NTP and URL loading model paths.

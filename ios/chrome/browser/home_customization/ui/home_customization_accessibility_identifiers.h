@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home customization accessibility identifiers
+// summary: Declares accessibility identifier constants for the customization views, pickers, buttons and slider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_ACCESSIBILITY_IDENTIFIERS_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_ACCESSIBILITY_IDENTIFIERS_H_
 

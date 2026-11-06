@@ -1,0 +1,4 @@
+# Docerion header of user_uploaded_image_manager_factory.mm.
+type: source
+title: User uploaded image manager factory implementation
+summary: Builds per-profile UserUploadedImageManager instances using the profile state path and a sequenced background task runner.

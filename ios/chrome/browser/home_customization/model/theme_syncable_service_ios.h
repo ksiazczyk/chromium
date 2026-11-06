@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS theme syncable service header
+// summary: Declares a SyncableService for THEMES_IOS that bridges the Chrome sync engine and the home background customization service through a delegate interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_THEME_SYNCABLE_SERVICE_IOS_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_THEME_SYNCABLE_SERVICE_IOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of incognito_interstitial_coordinator.mm.
+type: source
+title: Incognito interstitial coordinator implementation
+summary: Presents the interstitial, handles open in incognito, open in Chrome, cancel and learn more actions, and logs UMA on dismissal.

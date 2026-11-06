@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RainbowSlider class header
+// summary: Declares RainbowSlider, a UISlider subclass that displays a rainbow gradient for selecting hue values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_RAINBOW_SLIDER_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_RAINBOW_SLIDER_H_
 

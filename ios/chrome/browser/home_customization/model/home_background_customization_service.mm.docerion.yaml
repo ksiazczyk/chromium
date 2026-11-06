@@ -1,0 +1,4 @@
+# Docerion header of home_background_customization_service.mm.
+type: source
+title: Home background customization service implementation
+summary: Implements the profile service managing NTP background and theme customization, including legacy pref migration, ephemeral themes, and sync integration.

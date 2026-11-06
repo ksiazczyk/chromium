@@ -1,0 +1,4 @@
+# Docerion header of typed_navigation_upgrade_tab_helper.mm.
+type: source
+title: Typed navigation upgrade tab helper implementation
+summary: Implements omnibox HTTPS upgrade fallback and timeout logic, recording UMA metrics for upgrade events.

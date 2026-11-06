@@ -1,0 +1,4 @@
+# Docerion header of user_uploaded_image_manager.mm.
+type: source
+title: User uploaded image manager implementation
+summary: Implements saving uploaded images as JPEG files with UUID-based names, loading with optional downsampling, and deleting unused images with error metrics.

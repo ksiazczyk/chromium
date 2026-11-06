@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for home customization model
+summary: Dependency allowlist specifying which Chromium directories this model folder may include headers from.

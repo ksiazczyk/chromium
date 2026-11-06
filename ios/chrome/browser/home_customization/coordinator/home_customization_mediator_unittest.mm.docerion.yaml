@@ -1,0 +1,4 @@
+# Docerion header of home_customization_mediator_unittest.mm.
+type: test
+title: Home Customization Mediator unit tests
+summary: Unit tests verifying that the mediator populates main page toggle data for its consumer based on the profile's preferences, using a fake consumer.

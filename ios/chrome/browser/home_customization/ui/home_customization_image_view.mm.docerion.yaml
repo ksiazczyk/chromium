@@ -1,0 +1,4 @@
+# Docerion header of home_customization_image_view.mm.
+type: source
+title: Home customization image view implementation
+summary: Implements image display with frame rotation, scaling to image bounds and Lottie animated backgrounds.

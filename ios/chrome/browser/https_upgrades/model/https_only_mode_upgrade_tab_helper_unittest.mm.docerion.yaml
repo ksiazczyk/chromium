@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_upgrade_tab_helper_unittest.mm.
+type: test
+title: HttpsOnlyModeUpgradeTabHelper unit tests
+summary: Parameterized unit tests exercising the tab helper across HTTPS-Only Mode and HTTPS-Upgrades feature combinations.

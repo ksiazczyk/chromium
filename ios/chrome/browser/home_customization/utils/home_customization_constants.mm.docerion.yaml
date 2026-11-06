@@ -1,0 +1,4 @@
+# Docerion header of home_customization_constants.mm.
+type: source
+title: Home customization menu constants definitions
+summary: Defines the string, size, and URL constants used across the home customization menu, including section and accessibility identifiers.

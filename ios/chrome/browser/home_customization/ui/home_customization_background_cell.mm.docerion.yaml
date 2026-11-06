@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_cell.mm.
+type: source
+title: Home customization background cell implementation
+summary: Implements the collection view cell that previews a customizable NTP background, including fake omnibox, magic stack, feeds views, search engine logo, and a new feature badge.

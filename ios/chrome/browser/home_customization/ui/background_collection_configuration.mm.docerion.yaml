@@ -1,0 +1,4 @@
+# Docerion header of background_collection_configuration.mm.
+type: source
+title: Background collection configuration implementation
+summary: Implements the BackgroundCollectionConfiguration class, initializing its configuration dictionary and ordering array.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for https_upgrades model
+summary: Delegates ownership review to the OWNERS file of ios/components/security_interstitials.

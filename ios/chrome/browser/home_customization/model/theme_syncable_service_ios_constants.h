@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme sync UMA histogram names and enums
+// summary: Defines UMA histogram names and persisted enums for the initial sync state, remote theme actions, and stop actions of iOS theme sync.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_THEME_SYNCABLE_SERVICE_IOS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_THEME_SYNCABLE_SERVICE_IOS_CONSTANTS_H_
 

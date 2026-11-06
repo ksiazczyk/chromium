@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home Customization Navigation Delegate protocol
+// summary: Declares a delegate protocol for navigating within the customization menu, presenting and dismissing menu pages and opening URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_HOME_CUSTOMIZATION_NAVIGATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_COORDINATOR_HOME_CUSTOMIZATION_NAVIGATION_DELEGATE_H_
 

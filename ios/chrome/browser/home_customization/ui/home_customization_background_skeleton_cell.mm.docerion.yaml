@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_skeleton_cell.mm.
+type: source
+title: Background skeleton loading cell implementation
+summary: Implements the placeholder skeleton cell with grey themed content displayed during loading.

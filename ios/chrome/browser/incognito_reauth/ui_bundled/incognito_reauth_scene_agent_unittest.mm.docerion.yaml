@@ -1,0 +1,4 @@
+# Docerion header of incognito_reauth_scene_agent_unittest.mm.
+type: test
+title: Incognito reauth scene agent unit tests
+summary: Unit tests for the incognito reauth scene agent covering authentication, soft lock, and pref behavior using fake reauth services and OCMock.

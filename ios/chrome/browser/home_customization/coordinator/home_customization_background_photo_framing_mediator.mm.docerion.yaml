@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_photo_framing_mediator.mm.
+type: source
+title: Background photo framing mediator implementation
+summary: Implements storing framed user-uploaded images, applying them as the background, and recording image size metrics.

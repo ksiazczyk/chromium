@@ -1,0 +1,4 @@
+# Docerion header of home_customization_header_view.mm.
+type: source
+title: Home customization header view implementation
+summary: Implements the header view that shows page-specific text in the home customization menu.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine logo mediator provider protocol
+// summary: Declares a protocol that supplies SearchEngineLogoMediator instances by key for use in the Home customization UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_SEARCH_ENGINE_LOGO_MEDIATOR_PROVIDER_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_UI_HOME_CUSTOMIZATION_SEARCH_ENGINE_LOGO_MEDIATOR_PROVIDER_H_
 

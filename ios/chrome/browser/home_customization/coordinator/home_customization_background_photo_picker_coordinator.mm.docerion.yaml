@@ -1,0 +1,4 @@
+# Docerion header of home_customization_background_photo_picker_coordinator.mm.
+type: source
+title: Home customization background photo picker coordinator implementation
+summary: Coordinator that presents the iOS photo library picker and handles selected images for user-uploaded home backgrounds, with test hooks and a framing flow.

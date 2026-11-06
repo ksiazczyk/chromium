@@ -1,0 +1,4 @@
+# Docerion header of incognito_reauth_view_label.mm.
+type: source
+title: Incognito reauth view label implementation
+summary: Implements the label subclass by notifying its owner from layoutSubviews so the view can react to label size changes.

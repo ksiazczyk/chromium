@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserUploadedImageManager test fake header
+// summary: Declares an in-memory fake of UserUploadedImageManager that stores images without touching disk.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_FAKE_USER_UPLOADED_IMAGE_MANAGER_H_
 #define IOS_CHROME_BROWSER_HOME_CUSTOMIZATION_MODEL_FAKE_USER_UPLOADED_IMAGE_MANAGER_H_
 

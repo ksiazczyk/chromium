@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS upgrade Earl Grey test base class
+// summary: Declares a base ChromeTestCase for HTTPS upgrade tests, providing faux-HTTPS, bad-HTTPS and slow embedded test servers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HTTPS_UPGRADES_MODEL_HTTPS_UPGRADE_TEST_HELPER_H_
 #define IOS_CHROME_BROWSER_HTTPS_UPGRADES_MODEL_HTTPS_UPGRADE_TEST_HELPER_H_
 

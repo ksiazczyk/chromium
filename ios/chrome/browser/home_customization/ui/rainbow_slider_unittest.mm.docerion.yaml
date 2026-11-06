@@ -1,0 +1,4 @@
+# Docerion header of rainbow_slider_unittest.mm.
+type: test
+title: RainbowSlider unit tests
+summary: Unit tests verifying tap-based value updates, hue mapping, invalid input handling, and thumb image refresh for RainbowSlider.

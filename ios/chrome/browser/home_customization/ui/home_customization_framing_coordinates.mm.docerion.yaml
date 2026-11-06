@@ -1,0 +1,4 @@
+# Docerion header of home_customization_framing_coordinates.mm.
+type: source
+title: Background framing coordinates implementation
+summary: Implements serialization of framing coordinates to and from base dictionary values and copying of the model.

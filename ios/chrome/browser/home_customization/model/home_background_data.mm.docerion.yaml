@@ -1,0 +1,4 @@
+# Docerion header of home_background_data.mm.
+type: source
+title: Home background data serialization implementation
+summary: Implements conversion of framing coordinates and user-uploaded background data to and from dictionaries.

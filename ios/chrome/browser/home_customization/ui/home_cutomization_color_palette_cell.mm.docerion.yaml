@@ -1,0 +1,4 @@
+# Docerion header of home_cutomization_color_palette_cell.mm.
+type: source
+title: Home customization color palette cell implementation
+summary: Implements the color palette cell, laying out light, dark, and medium tone swatches with a highlight border.

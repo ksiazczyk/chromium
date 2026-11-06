@@ -1,0 +1,4 @@
+# Docerion header of home_customization_collection_configurator.mm.
+type: source
+title: Home customization collection view configurator implementation
+summary: Implements collection view setup with a diffable data source, vertical and horizontal layout sections, and navigation bar configuration.
