@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for ARC changes
+# summary: Runs canned lint checks on changes submitted to the ARC directory.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeTetherDisconnector test double
+// summary: Test double for TetherDisconnector that records disconnections and can simulate errors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_TETHER_DISCONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_TETHER_DISCONNECTOR_H_
 

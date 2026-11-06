@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC feature flag definitions
+// summary: Defines base::Feature entries and parameters controlling ARC startup, VM and runtime behavior.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_features.h"
 
 #include "base/feature_list.h"

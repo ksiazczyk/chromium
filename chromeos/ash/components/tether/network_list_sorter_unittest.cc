@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkListSorter unit tests
+// summary: Unit tests covering the Tether network list sort order across connection state, signal strength, battery percentage, prior connections, name, carrier, and GUID.
+// ---
+
 #include "chromeos/ash/components/tether/network_list_sorter.h"
 
 #include <array>

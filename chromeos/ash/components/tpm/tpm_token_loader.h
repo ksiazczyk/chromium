@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPMTokenLoader class header for TPM system token loading
+// summary: Declares the ash::TPMTokenLoader class that loads the TPM-backed system token when a user logs in, tracks token status, and notifies observers when the token is ready.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TPM_TPM_TOKEN_LOADER_H_
 #define CHROMEOS_ASH_COMPONENTS_TPM_TPM_TOKEN_LOADER_H_
 

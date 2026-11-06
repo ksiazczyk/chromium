@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherConnector interface
+// summary: Interface for connecting to a tether network, starting a ConnectTetheringOperation and connecting to the associated Wi-Fi network once the tether host responds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_CONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_CONNECTOR_H_
 

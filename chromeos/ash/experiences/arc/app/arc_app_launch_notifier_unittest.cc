@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app launch notifier unit tests
+// summary: Unit tests that register a test observer and verify the notifier dispatches app launch requests with the expected identifier.
+// ---
+
 #include "chromeos/ash/experiences/arc/app/arc_app_launch_notifier.h"
 
 #include "base/scoped_observation.h"

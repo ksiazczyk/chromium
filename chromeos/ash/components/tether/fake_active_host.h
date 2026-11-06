@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ActiveHost test double header
+// summary: Declares FakeActiveHost, a test double for ActiveHost that records and reports active host status, device ID, and tether and Wi-Fi network GUIDs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_ACTIVE_HOST_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_ACTIVE_HOST_H_
 

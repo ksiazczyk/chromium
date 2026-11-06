@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timezone unit tests
+// summary: Tests the timezone provider and request retry logic against a fake timezone API endpoint with scripted responses.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

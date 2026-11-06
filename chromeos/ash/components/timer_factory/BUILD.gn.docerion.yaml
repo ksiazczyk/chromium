@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the timer_factory component
+summary: Defines the timer_factory source set and the test_support static library with their sources and dependencies.

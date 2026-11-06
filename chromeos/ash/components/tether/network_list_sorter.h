@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListSorter
+// summary: Declares a sorter that orders Tether networks for the network configuration UI based on connection state, signal strength, and other network properties.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_LIST_SORTER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_LIST_SORTER_H_
 

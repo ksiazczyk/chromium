@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTetherAvailabilityOperation implementation
+// summary: Implements a fake TetherAvailabilityOperation whose initializer stores pending callbacks so tests can send scan results manually.
+// ---
+
 #include "chromeos/ash/components/tether/fake_tether_availability_operation.h"
 
 #include "base/functional/callback_helpers.h"

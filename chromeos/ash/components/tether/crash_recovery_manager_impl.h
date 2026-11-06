@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashRecoveryManagerImpl class declaration
+// summary: Declares the concrete CrashRecoveryManager with a factory that creates instances from network state, active host, and host scan cache dependencies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_CRASH_RECOVERY_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_CRASH_RECOVERY_MANAGER_IMPL_H_
 

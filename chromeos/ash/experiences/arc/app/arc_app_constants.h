@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app constants header
+// summary: Defines constants for the Play Store package and activity names plus Chrome OS app IDs of common Android apps such as Gmail, Maps, Photos, and YouTube.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_APP_ARC_APP_CONSTANTS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_APP_ARC_APP_CONSTANTS_H_
 

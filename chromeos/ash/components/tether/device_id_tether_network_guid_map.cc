@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceIdTetherNetworkGuidMap implementation
+// summary: Implements the mapping between device IDs and tether network GUIDs, currently stubbed to return the same value in both directions.
+// ---
+
 #include "chromeos/ash/components/tether/device_id_tether_network_guid_map.h"
 
 namespace ash {

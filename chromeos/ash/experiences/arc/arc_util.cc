@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC utility implementation
+// summary: Implements ARC utility functions for Chrome OS Ash, covering ARC availability flags, Upstart job configuration, ureadahead modes, and ARCVM data migration support.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_util.h"
 
 #include <algorithm>

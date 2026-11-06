@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashRecoveryManagerImpl unit tests
+// summary: Unit tests verifying restoration of pre-crash Tether state across disconnected, connecting, and connected scenarios using fakes and shill network configurations.
+// ---
+
 #include "chromeos/ash/components/tether/crash_recovery_manager_impl.h"
 
 #include <memory>

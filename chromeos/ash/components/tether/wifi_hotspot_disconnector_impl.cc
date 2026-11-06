@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiHotspotDisconnectorImpl implementation
+// summary: Implements Wi-Fi hotspot disconnection, storing the disconnecting network path in prefs so leftover configurations are cleaned up after aborted sessions.
+// ---
+
 #include "chromeos/ash/components/tether/wifi_hotspot_disconnector_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostConnection implementation
+// summary: Implements a fake tether host connection and its factory, recording sent messages and simulating connection attempts for tests.
+// ---
+
 #include "chromeos/ash/components/tether/fake_host_connection.h"
 
 #include "base/functional/callback_helpers.h"

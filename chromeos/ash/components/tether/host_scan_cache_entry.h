@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanCacheEntry class
+// summary: Defines HostScanCacheEntry, a builder-constructed record of a scanned Tether host's GUID, name, carrier, battery, signal strength, and setup state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_CACHE_ENTRY_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_CACHE_ENTRY_H_
 

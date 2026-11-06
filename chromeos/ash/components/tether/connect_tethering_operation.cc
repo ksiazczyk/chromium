@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectTetheringOperation implementation
+// summary: Implements the operation that requests a tether host to share its Internet connection, handling response timeouts and success or error codes for hotspot setup.
+// ---
+
 #include "chromeos/ash/components/tether/connect_tethering_operation.h"
 
 #include "base/memory/ptr_util.h"

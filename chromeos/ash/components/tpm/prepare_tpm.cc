@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM preparation implementation
+// summary: Prepares the TPM by querying tpm_manager status and then clearing the stored owner password or taking ownership, reporting completion via callback.
+// ---
+
 #include "chromeos/ash/components/tpm/prepare_tpm.h"
 
 #include <utility>

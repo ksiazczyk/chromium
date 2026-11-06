@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether network disconnection handler class declaration
+// summary: Declares TetherNetworkDisconnectionHandler, a NetworkStateHandlerObserver that reacts to tether Wi-Fi disconnections and updates tether metadata accordingly.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_NETWORK_DISCONNECTION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_NETWORK_DISCONNECTION_HANDLER_H_
 

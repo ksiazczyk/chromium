@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active host to network state relay implementation
+// summary: Implements the observer that relays active host status changes to the ChromeOS networking stack via NetworkStateHandler.
+// ---
+
 #include "chromeos/ash/components/tether/active_host_network_state_updater.h"
 
 #include "base/memory/ptr_util.h"

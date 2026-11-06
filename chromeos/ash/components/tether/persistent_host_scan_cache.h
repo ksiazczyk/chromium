@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentHostScanCache interface
+// summary: Declares the PersistentHostScanCache interface, a HostScanCache variant that stores tether scan results in persistent user prefs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_PERSISTENT_HOST_SCAN_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_PERSISTENT_HOST_SCAN_CACHE_H_
 

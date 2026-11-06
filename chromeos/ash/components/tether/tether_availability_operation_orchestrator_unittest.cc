@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherAvailabilityOperationOrchestrator unit tests
+// summary: Unit tests for the tether availability orchestrator, verifying that devices with disabled GMS Core notifications are reported and final scan results are signaled.
+// ---
+
 #include "chromeos/ash/components/tether/tether_availability_operation_orchestrator.h"
 
 #include "base/test/task_environment.h"

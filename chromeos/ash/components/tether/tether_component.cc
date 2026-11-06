@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherComponent base class implementation
+// summary: Implements the TetherComponent base class, managing observers and status transitions and notifying observers when shutdown completes.
+// ---
+
 #include "chromeos/ash/components/tether/tether_component.h"
 
 namespace ash {

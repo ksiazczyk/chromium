@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureChannelTetherAvailabilityOperationOrchestrator unit tests
+// summary: Unit tests for the Secure Channel tether availability orchestrator, verifying host fetching and scan result notifications using fake dependencies.
+// ---
+
 #include "chromeos/ash/components/tether/secure_channel_tether_availability_operation_orchestrator.h"
 
 #include <algorithm>

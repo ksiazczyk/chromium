@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host connection interface and factory
+// summary: Defines the HostConnection class and factory for creating prioritized connections to tether hosts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_CONNECTION_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_CONNECTION_H_
 

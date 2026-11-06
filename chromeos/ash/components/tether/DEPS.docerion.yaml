@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for tether component dependencies
+summary: Specifies the allowed include paths for the tether component, with extra rules for unit tests.

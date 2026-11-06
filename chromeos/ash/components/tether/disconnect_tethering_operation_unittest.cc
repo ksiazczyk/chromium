@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisconnectTetheringOperation unit tests
+// summary: Unit tests covering success and failure paths of the disconnect operation, including observer notifications and the request duration histogram.
+// ---
+
 #include "chromeos/ash/components/tether/disconnect_tethering_operation.h"
 
 #include <memory>

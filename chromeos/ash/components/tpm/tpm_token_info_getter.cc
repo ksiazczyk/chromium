@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM token info getter implementation
+// summary: Implements fetching user or system TPM token info from cryptohome with exponential backoff retries and optional NSS slots software fallback.
+// ---
+
 #include "chromeos/ash/components/tpm/tpm_token_info_getter.h"
 
 #include <stdint.h>

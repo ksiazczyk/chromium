@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM token info getter unit tests
+// summary: Unit tests for TPMTokenInfoGetter using fake cryptohome and tpm_manager clients plus a fake task runner to verify retry delays and token info results.
+// ---
+
 #include "chromeos/ash/components/tpm/tpm_token_info_getter.h"
 
 #include <stdint.h>

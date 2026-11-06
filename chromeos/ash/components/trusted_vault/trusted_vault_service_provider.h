@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultServiceProvider interface header
+// summary: Declares the abstract TrustedVaultServiceProvider interface that gives ChromeOS callers access to a user's TrustedVaultService without depending on the Chrome-side factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_SERVICE_PROVIDER_H_
 

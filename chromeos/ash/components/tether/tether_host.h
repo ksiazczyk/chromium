@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHost struct header
+// summary: Defines the TetherHost struct, which wraps either a multidevice RemoteDeviceRef or a Nearby PresenceDevice representing a tether host device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_HOST_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_HOST_H_
 

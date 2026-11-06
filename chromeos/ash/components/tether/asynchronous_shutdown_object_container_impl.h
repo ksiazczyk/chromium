@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsynchronousShutdownObjectContainerImpl class declaration
+// summary: Declares the concrete asynchronous shutdown container with its factory and observer hooks, coordinating shutdown of tether objects with pending asynchronous operations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_ASYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_ASYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_IMPL_H_
 

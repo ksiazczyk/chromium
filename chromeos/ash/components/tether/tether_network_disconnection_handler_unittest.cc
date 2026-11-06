@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tether network disconnection handler unit tests
+// summary: Unit tests for TetherNetworkDisconnectionHandler using fake dependencies to verify disconnection handling and session completion logging.
+// ---
+
 #include "chromeos/ash/components/tether/tether_network_disconnection_handler.h"
 
 #include <memory>

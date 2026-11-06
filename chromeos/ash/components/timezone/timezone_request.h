@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone request class declaration
+// summary: Declares TimeZoneRequest and TimeZoneResponseData for formatting timezone queries and interpreting server responses.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TIMEZONE_TIMEZONE_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_TIMEZONE_TIMEZONE_REQUEST_H_
 

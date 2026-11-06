@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC preference name constants
+// summary: Defines constant names with documentation for ARC profile and local state preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_ARC_PREFS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_ARC_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageWrapper for tethering protocol messages
+// summary: Header for MessageWrapper, which wraps tethering protocol protos so they can be sent between devices as raw strings and parsed on receipt.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_MESSAGE_WRAPPER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_MESSAGE_WRAPPER_H_
 

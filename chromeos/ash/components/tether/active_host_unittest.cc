@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActiveHost unit tests
+// summary: Unit tests for the ActiveHost class, verifying active host status, device and network GUID tracking, and observer notifications using a fake tether host fetcher and test pref service.
+// ---
+
 #include "chromeos/ash/components/tether/active_host.h"
 
 #include <memory>

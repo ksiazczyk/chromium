@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherComponentImpl unit tests
+// summary: Unit tests for the Tether component implementation, covering shutdown behavior and observer notifications using fake shutdown object containers and factories.
+// ---
+
 #include "chromeos/ash/components/tether/tether_component_impl.h"
 
 #include <memory>

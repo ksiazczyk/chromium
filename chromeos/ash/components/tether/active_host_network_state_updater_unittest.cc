@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the active host network state updater
+// summary: Verifies that active host connecting, connected and disconnected changes update tether network states correctly.
+// ---
+
 #include "chromeos/ash/components/tether/active_host_network_state_updater.h"
 
 #include <memory>

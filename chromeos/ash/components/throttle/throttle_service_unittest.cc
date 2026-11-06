@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThrottleService unit tests
+// summary: Unit tests for ThrottleService verifying throttling decisions, service observer notifications, and UMA recording using test observers and a test service subclass.
+// ---
+
 #include "chromeos/ash/components/throttle/throttle_service.h"
 
 #include <utility>

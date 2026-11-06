@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectTetheringOperation unit tests
+// summary: Unit tests for ConnectTetheringOperation, verifying observer notifications for successful responses and failures, plus recorded metrics, using fake host connections and a test clock.
+// ---
+
 #include "chromeos/ash/components/tether/connect_tethering_operation.h"
 
 #include <memory>

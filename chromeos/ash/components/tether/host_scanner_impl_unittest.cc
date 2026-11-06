@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host scanner implementation unit tests
+// summary: Unit tests for HostScannerImpl using fake orchestrators, caches and fetchers to verify scan results, notifications and metric recording.
+// ---
+
 #include "chromeos/ash/components/tether/host_scanner_impl.h"
 
 #include <algorithm>

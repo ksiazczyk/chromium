@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimerFactory interface
+// summary: Declares the abstract TimerFactory interface that creates one-shot timers so tests can inject test doubles.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TIMER_FACTORY_TIMER_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_TIMER_FACTORY_TIMER_FACTORY_H_
 

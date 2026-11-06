@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether preference name constants
+// summary: Defines constant preference names for tether state such as active host status, responder IDs, host scan cache, and notification settings.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_PREF_NAMES_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_PREF_NAMES_H_
 

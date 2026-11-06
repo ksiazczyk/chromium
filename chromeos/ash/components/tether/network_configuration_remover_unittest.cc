@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkConfigurationRemover unit tests
+// summary: Unit tests verifying that NetworkConfigurationRemover removes a Wi-Fi network configuration by path exactly once.
+// ---
+
 #include "chromeos/ash/components/tether/network_configuration_remover.h"
 
 #include <memory>

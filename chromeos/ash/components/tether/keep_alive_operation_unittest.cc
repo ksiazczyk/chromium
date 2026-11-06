@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeepAliveOperation unit tests
+// summary: Unit tests verifying that KeepAliveOperation sends the keep-alive tickle after authentication, notifies observers on response, and records response duration.
+// ---
+
 #include "chromeos/ash/components/tether/keep_alive_operation.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHost implementation
+// summary: Implements the TetherHost value type that wraps either a RemoteDeviceRef or a PresenceDevice and exposes device ID and name accessors for tether hosts.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host.h"
 
 #include "base/notreached.h"

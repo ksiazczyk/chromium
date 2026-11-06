@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host scanner interface
+// summary: Defines the HostScanner interface with StartScan, StopScan, IsScanActive and observer support for scanning nearby tether hosts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCANNER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCANNER_H_
 

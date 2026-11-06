@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOneShotTimer class declaration
+// summary: Declares FakeOneShotTimer, a fake base::OneShotTimer extending MockOneShotTimer that reports its destruction via a callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TIMER_FACTORY_FAKE_ONE_SHOT_TIMER_H_
 #define CHROMEOS_ASH_COMPONENTS_TIMER_FACTORY_FAKE_ONE_SHOT_TIMER_H_
 

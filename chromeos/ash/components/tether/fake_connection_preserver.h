@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ConnectionPreserver test double header
+// summary: Declares a test double for ConnectionPreserver that records the device ID from the last successful tether availability response.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_CONNECTION_PRESERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_CONNECTION_PRESERVER_H_
 

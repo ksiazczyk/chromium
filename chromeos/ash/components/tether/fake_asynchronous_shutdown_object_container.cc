@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AsynchronousShutdownObjectContainer implementation
+// summary: Implements the fake shutdown object container for tests, running a deletion callback on destruction and returning injected tether component pointers.
+// ---
+
 #include "chromeos/ash/components/tether/fake_asynchronous_shutdown_object_container.h"
 
 namespace ash::tether {

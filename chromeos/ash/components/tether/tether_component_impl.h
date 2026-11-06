@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherComponentImpl class declaration
+// summary: Declares TetherComponentImpl, the concrete tether component with a Factory for creation, profile preference registration, and shutdown handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_COMPONENT_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_COMPONENT_IMPL_H_
 

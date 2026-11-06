@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC utility header
+// summary: Declares utilities for inspecting ARC functionality status driven by command line flags, user preferences, and feature lists, including Upstart job and CPU restriction definitions.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_ARC_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_ARC_UTIL_H_
 

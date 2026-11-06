@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectTetheringOperation class declaration
+// summary: Declares DisconnectTetheringOperation, a MessageTransferOperation that sends disconnect messages to a tether host and notifies observers when finished.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_DISCONNECT_TETHERING_OPERATION_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_DISCONNECT_TETHERING_OPERATION_H_
 

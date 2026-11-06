@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC preference registration
+// summary: Registers ARC-related local state and profile preferences covering VPN, backup, management transition, and data migration settings.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_prefs.h"
 
 #include <string>

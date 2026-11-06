@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentHostScanCacheImpl unit tests
+// summary: Unit tests checking that the persistent host scan cache stores, updates, and removes entries in user prefs consistently with an in-memory cache.
+// ---
+
 #include "chromeos/ash/components/tether/persistent_host_scan_cache_impl.h"
 
 #include <memory>

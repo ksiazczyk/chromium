@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherDisconnectorImpl implementation
+// summary: Implements TetherDisconnector by validating the active host state, canceling in-progress connection attempts or disconnecting the active Wi-Fi hotspot.
+// ---
+
 #include "chromeos/ash/components/tether/tether_disconnector_impl.h"
 
 #include "base/values.h"

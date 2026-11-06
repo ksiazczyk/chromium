@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNetworkConfigurationRemover test double
+// summary: Declares a fake NetworkConfigurationRemover that records the last removed Wi-Fi network path for use in tether tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_NETWORK_CONFIGURATION_REMOVER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_NETWORK_CONFIGURATION_REMOVER_H_
 

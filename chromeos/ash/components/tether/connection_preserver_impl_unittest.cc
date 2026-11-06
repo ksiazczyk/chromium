@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionPreserverImpl unit tests
+// summary: Unit tests for the connection preserver, using fake host connections, a fake active host, and a mock timer to verify preserved BLE connection behavior.
+// ---
+
 #include "chromeos/ash/components/tether/connection_preserver_impl.h"
 
 #include <algorithm>

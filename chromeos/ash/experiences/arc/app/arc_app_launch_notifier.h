@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app launch notifier service header
+// summary: Declares the ArcAppLaunchNotifier browser-context keyed service, its observer interface for app launch events, and the associated service factory.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_APP_ARC_APP_LAUNCH_NOTIFIER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_APP_ARC_APP_LAUNCH_NOTIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationRemover unit tests
+// summary: Unit tests verifying that NotificationRemover removes hotspot, setup-required, and connection-failed notifications in the expected scenarios.
+// ---
+
 #include "chromeos/ash/components/tether/notification_remover.h"
 
 #include <memory>

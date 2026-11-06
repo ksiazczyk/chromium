@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the timezone component
+summary: Defines the timezone component, util source set, and unit test targets with their sources and dependencies.

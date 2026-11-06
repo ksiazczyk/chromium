@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkConnectionHandlerTetherDelegate unit tests
+// summary: Unit tests for the Tether delegate handling connect and disconnect requests from NetworkConnectionHandler, using fake connectors, disconnectors, and a test handler.
+// ---
+
 #include "chromeos/ash/components/tether/network_connection_handler_tether_delegate.h"
 
 #include <memory>

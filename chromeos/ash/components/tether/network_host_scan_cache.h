@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkHostScanCache
+// summary: Declares a HostScanCache implementation that stores Tether scan results in the networking stack and tracks previously connected hosts via TetherHostResponseRecorder.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_HOST_SCAN_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_HOST_SCAN_CACHE_H_
 

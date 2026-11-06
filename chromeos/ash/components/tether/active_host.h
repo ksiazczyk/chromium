@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active host tracking class declaration
+// summary: Declares the ActiveHost class, its status enum, change info struct and observer interface for tether host connection state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_ACTIVE_HOST_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_ACTIVE_HOST_H_
 

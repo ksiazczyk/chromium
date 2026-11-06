@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentHostScanCacheImpl implementation
+// summary: Implements PersistentHostScanCacheImpl, converting host scan cache entries to and from dictionaries stored in the tether.host_scan_cache pref.
+// ---
+
 #include "chromeos/ash/components/tether/persistent_host_scan_cache_impl.h"
 
 #include <memory>

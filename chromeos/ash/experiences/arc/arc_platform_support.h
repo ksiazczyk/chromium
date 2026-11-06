@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPlatformSupport interface
+// summary: Abstract interface for checking whether the ARCVM image should be installed from a DLC based on device state and policies.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_ARC_PLATFORM_SUPPORT_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_ARC_PLATFORM_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveOperation implementation
+// summary: Implements the keep-alive operation that sends a KeepAliveTickle message to a tether host, receives the device status response, and records response duration metrics.
+// ---
+
 #include "chromeos/ash/components/tether/keep_alive_operation.h"
 
 #include "base/functional/callback_helpers.h"

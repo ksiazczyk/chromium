@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPMTokenInfoGetter declaration
+// summary: Declares the TPMTokenInfoGetter class that retrieves user or system TPM token info from cryptohome during TPM token loading.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TPM_TPM_TOKEN_INFO_GETTER_H_
 #define CHROMEOS_ASH_COMPONENTS_TPM_TPM_TOKEN_INFO_GETTER_H_
 

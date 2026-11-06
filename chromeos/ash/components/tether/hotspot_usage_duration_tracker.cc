@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot usage duration tracker
+// summary: Observes ActiveHost changes and records the InstantTethering.HotspotUsageDuration metric for time users spend connected to tether hotspots.
+// ---
+
 #include "chromeos/ash/components/tether/hotspot_usage_duration_tracker.h"
 
 #include "base/metrics/histogram_macros.h"

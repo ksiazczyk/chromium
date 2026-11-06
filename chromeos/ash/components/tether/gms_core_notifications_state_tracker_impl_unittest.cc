@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMS Core notifications state tracker unit tests
+// summary: Unit tests verifying how the tracker updates the disabled-notification device list from scan responses.
+// ---
+
 #include "chromeos/ash/components/tether/gms_core_notifications_state_tracker_impl.h"
 
 #include <memory>

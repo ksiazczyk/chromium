@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionHandlerTetherDelegate implementation
+// summary: Implements the tether delegate for NetworkConnectionHandler, routing connect and disconnect requests to TetherConnector and TetherDisconnector.
+// ---
+
 #include "chromeos/ash/components/tether/network_connection_handler_tether_delegate.h"
 
 #include "base/functional/bind.h"

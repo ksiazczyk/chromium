@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveOperation class declaration
+// summary: Declares the KeepAliveOperation class, which sends keep-alive messages to a tether host and notifies observers with the resulting device status.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_KEEP_ALIVE_OPERATION_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_KEEP_ALIVE_OPERATION_H_
 

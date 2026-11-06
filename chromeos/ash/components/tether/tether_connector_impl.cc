@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherConnectorImpl implementation
+// summary: Implements TetherConnector by starting ConnectTetheringOperation, connecting to the resulting Wi-Fi hotspot and logging connection results and internal errors.
+// ---
+
 #include "chromeos/ash/components/tether/tether_connector_impl.h"
 
 #include <optional>

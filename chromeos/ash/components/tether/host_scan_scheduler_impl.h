@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanSchedulerImpl class
+// summary: Declares HostScanSchedulerImpl, which starts Tether scans on network loss, scan requests, or explicit scheduling and tracks scan batch metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_SCHEDULER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_SCHEDULER_IMPL_H_
 

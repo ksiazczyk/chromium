@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrepareTpm declaration
+// summary: Declares PrepareTpm, which asynchronously clears the TPM owner password or triggers TPM initialization and invokes a callback when done.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TPM_PREPARE_TPM_H_
 #define CHROMEOS_ASH_COMPONENTS_TPM_PREPARE_TPM_H_
 

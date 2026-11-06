@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CrashRecoveryManager test double header
+// summary: Declares a test double for CrashRecoveryManager that captures the on-restoration-finished callback for inspection in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_CRASH_RECOVERY_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_CRASH_RECOVERY_MANAGER_H_
 

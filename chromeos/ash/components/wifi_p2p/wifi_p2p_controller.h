@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiP2PController class header
+// summary: Declares the WifiP2PController singleton exposing create, destroy, connect, and disconnect operations for WiFi P2P groups plus capabilities and result enums.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_WIFI_P2P_WIFI_P2P_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_WIFI_P2P_WIFI_P2P_CONTROLLER_H_
 

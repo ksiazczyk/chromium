@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashRecoveryManagerImpl implementation
+// summary: Implements pre-crash state restoration, abandoning in-progress connection attempts and restoring connected Tether state using the host scan cache.
+// ---
+
 #include "chromeos/ash/components/tether/crash_recovery_manager_impl.h"
 
 #include <memory>

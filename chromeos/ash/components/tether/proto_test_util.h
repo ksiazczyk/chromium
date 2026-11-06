@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceStatus proto test helper declarations
+// summary: Declares helpers for creating DeviceStatus protos with selectable or fake fields, used by tether unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_PROTO_TEST_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_PROTO_TEST_UTIL_H_
 

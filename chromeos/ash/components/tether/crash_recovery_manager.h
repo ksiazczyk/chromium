@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashRecoveryManager interface
+// summary: Declares the interface for restoring Tether state after a browser crash, intended to be called during TetherComponent initialization.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_CRASH_RECOVERY_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_CRASH_RECOVERY_MANAGER_H_
 

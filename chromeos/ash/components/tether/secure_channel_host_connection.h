@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelHostConnection class declaration
+// summary: Declares a HostConnection subclass that connects to tether hosts through the Secure Channel client, including its factory and connection attempt delegate.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_SECURE_CHANNEL_HOST_CONNECTION_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_SECURE_CHANNEL_HOST_CONNECTION_H_
 

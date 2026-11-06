@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC features parser
+// summary: Tests parsing of valid, invalid, and incomplete ARC feature JSON inputs and verifies the resulting feature maps and build properties.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_features_parser.h"
 
 #include <string_view>

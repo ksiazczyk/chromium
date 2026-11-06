@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the trash service
+summary: Include rules permitting the service process host header required to launch the sandboxed trash utility process.

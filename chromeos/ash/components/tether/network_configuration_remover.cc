@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfigurationRemover implementation
+// summary: Removes Wi-Fi network configurations through ManagedNetworkConfigurationHandler and logs the success or failure of each removal.
+// ---
+
 #include "chromeos/ash/components/tether/network_configuration_remover.h"
 
 #include "base/functional/bind.h"

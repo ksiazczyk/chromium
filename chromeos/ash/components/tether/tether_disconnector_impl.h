@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherDisconnectorImpl class declaration
+// summary: Declares TetherDisconnectorImpl, which disconnects active tether connections using the active host, hotspot disconnector and session completion logger.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_DISCONNECTOR_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_DISCONNECTOR_IMPL_H_
 

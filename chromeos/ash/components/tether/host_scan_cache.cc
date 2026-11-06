@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanCache implementation
+// summary: Implements observer management and scan-result removal for the Tether host scan cache, notifying observers when the cache becomes empty.
+// ---
+
 #include "chromeos/ash/components/tether/host_scan_cache.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherComponentImpl implementation
+// summary: Implements the concrete TetherComponent that wires up tether subsystem dependencies, registers profile prefs, and coordinates synchronous and asynchronous shutdown.
+// ---
+
 #include "chromeos/ash/components/tether/tether_component_impl.h"
 
 #include <memory>

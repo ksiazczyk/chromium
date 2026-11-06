@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationRemover class declaration
+// summary: Declares NotificationRemover, which clears tether hotspot notifications when no hotspots are nearby, the device connects, or the active host status changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_NOTIFICATION_REMOVER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_NOTIFICATION_REMOVER_H_
 

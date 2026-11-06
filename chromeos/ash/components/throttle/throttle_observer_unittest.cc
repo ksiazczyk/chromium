@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThrottleObserver unit tests
+// summary: Unit tests for ThrottleObserver covering construction, observer name, active and enforced state notifications, and behavior after stopping observation.
+// ---
+
 #include "chromeos/ash/components/throttle/throttle_observer.h"
 
 #include "base/functional/bind.h"

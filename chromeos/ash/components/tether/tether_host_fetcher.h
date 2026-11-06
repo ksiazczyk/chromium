@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHostFetcher interface header
+// summary: Declares the TetherHostFetcher interface that fetches tether host devices synced via CryptAuth and notifies observers when the host is updated.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_HOST_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_HOST_FETCHER_H_
 

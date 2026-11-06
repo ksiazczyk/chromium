@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeTetherDisconnector implementation
+// summary: Implementation of the FakeTetherDisconnector test double, recording disconnections and simulated errors.
+// ---
+
 #include "chromeos/ash/components/tether/fake_tether_disconnector.h"
 
 namespace ash {

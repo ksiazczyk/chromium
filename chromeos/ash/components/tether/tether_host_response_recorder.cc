@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHostResponseRecorder implementation
+// summary: Implements TetherHostResponseRecorder, which records recent tether availability and connect responses in synced user preferences.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host_response_recorder.h"
 
 #include <memory>

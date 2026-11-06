@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationRemover implementation
+// summary: Removes Tether notifications when the scan cache empties, a network starts connecting, or the active host changes, and cleans up notifications on shutdown.
+// ---
+
 #include "chromeos/ash/components/tether/notification_remover.h"
 
 #include "chromeos/ash/components/network/network_state_handler.h"

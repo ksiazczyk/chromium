@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the trash service
+summary: Delegates code ownership for this directory to the file manager OWNERS file.

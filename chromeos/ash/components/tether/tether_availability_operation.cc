@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherAvailabilityOperation implementation
+// summary: Implements the operation that sends a TetherAvailabilityRequest to a tether host and interprets the response to decide whether the device can provide a tethering connection.
+// ---
+
 #include "chromeos/ash/components/tether/tether_availability_operation.h"
 
 #include <memory>

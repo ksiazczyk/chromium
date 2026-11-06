@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherHost unit tests
+// summary: Unit tests for the TetherHost struct covering accessors and equality for hosts backed by either RemoteDeviceRef or PresenceDevice.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host.h"
 
 #include "base/uuid.h"

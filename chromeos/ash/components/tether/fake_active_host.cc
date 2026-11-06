@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeActiveHost test double
+// summary: Provides a controllable fake ActiveHost implementation for tests, allowing active host status, device ID, and network GUIDs to be set directly.
+// ---
+
 #include "chromeos/ash/components/tether/fake_active_host.h"
 
 #include <memory>

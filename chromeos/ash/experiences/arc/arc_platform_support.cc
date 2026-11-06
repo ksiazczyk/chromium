@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPlatformSupport singleton implementation
+// summary: Implements the global singleton accessor and lifetime checks for the ArcPlatformSupport interface.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_platform_support.h"
 
 #include "base/check_op.h"

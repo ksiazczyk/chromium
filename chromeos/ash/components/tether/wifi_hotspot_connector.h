@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiHotspotConnector header
+// summary: Declares the WifiHotspotConnector class that connects to a Wi-Fi hotspot by SSID and password, handles timeouts and errors, and reports the connected network GUID via callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_WIFI_HOTSPOT_CONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_WIFI_HOTSPOT_CONNECTOR_H_
 

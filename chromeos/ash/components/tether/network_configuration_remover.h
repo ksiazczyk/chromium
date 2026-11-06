@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfigurationRemover declaration
+// summary: Declares NetworkConfigurationRemover, which removes the network configuration of a Wi-Fi hotspot referenced by path.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_CONFIGURATION_REMOVER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_CONFIGURATION_REMOVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top-level host scan cache class declaration
+// summary: Declares TopLevelHostScanCache, a HostScanCache that stores scan results persistently and removes stale entries through one-shot timers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TOP_LEVEL_HOST_SCAN_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TOP_LEVEL_HOST_SCAN_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app launch notifier implementation
+// summary: Implements the ArcAppLaunchNotifier keyed service, providing factory access, observer management, and dispatch of ARC app launch request notifications.
+// ---
+
 #include "chromeos/ash/experiences/arc/app/arc_app_launch_notifier.h"
 
 #include "base/no_destructor.h"

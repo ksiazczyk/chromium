@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SynchronousShutdownObjectContainerImpl implementation
+// summary: Implements the synchronous shutdown container, constructing and owning the Tether component's synchronously destructible objects such as the active host and scan caches.
+// ---
+
 #include "chromeos/ash/components/tether/synchronous_shutdown_object_container_impl.h"
 
 #include <memory>

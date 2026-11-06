@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTetherHostResponseRecorder implementation
+// summary: Implements a gmock-based test double of TetherHostResponseRecorder for use in tethering tests.
+// ---
+
 #include "chromeos/ash/components/tether/mock_tether_host_response_recorder.h"
 
 namespace ash {

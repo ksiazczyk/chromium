@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot usage duration tracker unit tests
+// summary: Unit tests verifying that hotspot usage durations are logged correctly for successful connections and not logged for failed or erroneous sessions.
+// ---
+
 #include "chromeos/ash/components/tether/hotspot_usage_duration_tracker.h"
 
 #include <memory>

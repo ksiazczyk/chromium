@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostScanCache
+// summary: Declares an in-memory test double of HostScanCache that keeps tether network GUID scan results for use in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_SCAN_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_SCAN_CACHE_H_
 

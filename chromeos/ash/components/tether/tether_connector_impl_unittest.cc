@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherConnectorImpl unit tests
+// summary: Unit tests for TetherConnectorImpl using fake operations, hotspot connectors and metrics loggers to verify connection success, failure and cancellation paths.
+// ---
+
 #include "chromeos/ash/components/tether/tether_connector_impl.h"
 
 #include <memory>

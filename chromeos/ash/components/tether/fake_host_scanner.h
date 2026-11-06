@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostScanner
+// summary: Declares a test double of HostScanner used to simulate tether host scans and notify scan completion in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_SCANNER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_SCANNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageTransferOperation unit tests
+// summary: Unit tests for MessageTransferOperation covering connection setup, message sending and receiving, timeouts, and operation lifecycle using a test double.
+// ---
+
 #include "chromeos/ash/components/tether/message_transfer_operation.h"
 
 #include <memory>

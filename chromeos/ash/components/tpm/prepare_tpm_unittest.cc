@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrepareTpm unit tests
+// summary: Unit tests verifying that PrepareTpm clears the owner password when owned, takes ownership when not owned, and does nothing on status errors.
+// ---
+
 #include "chromeos/ash/components/tpm/prepare_tpm.h"
 
 #include "base/run_loop.h"

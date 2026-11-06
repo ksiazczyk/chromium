@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC features JSON parser implementation
+// summary: Parses ARC feature JSON files to extract available features, unavailable features, and Android build properties.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_features_parser.h"
 
 #include <string_view>

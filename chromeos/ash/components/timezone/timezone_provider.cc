@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone provider implementation
+// summary: Implements TimeZoneProvider, which creates timezone requests for a geoposition, owns them, and dispatches responses to callbacks.
+// ---
+
 #include "chromeos/ash/components/timezone/timezone_provider.h"
 
 #include <algorithm>

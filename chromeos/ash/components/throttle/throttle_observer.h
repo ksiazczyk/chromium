@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottleObserver class declaration
+// summary: Declares the base ThrottleObserver class that watches a condition and invokes a callback when its active or enforced state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_THROTTLE_THROTTLE_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_THROTTLE_THROTTLE_OBSERVER_H_
 

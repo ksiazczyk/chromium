@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeTetherHostFetcher implementation
+// summary: Implementation of the FakeTetherHostFetcher test double that stores and updates a fake tether host.
+// ---
+
 #include "chromeos/ash/components/tether/fake_tether_host_fetcher.h"
 
 #include "base/memory/ptr_util.h"

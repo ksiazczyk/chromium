@@ -4,6 +4,12 @@
 
 // Definitions for tether API calls.
 
+// ---docerion
+// type: source
+// title: Tether API protobuf definitions
+// summary: Proto2 definitions of message types and enums for tether host-client communication, covering availability, connect, disconnect, keep-alive, and device status.
+// ---
+
 syntax = "proto2";
 
 package ash.tether;

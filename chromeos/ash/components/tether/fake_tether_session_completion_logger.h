@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeTetherSessionCompletionLogger test double
+// summary: Test double for TetherSessionCompletionLogger that records the last session completion reason.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_TETHER_SESSION_COMPLETION_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_TETHER_SESSION_COMPLETION_LOGGER_H_
 

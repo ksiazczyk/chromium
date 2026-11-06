@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceStatus proto test helper implementation
+// summary: Provides helpers that build DeviceStatus proto objects with test or fake field values for use in tether unit tests.
+// ---
+
 #include "chromeos/ash/components/tether/proto_test_util.h"
 
 namespace ash {

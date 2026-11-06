@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostScanner implementation
+// summary: Implements a fake HostScanner that tracks started scans, active scan state, and scan-finished notifications for tests.
+// ---
+
 #include "chromeos/ash/components/tether/fake_host_scanner.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherConnectorImpl class declaration
+// summary: Declares TetherConnectorImpl, which manages tether network connection attempts, their cancellation, and ConnectTetheringOperation observer callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_CONNECTOR_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_CONNECTOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake GmsCoreNotificationsStateTracker implementation
+// summary: Implements the GmsCoreNotificationsStateTracker test double, returning a configurable list of devices with GMS Core notifications disabled.
+// ---
+
 #include "chromeos/ash/components/tether/fake_gms_core_notifications_state_tracker.h"
 
 namespace ash {

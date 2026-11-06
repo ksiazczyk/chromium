@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTetherHostResponseRecorder declaration
+// summary: Declares a gmock test double of TetherHostResponseRecorder that mocks recording of tether availability and connection responses.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_MOCK_TETHER_HOST_RESPONSE_RECORDER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_MOCK_TETHER_HOST_RESPONSE_RECORDER_H_
 

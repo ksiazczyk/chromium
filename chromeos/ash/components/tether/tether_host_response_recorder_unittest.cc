@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherHostResponseRecorder unit tests
+// summary: Unit tests for TetherHostResponseRecorder verifying recording of availability and connect responses and observer callbacks with a testing pref service.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host_response_recorder.h"
 
 #include <memory>

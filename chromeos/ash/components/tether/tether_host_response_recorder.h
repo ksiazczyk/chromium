@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHostResponseRecorder class header
+// summary: Declares TetherHostResponseRecorder, which persists tether host responses in prefs and exposes sorted lists of previously available and connected hosts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_HOST_RESPONSE_RECORDER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_HOST_RESPONSE_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageTransferOperation implementation
+// summary: Implements the base class for tether operations that connect to a host, send and receive messages, and enforce connection and message timeouts.
+// ---
+
 #include "chromeos/ash/components/tether/message_transfer_operation.h"
 
 #include <memory>

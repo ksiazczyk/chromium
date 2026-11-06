@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC directory
+summary: Specifies allowed include paths and per-file exceptions for code in the ARC directory.

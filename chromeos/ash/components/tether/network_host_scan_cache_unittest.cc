@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkHostScanCache unit tests
+// summary: Unit tests verifying that NetworkHostScanCache keeps tether scan results in NetworkStateHandler in sync with an expected in-memory cache.
+// ---
+
 #include "chromeos/ash/components/tether/network_host_scan_cache.h"
 
 #include <algorithm>
