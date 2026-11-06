@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_gu.xtb.
+type: data
+title: ChromeOS strings translation bundle (Gujarati)
+summary: Gujarati XTB translation bundle with localized ChromeOS UI strings, keyed by numeric message IDs and used to render the ChromeOS interface in Gujarati.

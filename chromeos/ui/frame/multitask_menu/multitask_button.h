@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultitaskButton class
+// summary: Declares the base button class used to create the fullscreen and float buttons in the multitask menu.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_BUTTON_H_
 #define CHROMEOS_UI_FRAME_MULTITASK_MENU_MULTITASK_BUTTON_H_
 

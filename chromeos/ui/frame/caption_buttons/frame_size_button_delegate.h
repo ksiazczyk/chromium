@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame size button delegate interface
+// summary: Delegate interface for the frame size button covering button state resets, icon changes, hit testing, snapping and multitask menu nudges.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_SIZE_BUTTON_DELEGATE_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_SIZE_BUTTON_DELEGATE_H_
 

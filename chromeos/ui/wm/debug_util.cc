@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window hierarchy debug printing implementation
+// summary: Implements printing of the aura window hierarchy with active, focused, and capture window details, optionally scrubbing window titles for debugging.
+// ---
+
 #include "chromeos/ui/wm/debug_util.h"
 
 #include <sstream>

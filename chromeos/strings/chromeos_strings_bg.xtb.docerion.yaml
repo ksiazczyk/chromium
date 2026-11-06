@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_bg.xtb.
+type: data
+title: ChromeOS strings in Bulgarian
+summary: Translation bundle with ChromeOS UI strings localized into Bulgarian for use in the strings build.

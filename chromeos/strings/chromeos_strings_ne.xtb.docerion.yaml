@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ne.xtb.
+type: data
+title: Nepali ChromeOS translation bundle
+summary: Nepali (ne) XTB translation bundle holding localized ChromeOS interface strings for UI elements, settings, errors and prompts.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_kn.xtb.
+type: data
+title: ChromeOS strings in Kannada (kn)
+summary: XML translation bundle providing ChromeOS UI strings in Kannada as part of the chromeos/strings localization set.

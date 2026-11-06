@@ -1,0 +1,4 @@
+# Docerion header of kiosk_manifest.json.
+type: test
+title: Kiosk manifest test fixture
+summary: Test fixture JSON with enterprise-managed kiosk enrollment settings such as keyboard-driven OOBE and device requisition for ChromeOS app mode tests.

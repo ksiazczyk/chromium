@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for chromeos/ui/base
+summary: Delegates per-file ownership of file_icon_util files to the file manager owners and nudge_util files to the ash system owners.

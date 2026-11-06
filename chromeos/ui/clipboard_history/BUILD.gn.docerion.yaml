@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the clipboard_history component
+summary: Defines the shared clipboard_history C++ component with its sources and dependencies for both Ash and Lacros builds.

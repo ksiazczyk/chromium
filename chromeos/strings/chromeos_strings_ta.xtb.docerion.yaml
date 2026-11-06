@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ta.xtb.
+type: data
+title: Tamil ChromeOS translation bundle
+summary: XML translation bundle providing Tamil translations of ChromeOS user interface strings, keyed by numeric message IDs.

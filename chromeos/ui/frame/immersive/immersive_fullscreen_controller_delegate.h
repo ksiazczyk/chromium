@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive fullscreen controller delegate interface
+// summary: Defines the delegate interface notified of immersive reveal, fullscreen entry and exit, visible fraction and hit-test bounds changes.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_FULLSCREEN_CONTROLLER_DELEGATE_H_
 #define CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_FULLSCREEN_CONTROLLER_DELEGATE_H_
 

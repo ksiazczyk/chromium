@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS version build definition
+summary: GN build file defining the chromeos_version component and its unit test target with their sources and dependencies.

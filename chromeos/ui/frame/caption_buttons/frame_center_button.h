@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame center button class
+// summary: Declares a center caption button whose clients manage the instance and can set optional text and a sub image beside the icon.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_CENTER_BUTTON_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_CENTER_BUTTON_H_
 

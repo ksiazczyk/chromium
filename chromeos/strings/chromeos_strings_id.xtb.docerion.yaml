@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_id.xtb.
+type: data
+title: ChromeOS UI strings for Indonesian
+summary: XML translation bundle providing Indonesian translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

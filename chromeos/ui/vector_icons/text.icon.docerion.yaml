@@ -1,0 +1,4 @@
+# Docerion header of text.icon.
+type: asset
+title: Text icon
+summary: Defines the text vector icon for ChromeOS UI as a sequence of vector drawing commands.

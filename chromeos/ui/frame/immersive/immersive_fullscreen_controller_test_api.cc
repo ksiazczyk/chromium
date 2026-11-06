@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive fullscreen controller test API implementation
+// summary: Implements test helpers that disable animations, move the mouse away and inspect private controller state such as timers and locks.
+// ---
+
 #include "chromeos/ui/frame/immersive/immersive_fullscreen_controller_test_api.h"
 
 #include "chromeos/ui/frame/immersive/immersive_fullscreen_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_sv.xtb.
+type: data
+title: ChromeOS Swedish translation bundle
+summary: Swedish translations of ChromeOS user interface strings stored in the XTB XML translation bundle format.

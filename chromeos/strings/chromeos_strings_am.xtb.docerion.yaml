@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_am.xtb.
+type: data
+title: ChromeOS strings in Amharic
+summary: Translation bundle with ChromeOS UI strings localized into Amharic for use in the strings build.

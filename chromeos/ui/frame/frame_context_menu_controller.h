@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame context menu controller declaration
+// summary: Declares FrameContextMenuController, common code for showing context menus of frames like FrameViewAsh and WideFrameView.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_FRAME_CONTEXT_MENU_CONTROLLER_H_
 #define CHROMEOS_UI_FRAME_FRAME_CONTEXT_MENU_CONTROLLER_H_
 

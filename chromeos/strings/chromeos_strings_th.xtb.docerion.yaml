@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_th.xtb.
+type: data
+title: Thai ChromeOS translation bundle
+summary: XML translation bundle providing Thai translations of ChromeOS user interface strings, keyed by numeric message IDs.

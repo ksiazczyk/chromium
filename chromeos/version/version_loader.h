@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS version loader API
+// summary: Declares functions for retrieving ChromeOS, ARC, and firmware versions and for detecting version rollbacks.
+// ---
+
 #ifndef CHROMEOS_VERSION_VERSION_LOADER_H_
 #define CHROMEOS_VERSION_VERSION_LOADER_H_
 

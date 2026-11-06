@@ -1,0 +1,4 @@
+# Docerion header of unfloat_button.icon.
+type: asset
+title: Unfloat button icon
+summary: Defines the unfloat button vector icon for ChromeOS UI at 24dp and 12dp canvas sizes.

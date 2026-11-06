@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_no.xtb.
+type: data
+title: Norwegian ChromeOS translation bundle
+summary: Norwegian (no) XTB translation bundle holding localized ChromeOS interface strings for UI elements, settings, errors and prompts.

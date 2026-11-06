@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapController interface header
+// summary: Defines the SnapController interface for snapping top-level windows, including snap ratio constants, SnapDirection, and SnapRequestSource enums.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_SNAP_CONTROLLER_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_SNAP_CONTROLLER_H_
 

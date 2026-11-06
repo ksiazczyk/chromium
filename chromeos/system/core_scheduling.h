@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core scheduling public API header
+// summary: Declares functions to enable core scheduling, check its availability based on CPU vulnerabilities, and get the number of physical cores.
+// ---
+
 #ifndef CHROMEOS_SYSTEM_CORE_SCHEDULING_H_
 #define CHROMEOS_SYSTEM_CORE_SCHEDULING_H_
 

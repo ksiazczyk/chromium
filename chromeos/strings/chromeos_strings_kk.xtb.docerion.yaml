@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_kk.xtb.
+type: data
+title: ChromeOS UI strings for Kazakh
+summary: XML translation bundle providing Kazakh translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

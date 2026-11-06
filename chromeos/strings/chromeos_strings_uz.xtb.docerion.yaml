@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_uz.xtb.
+type: data
+title: Uzbek ChromeOS translation bundle
+summary: XML translation bundle providing Uzbek translations of ChromeOS user interface strings, keyed by numeric message IDs.

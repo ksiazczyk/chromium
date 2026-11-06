@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame caption button container view header
+// summary: Declares the container view for frame caption buttons that performs the appropriate window action when a caption button is clicked.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_CAPTION_BUTTON_CONTAINER_VIEW_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_CAPTION_BUTTON_CONTAINER_VIEW_H_
 

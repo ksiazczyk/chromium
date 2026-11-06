@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_km.xtb.
+type: data
+title: ChromeOS UI strings for Khmer
+summary: XML translation bundle providing Khmer translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

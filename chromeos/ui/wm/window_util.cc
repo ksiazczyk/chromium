@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility implementation for floating and resize handling
+// summary: Implements helpers for installing resize handle targeters, checking display orientation, and computing whether and how windows can float in tablet mode.
+// ---
+
 #include "chromeos/ui/wm/window_util.h"
 
 #include "base/functional/bind.h"

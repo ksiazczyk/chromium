@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame header base class implementation
+// summary: Implements the FrameHeader base class handling title bounds, activation animations, and caption button management for window headers.
+// ---
+
 #include "chromeos/ui/frame/frame_header.h"
 
 #include <algorithm>

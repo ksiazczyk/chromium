@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_mk.xtb.
+type: data
+title: ChromeOS strings in Macedonian (mk)
+summary: XML translation bundle providing ChromeOS UI strings in Macedonian as part of the chromeos/strings localization set.

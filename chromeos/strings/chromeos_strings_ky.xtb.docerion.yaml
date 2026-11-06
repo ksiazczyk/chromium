@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ky.xtb.
+type: data
+title: ChromeOS strings in Kyrgyz (ky)
+summary: XML translation bundle providing ChromeOS UI strings in Kyrgyz as part of the chromeos/strings localization set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS UI constants for windows and frames
+// summary: Declares inline constants for window corner radii, resize area sizes, the default frame color and the frame color animation duration.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_CHROMEOS_UI_CONSTANTS_H_
 #define CHROMEOS_UI_BASE_CHROMEOS_UI_CONSTANTS_H_
 

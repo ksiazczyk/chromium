@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS version loader implementation
+// summary: Implements functions that read ChromeOS, ARC, and firmware version information from LSB release values and bios_info.txt.
+// ---
+
 #include "chromeos/version/version_loader.h"
 
 #include <stddef.h>

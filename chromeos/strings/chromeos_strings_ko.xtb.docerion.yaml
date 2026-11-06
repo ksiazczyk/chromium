@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ko.xtb.
+type: data
+title: ChromeOS strings in Korean (ko)
+summary: XML translation bundle providing ChromeOS UI strings in Korean as part of the chromeos/strings localization set.

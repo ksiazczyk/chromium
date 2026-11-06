@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_zh-TW.xtb.
+type: data
+title: ChromeOS strings translation bundle for Traditional Chinese
+summary: Localized ChromeOS UI strings in Traditional Chinese, stored as an XML translation bundle mapping message IDs to translated text with placeholders.

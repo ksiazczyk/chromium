@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CPU temperature reader
+// summary: Unit tests that verify temperature reading from temporary hwmon directories, covering labels, name files, and device subdirectories.
+// ---
+
 
 #include "chromeos/system/cpu_temperature_reader.h"
 

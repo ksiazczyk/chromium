@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive revealed lock implementation
+// summary: Implements ImmersiveRevealedLock, which locks and unlocks the revealed state through its delegate for its lifetime.
+// ---
+
 #include "chromeos/ui/frame/immersive/immersive_revealed_lock.h"
 
 namespace chromeos {

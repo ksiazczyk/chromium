@@ -1,0 +1,4 @@
+# Docerion header of TestSkipOptOutCriticalUpdate.json.
+type: test
+title: TestSkipOptOutCriticalUpdate OOBE configuration
+summary: Test OOBE configuration enabling welcomeNext and networkUseConnected while skipping the update opt-out screen.

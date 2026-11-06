@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppType enum for window app classification
+// summary: Declares the AppType enum used to classify windows by app kind, noting that changes must update the DownEventMetric UMA histogram buckets.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_APP_TYPES_H_
 #define CHROMEOS_UI_BASE_APP_TYPES_H_
 

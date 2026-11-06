@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightBorderOverlay class declaration
+// summary: Declares HighlightBorderOverlay, which overlays a nine-patch highlight border layer on windows so the border stays visible above the client view.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_HIGHLIGHT_BORDER_OVERLAY_H_
 #define CHROMEOS_UI_FRAME_HIGHLIGHT_BORDER_OVERLAY_H_
 

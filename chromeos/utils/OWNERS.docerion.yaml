@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating PDF files to pdf owners
+summary: Delegates per-file ownership of PDF-related files in this directory to the owners of the pdf directory.

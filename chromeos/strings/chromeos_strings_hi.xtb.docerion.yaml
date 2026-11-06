@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_hi.xtb.
+type: data
+title: ChromeOS strings translation bundle (Hindi)
+summary: Hindi XTB translation bundle with localized ChromeOS UI strings, keyed by numeric message IDs and used to render the ChromeOS interface in Hindi.

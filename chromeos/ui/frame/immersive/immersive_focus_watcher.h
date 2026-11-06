@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive focus watcher header
+// summary: Declares ImmersiveFocusWatcher, which grabs a reveal lock based on view focus, window activation and bubbles anchored to the top container.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_FOCUS_WATCHER_H_
 #define CHROMEOS_UI_FRAME_IMMERSIVE_IMMERSIVE_FOCUS_WATCHER_H_
 

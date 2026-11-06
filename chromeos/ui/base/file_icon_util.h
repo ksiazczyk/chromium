@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type icon utilities header
+// summary: Declares the IconType enum and exported functions to retrieve file type vector icons, chip icons and icon colors for file paths.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_FILE_ICON_UTIL_H_
 #define CHROMEOS_UI_BASE_FILE_ICON_UTIL_H_
 

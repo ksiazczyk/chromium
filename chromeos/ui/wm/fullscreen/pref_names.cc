@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen preference name constant definition
+// summary: Defines the keep_fullscreen_without_notification_url_allow_list preference name for URLs allowed to stay fullscreen after session unlock.
+// ---
+
 #include "chromeos/ui/wm/fullscreen/pref_names.h"
 
 namespace chromeos::prefs {

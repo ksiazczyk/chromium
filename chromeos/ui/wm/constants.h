@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS window management layout constants
+// summary: Declares constants for floated window padding and tablet size ratios, split view divider thickness, and extra browser padding in tablet mode.
+// ---
+
 #ifndef CHROMEOS_UI_WM_CONSTANTS_H_
 #define CHROMEOS_UI_WM_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame utility function declarations
+// summary: Declares ChromeOS frame helpers for non-client hit testing, window opacity, restore frames, resize borders, snap directions and rounded corner radii.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_FRAME_UTILS_H_
 #define CHROMEOS_UI_FRAME_FRAME_UTILS_H_
 

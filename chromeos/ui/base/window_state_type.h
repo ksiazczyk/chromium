@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowStateType enum and utility declarations
+// summary: Defines the WindowStateType enum, a superset of WindowShowState with ash-specific states, and declares conversion and predicate helper functions.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_WINDOW_STATE_TYPE_H_
 #define CHROMEOS_UI_BASE_WINDOW_STATE_TYPE_H_
 

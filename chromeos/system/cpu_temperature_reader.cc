@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU temperature reader implementation
+// summary: Implements reading CPU temperatures and labels from sysfs hwmon directories, converting millidegrees Celsius values into degrees.
+// ---
+
 #include "chromeos/system/cpu_temperature_reader.h"
 
 #include "base/files/file_enumerator.h"

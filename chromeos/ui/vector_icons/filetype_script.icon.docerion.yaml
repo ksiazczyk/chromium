@@ -1,0 +1,4 @@
+# Docerion header of filetype_script.icon.
+type: asset
+title: Script file type icon
+summary: Vector icon definition drawing the script file type badge used in the ChromeOS UI, expressed as path commands on a 20dp canvas.

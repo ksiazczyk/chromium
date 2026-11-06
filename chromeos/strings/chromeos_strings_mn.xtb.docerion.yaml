@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_mn.xtb.
+type: data
+title: ChromeOS strings in Mongolian (mn)
+summary: XML translation bundle providing ChromeOS UI strings in Mongolian as part of the chromeos/strings localization set.

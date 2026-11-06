@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowStateType conversions and helper functions
+// summary: Implements conversions between WindowStateType and ui::mojom::WindowShowState plus predicate helpers for pinned, snapped, and other state categories.
+// ---
+
 #include "chromeos/ui/base/window_state_type.h"
 
 #include "base/notreached.h"

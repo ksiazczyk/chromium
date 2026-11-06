@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_cy.xtb.
+type: data
+title: ChromeOS strings translation bundle for Welsh
+summary: XML translation bundle holding Welsh translations of ChromeOS interface strings, keyed by numeric message IDs.

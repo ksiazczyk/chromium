@@ -1,0 +1,4 @@
+# Docerion header of window_control_left_snapped.icon.
+type: source
+title: Left-snapped window control vector icon
+summary: Defines the vector path artwork for the left-snapped window control icon used in ChromeOS UI at 24 and 12 canvas sizes.

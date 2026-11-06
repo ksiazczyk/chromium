@@ -1,0 +1,4 @@
+# Docerion header of TestLeaveWelcomeScreen.json.
+type: test
+title: TestLeaveWelcomeScreen OOBE configuration fixture
+summary: Test fixture OOBE configuration that advances past the welcome screen during out-of-box experience.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell-specific window property key declarations
+// summary: Declares shell-specific window property keys shared by ash and lacros clients, documenting each property's purpose and usage constraints.
+// ---
+
 #ifndef CHROMEOS_UI_BASE_WINDOW_PROPERTIES_H_
 #define CHROMEOS_UI_BASE_WINDOW_PROPERTIES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame caption button container view implementation
+// summary: Implements the container view for window caption buttons, handling button clicks, tablet mode animations and button image management.
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/frame_caption_button_container_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history utility implementation
+// summary: Implements URL detection, pluggable query and paste callbacks, and icon selection for clipboard history item descriptors.
+// ---
+
 #include "chromeos/ui/clipboard_history/clipboard_history_util.h"
 
 #include <string_view>

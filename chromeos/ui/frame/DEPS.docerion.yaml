@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the chromeos UI frame directory
+summary: Declares the header include paths that code in chromeos/ui/frame is allowed to depend on.

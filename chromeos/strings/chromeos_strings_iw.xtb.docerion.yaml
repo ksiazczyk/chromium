@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_iw.xtb.
+type: data
+title: ChromeOS UI strings for Hebrew
+summary: XML translation bundle providing Hebrew translations of ChromeOS interface strings, keyed by numeric message IDs with placeholder support.

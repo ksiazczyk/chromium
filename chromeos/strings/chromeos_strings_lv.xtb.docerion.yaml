@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_lv.xtb.
+type: data
+title: ChromeOS strings in Latvian (lv)
+summary: XML translation bundle providing ChromeOS UI strings in Latvian as part of the chromeos/strings localization set.

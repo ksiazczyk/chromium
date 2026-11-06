@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default frame header class declaration
+// summary: Declares DefaultFrameHeader, the helper class managing the default window header used by Chrome apps.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_DEFAULT_FRAME_HEADER_H_
 #define CHROMEOS_UI_FRAME_DEFAULT_FRAME_HEADER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of filetype_gsheet.icon.
+type: asset
+title: Google Sheets file type icon
+summary: Vector icon definition drawing the Google Sheets document glyph on a 20dp canvas for ChromeOS UI.

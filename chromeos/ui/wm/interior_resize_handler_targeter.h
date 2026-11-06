@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interior resize handle window targeter header
+// summary: Declares InteriorResizeHandleTargeter, a window targeter that reserves space for interior resize handles and should be installed on frame windows.
+// ---
+
 #ifndef CHROMEOS_UI_WM_INTERIOR_RESIZE_HANDLER_TARGETER_H_
 #define CHROMEOS_UI_WM_INTERIOR_RESIZE_HANDLER_TARGETER_H_
 

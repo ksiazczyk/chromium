@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame center button implementation
+// summary: Implements a caption button shown at the center of the caption, supporting optional text and a sub image next to the main icon.
+// ---
+
 #include "chromeos/ui/frame/caption_buttons/frame_center_button.h"
 
 #include <algorithm>

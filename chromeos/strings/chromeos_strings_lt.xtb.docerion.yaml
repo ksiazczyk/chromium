@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_lt.xtb.
+type: data
+title: ChromeOS strings in Lithuanian (lt)
+summary: XML translation bundle providing ChromeOS UI strings in Lithuanian as part of the chromeos/strings localization set.

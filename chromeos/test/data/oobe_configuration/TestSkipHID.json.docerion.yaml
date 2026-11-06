@@ -1,0 +1,4 @@
+# Docerion header of TestSkipHID.json.
+type: test
+title: TestSkipHID OOBE configuration fixture
+summary: Test fixture OOBE configuration that advances the welcome screen, uses the connected network, and skips the HID screen.

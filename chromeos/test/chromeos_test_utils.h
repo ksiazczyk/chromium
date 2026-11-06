@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS test utils header
+// summary: Declares GetTestDataPath, a helper that returns the path to a given test data file for this library.
+// ---
+
 #ifndef CHROMEOS_TEST_CHROMEOS_TEST_UTILS_H_
 #define CHROMEOS_TEST_CHROMEOS_TEST_UTILS_H_
 

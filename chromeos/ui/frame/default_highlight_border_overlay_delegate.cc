@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default highlight border overlay delegate implementation
+// summary: Implements the delegate that rounds the highlight border when a window has the rounded corners property set.
+// ---
+
 #include "chromeos/ui/frame/default_highlight_border_overlay_delegate.h"
 
 #include "chromeos/ui/base/window_properties.h"

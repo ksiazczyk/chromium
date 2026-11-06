@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive focus watcher implementation
+// summary: Implements ImmersiveFocusWatcher, keeping immersive top-of-window views revealed while focus, activation or anchored bubbles require it.
+// ---
+
 #include "chromeos/ui/frame/immersive/immersive_focus_watcher.h"
 
 #include <memory>

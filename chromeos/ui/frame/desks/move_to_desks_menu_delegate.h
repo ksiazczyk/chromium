@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move to Desks menu delegate header
+// summary: Declares the SimpleMenuModel delegate class that controls the Move to Desks menu for a widget, including when the menu should be shown.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_DESKS_MOVE_TO_DESKS_MENU_DELEGATE_H_
 #define CHROMEOS_UI_FRAME_DESKS_MOVE_TO_DESKS_MENU_DELEGATE_H_
 

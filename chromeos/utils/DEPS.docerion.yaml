@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chromeos utils
+summary: Sets include rules allowing base, printing units, Skia, ui/gfx, ui/events/devices and ui/ozone, with testing allowed for tests and mocks.

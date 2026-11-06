@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_az.xtb.
+type: data
+title: ChromeOS strings in Azerbaijani
+summary: Translation bundle with ChromeOS UI strings localized into Azerbaijani for use in the strings build.

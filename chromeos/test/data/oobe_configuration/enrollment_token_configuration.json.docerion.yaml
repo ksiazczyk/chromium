@@ -1,0 +1,4 @@
+# Docerion header of enrollment_token_configuration.json.
+type: test
+title: Enrollment token OOBE configuration
+summary: Test OOBE configuration supplying a test enrollment token for device enrollment.

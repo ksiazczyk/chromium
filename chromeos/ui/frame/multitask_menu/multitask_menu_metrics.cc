@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multitask menu metrics
+// summary: Records UMA histograms for multitask menu entry and action types, suffixed by tablet or clamshell mode.
+// ---
+
 #include "chromeos/ui/frame/multitask_menu/multitask_menu_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

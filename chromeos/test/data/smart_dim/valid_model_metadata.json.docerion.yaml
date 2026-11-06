@@ -1,0 +1,4 @@
+# Docerion header of valid_model_metadata.json.
+type: test
+title: Valid Smart Dim model metadata
+summary: Test fixture with valid Smart Dim model metadata describing input and output nodes, threshold, expected feature size and metrics model name.

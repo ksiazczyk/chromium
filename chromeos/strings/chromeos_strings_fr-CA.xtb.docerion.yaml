@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_fr-CA.xtb.
+type: data
+title: ChromeOS strings translation bundle (Canadian French)
+summary: Canadian French XTB translation bundle with localized ChromeOS UI strings, keyed by numeric message IDs and used to render the ChromeOS interface in French for Canada.

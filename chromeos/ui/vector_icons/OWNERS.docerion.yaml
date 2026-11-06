@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Vector icons directory owners
+summary: Owners file that defers review ownership to the components/vector_icons OWNERS file.

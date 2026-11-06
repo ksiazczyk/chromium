@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the chromeos UI base component
+summary: Defines the chromeos_ui_base component with its sources and dependencies, plus a testonly unit_tests source set for file_icon_util_unittest.cc.

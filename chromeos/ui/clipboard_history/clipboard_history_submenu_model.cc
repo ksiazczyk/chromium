@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history submenu model implementation
+// summary: Implements the context submenu that lists clipboard history items, pastes the selected item, and can open the standalone history menu.
+// ---
+
 #include "chromeos/ui/clipboard_history/clipboard_history_submenu_model.h"
 
 #include "base/memory/ptr_util.h"

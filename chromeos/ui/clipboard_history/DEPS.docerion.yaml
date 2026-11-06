@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for clipboard_history
+summary: Lists the directories that files in the clipboard_history folder are allowed to include from.

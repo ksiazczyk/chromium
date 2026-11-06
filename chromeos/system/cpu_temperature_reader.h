@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPUTemperatureReader class header
+// summary: Declares the CPUTemperatureReader class and CPUTemperatureInfo struct for reading per-sensor CPU temperatures from sysfs hwmon.
+// ---
+
 #ifndef CHROMEOS_SYSTEM_CPU_TEMPERATURE_READER_H_
 #define CHROMEOS_SYSTEM_CPU_TEMPERATURE_READER_H_
 

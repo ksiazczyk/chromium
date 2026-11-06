@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPG to PDF conversion header
+// summary: Declares ConvertJpgImagesToPdf overloads that write JPEG images as a single PDF to a file path or to an output byte vector.
+// ---
+
 #ifndef CHROMEOS_UTILS_PDF_CONVERSION_H_
 #define CHROMEOS_UTILS_PDF_CONVERSION_H_
 

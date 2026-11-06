@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame size button class
+// summary: Declares the maximize/restore button that morphs adjacent buttons into snap targets and shows the multitask menu on long press.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_SIZE_BUTTON_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_FRAME_SIZE_BUTTON_H_
 

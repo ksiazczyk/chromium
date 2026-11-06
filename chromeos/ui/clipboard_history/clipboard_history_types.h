@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history shared types
+// summary: Defines the ShowSource and DisplayFormat enums plus the ItemDescriptor struct that describes clipboard history menu items.
+// ---
+
 #ifndef CHROMEOS_UI_CLIPBOARD_HISTORY_CLIPBOARD_HISTORY_TYPES_H_
 #define CHROMEOS_UI_CLIPBOARD_HISTORY_CLIPBOARD_HISTORY_TYPES_H_
 

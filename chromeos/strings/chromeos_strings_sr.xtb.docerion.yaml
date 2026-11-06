@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_sr.xtb.
+type: data
+title: ChromeOS Serbian Cyrillic translation bundle
+summary: Serbian (Cyrillic script) translations of ChromeOS user interface strings stored in the XTB XML translation bundle format.

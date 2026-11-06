@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_ro.xtb.
+type: data
+title: ChromeOS Romanian translation bundle
+summary: Romanian translations of ChromeOS user interface strings stored in the XTB XML translation bundle format.

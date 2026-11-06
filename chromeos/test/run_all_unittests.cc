@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test launcher for chromeos
+// summary: Main entry point that initializes Mojo and runs the chromeos unit test suite via the Ash test suite.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

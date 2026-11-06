@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split button view
+// summary: Declares a button view with two divided buttons that snap a window depending on button location and device orientation.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_MULTITASK_MENU_SPLIT_BUTTON_VIEW_H_
 #define CHROMEOS_UI_FRAME_MULTITASK_MENU_SPLIT_BUTTON_VIEW_H_
 

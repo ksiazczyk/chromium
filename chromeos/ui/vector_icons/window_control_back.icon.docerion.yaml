@@ -1,0 +1,4 @@
+# Docerion header of window_control_back.icon.
+type: asset
+title: Window control back icon
+summary: Defines the back window control icon at 24dp and 12dp, mirrored in right-to-left layouts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption button model interface
+// summary: Interface describing the visibility, enabled state and zoom mode of caption buttons for each caption button icon type.
+// ---
+
 #ifndef CHROMEOS_UI_FRAME_CAPTION_BUTTONS_CAPTION_BUTTON_MODEL_H_
 #define CHROMEOS_UI_FRAME_CAPTION_BUTTONS_CAPTION_BUTTON_MODEL_H_
 

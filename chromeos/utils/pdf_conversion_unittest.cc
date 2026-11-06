@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for JPG to PDF conversion
+// summary: Tests JPG to PDF conversion to files and buffers, covering DPI-based sizing and alternate page rotation behavior.
+// ---
+
 #include "chromeos/utils/pdf_conversion.h"
 
 #include <fstream>

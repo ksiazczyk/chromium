@@ -1,0 +1,4 @@
+# Docerion header of chromeos_strings_bn.xtb.
+type: data
+title: ChromeOS strings in Bengali
+summary: Translation bundle with ChromeOS UI strings localized into Bengali for use in the strings build.

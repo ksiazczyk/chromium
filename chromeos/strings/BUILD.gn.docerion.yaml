@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS strings build rules
+summary: GN build file that compiles ChromeOS localized strings with grit from the .grd and .xtb sources and repacks English strings into a test pak.
