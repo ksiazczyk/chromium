@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form field data Android implementation
+// summary: Implements FormFieldDataAndroid, the native peer of Java FormFieldData, syncing field values, visibility, similarity and type predictions with the Java bridge.
+// ---
+
 #include "components/android_autofill/browser/form_field_data_android.h"
 
 #include <string_view>

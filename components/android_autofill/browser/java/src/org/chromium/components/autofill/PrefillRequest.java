@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefillRequest
+// summary: Builds a SparseArray of VirtualViewFillInfo from FormData so the Android autofill framework can use server predictions for prefill on Android U and later.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.os.Build;

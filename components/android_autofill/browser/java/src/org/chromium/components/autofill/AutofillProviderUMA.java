@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProviderUMA metrics
+// summary: Records UMA histograms for autofill sessions, server prediction availability, creation context, and exceptions thrown by AutofillManager calls.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

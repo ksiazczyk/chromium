@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationServiceImpl implementation
+// summary: Implements AffiliationService, including change password URL lookup with PSL extensions and patterns, backend management on a dedicated task runner, and metrics logging.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_service_impl.h"
 
 #include <algorithm>

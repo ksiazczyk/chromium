@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLaunchInfo struct header
+// summary: Declares the AppLaunchInfo struct holding app launch parameters passed to SaveAppLaunchInfo.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_APP_LAUNCH_INFO_H_
 #define COMPONENTS_APP_RESTORE_APP_LAUNCH_INFO_H_
 

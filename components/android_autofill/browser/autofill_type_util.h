@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill type utility header
+// summary: Declares GetMostRelevantFieldType, which reduces the FieldTypes encapsulated by an AutofillType to a single most relevant one.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_AUTOFILL_TYPE_UTIL_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_AUTOFILL_TYPE_UTIL_H_
 

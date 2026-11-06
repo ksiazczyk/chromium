@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error page populator header
+// summary: Declares PopulateErrorPageHtml, which fills the output string with an Android system style error page for a given WebURLError and does nothing when the output is null.
+// ---
+
 #ifndef COMPONENTS_ANDROID_SYSTEM_ERROR_PAGE_ERROR_PAGE_POPULATOR_H_
 #define COMPONENTS_ANDROID_SYSTEM_ERROR_PAGE_ERROR_PAGE_POPULATOR_H_
 

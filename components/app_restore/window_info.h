@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowInfo header
+// summary: Declares the WindowInfo struct carrying window state, bounds, desk, display, and ARC details, plus BrowserExtraInfo for saved desk browsers.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_WINDOW_INFO_H_
 #define COMPONENTS_APP_RESTORE_WINDOW_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcReadHandler implementation
+// summary: Implements reading of ARC app launch and window info during restore, handling task creation, ghost windows, and pending window candidates.
+// ---
+
 #include "components/app_restore/arc_read_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error page populator implementation
+// summary: Implements PopulateErrorPageHtml, building a localized Android-style error page HTML from a WebURLError, with special handling for throttled requests and RTL layout.
+// ---
+
 #include "components/android_system_error_page/error_page_populator.h"
 
 #include "base/i18n/rtl.h"

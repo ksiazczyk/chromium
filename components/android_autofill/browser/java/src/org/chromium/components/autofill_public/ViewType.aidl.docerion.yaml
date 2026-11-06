@@ -1,0 +1,4 @@
+# Docerion header of ViewType.aidl.
+type: source
+title: ViewType parcelable declaration
+summary: Declares ViewType as a parcelable so it can be passed across AIDL interfaces.

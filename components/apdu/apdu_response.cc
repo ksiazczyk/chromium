@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APDU response parsing and encoding implementation
+// summary: Implements creation of ApduResponse objects from serialized messages and encoding of responses with trailing status bytes.
+// ---
+
 #include "components/apdu/apdu_response.h"
 
 #include <utility>

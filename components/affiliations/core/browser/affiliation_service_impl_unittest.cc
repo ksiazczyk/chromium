@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliationServiceImpl unit tests
+// summary: Unit tests for AffiliationServiceImpl covering affiliations and branding lookups, change password URL fetching, prefetching, and backend interaction with mocked fetchers and consumers.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_service_impl.h"
 
 #include <memory>

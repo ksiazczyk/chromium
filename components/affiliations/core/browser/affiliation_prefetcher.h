@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationPrefetcher class declaration
+// summary: Declares AffiliationPrefetcher, which prefetches affiliation information on startup for all registered affiliation sources and observes them for added or removed facets.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_PREFETCHER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_PREFETCHER_H_
 

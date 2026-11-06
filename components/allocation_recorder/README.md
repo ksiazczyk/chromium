@@ -1,3 +1,11 @@
+---
+type: readme
+title: Allocation Recorder
+summary: Describes the allocation recorder that logs recent malloc and free calls for Crashpad, its crash_client, crash_handler and internal parts, and the multi-CL implementation plan.
+relations:
+  - documents /base/debug/allocation_trace.h
+---
+
 # Allocation Recorder
 The allocation_recorder lets Crashpad include a log of recent calls to malloc()
 and free() when a memory safety fault is detected. Each entry includes a portion

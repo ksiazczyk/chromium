@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormDataAndroid unit tests
+// summary: Unit tests for FormDataAndroid covering field similarity, form comparison and field type updates using mocked bridges.
+// ---
+
 #include "components/android_autofill/browser/form_data_android.h"
 
 #include <memory>

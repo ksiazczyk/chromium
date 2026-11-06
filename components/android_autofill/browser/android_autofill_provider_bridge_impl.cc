@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAutofillProviderBridgeImpl implementation
+// summary: Implements the JNI bridge that forwards autofill events and session commands between the native provider and the Java AutofillProvider.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_provider_bridge_impl.h"
 
 #include <string>

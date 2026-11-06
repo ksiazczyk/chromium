@@ -1,0 +1,4 @@
+# Docerion header of IViewTypeCallback.aidl.
+type: source
+title: IViewTypeCallback binder interface
+summary: Defines the callback interface through which the AutofillHintsService delivers available view types, including a deprecated onQueryFailed method.

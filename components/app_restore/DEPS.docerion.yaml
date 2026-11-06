@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for app_restore
+summary: DEPS file specifying which headers and modules the app_restore directory may include.

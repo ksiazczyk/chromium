@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillRequest form value handling
+// summary: Translates FormData into the ViewStructure used by Android's autofill framework and validates framework autofill requests against session and field ids before updating field values.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.graphics.Rect;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android autofill test support
+summary: Defines the GN targets for Android autofill test support, including a Java test helper library, generated JNI headers, and a native source set.

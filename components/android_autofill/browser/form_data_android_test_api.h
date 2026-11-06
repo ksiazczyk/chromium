@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormDataAndroid test API
+// summary: Exposes FormDataAndroid internals such as its fields to tests through a test_api helper.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_DATA_ANDROID_TEST_API_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_DATA_ANDROID_TEST_API_H_
 

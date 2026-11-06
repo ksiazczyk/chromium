@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SparseArrayWithWorkaround
+// summary: SparseArray subclass that works around an Android U autofill framework bug (b/299532529) and is intended only for that purpose until Android U support ends.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.util.SparseArray;

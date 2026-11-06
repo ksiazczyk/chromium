@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAutofillFeatures feature flag accessors
+// summary: Java accessor for base feature list state, exposing Android autofill feature flags registered in native code through JNI.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.JNINamespace;

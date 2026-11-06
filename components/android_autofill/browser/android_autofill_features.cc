@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill feature flags implementation
+// summary: Defines the Android autofill base::Feature flags and exposes the Java-visible subset of them through a JNI accessor.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_features.h"
 
 #include <jni.h>

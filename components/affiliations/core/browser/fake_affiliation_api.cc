@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake affiliation API for tests
+// summary: Test helper that manufactures fake affiliation API responses from predefined equivalence classes and groupings.
+// ---
+
 #include "components/affiliations/core/browser/fake_affiliation_api.h"
 
 #include <algorithm>

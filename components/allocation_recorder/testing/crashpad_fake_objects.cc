@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of fake Crashpad test objects
+// summary: Implements a test process memory fake and an extension stream data source delegate used to capture recorder data in tests.
+// ---
+
 
 #include "components/allocation_recorder/testing/crashpad_fake_objects.h"
 

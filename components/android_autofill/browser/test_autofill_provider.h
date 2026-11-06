@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test autofill provider stub
+// summary: Declares a no-op AutofillProvider subclass that overrides all provider callbacks as empty stubs for testing.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_TEST_AUTOFILL_PROVIDER_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_TEST_AUTOFILL_PROVIDER_H_
 

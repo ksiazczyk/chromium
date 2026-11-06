@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the dump_allocation_recorder_data tool
+summary: Defines the GN build target for the dump_allocation_recorder_data executable, its sources and dependencies on base, allocation recorder and Crashpad.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookup affiliation response parser declaration
+// summary: Declares ParseLookupAffiliationResponse, which converts affiliation API responses into parsed fetch results for requested facet URIs.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_LOOKUP_AFFILIATION_RESPONSE_PARSER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_LOOKUP_AFFILIATION_RESPONSE_PARSER_H_
 

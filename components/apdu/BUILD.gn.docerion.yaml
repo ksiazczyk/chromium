@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the apdu component
+summary: Defines the apdu component, its unit test source set, and a libFuzzer fuzz target in GN build syntax.

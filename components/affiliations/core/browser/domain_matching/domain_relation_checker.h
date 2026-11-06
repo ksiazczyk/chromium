@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomainRelationChecker class header
+// summary: Declares the DomainRelationChecker class that matches origins via AffiliationService and returns an optional MatchType through asynchronous callbacks.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_DOMAIN_MATCHING_DOMAIN_RELATION_CHECKER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_DOMAIN_MATCHING_DOMAIN_RELATION_CHECKER_H_
 

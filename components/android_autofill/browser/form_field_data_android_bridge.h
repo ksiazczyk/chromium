@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form field data Android bridge interface
+// summary: Defines the FormFieldDataAndroidBridge interface for the C++ to Java bridge that creates and updates the Java FormFieldData peer.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_FIELD_DATA_ANDROID_BRIDGE_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_FIELD_DATA_ANDROID_BRIDGE_H_
 

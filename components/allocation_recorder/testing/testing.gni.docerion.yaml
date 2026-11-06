@@ -1,0 +1,4 @@
+# Docerion header of testing.gni.
+type: config
+title: GN flag controlling allocation recorder integration tests
+summary: Defines enable_allocation_trace_recorder_integration_tests, disabling the integration tests on Fuchsia, Windows and ChromeOS.

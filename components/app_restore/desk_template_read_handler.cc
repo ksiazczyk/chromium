@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk template read handler implementation
+// summary: Implements DeskTemplateReadHandler, which receives restore data from desks storage and provides window info for apps launched from desk templates.
+// ---
+
 #include "components/app_restore/desk_template_read_handler.h"
 
 #include <ranges>

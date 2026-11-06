@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for android system error page
+summary: Defines the android_system_error_page static library target, listing its sources and dependencies on base, net, blink, ui, and component resources.

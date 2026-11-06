@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the app_launch_prefetch component
+summary: GN build file that defines the Windows-only app_launch_prefetch component with its sources and a dependency on //base.

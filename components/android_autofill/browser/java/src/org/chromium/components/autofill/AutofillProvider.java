@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProvider for Android autofill sessions
+// summary: Coordinates autofill sessions with the Android autofill service to fill web forms, managing requests, datalist popups, prefill, and native interaction on the UI thread.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

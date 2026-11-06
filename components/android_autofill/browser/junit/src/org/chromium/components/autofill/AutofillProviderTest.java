@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillProvider unit tests
+// summary: Robolectric unit tests covering AutofillProvider behavior, including visibility detection, session handling, and native bridge interactions.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.junit.Assert.assertEquals;

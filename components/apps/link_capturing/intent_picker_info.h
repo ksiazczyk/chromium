@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent picker data types and enums
+// summary: Declares IntentPickerAppInfo, enums for picker close reasons, entry types, bubble variants, icon events, and the IntentPickerResponse callback.
+// ---
+
 #ifndef COMPONENTS_APPS_LINK_CAPTURING_INTENT_PICKER_INFO_H_
 #define COMPONENTS_APPS_LINK_CAPTURING_INTENT_PICKER_INFO_H_
 

@@ -62,6 +62,12 @@
 //     [--------------- Cache is fresh ----------------)[-- Cache is stale ..
 //
 
+// ---docerion
+// type: source
+// title: Facet manager implementation
+// summary: Implements per-facet affiliation request handling with on-demand and proactive fetching and cache expiry logic.
+// ---
+
 #include "components/affiliations/core/browser/facet_manager.h"
 
 #include "base/functional/bind.h"

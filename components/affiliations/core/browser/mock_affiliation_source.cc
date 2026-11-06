@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock affiliation source implementation
+// summary: Implements MockAffiliationSource and MockAffiliationSourceObserver helpers that add or remove facets and notify the observer.
+// ---
+
 #include "components/affiliations/core/browser/mock_affiliation_source.h"
 
 namespace affiliations {

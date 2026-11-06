@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillHintsServiceTestHelper
+// summary: Test helper that implements and registers an IViewTypeCallback to capture view type results or query failures from the AutofillHintsService.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.os.IBinder;

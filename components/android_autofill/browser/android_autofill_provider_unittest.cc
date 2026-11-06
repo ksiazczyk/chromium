@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidAutofillProvider unit tests
+// summary: Unit tests for AndroidAutofillProvider covering autofill sessions, prefill requests, passkey bottom sheet behaviour and metrics.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_provider.h"
 
 #include <memory>

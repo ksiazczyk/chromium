@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataAndroid bridge JNI implementation
+// summary: Implements the bridge by returning the existing Java FormData peer or creating a new one via JNI, passing session id, form name and fields.
+// ---
+
 #include "components/android_autofill/browser/form_data_android_bridge_impl.h"
 
 #include <memory>

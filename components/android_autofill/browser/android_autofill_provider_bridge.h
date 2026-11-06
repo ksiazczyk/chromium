@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAutofillProviderBridge interface
+// summary: Defines the C++ to Java bridge interface between AndroidAutofillProvider and the Java AutofillProvider, including its delegate and FieldInfo types.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_AUTOFILL_PROVIDER_BRIDGE_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_AUTOFILL_PROVIDER_BRIDGE_H_
 

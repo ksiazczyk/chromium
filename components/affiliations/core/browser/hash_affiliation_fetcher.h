@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash-based affiliation fetcher class declaration
+// summary: Declares HashAffiliationFetcher, which queries the Affiliation API with hashed facet URL prefixes to retrieve affiliations with an added privacy layer.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_HASH_AFFILIATION_FETCHER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_HASH_AFFILIATION_FETCHER_H_
 

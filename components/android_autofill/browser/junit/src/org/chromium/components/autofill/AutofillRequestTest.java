@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillRequest unit tests
+// summary: Robolectric unit tests verifying that AutofillRequest builds ViewStructures with correct form-level and field-level information.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.junit.Assert.assertArrayEquals;

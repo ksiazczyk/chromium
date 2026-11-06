@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcReadHandler class definition
+// summary: Declares ArcReadHandler, a delegate-backed helper for reading ARC app and window info with special handling for tasks and session ids.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_ARC_READ_HANDLER_H_
 #define COMPONENTS_APP_RESTORE_ARC_READ_HANDLER_H_
 

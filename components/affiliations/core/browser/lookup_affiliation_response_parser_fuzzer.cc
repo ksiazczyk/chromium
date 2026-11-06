@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lookup affiliation response parser fuzzer
+// summary: LibFuzzer harness that feeds fuzzable protocol messages into ParseLookupAffiliationResponse to check parser robustness against malformed input.
+// ---
+
 #include "components/affiliations/core/browser/lookup_affiliation_response_parser.h"
 
 #include <stdlib.h>

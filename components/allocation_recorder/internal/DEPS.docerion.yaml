@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Crashpad client dependency
+summary: Grants the internal directory permission to include headers from third_party/crashpad/crashpad/client.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationDatabase implementation
+// summary: Implements the SQLite-backed AffiliationDatabase, including schema creation and migration for facet equivalence classes, groups and PSL extensions.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_database.h"
 
 #include <stdint.h>

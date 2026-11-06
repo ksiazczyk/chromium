@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationLocaleStorage unit tests
+// summary: Unit tests covering locale get and set behavior, BCP47 format handling, and triggering of registered locale-changed callbacks.
+// ---
+
 #include "components/application_locale_storage/application_locale_storage.h"
 
 #include <string>

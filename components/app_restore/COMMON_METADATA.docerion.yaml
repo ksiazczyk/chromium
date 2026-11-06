@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for app_restore
+summary: Shared directory metadata setting the Buganizer component, Chrome OS, and owning team email.

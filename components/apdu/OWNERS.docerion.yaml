@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners pointer for the apdu directory
+summary: Delegates code ownership of the apdu directory to the owners of device/fido.

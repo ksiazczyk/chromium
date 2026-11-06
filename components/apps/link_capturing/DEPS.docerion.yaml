@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Link capturing DEPS include rules
+summary: Grants this component permission to include headers from ui/base.

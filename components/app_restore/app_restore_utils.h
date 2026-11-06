@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App restore utility functions
+// summary: Declares helpers for applying restore window properties, fetching restore window ids, handling ARC session ids, and counting windows and tabs.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_APP_RESTORE_UTILS_H_
 #define COMPONENTS_APP_RESTORE_APP_RESTORE_UTILS_H_
 

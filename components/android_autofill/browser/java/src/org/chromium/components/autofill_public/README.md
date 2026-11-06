@@ -1,3 +1,11 @@
+---
+type: readme
+title: How to integrate the AutofillHintsService
+summary: Step-by-step instructions for integrating the AutofillHintsService, from obtaining the binder to registering the callback and handling returned view types.
+relations:
+  - documents /components/android_autofill/browser/java/src/org/chromium/components/autofill/AutofillHintsService.java
+---
+
 # How to integrate the AutofillHintsService
 
 1. Add all files of this directory to your project.

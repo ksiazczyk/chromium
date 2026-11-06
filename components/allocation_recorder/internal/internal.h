@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for the allocation recorder crash info annotation
+// summary: Defines the Crashpad annotation name and type plus the minidump stream data type used to pass allocation recorder crash info from client to handler.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_INTERNAL_INTERNAL_H_
 #define COMPONENTS_ALLOCATION_RECORDER_INTERNAL_INTERNAL_H_
 

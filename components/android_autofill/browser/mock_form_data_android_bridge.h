@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock form data Android bridge declaration
+// summary: Declares MockFormDataAndroidBridge, a gmock stand-in for FormDataAndroidBridge used to fake the Java peer in tests.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_MOCK_FORM_DATA_ANDROID_BRIDGE_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_MOCK_FORM_DATA_ANDROID_BRIDGE_H_
 

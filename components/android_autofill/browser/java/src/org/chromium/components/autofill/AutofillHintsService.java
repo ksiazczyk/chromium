@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillHintsService binder for view type callbacks
+// summary: Binder service that communicates view type information to the Android autofill service via a registered callback, buffering view types until the callback arrives.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.os.IBinder;

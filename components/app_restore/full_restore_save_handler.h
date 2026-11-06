@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullRestoreSaveHandler header
+// summary: Declares FullRestoreSaveHandler, a singleton that writes app launch and window information to disk via FullRestoreFileHandler on a background task runner.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_FULL_RESTORE_SAVE_HANDLER_H_
 #define COMPONENTS_APP_RESTORE_FULL_RESTORE_SAVE_HANDLER_H_
 

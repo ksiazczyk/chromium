@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore utilities header
+// summary: Declares helper functions for saving app launch and window info, setting profile paths, querying browsers, and tracking desk removal in full restore.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_FULL_RESTORE_UTILS_H_
 #define COMPONENTS_APP_RESTORE_FULL_RESTORE_UTILS_H_
 

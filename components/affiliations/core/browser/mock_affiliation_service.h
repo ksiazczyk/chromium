@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock affiliation service
+// summary: Declares a gmock mock of the AffiliationService interface stubbing lookup, prefetch, grouping, and source registration methods for tests.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_MOCK_AFFILIATION_SERVICE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_MOCK_AFFILIATION_SERVICE_H_
 

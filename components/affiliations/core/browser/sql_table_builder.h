@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL table builder class declaration
+// summary: Declares SQLTableBuilder, a helper for describing versioned evolution of SQLite table structures and generating table creation and migration statements.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_SQL_TABLE_BUILDER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_SQL_TABLE_BUILDER_H_
 

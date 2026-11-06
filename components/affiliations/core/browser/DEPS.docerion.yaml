@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for affiliations core browser
+summary: Specifies the allowed include dependencies for the affiliations core browser directory, with an extra rule for hash_affiliation_fetcher.cc.

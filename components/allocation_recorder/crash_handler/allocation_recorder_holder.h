@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllocationRecorderHolder class header
+// summary: Declares AllocationRecorderHolder, which loads an AllocationTraceRecorder from client memory for processing in the crash handler.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_CRASH_HANDLER_ALLOCATION_RECORDER_HOLDER_H_
 #define COMPONENTS_ALLOCATION_RECORDER_CRASH_HANDLER_ALLOCATION_RECORDER_HOLDER_H_
 

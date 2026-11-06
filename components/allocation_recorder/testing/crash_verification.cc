@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of Crashpad crash report verification helpers
+// summary: Implements helpers that crash a process and verify the resulting Crashpad report contains or lacks an AllocationTraceRecorder stream with a valid payload.
+// ---
+
 #include "components/allocation_recorder/testing/crash_verification.h"
 
 #include <algorithm>

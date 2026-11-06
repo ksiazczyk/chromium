@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullRestoreFileHandler class declaration
+// summary: Declares the disk backend used by FullRestoreSaveHandler and RestoreHandler to read and write RestoreData from and to the full restore file.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_FULL_RESTORE_FILE_HANDLER_H_
 #define COMPONENTS_APP_RESTORE_FULL_RESTORE_FILE_HANDLER_H_
 

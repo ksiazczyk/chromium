@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetcherManager implementation
+// summary: Implements AffiliationFetcherManager, which creates fetchers for each request, tracks them, cleans them up on completion, and reports requested facet URIs.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_fetcher_manager.h"
 
 #include <memory>

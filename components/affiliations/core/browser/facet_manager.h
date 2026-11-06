@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facet manager header
+// summary: Declares FacetManager, which handles affiliation requests and cache freshness for a single facet.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_FACET_MANAGER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_FACET_MANAGER_H_
 

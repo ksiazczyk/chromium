@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Affiliation utilities implementation
+// summary: Implements facet URI utilities, including canonicalization of web and Android facet URIs, base64 padding fixes, and helpers for facet equivalence and branding.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_utils.h"
 
 #include <algorithm>

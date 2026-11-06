@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetcherFactoryImpl
+// summary: Implements AffiliationFetcherFactory by creating a HashAffiliationFetcher when fetching is possible and returning nullptr otherwise.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_fetcher_factory_impl.h"
 
 #include "components/affiliations/core/browser/hash_affiliation_fetcher.h"

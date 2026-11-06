@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the apdu directory
+summary: Maps the apdu directory to the Blink>WebAuthentication monorail component and a public Buganizer component ID.

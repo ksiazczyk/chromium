@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationPrefetcher implementation
+// summary: Implements the affiliation prefetcher, which delays initialization after startup, gathers facets from registered sources, and prefetches or trims the affiliation cache as facets change.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_prefetcher.h"
 
 #include <algorithm>

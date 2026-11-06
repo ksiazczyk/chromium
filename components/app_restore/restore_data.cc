@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreData implementation
+// summary: Implements RestoreData, which stores app launch and window data per app and window id and converts it to and from JSON for the full restore file.
+// ---
+
 #include "components/app_restore/restore_data.h"
 
 #include <utility>

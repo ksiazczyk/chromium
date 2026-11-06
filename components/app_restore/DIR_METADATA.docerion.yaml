@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for app_restore
+summary: DIR_METADATA file that reuses the common metadata defined for the app_restore component.

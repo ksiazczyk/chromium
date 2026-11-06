@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL table builder unit tests
+// summary: Unit tests verifying SQLTableBuilder table creation, migration, column and index handling, and foreign key behavior against an in-memory SQLite database.
+// ---
+
 #include "components/affiliations/core/browser/sql_table_builder.h"
 
 #include <variant>

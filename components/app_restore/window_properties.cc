@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App restore window property keys
+// summary: Defines aura window property keys used by app restore, such as app id, window id, activation index, restore window id, and window info.
+// ---
+
 #include "components/app_restore/window_properties.h"
 
 #include "components/app_restore/window_info.h"

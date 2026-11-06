@@ -1,3 +1,9 @@
+---
+type: readme
+title: Affiliations
+summary: Explains the affiliations component that links origin-specific data across origins, defining terminology and key classes such as AffiliationService and AffiliationBackend.
+---
+
 # Affiliations
 
 Affiliations is a component that allows querying an affiliation service backend.

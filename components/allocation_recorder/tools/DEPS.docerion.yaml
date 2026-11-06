@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tools directory
+summary: Grants this directory permission to include headers from third_party/crashpad.

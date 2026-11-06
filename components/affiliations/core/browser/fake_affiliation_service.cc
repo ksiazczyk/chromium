@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake affiliation service implementation
+// summary: Implements FakeAffiliationService, a test double that seeds affiliation groups, grouping info and PSL extensions and answers queries from an in-memory cache.
+// ---
+
 #include "components/affiliations/core/browser/fake_affiliation_service.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of IAutofillHintsService.aidl.
+type: source
+title: IAutofillHintsService binder interface
+summary: Defines the binder interface that exposes autofill hints unsupported by the Android framework and lets autofill services register a view type callback.

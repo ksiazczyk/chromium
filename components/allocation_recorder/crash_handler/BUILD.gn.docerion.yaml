@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crash handler build targets (BUILD.gn)
+summary: Defines the crash_handler source set, the memory_operation_report proto library, and the unit test target for the allocation recorder crash handler.

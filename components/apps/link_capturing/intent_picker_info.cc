@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentPickerAppInfo implementation
+// summary: Implements the constructors and copy/move assignment operators for the IntentPickerAppInfo struct in the apps namespace.
+// ---
+
 #include "components/apps/link_capturing/intent_picker_info.h"
 
 #include <utility>

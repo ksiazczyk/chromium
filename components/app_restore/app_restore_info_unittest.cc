@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppRestoreInfo unit tests
+// summary: Tests that restore preference changes in AppRestoreInfo trigger observer callbacks and update the can-restore state correctly.
+// ---
+
 #include "components/app_restore/app_restore_info.h"
 
 #include <map>

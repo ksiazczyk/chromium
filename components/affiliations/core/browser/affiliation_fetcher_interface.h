@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetcherInterface
+// summary: Declares the fetcher interface with request info, parsed response, and fetch result structures for retrieving affiliations for facet URIs over the network.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCHER_INTERFACE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCHER_INTERFACE_H_
 

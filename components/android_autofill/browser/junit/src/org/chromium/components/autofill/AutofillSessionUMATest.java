@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillSessionUMA unit tests
+// summary: Parameterized Robolectric tests checking that AutofillSession histogram buckets are recorded correctly in AutofillProviderUMA.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.content.Context;

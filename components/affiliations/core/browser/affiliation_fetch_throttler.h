@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetchThrottler
+// summary: Declares the throttling logic that schedules affiliation network requests, applying exponential backoff and connectivity checks so servers are not overwhelmed during outages.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCH_THROTTLER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCH_THROTTLER_H_
 

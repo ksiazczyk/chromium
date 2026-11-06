@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreData unit tests
+// summary: Unit tests verifying RestoreData parsing, JSON conversion, window info modification, and browser queries with varied app and window fixtures.
+// ---
+
 #include "components/app_restore/restore_data.h"
 
 #include <cstdint>

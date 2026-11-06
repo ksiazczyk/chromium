@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream data source factory implementation
+// summary: Creates Crashpad minidump user extension stream data sources that carry serialized allocation report or error payloads.
+// ---
+
 #include "components/allocation_recorder/crash_handler/stream_data_source_factory.h"
 
 #include <memory>

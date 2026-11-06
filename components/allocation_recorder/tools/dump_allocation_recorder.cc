@@ -39,6 +39,12 @@
 // The call stack can than be symbolized using tools like stack.py or
 // llvm-symbolize.
 
+// ---docerion
+// type: source
+// title: Allocation recorder dump tool for Crashpad minidumps
+// summary: Command-line tool that reads a Crashpad minidump and prints the allocation recorder's recorded memory operations and stack frames to standard output.
+// ---
+
 #include <iomanip>
 #include <iostream>
 

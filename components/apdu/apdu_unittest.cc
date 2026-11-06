@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for APDU command and response serialization
+// summary: Contains gtest unit tests covering serialization and deserialization of APDU commands and responses, including edge cases.
+// ---
+
 #include "components/apdu/apdu_command.h"
 #include "components/apdu/apdu_response.h"
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconLoaderDelegate interface header
+// summary: Declares the AppIconLoaderDelegate interface whose OnAppImageUpdated callback receives app images, a placeholder icon flag, and an optional badge image.
+// ---
+
 #ifndef COMPONENTS_APP_ICON_LOADER_APP_ICON_LOADER_DELEGATE_H_
 #define COMPONENTS_APP_ICON_LOADER_APP_ICON_LOADER_DELEGATE_H_
 

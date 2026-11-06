@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payload creation unit tests
+// summary: Unit tests verifying that recorder records and statistics are correctly converted into protobuf memory operation payloads.
+// ---
+
 #include "components/allocation_recorder/crash_handler/payload.h"
 
 #include <algorithm>

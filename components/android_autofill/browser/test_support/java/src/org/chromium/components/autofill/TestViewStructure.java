@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestViewStructure
+// summary: Test stub of Android's ViewStructure that implements only the methods needed for autofill testing, including a test HtmlInfo and builder.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.graphics.Matrix;

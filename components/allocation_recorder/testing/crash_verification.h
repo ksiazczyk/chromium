@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for Crashpad crash report verification helpers
+// summary: Declares functions to verify crashes produce Crashpad reports with or without an allocation recorder stream and to check basic payload properties.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_TESTING_CRASH_VERIFICATION_H_
 #define COMPONENTS_ALLOCATION_RECORDER_TESTING_CRASH_VERIFICATION_H_
 

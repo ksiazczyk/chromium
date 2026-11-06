@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore utilities implementation
+// summary: Implements helper functions that forward app launch and window info saving, profile path setup, and browser queries to the full restore handlers.
+// ---
+
 #include "components/app_restore/full_restore_utils.h"
 
 #include "base/files/file_path.h"

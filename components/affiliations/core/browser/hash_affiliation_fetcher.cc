@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash-based affiliation fetcher implementation
+// summary: Implements fetching affiliation information from the Affiliation API by sending only SHA-256 hash prefixes of facet URLs, with metrics logging and response handling.
+// ---
+
 #include "components/affiliations/core/browser/hash_affiliation_fetcher.h"
 
 #include <memory>

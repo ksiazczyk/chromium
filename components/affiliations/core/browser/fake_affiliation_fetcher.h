@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake affiliation fetcher header
+// summary: Declares FakeAffiliationFetcher and its factory for injecting fake API responses in tests.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_FAKE_AFFILIATION_FETCHER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_FAKE_AFFILIATION_FETCHER_H_
 

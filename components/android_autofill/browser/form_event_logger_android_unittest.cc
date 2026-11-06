@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android form event logger unit tests
+// summary: Tests the funnel and key metrics histograms that AndroidFormEventLogger records for form parsing, interaction, filling and submission events.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "components/android_autofill/browser/android_form_event_logger.h"
 #include "testing/gtest/include/gtest/gtest.h"

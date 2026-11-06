@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Allocation Recorder DIR_METADATA
+summary: Maps the component to the Internals>Instrumentation>Memory monorail component and Buganizer component 1456375 for issue tracking.

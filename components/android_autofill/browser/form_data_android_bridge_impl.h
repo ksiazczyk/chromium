@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataAndroidBridgeImpl declaration
+// summary: Declares the concrete bridge implementation that holds a weak reference to the Java FormData object.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_DATA_ANDROID_BRIDGE_IMPL_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_DATA_ANDROID_BRIDGE_IMPL_H_
 

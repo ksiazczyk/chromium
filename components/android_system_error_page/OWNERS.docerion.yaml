@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to android_webview
+summary: Delegates ownership and review responsibility for this directory to the android_webview OWNERS file.

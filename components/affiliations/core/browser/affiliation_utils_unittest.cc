@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Affiliation utils unit tests
+// summary: Unit tests for facet URI canonicalization and affiliation utility classes.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_utils.h"
 
 #include "base/command_line.h"
