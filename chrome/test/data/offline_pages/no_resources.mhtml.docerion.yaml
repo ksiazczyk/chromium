@@ -1,0 +1,4 @@
+# Docerion header of no_resources.mhtml.
+type: test
+title: MHTML fixture with no resources
+summary: Multipart MHTML header with no MIME parts, used to test archives that contain no resources.

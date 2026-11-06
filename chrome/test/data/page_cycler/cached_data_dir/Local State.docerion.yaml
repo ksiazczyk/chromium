@@ -1,0 +1,4 @@
+# Docerion header of Local State.
+type: test
+title: Local State preferences fixture
+summary: Pre-populated Chrome Local State JSON with profile, promo, and stability settings serving as cached browser state for the page cycler test.

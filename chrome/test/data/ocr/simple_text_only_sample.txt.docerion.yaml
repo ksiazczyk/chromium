@@ -1,0 +1,4 @@
+# Docerion header of simple_text_only_sample.txt.
+type: test
+title: Simple text OCR expected output
+summary: Expected OCR result for the simple Latin-letter sample image, listing the recognized lines with a confidence score.

@@ -1,0 +1,4 @@
+# Docerion header of platform_notification_service.html.
+type: test
+title: Platform Notification Service browser test service page
+summary: Service page for PlatformNotificationServiceBrowserTest that displays persistent and non-persistent notifications with various options.

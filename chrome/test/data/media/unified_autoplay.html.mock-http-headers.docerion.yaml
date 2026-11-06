@@ -1,0 +1,4 @@
+# Docerion header of unified_autoplay.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for unified_autoplay.html
+summary: 'Mock HTTP response headers serving unified_autoplay.html with 200 OK and a Supports-Loading-Mode: fenced-frame header.'

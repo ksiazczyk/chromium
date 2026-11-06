@@ -1,0 +1,4 @@
+# Docerion header of chinese.txt.
+type: test
+title: Chinese OCR expected text
+summary: Expected OCR result for the Chinese sample image, containing the recognized proverb and its confidence score.

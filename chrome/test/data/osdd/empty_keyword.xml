@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Search plugin with empty alias
+summary: Firefox-style search plugin fixture for an example search engine whose Alias element is empty, used in search engine tests.
+-->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Example</ShortName>
 <Description>Example Search</Description>

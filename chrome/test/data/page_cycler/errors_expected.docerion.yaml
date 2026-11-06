@@ -1,0 +1,4 @@
+# Docerion header of errors_expected.
+type: test
+title: Page cycler expected load errors
+summary: Lists expected page load failure messages such as DNS server failures and timeouts for the page cycler test.

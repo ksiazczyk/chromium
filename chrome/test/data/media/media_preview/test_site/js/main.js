@@ -3,6 +3,13 @@
  *  Use of this source code is governed by a BSD-style license that can be
  *  found in the LICENSE file.
  */
+
+// ---docerion
+// type: test
+// title: Media preview test site camera capture script
+// summary: Page script for the media preview test site that requests camera access with getUserMedia, attaches the stream to a video element, and reports errors.
+// ---
+
 'use strict';
 
 // Put variables in global scope to make them available to the browser console.

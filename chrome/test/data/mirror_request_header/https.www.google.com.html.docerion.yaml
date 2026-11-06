@@ -1,0 +1,4 @@
+# Docerion header of https.www.google.com.html.
+type: test
+title: HTTPS google.com empty test page
+summary: Empty HTML fixture representing the HTTPS google.com page used by the mirror request header tests.

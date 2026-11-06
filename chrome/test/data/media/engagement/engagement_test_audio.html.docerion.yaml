@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_audio.html.
+type: test
+title: Media Engagement Audio Test
+summary: Test page with an autoplaying audio element that loads the shared engagement test helper script.

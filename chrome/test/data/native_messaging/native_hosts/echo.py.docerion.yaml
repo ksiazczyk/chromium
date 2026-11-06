@@ -1,0 +1,4 @@
+# Docerion header of echo.py.
+type: test
+title: Echo native messaging test host
+summary: Python native messaging host for Chrome tests that echoes messages back and supports scenarios like oversized messages, invalid responses, connect ID checks and early host exit.

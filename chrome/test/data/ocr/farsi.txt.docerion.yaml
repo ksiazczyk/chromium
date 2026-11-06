@@ -1,0 +1,4 @@
+# Docerion header of farsi.txt.
+type: test
+title: Farsi OCR expected text
+summary: Expected OCR result for the Farsi sample image, pairing the recognized verse with its confidence score.

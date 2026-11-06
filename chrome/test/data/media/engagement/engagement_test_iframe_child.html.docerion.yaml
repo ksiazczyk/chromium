@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_iframe_child.html.
+type: test
+title: Media Engagement test iframe child page with autoplaying video
+summary: Autoplaying video child page for iframe-based media engagement tests that posts a Ready message to its parent when playback starts.

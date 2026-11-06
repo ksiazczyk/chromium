@@ -1,0 +1,4 @@
+# Docerion header of Bookmarks.
+type: test
+title: Bookmarks data for cached Chrome test profile
+summary: Chrome profile bookmarks file with empty bookmark bar, other and mobile folders, used as cached profile data for the page cycler test.

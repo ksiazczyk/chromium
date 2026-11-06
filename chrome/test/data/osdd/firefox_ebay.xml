@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: eBay search plugin test data
+summary: Firefox-derived eBay search plugin fixture with GET parameters and an inline icon, used as test data for search engine parsing.
+-->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>eBay</ShortName>
 <Description>eBay - Online actions</Description>

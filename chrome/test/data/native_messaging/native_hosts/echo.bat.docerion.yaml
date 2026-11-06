@@ -1,0 +1,4 @@
+# Docerion header of echo.bat.
+type: test
+title: Echo native messaging host batch launcher
+summary: Windows batch wrapper that starts the echo.py native messaging test host with Python.

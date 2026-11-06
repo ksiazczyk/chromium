@@ -1,0 +1,4 @@
+# Docerion header of iframe_container_page.html.
+type: test
+title: Iframe container page
+summary: Test page that embeds a sandboxed iframe loading the external navigation page.

@@ -1,0 +1,4 @@
+# Docerion header of video-with-different-metadata.html.
+type: test
+title: Test page showing a video with media session actions and different metadata
+summary: Browser test page that plays a video and sets distinct Media Session metadata plus play, pause, seek and track action handlers for media session testing.

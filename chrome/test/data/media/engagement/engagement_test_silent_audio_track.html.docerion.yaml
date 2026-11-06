@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_silent_audio_track.html.
+type: test
+title: Media Engagement test page with video carrying a silent audio track
+summary: Test page with an autoplaying video containing a silent audio track to verify media engagement treatment of silent audio.

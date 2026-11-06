@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for media engagement preload test data
+summary: Builds the media engagement preload test data by generating a DAFSA proto from test.json and copying the protobuf fixtures to the output directory.

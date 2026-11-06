@@ -1,0 +1,4 @@
+# Docerion header of credit_card_in_iframe.html.
+type: test
+title: Credit card iframe test page
+summary: Test page that embeds the credit card form page in an iframe, with the iframe origin taken from a domain query parameter.

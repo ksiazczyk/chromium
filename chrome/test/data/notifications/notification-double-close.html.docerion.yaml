@@ -1,0 +1,4 @@
+# Docerion header of notification-double-close.html.
+type: test
+title: Notification double-close regression test page
+summary: Page that creates a notification and closes it twice to verify that double-closing a notification does not crash.

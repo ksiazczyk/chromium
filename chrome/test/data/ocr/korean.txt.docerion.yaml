@@ -1,0 +1,4 @@
+# Docerion header of korean.txt.
+type: test
+title: Korean OCR expected text
+summary: Expected OCR result for the Korean sample image, containing the recognized proverb and its confidence score.

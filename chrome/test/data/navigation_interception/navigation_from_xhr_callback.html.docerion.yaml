@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_xhr_callback.html.
+type: test
+title: Navigation from XHR callback
+summary: Page that navigates to hello.html from an XHR ready-state callback initiated by a click.

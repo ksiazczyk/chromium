@@ -1,0 +1,4 @@
+# Docerion header of russian.txt.
+type: test
+title: Russian OCR expected text
+summary: Expected OCR result for the Russian sample image, containing the recognized proverb and its confidence score.

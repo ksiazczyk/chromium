@@ -1,0 +1,4 @@
+# Docerion header of video-conferencing-usermedia.html.
+type: test
+title: Picture-in-Picture video conferencing getUserMedia test page
+summary: Test page showing a getUserMedia camera stream in a video, with a PiP button and an auto-PiP MediaSession action handler.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git attributes for MHTML test data
+# summary: Marks MHTML files as binary so git preserves their mixed CRLF and LF line endings in the offline pages test data.
+# ---
+
 # While the overall structure of MHTML always uses CRLF, the MHTML parts
 # that use binary encoding will preserve their original line endings
 # (i.e. LF in case of the file below).  We tell git to treat these files

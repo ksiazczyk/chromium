@@ -1,0 +1,4 @@
+# Docerion header of mixed_audio_latency_perf.html.
+type: test
+title: Mixed-Audio Loop Benchmark
+summary: Benchmark page that measures looping latency of a short audio clip while a background clip plays, reporting average latency to PyAuto.

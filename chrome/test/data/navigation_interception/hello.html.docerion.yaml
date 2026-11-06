@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello navigation target page
+summary: Minimal hello page that serves as the navigation target for the interception test pages.

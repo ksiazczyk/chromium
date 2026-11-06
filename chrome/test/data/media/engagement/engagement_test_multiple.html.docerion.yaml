@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_multiple.html.
+type: test
+title: Media Engagement test page with multiple autoplaying media elements
+summary: Test page playing several autoplaying video and audio elements, including muted and small-frame variants, to exercise media engagement scoring with multiple media instances.

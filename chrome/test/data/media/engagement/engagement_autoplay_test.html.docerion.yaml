@@ -1,0 +1,4 @@
+# Docerion header of engagement_autoplay_test.html.
+type: test
+title: Media Engagement Autoplay Test
+summary: Test page that autoplays a video and sets the document title to Allowed or Denied depending on playback success.

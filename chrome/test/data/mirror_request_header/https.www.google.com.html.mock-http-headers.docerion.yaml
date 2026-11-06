@@ -1,0 +1,4 @@
+# Docerion header of https.www.google.com.html.mock-http-headers.
+type: test
+title: Mock headers for HTTPS google.com redirect test
+summary: Mock HTTP response headers that return a 301 redirect to a redirected.com simple.html page over HTTPS for the mirror request header test.

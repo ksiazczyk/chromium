@@ -1,0 +1,4 @@
+# Docerion header of autopip-no-register.html.
+type: test
+title: Page that does not register for auto PiP
+summary: Test page with a video that does not register an enterpictureinpicture handler, used to check that auto PiP is not triggered.

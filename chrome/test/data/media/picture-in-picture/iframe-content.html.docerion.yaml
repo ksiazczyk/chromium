@@ -1,0 +1,4 @@
+# Docerion header of iframe-content.html.
+type: test
+title: Picture-in-Picture iframe content test page
+summary: Test page with a video and an enterPictureInPicture helper, used as iframe content in Picture-in-Picture iframe tests.

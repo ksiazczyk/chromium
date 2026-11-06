@@ -1,0 +1,4 @@
+# Docerion header of navigation_from_image_onload.html.
+type: test
+title: Navigation from image onload
+summary: Page that navigates to hello.html from an image onload handler triggered by a click.

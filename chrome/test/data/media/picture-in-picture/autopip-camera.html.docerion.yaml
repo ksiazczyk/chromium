@@ -1,0 +1,4 @@
+# Docerion header of autopip-camera.html.
+type: test
+title: Auto PiP test page with camera and microphone
+summary: Test page that opens document or video picture-in-picture for a camera and microphone stream and signals readiness via the document title.

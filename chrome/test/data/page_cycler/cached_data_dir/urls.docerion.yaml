@@ -1,0 +1,4 @@
+# Docerion header of urls.
+type: test
+title: Page cycler URL list
+summary: List of website URLs that the page cycler performance test loads using the cached profile data in this directory.

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Yahoo search plugin with POST suggestions test data
+summary: OpenSearch search plugin for Yahoo that defines a POST-based suggestions URL and a GET results URL, used as test data for search engine parsing.
+-->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Yahoo</ShortName>
 <Description>Yahoo Search</Description>

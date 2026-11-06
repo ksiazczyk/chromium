@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_audio_muted.html.
+type: test
+title: Media Engagement Muted Audio Test
+summary: Test page with a muted autoplaying audio element that loads the shared engagement test helper script.

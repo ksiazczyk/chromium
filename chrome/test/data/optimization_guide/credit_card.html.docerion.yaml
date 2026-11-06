@@ -1,0 +1,4 @@
+# Docerion header of credit_card.html.
+type: test
+title: Credit card form test page
+summary: Test page with a form holding fixed-position credit card number and expiry inputs for autofill-related browser tests.

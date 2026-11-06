@@ -1,0 +1,4 @@
+# Docerion header of simple_page_with_anchors.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the simple_page_with_anchors test page
+summary: 'Mock HTTP response headers serving the simple_page_with_anchors page with a 200 status and the Supports-Loading-Mode: fenced-frame header.'

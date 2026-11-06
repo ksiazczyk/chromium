@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_no_audio_track.html.
+type: test
+title: Media Engagement test page with video lacking an audio track
+summary: Test page with an autoplaying video that has no audio track, used to verify media engagement handling of media without audio.

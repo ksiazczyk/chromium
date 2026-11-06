@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_silent_audio_track_audio.html.
+type: test
+title: Media Engagement test page with audio-only silent audio track media
+summary: Test page with an audio element playing a file that has a silent audio track and no video, for media engagement checks of audio-only playback.

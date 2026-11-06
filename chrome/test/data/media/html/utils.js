@@ -6,6 +6,12 @@
 // should not modify the page in any way.
 //
 
+// ---docerion
+// type: source
+// title: Utility functions for HTML media tests
+// summary: JavaScript helpers for the media test pages, providing query string parsing, a timer, and unique URL generation.
+// ---
+
 var QueryString = function () {
   // Allows access to query parameters on the URL; e.g., given a URL like:
   //

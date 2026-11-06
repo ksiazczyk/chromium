@@ -3,6 +3,13 @@
  *  Use of this source code is governed by a BSD-style license that can be
  *  found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Media preview test site main stylesheet
+summary: Stylesheet for the media preview test site pages, defining layout, typography, and responsive rules used by Chrome media tests.
+*/
+
 .hidden {
   display: none;
 }

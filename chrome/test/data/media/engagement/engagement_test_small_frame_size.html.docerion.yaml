@@ -1,0 +1,4 @@
+# Docerion header of engagement_test_small_frame_size.html.
+type: test
+title: Media Engagement test page with small frame size video
+summary: Test page with an autoplaying 100x100 frame size video used to verify media engagement scoring of small media elements.

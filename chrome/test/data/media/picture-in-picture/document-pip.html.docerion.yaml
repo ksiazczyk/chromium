@@ -1,0 +1,4 @@
+# Docerion header of document-pip.html.
+type: test
+title: Document Picture-in-Picture test page
+summary: Test page that opens a Document Picture-in-Picture window and exposes helpers for navigation, script injection, reload and title checks.

@@ -1,0 +1,4 @@
+# Docerion header of engagement_autoplay_iframe_test_frame.html.
+type: test
+title: Media Engagement Autoplay Iframe Test Frame
+summary: Subframe page that autoplays a video and posts Allowed or Denied back to the parent window.

@@ -1,0 +1,4 @@
+# Docerion header of tab_media_indicator.html.
+type: test
+title: Tab media indicator test page
+summary: Test page with controls for video mute, picture-in-picture, microphone, camera and tab capture to exercise tab media indicator states.

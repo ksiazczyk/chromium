@@ -1,0 +1,4 @@
+# Docerion header of android_test.html.
+type: test
+title: Android Web Notifications instrumentation test page
+summary: Test page used by the NotificationPlatformBridgeTest instrumentation suite on Android, reporting results to Java through tab title changes.

@@ -1,0 +1,4 @@
+# Docerion header of notification_permission_checker.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the notification permission checker page
+summary: Mock HTTP response headers served for the notification permission checker page during tests.

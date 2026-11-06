@@ -1,0 +1,4 @@
+# Docerion header of target.html.
+type: test
+title: Cross-origin presentation receiver target page
+summary: Cross-origin target page that captures presentation connections and reports the capturing origin to test receiver callback hijacking.

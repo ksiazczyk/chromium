@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Engagement Test Helper Script
+// summary: Helper script that signals Ready through the document title once every video and audio element on the page is playing.
+// ---
+
 let count = 0;
 
 function markPlaying() {

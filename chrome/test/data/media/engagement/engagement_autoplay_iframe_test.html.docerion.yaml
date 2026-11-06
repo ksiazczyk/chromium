@@ -1,0 +1,4 @@
+# Docerion header of engagement_autoplay_iframe_test.html.
+type: test
+title: Media Engagement Autoplay Iframe Test
+summary: Test page that embeds a subframe and relays posted messages into the document title for autoplay checks.

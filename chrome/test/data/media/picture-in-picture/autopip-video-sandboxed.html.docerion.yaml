@@ -1,0 +1,4 @@
+# Docerion header of autopip-video-sandboxed.html.
+type: test
+title: Auto PiP sandboxed video test page
+summary: Test page that requests video picture-in-picture from a sandboxed context via the enterpictureinpicture action handler.

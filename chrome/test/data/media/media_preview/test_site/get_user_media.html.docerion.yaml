@@ -1,0 +1,4 @@
+# Docerion header of get_user_media.html.
+type: test
+title: getUserMedia webcam test page
+summary: HTML test page that displays the video stream from getUserMedia() in a video element, used as test data for Chrome's media preview.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_test.html.
+type: test
+title: Picture-in-Picture pixel test page
+summary: Test page playing pixel_test_video.webm and entering Picture-in-Picture for pixel comparison tests.

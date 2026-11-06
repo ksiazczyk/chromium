@@ -1,0 +1,4 @@
+# Docerion header of muted_video_autoplay.html.
+type: test
+title: Muted video autoplay visibility test page
+summary: Test page verifying that muted video autoplay is deferred until the offscreen video becomes visible, even when sound is allowed by content settings.

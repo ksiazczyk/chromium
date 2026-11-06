@@ -1,0 +1,4 @@
+# Docerion header of about_url.
+type: test
+title: Page cycler about:blank URL list
+summary: Lists about:blank URLs repeated as the navigation targets for the page cycler test.

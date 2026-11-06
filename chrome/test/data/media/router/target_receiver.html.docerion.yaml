@@ -1,0 +1,4 @@
+# Docerion header of target_receiver.html.
+type: test
+title: Presentation receiver page that navigates cross-origin
+summary: Receiver test page that pre-warms a cross-origin process and navigates to it with a slow unload handler to trigger receiver callback hijacking.

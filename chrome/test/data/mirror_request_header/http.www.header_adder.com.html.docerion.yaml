@@ -1,0 +1,4 @@
+# Docerion header of http.www.header_adder.com.html.
+type: test
+title: HTTP header_adder.com empty test page
+summary: Empty HTML fixture representing the HTTP header_adder.com page used by the mirror request header tests.

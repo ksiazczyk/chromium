@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media Engagement Test Data Directory Metadata
+summary: Chromium directory metadata assigning the media engagement test data to the Internals>Media component for issue tracking.

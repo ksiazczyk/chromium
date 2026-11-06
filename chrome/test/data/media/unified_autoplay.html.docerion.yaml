@@ -1,0 +1,4 @@
+# Docerion header of unified_autoplay.html.
+type: test
+title: Simple unified autoplay test page
+summary: Minimal test page that attempts to play bigbuck.webm and reports whether playback succeeded for unified autoplay checks.
