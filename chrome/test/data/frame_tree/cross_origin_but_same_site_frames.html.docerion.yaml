@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_but_same_site_frames.html.
+type: test
+title: Same-site cross-origin frame test page
+summary: Test page hosting iframes from the same origin and other same-site origins for testing hosted app web extents.

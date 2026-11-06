@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_frames_remote_and_local.html.
+type: test
+title: Page with remote and local frames
+summary: Test page with one cross-site iframe and one same-site iframe for frame tree testing.

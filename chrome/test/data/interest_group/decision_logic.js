@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seller decision logic for ad auction tests
+// summary: Test seller script that scores bids by desirability, optionally allows component auctions, and reports the auction result to the seller.
+// ---
+
 function scoreAd(adMetadata, bid, auctionConfig, trustedScoringSignals,
                  browserSignals) {
   // `auctionSignals` controls whether or not component auctions are allowed.

@@ -1,0 +1,4 @@
+# Docerion header of geolocation.html.
+type: test
+title: Geolocation display test page
+summary: HTML test page that requests the current position, displays latitude and longitude, and sets the title to Granted or Denied.

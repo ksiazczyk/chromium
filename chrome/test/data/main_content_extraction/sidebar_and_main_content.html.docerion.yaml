@@ -1,0 +1,4 @@
+# Docerion header of sidebar_and_main_content.html.
+type: test
+title: Sidebar and main content extraction test page
+summary: HTML fixture with a sidebar and a main content area used to verify that the main content extraction infrastructure works, keeping output stable across model changes.

@@ -1,0 +1,4 @@
+# Docerion header of feature_raf_no_damage.html.
+type: test
+title: GPU feature test page for compositing with no-damage rAF
+summary: Test page running requestAnimationFrame callbacks that cause no damage, to check that swaps are skipped and the rAF rate is throttled by software timers.

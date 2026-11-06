@@ -1,0 +1,4 @@
+# Docerion header of selection_origin_b.html.
+type: test
+title: Selection origin B test page
+summary: Minimal HTML page titled Origin B, serving as test data for selection origin scenarios in Glic tests.

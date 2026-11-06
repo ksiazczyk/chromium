@@ -1,0 +1,4 @@
+# Docerion header of responseExample.xml.
+type: test
+title: Example Mac installer update check response XML
+summary: Example XML response from the update server with download URLs and a package manifest, used as test data for the Mac installer.

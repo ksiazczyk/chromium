@@ -1,0 +1,4 @@
+# Docerion header of decision_logic_report_to_seller_signals.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for decision_logic_report_to_seller_signals.js
+summary: Mock HTTP response headers that serve the seller-signals decision logic as JavaScript with Ad-Auction-Allowed set to true.

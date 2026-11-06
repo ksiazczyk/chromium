@@ -1,0 +1,4 @@
+# Docerion header of feature_compositing_static.html.
+type: test
+title: GPU feature test page for accelerated compositing
+summary: Static page using a translateZ 3D transform to trigger accelerated compositing and GPU process launch when allowed.

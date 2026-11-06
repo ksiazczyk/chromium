@@ -1,0 +1,4 @@
+# Docerion header of feature_webgl.html.
+type: test
+title: GPU feature test page for WebGL
+summary: Test page that clears a WebGL canvas over several frames to trigger GPU process launch when WebGL is allowed.

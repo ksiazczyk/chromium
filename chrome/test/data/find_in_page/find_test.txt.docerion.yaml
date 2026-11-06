@@ -1,0 +1,4 @@
+# Docerion header of find_test.txt.
+type: test
+title: Find test text page
+summary: New York encyclopedia text used as a plain-text fixture for find-in-page tests.

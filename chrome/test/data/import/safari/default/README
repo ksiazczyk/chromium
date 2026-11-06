@@ -1,3 +1,9 @@
+---
+type: readme
+title: Safari importer test data README
+summary: Explains that the directory holds test data written by Safari v4.0.2 on OS X 10.5.7 and that its structure mimics ~/Library for use in importer tests.
+---
+
 This directory contains test data for the Safari importer, the files in
 this directory were written by Safari v4.0.2 on OS X 10.5.7.  In the
 future we may want to version this directory if the data formats change.

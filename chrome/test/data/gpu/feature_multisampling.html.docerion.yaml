@@ -1,0 +1,4 @@
+# Docerion header of feature_multisampling.html.
+type: test
+title: GPU feature test page for WebGL multisampling
+summary: Test page that creates a WebGL context with antialiasing and checks its context attributes to verify multisampling is used.

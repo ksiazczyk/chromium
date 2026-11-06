@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_keyboardlock.html.
+type: test
+title: Fullscreen Keyboard Lock Test
+summary: Test page that captures keyboard events, logs key codes and modifier states, and reports them to the automation controller for fullscreen keyboard lock browser tests.

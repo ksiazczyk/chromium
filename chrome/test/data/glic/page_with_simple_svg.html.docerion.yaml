@@ -1,0 +1,4 @@
+# Docerion header of page_with_simple_svg.html.
+type: test
+title: Page with simple SVG image
+summary: HTML test page that embeds the no intrinsic size SVG image as test data for Glic.

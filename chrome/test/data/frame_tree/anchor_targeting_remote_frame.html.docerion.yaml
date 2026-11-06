@@ -1,0 +1,4 @@
+# Docerion header of anchor_targeting_remote_frame.html.
+type: test
+title: Anchor targeting remote frame test page
+summary: Test page with an anchor targeting a cross-site frame, used to test shift- and ctrl-clicking links to remote frames.

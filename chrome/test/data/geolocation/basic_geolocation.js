@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic geolocation test helper
+// summary: JavaScript helper providing geolocation watch functions, callbacks and result reporting for Chromium browser tests.
+// ---
+
 var last_position = 0;
 var last_error = 0;
 var watch_id = 0;

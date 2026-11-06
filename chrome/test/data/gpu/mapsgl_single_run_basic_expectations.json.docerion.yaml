@@ -1,0 +1,4 @@
+# Docerion header of mapsgl_single_run_basic_expectations.json.
+type: test
+title: MapsGL single-run pixel color expectations
+summary: Expected pixel colors and tolerances at map locations such as forest, lake and background areas for the MapsGL single-run browser test.

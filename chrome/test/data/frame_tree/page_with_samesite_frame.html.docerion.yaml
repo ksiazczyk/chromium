@@ -1,0 +1,4 @@
+# Docerion header of page_with_samesite_frame.html.
+type: test
+title: Page with same-site frame
+summary: Minimal test page embedding a same-site iframe named subframe.

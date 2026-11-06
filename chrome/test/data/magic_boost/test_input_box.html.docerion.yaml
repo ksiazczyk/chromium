@@ -1,0 +1,4 @@
+# Docerion header of test_input_box.html.
+type: test
+title: Magic Boost test input box page
+summary: HTML test fixture with a text input and a script that returns the input's bounding rectangle for testing the orca feature.

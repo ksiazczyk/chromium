@@ -1,0 +1,4 @@
+# Docerion header of dynamic_color.html.
+type: test
+title: Lens dynamic color test page
+summary: HTML test page with colored blocks titled Grape, used as test data for Lens dynamic color behavior.

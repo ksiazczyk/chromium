@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Iframe controller for geolocation tests
+// summary: JavaScript helper that adds iframes pointing at configured hosts loading simple.html for geolocation permission tests.
+// ---
+
 var iframe_hosts = ['https://127.0.0.1', 'https://a.test'];
 function getIFrameSrc(iframe_id) {
   var port = location.port;

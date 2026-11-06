@@ -1,0 +1,4 @@
+# Docerion header of trusted_bidding_signals.json.
+type: test
+title: Trusted bidding signals test data
+summary: Minimal JSON fixture providing trusted bidding signals (key1) used by interest group auction tests.

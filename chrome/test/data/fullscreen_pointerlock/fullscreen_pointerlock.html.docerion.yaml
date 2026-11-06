@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_pointerlock.html.
+type: test
+title: Fullscreen and Pointer Lock test page
+summary: HTML test page with JavaScript helpers for Chrome browser tests to enter fullscreen, lock and unlock the pointer, move a simulated HTML cursor, and report lock success or failure to the test harness.

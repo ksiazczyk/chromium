@@ -1,0 +1,4 @@
+# Docerion header of src_video.html.
+type: test
+title: Test page with a video element
+summary: Test page containing a video element with a source and a helper function to set the source and start playback.

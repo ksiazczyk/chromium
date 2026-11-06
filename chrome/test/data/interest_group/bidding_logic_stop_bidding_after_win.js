@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidding logic that stops bidding after a win
+// summary: Test bidder script that bids 2 only when it has no previous wins, then reports the win to the owner's echo endpoint.
+// ---
+
 function generateBid(
   interestGroup, auctionSignals, perBuyerSignals, trustedBiddingSignals,
   browserSignals) {

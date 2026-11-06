@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: test
+title: Sample Mac installer update check request XML
+summary: Sample XML request body for a Mac Chrome update check, used as test data for the Mac installer.
+-->
+
 <request protocol="3.0" version="KeystoneAgent-1.99.4.0">
 
   <os platform="mac" version="10.11" arch="x86_64h" sp="10.11.4_x86_64h"></os>

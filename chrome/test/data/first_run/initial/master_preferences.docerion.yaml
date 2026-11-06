@@ -1,0 +1,4 @@
+# Docerion header of master_preferences.
+type: test
+title: Master preferences test fixture
+summary: JSON test fixture setting first_run_tabs to the Chromium legacy page, used as master preferences data for first-run tests.

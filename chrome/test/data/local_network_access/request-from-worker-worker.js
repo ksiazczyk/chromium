@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker script for fetch and WebTransport requests
+// summary: Web worker that handles fetch, WebTransport open, and WebTransport close messages, posting results or errors back to the page.
+// ---
+
 let transport;
 
 self.onmessage = async e => {

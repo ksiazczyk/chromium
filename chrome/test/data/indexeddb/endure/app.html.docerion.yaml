@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: test
+title: IndexedDB offline endurance test page
+summary: Test page for the offline-aware authoring app simulation, with buttons to switch between offline and online states.

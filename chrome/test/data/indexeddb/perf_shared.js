@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB performance test shared helpers
+// summary: Shared JavaScript helpers for the IndexedDB performance tests, providing automation result reporting, assertions, error handling, and database creation and alteration logic.
+// ---
+
 var automation = {
   results: {}
 };

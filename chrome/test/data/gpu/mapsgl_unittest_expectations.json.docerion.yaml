@@ -1,0 +1,4 @@
+# Docerion header of mapsgl_unittest_expectations.json.
+type: test
+title: MapsGL unit test pixel color expectations
+summary: Expected pixel colors and tolerances at given screen locations for the MapsGL unit test.

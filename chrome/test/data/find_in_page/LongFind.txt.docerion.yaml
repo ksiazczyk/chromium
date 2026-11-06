@@ -1,0 +1,4 @@
+# Docerion header of LongFind.txt.
+type: test
+title: LongFind test text
+summary: Chinese-language text fixture for testing find-in-page over long non-ASCII content.

@@ -1,0 +1,4 @@
+# Docerion header of initial_preferences.
+type: test
+title: Initial preferences test fixture
+summary: JSON test fixture setting first_run_tabs to the Chromium initial page, used as initial preferences data for first-run tests.
