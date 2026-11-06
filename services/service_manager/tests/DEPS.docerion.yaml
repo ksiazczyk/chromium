@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for service manager tests
+summary: Grants the service manager tests directory include access to sandbox/win/src headers.

@@ -1,0 +1,4 @@
+# Docerion header of services_strings_da.xtb.
+type: data
+title: Danish services strings translation bundle
+summary: Danish XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

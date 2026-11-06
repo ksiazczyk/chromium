@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows face detection provider header
+// summary: Declares FaceDetectionProviderWin, the Mojo provider that asynchronously instantiates the Windows FaceDetector for face detection.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_FACE_DETECTION_PROVIDER_WIN_H_
 #define SERVICES_SHAPE_DETECTION_FACE_DETECTION_PROVIDER_WIN_H_
 

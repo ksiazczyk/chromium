@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Screen AI build feature arguments
+summary: Declares GN build arguments that enable the Screen AI service and browser tests per platform and select a fake library under sanitizers.

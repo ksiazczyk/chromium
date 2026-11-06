@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextDetectionImplTest
+// summary: JUnit test suite for TextDetectionImpl that verifies detected text values, bounding boxes, and corner points on a generated text bitmap.
+// ---
+
 package org.chromium.shape_detection;
 
 import org.junit.Assert;

@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ta.xtb.
+type: data
+title: Tamil services strings translation bundle
+summary: Tamil translations of service strings covering proxy resolver names and extracted text start and end markers.

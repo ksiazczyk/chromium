@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect test packaged service
+// summary: Implements a package hosting multiple provided services to test packaged service manifests and their registration with the package manager.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of services_strings_sl.xtb.
+type: data
+title: Services strings translation bundle (Slovenian)
+summary: Slovenian translations of service strings covering macOS, WinHTTP and V8 proxy resolver names plus extracted text start and end markers.

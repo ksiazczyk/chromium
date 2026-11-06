@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Service manager tests build targets
+summary: GN build file defining the service_manager unittests, test Mojom interfaces, shared test utilities, and test service executables.

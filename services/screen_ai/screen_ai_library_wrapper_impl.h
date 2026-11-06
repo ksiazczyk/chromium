@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI library wrapper implementation header
+// summary: Declares the concrete Screen AI library wrapper with function pointer members for the native library's OCR and main content extraction APIs.
+// ---
+
 #ifndef SERVICES_SCREEN_AI_SCREEN_AI_LIBRARY_WRAPPER_IMPL_H_
 #define SERVICES_SCREEN_AI_SCREEN_AI_LIBRARY_WRAPPER_IMPL_H_
 

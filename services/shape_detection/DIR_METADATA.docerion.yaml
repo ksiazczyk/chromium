@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for shape detection
+summary: Records the issue tracker component, team email, and public buganizer component for the shape detection directory.

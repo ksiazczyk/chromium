@@ -1,0 +1,4 @@
+# Docerion header of text_detection_impl_mac.mm.
+type: source
+title: Text detection implementation for macOS using Core Image
+summary: Implements text detection on macOS with Core Image's CIDetector, returning bounding boxes and corner points for detected text regions.

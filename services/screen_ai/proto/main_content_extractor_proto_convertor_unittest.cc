@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main content extractor proto convertor unit tests
+// summary: Tests AXTree to ViewHierarchy proto conversion against expected text protos and can write debug protos for updating expectations.
+// ---
+
 #include "services/screen_ai/proto/main_content_extractor_proto_convertor.h"
 
 #include <array>

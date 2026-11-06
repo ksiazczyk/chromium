@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Catalog implementation
+// summary: Builds name-to-manifest and parent-manifest lookup maps over the known service manifests for the Catalog.
+// ---
+
 #include "services/service_manager/catalog.h"
 
 #include <vector>

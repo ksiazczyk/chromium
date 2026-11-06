@@ -1,0 +1,4 @@
+# Docerion header of detection_utils_mac.mm.
+type: source
+title: Mac shape detection utilities implementation
+summary: Implements CIImage creation from SkBitmap, Core Graphics to gfx coordinate conversion and asynchronous Vision API request handling on macOS.

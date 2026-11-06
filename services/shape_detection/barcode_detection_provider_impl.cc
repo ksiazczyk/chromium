@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default barcode detection provider implementation
+// summary: Implements the fallback barcode detection provider that logs an error and returns no formats on unsupported platforms.
+// ---
+
 #include "services/shape_detection/barcode_detection_provider_impl.h"
 
 #include "base/logging.h"

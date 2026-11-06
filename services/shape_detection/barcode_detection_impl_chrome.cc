@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome barcode detection implementation
+// summary: Implements Chrome's barcode detection, mapping barcode formats to Mojo types and computing bounding boxes from detected corner points.
+// ---
+
 #include "services/shape_detection/barcode_detection_impl_chrome.h"
 
 #include <stdint.h>

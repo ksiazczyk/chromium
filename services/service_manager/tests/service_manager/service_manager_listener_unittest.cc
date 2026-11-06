@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service manager listener unit tests
+// summary: Unit tests that verify ServiceManagerListener notifications for service initialization, start, and PID events using the test manifests.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

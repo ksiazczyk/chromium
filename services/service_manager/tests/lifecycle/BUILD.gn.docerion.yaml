@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for service lifecycle tests
+summary: Defines GN build targets for the service lifecycle tests, including the unit test, Mojom interfaces, app client, and the app, package, and parent service executables.

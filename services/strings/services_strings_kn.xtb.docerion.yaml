@@ -1,0 +1,4 @@
+# Docerion header of services_strings_kn.xtb.
+type: data
+title: Kannada services strings translation bundle
+summary: Kannada translations of service strings such as proxy resolver names and extracted text markers, stored as an XML translation bundle.

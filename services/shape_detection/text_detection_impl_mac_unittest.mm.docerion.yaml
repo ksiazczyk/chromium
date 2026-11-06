@@ -1,0 +1,4 @@
+# Docerion header of text_detection_impl_mac_unittest.mm.
+type: test
+title: Unit tests for macOS text detection
+summary: Unit test that renders a text line into a bitmap and verifies the macOS detector finds it, requiring GPU infrastructure in tests.

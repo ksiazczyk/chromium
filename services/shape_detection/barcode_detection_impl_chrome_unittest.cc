@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome barcode detection
+// summary: Runs parameterized tests that detect barcodes in PNG test images and verify decoded values and bounding boxes.
+// ---
+
 #include <string_view>
 
 #include "base/files/file_util.h"

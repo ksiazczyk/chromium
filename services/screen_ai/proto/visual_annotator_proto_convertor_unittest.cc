@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual annotator proto convertor unit tests
+// summary: Unit tests verifying conversion of chrome_screen_ai VisualAnnotation protos, including rects, word boxes and line boxes, into accessibility tree updates via the visual annotator proto convertor.
+// ---
+
 #include "services/screen_ai/proto/visual_annotator_proto_convertor.h"
 
 #include <string>

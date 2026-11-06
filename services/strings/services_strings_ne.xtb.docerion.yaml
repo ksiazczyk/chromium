@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ne.xtb.
+type: data
+title: Services strings in Nepali
+summary: Nepali translation bundle providing localized service strings such as proxy resolver names and extracted text boundary labels.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service Manager test utility header
+// summary: Declares the LaunchAndConnectToProcess helper that starts a target executable and connects to it via a Connector, running a nested loop until the Service Manager accepts or rejects the connection.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_TESTS_UTIL_H_
 #define SERVICES_SERVICE_MANAGER_TESTS_UTIL_H_
 

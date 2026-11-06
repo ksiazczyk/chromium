@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessLauncher class header
+// summary: Declares a child process host that launches a single service executable, connects a platform pipe to it, and supports joining the process.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_LAUNCHER_H_
 #define SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_LAUNCHER_H_
 

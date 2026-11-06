@@ -1,0 +1,4 @@
+# Docerion header of shutdown.test-mojom.
+type: test
+title: Shutdown test Mojo interfaces
+summary: Mojo interface definitions for the shutdown tests, covering the test service, client, and client controller used to exercise shutdown behavior.

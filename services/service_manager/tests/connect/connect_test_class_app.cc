@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect test class app service
+// summary: Implements a test service providing ConnectTestService and ClassInterface to verify class-based capability access and keepalive behavior.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_executor.h"

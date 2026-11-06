@@ -1,0 +1,4 @@
+# Docerion header of services_strings_es.xtb.
+type: data
+title: Spanish services strings translation bundle
+summary: Spanish XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

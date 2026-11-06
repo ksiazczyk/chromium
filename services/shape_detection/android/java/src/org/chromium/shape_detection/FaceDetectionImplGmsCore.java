@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceDetectionImplGmsCore.java
+// summary: Google Play Services implementation of the FaceDetection mojo service that returns faces with bounding boxes and landmarks, falling back to the Android implementation when not operational.
+// ---
+
 package org.chromium.shape_detection;
 import org.chromium.build.annotations.NullMarked;
 

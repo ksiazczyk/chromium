@@ -1,0 +1,4 @@
+# Docerion header of services_strings_tr.xtb.
+type: data
+title: Turkish services strings translation bundle
+summary: Turkish translations of service strings covering proxy resolver names and extracted text start and end markers.

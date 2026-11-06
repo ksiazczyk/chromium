@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI library wrapper implementation
+// summary: Implements the Screen AI wrapper by loading function pointers from the native library and handling logging, metrics, OCR, and main content extraction calls.
+// ---
+
 #include "services/screen_ai/screen_ai_library_wrapper_impl.h"
 
 #include "base/compiler_specific.h"

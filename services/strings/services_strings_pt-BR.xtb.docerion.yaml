@@ -1,0 +1,4 @@
+# Docerion header of services_strings_pt-BR.xtb.
+type: data
+title: Services strings in Brazilian Portuguese
+summary: Brazilian Portuguese translation bundle providing localized service strings such as proxy resolver names and extracted text boundary labels.

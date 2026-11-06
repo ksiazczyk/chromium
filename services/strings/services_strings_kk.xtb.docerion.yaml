@@ -1,0 +1,4 @@
+# Docerion header of services_strings_kk.xtb.
+type: data
+title: Services strings (Kazakh)
+summary: Kazakh translation bundle with localized service strings for proxy resolver names and extracted text start and end labels.

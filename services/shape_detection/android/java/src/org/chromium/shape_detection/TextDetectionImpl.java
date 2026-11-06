@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextDetectionImpl.java
+// summary: Implements the mojo TextDetection interface on Android using the Google Play Services TextRecognizer, returning detected text blocks with bounding boxes and corner points.
+// ---
+
 package org.chromium.shape_detection;
 
 import android.graphics.Point;

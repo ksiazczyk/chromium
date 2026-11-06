@@ -1,0 +1,4 @@
+# Docerion header of barcode_detection_impl_mac_unittest.mm.
+type: test
+title: Unit tests for Mac Vision barcode detection
+summary: Tests Mac Vision barcode detection by generating barcode images with Core Image filters and scanning them back.

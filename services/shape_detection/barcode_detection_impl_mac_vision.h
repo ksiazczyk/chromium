@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Vision barcode detection class declaration
+// summary: Declares BarcodeDetectionImplMacVision, the barcode detection implementation built on the macOS Vision framework.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_IMPL_MAC_VISION_H_
 #define SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_IMPL_MAC_VISION_H_
 

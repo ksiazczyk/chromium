@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitmapUtilsTest
+// summary: JUnit Robolectric test suite verifying that BitmapUtils.convertToFrame returns null for invalid bitmaps, invalid dimensions, and pixel data that cannot be wrapped.
+// ---
+
 package org.chromium.shape_detection;
 
 import static org.junit.Assert.assertNull;

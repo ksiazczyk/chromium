@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shape detection bitmap utilities
+// summary: Creates Windows ISoftwareBitmap objects from SkBitmap data, including pixel format conversion to Gray8 and Nv12 for shape detection on Windows.
+// ---
+
 #include "services/shape_detection/detection_utils_win.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows face detection implementation header
+// summary: Declares FaceDetectionImplWin, the Mojo FaceDetection implementation that wraps the Windows FaceDetector and reports detected face bounds.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_FACE_DETECTION_IMPL_WIN_H_
 #define SERVICES_SHAPE_DETECTION_FACE_DETECTION_IMPL_WIN_H_
 

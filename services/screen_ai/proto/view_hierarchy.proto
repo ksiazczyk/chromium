@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View hierarchy protobuf definitions
+// summary: Defines the screenai ViewHierarchy, UiElement, and attribute messages copied from google3 to describe UI element trees.
+// ---
+
 // This proto is copied from the following protos, do not change.
 // google3/knowledge/cerebra/sense/im2query/screenai/proto/dimensions.proto
 // google3/knowledge/cerebra/sense/im2query/screenai/proto/view_hierarchy.proto

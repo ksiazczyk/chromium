@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ar.xtb.
+type: data
+title: Arabic translation bundle
+summary: XML translation bundle with Arabic service UI strings, including proxy resolver names and text extraction start and end labels.

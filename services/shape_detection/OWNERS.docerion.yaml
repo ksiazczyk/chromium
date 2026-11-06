@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the shape detection directory
+summary: Points to the Blink shape detection owners and assigns sandbox Linux owners to the sandbox hook files.

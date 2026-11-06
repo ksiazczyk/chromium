@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUtils
+// summary: Utility class for shape detection instrumentation tests that loads test images, converts Android bitmaps to mojom bitmaps, and waits for Google Play Vision libraries to be ready.
+// ---
+
 package org.chromium.shape_detection;
 
 import android.graphics.Bitmap;

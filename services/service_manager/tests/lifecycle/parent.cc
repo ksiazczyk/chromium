@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent test service executable
+// summary: Implements the parent test service executable that connects to a child service and supports quit operations for lifecycle tests.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

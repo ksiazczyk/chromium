@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder service executable for service manager tests
+// summary: Implements a test embedder service that creates packaged service instances and reports their process IDs during service manager unit tests.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

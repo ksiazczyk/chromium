@@ -1,0 +1,4 @@
+# Docerion header of background.test-mojom.
+type: source
+title: TestService Mojom interface for background tests
+summary: Defines the service_manager.mojom TestService interface with Test and Quit methods used by background service manager tests.

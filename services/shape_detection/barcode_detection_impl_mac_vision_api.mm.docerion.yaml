@@ -1,0 +1,4 @@
+# Docerion header of barcode_detection_impl_mac_vision_api.mm.
+type: source
+title: Vision API implementation for Mac barcode detection
+summary: Implements VisionAPIInterface by querying the Vision framework for the barcode symbologies supported on the current macOS system.

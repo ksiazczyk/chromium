@@ -1,0 +1,4 @@
+# Docerion header of face_detection_provider_mac.mm.
+type: source
+title: Mac face detection provider implementation
+summary: Creates Mac face detection receivers, choosing the Core Image fast-mode implementation or the more accurate Vision-based one.

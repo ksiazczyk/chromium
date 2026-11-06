@@ -1,0 +1,4 @@
+# Docerion header of barcode_detection_provider_mac.mm.
+type: source
+title: Mac barcode detection provider implementation
+summary: Implements the macOS barcode detection provider, creating Vision-based detectors and caching the supported barcode formats.

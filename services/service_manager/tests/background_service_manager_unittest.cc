@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service manager unit tests
+// summary: Unit tests that start a BackgroundServiceManager, register a test service, and verify connecting to the background test service.
+// ---
+
 #include "services/service_manager/background_service_manager.h"
 
 #include <memory>

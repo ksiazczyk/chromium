@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for service manager test manifests
+// summary: Declares the test service name constants and the GetTestManifests accessor shared by the service manager test binaries.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_TESTS_SERVICE_MANAGER_TEST_MANIFESTS_H_
 #define SERVICES_SERVICE_MANAGER_TESTS_SERVICE_MANAGER_TEST_MANIFESTS_H_
 

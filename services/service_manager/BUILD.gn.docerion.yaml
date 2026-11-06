@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Service manager BUILD.gn build targets
+summary: Defines the GN build group and the service_manager source set with its sources and platform-specific dependencies.

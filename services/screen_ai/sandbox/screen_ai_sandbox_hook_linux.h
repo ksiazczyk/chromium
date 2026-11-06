@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI Linux sandbox hook header
+// summary: Declares ScreenAIPreSandboxHook, which opens the Screen AI library binary and grants the broker file permissions it requires before sandboxing.
+// ---
+
 #ifndef SERVICES_SCREEN_AI_SANDBOX_SCREEN_AI_SANDBOX_HOOK_LINUX_H_
 #define SERVICES_SCREEN_AI_SANDBOX_SCREEN_AI_SANDBOX_HOOK_LINUX_H_
 

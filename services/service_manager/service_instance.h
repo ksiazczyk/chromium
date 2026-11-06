@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceInstance class declaration
+// summary: Declares ServiceInstance, which handles Connector, ServiceControl and process metadata for one running service instance.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SERVICE_INSTANCE_H_
 #define SERVICES_SERVICE_MANAGER_SERVICE_INSTANCE_H_
 

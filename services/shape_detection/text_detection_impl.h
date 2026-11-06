@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text detection implementation class
+// summary: Declares the TextDetectionImpl factory that binds mojom::TextDetection receivers on supported platforms.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_TEXT_DETECTION_IMPL_H_
 #define SERVICES_SHAPE_DETECTION_TEXT_DETECTION_IMPL_H_
 

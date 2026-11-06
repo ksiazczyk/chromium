@@ -1,0 +1,4 @@
+# Docerion header of services_strings_az.xtb.
+type: data
+title: Azerbaijani translation bundle
+summary: XML translation bundle with Azerbaijani service UI strings, including proxy resolver names and text extraction start and end labels.

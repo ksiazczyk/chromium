@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen AI service unit tests
+// summary: Unit tests for main node computation in accessibility trees and the Linux glibc TLS DTV crash vulnerability check.
+// ---
+
 #include "services/screen_ai/screen_ai_service_impl.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

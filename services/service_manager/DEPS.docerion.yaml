@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Service manager include rules
+summary: DEPS file restricting includes in the service_manager directory to sandbox and ui/base.

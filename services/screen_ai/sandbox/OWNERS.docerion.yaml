@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Screen AI sandbox owners
+summary: Delegates code review ownership of the Screen AI sandbox directory to the owners of sandbox/linux with no parent approval.

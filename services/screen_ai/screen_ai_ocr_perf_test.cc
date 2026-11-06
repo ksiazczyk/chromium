@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen AI OCR performance test
+// summary: Performance test that measures OCR speed on single JPEG images or image folders and writes results as JSON.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

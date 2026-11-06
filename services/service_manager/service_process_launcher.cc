@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessLauncher implementation
+// summary: Implements launching of standalone service executables, building child command lines and connecting Mojo pipes on a background task runner.
+// ---
+
 #include "services/service_manager/service_process_launcher.h"
 
 #include <utility>

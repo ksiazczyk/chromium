@@ -1,0 +1,4 @@
+# Docerion header of services_strings_bn.xtb.
+type: data
+title: Bengali translation bundle
+summary: XML translation bundle with Bengali service UI strings, including proxy resolver names and text extraction start and end labels.

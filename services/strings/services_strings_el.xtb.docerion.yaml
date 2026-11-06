@@ -1,0 +1,4 @@
+# Docerion header of services_strings_el.xtb.
+type: data
+title: Greek services strings translation bundle
+summary: Greek XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

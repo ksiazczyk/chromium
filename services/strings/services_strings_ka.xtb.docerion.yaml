@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ka.xtb.
+type: data
+title: Services strings (Georgian)
+summary: Georgian translation bundle with localized service strings for proxy resolver names and extracted text start and end labels.

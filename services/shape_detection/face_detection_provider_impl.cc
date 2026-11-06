@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default face detection provider stub
+// summary: Default FaceDetectionProvider implementation that logs an error because face detection is not supported on the current platform.
+// ---
+
 #include "services/shape_detection/face_detection_provider_impl.h"
 
 #include "base/logging.h"

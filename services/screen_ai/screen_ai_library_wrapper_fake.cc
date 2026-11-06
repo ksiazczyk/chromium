@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Screen AI library wrapper implementation
+// summary: Implements a no-op fake of the Screen AI library wrapper that returns stub results for builds and tests that cannot use the real library.
+// ---
+
 #include "services/screen_ai/screen_ai_library_wrapper_fake.h"
 
 namespace screen_ai {

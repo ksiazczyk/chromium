@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the shape detection service
+summary: Defines GN build targets and platform-specific sources for the shape detection service across Mac, Windows, Android, ChromeOS, and Linux.

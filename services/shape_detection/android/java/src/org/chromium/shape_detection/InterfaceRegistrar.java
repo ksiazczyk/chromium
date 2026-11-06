@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterfaceRegistrar.java
+// summary: JNI entry points called from native code to bind the barcode, face, and text detection provider mojo interfaces to message pipe handles.
+// ---
+
 package org.chromium.shape_detection;
 import org.chromium.build.annotations.NullMarked;
 

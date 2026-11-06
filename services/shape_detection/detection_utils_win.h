@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shape detection bitmap utilities header
+// summary: Declares functions that create Windows ISoftwareBitmap objects from SkBitmaps with optional pixel format conversion.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_DETECTION_UTILS_WIN_H_
 #define SERVICES_SHAPE_DETECTION_DETECTION_UTILS_WIN_H_
 

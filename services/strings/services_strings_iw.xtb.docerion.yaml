@@ -1,0 +1,4 @@
+# Docerion header of services_strings_iw.xtb.
+type: data
+title: Services strings (Hebrew)
+summary: Hebrew translation bundle with localized service strings for proxy resolver names and extracted text start and end labels.

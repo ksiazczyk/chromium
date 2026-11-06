@@ -1,0 +1,4 @@
+# Docerion header of services_strings_zh-HK.xtb.
+type: data
+title: Traditional Chinese (Hong Kong) services strings translation bundle
+summary: Traditional Chinese translations for Hong Kong of service strings covering proxy resolver names and text markers.

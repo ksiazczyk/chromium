@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome barcode detection class declaration
+// summary: Declares BarcodeDetectionImplChrome, the mojom::BarcodeDetection implementation backed by Chrome's shape detection library.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_IMPL_CHROME_H_
 #define SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_IMPL_CHROME_H_
 

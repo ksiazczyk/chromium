@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect test app service
+// summary: Implements a standalone test service exposing interfaces used to verify connection rules, capability filtering, and identity handling.
+// ---
+
 #include <memory>
 #include <optional>
 

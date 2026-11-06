@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test connector factory unit tests
+// summary: Unit tests verifying TestConnectorFactory and service test support using simple TestB and TestC service implementations.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback.h"
 #include "base/functional/callback_helpers.h"

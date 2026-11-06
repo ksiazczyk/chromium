@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundServiceManager class declaration
+// summary: Declares a helper class that instantiates a ServiceManager on a dedicated background thread and registers services there.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_BACKGROUND_SERVICE_MANAGER_H_
 #define SERVICES_SERVICE_MANAGER_BACKGROUND_SERVICE_MANAGER_H_
 

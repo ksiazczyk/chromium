@@ -1,0 +1,4 @@
+# Docerion header of services_strings_as.xtb.
+type: data
+title: Assamese translation bundle
+summary: XML translation bundle with Assamese service UI strings, including proxy resolver names and text extraction start and end labels.

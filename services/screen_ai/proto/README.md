@@ -1,3 +1,11 @@
+---
+type: readme
+title: Main content extraction proto convertor unittests
+summary: Explains how to generate and update expected proto outputs for the main content extractor unit tests using debug protos and gqui.
+relations:
+  - documents /services/screen_ai/proto/main_content_extractor_proto_convertor_unittest.cc
+---
+
 # Main content extraction proto convertor unittests
 
 ## Creating/updating an expected proto output.

@@ -1,0 +1,4 @@
+# Docerion header of services_strings_zh-CN.xtb.
+type: data
+title: Simplified Chinese services strings translation bundle
+summary: Simplified Chinese translations of service strings covering proxy resolver names and extracted text markers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper for launching and connecting services
+// summary: Test helper that launches a service executable process and connects to it over a Mojo platform channel.
+// ---
+
 #include "services/service_manager/tests/util.h"
 
 #include <optional>

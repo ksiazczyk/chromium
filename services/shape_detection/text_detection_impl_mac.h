@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac text detection implementation header
+// summary: Declares the macOS text detection class that wraps a Core Image CIDetector and implements the TextDetection Mojo interface.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_TEXT_DETECTION_IMPL_MAC_H_
 #define SERVICES_SHAPE_DETECTION_TEXT_DETECTION_IMPL_MAC_H_
 

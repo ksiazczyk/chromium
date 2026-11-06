@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ml.xtb.
+type: data
+title: Malayalam services strings translation bundle
+summary: Malayalam translations of service strings such as proxy resolver names and extracted text markers, stored as an XML translation bundle.

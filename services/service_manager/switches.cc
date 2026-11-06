@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service manager switch definitions
+// summary: Defines the enable-service-manager-tracing command-line switch used to enable the tracing service.
+// ---
+
 #include "services/service_manager/switches.h"
 
 namespace service_manager {

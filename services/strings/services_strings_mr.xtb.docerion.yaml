@@ -1,0 +1,4 @@
+# Docerion header of services_strings_mr.xtb.
+type: data
+title: Marathi services strings translation bundle
+summary: Marathi translations of service strings such as proxy resolver names and extracted text markers, stored as an XML translation bundle.

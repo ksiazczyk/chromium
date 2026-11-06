@@ -1,0 +1,4 @@
+# Docerion header of services_strings_af.xtb.
+type: data
+title: Afrikaans translation bundle
+summary: XML translation bundle with Afrikaans service UI strings, including proxy resolver names and text extraction start and end labels.

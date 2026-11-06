@@ -1,0 +1,4 @@
+# Docerion header of face_detection_impl_mac_unittest.mm.
+type: test
+title: Mac face detection unit tests
+summary: Parameterized unit tests verifying face and landmark detection for both the CIDetector and Vision-based macOS implementations using test images.

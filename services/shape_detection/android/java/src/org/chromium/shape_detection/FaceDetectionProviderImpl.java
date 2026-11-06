@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceDetectionProviderImpl.java
+// summary: Provider that binds FaceDetection requests to the Google Play Services implementation when available, otherwise to the Android media FaceDetector implementation.
+// ---
+
 package org.chromium.shape_detection;
 import org.chromium.build.annotations.NullMarked;
 

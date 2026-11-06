@@ -6,6 +6,12 @@
 // https://source.chromium.org/chromium/chromium/src/+/main:services/screen_ai/proto/chrome_screen_ai.proto
 // http://google3/chrome/accessibility/machine_intelligence/chrome_screen_ai//chrome_screen_ai.proto
 
+// ---docerion
+// type: source
+// title: Chrome Screen AI protobuf definitions
+// summary: Defines protobuf messages for OCR and visual annotation results, kept in sync with a google3 copy for the ScreenAI service.
+// ---
+
 edition = "2023";
 
 package chrome_screen_ai;

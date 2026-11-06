@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vision-based Mac face detection header
+// summary: Declares FaceDetectionImplMacVision, the macOS face detection implementation based on the Vision framework's face landmarks request.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_FACE_DETECTION_IMPL_MAC_VISION_H_
 #define SERVICES_SHAPE_DETECTION_FACE_DETECTION_IMPL_MAC_VISION_H_
 

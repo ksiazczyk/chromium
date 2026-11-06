@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceDetectionImplTest
+// summary: JUnit test suite for FaceDetectionImpl that checks face detection results and bounding boxes against reference images for both the Android and GMS Core providers.
+// ---
+
 package org.chromium.shape_detection;
 
 import static org.hamcrest.Matchers.greaterThan;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shape detection feature flag declarations
+// summary: Declares the kBarhopperAztecRefineTransformFallback feature that works around a Barhopper crash when detecting Aztec barcodes.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_FEATURES_H_
 #define SERVICES_SHAPE_DETECTION_FEATURES_H_
 

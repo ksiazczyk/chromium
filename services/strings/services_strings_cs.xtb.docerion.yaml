@@ -1,0 +1,4 @@
+# Docerion header of services_strings_cs.xtb.
+type: data
+title: Czech services strings translation bundle
+summary: Czech XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

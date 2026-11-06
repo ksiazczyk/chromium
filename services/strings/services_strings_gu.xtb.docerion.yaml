@@ -1,0 +1,4 @@
+# Docerion header of services_strings_gu.xtb.
+type: data
+title: Gujarati services translation bundle
+summary: Gujarati translations of service strings, covering macOS system, WinHttp and V8 proxy resolver names and extracted text start and end markers.

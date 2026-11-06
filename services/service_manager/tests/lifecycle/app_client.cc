@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppClient test service implementation
+// summary: Implements the AppClient test service, exposing LifecycleControl operations such as ping, graceful quit, simulated crash, and closing the service manager connection.
+// ---
+
 #include "services/service_manager/tests/lifecycle/app_client.h"
 
 #include "base/run_loop.h"

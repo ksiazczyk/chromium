@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service header
+// summary: Declares the ScreenAIService class that exposes OCR annotator and Screen2x main content extraction functionality over Mojo.
+// ---
+
 #ifndef SERVICES_SCREEN_AI_SCREEN_AI_SERVICE_IMPL_H_
 #define SERVICES_SCREEN_AI_SCREEN_AI_SERVICE_IMPL_H_
 

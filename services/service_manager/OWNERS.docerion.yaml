@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Service manager OWNERS
+summary: Delegates directory ownership to //chromecast/OWNERS, noting the service manager is now a chromecast implementation detail.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceInstance implementation
+// summary: Implements the manager-side representation of a running service, enforcing manifest capability rules for interface binding and service starts.
+// ---
+
 #include "services/service_manager/service_instance.h"
 
 #include <algorithm>

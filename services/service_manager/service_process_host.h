@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessHost interface header
+// summary: Declares an interface for controlling the launch and lifetime of service processes, returning a remote endpoint for the launched service.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_HOST_H_
 #define SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_HOST_H_
 

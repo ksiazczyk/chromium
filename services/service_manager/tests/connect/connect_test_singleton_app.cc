@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect test singleton app service
+// summary: Implements a minimal service executable with no exposed interfaces, used to test connections to singleton instances.
+// ---
+
 #include "base/task/single_thread_task_executor.h"
 #include "mojo/public/cpp/bindings/pending_receiver.h"
 #include "services/service_manager/public/cpp/service.h"
