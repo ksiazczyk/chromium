@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon client implementation
+// summary: Sends POST requests to Tachyon endpoints via SimpleURLLoader with OAuth headers, retry options, and a response size limit.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_client_impl.h"
 
 #include <memory>

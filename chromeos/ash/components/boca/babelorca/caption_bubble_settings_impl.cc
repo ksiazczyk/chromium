@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble settings implementation
+// summary: Implements caption bubble settings backed by profile prefs, managing translate target language, enabled state, and observers.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/caption_bubble_settings_impl.h"
 
 #include <memory>

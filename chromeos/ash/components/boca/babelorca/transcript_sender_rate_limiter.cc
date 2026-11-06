@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranscriptSenderRateLimiter implementation
+// summary: Implements a rate limiter that queues transcript updates and forwards them to a sender with a minimum send delay.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_sender_rate_limiter.h"
 
 #include <memory>

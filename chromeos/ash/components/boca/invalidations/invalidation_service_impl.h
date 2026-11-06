@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation service interface and class declaration
+// summary: Declares the invalidation service that manages the FCM handler, token upload retries, and invalidation forwarding via a delegate.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_INVALIDATIONS_INVALIDATION_SERVICE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_INVALIDATIONS_INVALIDATION_SERVICE_IMPL_H_
 

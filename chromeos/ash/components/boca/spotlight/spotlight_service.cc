@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight service implementation
+// summary: Implements the Spotlight service that sends view-screen, register-screen and update-view-screen-state requests for the current Boca session.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_service.h"
 
 #include <memory>

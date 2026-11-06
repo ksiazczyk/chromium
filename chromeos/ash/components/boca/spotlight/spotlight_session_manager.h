@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight session manager interface
+// summary: Declares SpotlightSessionManager, a BocaSessionManager observer handling Spotlight screen-view requests, countdown notifications and CRD sessions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_SESSION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_SESSION_MANAGER_H_
 

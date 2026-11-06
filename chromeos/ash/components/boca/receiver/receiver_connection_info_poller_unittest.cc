@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Receiver connection info poller unit tests
+// summary: Tests polling behavior with mocked network responses and identity environment, covering successful polls, stop requests, and server unreachability.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/receiver_connection_info_poller.h"
 
 #include <memory>

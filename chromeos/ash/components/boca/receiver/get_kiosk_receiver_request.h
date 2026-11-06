@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get kiosk receiver request header
+// summary: Declares GetKioskReceiverRequest, a BocaRequest delegate that retrieves kiosk receiver state and robot email for a receiver and optional connection ID.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_GET_KIOSK_RECEIVER_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_GET_KIOSK_RECEIVER_REQUEST_H_
 

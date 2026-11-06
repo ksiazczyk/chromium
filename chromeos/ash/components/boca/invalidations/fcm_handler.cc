@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM handler implementation for Boca invalidations
+// summary: Implements the FCM handler that registers with GCM, fetches and validates registration tokens, and dispatches incoming invalidations to listeners.
+// ---
+
 #include "chromeos/ash/components/boca/invalidations/fcm_handler.h"
 
 #include <map>

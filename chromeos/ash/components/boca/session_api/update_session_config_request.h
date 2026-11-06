@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update session config request class header
+// summary: Declares the UpdateSessionConfigRequest class for patching session config fields such as on-task and captions settings with a result callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPDATE_SESSION_CONFIG_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPDATE_SESSION_CONFIG_REQUEST_H_
 

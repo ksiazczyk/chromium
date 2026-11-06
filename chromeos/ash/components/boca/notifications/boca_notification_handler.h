@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca notification handler header
+// summary: Declares the BocaNotificationHandler class that manages Class hub system notifications for session, caption, and screen share state changes in Ash.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_NOTIFICATIONS_BOCA_NOTIFICATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_NOTIFICATIONS_BOCA_NOTIFICATION_HANDLER_H_
 

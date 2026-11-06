@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranscriptReceiver unit tests
+// summary: Unit tests for TranscriptReceiver covering message handling, retry behavior, and transcript callbacks using fake Tachyon clients.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_receiver.h"
 
 #include <memory>

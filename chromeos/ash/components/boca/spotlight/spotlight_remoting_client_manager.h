@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight remoting client manager interface
+// summary: Declares the SpotlightRemotingClientManager interface and its implementation for managing CRD remoting clients with frame, audio and status callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_REMOTING_CLIENT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_REMOTING_CLIENT_MANAGER_H_
 

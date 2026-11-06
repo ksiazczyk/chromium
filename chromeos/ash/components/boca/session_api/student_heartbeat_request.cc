@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student heartbeat request implementation
+// summary: Implements the student heartbeat URL fetch request that reports liveness for a student device in a session and runs a success-or-error callback.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/student_heartbeat_request.h"
 
 #include <string>

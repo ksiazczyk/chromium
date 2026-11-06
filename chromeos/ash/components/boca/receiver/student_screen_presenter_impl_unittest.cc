@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Student screen presenter unit tests
+// summary: Unit tests covering student screen presenter start, connection check, and stop flows plus related UMA metrics using a test URL loader factory.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/student_screen_presenter_impl.h"
 
 #include <optional>

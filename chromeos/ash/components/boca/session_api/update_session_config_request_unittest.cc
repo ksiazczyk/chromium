@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update session config request unit tests
+// summary: Unit tests for the update session config request, verifying URL construction, request payloads, and response handling via a mock test server.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/update_session_config_request.h"
 
 #include <memory>

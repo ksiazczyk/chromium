@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token data wrapper struct
+// summary: Defines TokenDataWrapper, a struct holding an authentication token string together with its expiration time.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TOKEN_DATA_WRAPPER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TOKEN_DATA_WRAPPER_H_
 

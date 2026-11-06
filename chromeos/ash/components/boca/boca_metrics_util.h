@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca metrics utility header
+// summary: Defines UMA histogram name constants and metrics helpers for Boca session, OnTask, Babelorca, and Spotlight features.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_METRICS_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_METRICS_UTIL_H_
 

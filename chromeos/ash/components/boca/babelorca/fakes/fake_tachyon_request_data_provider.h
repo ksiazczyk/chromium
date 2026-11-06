@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTachyonRequestDataProvider header for tests
+// summary: Declares a fake TachyonRequestDataProvider with configurable session, token, group and sender values plus a capturable signin callback for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_TACHYON_REQUEST_DATA_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_TACHYON_REQUEST_DATA_PROVIDER_H_
 

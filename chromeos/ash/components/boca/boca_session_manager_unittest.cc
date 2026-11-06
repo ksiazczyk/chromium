@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca session manager unit tests
+// summary: Extensive unit tests for BocaSessionManager covering session start, updates, end, polling results, heartbeats, and metrics with mocked session clients.
+// ---
+
 #include "chromeos/ash/components/boca/boca_session_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight constants for CRD connection state
+// summary: Defines the CrdConnectionState enum and the callback type used to report remoting client connection state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_CONSTANTS_H_
 

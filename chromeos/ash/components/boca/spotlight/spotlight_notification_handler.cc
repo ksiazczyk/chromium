@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight notification handler implementation
+// summary: Implements the countdown notification shown to students when a Spotlight session begins, with start and stop handling.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_notification_handler.h"
 
 #include <memory>

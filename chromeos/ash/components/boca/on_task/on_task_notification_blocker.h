@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask notification blocker
+// summary: Declares a notification blocker that suppresses all notifications except allowlisted OnTask ones to keep users in locked mode.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ON_TASK_NOTIFICATION_BLOCKER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ON_TASK_NOTIFICATION_BLOCKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca window observer interface
+// summary: Defines an observer interface notified of tab additions, tab removals, active tab changes and window tracker cleanup.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_WINDOW_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_WINDOW_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA installer implementation for BabelOrca
+// summary: Implements installation and status tracking of SODA speech recognition language packs required for BabelOrca captions.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/soda_installer.h"
 
 #include <algorithm>

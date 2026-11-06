@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca device auth token service implementation
+// summary: Implements BocaDeviceAuthTokenServiceBase, which manages OAuth2 access tokens for Boca receiver API requests via the OAuth2 access token manager.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/boca_device_auth_token_service.h"
 
 #include <memory>

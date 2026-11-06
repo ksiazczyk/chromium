@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update session request implementation
+// summary: Implements the PATCH request that updates a Boca session's state, duration, and student group configs and parses the updated session response.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/update_session_request.h"
 
 #include <string>

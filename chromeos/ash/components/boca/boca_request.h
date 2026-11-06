@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaRequest class header
+// summary: Declares BocaRequest, a URL fetch request base with a delegate interface for relative URLs, request bodies, and success or error callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcript builder implementation
+// summary: Implements TranscriptBuilder, which validates, merges and orders incoming BabelOrca transcript parts into final and interim transcript results.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_builder.h"
 
 #include <algorithm>

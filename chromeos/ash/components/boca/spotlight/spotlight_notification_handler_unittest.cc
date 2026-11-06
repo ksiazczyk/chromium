@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight notification handler unit tests
+// summary: Tests starting and stopping the Spotlight countdown notification using a fake delegate and mock time.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_notification_handler.h"
 
 #include <memory>

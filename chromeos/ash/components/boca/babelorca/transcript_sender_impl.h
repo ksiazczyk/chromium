@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranscriptSenderImpl class header
+// summary: Declares TranscriptSenderImpl, which sends transcripts to a Tachyon group and reports failure after repeated send errors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TRANSCRIPT_SENDER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TRANSCRIPT_SENDER_IMPL_H_
 

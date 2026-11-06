@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcript sender rate limiter
+// summary: Header for a rate limiter that queues speech recognition transcripts and sends them through a TranscriptSender with a minimum send delay.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TRANSCRIPT_SENDER_RATE_LIMITER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TRANSCRIPT_SENDER_RATE_LIMITER_H_
 

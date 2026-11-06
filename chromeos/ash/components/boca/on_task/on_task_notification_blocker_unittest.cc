@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask notification blocker unit tests
+// summary: Unit tests verifying that the OnTask notification blocker allows allowlisted notifications and blocks all others, including popups.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_notification_blocker.h"
 
 #include <memory>

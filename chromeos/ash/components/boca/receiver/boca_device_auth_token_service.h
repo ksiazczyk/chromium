@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca device auth token service header
+// summary: Declares BocaDeviceAuthTokenServiceBase and a templated BocaDeviceAuthTokenService that adapt device OAuth2 token managers to the google_apis auth service interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_BOCA_DEVICE_AUTH_TOKEN_SERVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_BOCA_DEVICE_AUTH_TOKEN_SERVICE_H_
 

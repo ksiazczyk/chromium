@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing message proto definitions
+// summary: Defines a simple test-only protobuf message with integer and fixed-width fields used by the test support target.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

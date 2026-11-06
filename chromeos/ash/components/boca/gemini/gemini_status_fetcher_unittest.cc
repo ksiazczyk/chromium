@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeminiStatusFetcher unit tests
+// summary: Tests successful status responses, concurrent callback queuing, and fallback to the cached pref when the request fails.
+// ---
+
 #include "chromeos/ash/components/boca/gemini/gemini_status_fetcher.h"
 
 #include <memory>

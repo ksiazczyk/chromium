@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca session utility declarations
+// summary: Declares null-safe accessor functions for the Boca session config, student groups, student group ID and roster.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_SESSION_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_SESSION_UTIL_H_
 

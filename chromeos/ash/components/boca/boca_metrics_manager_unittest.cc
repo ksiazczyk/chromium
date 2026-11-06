@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BocaMetricsManager unit tests
+// summary: Unit tests verifying that BocaMetricsManager records locked and unlocked durations, student counts, and tab metrics correctly.
+// ---
+
 #include "chromeos/ash/components/boca/boca_metrics_manager.h"
 
 #include <memory>

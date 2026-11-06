@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TachyonRegistrar class header
+// summary: Declares TachyonRegistrar, which registers a user with Tachyon and stores the resulting token for use by other Tachyon requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TACHYON_REGISTRAR_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TACHYON_REGISTRAR_H_
 

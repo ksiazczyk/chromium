@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca component GN build targets
+summary: Defines the static library and source set targets, sources, and dependencies for the Boca ChromeOS component.

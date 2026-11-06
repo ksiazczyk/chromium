@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register receiver request header
+// summary: Declares the Boca request delegate that registers a kiosk receiver with an FCM token, including its URL and traffic annotation.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_REGISTER_RECEIVER_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_REGISTER_RECEIVER_REQUEST_H_
 

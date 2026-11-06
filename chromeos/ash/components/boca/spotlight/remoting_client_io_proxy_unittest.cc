@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remoting client IO proxy unit tests
+// summary: Unit tests for RemotingClientIOProxy verifying connection state updates, frame delivery and audio packet forwarding via fake wrappers.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/remoting_client_io_proxy.h"
 
 #include <memory>

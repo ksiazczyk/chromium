@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver handler delegate interface
+// summary: Abstract delegate interface supplying the FCM handler, request sender, remoting client manager, and app-enabled checks to receiver handlers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_RECEIVER_HANDLER_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_RECEIVER_HANDLER_DELEGATE_H_
 

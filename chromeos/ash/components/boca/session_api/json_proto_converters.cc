@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON to proto converters
+// summary: Converts a JSON dictionary into a boca::UserIdentity proto by mapping email, Gaia ID, full name, and photo URL fields.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/json_proto_converters.h"
 
 #include "base/values.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Boca directory include dependency rules
+summary: Lists the headers and directories that code in the Boca component may include, with extra rules for unit tests.

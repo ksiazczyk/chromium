@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight frame consumer interface
+// summary: Declares SpotlightFrameConsumer, which allocates and receives screen frames from a CRD client session.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_FRAME_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_FRAME_CONSUMER_H_
 

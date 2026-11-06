@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble settings implementation header
+// summary: Declares CaptionBubbleSettingsImpl, which exposes live caption and translate preferences to the caption bubble for the Babelorca feature.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_CAPTION_BUBBLE_SETTINGS_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_CAPTION_BUBBLE_SETTINGS_IMPL_H_
 

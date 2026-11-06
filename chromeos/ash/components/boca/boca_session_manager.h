@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca session manager header
+// summary: Declares BocaSessionManager, which observes network, identity, session, and remoting state to run Boca classroom sessions and report errors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_SESSION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_SESSION_MANAGER_H_
 

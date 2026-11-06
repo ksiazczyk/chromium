@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JoinSessionRequest implementation
+// summary: Implements the JoinSessionRequest POST call that sends a join code, student identity, and device info to join a Boca session and parses the returned session.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/join_session_request.h"
 
 #include "base/json/json_writer.h"

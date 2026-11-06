@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update student activities request unit tests
+// summary: Unit tests that verify UpdateStudentActivitiesRequest posts activity data and handles success and failure responses via an embedded test server.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/update_student_activities_request.h"
 
 #include <memory>

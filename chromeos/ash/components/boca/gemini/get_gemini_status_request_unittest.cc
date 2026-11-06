@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetGeminiStatusRequest unit tests
+// summary: Tests URL construction, request type and body, and response parsing for enabled, disabled, invalid, missing, and error cases.
+// ---
+
 #include "chromeos/ash/components/boca/gemini/get_gemini_status_request.h"
 
 #include <memory>

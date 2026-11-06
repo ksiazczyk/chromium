@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask session manager unit tests
+// summary: Unit tests for the OnTask session manager using mocked system web app and extensions managers to verify session start, end, and bundle update behavior.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_session_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Create session request unit tests
+// summary: Tests CreateSessionRequest with mocked server responses, covering session parsing, URL type handling and error messages such as exceeded student limits.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/create_session_request.h"
 
 #include <memory>

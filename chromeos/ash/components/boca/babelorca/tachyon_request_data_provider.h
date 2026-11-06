@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TachyonRequestDataProvider interface
+// summary: Declares an interface that supplies common Tachyon request data such as session ID, token, group ID and sender email.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TACHYON_REQUEST_DATA_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TACHYON_REQUEST_DATA_PROVIDER_H_
 

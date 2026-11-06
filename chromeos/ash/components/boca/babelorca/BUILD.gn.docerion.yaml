@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for babelorca
+summary: Defines GN build targets for the babelorca component, including the main static library, a SODA installer library, and test support sets with their sources and dependencies.

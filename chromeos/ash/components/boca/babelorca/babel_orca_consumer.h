@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca consumer class declaration
+// summary: Declares the consumer controller that starts and stops caption receiving, joins session groups, and reports receiving stop reasons for UMA.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_CONSUMER_H_
 

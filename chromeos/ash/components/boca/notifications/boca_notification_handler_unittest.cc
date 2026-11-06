@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca notification handler unit tests
+// summary: Unit tests for BocaNotificationHandler using a fake message center and mock Boca app client to verify session, caption, and screen share notification behavior.
+// ---
+
 #include "chromeos/ash/components/boca/notifications/boca_notification_handler.h"
 
 #include "chromeos/ash/components/boca/boca_app_client.h"

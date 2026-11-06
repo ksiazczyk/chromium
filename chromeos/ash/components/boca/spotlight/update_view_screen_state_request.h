@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update view screen state request header
+// summary: Declares the UpdateViewScreenStateRequest class and its parameter struct for sending view screen state updates to the Boca session API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_UPDATE_VIEW_SCREEN_STATE_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_UPDATE_VIEW_SCREEN_STATE_REQUEST_H_
 

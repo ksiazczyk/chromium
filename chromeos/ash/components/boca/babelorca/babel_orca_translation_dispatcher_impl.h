@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrcaTranslationDispatcherImpl class header
+// summary: Declares BabelOrcaTranslationDispatcherImpl, an adapter that wraps the live caption translation dispatcher for BabelOrca.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_TRANSLATION_DISPATCHER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_TRANSLATION_DISPATCHER_IMPL_H_
 

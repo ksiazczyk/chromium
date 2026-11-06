@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBabelOrcaTranslationDispatcher header
+// summary: Declares a fake translation dispatcher test double with injectable translation results and an interceptable dispatch handler for testing caption ordering.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_TRANSLATION_DISPATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_TRANSLATION_DISPATCHER_H_
 

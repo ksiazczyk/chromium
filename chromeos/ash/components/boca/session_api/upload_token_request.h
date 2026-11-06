@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload token request class declaration
+// summary: Declares the UploadTokenRequest class and its callback for uploading FCM tokens to the Boca session API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPLOAD_TOKEN_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPLOAD_TOKEN_REQUEST_H_
 

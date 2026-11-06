@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA installer class declaration
+// summary: Declares the SodaInstaller class that observes SODA installation progress and reports availability for a given language.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_SODA_INSTALLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_SODA_INSTALLER_H_
 

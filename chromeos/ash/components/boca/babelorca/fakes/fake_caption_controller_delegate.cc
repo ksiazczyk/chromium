@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeCaptionControllerDelegate implementation for caption controller tests
+// summary: Implements a fake caption controller delegate that records transcriptions, caption style updates and language identification events for testing the BabelOrca caption controller.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/fakes/fake_caption_controller_delegate.h"
 
 #include <memory>

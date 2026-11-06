@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update kiosk receiver state request class declaration
+// summary: Declares the request that sends connection state updates for a kiosk receiver connection to the School Tools API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_UPDATE_KIOSK_RECEIVER_STATE_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_UPDATE_KIOSK_RECEIVER_STATE_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk receiver parser header
+// summary: Declares functions that map receiver connection states between JSON strings and Boca proto enum values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_KIOSK_RECEIVER_PARSER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_KIOSK_RECEIVER_PARSER_H_
 

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Boca session proto definitions
+// summary: Protobuf definitions for Boca classroom sessions, including session configuration, join codes, student statuses and devices, captions, and view screen settings.
+// ---
+
 // Imported from
 // //depot/google3/google/internal/chrome/cros/edu/schooltools/v1/session.proto
 syntax = "proto3";

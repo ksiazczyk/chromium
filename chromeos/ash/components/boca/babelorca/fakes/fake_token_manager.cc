@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTokenManager implementation
+// summary: Implements a fake TokenManager that returns preset token strings and versions and lets tests control and observe forced token fetch callbacks.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/fakes/fake_token_manager.h"
 
 #include <memory>

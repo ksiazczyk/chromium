@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrca caption translator unit tests
+// summary: Unit tests for the caption translator covering null callbacks, invalid languages, language switching metrics, and translation dispatch behavior.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_caption_translator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View screen request unit tests
+// summary: Unit tests for ViewScreenRequest that verify request setup and response handling against a mock embedded test server.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/view_screen_request.h"
 
 #include <memory>

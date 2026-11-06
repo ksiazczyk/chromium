@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockClock class for advancing mock time in browser tests
+// summary: Declares the ash::boca MockClock singleton that supplies mockable time via time overrides and can be advanced for browser tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_UTIL_MOCK_CLOCK_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_UTIL_MOCK_CLOCK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca session utility unit tests
+// summary: Unit tests verifying the Boca session utility helpers handle null sessions and missing student groups without crashing.
+// ---
+
 #include "chromeos/ash/components/boca/boca_session_util.h"
 
 #include "chromeos/ash/components/boca/proto/roster.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation service delegate interface
+// summary: Defines the delegate interface for uploading FCM tokens and handling received invalidation payloads.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_INVALIDATIONS_INVALIDATION_SERVICE_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_INVALIDATIONS_INVALIDATION_SERVICE_DELEGATE_H_
 

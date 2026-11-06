@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrcaProducer implementation
+// summary: Implements producer-mode caption handling, controlling speech recognition and sending transcripts via Tachyon with rate limiting.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_producer.h"
 
 #include <memory>

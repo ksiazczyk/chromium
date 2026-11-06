@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight OAuth token fetcher interface
+// summary: Abstract interface for fetching OAuth tokens and retrieving the device robot email for Spotlight sessions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_OAUTH_TOKEN_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_OAUTH_TOKEN_FETCHER_H_
 

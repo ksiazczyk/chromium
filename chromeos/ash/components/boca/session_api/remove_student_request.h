@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveStudentRequest class header
+// summary: Declares the RemoveStudentRequest URL fetch request that removes students from a Boca session and reports the result via callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_REMOVE_STUDENT_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_REMOVE_STUDENT_REQUEST_H_
 

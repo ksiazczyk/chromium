@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrcaProducer unit tests
+// summary: Unit tests for BabelOrcaProducer covering transcript sending, caption config updates, and sending-stopped-reason metrics.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_producer.h"
 
 #include <algorithm>

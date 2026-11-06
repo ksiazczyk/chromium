@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token fetcher header
+// summary: Declares OAuthTokenFetcher, a Tachyon OAuth token fetcher that retrieves access tokens for the signed-in account with retry support.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_OAUTH_TOKEN_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_OAUTH_TOKEN_FETCHER_H_
 

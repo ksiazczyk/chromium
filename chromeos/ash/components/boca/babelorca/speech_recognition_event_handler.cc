@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition event handler implementation
+// summary: Distributes transcription results and language identification events from the speech recognizer to registered observers.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/speech_recognition_event_handler.h"
 
 #include <optional>

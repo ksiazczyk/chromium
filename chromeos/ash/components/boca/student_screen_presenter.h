@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student screen presenter interface
+// summary: Abstract interface for starting, checking and stopping screen presentation to a student device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_STUDENT_SCREEN_PRESENTER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_STUDENT_SCREEN_PRESENTER_H_
 

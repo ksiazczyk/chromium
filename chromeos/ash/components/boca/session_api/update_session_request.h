@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update session request class header
+// summary: Declares the UpdateSessionRequest class for updating session fields like duration, state, and configs, returning the updated session via callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPDATE_SESSION_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPDATE_SESSION_REQUEST_H_
 

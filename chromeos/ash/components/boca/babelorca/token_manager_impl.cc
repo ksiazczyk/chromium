@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token manager implementation
+// summary: Implements TokenManagerImpl, which stores fetched tokens, checks expiry against a clock and queues callbacks until fetches complete.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/token_manager_impl.h"
 
 #include <memory>

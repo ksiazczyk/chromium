@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA testing utilities header
+// summary: Declares RegisterSodaPrefsForTesting and MockSodaInstaller for stubbing speech::SodaInstaller in BabelOrca tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_SODA_TESTING_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_SODA_TESTING_UTILS_H_
 

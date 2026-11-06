@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca metrics recording utilities
+// summary: Implements helper functions that record UMA histograms and user actions for Boca sessions, Spotlight, and BabelOrca features.
+// ---
+
 #include "chromeos/ash/components/boca/boca_metrics_util.h"
 
 #include "base/metrics/histogram_functions.h"

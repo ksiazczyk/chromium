@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get receiver connection info request header
+// summary: Declares GetReceiverConnectionInfoRequest, a BocaRequest delegate that retrieves connection details for a kiosk receiver, optionally scoped to a connection ID.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_GET_RECEIVER_CONNECTION_INFO_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_GET_RECEIVER_CONNECTION_INFO_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add students request class declaration
+// summary: Declares AddStudentsRequest, a URL fetch request carrying a session ID, student group ID and student identities to add students to a session.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_ADD_STUDENTS_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_ADD_STUDENTS_REQUEST_H_
 

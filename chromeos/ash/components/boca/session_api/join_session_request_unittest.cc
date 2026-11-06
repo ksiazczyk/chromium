@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JoinSessionRequest unit tests
+// summary: Unit tests for JoinSessionRequest covering successful joins, URL type handling in responses, and failure cases using a mock test server.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/join_session_request.h"
 
 // Copyright 2024 The Chromium Authors

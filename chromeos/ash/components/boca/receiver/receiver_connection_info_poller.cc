@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver connection info poller implementation
+// summary: Polls kiosk receiver connection info every ten seconds and stops on a stop request or after three consecutive failures.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/receiver_connection_info_poller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight service unit tests
+// summary: Unit tests for SpotlightService covering view-screen, register-screen and update-state requests with an embedded test server and mocked session manager.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_service.h"
 
 #include <memory>

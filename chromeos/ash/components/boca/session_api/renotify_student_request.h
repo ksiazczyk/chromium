@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenotifyStudentRequest class header
+// summary: Declares the RenotifyStudentRequest URL fetch request used to re-notify students in a Boca session.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_RENOTIFY_STUDENT_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_RENOTIFY_STUDENT_REQUEST_H_
 

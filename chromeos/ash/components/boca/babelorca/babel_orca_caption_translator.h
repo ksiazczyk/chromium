@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca caption translator class declaration
+// summary: Declares the caption translator that dispatches speech recognition results for translation, caches results, and offers test helpers for language setup.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_CAPTION_TRANSLATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_CAPTION_TRANSLATOR_H_
 

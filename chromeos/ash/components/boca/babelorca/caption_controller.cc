@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Babelorca caption controller implementation
+// summary: Implements the Babelorca caption controller that starts and stops live captioning and routes transcriptions and language events to the caption bubble.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/caption_controller.h"
 
 #include <memory>

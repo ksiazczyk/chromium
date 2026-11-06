@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionClientImpl unit tests
+// summary: Tests SessionClientImpl request dispatch, including concurrent get-session dedupe behavior, using an embedded test server.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/session_client_impl.h"
 
 #include <memory>

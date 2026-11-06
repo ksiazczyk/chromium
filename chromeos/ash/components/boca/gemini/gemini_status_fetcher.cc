@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiStatusFetcher implementation
+// summary: Implements fetching the user's Gemini enablement status via an authenticated request and caching the result in the ash.boca.gemini_enabled profile pref.
+// ---
+
 #include "chromeos/ash/components/boca/gemini/gemini_status_fetcher.h"
 
 #include <memory>

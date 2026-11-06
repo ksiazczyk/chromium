@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon client response handling
+// summary: Provides static helpers that build TachyonResponse objects from URL loader results and record HTTP or net error UMA metrics.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_client.h"
 
 #include <memory>

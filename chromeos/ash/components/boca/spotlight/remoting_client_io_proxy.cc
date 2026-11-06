@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting client IO proxy implementation
+// summary: Implements the proxy that runs the Chrome Remote Desktop remoting client on the IO sequence and reports connection state changes.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/remoting_client_io_proxy.h"
 
 #include <memory>

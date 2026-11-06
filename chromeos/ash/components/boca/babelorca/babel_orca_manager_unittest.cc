@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrcaManager unit tests
+// summary: Unit tests for BabelOrcaManager covering session events, Tachyon sign-in responses, and controller interactions.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_manager.h"
 
 #include <memory>

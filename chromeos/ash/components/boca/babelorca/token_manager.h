@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token manager interface
+// summary: Defines the TokenManager interface for retrieving a valid token string, tracking fetched versions and force-fetching tokens.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TOKEN_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TOKEN_MANAGER_H_
 

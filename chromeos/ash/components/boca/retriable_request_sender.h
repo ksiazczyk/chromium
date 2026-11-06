@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Retriable request sender
+// summary: Template class that sends Boca requests with exponential backoff retries up to a configurable maximum retry count.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RETRIABLE_REQUEST_SENDER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RETRIABLE_REQUEST_SENDER_H_
 

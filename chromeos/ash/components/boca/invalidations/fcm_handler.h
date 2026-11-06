@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM handler interface for Boca invalidations
+// summary: Declares the FCM handler interface and implementation for registering with FCM, managing token observers, and notifying invalidation listeners.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_INVALIDATIONS_FCM_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_INVALIDATIONS_FCM_HANDLER_H_
 

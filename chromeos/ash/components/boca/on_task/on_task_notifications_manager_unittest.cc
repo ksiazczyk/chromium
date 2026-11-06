@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OnTask notifications manager unit tests
+// summary: Unit tests for the OnTask notifications manager covering toast and notification creation, countdown timing, and completion callbacks using a fake delegate.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_notifications_manager.h"
 
 #include <atomic>

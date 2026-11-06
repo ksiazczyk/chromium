@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token manager implementation unit tests
+// summary: Unit tests covering initial state, token storage, expiry, version increments, queued fetch requests and failure handling in TokenManagerImpl.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/token_manager_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TachyonRegistrar unit tests
+// summary: Unit tests covering successful and failed Tachyon registration, token retrieval and token reset using a fake authed client.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_registrar.h"
 
 #include <optional>

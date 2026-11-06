@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrca testing constants and prefs helper
+// summary: Declares test constants for caption preferences and RegisterPrefsForTesting to set up prefs in BabelOrca tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TESTING_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TESTING_UTILS_H_
 

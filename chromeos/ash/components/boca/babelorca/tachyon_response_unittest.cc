@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TachyonResponse unit tests
+// summary: Parameterized unit tests verifying TachyonResponse status mapping for RPC codes, network errors and HTTP responses.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_response.h"
 
 #include <memory>

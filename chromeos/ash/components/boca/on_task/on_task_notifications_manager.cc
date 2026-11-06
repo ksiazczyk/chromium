@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask notifications manager implementation
+// summary: Implements the OnTask notifications manager that creates countdown toasts and message-center notifications and clears them during Boca sessions.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_notifications_manager.h"
 
 #include <memory>

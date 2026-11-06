@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenotifyStudentRequest implementation
+// summary: Implements the POST request that re-notifies students in a Boca session, building the JSON body and handling success and error responses.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/renotify_student_request.h"
 
 #include "base/json/json_writer.h"

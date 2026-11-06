@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask notifications manager header
+// summary: Declares the OnTaskNotificationsManager class with toast and notification creation params plus a delegate interface that tests can override for display actions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ON_TASK_NOTIFICATIONS_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ON_TASK_NOTIFICATIONS_MANAGER_H_
 

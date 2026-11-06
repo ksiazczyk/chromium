@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetGeminiStatusRequest class declaration
+// summary: Declares the request delegate for the getGeminiStatus API call, including its response callback and traffic annotation.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_GEMINI_GET_GEMINI_STATUS_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_GEMINI_GET_GEMINI_STATUS_REQUEST_H_
 

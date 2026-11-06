@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update view screen state request implementation
+// summary: Implements the HTTP POST request that reports view-screen state changes for a student device to the School Tools API.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/update_view_screen_state_request.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen presenter factory interface
+// summary: Abstract factory interface for creating student and teacher screen presenter instances for a session.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SCREEN_PRESENTER_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SCREEN_PRESENTER_FACTORY_H_
 

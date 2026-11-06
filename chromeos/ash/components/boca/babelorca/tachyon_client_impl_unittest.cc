@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tachyon client implementation unit tests
+// summary: Tests TachyonClientImpl success, network failure, HTTP error, and auth failure handling along with UMA recording using a test URL loader factory.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_client_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Boca invalidation service
+// summary: Tests token upload and invalidation forwarding behavior using mock delegates, GCM driver, and instance ID driver.
+// ---
+
 #include "chromeos/ash/components/boca/invalidations/invalidation_service_impl.h"
 
 #include <memory>

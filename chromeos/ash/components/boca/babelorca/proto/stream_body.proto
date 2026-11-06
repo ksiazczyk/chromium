@@ -5,6 +5,12 @@
 // Source:
 // http://google3/google/rpc/stream_body.proto
 
+// ---docerion
+// type: source
+// title: StreamBody proto definitions
+// summary: Defines StreamBody and Status protobuf messages copied from google3 for streaming message bodies.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

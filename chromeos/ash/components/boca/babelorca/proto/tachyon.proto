@@ -4,6 +4,12 @@
 
 // Source: http://google3/media/webrtc/server/tachyon/proto/tachyon.proto
 
+// ---docerion
+// type: source
+// title: Tachyon messaging proto definitions
+// summary: Defines Tachyon protobuf messages for signing in, sending inbox messages, and receiving messages from the messaging service.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

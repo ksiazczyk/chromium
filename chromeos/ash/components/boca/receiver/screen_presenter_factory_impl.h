@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen presenter factory header
+// summary: Declares ScreenPresenterFactoryImpl, which creates student and teacher screen presenters using a URL loader factory and identity manager.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_SCREEN_PRESENTER_FACTORY_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_SCREEN_PRESENTER_FACTORY_IMPL_H_
 

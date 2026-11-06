@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca speech recognizer interface
+// summary: Defines the interface to control and observe speech recognition, including transcription results and language identification events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_SPEECH_RECOGNIZER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_BABEL_ORCA_SPEECH_RECOGNIZER_H_
 

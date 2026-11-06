@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask profile preferences registration
+// summary: Defines the disabled OnTask extensions list pref name and registers it as a syncable profile preference.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_prefs.h"
 
 #include "base/check.h"

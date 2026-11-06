@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Student heartbeat request unit tests
+// summary: Unit tests for the student heartbeat request using an embedded test server and mock handlers to verify success and failure callback handling.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/student_heartbeat_request.h"
 
 #include <memory>

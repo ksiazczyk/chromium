@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionClientImpl implementation
+// summary: Implements the session API client that dispatches create, get, update, join, and student management requests with OAuth auth retry.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/session_client_impl.h"
 
 #include "ash/constants/ash_features.h"

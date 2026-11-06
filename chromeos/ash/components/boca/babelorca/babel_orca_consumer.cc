@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca consumer implementation
+// summary: Implements the consumer side of BabelOrca, joining Tachyon groups to receive School Tools session captions and managing the receiving lifecycle and errors.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_consumer.h"
 
 #include <memory>

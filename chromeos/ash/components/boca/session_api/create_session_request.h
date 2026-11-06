@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create session request class declaration
+// summary: Declares CreateSessionRequest for creating a session, with setters for roster, on-task and captions configs and a callback returning the parsed session.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_CREATE_SESSION_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_CREATE_SESSION_REQUEST_H_
 

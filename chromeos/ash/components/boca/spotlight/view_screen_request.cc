@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View screen request implementation
+// summary: Implements the ViewScreenRequest POST call that reports teacher and student device view screen configuration for a Boca session.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/view_screen_request.h"
 
 #include <optional>

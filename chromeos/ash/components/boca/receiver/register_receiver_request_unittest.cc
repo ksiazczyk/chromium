@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register receiver request unit tests
+// summary: Verifies the request URL, JSON body, and success and error handling of the receiver registration response.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/register_receiver_request.h"
 
 #include <optional>

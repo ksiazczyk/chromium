@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBabelOrcaTranslationDispatcher implementation
+// summary: Implements a fake translation dispatcher that counts GetTranslation calls and returns injected or default translation results via the callback.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/fakes/fake_translation_dispatcher.h"
 
 #include "base/functional/callback.h"
