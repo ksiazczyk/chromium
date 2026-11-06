@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill name processing util implementation
+// summary: Implements computation of parseable names for autofill form fields by removing long common prefixes shared across field names.
+// ---
+
 #include "components/autofill/core/browser/form_processing/name_processing_util.h"
 
 #include <stddef.h>

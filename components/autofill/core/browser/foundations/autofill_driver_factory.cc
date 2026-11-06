@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillDriverFactory implementation
+// summary: Implements driver lifecycle state updates that notify factory observers and the driver's AutofillManager of state changes.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_driver_factory.h"
 
 #include "components/autofill/core/browser/foundations/autofill_driver.h"

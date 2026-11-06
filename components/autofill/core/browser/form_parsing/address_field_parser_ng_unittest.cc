@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Next-generation address field parser unit tests
+// summary: Unit tests verifying that AddressFieldParserNG correctly classifies address lines, street names, house numbers and related fields.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/address_field_parser_ng.h"
 
 #include <memory>

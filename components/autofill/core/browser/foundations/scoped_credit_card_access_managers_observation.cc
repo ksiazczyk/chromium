@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCreditCardAccessManagersObservation implementation
+// summary: Implements a scoped helper that observes all CreditCardAccessManagers of a tab by tracking driver lifecycle and forwarding events to a CreditCardAccessManager::Observer.
+// ---
+
 #include "components/autofill/core/browser/foundations/scoped_credit_card_access_managers_observation.h"
 
 #include "base/scoped_multi_source_observation.h"

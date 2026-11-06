@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Next-generation address field parser implementation
+// summary: Implements a backtracking-based address field parser that scores field type assignments against a country's address hierarchy and constraints.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/address_field_parser_ng.h"
 
 #include <initializer_list>

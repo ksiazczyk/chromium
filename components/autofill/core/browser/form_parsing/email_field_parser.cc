@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email field parser implementation
+// summary: Implements heuristics that detect email fields, including email-or-loyalty-membership fields and placeholder or label based matches.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/email_field_parser.h"
 
 #include <memory>

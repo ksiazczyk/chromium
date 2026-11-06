@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormForest class header
+// summary: Declares FormForest, which converts frame-transcending renderer forms into flattened browser forms and maps fields back to renderer forms.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_FORM_FOREST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_FORM_FOREST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormForest test API implementation
+// summary: Implements printing and traversal helpers that expose FormForest internals for testing and debugging of the frame and form graph.
+// ---
+
 #include "components/autofill/core/browser/foundations/form_forest_test_api.h"
 
 #include <iomanip>

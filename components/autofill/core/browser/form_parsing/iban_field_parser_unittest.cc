@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN field parser unit tests
+// summary: Unit tests verifying that IBAN fields are matched and non-IBAN account fields are rejected.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/iban_field_parser.h"
 
 #include "components/autofill/core/browser/form_parsing/parsing_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillDriverFactory test driver ownership
+// summary: Declares TestAutofillDriverFactory, an AutofillDriverFactory for tests that adopts test drivers and controls their activation, reset, and deletion.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_DRIVER_FACTORY_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_DRIVER_FACTORY_H_
 

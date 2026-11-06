@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone CVC field parser class declaration
+// summary: Declares the StandaloneCvcFieldParser class that recognizes and classifies standalone CVC form fields within the autofill field parsing framework.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_STANDALONE_CVC_FIELD_PARSER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_STANDALONE_CVC_FIELD_PARSER_H_
 

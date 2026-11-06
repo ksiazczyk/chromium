@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillManagerTemplate synchronous event handling
+// summary: Declares TestAutofillManagerTemplate, which makes AutofillManager renderer event handlers synchronous by blocking until asynchronous form parsing completes in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_MANAGER_H_
 

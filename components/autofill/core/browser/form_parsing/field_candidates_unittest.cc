@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FieldCandidates unit tests
+// summary: Tests candidate selection, priority ordering and BestHeuristicTypeReason for FieldCandidates.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/field_candidates.h"
 
 #include <optional>

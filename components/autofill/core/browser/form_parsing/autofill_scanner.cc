@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill scanner implementation
+// summary: Implements the AutofillScanner cursor logic for iterating over relevant form fields with lookahead, skipping, predecessor lookup and position restore.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/autofill_scanner.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillDriver implementation
+// summary: Implements TestAutofillDriver, a test double for AutofillDriver that provides UKM source IDs and triggers synchronous form extraction for autofill tests.
+// ---
+
 #include "components/autofill/core/browser/foundations/test_autofill_driver.h"
 
 #include "base/check_deref.h"

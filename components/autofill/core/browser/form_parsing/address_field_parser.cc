@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address field parser implementation
+// summary: Implements heuristic parsing of address form fields in Chromium's autofill, classifying company, address lines, zip code, city and state fields.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/address_field_parser.h"
 
 #include <stddef.h>

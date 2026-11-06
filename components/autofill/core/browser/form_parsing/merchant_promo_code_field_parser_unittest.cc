@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant promo code field parser unit tests
+// summary: Unit tests verifying matching of promo, coupon, gift and discount code fields and rejection of non-code fields.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/merchant_promo_code_field_parser.h"
 
 #include "components/autofill/core/browser/form_parsing/parsing_test_util.h"

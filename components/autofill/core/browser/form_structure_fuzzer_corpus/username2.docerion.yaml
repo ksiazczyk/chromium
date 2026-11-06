@@ -1,0 +1,4 @@
+# Docerion header of username2.
+type: data
+title: Fuzzer corpus seed username2
+summary: Seed input for the autofill form structure fuzzer containing username and email field tokens.

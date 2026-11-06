@@ -1,0 +1,4 @@
+# Docerion header of address1.
+type: data
+title: Fuzzer corpus seed address1
+summary: Seed input for the autofill form structure fuzzer containing a shipping address section field token.

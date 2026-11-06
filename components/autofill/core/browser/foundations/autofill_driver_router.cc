@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillDriverRouter implementation
+// summary: Implements routing of autofill events across frames, including form forest handling and safe-to-fill checks based on field sensitivity and origins.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_driver_router.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DetermineAttributeTypes unit tests
+// summary: Unit tests verifying static and dynamic AttributeType assignment behavior of DetermineAttributeTypes for Autofill AI entities.
+// ---
+
 #include "components/autofill/core/browser/form_processing/autofill_ai/determine_attribute_types.h"
 
 #include <memory>

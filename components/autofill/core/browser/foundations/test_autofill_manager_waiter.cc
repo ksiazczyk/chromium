@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillManagerWaiter implementation
+// summary: Implements TestAutofillManagerWaiter, which tracks AutofillManager observer events and blocks tests until pending before/after event pairs have completed.
+// ---
+
 #include "components/autofill/core/browser/foundations/test_autofill_manager_waiter.h"
 
 #include <vector>

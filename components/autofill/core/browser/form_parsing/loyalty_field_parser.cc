@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card field parser implementation
+// summary: Implements parsing of loyalty card membership ID fields using the LOYALTY_MEMBERSHIP_ID regex.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/loyalty_field_parser.h"
 
 #include <memory>

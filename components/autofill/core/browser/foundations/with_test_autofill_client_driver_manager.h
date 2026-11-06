@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithTestAutofillClientDriverManager test fixture helper
+// summary: Declares WithTestAutofillClientDriverManager, a mixin that sets up an AutofillClient, AutofillDriver, and AutofillManager for autofill unit test fixtures.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_WITH_TEST_AUTOFILL_CLIENT_DRIVER_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_WITH_TEST_AUTOFILL_CLIENT_DRIVER_MANAGER_H_
 

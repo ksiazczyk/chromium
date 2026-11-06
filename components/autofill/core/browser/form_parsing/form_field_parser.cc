@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFieldParser implementation
+// summary: Implements the base heuristic parser that matches fields against regex patterns and orchestrates form field classification.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/form_field_parser.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address field parser unit tests
+// summary: Unit tests covering AddressFieldParser classification of address fields across countries and languages, such as Poland and India.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/address_field_parser.h"
 
 #include <memory>

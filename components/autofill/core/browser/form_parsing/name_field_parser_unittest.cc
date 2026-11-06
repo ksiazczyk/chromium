@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Name field parser unit tests
+// summary: Unit tests verifying that the name field parser correctly classifies first, middle, last, and honorific prefix fields, including localized labels such as German.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/name_field_parser.h"
 
 #include <memory>

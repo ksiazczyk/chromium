@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill parsing utility implementation
+// summary: Maps regex features to their base::Feature flags and determines which matching patterns are active during form field parsing.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/autofill_parsing_util.h"
 
 #include "base/feature.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAutofillManager implementation
+// summary: Implements BrowserAutofillManager, Chrome's AutofillManager, handling suggestions, form filling, payments, address import, and metrics logging.
+// ---
+
 #include "components/autofill/core/browser/foundations/browser_autofill_manager.h"
 
 #include <stddef.h>

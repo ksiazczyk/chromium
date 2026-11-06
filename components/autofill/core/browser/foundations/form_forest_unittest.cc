@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormForest unit tests
+// summary: Unit tests for FormForest verifying frame and form tree updates, browser form flattening, and renderer field mapping.
+// ---
+
 #include "components/autofill/core/browser/foundations/form_forest.h"
 
 #include <stdint.h>

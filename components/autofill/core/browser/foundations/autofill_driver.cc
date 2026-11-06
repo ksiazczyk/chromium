@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillDriver lifecycle state implementation
+// summary: Implements AutofillDriver lifecycle state changes and validates state transitions in debug builds according to the documented state diagram.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_driver.h"
 
 #include <utility>

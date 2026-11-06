@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedCreditCardAccessManagersObservation
+// summary: Unit tests covering observation state, single and multiple frame observation, delayed initialization, and reset behavior of ScopedCreditCardAccessManagersObservation.
+// ---
+
 #include "components/autofill/core/browser/foundations/scoped_credit_card_access_managers_observation.h"
 
 #include "base/test/task_environment.h"

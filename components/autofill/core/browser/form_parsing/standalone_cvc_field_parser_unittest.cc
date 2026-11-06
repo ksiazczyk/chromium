@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standalone CVC field parser unit tests
+// summary: Unit tests verifying that standalone CVC fields are parsed while non-CVC and gift card fields are not classified as standalone CVC.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/standalone_cvc_field_parser.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmailFieldParser unit tests
+// summary: Verifies that email-like labels and placeholders are classified as EMAIL_ADDRESS and related types.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/email_field_parser.h"
 
 #include "base/test/scoped_feature_list.h"

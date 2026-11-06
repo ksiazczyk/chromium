@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillDriverTemplate test double for AutofillDriver
+// summary: Declares TestAutofillDriverTemplate, a test double for AutofillDriver subclasses that fakes frame tokens, lifecycle state, and renderer interactions to ease writing autofill tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_DRIVER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_DRIVER_H_
 

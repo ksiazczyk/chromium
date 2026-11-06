@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autofill name processing util
+// summary: Unit tests verifying longest common affix computation and parseable name prefix removal in the autofill name processing utilities.
+// ---
+
 #include "components/autofill/core/browser/form_processing/name_processing_util.h"
 
 #include <string_view>

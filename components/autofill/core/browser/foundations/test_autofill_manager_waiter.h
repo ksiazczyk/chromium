@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillManagerWaiter event blocking helper
+// summary: Declares TestAutofillManagerWaiter, a test helper that records AutofillManager::Observer events and blocks Wait() calls until the corresponding after-events have happened.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_MANAGER_WAITER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_TEST_AUTOFILL_MANAGER_WAITER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of legacy_regex_patterns.json.
+type: data
+title: Legacy autofill form field regex patterns
+summary: JSON pattern file (PatternFile::kLegacy) holding localized regex patterns that Chromium Autofill uses to recognize form fields such as address fields across multiple languages.

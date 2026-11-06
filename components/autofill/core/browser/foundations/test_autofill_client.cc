@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillClient implementation
+// summary: Implements TestAutofillClientBase and TestAutofillClient, making sure drivers and managers are destroyed while the client is still functional during teardown.
+// ---
+
 #include "components/autofill/core/browser/foundations/test_autofill_client.h"
 
 namespace autofill {

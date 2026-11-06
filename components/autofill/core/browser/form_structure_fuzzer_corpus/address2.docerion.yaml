@@ -1,0 +1,4 @@
+# Docerion header of address2.
+type: data
+title: Fuzzer corpus seed address2
+summary: Seed input for the autofill form structure fuzzer containing a billing locality field token.

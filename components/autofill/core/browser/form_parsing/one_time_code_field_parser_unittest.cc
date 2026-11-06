@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-time code field parser unit tests
+// summary: Unit tests verifying detection of OTP, two-factor, and SMS code fields and rejection of unrelated fields such as usernames.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/one_time_code_field_parser.h"
 
 #include "base/test/scoped_feature_list.h"

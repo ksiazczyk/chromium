@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormForest set difference utility header
+// summary: Header-only template for_each_in_set_difference that calls a function for elements of one range missing from another, kept inline for unit testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_FORM_FOREST_UTIL_INL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_FORM_FOREST_UTIL_INL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time code field parser header
+// summary: Declares the OneTimeCodeFieldParser class, which parses form fields matching one-time code patterns and adds their classifications.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_ONE_TIME_CODE_FIELD_PARSER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_ONE_TIME_CODE_FIELD_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price field parser unit tests
+// summary: Unit tests verifying that the price field parser classifies price inputs as PRICE and leaves non-price fields unclassified.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/price_field_parser.h"
 
 #include "components/autofill/core/browser/form_parsing/parsing_test_util.h"

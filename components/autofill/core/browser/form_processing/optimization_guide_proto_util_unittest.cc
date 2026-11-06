@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autofill optimization guide proto conversion
+// summary: Parameterized unit tests checking that FormData is correctly converted to optimization guide protos for model requests and the extension API.
+// ---
+
 #include "components/autofill/core/browser/form_processing/optimization_guide_proto_util.h"
 
 #include "base/test/protobuf_matchers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IbanFieldParser implementation
+// summary: Implements the parser that recognizes IBAN form fields and classifies them as IBAN_VALUE.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/iban_field_parser.h"
 
 #include <memory>

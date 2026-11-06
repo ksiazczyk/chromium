@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone field parser
+// summary: Implements parsing of phone number fields using multiple phone grammars that cover country code, area code, prefix, suffix, and extension layouts, with metrics logging.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/phone_field_parser.h"
 
 #include <stddef.h>

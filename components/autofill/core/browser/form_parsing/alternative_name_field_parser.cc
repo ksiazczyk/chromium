@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative name field parser implementation
+// summary: Implements parsing of alternative full, family and given (phonetic) name fields for autofill form classification.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/alternative_name_field_parser.h"
 
 #include <memory>

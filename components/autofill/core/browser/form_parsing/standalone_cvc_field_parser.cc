@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone CVC field parser implementation
+// summary: Implements heuristic parsing of standalone credit card verification code fields, explicitly skipping gift card fields so they are not classified as CVC.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/standalone_cvc_field_parser.h"
 
 #include <memory>

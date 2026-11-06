@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant promo code field parser implementation
+// summary: Implements parsing of merchant promo, coupon, gift and discount code fields during checkout.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/merchant_promo_code_field_parser.h"
 
 #include <memory>
