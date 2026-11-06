@@ -1,0 +1,4 @@
+# Docerion header of a-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for anchor link test
+summary: Expected macOS accessibility tree snapshot for the anchor link test page, showing an AXWebArea with an AXLink and its static text value.

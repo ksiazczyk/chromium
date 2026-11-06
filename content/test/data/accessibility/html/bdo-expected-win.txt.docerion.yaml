@@ -1,0 +1,4 @@
+# Docerion header of bdo-expected-win.txt.
+type: test
+title: Windows expected tree for bdo accessibility test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the bdo HTML test with static text roles for LTR and RTL content.

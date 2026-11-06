@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-other-section-expected-android.txt.
+type: test
+title: Aside inside other section expected Android tree
+summary: Expected Android accessibility tree snapshot for the aside-inside-other-section HTML test, showing complementary landmarks named aside.

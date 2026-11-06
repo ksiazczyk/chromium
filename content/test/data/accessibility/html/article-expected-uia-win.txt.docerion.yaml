@@ -1,0 +1,4 @@
+# Docerion header of article-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for article element test
+summary: Expected UIA accessibility tree snapshot for the article element test page on Windows, showing a group with localized control type article.

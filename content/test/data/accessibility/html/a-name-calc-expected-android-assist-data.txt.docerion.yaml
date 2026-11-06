@@ -1,0 +1,4 @@
+# Docerion header of a-name-calc-expected-android-assist-data.txt.
+type: test
+title: a name calc expected Android assist data
+summary: Expected Android assist data dump for the a-name-calc accessible name calculation test page.

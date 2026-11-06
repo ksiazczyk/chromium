@@ -1,0 +1,4 @@
+# Docerion header of bdo-expected-android.txt.
+type: test
+title: bdo expected Android snapshot
+summary: Expected Android accessibility output for the bdo element test page with mixed LTR and RTL text.

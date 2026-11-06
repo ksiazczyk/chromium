@@ -1,0 +1,4 @@
+# Docerion header of bdo-expected-uia-win.txt.
+type: test
+title: UIA Windows expected tree for bdo accessibility test
+summary: Expected UIA accessibility tree snapshot for the bdo HTML test on Windows, with Text elements for LTR and RTL content.

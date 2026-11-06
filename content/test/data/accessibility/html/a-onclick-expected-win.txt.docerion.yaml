@@ -1,0 +1,4 @@
+# Docerion header of a-onclick-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for a-onclick
+summary: Expected Windows MSAA/IA2 accessibility tree for the a-onclick test page, showing link roles and jump actions for onclick handlers.

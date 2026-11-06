@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for aside element test
+summary: Expected Android external accessibility tree snapshot for the aside element test page, including complementary landmark roles.

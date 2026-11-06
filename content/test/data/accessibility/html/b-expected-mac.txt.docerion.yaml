@@ -1,0 +1,4 @@
+# Docerion header of b-expected-mac.txt.
+type: test
+title: Expected Mac output marking the bold text test as skipped
+summary: Marks the bold text accessibility test as skipped on Mac because the page has no accessible object.

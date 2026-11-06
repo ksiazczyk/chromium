@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-blink.txt.
+type: test
+title: Action verbs expected Blink accessibility tree
+summary: Expected Blink accessibility tree dump for the action verbs test page, listing roles, names and default action verbs for buttons, links, fields, menus and ARIA elements.

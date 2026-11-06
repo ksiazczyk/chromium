@@ -1,0 +1,4 @@
+# Docerion header of base-expected-auralinux.txt.
+type: test
+title: base expected accessibility output for Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for the base element test page, showing a document web node.

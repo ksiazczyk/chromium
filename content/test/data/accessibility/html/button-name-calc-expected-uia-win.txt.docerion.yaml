@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-uia-win.txt.
+type: test
+title: Button name calculation expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree for the button name calculation test on Windows, listing button names, full descriptions and child elements.

@@ -1,0 +1,4 @@
+# Docerion header of br-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for the br test
+summary: Expected Windows UIA accessibility tree snapshot for the br line-break test with document, text and group nodes.

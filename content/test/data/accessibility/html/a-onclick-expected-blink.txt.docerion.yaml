@@ -1,0 +1,4 @@
+# Docerion header of a-onclick-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for a-onclick
+summary: Expected Blink accessibility tree for the a-onclick test page, showing links with onclick handlers and their default action verbs.

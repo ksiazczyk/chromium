@@ -1,0 +1,4 @@
+# Docerion header of body-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for body tag test
+summary: Expected MSAA/IA2 accessibility tree for the body tag test page on Windows, listing document, paragraph and static text roles.

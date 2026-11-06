@@ -1,0 +1,4 @@
+# Docerion header of a-no-text-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for a-no-text
+summary: Expected Fuchsia accessibility tree for the a-no-text test page, listing link and image nodes produced by anchors without text.

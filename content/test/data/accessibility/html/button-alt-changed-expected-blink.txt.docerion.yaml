@@ -1,0 +1,4 @@
+# Docerion header of button-alt-changed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for button alt change test
+summary: Expected Blink accessibility tree snapshot showing a button and image renamed to After after the img alt attribute change.

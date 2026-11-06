@@ -1,0 +1,4 @@
+# Docerion header of article-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for article element test
+summary: Expected MSAA-style accessibility tree snapshot for the article element test page on Windows, with document and static text roles.

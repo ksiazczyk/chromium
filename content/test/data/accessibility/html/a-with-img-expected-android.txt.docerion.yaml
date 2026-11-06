@@ -1,0 +1,4 @@
+# Docerion header of a-with-img-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for a-with-img test
+summary: Expected Android accessibility tree snapshot for the a-with-img test page with links containing images at different positions.

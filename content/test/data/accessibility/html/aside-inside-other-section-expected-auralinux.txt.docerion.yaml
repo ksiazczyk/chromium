@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-other-section-expected-auralinux.txt.
+type: test
+title: Aside inside other section expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the aside-inside-other-section HTML test with article, section and landmark nodes.

@@ -1,0 +1,4 @@
+# Docerion header of a-nested-structure-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for a-nested-structure test
+summary: Expected Fuchsia accessibility tree for the a-nested-structure HTML test page with a link wrapping a heading and list.

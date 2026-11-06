@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-uia-win.txt.
+type: test
+title: Action verbs expected Windows UIA tree
+summary: Expected Windows UIA accessibility tree dump for the action verbs test page, covering buttons, hyperlinks, edits, toggles, combo boxes and menu items.

@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-uia-win.txt.
+type: test
+title: Accordion expected UIA Windows accessibility tree
+summary: Expected UI Automation accessibility tree snapshot of the accordion test page on Windows, used as the pass criterion in accessibility tests.

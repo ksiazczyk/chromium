@@ -1,0 +1,4 @@
+# Docerion header of br-statictext-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for the br-statictext test
+summary: Expected macOS AX accessibility tree snapshot for the br-statictext test with headings and static text role descriptions.

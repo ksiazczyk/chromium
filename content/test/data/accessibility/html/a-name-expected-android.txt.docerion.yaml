@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-android.txt.
+type: test
+title: Expected Android tree for a-name accessibility test
+summary: Expected Android accessibility tree snapshot for the a-name test page with named anchors and links.

@@ -1,0 +1,4 @@
+# Docerion header of bdo-expected-blink.txt.
+type: test
+title: Blink expected tree for bdo accessibility test
+summary: Expected Blink accessibility tree snapshot for the bdo HTML test, showing static text for LTR and RTL bdo elements.

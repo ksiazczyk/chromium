@@ -1,0 +1,4 @@
+# Docerion header of button-with-listbox-popup-expected-android-assist-data.txt.
+type: test
+title: Button with listbox popup expected Android assist data
+summary: Expected Android assist data for the button with listbox popup test, describing the view hierarchy of a labelled button and its listbox options.

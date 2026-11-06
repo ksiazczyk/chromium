@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aside element test
+summary: Expected Android assist data snapshot for the aside element test page, describing views for body and main aside content.

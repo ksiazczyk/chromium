@@ -1,0 +1,4 @@
+# Docerion header of br-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the br test
+summary: Expected Blink accessibility tree snapshot for the br line-break test, including line breaks, static text and inline text boxes.

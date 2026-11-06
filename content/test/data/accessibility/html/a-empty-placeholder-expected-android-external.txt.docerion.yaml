@@ -1,0 +1,4 @@
+# Docerion header of a-empty-placeholder-expected-android-external.txt.
+type: test
+title: Expected Android external tree for empty placeholder link test
+summary: Expected Android external-format accessibility tree snapshot for the empty placeholder HTML test page, listing WebView nodes, link roles, actions and content descriptions.

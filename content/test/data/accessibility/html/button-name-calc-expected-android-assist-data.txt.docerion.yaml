@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for button name calculation test
+summary: Expected Android assist data dump for the button name calculation test, detailing button attributes, labels, titles and HTML info for each element.

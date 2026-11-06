@@ -1,0 +1,4 @@
+# Docerion header of b-expected-android-external.txt.
+type: test
+title: Expected Android external output for the bold text accessibility test
+summary: Expected Android accessibility snapshot in external format for the HTML test page rendering a paragraph with bold text.

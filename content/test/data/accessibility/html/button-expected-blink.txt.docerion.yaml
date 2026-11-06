@@ -1,0 +1,4 @@
+# Docerion header of button-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for button test
+summary: Expected Blink accessibility tree snapshot for the HTML button test, showing a root web area with a button and static text named 'Click me!'.

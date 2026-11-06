@@ -1,0 +1,4 @@
+# Docerion header of abbr-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for abbr
+summary: Expected Blink internal accessibility tree snapshot for the abbr test page, showing an abbr node named from its title containing the static text 'WHO'.

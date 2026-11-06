@@ -1,0 +1,4 @@
+# Docerion header of button-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for button test
+summary: Expected AuraLinux accessibility tree snapshot for the HTML button test, showing a document with a push button named 'Click me!'.

@@ -1,0 +1,4 @@
+# Docerion header of a-onclick-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for a-onclick
+summary: Expected UIA accessibility tree on Windows for the a-onclick test page, showing hyperlink elements for links with onclick handlers.

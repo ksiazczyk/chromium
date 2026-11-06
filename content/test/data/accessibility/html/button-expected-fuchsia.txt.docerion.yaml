@@ -1,0 +1,4 @@
+# Docerion header of button-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for button test
+summary: Expected Fuchsia accessibility tree snapshot for the HTML button test, showing a focusable root with a button labeled 'Click me!'.

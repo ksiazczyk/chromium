@@ -1,0 +1,4 @@
+# Docerion header of absolute-offscreen-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for absolute-offscreen test
+summary: Expected Blink accessibility tree snapshot for the absolute-offscreen HTML test showing offscreen, clipped and unclipped content.

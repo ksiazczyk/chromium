@@ -1,0 +1,4 @@
+# Docerion header of br-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for the br test
+summary: Placeholder marking the br line-break test as skipped on macOS because the platform output is not mapped.

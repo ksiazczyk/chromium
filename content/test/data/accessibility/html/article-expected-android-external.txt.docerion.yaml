@@ -1,0 +1,4 @@
+# Docerion header of article-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for the article test
+summary: Expected Android external accessibility tree snapshot for the article element test page, including actions and Chrome role bundles.

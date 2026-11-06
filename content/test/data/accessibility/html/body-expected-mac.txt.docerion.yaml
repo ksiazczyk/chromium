@@ -1,0 +1,4 @@
+# Docerion header of body-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for body tag test
+summary: Expected macOS accessibility tree for the body tag test page, showing the web area, group and static text.

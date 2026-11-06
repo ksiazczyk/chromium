@@ -1,0 +1,4 @@
+# Docerion header of area-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for area element test
+summary: Expected Windows IA2 accessibility tree for the HTML area element test, showing an image map named pipe containing a focusable link named pipe1.

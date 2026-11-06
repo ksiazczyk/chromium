@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aside element test
+summary: Expected Linux accessibility tree snapshot for the aside element test page, exposing complementary and main landmarks.

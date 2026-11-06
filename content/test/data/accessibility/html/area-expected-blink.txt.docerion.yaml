@@ -1,0 +1,4 @@
+# Docerion header of area-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for area element test
+summary: Expected Blink accessibility tree for the HTML area element test, showing an image named pipe containing a link named pipe1.

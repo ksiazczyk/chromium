@@ -1,0 +1,4 @@
+# Docerion header of blockquote-levels-expected-mac.txt.
+type: test
+title: Blockquote levels expected accessibility tree for Mac
+summary: Expected Mac accessibility tree for the blockquote-levels test, showing AXBlockQuoteLevel values for nested blockquotes.

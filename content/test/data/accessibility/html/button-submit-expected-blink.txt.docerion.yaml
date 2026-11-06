@@ -1,0 +1,4 @@
+# Docerion header of button-submit-expected-blink.txt.
+type: test
+title: Button submit expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the button submit test, showing which submit buttons are marked as the default button in forms.

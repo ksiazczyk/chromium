@@ -1,0 +1,4 @@
+# Docerion header of a-onclick-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for a-onclick
+summary: Expected Fuchsia accessibility tree for the a-onclick test page, showing links with onclick handlers and a link without an event handler.

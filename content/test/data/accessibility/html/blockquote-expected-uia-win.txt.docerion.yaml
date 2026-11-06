@@ -1,0 +1,4 @@
+# Docerion header of blockquote-expected-uia-win.txt.
+type: test
+title: Blockquote expected Windows UIA accessibility tree
+summary: Expected Windows UIA accessibility tree snapshot for the blockquote HTML test, with Group and Text elements for two blockquotes.

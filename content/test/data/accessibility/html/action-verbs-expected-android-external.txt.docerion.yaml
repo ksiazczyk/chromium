@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-android-external.txt.
+type: test
+title: Action verbs expected Android external description
+summary: Expected Android external accessibility snapshot of the action-verbs test page, listing roles, actions and supplemental descriptions per node.

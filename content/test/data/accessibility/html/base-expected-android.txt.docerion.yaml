@@ -1,0 +1,4 @@
+# Docerion header of base-expected-android.txt.
+type: test
+title: base expected accessibility output for Android
+summary: Expected Android accessibility result for the base element test page, containing a skip marker for an unmapped element.

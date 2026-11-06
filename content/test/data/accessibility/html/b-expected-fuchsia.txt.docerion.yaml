@@ -1,0 +1,4 @@
+# Docerion header of b-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the bold text test
+summary: Expected Fuchsia accessibility tree output for the HTML test page rendering a paragraph with bold text.

@@ -1,0 +1,4 @@
+# Docerion header of body-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for body tag test
+summary: Expected accessibility tree output for the body tag test page on Fuchsia, describing paragraph and static text nodes.

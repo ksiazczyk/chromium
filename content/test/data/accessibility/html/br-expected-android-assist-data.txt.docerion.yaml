@@ -1,0 +1,4 @@
+# Docerion header of br-expected-android-assist-data.txt.
+type: test
+title: Br expected Android assist data tree
+summary: Expected Android assist-data accessibility tree for the br test, describing how line breaks and text lines are exposed to assistive services.

@@ -1,0 +1,4 @@
+# Docerion header of body-expected-android-external.txt.
+type: test
+title: Body expected accessibility tree for Android external
+summary: Expected external-format Android accessibility tree for the body tag test, listing WebView and paragraph actions and roles.

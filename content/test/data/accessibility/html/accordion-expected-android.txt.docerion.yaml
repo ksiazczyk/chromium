@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for accordion test
+summary: Expected Android accessibility tree snapshot for the accordion HTML test with expandable, collapsed and disabled sections.

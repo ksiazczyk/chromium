@@ -1,0 +1,4 @@
+# Docerion header of actions-expected-android.txt.
+type: test
+title: Actions test expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the actions HTML test page, showing a seekbar and a text field.

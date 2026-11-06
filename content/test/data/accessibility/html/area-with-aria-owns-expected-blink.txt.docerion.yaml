@@ -1,0 +1,4 @@
+# Docerion header of area-with-aria-owns-expected-blink.txt.
+type: test
+title: Expected Blink tree for area with aria-owns test
+summary: Expected Blink accessibility tree for the area with aria-owns test, showing duplicated links and a paragraph owning an area element.

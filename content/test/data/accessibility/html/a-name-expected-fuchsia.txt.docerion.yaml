@@ -1,0 +1,4 @@
+# Docerion header of a-name-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia tree for a-name accessibility test
+summary: Expected Fuchsia accessibility tree snapshot for the a-name test page.

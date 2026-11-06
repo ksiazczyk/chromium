@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-section-role-generic-expected-android.txt.
+type: test
+title: Expected Android tree for aside inside section with role generic
+summary: Expected Android accessibility tree for asides inside a section with presentational and generic roles.

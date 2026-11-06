@@ -1,0 +1,4 @@
+# Docerion header of address-expected-uia-win.txt.
+type: test
+title: Address element expected UIA accessibility tree for Windows
+summary: Expected UIA accessibility tree output for the address element test page on Windows.

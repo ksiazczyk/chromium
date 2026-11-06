@@ -1,0 +1,4 @@
+# Docerion header of actions-expected-android-external.txt.
+type: test
+title: Actions expected Android external description
+summary: Expected Android external description dump for the actions accessibility test, listing focus, click and set-progress actions for the slider and text field.

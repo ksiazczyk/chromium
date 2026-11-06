@@ -1,0 +1,4 @@
+# Docerion header of body-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for body tag test
+summary: Expected accessibility tree snapshot for the body tag test page on Blink, listing the paragraph and static text nodes.

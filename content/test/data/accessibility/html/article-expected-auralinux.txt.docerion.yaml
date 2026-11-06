@@ -1,0 +1,4 @@
+# Docerion header of article-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility output for the article element test
+summary: Expected Aura Linux accessibility tree snapshot for the article element test page with document, article and static text nodes.

@@ -1,0 +1,4 @@
+# Docerion header of blockquote.html.
+type: test
+title: Blockquote accessibility test page
+summary: HTML test page with two blockquotes, one containing a child paragraph and one without, for accessibility tree testing.

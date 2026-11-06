@@ -1,0 +1,4 @@
+# Docerion header of aside-inside-section-role-generic-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aside inside section with role generic
+summary: Expected macOS accessibility tree for asides inside a section with presentational and generic roles.

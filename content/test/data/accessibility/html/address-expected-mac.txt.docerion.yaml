@@ -1,0 +1,4 @@
+# Docerion header of address-expected-mac.txt.
+type: test
+title: Address element expected accessibility tree for Mac
+summary: Expected macOS accessibility tree output for the address element test page.

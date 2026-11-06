@@ -1,0 +1,4 @@
+# Docerion header of aside-expected-uia-win.txt.
+type: test
+title: Aside expected UIA tree on Windows
+summary: Expected UI Automation tree snapshot for the HTML aside element test on Windows, describing document, group and text elements.

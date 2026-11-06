@@ -1,0 +1,4 @@
+# Docerion header of a-with-img-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for a-with-img test
+summary: Expected Android assist data snapshot for the a-with-img test page showing links containing images at the start, middle and end.

@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-android-assist-data.txt.
+type: test
+title: Action verbs expected Android assist data
+summary: Expected Android assist data snapshot of the action-verbs test page, describing the view hierarchy with text sizes and HTML info as the pass criterion.

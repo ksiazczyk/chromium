@@ -1,0 +1,4 @@
+# Docerion header of area-crash-expected-blink.txt.
+type: test
+title: Area crash test expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the area crash regression test.

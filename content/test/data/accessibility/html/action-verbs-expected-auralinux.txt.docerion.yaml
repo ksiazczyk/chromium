@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-auralinux.txt.
+type: test
+title: Action verbs expected auralinux accessibility tree
+summary: Expected Linux accessibility tree snapshot of the action-verbs test page, listing roles and available actions for each element.

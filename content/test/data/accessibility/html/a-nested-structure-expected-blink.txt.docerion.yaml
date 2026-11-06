@@ -1,0 +1,4 @@
+# Docerion header of a-nested-structure-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for a-nested-structure test
+summary: Expected Blink internal accessibility tree for the a-nested-structure HTML test page with a link wrapping a heading and list.

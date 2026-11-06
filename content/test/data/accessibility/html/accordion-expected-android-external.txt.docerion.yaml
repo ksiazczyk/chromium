@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for accordion test
+summary: Expected Android external accessibility snapshot for the accordion test including actions, bundle details and expanded states.

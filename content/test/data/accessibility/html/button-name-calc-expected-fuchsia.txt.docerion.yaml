@@ -1,0 +1,4 @@
+# Docerion header of button-name-calc-expected-fuchsia.txt.
+type: test
+title: Button name calculation expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the button name calculation test, listing button labels, secondary labels and child nodes.

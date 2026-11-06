@@ -1,0 +1,4 @@
+# Docerion header of button-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for button test
+summary: Expected Android external accessibility snapshot describing a focused WebView containing a clickable button labeled Click me.

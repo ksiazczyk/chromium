@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-auralinux.txt.
+type: test
+title: Accordion expected auralinux accessibility tree
+summary: Expected Linux accessibility tree snapshot of the accordion test page, used as the pass criterion in accessibility tests.

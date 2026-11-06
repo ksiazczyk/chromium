@@ -1,0 +1,4 @@
+# Docerion header of article-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for article element test
+summary: Expected macOS accessibility tree snapshot for the article element test page, listing AX roles and role descriptions such as AXDocumentArticle.

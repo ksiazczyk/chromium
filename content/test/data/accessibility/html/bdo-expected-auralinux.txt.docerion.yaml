@@ -1,0 +1,4 @@
+# Docerion header of bdo-expected-auralinux.txt.
+type: test
+title: bdo expected Aura Linux snapshot
+summary: Expected Aura Linux accessibility tree snapshot for the bdo element test page with static text nodes for LTR and RTL text.

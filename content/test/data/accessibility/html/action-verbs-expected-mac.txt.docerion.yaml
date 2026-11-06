@@ -1,0 +1,4 @@
+# Docerion header of action-verbs-expected-mac.txt.
+type: test
+title: Action verbs expected macOS accessibility tree
+summary: Expected macOS AX tree dump for the action verbs test page, describing headings, buttons, links, text fields, menus and switches with their AX attributes.

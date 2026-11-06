@@ -1,0 +1,4 @@
+# Docerion header of br-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the br test
+summary: Expected Fuchsia accessibility tree snapshot for the br line-break test with static text and paragraph nodes.

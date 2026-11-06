@@ -1,0 +1,4 @@
+# Docerion header of a-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for anchor link test
+summary: Expected Blink accessibility tree snapshot for the anchor link test page, showing the root web area, generic containers and linked static text.

@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-blink.txt.
+type: test
+title: Accordion expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot of the accordion test page, used as the pass criterion in accessibility tests.

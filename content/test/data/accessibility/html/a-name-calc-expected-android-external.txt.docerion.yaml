@@ -1,0 +1,4 @@
+# Docerion header of a-name-calc-expected-android-external.txt.
+type: test
+title: a name calc expected Android external tree
+summary: Expected Android external accessibility dump for the a-name-calc accessible name calculation test page.

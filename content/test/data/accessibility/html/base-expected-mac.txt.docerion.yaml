@@ -1,0 +1,4 @@
+# Docerion header of base-expected-mac.txt.
+type: test
+title: base expected accessibility output for macOS
+summary: Expected macOS accessibility result for the base element test page, containing a skip marker for an unmapped element.

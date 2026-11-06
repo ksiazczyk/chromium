@@ -1,0 +1,4 @@
+# Docerion header of body-tabindex.html.
+type: test
+title: HTML test page for body tag with tabindex
+summary: HTML test page that sets tabindex on the body element so its accessibility representation can be verified.

@@ -1,0 +1,4 @@
+# Docerion header of a-no-text-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for a-no-text
+summary: Expected Android accessibility tree in external format for the a-no-text test page, listing links with images, their actions and target URLs.

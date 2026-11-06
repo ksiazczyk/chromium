@@ -1,0 +1,4 @@
+# Docerion header of br-with-child.html.
+type: test
+title: Accessibility test page for br with appended child content
+summary: HTML test page verifying that content appended as a child of a br element does not appear in the accessibility tree.

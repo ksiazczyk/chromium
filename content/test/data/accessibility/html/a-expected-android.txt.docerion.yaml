@@ -1,0 +1,4 @@
+# Docerion header of a-expected-android.txt.
+type: test
+title: Expected Android tree for anchor link test
+summary: Expected Android accessibility tree snapshot for the anchor link test page, showing the WebView hierarchy with a clickable, focusable link named normal link.

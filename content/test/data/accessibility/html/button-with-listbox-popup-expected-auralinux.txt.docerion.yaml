@@ -1,0 +1,4 @@
+# Docerion header of button-with-listbox-popup-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for button with listbox popup
+summary: Expected Aura Linux accessibility tree snapshot for the button-with-listbox-popup test page with a push button and selectable list items.

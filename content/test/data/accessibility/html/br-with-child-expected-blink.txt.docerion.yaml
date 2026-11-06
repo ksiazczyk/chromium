@@ -1,0 +1,4 @@
+# Docerion header of br-with-child-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the br-with-child test
+summary: Expected Blink accessibility tree snapshot for a paragraph with br line breaks and static text children.

@@ -1,0 +1,4 @@
+# Docerion header of a-nested-structure-expected-android-external.txt.
+type: test
+title: Expected Android external tree for a-nested-structure test
+summary: Expected Android external accessibility snapshot for the a-nested-structure HTML test page with a link wrapping a heading and list.

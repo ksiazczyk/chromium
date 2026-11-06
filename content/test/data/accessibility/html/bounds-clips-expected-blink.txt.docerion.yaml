@@ -1,0 +1,4 @@
+# Docerion header of bounds-clips-expected-blink.txt.
+type: test
+title: Bounds clips expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the bounds-clips test, showing ignored, sized and offscreen nodes for clipped page content.
