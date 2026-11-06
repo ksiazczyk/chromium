@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Base class for Cluster Telemetry loading benchmarks
+# summary: Extends the loading benchmark base with CT arguments plus wait time, traffic setting and cache temperature options.
+# ---
+
 from benchmarks import loading
 
 from contrib.cluster_telemetry import ct_benchmarks_util

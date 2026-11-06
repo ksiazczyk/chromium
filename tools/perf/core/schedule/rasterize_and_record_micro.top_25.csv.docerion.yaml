@@ -1,0 +1,4 @@
+# Docerion header of rasterize_and_record_micro.top_25.csv.
+type: data
+title: Rasterize and record micro top 25 bot schedule
+summary: Schedules the rasterize and record micro top 25 benchmark across desktop and Android perf bots.

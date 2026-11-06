@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.webgpu.csv.
+type: data
+title: blink_perf.webgpu benchmark schedule
+summary: Schedule listing the perf bots, including extra Linux GPU bots, with repeat and shard counts for the blink_perf.webgpu benchmark.

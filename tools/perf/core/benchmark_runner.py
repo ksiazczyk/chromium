@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Benchmark runner entry point
+# summary: Wires together the Telemetry command line and results processor to run benchmarks and produce outputs such as histograms and CSV.
+# ---
+
 """Entry point module to run benchmarks with Telemetry and process results.
 
 This wires up together both the Telemetry command line and runner, responsible

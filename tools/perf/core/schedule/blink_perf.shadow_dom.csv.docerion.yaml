@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.shadow_dom.csv.
+type: data
+title: blink_perf.shadow_dom benchmark schedule
+summary: Schedule listing the perf bots, repeat counts and shard counts used to run the blink_perf.shadow_dom benchmark suite.

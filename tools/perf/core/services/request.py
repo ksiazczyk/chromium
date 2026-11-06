@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared HTTP request helper
+# summary: Shared HTTP request helper with luci-auth support, JSON handling, XSSI prefix stripping, error classes, and retries on server errors.
+# ---
+
 import json
 import logging
 import urllib.parse

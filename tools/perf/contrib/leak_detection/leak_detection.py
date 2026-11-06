@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Memory leak detection benchmark
+# summary: Defines the memory.leak_detection perf benchmark, configuring timeline-based measurement with the leakDetectionMetric and browser flags such as --expose-gc.
+# ---
+
 from core import perf_benchmark
 from telemetry import benchmark
 from telemetry.timeline import chrome_trace_category_filter

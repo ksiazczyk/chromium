@@ -1,0 +1,4 @@
+# Docerion header of perf_dashboard_machine_group_mapping.json.
+type: data
+title: Perf dashboard machine group mapping
+summary: JSON mapping of buildbot builder group names to the machine group names used by the Chrome performance dashboard.

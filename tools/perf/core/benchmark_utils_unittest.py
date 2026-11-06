@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for benchmark story utilities
+# summary: Checks that story names from a benchmark with over a thousand stories are returned in the expected order.
+# ---
+
 import unittest
 
 from core import benchmark_utils

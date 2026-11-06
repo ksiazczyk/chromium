@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Undocumented benchmarks list
+# summary: Defines the set of benchmark names that are not yet documented, a list that should shrink over time as benchmarks gain proper documentation.
+# ---
+
 # This file contains the list of undocumented benchmarks. For new benchmarks,
 # please make sure that they are well-documented. The list of undocumented
 # benchmarks should shrink overtime.

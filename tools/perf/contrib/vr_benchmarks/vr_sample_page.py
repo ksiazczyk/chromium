@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: VR and XR sample page classes
+# summary: Defines page classes that load WebVR and WebXR sample pages with dashboard-safe story names for VR benchmarks.
+# ---
+
 import os
 import re
 from telemetry import page

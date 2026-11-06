@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Command line unit tests
+# summary: Unit tests for argument parsing and option processing, mocking out operating system and file system access.
+# ---
+
 """Unit tests for results_processor.
 
 These tests mostly test that argument parsing and processing work as expected.

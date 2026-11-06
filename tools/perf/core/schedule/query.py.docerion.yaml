@@ -1,0 +1,4 @@
+# Docerion header of query.py.
+type: script
+title: Benchmark schedule query and editing tool
+summary: Command-line tool to list, add and remove bot entries in the benchmark schedule CSV files with validation.

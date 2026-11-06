@@ -1,0 +1,4 @@
+# Docerion header of jetstream2-no-field-trials.csv.
+type: config
+title: JetStream2 no-field-trials bot schedule
+summary: Schedules JetStream2 runs without field trials on Mac M1 and M5 perf bots with repeat and shard settings.

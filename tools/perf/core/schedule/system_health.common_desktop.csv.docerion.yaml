@@ -1,0 +1,4 @@
+# Docerion header of system_health.common_desktop.csv.
+type: config
+title: System health common desktop bot schedule
+summary: Schedules system health common desktop benchmark runs across Linux, Mac and Windows perf bots with repeat and shard counts.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Perfetto Binary Roller
+summary: Explains how CI bots upload prebuilt Perfetto binaries to the cloud and how roll_trace_processor updates the version in use.
+relations:
+  - documents /tools/perf/core/perfetto_binary_roller/roll_trace_processor
+---
+
 <!-- Copyright 2020 The Chromium Authors
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.

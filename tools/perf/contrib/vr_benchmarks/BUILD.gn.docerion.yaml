@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for VR performance tests
+summary: Defines GN groups and data dependencies for running VR performance tests on desktop and Android platforms.

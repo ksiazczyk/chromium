@@ -1,0 +1,4 @@
+# Docerion header of system_health.memory_desktop.csv.
+type: config
+title: System health memory desktop bot schedule
+summary: Schedules system health memory benchmark runs on desktop perf bots, mostly with three repeats per bot.

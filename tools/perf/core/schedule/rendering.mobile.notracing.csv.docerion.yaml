@@ -1,0 +1,4 @@
+# Docerion header of rendering.mobile.notracing.csv.
+type: config
+title: Rendering mobile benchmark schedule (no tracing)
+summary: Lists Android perf bots with repeat and shard counts for running the mobile rendering benchmark without tracing.

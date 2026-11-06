@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Base story set for VR benchmarks
+# summary: Defines a Telemetry story set base class with an option to use a fake pose tracker during VR testing.
+# ---
+
 
 from telemetry import story
 

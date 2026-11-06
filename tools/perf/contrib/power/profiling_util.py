@@ -5,6 +5,12 @@
 # Helper functions for Perfetto profiling (i.e. callstack sampling) in Telemetry
 # benchmarks.
 
+# ---docerion
+# type: source
+# title: Perfetto profiling helpers for Telemetry benchmarks
+# summary: Helper functions that symbolize Perfetto proto traces and generate pprof profiles via traceconv for callstack sampling in Telemetry benchmarks.
+# ---
+
 import logging
 import os
 import shutil

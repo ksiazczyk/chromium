@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Results Processor integration tests
+# summary: Integration tests that write real intermediate result files, run the standalone processor, and check the produced outputs.
+# ---
+
 """Integration tests for results_processor.
 
 These tests write actual files with intermediate results, and run the

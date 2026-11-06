@@ -1,0 +1,4 @@
+# Docerion header of v8.browsing_mobile-future.csv.
+type: config
+title: v8.browsing_mobile-future bot schedule
+summary: Schedules the future variant of the v8.browsing_mobile benchmark on Android perf bots.

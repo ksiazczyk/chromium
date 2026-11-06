@@ -1,0 +1,4 @@
+# Docerion header of speedometer3.csv.
+type: config
+title: Speedometer 3 bot schedule
+summary: Schedules Speedometer 3 benchmark runs, mapping perf bots across Android, Linux, Mac and Windows to repeat and shard counts.

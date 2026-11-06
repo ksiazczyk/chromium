@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Story wrappers for combined power benchmark runs
+# summary: Defines Telemetry shared state and story wrappers that run several existing stories consecutively in one browser session for long power measurements.
+# ---
+
 import contextlib
 import page_sets
 import py_utils

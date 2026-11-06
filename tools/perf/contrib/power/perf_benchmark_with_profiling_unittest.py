@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for PerfBenchmarkWithProfiling
+# summary: Verifies that profiling trace options are enabled only when an Android browser is selected.
+# ---
+
 import unittest
 from unittest import mock
 

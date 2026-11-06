@@ -1,0 +1,4 @@
+# Docerion header of loading.crossbench.csv.
+type: config
+title: Crossbench loading benchmark bot schedule
+summary: Maps Android WebView perf bots to repeat, shard and flag settings for crossbench loading benchmark runs.

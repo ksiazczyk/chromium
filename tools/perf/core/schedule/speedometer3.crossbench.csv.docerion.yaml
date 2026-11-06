@@ -1,0 +1,4 @@
+# Docerion header of speedometer3.crossbench.csv.
+type: config
+title: Speedometer 3 crossbench bot schedule
+summary: Schedules Speedometer 3 crossbench runs, listing perf bots with repeat counts, shard counts and flags such as live network and disabled field trials.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebXR sample page benchmarks
+# summary: Defines benchmark stories using official WebXR sample pages with tweaked settings, handling permission prompts and immersive mode during performance runs.
+# ---
+
 from contrib.vr_benchmarks.vr_sample_page import XrSamplePage
 from contrib.vr_benchmarks.vr_story_set import VrStorySet
 

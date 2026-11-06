@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Benchmark story utilities
+# summary: Builds a benchmark's story set and returns story names, descriptions, and tags in a stable order.
+# ---
+
 import collections
 
 from telemetry import benchmark as b_module

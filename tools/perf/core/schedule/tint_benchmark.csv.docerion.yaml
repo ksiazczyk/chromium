@@ -1,0 +1,4 @@
+# Docerion header of tint_benchmark.csv.
+type: config
+title: tint_benchmark bot schedule
+summary: Schedules the tint benchmark on Linux, macOS, and Windows perf bots with repeat and shard counts.

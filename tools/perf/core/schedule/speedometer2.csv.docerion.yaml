@@ -1,0 +1,4 @@
+# Docerion header of speedometer2.csv.
+type: config
+title: Speedometer 2 benchmark schedule
+summary: Lists bots with repeat and shard counts for running the Speedometer 2 benchmark across Android, Fuchsia, Linux, Mac, and Windows.

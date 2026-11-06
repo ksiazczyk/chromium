@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: source
+title: Benchmark download test page
+summary: Local HTML page with buttons that trigger 4M and 400K downloads from storage.googleapis.com during the benchmark.

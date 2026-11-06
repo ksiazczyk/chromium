@@ -1,0 +1,4 @@
+# Docerion header of process_results.py.
+type: source
+title: Result processing for contrib power benchmark traces
+summary: Symbolizes and deobfuscates Perfetto traces from contrib power benchmark runs and annotates generated pprof profiles with process names.

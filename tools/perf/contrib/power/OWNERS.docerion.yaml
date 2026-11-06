@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the power benchmark folder
+summary: Lists the code owners responsible for the power performance benchmark directory.

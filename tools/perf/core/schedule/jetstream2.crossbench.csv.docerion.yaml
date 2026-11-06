@@ -1,0 +1,4 @@
+# Docerion header of jetstream2.crossbench.csv.
+type: config
+title: JetStream2 crossbench bot schedule
+summary: Maps perf bots to repeat and shard counts for scheduling the JetStream2 benchmark via crossbench.

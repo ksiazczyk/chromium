@@ -1,0 +1,4 @@
+# Docerion header of memory.desktop.csv.
+type: data
+title: Memory desktop benchmark bot schedule
+summary: Schedules the memory desktop benchmark across perf bots with repeat and shard counts.

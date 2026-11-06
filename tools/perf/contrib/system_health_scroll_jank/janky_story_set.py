@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Janky story set for scroll jank benchmarks
+# summary: Defines janky scroll stories and a story set that reuses system health mobile page sets for scroll jank benchmarking.
+# ---
+
 from page_sets.helpers import override_online
 from page_sets.system_health import platforms
 from page_sets.system_health import story_tags

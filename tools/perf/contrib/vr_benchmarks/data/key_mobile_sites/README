@@ -1,3 +1,9 @@
+---
+type: readme
+title: Key mobile sites WPR archives for VR benchmarks
+summary: Explains that this directory copies the key_mobile_sites WPR archives from tools/perf/page_sets/data for reuse in the VR smoothness benchmark, while allowing new VR-specific archives to be added.
+---
+
 This is a copy of the key_mobile_sites WPR archives from
 //tools/perf/page_sets/data. We want to re-use the same archives for our
 smoothness benchmark as the regular smoothness benchmark, but we also need to

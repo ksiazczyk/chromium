@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for CLI utilities
+# summary: Unit tests covering the index range merging logic of the CLI utility module, including empty, edge case, and invalid range scenarios.
+# ---
+
 import unittest
 
 import core.cli_utils

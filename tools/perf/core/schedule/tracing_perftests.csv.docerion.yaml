@@ -1,0 +1,4 @@
+# Docerion header of tracing_perftests.csv.
+type: config
+title: tracing_perftests bot schedule
+summary: Schedules tracing perftests on a small set of Linux perf bots with repeat and shard counts.

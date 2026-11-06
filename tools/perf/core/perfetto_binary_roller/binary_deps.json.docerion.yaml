@@ -1,0 +1,4 @@
+# Docerion header of binary_deps.json.
+type: config
+title: Binary dependency pins for trace_processor_shell
+summary: Pins cloud storage paths and SHA1 hashes for trace_processor_shell builds per platform and for power_profile.sql.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the schedule query tool
+# summary: Unit tests covering bot add, remove, duplicate handling and argument validation behavior of the schedule query tool.
+# ---
+
 import io
 import unittest
 import pathlib

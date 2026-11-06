@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Long-running desktop memory benchmark
+# summary: Defines a Telemetry benchmark that loads popular desktop sites, dumps memory traces, and helps identify potential memory leaks during long local runs.
+# ---
+
 import logging
 import py_utils
 

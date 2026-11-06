@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Results Processor unit tests
+# summary: Unit tests for processor methods such as adding diagnostics to histograms, uploading artifacts and aggregating traces.
+# ---
+
 """Unit tests for results_processor methods."""
 
 import datetime

@@ -1,0 +1,4 @@
+# Docerion header of speedometer3-future.csv.
+type: config
+title: Speedometer 3 future benchmark schedule
+summary: Lists desktop and Android perf bots with repeat and shard counts for the planned Speedometer 3 benchmark rollout.

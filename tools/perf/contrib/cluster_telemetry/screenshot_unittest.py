@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the screenshot page test
+# summary: Contains unit tests verifying screenshot output files and the dynamic content threshold comparison logic.
+# ---
+
 import os
 
 from telemetry import decorators

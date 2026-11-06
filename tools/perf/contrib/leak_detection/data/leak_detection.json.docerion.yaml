@@ -1,0 +1,4 @@
+# Docerion header of leak_detection.json.
+type: data
+title: Leak detection archive mappings
+summary: Maps tested websites to the Web Page Replay archives used by the leak detection performance benchmark.

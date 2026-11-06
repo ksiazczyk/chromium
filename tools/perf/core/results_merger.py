@@ -8,6 +8,12 @@
 # This file is responsbile for merging JSON test results in both the simplified
 # JSON format and the Chromium JSON test results format version 3.
 
+# ---docerion
+# type: source
+# title: Merger for sharded JSON test results
+# summary: Merges sharded test results in the simplified JSON format and Chromium JSON test results format version 3.
+# ---
+
 from __future__ import print_function
 
 import copy

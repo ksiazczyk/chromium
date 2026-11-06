@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Screenshot Cluster Telemetry benchmark
+# summary: Defines the screenshot_ct benchmark that captures PNG screenshots of Cluster Telemetry pages with options for dynamic content detection.
+# ---
+
 from core import perf_benchmark
 
 from contrib.cluster_telemetry import ct_benchmarks_util

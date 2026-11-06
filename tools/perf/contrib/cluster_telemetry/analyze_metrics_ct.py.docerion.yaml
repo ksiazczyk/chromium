@@ -1,0 +1,4 @@
+# Docerion header of analyze_metrics_ct.py.
+type: script
+title: Run tracing metrics on a local trace file
+summary: Command-line script that computes a chosen tracing metric on a local trace and writes the resulting histograms to a CSV file.

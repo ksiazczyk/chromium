@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebVR WPR benchmark pages
+# summary: Defines WebVR benchmark stories that replay recorded WebVR sites via WPR, with page-specific VR entry interactions for Sketchfab, With.in and Under Neon Lights.
+# ---
+
 from telemetry import story
 from telemetry import page
 from contrib.vr_benchmarks import shared_vr_page_state as vr_state

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Contrib directory policy and usage
+summary: Explains that contrib code is unsupported by the benchmarking team and how to add a new sub-directory with an OWNERS file.
+---
+
 **Note**: The code is this directory is neither endorsed nor supported
 by the Chromium benchmarking team.
 

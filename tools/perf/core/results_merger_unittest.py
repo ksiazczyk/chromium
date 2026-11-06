@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for results_merger
+# summary: Unit tests covering merging of sharded JSON test results, version and required-field checks, and error handling.
+# ---
+
 import json
 import sys
 import unittest

@@ -1,0 +1,4 @@
+# Docerion header of wasmpspdfkit.csv.
+type: config
+title: wasmpspdfkit bot schedule
+summary: Schedules the WASM PSPDFKit benchmark across Android, Linux, macOS, and Windows perf bots.

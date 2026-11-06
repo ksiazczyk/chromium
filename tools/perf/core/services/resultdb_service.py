@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: ResultDB service client
+# summary: Client for the ResultDB RPC API that sends authenticated JSON requests and queries test results for one or more buildbucket builds.
+# ---
+
 """Make requests to the ResultDB RPC API.
 
 For more details on the API see: go/resultdb-rpc

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Path helpers for Chromium source directories
+# summary: Provides functions to locate Chromium source and dependency directories and to add them to sys.path for imports.
+# ---
+
 import contextlib
 import os
 import sys

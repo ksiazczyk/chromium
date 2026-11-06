@@ -1,0 +1,4 @@
+# Docerion header of story_expectation_validator.py.
+type: script
+title: Story expectations validator
+summary: Checks StoryExpectations validity against benchmarks, story names, condition tags and supported platform lists.

@@ -1,0 +1,4 @@
+# Docerion header of perf_data_generator.py.
+type: source
+title: Perf bot configuration generator
+summary: Generates the chromium.perf and chromium.perf.fyi buildbot JSON configurations from condensed bot configs, defining benchmark scheduling, targets, and swarming settings.

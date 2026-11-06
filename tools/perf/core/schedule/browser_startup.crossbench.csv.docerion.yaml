@@ -1,0 +1,4 @@
+# Docerion header of browser_startup.crossbench.csv.
+type: config
+title: Browser startup crossbench benchmark schedule
+summary: Schedules the browser startup crossbench benchmark on Linux, Mac, and Windows perf bots with repeat and shard settings.

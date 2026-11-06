@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome Perf Dashboard service client
+# summary: Client for the Chrome Perf Dashboard API providing timeseries data, test path listings, and bug information.
+# ---
+
 """Make requests to the Chrome Perf Dashboard API.
 
 For more details on the API see:

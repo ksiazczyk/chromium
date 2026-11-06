@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared page state classes for VR benchmarks
+# summary: Provides platform-specific shared page state classes that handle VR setup and teardown for Android and Windows benchmark runs.
+# ---
+
 from core import path_util
 
 path_util.AddAndroidPylibToPath()

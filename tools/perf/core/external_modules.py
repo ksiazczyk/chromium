@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Safe imports for optional external modules
+# summary: Enables safe imports of numpy and pandas that may be missing on some platforms, with helpers to skip tests or exit when dependencies are unavailable.
+# ---
+
 """Allow importing external modules which may be missing in some platforms.
 
 These modules are normally provided by the vpython environment manager. But

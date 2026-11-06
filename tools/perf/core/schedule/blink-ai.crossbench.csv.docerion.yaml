@@ -1,0 +1,4 @@
+# Docerion header of blink-ai.crossbench.csv.
+type: data
+title: blink-ai crossbench schedule
+summary: Crossbench schedule mapping Linux, Mac, and Windows perf bots to repeat, shard, and flag settings for the blink-ai benchmark.

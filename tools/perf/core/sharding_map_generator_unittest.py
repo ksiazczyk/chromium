@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for sharding map generator
+# summary: Tests sharding map generation and validation with fake benchmark configs and timing data.
+# ---
+
 from __future__ import annotations
 
 import collections

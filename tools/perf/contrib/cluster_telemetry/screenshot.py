@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: PNG screenshot page test with dynamic content detection
+# summary: Implements a legacy page test that captures PNG screenshots of pages and can detect dynamic content by comparing multiple screenshots.
+# ---
+
 import logging
 import os
 import time

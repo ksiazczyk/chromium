@@ -1,0 +1,4 @@
+# Docerion header of blink_perf.webcodecs.csv.
+type: data
+title: blink_perf.webcodecs benchmark schedule
+summary: Schedule listing the perf bots, repeat counts and shard counts used to run the blink_perf.webcodecs benchmark suite.

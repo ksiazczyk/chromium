@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: CLI utility helpers for logging, file output, and range merging
+# summary: Provides command-line helper functions for configuring logging verbosity, opening files for writing including cloud storage paths, converting day offsets to timestamps, and merging overlapping index ranges.
+# ---
+
 import datetime
 import logging
 

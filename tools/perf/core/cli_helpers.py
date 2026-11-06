@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: CLI helpers for colored output and interactive prompts
+# summary: Provides helper functions for command-line messaging, including colored output, error reporting, and interactive multi-choice user prompts.
+# ---
+
 from __future__ import print_function
 
 import shlex

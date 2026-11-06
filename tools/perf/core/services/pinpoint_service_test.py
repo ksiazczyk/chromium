@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Pinpoint service unit tests
+# summary: Unit tests for the pinpoint service client, verifying job lookups, job listings, and new job creation parameters.
+# ---
+
 import unittest
 from unittest import mock
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: PerfBenchmark base class
+# summary: Base class for all benchmarks in tools/perf/benchmarks that activates field trial configs and manages browser options, including copying ad tagging profile files.
+# ---
+
 import itertools
 import json
 import os

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: CPU powerups tracing benchmark for Android
+# summary: Defines the contrib.power.powerups benchmark capturing kernel scheduling and CPU power state traces for later Perfetto analysis.
+# ---
+
 from core import platforms
 import contrib.power.stories as stories
 from contrib.power.power_perf_benchmark_base import PowerPerfBenchmarkBase

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: CT page set for Cluster Telemetry benchmarks
+# summary: Provides the CTPage and CTPageSet classes that build story sets from URL lists with user agent, traffic, and cache settings for CT benchmarks.
+# ---
+
 from telemetry.page import cache_temperature as cache_temperature_module
 from telemetry.page import traffic_setting as traffic_setting_module
 from telemetry.page import page as page_module

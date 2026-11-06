@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the JSON Test Results formatter
+# summary: Verifies conversion to the JSON Test Results Format, covering start times, single and repeated test cases, shards, failures and skipped stories.
+# ---
+
 import copy
 import unittest
 

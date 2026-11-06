@@ -1,0 +1,4 @@
+# Docerion header of speedometer3-no-field-trials.csv.
+type: config
+title: Speedometer 3 schedule without field trials
+summary: Defines repeat and shard counts for running Speedometer 3 without field trials on two Mac perf bots.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Multipage SKP printer benchmarks
+# summary: Defines benchmarks that capture mSKP files for pages, including a Cluster Telemetry variant driven by URL lists and archive data.
+# ---
+
 from core import perf_benchmark
 
 from contrib.cluster_telemetry import ct_benchmarks_util

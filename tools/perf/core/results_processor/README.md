@@ -1,3 +1,11 @@
+---
+type: readme
+title: Results Processor
+summary: Documents the intermediate test results format, trace conventions, and the two modes of running Results Processor.
+relations:
+  - documents /tools/perf/results_processor
+---
+
 <!-- Copyright 2019 The Chromium Authors
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.

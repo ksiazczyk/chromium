@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebVR sample page set for benchmarks
+# summary: Builds a story set from official WebVR sample pages with varied render scale and load settings for performance testing.
+# ---
+
 from contrib.vr_benchmarks.vr_sample_page import VrSamplePage
 from contrib.vr_benchmarks.vr_story_set import VrStorySet
 

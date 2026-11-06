@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Google Cloud Storage helper for binary rolling
+# summary: Provides minimal Google Cloud Storage operations such as get, insert, list and hashing via gcloud when catapult py_utils is unavailable.
+# ---
+
 """A small subset of commands for interaction with Google Cloud Storage.
 It's used when py_utils from the catapult repo are not available (as is the case
 on autorollers).

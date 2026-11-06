@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Leak detection Cluster Telemetry benchmark
+# summary: Runs leak detection measurements across a list of URLs by navigating pages and measuring memory before and after loading.
+# ---
+
 import py_utils
 from contrib.leak_detection import leak_detection as ld
 

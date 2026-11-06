@@ -1,0 +1,4 @@
+# Docerion header of v8.browsing_desktop-future.csv.
+type: config
+title: v8.browsing_desktop-future bot schedule
+summary: Schedules the future variant of the v8.browsing_desktop benchmark across desktop perf bots.

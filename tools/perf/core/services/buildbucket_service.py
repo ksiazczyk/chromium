@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Buildbucket service client
+# summary: Client for the Buildbucket RPC API that fetches the status of individual builds and lists recent builds for a builder.
+# ---
+
 """Make requests to the Buildbucket RPC API.
 
 For more details on the API see: go/buildbucket-rpc

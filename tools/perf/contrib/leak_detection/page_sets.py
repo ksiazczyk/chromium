@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Leak detection page sets
+# summary: Defines page classes and a story set of popular websites whose memory is measured before and after navigation to detect leaks.
+# ---
+
 import py_utils
 from telemetry import story as story_module
 from telemetry.page import page as page_module

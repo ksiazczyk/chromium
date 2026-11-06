@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: CSV output formatter
+# summary: Converts histogram dicts to CSV via histograms_to_csv and writes or appends the rows to results.csv in the output directory.
+# ---
+
 """Output formatter for CSV format."""
 
 import collections

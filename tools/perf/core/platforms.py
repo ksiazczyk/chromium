@@ -5,6 +5,12 @@
 # Below are constants for system specifier tags that will be used
 # in SUPPORTED_PLATFORM_TAGS lists for benchmarks
 
+# ---docerion
+# type: source
+# title: Platform tag constants
+# summary: Defines constants for system specifier tags such as desktop, mobile, Android, WebView, Fuchsia, Windows, and ChromeOS used in benchmark platform lists.
+# ---
+
 DESKTOP = 'desktop'
 MOBILE = 'mobile'
 ANDROID_NOT_WEBVIEW = 'android-not-webview'

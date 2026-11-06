@@ -1,0 +1,4 @@
+# Docerion header of load_library_perf_tests.csv.
+type: config
+title: Load library perf tests bot schedule
+summary: Maps perf bots to repeat and shard counts for scheduling the load library performance tests.

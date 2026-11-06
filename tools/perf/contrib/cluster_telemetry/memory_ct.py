@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Memory Cluster Telemetry benchmark
+# summary: Defines the memory.cluster_telemetry benchmark that measures memory usage with heap profiling and configurable network traffic settings.
+# ---
+
 from benchmarks import memory
 from core import perf_benchmark
 

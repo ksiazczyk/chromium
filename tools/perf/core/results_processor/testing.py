@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Testing helpers for building intermediate test results
+# summary: Provides helper functions to build TestResult and Artifact dicts following the LUCI Test Results format and to serialize intermediate results to a file.
+# ---
+
 """Helper functions to build intermediate results for testing."""
 
 import json

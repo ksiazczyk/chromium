@@ -1,0 +1,4 @@
+# Docerion header of v8.browsing_mobile.csv.
+type: config
+title: v8.browsing_mobile bot schedule
+summary: Schedules the v8.browsing_mobile benchmark on Android, WebView, and Fuchsia perf bots.

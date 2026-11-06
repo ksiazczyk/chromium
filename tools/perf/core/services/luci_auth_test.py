@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: LUCI authentication unit tests
+# summary: Unit tests for the luci_auth helpers using mocked subprocess output for success and failure cases.
+# ---
+
 import subprocess
 import sys
 import unittest

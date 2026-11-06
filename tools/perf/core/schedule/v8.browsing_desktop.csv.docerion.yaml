@@ -1,0 +1,4 @@
+# Docerion header of v8.browsing_desktop.csv.
+type: config
+title: v8.browsing_desktop bot schedule
+summary: Schedules the v8.browsing_desktop benchmark across Linux, macOS, and Windows perf bots.

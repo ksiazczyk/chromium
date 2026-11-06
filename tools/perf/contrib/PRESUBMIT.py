@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for the contrib directory
+# summary: Presubmit automation that enforces contrib directory layout rules and requires an OWNERS file in every subdirectory.
+# ---
+
 
 def _CommonChecks(input_api, output_api):
   """Performs common checks, which includes running pylint."""

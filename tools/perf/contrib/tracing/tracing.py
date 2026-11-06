@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Tracing with debug overhead benchmark
+# summary: Defines the tracing.tracing_with_debug_overhead benchmark that measures tracing metrics on the top 10 pages with debug overhead level.
+# ---
+
 from core import perf_benchmark
 
 from telemetry.web_perf import timeline_based_measurement

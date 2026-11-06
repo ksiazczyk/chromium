@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Metrics computation unit tests
+# summary: Unit tests for computing TBMv2 and TBMv3 metrics, mocking metric runners, trace sizes and failures.
+# ---
+
 import unittest
 from unittest import mock
 

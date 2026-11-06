@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Browser minidump collection and symbolization tests
+# summary: Tests that browser crash minidumps are collected and symbolized correctly, checking GPU and renderer crash stack signatures.
+# ---
+
 import logging
 import os
 import sys

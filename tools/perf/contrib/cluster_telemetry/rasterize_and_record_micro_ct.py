@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rasterize and record micro CT benchmark
+# summary: Defines the rasterize_and_record_micro_ct benchmark that measures rasterize and record performance over Cluster Telemetry page sets.
+# ---
+
 from contrib.cluster_telemetry import ct_benchmarks_util
 from contrib.cluster_telemetry import page_set
 from contrib.cluster_telemetry import repaint_helpers

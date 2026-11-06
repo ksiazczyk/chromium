@@ -1,0 +1,4 @@
+# Docerion header of media.mobile.csv.
+type: config
+title: Mobile media benchmark bot schedule
+summary: Maps mobile and WebView perf bots to repeat and shard counts for scheduling media performance benchmarks.

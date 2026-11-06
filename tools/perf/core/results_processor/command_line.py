@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Results Processor command line interface
+# summary: Defines the argument parser and option processing for the results_processor module, including output formats and upload options.
+# ---
+
 """Implements the interface of the results_processor module.
 
 Provides functions to parse command line arguments and process options.

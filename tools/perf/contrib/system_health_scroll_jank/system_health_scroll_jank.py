@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: System health scroll jank mobile benchmark
+# summary: Defines the system_health.scroll_jank_mobile benchmark that runs scroll jank stories and collects latency, smoothness and jank UMA metrics.
+# ---
+
 from benchmarks import system_health
 from telemetry import benchmark
 

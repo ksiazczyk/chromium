@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rendering Cluster Telemetry benchmark
+# summary: Defines the rendering.cluster_telemetry benchmark that measures rendering performance with timeline-based metrics and UMA histograms.
+# ---
+
 from contrib.cluster_telemetry import ct_benchmarks_util
 from contrib.cluster_telemetry import page_set
 from telemetry.timeline import chrome_trace_category_filter

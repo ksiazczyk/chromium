@@ -1,0 +1,4 @@
+# Docerion header of embedder.crossbench.csv.
+type: config
+title: Android WebView embedder crossbench schedule
+summary: Defines per-bot flags for running the Android WebView embedder crossbench benchmark, including WPR archives and embedder setup options.

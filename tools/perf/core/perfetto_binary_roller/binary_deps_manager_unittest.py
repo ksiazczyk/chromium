@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for binary_deps_manager
+# summary: Unit tests covering upload, fetch and switch operations of the binary dependencies manager with mocked cloud storage.
+# ---
+
 import json
 import os
 import shutil

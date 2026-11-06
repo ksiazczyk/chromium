@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android wakeups power benchmark
+# summary: Defines the contrib.power.wakeups Android benchmark that traces scheduler wakeup events with callstack sampling over mobile system health stories.
+# ---
+
 from core import platforms
 import contrib.power.stories as stories
 from contrib.power.power_perf_benchmark_base import PowerPerfBenchmarkBase

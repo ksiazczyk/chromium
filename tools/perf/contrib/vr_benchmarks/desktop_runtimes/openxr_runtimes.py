@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: OpenXR desktop runtime implementations
+# summary: Provides real and mock OpenXR runtime classes for desktop VR tests, with the mock runtime configured via the XR_RUNTIME_JSON environment variable.
+# ---
+
 import os
 
 from contrib.vr_benchmarks.desktop_runtimes import base_runtime

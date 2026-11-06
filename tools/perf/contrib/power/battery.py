@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Battery power benchmark for Android
+# summary: Defines the contrib.power.battery benchmark that traces battery counters and power rails on mobile system health stories.
+# ---
+
 from core import platforms
 import contrib.power.stories as stories
 from contrib.power.power_perf_benchmark_base import PowerPerfBenchmarkBase
