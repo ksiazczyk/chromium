@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenGL ES 3 misc function tests
+// summary: Unit tests for miscellaneous OpenGL ES 3 functions such as glGetFragDataLocation and glGetStringi extension enumeration.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

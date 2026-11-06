@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BGRA mipmap tests
+// summary: Test verifying that GL_BGRA textures support mipmap generation, exercising a workaround for desktop GL implementations.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stdint.h>

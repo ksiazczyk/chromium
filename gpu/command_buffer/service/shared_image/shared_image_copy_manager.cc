@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image copy manager implementation
+// summary: Implements SharedImageCopyManager, which iterates registered copy strategies in preference order to copy between shared image backings and logs an error when none applies.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_copy_manager.h"
 
 #include <memory>

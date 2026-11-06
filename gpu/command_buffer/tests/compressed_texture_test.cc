@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compressed texture tests
+// summary: Integration tests that load DXT1, DXT3, and DXT5 compressed textures and verify their rendering through the command buffer.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

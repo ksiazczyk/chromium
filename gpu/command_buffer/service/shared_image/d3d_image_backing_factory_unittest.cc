@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D image backing factory unit tests
+// summary: Unit tests for the D3D shared image backing factory covering texture creation, copies, swap chain backings, and GL and Dawn representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/d3d_image_backing_factory.h"
 
 #include <dawn/dawn_proc.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLTextureHolder class declaration
+// summary: Declares a reference-counted helper that holds one GL texture usable with either validating or passthrough command decoders, including upload, readback, and promise image APIs.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_TEXTURE_HOLDER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_TEXTURE_HOLDER_H_
 

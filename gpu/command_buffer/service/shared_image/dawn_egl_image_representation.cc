@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn EGL image representation implementation
+// summary: Implements a Dawn representation that wraps an EGL image through the Dawn OpenGL backend, coordinating access with an underlying GL texture representation.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_egl_image_representation.h"
 
 #include "build/build_config.h"

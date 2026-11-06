@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU mailbox texture unit tests
+// summary: Unit tests covering WebGPU mailbox texture creation, sharing, and format mapping across RGBA, BGRA, and RGBA F16 shared image formats.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/bind.h"

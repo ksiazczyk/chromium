@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared image test pixel readback utility
+// summary: Implements ReadPixels, a test helper that reads back pixel data from a shared image mailbox through a Skia representation for use in unit tests.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/test_utils.h"
 
 #include "gpu/command_buffer/common/mailbox.h"

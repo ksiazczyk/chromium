@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL pixel repack utilities implementation
+// summary: Implements helpers to repack, unpack, and swizzle Skia pixmap pixel data for GL uploads, including RGB packing, stride adjustment, and red-blue swapping.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_repack_utils.h"
 
 #include <vector>

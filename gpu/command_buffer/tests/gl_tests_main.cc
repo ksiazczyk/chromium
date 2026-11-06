@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL tests main entry point
+// summary: Defines the main entry point for the GL command buffer test suite, initializing the command line, Mojo, GoogleMock, and a test suite that installs the GL setup helper.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

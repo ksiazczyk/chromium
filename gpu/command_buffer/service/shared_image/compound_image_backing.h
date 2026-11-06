@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compound image backing header
+// summary: Declares CompoundImageBacking and the SharedImageAccessStream enum, describing a container that holds several backings with automatic interop, data sync, and dynamic allocation.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_COMPOUND_IMAGE_BACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_COMPOUND_IMAGE_BACKING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Vulkan image backing implementation
+// summary: Implements ExternalVkImageBacking, which stores shared images as Vulkan images and manages dedicated memory objects, Vulkan/GL synchronization, and access semaphores.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/external_vk_image_backing.h"
 
 #include <utility>

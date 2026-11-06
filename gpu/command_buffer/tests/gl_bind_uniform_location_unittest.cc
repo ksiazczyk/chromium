@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bind uniform location extension tests
+// summary: Tests for the GL_CHROMIUM_bind_uniform_location extension covering explicit uniform location binding and conflict detection.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

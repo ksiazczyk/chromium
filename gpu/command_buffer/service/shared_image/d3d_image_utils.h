@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D image utility declarations
+// summary: Declares D3D helper functions for clearing D3D11 textures and creating Dawn shared textures, buffers, and fences from D3D11 and D3D12 resources.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D_IMAGE_UTILS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D_IMAGE_UTILS_H_
 

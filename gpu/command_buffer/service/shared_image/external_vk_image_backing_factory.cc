@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Vulkan image backing factory implementation
+// summary: Implements the shared image backing factory that creates Vulkan image backings, computing and caching maximal VkImage usage flags per format for the physical device.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/external_vk_image_backing_factory.h"
 
 #include "base/check.h"

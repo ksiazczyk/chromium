@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dawn image representation test helper declarations
+// summary: Declares shared helper functions, such as shader and texture creation and a Dawn video sampling test, used by Dawn image representation unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_IMAGE_REPRESENTATION_UNITTEST_COMMON_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_IMAGE_REPRESENTATION_UNITTEST_COMMON_H_
 

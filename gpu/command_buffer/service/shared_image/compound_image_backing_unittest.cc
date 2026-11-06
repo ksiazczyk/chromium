@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compound image backing unit tests
+// summary: Unit tests for CompoundImageBacking covering backing allocation, unsupported access streams, and dynamic allocation behavior using test backings and factories.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/compound_image_backing.h"
 
 #include <cstdint>

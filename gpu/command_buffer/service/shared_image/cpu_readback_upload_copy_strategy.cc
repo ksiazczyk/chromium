@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU readback upload copy strategy implementation
+// summary: Implements CPUReadbackUploadCopyStrategy, which copies between matching shared image backings by reading source pixels back to memory and uploading them to the destination.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/cpu_readback_upload_copy_strategy.h"
 
 #include "gpu/command_buffer/service/shared_image/shared_image_backing.h"

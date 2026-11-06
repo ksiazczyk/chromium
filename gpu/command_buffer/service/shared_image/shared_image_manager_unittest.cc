@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared image manager unit tests
+// summary: Unit tests covering shared image manager reference counting, memory dumps, and usage enforcement with a test backing.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_manager.h"
 
 #include "base/task/sequenced_task_runner.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for GPU command buffer tests
+summary: Include rules granting the GPU command buffer tests access to viz test helpers, libyuv, mojo core embedder, and Skia headers.

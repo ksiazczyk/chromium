@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone image backing implementation
+// summary: Implements OzoneImageBacking, a Linux NativePixmap-backed shared image supporting GL, Vulkan, Skia, Dawn, and overlay representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/ozone_image_backing.h"
 
 #include <dawn/webgpu.h>

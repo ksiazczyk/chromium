@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: glLoseContextCHROMIUM unit tests
+// summary: Verifies that glLoseContextCHROMIUM loses contexts in the same share group while leaving other share groups unaffected.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

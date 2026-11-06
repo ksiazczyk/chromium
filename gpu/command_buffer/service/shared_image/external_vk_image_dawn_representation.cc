@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Vulkan image Dawn representation implementation
+// summary: Implements the Dawn image representation that imports the backing's Vulkan image into a wgpu texture via opaque FD descriptors with semaphore-based begin and end access.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/external_vk_image_dawn_representation.h"
 
 #include <dawn/native/VulkanBackend.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageBackingFactory interface declaration
+// summary: Declares the abstract factory interface for creating shared image backings, with usage validation and access stream support checks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SHARED_IMAGE_BACKING_FACTORY_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SHARED_IMAGE_BACKING_FACTORY_H_
 

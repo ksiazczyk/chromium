@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D image backing factory declaration
+// summary: Declares D3DImageBackingFactory, which creates D3D shared image backings and swap chain backings and reports D3D shared image support on Windows.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D_IMAGE_BACKING_FACTORY_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D_IMAGE_BACKING_FACTORY_H_
 

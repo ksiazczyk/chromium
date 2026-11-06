@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D image representation implementations
+// summary: Implements GL passthrough and Dawn image representations for D3D image backings, including keyed mutex handling and video copy texture setup.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/d3d_image_representation.h"
 
 #include "base/strings/strcat.h"

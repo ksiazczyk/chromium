@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Vulkan Android image representation implementation
+// summary: Implements SkiaVkAndroidImageRepresentation, giving Skia Ganesh write and read access to Android image backings through Vulkan images and semaphores.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/skia_vk_android_image_representation.h"
 
 #include <utility>

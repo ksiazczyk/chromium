@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL shader compilation libprotobuf-mutator fuzzer
+// summary: Fuzzes GL shader compilation by building shaders from protobuf input and compiling them through a GL test manager.
+// ---
+
 #ifndef GL_GLEXT_PROTOTYPES
 #define GL_GLEXT_PROTOTYPES
 #endif

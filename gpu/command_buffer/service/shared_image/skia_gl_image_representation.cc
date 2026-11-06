@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GL image representation implementation
+// summary: Implements a Skia Ganesh representation wrapping a GL texture representation, creating promise textures for single and multiplane formats.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/skia_gl_image_representation.h"
 
 #include "base/check_op.h"

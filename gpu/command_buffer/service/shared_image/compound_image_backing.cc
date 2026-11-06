@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compound image backing implementation
+// summary: Implements CompoundImageBacking, which manages multiple underlying shared image backings of different memory types and synchronizes data between them as usage changes.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/compound_image_backing.h"
 
 #include <ostream>

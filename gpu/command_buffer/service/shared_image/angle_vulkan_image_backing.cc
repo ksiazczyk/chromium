@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE Vulkan image backing implementation
+// summary: Implements AngleVulkanImageBacking, exposing Vulkan images to GL passthrough textures and Skia via EGL_ANGLE_vulkan_image representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/angle_vulkan_image_backing.h"
 
 #include "base/logging.h"

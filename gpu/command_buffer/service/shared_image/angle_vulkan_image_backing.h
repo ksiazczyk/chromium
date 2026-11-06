@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE Vulkan image backing header
+// summary: Declares AngleVulkanImageBacking, a shared image backing that manages GL and Vulkan textures for ANGLE Vulkan interop, including Skia Ganesh and GL texture passthrough representations.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_ANGLE_VULKAN_IMAGE_BACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_ANGLE_VULKAN_IMAGE_BACKING_H_
 

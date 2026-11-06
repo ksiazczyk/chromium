@@ -4,6 +4,12 @@
 
 // Helper functions for GL.
 
+// ---docerion
+// type: test
+// title: GL test utility helpers header
+// summary: Declares GLTestHelper and GpuCommandBufferTestEGL, providing shared helpers for initializing GL, building shaders and programs, checking pixels, and switching to EGL implementations in tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_TESTS_GL_TEST_UTILS_H_
 #define GPU_COMMAND_BUFFER_TESTS_GL_TEST_UTILS_H_
 

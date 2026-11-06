@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android image backing implementation
+// summary: Implements AndroidImageBacking's read and write access control, coordinating readers and writers through sync fence file descriptors.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/android_image_backing.h"
 
 #include "base/logging.h"

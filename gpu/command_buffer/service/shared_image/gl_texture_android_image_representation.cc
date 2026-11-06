@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLTextureAndroidImageRepresentation implementation
+// summary: Implements a GL texture representation for Android image backings, using EGL fences to synchronize read and write access with the backing.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_android_image_representation.h"
 
 #include "gpu/command_buffer/service/texture_manager.h"

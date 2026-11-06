@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test image backing implementation
+// summary: Implements TestImageBacking and its GL, Skia Ganesh, and other dummy representations used to exercise shared image code without real GPU textures.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/test_image_backing.h"
 
 #include "base/memory/raw_ptr.h"

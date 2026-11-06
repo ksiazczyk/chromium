@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Vulkan image GL representation implementation
+// summary: Implements GL texture representations for external Vulkan image backings, using external semaphores to synchronize Vulkan and GL access to the textures.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/external_vk_image_gl_representation.h"
 
 #include <vector>

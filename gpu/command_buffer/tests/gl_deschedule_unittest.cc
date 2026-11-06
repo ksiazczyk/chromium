@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deschedule unit tests
+// summary: Unit test verifying glDescheduleUntilFinishedCHROMIUM behavior when clearing and reading pixels from a framebuffer texture.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

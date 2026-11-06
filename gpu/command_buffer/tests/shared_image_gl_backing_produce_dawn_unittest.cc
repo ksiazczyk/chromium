@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared image GL to Dawn produce unit tests
+// summary: Unit tests that render to a shared image via GL, re-associate it with a Dawn texture, and read back the written values on Windows.
+// ---
+
 #include <dawn/wire/client/webgpu_cpp.h>
 
 #include "build/build_config.h"

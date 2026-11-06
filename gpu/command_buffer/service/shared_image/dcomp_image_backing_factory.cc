@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DComp image backing factory implementation
+// summary: Implements the factory that creates shared image backings for DirectComposition scanout, choosing between DComp surfaces and DXGI swap chains by usage.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dcomp_image_backing_factory.h"
 
 #include <d3d11_1.h>

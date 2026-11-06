@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn shared texture cache implementation
+// summary: Implements a per-Dawn-device cache of SharedTextureMemory and WebGPU textures keyed by usage and view format metadata, with erase and lookup helpers.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_shared_texture_cache.h"
 
 #include "base/check_op.h"

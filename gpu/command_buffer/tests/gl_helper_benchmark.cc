@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLHelper scaler benchmarks
+// summary: Benchmarks and manual-evaluation utilities for GLHelper scaler qualities that produce output files and printouts instead of pass/fail results.
+// ---
+
 #include <array>
 
 // This file looks like a unit test, but it contains benchmarks and test

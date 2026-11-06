@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromium framebuffer multisample tests
+// summary: Tests for the GL_CHROMIUM_framebuffer_multisample extension covering cached bindings, multisample drawing, and resolve.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

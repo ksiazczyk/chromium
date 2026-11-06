@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image pool service implementation
+// summary: Implements the service-side shared image pool object that notifies the client-side pool when it is cleared.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_pool_service.h"
 
 namespace gpu {

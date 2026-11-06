@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn copy strategy class
+// summary: Declares DawnCopyStrategy, which copies between GPU backings and DawnImageBacking via WebGPU staging buffers, with helpers for texture and memory copies.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_COPY_STRATEGY_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_COPY_STRATEGY_H_
 

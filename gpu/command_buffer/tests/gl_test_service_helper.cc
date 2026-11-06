@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test service helper for texture level inspection
+// summary: Test helper that inspects service-side texture level sizes through the command buffer decoder's texture manager for use in GL tests.
+// ---
+
 #include "gpu/command_buffer/tests/gl_test_service_helper.h"
 
 #include "gpu/command_buffer/service/context_group.h"

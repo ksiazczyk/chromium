@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetAggressivelyFreeResources unit tests
+// summary: Unit tests verifying that SetAggressivelyFreeResources releases command buffer, transfer buffer, mapped memory, and query shared memory.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

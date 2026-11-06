@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL common image backing factory declaration
+// summary: Declares GLCommonImageBackingFactory, providing common constructor logic and GL format info helpers shared by GL-based SharedImage backing factories.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_COMMON_IMAGE_BACKING_FACTORY_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_COMMON_IMAGE_BACKING_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D image backing implementation
+// summary: Implements D3DImageBacking, the Windows shared image backing for D3D11 and D3D12 textures, swap chain buffers, and fence-based cross-API synchronization.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/d3d_image_backing.h"
 
 #include <d3d11_3.h>

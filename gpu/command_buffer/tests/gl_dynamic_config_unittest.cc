@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dynamic GL config unit tests
+// summary: Unit test for switching GL surface configurations in non-virtualized context mode, currently disabled pending fixes.
+// ---
+
 #include "gpu/command_buffer/tests/gl_manager.h"
 #include "testing/gmock/include/gmock/gmock.h"
 #include "testing/gtest/include/gtest/gtest.h"

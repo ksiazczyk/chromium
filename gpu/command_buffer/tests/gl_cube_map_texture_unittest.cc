@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cube map texture unit tests
+// summary: Parametrized unit tests exercising cube map texture targets, framebuffer attachment, and pixel reads with the force_cube_complete workaround.
+// ---
+
 #include <GLES2/gl2.h>
 #include <stdint.h>
 

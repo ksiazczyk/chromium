@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn AHardwareBuffer image representation implementation
+// summary: Implements a Dawn image representation that accesses an Android image backing's AHardwareBuffer through Dawn shared texture memory with sync fence handling.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_ahardwarebuffer_image_representation.h"
 
 #include <dawn/native/VulkanBackend.h>

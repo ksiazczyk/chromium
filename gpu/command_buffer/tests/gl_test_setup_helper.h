@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL test setup helper header
+// summary: Declares GLTestSetupHelper, a test event listener that automatically sets up and tears down the GL environment before and after each test for use in test suites.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_TESTS_GL_TEST_SETUP_HELPER_H_
 #define GPU_COMMAND_BUFFER_TESTS_GL_TEST_SETUP_HELPER_H_
 

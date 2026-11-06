@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image copy manager class declaration
+// summary: Declares the thread-safe, ref-counted SharedImageCopyManager that owns ordered copy strategies and copies between shared image backings using the first supporting strategy.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SHARED_IMAGE_COPY_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SHARED_IMAGE_COPY_MANAGER_H_
 

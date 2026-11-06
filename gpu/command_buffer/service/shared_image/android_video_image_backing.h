@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video image backing header
+// summary: Declares AndroidVideoImageBacking, a shared image backing that renders MediaCodec buffers to a TextureOwner or overlay for drawing.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_ANDROID_VIDEO_IMAGE_BACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_ANDROID_VIDEO_IMAGE_BACKING_H_
 

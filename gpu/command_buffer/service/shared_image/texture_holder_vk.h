@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureHolderVk declaration
+// summary: Declares a struct holding a Vulkan image together with its Skia backend texture and promise image, with info access and readback methods.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_TEXTURE_HOLDER_VK_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_TEXTURE_HOLDER_VK_H_
 

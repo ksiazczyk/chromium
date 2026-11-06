@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn Ozone image representation header
+// summary: Declares DawnOzoneImageRepresentation, the shared image representation that lets Dawn access Ozone-backed shared images by importing the pixmap on access.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_OZONE_IMAGE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_OZONE_IMAGE_REPRESENTATION_H_
 

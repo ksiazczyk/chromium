@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI swap chain image representation implementation
+// summary: Implements overlay, GL texture passthrough, Skia GL and Dawn representations that read and present a DXGI swap chain shared image backing.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dxgi_swap_chain_image_representation.h"
 
 #include <memory>

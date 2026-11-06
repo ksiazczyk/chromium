@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External Vulkan image backing factory unit tests
+// summary: Unit tests for ExternalVkImageBackingFactory covering Vulkan context setup, Dawn adapter selection, and shared image creation and access scenarios.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/external_vk_image_backing_factory.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Vulkan Android image representation header
+// summary: Declares SkiaVkAndroidImageRepresentation, a generic Skia Vulkan representation usable by any Android backing, with access mode and semaphore management.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SKIA_VK_ANDROID_IMAGE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SKIA_VK_ANDROID_IMAGE_REPRESENTATION_H_
 

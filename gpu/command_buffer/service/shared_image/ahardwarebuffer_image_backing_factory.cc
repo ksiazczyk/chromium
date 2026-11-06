@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AHardwareBuffer image backing factory implementation
+// summary: Implements the Android-only backing factory that creates AHardwareBuffer-backed shared images and their GL, Vulkan, Dawn, and Skia representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/ahardwarebuffer_image_backing_factory.h"
 
 #include <android/hardware_buffer.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL test utility helpers implementation
+// summary: Implements GLTestHelper functions that initialize GL for tests and provide shared helpers for extension checks, error checking, shaders, programs, unit quads, and pixel verification.
+// ---
+
 #include "gpu/command_buffer/tests/gl_test_utils.h"
 
 #include <GLES2/gl2extchromium.h>

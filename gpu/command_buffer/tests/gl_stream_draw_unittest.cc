@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL stream draw unit tests
+// summary: Unit tests drawing with GL_STREAM_DRAW vertex colors, element arrays, and vertex array objects to check streaming buffer behavior.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stdint.h>

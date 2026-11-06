@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Depth texture unit tests
+// summary: Unit tests rendering to and sampling from depth textures in various depth and depth-stencil formats via the GL_CHROMIUM_depth_texture extension.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stddef.h>

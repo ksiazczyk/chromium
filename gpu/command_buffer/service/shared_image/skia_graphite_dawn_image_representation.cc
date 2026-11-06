@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Graphite Dawn image representation implementation
+// summary: Implements a Skia Graphite representation backed by a Dawn image representation, handling multiplanar rendering and copy support.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/skia_graphite_dawn_image_representation.h"
 
 #include "base/logging.h"

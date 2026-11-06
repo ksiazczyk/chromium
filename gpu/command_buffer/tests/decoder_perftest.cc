@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command decoder performance tests
+// summary: Performance tests that measure GLES2 command decoder throughput using a record/replay command buffer and perf result reporting.
+// ---
+
 #include <array>
 #include <memory>
 

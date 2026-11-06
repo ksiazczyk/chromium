@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image representation implementation
+// summary: Implements shared image representations that expose backings to GL, Skia Ganesh and Graphite, and Dawn clients.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_representation.h"
 
 #include <tuple>

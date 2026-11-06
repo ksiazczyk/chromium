@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLTextureImageBackingFactory implementation
+// summary: Implements the backing factory that creates GL texture backed shared images and validates supported usages, formats, sizes, and pixel uploads.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_image_backing_factory.h"
 
 #include <list>

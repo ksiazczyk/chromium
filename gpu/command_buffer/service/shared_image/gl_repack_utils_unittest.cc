@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL pixel repack utilities unit tests
+// summary: Unit tests verifying RGB repacking, stride handling, and red-blue swizzle behavior of the GL repack utilities using solid-color Skia bitmaps.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_repack_utils.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NPOT client data texture unit tests
+// summary: Parameterized tests for non-power-of-two client data texture uploads such as RGB10_A2, with and without the tex-sub-image workaround.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES3/gl3.h>

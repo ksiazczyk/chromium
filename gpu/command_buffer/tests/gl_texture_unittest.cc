@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL texture unit tests
+// summary: Unit tests for GL texture behavior under OpenGL ES 3, covering oversized mip level uploads with and without the unpack-buffer workaround and verifying rendered sampling results.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

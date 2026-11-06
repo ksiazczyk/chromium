@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn Ozone image representation implementation
+// summary: Implements the Dawn representation of Ozone-backed shared images, importing native pixmaps into Dawn for WebGPU texture access with fence synchronization.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_ozone_image_representation.h"
 
 #include <dawn/native/VulkanBackend.h>

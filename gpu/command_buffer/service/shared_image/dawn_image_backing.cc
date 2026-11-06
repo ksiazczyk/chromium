@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn image backing implementation
+// summary: Implements a SharedImageBacking that stores shared image data in a WebGPU texture and produces Dawn representations with upload and readback support.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_image_backing.h"
 
 #include <vector>

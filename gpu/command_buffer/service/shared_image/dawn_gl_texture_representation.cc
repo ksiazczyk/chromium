@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn GL texture representation implementation
+// summary: Implements a Dawn image representation that wraps a GL texture representation and exposes the GL texture to Dawn as an external OpenGL texture.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_gl_texture_representation.h"
 
 #include <dawn/native/OpenGLBackend.h>

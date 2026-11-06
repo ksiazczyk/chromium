@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared image representation unit tests
+// summary: Unit tests for representation clearing, scoped access, and access mode behavior using a test image backing.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_representation.h"
 
 #include <algorithm>

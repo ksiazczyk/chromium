@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL common image backing factory implementation
+// summary: Implements shared construction and format-info helpers for GL-based SharedImage backing factories, including plane format support for multiplanar formats.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_common_image_backing_factory.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DComp image backing factory unit tests
+// summary: Unit tests for DCompImageBackingFactory covering DXGI swap chain and DComp surface image creation, format and usage support checks.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dcomp_image_backing_factory.h"
 
 #include "base/functional/bind.h"

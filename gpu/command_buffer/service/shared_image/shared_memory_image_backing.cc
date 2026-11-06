@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory image backing implementation
+// summary: Implements SharedImageBacking backed by a shared memory GMB, including memory, overlay and other image representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_memory_image_backing.h"
 
 #include "base/logging.h"

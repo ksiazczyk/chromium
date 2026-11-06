@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EGL image backing factory unit tests
+// summary: Unit tests for the EGL image backing factory covering shared image creation, pixel upload and readback, and representation access across GL and Dawn contexts.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/egl_image_backing_factory.h"
 
 #include <optional>

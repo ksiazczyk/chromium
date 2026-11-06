@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image plane copy helper header
+// summary: Declares CopyImagePlane overloads for copying one plane of image data between raw pointers or spans, with stride and row width constraints documented.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_COPY_IMAGE_PLANE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_COPY_IMAGE_PLANE_H_
 

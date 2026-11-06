@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DComp surface image backing implementation
+// summary: Implements a shared image backing that holds a DirectComposition surface, supporting Skia Ganesh, Graphite and Dawn drawing via BeginDraw and EndDraw.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dcomp_surface_image_backing.h"
 
 #include "base/metrics/histogram_functions.h"

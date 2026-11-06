@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual contexts window rectangles unit tests
+// summary: Unit tests verifying that GL_EXT_window_rectangles state set in one context remains isolated from other real and virtual GL contexts.
+// ---
+
 
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>

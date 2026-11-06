@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Vulkan image Skia representation implementation
+// summary: Implements Skia Ganesh read and write access to external Vulkan image backings using promise textures, cached SkSurfaces, and Vulkan semaphores.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/external_vk_image_skia_representation.h"
 
 #include <utility>

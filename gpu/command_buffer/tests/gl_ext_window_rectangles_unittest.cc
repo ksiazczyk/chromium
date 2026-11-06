@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EXT window rectangles unit tests
+// summary: Unit tests for the GL_EXT_window_rectangles extension checking window rectangle state defaults and drawing behavior in OpenGL ES 3 contexts.
+// ---
+
 
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>

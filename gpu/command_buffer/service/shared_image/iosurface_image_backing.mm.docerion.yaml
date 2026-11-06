@@ -1,0 +1,4 @@
+# Docerion header of iosurface_image_backing.mm.
+type: source
+title: IOSurface image backing implementation
+summary: Implements the macOS IOSurface-backed shared image backing with GL, Skia Ganesh and Graphite, Dawn, Metal, and WebNN representations.

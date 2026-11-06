@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 same-adapter copy strategy implementation
+// summary: Implements copying D3D11 textures between devices on the same adapter using shared handles and keyed mutex synchronization for D3D shared image backings.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/d3d11_image_same_adapter_copy_strategy.h"
 
 #include <d3d11_1.h>

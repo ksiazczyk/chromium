@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ANGLE shader pixel local storage tests
+// summary: Tests for the ANGLE_shader_pixel_local_storage extension, verifying query tokens and pixel local storage framebuffer state.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>
