@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy configuration interface
+// summary: Declares the TargetConfig interface and related enums for configuring sandbox policy such as token levels, job levels, file access, and handles to close.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_POLICY_H_
 #define SANDBOX_WIN_SRC_SANDBOX_POLICY_H_
 

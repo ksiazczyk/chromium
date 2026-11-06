@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestrictedToken class for restricted token creation
+// summary: Declares the RestrictedToken class used to configure and create restricted Windows tokens with deny-only SIDs, privileges and restricting SIDs.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_RESTRICTED_TOKEN_H_
 #define SANDBOX_WIN_SRC_RESTRICTED_TOKEN_H_
 

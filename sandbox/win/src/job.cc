@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job object implementation for sandbox security levels
+// summary: Implements the Job class that creates Windows job objects with UI restrictions, process and memory limits based on sandbox security levels.
+// ---
+
 #include "sandbox/win/src/job.h"
 
 #include <windows.h>

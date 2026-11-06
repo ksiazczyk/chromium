@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared definitions for Windows sandbox integration tests
+// summary: Declares the TestPolicy enum, the test event timeout helper, and ScopedTestMutex to keep machine-global tests from running concurrently.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_INTEGRATION_TESTS_INTEGRATION_TESTS_COMMON_H_
 #define SANDBOX_WIN_TESTS_INTEGRATION_TESTS_INTEGRATION_TESTS_COMMON_H_
 

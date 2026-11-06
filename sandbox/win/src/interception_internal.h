@@ -6,6 +6,12 @@
 // for the sandboxed process. For more details see:
 // http://dev.chromium.org/developers/design-documents/sandbox .
 
+// ---docerion
+// type: source
+// title: Interception internal structures
+// summary: Defines the packed shared-memory structures used to transfer interception patching information between broker and target processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_INTERCEPTION_INTERNAL_H_
 #define SANDBOX_WIN_SRC_INTERCEPTION_INTERNAL_H_
 

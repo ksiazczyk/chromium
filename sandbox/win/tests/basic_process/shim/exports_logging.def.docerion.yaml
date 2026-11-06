@@ -1,0 +1,4 @@
+# Docerion header of exports_logging.def.
+type: test
+title: apifw.dll export definitions for API logging
+summary: Lists the apifw.dll exports, forwarding allowlisted APIs directly to system DLLs and routing the rest to logging or modifying thunks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32K lockdown policy header
+// summary: Declares the ProcessMitigationsWin32KLockdownPolicy class that builds low-level rules for the Win32K lockdown mitigation.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_WIN32K_POLICY_H_
 #define SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_WIN32K_POLICY_H_
 

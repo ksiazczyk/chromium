@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: accessibility_node_info_data_wrapper_unittest.cc
+// summary: Unit tests for the Android accessibility node info data wrapper, using a test tree source to verify serialization, roles, states and name computation.
+// ---
+
 #include "services/accessibility/android/accessibility_node_info_data_wrapper.h"
 
 #include <map>

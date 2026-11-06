@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy engine parameter classes
+// summary: Defines the ParameterSet classes that let low-level sandbox policy rules select and type-check parameters of intercepted system calls.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_POLICY_ENGINE_PARAMS_H_
 #define SANDBOX_WIN_SRC_POLICY_ENGINE_PARAMS_H_
 

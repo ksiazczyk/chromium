@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for services
+summary: Sets include_rules for the services directory, allowing mojo and service manager public headers while restricting cross-service includes.

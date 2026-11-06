@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem dispatcher implementation
+// summary: Implements the broker-side FilesystemDispatcher that handles file system IPC calls such as NtCreateFile, NtOpenFile, attribute queries and rename, validating options and evaluating policy.
+// ---
+
 #include "sandbox/win/src/filesystem_dispatcher.h"
 
 #include <ntstatus.h>

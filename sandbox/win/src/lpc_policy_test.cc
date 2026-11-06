@@ -5,6 +5,12 @@
 // These tests have been added to specifically tests issues arising from (A)LPC
 // lock down.
 
+// ---docerion
+// type: test
+// title: LPC policy tests for sandboxed targets
+// summary: Tests locale API calls and process heap validity inside sandboxed targets to catch issues from (A)LPC lockdown.
+// ---
+
 #include <windows.h>
 
 #include <winioctl.h>

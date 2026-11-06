@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File policy tests
+// summary: Tests the sandbox filesystem policy by running file create, read and write commands inside a sandboxed target and checking access outcomes.
+// ---
+
 #include <windows.h>
 #include <winternl.h>
 

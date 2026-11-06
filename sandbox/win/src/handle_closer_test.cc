@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handle closer tests
+// summary: Integration tests verifying that the handle closer removes file and device handles such as KsecDD and that closed handle slots are stuffed with non-waitable Event handles.
+// ---
+
 #include <limits.h>
 #include <stddef.h>
 

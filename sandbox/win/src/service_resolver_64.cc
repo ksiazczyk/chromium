@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 64-bit service resolver implementation
+// summary: Implements the service resolver for 64-bit Windows, handling syscall entry variants including Windows 8 and int 2e fallback layouts.
+// ---
+
 #include "sandbox/win/src/service_resolver.h"
 
 #include <windows.h>

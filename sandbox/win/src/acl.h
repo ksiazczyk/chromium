@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity level ACL helpers interface
+// summary: Declares functions to resolve integrity level RIDs and apply mandatory integrity labels to Windows handles.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_ACL_H_
 #define SANDBOX_WIN_SRC_ACL_H_
 

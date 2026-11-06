@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppContainerBase class interface
+// summary: Declares AppContainerBase, which manages App Container profiles, capabilities, and token creation.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_APP_CONTAINER_BASE_H_
 #define SANDBOX_WIN_SRC_APP_CONTAINER_BASE_H_
 

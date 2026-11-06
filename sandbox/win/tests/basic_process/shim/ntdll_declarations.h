@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ntdll API declarations for the shim
+// summary: Declares ntdll loader-notification, section, and registry functions used by the apifw.dll test shim.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_NTDLL_DECLARATIONS_H_
 #define SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_NTDLL_DECLARATIONS_H_
 

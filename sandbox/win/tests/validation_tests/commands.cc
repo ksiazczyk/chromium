@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox validation test commands implementation
+// summary: Implements SBOX_TEST commands that attempt file, registry, process, thread, window and desktop operations so the validation suite can verify sandbox restrictions.
+// ---
+
 #include "sandbox/win/tests/validation_tests/commands.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of def_parser.py.
+type: source
+title: Shared parser for module-definition exports
+summary: Parses the EXPORTS section of module-definition files into name, target and ordinal records, shared by the shim audit and check tools.

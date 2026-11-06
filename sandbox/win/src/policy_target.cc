@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy target evaluation
+// summary: Evaluates the shared policy memory in the target process and hooks thread token APIs such as NtSetInformationThread to enforce sandbox policy.
+// ---
+
 #include "sandbox/win/src/policy_target.h"
 
 #include <ntstatus.h>

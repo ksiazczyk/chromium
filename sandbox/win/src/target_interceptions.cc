@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target DLL load and unload interceptions
+// summary: Implements NtMapViewOfSection and NtUnmapViewOfSection interceptors that detect DLL loads and unloads in the target so hot patching and cleanup can occur.
+// ---
+
 #include "sandbox/win/src/target_interceptions.h"
 
 #include <ntstatus.h>

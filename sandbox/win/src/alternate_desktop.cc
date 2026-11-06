@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate desktop implementation
+// summary: Implements creation of alternate desktops and window stations and updating their integrity levels.
+// ---
+
 #include "sandbox/win/src/alternate_desktop.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory IPC server interface
+// summary: Declares the shared memory IPC server, which services IPC requests from the target process through a thread pool and dispatcher.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SHAREDMEM_IPC_SERVER_H_
 #define SANDBOX_WIN_SRC_SHAREDMEM_IPC_SERVER_H_
 

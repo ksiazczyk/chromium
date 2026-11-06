@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox validation test command declarations
+// summary: Declares helper functions and SBOX_TEST commands for opening files, keys, processes, threads and desktops in the Windows sandbox validation tests.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_VALIDATION_TESTS_COMMANDS_H_
 #define SANDBOX_WIN_TESTS_VALIDATION_TESTS_COMMANDS_H_
 

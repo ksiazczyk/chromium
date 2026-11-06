@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate desktop class interface
+// summary: Declares the AlternateDesktop class that holds desktop and window station handles with integrity level management.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_ALTERNATE_DESKTOP_H_
 #define SANDBOX_WIN_SRC_ALTERNATE_DESKTOP_H_
 

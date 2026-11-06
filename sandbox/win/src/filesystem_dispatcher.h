@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem dispatcher class declaration
+// summary: Declares the FilesystemDispatcher class that processes file system IPC requests from the sandboxed target and evaluates sandbox policy for those calls.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_FILESYSTEM_DISPATCHER_H_
 #define SANDBOX_WIN_SRC_FILESYSTEM_DISPATCHER_H_
 

@@ -16,6 +16,12 @@
 // there are cases where the Sandbox library is linked against the main .exe
 // while its API needs to be used in a DLL.
 
+// ---docerion
+// type: source
+// title: Windows sandbox library main header
+// summary: Declares the broker and target APIs of the Windows user-land sandbox library, including BrokerServices and policy interfaces.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_H_
 #define SANDBOX_WIN_SRC_SANDBOX_H_
 

@@ -4,6 +4,12 @@
 
 // This file contains unit tests for the job object.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Job class
+// summary: Unit tests covering job creation, UI restriction exceptions, double initialization errors, and initialization across security levels.
+// ---
+
 #include "sandbox/win/src/job.h"
 
 #include "base/win/scoped_process_information.h"

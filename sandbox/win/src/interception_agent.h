@@ -6,6 +6,12 @@
 // from the inside of the sandboxed process. For more details see
 // http://dev.chromium.org/developers/design-documents/sandbox .
 
+// ---docerion
+// type: source
+// title: Interception agent interface
+// summary: Declares InterceptionAgent, which applies interceptions from inside the sandboxed process on DLL load and unload events.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_INTERCEPTION_AGENT_H_
 #define SANDBOX_WIN_SRC_INTERCEPTION_AGENT_H_
 

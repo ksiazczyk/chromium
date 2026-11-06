@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy rule fuzzer
+// summary: Fuzzer entry point that builds parameter sets from input data and evaluates them against Chrome renderer sandbox policy rules to fuzz rule matching.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

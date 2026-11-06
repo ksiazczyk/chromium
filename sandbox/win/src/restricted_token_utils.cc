@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted token utilities implementation
+// summary: Implements CreateRestrictedToken and related helpers that build restricted Windows tokens from security level profiles.
+// ---
+
 #include "sandbox/win/src/restricted_token_utils.h"
 
 #include <memory>

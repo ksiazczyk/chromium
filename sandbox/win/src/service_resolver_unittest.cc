@@ -4,6 +4,12 @@
 
 // This file contains unit tests for ServiceResolverThunk.
 
+// ---docerion
+// type: test
+// title: Service resolver unit tests
+// summary: Unit tests verifying that ServiceResolverThunk correctly patches ntdll service functions, including relaxed patching of already patched targets.
+// ---
+
 #include "sandbox/win/src/service_resolver.h"
 
 #include <ntstatus.h>

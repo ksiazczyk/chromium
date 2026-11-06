@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system policy implementation
+// summary: Implements FileSystemPolicy, generating low-level policy rules for file open and create semantics and performing broker-side file actions on behalf of the target process.
+// ---
+
 #include "sandbox/win/src/filesystem_policy.h"
 
 #include <windows.h>

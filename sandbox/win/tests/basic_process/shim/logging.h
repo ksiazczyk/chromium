@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shim logging helpers and macros
+// summary: Declares logging functions and macros that record reached APIs, caller stacks, and on-demand DLL loads in the test shim.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_LOGGING_H_
 #define SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_LOGGING_H_
 

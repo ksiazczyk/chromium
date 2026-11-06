@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossCall IPC client
+// summary: Defines the templated CrossCall functions that pack client-side parameters into an IPC buffer and dispatch calls through an IPC transport provider.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_CROSSCALL_CLIENT_H_
 #define SANDBOX_WIN_SRC_CROSSCALL_CLIENT_H_
 

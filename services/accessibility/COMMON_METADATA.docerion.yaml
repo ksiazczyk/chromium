@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Shared metadata for the accessibility service defining the team email, Buganizer and Monorail components for issue tracking.

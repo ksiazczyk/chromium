@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target services class declaration
+// summary: Declares ProcessState and TargetServicesBase, the in-target implementation of the sandbox TargetServices interface for lowering the token and tracking state.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_TARGET_SERVICES_H_
 #define SANDBOX_WIN_SRC_TARGET_SERVICES_H_
 

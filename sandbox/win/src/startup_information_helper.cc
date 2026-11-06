@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup information helper implementation
+// summary: Implements StartupInformationHelper, which builds PROC_THREAD attributes for mitigations, desktops, AppContainers, inherited handles and job association when spawning targets.
+// ---
+
 
 #include "sandbox/win/src/startup_information_helper.h"
 

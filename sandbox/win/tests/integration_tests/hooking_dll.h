@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hooking DLL header for sandbox integration tests
+// summary: Declares exported hook functions and constants for the hooking DLL file name, its named event, and the test mutex.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_INTEGRATION_TESTS_HOOKING_DLL_H_
 #define SANDBOX_WIN_TESTS_INTEGRATION_TESTS_HOOKING_DLL_H_
 

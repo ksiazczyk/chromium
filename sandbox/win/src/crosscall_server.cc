@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossCall IPC server implementation
+// summary: Implements server-side IPC message validation, including buffer size checks and CrossCallParamsEx creation from raw IPC buffers.
+// ---
+
 #include "sandbox/win/src/crosscall_server.h"
 
 #include <stddef.h>

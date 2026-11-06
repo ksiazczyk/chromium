@@ -1,0 +1,4 @@
+# Docerion header of def_parser_unittest.py.
+type: test
+title: Unit tests for the def_parser module
+summary: Unit tests for def_parser covering export names, targets, ordinals, missing EXPORTS sections and invalid export lines.

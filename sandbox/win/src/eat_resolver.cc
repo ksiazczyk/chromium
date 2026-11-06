@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EAT resolver thunk
+// summary: Implements EatResolverThunk, which resolves target functions via the PE export table and patches export address table entries for interception.
+// ---
+
 #include "sandbox/win/src/eat_resolver.h"
 
 #include <ntstatus.h>

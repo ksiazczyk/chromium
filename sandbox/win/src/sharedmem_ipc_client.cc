@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory IPC client implementation
+// summary: Implements the client side of shared memory IPC, locking channels, serializing parameters, and waiting synchronously for broker answers.
+// ---
+
 #include "sandbox/win/src/sharedmem_ipc_client.h"
 
 #include <stddef.h>

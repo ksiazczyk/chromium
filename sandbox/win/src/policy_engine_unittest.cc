@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy engine unit tests
+// summary: Unit tests that build policy rules with the opcode factory and verify rule matching, actions and returned constants of the policy engine.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared shim runtime and thunk macros
+// summary: Provides shared macros and helpers for thunk definitions, lazy original-function resolution, and audit gating in apifw.dll.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_SHIM_RUNTIME_H_
 #define SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_SHIM_RUNTIME_H_
 

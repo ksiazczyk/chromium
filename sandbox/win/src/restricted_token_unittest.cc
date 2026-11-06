@@ -4,6 +4,12 @@
 
 // This file contains unit tests for the RestrictedToken.
 
+// ---docerion
+// type: test
+// title: RestrictedToken unit tests
+// summary: Unit tests for the RestrictedToken class covering default DACL lockdown, restricting SIDs, and isolation security attributes.
+// ---
+
 #include "sandbox/win/src/restricted_token.h"
 
 #include <windows.h>

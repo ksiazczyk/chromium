@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox NT utils fuzzer
+// summary: Fuzzer entry point that treats input bytes as a UNICODE_STRING module path and calls ExtractModuleName to exercise sandbox NT utilities.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

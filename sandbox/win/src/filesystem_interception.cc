@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem interception implementation
+// summary: Implements target-side interceptions of NtCreateFile, NtOpenFile, NtQueryAttributesFile, NtQueryFullAttributesFile and NtSetInformationFile, deciding when to forward requests to the broker.
+// ---
+
 #include "sandbox/win/src/filesystem_interception.h"
 
 #include <ntstatus.h>

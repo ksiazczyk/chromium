@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security capabilities implementation
+// summary: Implements SecurityCapabilities, building a SECURITY_CAPABILITIES structure from an AppContainer package SID and capability SIDs.
+// ---
+
 #include "sandbox/win/src/security_capabilities.h"
 #include "base/numerics/safe_conversions.h"
 #include "base/win/security_util.h"

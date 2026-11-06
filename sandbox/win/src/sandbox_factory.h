@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox factory header
+// summary: Declares SandboxFactory static methods that expose broker or target services depending on the process role.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_FACTORY_H_
 #define SANDBOX_WIN_SRC_SANDBOX_FACTORY_H_
 

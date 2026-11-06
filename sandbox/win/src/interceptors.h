@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interceptor ID enum and original function storage
+// summary: Defines the InterceptorId enum for sandboxed interceptions and a struct holding pointers to the original functions.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_INTERCEPTORS_H_
 #define SANDBOX_WIN_SRC_INTERCEPTORS_H_
 

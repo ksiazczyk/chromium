@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drawer layout handler unit tests
+// summary: Unit tests for DrawerLayoutHandler covering drawer layout event handling and node serialization in the Android accessibility tree source.
+// ---
+
 #include "services/accessibility/android/drawer_layout_handler.h"
 
 #include <map>

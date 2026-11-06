@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32K lockdown interception header
+// summary: Declares function pointer types and target interceptor stubs for the GDI and user32 functions intercepted under Win32K lockdown.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_WIN32K_INTERCEPTION_H_
 #define SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_WIN32K_INTERCEPTION_H_
 

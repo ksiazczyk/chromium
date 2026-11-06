@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test controller implementation
+// summary: Implements the Windows sandbox test controller that launches sandboxed child processes, tracks targets, and dispatches test commands.
+// ---
+
 #include "sandbox/win/tests/common/controller.h"
 
 #include <windows.h>

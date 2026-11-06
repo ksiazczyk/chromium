@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Windows sandbox BUILD.gn build targets
+summary: Defines GN build targets for the Windows sandbox, including the sandbox static library, the service resolver source set, and related dependencies.

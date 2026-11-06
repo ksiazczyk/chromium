@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test controller header
+// summary: Declares the test controller API, sandbox test result codes, test states, and macros for defining child-process test commands.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_COMMON_CONTROLLER_H_
 #define SANDBOX_WIN_TESTS_COMMON_CONTROLLER_H_
 

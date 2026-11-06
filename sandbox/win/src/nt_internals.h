@@ -5,6 +5,12 @@
 // This file holds definitions related to the ntdll API that are missing
 // from <winternl.h>.
 
+// ---docerion
+// type: source
+// title: ntdll API definitions missing from winternl.h
+// summary: Declares NT internal structures and function pointer types for ntdll APIs such as file, section, and process operations not found in winternl.h.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_NT_INTERNALS_H__
 #define SANDBOX_WIN_SRC_NT_INTERNALS_H__
 

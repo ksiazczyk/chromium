@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_node_info_data_wrapper.cc
+// summary: Implements the node wrapper that maps Android AccessibilityNodeInfoData properties, roles, states, actions and computed names to Chrome accessibility data.
+// ---
+
 #include "services/accessibility/android/accessibility_node_info_data_wrapper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPCArgs class declaration
+// summary: Declares the IPCArgs class that stores types and argument values for an IPC server call.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_IPC_ARGS_H_
 #define SANDBOX_WIN_SRC_IPC_ARGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker-side policy actions for process and thread access
+// summary: Implements ProcessPolicy broker actions that open threads and process tokens on behalf of the child and duplicate the resulting handles back to it.
+// ---
+
 #include "sandbox/win/src/process_thread_policy.h"
 
 #include <ntstatus.h>

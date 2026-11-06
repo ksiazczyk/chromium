@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Low-level policy unit tests
+// summary: Unit tests covering valid and invalid string patterns, IF and IF_NOT matching, and policy generation and evaluation in the low-level policy engine.
+// ---
+
 #include "sandbox/win/src/policy_low_level.h"
 
 #include <stddef.h>

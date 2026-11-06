@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy engine opcode definitions
+// summary: Defines the opcode model of the low-level sandbox policy engine, including evaluation results, opcode identifiers, and evaluation options.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_POLICY_ENGINE_OPCODES_H_
 #define SANDBOX_WIN_SRC_POLICY_ENGINE_OPCODES_H_
 

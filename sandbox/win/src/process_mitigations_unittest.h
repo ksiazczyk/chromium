@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared mitigation test command declarations
+// summary: Declares shared SBOX_TEST commands used by the process mitigation test files.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_UNITTEST_H_
 #define SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_UNITTEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top level dispatcher declaration
+// summary: Declares TopLevelDispatcher, which hands IPC requests to the appropriate service dispatchers and answers ping test messages.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_TOP_LEVEL_DISPATCHER_H_
 #define SANDBOX_WIN_SRC_TOP_LEVEL_DISPATCHER_H_
 

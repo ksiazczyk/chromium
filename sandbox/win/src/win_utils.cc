@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility helpers for the sandbox
+// summary: Implements Windows helpers such as handle path and type resolution, pipe detection, copying data into child process memory, and randomness infrastructure warmup.
+// ---
+
 #include "sandbox/win/src/win_utils.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Services unit tests build target
+summary: GN build file that collects unit and fuzz test sources from the Chromium services into the single services_unittests test target.

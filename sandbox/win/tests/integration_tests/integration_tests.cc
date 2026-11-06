@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry point for Windows sandbox integration tests
+// summary: Provides the wmain entry point that launches the unit test suite or dispatches child sandbox test commands, plus a Win API wait timeout helper.
+// ---
+
 #include <windows.h>
 
 #include "base/functional/bind.h"

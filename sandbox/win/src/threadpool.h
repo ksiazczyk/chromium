@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread pool class declaration
+// summary: Declares the ThreadPool class that provides threads for servicing sandbox IPC waits by thunking to the Windows thread pool API.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_THREADPOOL_H_
 #define SANDBOX_WIN_SRC_THREADPOOL_H_
 

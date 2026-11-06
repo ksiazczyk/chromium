@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EAT resolver header
+// summary: Declares EatResolverThunk, the resolver used to perform export address table interceptions in the sandbox interception framework.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_EAT_RESOLVER_H_
 #define SANDBOX_WIN_SRC_EAT_RESOLVER_H_
 

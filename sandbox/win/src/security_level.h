@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox integrity and token security levels
+// summary: Defines the integrity levels and token security profiles used to restrict the privileges of sandboxed Windows processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SECURITY_LEVEL_H_
 #define SANDBOX_WIN_SRC_SECURITY_LEVEL_H_
 

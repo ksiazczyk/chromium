@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted token utilities header
+// summary: Declares CreateRestrictedToken and HardenTokenIntegrityLevelPolicy for creating and hardening restricted sandbox tokens.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_RESTRICTED_TOKEN_UTILS_H_
 #define SANDBOX_WIN_SRC_RESTRICTED_TOKEN_UTILS_H_
 

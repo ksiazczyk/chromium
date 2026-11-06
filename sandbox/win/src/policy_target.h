@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy target policy lookup and interception declarations
+// summary: Declares broker policy lookup helpers and intercepted NtSetInformationThread and NtOpenThreadToken functions for sandboxed target processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_POLICY_TARGET_H_
 #define SANDBOX_WIN_SRC_POLICY_TARGET_H_
 

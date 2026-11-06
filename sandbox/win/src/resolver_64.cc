@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 64-bit x64 and ARM64 interception thunk implementation
+// summary: Builds the packed machine-code thunks for x64 and ARM64 Windows that jump from an intercepted function to its interceptor.
+// ---
+
 #include "sandbox/win/src/resolver.h"
 
 #include <windows.h>

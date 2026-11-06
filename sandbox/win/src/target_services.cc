@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target services implementation
+// summary: Implements TargetServices for the sandboxed process, covering registry handle flushing, locale warmup, handle closing and integrity level changes.
+// ---
+
 
 #include "sandbox/win/src/target_services.h"
 

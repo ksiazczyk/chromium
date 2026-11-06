@@ -6,6 +6,12 @@
 // a stack before crashing so audit runs can identify the caller even when
 // call-site logging is disabled.
 
+// ---docerion
+// type: test
+// title: Not-reached thunk sink for forbidden APIs
+// summary: Provides the ApifwNotReached sink that logs a call stack and crashes when an API that must never run in the basic process is invoked.
+// ---
+
 #include "sandbox/win/tests/basic_process/shim/shim_runtime.h"
 
 extern "C" {

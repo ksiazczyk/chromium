@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32K lockdown interception stubs
+// summary: Provides stub interceptor implementations for GdiDllInitialize, GetStockObject and RegisterClassW used under Win32K lockdown.
+// ---
+
 #include "sandbox/win/src/process_mitigations_win32k_interception.h"
 
 #include <windows.h>

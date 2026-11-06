@@ -6,6 +6,12 @@
 // The tests require private information so the whole interception.cc file is
 // included from this file.
 
+// ---docerion
+// type: test
+// title: Interception manager unit tests
+// summary: Unit tests that walk and validate the interception settings buffer layout and the granular aligned random offset behavior.
+// ---
+
 #include "sandbox/win/src/interception.h"
 
 #include <windows.h>

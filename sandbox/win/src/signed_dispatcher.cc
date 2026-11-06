@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed dispatcher implementation
+// summary: Implements the SignedDispatcher class, which sets up IPC interception of NtCreateSection for signed-binary policy handling in the Windows sandbox.
+// ---
+
 #include "sandbox/win/src/signed_dispatcher.h"
 
 #include "sandbox/win/src/interception.h"

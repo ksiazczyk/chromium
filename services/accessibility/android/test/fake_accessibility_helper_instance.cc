@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake accessibility helper instance implementation
+// summary: Implements a fake AccessibilityHelperInstance Mojo service that records requested actions and returns canned responses for tests.
+// ---
+
 #include "services/accessibility/android/test/fake_accessibility_helper_instance.h"
 
 #include <utility>

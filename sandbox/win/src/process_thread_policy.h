@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessPolicy class for process and thread policy
+// summary: Declares the ProcessPolicy class with broker-side actions for opening threads, opening process tokens and handling CreateThread requests from sandboxed targets.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_THREAD_POLICY_H_
 #define SANDBOX_WIN_SRC_PROCESS_THREAD_POLICY_H_
 

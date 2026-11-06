@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimal no-CRT runtime for the shim DLL
+// summary: Implements memset, memcpy, and string or path helpers so the apifw shim DLL builds without the C runtime.
+// ---
+
 #include "sandbox/win/tests/basic_process/nocrt.h"
 
 // Enough CRT APIs to get the basic process stub API DLL off the ground, as the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test utilities implementation
+// summary: Implements helpers for setting and deleting NTFS reparse points and for checking whether a SID with a given access mask appears in a DACL.
+// ---
+
 #include "sandbox/win/tests/common/test_utils.h"
 
 #include <windows.h>

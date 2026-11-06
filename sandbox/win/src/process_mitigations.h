@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process mitigations interface
+// summary: Declares functions for setting, ratcheting down, and converting Windows process mitigation flags within the sandbox.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_H_
 #define SANDBOX_WIN_SRC_PROCESS_MITIGATIONS_H_
 

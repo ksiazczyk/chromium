@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed policy class header
+// summary: Declares the SignedPolicy class that centralizes signed policy knowledge and generates rules for section creation shared with the new process.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SIGNED_POLICY_H_
 #define SANDBOX_WIN_SRC_SIGNED_POLICY_H_
 

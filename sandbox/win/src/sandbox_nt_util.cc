@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NT utility functions for sandbox target
+// summary: Implements NT-level utilities for the sandboxed target, including memory allocation near a base address for DLL hooking.
+// ---
+
 #include "sandbox/win/src/sandbox_nt_util.h"
 
 #include <winternl.h>

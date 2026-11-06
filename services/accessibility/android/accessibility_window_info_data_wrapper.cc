@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_window_info_data_wrapper.cc
+// summary: Implements the window wrapper that maps Android window info data to Chrome accessibility roles such as window, application, keyboard and splitter.
+// ---
+
 #include "services/accessibility/android/accessibility_window_info_data_wrapper.h"
 
 #include "ash/strings/grit/ash_strings.h"

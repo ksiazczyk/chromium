@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pane title handler unit tests
+// summary: Unit tests for PaneTitleHandler verifying pane title event handling, virtual node creation, and live region serialization.
+// ---
+
 #include "services/accessibility/android/pane_title_handler.h"
 
 #include <map>

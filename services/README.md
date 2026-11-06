@@ -1,3 +1,9 @@
+---
+type: readme
+title: Service Development Guidelines
+summary: Guidelines for Chrome Foundation Services covering API design, naming, directory structure, documentation, testing, and adding new services.
+---
+
 # Service Development Guidelines
 
 [TOC]

@@ -4,6 +4,11 @@ description: >-
   Create focused Chromium Basic Process Windows API deep-dive reports from
   existing audit data or a fresh test run, with symbolized call stacks, fuzzy
   owner attribution, and prioritized remediation.
+type: guide
+title: Basic Process deep-dive reports skill
+summary: Skill instructions for creating Chromium Basic Process Windows API deep-dive reports from existing audit data or fresh captures, covering provenance, call-stack evidence, and required output formats.
+relations:
+  - references /sandbox/win/tests/basic_process/README.md
 ---
 
 # Basic Process deep-dive reports

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target interceptions declarations
+// summary: Declares the NtMapViewOfSection and NtUnmapViewOfSection interceptors used to detect DLL loading and unloading in sandboxed child processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_TARGET_INTERCEPTIONS_H_
 #define SANDBOX_WIN_SRC_TARGET_INTERCEPTIONS_H_
 

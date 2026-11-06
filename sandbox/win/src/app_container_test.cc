@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppContainer tests
+// summary: Tests App Container profile creation, token capabilities, LPAC behavior, and access checks in the sandbox.
+// ---
+
 #include <windows.h>
 
 #include <memory>

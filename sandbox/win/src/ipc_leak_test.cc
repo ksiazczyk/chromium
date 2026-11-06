@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC handle leak tests
+// summary: Exercises sandbox IPC calls such as file opens and thread creation to check for handle leaks in the target process.
+// ---
+
 #include <windows.h>
 #include <winternl.h>
 

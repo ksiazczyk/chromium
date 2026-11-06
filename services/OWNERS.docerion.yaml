@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and review rules for services
+summary: Lists owners for high-level services changes, trivial code-health reviews, and per-file translation owners for .xtb artifacts.

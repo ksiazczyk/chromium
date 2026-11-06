@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto-complete handler unit tests
+// summary: Unit tests covering creation and event handling of AutoCompleteHandler hooks using a test tree source with editable and window nodes.
+// ---
+
 #include "services/accessibility/android/auto_complete_handler.h"
 
 #include <algorithm>

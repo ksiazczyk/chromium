@@ -6,6 +6,12 @@
 // are logged so audits capture dynamic and delay-loaded APIs. FreeLibrary
 // protects redirected module handles.
 
+// ---docerion
+// type: test
+// title: Loader and module-resolution thunks
+// summary: Implements logging thunks for LoadLibrary and module-resolution APIs, redirecting known system DLL loads to apifw.dll.
+// ---
+
 #include "sandbox/win/tests/basic_process/nocrt.h"
 #include "sandbox/win/tests/basic_process/shim/shim_runtime.h"
 

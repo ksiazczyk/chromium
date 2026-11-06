@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for zeroing the app shim data pointer in the child PEB
+// summary: Integration test verifying that zeroing the pShimData member of the child process PEB still allows execution outside WoW and ARM64 emulated modes.
+// ---
+
 #include <windows.h>
 #include <winternl.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definition for the ChromeOS Android accessibility service, declaring the android_lib source set, test support library and unit test targets.

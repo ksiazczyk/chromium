@@ -5,6 +5,12 @@
 // For information about interceptions as a whole see
 // http://dev.chromium.org/developers/design-documents/sandbox .
 
+// ---docerion
+// type: source
+// title: Interception agent implementation
+// summary: Implements the target-side agent that patches DLL functions or forces module unloading when DLLs load in the sandboxed process.
+// ---
+
 #include "sandbox/win/src/interception_agent.h"
 
 #include <windows.h>

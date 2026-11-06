@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows sandbox utility helpers
+// summary: Tests pipe detection, NTSTATUS to Win32 error conversion, handle path and type resolution, and environment filtering helpers.
+// ---
+
 #include "sandbox/win/src/win_utils.h"
 
 #include <windows.h>

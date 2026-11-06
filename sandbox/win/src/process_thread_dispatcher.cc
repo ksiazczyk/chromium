@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process and thread IPC dispatcher implementation
+// summary: Implements the dispatcher handling IPC for NtOpenThread, NtOpenProcessTokenEx and CreateThread calls from sandboxed targets.
+// ---
+
 #include "sandbox/win/src/process_thread_dispatcher.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy diagnostics header
+// summary: Declares the PolicyDiagnostic class, which copies policy state such as mitigation flags, AppContainer SIDs, and IPC tags for JSON reporting.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_POLICY_DIAGNOSTIC_H_
 #define SANDBOX_WIN_SRC_SANDBOX_POLICY_DIAGNOSTIC_H_
 

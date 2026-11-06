@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressSanitizer sandbox integration test
+// summary: Verifies that the sandbox produces symbolized AddressSanitizer heap-buffer-overflow reports when ASan is enabled.
+// ---
+
 #include <windows.h>
 
 #include <memory>

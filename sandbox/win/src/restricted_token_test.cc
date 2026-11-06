@@ -4,6 +4,12 @@
 
 // Integration tests for restricted tokens.
 
+// ---docerion
+// type: test
+// title: Restricted token integration tests
+// summary: Integration tests verifying restricted token behavior in the Windows sandbox, such as opening processes and checking token restriction.
+// ---
+
 #include <stddef.h>
 
 #include <optional>

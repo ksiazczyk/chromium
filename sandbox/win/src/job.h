@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job class interface for Windows job objects
+// summary: Declares the Job class for creating Windows job objects from a security profile, with UI exceptions, handle access, and process limit updates.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_JOB_H_
 #define SANDBOX_WIN_SRC_JOB_H_
 

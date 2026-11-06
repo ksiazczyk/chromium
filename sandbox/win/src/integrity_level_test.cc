@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity level tests
+// summary: Verifies that sandboxed processes run at the configured low or untrusted integrity levels, including delayed integrity changes.
+// ---
+
 #include <windows.h>
 
 #include <optional>

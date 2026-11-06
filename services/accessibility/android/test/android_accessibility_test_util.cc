@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android accessibility test utility implementation
+// summary: Implements helpers that add standard and custom accessibility actions to Android accessibility node data for use in tests.
+// ---
+
 #include "services/accessibility/android/test/android_accessibility_test_util.h"
 
 #include <optional>

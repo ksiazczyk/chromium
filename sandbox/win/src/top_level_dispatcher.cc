@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top level dispatcher implementation
+// summary: Implements the top-level IPC dispatcher that routes sandbox IPC calls to filesystem, thread/process, Win32k and signed section dispatchers.
+// ---
+
 #include "sandbox/win/src/top_level_dispatcher.h"
 
 #include <stdint.h>

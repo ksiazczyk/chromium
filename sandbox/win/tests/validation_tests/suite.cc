@@ -6,6 +6,12 @@
 // It includes the tests that need to be performed inside the
 // sandbox.
 
+// ---docerion
+// type: test
+// title: Sandbox validation test suite
+// summary: Runs gtest validation tests that check the sandbox denies access to protected files, process permissions and other system resources from inside the sandbox.
+// ---
+
 #include <stddef.h>
 
 #include "base/win/shlwapi.h"

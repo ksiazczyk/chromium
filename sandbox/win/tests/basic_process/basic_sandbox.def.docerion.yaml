@@ -1,0 +1,4 @@
+# Docerion header of basic_sandbox.def.
+type: config
+title: Basic Process API allowlist
+summary: Lists the Windows APIs reachable in the basic process and serves as the source of truth for the allowlist coverage audit.

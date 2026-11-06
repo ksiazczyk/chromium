@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drawer layout handler header
+// summary: Declares DrawerLayoutHandler, an AXTreeSourceAndroid hook that handles Android drawer layout accessibility events and serializes drawer nodes.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_DRAWER_LAYOUT_HANDLER_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_DRAWER_LAYOUT_HANDLER_H_
 

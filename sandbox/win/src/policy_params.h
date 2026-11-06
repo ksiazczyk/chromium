@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy parameter macros
+// summary: Defines the POLPARAMS macros and the parameter sets used by file access and name-based sandbox policies.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_POLICY_PARAMS_H_
 #define SANDBOX_WIN_SRC_POLICY_PARAMS_H_
 

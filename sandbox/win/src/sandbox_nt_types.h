@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NT exports type definitions
+// summary: Defines the NtExports structure of ntdll function pointers and the allocator type enum used by the sandbox.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_NT_TYPES_H_
 #define SANDBOX_WIN_SRC_SANDBOX_NT_TYPES_H_
 

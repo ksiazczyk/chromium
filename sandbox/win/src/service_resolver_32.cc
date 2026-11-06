@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 32-bit service resolver implementation
+// summary: Implements the service resolver for 32-bit Windows and Wow64, recognizing and patching 32-bit service entry code patterns.
+// ---
+
 #include "sandbox/win/src/service_resolver.h"
 
 #include <windows.h>
