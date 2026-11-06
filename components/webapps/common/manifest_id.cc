@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValidManifestId implementation
+// summary: Implements ValidManifestId creation from strings or GURLs, validity checks, comparison operators, and stream output for web app manifest IDs.
+// ---
+
 #include "components/webapps/common/manifest_id.h"
 
 #include <compare>

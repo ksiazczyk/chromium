@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableTask class declaration
+// summary: Declares the InstallableTask class that coordinates the data fetcher and evaluator according to InstallableParams and tracks the evaluation state.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_TASK_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle response reading test helpers
+// summary: Implements helpers that read and fulfill signed web bundle response bodies via Mojo data pipes in tests.
+// ---
+
 #include "components/webapps/isolated_web_apps/test_support/signed_web_bundle_utils.h"
 
 #include "base/containers/span.h"

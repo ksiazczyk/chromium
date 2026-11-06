@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style configuration
+summary: Configuration for the mdformat Markdown formatter style applied to the docs in this folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallablePageData implementation
+// summary: Implements storage and reset of fetched manifest, page metadata, primary icon, and screenshot data for installability checks.
+// ---
+
 #include "components/webapps/browser/installable/installable_page_data.h"
 namespace webapps {
 

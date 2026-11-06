@@ -1,3 +1,11 @@
+---
+type: guide
+title: Testing Web Apps on Android
+summary: How-to guide for testing WebAPKs and TWAs manually on an emulator and with Chromium's automated test suites.
+relations:
+  - references /docs/android_emulator.md
+---
+
 # Testing Web Apps on Android
 
 This document describes how to test Android Web Apps (WebAPKs and TWAs) manually

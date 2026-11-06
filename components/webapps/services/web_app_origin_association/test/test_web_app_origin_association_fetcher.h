@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web app origin association fetcher header
+// summary: Declares a test double of WebAppOriginAssociationFetcher that serves stored per-origin association data instead of fetching over the network.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_SERVICES_WEB_APP_ORIGIN_ASSOCIATION_TEST_TEST_WEB_APP_ORIGIN_ASSOCIATION_FETCHER_H_
 #define COMPONENTS_WEBAPPS_SERVICES_WEB_APP_ORIGIN_ASSOCIATION_TEST_TEST_WEB_APP_ORIGIN_ASSOCIATION_FETCHER_H_
 

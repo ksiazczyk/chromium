@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App reader registry implementation
+// summary: Implements IsolatedWebAppReaderRegistry, which caches signed web bundle readers per file path and periodically cleans up readers unused for ten minutes.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/response_reader_registry.h"
 
 #include <algorithm>

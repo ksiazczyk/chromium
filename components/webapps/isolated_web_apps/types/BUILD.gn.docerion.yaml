@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for IWA core domain types
+summary: Defines the GN source_set targets for the IWA types library and its unit tests, listing sources and dependencies.

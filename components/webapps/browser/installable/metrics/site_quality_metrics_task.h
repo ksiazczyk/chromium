@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteQualityMetricsTask class and SiteQualityMetrics struct declaration
+// summary: Declares the SiteQualityMetricsTask class and SiteQualityMetrics struct that gather site quality data such as service worker and cache storage sizes for Site.Quality UKM events.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_METRICS_SITE_QUALITY_METRICS_TASK_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_METRICS_SITE_QUALITY_METRICS_TASK_H_
 

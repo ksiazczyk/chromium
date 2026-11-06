@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPageMetadataAgent Mojo implementation
+// summary: Implements the renderer-side Mojo agent that extracts web page metadata, warns about the deprecated apple-mobile-web-app-capable tag, prunes data-URL icons and truncates strings before returning results.
+// ---
+
 #include "components/webapps/renderer/web_page_metadata_agent.h"
 
 #include <stddef.h>

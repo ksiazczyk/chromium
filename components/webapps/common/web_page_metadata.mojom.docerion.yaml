@@ -1,0 +1,4 @@
+# Docerion header of web_page_metadata.mojom.
+type: source
+title: Web page metadata Mojom definitions
+summary: Defines Mojo structs and enums describing web page metadata such as application name, description, icons, and mobile-web-app-capable status.

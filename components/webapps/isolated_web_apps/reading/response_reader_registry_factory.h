@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App reader registry factory header
+// summary: Declares the singleton factory that owns IsolatedWebAppReaderRegistry instances and associates them with each browser context for per-profile integrity checks.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_READING_RESPONSE_READER_REGISTRY_FACTORY_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_READING_RESPONSE_READER_REGISTRY_FACTORY_H_
 

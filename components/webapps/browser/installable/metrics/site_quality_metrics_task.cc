@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteQualityMetricsTask implementation
+// summary: Implements the task that collects quota usage, service worker presence and fetch handler status for a site to produce Site.Quality UKM metrics.
+// ---
+
 #include "components/webapps/browser/installable/metrics/site_quality_metrics_task.h"
 
 #include <memory>

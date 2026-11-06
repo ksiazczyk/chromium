@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableManager implementation
+// summary: Implements the per-WebContents manager that queues installability tasks and returns installable data, all errors, and the primary icon.
+// ---
+
 #include "components/webapps/browser/installable/installable_manager.h"
 
 #include <algorithm>

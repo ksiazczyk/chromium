@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA URL loading variant types
+// summary: Defines a generated response struct and a variant type that holds either an IWA source with mode or a generated response for URL loading.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_URL_LOADING_TYPES_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_URL_LOADING_TYPES_H_
 

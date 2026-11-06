@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable data fetcher implementation
+// summary: Implements fetching of the web app manifest, page metadata, primary icon, and screenshots from the browser, storing results in InstallablePageData.
+// ---
+
 #include "components/webapps/browser/installable/installable_data_fetcher.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA runtime data provider implementation
+// summary: Implements IwaRuntimeDataProvider data structures, debug value serialization, and global instance management for runtime key distribution data.
+// ---
+
 #include "components/webapps/isolated_web_apps/key_distribution/iwa_runtime_data_provider.h"
 
 #include "base/auto_reset.h"

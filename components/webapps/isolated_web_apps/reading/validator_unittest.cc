@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IsolatedWebAppValidator
+// summary: Unit tests verifying integrity block and metadata validation, covering mismatched bundle IDs, invalid URLs, and unusable SWBN file errors using test signing keys and browser context fixtures.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/validator.h"
 
 #include <memory>

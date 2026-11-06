@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App URL loader factory implementation
+// summary: Implements the self-deleting URL loader factory that intercepts isolated-app scheme requests, injects required security headers, and dispatches them to loaders, proxy handling, or generated responses.
+// ---
+
 #include "components/webapps/isolated_web_apps/url_loading/url_loader_factory.h"
 
 #include <memory>

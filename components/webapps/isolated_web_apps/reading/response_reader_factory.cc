@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppResponseReaderFactory implementation
+// summary: Implements the factory that creates response readers after waiting for best-effort runtime data and validating the bundle's integrity block and metadata.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/response_reader_factory.h"
 
 #include <memory>

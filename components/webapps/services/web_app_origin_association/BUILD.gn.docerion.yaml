@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for web app origin association
+summary: Defines the source sets and dependencies for the web app origin association library and its unit tests in the GN build.

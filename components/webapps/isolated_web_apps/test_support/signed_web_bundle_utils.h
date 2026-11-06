@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle response reading helper declarations
+// summary: Declares ReadResponseBody and ReadAndFulfillResponseBody helpers for reading bundle response bodies in tests.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_SIGNED_WEB_BUNDLE_UTILS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_SIGNED_WEB_BUNDLE_UTILS_H_
 

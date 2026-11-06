@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle reader implementation
+// summary: Implements SignedWebBundleReader, which opens signed web bundle files, reads the integrity block and metadata, and serves responses via the web bundle parser.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/signed_web_bundle_reader.h"
 
 #include <cstddef>

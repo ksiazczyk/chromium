@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable icon fetcher implementation
+// summary: Implements selection and download of primary icons and screenshots, choosing ideal and minimum sizes per platform and falling back to favicons when needed.
+// ---
+
 #include "components/webapps/browser/installable/installable_icon_fetcher.h"
 
 #include <algorithm>

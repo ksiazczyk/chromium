@@ -1,3 +1,9 @@
+---
+type: decision
+title: 'Design: Centralized TWA Launch Parameters Matching in C++'
+summary: Design document proposing a centralized C++ state machine that correlates TWA launch parameters with navigations via launch tokens, covering goals, edge cases, and alternatives considered.
+---
+
 # Design: Centralized TWA Launch Parameters Matching in C++
 
 - **Last Modified**: 2026-07-14

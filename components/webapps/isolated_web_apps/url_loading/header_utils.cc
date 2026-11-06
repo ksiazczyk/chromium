@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App header utilities implementation
+// summary: Implements default and dev-mode Content Security Policy construction and applies required COOP, COEP, CORP, and CSP headers to responses.
+// ---
+
 #include "components/webapps/isolated_web_apps/url_loading/header_utils.h"
 
 #include <optional>

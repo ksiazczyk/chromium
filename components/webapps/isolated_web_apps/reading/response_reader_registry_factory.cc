@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App reader registry factory implementation
+// summary: Implements the browser-context service factory that builds an IsolatedWebAppReaderRegistry with a response reader factory when isolated web apps are enabled.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/response_reader_registry_factory.h"
 
 #include <memory>

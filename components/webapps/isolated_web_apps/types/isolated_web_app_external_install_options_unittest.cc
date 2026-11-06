@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IsolatedWebAppExternalInstallOptions
+// summary: Unit tests verifying parsing of IsolatedWebAppInstallForceList policy entries, covering valid entries, development and wrong bundle IDs, custom channels, and pinned versions.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/isolated_web_app_external_install_options.h"
 
 #include <optional>

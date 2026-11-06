@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app ID type aliases
+// summary: Defines the AppId string type with its double-SHA256 hashing algorithm and aliases ManifestId to ValidManifestId.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_COMMON_WEB_APP_ID_H_
 #define COMPONENTS_WEBAPPS_COMMON_WEB_APP_ID_H_
 

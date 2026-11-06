@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for IWA types directory
+summary: Grants include access to crx_file/id_util.h and crypto/hash.h for files in the IWA types directory.

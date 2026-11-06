@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UMA expected-status logging
+// summary: Verifies UmaLogExpectedStatus histogram output for enum and custom error types using HistogramTester.
+// ---
+
 #include "components/webapps/isolated_web_apps/error/uma_logging.h"
 
 #include <string>

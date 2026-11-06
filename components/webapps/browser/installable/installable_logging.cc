@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installability error message logging
+// summary: Implements user-readable error messages and DevTools console logging for installability status codes.
+// ---
+
 #include "components/webapps/browser/installable/installable_logging.h"
 
 #include <vector>

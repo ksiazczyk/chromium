@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App response reader factory unit tests
+// summary: Unit tests for IsolatedWebAppResponseReaderFactory covering reader creation, signature verification, and error handling using mock web bundle parsers.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/response_reader_factory.h"
 
 #include <memory>

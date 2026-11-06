@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the IWA identity validator
+// summary: Implements IwaIdentityValidator, checking bundle public keys against rotated and previous keys from IwaRuntimeDataProvider and recording the check result in a histogram.
+// ---
+
 #include "components/webapps/isolated_web_apps/identity/iwa_identity_validator.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app origin association parser implementation
+// summary: Parses web app origin association JSON into associated web app identities, scopes, and migration flags, reporting warnings for invalid entries.
+// ---
+
 #include "components/webapps/services/web_app_origin_association/web_app_origin_association_parser.h"
 
 #include <optional>

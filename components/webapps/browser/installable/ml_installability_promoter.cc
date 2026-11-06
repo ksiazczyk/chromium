@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML installability promoter implementation
+// summary: Implements MLInstallabilityPromoter, which gathers page-load metrics, requests ML classification for install promotion, and coordinates install result reporting and guardrails.
+// ---
+
 #include "components/webapps/browser/installable/ml_installability_promoter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MlInstallOperationTracker implementation
+// summary: Implements tracking of ML-promoted install operations, attaching a result reporter and forwarding user responses to it.
+// ---
+
 #include "components/webapps/browser/installable/ml_install_operation_tracker.h"
 
 #include "base/memory/weak_ptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the IWA service source set
+summary: GN build file defining the service source_set with its sources, visibility, and dependencies on keyed service and content browser components.

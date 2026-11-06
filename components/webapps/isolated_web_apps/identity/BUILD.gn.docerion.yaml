@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the IWA identity source set
+summary: Defines the identity source_set with its sources, visibility, and dependencies on the IWA client, key distribution, base, and web_package targets.

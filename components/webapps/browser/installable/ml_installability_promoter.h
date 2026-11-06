@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML installability promoter header
+// summary: Declares MLInstallabilityPromoter, which measures metrics after page load and triggers an ML model to promote site installability through tracked install operations.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_ML_INSTALLABILITY_PROMOTER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_ML_INSTALLABILITY_PROMOTER_H_
 

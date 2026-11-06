@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppDownloader class declarations
+// summary: Declares ScopedTempWebBundleFile and the IsolatedWebAppDownloader API for full and partial bundle downloads.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_DOWNLOAD_BUNDLE_DOWNLOADER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_DOWNLOAD_BUNDLE_DOWNLOADER_H_
 

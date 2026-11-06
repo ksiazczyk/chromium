@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake installable manager header
+// summary: Declares FakeInstallableManager, a test double attached to a WebContents that returns preset manifest and installable data from GetData calls.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_FAKE_INSTALLABLE_MANAGER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_FAKE_INSTALLABLE_MANAGER_H_
 

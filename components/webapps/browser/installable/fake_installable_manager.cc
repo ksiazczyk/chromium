@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake installable manager implementation
+// summary: Implements a test double InstallableManager that responds to GetData with canned installable data, optionally built from a provided manifest, for use in tests.
+// ---
+
 #include "components/webapps/browser/installable/fake_installable_manager.h"
 
 #include <utility>

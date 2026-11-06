@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration waiter implementation
+// summary: Implements the ServiceWorkerRegistrationWaiter test helper, which blocks on run loops until a service worker registration completes or is stored for a given URL.
+// ---
+
 #include "components/webapps/browser/test/service_worker_registration_waiter.h"
 
 #include "content/public/browser/browser_context.h"

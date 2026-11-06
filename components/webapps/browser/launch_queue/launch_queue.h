@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchQueue class header
+// summary: Declares the LaunchQueue class that queues and delivers launch parameters to a WebContents, covering navigating launches, non-navigating launches and page reloads.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_LAUNCH_QUEUE_LAUNCH_QUEUE_H_
 #define COMPONENTS_WEBAPPS_BROWSER_LAUNCH_QUEUE_LAUNCH_QUEUE_H_
 

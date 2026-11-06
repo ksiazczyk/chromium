@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for unit tests
+summary: Grants unit test files in the directory permission to include content public test and feature headers.

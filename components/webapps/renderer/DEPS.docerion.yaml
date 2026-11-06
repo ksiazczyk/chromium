@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webapps renderer
+summary: Lists the directories whose headers the webapps renderer component may include, such as content, Blink, Mojo and service manager.

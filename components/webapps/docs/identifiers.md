@@ -1,3 +1,12 @@
+---
+type: reference
+title: Identifiers in Web Apps
+summary: Clarifies the identifiers used for web apps in Chromium and on Android, such as manifest ID, App ID, package name, and UID.
+relations:
+  - references /components/webapps/common/manifest_id.h
+  - references /components/webapps/common/web_app_id.h
+---
+
 # Identifiers in Web Apps
 
 This document clarifies the differences between various identifiers used in the

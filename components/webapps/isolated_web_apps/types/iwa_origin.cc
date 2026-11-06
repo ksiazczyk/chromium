@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA origin implementation
+// summary: Implements the IwaOrigin class, validating isolated app URLs against Signed Web Bundle IDs and deriving storage partition domains through repeated hashing.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/iwa_origin.h"
 
 #include <utility>

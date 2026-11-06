@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IWA entitlements unit tests
+// summary: Unit tests verifying the feature-to-entitlement mapping and which permissions policy features are guarded by the isolated context.
+// ---
+
 #include "components/webapps/isolated_web_apps/key_distribution/iwa_entitlements.h"
 
 #include <string>

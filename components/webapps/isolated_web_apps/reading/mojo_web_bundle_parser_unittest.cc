@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MojoWebBundleParser
+// summary: Tests parsing of integrity blocks, metadata, and responses using mock parser factories and test bundle files.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/mojo_web_bundle_parser.h"
 
 #include <algorithm>

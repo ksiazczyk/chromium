@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA URL loading helper utilities declarations
+// summary: Declares helpers for generated responses, error logging and failure, and handling of developer-mode proxy requests for isolated web apps.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_UTILS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_URL_LOADING_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IWA test support build file
+summary: Defines the testonly test_support source set with its sources and dependencies for isolated web app component tests.

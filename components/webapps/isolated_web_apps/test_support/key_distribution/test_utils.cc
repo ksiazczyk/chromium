@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key distribution test utilities implementation
+// summary: Implements test helpers that build and upload a simulated IWA key distribution component, including KeyDistributionComponentBuilder methods for key rotations, allowlists and blocklists.
+// ---
+
 #include "components/webapps/isolated_web_apps/test_support/key_distribution/test_utils.h"
 
 #include <optional>

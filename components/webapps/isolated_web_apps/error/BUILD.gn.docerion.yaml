@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for IWA error types
+summary: Defines the error source_set and unit_tests targets, listing their sources and dependencies for the isolated web apps error directory.

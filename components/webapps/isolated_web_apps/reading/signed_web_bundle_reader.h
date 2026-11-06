@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle reader header
+// summary: Declares SignedWebBundleReader, which reads a signed web bundle's integrity block, verifies signatures, and serves responses and metadata to callers.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_READING_SIGNED_WEB_BUNDLE_READER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_READING_SIGNED_WEB_BUNDLE_READER_H_
 

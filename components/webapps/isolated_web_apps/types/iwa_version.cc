@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaVersion implementation
+// summary: Implements parsing and validation of Isolated Web App version strings and component lists into base::Version, with typed parse errors and error messages.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/iwa_version.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of web_page_metadata_agent.mojom.
+type: source
+title: WebPageMetadataAgent Mojom Interface
+summary: Defines the WebPageMetadataAgent Mojom interface used by the webapps component to request web page metadata from the render frame.

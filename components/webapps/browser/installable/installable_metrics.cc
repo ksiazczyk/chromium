@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install and uninstall metrics implementation
+// summary: Implements stream output and UMA histogram reporting for webapp install and uninstall sources.
+// ---
+
 #include "components/webapps/browser/installable/installable_metrics.h"
 
 #include <atomic>

@@ -1,3 +1,12 @@
+---
+type: readme
+title: IWA Bundle Operations
+summary: Describes the directory's high-level Signed Web Bundle operations, covering insecure bundle ID reading, signature and integrity validation, and closing cached bundle readers.
+relations:
+  - documents /components/webapps/isolated_web_apps/bundle_operations/bundle_operations.cc
+  - documents /components/webapps/isolated_web_apps/bundle_operations/bundle_operations.h
+---
+
 # IWA Bundle Operations (`components/webapps/isolated_web_apps/bundle_operations`)
 
 This directory provides high-level operations on Signed Web Bundle (`.swbn`)

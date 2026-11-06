@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for web app origin association test support
+summary: GN build file defining the test_support source set with the test origin association fetcher and its dependencies.

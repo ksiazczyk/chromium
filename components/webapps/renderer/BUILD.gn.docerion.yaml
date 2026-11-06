@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the webapps renderer library
+summary: GN build file that defines the webapps renderer static library, listing its sources and dependencies on content, Blink and the webapps Mojo bindings.

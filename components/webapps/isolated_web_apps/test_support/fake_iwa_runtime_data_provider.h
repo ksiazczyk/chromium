@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IWA runtime data provider declarations
+// summary: Declares FakeIwaRuntimeDataProvider and its ScopedIwaRuntimeDataUpdate helper for mutating runtime data in unit tests.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_FAKE_IWA_RUNTIME_DATA_PROVIDER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_FAKE_IWA_RUNTIME_DATA_PROVIDER_H_
 

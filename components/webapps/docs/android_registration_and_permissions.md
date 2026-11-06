@@ -1,3 +1,11 @@
+---
+type: reference
+title: 'WebApps on Android: Registration and Permission Delegation'
+summary: Describes how Chromium on Android registers installed web apps and delegates permissions between the Android OS and the browser.
+relations:
+  - references /components/webapps/docs/android_architecture.md
+---
+
 # [WebApps on Android](android_architecture.md) - Registration and Permission Delegation
 
 This document describes how Chromium on Android registers installed web

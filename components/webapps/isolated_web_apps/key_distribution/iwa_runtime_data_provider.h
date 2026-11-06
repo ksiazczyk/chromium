@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IwaRuntimeDataProvider abstract interface for IWA runtime data
+// summary: Declares the IwaRuntimeDataProvider abstract interface through which the components layer obtains Isolated Web App runtime data such as key rotation info, managed install permissions, and special app permissions from the embedder.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_KEY_DISTRIBUTION_IWA_RUNTIME_DATA_PROVIDER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_KEY_DISTRIBUTION_IWA_RUNTIME_DATA_PROVIDER_H_
 

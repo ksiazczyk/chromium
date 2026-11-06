@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for web app origin association
+summary: Lists the allowed include paths for the web app origin association directory in Chromium's dependency checking.

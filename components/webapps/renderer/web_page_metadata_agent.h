@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPageMetadataAgent class declaration
+// summary: Declares the WebPageMetadataAgent class, a RenderFrameObserver that binds the WebPageMetadataAgent Mojo interface for a render frame and handles metadata requests.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_RENDERER_WEB_PAGE_METADATA_AGENT_H_
 #define COMPONENTS_WEBAPPS_RENDERER_WEB_PAGE_METADATA_AGENT_H_
 

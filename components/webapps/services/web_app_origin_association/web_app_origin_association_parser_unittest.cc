@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the web app origin association parser
+// summary: Tests parsing of association data, including empty input, invalid value types and scopes, allow migration, and multiple error reporting.
+// ---
+
 #include "components/webapps/services/web_app_origin_association/web_app_origin_association_parser.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

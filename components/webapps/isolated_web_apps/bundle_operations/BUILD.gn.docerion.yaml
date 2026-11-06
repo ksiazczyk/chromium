@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for IWA bundle operations
+summary: Defines the bundle_operations source set with its sources, visibility, and dependencies for the GN build of the isolated web apps component.

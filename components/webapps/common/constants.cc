@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webapps common constants implementation
+// summary: Implements shared webapps constants covering meta tag length limits, screenshot dimensions and counts, and the migrated preinstalled apps pref key.
+// ---
+
 #include "components/webapps/common/constants.h"
 
 namespace webapps {

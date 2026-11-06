@@ -1,3 +1,11 @@
+---
+type: decision
+title: 'Design: Refactor TWA Registration to use Package Name keys'
+summary: Design document for switching InstalledWebappDataRegister storage keys from Android UID to package name, covering the problem, migration steps, alternatives, and the chosen solution for TWA site settings.
+relations:
+  - references /components/webapps/docs/identifiers.md
+---
+
 # Design: Refactor TWA Registration to use Package Name keys
 
 -   Last Modified: 2026-06-02

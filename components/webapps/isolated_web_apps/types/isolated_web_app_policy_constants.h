@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App policy key constants header
+// summary: Declares the exported policy key string constants for the IsolatedWebAppInstallForceList preference.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_ISOLATED_WEB_APP_POLICY_CONSTANTS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_ISOLATED_WEB_APP_POLICY_CONSTANTS_H_
 

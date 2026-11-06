@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app origin association UMA metrics implementation
+// summary: Records UMA histograms for web app origin association fetch and parse results.
+// ---
+
 #include "components/webapps/services/web_app_origin_association/web_app_origin_association_uma_util.h"
 
 #include "base/metrics/histogram_functions.h"

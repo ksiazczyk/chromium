@@ -1,0 +1,4 @@
+# Docerion header of PLATFORM_OWNERS.
+type: config
+title: Platform Owners of the Isolated Web Apps Component
+summary: Lists the current platform owners of the component and an emeritus owner used as a last-resort review suggestion.

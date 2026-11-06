@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoWebBundleParser class declaration
+// summary: Declares the MojoWebBundleParser class and the DataSourceCreatingStrategy interface for parsing web bundles via a Mojo parser factory.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_READING_MOJO_WEB_BUNDLE_PARSER_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_READING_MOJO_WEB_BUNDLE_PARSER_H_
 

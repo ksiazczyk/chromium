@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed web bundle reader unit tests
+// summary: Unit tests for SignedWebBundleReader covering integrity block reading, signature verification, and response reading with real and mocked signed bundles.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/signed_web_bundle_reader.h"
 
 #include <cstdint>

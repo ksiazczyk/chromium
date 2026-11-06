@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IWA runtime data provider implementation
+// summary: Implements the fake IwaRuntimeDataProvider with scoped updates for allowlists, blocklists, key rotations, and special permissions in tests.
+// ---
+
 #include "components/webapps/isolated_web_apps/test_support/fake_iwa_runtime_data_provider.h"
 
 #include <algorithm>

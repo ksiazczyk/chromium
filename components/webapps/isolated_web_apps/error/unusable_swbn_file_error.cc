@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: UnusableSwbnFileError implementation
+// summary: Converts bundle parse and signature verification errors into UnusableSwbnFileError values and renders human-readable messages.
+// ---
+
 #include "components/webapps/isolated_web_apps/error/unusable_swbn_file_error.h"
 
 #include "base/metrics/histogram_functions.h"

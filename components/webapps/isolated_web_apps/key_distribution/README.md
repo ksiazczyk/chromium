@@ -1,3 +1,13 @@
+---
+type: readme
+title: IWA Key Distribution Provider README
+summary: "Describes the directory's key components: runtime key rotation data, managed and user-install allowlists with entitlements, blocklists, histograms, and protobuf definitions."
+relations:
+  - documents /components/webapps/isolated_web_apps/key_distribution/iwa_key_distribution_histograms.h
+  - documents /components/webapps/isolated_web_apps/key_distribution/proto/key_distribution.proto
+  - documents /components/webapps/isolated_web_apps/key_distribution/iwa_entitlements.cc
+---
+
 # IWA Key Distribution Provider (`components/webapps/isolated_web_apps/key_distribution`)
 
 This directory implements the runtime provider for Isolated Web App key

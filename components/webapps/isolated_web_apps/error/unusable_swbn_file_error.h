@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnusableSwbnFileError class and error enum
+// summary: Declares the structured error type categorizing integrity block, signature, and metadata failures for .swbn files.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_ERROR_UNUSABLE_SWBN_FILE_ERROR_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_ERROR_UNUSABLE_SWBN_FILE_ERROR_H_
 

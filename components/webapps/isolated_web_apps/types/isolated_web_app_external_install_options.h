@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App external install options header
+// summary: Declares the IsolatedWebAppExternalInstallOptions class and ParseIwaInstallForceList helper for installing Isolated Web Apps via enterprise policy.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_ISOLATED_WEB_APP_EXTERNAL_INSTALL_OPTIONS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TYPES_ISOLATED_WEB_APP_EXTERNAL_INSTALL_OPTIONS_H_
 

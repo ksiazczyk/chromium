@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validator for Isolated Web App Signed Web Bundles
+// summary: Implements validation of Signed Web Bundles for Isolated Web Apps, checking the integrity block against the expected bundle ID and rejecting metadata with a primary URL or invalid exchange entries.
+// ---
+
 #include "components/webapps/isolated_web_apps/reading/validator.h"
 
 #include <optional>

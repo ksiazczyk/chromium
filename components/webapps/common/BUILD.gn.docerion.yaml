@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Webapps common build configuration
+summary: Defines the common source set, Mojo bindings for web page metadata, and unit test targets for the webapps common component.

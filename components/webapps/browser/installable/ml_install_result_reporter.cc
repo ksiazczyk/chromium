@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MlInstallResultReporter implementation
+// summary: Reports ML install promotion outcomes to the segmentation platform and UMA histograms, handling guardrail blocking, install sources, and one-time training requests.
+// ---
+
 #include "components/webapps/browser/installable/ml_install_result_reporter.h"
 
 #include <optional>

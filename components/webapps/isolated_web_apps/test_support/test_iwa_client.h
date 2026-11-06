@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestIwaClient class declaration
+// summary: Declares TestIwaClient, a test IwaClient subclass with stubbed app-close and source-request methods and accessors for the runtime data provider.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_TEST_IWA_CLIENT_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_TEST_IWA_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA update check and prepare result string conversions
+// summary: Implements ToString helpers and stream output operators that turn IWA update check and prepare success and error enum values into readable strings.
+// ---
+
 #include "components/webapps/isolated_web_apps/types/update_check_and_prepare_result.h"
 
 #include <ostream>

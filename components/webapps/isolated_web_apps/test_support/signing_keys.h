@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test signing key re-exports
+// summary: Re-exports default Ed25519 and ECDSA P-256 test key pairs and bundle IDs from web_package::test into web_app::test.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_SIGNING_KEYS_H_
 #define COMPONENTS_WEBAPPS_ISOLATED_WEB_APPS_TEST_SUPPORT_SIGNING_KEYS_H_
 

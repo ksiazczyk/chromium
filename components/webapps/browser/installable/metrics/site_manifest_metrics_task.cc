@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteManifestMetricsTask implementation
+// summary: Implements the task that fetches a site's web manifest via InstallableManager and passes it, or an empty manifest, to a callback for Site.Manifest UKM metrics collection.
+// ---
+
 #include "components/webapps/browser/installable/metrics/site_manifest_metrics_task.h"
 
 #include <memory>

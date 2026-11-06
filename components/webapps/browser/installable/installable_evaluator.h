@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable evaluator header
+// summary: Declares InstallableEvaluator, which checks whether page data meets installability criteria, including icon size limits and content security.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_EVALUATOR_H_
 #define COMPONENTS_WEBAPPS_BROWSER_INSTALLABLE_INSTALLABLE_EVALUATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: IWA test support include rules
+summary: Grants include access to the key distribution directory and Skia headers for code in this test support directory.

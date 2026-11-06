@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestSignedWebBundleBuilder implementation
+// summary: Implements the test signed web bundle builder that assembles manifests, PNG icons, and HTML into signed web bundles for isolated web app tests.
+// ---
+
 #include "components/webapps/isolated_web_apps/test_support/test_signed_web_bundle_builder.h"
 
 #include <memory>
