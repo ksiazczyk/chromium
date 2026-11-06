@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthMetadataSyncerImpl header
+// summary: Declares CryptAuthMetadataSyncerImpl, which performs SyncMetadata API calls with internal timeout handling and tracks group public key state across requests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_METADATA_SYNCER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_METADATA_SYNCER_IMPL_H_
 

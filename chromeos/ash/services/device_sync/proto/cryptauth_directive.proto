@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth v2 directive proto messages
+// summary: Defines KeyDirective and ClientDirective messages that instruct clients on check-in, retry, and key rotation policies.
+// ---
+
 // Contains messages sent from CryptAuth to clients who registered keys using
 // the v2 Enrollment protocol. The messages provide instructions to clients such
 // as how frequently to check in with CryptAuth via a SyncKeysRequest, how long

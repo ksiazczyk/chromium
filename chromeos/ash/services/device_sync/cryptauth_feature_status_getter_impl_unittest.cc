@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CryptAuth feature status getter implementation
+// summary: Unit tests for CryptAuthFeatureStatusGetterImpl covering BatchGetFeatureStatuses success, failure, and timeout paths using mock clients and test devices.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_feature_status_getter_impl.h"
 
 #include <algorithm>

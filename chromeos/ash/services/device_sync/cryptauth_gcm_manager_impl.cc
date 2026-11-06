@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthGCMManagerImpl implementation
+// summary: Implements CryptAuthGCMManager, parsing incoming GCM messages to determine the target service, session ID and feature type for CryptAuth enrollment and sync.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_gcm_manager_impl.h"
 
 #include "base/functional/bind.h"

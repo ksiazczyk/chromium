@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthMetadataSyncerImpl unit tests
+// summary: Unit tests for CryptAuthMetadataSyncerImpl using mock CryptAuth clients, fake encryptors and key creators, and test devices to exercise the metadata sync flow.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_metadata_syncer_impl.h"
 
 #include <memory>

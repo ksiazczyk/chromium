@@ -1,3 +1,13 @@
+---
+type: readme
+title: Hotspot config
+summary: Describes the hotspot service implementation, its mojo APIs, the ChromeOS UI clients that consume them, and the network handler dependencies.
+relations:
+  - documents /chromeos/ash/services/hotspot_config/cros_hotspot_config.h
+  - references /chrome/browser/resources/ash/settings/internet_page/hotspot_subpage.ts
+  - references /chrome/browser/resources/ash/settings/internet_page/hotspot_summary_item.ts
+---
+
 # Hotspot config
 
 This directory contains the implementation of the hotspot service,

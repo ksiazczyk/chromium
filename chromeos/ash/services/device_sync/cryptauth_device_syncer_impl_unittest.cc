@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth device syncer implementation unit tests
+// summary: Unit tests for CryptAuthDeviceSyncerImpl using fake encryptors, syncers, and mock CryptAuth clients to exercise the DeviceSync flow.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_syncer_impl.h"
 
 #include <memory>

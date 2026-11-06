@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthMetadataSyncer base class
+// summary: Implements the CryptAuthMetadataSyncer base class, enforcing a single SyncMetadata call per instance and forwarding attempt results to the callback.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_metadata_syncer.h"
 
 #include <utility>

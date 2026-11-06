@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SyncedBluetoothAddressTracker header
+// summary: Declares FakeSyncedBluetoothAddressTracker and its factory, test doubles exposing a settable Bluetooth address and last synced address.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_SYNCED_BLUETOOTH_ADDRESS_TRACKER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_SYNCED_BLUETOOTH_ADDRESS_TRACKER_H_
 

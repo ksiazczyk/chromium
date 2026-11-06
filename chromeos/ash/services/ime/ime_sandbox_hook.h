@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-sandbox hook declaration
+// summary: Declares the ImePreSandboxHook function used to prepare the IME service sandbox.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_IME_SANDBOX_HOOK_H_
 #define CHROMEOS_ASH_SERVICES_IME_IME_SANDBOX_HOOK_H_
 

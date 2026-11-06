@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthDeviceActivityGetterImpl unit tests
+// summary: Unit tests for CryptAuthDeviceActivityGetterImpl using a mock CryptAuthClientFactory, mock timers, and canned GetDevicesActivityStatus responses.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_activity_getter_impl.h"
 
 #include <memory>

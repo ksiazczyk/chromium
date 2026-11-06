@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake attestation certificates syncer
+// summary: Provides a fake AttestationCertificatesSyncer and factory that return a fake certificate and track calls for use in tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_attestation_certificates_syncer.h"
 
 namespace ash {

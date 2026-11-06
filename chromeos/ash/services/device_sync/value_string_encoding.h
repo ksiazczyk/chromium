@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64Url value string encoding utility declarations
+// summary: Declares Base64Url encoding helpers for strings, value strings, and proto messages, warning the scheme must not change because values are persisted as preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_VALUE_STRING_ENCODING_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_VALUE_STRING_ENCODING_H_
 

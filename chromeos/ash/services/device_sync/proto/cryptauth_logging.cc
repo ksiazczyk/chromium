@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth proto logging helpers implementation
+// summary: Implements stream operators and string conversions for readable logging of CryptAuth v2 proto enums and messages.
+// ---
+
 #include <utility>
 
 #include "chromeos/ash/services/device_sync/proto/cryptauth_logging.h"

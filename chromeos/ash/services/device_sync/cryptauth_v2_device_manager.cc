@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2DeviceManager base implementation
+// summary: Implements observer add/remove and notification helpers for the DeviceSync v2 device manager base class.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_device_manager.h"
 
 namespace ash {

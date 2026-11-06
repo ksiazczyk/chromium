@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthMetadataSyncerImpl implementation
+// summary: Implements CryptAuthMetadataSyncer using CryptAuthClient API calls, with group key creation, metadata encryption, timeouts, error mapping, and metrics logging.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_metadata_syncer_impl.h"
 
 #include <utility>

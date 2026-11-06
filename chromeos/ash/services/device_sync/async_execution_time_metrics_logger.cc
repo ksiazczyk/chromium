@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async execution time metrics logger implementation
+// summary: Logs UMA custom-times histograms for async function execution times with custom bucket sizes.
+// ---
+
 #include "chromeos/ash/services/device_sync/async_execution_time_metrics_logger.h"
 
 #include "base/metrics/histogram_functions.h"

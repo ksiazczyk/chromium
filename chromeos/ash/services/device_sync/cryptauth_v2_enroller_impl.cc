@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2EnrollerImpl implementation
+// summary: Implements the CryptAuth v2 enrollment flow, making SyncKeys and EnrollKeys API calls with timeouts and network error mapping.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_enroller_impl.h"
 
 #include <utility>

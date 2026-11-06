@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDeviceActivityGetter base implementation
+// summary: Implements the CryptAuthDeviceActivityGetter base class, enforcing single use of GetDevicesActivityStatus and finishing attempts with success or error callbacks.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_activity_getter.h"
 
 #include <utility>

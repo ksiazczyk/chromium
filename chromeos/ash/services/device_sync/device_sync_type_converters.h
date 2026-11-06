@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo type converter declarations
+// summary: Declares the Mojo TypeConverter from device_sync NetworkRequestError to mojom NetworkRequestResult.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_DEVICE_SYNC_TYPE_CONVERTERS_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_DEVICE_SYNC_TYPE_CONVERTERS_H_
 

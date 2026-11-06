@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthGroupPrivateKeySharerImpl implementation
+// summary: Implements the ShareGroupPrivateKey flow using CryptAuthClient, with ECIES encryption of the group private key, state timeouts, error mapping and execution-time metrics.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_group_private_key_sharer_impl.h"
 
 #include <utility>

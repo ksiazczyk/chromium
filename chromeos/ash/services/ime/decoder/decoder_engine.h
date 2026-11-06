@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderEngine class declaration
+// summary: Declares DecoderEngine, a Mojo InputChannel wrapper around the ProtoMode C API of the CrOS first-party IME shared library that converts key and pointer events to text.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_DECODER_DECODER_ENGINE_H_
 #define CHROMEOS_ASH_SERVICES_IME_DECODER_DECODER_ENGINE_H_
 

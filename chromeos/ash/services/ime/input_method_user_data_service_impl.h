@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method user data service header
+// summary: Declares InputMethodUserDataServiceImpl, which serves Japanese dictionary and personalization data requests over Mojo.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_INPUT_METHOD_USER_DATA_SERVICE_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_IME_INPUT_METHOD_USER_DATA_SERVICE_IMPL_H_
 

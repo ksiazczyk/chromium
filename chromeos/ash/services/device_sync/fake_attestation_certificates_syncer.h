@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake attestation certificates syncer declaration
+// summary: Declares the fake attestation certificates syncer and its factory, which report update state and certificate results for unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_ATTESTATION_CERTIFICATES_SYNCER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_ATTESTATION_CERTIFICATES_SYNCER_H_
 

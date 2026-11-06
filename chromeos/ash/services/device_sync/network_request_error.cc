@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkRequestError stream output implementation
+// summary: Implements the stream output operator that renders NetworkRequestError enum values as readable strings.
+// ---
+
 #include "chromeos/ash/services/device_sync/network_request_error.h"
 
 namespace ash {

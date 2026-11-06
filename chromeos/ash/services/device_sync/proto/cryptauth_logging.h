@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth proto logging helpers
+// summary: Declares string truncation, stream output and readable-dictionary helpers that render CryptAuth v2 proto messages for logging.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PROTO_CRYPTAUTH_LOGGING_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PROTO_CRYPTAUTH_LOGGING_H_
 

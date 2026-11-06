@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock input channel header
+// summary: Declares MockInputChannel, a test double for the Mojo InputChannel interface.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_MOCK_INPUT_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_IME_MOCK_INPUT_CHANNEL_H_
 

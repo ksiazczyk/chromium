@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusChange enum for device software feature status changes
+// summary: Defines the FeatureStatusChange enum describing how a software feature is enabled or disabled across a user's devices.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FEATURE_STATUS_CHANGE_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FEATURE_STATUS_CHANGE_H_
 

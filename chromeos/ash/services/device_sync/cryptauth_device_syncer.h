@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device syncer interface
+// summary: Declares CryptAuthDeviceSyncer and documents the CryptAuth v2 DeviceSync protocol's SyncMetadata, BatchGetFeatureStatuses, and key sharing steps.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_SYNCER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_SYNCER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BetterTogetherFeatureMetadata proto definition
+// summary: Defines the BetterTogetherFeatureMetadata message listing supported and enabled multi-device features for CryptAuth v2.
+// ---
+
 // This message fills the |metadata| bytes field of the FeatureMetadata message
 // (found in the file cryptauth_client_app_metadata.proto) when |feature_type|
 // is FeatureMetadata::Feature::BETTER_TOGETHER.

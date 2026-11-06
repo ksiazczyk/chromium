@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKey implementation
+// summary: Implements the CryptAuthKey class for symmetric and asymmetric keys, including handle creation via SHA-256 hashing and dictionary serialization and parsing.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key.h"
 
 #include "base/base64url.h"

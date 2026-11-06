@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation certificates syncer implementation header
+// summary: Declares the syncer implementation class with its testing factory, pref registration, and certificate regeneration timer.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_ATTESTATION_CERTIFICATES_SYNCER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_ATTESTATION_CERTIFICATES_SYNCER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthKeyCreatorImpl unit tests
+// summary: Unit tests for CryptAuthKeyCreatorImpl verifying symmetric and asymmetric key creation using a fake secure message delegate and known Diffie-Hellman inputs.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_creator_impl.h"
 
 #include <memory>

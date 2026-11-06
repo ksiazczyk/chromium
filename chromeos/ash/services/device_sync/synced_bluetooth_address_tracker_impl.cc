@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced Bluetooth address tracker implementation
+// summary: Implements the Bluetooth address tracker using profile prefs and the Bluetooth adapter, scheduling a new DeviceSync attempt via CryptAuthScheduler when the address changes.
+// ---
+
 #include "chromeos/ash/services/device_sync/synced_bluetooth_address_tracker_impl.h"
 
 #include <utility>

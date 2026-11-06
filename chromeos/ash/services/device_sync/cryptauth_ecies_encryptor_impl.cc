@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthEciesEncryptor SecureMessage implementation
+// summary: Implements ECIES encryption and decryption using the SecureMessage library with AES-256-CBC encryption and HMAC-SHA256 signatures.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_ecies_encryptor_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ECIES encryption implementation
+// summary: Implements deterministic fake ECIES encryption helpers that encode and decode strings using a delimiter and key prefix for tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_ecies_encryption.h"
 
 #include "base/check_op.h"

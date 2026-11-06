@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientAppMetadata proto definition
+// summary: Defines client-specific metadata carried in SyncKeysRequest for the CryptAuth v2 Enrollment protocol.
+// ---
+
 // Client-specific metadata used in the CryptAuth v2 Enrollment protocol, which
 // is serialized and held in |client_app_metadata| of SyncKeysRequest (in file
 // cryptauth_enrollment.proto).

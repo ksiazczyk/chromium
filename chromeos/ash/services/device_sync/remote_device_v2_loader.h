@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceV2Loader interface
+// summary: Declares the interface that asynchronously converts CryptAuthDevices into RemoteDevices, invoking a callback when the conversion completes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_V2_LOADER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_V2_LOADER_H_
 

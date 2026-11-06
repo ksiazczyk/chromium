@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base64Url value string encoding utilities
+// summary: Implements Base64Url encoding and decoding helpers for plain strings, base::Value strings, and serialized protobuf messages.
+// ---
+
 #include "chromeos/ash/services/device_sync/value_string_encoding.h"
 
 #include "base/base64url.h"

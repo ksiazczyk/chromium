@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthGroupPrivateKeySharer header
+// summary: Declares a CryptAuthGroupPrivateKeySharer test fake that records the request context, group key and encrypting key map, along with a fake factory.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_GROUP_PRIVATE_KEY_SHARER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_GROUP_PRIVATE_KEY_SHARER_H_
 

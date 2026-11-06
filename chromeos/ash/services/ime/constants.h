@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME directory path constants declarations
+// summary: Declares exported constants for the input methods installation path, user data path, and language dictionary directory names.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_CONSTANTS_H_
 #define CHROMEOS_ASH_SERVICES_IME_CONSTANTS_H_
 

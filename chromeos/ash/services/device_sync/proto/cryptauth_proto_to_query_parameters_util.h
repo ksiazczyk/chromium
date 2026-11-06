@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth proto to query parameters utility header
+// summary: Declares functions that turn CryptAuth v2 client metadata and request protos into query parameter key-value pairs.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PROTO_CRYPTAUTH_PROTO_TO_QUERY_PARAMETERS_UTIL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PROTO_CRYPTAUTH_PROTO_TO_QUERY_PARAMETERS_UTIL_H_
 

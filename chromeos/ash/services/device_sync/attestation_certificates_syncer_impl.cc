@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation certificates syncer implementation
+// summary: Implements attestation certificate updates with timer-based scheduling, pref-stored timestamps, and a feature-gated factory.
+// ---
+
 #include "chromeos/ash/services/device_sync/attestation_certificates_syncer_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthV2EnrollerImpl unit tests
+// summary: Unit tests for the CryptAuth v2 enroller, covering key sync, key enrollment, timeouts, and enrollment result codes.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_enroller_impl.h"
 
 #include <memory>

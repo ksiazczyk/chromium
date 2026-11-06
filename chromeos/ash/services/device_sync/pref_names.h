@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth preference name declarations
+// summary: Declares the preference key names used to persist CryptAuth enrollment, device sync and scheduler state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PREF_NAMES_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PREF_NAMES_H_
 

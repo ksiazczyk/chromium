@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderEngine implementation for the IME shared library
+// summary: Implements DecoderEngine by initializing ProtoMode entry points of the loaded IME shared library, binding InputChannel receivers via a ClientDelegate, and forwarding messages to the decoder.
+// ---
+
 #include "chromeos/ash/services/ime/decoder/decoder_engine.h"
 
 #include "base/compiler_specific.h"

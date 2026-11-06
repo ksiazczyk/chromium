@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSyncBase Mojo service base implementation
+// summary: Implements the base DeviceSync Mojo service, handling receiver binding, observer registration and notification, and shutdown when all clients disconnect.
+// ---
+
 #include "chromeos/ash/services/device_sync/device_sync_base.h"
 
 #include <utility>

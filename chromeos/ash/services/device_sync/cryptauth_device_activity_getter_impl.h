@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDeviceActivityGetterImpl class declaration
+// summary: Declares CryptAuthDeviceActivityGetterImpl, which uses CryptAuthClient instances for GetDevicesActivityStatus calls and guarantees callbacks via internal timeout handling.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_ACTIVITY_GETTER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_CRYPTAUTH_DEVICE_ACTIVITY_GETTER_IMPL_H_
 

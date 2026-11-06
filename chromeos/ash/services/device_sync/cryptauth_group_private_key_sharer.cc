@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthGroupPrivateKeySharer base class
+// summary: Base class implementation that validates inputs and dispatches ShareGroupPrivateKey attempts for sharing the group private key with device encrypting keys.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_group_private_key_sharer.h"
 
 #include <utility>

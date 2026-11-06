@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthKeyBundle unit tests
+// summary: Unit tests covering key bundle creation, key directives, adding keys, active-key deactivation of others and related bundle behavior.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_bundle.h"
 
 #include "chromeos/ash/services/device_sync/cryptauth_enrollment_constants.h"

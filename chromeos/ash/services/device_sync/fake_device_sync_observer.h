@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake DeviceSyncObserver header
+// summary: Declares FakeDeviceSyncObserver, a test double for mojom::DeviceSyncObserver that records enrollment and sync event counts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_DEVICE_SYNC_OBSERVER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_DEVICE_SYNC_OBSERVER_H_
 

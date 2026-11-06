@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthEnrollmentManager test double declarations
+// summary: Declares FakeCryptAuthEnrollmentManager, a test double with setters and public notifications to simulate CryptAuth enrollment in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_ENROLLMENT_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_CRYPTAUTH_ENROLLMENT_MANAGER_H_
 

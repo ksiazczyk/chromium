@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthKeyProofComputer implementation
+// summary: Implements a fake CryptAuthKeyProofComputer that returns deterministic fake key proofs built from payload, salt and info, or null when set to fail.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_key_proof_computer.h"
 
 #include <optional>

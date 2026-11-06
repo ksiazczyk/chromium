@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth preference name constants
+// summary: Defines preference key names for CryptAuth GCM registration, device and key registries, synced metadata and scheduler state.
+// ---
+
 #include "chromeos/ash/services/device_sync/pref_names.h"
 
 namespace ash {

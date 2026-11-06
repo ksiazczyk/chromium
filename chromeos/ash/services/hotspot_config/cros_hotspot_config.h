@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHotspotConfig class declaration
+// summary: Declares the CrosHotspotConfig class implementing the CrosHotspotConfig mojo interface with observer registration and dependency injection for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_HOTSPOT_CONFIG_CROS_HOTSPOT_CONFIG_H_
 #define CHROMEOS_ASH_SERVICES_HOTSPOT_CONFIG_CROS_HOTSPOT_CONFIG_H_
 

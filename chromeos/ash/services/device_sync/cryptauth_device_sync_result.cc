@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device sync result implementation
+// summary: Implements CryptAuthDeviceSyncResult, mapping result codes to result types and providing stream output for DeviceSync error codes.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_sync_result.h"
 
 namespace ash {

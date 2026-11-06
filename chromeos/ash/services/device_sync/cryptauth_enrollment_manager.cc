@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthEnrollmentManager base class
+// summary: Implements observer management and notification helpers for the CryptAuthEnrollmentManager base class.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_enrollment_manager.h"
 
 namespace ash {

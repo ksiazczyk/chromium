@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group private key and Better Together metadata status logging
+// summary: Implements stream output operators that render the group private key and Better Together metadata status enums as readable strings.
+// ---
+
 #include "chromeos/ash/services/device_sync/group_private_key_and_better_together_metadata_status.h"
 
 namespace {

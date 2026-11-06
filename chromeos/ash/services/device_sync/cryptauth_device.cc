@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDevice implementation
+// summary: Implements CryptAuthDevice serialization to and from dictionary values, including feature states and BetterTogether device metadata.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceProvider interface
+// summary: Declares the RemoteDeviceProvider interface that generates and caches RemoteDevice objects from synced metadata and notifies observers when the device list changes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_REMOTE_DEVICE_PROVIDER_H_
 

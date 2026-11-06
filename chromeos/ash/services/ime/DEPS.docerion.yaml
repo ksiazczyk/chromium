@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ime directory
+summary: Defines the include rules for the ime directory, allowing dependencies on ash constants, mojo, ui/gfx/range, and sandbox.

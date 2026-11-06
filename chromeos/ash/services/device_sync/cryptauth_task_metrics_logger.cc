@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth task metrics logging implementation
+// summary: Maps network request errors to CryptAuth API call results and logs task success metrics to histograms.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_task_metrics_logger.h"
 
 #include "base/metrics/histogram_functions.h"

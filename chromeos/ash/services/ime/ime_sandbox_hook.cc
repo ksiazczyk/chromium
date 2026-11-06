@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-sandbox hook for the IME service
+// summary: Sets up syscall broker file permissions for IME directories and loads the IME decoder shared library before the sandbox engages.
+// ---
+
 #include "chromeos/ash/services/ime/ime_sandbox_hook.h"
 
 #include <dlfcn.h>

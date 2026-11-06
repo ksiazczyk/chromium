@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthKeyRegistryImpl unit tests
+// summary: Unit tests for CryptAuthKeyRegistryImpl verifying active key lookup, key addition to bundles, and that registry changes update the stored preference.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_registry_impl.h"
 
 #include "chromeos/ash/services/device_sync/cryptauth_enrollment_constants.h"

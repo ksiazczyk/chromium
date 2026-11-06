@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthEciesEncryptor base class
+// summary: Implements the CryptAuthEciesEncryptor base class, routing single-payload encrypt and decrypt calls to the batch methods.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_ecies_encryptor.h"
 
 #include <utility>

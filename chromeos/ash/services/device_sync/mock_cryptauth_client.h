@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CryptAuthClient and factory declarations
+// summary: Declares MockCryptAuthClient and MockCryptAuthClientFactory with mocked CryptAuth API methods for use in unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_MOCK_CRYPTAUTH_CLIENT_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_MOCK_CRYPTAUTH_CLIENT_H_
 

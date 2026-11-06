@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth device registry implementation unit tests
+// summary: Unit tests for CryptAuthDeviceRegistryImpl covering loading, persisting, and updating the device registry with a testing pref service.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_registry_impl.h"
 
 #include <map>

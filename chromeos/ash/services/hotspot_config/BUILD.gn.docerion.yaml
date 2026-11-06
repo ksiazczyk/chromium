@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Hotspot config build targets
+summary: GN build rules defining the hotspot_config static library, the in_process_hotspot_config component, and the unit_tests source set.

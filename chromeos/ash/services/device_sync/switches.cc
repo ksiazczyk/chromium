@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth URL override command-line switches
+// summary: Defines command-line switch constants that override the default Google API URLs used by CryptAuth, including v2 enrollment and device sync endpoints.
+// ---
+
 #include "chromeos/ash/services/device_sync/switches.h"
 
 namespace ash {

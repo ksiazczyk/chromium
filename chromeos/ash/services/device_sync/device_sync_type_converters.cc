@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo type converters for network request errors
+// summary: Implements Mojo TypeConverter that maps NetworkRequestError enum values to the mojom NetworkRequestResult enum for IPC.
+// ---
+
 #include "chromeos/ash/services/device_sync/device_sync_type_converters.h"
 
 namespace mojo {

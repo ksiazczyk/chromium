@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ECIES encryption header
+// summary: Declares test helpers that derive fake key pairs and produce or decrypt fake ECIES-encrypted strings deterministically.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_ECIES_ENCRYPTION_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_FAKE_ECIES_ENCRYPTION_H_
 

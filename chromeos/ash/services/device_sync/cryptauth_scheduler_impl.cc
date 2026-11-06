@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth scheduler implementation
+// summary: Implements the CryptAuth scheduler with persisted scheduling metadata, default retry periods, and ClientDirective handling.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_scheduler_impl.h"
 
 #include <algorithm>

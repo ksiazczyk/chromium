@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth v2 enrollment manager unit tests
+// summary: Unit tests for the CryptAuth v2 enrollment manager implementation, exercising enrollment flows with fake enrollers, mock clients, test clocks and timers.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_enrollment_manager_impl.h"
 
 #include <memory>

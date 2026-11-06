@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data C API interface header
+// summary: Defines the abstract UserDataCApiInterface with ProcessUserDataRequest for sending user data requests to the IME decoder.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_IME_USER_DATA_C_API_INTERFACE_H_
 #define CHROMEOS_ASH_SERVICES_IME_USER_DATA_C_API_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkRequestError enum
+// summary: Defines the NetworkRequestError enum covering offline, authentication, bad request, malformed response and other request failures.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_NETWORK_REQUEST_ERROR_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_NETWORK_REQUEST_ERROR_H_
 

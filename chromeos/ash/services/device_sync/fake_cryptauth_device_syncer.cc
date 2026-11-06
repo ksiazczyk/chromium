@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthDeviceSyncer implementation
+// summary: Implements a fake CryptAuthDeviceSyncer and factory that record sync attempt metadata and let tests finish attempts with a chosen result.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_device_syncer.h"
 
 #include "chromeos/ash/services/device_sync/cryptauth_device_sync_result.h"

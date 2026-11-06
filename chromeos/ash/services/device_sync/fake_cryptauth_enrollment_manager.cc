@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthEnrollmentManager implementation
+// summary: Implements a fake CryptAuthEnrollmentManager that simulates enrollment state, timing, validity, and user key pairs for tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_enrollment_manager.h"
 
 namespace ash {

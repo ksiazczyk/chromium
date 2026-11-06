@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthDeviceRegistry implementation
+// summary: Implements CryptAuthDeviceRegistry operations to add, delete, look up, and replace devices by Instance ID and render the registry as a readable dictionary.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_registry.h"
 
 #include <ostream>

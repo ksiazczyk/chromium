@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process hotspot config binding
+// summary: Binds mojo receivers to a singleton in-process CrosHotspotConfig instance and supports overriding the instance for testing.
+// ---
+
 #include "chromeos/ash/services/hotspot_config/in_process_instance.h"
 
 #include "ash/constants/ash_features.h"

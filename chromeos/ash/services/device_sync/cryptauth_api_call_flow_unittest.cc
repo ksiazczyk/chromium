@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuthApiCallFlow unit tests
+// summary: Unit tests for CryptAuthApiCallFlow covering POST and GET request construction, query parameters, and response and error handling.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_api_call_flow.h"
 
 #include <memory>

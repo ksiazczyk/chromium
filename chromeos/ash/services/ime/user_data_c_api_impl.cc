@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User data C API implementation
+// summary: Serializes user data protobuf requests, passes them to the IME shared library C API, and parses the returned responses.
+// ---
+
 #include "chromeos/ash/services/ime/user_data_c_api_impl.h"
 
 #include "chromeos/ash/services/ime/ime_shared_library_wrapper.h"

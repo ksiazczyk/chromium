@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth enum conversion utility header
+// summary: Declares conversions between CryptAuth device type and software feature enums and their string representations.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PROTO_ENUM_UTIL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_PROTO_ENUM_UTIL_H_
 

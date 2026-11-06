@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptAuthV2DeviceManager implementation
+// summary: Implements the fake CryptAuthV2DeviceManager that queues forced device sync requests and finishes them on demand with chosen results for tests.
+// ---
+
 #include "chromeos/ash/services/device_sync/fake_cryptauth_v2_device_manager.h"
 
 namespace ash {

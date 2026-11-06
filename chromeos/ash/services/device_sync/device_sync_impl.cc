@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSyncImpl service implementation
+// summary: Implements the concrete DeviceSync service, wiring identity, GCM, CryptAuth clients, enrollment, device activity and remote device provider components.
+// ---
+
 #include "chromeos/ash/services/device_sync/device_sync_impl.h"
 
 #include <algorithm>

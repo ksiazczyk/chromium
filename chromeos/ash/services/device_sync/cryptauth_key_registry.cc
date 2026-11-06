@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyRegistry implementation
+// summary: Implements CryptAuthKeyRegistry operations to add, activate, deactivate and delete keys and to set key directives across CryptAuth key bundles.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_registry.h"
 
 namespace ash {

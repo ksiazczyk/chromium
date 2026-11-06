@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth API protocol messages (cryptauth_api.proto)
+// summary: Defines protocol messages and enums for CryptAuth back-end RPCs used by the DeviceSync service for enrollment and device metadata sync.
+// ---
+
 // Definitions for calls to the CryptAuth back-end. The DeviceSync service
 // performs two main functions:
 //   (1) Enroll (i.e., register) the Chromebook with the CryptAuth server by

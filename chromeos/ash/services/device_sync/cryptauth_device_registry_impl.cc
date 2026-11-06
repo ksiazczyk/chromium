@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device registry implementation
+// summary: Implements CryptAuthDeviceRegistry, persisting the Instance ID to device map as a Chrome preference and restoring it on construction.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_device_registry_impl.h"
 
 #include <optional>

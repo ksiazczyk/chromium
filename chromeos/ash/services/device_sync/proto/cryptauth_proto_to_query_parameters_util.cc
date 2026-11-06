@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth proto to query parameters conversion
+// summary: Implements conversion of CryptAuth v2 request protos into key-value pairs used as HTTP GET query parameters.
+// ---
+
 #include "chromeos/ash/services/device_sync/proto/cryptauth_proto_to_query_parameters_util.h"
 
 #include "base/strings/string_number_conversions.h"

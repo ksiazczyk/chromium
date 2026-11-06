@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthKeyCreator implementation
+// summary: Implements the CryptAuthKeyCreator base class and its CreateKeyData struct carrying status, type, handle and key material for key creation requests.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_key_creator.h"
 
 namespace ash {

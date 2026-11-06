@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImeService unit tests
+// summary: Unit tests for ImeService that exercise engine connection using a fake decoder state and a test shared library wrapper.
+// ---
+
 #include "chromeos/ash/services/ime/ime_service.h"
 
 #include <string_view>

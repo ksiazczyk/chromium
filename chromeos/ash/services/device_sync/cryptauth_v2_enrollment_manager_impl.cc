@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthV2EnrollmentManagerImpl implementation
+// summary: Implements the CryptAuth v2 enrollment manager, handling scheduled, GCM-triggered, and forced enrollment attempts with metrics.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_v2_enrollment_manager_impl.h"
 
 #include "base/functional/bind.h"

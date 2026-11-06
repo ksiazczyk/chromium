@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuthGCMManager static helpers
+// summary: Implements preference registration and deprecation checks for GCM registration IDs used by the CryptAuth GCM manager.
+// ---
+
 #include "chromeos/ash/services/device_sync/cryptauth_gcm_manager.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

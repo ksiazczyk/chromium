@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSyncImpl class declaration
+// summary: Declares the concrete DeviceSync implementation, its factory, and the initialization flow from account login through enrollment to device sync updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_DEVICE_SYNC_DEVICE_SYNC_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_DEVICE_SYNC_DEVICE_SYNC_IMPL_H_
 
