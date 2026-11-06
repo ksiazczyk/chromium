@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: App template for the Enterprise Connectors internals page
+summary: HTML template for the main app element that shows the connector tabs or an off-the-record disabled message.

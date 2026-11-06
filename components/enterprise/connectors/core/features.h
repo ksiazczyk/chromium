@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Connectors feature flag declarations
+// summary: Declares feature flags and parameters for enterprise connectors content analysis, DLP scanning, upload cancellation and extension actor attribution.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_FEATURES_H_
 

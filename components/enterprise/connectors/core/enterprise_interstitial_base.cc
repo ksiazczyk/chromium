@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise interstitial base implementation
+// summary: Implements string population for enterprise block and warn interstitial pages, including admin-configured custom URL filtering messages.
+// ---
+
 #include "components/enterprise/connectors/core/enterprise_interstitial_base.h"
 
 #include "components/enterprise/connectors/core/enterprise_interstitial_util.h"

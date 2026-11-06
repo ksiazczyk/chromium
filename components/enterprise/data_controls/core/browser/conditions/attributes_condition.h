@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttributesCondition class declaration
+// summary: Declares the AttributesCondition class that parses Data Control policy JSON attributes and evaluates them against an action context.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_CONDITIONS_ATTRIBUTES_CONDITION_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_CONDITIONS_ATTRIBUTES_CONDITION_H_
 

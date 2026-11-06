@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkRequestHandler implementation
+// summary: Implements NetworkRequestHandler, which uploads a network request body for audit-only cloud scanning and reports the verdict through the reporting event router.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/network_request_handler.h"
 
 #include <utility>

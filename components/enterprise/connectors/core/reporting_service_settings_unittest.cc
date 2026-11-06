@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting service settings unit tests
+// summary: Unit tests verifying parsing of reporting service settings, including enabled event names and opt-in events with URL patterns.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_service_settings.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Analysis service settings base class
+// summary: Declares the base class that resolves analysis settings from connector policies for URLs, data regions, and network requests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ANALYSIS_SERVICE_SETTINGS_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ANALYSIS_SERVICE_SETTINGS_BASE_H_
 

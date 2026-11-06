@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default device attestation service implementation
+// summary: Provides the base DeviceAttestationService implementation that returns an unsupported result for attestation requests.
+// ---
+
 #include "components/enterprise/device_attestation/device_attestation_service.h"
 
 #include <utility>

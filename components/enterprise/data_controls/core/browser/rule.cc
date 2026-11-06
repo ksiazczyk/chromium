@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Controls rule parsing implementation
+// summary: Implements parsing of Data Controls and DLP policy dictionaries into Rule objects, building source, destination and restriction conditions including and, or and not combinators.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/rule.h"
 
 #include <algorithm>

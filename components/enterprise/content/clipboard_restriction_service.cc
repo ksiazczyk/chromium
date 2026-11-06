@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard restriction service implementation
+// summary: Implements a keyed service that blocks clipboard copies from URLs matching the CopyPreventionSettings enable list unless exempted by the disable list.
+// ---
+
 #include "components/enterprise/content/clipboard_restriction_service.h"
 
 #include "base/no_destructor.h"

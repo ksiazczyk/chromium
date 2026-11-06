@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Not condition implementation for Data Controls
+// summary: Implements the NotCondition class, which triggers when its single wrapped sub-condition is not triggered.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/not_condition.h"
 #include "base/memory/ptr_util.h"
 

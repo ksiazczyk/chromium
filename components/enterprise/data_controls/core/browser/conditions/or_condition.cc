@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Or condition implementation
+// summary: Implements the OrCondition class for Chromium data controls, triggering when at least one sub-condition can be evaluated and is triggered.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/or_condition.h"
 
 #include <algorithm>

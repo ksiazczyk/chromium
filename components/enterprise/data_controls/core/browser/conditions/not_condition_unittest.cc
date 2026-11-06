@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotCondition unit tests
+// summary: Unit tests verifying that NotCondition rejects null inputs and negates correctly, including cancellation of nested not conditions.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/not_condition.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

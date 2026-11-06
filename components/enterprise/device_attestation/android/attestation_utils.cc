@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation hash creation utilities
+// summary: Implements CreateAttestationHashes, producing Base64-encoded SHA-256 hashes of the combined request payload, timestamp, and nonce for the JNI attestation layer.
+// ---
+
 #include "components/enterprise/device_attestation/android/attestation_utils.h"
 
 #include "base/android/jni_android.h"

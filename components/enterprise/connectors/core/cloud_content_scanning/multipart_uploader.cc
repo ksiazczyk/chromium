@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultipartUploadRequest implementation
+// summary: Implements MultipartUploadRequest, which uploads strings, files, or page regions with metadata to the cloud scan service using the multipart protocol with exponential backoff retries.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/multipart_uploader.h"
 
 #include <memory>

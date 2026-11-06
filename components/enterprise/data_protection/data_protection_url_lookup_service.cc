@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL lookup service implementation
+// summary: Implements the data protection URL lookup service, caching safe browsing real-time verdicts with expiry and optional query parameter stripping.
+// ---
+
 #include "components/enterprise/data_protection/data_protection_url_lookup_service.h"
 
 #include "base/logging.h"

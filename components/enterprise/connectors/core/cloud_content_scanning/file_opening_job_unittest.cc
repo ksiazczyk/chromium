@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File opening job unit tests
+// summary: Unit tests for FileOpeningJob covering thread limit flags, cancellation behavior, and hash and MIME results for opened files
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/file_opening_job.h"
 
 #include <memory>

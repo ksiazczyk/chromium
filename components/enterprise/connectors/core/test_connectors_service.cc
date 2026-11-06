@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test connectors service implementation
+// summary: Implements a fake ConnectorsServiceBase for unit tests, allowing dm tokens, connector enablement, and pref access to be configured in tests.
+// ---
+
 #include "components/enterprise/connectors/core/test_connectors_service.h"
 
 #include "components/enterprise/connectors/core/connectors_manager_base.h"

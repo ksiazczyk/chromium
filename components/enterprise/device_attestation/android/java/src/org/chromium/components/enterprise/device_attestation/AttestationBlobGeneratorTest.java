@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AttestationBlobGeneratorTest
+// summary: Robolectric unit test for AttestationBlobGenerator that currently contains only a placeholder assertion, with real coverage deferred until the internal logic is implemented.
+// ---
+
 package org.chromium.components.enterprise.device_attestation;
 
 import android.text.TextUtils;

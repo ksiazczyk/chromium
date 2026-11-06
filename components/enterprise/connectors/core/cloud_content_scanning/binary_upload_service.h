@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BinaryUploadService interface
+// summary: Declares the abstract KeyedService interface for uploading content for deep scanning, sending acknowledgements and canceling requests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_BINARY_UPLOAD_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_BINARY_UPLOAD_SERVICE_H_
 

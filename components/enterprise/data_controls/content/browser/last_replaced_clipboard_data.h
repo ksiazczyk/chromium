@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for last replaced clipboard data and restriction levels
+// summary: Declares the CopyRestrictionLevel enum, the LastReplacedClipboardData struct, and a clipboard observer that records data replaced by Data Controls rules.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CONTENT_BROWSER_LAST_REPLACED_CLIPBOARD_DATA_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CONTENT_BROWSER_LAST_REPLACED_CLIPBOARD_DATA_H_
 

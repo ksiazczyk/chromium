@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upload request test server implementation
+// summary: Implements an embedded test server that accepts enterprise scan uploads and returns configurable DLP and malware content analysis responses.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/upload_request_test_server.h"
 
 #include <optional>

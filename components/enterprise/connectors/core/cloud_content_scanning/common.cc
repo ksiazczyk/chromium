@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scan request upload result string conversion
+// summary: Implements conversion of ScanRequestUploadResult enum values to their string names for logging and metrics.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/common.h"
 
 #include "base/notreached.h"

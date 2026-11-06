@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector upload request implementation
+// summary: Implements upload requests that send scan metadata and various data sources to the cloud scanning service via URL loader.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/connector_upload_request.h"
 
 #include "base/files/file_path.h"

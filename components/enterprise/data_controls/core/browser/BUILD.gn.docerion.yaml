@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Data Controls browser component
+summary: GN build file defining the features, browser, test support and unit tests source sets for the enterprise Data Controls component.

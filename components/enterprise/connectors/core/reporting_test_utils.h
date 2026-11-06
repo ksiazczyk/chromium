@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting test utilities declarations
+// summary: Declares test helpers for enterprise connector reporting, including EventReportValidatorBase for validating expected event reports and functions to configure reporting settings in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REPORTING_TEST_UTILS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REPORTING_TEST_UTILS_H_
 

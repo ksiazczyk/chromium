@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deep scanning utils unit tests
+// summary: Unit tests for deep scanning utilities, covering custom rule messages, content analysis responses, connector settings, and DM token handling
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/deep_scanning_utils.h"
 
 #include "base/json/json_reader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkedFileDataPipeProducer implementation
+// summary: Implements chunked background reading of plain or obfuscated files to feed a Mojo data pipe for cloud scanning uploads.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/chunked_file_data_pipe_producer.h"
 
 #include "base/task/sequenced_task_runner.h"

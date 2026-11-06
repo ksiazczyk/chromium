@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Analysis service settings base unit tests
+// summary: Parameterized unit tests verifying parsing of analysis service settings for cloud and local analysis scenarios.
+// ---
+
 #include "components/enterprise/connectors/core/analysis_service_settings_base.h"
 
 #include "base/json/json_reader.h"

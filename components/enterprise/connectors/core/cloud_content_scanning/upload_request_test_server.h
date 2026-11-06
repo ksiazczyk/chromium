@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadRequestTestServer class declaration
+// summary: Declares a fake embedded test server for enterprise upload tests, allowing tests to set scan results and count received scan requests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_UPLOAD_REQUEST_TEST_SERVER_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_UPLOAD_REQUEST_TEST_SERVER_H_
 

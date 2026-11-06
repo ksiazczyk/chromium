@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test connectors service declarations
+// summary: Declares TestConnectorsService, a fake connectors service used only for unit testing in components.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_TEST_CONNECTORS_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_TEST_CONNECTORS_SERVICE_H_
 

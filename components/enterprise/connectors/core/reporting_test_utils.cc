@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting test utilities implementation
+// summary: Implements test helpers for enterprise connector security event reporting, such as setting the OnSecurityEventEnterpriseConnector policy and building TriggeredRuleInfo protos for tests.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_test_utils.h"
 
 #include <cstddef>

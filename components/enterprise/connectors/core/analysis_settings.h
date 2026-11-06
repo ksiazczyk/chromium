@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Analysis settings data structures
+// summary: Defines structs and enums for cloud and local content analysis settings, block behavior, and tag-specific options like custom messages.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ANALYSIS_SETTINGS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_ANALYSIS_SETTINGS_H_
 

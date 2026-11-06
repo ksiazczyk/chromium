@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise connectors core build configuration
+summary: GN build file defining the core source set, cloud content scanning targets, and their dependencies for the enterprise connectors component.

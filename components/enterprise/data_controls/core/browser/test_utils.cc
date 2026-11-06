@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data Controls test utilities implementation
+// summary: Implements the SetDataControls helper that writes Data Controls rules and scope into a PrefService for tests.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/test_utils.h"
 
 #include "base/json/json_reader.h"

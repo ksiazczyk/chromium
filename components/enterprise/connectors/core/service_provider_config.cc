@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service provider configuration implementation
+// summary: Defines the built-in service provider configuration for enterprise connectors, including Google Cloud, local test agents, and Trellix analysis and reporting endpoints.
+// ---
+
 #include "components/enterprise/connectors/core/service_provider_config.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File analysis request base unit tests
+// summary: Unit tests for FileAnalysisRequestBase covering invalid files, MIME type detection, obfuscated downloads, and delayed file opening behavior
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/file_analysis_request_base.h"
 
 #include <optional>

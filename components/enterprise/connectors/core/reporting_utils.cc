@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting event proto helpers implementation
+// summary: Implements helpers that compile browser events such as password breach, login, and interstitial events into reporting protos, with logic shared across platforms for event consistency.
+// ---
+
 #include "components/enterprise/connectors/core/reporting_utils.h"
 
 #include "base/logging.h"

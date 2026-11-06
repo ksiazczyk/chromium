@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attestation service factory interface
+// summary: Declares the singleton factory for creating DeviceAttestationService instances, including an iOS attestation service provider hook.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_DEVICE_ATTESTATION_SERVICE_FACTORY_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_DEVICE_ATTESTATION_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Controls verdict class implementation
+// summary: Implements Verdict factory methods and the merging of paste and copy warning verdicts based on rule levels and triggered rules.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/verdict.h"
 
 #include <utility>

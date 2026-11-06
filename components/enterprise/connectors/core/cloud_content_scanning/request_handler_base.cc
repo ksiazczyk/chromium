@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request handler base implementation
+// summary: Implements RequestHandlerBase, the shared base for deep scanning request handlers, covering upload timing, final action tracking and data transfer trigger mapping.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/request_handler_base.h"
 
 #include "base/notreached.h"

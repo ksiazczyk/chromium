@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files request handler base implementation
+// summary: Implements the base request handler for file deep scanning, mapping deep scan access points to enterprise connectors and reporting canceled or completed scans
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/files_request_handler_base.h"
 
 #include "base/metrics/histogram_functions.h"

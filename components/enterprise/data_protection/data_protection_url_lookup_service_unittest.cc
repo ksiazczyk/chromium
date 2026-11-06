@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the data protection URL lookup service
+// summary: Tests verdict caching behavior of the URL lookup service, covering cache hits, expiry, and query parameter removal with a mocked lookup service.
+// ---
+
 #include "components/enterprise/data_protection/data_protection_url_lookup_service.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for formatting key and trust level values
+// summary: Helper functions that map key trust levels, key types, and sync response codes to human-readable strings.
+// ---
+
 import type {Int32Value} from './connectors_internals.mojom-webui.js';
 import {KeyTrustLevel, KeyType} from './connectors_internals.mojom-webui.js';
 

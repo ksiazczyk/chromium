@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardAnalysisRequest unit tests
+// summary: Unit test checking that repeated GetRequestData calls on ClipboardAnalysisRequest return the same valid contents and size.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/clipboard_analysis_request.h"
 
 #include "base/functional/callback_helpers.h"

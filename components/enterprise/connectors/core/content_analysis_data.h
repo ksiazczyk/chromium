@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis data struct
+// summary: Defines the ContentAnalysisData struct holding text, image, file and print data plus settings and reasons for content analysis scans.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONTENT_ANALYSIS_DATA_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONTENT_ANALYSIS_DATA_H_
 

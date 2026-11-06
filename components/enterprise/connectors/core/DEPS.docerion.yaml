@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enterprise connectors core
+summary: Declares the include rules listing the external components and libraries this directory is allowed to depend on.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise interstitial custom message utilities
+// summary: Implements extraction of the highest-severity admin-configured custom message from real-time URL lookup navigation rules for enterprise interstitials.
+// ---
+
 #include "components/enterprise/connectors/core/enterprise_interstitial_util.h"
 
 #include "base/strings/strcat.h"

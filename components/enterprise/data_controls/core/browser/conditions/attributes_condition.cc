@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attributes condition implementation for Data Controls
+// summary: Implements the root-level attributes condition matching URLs, URL regexes, incognito, OS clipboard, profile, size thresholds, and ChromeOS components.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/attributes_condition.h"
 
 #include <algorithm>

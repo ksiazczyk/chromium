@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the enterprise content directory
+summary: Lists the allowed include paths for code in the enterprise content directory.

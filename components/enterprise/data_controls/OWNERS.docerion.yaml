@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the data_controls directory and directs trivial reviews to the cep-review alias.

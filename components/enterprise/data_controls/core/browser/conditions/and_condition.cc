@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: And condition implementation for Data Controls
+// summary: Implements the AndCondition class, which is triggered only when every sub-condition evaluates to true for a given action context.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/conditions/and_condition.h"
 
 #include <algorithm>

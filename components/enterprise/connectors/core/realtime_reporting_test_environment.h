@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime reporting test environment declaration
+// summary: Declares a set of fake policy and reporting servers for testing security event reporting, with helpers to start them and build test arguments.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REALTIME_REPORTING_TEST_ENVIRONMENT_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REALTIME_REPORTING_TEST_ENVIRONMENT_H_
 

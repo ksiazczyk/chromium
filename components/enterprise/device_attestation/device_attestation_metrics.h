@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attestation metrics declarations
+// summary: Declares the AttestationBlobResult enum and platform-agnostic functions for logging attestation blob generation metrics.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_DEVICE_ATTESTATION_METRICS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_DEVICE_ATTESTATION_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP rules manager base interface
+// summary: Declares the DlpRulesManagerBase keyed service interface for querying enforcement levels, restrictions and URL patterns set by the DataLeakPreventionRulesList policy.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DLP_RULES_MANAGER_BASE_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_DLP_RULES_MANAGER_BASE_H_
 

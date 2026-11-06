@@ -1,0 +1,4 @@
+# Docerion header of device_attestation_service_ios_unittest.mm.
+type: test
+title: DeviceAttestationServiceIOS unit tests
+summary: Unit tests for the iOS device attestation service using mock and error-injecting attestation services to verify content bindings, error handling, and metrics.

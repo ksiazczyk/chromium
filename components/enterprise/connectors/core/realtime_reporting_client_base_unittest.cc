@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime reporting client base unit tests
+// summary: Unit tests exercising the cloud policy client management logic of RealtimeReportingClientBase via a minimal test client and mock device management service.
+// ---
+
 #include "components/enterprise/connectors/core/realtime_reporting_client_base.h"
 
 #include <memory>

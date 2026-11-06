@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content analysis delegate base interface
+// summary: Declares the abstract interface for content analysis dialogs, covering bypass warnings, cancellation and admin-configured custom messages.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONTENT_ANALYSIS_DELEGATE_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONTENT_ANALYSIS_DELEGATE_BASE_H_
 

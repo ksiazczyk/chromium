@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the enterprise content directory
+summary: Lists the individual owner and review alias responsible for reviewing changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files request handler base unit tests
+// summary: Unit tests for FilesRequestHandlerBase using mock delegates and upload services to verify file scanning request handling and reporting
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/files_request_handler_base.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the enterprise core component
+summary: Defines the core source_set that publicly exposes dependency_factory.h and depends on the policy core common component.

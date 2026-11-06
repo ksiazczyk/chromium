@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the connectors internals WebUI
+summary: Defines the WebUI build target, listing static, web component, TypeScript, and Mojo files for the connectors internals page.

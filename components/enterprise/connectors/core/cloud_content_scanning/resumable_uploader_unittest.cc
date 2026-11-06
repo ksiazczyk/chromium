@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resumable uploader unit tests
+// summary: Unit tests for ResumableUploadRequest covering resumable uploads of files, page content and pasted images, verdict handling and upload metrics.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/resumable_uploader.h"
 
 #include <memory>

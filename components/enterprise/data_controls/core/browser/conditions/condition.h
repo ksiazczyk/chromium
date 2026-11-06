@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition interface for Data Controls policies
+// summary: Defines the abstract Condition interface with CanBeEvaluated and IsTriggered methods for evaluating Data Controls policy conditions.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_CONDITIONS_CONDITION_H_
 #define COMPONENTS_ENTERPRISE_DATA_CONTROLS_CORE_BROWSER_CONDITIONS_CONDITION_H_
 

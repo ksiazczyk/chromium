@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard restriction service unit tests
+// summary: Tests the service behavior for enable and disable URL patterns, wildcards, and the minimum data size threshold.
+// ---
+
 #include "components/enterprise/content/clipboard_restriction_service.h"
 
 #include "components/enterprise/content/pref_names.h"

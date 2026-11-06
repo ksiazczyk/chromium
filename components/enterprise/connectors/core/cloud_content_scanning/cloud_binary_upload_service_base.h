@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudBinaryUploadServiceBase class declaration
+// summary: Declares CloudBinaryUploadServiceBase, which encapsulates uploading data for deep scanning with a delegate for access tokens and policy checks, plus request tracking.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CLOUD_BINARY_UPLOAD_SERVICE_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_CLOUD_BINARY_UPLOAD_SERVICE_BASE_H_
 

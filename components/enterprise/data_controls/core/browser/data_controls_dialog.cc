@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataControlsDialog base class implementation
+// summary: Implements callback management for the DataControlsDialog base class that reports whether a user bypassed a warning.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/data_controls_dialog.h"
 
 #include "base/check_op.h"

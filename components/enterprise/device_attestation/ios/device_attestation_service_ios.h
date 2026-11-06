@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAttestationServiceIOS class header
+// summary: Declares the iOS implementation of DeviceAttestationService that wraps an AttestationServiceIOS to build content bindings and return attestation responses.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_IOS_DEVICE_ATTESTATION_SERVICE_IOS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_ATTESTATION_IOS_DEVICE_ATTESTATION_SERVICE_IOS_H_
 

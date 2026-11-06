@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the enterprise content component
+summary: Defines the static library and unit test targets with their sources and dependencies for the clipboard restriction and copy prevention code.

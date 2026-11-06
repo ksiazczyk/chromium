@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab management element for connector panels
+// summary: Defines the connectors-tabs element that builds tab buttons, switches panels, and syncs selection with the URL hash.
+// ---
+
 import '/strings.m.js';
 
 import {CustomElement} from 'chrome://resources/js/custom_element.js';

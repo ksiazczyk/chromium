@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise Connectors policy handler unit tests
+// summary: Unit tests verifying validation and pref application of the Enterprise Connectors policy handler for valid, invalid and local content analysis policies.
+// ---
+
 #include "components/enterprise/connectors/core/enterprise_connectors_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common enterprise connectors utilities
+// summary: Implements shared helpers for enterprise connectors, including UMA metric name mappings and rule action to acknowledgement conversions.
+// ---
+
 #include "components/enterprise/connectors/core/common.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service provider configuration unit tests
+// summary: Unit tests verifying the built-in service provider configuration, including Google endpoints, supported tags, regionalized URLs, and local test providers.
+// ---
+
 #include "components/enterprise/connectors/core/service_provider_config.h"
 
 #include "base/files/file_path.h"

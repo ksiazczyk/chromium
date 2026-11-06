@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Controls rules service base implementation
+// summary: Implements the keyed service that evaluates Data Controls rules to produce verdicts for clipboard, download, and screenshot actions.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/rules_service_base.h"
 
 #include "base/metrics/histogram_functions.h"

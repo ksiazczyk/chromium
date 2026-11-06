@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP histogram helper implementation
+// summary: Implements helper functions that record DLP-related UMA histograms, including boolean, count and configured-restriction metrics under the Enterprise.Dlp prefix.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/dlp_histogram_helper.h"
 
 #include <string>

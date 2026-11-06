@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BinaryUploadAck implementation
+// summary: Implements the BinaryUploadAck class that sets the request token, status and final action for content analysis acknowledgements.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/binary_upload_ack.h"
 
 namespace enterprise_connectors {

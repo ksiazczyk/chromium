@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime reporting client base declaration
+// summary: Declares a keyed service base class that observes Safe Browsing events and reports events to the Chrome reporting server API.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REALTIME_REPORTING_CLIENT_BASE_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REALTIME_REPORTING_CLIENT_BASE_H_
 

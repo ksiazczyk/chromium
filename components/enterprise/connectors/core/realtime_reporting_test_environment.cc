@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime reporting test environment implementation
+// summary: Implements a test environment that starts fake policy and reporting servers and supplies command-line arguments for security event reporting tests.
+// ---
+
 #include "components/enterprise/connectors/core/realtime_reporting_test_environment.h"
 
 #include "base/base_switches.h"

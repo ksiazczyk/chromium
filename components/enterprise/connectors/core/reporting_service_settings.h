@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting service settings class
+// summary: Declares settings parsed from connector policies that determine the reporting service provider and which events are enabled.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REPORTING_SERVICE_SETTINGS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REPORTING_SERVICE_SETTINGS_H_
 

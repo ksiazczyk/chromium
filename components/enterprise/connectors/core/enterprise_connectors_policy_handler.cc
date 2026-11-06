@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Connectors policy handler implementation
+// summary: Implements the schema-validating policy handler that applies Enterprise Connectors policy values and their scope to preferences.
+// ---
+
 #include "components/enterprise/connectors/core/enterprise_connectors_policy_handler.h"
 
 #include "base/values.h"

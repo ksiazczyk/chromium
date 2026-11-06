@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attestation service factory implementation
+// summary: Implements the singleton factory that creates platform-specific attestation services and supports test instance overrides.
+// ---
+
 #include "components/enterprise/device_attestation/device_attestation_service_factory.h"
 
 #include <memory>

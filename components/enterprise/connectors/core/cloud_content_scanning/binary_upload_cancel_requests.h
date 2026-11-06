@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BinaryUploadCancelRequests class declaration
+// summary: Declares the BinaryUploadCancelRequests class used to cancel upload requests matching given criteria on a best-effort basis.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_BINARY_UPLOAD_CANCEL_REQUESTS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_BINARY_UPLOAD_CANCEL_REQUESTS_H_
 

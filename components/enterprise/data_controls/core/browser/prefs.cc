@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Controls profile preference registration
+// summary: Registers the profile preferences that back the DataControlsRules policy and its scope in the preference registry.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File analysis request base implementation
+// summary: Implements the base binary upload request that reads file contents, detects MIME types, computes hashes, and prepares data for cloud content scanning
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/file_analysis_request_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Connectors feature flags
+// summary: Defines feature flags and parameters for enterprise connectors, covering content analysis size limits, encrypted uploads, DLP scanning and upload cancellation.
+// ---
+
 #include "components/enterprise/connectors/core/features.h"
 
 #include "build/build_config.h"

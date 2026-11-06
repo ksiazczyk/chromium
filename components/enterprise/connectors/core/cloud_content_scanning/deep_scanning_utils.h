@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deep scanning utilities
+// summary: Declares helpers for reporting content analysis verdicts, warning bypasses, and classifying scan upload results as failures.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_DEEP_SCANNING_UTILS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CLOUD_CONTENT_SCANNING_DEEP_SCANNING_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector data pipe getter implementation
+// summary: Implements the data pipe getter that streams file, page, and obfuscated or chunked content into cloud scan upload requests.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/connector_data_pipe_getter.h"
 
 #include <algorithm>

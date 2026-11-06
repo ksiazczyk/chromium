@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise data protection feature flags
+// summary: Defines base features for screenshot protection, verdict cache size, and watermark timestamp timezone, plus their field trial parameters.
+// ---
+
 #include "components/enterprise/data_protection/features.h"
 
 #include "build/build_config.h"

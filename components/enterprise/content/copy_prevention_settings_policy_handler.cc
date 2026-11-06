@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy prevention settings policy handler implementation
+// summary: Validates the CopyPreventionSettings policy schema and applies it to preferences, defaulting the minimum data size to 100 bytes.
+// ---
+
 #include "components/enterprise/content/copy_prevention_settings_policy_handler.h"
 
 #include "components/enterprise/content/pref_names.h"

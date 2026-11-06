@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise connectors shared constants and type aliases
+// summary: Header defining shared policy keys, tags, enums and type aliases used across the enterprise connectors code.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_COMMON_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_COMMON_H_
 

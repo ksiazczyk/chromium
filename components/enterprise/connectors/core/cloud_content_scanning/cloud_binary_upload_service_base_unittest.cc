@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud binary upload service base unit tests
+// summary: Unit tests for the base cloud binary upload service, covering upload URLs, request metrics, and early request termination.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/cloud_binary_upload_service_base.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for enterprise data protection utils
+// summary: Unit tests verifying GetUrlSettings and GetWatermarkString behavior, including screenshot blocking and watermark text derived from Safe Browsing real-time lookup responses.
+// ---
+
 #include "components/enterprise/data_protection/utils.h"
 
 #include <vector>

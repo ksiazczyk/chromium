@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the connectors internals Mojo bindings
+summary: GN build file that defines the mojom target compiling connectors_internals.mojom with a WebUI module path and a dependency on Mojo base types.

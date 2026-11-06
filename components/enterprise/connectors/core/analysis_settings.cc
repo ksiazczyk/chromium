@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Analysis settings implementation
+// summary: Implements constructors, comparison operators, and accessors for the cloud and local analysis settings structs and their variant wrapper.
+// ---
+
 #include "components/enterprise/connectors/core/analysis_settings.h"
 
 #include <variant>

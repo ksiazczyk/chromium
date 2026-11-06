@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChunkedFileDataPipeProducer unit tests
+// summary: Unit tests verifying that ChunkedFileDataPipeProducer reads regular and obfuscated files correctly in chunks, using parameterized tests over obfuscated and plain content.
+// ---
+
 #include "components/enterprise/connectors/core/cloud_content_scanning/chunked_file_data_pipe_producer.h"
 
 #include "base/files/file_util.h"

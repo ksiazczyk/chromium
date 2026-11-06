@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for connectors internals page utilities
+// summary: Declares helpers that convert client identity, certificate and reporting data into Mojo structures for the connectors internals page.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONNECTORS_INTERNALS_UTILS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_CONNECTORS_INTERNALS_UTILS_H_
 

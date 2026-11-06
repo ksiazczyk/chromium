@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard restriction service header
+// summary: Declares the clipboard restriction keyed service and its browser context factory, exposing a check for whether copying from a URL is allowed.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONTENT_CLIPBOARD_RESTRICTION_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_CONTENT_CLIPBOARD_RESTRICTION_SERVICE_H_
 

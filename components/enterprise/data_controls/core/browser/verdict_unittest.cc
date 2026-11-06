@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Data Controls verdict class
+// summary: Tests verdict levels and the merging behavior of paste and copy warning verdicts across all level combinations.
+// ---
+
 #include "components/enterprise/data_controls/core/browser/verdict.h"
 
 #include <vector>

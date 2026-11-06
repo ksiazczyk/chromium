@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the data controls clipboard browser sources
+summary: GN build file defining the browser source set with the clipboard data files and a unit test target for the enterprise data controls component.

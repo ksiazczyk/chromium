@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting event proto helpers declarations
+// summary: Declares shared helper functions that build enterprise reporting event protos, mask usernames, and create URL matchers for opt-in event filters.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REPORTING_UTILS_H_
 #define COMPONENTS_ENTERPRISE_CONNECTORS_CORE_REPORTING_UTILS_H_
 
