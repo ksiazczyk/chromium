@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PageNodeObserver for graph tests
+// summary: Declares a GMock PageNodeObserver with lenient and strict variants that mock all page node observer callbacks for performance manager tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_MOCK_PAGE_NODE_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_MOCK_PAGE_NODE_OBSERVER_H_
 

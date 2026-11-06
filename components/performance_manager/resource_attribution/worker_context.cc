@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerContext implementation
+// summary: Implements WorkerContext, which pairs a worker token with a weak reference to its worker node and provides factory methods to create contexts from tokens or nodes.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/worker_context.h"
 
 #include <optional>

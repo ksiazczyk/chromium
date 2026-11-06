@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeAttachedDataStorage implementation
+// summary: Implements attach, get and detach operations for data objects attached to graph nodes.
+// ---
+
 #include "components/performance_manager/graph/node_attached_data_storage.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8DetailedMemoryDecorator class declaration
+// summary: Declares the graph-registered decorator that tracks V8 memory measurement requests and exposes per-frame, per-worker, and per-process memory data.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_DETAILED_MEMORY_DECORATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_DETAILED_MEMORY_DECORATOR_H_
 

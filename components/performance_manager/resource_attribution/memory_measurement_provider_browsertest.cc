@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory Measurement Provider Browser Tests
+// summary: Browser tests for MemoryMeasurementProvider verifying real memory summaries, including correct attribution of private swap via a wrapped test delegate.
+// ---
+
 #include "components/performance_manager/resource_attribution/memory_measurement_provider.h"
 
 #include <map>

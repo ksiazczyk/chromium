@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper to install the page aggregator
+// summary: Provides CreatePageAggregatorAndPassItToGraph, which adds a PageAggregator decorator to the performance manager graph in tests.
+// ---
+
 #include "components/performance_manager/test_support/page_aggregator.h"
 
 #include "components/performance_manager/decorators/page_aggregator.h"

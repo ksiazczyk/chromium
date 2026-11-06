@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node data describer utility unit tests
+// summary: Tests DumpNodeDescription and DumpRegisteredDescribers output with and without registered describers.
+// ---
+
 #include "components/performance_manager/public/graph/node_data_describer_util.h"
 
 #include <optional>

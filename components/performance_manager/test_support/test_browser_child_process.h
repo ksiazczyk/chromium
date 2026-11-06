@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test browser child process
+// summary: Declares a BrowserChildProcessHost delegate wrapper with SimulateLaunch and SimulateDisconnect helpers for creating process nodes in unit tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_TEST_BROWSER_CHILD_PROCESS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_TEST_BROWSER_CHILD_PROCESS_H_
 

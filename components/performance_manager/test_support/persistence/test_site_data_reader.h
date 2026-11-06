@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleTestSiteDataReader test fake header
+// summary: Declares SimpleTestSiteDataReader, a test fake returning configurable optional background feature usage values for favicon, title and audio.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PERSISTENCE_TEST_SITE_DATA_READER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PERSISTENCE_TEST_SITE_DATA_READER_H_
 

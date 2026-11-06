@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS battery level provider implementation
+// summary: Implements BatteryLevelProviderChromeOS, translating ChromeOS power manager status into battery state with capacities reported in mWh, mAh or relative units.
+// ---
+
 #include "components/performance_manager/power/battery_level_provider_chromeos.h"
 
 #include <optional>

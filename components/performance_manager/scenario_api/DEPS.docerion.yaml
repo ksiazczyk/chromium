@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Scenario API dependency rules
+summary: Sets include and dependency rules so the scenario API can be used from any layer with a narrow set of allowed dependencies.

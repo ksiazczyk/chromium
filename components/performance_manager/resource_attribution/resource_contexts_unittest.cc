@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource contexts unit tests
+// summary: Unit tests verifying that performance manager nodes produce unique, comparable, and hashable resource context tokens.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/resource_contexts.h"
 
 #include "components/performance_manager/test_support/graph_test_harness.h"

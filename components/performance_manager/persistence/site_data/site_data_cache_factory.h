@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataCacheFactory class declaration
+// summary: Declares SiteDataCacheFactory, a singleton mapping browser context IDs to site data caches and inspectors with sequence-checked access and test hooks.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_SITE_DATA_CACHE_FACTORY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_SITE_DATA_CACHE_FACTORY_H_
 

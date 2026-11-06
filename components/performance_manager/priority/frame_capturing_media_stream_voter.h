@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameCapturingMediaStreamVoter header
+// summary: Declares FrameCapturingMediaStreamVoter, a frame observer that boosts priority of frames capturing audio or video media streams.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FRAME_CAPTURING_MEDIA_STREAM_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FRAME_CAPTURING_MEDIA_STREAM_VOTER_H_
 

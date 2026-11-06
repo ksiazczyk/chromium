@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker node implementation unit tests
+// summary: Unit tests for WorkerNodeImpl covering safe downcasting, properties, URL determination, and client frame and worker edge management.
+// ---
+
 #include "components/performance_manager/graph/worker_node_impl.h"
 
 #include "base/scoped_observation.h"

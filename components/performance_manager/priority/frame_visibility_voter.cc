@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameVisibilityVoter implementation
+// summary: Implements FrameVisibilityVoter, which casts priority votes based on frame visibility, including speculative frame handling and optional main-frame visibility ignoring.
+// ---
+
 #include "components/performance_manager/priority/frame_visibility_voter.h"
 
 #include <utility>

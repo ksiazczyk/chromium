@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser performance scenarios implementation
+// summary: Implements browser-side management of shared scenario state memory, updating loading and input scenarios per process or globally and emitting perfetto trace events.
+// ---
+
 #include "components/performance_manager/scenarios/browser_performance_scenarios.h"
 
 #include <atomic>

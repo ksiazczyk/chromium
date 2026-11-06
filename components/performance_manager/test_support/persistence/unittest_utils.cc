@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test utilities implementation
+// summary: Implements MockSiteDataImplOnDestroyDelegate and NoopSiteDataStore, a SiteDataStore that records nothing and returns empty results for tests.
+// ---
+
 #include "components/performance_manager/test_support/persistence/unittest_utils.h"
 
 #include <utility>

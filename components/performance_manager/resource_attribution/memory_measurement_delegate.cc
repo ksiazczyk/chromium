@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Measurement Delegate Implementation
+// summary: Implements the production MemoryMeasurementDelegate that measures process memory through memory instrumentation and maps results to process contexts.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/memory_measurement_delegate.h"
 
 #include <utility>

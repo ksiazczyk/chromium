@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exponential moving average header
+// summary: Declares the ExponentialMovingAverage class, which maintains a weighted moving average of appended data samples.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_EXPONENTIAL_MOVING_AVERAGE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_EXPONENTIAL_MOVING_AVERAGE_H_
 

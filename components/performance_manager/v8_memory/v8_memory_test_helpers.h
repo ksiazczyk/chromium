@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 memory test helper declarations
+// summary: Declares mock reporters and helper base classes used to simulate renderer memory measurement results in performance manager V8 memory tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_MEMORY_TEST_HELPERS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_MEMORY_TEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NodeBase unit tests
+// summary: Tests associated page and process node lookups across several mock graph configurations.
+// ---
+
 #include "components/performance_manager/graph/node_base.h"
 #include "components/performance_manager/graph/graph_impl_operations.h"
 #include "components/performance_manager/graph/page_node_impl.h"

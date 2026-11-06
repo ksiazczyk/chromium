@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingPageVoter class declaration
+// summary: Declares LoadingPageVoter, a priority voter that casts votes on loading pages to speed up active tab loads and keep user-requested background loads responsive.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_LOADING_PAGE_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_LOADING_PAGE_VOTER_H_
 

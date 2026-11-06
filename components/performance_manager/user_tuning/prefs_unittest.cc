@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for user tuning preference migration
+// summary: Tests migration of the memory saver mode preference from the old boolean pref to the new state enum across user-set and default scenarios.
+// ---
+
 #include "components/performance_manager/public/user_tuning/prefs.h"
 
 #include <utility>

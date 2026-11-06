@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forward declarations for scenario memory types
+// summary: Provides forward declarations and the RefCountedScenarioMapping alias for scenario shared memory types.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIO_API_PERFORMANCE_SCENARIO_MEMORY_FORWARD_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIO_API_PERFORMANCE_SCENARIO_MEMORY_FORWARD_H_
 

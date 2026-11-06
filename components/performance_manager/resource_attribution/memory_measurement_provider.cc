@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Measurement Provider Implementation
+// summary: Implements MemoryMeasurementProvider, which requests process memory summaries and distributes results to page, frame, worker, and process contexts.
+// ---
+
 #include "components/performance_manager/resource_attribution/memory_measurement_provider.h"
 
 #include <utility>

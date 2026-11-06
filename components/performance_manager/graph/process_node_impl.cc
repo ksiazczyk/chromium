@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process node implementation
+// summary: Implements ProcessNodeImpl, the graph node that tracks the lifetime, priority and state of a browser, renderer or child process.
+// ---
+
 #include "components/performance_manager/graph/process_node_impl.h"
 
 #include <optional>

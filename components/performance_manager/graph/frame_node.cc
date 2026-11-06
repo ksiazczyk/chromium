@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameNode public interface implementation
+// summary: Implements the public FrameNode interface and FrameNodeObserver base class, forwarding the default priority reason to the internal frame node.
+// ---
+
 #include "components/performance_manager/public/graph/frame_node.h"
 
 #include "components/performance_manager/graph/frame_node_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextCollection implementation
+// summary: Implements adding, membership testing, and test construction for collections of resource contexts and context types.
+// ---
+
 #include "components/performance_manager/resource_attribution/context_collection.h"
 
 #include <utility>

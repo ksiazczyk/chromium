@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page node implementation unit tests
+// summary: Unit tests for PageNodeImpl covering safe downcasting, frame relationships, visibility and audible change timing.
+// ---
+
 #include "components/performance_manager/graph/page_node_impl.h"
 
 #include <algorithm>

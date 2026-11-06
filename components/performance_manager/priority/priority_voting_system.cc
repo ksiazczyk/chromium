@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriorityVotingSystem implementation
+// summary: Implements PriorityVotingSystem, wiring priority voters, the page-to-frame vote expander and the process priority aggregator into the graph and checking for leaked votes.
+// ---
+
 #include "components/performance_manager/public/priority/priority_voting_system.h"
 
 #include "base/check.h"

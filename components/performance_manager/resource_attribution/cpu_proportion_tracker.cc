@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU Proportion Tracker Implementation
+// summary: Implements CPUProportionTracker, which converts cumulative CPU measurements into per-context CPU usage proportions across measurement intervals.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/cpu_proportion_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionServiceWorkerVoter class declaration
+// summary: Declares the ExtensionServiceWorkerVoter class, a priority voter and worker node observer that keeps extension service workers at the correct task priority.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_EXTENSION_SERVICE_WORKER_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_EXTENSION_SERVICE_WORKER_VOTER_H_
 

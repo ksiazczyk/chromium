@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeAttachedData implementation
+// summary: Implements NodeAttachedDataMapHelper to attach, retrieve and detach per-node data by dispatching to the storage of the matching node type.
+// ---
+
 #include "components/performance_manager/public/graph/node_attached_data.h"
 
 #include <utility>

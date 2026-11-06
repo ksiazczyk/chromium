@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scenario observer list implementation
+// summary: Implements thread-safe observer lists that notify observers when performance scenario values change or match patterns.
+// ---
+
 #include "components/performance_manager/scenario_api/performance_scenario_observer.h"
 
 #include <atomic>

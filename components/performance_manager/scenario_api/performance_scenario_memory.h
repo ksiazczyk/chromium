@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scenario shared memory mapping declarations
+// summary: Declares ScenarioState and scoped objects that map scenario state shared memory and own the observer list for a scope.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIO_API_PERFORMANCE_SCENARIO_MEMORY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIO_API_PERFORMANCE_SCENARIO_MEMORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph test harness and test node wrapper declarations
+// summary: Declares unique test ID generators, TestNodeWrapper and the GraphTestHarness fixture for building performance manager graphs in unit tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_TEST_HARNESS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_GRAPH_TEST_HARNESS_H_
 

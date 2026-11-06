@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NodeDataDescriber default implementation
+// summary: Provides default empty describer implementations for frame, page, process, system and worker node data.
+// ---
+
 #include "components/performance_manager/public/graph/node_data_describer.h"
 
 namespace performance_manager {

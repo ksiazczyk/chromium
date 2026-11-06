@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameVisibilityVoter header
+// summary: Declares a voter that casts votes for frames based on visibility, giving visible frames user-blocking priority and handling speculative frames.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FRAME_VISIBILITY_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FRAME_VISIBILITY_VOTER_H_
 

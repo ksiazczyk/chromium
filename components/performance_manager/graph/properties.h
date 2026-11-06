@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node property helpers
+// summary: Defines traced and observed property wrapper classes that set node values, emit perfetto trace state and notify observers of changes.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_PROPERTIES_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_PROPERTIES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-recording site data cache implementation
+// summary: Implements a site data cache that never persists data, serving readers from another cache and returning no-op writers.
+// ---
+
 #include "components/performance_manager/persistence/site_data/non_recording_site_data_cache.h"
 
 #include "base/check.h"

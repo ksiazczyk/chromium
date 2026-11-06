@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 context tracker header
+// summary: Declares the V8ContextTracker class, which tracks V8 contexts per render process and exposes state queries for execution contexts, detached contexts, and iframe attribution data.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_CONTEXT_TRACKER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_CONTEXT_TRACKER_H_
 

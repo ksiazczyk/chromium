@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphOperations implementation
+// summary: Implements the public GraphOperations API for graph queries and frame tree traversals by delegating to the internal GraphImplOperations helpers.
+// ---
+
 #include "components/performance_manager/public/graph/graph_operations.h"
 
 #include "components/performance_manager/graph/frame_node_impl.h"

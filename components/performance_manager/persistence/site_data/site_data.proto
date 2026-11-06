@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data protobuf definitions
+// summary: Defines protobuf messages tracking per-site features, background usage timestamps, and decaying-average performance measurements for the performance manager.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU measurement delegate implementation
+// summary: Implements the production CPU measurement delegate using base::ProcessMetrics and its default factory, including Android sandbox restrictions.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/cpu_measurement_delegate.h"
 
 #include "base/check.h"

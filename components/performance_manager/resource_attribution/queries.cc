@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource usage queries implementation
+// summary: Implements ScopedResourceUsageQuery and its throttled timer that schedules resource usage queries through the query scheduler.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/queries.h"
 
 #include <utility>

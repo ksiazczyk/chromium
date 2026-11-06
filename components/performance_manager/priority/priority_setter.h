@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrioritySetter class header
+// summary: Declares PrioritySetter, which applies the top vote from MaxVoteAggregator as the priority of frames, workers and renderer processes, falling back to the default priority.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_PRIORITY_SETTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_PRIORITY_SETTER_H_
 

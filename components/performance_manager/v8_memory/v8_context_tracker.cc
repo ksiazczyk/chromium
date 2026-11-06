@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 context tracker implementation
+// summary: Implements the V8ContextTracker, which tracks V8 contexts in renderers through their lifecycle, including detached contexts and iframe attribution, for the performance.measureMemory API.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker.h"
 
 #include <string_view>

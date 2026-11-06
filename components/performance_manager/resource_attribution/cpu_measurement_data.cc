@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU measurement data implementation
+// summary: Implements per-process CPU measurement data storage and dictionary descriptions of shared CPU time results.
+// ---
+
 #include "components/performance_manager/resource_attribution/cpu_measurement_data.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameCapturingMediaStreamVoter implementation
+// summary: Implements FrameCapturingMediaStreamVoter, which casts USER_BLOCKING votes for frames capturing a media stream and lowest-priority votes otherwise.
+// ---
+
 #include "components/performance_manager/priority/frame_capturing_media_stream_voter.h"
 
 #include <utility>

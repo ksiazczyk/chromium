@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process node data describer
+// summary: Converts process node state such as content types, priority and process metrics into human-readable values for debugging.
+// ---
+
 #include "components/performance_manager/graph/process_node_impl_describer.h"
 
 #include "base/i18n/time_formatting.h"

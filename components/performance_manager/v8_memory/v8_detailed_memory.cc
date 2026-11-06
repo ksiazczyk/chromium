@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 detailed memory measurement request implementation
+// summary: Implements V8DetailedMemoryRequest, the public API for starting and managing detailed V8 memory measurement requests against renderer processes in the performance manager graph.
+// ---
+
 #include "components/performance_manager/public/v8_memory/v8_detailed_memory.h"
 
 #include <memory>

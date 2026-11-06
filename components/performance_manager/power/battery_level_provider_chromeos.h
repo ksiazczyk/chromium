@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS battery level provider class declaration
+// summary: Declares BatteryLevelProviderChromeOS, a base::BatteryLevelProvider that queries the ChromeOS power manager client for battery state.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_POWER_BATTERY_LEVEL_PROVIDER_CHROMEOS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_POWER_BATTERY_LEVEL_PROVIDER_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance scenarios implementation
+// summary: Implements accessors that read loading and input scenario state from shared memory and match it against scenario patterns.
+// ---
+
 #include "components/performance_manager/scenario_api/performance_scenarios.h"
 
 #include <atomic>

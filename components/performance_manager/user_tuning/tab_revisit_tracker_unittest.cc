@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the tab revisit tracker
+// summary: Verifies tab state change tracking and the resulting UKM and histogram metrics using graph test harnesses and a test UKM recorder.
+// ---
+
 #include "components/performance_manager/public/user_tuning/tab_revisit_tracker.h"
 
 #include <memory>

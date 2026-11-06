@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 context tracker helpers header
+// summary: Declares helper functions and counting classes used by the V8 context tracker, such as cross-process parent checks, description validation status, and context count bookkeeping.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_CONTEXT_TRACKER_HELPERS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_V8_CONTEXT_TRACKER_HELPERS_H_
 

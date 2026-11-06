@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test browser child process implementation
+// summary: Implements a test wrapper around BrowserChildProcessHost that simulates launch and disconnect to create and delete child process nodes in tests.
+// ---
+
 #include "components/performance_manager/test_support/test_browser_child_process.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InheritClientPriorityVoter unit tests
+// summary: Unit tests verifying that child workers receive inherited votes from their client frames and workers.
+// ---
+
 #include "components/performance_manager/priority/inherit_client_priority_voter.h"
 
 #include "base/memory/raw_ptr.h"

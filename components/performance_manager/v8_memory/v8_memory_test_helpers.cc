@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 memory test helper implementations
+// summary: Implements shared test helpers, including a mock V8DetailedMemoryReporter mojo interface and base classes for setting up fake V8 memory measurement expectations.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_memory_test_helpers.h"
 
 #include <utility>

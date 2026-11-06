@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GraphOperations unit tests
+// summary: Unit tests for the public GraphOperations API, verifying associated page and process nodes, frame node ordering, and frame tree visits.
+// ---
+
 #include "components/performance_manager/public/graph/graph_operations.h"
 
 #include <algorithm>

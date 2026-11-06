@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result metadata describer implementation
+// summary: Implements DescribeResultMetadata, converting resource attribution result metadata into a dictionary with the measurement algorithm name and measurement time.
+// ---
+
 #include "components/performance_manager/resource_attribution/node_data_describers.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForceForegroundVoter unit tests
+// summary: Unit tests verifying that ForceForegroundVoter casts USER_BLOCKING votes for all frames and workers in a mock performance manager graph.
+// ---
+
 #include "components/performance_manager/priority/force_foreground_voter.h"
 
 #include "components/performance_manager/public/graph/graph.h"

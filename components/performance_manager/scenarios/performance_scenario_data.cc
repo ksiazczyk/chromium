@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance scenario data implementation
+// summary: Implements PerformanceScenarioData, managing shared scenario memory state and Perfetto tracing tracks for loading and input scenarios.
+// ---
+
 #include "components/performance_manager/scenarios/performance_scenario_data.h"
 
 #include <memory>

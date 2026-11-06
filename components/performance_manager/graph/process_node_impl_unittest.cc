@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process node unit tests
+// summary: Unit tests covering process node lifecycle, safe downcasting and process property behavior using the graph test harness.
+// ---
+
 #include "components/performance_manager/graph/process_node_impl.h"
 
 #include <algorithm>

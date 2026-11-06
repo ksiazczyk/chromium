@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page node implementation
+// summary: Implements PageNodeImpl, tracking page visibility, loading state, properties and perfetto tracing for the performance manager graph.
+// ---
+
 #include "components/performance_manager/graph/page_node_impl.h"
 
 #include <algorithm>

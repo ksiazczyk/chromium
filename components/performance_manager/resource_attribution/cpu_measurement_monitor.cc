@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU measurement monitor implementation
+// summary: Implements periodic CPU usage collection and distribution of results to frames, workers, pages, and origins in browsing instances.
+// ---
+
 #include "components/performance_manager/resource_attribution/cpu_measurement_monitor.h"
 
 #include <algorithm>

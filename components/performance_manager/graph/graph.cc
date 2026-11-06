@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph and GraphOwned base implementation
+// summary: Implements the public Graph interface base and the GraphOwned lifecycle for passing objects to and taking them from the graph.
+// ---
+
 #include "components/performance_manager/public/graph/graph.h"
 
 #include "base/check_op.h"

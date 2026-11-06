@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphImpl class declaration
+// summary: Declares the browser node graph with observer lists, node accessors, graph-owned and registered object handling and downcasting helpers.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_GRAPH_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_GRAPH_IMPL_H_
 

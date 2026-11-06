@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helpers for page node decorator properties
+// summary: Template helpers that check a page node decorator property value and run end-to-end boolean property change tests from a WebContents.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_DECORATORS_UTILS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_DECORATORS_UTILS_H_
 

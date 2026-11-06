@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphImpl implementation
+// summary: Implements the performance manager graph, including node registries, observer management and the node data describer registry.
+// ---
+
 #include "components/performance_manager/graph/graph_impl.h"
 
 #include <string_view>

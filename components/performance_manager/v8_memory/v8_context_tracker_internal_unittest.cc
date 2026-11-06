@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 context tracker internal unit tests
+// summary: Unit tests for the internal V8ContextTracker data structures, including death tests for invalid context data handling and main world context accounting.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_context_tracker_internal.h"
 
 #include <memory>

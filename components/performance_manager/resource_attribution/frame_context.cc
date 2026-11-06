@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame Context Implementation
+// summary: Implements FrameContext, which identifies render frames by global routing ID and a weak frame node pointer for resource attribution queries.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/frame_context.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceForegroundVoter class declaration
+// summary: Declares the ForceForegroundVoter class, a priority voter that boosts the priority of all frames and workers unconditionally.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FORCE_FOREGROUND_VOTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FORCE_FOREGROUND_VOTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameVisibilityVoter unit tests
+// summary: Unit tests verifying that the frame visibility voter casts votes matching frame visibility, importance, and speculative frame behavior.
+// ---
+
 #include "components/performance_manager/priority/frame_visibility_voter.h"
 
 #include "base/memory/raw_ptr.h"

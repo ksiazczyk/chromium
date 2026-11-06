@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node data describer utilities
+// summary: Helper functions that convert node data such as durations, timestamps and priorities into values for dumping.
+// ---
+
 #include "components/performance_manager/public/graph/node_data_describer_util.h"
 
 #include <string_view>

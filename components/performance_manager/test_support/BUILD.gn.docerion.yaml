@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for performance manager test support
+summary: Defines test-only GN source sets that expose the graph implementation, test fixtures and test support code to performance manager tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InheritClientPriorityVoter implementation
+// summary: Implements propagation of a client frame or worker's priority to its child workers using a max vote aggregator.
+// ---
+
 #include "components/performance_manager/priority/inherit_client_priority_voter.h"
 
 #include <optional>

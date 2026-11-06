@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicActuationPriorityVoter unit tests
+// summary: Unit tests verifying Glic actuation votes are cast only for active main frames with the expected priorities.
+// ---
+
 #include "components/performance_manager/priority/glic_actuation_priority_voter.h"
 
 #include <memory>

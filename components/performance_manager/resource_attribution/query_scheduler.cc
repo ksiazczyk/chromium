@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryScheduler implementation
+// summary: Implements the scheduler that tracks scoped resource attribution queries and drives the CPU and memory measurement machinery.
+// ---
+
 #include "components/performance_manager/resource_attribution/query_scheduler.h"
 
 #include <algorithm>

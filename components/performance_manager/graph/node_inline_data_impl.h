@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node inline data storage implementation
+// summary: Defines internal OptionalStorage and SparseStorage classes that back NodeInlineData and SparseNodeInlineData node data storage.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_INLINE_DATA_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_INLINE_DATA_IMPL_H_
 

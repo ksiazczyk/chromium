@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node inline data helpers
+// summary: Defines templates for storing per-node data inline or sparsely within graph node implementations.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_INLINE_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_NODE_INLINE_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataCacheFactory implementation
+// summary: Implements the factory that creates and tracks SiteDataCache instances and inspectors for each browser context on the performance manager sequence.
+// ---
+
 #include "components/performance_manager/persistence/site_data/site_data_cache_factory.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForceForegroundVoterForUrls unit tests
+// summary: Unit tests verifying that ForceForegroundVoterForUrls casts foreground votes for frames and workers whose URLs match configured patterns.
+// ---
+
 #include "components/performance_manager/priority/force_foreground_voter_for_urls.h"
 
 #include <memory>

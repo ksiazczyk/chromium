@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process priority policy implementation
+// summary: Implements the ProcessPriorityPolicy that applies ProcessNode priority changes to real processes via RenderProcessHost::SetPriorityOverride, including a Windows browser-process priority path and testing seams.
+// ---
+
 #include "components/performance_manager/graph/policies/process_priority_policy.h"
 
 #include "components/performance_manager/public/features.h"

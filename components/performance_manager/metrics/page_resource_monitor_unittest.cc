@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PageResourceMonitor CPU and memory metrics
+// summary: Graph harness tests exercising PageResourceMonitor with simulated CPU and memory measurement delegates and a test UKM recorder to verify page resource usage reporting.
+// ---
+
 #include "components/performance_manager/public/metrics/page_resource_monitor.h"
 
 #include <map>

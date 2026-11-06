@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus power manager sampling event source class declaration
+// summary: Declares DbusPowerManagerSamplingEventSource, a sampling event source observing the ChromeOS power manager client to trigger battery state sampling.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_POWER_DBUS_POWER_MANAGER_SAMPLING_EVENT_SOURCE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_POWER_DBUS_POWER_MANAGER_SAMPLING_EVENT_SOURCE_H_
 

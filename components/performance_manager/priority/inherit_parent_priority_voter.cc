@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InheritParentPriorityVoter implementation
+// summary: Implements inheritance of a parent frame's priority by child frames, capped at user-visible and skipping ad frames.
+// ---
+
 #include "components/performance_manager/priority/inherit_parent_priority_voter.h"
 
 #include <optional>

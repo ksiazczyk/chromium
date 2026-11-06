@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the test_support directory
+summary: Grants this directory permission to include headers from net/dns and ui/base.

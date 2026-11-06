@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading scenario observer header
+// summary: Declares LoadingScenarioObserver, a graph observer that maintains loading counts and updates loading scenarios on frame, page and process changes.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_LOADING_SCENARIO_OBSERVER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SCENARIOS_LOADING_SCENARIO_OBSERVER_H_
 

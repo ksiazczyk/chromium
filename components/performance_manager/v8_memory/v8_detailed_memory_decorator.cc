@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8DetailedMemoryDecorator implementation
+// summary: Implements the decorator that queries each renderer process for per-frame V8 memory usage, queues measurement requests, and notifies observers when results are available.
+// ---
+
 #include "components/performance_manager/v8_memory/v8_detailed_memory_decorator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClosingPageVoter unit tests
+// summary: Unit tests verifying that the ClosingPageVoter casts a USER_BLOCKING vote while a page is closing and invalidates the vote when the page node is removed.
+// ---
+
 #include "components/performance_manager/priority/closing_page_voter.h"
 
 #include <memory>

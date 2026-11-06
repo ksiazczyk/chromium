@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test voting helpers
+// summary: Provides test doubles for the voting framework, notably a dummy vote observer that records submitted votes and supports count and membership assertions.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_VOTING_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_VOTING_H_
 

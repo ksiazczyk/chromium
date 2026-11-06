@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin in browsing instance context implementation
+// summary: Implements the OriginInBrowsingInstanceContext resource context that identifies an origin within a browsing instance.
+// ---
+
 #include "components/performance_manager/public/resource_attribution/origin_in_browsing_instance_context.h"
 
 #include <string>

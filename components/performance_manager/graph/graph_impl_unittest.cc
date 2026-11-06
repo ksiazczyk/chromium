@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GraphImpl unit tests
+// summary: Unit tests for GraphImpl covering safe casting, the system node singleton, process lookup by PID including PID reuse, and node collections by type.
+// ---
+
 #include "components/performance_manager/graph/graph_impl.h"
 
 #include <algorithm>

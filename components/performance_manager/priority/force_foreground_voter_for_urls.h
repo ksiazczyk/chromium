@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceForegroundVoterForUrls header
+// summary: Declares a priority voter that boosts the priority of frames and workers whose URLs match per-browser-context URL patterns in the performance manager graph.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FORCE_FOREGROUND_VOTER_FOR_URLS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PRIORITY_FORCE_FOREGROUND_VOTER_FOR_URLS_H_
 

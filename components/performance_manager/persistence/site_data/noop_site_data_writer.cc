@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op site data writer implementation
+// summary: Implements a SiteDataWriter whose notification methods do nothing, used where site observations should not be recorded.
+// ---
+
 #include "components/performance_manager/persistence/site_data/noop_site_data_writer.h"
 
 #include "base/byte_size.h"

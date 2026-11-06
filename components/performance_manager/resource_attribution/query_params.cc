@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryParams implementation
+// summary: Implements constructors, move operations, and cloning for the internal resource attribution query parameters struct.
+// ---
+
 #include "components/performance_manager/resource_attribution/query_params.h"
 
 namespace resource_attribution::internal {

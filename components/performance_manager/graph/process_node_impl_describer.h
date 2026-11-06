@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process node describer declaration
+// summary: Declares ProcessNodeImplDescriber, a graph-owned describer that renders process node data for human consumption.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_PROCESS_NODE_IMPL_DESCRIBER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_PROCESS_NODE_IMPL_DESCRIBER_H_
 

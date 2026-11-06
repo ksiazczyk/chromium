@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page node test utilities implementation
+// summary: Implements test helpers that fetch the PageNode for a WebContents and directly set its type and loading state for unit tests.
+// ---
+
 #include "components/performance_manager/test_support/page_node_utils.h"
 
 #include "base/check.h"

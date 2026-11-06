@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB site data store header
+// summary: Declares LevelDBSiteDataStore, which manages an asynchronous LevelDB database for reading, writing and clearing site data.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_LEVELDB_SITE_DATA_STORE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERSISTENCE_SITE_DATA_LEVELDB_SITE_DATA_STORE_H_
 

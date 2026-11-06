@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test utilities header
+// summary: Declares a mock SiteDataImpl destroy delegate and NoopSiteDataStore, a do-nothing SiteDataStore implementation for unit tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PERSISTENCE_UNITTEST_UTILS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TEST_SUPPORT_PERSISTENCE_UNITTEST_UTILS_H_
 

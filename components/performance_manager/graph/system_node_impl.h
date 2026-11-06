@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System node implementation header
+// summary: Declares SystemNodeImpl, the internal implementation of the system node in the performance manager graph, including process memory metrics notification handling.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_SYSTEM_NODE_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_SYSTEM_NODE_IMPL_H_
 

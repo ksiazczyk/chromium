@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped global scenario memory implementation
+// summary: Implements ScopedGlobalScenarioMemory, which installs and removes the global shared scenario state for the browser process.
+// ---
+
 #include "components/performance_manager/embedder/scoped_global_scenario_memory.h"
 
 #include <memory>

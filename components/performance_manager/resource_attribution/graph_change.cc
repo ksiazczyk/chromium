@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph Change Implementation
+// summary: Implements constructors and destructors for GraphChangeUpdateOrigin, a graph change variant used in resource attribution measurement distribution.
+// ---
+
 #include "components/performance_manager/resource_attribution/graph_change.h"
 
 namespace resource_attribution {

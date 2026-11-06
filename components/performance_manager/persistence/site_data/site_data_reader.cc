@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataReader implementation
+// summary: Implements SiteDataReaderImpl, which exposes read-only access to SiteDataImpl feature usage and registers data-loaded callbacks safely.
+// ---
+
 #include "components/performance_manager/public/persistence/site_data/site_data_reader.h"
 
 #include <utility>

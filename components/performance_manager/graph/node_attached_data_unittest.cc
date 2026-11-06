@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node attached data unit tests
+// summary: Tests creating, retrieving and destroying NodeAttachedData instances on page nodes via mock graphs.
+// ---
+
 #include "components/performance_manager/public/graph/node_attached_data.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMeasureMemory implementation header
+// summary: Declares WebMemoryMeasurer, a helper that sends V8 detailed memory requests to the renderer and formats results into a WebMemoryMeasurement, plus the default security checker.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_WEB_MEMORY_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_V8_MEMORY_WEB_MEMORY_IMPL_H_
 

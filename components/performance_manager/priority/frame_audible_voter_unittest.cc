@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameAudibleVoter unit tests
+// summary: Unit tests verifying FrameAudibleVoter vote updates when a frame's audible state changes and vote removal when the frame is deleted.
+// ---
+
 #include "components/performance_manager/priority/frame_audible_voter.h"
 
 #include "base/memory/raw_ptr.h"

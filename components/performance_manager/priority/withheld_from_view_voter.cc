@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WithheldFromViewVoter implementation
+// summary: Implements a voter that casts kUserBlocking votes for all frames of pages withheld from view until the embedder releases them.
+// ---
+
 #include "components/performance_manager/priority/withheld_from_view_voter.h"
 
 #include <optional>

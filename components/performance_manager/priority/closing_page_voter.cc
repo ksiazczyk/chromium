@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClosingPageVoter implementation
+// summary: Implements the ClosingPageVoter, which casts a USER_BLOCKING vote on pages that are closing and withdraws it when the closing state ends or the page is removed.
+// ---
+
 #include "components/performance_manager/priority/closing_page_voter.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node set view unit tests
+// summary: Typed unit tests verifying iteration and AsVector behavior of NodeSetView over sets of frame nodes.
+// ---
+
 #include "components/performance_manager/public/graph/node_set_view.h"
 
 #include <unordered_set>

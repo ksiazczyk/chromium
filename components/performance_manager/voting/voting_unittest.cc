@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voting system unit tests
+// summary: Unit tests for the performance manager voting framework, verifying vote submission, changes, and invalidation across single and multiple voting channels and contexts.
+// ---
+
 #include "components/performance_manager/public/voting/voting.h"
 
 #include "base/test/gtest_util.h"

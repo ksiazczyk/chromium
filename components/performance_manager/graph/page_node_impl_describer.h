@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page node describer header
+// summary: Declares PageNodeImplDescriber, a graph-owned describer that exposes page node state for human consumption.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_GRAPH_PAGE_NODE_IMPL_DESCRIBER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_GRAPH_PAGE_NODE_IMPL_DESCRIBER_H_
 

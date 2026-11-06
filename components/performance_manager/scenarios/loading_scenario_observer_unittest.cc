@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loading scenario observer unit tests
+// summary: Unit tests verifying that LoadingScenarioObserver updates global and process loading scenarios as page loading states and visibility change.
+// ---
+
 #include "components/performance_manager/scenarios/loading_scenario_observer.h"
 
 #include <atomic>
