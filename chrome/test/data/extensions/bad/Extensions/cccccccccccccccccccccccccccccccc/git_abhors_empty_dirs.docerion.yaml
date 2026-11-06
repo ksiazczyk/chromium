@@ -1,0 +1,4 @@
+# Docerion header of git_abhors_empty_dirs.
+type: test
+title: git_abhors_empty_dirs
+summary: Placeholder file that keeps the empty bad-extension test fixture directory present in the git repository.

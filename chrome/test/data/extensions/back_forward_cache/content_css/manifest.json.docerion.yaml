@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the no-caching test extension
+summary: Manifest for a test extension that injects color.css into all pages to verify injected CSS prevents back/forward cache.

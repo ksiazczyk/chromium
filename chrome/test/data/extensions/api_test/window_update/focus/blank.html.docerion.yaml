@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank page for the window update focus test
+summary: Empty HTML page opened in a new tab by the test before focusing the window.

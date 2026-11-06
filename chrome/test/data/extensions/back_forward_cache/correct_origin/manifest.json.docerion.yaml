@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: No caching test extension manifest
+summary: Manifest for a test extension named 'no caching' that verifies extension permission is scoped to the correct origin even with the back/forward cache present.

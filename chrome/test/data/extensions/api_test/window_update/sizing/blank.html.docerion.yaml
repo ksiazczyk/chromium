@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank page fixture for the window update sizing test
+summary: Empty HTML page opened in a new tab by the test script while it resizes the current window.

@@ -1,0 +1,4 @@
+# Docerion header of icon_url.html.
+type: test
+title: Icon URL test page
+summary: HTML harness that loads common.js and icon_url.js to run the icon URL install tests.

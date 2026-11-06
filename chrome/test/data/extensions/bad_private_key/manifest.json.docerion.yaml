@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bad extension test manifest
+summary: Manifest for a deliberately bad test extension used as fixture data in the bad_private_key extension test directory.

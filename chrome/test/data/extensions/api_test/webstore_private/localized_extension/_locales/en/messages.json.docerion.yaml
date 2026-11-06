@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: English messages for localized extension test
+summary: Provides the English title message used by the localized extension fixture for the webstore private API test.

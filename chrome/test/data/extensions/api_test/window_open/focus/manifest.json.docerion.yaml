@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window.create.focus test extension
+summary: Extension manifest that sets up the window.create focus test with test.html as background page and the tabs permission.

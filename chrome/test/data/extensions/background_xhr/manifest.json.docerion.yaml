@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the background XHR extension tests
+summary: Manifest v2 extension manifest declaring the background script and webRequest plus host permissions for the XHR tests.

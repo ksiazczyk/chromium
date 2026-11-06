@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no caching content script stages test extension
+summary: Manifest v2 extension manifest registering content scripts at document_start, document_end, and document_idle to check scripts run only once.

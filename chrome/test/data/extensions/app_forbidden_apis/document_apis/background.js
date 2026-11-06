@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script testing forbidden document.write API
+// summary: Extension background page that attempts Document.prototype.write and reports test success only when the forbidden call throws.
+// ---
+
 'use strict';
 
 let writeSuccess = true;

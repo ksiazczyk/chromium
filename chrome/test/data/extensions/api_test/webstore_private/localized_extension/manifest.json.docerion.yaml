@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Localized extension test manifest
+summary: Manifest fixture for the localized extension used in the webstore_private extension API tests, with a message-based name and English default locale.

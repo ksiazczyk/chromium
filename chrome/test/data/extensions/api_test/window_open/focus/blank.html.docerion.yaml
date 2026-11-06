@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank page for window focus tests
+summary: Empty HTML page used as the target URL when the tests create new windows and popups.

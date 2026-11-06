@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.template.
+type: test
+title: Auto-Update Test manifest template
+summary: Template of the Auto-Update Test manifest with a placeholder for the update URL to be filled in during test setup.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the forbidden APIs test app
+summary: Manifest version 2 app manifest that loads background.js for the test verifying forbidden window API restrictions.

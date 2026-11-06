@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window update resize API test
+// summary: Runs chrome.windows.update resize tests for normal, popup, and panel window types and verifies the WINDOW_ID_CURRENT constant behavior.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 const widthDelta = 10;

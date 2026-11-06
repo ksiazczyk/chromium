@@ -1,0 +1,4 @@
+# Docerion header of empty.crx.
+type: test
+title: Empty CRX test fixture
+summary: Empty CRX package kept as a fixture in the webstorePrivate install test data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test extension background script opening panel, popup and tab windows
+// summary: Background script of the test extension that opens a panel, popup and tab pointing to non-extension content and to extension content pages.
+// ---
+
 // Open a panel, popup and tab to non-extension content.
 chrome.windows.create({url: 'about:blank', type: 'panel'});
 window.open(

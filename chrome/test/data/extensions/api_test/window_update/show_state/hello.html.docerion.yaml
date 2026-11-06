@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello page fixture for window state test
+summary: Simple HTML page loaded into windows created by the window.update state test.

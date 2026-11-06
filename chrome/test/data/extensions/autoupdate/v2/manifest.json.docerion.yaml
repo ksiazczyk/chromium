@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Auto-update test extension manifest
+summary: Manifest for the version 2 auto-update test extension, pointing extension updates at a localhost autoupdate manifest URL.

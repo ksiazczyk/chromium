@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.windows.onBoundsChanged event test script
+// summary: Background script that records window bounds from onBoundsChanged events and asserts them against reported values to pass the test.
+// ---
+
 let count = 0;
 const bounds = {
   top: 0,

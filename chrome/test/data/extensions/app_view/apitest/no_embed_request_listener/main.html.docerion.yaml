@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main page of the no embed request listener test app
+summary: Simple HTML page with a hello message shown in the app window opened by the background script.

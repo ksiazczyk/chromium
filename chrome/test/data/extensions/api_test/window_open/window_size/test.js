@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window create size parameter test
+// summary: Browser test that opens a 200x200 popup via chrome.windows.create and asserts the resulting window width and height.
+// ---
+
 chrome.test.runTests([
   function openSizedWindow() {
     chrome.windows.create(

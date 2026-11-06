@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello test page
+summary: Minimal HTML page with the title Hello that the test extension opens in a new window before updating it to fullscreen.

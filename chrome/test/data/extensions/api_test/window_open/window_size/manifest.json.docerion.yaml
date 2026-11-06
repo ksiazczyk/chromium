@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Window size test extension manifest
+summary: Manifest for the window_open/window_size extension API test that exercises the window.create size parameter, with a background page and tabs permission.

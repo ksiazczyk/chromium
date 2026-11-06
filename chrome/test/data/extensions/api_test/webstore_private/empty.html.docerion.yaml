@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty CRX install test page
+summary: HTML harness that loads common.js and empty.js to run the empty CRX install API test.

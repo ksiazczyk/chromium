@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incorrect manifest version install test
+// summary: Test script that installs an extension with a manifest version bumped by one and expects success because the effective permissions are unchanged.
+// ---
+
 const manifestObj = JSON.parse(getManifest());
 
 // Change the version to be N+1.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: French locale messages for localized extension test
+summary: Provides the French localized title string used as test fixture data for the webstore private localized extension API test.

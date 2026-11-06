@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to guest_view
+summary: Delegates code ownership of the app_view test data directory to the OWNERS file of components/guest_view.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Invalid manifest.json test fixture for bad extension
+summary: Deliberately invalid manifest file placed under bad extension test data to exercise error handling when loading extensions.

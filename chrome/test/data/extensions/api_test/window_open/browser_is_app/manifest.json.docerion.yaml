@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for browser is_app popup test extension
+summary: Manifest v2 extension manifest declaring the background script and tabs permission for the is_app popup test.

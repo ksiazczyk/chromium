@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the XHR persistent filesystem test app
+summary: Declares the test app named Test XHR for Persistent FileSystem with the unlimitedStorage permission and bg.js as its background script.

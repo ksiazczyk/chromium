@@ -1,0 +1,4 @@
+# Docerion header of BackgroundApp.html.
+type: test
+title: Background App popup page
+summary: HTML popup page for the simple background app test extension, loading its JavaScript from a separate file.

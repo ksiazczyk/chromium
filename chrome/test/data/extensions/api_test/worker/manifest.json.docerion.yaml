@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Worker test extension manifest
+summary: Manifest for the Workers in extensions test extension, defining background scripts, host permissions and a content security policy allowing the test server.

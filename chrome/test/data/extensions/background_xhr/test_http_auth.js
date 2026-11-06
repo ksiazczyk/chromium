@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth webRequest test for background XHRs
+// summary: Listens for completion of a background XHR and asserts a 401 status with no tab before reporting the test as passed.
+// ---
+
 const url = new URL(location.href).searchParams.get('url');
 const filter = {
   urls: [url],

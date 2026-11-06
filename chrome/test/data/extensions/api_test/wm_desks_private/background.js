@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: wmDesksPrivate API browser tests
+// summary: Runs browser tests for the wmDesksPrivate API, covering invalid desk template UUIDs, setting and unsetting all-desks window properties, and reading saved desks.
+// ---
+
 // Basic API tests for the wmDesksPrivate API.
 chrome.test.runTests([
   async function testGetDeskTemplateJson() {

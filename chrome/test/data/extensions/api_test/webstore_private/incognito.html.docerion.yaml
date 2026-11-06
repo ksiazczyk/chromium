@@ -1,0 +1,4 @@
+# Docerion header of incognito.html.
+type: test
+title: Incognito mode test page
+summary: HTML harness that loads common.js and incognito.js to run the incognito mode API test.

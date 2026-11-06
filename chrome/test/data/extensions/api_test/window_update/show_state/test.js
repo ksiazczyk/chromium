@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window update state API test
+// summary: Runs chrome.windows.update state transitions (minimized, maximized, fullscreen, normal) for normal, popup and panel windows and asserts the resulting states.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 let width = 0;

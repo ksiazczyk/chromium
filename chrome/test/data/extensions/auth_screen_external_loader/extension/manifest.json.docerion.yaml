@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Authentication Screens Test Extension manifest
+summary: Manifest for a test extension used to verify extension installation in Chrome OS sign-in and lock screen profiles, registering test.js as its service worker.

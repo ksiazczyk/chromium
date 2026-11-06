@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the WebView media request test extension
+summary: Manifest version 2 app declaring webview, audioCapture and videoCapture permissions plus a media partition exposing guest.html as an accessible resource.

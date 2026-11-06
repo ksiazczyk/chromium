@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background app event script
+// summary: Background script that logs launch, install, and suspend events and sets up push messaging to keep the app registered.
+// ---
+
 // This is a minimal sample of a Apps V2 app with background permission.
 //
 // This function gets called in the packaged app model on launch.

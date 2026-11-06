@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for trailing underscore directory test
+summary: Test extension manifest verifying that a directory misspelled as `_locale` instead of `_locales` only triggers a warning and does not prevent the extension from loading.

@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Bad extension Preferences test fixture
+summary: Preferences fixture with deliberately malformed extension settings entries, such as an invalid manifest string, used to test Chrome's handling of bad extension data.

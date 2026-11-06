@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the window.open spanning extension test
+// summary: Chains window and tab checks verifying that hosts opened from normal and incognito browser contexts produce tabs in a normal window, continuing in the popup page.
+// ---
+
 let nextTest = null;
 openFromNormalShouldOpenInNormal();
 

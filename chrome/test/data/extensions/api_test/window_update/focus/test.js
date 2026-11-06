@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window update focus parameter test
+// summary: Runs chrome.test cases that call chrome.windows.update with focused set to true and assert the window dimensions remain unchanged.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 let previousTop = 0;

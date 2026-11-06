@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window.open spanning test extension
+summary: Declares the test extension with tabs permission, a browser action popup, and a background script for the window.open spanning API test.

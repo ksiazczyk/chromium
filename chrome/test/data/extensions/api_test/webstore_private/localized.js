@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Localized extension install test
+// summary: Test script that installs an extension with a French localized name and locale and expects the installation to succeed.
+// ---
+
 // The id of the extension in localized_extension.crx.
 const localizedId = 'oolblhbomdbcpmafphaodhjfcgbihcdg';
 

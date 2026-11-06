@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for tab container app test extension
+summary: 'Manifest for the App Test: tab container extension, launching empty.html in a tab container with the notifications permission.'

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker extension API test background script
+// summary: Background script that runs chrome.test cases covering fetch permissions from Workers and SharedWorkers and checks worker script URLs are not redirected.
+// ---
+
 function createWorker(workerFactory, onsuccess, onerror) {
   const worker = workerFactory();
   const onmessage = message => {

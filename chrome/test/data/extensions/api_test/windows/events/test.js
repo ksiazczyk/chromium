@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.windows events API browser test
+// summary: Records create, remove, and focus events via filtered and unfiltered chrome.windows listeners and asserts expected window types and counts.
+// ---
+
 const results = {
   filtered: {},
   unfiltered: {},

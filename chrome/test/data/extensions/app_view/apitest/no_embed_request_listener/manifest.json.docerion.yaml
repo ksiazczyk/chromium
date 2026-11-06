@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the no embed request listener test app
+summary: Manifest version 2 app manifest named "No embed request listener" that registers background.js as its background script.

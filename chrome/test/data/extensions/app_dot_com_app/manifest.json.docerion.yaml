@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: App Dot Com test extension manifest
+summary: Manifest for a test Chrome app named App Dot Com, declaring version 0.1 and launch settings that open the app's web page in a tab.

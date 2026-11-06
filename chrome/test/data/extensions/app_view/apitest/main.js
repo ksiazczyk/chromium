@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppView embedder test logic
+// summary: Defines test helpers and appview connection test cases, covering good, refused, undefined, and missing embed request data, reporting pass or fail via chrome.test messages.
+// ---
+
 const embedder = {};
 
 window.runTest = function(testName, appToEmbed) {

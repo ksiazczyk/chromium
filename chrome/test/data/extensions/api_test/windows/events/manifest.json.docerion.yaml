@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Windows events test extension manifest
+summary: Manifest for the end-to-end browser test extension exercising the chrome.windows events API.

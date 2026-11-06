@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // This file is intentionally empty.
+
+// ---docerion
+// type: test
+// title: Empty background script for the content script stages test extension
+// summary: Intentionally empty background script that serves as the extension's background entry point for the back/forward cache test.
+// ---

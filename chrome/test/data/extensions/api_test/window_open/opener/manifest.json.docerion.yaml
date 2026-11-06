@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the test extension verifying window.opener preservation with chrome.windows.create and window.open, using test.html as background page.

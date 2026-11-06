@@ -1,0 +1,4 @@
+# Docerion header of foo.html.
+type: test
+title: Popup blocking test target page foo
+summary: Minimal HTML fixture page that serves as the popup and tab target URL opened during the popup blocking test.

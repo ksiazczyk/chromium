@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Popup blocking test manifest
+summary: Manifest for the hosted app test extension that verifies popup windows are never blocked when opened from within a hosted app.

@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Auto-update test background page
+summary: Background page for the v1 auto-update test extension that sends a 'v1 installed' message when loaded.

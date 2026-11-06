@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Autoplay test extension manifest
+summary: Manifest v2 definition of the test extension that opens main.html as a browser action popup for the iframe autoplay policy API tests.

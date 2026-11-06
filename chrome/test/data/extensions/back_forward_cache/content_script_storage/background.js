@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // This file is intentionally empty.
+
+// ---docerion
+// type: test
+// title: Empty background script for the test extension
+// summary: Intentionally empty background script included to satisfy the background entry in the test extension manifest.
+// ---

@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: App list OEM extension test preferences
+summary: Test fixture providing extension preferences for a packaged app used in Chrome's app list OEM extension tests.

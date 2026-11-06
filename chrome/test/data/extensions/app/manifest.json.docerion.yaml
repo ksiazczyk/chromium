@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: App test extension manifest
+summary: Manifest for a test Chrome app extension named App Test that launches a web page on example.com, used as test data for extension tests.

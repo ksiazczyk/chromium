@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test App 1 extension manifest
+summary: Manifest for a hosted test app named Test App 1, granting unlimited storage and defining example.com app URLs with a launch web URL, used as test fixture data.

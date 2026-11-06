@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the back/forward cache disconnect test extension
+summary: Manifest version 2 for the test extension, declaring host permissions, externally connectable matches, the content script, and a non-persistent background page.
