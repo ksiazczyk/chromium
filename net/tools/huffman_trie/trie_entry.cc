@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrieEntry implementation
+// summary: Implements the TrieEntry default constructor and destructor for the huffman trie generator.
+// ---
+
 #include "net/tools/huffman_trie/trie_entry.h"
 
 namespace net::huffman_trie {

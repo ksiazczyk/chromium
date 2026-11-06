@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket basic stream adapters header
+// summary: Declares adapter classes connecting WebSocketBasicStream to TCP/TLS sockets and HTTP/2 streams, including the SpdyStream delegate interface.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_BASIC_STREAM_ADAPTERS_H_
 #define NET_WEBSOCKETS_WEBSOCKET_BASIC_STREAM_ADAPTERS_H_
 

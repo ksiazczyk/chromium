@@ -1,6 +1,13 @@
 // Copyright 2011 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: URLRequestFilter header
+// summary: Declares the URLRequestFilter singleton that intercepts URLRequest jobs by URL or hostname, intended for single-threaded test use.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_FILTER_H_
 #define NET_URL_REQUEST_URL_REQUEST_FILTER_H_
 

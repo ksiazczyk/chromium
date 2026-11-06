@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-network URL request unit tests
+// summary: Unit tests checking that sockets, DNS resolution, and proxy resolution use the expected network handles when handling URL requests across networks.
+// ---
+
 #include <memory>
 #include <sstream>
 #include <utility>

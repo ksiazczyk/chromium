@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket stream creation and connection
+// summary: Implements creation and connection of WebSocket streams over HTTP/1.1, HTTP/2, and HTTP/3, including handshake timeouts, redirects, auth, and error metrics.
+// ---
+
 #include "net/websockets/websocket_stream.h"
 
 #include <optional>

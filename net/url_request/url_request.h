@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequest class interface
+// summary: Declares URLRequest, the class representing an asynchronous load of a data stream from a URL, with redirect limits and its delegate API.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_H_
 #define NET_URL_REQUEST_URL_REQUEST_H_
 

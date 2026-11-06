@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinset class declaration
+// summary: Declares the Pinset class representing HPKP header data, holding named good and bad SPKI hashes referenced by preload entries.
+// ---
+
 #ifndef NET_TOOLS_TRANSPORT_SECURITY_STATE_GENERATOR_PINSET_H_
 #define NET_TOOLS_TRANSPORT_SECURITY_STATE_GENERATOR_PINSET_H_
 

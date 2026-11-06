@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketHandshakeStreamCreateHelper class header
+// summary: Declares the helper that holds the information needed to construct WebSocketHandshakeStreamBase subclasses for basic, HTTP/2, and HTTP/3 connections.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_STREAM_CREATE_HELPER_H_
 #define NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_STREAM_CREATE_HELPER_H_
 

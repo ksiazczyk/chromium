@@ -4,6 +4,12 @@
 
 // See also docs/network_traffic_annotations.md for the complete documentation.
 
+// ---docerion
+// type: source
+// title: Network traffic annotation tag definitions
+// summary: Defines network traffic annotation tag types, partial tags, and compile-time unique ID hashing used to annotate network traffic.
+// ---
+
 #ifndef NET_TRAFFIC_ANNOTATION_NETWORK_TRAFFIC_ANNOTATION_H_
 #define NET_TRAFFIC_ANNOTATION_NETWORK_TRAFFIC_ANNOTATION_H_
 

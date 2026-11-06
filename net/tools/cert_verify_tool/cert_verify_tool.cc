@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main program of the cert_verify_tool certificate verification utility
+// summary: Implements the cert_verify_tool command-line program that verifies certificates via CertVerifyProc or CertPathBuilder, setting up the network thread, fetcher and trust stores.
+// ---
+
 #include <iostream>
 #include <string_view>
 

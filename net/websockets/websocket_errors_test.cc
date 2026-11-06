@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket error conversion tests
+// summary: Tests that WebSocketErrorToNetError maps the principal classes of WebSocket errors to the correct net error codes.
+// ---
+
 #include "net/websockets/websocket_errors.h"
 
 #include "net/base/net_errors.h"

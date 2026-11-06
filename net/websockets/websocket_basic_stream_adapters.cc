@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket basic stream adapters implementation
+// summary: Implements adapters that let WebSocketBasicStream read and write over TCP/TLS sockets, HTTP/2 streams and QUIC streams.
+// ---
+
 #include "net/websockets/websocket_basic_stream_adapters.h"
 
 #include <cstring>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket basic stream header
+// summary: Declares WebSocketBasicStream, its read buffer size manager, and the adapter interface for TCP, TLS, HTTP/2 and HTTP/3 transports.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_BASIC_STREAM_H_
 #define NET_WEBSOCKETS_WEBSOCKET_BASIC_STREAM_H_
 

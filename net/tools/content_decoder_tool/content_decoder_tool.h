@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content decoder tool header
+// summary: Declares ContentDecoderToolProcessInput, which decodes an input stream using a list of content encodings and writes the result to an output stream.
+// ---
+
 #ifndef NET_TOOLS_CONTENT_DECODER_TOOL_CONTENT_DECODER_TOOL_H_
 #define NET_TOOLS_CONTENT_DECODER_TOOL_CONTENT_DECODER_TOOL_H_
 

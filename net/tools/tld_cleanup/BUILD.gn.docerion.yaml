@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the tld_cleanup tool
+summary: Defines the tld_cleanup source_set with its sources and dependencies on base, net constants, and url.

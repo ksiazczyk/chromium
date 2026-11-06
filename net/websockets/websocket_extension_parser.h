@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket extension parser header
+// summary: Declares ParseWebSocketExtensions, which parses a Sec-WebSocket-Extensions header value into a vector of WebSocketExtension objects.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_EXTENSION_PARSER_H_
 #define NET_WEBSOCKETS_WEBSOCKET_EXTENSION_PARSER_H_
 

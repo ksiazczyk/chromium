@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPKI hash implementation
+// summary: Implements SPKIHash, parsing sha256/base64 pin hash strings and computing SHA256 digests over certificate bytes.
+// ---
+
 #include "net/tools/transport_security_state_generator/spki_hash.h"
 
 #include <optional>

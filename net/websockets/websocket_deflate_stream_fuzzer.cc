@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket deflate stream fuzzer
+// summary: Fuzz harness that feeds randomly generated frames through WebSocketDeflateStream to uncover crashes.
+// ---
+
 #include "net/websockets/websocket_deflate_stream.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

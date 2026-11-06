@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestJobFactory implementation
+// summary: Implements the job factory that maps URL schemes to protocol handlers, registers HTTP, HTTPS, and WebSocket handlers, and creates URLRequestJob instances for requests.
+// ---
+
 #include "net/url_request/url_request_job_factory.h"
 
 #include "net/base/net_errors.h"

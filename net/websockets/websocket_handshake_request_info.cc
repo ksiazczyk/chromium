@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake request info implementation
+// summary: Implements the WebSocketHandshakeRequestInfo constructor and destructor holding the request URL and request time.
+// ---
+
 #include "net/websockets/websocket_handshake_request_info.h"
 
 #include "base/time/time.h"

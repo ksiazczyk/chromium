@@ -1,0 +1,4 @@
+# Docerion header of leaf.cnf.
+type: config
+title: QUIC leaf certificate OpenSSL configuration
+summary: OpenSSL configuration for the leaf certificate request, specifying the subject name and subjectAltName hosts for the QUIC test server.

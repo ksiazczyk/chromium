@@ -6,6 +6,12 @@
 // to the actual files (they still may change if an error is detected on the
 // files).
 
+// ---docerion
+// type: source
+// title: dump_files cache inspection implementation
+// summary: Implements low-disruption inspection of blockfile disk cache files, dumping headers, entries, LRU lists, individual entries, stats and allocation bitmaps.
+// ---
+
 #include "net/tools/dump_cache/dump_files.h"
 
 #include <stdio.h>

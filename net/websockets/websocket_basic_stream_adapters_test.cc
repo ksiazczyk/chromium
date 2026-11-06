@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket basic stream adapters tests
+// summary: Unit tests for WebSocketBasicStreamAdapters, exercising WebSocket streams over TCP, TLS, proxies and QUIC transports.
+// ---
+
 #include "net/websockets/websocket_basic_stream_adapters.h"
 
 #include <stdint.h>

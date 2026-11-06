@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket HTTP/3 handshake stream implementation
+// summary: Implements the WebSocket handshake stream over HTTP/3 QUIC connections, sending the request through a QUIC session handle and validating the response.
+// ---
+
 #include "net/websockets/websocket_http3_handshake_stream.h"
 
 #include <string_view>

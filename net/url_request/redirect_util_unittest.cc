@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RedirectUtil unit tests
+// summary: Unit tests for redirect_util, checking how request headers, upload data and the Origin header are updated when following HTTP redirects.
+// ---
+
 #include "net/url_request/redirect_util.h"
 
 #include <string>

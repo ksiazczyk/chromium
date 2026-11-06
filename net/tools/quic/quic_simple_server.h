@@ -5,6 +5,12 @@
 // A toy server, which listens on a specified address for QUIC traffic and
 // handles incoming responses.
 
+// ---docerion
+// type: source
+// title: Simple QUIC server header
+// summary: Declares QuicSimpleServer, a toy QUIC server based on QuicSpdyServerBase that listens for QUIC traffic and manages sessions and crypto config.
+// ---
+
 #ifndef NET_TOOLS_QUIC_QUIC_SIMPLE_SERVER_H_
 #define NET_TOOLS_QUIC_QUIC_SIMPLE_SERVER_H_
 

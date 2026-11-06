@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestJobFactory unit tests
+// summary: Tests job creation behavior, covering requests with no registered protocol handler and requests served by a dummy protocol handler for a custom scheme.
+// ---
+
 #include "net/url_request/url_request_job_factory.h"
 
 #include "base/functional/bind.h"

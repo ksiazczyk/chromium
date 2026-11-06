@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test traffic annotation macros
+// summary: Defines TRAFFIC_ANNOTATION_FOR_TESTS and partial annotation macros used to annotate traffic in unit and browser tests.
+// ---
+
 #ifndef NET_TRAFFIC_ANNOTATION_NETWORK_TRAFFIC_ANNOTATION_TEST_HELPER_H_
 #define NET_TRAFFIC_ANNOTATION_NETWORK_TRAFFIC_ANNOTATION_TEST_HELPER_H_
 

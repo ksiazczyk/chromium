@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestJob implementation
+// summary: Implements the URLRequestJob base class, including source stream chaining, read handling, kill, and notification logic.
+// ---
+
 #include "net/url_request/url_request_job.h"
 
 #include <optional>

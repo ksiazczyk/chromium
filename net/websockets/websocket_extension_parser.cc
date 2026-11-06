@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket extension parser implementation
+// summary: Implements parsing of Sec-WebSocket-Extensions header values into WebSocketExtension objects, returning an empty vector on syntax errors.
+// ---
+
 #include "net/websockets/websocket_extension_parser.h"
 
 #include "base/check_op.h"

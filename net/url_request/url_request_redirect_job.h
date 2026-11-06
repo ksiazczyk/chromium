@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestRedirectJob class declaration
+// summary: Declares URLRequestRedirectJob, a URLRequestJob subclass that redirects a request to a given URL with a configurable response code and redirect reason.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_REDIRECT_JOB_H_
 #define NET_URL_REQUEST_URL_REQUEST_REDIRECT_JOB_H_
 

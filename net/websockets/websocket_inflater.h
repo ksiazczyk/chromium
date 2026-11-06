@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketInflater header
+// summary: Declares WebSocketInflater, which uncompresses DEFLATE data per RFC 7692 for WebSocket permessage-deflate, with configurable buffer capacities.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_INFLATER_H_
 #define NET_WEBSOCKETS_WEBSOCKET_INFLATER_H_
 

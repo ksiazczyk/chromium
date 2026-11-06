@@ -5,6 +5,12 @@
 // A binary wrapper for QuicServer.  It listens forever on --port
 // (default 6121) until it's killed or ctrl-cd to death.
 
+// ---docerion
+// type: source
+// title: QUIC simple server binary entry point
+// summary: Main entry point for the quic_server binary, which parses command line flags and runs a QuicToyServer that listens on a port until killed.
+// ---
+
 #include <vector>
 
 #include "net/third_party/quiche/src/quiche/common/platform/api/quiche_command_line_flags.h"

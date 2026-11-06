@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinsets implementation
+// summary: Implements the Pinsets container that registers named SPKI hashes and pinsets parsed from the generator's input files.
+// ---
+
 #include "net/tools/transport_security_state_generator/pinsets.h"
 
 #include <string_view>

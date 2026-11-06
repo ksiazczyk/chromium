@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for certificate input structs and file helper declarations
+// summary: Declares CertInput and CertInputWithTrustSetting plus helpers for reading certificate chains from files, writing files and printing certificate details.
+// ---
+
 #ifndef NET_TOOLS_CERT_VERIFY_TOOL_CERT_VERIFY_TOOL_UTIL_H_
 #define NET_TOOLS_CERT_VERIFY_TOOL_CERT_VERIFY_TOOL_UTIL_H_
 

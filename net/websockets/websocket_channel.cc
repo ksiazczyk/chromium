@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket channel implementation
+// summary: Implements WebSocketChannel, the transport-independent WebSocket protocol logic including close handshakes, timeouts and close code validation.
+// ---
+
 #include "net/websockets/websocket_channel.h"
 
 #include <limits.h>  // for INT_MAX

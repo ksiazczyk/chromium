@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket channel tests
+// summary: Unit tests for WebSocketChannel covering handshakes, frame exchange, close codes and event interface behaviour.
+// ---
+
 #include "net/websockets/websocket_channel.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket deflate predictor implementation
+// summary: Implements a deflate predictor that always chooses to deflate WebSocket messages and records no frame data.
+// ---
+
 #include "net/websockets/websocket_deflate_predictor_impl.h"
 
 namespace net {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the signer_set_tool executable
+summary: GN build file defining the signer_set_tool executable target with its source file and dependencies on base, crypto, BoringSSL, and the root store proto.

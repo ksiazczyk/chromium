@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate path building verification using BoringSSL CertPathBuilder
+// summary: Verifies certificates with bssl::CertPathBuilder, printing candidate paths, policies and errors and dumping the best chain as PEM.
+// ---
+
 #include "net/tools/cert_verify_tool/verify_using_path_builder.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket basic handshake stream tests
+// summary: Unit tests for WebSocketBasicHandshakeStream covering connection closure on failed handshakes and access to DNS aliases.
+// ---
+
 #include "net/websockets/websocket_basic_handshake_stream.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestHttpJob implementation
+// summary: Implements the URLRequestJob for HTTP and HTTPS requests on top of HttpTransaction, covering cookies, auth, redirects, and HSTS.
+// ---
+
 #include "net/url_request/url_request_http_job.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket chunk assembler implementation
+// summary: Assembles streamed WebSocket frame chunks into complete frames, enforcing control frame limits and RFC 7692 continuation rules.
+// ---
+
 #include "net/websockets/websocket_chunk_assembler.h"
 
 #include "base/compiler_specific.h"

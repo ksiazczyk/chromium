@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketHandshakeStreamBase class header
+// summary: Declares the base class for WebSocket handshake streams so net/http can treat them differently from HttpStream, and defines the HandshakeResult enum used for histogram reporting.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_STREAM_BASE_H_
 #define NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_STREAM_BASE_H_
 

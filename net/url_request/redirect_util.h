@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirect utility declarations
+// summary: Declares RedirectUtil helpers for updating request headers on redirects, reading the Referrer-Policy response header, and synthesizing redirect response headers.
+// ---
+
 #ifndef NET_URL_REQUEST_REDIRECT_UTIL_H_
 #define NET_URL_REQUEST_REDIRECT_UTIL_H_
 

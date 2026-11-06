@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestTestJob header
+// summary: 'Declares URLRequestTestJob, a job type that tests install as the protocol handler for the test: scheme to return canned responses and redirects.'
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_TEST_JOB_H_
 #define NET_URL_REQUEST_URL_REQUEST_TEST_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for CertPathBuilder-based verification entry point
+// summary: Declares VerifyUsingPathBuilder for verifying a certificate against a system trust store using the BoringSSL path builder.
+// ---
+
 #ifndef NET_TOOLS_CERT_VERIFY_TOOL_VERIFY_USING_PATH_BUILDER_H_
 #define NET_TOOLS_CERT_VERIFY_TOOL_VERIFY_USING_PATH_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitWriter class declaration
+// summary: Declares BitWriter, a buffer that accumulates bits until a full byte and exposes flushing, position, and access to the written bytes.
+// ---
+
 #ifndef NET_TOOLS_HUFFMAN_TRIE_BIT_WRITER_H_
 #define NET_TOOLS_HUFFMAN_TRIE_BIT_WRITER_H_
 

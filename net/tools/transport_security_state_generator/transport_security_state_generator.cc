@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state generator tool main
+// summary: Command line entry point that parses HSTS and pins inputs, validates pinsets for duplicates and references, and generates the preloaded state output.
+// ---
+
 #include <iostream>
 #include <map>
 #include <set>

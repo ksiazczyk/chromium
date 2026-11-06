@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket deflate stream implementation
+// summary: Implements the permessage-deflate WebSocket extension by deflating written frames and inflating read frames.
+// ---
+
 #include "net/websockets/websocket_deflate_stream.h"
 
 #include <stdint.h>

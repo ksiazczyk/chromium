@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket basic handshake stream implementation
+// summary: Implements the WebSocket handshake over HTTP, validating upgrade response headers and generating the handshake challenge.
+// ---
+
 #include "net/websockets/websocket_basic_handshake_stream.h"
 
 #include <stddef.h>

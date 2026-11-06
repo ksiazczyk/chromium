@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket QUIC SPDY stream implementation
+// summary: Implements WebSocketQuicSpdyStream, a QUIC client stream for WebSockets over HTTP/3 that forwards events to a delegate and maps QUIC errors to net errors.
+// ---
+
 #include "net/websockets/websocket_quic_spdy_stream.h"
 
 #include <sys/types.h>  // for struct iovec

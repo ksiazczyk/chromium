@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub gss_import_name and gss_release_name exports
+// summary: Implements stub gss_import_name and gss_release_name functions, kept separate from gss_methods.cc so a fake GSSAPI library missing some imports can be built.
+// ---
+
 #include "net/tools/gssapi/gss_types.h"
 
 // These two imports follow the same pattern as those in gss_methods.cc but are

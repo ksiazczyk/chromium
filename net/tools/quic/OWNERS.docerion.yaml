@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: QUIC tools directory owners
+summary: Delegates code review ownership for the QUIC tools directory to the owners list of net/quic.

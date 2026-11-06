@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpCacheHelper unit test
+// summary: Unit test that verifies the exact HexDump output format for a sample binary input string.
+// ---
+
 #include "net/tools/dump_cache/dump_cache_helper.h"
 
 #include "base/containers/span.h"

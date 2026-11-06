@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket extension class
+// summary: Declares WebSocketExtension, representing a WebSocket extension per RFC 6455 with its name and parameters.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_EXTENSION_H_
 #define NET_WEBSOCKETS_WEBSOCKET_EXTENSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear-Site-Data header constants and parsing
+// summary: Defines exported constants for the Clear-Site-Data header and its datatype tokens, plus a helper that splits the header value into its contents.
+// ---
+
 #include "net/url_request/clear_site_data.h"
 #include "base/strings/string_split.h"
 

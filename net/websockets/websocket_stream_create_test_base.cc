@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket stream creation test base
+// summary: Implements the shared test base that drives WebSocket stream creation and records handshake success, failure, SSL, and auth events for tests.
+// ---
+
 #include "net/websockets/websocket_stream_create_test_base.h"
 
 #include <stddef.h>

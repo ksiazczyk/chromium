@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrieWriter implementation for the Huffman trie tool
+// summary: Implements TrieWriter, which reverses and sorts entry names, computes common prefixes, and recursively writes dispatch tables into a serialized trie.
+// ---
+
 #include "net/tools/huffman_trie/trie/trie_writer.h"
 
 #include <algorithm>

@@ -10,6 +10,12 @@
 // by a comma seperated list of network interfaces to ignore when computing
 // connection type; this option is only supported on linux.
 
+// ---docerion
+// type: source
+// title: net_watcher network change logging utility
+// summary: Chromium command-line utility that prints the current network connection type and proxy configuration and logs changes, useful for testing NetworkChangeNotifier and ProxyConfigService.
+// ---
+
 #include <memory>
 #include <string>
 

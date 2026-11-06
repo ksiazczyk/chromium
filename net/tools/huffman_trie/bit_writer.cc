@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitWriter implementation
+// summary: Implements BitWriter methods for writing single bits and multi-bit values into a buffered byte vector for the huffman trie generator.
+// ---
+
 #include "net/tools/huffman_trie/bit_writer.h"
 
 #include "base/check.h"

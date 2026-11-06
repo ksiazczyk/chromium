@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpCacheHelper hex dump implementation
+// summary: Implements DumpCacheHelper::HexDump, which appends a hex and ASCII textual representation of binary data to a string for display.
+// ---
+
 #include "net/tools/dump_cache/dump_cache_helper.h"
 
 #include <algorithm>

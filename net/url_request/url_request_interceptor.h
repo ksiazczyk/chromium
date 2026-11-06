@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestInterceptor header
+// summary: Declares the URLRequestInterceptor interface that can take over URLRequest handling before the scheme's ProtocolHandler, for tests.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_INTERCEPTOR_H_
 #define NET_URL_REQUEST_URL_REQUEST_INTERCEPTOR_H_
 

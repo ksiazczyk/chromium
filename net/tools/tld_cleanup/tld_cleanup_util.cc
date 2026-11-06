@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normalization of effective TLD rules into gperf output
+// summary: Implements parsing and normalization of effective TLD rules, canonicalizing domains via GURL, marking private domains, and serializing the rule map to gperf format.
+// ---
+
 #include "net/tools/tld_cleanup/tld_cleanup_util.h"
 
 #include <algorithm>

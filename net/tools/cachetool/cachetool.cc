@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cachetool HTTP cache manipulation tool
+// summary: Command-line tool that opens Chromium disk caches (simple or blockfile) and manipulates entries via subcommands such as listing keys, reading or deleting streams, and updating raw response headers.
+// ---
+
 #include <iostream>
 #include <memory>
 #include <string_view>

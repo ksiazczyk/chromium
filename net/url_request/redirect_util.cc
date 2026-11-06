@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirect request header utilities
+// summary: Implements RedirectUtil to update request headers on redirects, clear body-related headers, set a null Origin for cross-origin redirects, and synthesize redirect headers.
+// ---
+
 #include "net/url_request/redirect_util.h"
 
 #include "base/check.h"

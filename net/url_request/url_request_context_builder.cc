@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextBuilder implementation
+// summary: Implements URLRequestContextBuilder, assembling context components like HTTP cache, DNS resolver, proxy service, and reporting for a URLRequestContext.
+// ---
+
 #include "net/url_request/url_request_context_builder.h"
 
 #include <memory>

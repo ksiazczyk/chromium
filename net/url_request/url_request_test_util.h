@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequest test utilities header
+// summary: Declares test utilities for URLRequest tests, such as TestURLRequestContextGetter, TestDelegate and a builder for test URLRequest contexts.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_TEST_UTIL_H_
 #define NET_URL_REQUEST_URL_REQUEST_TEST_UTIL_H_
 

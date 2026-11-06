@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple QUIC client implementation
+// summary: Implements QuicSimpleClient, a simple QUIC client that creates Chromium connection and alarm factories and simple client sessions.
+// ---
+
 #include "net/tools/quic/quic_simple_client.h"
 
 #include <utility>

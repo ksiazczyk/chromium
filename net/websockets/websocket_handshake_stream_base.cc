@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake stream base implementation
+// summary: Implements shared handshake stream helpers for adding extension and protocol headers and validating subprotocols and extensions.
+// ---
+
 #include "net/websockets/websocket_handshake_stream_base.h"
 
 #include <stddef.h>

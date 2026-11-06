@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestHttpJob unit tests
+// summary: Extensive unit tests for URLRequestHttpJob covering cookies, proxies, device bound sessions, and HTTP transaction behavior.
+// ---
+
 #include "net/url_request/url_request_http_job.h"
 
 #include <stdint.h>

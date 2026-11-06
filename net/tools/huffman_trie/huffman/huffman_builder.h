@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HuffmanBuilder class header
+// summary: Declares the HuffmanBuilder class and Huffman representation types for recording character usage and generating space-efficient Huffman encodings.
+// ---
+
 #ifndef NET_TOOLS_HUFFMAN_TRIE_HUFFMAN_HUFFMAN_BUILDER_H_
 #define NET_TOOLS_HUFFMAN_TRIE_HUFFMAN_HUFFMAN_BUILDER_H_
 

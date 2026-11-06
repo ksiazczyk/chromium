@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous host resolver implementation
+// summary: Implements SynchronousHostResolver::Resolve by running a net HostResolver request on a dedicated resolver thread with its own message loop, returning address results synchronously for the QUIC tools.
+// ---
+
 #include "net/tools/quic/synchronous_host_resolver.h"
 
 #include <memory>

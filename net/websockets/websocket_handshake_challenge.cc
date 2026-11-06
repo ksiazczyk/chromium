@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake challenge computation
+// summary: Computes the Sec-WebSocket-Accept value from the handshake key using SHA-1 hashing and base64 encoding.
+// ---
+
 #include "net/websockets/websocket_handshake_challenge.h"
 
 #include "base/base64.h"

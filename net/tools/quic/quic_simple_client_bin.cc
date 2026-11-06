@@ -33,6 +33,12 @@
 // Try to connect to a host which does not speak QUIC:
 //   quic_client http://www.example.com
 
+// ---docerion
+// type: source
+// title: QUIC client command-line binary
+// summary: Binary wrapper for QuicClient that connects to a host over QUIC, sends a request to a given URL, and displays the response.
+// ---
+
 #include <algorithm>
 
 #include "base/logging.h"

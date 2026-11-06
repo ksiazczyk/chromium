@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC client message loop network helper implementation
+// summary: Implements the message-loop-based network helper for the QUIC client, managing UDP sockets, packet reading, and the event loop.
+// ---
+
 #include "net/tools/quic/quic_client_message_loop_network_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrieWriter header
+// summary: Declares the TrieWriter class that builds a trie from TrieEntry inputs and exposes its serialized bytes and root position.
+// ---
+
 #ifndef NET_TOOLS_HUFFMAN_TRIE_TRIE_TRIE_WRITER_H_
 #define NET_TOOLS_HUFFMAN_TRIE_TRIE_TRIE_WRITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility functions for reading and writing certificate files
+// summary: Reads DER, PEM and PKCS#7 certificates from files, writes output files, and prints certificate errors, fingerprints and subjects for the tool.
+// ---
+
 #include "net/tools/cert_verify_tool/cert_verify_tool_util.h"
 
 #include <iostream>

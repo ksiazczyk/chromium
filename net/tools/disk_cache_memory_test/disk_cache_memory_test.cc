@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache memory test tool
+// summary: Chromium command-line tool that creates and initializes a disk cache backend (block file or simple) for a given cache spec and measures the backend's memory usage.
+// ---
+
 #include <cstdlib>
 #include <fstream>
 #include <iostream>

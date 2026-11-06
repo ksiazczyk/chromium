@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC simple server packet dispatch test
+// summary: Unit test that verifies the Chrome QUIC server dispatcher processes a valid encrypted packet exactly once using a mock dispatcher.
+// ---
+
 #include "net/tools/quic/quic_simple_server.h"
 
 #include <memory>

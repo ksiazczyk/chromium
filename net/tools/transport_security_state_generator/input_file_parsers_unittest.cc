@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for input file parsers
+// summary: Verifies parsing of HSTS and HPKP JSON inputs, checking entries, pinsets, and handling of invalid input.
+// ---
+
 #include <string>
 
 #include "base/time/time.h"

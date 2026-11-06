@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Bound Session request mode enum
+// summary: Defines the DeviceBoundSessionMode enum controlling whether URL requests process Device Bound Session headers and may be deferred for session refresh.
+// ---
+
 #ifndef NET_URL_REQUEST_DEVICE_BOUND_SESSION_MODE_H_
 #define NET_URL_REQUEST_DEVICE_BOUND_SESSION_MODE_H_
 

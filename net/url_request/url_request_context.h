@@ -5,6 +5,12 @@
 // This class represents contextual information (cookies, cache, etc.)
 // that's necessary when processing resource requests.
 
+// ---docerion
+// type: source
+// title: URLRequestContext class declaration
+// summary: Declares URLRequestContext, which holds contextual state such as cookies, cache, and network session settings needed to process URL requests.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_CONTEXT_H_
 #define NET_URL_REQUEST_URL_REQUEST_CONTEXT_H_
 

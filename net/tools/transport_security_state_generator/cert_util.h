@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate utility declarations
+// summary: Declares helpers to parse PEM certificates and keys, extract subject names, and compute SPKI SHA256 hashes for pinsets.
+// ---
+
 #ifndef NET_TOOLS_TRANSPORT_SECURITY_STATE_GENERATOR_CERT_UTIL_H_
 #define NET_TOOLS_TRANSPORT_SECURITY_STATE_GENERATOR_CERT_UTIL_H_
 

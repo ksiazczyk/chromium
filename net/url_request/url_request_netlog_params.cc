@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequest NetLog parameter builders
+// summary: Builds NetLog parameter dictionaries for URLRequest construction and start events, including sanitized URL, priority, load flags, isolation info, and initiator.
+// ---
+
 #include "net/url_request/url_request_netlog_params.h"
 
 #include <utility>

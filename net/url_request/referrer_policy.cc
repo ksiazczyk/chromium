@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Referrer-Policy header parsing
+// summary: Parses a Referrer-Policy HTTP header value into the corresponding ReferrerPolicy, using the last recognized policy token and ignoring unknown ones.
+// ---
+
 #include "net/url_request/referrer_policy.h"
 
 #include <ranges>

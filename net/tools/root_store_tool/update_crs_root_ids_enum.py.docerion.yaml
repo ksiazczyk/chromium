@@ -1,0 +1,4 @@
+# Docerion header of update_crs_root_ids_enum.py.
+type: script
+title: Update CrsRootIds enum script
+summary: Python script that updates CrsRootIds labels in enums.xml using certificates and textprotos from net/data/ssl/chrome_root_store.

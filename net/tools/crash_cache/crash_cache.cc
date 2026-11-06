@@ -7,6 +7,12 @@
 // works properly on debug mode, because the crash functionality is not compiled
 // on release builds of the cache.
 
+// ---docerion
+// type: source
+// title: 'crash_cache: disk cache crash test file generator'
+// summary: Command-line program that generates the files needed by the disk cache crash unit tests by running crash scenarios in slave processes, working only in debug builds.
+// ---
+
 #include <string>
 
 #include "base/at_exit.h"

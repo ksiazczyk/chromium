@@ -24,6 +24,12 @@
 //  * Marks entries in the file between "// ===BEGIN PRIVATE DOMAINS==="
 //    and "// ===END PRIVATE DOMAINS===" as private.
 
+// ---docerion
+// type: source
+// title: tld_cleanup command-line tool entry point
+// summary: Command-line program that converts Mozilla's effective-TLD data file into the gperf format expected by Chrome, logging errors and warnings to tld_cleanup.log.
+// ---
+
 #include <iostream>
 
 #include "base/at_exit.h"

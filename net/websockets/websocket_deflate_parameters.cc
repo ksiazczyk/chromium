@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket deflate parameters implementation
+// summary: Parses and validates permessage-deflate extension parameters such as context takeover and server or client max window bits.
+// ---
+
 #include "net/websockets/websocket_deflate_parameters.h"
 
 #include <vector>  // for iterating over extension.parameters()

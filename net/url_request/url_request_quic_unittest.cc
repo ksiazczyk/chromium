@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequest QUIC unit tests
+// summary: Tests URLRequest behavior over QUIC across QUIC protocol versions and Happy Eyeballs settings, using a QUIC test server and mock certificate verification.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <tuple>

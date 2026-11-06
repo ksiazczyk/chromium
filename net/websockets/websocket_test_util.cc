@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket test utilities implementation
+// summary: Implements test helpers that build standard WebSocket handshake requests and responses, header conversions, and a linear congruential generator for WebSocket tests.
+// ---
+
 #include "net/websockets/websocket_test_util.h"
 
 #include <stddef.h>

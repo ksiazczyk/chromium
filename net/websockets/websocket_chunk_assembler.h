@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket chunk assembler header
+// summary: Declares WebSocketChunkAssembler, which turns incoming frame chunks into complete WebSocket frames or protocol errors.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_CHUNK_ASSEMBLER_H_
 #define NET_WEBSOCKETS_WEBSOCKET_CHUNK_ASSEMBLER_H_
 

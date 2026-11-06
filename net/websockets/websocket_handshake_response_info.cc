@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake response info implementation
+// summary: Implements the WebSocketHandshakeResponseInfo constructor and destructor storing URL, headers, endpoint and response time.
+// ---
+
 #include "net/websockets/websocket_handshake_response_info.h"
 
 #include <utility>

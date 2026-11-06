@@ -14,6 +14,12 @@
 // To test that the disk cache doesn't generate critical errors with regular
 // application level crashes, edit stress_support.h.
 
+// ---docerion
+// type: source
+// title: 'stress_cache: disk cache crash recovery stress test'
+// summary: Chromium tool that repeatedly launches copies of itself to stress-test the disk cache's crash recovery, exercising cache entries while a second thread kills the process.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <string_view>

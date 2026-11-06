@@ -6,6 +6,12 @@
 // In general, you should prefer using these constants to literal strings,
 // except in tests.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake constants
+// summary: Defines shared constants for the WebSocket handshake, including header names, protocol version and the WebSocket GUID.
+// ---
+
 #ifndef NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_CONSTANTS_H_
 #define NET_WEBSOCKETS_WEBSOCKET_HANDSHAKE_CONSTANTS_H_
 

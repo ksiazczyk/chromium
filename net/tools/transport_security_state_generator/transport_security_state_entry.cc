@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state entry implementation
+// summary: Implements TransportSecurityStateEntry and its trie entry, writing compact HSTS flag bits into the Huffman trie.
+// ---
+
 #include "net/tools/transport_security_state_generator/transport_security_state_entry.h"
 #include "net/tools/huffman_trie/trie/trie_bit_buffer.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate verification using net::CertVerifyProc
+// summary: Verifies a target certificate with a net::CertVerifyProc, printing cert status flags and the verified chain and optionally dumping the PEM chain to a file.
+// ---
+
 #include "net/tools/cert_verify_tool/verify_using_cert_verify_proc.h"
 
 #include <algorithm>

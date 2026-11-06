@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit script for the dafsa tools
+# summary: Runs the make_dafsa unit tests during presubmit checks whenever make_dafsa.py or make_dafsa_unittest.py are modified.
+# ---
+
 """Chromium presubmit script for src/net/tools/dafsa."""
 
 

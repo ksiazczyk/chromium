@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestJobFactory class declaration
+// summary: Declares the URLRequestJobFactory class and its ProtocolHandler interface for creating URLRequestJobs per URL scheme, including redirect safety checks and a testing interceptor hook.
+// ---
+
 #ifndef NET_URL_REQUEST_URL_REQUEST_JOB_FACTORY_H_
 #define NET_URL_REQUEST_URL_REQUEST_JOB_FACTORY_H_
 

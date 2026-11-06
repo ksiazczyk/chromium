@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: run_testserver
+// summary: Command-line launcher for the embedded test server that starts an HTTP, HTTPS, WS or WSS server with a chosen SSL certificate and document root.
+// ---
+
 #include <stdio.h>
 
 #include <memory>

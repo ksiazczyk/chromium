@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate parsing and SPKI hashing implementation
+// summary: Implements PEM block decoding, X.509 certificate parsing, subject name extraction, and SPKI SHA256 hash calculation using BoringSSL.
+// ---
+
 #include "net/tools/transport_security_state_generator/cert_util.h"
 
 #include <string>

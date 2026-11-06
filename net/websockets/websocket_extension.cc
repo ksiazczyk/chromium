@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket extension implementation
+// summary: Implements the WebSocketExtension class and its Parameter, including order-insensitive equivalence comparison and string serialization.
+// ---
+
 #include "net/websockets/websocket_extension.h"
 
 #include <algorithm>

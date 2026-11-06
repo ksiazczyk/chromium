@@ -1,0 +1,4 @@
+# Docerion header of print_certificates.py.
+type: script
+title: Pretty-print certificates as annotated PEM
+summary: Extracts certificates from files, servers, DER ASCII, or net logs and pretty-prints them as an openssl-annotated PEM file.

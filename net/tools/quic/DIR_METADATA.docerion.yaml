@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: QUIC tools directory metadata
+summary: Directory metadata file that mixes in the common QUIC metadata from net/quic for Chromium directory tooling.

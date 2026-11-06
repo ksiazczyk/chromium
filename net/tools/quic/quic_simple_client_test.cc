@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple QUIC client initialization test
+// summary: Unit test verifying that QuicSimpleClient initializes successfully against a loopback server address.
+// ---
+
 #include "net/tools/quic/quic_simple_client.h"
 
 #include "base/strings/string_util.h"

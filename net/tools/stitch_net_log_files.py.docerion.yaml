@@ -1,0 +1,4 @@
+# Docerion header of stitch_net_log_files.py.
+type: script
+title: Stitch in-progress NetLog files into one log
+summary: Merges the event files from a .inprogress directory into a single complete NetLog JSON file.

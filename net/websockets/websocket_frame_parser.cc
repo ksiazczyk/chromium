@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket frame parser implementation
+// summary: Implements incremental decoding of WebSocket frames from a byte stream, parsing frame headers and producing frame chunks.
+// ---
+
 #include "net/websockets/websocket_frame_parser.h"
 
 #include <algorithm>

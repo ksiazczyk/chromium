@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for TLD rule normalization utilities
+// summary: Declares the Rule struct, NormalizeResult enum, and functions for normalizing effective TLD data into rule maps and gperf output.
+// ---
+
 #ifndef NET_TOOLS_TLD_CLEANUP_TLD_CLEANUP_UTIL_H_
 #define NET_TOOLS_TLD_CLEANUP_TLD_CLEANUP_UTIL_H_
 

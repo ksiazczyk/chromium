@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket multi-network tests
+// summary: Tests that WebSocket connections bind to the expected network for sockets, DNS resolution, and proxies, including user agent handling.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>
