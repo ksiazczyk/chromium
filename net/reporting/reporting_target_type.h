@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting target type enum
+// summary: Defines the ReportingTargetType enum that distinguishes web developer reports from enterprise reports so neither is sent to the other's endpoints.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_TARGET_TYPE_H_
 #define NET_REPORTING_REPORTING_TARGET_TYPE_H_
 

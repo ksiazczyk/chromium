@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting endpoint manager implementation
+// summary: Implements endpoint selection for report delivery, applying priority, weight, delegate permissions, and exponential backoff for failing endpoints.
+// ---
+
 #include "net/reporting/reporting_endpoint_manager.h"
 
 #include <map>

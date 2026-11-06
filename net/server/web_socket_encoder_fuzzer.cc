@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: WebSocket encoder fuzzer
+// summary: Fuzz target that feeds random chunks into WebSocketEncoder::DecodeFrame to uncover parsing crashes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

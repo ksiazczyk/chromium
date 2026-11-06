@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address conversion helpers between net and QUIC types
+// summary: Inline helpers that convert IP addresses and endpoints between Chromium net types and QUICHE/QUIC socket address types.
+// ---
+
 #ifndef NET_QUIC_ADDRESS_UTILS_H_
 #define NET_QUIC_ADDRESS_UTILS_H_
 

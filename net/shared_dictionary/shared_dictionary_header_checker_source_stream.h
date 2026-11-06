@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary header checker source stream
+// summary: Declares a SourceStream that checks and consumes the header bytes of dictionary-compressed Brotli and Zstandard streams.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_HEADER_CHECKER_SOURCE_STREAM_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_HEADER_CHECKER_SOURCE_STREAM_H_
 

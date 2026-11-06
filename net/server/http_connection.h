@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpConnection class declaration
+// summary: Declares the HttpConnection class with read and write IO buffers holding the connection id, socket and pending data.
+// ---
+
 #ifndef NET_SERVER_HTTP_CONNECTION_H_
 #define NET_SERVER_HTTP_CONNECTION_H_
 

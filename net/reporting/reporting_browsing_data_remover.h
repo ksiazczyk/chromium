@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting browsing data remover declaration
+// summary: Declares the class that clears reports and clients from the Reporting system based on a data type mask and an origin filter.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_BROWSING_DATA_REMOVER_H_
 #define NET_REPORTING_REPORTING_BROWSING_DATA_REMOVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC proxy client socket test base class
+// summary: Declares the parameterized test fixture with shared constants, mock data and helpers reused by QUIC proxy client socket tests.
+// ---
+
 #ifndef NET_QUIC_QUIC_PROXY_CLIENT_SOCKET_TEST_BASE_H_
 #define NET_QUIC_QUIC_PROXY_CLIENT_SOCKET_TEST_BASE_H_
 

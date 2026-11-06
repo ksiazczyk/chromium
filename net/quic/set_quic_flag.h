@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetQuicFlagByName declaration
+// summary: Declares SetQuicFlagByName, which sets a named QUIC flag from a string value and leaves the flag unchanged when the value is invalid or out of range.
+// ---
+
 #ifndef NET_QUIC_SET_QUIC_FLAG_H_
 #define NET_QUIC_SET_QUIC_FLAG_H_
 

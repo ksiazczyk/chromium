@@ -5,6 +5,12 @@
 // The Chrome-specific helper for quic::QuicConnection which uses
 // a TaskRunner for alarms, and uses a DatagramClientSocket for writing data.
 
+// ---docerion
+// type: source
+// title: QuicChromiumConnectionHelper class declaration
+// summary: Declares the Chrome-specific QUIC connection helper that provides clock, randomness, and buffer allocation.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_CONNECTION_HELPER_H_
 #define NET_QUIC_QUIC_CHROMIUM_CONNECTION_HELPER_H_
 

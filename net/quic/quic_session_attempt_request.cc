@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAttemptRequest implementation
+// summary: Implements QuicSessionAttemptRequest, which represents a client request for a new QUIC session and completes it with a session, result code, and error details.
+// ---
+
 #include "net/quic/quic_session_attempt_request.h"
 
 #include <optional>

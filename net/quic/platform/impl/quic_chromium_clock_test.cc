@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumClock unit tests
+// summary: Unit tests verifying that QuicChromiumClock's Now, ApproximateNow and WallNow return consistent, monotonically ordered times.
+// ---
+
 #include "net/quic/platform/impl/quic_chromium_clock.h"
 
 #include "base/time/time.h"

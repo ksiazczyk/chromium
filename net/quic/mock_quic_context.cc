@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockQuicContext implementation
+// summary: Implements MockQuicContext, wrapping a mock QUIC connection helper with time advancement and access to a mock clock for tests.
+// ---
+
 #include "net/quic/mock_quic_context.h"
 
 namespace net {

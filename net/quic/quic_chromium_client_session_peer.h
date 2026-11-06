@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumClientSession test peer
+// summary: Header exposing test-only accessors and setters for inspecting and manipulating QuicChromiumClientSession internals.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_CLIENT_SESSION_PEER_H_
 #define NET_QUIC_QUIC_CHROMIUM_CLIENT_SESSION_PEER_H_
 

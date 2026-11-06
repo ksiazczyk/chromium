@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerRequestInfo class declaration
+// summary: Declares HttpServerRequestInfo, which stores method, path, data, peer address and headers of an HTTP request.
+// ---
+
 #ifndef NET_SERVER_HTTP_SERVER_REQUEST_INFO_H_
 #define NET_SERVER_HTTP_SERVER_REQUEST_INFO_H_
 

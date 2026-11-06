@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicHttpStream class declaration
+// summary: Declares QuicHttpStream, a MultiplexedHttpStream subclass that uses a QuicChromiumClientSession handle to exchange HTTP data over QUIC.
+// ---
+
 #ifndef NET_QUIC_QUIC_HTTP_STREAM_H_
 #define NET_QUIC_QUIC_HTTP_STREAM_H_
 

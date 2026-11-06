@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Reporting directory metadata
+summary: Specifies the Monorail and Buganizer components used for tracking issues in the net/reporting directory.

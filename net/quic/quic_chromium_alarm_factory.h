@@ -5,6 +5,12 @@
 // The Chrome-specific helper for quic::QuicConnection which uses
 // a TaskRunner for alarms, and uses a DatagramClientSocket for writing data.
 
+// ---docerion
+// type: source
+// title: QuicChromiumAlarmFactory declaration
+// summary: Declares the Chrome-specific QuicAlarmFactory that schedules QUIC connection alarms via a SequencedTaskRunner.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_ALARM_FACTORY_H_
 #define NET_QUIC_QUIC_CHROMIUM_ALARM_FACTORY_H_
 

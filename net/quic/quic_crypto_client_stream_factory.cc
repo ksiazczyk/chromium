@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default QUIC crypto client stream factory
+// summary: Provides the default QuicCryptoClientStreamFactory that creates quic::QuicCryptoClientStream objects for client sessions.
+// ---
+
 #include "net/quic/quic_crypto_client_stream_factory.h"
 
 #include "base/no_destructor.h"

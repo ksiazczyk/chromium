@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionKey implementation
+// summary: Implements QuicSessionKey, the key identifying QUIC sessions by server ID, privacy mode, proxy chain, socket tag, network anonymization, and DNS policy.
+// ---
+
 #include "net/quic/quic_session_key.h"
 
 #include <iostream>

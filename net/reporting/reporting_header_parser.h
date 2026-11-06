@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting header parser API
+// summary: Declares functions to parse Report-To and Reporting-Endpoints headers, map endpoint names to URLs, and record header type metrics.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_HEADER_PARSER_H_
 #define NET_REPORTING_REPORTING_HEADER_PARSER_H_
 

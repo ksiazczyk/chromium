@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting network change observer unit tests
+// summary: Unit tests checking that reports and clients are cleared or kept across simulated network changes according to reporting policy.
+// ---
+
 #include "net/reporting/reporting_network_change_observer.h"
 
 #include <optional>

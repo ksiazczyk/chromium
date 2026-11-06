@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpServer unit tests
+// summary: Unit tests for the embedded HTTP server, exercising request handling, responses and connection behavior through a test TCP client.
+// ---
+
 #include "net/server/http_server.h"
 
 #include <stdint.h>

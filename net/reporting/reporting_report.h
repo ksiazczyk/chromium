@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting report class declaration
+// summary: Declares the ReportingReport struct for undelivered reports, with its status enum, fields, and helpers for delivery and DevTools identification.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_REPORT_H_
 #define NET_REPORTING_REPORTING_REPORT_H_
 

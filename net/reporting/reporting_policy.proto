@@ -4,6 +4,12 @@
 
 // Based on net::ReportingPolicy class declaration.
 
+// ---docerion
+// type: source
+// title: Reporting policy protobuf for fuzzing
+// summary: Proto2 definitions mirroring net::ReportingPolicy and describing the fuzz input for the Reporting header parser, used by libfuzzer tests.
+// ---
+
 syntax = "proto2";
 
 import "testing/libfuzzer/proto/json.proto";

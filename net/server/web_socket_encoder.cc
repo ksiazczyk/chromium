@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket encoder implementation
+// summary: Implements WebSocket frame encoding and decoding, including permessage-deflate compression, for server and client encoders.
+// ---
+
 #include "net/server/web_socket_encoder.h"
 
 #include <array>

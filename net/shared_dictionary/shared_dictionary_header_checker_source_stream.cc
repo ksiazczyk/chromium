@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary header checker implementation
+// summary: Implements validation of dictionary-compressed Brotli and Zstandard stream headers against expected signatures and dictionary hashes.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_header_checker_source_stream.h"
 
 #include <array>

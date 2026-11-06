@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool proxy job declaration
+// summary: Declares QuicSessionPool::ProxyJob, a Job subclass that creates destination QUIC sessions over a QUIC proxy connection.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_PROXY_JOB_H_
 #define NET_QUIC_QUIC_SESSION_POOL_PROXY_JOB_H_
 

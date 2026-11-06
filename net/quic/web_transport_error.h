@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransportError struct and string conversion
+// summary: Defines a struct capturing WebTransport connection errors with net and QUIC error codes, human-readable details, and a safe-to-report flag, plus a string conversion helper.
+// ---
+
 #ifndef NET_QUIC_WEB_TRANSPORT_ERROR_H_
 #define NET_QUIC_WEB_TRANSPORT_ERROR_H_
 

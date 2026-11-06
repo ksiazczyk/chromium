@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting network change observer interface
+// summary: Declares an observer that clears queued reports and endpoint configurations on network changes when enabled by reporting policy.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_NETWORK_CHANGE_OBSERVER_H_
 #define NET_REPORTING_REPORTING_NETWORK_CHANGE_OBSERVER_H_
 

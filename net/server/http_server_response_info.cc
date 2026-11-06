@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerResponseInfo implementation
+// summary: Implements building and serializing HTTP responses, including helpers for 404 and 500 responses.
+// ---
+
 #include "net/server/http_server_response_info.h"
 
 #include <string_view>

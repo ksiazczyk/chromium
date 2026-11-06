@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnection implementation
+// summary: Implements NetworkConnection, which observes IP address and connection type changes and caches the current connection type and description.
+// ---
+
 #include "net/quic/network_connection.h"
 
 #include "base/logging.h"

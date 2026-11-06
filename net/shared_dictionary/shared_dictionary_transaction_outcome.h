@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary transaction outcome enum
+// summary: Defines the SharedDictionaryTransactionOutcome enum used for UMA logging to Net.SharedDictionary.Transaction.Outcome.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_TRANSACTION_OUTCOME_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_TRANSACTION_OUTCOME_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicEndpoint struct declaration
+// summary: Declares the QuicEndpoint struct holding the QUIC version, IP endpoint, and connection endpoint metadata needed to attempt a QUIC session.
+// ---
+
 #ifndef NET_QUIC_QUIC_ENDPOINT_H_
 #define NET_QUIC_QUIC_ENDPOINT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool implementation
+// summary: Implements the pool that creates and manages QUIC client sessions, jobs, and requests for Chrome's network stack.
+// ---
+
 #include "net/quic/quic_session_pool.h"
 
 #include <algorithm>

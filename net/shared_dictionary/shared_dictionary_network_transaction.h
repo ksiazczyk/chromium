@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary network transaction header
+// summary: Declares SharedDictionaryNetworkTransaction, an HttpTransaction wrapper that fetches a matching dictionary and decodes dcb or dcz response bodies.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_NETWORK_TRANSACTION_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_NETWORK_TRANSACTION_H_
 

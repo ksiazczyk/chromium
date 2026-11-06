@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting service implementation
+// summary: Implements ReportingServiceImpl, which queues reports, processes Report-To and Reporting-Endpoints headers, and backlogs tasks until store loading completes.
+// ---
+
 #include "net/reporting/reporting_service.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting cache observer interface
+// summary: Declares an observer interface notified of report and client changes in the reporting cache.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_CACHE_OBSERVER_H_
 #define NET_REPORTING_REPORTING_CACHE_OBSERVER_H_
 

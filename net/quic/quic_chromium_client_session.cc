@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClientSession implementation
+// summary: Implements the client-side QUIC session, including crypto handshake, connection migration, probing, and stream management.
+// ---
+
 #include "net/quic/quic_chromium_client_session.h"
 
 #include <algorithm>

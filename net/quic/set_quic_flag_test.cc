@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SetQuicFlagByName
+// summary: GTest suite verifying that SetQuicFlagByName correctly parses bool, double, int32, and uint64 flag values and rejects invalid or negative inputs.
+// ---
+
 #include "net/quic/set_quic_flag.h"
 
 #include "net/third_party/quiche/src/quiche/quic/platform/api/quic_flags.h"

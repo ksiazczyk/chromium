@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary isolation key implementation
+// summary: Implements creation of shared dictionary isolation keys from isolation info, including the pervasive unpartitioned scope.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_isolation_key.h"
 
 #include <string_view>

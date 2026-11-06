@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock QUIC decrypter implementation
+// summary: Implements MockDecrypter, a QuicDecrypter that strips trailing padding and ignores keys, allowing fuzzers to mutate plaintext packets.
+// ---
+
 #include "net/quic/mock_decrypter.h"
 
 #include <limits>

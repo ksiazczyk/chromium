@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting header parser unit tests
+// summary: Unit tests covering parsing of Report-To and Reporting-Endpoints headers, endpoint registration limits, and header type histogram logging.
+// ---
+
 #include "net/reporting/reporting_header_parser.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicProxyClientSocket unit tests
+// summary: Unit tests covering CONNECT request handling, authentication, redirects and data transfer for QuicProxyClientSocket tunnels over QUIC proxies.
+// ---
+
 #include "net/quic/quic_proxy_client_socket.h"
 
 #include <memory>

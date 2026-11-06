@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpConnection unit tests
+// summary: Unit tests covering capacity, growth limits and data consumption behavior of HttpConnection's read and write IO buffers.
+// ---
+
 #include "net/server/http_connection.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: QUIC directory issue tracker metadata
+summary: Maps the net/quic directory to the Internals>Network>QUIC monorail component and Buganizer component 1456840.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicAddressMismatch unit tests
+// summary: Unit tests covering all address and port match and mismatch cases of GetAddressMismatch, including IPv4-mapped IPv6 inputs.
+// ---
+
 #include "net/quic/quic_address_mismatch.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

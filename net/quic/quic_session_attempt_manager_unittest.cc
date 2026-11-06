@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionAttemptManager unit tests
+// summary: Unit tests for QuicSessionAttemptManager covering session requests, endpoint attempts, and job completion behavior using mock QUIC data.
+// ---
+
 #include "net/quic/quic_session_attempt_manager.h"
 
 #include <memory>

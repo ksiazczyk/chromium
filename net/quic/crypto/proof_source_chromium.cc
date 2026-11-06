@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProofSourceChromium implementation
+// summary: Implements the Chromium QUIC ProofSource, loading certificate chains, private keys and optional signed certificate timestamps, and signing server proofs with RSA-PSS.
+// ---
+
 #include "net/quic/crypto/proof_source_chromium.h"
 
 #include "base/compiler_specific.h"

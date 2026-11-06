@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC migration attempt context declarations
+// summary: Declares enums for migration causes, failure and ineligibility reasons plus the QuicMigrationAttemptContext class holding context and resources for one connection migration attempt.
+// ---
+
 #ifndef NET_QUIC_QUIC_MIGRATION_ATTEMPT_CONTEXT_H_
 #define NET_QUIC_QUIC_MIGRATION_ATTEMPT_CONTEXT_H_
 

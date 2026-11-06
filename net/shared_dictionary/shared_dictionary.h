@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionary interface
+// summary: Declares the ref-counted SharedDictionary interface for reading a shared dictionary's binary, size, hash, and server-provided id.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_H_
 

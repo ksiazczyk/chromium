@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting header parser implementation
+// summary: Implements parsing of Report-To and Reporting-Endpoints headers and registers the parsed endpoint groups in the reporting cache.
+// ---
+
 #include "net/reporting/reporting_header_parser.h"
 
 #include <optional>

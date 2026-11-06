@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting browsing data remover implementation
+// summary: Implements removal of queued reports and endpoint clients from the reporting cache, optionally filtered by origin.
+// ---
+
 #include "net/reporting/reporting_browsing_data_remover.h"
 
 #include <vector>

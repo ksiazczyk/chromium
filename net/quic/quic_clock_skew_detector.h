@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicClockSkewDetector header
+// summary: Declares a detector that reports when wall-clock time diverges from tick time by more than one second.
+// ---
+
 #ifndef NET_QUIC_QUIC_CLOCK_SKEW_DETECTOR_H_
 #define NET_QUIC_QUIC_CLOCK_SKEW_DETECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool test base implementation
+// summary: Implements shared fixtures and helpers used by QuicSessionPool unit tests, including packet makers and mock setup.
+// ---
+
 #include "net/quic/quic_session_pool_test_base.h"
 
 #include <sys/types.h>

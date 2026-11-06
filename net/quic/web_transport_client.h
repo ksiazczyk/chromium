@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport client interface
+// summary: Declares the WebTransport client state enum, close info, visitor callbacks, and client interfaces for WebTransport over HTTP/3.
+// ---
+
 #ifndef NET_QUIC_WEB_TRANSPORT_CLIENT_H_
 #define NET_QUIC_WEB_TRANSPORT_CLIENT_H_
 

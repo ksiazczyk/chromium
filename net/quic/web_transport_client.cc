@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport client implementation
+// summary: Implements WebTransport state strings, close info, and a client factory that creates a dedicated HTTP/3 client or a client that starts in an error state.
+// ---
+
 #include "net/quic/web_transport_client.h"
 
 #include <ostream>

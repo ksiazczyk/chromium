@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC end-to-end tests
+// summary: Exercises QUIC connections end to end through HttpNetworkSession against a simple QUIC server with mock resolvers and cert verifiers.
+// ---
+
 #include <functional>
 #include <memory>
 #include <ostream>

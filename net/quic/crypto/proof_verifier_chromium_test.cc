@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProofVerifierChromium unit tests
+// summary: Unit tests for ProofVerifierChromium covering certificate verification, certificate transparency, public key pinning and SCT auditing behavior.
+// ---
+
 #include "net/quic/crypto/proof_verifier_chromium.h"
 
 #include <algorithm>

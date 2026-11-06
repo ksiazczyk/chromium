@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting policy implementation
+// summary: Implements ReportingPolicy creation with default endpoint backoff settings and a hook to override the policy in tests.
+// ---
+
 #include "net/reporting/reporting_policy.h"
 
 #include "base/no_destructor.h"

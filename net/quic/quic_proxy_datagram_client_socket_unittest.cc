@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicProxyDatagramClientSocket unit tests
+// summary: Unit tests verifying connect-udp proxying, capsule protocol headers and datagram send and receive flows for QuicProxyDatagramClientSocket.
+// ---
+
 #include "net/quic/quic_proxy_datagram_client_socket.h"
 
 #include "base/functional/bind.h"

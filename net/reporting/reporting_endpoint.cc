@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting endpoint group key implementation
+// summary: Implements the endpoint group key constructors, comparison operators, and string conversion used to identify reporting endpoint groups.
+// ---
+
 #include "net/reporting/reporting_endpoint.h"
 
 #include <string>

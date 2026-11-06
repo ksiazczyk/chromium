@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestQuicCryptoClientConfigHandle declaration
+// summary: Declares a test implementation of QuicCryptoClientConfigHandle that wraps a passed-in crypto config and does nothing on destruction.
+// ---
+
 #ifndef NET_QUIC_TEST_QUIC_CRYPTO_CLIENT_CONFIG_HANDLE_H_
 #define NET_QUIC_TEST_QUIC_CRYPTO_CLIENT_CONFIG_HANDLE_H_
 

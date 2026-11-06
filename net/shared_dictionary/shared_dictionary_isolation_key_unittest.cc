@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared dictionary isolation key unit tests
+// summary: Tests isolation key creation and rejection of opaque origins, nonces, and the pervasive domain.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_isolation_key.h"
 
 #include "net/base/isolation_info.h"

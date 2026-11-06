@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport send stats tracker implementation
+// summary: Implements a tracker that records sent and acknowledged application bytes per WebTransport stream, handling out-of-order acknowledgements and per-stream registration.
+// ---
+
 #include "net/quic/web_transport_send_stats_tracker.h"
 
 #include <algorithm>

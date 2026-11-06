@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool test peer declaration
+// summary: Declares QuicSessionPoolPeer, a test helper providing static access to private QuicSessionPool state for unit tests.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_PEER_H_
 #define NET_QUIC_QUIC_SESSION_POOL_PEER_H_
 

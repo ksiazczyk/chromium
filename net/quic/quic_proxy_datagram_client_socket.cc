@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicProxyDatagramClientSocket implementation
+// summary: Implements a datagram client socket that sends a CONNECT request over a QUIC proxy stream and exchanges HTTP/3 datagrams with the target server.
+// ---
+
 #include "net/quic/quic_proxy_datagram_client_socket.h"
 
 #include "base/compiler_specific.h"

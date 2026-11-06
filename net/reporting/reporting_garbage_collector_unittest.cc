@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting garbage collector unit tests
+// summary: Unit tests verifying that the reporting garbage collector removes expired, failed, and stale reports and endpoints when its timer fires.
+// ---
+
 #include "net/reporting/reporting_garbage_collector.h"
 
 #include <optional>

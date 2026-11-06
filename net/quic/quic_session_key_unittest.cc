@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionKey unit tests
+// summary: Unit tests verifying equality, inequality, and aliasing behavior of QuicSessionKey when individual key fields such as privacy mode or proxy chain differ.
+// ---
+
 #include "net/quic/quic_session_key.h"
 
 #include "net/base/network_anonymization_key.h"

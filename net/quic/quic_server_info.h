@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicServerInfo interface
+// summary: Declares the interface for loading and persisting non-sensitive QUIC server crypto config used to cache server handshake information.
+// ---
+
 #ifndef NET_QUIC_QUIC_SERVER_INFO_H_
 #define NET_QUIC_QUIC_SERVER_INFO_H_
 

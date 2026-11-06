@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumClientSession unit tests
+// summary: Unit tests for the Chromium QUIC client session, covering connection migration, ECH, proxies, and session behavior.
+// ---
+
 #include "net/quic/quic_chromium_client_session.h"
 
 #include "base/base64.h"

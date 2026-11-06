@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting delegate interface
+// summary: Declares permission checks for queuing reports, sending reports, and setting or using reporting endpoints.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_DELEGATE_H_
 #define NET_REPORTING_REPORTING_DELEGATE_H_
 

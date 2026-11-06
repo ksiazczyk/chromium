@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumClientStream unit tests
+// summary: Unit tests for the client QUIC stream, verifying header and body reads, writes, and error handling with mock sessions.
+// ---
+
 #include "net/quic/quic_chromium_client_stream.h"
 
 #include <string>

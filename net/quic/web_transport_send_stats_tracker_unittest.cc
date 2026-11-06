@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTransport send stats tracker unit tests
+// summary: Unit tests verifying sent and acknowledged byte accounting, including preamble clipping, overlapping acknowledgements, contiguous prefix reporting, and stream unregistration.
+// ---
+
 #include "net/quic/web_transport_send_stats_tracker.h"
 
 #include <cstdint>

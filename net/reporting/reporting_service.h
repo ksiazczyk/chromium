@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting service interface
+// summary: Declares ReportingService, the external interface to the Reporting system for queuing reports and processing reporting headers.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_SERVICE_H_
 #define NET_REPORTING_REPORTING_SERVICE_H_
 

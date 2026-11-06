@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for net/quic
+summary: Directory metadata that mixes in the shared COMMON_METADATA file to assign component information for net/quic.

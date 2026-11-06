@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting endpoint manager unit tests
+// summary: Unit tests for the endpoint manager covering endpoint selection, priority and weight handling, and backoff after failed requests.
+// ---
+
 #include "net/reporting/reporting_endpoint_manager.h"
 
 #include <optional>

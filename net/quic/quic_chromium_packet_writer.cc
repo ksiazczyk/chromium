@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumPacketWriter implementation
+// summary: Implements writing QUIC packets to a datagram socket, including a reusable IO buffer, write error retries, ECN codepoint mapping, and UMA metrics.
+// ---
+
 #include "net/quic/quic_chromium_packet_writer.h"
 
 #include <string>

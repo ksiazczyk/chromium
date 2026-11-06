@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockQuicData test helper
+// summary: Declares MockQuicData, a helper encapsulating mock reads and writes for QUIC, added to a mock socket factory or mock UDP socket.
+// ---
+
 #ifndef NET_QUIC_MOCK_QUIC_DATA_H_
 #define NET_QUIC_MOCK_QUIC_DATA_H_
 

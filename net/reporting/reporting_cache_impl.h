@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingCacheImpl class declaration
+// summary: Declares ReportingCacheImpl, the default ReportingCache implementation with methods for reports, endpoints, and header parsing.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_CACHE_IMPL_H_
 #define NET_REPORTING_REPORTING_CACHE_IMPL_H_
 

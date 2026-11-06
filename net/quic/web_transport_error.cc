@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport error formatting
+// summary: Implements string conversion and stream output for WebTransportError, combining net error, QUIC error, and detail messages.
+// ---
+
 #include "net/quic/web_transport_error.h"
 
 #include "base/strings/strcat.h"

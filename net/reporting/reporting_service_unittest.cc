@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting service unit tests
+// summary: Parametrized unit tests for ReportingService covering report queuing, header processing, and browsing data removal with and without a persistent store.
+// ---
+
 #include "net/reporting/reporting_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC network connectivity tracker implementation
+// summary: Implements QuicNetworkConnectivityTracker, tracking whether QUIC has ever worked on the current network and resetting that state on IP address changes.
+// ---
+
 #include "net/quic/quic_network_connectivity_tracker.h"
 
 namespace net {

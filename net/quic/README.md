@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome's QUIC Implementation
+summary: Explains that most QUIC code lives in the QUICHE repository while this directory holds Chrome-specific QUIC code, with links to further documentation.
+---
+
 # Chrome's QUIC Implementation
 
 The majority of Chrome's QUIC implementation lives in the [QUICHE

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for shared_dictionary
+summary: Lists the primary and secondary code owners of the net/shared_dictionary directory.

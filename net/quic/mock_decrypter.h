@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock QUIC decrypter declaration
+// summary: Declares MockDecrypter, a no-op QuicDecrypter that returns ciphertext untouched to support fuzzing of QUIC packets.
+// ---
+
 #ifndef NET_QUIC_MOCK_DECRYPTER_H_
 #define NET_QUIC_MOCK_DECRYPTER_H_
 

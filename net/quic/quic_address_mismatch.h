@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicAddressMismatch enum and GetAddressMismatch API
+// summary: Declares the QuicAddressMismatch enum values and the GetAddressMismatch function used to compare two IP endpoints.
+// ---
+
 #ifndef NET_QUIC_QUIC_ADDRESS_MISMATCH_H_
 #define NET_QUIC_QUIC_ADDRESS_MISMATCH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDictionaryGetter callback type
+// summary: Defines a callback type that returns a SharedDictionary for a given isolation key and request URL.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_GETTER_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_GETTER_H_
 

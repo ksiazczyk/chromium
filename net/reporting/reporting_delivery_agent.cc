@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting delivery agent implementation
+// summary: Implements batching of queued reports from the reporting cache and their upload to endpoints as JSON, including body size limits and upload metrics.
+// ---
+
 #include "net/reporting/reporting_delivery_agent.h"
 
 #include <algorithm>

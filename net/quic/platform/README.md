@@ -1,3 +1,9 @@
+---
+type: readme
+title: QUIC platform
+summary: Explains that the platform directory enables building QUIC on many platforms, with api/ holding platform-independent definitions and impl/ holding platform-specific implementations.
+---
+
 # QUIC platform
 
 This platform/ directory exists in order to allow QUIC code to be built on

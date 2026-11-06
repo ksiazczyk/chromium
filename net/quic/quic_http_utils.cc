@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC HTTP utilities implementation
+// summary: Implements helpers converting request priorities between net and QUIC formats and building NetLog parameters for QUIC requests and responses.
+// ---
+
 #include "net/quic/quic_http_utils.h"
 
 #include <utility>

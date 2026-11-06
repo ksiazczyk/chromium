@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool EndpointConnector declaration
+// summary: Declares EndpointConnector, which advances QUIC session attempts against endpoints resolved by the owning AsyncDnsJob.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_ENDPOINT_CONNECTOR_H_
 #define NET_QUIC_QUIC_SESSION_POOL_ENDPOINT_CONNECTOR_H_
 

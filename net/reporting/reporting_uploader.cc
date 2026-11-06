@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting uploader implementation
+// summary: Implements ReportingUploader, which sends reports as application/reports+json requests, handling CORS preflight and mapping response codes to outcomes.
+// ---
+
 #include "net/reporting/reporting_uploader.h"
 
 #include <string>

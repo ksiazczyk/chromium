@@ -4,6 +4,12 @@
 //
 // Common utilities for Quic tests
 
+// ---docerion
+// type: source
+// title: TestTaskRunner declaration
+// summary: Declares a SequencedTaskRunner for QUIC tests that records posted tasks and runs them against a MockClock with virtual time control.
+// ---
+
 #ifndef NET_QUIC_TEST_TASK_RUNNER_H_
 #define NET_QUIC_TEST_TASK_RUNNER_H_
 

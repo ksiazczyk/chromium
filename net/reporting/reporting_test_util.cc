@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting test utilities implementation
+// summary: Implements test helpers such as TestReportingUploader and TestReportingDelegate that hold and control report uploads during Reporting tests.
+// ---
+
 #include "net/reporting/reporting_test_util.h"
 
 #include <memory>

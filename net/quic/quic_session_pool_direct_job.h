@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool DirectJob declaration
+// summary: Declares DirectJob, a QuicSessionPool job that handles direct QUIC connections by resolving the host and starting a session attempt.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_DIRECT_JOB_H_
 #define NET_QUIC_QUIC_SESSION_POOL_DIRECT_JOB_H_
 

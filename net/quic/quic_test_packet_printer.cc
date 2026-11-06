@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC test packet printer implementation
+// summary: Implements QuicPacketPrinter, which decodes QUIC packets and prints their frames to an output stream for test diagnostics.
+// ---
+
 #include "net/quic/quic_test_packet_printer.h"
 
 #include <ostream>

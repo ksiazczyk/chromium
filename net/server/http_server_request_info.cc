@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerRequestInfo implementation
+// summary: Implements header lookup helpers for the HTTP request metadata used by the embedded server.
+// ---
+
 #include "net/server/http_server_request_info.h"
 
 #include <string_view>

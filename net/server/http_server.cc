@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServer implementation
+// summary: Implements the embedded HTTP server that accepts connections, dispatches HTTP and WebSocket events, and sends responses.
+// ---
+
 #include "net/server/http_server.h"
 
 #include <array>

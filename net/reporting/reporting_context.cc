@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting context implementation
+// summary: Implements ReportingContext, wiring together the cache, uploader, delegate, delivery agent, and garbage collector, and dispatching observer notifications.
+// ---
+
 #include "net/reporting/reporting_context.h"
 
 #include <utility>

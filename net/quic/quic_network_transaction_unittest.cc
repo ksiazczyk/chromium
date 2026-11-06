@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC network transaction unit tests
+// summary: Extensive unit tests exercising HTTP network transactions over QUIC, including proxies, alternative services, connection migration and session behavior.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <optional>

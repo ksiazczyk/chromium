@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock QUIC crypto client stream factory implementation
+// summary: Implements MockCryptoClientStreamFactory, which creates mock crypto client streams with per-server configs and queued proof verify details for tests.
+// ---
+
 #include "net/quic/mock_crypto_client_stream_factory.h"
 
 #include <optional>

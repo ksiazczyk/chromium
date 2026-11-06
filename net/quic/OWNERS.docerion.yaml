@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the net/quic directory
+summary: Lists the Chromium developers responsible for reviewing and approving changes in the net/quic directory.

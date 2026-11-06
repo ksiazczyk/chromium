@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAliasKey declaration
+// summary: Declares a key combining a destination SchemeHostPort and a QuicSessionKey, used to identify and alias QUIC sessions.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_ALIAS_KEY_H_
 #define NET_QUIC_QUIC_SESSION_ALIAS_KEY_H_
 

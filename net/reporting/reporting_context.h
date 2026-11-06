@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingContext class declaration
+// summary: Declares ReportingContext, which owns the internal components of the reporting system and manages cache observers and persistence flags.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_CONTEXT_H_
 #define NET_REPORTING_REPORTING_CONTEXT_H_
 

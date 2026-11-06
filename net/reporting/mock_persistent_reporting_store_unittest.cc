@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock persistent reporting store unit tests
+// summary: Tests loading clients, pre-stored clients, and failed loads in the mock persistent reporting store.
+// ---
+
 #include "net/reporting/mock_persistent_reporting_store.h"
 
 #include <vector>

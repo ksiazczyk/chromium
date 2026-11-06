@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicProxyDatagramClientSocket class declaration
+// summary: Declares a DatagramClientSocket that tunnels datagrams over a QUIC proxy stream, connecting via ConnectViaStream and implementing the HTTP/3 datagram visitor interface.
+// ---
+
 #ifndef NET_QUIC_QUIC_PROXY_DATAGRAM_CLIENT_SOCKET_H_
 #define NET_QUIC_QUIC_PROXY_DATAGRAM_CLIENT_SOCKET_H_
 

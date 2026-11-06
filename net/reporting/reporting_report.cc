@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting report implementation
+// summary: Implements the ReportingReport struct, including group key computation and pending upload status checks for queued reports.
+// ---
+
 #include "net/reporting/reporting_report.h"
 
 #include <memory>

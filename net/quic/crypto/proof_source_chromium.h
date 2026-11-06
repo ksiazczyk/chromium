@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProofSourceChromium class declaration
+// summary: Declares ProofSourceChromium, the Chromium implementation of the QUIC ProofSource interface for serving certificate chains and proof signatures.
+// ---
+
 #ifndef NET_QUIC_CRYPTO_PROOF_SOURCE_CHROMIUM_H_
 #define NET_QUIC_CRYPTO_PROOF_SOURCE_CHROMIUM_H_
 

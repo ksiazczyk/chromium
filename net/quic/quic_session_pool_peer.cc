@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool test peer implementation
+// summary: Implements test-only peer accessors that inspect and manipulate QuicSessionPool internals such as active sessions, config, and clocks.
+// ---
+
 #include "net/quic/quic_session_pool_peer.h"
 
 #include <string>

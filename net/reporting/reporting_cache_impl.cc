@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting cache implementation
+// summary: Implements the in-memory reporting cache, adding and evicting reports, tracking delivery status, and managing endpoint clients and expired sources.
+// ---
+
 #include "net/reporting/reporting_cache_impl.h"
 
 #include <algorithm>

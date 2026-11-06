@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary constants
+// summary: Defines content encoding names for dictionary-compressed Brotli and Zstandard and the available-dictionary header name.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_CONSTANTS_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_CONSTANTS_H_
 

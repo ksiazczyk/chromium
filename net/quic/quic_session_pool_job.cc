@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool job implementation
+// summary: Implements the QuicSessionPool::Job base class that creates QUIC sessions, tracks associated requests, priorities, and net log events.
+// ---
+
 #include "net/quic/quic_session_pool_job.h"
 
 #include <string>

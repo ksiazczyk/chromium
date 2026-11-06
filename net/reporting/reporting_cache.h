@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingCache interface for reports and clients
+// summary: Declares the ReportingCache interface that holds undelivered reports and per-origin endpoint configurations in memory, with pending and doomed report handling.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_CACHE_H_
 #define NET_REPORTING_REPORTING_CACHE_H_
 

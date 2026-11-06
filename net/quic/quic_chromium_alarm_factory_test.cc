@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumAlarmFactory unit tests
+// summary: Unit tests verifying that created alarms fire, cancel, and reset correctly using a mock clock and test task runner.
+// ---
+
 #include "net/quic/quic_chromium_alarm_factory.h"
 
 #include "net/quic/test_task_runner.h"

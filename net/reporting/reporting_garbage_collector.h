@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting garbage collector interface
+// summary: Declares the garbage collector that removes undelivered reports after too much age or too many failed delivery attempts.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_GARBAGE_COLLECTOR_H_
 #define NET_REPORTING_REPORTING_GARBAGE_COLLECTOR_H_
 

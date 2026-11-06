@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicClockSkewDetector implementation
+// summary: Implements detection of clock skew by comparing wall-clock and time-tick deltas for QUIC connections.
+// ---
+
 #include "net/quic/quic_clock_skew_detector.h"
 
 namespace net {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock persistent reporting store implementation
+// summary: Implements a mock persistent reporting store that records store commands in order so tests can verify them.
+// ---
+
 #include "net/reporting/mock_persistent_reporting_store.h"
 
 #include <algorithm>

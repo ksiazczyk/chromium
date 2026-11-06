@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicServerInfo parsing and serialization
+// summary: Implements parsing and pickled serialization of cached QUIC server crypto config, including server config, tokens, signatures and certificates.
+// ---
+
 #include "net/quic/quic_server_info.h"
 
 #include <limits>
