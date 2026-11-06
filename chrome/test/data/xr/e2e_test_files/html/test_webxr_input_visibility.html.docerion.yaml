@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_input_visibility.html.
+type: test
+title: WebXR input visibility test page
+summary: Test page that checks input source visibility and null poses when the session visibility state is toggled to visible blurred.

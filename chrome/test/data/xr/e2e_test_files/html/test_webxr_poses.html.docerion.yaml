@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_poses.html.
+type: test
+title: WebXR poses test page
+summary: Test page that caches frame and pose data per frame id to verify WebXR poses are correct through the rendering pipeline.

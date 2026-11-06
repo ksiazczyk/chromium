@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_pose_data_unfocused_tab.html.
+type: test
+title: WebXR pose data in unfocused tab test page
+summary: End-to-end WebXR test page verifying that WebXR does not update frame data or fire animation frames when the tab is not focused.

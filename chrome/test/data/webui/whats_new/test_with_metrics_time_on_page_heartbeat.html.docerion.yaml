@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_time_on_page_heartbeat.html.
+type: test
+title: What's New time on page heartbeat test page
+summary: HTML fixture page for the What's New iframe that loads the heartbeat time-on-page metrics test script.

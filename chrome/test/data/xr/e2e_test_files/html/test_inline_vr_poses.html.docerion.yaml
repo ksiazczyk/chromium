@@ -1,0 +1,4 @@
+# Docerion header of test_inline_vr_poses.html.
+type: test
+title: Inline VR pose correctness test
+summary: WebXR test page checking that submitted frames carry valid poses in immersive mode and null poses in inline mode.

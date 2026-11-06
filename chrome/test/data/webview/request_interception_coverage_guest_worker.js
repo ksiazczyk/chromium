@@ -8,6 +8,12 @@
  * interception testing.
  */
 
+// ---docerion
+// type: test
+// title: Request interception coverage worker script
+// summary: Worker script that performs fetch, WebSocket, and WebTransport requests inside dedicated, shared, and service workers for interception testing.
+// ---
+
 const kTestFunctions = {
   'ping': async (data) => {
       // Do nothing.

@@ -1,0 +1,4 @@
+# Docerion header of test_isolated_device_service_disconnect.html.
+type: test
+title: Device service disconnect test
+summary: WebXR test page that counts navigator.xr devicechange events so a test driver can observe device service disconnects.

@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_nav_click.html.
+type: test
+title: What's New nav click metrics test page
+summary: HTML test page for the What's New iframe that loads the nav click metrics test script.

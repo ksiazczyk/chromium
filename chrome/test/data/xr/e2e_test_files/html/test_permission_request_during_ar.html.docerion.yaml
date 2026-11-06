@@ -1,0 +1,4 @@
+# Docerion header of test_permission_request_during_ar.html.
+type: test
+title: Geolocation permission request during AR session test
+summary: Test page that triggers a geolocation permission request from a canvas click while an immersive AR session with DOM overlay is active.

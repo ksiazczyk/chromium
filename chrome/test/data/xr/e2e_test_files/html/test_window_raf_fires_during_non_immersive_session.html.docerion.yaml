@@ -1,0 +1,4 @@
+# Docerion header of test_window_raf_fires_during_non_immersive_session.html.
+type: test
+title: WebXR window rAF during non-immersive session test
+summary: End-to-end test page checking that window.requestAnimationFrame keeps firing while a non-immersive WebXR session is active.

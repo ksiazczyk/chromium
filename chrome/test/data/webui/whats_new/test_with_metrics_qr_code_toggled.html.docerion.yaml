@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_qr_code_toggled.html.
+type: test
+title: What's New QR code toggled metrics test page
+summary: HTML test page for the What's New iframe that loads the QR code toggled metrics test script.

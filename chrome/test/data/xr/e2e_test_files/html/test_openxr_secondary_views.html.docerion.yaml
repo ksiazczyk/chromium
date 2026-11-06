@@ -1,0 +1,4 @@
+# Docerion header of test_openxr_secondary_views.html.
+type: test
+title: WebXR secondary views exposure test
+summary: End-to-end test page verifying that requested secondary views are correctly exposed, checking eye labels, positions and rotations over 40 frames.

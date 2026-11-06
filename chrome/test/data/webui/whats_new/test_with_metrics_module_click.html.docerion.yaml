@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_module_click.html.
+type: test
+title: What's New module click test page
+summary: HTML host page that loads the module click test script for the What's New iframe.

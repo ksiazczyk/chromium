@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_window_raf_fires_while_presenting.html.
+type: test
+title: WebXR window rAF fires while presenting test
+summary: Test page verifying that window.requestAnimationFrame continues to fire during a WebXR immersive session on Windows and desktop.

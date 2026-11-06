@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: What's New WebUI tests build definition
+summary: GN build file that defines the build target and file lists for the What's New WebUI browser and unit tests.

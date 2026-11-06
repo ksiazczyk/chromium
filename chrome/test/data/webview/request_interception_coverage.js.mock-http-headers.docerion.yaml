@@ -1,0 +1,4 @@
+# Docerion header of request_interception_coverage.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for request interception coverage script
+summary: Mock HTTP response headers with permissive CORS and JavaScript content type served for the request interception coverage script during tests.

@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_screen_taps_not_registered.html.
+type: test
+title: WebXR screen taps not registered test
+summary: Test page checking that screen taps are not registered while an immersive WebXR session is active.

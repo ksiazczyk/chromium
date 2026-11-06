@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_input_transfer.html.
+type: test
+title: WebXR input transfer test page
+summary: Test page that requests an AR session with DOM overlay and counts frames with input sources and select events to check input transfer.

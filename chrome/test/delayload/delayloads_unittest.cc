@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delay load imports unit tests
+// summary: Unit tests validating that Chrome's module imports and API set usage are available on the earliest supported Windows version.
+// ---
+
 #include <windows.h>
 
 #include <stdint.h>

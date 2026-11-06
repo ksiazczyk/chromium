@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_explore_more_toggled.html.
+type: test
+title: What's New explore more toggled test page
+summary: HTML host page that loads the explore more toggled test script for the What's New iframe.

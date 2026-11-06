@@ -1,0 +1,4 @@
+# Docerion header of test_openxr_media_layers.html.
+type: test
+title: OpenXR media layers test
+summary: WebXR test page verifying that an XRMediaBinding quad layer renders a canvas-captured video stream during an immersive session.

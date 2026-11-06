@@ -1,0 +1,4 @@
+# Docerion header of test_inline_viewer_available.html.
+type: test
+title: Inline session availability test
+summary: WebXR test page verifying that an inline session can always be created and its viewer reference space used to render frames.

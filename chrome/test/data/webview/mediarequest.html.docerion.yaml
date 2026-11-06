@@ -1,0 +1,4 @@
+# Docerion header of mediarequest.html.
+type: test
+title: Webview media request test page
+summary: Test page that waits for a message, requests audio via getUserMedia, and posts back to the source whether media access was granted.

@@ -1,0 +1,4 @@
+# Docerion header of supported_apisets_10.0.10240.inc.
+type: data
+title: Supported API sets for Windows 10.0.10240
+summary: Generated list of API set names and maximum supported subversions for Windows 10.0.10240, included by the delay load unit test.

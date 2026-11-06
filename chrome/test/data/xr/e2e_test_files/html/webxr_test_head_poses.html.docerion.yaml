@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_head_poses.html.
+type: test
+title: WebXR head poses test page
+summary: End-to-end WebXR test page verifying that WebXR head poses match the expected matrices.

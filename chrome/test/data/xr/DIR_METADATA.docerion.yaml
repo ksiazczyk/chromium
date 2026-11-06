@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for XR test data
+summary: Directory metadata assigning the XR test data folder to the Internals>XR monorail component, the xr-dev team email and a Buganizer component.

@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_carousel_scroll_button_click.html.
+type: test
+title: Carousel scroll button click test page
+summary: HTML test page that loads the script posting a carousel scroll button click event to the What's New iframe.

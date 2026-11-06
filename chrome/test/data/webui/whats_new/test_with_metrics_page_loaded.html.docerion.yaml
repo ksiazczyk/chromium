@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_page_loaded.html.
+type: test
+title: What's New page loaded metrics test page
+summary: HTML test page for the What's New iframe that loads the page loaded metrics test script.

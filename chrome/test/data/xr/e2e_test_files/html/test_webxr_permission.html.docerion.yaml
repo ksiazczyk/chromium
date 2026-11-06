@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_permission.html.
+type: test
+title: WebXR permission test page
+summary: Generic WebXR test page that configures immersive session requests and verifies permission denial errors of type NotSupportedError.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for XR test data
+summary: Lists bsheedy@chromium.org as the owner responsible for reviewing changes in the XR test data directory.

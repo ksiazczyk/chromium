@@ -1,0 +1,4 @@
+# Docerion header of generic_webxr_page.html.
+type: test
+title: Generic WebXR test page
+summary: Generic WebXR test page that loads the standard test harness and boilerplate without any test-specific code.

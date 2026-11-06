@@ -1,0 +1,4 @@
+# Docerion header of test_non_immersive_stops_during_immersive.html.
+type: test
+title: Non-immersive rAF pause during immersive session test
+summary: WebXR test page verifying that non-immersive animation frames stop during an immersive session and resume afterwards.

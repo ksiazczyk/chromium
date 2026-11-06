@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_visibility_changed.html.
+type: test
+title: WebXR visibility change test
+summary: Test page that subscribes to session visibilitychange events to verify WebXR session end handling when XR_SESSION_STATE_STOPPING is received.

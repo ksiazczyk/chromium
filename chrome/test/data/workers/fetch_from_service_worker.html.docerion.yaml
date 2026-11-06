@@ -1,0 +1,4 @@
+# Docerion header of fetch_from_service_worker.html.
+type: test
+title: Service worker fetch test page
+summary: Test page that registers a service worker and fetches URLs through it via message channels.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Delay load browser test build definition
+summary: Defines the browser_tests source set and dependencies for the Windows delay load hook browser tests.

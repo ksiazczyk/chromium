@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: What's New app WebUI test suite
+// summary: Mocha test suite for the What's New app covering server URL handling, query parameters, feature flags, and module behavior.
+// ---
+
 import 'chrome://whats-new/whats_new_app.js';
 
 import {CommandHandlerRemote} from 'chrome://resources/js/browser_command.mojom-webui.js';

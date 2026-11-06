@@ -1,0 +1,4 @@
+# Docerion header of test_openxr_projection_layer.html.
+type: test
+title: WebXR projection layer test without layers feature
+summary: End-to-end test page that creates a WebXR projection layer without requesting the layers feature and fills view sub-images with color across frames.

@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_presentation_locks_focus.html.
+type: test
+title: WebXR presentation locks focus test page
+summary: End-to-end WebXR test page verifying that a presenting frame keeps receiving input when another frame gains focus.

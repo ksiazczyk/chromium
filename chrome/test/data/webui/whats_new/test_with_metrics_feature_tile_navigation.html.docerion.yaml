@@ -1,0 +1,4 @@
+# Docerion header of test_with_metrics_feature_tile_navigation.html.
+type: test
+title: What's New feature tile navigation test page
+summary: HTML host page that loads the feature tile navigation test script for the What's New iframe.

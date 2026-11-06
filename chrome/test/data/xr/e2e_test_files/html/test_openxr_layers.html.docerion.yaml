@@ -1,0 +1,4 @@
+# Docerion header of test_openxr_layers.html.
+type: test
+title: OpenXR WebXR layers test
+summary: WebXR test page exercising projection, quad, cylinder, equirect and cube layers with WebGL2 and verifying rendered layer colors.

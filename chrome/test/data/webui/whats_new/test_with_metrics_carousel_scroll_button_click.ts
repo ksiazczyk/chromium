@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Carousel scroll button click test script
+// summary: Posts a carousel_scroll_button_click event to the What's New page on load to test metrics recording.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 window.onload = function() {

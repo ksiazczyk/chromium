@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_presentation_promise_rejected_if_don_canceled.html.
+type: test
+title: WebXR presentation promise rejected if DON canceled test
+summary: Test page verifying that the promise returned by WebXR requestSession rejects when the DON flow is canceled.

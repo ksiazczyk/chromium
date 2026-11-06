@@ -1,0 +1,4 @@
+# Docerion header of test_webxr_gamepad_support.html.
+type: test
+title: WebXR gamepad support test
+summary: Test page verifying when a Gamepad API gamepad is or is not returned for WebXR input sources under different circumstances.

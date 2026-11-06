@@ -1,0 +1,4 @@
+# Docerion header of webxr_test_window_raf_stops_firing_during_immersive_session.html.
+type: test
+title: WebXR window rAF stops firing during immersive session test
+summary: Test page verifying that window.requestAnimationFrame stops firing while WebXR presentation is active on Android.
