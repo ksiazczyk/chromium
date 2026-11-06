@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast ignored network interfaces API
+// summary: Declares GetIgnoredInterfaces(), which returns the network interfaces that should not be used for internet connectivity.
+// ---
+
 #ifndef CHROMECAST_NET_NET_UTIL_CAST_H_
 #define CHROMECAST_NET_NET_UTIL_CAST_H_
 

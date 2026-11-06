@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video geometry setter service implementation
+// summary: Implements the Mojo video geometry setter service, dispatching geometry updates to subscribed clients on a single sequenced task runner.
+// ---
+
 #include "video_geometry_setter_service.h"
 
 #include <utility>

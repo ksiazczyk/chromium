@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMojoMediaClient implementation
+// summary: Implements the cast MojoMediaClient, creating CastRenderer instances and a CDM factory from the supplied backend factory, callbacks, and video-related dependencies.
+// ---
+
 #include "chromecast/media/service/cast_mojo_media_client.h"
 
 #include <utility>

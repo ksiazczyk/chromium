@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast renderer build configuration
+summary: GN build file defining the Cast renderer source set, its dependencies, the simple client target, and the cast_renderer_unittests test target.

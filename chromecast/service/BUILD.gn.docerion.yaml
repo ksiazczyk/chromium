@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast service GN build target
+summary: Defines the cast_source_set build target that compiles cast_service.cc and cast_service.h with a public dependency on //base.

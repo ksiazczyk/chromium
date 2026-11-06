@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioConfig mojom traits implementation
+// summary: Implements the mojo StructTraits Read function that deserializes an AudioConfigDataView into a native chromecast media AudioConfig.
+// ---
+
 #include "chromecast/media/mojom/decoder_config_mojom_traits.h"
 
 namespace mojo {

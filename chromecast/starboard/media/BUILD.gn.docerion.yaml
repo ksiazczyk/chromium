@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Starboard media test group build definition
+summary: Defines the starboard_media_tests cast_test_group that aggregates Starboard CDM, media, and renderer unit tests for the Chromium Cast build.

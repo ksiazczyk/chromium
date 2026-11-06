@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardEventSource class declaration
+// summary: Declares StarboardEventSource, which subscribes to SbEvents via the Cast Starboard adapter and dispatches them as ui::Event to a platform window delegate.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_CHROMECAST_EVENTS_STARBOARD_EVENT_SOURCE_H_
 #define CHROMECAST_STARBOARD_CHROMECAST_EVENTS_STARBOARD_EVENT_SOURCE_H_
 

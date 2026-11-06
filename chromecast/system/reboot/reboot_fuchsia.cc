@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia RebootShlib implementation
+// summary: Implements RebootShlib on Fuchsia via the power statecontrol, feedback, and recovery FIDL services, including factory data reset on reboot.
+// ---
+
 #include "chromecast/system/reboot/reboot_fuchsia.h"
 
 #include <fuchsia/feedback/cpp/fidl.h>

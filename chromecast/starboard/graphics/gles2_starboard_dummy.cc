@@ -7,6 +7,12 @@
 //
 // TODO(b/333131992): remove this
 
+// ---docerion
+// type: source
+// title: Dummy Starboard GLES2 implementation
+// summary: Provides empty stub Sb_gl* implementations for building without Starboard headers; it should never be used in production.
+// ---
+
 #include "chromecast/starboard/graphics/gles2_starboard.h"
 
 extern "C" {

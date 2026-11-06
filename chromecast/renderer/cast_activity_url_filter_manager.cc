@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast activity URL filter manager implementation
+// summary: Implements per-render-frame URL filter receivers that obtain filter criteria from the browser over Mojo and track filters by frame token.
+// ---
+
 #include "chromecast/renderer/cast_activity_url_filter_manager.h"
 
 #include <string>

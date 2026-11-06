@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast network change notifier factory
+// summary: Declares the Cast network change notifier factory that produces a Linux notifier using the ignored interface list.
+// ---
+
 #ifndef CHROMECAST_NET_NETWORK_CHANGE_NOTIFIER_FACTORY_CAST_H_
 #define CHROMECAST_NET_NETWORK_CHANGE_NOTIFIER_FACTORY_CAST_H_
 

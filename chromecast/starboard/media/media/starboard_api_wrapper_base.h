@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard API wrapper base
+// summary: Abstract base class implementing the StarboardApiWrapper methods common across Starboard versions, leaving version-specific conversion to subclasses.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_API_WRAPPER_BASE_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_API_WRAPPER_BASE_H_
 

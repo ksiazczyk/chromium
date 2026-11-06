@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket utility header
+// summary: Declares helpers for creating an unnamed Unix socket pair and wrapping an adopted socket descriptor as a net::StreamSocket.
+// ---
+
 #ifndef CHROMECAST_NET_SOCKET_UTIL_H_
 #define CHROMECAST_NET_SOCKET_UTIL_H_
 

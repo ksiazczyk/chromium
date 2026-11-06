@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Chromecast media mojom
+summary: Defines the mojom bindings target for video_geometry_setter.mojom with public dependencies on mojo base and gfx geometry mojom.

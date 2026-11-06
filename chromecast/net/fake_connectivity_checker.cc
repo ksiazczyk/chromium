@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectivityChecker implementation
+// summary: Implements a fake connectivity checker that reports connected by default and lets tests toggle and notify the connectivity state.
+// ---
+
 #include "chromecast/net/fake_connectivity_checker.h"
 #include "base/task/single_thread_task_runner.h"
 

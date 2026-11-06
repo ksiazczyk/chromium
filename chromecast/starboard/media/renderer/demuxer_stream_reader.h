@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamReader class declaration
+// summary: Declares a class that reads buffers from DemuxerStreams and delivers them via callbacks, delaying encrypted buffers until the required DRM key is available.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_DEMUXER_STREAM_READER_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_DEMUXER_STREAM_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI bindings class declaration
+// summary: Declares SettingsUiBindings, a CastBinding that exposes settings UI handlers to JavaScript and receives side swipe events and platform info over Mojo.
+// ---
+
 #ifndef CHROMECAST_RENDERER_SETTINGS_UI_BINDINGS_H_
 #define CHROMECAST_RENDERER_SETTINGS_UI_BINDINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardRenderer class declaration
+// summary: Declares the StarboardRenderer class, a media::Renderer implementation that delegates decoding and rendering to an SbPlayer and must be used on a single media task runner sequence.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_STARBOARD_RENDERER_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_STARBOARD_RENDERER_H_
 

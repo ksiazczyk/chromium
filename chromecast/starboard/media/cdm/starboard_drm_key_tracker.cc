@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard DRM key tracker implementation
+// summary: Implements the thread-safe StarboardDrmKeyTracker singleton that adds, removes and tracks DRM keys and runs wait-for-key callbacks.
+// ---
+
 #include "chromecast/starboard/media/cdm/starboard_drm_key_tracker.h"
 
 #include <algorithm>

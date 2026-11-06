@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard 15 API wrapper
+// summary: Implements the StarboardApiWrapper for Starboard API version 15 and later, converting types to the newer stream info structs.
+// ---
+
 // Defines APIs that are specific to Starboard 15. GetStarboardApiWrapper() is
 // the public API; everything else is an implementation detail.
 #if !defined(SB_API_VERSION) || SB_API_VERSION < 15

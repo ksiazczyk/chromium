@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chromium to Starboard conversions
+// summary: Unit tests verifying that valid audio and video decoder configs convert to the expected Starboard sample info and that unsupported configs return nullopt.
+// ---
+
 #include "chromecast/starboard/media/renderer/chromium_starboard_conversions.h"
 
 #include <cstring>

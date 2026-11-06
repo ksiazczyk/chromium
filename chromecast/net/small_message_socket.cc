@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Small message socket implementation
+// summary: Implements sending and receiving length-prefixed messages over a net Socket, with optional IOBufferPool support for received messages.
+// ---
+
 #include "chromecast/net/small_message_socket.h"
 
 #include <stdint.h>

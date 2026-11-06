@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium to Starboard media struct conversion implementations
+// summary: Implements conversion of Chromium audio and video decoder configs to Starboard sample info, including codec mapping, MIME type registration and HDR metadata handling.
+// ---
+
 #include "chromecast/starboard/media/renderer/chromium_starboard_conversions.h"
 
 #include "base/logging.h"

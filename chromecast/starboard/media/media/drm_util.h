@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrmInfoWrapper class declaration
+// summary: Declares a movable wrapper that owns Starboard DRM sample info and subsample mappings extracted from Cast or Chromium decoder buffers.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_DRM_UTIL_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_DRM_UTIL_H_
 

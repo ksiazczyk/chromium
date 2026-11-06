@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Starboard adapter build targets
+summary: Defines GN targets for the Starboard adapter loader, build flags, versioned adapter libraries (14–17) and the loader unit tests.

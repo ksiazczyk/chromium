@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeStreamSocket implementation
+// summary: Implements FakeStreamSocket and the SocketBuffer that passes data between two fake sockets in memory, supporting synchronous and asynchronous reads and writes.
+// ---
+
 #include "chromecast/net/fake_stream_socket.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard PCM resampler implementation
+// summary: Implements conversion of PCM audio samples between formats such as U8, S16, S24, S32, and float so audio can be decoded for Starboard playback.
+// ---
+
 #include "chromecast/starboard/media/media/starboard_resampler.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardDrmWrapper class header
+// summary: Declares StarboardDrmWrapper, a singleton wrapper around a Starboard SbDrmSystem that multiplexes DRM calls from multiple clients and manages the DRM system's lifetime.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_CDM_STARBOARD_DRM_WRAPPER_H_
 #define CHROMECAST_STARBOARD_MEDIA_CDM_STARBOARD_DRM_WRAPPER_H_
 

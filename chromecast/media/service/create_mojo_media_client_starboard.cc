@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard Mojo media client factory for Cast
+// summary: Factory that creates either a Starboard or a CMA-based Cast Mojo media client depending on the enable_starboard_renderer feature flag.
+// ---
+
 #include "chromecast/base/cast_features.h"
 #include "chromecast/media/service/cast_mojo_media_client.h"
 #include "chromecast/media/service/cast_starboard_mojo_media_client.h"

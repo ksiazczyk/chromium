@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeStreamSocket unit tests
+// summary: Unit tests covering FakeStreamSocket address reporting, peer setup, and read and write behaviour with and without a connected peer.
+// ---
+
 #include "chromecast/net/fake_stream_socket.h"
 
 #include <stdint.h>

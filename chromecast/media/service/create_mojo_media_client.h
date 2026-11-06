@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateMojoMediaClientForCast declaration
+// summary: Declares CreateMojoMediaClientForCast and its callback typedefs, returning a MojoMediaClient that provides either a CMA-based renderer or a StarboardRenderer for cast.
+// ---
+
 #ifndef CHROMECAST_MEDIA_SERVICE_CREATE_MOJO_MEDIA_CLIENT_H_
 #define CHROMECAST_MEDIA_SERVICE_CREATE_MOJO_MEDIA_CLIENT_H_
 

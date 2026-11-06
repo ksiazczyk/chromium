@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastStarboardApiAdapter unit tests
+// summary: Unit tests for the adapter singleton using mocked Starboard API entry points, covering both SB_API_VERSION 15+ and older CastStarboardApi interfaces.
+// ---
+
 #include "base/test/gtest_util.h"
 #include "base/test/task_environment.h"
 #include "base/test/test_timeouts.h"

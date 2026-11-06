@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity filtering WebSocket handshake throttle header
+// summary: Declares the ActivityFilteringWebSocketHandshakeThrottle class that aborts WebSocket handshakes for URLs not on the activity whitelist.
+// ---
+
 #ifndef CHROMECAST_RENDERER_ACTIVITY_FILTERING_WEBSOCKET_HANDSHAKE_THROTTLE_H_
 #define CHROMECAST_RENDERER_ACTIVITY_FILTERING_WEBSOCKET_HANDSHAKE_THROTTLE_H_
 

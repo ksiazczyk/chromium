@@ -5,6 +5,12 @@
 // An implementation of UiEventSource::Create to be linked in for builds
 // that do not use starboard.
 
+// ---docerion
+// type: source
+// title: Dummy UI event source for non-Starboard builds
+// summary: Implements UiEventSource::Create with a stub that dispatches every event, for builds that do not use Starboard.
+// ---
+
 #include <memory>
 
 #include "chromecast/starboard/chromecast/events/ui_event_source.h"

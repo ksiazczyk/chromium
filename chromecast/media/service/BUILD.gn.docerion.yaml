@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cast media service
+summary: Defines GN source sets for the Chromecast media service, including the Mojo media clients, cast renderer, video geometry setter service, and unit tests, with Starboard-specific sources when enabled.

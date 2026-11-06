@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket utility implementation
+// summary: Implements helpers that create an unnamed Unix socket pair and wrap an adopted socket descriptor in a net::StreamSocket.
+// ---
+
 #include "chromecast/net/socket_util.h"
 
 #include <sys/socket.h>

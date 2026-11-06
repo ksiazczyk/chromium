@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for starboard_cast_api
+summary: Defines a public include config and GN source sets exposing the Cast Starboard API headers.

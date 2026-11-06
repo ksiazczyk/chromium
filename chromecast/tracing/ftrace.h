@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ftrace control interface
+// summary: Declares functions for starting, stopping, and clearing ftrace, validating categories, and reading trace data.
+// ---
+
 #ifndef CHROMECAST_TRACING_FTRACE_H_
 #define CHROMECAST_TRACING_FTRACE_H_
 

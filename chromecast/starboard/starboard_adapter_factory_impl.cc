@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard adapter factory implementation
+// summary: Implements the factory functions that create the adapter and media wrapper instances and register shutdown release.
+// ---
+
 #include "base/logging.h"
 #include "chromecast/starboard/chromecast/starboard_adapter/src/cast_starboard_api_adapter_impl.h"
 #include "chromecast/starboard/media/media/starboard_api_wrapper.h"

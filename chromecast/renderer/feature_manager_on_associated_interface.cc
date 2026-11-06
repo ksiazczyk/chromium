@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature manager on associated interface implementation
+// summary: Implements a FeatureManager variant bound through an associated interface so features are configured before the page loads, adding a settings client for tracked app feature use.
+// ---
+
 #include "chromecast/renderer/feature_manager_on_associated_interface.h"
 
 #include "base/check.h"

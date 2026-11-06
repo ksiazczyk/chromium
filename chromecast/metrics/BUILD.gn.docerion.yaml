@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast metrics GN build targets
+summary: Defines GN source sets and the cast_metrics_unittest test target for the Cast metrics code.

@@ -1,0 +1,4 @@
+# Docerion header of trace.py.
+type: source
+title: Chrome tracing capture script
+summary: Command-line script that records Chrome tracing profiles from a running Chrome instance, including Android devices via adb, and saves the trace output to a JSON file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast window manager bindings header
+// summary: Declares the renderer-side gesture handler that receives gesture events via Mojo and exposes JS callbacks to applications.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_WINDOW_MANAGER_BINDINGS_H_
 #define CHROMECAST_RENDERER_CAST_WINDOW_MANAGER_BINDINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME utils unit tests
+// summary: Unit tests that check MIME type strings map to the expected video and audio codec support in mime_utils.
+// ---
+
 #include "chromecast/starboard/media/media/mime_utils.h"
 
 #include <string>

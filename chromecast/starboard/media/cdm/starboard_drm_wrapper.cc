@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard DRM wrapper implementation
+// summary: Implements the StarboardDrmWrapper singleton that manages DRM system resources and clients and dispatches Starboard DRM callbacks to them.
+// ---
+
 #include "chromecast/starboard/media/cdm/starboard_drm_wrapper.h"
 
 #include "base/at_exit.h"

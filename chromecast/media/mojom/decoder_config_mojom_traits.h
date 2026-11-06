@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioConfig mojom traits header
+// summary: Header defining EnumTraits and StructTraits mappings between chromecast media mojom enums and structs and their native chromecast media counterparts.
+// ---
+
 #ifndef CHROMECAST_MEDIA_MOJOM_DECODER_CONFIG_MOJOM_TRAITS_H_
 #define CHROMECAST_MEDIA_MOJOM_DECODER_CONFIG_MOJOM_TRAITS_H_
 

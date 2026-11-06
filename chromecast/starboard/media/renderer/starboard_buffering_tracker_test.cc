@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StarboardBufferingTracker unit tests
+// summary: Tests buffering time computation for prerolling, underrun, and playback rate scenarios using mock metrics and mock time.
+// ---
+
 #include "chromecast/starboard/media/renderer/starboard_buffering_tracker.h"
 
 #include <functional>

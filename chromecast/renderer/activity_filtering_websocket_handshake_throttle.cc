@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity filtering WebSocket handshake throttle
+// summary: Implements a Blink WebSocket handshake throttle that allows handshakes only for URLs matching the activity whitelist and blocks the rest.
+// ---
+
 #include "chromecast/renderer/activity_filtering_websocket_handshake_throttle.h"
 
 #include "base/strings/stringprintf.h"

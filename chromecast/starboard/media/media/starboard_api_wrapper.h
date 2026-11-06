@@ -12,6 +12,12 @@
 // created via GetStarboardApiWrapper(). For testing purposes, a mock
 // StarboardApiWrapper can be used instead.
 
+// ---docerion
+// type: source
+// title: Starboard API wrapper interface
+// summary: Declares version-agnostic Starboard enums and structs plus the StarboardApiWrapper interface that shields the backend from Starboard version changes.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_API_WRAPPER_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_API_WRAPPER_H_
 

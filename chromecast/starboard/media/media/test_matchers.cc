@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard test matchers implementation
+// summary: Implements gmock matchers that compare Starboard sample, DRM, mastering metadata, and player creation structs against expected values in tests.
+// ---
+
 #include "chromecast/starboard/media/media/test_matchers.h"
 
 #include <cstdint>

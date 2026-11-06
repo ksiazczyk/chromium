@@ -1,0 +1,4 @@
+# Docerion header of media_types.mojom.
+type: source
+title: Chromecast media mojom type definitions
+summary: Defines mojom enums for codecs, channel layouts, sample formats, stream ids and encryption schemes plus the AudioConfig struct used as the mojo transport format for chromecast::media::AudioConfig.

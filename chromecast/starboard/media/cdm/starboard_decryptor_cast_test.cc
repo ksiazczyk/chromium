@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Starboard decryptor unit tests
+// summary: Unit tests for StarboardDecryptorCast using a mocked Starboard API wrapper, mock DRM wrapper clients and a mock provision fetcher.
+// ---
+
 #include "chromecast/starboard/media/cdm/starboard_decryptor_cast.h"
 
 #include <algorithm>

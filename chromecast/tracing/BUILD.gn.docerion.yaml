@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast tracing build targets
+summary: Defines GN build targets for the Chromecast tracing service, shared tracing code, system tracer, and unit tests.

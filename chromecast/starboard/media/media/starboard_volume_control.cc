@@ -5,6 +5,12 @@
 // System volume control logic is handled by cast core, not the runtime, so
 // these functions are stubbed out.
 
+// ---docerion
+// type: source
+// title: StarboardVolumeControl stub implementation
+// summary: Stub implementation of the VolumeControl interface, since system volume control is handled by cast core rather than the runtime.
+// ---
+
 #include "chromecast/public/volume_control.h"
 
 namespace chromecast {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature manager on associated interface class declaration
+// summary: Declares FeatureManagerOnAssociatedInterface, a FeatureManager attached to an associated interface to configure Cast features before the webpage is loaded.
+// ---
+
 #ifndef CHROMECAST_RENDERER_FEATURE_MANAGER_ON_ASSOCIATED_INTERFACE_H_
 #define CHROMECAST_RENDERER_FEATURE_MANAGER_ON_ASSOCIATED_INTERFACE_H_
 

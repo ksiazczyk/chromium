@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy Starboard API fallback implementation
+// summary: Provides weakly exported dummy fallback symbols for Starboard functions such as window, player, EGL, and GLES entry points, meant to be overridden by partner Starboard libraries.
+// ---
+
 #include <starboard/egl.h>
 #include <starboard/event.h>
 #include <starboard/gles.h>

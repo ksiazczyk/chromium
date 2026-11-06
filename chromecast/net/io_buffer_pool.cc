@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOBufferPool implementation
+// summary: Implements IOBufferPool's refcounted internal storage that allocates IOBuffers and their data in contiguous buffers and reclaims them when the buffers are deleted.
+// ---
+
 #include "chromecast/net/io_buffer_pool.h"
 
 #include <new>

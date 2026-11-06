@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for chromecast mojo
+summary: Defines the mojo source set with binder factory, interface bundle and remote interfaces sources, plus the cast_mojo_unittests test target.

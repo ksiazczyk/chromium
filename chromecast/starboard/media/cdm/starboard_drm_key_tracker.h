@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard DRM key tracker
+// summary: Declares a thread-safe singleton tracking DRM key availability per session, letting decoders check keys or register key-available callbacks.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_CDM_STARBOARD_DRM_KEY_TRACKER_H_
 #define CHROMECAST_STARBOARD_MEDIA_CDM_STARBOARD_DRM_KEY_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSharedURLLoaderFactory for tests
+// summary: Declares FakeSharedURLLoaderFactory and FakePendingSharedURLLoaderFactory, simple SharedURLLoaderFactory implementations backed by TestURLLoaderFactory for use in tests.
+// ---
+
 #ifndef CHROMECAST_NET_FAKE_SHARED_URL_LOADER_FACTORY_H_
 #define CHROMECAST_NET_FAKE_SHARED_URL_LOADER_FACTORY_H_
 

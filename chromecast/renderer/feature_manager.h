@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast renderer feature manager class declaration
+// summary: Declares FeatureManager, a RenderFrameObserver that receives feature enable/disable messages from the browser process and exposes Cast platform capabilities via V8 bindings.
+// ---
+
 #ifndef CHROMECAST_RENDERER_FEATURE_MANAGER_H_
 #define CHROMECAST_RENDERER_FEATURE_MANAGER_H_
 

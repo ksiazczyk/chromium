@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StarboardBufferingTracker class declaration
+// summary: Declares a tracker that measures SbPlayer prerolling and buffering durations and updates Cast metrics accordingly.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_RENDERER_STARBOARD_BUFFERING_TRACKER_H_
 #define CHROMECAST_STARBOARD_MEDIA_RENDERER_STARBOARD_BUFFERING_TRACKER_H_
 

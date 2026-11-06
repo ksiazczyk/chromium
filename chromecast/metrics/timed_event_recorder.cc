@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timed event recorder implementation
+// summary: Implements TimedEventRecorder, which measures elapsed time until named events and records the latency as a Cast metrics event.
+// ---
+
 #include "chromecast/metrics/timed_event_recorder.h"
 
 #include "base/check.h"

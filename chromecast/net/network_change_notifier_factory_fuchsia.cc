@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia network change notifier factory implementation
+// summary: Creates a Fuchsia network change notifier instance, honoring the require-WLAN command-line switch.
+// ---
+
 #include "chromecast/net/network_change_notifier_factory_fuchsia.h"
 
 #include "base/command_line.h"

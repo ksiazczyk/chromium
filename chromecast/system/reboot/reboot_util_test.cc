@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RebootUtil unit test
+// summary: Unit test verifying that RebootUtil::RebootNow can be called during tests without crashing and that it correctly tracks the reboot source via a mock callback.
+// ---
+
 #include "chromecast/system/reboot/reboot_util.h"
 
 #include "base/test/mock_callback.h"

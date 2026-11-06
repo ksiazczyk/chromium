@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast demo bindings header
+// summary: Declares the demo-mode JavaScript bindings exposing retailer, store ID, volume and Wi-Fi controls to the demonstration app.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_DEMO_BINDINGS_H_
 #define CHROMECAST_RENDERER_CAST_DEMO_BINDINGS_H_
 

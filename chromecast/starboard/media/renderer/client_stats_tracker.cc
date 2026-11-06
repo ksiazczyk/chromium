@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client stats tracker implementation
+// summary: Implements rate-limited reporting of audio and video pipeline statistics to a RendererClient and records estimated bitrate metrics via CastMetricsHelper.
+// ---
+
 #include "chromecast/starboard/media/renderer/client_stats_tracker.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard media pipeline backend implementation
+// summary: Implements the MediaPipelineBackend that creates and controls an SbPlayer, handling seek, play, pause, geometry changes, and decoder callbacks.
+// ---
+
 #include "media_pipeline_backend_starboard.h"
 
 #include <cast_starboard_api_adapter.h>

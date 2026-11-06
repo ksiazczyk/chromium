@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard adapter loader implementation
+// summary: Dynamically loads the Starboard partner library and matching adapter library, deducing the Starboard version and applying fallback candidates.
+// ---
+
 #include "chromecast/starboard/starboard_adapter_loader.h"
 
 #include <dlfcn.h>

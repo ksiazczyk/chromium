@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast metrics service client header
+// summary: Declares CastMetricsServiceClient and its delegate interface for integrating metrics into Cast builds.
+// ---
+
 #ifndef CHROMECAST_METRICS_CAST_METRICS_SERVICE_CLIENT_H_
 #define CHROMECAST_METRICS_CAST_METRICS_SERVICE_CLIENT_H_
 

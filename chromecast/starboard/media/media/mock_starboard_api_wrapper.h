@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Starboard API wrapper
+// summary: GMock implementation of StarboardApiWrapper that fakes player and DRM calls for unit tests.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_MOCK_STARBOARD_API_WRAPPER_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_MOCK_STARBOARD_API_WRAPPER_H_
 

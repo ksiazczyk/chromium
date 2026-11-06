@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast event builder implementation
+// summary: Implements CastEventBuilderImpl, filling hashed fields of CastLogsProto_CastEventProto for metric events.
+// ---
+
 #include "chromecast/metrics/cast_event_builder_impl.h"
 
 #include <algorithm>

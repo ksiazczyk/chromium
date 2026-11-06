@@ -5,6 +5,12 @@
 // TODO: crbug.com/323610278 - Remove the "Cast enum version" calls in each test
 // once linux cast builds no longer use CMA.
 
+// ---docerion
+// type: test
+// title: Starboard resampler unit tests
+// summary: Unit tests verifying the PCM sample format conversions performed by ResamplePCMAudioDataForStarboard for both Cast and Chromium enum variants.
+// ---
+
 #include "chromecast/starboard/media/media/starboard_resampler.h"
 
 #include <cstdint>

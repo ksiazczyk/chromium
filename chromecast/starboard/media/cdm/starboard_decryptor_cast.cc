@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard decryptor implementation
+// summary: Implements StarboardDecryptorCast, a CastCdm that forwards Widevine DRM session, certificate and key operations to the Starboard SbDrmSystem.
+// ---
+
 #include "chromecast/starboard/media/cdm/starboard_decryptor_cast.h"
 
 #include <cstdint>

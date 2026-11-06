@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StarboardEventSource
+// summary: gtest and gmock tests that feed synthetic SbEvents through the source and verify event translation and dispatch to a mock platform window delegate.
+// ---
+
 #include "chromecast/starboard/chromecast/events/starboard_event_source.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsRecorderBase unit tests
+// summary: Tests timeline measurement behavior of MetricsRecorderBase, including multiple and duplicate measurements, using mock time and a mock recorder.
+// ---
+
 #include "chromecast/metrics/metrics_recorder_base.h"
 
 #include "base/test/task_environment.h"

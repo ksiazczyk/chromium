@@ -1,0 +1,4 @@
+# Docerion header of video_geometry_setter.mojom.
+type: source
+title: Video geometry setter Mojom interfaces
+summary: Defines Mojom interfaces that let the compositor's OverlayStrategyUnderlayCast route video geometry changes to the correct CastRenderer via VideoGeometrySetterService.

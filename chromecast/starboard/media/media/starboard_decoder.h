@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard decoder base class header
+// summary: Declares StarboardDecoder, the abstract base class for Starboard audio and video decoders handling SbPlayer initialization, buffer pushes, and error notification.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_DECODER_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_DECODER_H_
 

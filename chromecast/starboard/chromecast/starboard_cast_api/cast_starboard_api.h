@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast Starboard API initialization header
+// summary: Declares the C functions CastStarboardApiInitialize and CastStarboardApiFinalize that start and stop the Starboard thread and event loop.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_CHROMECAST_STARBOARD_CAST_API_CAST_STARBOARD_API_H_
 #define CHROMECAST_STARBOARD_CHROMECAST_STARBOARD_CAST_API_CAST_STARBOARD_API_H_
 

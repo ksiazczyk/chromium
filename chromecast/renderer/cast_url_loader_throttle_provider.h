@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast URL loader throttle provider header
+// summary: Declares the blink URL loader throttle provider that attaches activity URL filtering throttles to requests.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_URL_LOADER_THROTTLE_PROVIDER_H_
 #define CHROMECAST_RENDERER_CAST_URL_LOADER_THROTTLE_PROVIDER_H_
 

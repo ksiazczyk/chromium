@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast renderer media include rules
+summary: Specifies allowed include rules for the chromecast/renderer/media directory, covering mojo, Widevine buildflags, and ui/gfx/geometry.

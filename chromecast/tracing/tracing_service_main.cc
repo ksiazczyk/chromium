@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing service entry point
+// summary: Entry point for the traced daemon that listens on a Unix socket, drives ftrace for requested categories, and streams trace data to clients.
+// ---
+
 #include <fcntl.h>
 #include <signal.h>
 #include <sys/socket.h>

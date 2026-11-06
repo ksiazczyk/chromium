@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tracing definitions
+// summary: Declares the supported tracing categories and the socket creation and client authorization functions shared by the tracing service and clients.
+// ---
+
 #ifndef CHROMECAST_TRACING_SYSTEM_TRACING_COMMON_H_
 #define CHROMECAST_TRACING_SYSTEM_TRACING_COMMON_H_
 

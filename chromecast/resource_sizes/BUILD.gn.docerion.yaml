@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Cast resource sizes Python library
+summary: Defines the chromecast_resource_sizes_py Python library build target, with data dependencies on llvm-strip, llvm-objcopy, and the Catapult convert_chart_json converter.

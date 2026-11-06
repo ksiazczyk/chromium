@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityChecker interface
+// summary: Declares the ConnectivityChecker interface for checking internet connectivity, including observer classes, factory methods, and the Connected and Check APIs.
+// ---
+
 #ifndef CHROMECAST_NET_CONNECTIVITY_CHECKER_H_
 #define CHROMECAST_NET_CONNECTIVITY_CHECKER_H_
 

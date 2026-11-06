@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RebootUtil wrapper interface
+// summary: Declares a wrapper around RebootShlib that cast_shell call sites use to reboot, set FDR or OTA flags, and query reboot state.
+// ---
+
 #ifndef CHROMECAST_SYSTEM_REBOOT_REBOOT_UTIL_H_
 #define CHROMECAST_SYSTEM_REBOOT_REBOOT_UTIL_H_
 

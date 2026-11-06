@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast window manager bindings implementation
+// summary: Installs the windowManager JavaScript bindings and handles system gesture events such as back, drag and tap gestures.
+// ---
+
 #include "chromecast/renderer/cast_window_manager_bindings.h"
 
 #include <array>

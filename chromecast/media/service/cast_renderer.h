@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastRenderer class declaration
+// summary: Declares CastRenderer, a media::Renderer for cast that observes video resolution policy changes and receives video geometry updates through mojo.
+// ---
+
 #ifndef CHROMECAST_MEDIA_SERVICE_CAST_RENDERER_H_
 #define CHROMECAST_MEDIA_SERVICE_CAST_RENDERER_H_
 

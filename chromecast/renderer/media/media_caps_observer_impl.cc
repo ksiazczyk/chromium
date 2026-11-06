@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capabilities observer implementation
+// summary: Implements the MediaCapsObserver mojo interface, forwarding supported codec profile levels to the renderer's supported profiles memo.
+// ---
+
 #include "chromecast/renderer/media/media_caps_observer_impl.h"
 
 #include "chromecast/media/base/supported_codec_profile_levels_memo.h"

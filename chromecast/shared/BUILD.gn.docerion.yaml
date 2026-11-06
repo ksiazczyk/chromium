@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast shared build targets
+summary: GN build file defining the platform_info_serializer source set and the cast_shared_unittests test target for the Chromecast shared directory.

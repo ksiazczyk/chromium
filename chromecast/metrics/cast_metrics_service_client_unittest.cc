@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast metrics service client unit tests
+// summary: Unit tests verifying that CastMetricsServiceClient creates SysInfo only once and delegates metrics storage limits correctly.
+// ---
+
 #include "chromecast/metrics/cast_metrics_service_client.h"
 
 #include "base/test/task_environment.h"

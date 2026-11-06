@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast activity URL filter manager unit tests
+// summary: Unit tests verifying thread-safe concurrent lookup and modification of the per-frame URL filter map, including lookups for unknown tokens.
+// ---
+
 #include "chromecast/renderer/cast_activity_url_filter_manager.h"
 
 #include <atomic>

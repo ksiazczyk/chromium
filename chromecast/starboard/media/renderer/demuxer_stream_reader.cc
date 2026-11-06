@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demuxer stream reader implementation
+// summary: Implements reading buffers from audio and video DemuxerStreams, PCM resampling to S16, resolution metrics and waiting for DRM keys before handling encrypted buffers.
+// ---
+
 #include "chromecast/starboard/media/renderer/demuxer_stream_reader.h"
 
 #include <string>

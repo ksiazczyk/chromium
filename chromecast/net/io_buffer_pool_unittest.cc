@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOBufferPool unit tests
+// summary: Unit tests verifying IOBufferPool buffer limits, reclamation of freed buffers, safe use after pool destruction, and preallocation.
+// ---
+
 #include "chromecast/net/io_buffer_pool.h"
 
 #include "base/memory/ref_counted.h"

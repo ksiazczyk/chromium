@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast WebSocket handshake throttle provider header
+// summary: Declares the provider supplying WebSocket handshake throttles for cast_shell, constructed on the render thread.
+// ---
+
 #ifndef CHROMECAST_RENDERER_CAST_WEBSOCKET_HANDSHAKE_THROTTLE_PROVIDER_H_
 #define CHROMECAST_RENDERER_CAST_WEBSOCKET_HANDSHAKE_THROTTLE_PROVIDER_H_
 

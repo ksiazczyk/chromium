@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video geometry setter service class declaration
+// summary: Declares the VideoGeometrySetterService class, which implements the Mojo VideoGeometrySetter and VideoGeometryChangeSubscriber interfaces.
+// ---
+
 #ifndef CHROMECAST_MEDIA_SERVICE_VIDEO_GEOMETRY_SETTER_SERVICE_H_
 #define CHROMECAST_MEDIA_SERVICE_VIDEO_GEOMETRY_SETTER_SERVICE_H_
 

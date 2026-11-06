@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast demo bindings implementation
+// summary: Installs the demo JavaScript bindings for retailer, store ID, volume, Wi-Fi and local storage actions used in demonstration mode.
+// ---
+
 #include "chromecast/renderer/cast_demo_bindings.h"
 
 #include <array>

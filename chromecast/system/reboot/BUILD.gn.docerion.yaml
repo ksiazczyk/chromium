@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast reboot utility build targets
+summary: Defines the reboot_util source set, the cast_reboot_unittests target, and the stub libcast_reboot_1.0 shared library, with Fuchsia-specific sources and dependencies.

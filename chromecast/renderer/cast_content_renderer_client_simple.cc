@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple Cast content renderer client factory
+// summary: Provides a default Create() implementation that instantiates the base CastContentRendererClient for platforms without a custom client.
+// ---
+
 #include "chromecast/renderer/cast_content_renderer_client.h"
 
 #include <memory>

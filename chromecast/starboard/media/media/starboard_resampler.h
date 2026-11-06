@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard PCM resampler header
+// summary: Declares ResamplePCMAudioDataForStarboard functions that convert PCM audio data to a target Starboard sample format for both Cast and Chromium enum variants.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_RESAMPLER_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_STARBOARD_RESAMPLER_H_
 

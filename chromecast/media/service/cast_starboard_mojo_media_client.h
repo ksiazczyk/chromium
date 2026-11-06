@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastStarboardMojoMediaClient class declaration
+// summary: Declares a MojoMediaClient that creates StarboardRenderer objects, meant to replace CastMojoMediaClient for Starboard-based Linux cast builds.
+// ---
+
 #ifndef CHROMECAST_MEDIA_SERVICE_CAST_STARBOARD_MOJO_MEDIA_CLIENT_H_
 #define CHROMECAST_MEDIA_SERVICE_CAST_STARBOARD_MOJO_MEDIA_CLIENT_H_
 

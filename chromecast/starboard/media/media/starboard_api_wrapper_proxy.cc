@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard API wrapper proxy
+// summary: Proxy implementation of GetStarboardApiWrapper() that routes media pipeline wrapper creation to the dynamically loaded versioned Starboard adapter library.
+// ---
+
 #include "base/logging.h"
 #include "base/memory/ptr_util.h"
 #include "chromecast/starboard/media/media/starboard_api_wrapper.h"

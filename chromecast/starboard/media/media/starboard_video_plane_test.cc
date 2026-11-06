@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StarboardVideoPlane unit tests
+// summary: Unit tests for StarboardVideoPlane verifying callback registration, unregistration, deferred geometry reporting, and duplicate geometry suppression.
+// ---
+
 #include "chromecast/starboard/media/media/starboard_video_plane.h"
 
 #include "base/test/bind.h"

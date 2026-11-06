@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSharedURLLoaderFactory implementation
+// summary: Implements fake shared and pending URL loader factories that delegate to a test URL loader factory for use in Cast unit tests.
+// ---
+
 #include "chromecast/net/fake_shared_url_loader_factory.h"
 
 #include "base/notreached.h"

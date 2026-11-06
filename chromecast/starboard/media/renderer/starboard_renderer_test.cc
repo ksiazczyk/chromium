@@ -14,6 +14,12 @@
 // Here, MockStarboardApiWrapper is used to verify that the correct data is
 // being passed to starboard.
 
+// ---docerion
+// type: test
+// title: StarboardRenderer integration tests
+// summary: Integration-style GTest suite verifying that StarboardRenderer and its sub-components such as GeometryChangeHandler and StarboardPlayerManager work together, using MockStarboardApiWrapper to check calls into Starboard.
+// ---
+
 #include "chromecast/starboard/media/renderer/starboard_renderer.h"
 
 #include <array>

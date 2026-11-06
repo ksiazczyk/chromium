@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native bindings helper implementation
+// summary: Implements helpers to create the cast.__platform__ V8 object and the CastBinding base class that installs native bindings into the renderer's main world script context.
+// ---
+
 #include "chromecast/renderer/native_bindings_helper.h"
 
 #include "base/logging.h"

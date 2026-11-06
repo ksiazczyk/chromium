@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Chromecast Mojo tests
+summary: Allows the test directory to include headers from mojo/core/embedder for the Mojo unit test runner.

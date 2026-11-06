@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time sync tracker interface
+// summary: Defines the TimeSyncTracker interface that tracks whether device time has synced and notifies observers when it does.
+// ---
+
 #ifndef CHROMECAST_NET_TIME_SYNC_TRACKER_H_
 #define CHROMECAST_NET_TIME_SYNC_TRACKER_H_
 

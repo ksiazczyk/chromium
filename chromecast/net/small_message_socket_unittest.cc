@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SmallMessageSocket
+// summary: Tests message sending and receiving in SmallMessageSocket, including buffer pool usage, pool swapping, and large messages.
+// ---
+
 #include "chromecast/net/small_message_socket.h"
 
 #include <stddef.h>

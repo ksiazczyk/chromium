@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the media service
+summary: Specifies the allowed include directories for the chromecast media service, covering mojom, Starboard, media mojo, and service manager headers.

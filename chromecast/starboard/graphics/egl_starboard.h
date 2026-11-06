@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard EGL function declarations
+// summary: Declares the exported Sb_egl* EGL 1.0 through 1.2 entry points provided by the GL_starboard shared library.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_GRAPHICS_EGL_STARBOARD_H_
 #define CHROMECAST_STARBOARD_GRAPHICS_EGL_STARBOARD_H_
 

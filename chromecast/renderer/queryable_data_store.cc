@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Queryable data store implementation
+// summary: Implements the renderer-side QueryableDataStore that registers queryable values on the render main thread in response to messages from the browser process.
+// ---
+
 #include "chromecast/renderer/queryable_data_store.h"
 
 #include "base/functional/bind.h"

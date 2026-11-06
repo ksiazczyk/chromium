@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard media pipeline backend declaration
+// summary: Declares the MediaPipelineBackendStarboard class, its player state machine, decoder creation, and Starboard player event handlers.
+// ---
+
 #ifndef CHROMECAST_STARBOARD_MEDIA_MEDIA_MEDIA_PIPELINE_BACKEND_STARBOARD_H_
 #define CHROMECAST_STARBOARD_MEDIA_MEDIA_MEDIA_PIPELINE_BACKEND_STARBOARD_H_
 

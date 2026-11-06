@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starboard EGL entry points
+// summary: Implements Sb_egl* functions that forward to the Starboard EGL interface and filters ANGLE-only context attributes unsupported by native Starboard implementations.
+// ---
+
 #include "chromecast/starboard/graphics/egl_starboard.h"
 
 #include <EGL/eglext.h>  // for EGL_CONTEXT_OPENGL_NO_ERROR_KHR

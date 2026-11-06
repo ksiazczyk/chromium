@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StarboardDrmWrapper unit tests
+// summary: Unit tests for StarboardDrmWrapper using GoogleTest and mocked Starboard API and DRM wrapper client objects to verify session, key, and certificate handling.
+// ---
+
 #include "chromecast/starboard/media/cdm/starboard_drm_wrapper.h"
 
 #include <cstdint>

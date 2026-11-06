@@ -1,0 +1,4 @@
+# Docerion header of starboard.gni.
+type: config
+title: Starboard build arguments
+summary: Declares the remove_starboard_headers build argument that controls whether Starboard headers are included in the build.
