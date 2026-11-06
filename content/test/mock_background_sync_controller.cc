@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock background sync controller implementation
+// summary: Implements a mock BackgroundSyncController that tracks registrations, wake-up delays and field trial parameter overrides for tests.
+// ---
+
 #include "content/test/mock_background_sync_controller.h"
 #include "base/metrics/field_trial_params.h"
 #include "base/strings/string_number_conversions.h"

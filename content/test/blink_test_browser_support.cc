@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side frame name support for Blink web tests
+// summary: Helper that extracts a stable frame name from a RenderFrameHost's frame tree node for use in web tests.
+// ---
+
 #include "content/public/test/blink_test_browser_support.h"
 
 #include "content/browser/renderer_host/frame_tree_node.h"

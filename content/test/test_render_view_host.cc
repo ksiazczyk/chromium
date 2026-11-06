@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderViewHost implementation
+// summary: Implements test doubles for RenderViewHost and RenderWidgetHostView, including frame sink registration and platform-specific view behaviour, for content unit tests.
+// ---
+
 #include "content/test/test_render_view_host.h"
 
 #include <memory>

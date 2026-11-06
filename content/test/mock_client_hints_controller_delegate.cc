@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock client hints controller delegate implementation
+// summary: Implements a mock client hints controller delegate that persists, returns and resets client hints for tests.
+// ---
+
 #include "content/public/test/mock_client_hints_controller_delegate.h"
 
 #include "content/public/common/origin_util.h"

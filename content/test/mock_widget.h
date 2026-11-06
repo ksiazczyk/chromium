@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock widget
+// summary: Header declaring a mock blink Widget and RenderInputRouterClient that records received visual properties, screen rects and visibility for tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_WIDGET_H_
 #define CONTENT_TEST_MOCK_WIDGET_H_
 

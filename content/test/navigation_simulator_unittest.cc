@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation simulator unit tests
+// summary: Unit tests verifying NavigationSimulator behavior, including parameterized cancellation scenarios with test navigation throttles and method-checking test cases.
+// ---
+
 #include "content/public/test/navigation_simulator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU browsertest helpers implementation
+// summary: Implements helpers that synchronously establish a GPU channel and create command buffer context providers for use in browser tests.
+// ---
+
 #include "content/test/gpu_browsertest_helpers.h"
 
 #include <utility>

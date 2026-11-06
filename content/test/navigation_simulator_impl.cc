@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation simulator implementation
+// summary: Implements NavigationSimulatorImpl to drive simulated navigations, redirects and throttle callbacks through the content navigation stack in tests.
+// ---
+
 #include "content/test/navigation_simulator_impl.h"
 
 #include <utility>

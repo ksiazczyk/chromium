@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderWidgetHost class declaration
+// summary: Declares a RenderWidgetHostImpl subclass for tests that provides a mock widget input handler and stub mojo widget remotes.
+// ---
+
 #ifndef CONTENT_TEST_TEST_RENDER_WIDGET_HOST_H_
 #define CONTENT_TEST_TEST_RENDER_WIDGET_HOST_H_
 

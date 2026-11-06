@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPipScreenCaptureCoordinator class declaration
+// summary: Declares a test double of PipScreenCaptureCoordinator with configurable exclusion state, observer lists and stubbed PiP lifecycle methods.
+// ---
+
 #ifndef CONTENT_TEST_TEST_PIP_SCREEN_CAPTURE_COORDINATOR_H_
 #define CONTENT_TEST_TEST_PIP_SCREEN_CAPTURE_COORDINATOR_H_
 

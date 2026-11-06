@@ -1,0 +1,4 @@
+# Docerion header of run_inside_nsapplication_run_mac.mm.
+type: test
+title: Mac NSApplication run test helper implementation
+summary: Implements RunInsideNSApplicationRun for macOS using CFRunLoopPerformBlock and a posted dummy event to execute a closure while NSApp is running.

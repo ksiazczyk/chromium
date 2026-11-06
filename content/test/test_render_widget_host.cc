@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderWidgetHost implementation
+// summary: Implements a RenderWidgetHostImpl subclass that intercepts the mojo input channel with a MockWidgetInputHandler and creates stub widget remotes for tests.
+// ---
+
 #include "content/test/test_render_widget_host.h"
 
 #include "base/memory/ptr_util.h"

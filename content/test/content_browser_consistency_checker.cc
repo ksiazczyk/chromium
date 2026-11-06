@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserConsistencyChecker implementation
+// summary: Implements the checker that enables WebContents observer consistency checks for every WebContents created while it is active.
+// ---
+
 #include "content/test/content_browser_consistency_checker.h"
 
 #include "base/functional/bind.h"

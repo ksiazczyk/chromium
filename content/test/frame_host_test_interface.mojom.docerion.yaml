@@ -1,0 +1,4 @@
+# Docerion header of frame_host_test_interface.mojom.
+type: test
+title: FrameHostTestInterface mojom definition
+summary: Defines a test mojom interface used by RenderFrame and RenderFrameHost tests to exercise document-scoped interface requests through the InterfaceProvider.

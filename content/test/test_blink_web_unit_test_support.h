@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBlinkWebUnitTestSupport class header
+// summary: Declares a BlinkPlatformImpl test implementation offering mock or real scheduler options for Blink unit tests.
+// ---
+
 #ifndef CONTENT_TEST_TEST_BLINK_WEB_UNIT_TEST_SUPPORT_H_
 #define CONTENT_TEST_TEST_BLINK_WEB_UNIT_TEST_SUPPORT_H_
 

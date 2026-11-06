@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Android overscroll refresh handler
+// summary: Mock of the Android overscroll refresh handler that records pull gesture updates and lets tests wait for them.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_OVERSCROLL_REFRESH_HANDLER_ANDROID_H_
 #define CONTENT_TEST_MOCK_OVERSCROLL_REFRESH_HANDLER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNetwork-backed URLLoaderFactory header
+// summary: Declares FakeNetworkURLLoaderFactory, a URLLoaderFactory backed by FakeNetwork with optional deferred request handling for tests.
+// ---
+
 #ifndef CONTENT_TEST_FAKE_NETWORK_URL_LOADER_FACTORY_H_
 #define CONTENT_TEST_FAKE_NETWORK_URL_LOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame test utilities header
+// summary: Declares fenced frame test helpers including GetFencedFrameRootNode, a URL mapping result observer, and a test peer for inspecting FencedFrameURLMapping internals.
+// ---
+
 #ifndef CONTENT_TEST_FENCED_FRAME_TEST_UTILS_H_
 #define CONTENT_TEST_FENCED_FRAME_TEST_UTILS_H_
 

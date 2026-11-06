@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOverscrollControllerDelegateAura implementation
+// summary: Implements a mock Aura overscroll controller delegate that records overscroll updates and ends and lets tests wait for them via run loops.
+// ---
+
 #include "content/test/mock_overscroll_controller_delegate_aura.h"
 
 #include "content/browser/renderer_host/render_widget_host_view_aura.h"

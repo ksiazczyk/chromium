@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebContents class declaration
+// summary: Declares the TestWebContents subclass of WebContentsImpl implementing WebContentsTester helpers such as NavigateAndCommit and TestSetIsLoading for tests.
+// ---
+
 #ifndef CONTENT_TEST_TEST_WEB_CONTENTS_H_
 #define CONTENT_TEST_TEST_WEB_CONTENTS_H_
 

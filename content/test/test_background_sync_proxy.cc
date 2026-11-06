@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBackgroundSyncProxy implementation
+// summary: Implements the test background sync proxy's delayed processing scheduling for one-shot and periodic sync tasks.
+// ---
+
 #include "content/test/test_background_sync_proxy.h"
 
 namespace content {

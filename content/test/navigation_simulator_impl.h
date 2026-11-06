@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation simulator implementation header
+// summary: Declares NavigationSimulatorImpl, a test helper that drives browser- and renderer-initiated navigations through start, redirect, commit, abort and failure stages in content tests.
+// ---
+
 #ifndef CONTENT_TEST_NAVIGATION_SIMULATOR_IMPL_H_
 #define CONTENT_TEST_NAVIGATION_SIMULATOR_IMPL_H_
 

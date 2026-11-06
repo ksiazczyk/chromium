@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TestPage manifest URL updates
+// summary: Unit test verifying that TestPage stores an updated manifest URL and notifies WebContentsObserver with the correct frame and URL.
+// ---
+
 #include "content/test/test_page.h"
 
 #include "content/public/browser/web_contents_observer.h"

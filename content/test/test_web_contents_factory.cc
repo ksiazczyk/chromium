@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebContentsFactory implementation
+// summary: Implements a factory that creates TestWebContents instances and destroys them safely, running posted tasks during cleanup.
+// ---
+
 #include "content/public/test/test_web_contents_factory.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderDocument feature test helpers
+// summary: Implements helpers that enable the RenderDocument feature with specific level parameters and provide feature level values and names for test parameters.
+// ---
+
 #include "content/test/render_document_feature.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IO thread shared URL loader factory owner implementation
+// summary: Implements a test helper that owns a SharedURLLoaderFactory on the IO thread and performs basic URL loads with it on behalf of tests.
+// ---
+
 #include "content/test/io_thread_shared_url_loader_factory_owner.h"
 
 #include <optional>

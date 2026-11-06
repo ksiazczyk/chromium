@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IO thread shared URL loader factory owner header
+// summary: Declares a test class created on the UI thread and destroyed on the IO thread that owns a SharedURLLoaderFactory for IO-thread requests.
+// ---
+
 #ifndef CONTENT_TEST_IO_THREAD_SHARED_URL_LOADER_FACTORY_OWNER_H_
 #define CONTENT_TEST_IO_THREAD_SHARED_URL_LOADER_FACTORY_OWNER_H_
 

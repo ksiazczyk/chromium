@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskRunnerDeferringThrottle implementation
+// summary: Implements a navigation throttle that defers start, redirect, or response by posting a no-op task on a given task runner before resuming.
+// ---
+
 #include "content/test/task_runner_deferring_throttle.h"
 
 #include "base/functional/callback_helpers.h"

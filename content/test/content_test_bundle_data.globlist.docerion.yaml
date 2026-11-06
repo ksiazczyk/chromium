@@ -1,0 +1,4 @@
+# Docerion header of content_test_bundle_data.globlist.
+type: config
+title: iOS content test bundle glob list
+summary: Glob patterns with inclusions and exclusions used to regenerate the content test bundle file list for iOS builds.

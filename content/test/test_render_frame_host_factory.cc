@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderFrameHostFactory implementation
+// summary: Registers a RenderFrameHostFactory that creates TestRenderFrameHost instances while in scope and unregisters on destruction.
+// ---
+
 #include "content/test/test_render_frame_host_factory.h"
 
 #include "base/check.h"

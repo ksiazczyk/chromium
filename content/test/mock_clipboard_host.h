@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock clipboard host declarations
+// summary: Declares a mock ClipboardHost that stores clipboard contents and exposes read-call tracking for tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_CLIPBOARD_HOST_H_
 #define CONTENT_TEST_MOCK_CLIPBOARD_HOST_H_
 

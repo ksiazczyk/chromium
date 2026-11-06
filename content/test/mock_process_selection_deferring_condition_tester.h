@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mock process selection deferring condition tester
+// summary: Declares a mock ProcessSelectionDeferringCondition plus a tester helper to observe, resume, and wait on it in tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_PROCESS_SELECTION_DEFERRING_CONDITION_TESTER_H_
 #define CONTENT_TEST_MOCK_PROCESS_SELECTION_DEFERRING_CONDITION_TESTER_H_
 

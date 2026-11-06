@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCommitDeferringCondition test support header
+// summary: Declares MockCommitDeferringConditionWrapper and MockCommitDeferringConditionInstaller for conveniently installing and inspecting commit deferring conditions in tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_TEST_MOCK_COMMIT_DEFERRING_CONDITION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SSL host state delegate
+// summary: Header declaring a mock SSLHostStateDelegate that stores per-host certificate exceptions, insecure content and HTTPS policy state for tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_SSL_HOST_STATE_DELEGATE_H_
 #define CONTENT_TEST_MOCK_SSL_HOST_STATE_DELEGATE_H_
 

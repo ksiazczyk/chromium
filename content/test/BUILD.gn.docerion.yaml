@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content test build targets
+summary: GN build configuration for the content test directory, defining targets such as the test_support static library and field trial testing setup.

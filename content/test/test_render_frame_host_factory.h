@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRenderFrameHostFactory class declaration
+// summary: Declares a scoped factory that creates TestRenderFrameHost instances instead of real RenderFrameHostImpls while registered for content tests.
+// ---
+
 #ifndef CONTENT_TEST_TEST_RENDER_FRAME_HOST_FACTORY_H_
 #define CONTENT_TEST_TEST_RENDER_FRAME_HOST_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBackgroundSyncManager implementation
+// summary: Implements a controllable BackgroundSyncManager for unit tests, simulating delayed or corrupted backend storage and sync event dispatch.
+// ---
+
 #include "content/test/test_background_sync_manager.h"
 
 #include "base/functional/bind.h"

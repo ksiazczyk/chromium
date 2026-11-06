@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform notification service
+// summary: Declares a mock PlatformNotificationService that simulates notification display, click, and close for Web Notification API tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_PLATFORM_NOTIFICATION_SERVICE_H_
 #define CONTENT_TEST_MOCK_PLATFORM_NOTIFICATION_SERVICE_H_
 

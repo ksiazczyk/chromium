@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOverscrollControllerDelegateAura header
+// summary: Declares a mock OverscrollControllerDelegate for Aura that receives overscroll gesture updates and provides wait and reset helpers for tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_OVERSCROLL_CONTROLLER_DELEGATE_AURA_H_
 #define CONTENT_TEST_MOCK_OVERSCROLL_CONTROLLER_DELEGATE_AURA_H_
 

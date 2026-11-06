@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock badge service implementation
+// summary: Implements a no-op mock BadgeService so incoming badge Mojo messages have a registered handler in tests.
+// ---
+
 #include "content/test/mock_badge_service.h"
 
 #include <utility>

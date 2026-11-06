@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserConsistencyChecker class declaration
+// summary: Declares a checker that validates browser-side content layer correctness in unit and browser tests via WebContents creation callbacks.
+// ---
+
 #ifndef CONTENT_TEST_CONTENT_BROWSER_CONSISTENCY_CHECKER_H_
 #define CONTENT_TEST_CONTENT_BROWSER_CONSISTENCY_CHECKER_H_
 

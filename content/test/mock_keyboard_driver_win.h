@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockKeyboardDriverWin header
+// summary: Declares the Windows platform-dependent part of the mock keyboard, which saves and restores keyboard layout and state around tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_KEYBOARD_DRIVER_WIN_H_
 #define CONTENT_TEST_MOCK_KEYBOARD_DRIVER_WIN_H_
 

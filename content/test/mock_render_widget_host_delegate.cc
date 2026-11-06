@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render widget host delegate implementation
+// summary: Implements a mock RenderWidgetHostDelegate that records pre-handled keyboard, mouse, and gesture events for tests.
+// ---
+
 #include "content/test/mock_render_widget_host_delegate.h"
 
 #include "base/notimplemented.h"

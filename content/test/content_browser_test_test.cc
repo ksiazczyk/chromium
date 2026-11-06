@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content browser test framework self-tests
+// summary: Tests the ContentBrowserTest harness itself, covering MANUAL prefix handling, renderer crash stack trace printing, and related launcher behavior.
+// ---
+
 #include "content/public/test/content_browser_test.h"
 
 #include <string>

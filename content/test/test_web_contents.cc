@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebContents implementation
+// summary: Implements a WebContentsImpl subclass that creates test render frame and view hosts with mock render processes for use in content unit and browser tests.
+// ---
+
 #include "content/test/test_web_contents.h"
 
 #include <memory>

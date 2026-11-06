@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internal browser test utilities implementation
+// summary: Implements internal helpers for content_shell browser tests, including frame navigation, beforeunload dialog control, and same-BrowsingInstance navigations.
+// ---
+
 #include "content/test/content_browser_test_utils_internal.h"
 
 #include <stddef.h>

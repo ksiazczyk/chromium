@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render widget host visibility observer implementation
+// summary: Implements a test observer that waits until a RenderWidgetHost's visibility changes to the expected state and reports whether the wait succeeded.
+// ---
+
 #include "content/test/render_widget_host_visibility_observer.h"
 
 #include "content/browser/renderer_host/render_widget_host_impl.h"

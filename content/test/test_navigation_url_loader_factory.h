@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test navigation URL loader factory header
+// summary: Declares TestNavigationURLLoaderFactory, which creates test NavigationURLLoader doubles, auto-registering when in scope with only one factory allowed at a time.
+// ---
+
 #ifndef CONTENT_TEST_TEST_NAVIGATION_URL_LOADER_FACTORY_H_
 #define CONTENT_TEST_TEST_NAVIGATION_URL_LOADER_FACTORY_H_
 

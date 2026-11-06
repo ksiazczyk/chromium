@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock background sync controller declarations
+// summary: Declares a mock BackgroundSyncController that tracks sync registration state and browser wake-up delays for tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_BACKGROUND_SYNC_CONTROLLER_H_
 #define CONTENT_TEST_MOCK_BACKGROUND_SYNC_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLLoaderInterceptor browser tests
+// summary: Browser tests covering monitoring and interception of URL loader requests, including frame loads, file scheme URLs and asynchronous interception.
+// ---
+
 #include "content/public/test/url_loader_interceptor.h"
 
 #include "base/command_line.h"

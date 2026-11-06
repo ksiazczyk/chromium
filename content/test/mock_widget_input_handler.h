@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock widget input handler
+// summary: Header declaring a mock WidgetInputHandler with DispatchedMessage classes that store received input handler calls for test assertions.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_WIDGET_INPUT_HANDLER_H_
 #define CONTENT_TEST_MOCK_WIDGET_INPUT_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for browser test utilities
+// summary: Browser tests verifying the cross-site redirector URL rewriting and EvalJs helper error handling of the content browser test utilities.
+// ---
+
 #include "content/public/test/browser_test_utils.h"
 
 #include "base/test/scoped_run_loop_timeout.h"

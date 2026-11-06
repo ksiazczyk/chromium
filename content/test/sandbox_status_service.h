@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxStatusService header
+// summary: Declares the test SandboxStatusService class that serves sandbox status over Mojo through a self-owned receiver.
+// ---
+
 #ifndef CONTENT_TEST_SANDBOX_STATUS_SERVICE_H_
 #define CONTENT_TEST_SANDBOX_STATUS_SERVICE_H_
 

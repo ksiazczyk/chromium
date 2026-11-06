@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNavigationURLLoader implementation
+// summary: Implements a test NavigationURLLoader that simulates redirects, errors, and responses without touching the network stack.
+// ---
+
 #include "content/test/test_navigation_url_loader.h"
 
 #include <tuple>

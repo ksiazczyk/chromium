@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNetwork-backed URLLoaderFactory implementation
+// summary: Implements a URLLoaderFactory that serves requests through FakeNetwork and can defer request handling until explicitly resumed for tests.
+// ---
+
 #include "content/test/fake_network_url_loader_factory.h"
 
 #include "base/strings/string_util.h"

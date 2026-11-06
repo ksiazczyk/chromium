@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock badge service declarations
+// summary: Declares a no-op mock BadgeService that binds badge Mojo receivers to support web platform tests.
+// ---
+
 #ifndef CONTENT_TEST_MOCK_BADGE_SERVICE_H_
 #define CONTENT_TEST_MOCK_BADGE_SERVICE_H_
 

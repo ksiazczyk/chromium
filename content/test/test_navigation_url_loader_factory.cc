@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test navigation URL loader factory implementation
+// summary: Registers itself as the NavigationURLLoader factory for testing so created loaders are TestNavigationURLLoader instances, and unregisters on destruction.
+// ---
+
 #include "content/test/test_navigation_url_loader_factory.h"
 
 #include <utility>

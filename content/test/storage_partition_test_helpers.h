@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage partition test helpers header
+// summary: Declares test helpers for storage partitions, including shared worker service injection and a browser client that isolates one site in a custom partition.
+// ---
+
 #ifndef CONTENT_TEST_STORAGE_PARTITION_TEST_HELPERS_H_
 #define CONTENT_TEST_STORAGE_PARTITION_TEST_HELPERS_H_
 
