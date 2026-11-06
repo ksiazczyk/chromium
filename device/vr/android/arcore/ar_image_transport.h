@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArImageTransport class declaration
+// summary: Declares ArImageTransport and its factory for transferring camera and rendered textures via shared buffers with sync tokens.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_AR_IMAGE_TRANSPORT_H_
 #define DEVICE_VR_ANDROID_ARCORE_AR_IMAGE_TRANSPORT_H_
 

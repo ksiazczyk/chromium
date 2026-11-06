@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Windows OpenXR platform helper implementation
+// summary: Implements Windows-specific OpenXR platform support, including app container extension selection, D3D11 graphics binding creation, device data, and adapter LUID retrieval.
+// ---
+
 #include "device/vr/openxr/windows/openxr_platform_helper_windows.h"
 
 #include <memory>

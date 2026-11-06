@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore session class declaration
+// summary: Declares ArCoreImpl, the ArCore interface implementation meant for use on the GL thread, exposing session, hit test, anchor, and depth sensing APIs.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_IMPL_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_IMPL_H_
 

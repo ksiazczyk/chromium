@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Vulkan graphics binding implementation
+// summary: Implements the Vulkan-backed OpenXR graphics binding for Linux, covering swapchain format selection, shared image creation and import, layer rendering, and supported layer types.
+// ---
+
 #include "device/vr/openxr/linux/openxr_graphics_binding_vulkan.h"
 
 #include <algorithm>

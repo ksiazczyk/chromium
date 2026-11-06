@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake orientation sensor implementation for VR tests
+// summary: Implements FakeOrientationSensor, a fake mojom::Sensor that accepts any sensor configuration so VR tests can stub orientation data.
+// ---
+
 #include "device/vr/test/fake_orientation_provider.h"
 
 #include "services/device/public/mojom/sensor.mojom.h"

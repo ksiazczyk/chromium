@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR hit test manager implementation
+// summary: Implements subscription management and result computation for WebXR hit tests, transforming rays and aggregating results from scene understanding systems.
+// ---
+
 #include "device/vr/openxr/openxr_hit_test_manager.h"
 
 #include <algorithm>

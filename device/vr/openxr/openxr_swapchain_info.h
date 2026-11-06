@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR swapchain info declaration
+// summary: Declares a struct holding swapchain texture handles, shared images and sync tokens across Windows, Android and Linux builds.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SWAPCHAIN_INFO_H_
 #define DEVICE_VR_OPENXR_OPENXR_SWAPCHAIN_INFO_H_
 

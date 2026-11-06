@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore anchor manager implementation
+// summary: Implements ArCoreAnchorManager, which tracks ARCore anchors, updates their state each frame, and reports anchor IDs and poses to the XR service.
+// ---
+
 #include "device/vr/android/arcore/arcore_anchor_manager.h"
 
 #include "base/check.h"

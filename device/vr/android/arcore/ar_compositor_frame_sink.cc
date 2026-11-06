@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCompositorFrameSink implementation
+// summary: Implements the root compositor frame sink for WebXR on ARCore, handling begin-frame flow, frame submission, and the host display client.
+// ---
+
 #include "device/vr/android/arcore/ar_compositor_frame_sink.h"
 
 #include "base/functional/bind.h"

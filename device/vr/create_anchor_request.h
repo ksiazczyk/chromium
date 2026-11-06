@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateAnchorRequest class declaration
+// summary: Declares the CreateAnchorRequest class and CreateAnchorCallback type used to carry XR anchor creation parameters and their result callback.
+// ---
+
 #ifndef DEVICE_VR_CREATE_ANCHOR_REQUEST_H_
 #define DEVICE_VR_CREATE_ANCHOR_REQUEST_H_
 

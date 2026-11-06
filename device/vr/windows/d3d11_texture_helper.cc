@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 texture helper implementation
+// summary: Implements compositing of VR source and overlay textures onto the D3D11 backbuffer using generated shaders, blend states, shared images and trace-based error reporting.
+// ---
+
 #include "device/vr/windows/d3d11_texture_helper.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exit XR present reason enum
+// summary: Enumerates the reasons an OpenXR presentation session can exit, such as runtime failures, frame errors, and browser shutdown.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_EXIT_XR_PRESENT_REASON_H_
 #define DEVICE_VR_OPENXR_EXIT_XR_PRESENT_REASON_H_
 

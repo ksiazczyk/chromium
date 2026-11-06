@@ -1,0 +1,4 @@
+# Docerion header of geometry_shader.hlsl.
+type: source
+title: Geometry shader HLSL source
+summary: HLSL source for a geometry shader that forwards triangle vertices, texture coordinates and render target array indices to the output stream.

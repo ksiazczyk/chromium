@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardboard image transport implementation
+// summary: Implements rendering of WebXR frames through the Cardboard distortion renderer, including lens distortion mesh setup and eye texture descriptions.
+// ---
+
 #include "device/vr/android/cardboard/cardboard_image_transport.h"
 
 #include <memory>

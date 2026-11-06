@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Android plane manager implementation
+// summary: Creates and destroys the Android plane trackable tracker for an OpenXR session via the trackables extension.
+// ---
+
 #include "device/vr/openxr/android/openxr_plane_manager_android.h"
 
 #include <vector>

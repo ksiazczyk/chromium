@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 11.1 adapter helper declarations
+// summary: Declares functions that locate a DXGI adapter supporting Direct3D 11.1, shared with the Windows VR device implementation.
+// ---
+
 #ifndef DEVICE_VR_WINDOWS_D3D11_DEVICE_HELPERS_H_
 #define DEVICE_VR_WINDOWS_D3D11_DEVICE_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrJavaCoordinator interface for WebXR Java session coordination
+// summary: Defines the XrJavaCoordinator interface that lets the device layer request AR and VR sessions and coordinate with Java code in the WebXR component.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_XR_JAVA_COORDINATOR_H_
 #define DEVICE_VR_ANDROID_XR_JAVA_COORDINATOR_H_
 

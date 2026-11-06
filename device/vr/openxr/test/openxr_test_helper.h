@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenXR test helper header
+// summary: Declares the OpenXrTestHelper singleton that mocks OpenXR runtime state and relays frames and action states to the XR test hook.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_TEST_OPENXR_TEST_HELPER_H_
 #define DEVICE_VR_OPENXR_TEST_OPENXR_TEST_HELPER_H_
 

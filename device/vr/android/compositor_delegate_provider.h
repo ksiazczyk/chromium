@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorDelegateProvider interface
+// summary: Interface for a type-safe wrapper around a Java object that talks to the Chrome compositor, enabling injection from //components into //device.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_COMPOSITOR_DELEGATE_PROVIDER_H_
 #define DEVICE_VR_ANDROID_COMPOSITOR_DELEGATE_PROVIDER_H_
 

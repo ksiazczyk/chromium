@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: OpenXR directory include rules
+summary: Defines allowed include dependencies for the OpenXR directory, with special rules granting Android dev header access to extension helper, spatial, and util files.

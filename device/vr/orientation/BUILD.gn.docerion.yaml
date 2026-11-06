@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the VR orientation component
+summary: Defines the vr_orientation component target, listing the orientation device, provider and session sources together with their build dependencies.

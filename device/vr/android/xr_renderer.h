@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrRenderer class declaration for WebXR texture drawing
+// summary: Declares the XrRenderer class that issues GL calls to draw WebXR textures, cubemaps, texture arrays, and overlay layers onto framebuffers.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_XR_RENDERER_H_
 #define DEVICE_VR_ANDROID_XR_RENDERER_H_
 

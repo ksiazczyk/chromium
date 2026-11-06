@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Space-based OpenXR anchor manager interface
+// summary: Declares OpenXrSpaceBasedAnchorManager, an OpenXrAnchorManager subclass storing anchors as XrSpace handles and defining platform-specific creation hooks.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPACE_BASED_ANCHOR_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPACE_BASED_ANCHOR_MANAGER_H_
 

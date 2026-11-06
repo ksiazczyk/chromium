@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial hit test manager class declaration
+// summary: Declares the delegate class that integrates hit testing with the spatial framework, noted as a temporary stopgap until an XR_EXT raycast extension exists.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPATIAL_HIT_TEST_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPATIAL_HIT_TEST_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore SDK dynamic loading shim implementation
+// summary: Dynamically loads the ARCore SDK shared library and binds every ARCore C API function via a macro-generated list of function pointers.
+// ---
+
 #include "device/vr/android/arcore/arcore_shim.h"
 
 #include <dlfcn.h>

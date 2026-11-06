@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the OpenXR test directory
+summary: Grants the OpenXR test directory include access to the OpenXR headers and common sources under third_party.

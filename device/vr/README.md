@@ -1,3 +1,12 @@
+---
+type: readme
+title: VR
+summary: Documents the VR directory's role in abstracting WebXR across platforms, covering platform support, threading model, device discovery, process model, Windows build setup, and testing.
+relations:
+  - references /device/vr/openxr/README.md
+  - references /components/webxr/README.md
+---
+
 # VR
 
 _For a more thorough/high level overview of the entire WebXR stack, please refer to

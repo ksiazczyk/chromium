@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VRDeviceBase class header
+// summary: Declares the VRDeviceBase class implementing mojom::XRRuntime as the base for platform VR devices owned by VRDeviceProvider.
+// ---
+
 #ifndef DEVICE_VR_VR_DEVICE_BASE_H_
 #define DEVICE_VR_VR_DEVICE_BASE_H_
 

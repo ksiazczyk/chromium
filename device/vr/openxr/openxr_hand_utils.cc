@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR hand joint conversion and anonymization utilities
+// summary: Implements OpenXR-to-WebXR hand joint enum conversion with compile-time checks and hand joint data anonymization for the Chromium VR device layer.
+// ---
+
 #include "device/vr/openxr/openxr_hand_utils.h"
 
 #include <iomanip>

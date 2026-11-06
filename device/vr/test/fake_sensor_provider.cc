@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake XR sensor provider implementation
+// summary: Implements FakeXRSensorProvider, a fake SensorProvider that defers GetSensor callbacks so tests can control sensor creation results.
+// ---
+
 #include "device/vr/test/fake_sensor_provider.h"
 
 #include "services/device/public/mojom/sensor.mojom.h"

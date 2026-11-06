@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR utility functions
+// summary: Implements helpers for pose, quaternion and field-of-view conversions, coordinate-axis rotation and pose validity checks for OpenXR.
+// ---
+
 #include "device/vr/openxr/openxr_util.h"
 
 #include <string>

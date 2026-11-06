@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXrPlaneManager placeholder base class
+// summary: Declares a placeholder OpenXrPlaneManager base class to prepare for future OpenXR plane detection used by hit test implementations.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_PLANE_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_PLANE_MANAGER_H_
 

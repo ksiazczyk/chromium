@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Android plane manager header
+// summary: Declares a thin Android plane manager wrapper that exposes the plane trackable tracker handle.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_PLANE_MANAGER_ANDROID_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_PLANE_MANAGER_ANDROID_H_
 

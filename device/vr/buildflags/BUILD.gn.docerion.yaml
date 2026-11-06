@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for VR build flags
+summary: Defines a buildflag_header target that generates buildflags.h with compile-time flags for ARCore, VR, OpenXR, Cardboard and desktop OpenXR support.

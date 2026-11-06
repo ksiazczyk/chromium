@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCardboardSdk implementation
+// summary: Implements the CardboardSdk test double that skips the real QR scanner activity, records that scanning was launched, and manually runs the saved-params callback.
+// ---
+
 #include "device/vr/android/cardboard/mock_cardboard_sdk.h"
 
 #include "base/android/jni_android.h"

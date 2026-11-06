@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR view configuration implementation
+// summary: Implements view property handling with viewport scaling, texture size clamping, framebuffer scale factors and eye mapping for OpenXR sessions.
+// ---
+
 #define _USE_MATH_DEFINES  // For VC++ to get M_PI. This has to be first.
 
 #include "device/vr/openxr/openxr_view_configuration.h"

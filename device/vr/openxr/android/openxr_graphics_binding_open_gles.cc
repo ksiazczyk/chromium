@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenGLES graphics binding for OpenXR implementation
+// summary: Implements the OpenGL ES graphics binding for OpenXR on Android, handling GL initialization, swapchain images, shared images, and overlay textures.
+// ---
+
 #include "device/vr/openxr/android/openxr_graphics_binding_open_gles.h"
 
 #include <algorithm>

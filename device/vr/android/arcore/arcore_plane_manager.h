@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore plane manager class declarations
+// summary: Declares the ArCorePlaneManager class and pose conversion helpers for managing ARCore plane detection state within the ARCore session.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_PLANE_MANAGER_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_PLANE_MANAGER_H_
 

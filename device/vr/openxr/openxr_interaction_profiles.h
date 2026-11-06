@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR interaction profile declarations
+// summary: Declares enums and structs for OpenXR controller buttons, axes, and interaction profiles, plus accessors for the supported controller profile bindings.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_INTERACTION_PROFILES_H_
 #define DEVICE_VR_OPENXR_OPENXR_INTERACTION_PROFILES_H_
 

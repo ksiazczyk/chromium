@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OpenXR directory owners
+summary: Lists the code owners for the OpenXR directory, pointing to the WebXR owners file and a Microsoft contact.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXrSceneObserverMsft implementation
+// summary: Implements a C++ wrapper for XrSceneObserverMSFT that computes new scenes, tracks compute state and creates OpenXrSceneMsft instances.
+// ---
+
 #include "device/vr/openxr/msft/openxr_scene_observer_msft.h"
 
 #include "base/check.h"

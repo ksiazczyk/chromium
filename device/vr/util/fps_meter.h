@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FPS meter class declaration
+// summary: Declares the FPSMeter class that computes FPS based on submitted frame times, backed by a SampleQueue sliding window.
+// ---
+
 #ifndef DEVICE_VR_UTIL_FPS_METER_H_
 #define DEVICE_VR_UTIL_FPS_METER_H_
 

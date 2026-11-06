@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR extension helper implementation
+// summary: Implements extension enumeration, runtime function loading, and helper logic that creates extension handlers from the registered factories.
+// ---
+
 #include "device/vr/openxr/openxr_extension_helper.h"
 
 #include <algorithm>

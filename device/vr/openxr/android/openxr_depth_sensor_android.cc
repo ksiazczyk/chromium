@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR depth sensor implementation
+// summary: Implements the Android OpenXR depth sensor, mapping supported depth camera resolutions and populating per-eye depth data from the depth swapchain.
+// ---
+
 #include "device/vr/openxr/android/openxr_depth_sensor_android.h"
 
 #include <algorithm>

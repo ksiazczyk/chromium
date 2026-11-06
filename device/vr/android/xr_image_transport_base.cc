@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR image transport base implementation
+// summary: Implements transport of WebGL output from the GPU process GL context to the local GL context and compositing onto the camera image.
+// ---
+
 #include "device/vr/android/xr_image_transport_base.h"
 
 #include "base/android/scoped_hardware_buffer_handle.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR extension handler factory registry
+// summary: Implements GetExtensionHandlerFactories, an ordered list of extension handler factories covering hand tracking, scene understanding, depth sensing, light estimation and space providers.
+// ---
+
 #include "device/vr/openxr/openxr_extension_handler_factories.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VROrientationDeviceProvider
+// summary: Unit tests verifying provider initialization and runtime registration using fake sensor providers and fake orientation sensors.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

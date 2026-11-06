@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 texture helper class declarations
+// summary: Declares the D3D11TextureHelper class that manages devices, shaders, render targets, viewports and layer textures for Windows VR compositing.
+// ---
+
 #ifndef DEVICE_VR_WINDOWS_D3D11_TEXTURE_HELPER_H_
 #define DEVICE_VR_WINDOWS_D3D11_TEXTURE_HELPER_H_
 

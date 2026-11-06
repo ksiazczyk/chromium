@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake VR service client implementation
+// summary: Implements FakeVRServiceClient, a test client that records the last seen XR device ID and checks device IDs against it.
+// ---
+
 #include "device/vr/test/fake_vr_service_client.h"
 
 namespace device {

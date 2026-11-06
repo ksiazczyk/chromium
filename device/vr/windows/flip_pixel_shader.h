@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated flip pixel shader bytecode
+// summary: Generated header embedding compiled bytecode for the flip pixel shader; marked do-not-modify and regenerated via generate_shaders.bat.
+// ---
+
 // DO NOT MODIFY.  Use generate_shaders.bat to modify, then re-add this warning.
 #ifndef DEVICE_VR_WINDOWS_FLIP_PIXEL_SHADER_H_
 #define DEVICE_VR_WINDOWS_FLIP_PIXEL_SHADER_H_

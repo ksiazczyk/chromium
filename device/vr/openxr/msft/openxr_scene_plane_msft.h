@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXrScenePlaneMsft scene plane struct
+// summary: Defines the OpenXrScenePlaneMsft struct for XR_SCENE_COMPONENT_TYPE_PLANE_MSFT with alignment, size and mesh buffer details.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_PLANE_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_PLANE_MSFT_H_
 

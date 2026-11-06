@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial framework manager class declaration
+// summary: Declares the orchestrator class for XR_EXT_SPATIAL_* extensions that provides scene understanding data, together with its extension handler factory.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPATIAL_FRAMEWORK_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPATIAL_FRAMEWORK_MANAGER_H_
 

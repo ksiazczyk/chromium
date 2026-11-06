@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardSdk abstract interface
+// summary: Declares the CardboardSdk interface that wraps the C-style Cardboard SDK for initialization and QR code scanning, allowing the SDK to be shimmed out for testing.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_SDK_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_SDK_H_
 

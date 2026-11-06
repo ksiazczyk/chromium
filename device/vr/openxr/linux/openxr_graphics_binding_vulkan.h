@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Vulkan graphics binding class declaration
+// summary: Declares OpenXrGraphicsBindingVulkan, the Linux OpenXrGraphicsBinding that drives XrSession creation via XR_KHR_vulkan_enable2 and manages shared images and layer data.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_LINUX_OPENXR_GRAPHICS_BINDING_VULKAN_H_
 #define DEVICE_VR_OPENXR_LINUX_OPENXR_GRAPHICS_BINDING_VULKAN_H_
 

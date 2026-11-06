@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the vr_cardboard component
+summary: Defines the vr_cardboard component target, listing the Cardboard VR sources and their dependencies for the Chromium build.

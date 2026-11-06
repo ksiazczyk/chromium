@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spatial extension OpenXR anchor manager implementation
+// summary: Implements anchor support via the XR_EXT_SPATIAL_ANCHOR extension, including capability checks, anchor creation with plane parenting, and pose updates.
+// ---
+
 #include "device/vr/openxr/openxr_spatial_anchor_manager.h"
 
 #include <algorithm>

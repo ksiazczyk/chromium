@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardDevice class declaration
+// summary: Declares the CardboardDevice class, a VRDeviceBase implementation that manages Cardboard SDK sessions and drawing surface callbacks.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_DEVICE_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_DEVICE_H_
 

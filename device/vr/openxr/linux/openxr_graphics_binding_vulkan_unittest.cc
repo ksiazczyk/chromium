@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OpenXR Vulkan graphics binding
+// summary: Tests the Vulkan graphics binding end to end using a mock OpenXR runtime and a SwiftShader Vulkan ICD configured through environment variable overrides.
+// ---
+
 #include "device/vr/openxr/linux/openxr_graphics_binding_vulkan.h"
 
 #include <memory>

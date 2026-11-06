@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXrMeshManager interface declaration
+// summary: Declares the OpenXrMeshManager interface for mesh detection, exposing detected mesh data, mesh locations, and recenter invalidation.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_MESH_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_MESH_MANAGER_H_
 

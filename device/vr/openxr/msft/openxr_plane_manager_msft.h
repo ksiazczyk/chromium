@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR MSFT plane manager header
+// summary: Declares OpenXrPlaneManagerMsft, which manages scene computation state and exposes the currently detected planes.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_PLANE_MANAGER_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_PLANE_MANAGER_MSFT_H_
 

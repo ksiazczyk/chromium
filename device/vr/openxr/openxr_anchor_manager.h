@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR anchor manager interface
+// summary: Declares the OpenXrAnchorManager interface for creating, tracking, and detaching WebXR anchors via OpenXR.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_ANCHOR_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_ANCHOR_MANAGER_H_
 

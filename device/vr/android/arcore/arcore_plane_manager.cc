@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore plane manager implementation
+// summary: Implements ArCorePlaneManager, which tracks ARCore-detected planes, maps them to plane IDs, and provides plane detection data and pose conversions for WebXR.
+// ---
+
 #include "device/vr/android/arcore/arcore_plane_manager.h"
 
 #include "base/check.h"

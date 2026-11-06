@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR D3D11 graphics binding implementation
+// summary: Implements the D3D11 graphics binding for OpenXR on Windows, initializing the texture helper, providing session create info, swapchain formats, and swapchain image enumeration.
+// ---
+
 #include "device/vr/openxr/windows/openxr_graphics_binding_d3d11.h"
 
 #include <d3d11_4.h>

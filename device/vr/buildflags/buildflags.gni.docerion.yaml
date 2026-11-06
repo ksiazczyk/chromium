@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: buildflags.gni
+summary: Declares GN build arguments that control which VR and XR runtimes (Cardboard, ARCore, OpenXR) are enabled per platform and derive the enable_vr default.

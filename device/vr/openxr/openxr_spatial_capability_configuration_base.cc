@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial capability configuration base implementation
+// summary: Implements the base class that builds XrSpatialCapabilityConfigurationBaseHeaderEXT structs for spatial capabilities such as plane tracking, anchors, and depth raycast.
+// ---
+
 #include "device/vr/openxr/openxr_spatial_capability_configuration_base.h"
 
 #include "base/notreached.h"

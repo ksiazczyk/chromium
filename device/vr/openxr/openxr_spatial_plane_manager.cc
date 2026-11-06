@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial plane manager implementation
+// summary: Implements plane tracking via XR_EXT_SPATIAL_PLANE_TRACKING, including polygon and semantic label components and mesh synthesis for the mesh detection feature.
+// ---
+
 #include "device/vr/openxr/openxr_spatial_plane_manager.h"
 
 #include <algorithm>

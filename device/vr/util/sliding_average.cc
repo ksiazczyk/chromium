@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sliding average implementation
+// summary: Implements SlidingAverage and SlidingTimeDeltaAverage, which compute sliding-window averages over integer samples and time deltas.
+// ---
+
 #include "device/vr/util/sliding_average.h"
 
 namespace device {

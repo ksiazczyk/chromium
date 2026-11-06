@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial capability configuration base class declaration
+// summary: Declares a helper class that manages spatial capability configurations used when creating a spatial context in the spatial entities framework.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPATIAL_CAPABILITY_CONFIGURATION_BASE_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPATIAL_CAPABILITY_CONFIGURATION_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardboard render loop implementation
+// summary: Implements the Android Cardboard WebXR render loop on a dedicated GL thread, handling frame data, frame submission, and session lifecycle.
+// ---
+
 #include "device/vr/android/cardboard/cardboard_render_loop.h"
 
 #include <time.h>

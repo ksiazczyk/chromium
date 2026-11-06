@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXR scene understanding manager interface
+// summary: Declares OpenXRSceneUnderstandingManager, which coordinates related scene understanding delegates such as mesh, plane, anchor, and hit-test managers.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SCENE_UNDERSTANDING_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_SCENE_UNDERSTANDING_MANAGER_H_
 

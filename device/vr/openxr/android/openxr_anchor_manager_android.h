@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR anchor manager header
+// summary: Declares OpenXrAnchorManagerAndroid, the Android implementation of the space-based anchor manager for OpenXR sessions.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_ANCHOR_MANAGER_ANDROID_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_ANCHOR_MANAGER_ANDROID_H_
 

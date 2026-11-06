@@ -1,0 +1,4 @@
+# Docerion header of openxr.def.
+type: config
+title: Windows exports for the mock OpenXR runtime
+summary: Module definition file exporting xrNegotiateLoaderRuntimeInterface and SetMockOpenXrDispatchTable from the mock runtime library.

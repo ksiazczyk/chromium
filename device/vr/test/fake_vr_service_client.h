@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake VR service client class declaration
+// summary: Declares FakeVRServiceClient, a fake mojom::VRServiceClient that stores and verifies the last XR device ID in VR tests.
+// ---
+
 #ifndef DEVICE_VR_TEST_FAKE_VR_SERVICE_CLIENT_H_
 #define DEVICE_VR_TEST_FAKE_VR_SERVICE_CLIENT_H_
 

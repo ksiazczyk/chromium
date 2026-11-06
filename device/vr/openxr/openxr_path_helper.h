@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXRPathHelper class declaration
+// summary: Declares OpenXRPathHelper, which maps interaction profile XrPaths to types and returns input profiles for a system.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_PATH_HELPER_H_
 #define DEVICE_VR_OPENXR_OPENXR_PATH_HELPER_H_
 

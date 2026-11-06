@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial hit test manager implementation
+// summary: Implements hit testing through the XR_ANDROID_SPATIAL_DISCOVERY_RAYCAST extension, including support checks for plane-based and depth-based hit tests.
+// ---
+
 #include "device/vr/openxr/openxr_spatial_hit_test_manager.h"
 
 #include <algorithm>

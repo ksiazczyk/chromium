@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR OpenGL utility header
+// summary: Declares GL helper functions and shader source macros used by VR rendering code in the device/vr component.
+// ---
+
 #ifndef DEVICE_VR_VR_GL_UTIL_H_
 #define DEVICE_VR_VR_GL_UTIL_H_
 

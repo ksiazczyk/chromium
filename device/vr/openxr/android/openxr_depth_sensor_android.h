@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR depth sensor header
+// summary: Declares OpenXrDepthSensorAndroid and its factory, which request the Android depth extensions and create depth sensors for XR sessions.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_DEPTH_SENSOR_ANDROID_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_DEPTH_SENSOR_ANDROID_H_
 

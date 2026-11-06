@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXR platform helper Android statics
+// summary: Defines the Android static methods of OpenXrPlatformHelper, listing the required Android instance creation extension.
+// ---
+
 #include "device/vr/openxr/openxr_platform_helper.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated geometry shader bytecode
+// summary: Generated header embedding compiled bytecode for a geometry shader that passes triangles through with render target array indices; marked do-not-modify.
+// ---
+
 // DO NOT MODIFY.  Use generate_shaders.bat to modify, then re-add this warning.
 #ifndef DEVICE_VR_WINDOWS_GEOMETRY_SHADER_H_
 #define DEVICE_VR_WINDOWS_GEOMETRY_SHADER_H_

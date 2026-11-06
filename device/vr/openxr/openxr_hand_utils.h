@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR hand utilities header
+// summary: Declares constants and inline helpers for converting between OpenXR and mojom hand joint enums, plus the AnonymizeHand function for hand tracking data.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_HAND_UTILS_H_
 #define DEVICE_VR_OPENXR_OPENXR_HAND_UTILS_H_
 

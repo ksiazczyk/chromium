@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Hit test subscription data header
+// summary: Declares HitTestSubscriptionData and TransientInputHitTestSubscriptionData structs holding native origin information, entity types, and ray for XR hit test subscriptions.
+// ---
+
 #ifndef DEVICE_VR_HIT_TEST_SUBSCRIPTION_DATA_H_
 #define DEVICE_VR_HIT_TEST_SUBSCRIPTION_DATA_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android VR directory include rules
+summary: Specifies the allowed header include rules for the device/vr/android directory, covering viz, gpu, and network dependencies.

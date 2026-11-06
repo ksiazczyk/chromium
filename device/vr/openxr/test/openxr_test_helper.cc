@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenXR test helper implementation
+// summary: Implements the OpenXrTestHelper mock OpenXR runtime that fakes instances, sessions, swapchains, actions and spaces for WebXR tests.
+// ---
+
 #include "device/vr/openxr/test/openxr_test_helper.h"
 
 #include <algorithm>

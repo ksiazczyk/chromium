@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OpenXR hand utilities
+// summary: GoogleTest suite that builds synthetic hand joint data and verifies the hand anonymization logic produces consistent joint sizes and positions.
+// ---
+
 #include "device/vr/openxr/openxr_hand_utils.h"
 
 #include "device/vr/public/mojom/xr_hand_tracking_data.mojom.h"

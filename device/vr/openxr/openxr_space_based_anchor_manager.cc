@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Space-based OpenXR anchor manager implementation
+// summary: Implements anchor creation, detachment, and pose tracking backed by XrSpace handles for the OpenXrSpaceBasedAnchorManager.
+// ---
+
 #include "device/vr/openxr/openxr_space_based_anchor_manager.h"
 
 #include <utility>

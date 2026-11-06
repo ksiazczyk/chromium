@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXrSceneObserverMsft scene observer wrapper
+// summary: Declares the OpenXrSceneObserverMsft class wrapping XrSceneObserverMSFT for scene computation within an OpenXR session.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_OBSERVER_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_OBSERVER_MSFT_H_
 

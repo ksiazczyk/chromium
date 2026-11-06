@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenGLES graphics binding for OpenXR header
+// summary: Declares OpenXrGraphicsBindingOpenGLES, which manages GL contexts, surfaces, and swapchain rendering for OpenXR sessions on Android.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_GRAPHICS_BINDING_OPEN_GLES_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_GRAPHICS_BINDING_OPEN_GLES_H_
 

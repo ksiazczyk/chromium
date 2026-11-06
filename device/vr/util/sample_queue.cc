@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample queue implementation
+// summary: Implements SampleQueue, a fixed-size circular queue of int64 samples that maintains a running sum and drops old samples when full.
+// ---
+
 #include <stdint.h>
 
 #include "device/vr/util/sample_queue.h"

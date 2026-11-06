@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR FB hand tracker implementation
+// summary: Implements the OpenXrHandTrackerFb class and its factory, mapping the FB hand tracking aim extension to grip, pointer, and pinch trigger input for hand controllers.
+// ---
+
 #include "device/vr/openxr/fb/openxr_hand_tracker_fb.h"
 
 #include <optional>

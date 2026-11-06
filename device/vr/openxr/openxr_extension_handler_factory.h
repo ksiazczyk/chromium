@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR extension handler factory base class
+// summary: Defines the OpenXrExtensionHandlerFactory base class that platform-specific factories extend to declare required extensions, supported WebXR features and handler creation methods.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_EXTENSION_HANDLER_FACTORY_H_
 #define DEVICE_VR_OPENXR_OPENXR_EXTENSION_HANDLER_FACTORY_H_
 

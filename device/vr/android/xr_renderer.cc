@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrRenderer GL texture rendering implementation
+// summary: Implements GL shaders and draw routines that blit WebXR textures, including external, 2D, cubemap, and texture array variants, onto framebuffers.
+// ---
+
 #include "device/vr/android/xr_renderer.h"
 
 #include <algorithm>

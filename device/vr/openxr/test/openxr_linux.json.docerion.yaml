@@ -1,0 +1,4 @@
+# Docerion header of openxr_linux.json.
+type: config
+title: OpenXR runtime manifest for Linux tests
+summary: OpenXR loader manifest for Linux pointing the runtime library path to libmockopenxrruntime.so.

@@ -1,0 +1,4 @@
+# Docerion header of generate_shaders.bat.
+type: script
+title: Shader compilation batch script
+summary: Windows batch script that compiles the vertex, flip pixel and geometry HLSL shaders into C++ headers using the fxc compiler, with an optional debug mode.

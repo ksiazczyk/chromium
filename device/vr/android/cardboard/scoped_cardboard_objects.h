@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Cardboard object RAII wrappers
+// summary: Provides ScopedGeneric-based RAII wrappers that automatically destroy Cardboard SDK objects such as lens distortion, distortion renderer, head tracker, and encoded device params.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_SCOPED_CARDBOARD_OBJECTS_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_SCOPED_CARDBOARD_OBJECTS_H_
 

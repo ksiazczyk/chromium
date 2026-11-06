@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR presentation state implementation
+// summary: Implements the WebXR frame pipeline state machine that tracks frames through animating, processing, and rendering stages.
+// ---
+
 #include "device/vr/android/web_xr_presentation_state.h"
 
 #include <iomanip>

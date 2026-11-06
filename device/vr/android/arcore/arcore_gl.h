@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore GL rendering class declaration
+// summary: Declares ArCoreGl and its session result types, implementing the XR frame data provider, presentation provider, session controller, and environment provider interfaces.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_GL_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_GL_H_
 

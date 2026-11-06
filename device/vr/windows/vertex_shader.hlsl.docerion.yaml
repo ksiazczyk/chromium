@@ -1,0 +1,4 @@
+# Docerion header of vertex_shader.hlsl.
+type: source
+title: Vertex shader for Windows VR device compositing
+summary: HLSL vertex shader for the Windows VR device that passes vertex position, texture coordinates and an index through to the pixel shader stage.

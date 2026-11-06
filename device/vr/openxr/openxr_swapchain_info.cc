@@ -4,6 +4,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR swapchain info implementation
+// summary: Implements platform-specific constructors and cleanup for OpenXR swapchain texture info on Windows, Android and Linux.
+// ---
+
 #include "device/vr/openxr/openxr_swapchain_info.h"
 
 #include "device/vr/openxr/openxr_graphics_binding.h"

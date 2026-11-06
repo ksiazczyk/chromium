@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR hit test manager header
+// summary: Declares the OpenXrHitTestManager base class that manages hit test subscriptions and delegates actual hit testing to scene understanding subclasses.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_HIT_TEST_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_HIT_TEST_MANAGER_H_
 

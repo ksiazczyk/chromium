@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for stage bounds helpers
+// summary: Tests GetStageBoundsFromSize for a 2x2 stage and verifies that invalid or non-positive sizes produce empty bounds.
+// ---
+
 #include "device/vr/util/stage_utils.h"
 
 #include "ui/gfx/geometry/point3_f.h"

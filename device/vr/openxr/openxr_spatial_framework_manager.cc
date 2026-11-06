@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial framework manager implementation
+// summary: Implements the orchestrator for the XR_EXT_SPATIAL_* extensions, creating a spatial context with capability configurations for plane detection, hit testing, and anchors.
+// ---
+
 #include "device/vr/openxr/openxr_spatial_framework_manager.h"
 
 #include <set>

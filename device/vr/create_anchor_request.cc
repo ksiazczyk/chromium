@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateAnchorRequest implementation
+// summary: Implements the CreateAnchorRequest class, storing native origin information, anchor transform, optional plane ID, request start time, and completion callback.
+// ---
+
 #include "device/vr/create_anchor_request.h"
 
 namespace device {

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXR Android scene understanding manager header
+// summary: Declares the Android scene understanding manager and its extension factory with the XR session features it supports.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_SCENE_UNDERSTANDING_MANAGER_ANDROID_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_SCENE_UNDERSTANDING_MANAGER_ANDROID_H_
 

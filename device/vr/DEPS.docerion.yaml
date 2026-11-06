@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for device/vr
+summary: Sets the allowed include rules for the VR directory, with special exceptions for the OpenXR platform header wrapper and Vulkan function pointers.

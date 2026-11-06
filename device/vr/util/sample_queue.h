@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample queue class declaration
+// summary: Declares SampleQueue, which manages a fixed-size queue of samples with their current sum for sliding-window statistics.
+// ---
+
 #ifndef DEVICE_VR_UTIL_SAMPLE_QUEUE_H_
 #define DEVICE_VR_UTIL_SAMPLE_QUEUE_H_
 

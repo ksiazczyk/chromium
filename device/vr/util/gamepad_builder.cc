@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad builder implementation
+// summary: Implements GamepadBuilder, which assembles Gamepad objects with handedness, buttons, and axes including thumbstick deadzone and touchpad placeholder handling.
+// ---
+
 #include "device/vr/util/gamepad_builder.h"
 
 #include "base/check_op.h"

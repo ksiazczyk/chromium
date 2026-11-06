@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Android unbounded space provider implementation
+// summary: Implements the Android unbounded reference space provider and factory, enabled by the unbounded reference space extension.
+// ---
+
 #include "device/vr/openxr/android/openxr_unbounded_space_provider_android.h"
 
 #include <set>

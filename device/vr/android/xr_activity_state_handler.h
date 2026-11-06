@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrActivityStateHandler interface
+// summary: Interface letting //device code listen to Android activity lifecycle callbacks through dependency injection from //components.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_XR_ACTIVITY_STATE_HANDLER_H_
 #define DEVICE_VR_ANDROID_XR_ACTIVITY_STATE_HANDLER_H_
 

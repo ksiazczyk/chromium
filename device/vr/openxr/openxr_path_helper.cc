@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXRPathHelper implementation
+// summary: Implements interaction profile path declaration and lookup, resolving profile types and per-system input profiles including hand joint variants.
+// ---
+
 #include "device/vr/openxr/openxr_path_helper.h"
 
 #include <algorithm>

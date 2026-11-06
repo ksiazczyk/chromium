@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial plane manager class declaration
+// summary: Declares the delegate class for plane tracking that also implements the mesh manager interface to synthesize mesh data from plane entities.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPATIAL_PLANE_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPATIAL_PLANE_MANAGER_H_
 

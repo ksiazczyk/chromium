@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore session implementation
+// summary: Implements ArCoreImpl, wrapping the ARCore SDK for session setup, camera poses, hit testing, plane detection, anchors, depth, and light estimation.
+// ---
+
 #include "device/vr/android/arcore/arcore_impl.h"
 
 #include <algorithm>

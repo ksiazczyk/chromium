@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCardboardSdk class declaration
+// summary: Declares MockCardboardSdk, a CardboardSdk stub for tests that fakes QR code scanning and exposes a flag checking whether the scanner was launched.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_MOCK_CARDBOARD_SDK_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_MOCK_CARDBOARD_SDK_H_
 

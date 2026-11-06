@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore math utilities declarations
+// summary: Declares MatrixFromTransformedPoints and the kInputCoordinatesForTransform constants used to rebuild UV transform matrices for ARCore.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_MATH_UTILS_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_MATH_UTILS_H_
 

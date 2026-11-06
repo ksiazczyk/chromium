@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardDevice implementation
+// summary: Implements the Cardboard VR device, handling WebXR session requests, supported features, and interaction with the Cardboard SDK and the Java side.
+// ---
+
 #include "device/vr/android/cardboard/cardboard_device.h"
 
 #include <utility>

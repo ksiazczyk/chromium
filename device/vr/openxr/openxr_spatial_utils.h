@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial utilities declaration
+// summary: Declares helper functions that return the supported spatial capabilities and component types for a given OpenXR instance and system.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPATIAL_UTILS_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPATIAL_UTILS_H_
 

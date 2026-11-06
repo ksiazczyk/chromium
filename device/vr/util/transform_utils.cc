@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR pose and transform conversion helpers
+// summary: Implements conversions between device mojom VRPose objects and gfx::Transform matrices, covering position, orientation and the emulated position flag.
+// ---
+
 #include "device/vr/util/transform_utils.h"
 
 #include "ui/gfx/geometry/decomposed_transform.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake OpenXR runtime API implementations
+// summary: Implements mock OpenXR runtime API functions such as swapchain, session, and frame calls that validate inputs and drive the OpenXR test helper.
+// ---
+
 #include "device/vr/openxr/test/fake_openxr_impl_api.h"
 
 #include <algorithm>

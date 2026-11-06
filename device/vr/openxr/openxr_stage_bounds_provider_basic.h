@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic OpenXR stage bounds provider declaration
+// summary: Declares the default stage bounds provider based on the core-spec bounds rect API and its extension handler factory used as a fallback.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_STAGE_BOUNDS_PROVIDER_BASIC_H_
 #define DEVICE_VR_OPENXR_OPENXR_STAGE_BOUNDS_PROVIDER_BASIC_H_
 

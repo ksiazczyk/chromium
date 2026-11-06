@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR FB hand tracker class declarations
+// summary: Declares OpenXrHandTrackerFb, an OpenXrHandController using XrHandTrackingAimStateFB, and the factory that requests the hand tracking and FB aim extensions.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_FB_OPENXR_HAND_TRACKER_FB_H_
 #define DEVICE_VR_OPENXR_FB_OPENXR_HAND_TRACKER_FB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR MSFT anchor manager implementation
+// summary: Implements spatial anchor creation, detachment, and pose lookup through the MSFT OpenXR extension for Chromium's VR device layer.
+// ---
+
 #include "device/vr/openxr/msft/openxr_anchor_manager_msft.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped OpenXR object wrapper
+// summary: Defines a RAII template wrapper that ensures OpenXR handles are properly destroyed via runtime function pointers obtained through the extension helper.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_SCOPED_OPENXR_OBJECT_H_
 #define DEVICE_VR_OPENXR_SCOPED_OPENXR_OBJECT_H_
 

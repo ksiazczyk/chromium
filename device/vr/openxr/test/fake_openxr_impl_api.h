@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the fake OpenXR implementation API
+// summary: Declares GetMockXrGetInstanceProcAddr, which returns the entry point of the mock OpenXR implementation for tests.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_TEST_FAKE_OPENXR_IMPL_API_H_
 #define DEVICE_VR_OPENXR_TEST_FAKE_OPENXR_IMPL_API_H_
 

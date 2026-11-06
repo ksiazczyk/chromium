@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR pose and transform conversion declarations
+// summary: Declares VrPoseToTransform and GfxTransformToVrPose for converting between VR pose data and gfx transform matrices.
+// ---
+
 #ifndef DEVICE_VR_UTIL_TRANSFORM_UTILS_H_
 #define DEVICE_VR_UTIL_TRANSFORM_UTILS_H_
 

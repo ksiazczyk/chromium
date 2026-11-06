@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore math utilities implementation
+// summary: Implements MatrixFromTransformedPoints, which reconstructs a UV coordinate transform matrix from transformed well-known input points for ARCore camera image rendering.
+// ---
+
 #include "device/vr/android/arcore/arcore_math_utils.h"
 
 #include "base/check_op.h"

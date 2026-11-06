@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR visibility mask handler implementation
+// summary: Implements the visibility mask handler that queries, caches, and updates OpenXR KHR visibility masks per view configuration and view index, reacting to change events.
+// ---
+
 #include "device/vr/openxr/openxr_visibility_mask_handler.h"
 
 #include <algorithm>

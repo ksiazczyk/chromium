@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Gamepad builder class declaration
+// summary: Declares GamepadBuilder and its ButtonData helper for constructing XR gamepad reports with buttons, axes, and validity checks.
+// ---
+
 #ifndef DEVICE_VR_UTIL_GAMEPAD_BUILDER_H_
 #define DEVICE_VR_UTIL_GAMEPAD_BUILDER_H_
 

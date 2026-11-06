@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Android mesh manager implementation
+// summary: Implements Android scene mesh detection, fetching XR_ANDROID scene meshing snapshots and converting submesh geometry into Mojo mesh data.
+// ---
+
 #include "device/vr/openxr/android/openxr_mesh_manager_android.h"
 
 #include <limits>

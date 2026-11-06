@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake orientation sensor class declaration
+// summary: Declares FakeOrientationSensor, a fake mojom::Sensor implementation with stubbed sensor methods used by VR tests.
+// ---
+
 #ifndef DEVICE_VR_TEST_FAKE_ORIENTATION_PROVIDER_H_
 #define DEVICE_VR_TEST_FAKE_ORIENTATION_PROVIDER_H_
 
