@@ -1,0 +1,4 @@
+# Docerion header of persist_tab_context_state_agent_unittest.mm.
+type: test
+title: Persist tab context state agent unit tests
+summary: Unit tests verifying that the state agent's callback fires on background and foreground activation changes, repeats across transitions, and is not called when the level stays the same.

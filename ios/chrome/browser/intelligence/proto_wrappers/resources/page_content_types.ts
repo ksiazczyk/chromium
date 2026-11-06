@@ -12,6 +12,12 @@
 
 // Definitions from mojo/public/mojom/base/unguessable_token.mojom
 
+// ---docerion
+// type: source
+// title: TypeScript types for annotated page content Mojo structures
+// summary: Defines TypeScript interfaces and enums mirroring ai_page_content.mojom so annotated page content can be conveyed between the renderer and the browser over IPC.
+// ---
+
 // TODO(crbug.com/473752555): Serialize the UnguessableToken as a 2 numbers
 // struct instead of a string to use less bandwidth.
 //

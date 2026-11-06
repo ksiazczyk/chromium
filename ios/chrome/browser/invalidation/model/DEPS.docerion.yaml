@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the invalidation model directory
+summary: Declares directory include rules allowing dependencies on the iOS Chrome GCM and signin model directories.

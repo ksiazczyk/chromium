@@ -1,0 +1,4 @@
+# Docerion header of autofill_data_extraction_utils.mm.
+type: source
+title: Autofill data extraction utilities implementation
+summary: Implements autofill redaction logic that classifies field types for payments, OTP, and non-sensitive data during APC extraction.

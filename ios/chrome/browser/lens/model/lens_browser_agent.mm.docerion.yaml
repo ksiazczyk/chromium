@@ -1,0 +1,4 @@
+# Docerion header of lens_browser_agent.mm.
+type: source
+title: Lens browser agent implementation
+summary: Implements checks for supported Lens camera results URLs and dispatches commands to reopen the Lens camera experience.

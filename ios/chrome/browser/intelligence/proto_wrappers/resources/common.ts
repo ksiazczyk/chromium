@@ -4,6 +4,12 @@
 
 // Common things used by the page context extraction scripts.
 
+// ---docerion
+// type: source
+// title: Shared constants and helpers for page context extraction
+// summary: Defines shared constants such as response and node depth limits, the processing nonce attribute, and remote frame token registration used by the extraction scripts.
+// ---
+
 import {registerChildFrame} from '//components/autofill/ios/form_util/resources/child_frame_registration_lib.js';
 
 export const NONCE_ATTR = 'data-__gCrWeb-annotatedPageContent-processed';

@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_feature.mm.
+type: source
+title: Page action menu feature model
+summary: Implements the PageActionMenuFeature class that models a menu feature with type, title, icon, action type, toggle state and permission setting.

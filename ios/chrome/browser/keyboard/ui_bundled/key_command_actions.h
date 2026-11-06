@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key command actions protocol
+// summary: Declares the optional keyCommand_xxx action methods that implementors handle for Chrome keyboard commands, with UMA recording guidance.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_KEYBOARD_UI_BUNDLED_KEY_COMMAND_ACTIONS_H_
 #define IOS_CHROME_BROWSER_KEYBOARD_UI_BUNDLED_KEY_COMMAND_ACTIONS_H_
 

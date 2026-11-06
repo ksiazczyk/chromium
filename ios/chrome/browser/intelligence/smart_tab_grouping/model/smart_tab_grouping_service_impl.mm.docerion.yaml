@@ -1,0 +1,4 @@
+# Docerion header of smart_tab_grouping_service_impl.mm.
+type: source
+title: SmartTabGroupingServiceImpl implementation
+summary: Implements the smart tab grouping service, building request protos from the WebStateList and executing them through the Optimization Guide with a 15 second timeout.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for proto_wrappers
+summary: Sets include rules allowing snapshot tab helper access and web find-in-page internals for page_context_wrapper files.

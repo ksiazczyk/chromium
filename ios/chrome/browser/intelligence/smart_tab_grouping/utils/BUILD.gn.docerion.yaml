@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for smart tab grouping utils
+summary: Defines the utils source_set with the smart tab grouping utility sources and their build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of page_content_cache_service_factory.mm.
+type: source
+title: Page content cache service factory implementation
+summary: Implements the PageContentCacheService factory, building per-profile services with OS encryption, a cache database directory and a TTL from preferences.

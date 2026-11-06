@@ -1,0 +1,4 @@
+# Docerion header of lens_tab_helper_unittest.mm.
+type: test
+title: Lens tab helper unit tests
+summary: Tests that Lens action URLs for the web search bar, translate onebox and image search open the correct Lens entry points.

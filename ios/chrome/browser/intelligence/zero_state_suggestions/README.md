@@ -1,3 +1,13 @@
+---
+type: readme
+title: Zero-State Suggestions Component
+summary: Documents the architecture, execution and data flow, design highlights, and file responsibilities of the zero-state suggestions component in Chrome for iOS.
+relations:
+  - documents /ios/chrome/browser/intelligence/zero_state_suggestions/model/model_led_suggestions_service_impl_unittest.mm
+  - documents /ios/chrome/browser/intelligence/zero_state_suggestions/model/model_led_suggestions_service_impl.h
+  - documents /ios/chrome/browser/intelligence/zero_state_suggestions/model/model_led_suggestions_service_impl.mm
+---
+
 # Zero-State Suggestions Component
 
 The **Zero-State Suggestions** module provides contextual prompt suggestions (such as query chips or Gemini command shortcuts) for a given web state in Chrome for iOS. It serves as an asynchronous bridge between iOS navigation events, Mojo IPC interfaces, and the Chromium Optimization Guide backend.

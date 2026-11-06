@@ -1,0 +1,4 @@
+# Docerion header of menu_builder_unittest.mm.
+type: test
+title: MenuBuilder unit tests
+summary: Unit tests using a fake UIMenuBuilder implementation to verify that the main menu is built only for the main menu system.

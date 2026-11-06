@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens entrypoint enum
+// summary: Defines the LensEntrypoint enum listing all Lens entry points on iOS plus a histogram name constant.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_UI_BUNDLED_LENS_ENTRYPOINT_H_
 #define IOS_CHROME_BROWSER_LENS_UI_BUNDLED_LENS_ENTRYPOINT_H_
 

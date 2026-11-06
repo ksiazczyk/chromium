@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the model folder
+summary: Restricts includes in this directory to the optimization guide model and mojom folders.

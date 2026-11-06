@@ -1,0 +1,4 @@
+# Docerion header of smart_tab_grouping_utils.mm.
+type: source
+title: Smart tab grouping utils implementation
+summary: Implements applying smart tab group suggestions by ungrouping existing tabs and creating new groups with emoji titles and rotating colors from the response proto.

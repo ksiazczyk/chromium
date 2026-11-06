@@ -1,0 +1,4 @@
+# Docerion header of annotated_page_content_extraction_utils.mm.
+type: source
+title: Annotated page content extraction utilities implementation
+summary: Implements conversion of annotated page content JSON into APC proto nodes, handling geometry, frames, selection, interaction info, and autofill details.

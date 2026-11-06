@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_feature_unittest.mm.
+type: test
+title: Page action menu feature unit tests
+summary: Verifies initialization defaults and setter behavior of the PageActionMenuFeature model class.

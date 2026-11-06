@@ -1,0 +1,4 @@
+# Docerion header of gemini_zero_state_view_controller.mm.
+type: source
+title: Gemini zero-state view controller implementation
+summary: Implements the zero-state UI with a gradient Gemini logo, personalized greeting label, and a stack of tappable suggestion chips.

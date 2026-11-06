@@ -1,0 +1,4 @@
+# Docerion header of education_eligibility_vertical.mm.
+type: source
+title: Education eligibility vertical implementation
+summary: Implements education eligibility scoring with taxonomy prefix matching, academic entity MID checks, and fused word and heading content scores.

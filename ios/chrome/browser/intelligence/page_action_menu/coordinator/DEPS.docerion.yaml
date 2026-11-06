@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page action menu coordinator
+summary: Lists the headers and modules that the page action menu coordinator directory is allowed to include.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the smart tab grouping model
+summary: Restricts the directory's allowed includes to proto wrappers, optimization guide, signin identity manager, and mojo proto wrapper headers.

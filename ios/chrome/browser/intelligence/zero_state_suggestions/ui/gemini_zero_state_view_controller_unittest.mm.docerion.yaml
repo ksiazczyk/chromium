@@ -1,0 +1,4 @@
+# Docerion header of gemini_zero_state_view_controller_unittest.mm.
+type: test
+title: Gemini zero-state view controller unit tests
+summary: Unit tests for the zero-state view controller covering initialization, view loading, and creating or updating suggestion chip buttons.

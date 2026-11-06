@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language model manager factory unit tests
+// summary: Verifies that Incognito profiles share the language model manager of their original profile.
+// ---
+
 #include "ios/chrome/browser/language/model/language_model_manager_factory.h"
 
 #include "ios/chrome/browser/shared/model/profile/test/test_profile_ios.h"

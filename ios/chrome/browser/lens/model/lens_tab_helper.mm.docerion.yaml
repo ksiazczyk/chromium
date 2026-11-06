@@ -1,0 +1,4 @@
+# Docerion header of lens_tab_helper.mm.
+type: source
+title: Lens tab helper implementation
+summary: Handles Lens action URL navigation by mapping action paths to entry points and opening the Lens input selection UI.

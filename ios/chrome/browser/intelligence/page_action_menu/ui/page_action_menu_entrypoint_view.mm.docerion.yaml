@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_entrypoint_view.mm.
+type: source
+title: Page Action Menu entry point view implementation
+summary: Implements the entry point button with background view, new feature badge, shadow, accessibility, and highlight animations.

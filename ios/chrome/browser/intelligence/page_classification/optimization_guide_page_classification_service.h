@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide page classification service header
+// summary: Declares the profile-scoped PageClassificationService implementation that classifies pages using OptimizationGuide metadata, DOM heuristics, and commerce signals.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_OPTIMIZATION_GUIDE_PAGE_CLASSIFICATION_SERVICE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PAGE_CLASSIFICATION_OPTIMIZATION_GUIDE_PAGE_CLASSIFICATION_SERVICE_H_
 

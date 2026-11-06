@@ -1,0 +1,4 @@
+# Docerion header of page_classification_service_factory_unittest.mm.
+type: test
+title: Page classification service factory unit tests
+summary: Tests that the factory creates a service for standard profiles and returns null for off-the-record profiles.

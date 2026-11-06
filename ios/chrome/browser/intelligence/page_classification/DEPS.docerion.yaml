@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page classification include rules
+summary: Declares the allowed include directories for the page_classification directory, covering commerce, page content annotations, and optimization guide code.

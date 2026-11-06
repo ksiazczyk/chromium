@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL language histogram factory implementation
+// summary: Implements the profile-keyed factory that builds a UrlLanguageHistogram service and registers its profile preferences.
+// ---
+
 #include "ios/chrome/browser/language/model/url_language_histogram_factory.h"
 
 #include "components/language/core/browser/url_language_histogram.h"

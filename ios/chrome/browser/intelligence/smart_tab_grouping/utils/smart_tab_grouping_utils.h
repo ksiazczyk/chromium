@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart tab grouping utils header
+// summary: Declares ApplySmartTabGroupResponse, which applies smart tab group suggestions from an Optimization Guide response proto to a WebStateList.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_SMART_TAB_GROUPING_UTILS_SMART_TAB_GROUPING_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_SMART_TAB_GROUPING_UTILS_SMART_TAB_GROUPING_UTILS_H_
 

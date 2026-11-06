@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test setup for DOM node ID functionality
+// summary: Registers the node ID lookup and creation functions as a gCrWeb API to set up the JavaScript test environment for the DOM node ID library.
+// ---
+
 import {getNodeById, getOrCreateNodeId} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/dom_node_ids.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 

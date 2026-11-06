@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context extractor entry point
+// summary: Registers a gCrWeb API that extracts page context, including shadow DOM text and same- or cross-origin frame data, in a clobbering-safe way for the native side.
+// ---
+
 import {extractAnnotatedPageContent} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/annotated_page_content_extraction.js';
 import {getRemoteFrameRemoteToken, MAX_APC_NODE_DEPTH, MAX_APC_RESPONSE_DEPTH, NONCE_ATTR} from '//ios/chrome/browser/intelligence/proto_wrappers/resources/common.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';

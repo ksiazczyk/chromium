@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context extractor JavaScript feature header
+// summary: Declares a JavaScript feature that extracts page context from frame content, traversing same-origin iframes to build a tree consumable by PageContextWrapper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_PAGE_CONTEXT_EXTRACTOR_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_PROTO_WRAPPERS_PAGE_CONTEXT_EXTRACTOR_JAVA_SCRIPT_FEATURE_H_
 

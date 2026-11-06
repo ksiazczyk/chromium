@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_content_entry_point_unittest.mm.
+type: test
+title: Page Action Menu content entry point unit tests
+summary: Unit tests for the content entry point model, covering initialization and the Gemini and Lens factory methods.

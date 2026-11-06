@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Lens model include dependency rules
+summary: Restricts allowed includes for the Lens model directory and permits lens_entrypoint.h for the .mm implementations.

@@ -1,0 +1,4 @@
+# Docerion header of user_activity_compatibility_util_unittest.mm.
+type: test
+title: User activity compatibility utility unit tests
+summary: Unit tests verifying ProceedWithUserActivity results when incognito mode is forced or disabled through managed policy.

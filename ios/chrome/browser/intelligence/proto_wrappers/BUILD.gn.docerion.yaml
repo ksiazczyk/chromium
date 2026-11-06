@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for proto_wrappers
+summary: Defines GN build targets compiling TypeScript page content resources and Objective-C++ source sets for the page context extractor and proto wrappers.

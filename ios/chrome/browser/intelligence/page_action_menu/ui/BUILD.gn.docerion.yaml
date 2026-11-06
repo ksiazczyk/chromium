@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page Action Menu UI GN build definition
+summary: Defines the GN source_set for the page action menu UI and its unit test target, listing sources and dependencies.

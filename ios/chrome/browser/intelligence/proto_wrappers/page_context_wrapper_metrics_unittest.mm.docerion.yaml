@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_metrics_unittest.mm.
+type: test
+title: PageContextWrapperMetrics unit tests
+summary: Unit tests verifying PageContextWrapperMetrics histogram logging for overall and subtask latencies across completion statuses.

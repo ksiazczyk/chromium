@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper.mm.
+type: source
+title: PageContextWrapper implementation
+summary: Implements asynchronous population of PageContext protos, coordinating JavaScript extraction, screenshots, frame grafting, timeouts and detach handling.

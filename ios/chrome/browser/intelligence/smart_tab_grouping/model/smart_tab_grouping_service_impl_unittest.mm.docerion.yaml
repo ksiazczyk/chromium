@@ -1,0 +1,4 @@
+# Docerion header of smart_tab_grouping_service_impl_unittest.mm.
+type: test
+title: SmartTabGroupingServiceImpl unit tests
+summary: Tests the smart tab grouping service using a fake Optimization Guide service, test profile, fake web states, and identity manager test utilities.

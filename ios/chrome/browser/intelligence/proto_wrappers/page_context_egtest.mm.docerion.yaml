@@ -1,0 +1,4 @@
+# Docerion header of page_context_egtest.mm.
+type: test
+title: Page context Earl Grey tests for large link pages
+summary: Earl Grey UI test verifying page context (APC) extraction on pages with tens of thousands of links across rich and actionable extraction modes.

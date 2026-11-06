@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Lens feature flag definitions
+summary: Defines the Lens feature flags declared in features.h, all disabled by default.

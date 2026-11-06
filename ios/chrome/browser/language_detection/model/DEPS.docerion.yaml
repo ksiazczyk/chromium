@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language detection model
+summary: Sets the allowed include rules for the directory, permitting language detection iOS browser and optimization guide model headers.

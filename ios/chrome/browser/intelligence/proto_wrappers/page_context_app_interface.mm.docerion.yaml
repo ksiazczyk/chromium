@@ -1,0 +1,4 @@
+# Docerion header of page_context_app_interface.mm.
+type: test
+title: App interface implementation for fetching page context in tests
+summary: Implements the test app interface that builds a PageContextWrapper, waits for the annotated page content result, and returns it as serialized data.

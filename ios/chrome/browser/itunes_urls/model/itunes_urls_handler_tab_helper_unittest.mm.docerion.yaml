@@ -1,0 +1,4 @@
+# Docerion header of itunes_urls_handler_tab_helper_unittest.mm.
+type: test
+title: ITunesUrlsHandlerTabHelper unit tests
+summary: Unit tests verifying that StoreKit launches for valid iTunes URLs in main-frame, non-off-the-record navigation and does not for iframes or non-matching URLs.

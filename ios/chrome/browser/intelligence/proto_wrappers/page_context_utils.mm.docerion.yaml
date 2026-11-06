@@ -1,0 +1,4 @@
+# Docerion header of page_context_utils.mm.
+type: source
+title: Page context utility functions implementation
+summary: Implements page context extractability checks based on URL scheme and MIME type, plus deserialization of frame IDs into local and remote frame tokens.

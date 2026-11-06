@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_metrics.mm.
+type: source
+title: PageContextWrapperMetrics implementation
+summary: Implements PageContextWrapperMetrics, mapping tasks and statuses to IOS.PageContext latency histograms and logging AnnotatedPageContent sizes.

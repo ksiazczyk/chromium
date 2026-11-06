@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for language model services
+summary: Defines the model source set and unit_tests target for the iOS language service factories along with their dependencies.

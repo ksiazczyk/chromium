@@ -1,0 +1,4 @@
+# Docerion header of ai_hub_metrics.mm.
+type: source
+title: AI hub and page action menu metrics implementation
+summary: Implements UMA histogram recording for AI hub actions and page action menu feature rows and footer reasons.

@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_config_unittest.mm.
+type: test
+title: PageContextWrapperConfig unit tests
+summary: Unit tests verifying PageContextWrapperConfigBuilder defaults, feature flag behavior, and setter overrides.

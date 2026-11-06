@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensTabHelper header
+// summary: Header declaring a per-tab helper that intercepts navigations to Lens action links and opens the Lens UI via the registered commands handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_MODEL_LENS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_LENS_MODEL_LENS_TAB_HELPER_H_
 

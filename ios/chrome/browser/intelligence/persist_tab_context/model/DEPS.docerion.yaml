@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for persist tab context model
+summary: Specifies the directories that files in the persist tab context model directory are allowed to include from.

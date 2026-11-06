@@ -1,0 +1,4 @@
+# Docerion header of ios_smart_tab_grouping_request_wrapper.mm.
+type: source
+title: IosSmartTabGroupingRequestWrapper implementation populating request protos
+summary: Implements asynchronous population of the smart tab grouping request proto with tab metadata and page contexts from persistence or PageContextWrapper.

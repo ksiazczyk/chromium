@@ -1,0 +1,4 @@
+# Docerion header of shopping_eligibility_vertical.mm.
+type: source
+title: Shopping eligibility vertical implementation
+summary: Implements shopping eligibility evaluation by checking cached product info and asynchronously verifying shopping pages before fetching product details.

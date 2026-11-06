@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_mediator_unittest.mm.
+type: test
+title: Page action menu mediator unit tests
+summary: Unit tests for the page action menu mediator using fake services and profiles to verify feature rows, permissions and Gemini eligibility.

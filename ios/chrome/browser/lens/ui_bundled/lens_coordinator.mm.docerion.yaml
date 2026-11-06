@@ -1,0 +1,4 @@
+# Docerion header of lens_coordinator.mm.
+type: source
+title: Lens coordinator implementation
+summary: Implements Lens presentation, entry point handling, feature engagement, and web navigation for Lens on iOS.

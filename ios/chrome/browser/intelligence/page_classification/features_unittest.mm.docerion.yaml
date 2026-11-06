@@ -1,0 +1,4 @@
+# Docerion header of features_unittest.mm.
+type: test
+title: Page classification features unit tests
+summary: Tests parsing of the page classification feature parameters such as classification mode, on-device classifier, GPU execution, and title-and-URL-only settings.

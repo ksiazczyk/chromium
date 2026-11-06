@@ -1,0 +1,4 @@
+# Docerion header of UIKeyCommand+ChromeTest.mm.
+type: source
+title: UIKeyCommand Chrome unit tests
+summary: Unit tests verifying that the keyboard command factories create commands with the expected key inputs, modifiers, titles, and actions.

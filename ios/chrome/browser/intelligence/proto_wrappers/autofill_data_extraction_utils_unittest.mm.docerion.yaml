@@ -1,0 +1,4 @@
+# Docerion header of autofill_data_extraction_utils_unittest.mm.
+type: test
+title: Unit tests for autofill data extraction utilities
+summary: Unit tests checking redaction reasons for credit card, OTP, and normal autofill fields and their conversion to APC proto decisions.

@@ -1,0 +1,4 @@
+# Docerion header of intents_constants.mm.
+type: source
+title: Definitions of shortcut and Siri constants
+summary: Defines the NSString values backing the app shortcut and Siri shortcut NSUserActivity constants declared in the header.

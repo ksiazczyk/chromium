@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for persist tab context metrics
+summary: Defines the metrics source_set target listing the persist tab context metrics sources and its dependency on //base.

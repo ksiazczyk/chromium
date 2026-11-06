@@ -6,6 +6,12 @@
  * Library for generating and caching unique IDs for DOM nodes.
  */
 
+// ---docerion
+// type: source
+// title: DOM node ID generation and caching library
+// summary: Generates, caches and looks up unique numeric IDs for DOM nodes per window, using weak references and a finalization registry to avoid retaining nodes.
+// ---
+
 import {getOrCreateUniqueNodeId, hasUniqueNodeId, safeOwnerDocument} from '//components/autofill/ios/form_util/resources/unique_node_id.js';
 
 const DOM_NODE_ID_MANAGER_SYMBOL = Symbol.for('__gCrWebDomNodeIdManager');

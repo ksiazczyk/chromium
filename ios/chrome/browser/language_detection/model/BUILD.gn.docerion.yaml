@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for language detection model
+summary: Defines the model source set for the iOS language detection factory files and lists its base, components, and iOS Chrome dependencies.

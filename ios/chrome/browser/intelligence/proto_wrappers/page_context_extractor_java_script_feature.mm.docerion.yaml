@@ -1,0 +1,4 @@
+# Docerion header of page_context_extractor_java_script_feature.mm.
+type: source
+title: Page context extractor JavaScript feature implementation
+summary: Implements the page context extractor JavaScript feature, injecting the extraction script with placeholder replacements and parsing JSON results off the main thread.

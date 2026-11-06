@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for proto_wrappers
+summary: Lists the Chromium committers responsible for reviewing changes in the proto_wrappers directory.

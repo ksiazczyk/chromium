@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Lens UI bundled
+summary: Lists the headers and model directories that this Lens UI directory is allowed to include from.

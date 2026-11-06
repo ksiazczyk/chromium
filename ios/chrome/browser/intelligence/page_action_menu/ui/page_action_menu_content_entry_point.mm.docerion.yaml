@@ -1,0 +1,4 @@
+# Docerion header of page_action_menu_content_entry_point.mm.
+type: source
+title: Page Action Menu content entry point implementation
+summary: Implements the content entry point model and factory methods for Gemini and Lens unavailability footer items.
