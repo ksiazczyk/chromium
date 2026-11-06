@@ -1,0 +1,4 @@
+# Docerion header of audio.sb.
+type: config
+title: Audio process macOS sandbox profile
+summary: Seatbelt profile granting the audio process access to audio devices, plugins, microphone, and macOS audio services.

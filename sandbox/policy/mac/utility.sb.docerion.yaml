@@ -1,0 +1,4 @@
+# Docerion header of utility.sb.
+type: config
+title: Utility process sandbox profile
+summary: Sandbox profile for the macOS utility process, locking everything down except one configurable directory for filesystem operations.

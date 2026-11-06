@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sandbox policy include rules
+summary: Specifies the allowed include rules for code in the sandbox policy directory, covering media, printing, sandbox, and screen AI buildflags.

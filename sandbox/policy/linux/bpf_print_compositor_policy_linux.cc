@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print compositor process BPF sandbox policy implementation
+// summary: Implements the print compositor process syscall filter, restricting ioctl and allowing a small syscall set while defaulting to the base policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_print_compositor_policy_linux.h"
 
 #include <errno.h>

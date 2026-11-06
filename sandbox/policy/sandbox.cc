@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox initialization implementation
+// summary: Implements cross-platform sandbox initialization and the IsProcessSandboxed check, dispatching to the Linux, Windows, Android, and other platform mechanisms.
+// ---
+
 #include "sandbox/policy/sandbox.h"
 
 #include "base/command_line.h"

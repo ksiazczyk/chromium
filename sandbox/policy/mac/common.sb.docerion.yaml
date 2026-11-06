@@ -1,0 +1,4 @@
+# Docerion header of common.sb.
+type: config
+title: Common macOS sandbox profile definitions
+summary: Shared seatbelt profile defining parameters, constants, and helper functions reused by the other Mac sandbox profiles.

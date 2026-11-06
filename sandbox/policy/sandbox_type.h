@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox type helper declarations
+// summary: Declares exported functions to detect, set, and convert sandbox types on command lines.
+// ---
+
 #ifndef SANDBOX_POLICY_SANDBOX_TYPE_H_
 #define SANDBOX_POLICY_SANDBOX_TYPE_H_
 

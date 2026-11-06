@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeatbeltExtension class implementation
+// summary: Implements issuing, consuming, and revoking macOS Seatbelt sandbox extensions via the private libsandbox extension API.
+// ---
+
 #include "sandbox/mac/seatbelt_extension.h"
 
 #include <ostream>

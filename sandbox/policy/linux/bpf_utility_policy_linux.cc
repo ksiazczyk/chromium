@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process BPF sandbox policy implementation
+// summary: Implements the seccomp-BPF policy for utility processes, restricting ioctl and prlimit64 and allowing a small set of extra syscalls on top of the baseline.
+// ---
+
 #include "sandbox/policy/linux/bpf_utility_policy_linux.h"
 
 #include <errno.h>

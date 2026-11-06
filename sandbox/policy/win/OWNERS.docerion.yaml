@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating review ownership to sandbox/win
+summary: Delegates code review ownership for the sandbox/policy/win directory to the owners of sandbox/win.

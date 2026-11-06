@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox debug handling
+// summary: Sets the process as non-dumpable and installs a SIGUSR2 chroot signal handler used for sandbox crash testing when debugging is enabled.
+// ---
+
 #include "sandbox/policy/linux/sandbox_debug_handling_linux.h"
 
 #include <errno.h>

@@ -1,0 +1,4 @@
+# Docerion header of on_device_model_execution.sb.
+type: config
+title: On-device model execution sandbox profile for macOS
+summary: Seatbelt policy for the on-device model execution service, granting GPU, Metal compiler, sysctl, preference and shared memory access needed for on-device AI workloads.

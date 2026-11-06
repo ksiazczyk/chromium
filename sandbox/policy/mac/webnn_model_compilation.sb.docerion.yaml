@@ -1,0 +1,4 @@
+# Docerion header of webnn_model_compilation.sb.
+type: config
+title: WebNN model compilation sandbox profile
+summary: Sandbox profile allowing the WebNN compiler process temporary directory access for CoreML compiled model files while protecting the copied output.

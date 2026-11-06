@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process BPF sandbox policy header
+// summary: Declares UtilityProcessPolicy, the seccomp-BPF syscall policy that can be used by Chromium utility processes.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_UTILITY_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_UTILITY_POLICY_LINUX_H_
 

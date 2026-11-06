@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sandbox policy BUILD.gn build file
+summary: Defines the GN targets for the sandbox policy component, listing core sources plus platform-specific Linux and Android seccomp-BPF policy files and dependencies.

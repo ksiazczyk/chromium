@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox type implementation
+// summary: Implements mapping between sandbox types and command-line switches, including per-platform sandbox type values for Chromium processes.
+// ---
+
 #include "sandbox/policy/sandbox_type.h"
 
 #include <string>

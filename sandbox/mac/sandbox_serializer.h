@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy serializer interface
+// summary: Declares the SandboxSerializer class for building, serializing, deserializing and applying sandbox policies.
+// ---
+
 #ifndef SANDBOX_MAC_SANDBOX_SERIALIZER_H_
 #define SANDBOX_MAC_SANDBOX_SERIALIZER_H_
 

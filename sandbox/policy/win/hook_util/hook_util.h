@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IATHook class declaration
+// summary: Declares the sandbox::policy IATHook class for intercepting and restoring functions in a module's import address table.
+// ---
+
 #ifndef SANDBOX_POLICY_WIN_HOOK_UTIL_HOOK_UTIL_H_
 #define SANDBOX_POLICY_WIN_HOOK_UTIL_HOOK_UTIL_H_
 

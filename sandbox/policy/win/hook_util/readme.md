@@ -1,3 +1,9 @@
+---
+type: readme
+title: IATHook
+summary: Describes the IATHook helper for hooking loaded DLLs via their import address tables and its early-startup constraints.
+---
+
 # IATHook
 
 This directory contains a helper, IATHook, that allows placement

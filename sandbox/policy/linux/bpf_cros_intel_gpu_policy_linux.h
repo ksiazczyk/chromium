@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS Intel GPU process sandbox policy header
+// summary: Declares CrosIntelGpuProcessPolicy, a seccomp-BPF sandbox policy class for GPU processes on Chrome OS devices with Intel GPUs.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_CROS_INTEL_GPU_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_CROS_INTEL_GPU_POLICY_LINUX_H_
 

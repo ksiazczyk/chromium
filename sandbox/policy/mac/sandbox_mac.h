@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS sandbox profile helper declarations
+// summary: Header declaring helpers to canonicalize paths, return the seatbelt profile string for a sandbox type, and decide whether a compiled policy can be cached across processes.
+// ---
+
 #ifndef SANDBOX_POLICY_MAC_SANDBOX_MAC_H_
 #define SANDBOX_POLICY_MAC_SANDBOX_MAC_H_
 

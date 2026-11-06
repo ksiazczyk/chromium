@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox policy header
+// summary: Declares the SandboxWin class for starting sandboxed processes and generating policies, plus SandboxLaunchTimer for recording launch timing histograms.
+// ---
+
 #ifndef SANDBOX_POLICY_WIN_SANDBOX_WIN_H_
 #define SANDBOX_POLICY_WIN_SANDBOX_WIN_H_
 

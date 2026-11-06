@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process sandbox policy header
+// summary: Declares the GpuProcessPolicy seccomp-BPF class for GPU processes, including the MremapPolicy option that controls mremap handling.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_GPU_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_GPU_POLICY_LINUX_H_
 

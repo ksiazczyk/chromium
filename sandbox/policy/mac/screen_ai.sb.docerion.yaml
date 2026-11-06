@@ -1,0 +1,4 @@
+# Docerion header of screen_ai.sb.
+type: config
+title: Screen AI sandbox profile for macOS
+summary: Seatbelt policy for the ScreenAI service, allowing reads of the ScreenAI component binary path supplied as a sandbox parameter.

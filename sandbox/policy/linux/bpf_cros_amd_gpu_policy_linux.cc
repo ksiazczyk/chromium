@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS AMD GPU process seccomp-BPF policy implementation
+// summary: Implements CrosAmdGpuProcessPolicy, extending the generic GPU policy with AMD-specific allowances such as restricted kcmp and AF_UNIX-only sockets.
+// ---
+
 #include "sandbox/policy/linux/bpf_cros_amd_gpu_policy_linux.h"
 
 #include <errno.h>

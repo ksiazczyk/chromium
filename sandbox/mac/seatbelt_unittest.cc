@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seatbelt unit tests
+// summary: Unit tests for the Seatbelt wrapper covering sandbox initialization checks, ftruncate on inherited file descriptors, and process-info policy behavior.
+// ---
+
 #include "sandbox/mac/seatbelt.h"
 
 #include <errno.h>

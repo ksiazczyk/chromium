@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition process BPF sandbox policy header
+// summary: Declares SpeechRecognitionProcessPolicy, the syscall policy for the sandboxed utility process that loads the Speech On-Device API (SODA) library.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_SPEECH_RECOGNITION_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_SPEECH_RECOGNITION_POLICY_LINUX_H_
 

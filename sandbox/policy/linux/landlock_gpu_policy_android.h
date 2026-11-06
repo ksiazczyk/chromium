@@ -4,6 +4,12 @@
 
 // Landlock functions and constants.
 
+// ---docerion
+// type: source
+// title: Landlock GPU sandbox policy header for Android
+// summary: Declares ApplyLandlock for applying a Landlock sandbox policy and defines macros grouping Landlock filesystem access rights.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_LANDLOCK_GPU_POLICY_ANDROID_H_
 #define SANDBOX_POLICY_LINUX_LANDLOCK_GPU_POLICY_ANDROID_H_
 

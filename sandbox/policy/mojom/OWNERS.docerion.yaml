@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sandbox policy Mojom files
+summary: Delegates review of all .mojom files in this directory to the IPC security owners via a per-file ownership rule.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Linux sandbox policies
+summary: Delegates ownership review of the Linux sandbox policy directory to the owners of sandbox/linux.

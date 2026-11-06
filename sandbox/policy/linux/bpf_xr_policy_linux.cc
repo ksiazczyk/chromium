@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR process BPF sandbox policy implementation
+// summary: Implements the seccomp-BPF policy for the XR Device Service, extending the GPU policy with the AF_UNIX socket syscalls the OpenXR runtime needs.
+// ---
+
 #include "sandbox/policy/linux/bpf_xr_policy_linux.h"
 
 #include <errno.h>

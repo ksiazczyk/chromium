@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test base class declaration
+// summary: Declares the SandboxTest base class for multiprocess sandbox tests, with helpers to spawn children and modify their command lines.
+// ---
+
 #ifndef SANDBOX_MAC_SANDBOX_TEST_H_
 #define SANDBOX_MAC_SANDBOX_TEST_H_
 

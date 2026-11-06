@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Landlock GPU sandbox policy for Android
+// summary: Implements the Landlock filesystem sandbox for GPU processes on Android, creating rulesets and granting read-only access to required system and vendor paths.
+// ---
+
 #include "sandbox/policy/linux/landlock_gpu_policy_android.h"
 
 #include <string>

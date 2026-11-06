@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend process BPF sandbox policy implementation
+// summary: Implements EvaluateSyscall for the print backend process policy, routing syscalls through the broker and currently allowing the rest pending a stricter filter.
+// ---
+
 #include "sandbox/policy/linux/bpf_print_backend_policy_linux.h"
 
 #include "sandbox/linux/bpf_dsl/bpf_dsl.h"

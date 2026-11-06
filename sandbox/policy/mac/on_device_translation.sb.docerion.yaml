@@ -1,0 +1,4 @@
+# Docerion header of on_device_translation.sb.
+type: config
+title: On-device translation sandbox profile for macOS
+summary: Seatbelt policy for the on-device translation service, allowing reads of the TranslateKit component directory whose path is supplied as a sandbox parameter.

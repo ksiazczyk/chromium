@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Fuchsia sandbox policy
+summary: Metadata file that inherits the common Chromium directory metadata through a mixin for the Fuchsia sandbox policy folder.

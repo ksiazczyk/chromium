@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia sandbox policy implementation
+// summary: Implements the Fuchsia sandbox policy, defining per-sandbox-type service allowlists and features used when launching child processes.
+// ---
+
 #include "sandbox/policy/fuchsia/sandbox_policy_fuchsia.h"
 
 #include <fidl/fuchsia.scheduler/cpp/fidl.h>

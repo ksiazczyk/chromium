@@ -1,0 +1,4 @@
+# Docerion header of context.mojom.
+type: source
+title: Context enum for Mojo interface vending
+summary: Defines the sandbox.mojom Context enum, an ordered list of contexts used with RequireContext and AllowedContext attributes to restrict which interfaces may be vended.

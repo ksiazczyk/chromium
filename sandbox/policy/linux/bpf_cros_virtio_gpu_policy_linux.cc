@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS VirtIO GPU process sandbox policy implementation
+// summary: Implements the VirtIO GPU Chrome OS sandbox policy for virtual machines, additionally allowing sched_setscheduler and delegating other syscalls to the generic GPU policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_cros_virtio_gpu_policy_linux.h"
 
 // Define these so that unistd.h pulls in needed symbols.

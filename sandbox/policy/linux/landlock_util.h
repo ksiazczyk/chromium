@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Landlock status reporting header
+// summary: Declares ReportLandlockStatus, which reports the system's Landlock support state via UMA.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_LANDLOCK_UTIL_H_
 #define SANDBOX_POLICY_LINUX_LANDLOCK_UTIL_H_
 

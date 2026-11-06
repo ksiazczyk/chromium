@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Landlock status reporting utility
+// summary: Detects kernel Landlock support and reports its state through the Security.Sandbox.LandlockState UMA histogram.
+// ---
+
 #include "sandbox/policy/linux/landlock_util.h"
 
 #include <errno.h>

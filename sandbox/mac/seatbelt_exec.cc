@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seatbelt policy transport implementation
+// summary: Implements SeatbeltExecClient and SeatbeltExecServer, which transfer a serialized sandbox policy over a pipe between launcher and sandboxed process.
+// ---
+
 #include "sandbox/mac/seatbelt_exec.h"
 
 #include <stdint.h>

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Sandbox Policies
+summary: Explains that this directory provides concrete sandbox policies for process types and Mojo services, integrating the core sandboxing library with the content, services, and chrome layers.
+relations:
+  - references /chrome/README.md
+  - references /content/README.md
+  - references /services/README.md
+---
+
 # Sandbox Policies
 
 This directory integrates the lower-level core sandboxing library with the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox debug handling header
+// summary: Declares the SandboxDebugHandling class that sets dumpable status and sandbox debugging signal handlers.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_SANDBOX_DEBUG_HANDLING_LINUX_H_
 #define SANDBOX_POLICY_LINUX_SANDBOX_DEBUG_HANDLING_LINUX_H_
 

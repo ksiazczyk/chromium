@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox crash message implementation
+// summary: Sets a crash reporter annotation message for the sandbox without linking against //base.
+// ---
+
 #include "sandbox/mac/sandbox_crash_message.h"
 
 #include <stdint.h>

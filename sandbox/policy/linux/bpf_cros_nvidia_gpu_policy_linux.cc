@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS Nvidia GPU process sandbox policy implementation
+// summary: Implements the Nvidia GPU Chrome OS sandbox policy, additionally allowing sched_setscheduler and delegating all other syscalls to the generic GPU process policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_cros_nvidia_gpu_policy_linux.h"
 
 // Define these so that unistd.h pulls in needed symbols.

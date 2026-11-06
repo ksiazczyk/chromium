@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS VirtIO GPU process sandbox policy header
+// summary: Declares CrosVirtIoGpuProcessPolicy, a seccomp-BPF sandbox policy class for GPU processes on Chrome OS running in a virtual machine.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_CROS_VIRTIO_GPU_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_CROS_VIRTIO_GPU_POLICY_LINUX_H_
 

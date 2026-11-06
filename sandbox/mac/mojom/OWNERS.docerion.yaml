@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for sandbox/mac/mojom
+summary: Assigns IPC security owners to Mojom and Mojom traits files in this directory.

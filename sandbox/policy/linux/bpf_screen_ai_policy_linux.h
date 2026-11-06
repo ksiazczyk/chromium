@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI process BPF sandbox policy header
+// summary: Declares ScreenAIProcessPolicy, the seccomp-BPF policy for the sandboxed utility process that loads the on-device Screen AI library.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_SCREEN_AI_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_SCREEN_AI_POLICY_LINUX_H_
 

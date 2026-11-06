@@ -1,0 +1,4 @@
+# Docerion header of package_sb_file.py.
+type: script
+title: Packager converting macOS seatbelt profiles to C++ strings
+summary: Build tool that reads a seatbelt .sb profile and emits generated .h and .cc files containing the policy as an escaped C string constant in the sandbox::policy namespace.

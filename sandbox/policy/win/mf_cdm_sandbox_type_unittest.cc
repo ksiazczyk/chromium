@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation CDM sandbox type unit test
+// summary: Verifies that the Media Foundation CDM sandbox type is correctly applied to and read from a utility process command line.
+// ---
+
 #include "sandbox/policy/sandbox_type.h"
 
 #include "base/command_line.h"

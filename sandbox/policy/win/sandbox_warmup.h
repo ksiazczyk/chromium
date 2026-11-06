@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox warmup declarations
+// summary: Declares WarmupRandomnessInfrastructure and HookDwriteGetUserDefaultLCID, called in sandboxed processes before target lockdown.
+// ---
+
 #ifndef SANDBOX_POLICY_WIN_SANDBOX_WARMUP_H_
 #define SANDBOX_POLICY_WIN_SANDBOX_WARMUP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy switch definitions
+// summary: Defines command-line switch constants that control sandbox behavior, with platform-specific switches for Linux, Windows, and macOS.
+// ---
+
 #include "sandbox/policy/switches.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System services helpers implementation
+// summary: Implements helpers that disconnect a process from LaunchServices and disable the CoreServices CheckFix list when running under the sandbox.
+// ---
+
 #include "sandbox/mac/system_services.h"
 
 #include <Carbon/Carbon.h>

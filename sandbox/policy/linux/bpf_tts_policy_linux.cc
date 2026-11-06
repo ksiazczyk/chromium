@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS process BPF sandbox policy implementation
+// summary: Implements the seccomp-BPF policy for text-to-speech processes, allowing getcpu and sysinfo and delegating other syscalls to the broker and baseline policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_tts_policy_linux.h"
 
 #include <sys/socket.h>

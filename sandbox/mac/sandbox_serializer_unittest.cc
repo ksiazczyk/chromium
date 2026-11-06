@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox serializer unit tests
+// summary: Multiprocess unit tests verifying that sandbox profiles, including parameterized ones, serialize and apply correctly for source and compiled targets.
+// ---
+
 #include "sandbox/mac/sandbox_serializer.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of renderer.sb.
+type: config
+title: Renderer process sandbox profile for macOS
+summary: Seatbelt policy for renderer processes, allowing fonts, system and home directory reads, IOKit, POSIX and Mach IPC, and sysctl access used by V8 thread calculations.

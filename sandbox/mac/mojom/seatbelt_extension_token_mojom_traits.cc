@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeatbeltExtensionToken Mojom traits implementation
+// summary: Implements reading a SeatbeltExtensionToken from its Mojom data view for the typemap.
+// ---
+
 #include "sandbox/mac/mojom/seatbelt_extension_token_mojom_traits.h"
 
 namespace mojo {

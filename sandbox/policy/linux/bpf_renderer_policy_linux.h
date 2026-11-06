@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process BPF sandbox policy header
+// summary: Declares RendererProcessPolicy, the seccomp-BPF policy shared by renderer and worker processes, with Android-specific construction options.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_RENDERER_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_RENDERER_POLICY_LINUX_H_
 

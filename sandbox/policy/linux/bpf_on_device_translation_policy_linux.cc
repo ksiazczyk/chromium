@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation sandbox policy implementation
+// summary: Implements the on-device translation process policy, allowing only a specific membarrier command and delegating other syscalls to the broker or baseline policy.
+// ---
+
 #include "sandbox/policy/linux/bpf_on_device_translation_policy_linux.h"
 
 #include <sys/mman.h>

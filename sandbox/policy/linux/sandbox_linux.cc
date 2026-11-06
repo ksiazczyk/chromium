@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox core implementation
+// summary: Implements the SandboxLinux singleton that engages namespace and seccomp-BPF sandboxing layers and manages sandbox state for Linux processes.
+// ---
+
 #include "sandbox/policy/linux/sandbox_linux.h"
 
 #include <dirent.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sandbox policy OWNERS file
+summary: Sets no parent ownership and delegates code review for this directory to the owners of the parent sandbox directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeatbeltExtension class interface
+// summary: Declares the SeatbeltExtension class that lets a privileged process grant fine-grained resource access to another process's sandbox policy at run time.
+// ---
+
 #ifndef SANDBOX_MAC_SEATBELT_EXTENSION_H_
 #define SANDBOX_MAC_SEATBELT_EXTENSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Baseline seccomp-BPF policy header
+// summary: Declares BPFBasePolicy, the baseline seccomp-BPF policy that other Linux sandbox process policies inherit from.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_BASE_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_BASE_POLICY_LINUX_H_
 

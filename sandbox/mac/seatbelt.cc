@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seatbelt sandbox API wrapper implementation
+// summary: Implements the Seatbelt wrapper around the macOS sandbox C API for initializing, compiling, and applying sandbox profiles with error handling.
+// ---
+
 #include "sandbox/mac/seatbelt.h"
 
 #include <errno.h>

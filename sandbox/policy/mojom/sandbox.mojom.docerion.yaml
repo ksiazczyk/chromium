@@ -1,0 +1,4 @@
+# Docerion header of sandbox.mojom.
+type: source
+title: Sandbox enum of service sandbox types
+summary: Defines the sandbox.mojom Sandbox enum of sandbox types assigned to Mojo services via the ServiceSandbox attribute, mapped to sandbox_type.h values.

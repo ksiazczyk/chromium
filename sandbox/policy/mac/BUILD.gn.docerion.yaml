@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mac sandbox profile packaging and parameter generation build rules
+summary: Defines GN actions that package the .sb seatbelt profiles into C++ sources and generate sandbox parameter constants for the Mac sandbox policy.

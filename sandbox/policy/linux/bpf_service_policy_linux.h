@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service process BPF sandbox policy header
+// summary: Declares ServiceProcessPolicy, the seccomp-BPF syscall policy for isolated service processes such as Sharing WebRTC hosts and jitless JavaScript worklets.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_SERVICE_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_SERVICE_POLICY_LINUX_H_
 

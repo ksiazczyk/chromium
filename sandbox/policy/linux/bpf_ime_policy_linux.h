@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME process sandbox policy header
+// summary: Declares ImeProcessPolicy, the seccomp-BPF policy class applied to Linux IME processes.
+// ---
+
 #ifndef SANDBOX_POLICY_LINUX_BPF_IME_POLICY_LINUX_H_
 #define SANDBOX_POLICY_LINUX_BPF_IME_POLICY_LINUX_H_
 

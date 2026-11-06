@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy serializer implementation
+// summary: Implements building, serializing and deserializing sandbox policies in source or compiled binary form for wire transfer.
+// ---
+
 #include "sandbox/mac/sandbox_serializer.h"
 
 #include <optional>

@@ -5,6 +5,12 @@
 // This file defines all the public base::FeatureList features for the content
 // module.
 
+// ---docerion
+// type: source
+// title: Sandbox policy feature declarations
+// summary: Declares the public sandbox policy feature flags per platform and helper functions for checking network sandbox support and enablement.
+// ---
+
 #ifndef SANDBOX_POLICY_FEATURES_H_
 #define SANDBOX_POLICY_FEATURES_H_
 

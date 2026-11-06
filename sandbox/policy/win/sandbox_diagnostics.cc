@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy diagnostics receiver implementation
+// summary: Implements ServiceManagerDiagnosticsReceiver, which converts sandbox policy diagnostics to base::Value on a non-sandbox thread before responding.
+// ---
+
 #include "sandbox/policy/win/sandbox_diagnostics.h"
 
 #include <stddef.h>

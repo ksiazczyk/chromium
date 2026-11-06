@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System services helpers interface
+// summary: Declares helpers that mark a process as a LaunchServices daemon and disable the CoreServices CheckFix compatibility database.
+// ---
+
 #ifndef SANDBOX_MAC_SYSTEM_SERVICES_H_
 #define SANDBOX_MAC_SYSTEM_SERVICES_H_
 

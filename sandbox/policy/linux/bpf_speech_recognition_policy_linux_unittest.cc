@@ -16,6 +16,12 @@
 //
 // See crbug.com/502023400 for details.
 
+// ---docerion
+// type: test
+// title: Regression test for speech recognition policy mmap bypass
+// summary: Regression test verifying the speech recognition policy restricts mmap flags, guarding against a BoolExpr ternary bug that allowed unrestricted mmap calls.
+// ---
+
 #include "sandbox/policy/linux/bpf_speech_recognition_policy_linux.h"
 
 #include <errno.h>

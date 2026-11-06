@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seatbelt policy transport API
+// summary: Declares SeatbeltExecClient and SeatbeltExecServer plus the seatbelt-client switch used to pass sandbox policies to child processes.
+// ---
+
 #ifndef SANDBOX_MAC_SEATBELT_EXEC_H_
 #define SANDBOX_MAC_SEATBELT_EXEC_H_
 

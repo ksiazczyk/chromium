@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeatbeltExtensionToken class implementation
+// summary: Implements the move-only SeatbeltExtensionToken value type, including a factory that creates fake tokens for testing.
+// ---
+
 #include "sandbox/mac/seatbelt_extension_token.h"
 
 namespace sandbox {

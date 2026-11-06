@@ -1,0 +1,4 @@
+# Docerion header of network.sb.
+type: config
+title: Network service macOS sandbox profile
+summary: Seatbelt profile granting the network service socket access, DNS resolution, certificate databases, and related macOS services.
