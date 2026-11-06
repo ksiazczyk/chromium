@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MountPoints implementation
+// summary: Defines the constructors for the MountPointInfo struct that pairs a mount name with a file path for File API mount points.
+// ---
+
 #include "storage/browser/file_system/mount_points.h"
 
 namespace storage {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncFileUtilAdapter class declaration
+// summary: Declares an adapter class that wraps a synchronous FileSystemFileUtil to provide the asynchronous AsyncFileUtil interface.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_ASYNC_FILE_UTIL_ADAPTER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_ASYNC_FILE_UTIL_ADAPTER_H_
 

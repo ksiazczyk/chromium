@@ -1,3 +1,9 @@
+---
+type: reference
+title: Blob Storage Security Model
+summary: Describes the blob storage security model based on unguessable UUIDs, security boundaries, and storage partitioning considerations.
+---
+
 # Blob Storage Security Model
 
 This document describes the security model for Chrome's Blob Storage system.

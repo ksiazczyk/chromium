@@ -1,3 +1,11 @@
+---
+type: readme
+title: FileSystem API
+summary: Documents the browser-side FileSystem API implementation, covering file system types, related directories, and key classes like FileSystemContext and FileSystemURL.
+relations:
+  - references /storage/common/file_system/file_system_types.h
+---
+
 # FileSystem API
 
 This directory contains part of the browser side implementation of various

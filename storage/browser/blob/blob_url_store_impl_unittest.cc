@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob URL store unit tests
+// summary: Unit tests for BlobURLStoreImpl covering registration, revocation, resolution, bad-message reporting, and cross-partition blob URL fetching.
+// ---
+
 #include "storage/browser/blob/blob_url_store_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenFileHandleContext implementation
+// summary: Tracks the size of an underlying open file and commits its growth to the quota reservation buffer when the handle is destroyed.
+// ---
+
 #include "storage/browser/file_system/quota/open_file_handle_context.h"
 
 #include <stdint.h>

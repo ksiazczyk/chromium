@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox file stream writer declaration
+// summary: Declares SandboxFileStreamWriter, a FileStreamWriter for sandboxed filesystem files that enforces quota limits on writes.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_FILE_STREAM_WRITER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_FILE_STREAM_WRITER_H_
 

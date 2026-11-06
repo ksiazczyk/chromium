@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File permission policy enum
+// summary: Defines the FilePermissionPolicy enum with bit flags for denying access, sandboxed access, read-only access and per-file permission checks.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_PERMISSION_POLICY_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_PERMISSION_POLICY_H_
 

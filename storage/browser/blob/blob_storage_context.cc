@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobStorageContext implementation
+// summary: Implements BlobStorageContext, the central registry for building, looking up, and managing blobs and their data handles.
+// ---
+
 #include "storage/browser/blob/blob_storage_context.h"
 
 #include <inttypes.h>

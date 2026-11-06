@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobDataBuilder class declaration
+// summary: Declares the builder class for constructing blobs, with support for pending future data and file items.
+// ---
+
 
 #ifndef STORAGE_BROWSER_BLOB_BLOB_DATA_BUILDER_H_
 #define STORAGE_BROWSER_BLOB_BLOB_DATA_BUILDER_H_

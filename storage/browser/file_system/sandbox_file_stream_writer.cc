@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox file stream writer implementation
+// summary: Implements SandboxFileStreamWriter, writing to sandboxed filesystem files with quota accounting, snapshot creation and cancel support.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_stream_writer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared FileStreamReader test framework
+// summary: Provides a shared typed test framework that lets multiple FileStreamReader implementations run the same suite of read and length tests.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_READER_TEST_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_READER_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobRegistryImpl implementation
+// summary: Implements the blink.mojom.BlobRegistry Mojo interface, managing blob registration, construction from data elements, and streaming.
+// ---
+
 #include "storage/browser/blob/blob_registry_impl.h"
 
 #include <memory>

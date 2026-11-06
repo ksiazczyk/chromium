@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for FileSystem API bug tracking
+summary: Specifies the monorail component and Buganizer component ID used for issue tracking of the FileSystem API directory.

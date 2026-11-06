@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaDatabaseMigrations class declaration
+// summary: Declares the friended helper class that upgrades the SQL QuotaManager database owned by QuotaDatabase to the latest schema.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_DATABASE_MIGRATIONS_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_DATABASE_MIGRATIONS_H_
 

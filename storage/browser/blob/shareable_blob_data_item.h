@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shareable blob data item class header
+// summary: Declares ShareableBlobDataItem, which lets blob items be shared between blobs while tracking quota state, unique item IDs, and memory quota allocations.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_SHAREABLE_BLOB_DATA_ITEM_H_
 #define STORAGE_BROWSER_BLOB_SHAREABLE_BLOB_DATA_ITEM_H_
 

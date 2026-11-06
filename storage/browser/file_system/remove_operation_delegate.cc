@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveOperationDelegate implementation
+// summary: Implements removal of files and directories, recursively deleting contents through the recursive operation delegate.
+// ---
+
 #include "storage/browser/file_system/remove_operation_delegate.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory file stream reader unit tests
+// summary: Runs the shared FileStreamReader typed test suite against the memory-backed reader using an in-memory obfuscated file util delegate and a temp directory.
+// ---
+
 #include "storage/browser/file_system/memory_file_stream_reader.h"
 
 #include <stddef.h>

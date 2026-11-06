@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaReservationManager class declaration
+// summary: Declares QuotaReservationManager and its QuotaBackend abstraction for reserving, releasing, and committing file system quota per origin and type.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_RESERVATION_MANAGER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_RESERVATION_MANAGER_H_
 

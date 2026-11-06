@@ -1,0 +1,4 @@
+# Docerion header of quota_internals.mojom.
+type: source
+title: Quota internals Mojo interface definitions
+summary: Defines the BucketTableEntry struct and the QuotaInternalsHandler interface used by the quota internals WebUI page to report disk availability, eviction statistics, usage, and storage bucket entries.

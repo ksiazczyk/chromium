@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenFileHandleContext class header
+// summary: Declares OpenFileHandleContext, which keeps per-file size state used for quota consumption calculations.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_QUOTA_OPEN_FILE_HANDLE_CONTEXT_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_QUOTA_OPEN_FILE_HANDLE_CONTEXT_H_
 

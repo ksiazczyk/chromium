@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob data item implementation
+// summary: Implements BlobDataItem factory methods for bytes, files, filesystem URLs, and future files, plus a Mojo-backed DataHandle that reads blob item data.
+// ---
+
 #include "storage/browser/blob/blob_data_item.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream reader interface
+// summary: Declares the generic FileStreamReader interface for asynchronously reading file-like objects, including local file creation and length retrieval.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_READER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_STREAM_READER_H_
 

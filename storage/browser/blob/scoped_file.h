@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped file class header
+// summary: Declares ScopedFile, a movable scoped reference to a file path with optional deletion on scope out and LIFO-ordered scope-out callbacks.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_SCOPED_FILE_H_
 #define STORAGE_BROWSER_BLOB_SCOPED_FILE_H_
 

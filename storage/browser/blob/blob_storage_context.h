@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobStorageContext class header
+// summary: Declares BlobStorageContext, the per-profile browser-process class that manages blob registration, lookup, and storage logistics.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_STORAGE_CONTEXT_H_
 #define STORAGE_BROWSER_BLOB_BLOB_STORAGE_CONTEXT_H_
 

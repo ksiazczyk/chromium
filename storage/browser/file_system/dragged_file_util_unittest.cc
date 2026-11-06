@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DraggedFileUtil unit tests
+// summary: Unit tests simulating file drops from multiple directories and verifying enumeration and metadata of dragged file systems.
+// ---
+
 #include "storage/browser/file_system/dragged_file_util.h"
 
 #include <stddef.h>

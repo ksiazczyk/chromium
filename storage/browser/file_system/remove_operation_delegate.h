@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveOperationDelegate header
+// summary: Declares the delegate that removes a single file or recursively removes a directory from the file system.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_REMOVE_OPERATION_DELEGATE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_REMOVE_OPERATION_DELEGATE_H_
 

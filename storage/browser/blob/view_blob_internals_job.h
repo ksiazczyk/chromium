@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob internals viewer job declaration
+// summary: Declares a job class that generates HTML to inspect the internal state of the blob registry.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_VIEW_BLOB_INTERNALS_JOB_H_
 #define STORAGE_BROWSER_BLOB_VIEW_BLOB_INTERNALS_JOB_H_
 

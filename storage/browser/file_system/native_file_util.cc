@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native file util implementation
+// summary: Implements native OS filesystem operations such as create, copy, move, delete, touch and enumeration with the error checks required by the FileUtil family.
+// ---
+
 #include "storage/browser/file_system/native_file_util.h"
 
 #include <stdint.h>

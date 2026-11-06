@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemRequestInfo header
+// summary: Declares the FileSystemRequestInfo struct carrying the information a FileSystemURLLoaderFactory needs to mount the requested file system.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_REQUEST_INFO_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_REQUEST_INFO_H_
 

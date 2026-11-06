@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemQuotaClient unit tests
+// summary: Unit tests covering bucket usage reporting, default storage key listing, and bucket deletion in FileSystemQuotaClient using mock quota managers and test file system contexts.
+// ---
+
 #include "storage/browser/file_system/file_system_quota_client.h"
 
 #include <stdint.h>

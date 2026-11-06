@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory file stream writer implementation
+// summary: Implements asynchronous writes, cancellation and flush handling for memory-backed files via the obfuscated file util memory delegate.
+// ---
+
 #include "storage/browser/file_system/memory_file_stream_writer.h"
 
 #include <memory>

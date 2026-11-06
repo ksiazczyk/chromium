@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReader class declaration
+// summary: Declares BlobReader, the browser-process class for reading blobs on the IO thread with size calculation, range reads, and side data support.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_READER_H_
 #define STORAGE_BROWSER_BLOB_BLOB_READER_H_
 

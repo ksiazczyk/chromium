@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob to file writer declaration
+// summary: Declares WriteBlobToFile, which writes a blob to a file with optional flush and modification time and reports the result through a callback.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_WRITE_BLOB_TO_FILE_H_
 #define STORAGE_BROWSER_BLOB_WRITE_BLOB_TO_FILE_H_
 

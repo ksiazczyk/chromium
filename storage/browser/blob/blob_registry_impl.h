@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobRegistryImpl class declaration
+// summary: Declares BlobRegistryImpl, the Mojo BlobRegistry implementation with per-binding delegates for security checks and creator identity attribution.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_REGISTRY_IMPL_H_
 #define STORAGE_BROWSER_BLOB_BLOB_REGISTRY_IMPL_H_
 

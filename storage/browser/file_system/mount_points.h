@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MountPoints interface declaration
+// summary: Declares the abstract MountPoints interface for registering, revoking and cracking File API mount point URLs and virtual paths.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_MOUNT_POINTS_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_MOUNT_POINTS_H_
 

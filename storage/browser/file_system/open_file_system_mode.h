@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenFileSystemMode enum
+// summary: Defines the OpenFileSystemMode enum that controls whether opening a nonexistent file system creates it or fails.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_OPEN_FILE_SYSTEM_MODE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_OPEN_FILE_SYSTEM_MODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobStorageRegistry implementation
+// summary: Implements the UUID-keyed registry that creates, looks up, and deletes blob entries in various construction states.
+// ---
+
 #include "storage/browser/blob/blob_storage_registry.h"
 
 #include <stddef.h>

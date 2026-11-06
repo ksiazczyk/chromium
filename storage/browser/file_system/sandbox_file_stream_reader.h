@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox file stream reader declaration
+// summary: Declares SandboxFileStreamReader, a FileStreamReader for sandboxed filesystem files that wraps a local or memory reader depending on the profile.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_FILE_STREAM_READER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_SANDBOX_FILE_STREAM_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaBackendImpl implementation
+// summary: Reserves, releases and commits file system quota per origin and type via the quota manager proxy and usage cache.
+// ---
+
 #include "storage/browser/file_system/quota/quota_backend_impl.h"
 
 #include <stdint.h>

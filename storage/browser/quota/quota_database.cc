@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaDatabase implementation
+// summary: Implements the SQLite-backed quota database that stores storage bucket metadata, with schema versioning, bootstrap flags and migration support.
+// ---
+
 #include "storage/browser/quota/quota_database.h"
 
 #include <stddef.h>

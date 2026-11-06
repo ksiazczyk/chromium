@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota settings calculation
+// summary: Calculates dynamic quota settings such as pool size and per-storage-key quotas from disk space, feature parameters, and physical memory for incognito.
+// ---
+
 #include "storage/browser/quota/quota_settings.h"
 
 #include <algorithm>

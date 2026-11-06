@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxQuotaObserver implementation
+// summary: Implements file update and access observers that notify the quota manager of modifications and keep usage cache files updated for sandboxed file systems.
+// ---
+
 #include "storage/browser/file_system/sandbox_quota_observer.h"
 
 #include <stdint.h>

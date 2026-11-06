@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedContext implementation
+// summary: Implements the singleton registry of isolated filesystem mount points, registering dragged or path-based filesystems and cracking virtual paths back to real ones.
+// ---
+
 #include "storage/browser/file_system/isolated_context.h"
 
 #include <stddef.h>

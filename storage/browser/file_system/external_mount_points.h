@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalMountPoints class header
+// summary: Declares the ExternalMountPoints class that manages named external filesystem namespaces persisted until revoked, with registration, revocation and URL cracking APIs.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_EXTERNAL_MOUNT_POINTS_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_EXTERNAL_MOUNT_POINTS_H_
 

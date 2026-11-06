@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DraggedFileUtil class declaration
+// summary: Declares a specialized LocalFileUtil for dragged file systems that allows read access to the virtual root and multiple paths per isolated context.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_DRAGGED_FILE_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_DRAGGED_FILE_UTIL_H_
 

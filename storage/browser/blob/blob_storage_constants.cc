@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob storage limits and status helpers implementation
+// summary: Implements BlobStorageLimits with command-line switch overrides and helper functions that classify blob statuses as errors, pending, or bad IPC.
+// ---
+
 #include "storage/browser/blob/blob_storage_constants.h"
 
 #include <ostream>

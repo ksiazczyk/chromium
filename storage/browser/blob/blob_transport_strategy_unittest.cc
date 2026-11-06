@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobTransportStrategy unit tests
+// summary: Unit tests for blob transport strategies using mock bytes providers and test storage limits.
+// ---
+
 #include "storage/browser/blob/blob_transport_strategy.h"
 
 #include <algorithm>

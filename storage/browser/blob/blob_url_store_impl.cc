@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL store implementation
+// summary: Implements the mojo BlobURLStore for registering, revoking, and resolving blob URLs, plus the self-owning BlobURLToken implementation.
+// ---
+
 #include "storage/browser/blob/blob_url_store_impl.h"
 
 #include <algorithm>

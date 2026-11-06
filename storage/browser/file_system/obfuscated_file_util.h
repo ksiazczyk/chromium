@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscatedFileUtil class declaration
+// summary: Declares ObfuscatedFileUtil and DatabaseKey, which obfuscate virtual file paths using per-StorageKey, per-bucket and per-type directory isolation.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_OBFUSCATED_FILE_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_OBFUSCATED_FILE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaManager class declaration
+// summary: Declares QuotaManager, currently an alias for QuotaManagerImpl intended to become a Mojo interface for inter-process quota access.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_MANAGER_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_MANAGER_H_
 

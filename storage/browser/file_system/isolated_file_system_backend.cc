@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedFileSystemBackend implementation
+// summary: Implements the filesystem backend for isolated, dragged, local and transient filesystem types, wiring up file utilities, operations and URL resolution.
+// ---
+
 #include "storage/browser/file_system/isolated_file_system_backend.h"
 
 #include <stdint.h>

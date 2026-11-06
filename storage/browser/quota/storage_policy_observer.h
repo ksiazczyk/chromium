@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage policy observer interface
+// summary: Declares StoragePolicyObserver, which tracks origins and reports storage policy update deltas through a callback when policies change.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_STORAGE_POLICY_OBSERVER_H_
 #define STORAGE_BROWSER_QUOTA_STORAGE_POLICY_OBSERVER_H_
 

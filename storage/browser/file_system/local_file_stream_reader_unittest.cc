@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file stream reader unit tests
+// summary: Unit tests for LocalFileStreamReader covering reads, length queries and file access callbacks against temporary local files.
+// ---
+
 #include "storage/browser/file_system/local_file_stream_reader.h"
 
 #include <stddef.h>

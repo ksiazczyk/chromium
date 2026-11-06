@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CopyOrMoveFileValidator unit tests
+// summary: Tests copy and move behavior across file system backends that require a CopyOrMoveFileValidator, using mock quota and test file system contexts.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

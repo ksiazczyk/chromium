@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for blob storage
+summary: Points to the common metadata mixin that supplies bug tracking components for this directory.

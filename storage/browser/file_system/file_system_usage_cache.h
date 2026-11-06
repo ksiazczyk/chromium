@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemUsageCache class declaration
+// summary: Declares the FileSystemUsageCache API for reading, updating, invalidating and deleting .usage files that cache filesystem usage sizes and dirty counters.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_USAGE_CACHE_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_USAGE_CACHE_H_
 

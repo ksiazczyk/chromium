@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo blob reader class header
+// summary: Declares the self-owning MojoBlobReader class and its delegate interface for streaming blob contents into a data pipe with side data and completion callbacks.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_MOJO_BLOB_READER_H_
 #define STORAGE_BROWSER_BLOB_MOJO_BLOB_READER_H_
 

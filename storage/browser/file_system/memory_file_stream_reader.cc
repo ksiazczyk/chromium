@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory file stream reader implementation
+// summary: Implements asynchronous reads and length queries for memory-backed files through the obfuscated file util memory delegate, including snapshot modification time checks.
+// ---
+
 #include "storage/browser/file_system/memory_file_stream_reader.h"
 
 #include <memory>

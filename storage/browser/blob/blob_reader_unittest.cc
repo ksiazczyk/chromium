@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobReader unit tests
+// summary: Unit tests for BlobReader, covering blob data reads from memory and files with fake file stream readers and async task runner scenarios.
+// ---
+
 #include "storage/browser/blob/blob_reader.h"
 
 #include <stddef.h>

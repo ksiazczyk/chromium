@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFileStreamReader class declaration
+// summary: Declares LocalFileStreamReader, a thin wrapper of net::FileStream with range support for reading sliced local files.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_LOCAL_FILE_STREAM_READER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_LOCAL_FILE_STREAM_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob storage feature flag declarations
+// summary: Declares blob storage feature flags with comments explaining stateful memory pressure handling, Fetch-compliant Range validation, and cross-partition fetch blocking.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_FEATURES_H_
 #define STORAGE_BROWSER_BLOB_FEATURES_H_
 

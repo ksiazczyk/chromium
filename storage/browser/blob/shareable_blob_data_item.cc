@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shareable blob data item implementation
+// summary: Implements ShareableBlobDataItem, a ref-counted wrapper that assigns unique IDs and tracks state for blob data items shared across blobs.
+// ---
+
 #include "storage/browser/blob/shareable_blob_data_item.h"
 
 #include "storage/browser/blob/blob_data_item.h"

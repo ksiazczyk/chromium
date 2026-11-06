@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryFileStreamReader class declaration
+// summary: Declares a FileStreamReader subclass that reads memory-backed files from a given offset and fails reads when the file's modification time changes.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_MEMORY_FILE_STREAM_READER_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_MEMORY_FILE_STREAM_READER_H_
 

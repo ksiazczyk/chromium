@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenFileHandle implementation
+// summary: Implements the open file handle that reports written offsets and append amounts and consumes reserved quota accordingly.
+// ---
+
 #include "storage/browser/file_system/quota/open_file_handle.h"
 
 #include <stdint.h>

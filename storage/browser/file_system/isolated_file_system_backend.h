@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedFileSystemBackend class declaration
+// summary: Declares IsolatedFileSystemBackend, a FileSystemBackend implementation that serves isolated, dragged and transient file system types via AsyncFileUtilAdapter.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_ISOLATED_FILE_SYSTEM_BACKEND_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_ISOLATED_FILE_SYSTEM_BACKEND_H_
 

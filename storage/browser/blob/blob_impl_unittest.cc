@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobImpl unit tests
+// summary: Unit tests for BlobImpl covering blob reads, reader clients, side data, snapshots, and data pipe handling via BlobStorageContext.
+// ---
+
 #include "storage/browser/blob/blob_impl.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReader implementation
+// summary: Implements BlobReader for reading blob data, including size calculation, side data reads, file stream readers, and blob-to-net error conversion.
+// ---
+
 #include "storage/browser/blob/blob_reader.h"
 
 #include <stddef.h>

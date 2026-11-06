@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota override handle implementation
+// summary: Implements QuotaOverrideHandle, which lets DevTools clients override storage quota for individual storage keys through the quota manager proxy.
+// ---
+
 #include "storage/browser/quota/quota_override_handle.h"
 
 #include "base/memory/scoped_refptr.h"

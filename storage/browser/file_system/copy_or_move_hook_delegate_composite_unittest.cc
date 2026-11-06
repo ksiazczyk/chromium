@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CopyOrMoveHookDelegateComposite unit tests
+// summary: Parameterized unit tests verifying that the composite hook delegate calls each child delegate and reports the first error or success.
+// ---
+
 #include "storage/browser/file_system/copy_or_move_hook_delegate_composite.h"
 
 #include <array>

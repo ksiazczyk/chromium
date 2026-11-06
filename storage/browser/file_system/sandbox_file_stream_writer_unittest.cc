@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox file stream writer unit tests
+// summary: Unit tests for SandboxFileStreamWriter covering writes, quota limits and related behavior using mock quota managers and a test filesystem context.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_stream_writer.h"
 
 #include <stdint.h>

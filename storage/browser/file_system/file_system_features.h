@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystem feature flag declarations
+// summary: Declares the storage browser feature constants, notably kIncognitoFileSystemContextForTesting, for use across the component.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_FEATURES_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_FEATURES_H_
 

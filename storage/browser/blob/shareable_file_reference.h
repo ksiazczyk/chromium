@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareableFileReference for shared blob file paths
+// summary: Declares a ref-counted class that shares file references for the same path and runs final-release callbacks, with policies to delete or keep the file.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_SHAREABLE_FILE_REFERENCE_H_
 #define STORAGE_BROWSER_BLOB_SHAREABLE_FILE_REFERENCE_H_
 

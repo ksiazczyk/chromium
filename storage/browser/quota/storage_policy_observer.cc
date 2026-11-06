@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage policy observer implementation
+// summary: Implements tracking of origin storage policy changes, using an IO-thread helper to relay SpecialStoragePolicy notifications and aggregate purge-on-shutdown updates.
+// ---
+
 #include "storage/browser/quota/storage_policy_observer.h"
 
 #include <utility>

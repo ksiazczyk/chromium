@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOptions header
+// summary: Declares the FileSystemOptions class holding runtime options such as incognito profile mode, forced in-memory file systems, and additional allowed schemes for the FileSystem API.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPTIONS_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_OPTIONS_H_
 

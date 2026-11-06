@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaDeviceInfoHelper interface
+// summary: Declares the thread-safe interface the quota system uses to gather disk space information, overridable in tests.
+// ---
+
 #include "base/component_export.h"
 #include "base/system/sys_info.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemOperationContext implementation
+// summary: Implements the constructors and destructor of FileSystemOperationContext, which carries context such as task runner and quota state across file system operations.
+// ---
+
 #include "storage/browser/file_system/file_system_operation_context.h"
 
 #include "base/task/sequenced_task_runner.h"

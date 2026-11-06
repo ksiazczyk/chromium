@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobHandle implementation
+// summary: Implements the BlobHandle class, a refcounted wrapper around a Mojo blink::mojom::Blob remote that supports cloning.
+// ---
+
 #include "storage/browser/blob/blob_handle.h"
 
 namespace storage {

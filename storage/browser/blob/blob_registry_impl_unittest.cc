@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlobRegistryImpl unit tests
+// summary: Unit tests for BlobRegistryImpl covering blob registration, transport strategies with custom storage limits, bad message handling, and streaming.
+// ---
+
 #include "storage/browser/blob/blob_registry_impl.h"
 
 #include <limits>

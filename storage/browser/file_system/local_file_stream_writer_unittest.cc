@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file stream writer unit tests
+// summary: Unit tests for LocalFileStreamWriter, including Android content URI cases that verify writes always truncate.
+// ---
+
 #include "storage/browser/file_system/local_file_stream_writer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyOrMoveFileValidator interface
+// summary: Defines interfaces for validating source files before and destination files after copy or move operations, such as anti-virus checks.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_FILE_VALIDATOR_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_COPY_OR_MOVE_FILE_VALIDATOR_H_
 

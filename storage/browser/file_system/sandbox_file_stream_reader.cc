@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxFileStreamReader implementation
+// summary: Implements reading from sandbox file system files by creating a file snapshot and delegating reads and length queries to an underlying stream reader.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_stream_reader.h"
 
 #include <stdint.h>

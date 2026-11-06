@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuotaBackendImpl unit tests
+// summary: Unit tests for QuotaBackendImpl using a mock quota manager proxy, an obfuscated file util and a temporary data directory.
+// ---
+
 #include "storage/browser/file_system/quota/quota_backend_impl.h"
 
 #include <stdint.h>

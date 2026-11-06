@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemURL unit tests
+// summary: Unit tests verifying parsing of filesystem URLs, origin and type extraction, virtual path handling, and sibling creation for FileSystemURL.
+// ---
+
 
 #include "storage/browser/file_system/file_system_url.h"
 

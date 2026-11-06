@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeFileUtil unit tests
+// summary: Unit tests for NativeFileUtil covering file creation, opening, deletion, existence checks and permission handling across platforms.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

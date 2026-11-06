@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscatedFileUtil implementation
+// summary: Implements the obfuscated file utility that stores directory metadata in LevelDB, isolates files per StorageKey, bucket and type, and enforces quota costs.
+// ---
+
 #include "storage/browser/file_system/obfuscated_file_util.h"
 
 #include <stddef.h>

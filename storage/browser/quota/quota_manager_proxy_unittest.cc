@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuotaManagerProxy unit tests
+// summary: Unit tests verifying bucket path construction and bucket creation behavior of QuotaManagerProxy.
+// ---
+
 #include "storage/browser/quota/quota_manager_proxy.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/memory/scoped_refptr.h"

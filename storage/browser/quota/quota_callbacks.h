@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota callback type definitions
+// summary: Defines common callback types and a callback queue template used throughout the quota module.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_CALLBACKS_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_CALLBACKS_H_
 

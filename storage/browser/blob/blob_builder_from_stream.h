@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobBuilderFromStream class declaration
+// summary: Declares the class that creates a blob from a stream source of unknown size while handling memory management and quota allocation.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_BUILDER_FROM_STREAM_H_
 #define STORAGE_BROWSER_BLOB_BLOB_BUILDER_FROM_STREAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quota settings unit tests
+// summary: Tests quota settings calculation for default, feature-parameterized, and incognito scenarios using a mocked device info helper.
+// ---
+
 #include "storage/browser/quota/quota_settings.h"
 
 #include <memory>

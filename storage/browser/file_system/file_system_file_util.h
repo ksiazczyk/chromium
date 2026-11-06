@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemFileUtil interface
+// summary: Declares the FileSystemFileUtil interface with abstract and empty file enumerators plus basic operations such as create or open, ensure file exists and create directory.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_FILE_UTIL_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_FILE_SYSTEM_FILE_UTIL_H_
 

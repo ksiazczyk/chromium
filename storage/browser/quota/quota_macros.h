@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota UMA histogram macros
+// summary: Defines a UMA histogram macro that reports storage sizes in megabytes for quota metrics.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_MACROS_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_MACROS_H_
 

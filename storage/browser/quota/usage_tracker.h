@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageTracker class header
+// summary: Declares the UsageTracker helper class that gathers and tracks stored data usage for all quota clients on behalf of QuotaManagerImpl.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_USAGE_TRACKER_H_
 #define STORAGE_BROWSER_QUOTA_USAGE_TRACKER_H_
 

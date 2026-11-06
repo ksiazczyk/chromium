@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob entry implementation
+// summary: Implements BlobEntry methods for managing shared blob items and offsets, plus building state handling for quota requests, copies, and aborts.
+// ---
+
 #include <utility>
 
 #include "base/functional/callback.h"

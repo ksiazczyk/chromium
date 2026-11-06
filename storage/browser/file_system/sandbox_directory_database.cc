@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxDirectoryDatabase implementation
+// summary: Implements a LevelDB-backed database mapping sandbox file system paths to file IDs and backing data files, with corruption handling and UMA metrics.
+// ---
+
 #include "storage/browser/file_system/sandbox_directory_database.h"
 
 #include <math.h>

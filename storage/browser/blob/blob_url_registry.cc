@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob URL registry implementation
+// summary: Implements BlobUrlRegistry, which maps blob URLs to blobs, binds frame and worker receivers, and manages token mappings.
+// ---
+
 #include "storage/browser/blob/blob_url_registry.h"
 
 #include "base/check.h"

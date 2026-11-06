@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaClientType enum declaration
+// summary: Declares the enum that identifies storage features for browser data deletion and the set type holding them.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_CLIENT_TYPE_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_CLIENT_TYPE_H_
 

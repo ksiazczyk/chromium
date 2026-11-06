@@ -1,0 +1,4 @@
+# Docerion header of quota_manager_observer.mojom.
+type: source
+title: Quota manager observer Mojo interface
+summary: Defines a Mojo observer interface that notifies listeners such as DevTools when storage buckets are created, updated, or deleted.

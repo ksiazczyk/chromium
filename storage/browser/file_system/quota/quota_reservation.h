@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaReservation class header
+// summary: Declares QuotaReservation, a unit of reserved quota that can issue open file handles for quota-managed files.
+// ---
+
 #ifndef STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_RESERVATION_H_
 #define STORAGE_BROWSER_FILE_SYSTEM_QUOTA_QUOTA_RESERVATION_H_
 

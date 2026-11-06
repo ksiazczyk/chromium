@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientUsageTracker implementation
+// summary: Implements per-client usage tracking that gathers and caches bucket usage across quota clients.
+// ---
+
 #include "storage/browser/quota/client_usage_tracker.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota feature flag definitions
+// summary: Defines storage quota feature flags and parameters such as customized quota settings and the static storage quota kill switch.
+// ---
+
 #include "storage/browser/quota/quota_features.h"
 #include "base/feature_list.h"
 

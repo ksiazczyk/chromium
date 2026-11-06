@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaReservationManager implementation
+// summary: Implements QuotaReservationManager, which delegates quota reservations and usage updates to a quota backend and manages reservation buffers.
+// ---
+
 #include "storage/browser/file_system/quota/quota_reservation_manager.h"
 
 #include <stdint.h>

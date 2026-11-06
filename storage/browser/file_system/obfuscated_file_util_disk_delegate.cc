@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObfuscatedFileUtilDiskDelegate implementation
+// summary: Implements the disk-backed ObfuscatedFileUtil delegate by forwarding file operations to NativeFileUtil and base file utilities.
+// ---
+
 #include "storage/browser/file_system/obfuscated_file_util_disk_delegate.h"
 
 #include "base/files/file_util.h"

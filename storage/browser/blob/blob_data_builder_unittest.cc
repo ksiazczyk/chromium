@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob data builder unit tests for future file items
+// summary: Unit tests verifying that BlobDataItem and BlobDataBuilder create, recognize, and append future file items with the expected file IDs.
+// ---
+
 #include "storage/browser/blob/blob_data_builder.h"
 
 #include <string>

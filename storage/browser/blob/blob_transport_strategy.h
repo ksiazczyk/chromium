@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobTransportStrategy class header
+// summary: Declares BlobTransportStrategy, which transports bytes for under-construction blobs using a memory-dependent strategy.
+// ---
+
 #ifndef STORAGE_BROWSER_BLOB_BLOB_TRANSPORT_STRATEGY_H_
 #define STORAGE_BROWSER_BLOB_BLOB_TRANSPORT_STRATEGY_H_
 

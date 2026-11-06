@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox file system backend delegate implementation
+// summary: Implements shared sandbox backend logic such as opening filesystems, storage key enumeration, naming restrictions and quota reservation management.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_system_backend_delegate.h"
 
 #include <stddef.h>

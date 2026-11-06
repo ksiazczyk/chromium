@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox file stream reader unit tests
+// summary: Unit tests for SandboxFileStreamReader covering reads, length queries and modification-time checks against a test filesystem context.
+// ---
+
 #include "storage/browser/file_system/sandbox_file_stream_reader.h"
 
 #include <stddef.h>

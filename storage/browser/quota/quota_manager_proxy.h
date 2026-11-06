@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaManagerProxy class declaration
+// summary: Declares a thread-safe, reference-counted proxy for QuotaManagerImpl that quota clients use to register, query usage, and manage buckets.
+// ---
+
 #ifndef STORAGE_BROWSER_QUOTA_QUOTA_MANAGER_PROXY_H_
 #define STORAGE_BROWSER_QUOTA_QUOTA_MANAGER_PROXY_H_
 

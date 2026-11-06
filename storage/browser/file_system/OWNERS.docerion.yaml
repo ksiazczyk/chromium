@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the FileSystem API directory
+summary: Lists the current and emeritus owners responsible for reviewing changes to the FileSystem API directory.

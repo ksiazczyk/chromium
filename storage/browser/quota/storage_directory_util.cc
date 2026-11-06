@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage bucket path utilities
+// summary: Implements helpers that build on-disk paths for buckets and per-client data such as file system, IndexedDB, background fetch, and cache storage.
+// ---
+
 #include "storage/browser/quota/storage_directory_util.h"
 
 #include "base/strings/string_number_conversions.h"

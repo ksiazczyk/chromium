@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemUsageCache unit tests
+// summary: Parameterized unit tests covering usage updates, dirty counter increments and decrements, and validity handling in FileSystemUsageCache, including incognito mode.
+// ---
+
 #include "storage/browser/file_system/file_system_usage_cache.h"
 
 #include <stdint.h>

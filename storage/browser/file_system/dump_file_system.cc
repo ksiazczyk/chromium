@@ -26,6 +26,12 @@
 // children, and file_content_path is empty if the file is a directory.
 //
 
+// ---docerion
+// type: source
+// title: Filesystem dump command-line tool
+// summary: Command-line tool that dumps the contents of HTML5 sandboxed file systems from a profile directory, optionally listing file sizes and paths.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>

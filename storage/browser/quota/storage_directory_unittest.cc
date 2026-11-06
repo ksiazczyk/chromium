@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage directory unit tests
+// summary: Unit tests covering creation, dooming, and clearing of the storage directory and bucket directories, including repeated doom cycles.
+// ---
+
 #include <memory>
 #include <set>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemUsageCache implementation
+// summary: Implements reading and writing .usage cache files that track filesystem usage size, dirty count and validity for the quota system, with incognito in-memory support.
+// ---
+
 #include "storage/browser/file_system/file_system_usage_cache.h"
 
 #include <stddef.h>
