@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the NFC Mojo service
+// summary: Android implementation of the NFC Mojo service that handles permissions, reader mode, push and watch operations, vibrations, and tag I/O via NfcTagHandler.
+// ---
+
 package org.chromium.device.nfc;
 
 

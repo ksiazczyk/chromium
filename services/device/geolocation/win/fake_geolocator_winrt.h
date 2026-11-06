@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WinRT geolocator declarations
+// summary: Declares FakeGeolocatorWinrt, a fake Windows Runtime IGeolocator used to simulate geolocation in tests.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_GEOLOCATOR_WINRT_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_GEOLOCATOR_WINRT_H_
 

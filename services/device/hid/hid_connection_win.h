@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID connection header
+// summary: Declares HidConnectionWin, the Windows HidConnection that maps report IDs to file handles for HID top-level collections and tracks pending transfers.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_CONNECTION_WIN_H_
 #define SERVICES_DEVICE_HID_HID_CONNECTION_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualPlatformSensor implementation
+// summary: Implements an OS-agnostic virtual platform sensor for web tests, handling added readings, simulated sensor removal, and start/stop configuration.
+// ---
+
 #include "services/device/generic_sensor/virtual_platform_sensor.h"
 
 #include "base/functional/bind.h"

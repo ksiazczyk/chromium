@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux HID connection implementation
+// summary: Implements HidConnection for Linux via hidraw file descriptors, using a blocking task runner helper for writes and feature report ioctls and watching for input reports.
+// ---
+
 #include "services/device/hid/hid_connection_linux.h"
 
 #include <errno.h>

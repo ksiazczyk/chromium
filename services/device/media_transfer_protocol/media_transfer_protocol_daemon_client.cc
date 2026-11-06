@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media transfer protocol daemon client implementation
+// summary: Implements the D-Bus client that talks to the mtpd daemon for enumerating storages, reading files, and copying files from local on MTP devices.
+// ---
+
 #include "services/device/media_transfer_protocol/media_transfer_protocol_daemon_client.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensorFusion class declaration
+// summary: Declares the PlatformSensorFusion class that implements virtual sensors built from one or more existing sensors, such as orientation sensors derived from an accelerometer.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_FUSION_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_FUSION_H_
 

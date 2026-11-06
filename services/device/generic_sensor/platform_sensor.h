@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensor base class declaration
+// summary: Declares the PlatformSensor base class interface for platform-provided sensors, including client management, configuration checks, and reading access.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_H_
 

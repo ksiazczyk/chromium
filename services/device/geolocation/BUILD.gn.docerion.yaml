@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Geolocation build configuration
+summary: Defines the GN build targets, source lists and platform-conditional dependencies for the geolocation service.

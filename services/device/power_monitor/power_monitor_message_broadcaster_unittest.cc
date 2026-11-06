@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerMonitorMessageBroadcaster unit tests
+// summary: Unit tests using a mock client and test power monitor source to verify broadcasting of power state, suspend and resume messages.
+// ---
+
 #include "services/device/power_monitor/power_monitor_message_broadcaster.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation Mojo interface implementation
+// summary: Implements GeolocationImpl, serving position queries, accuracy hints, permission handling, and overrides to a geolocation client over Mojo.
+// ---
+
 #include "services/device/geolocation/geolocation_impl.h"
 
 #include <utility>

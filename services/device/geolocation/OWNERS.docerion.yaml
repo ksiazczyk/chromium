@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Geolocation OWNERS
+summary: Delegates code review ownership to the OWNERS file of content/browser/geolocation.

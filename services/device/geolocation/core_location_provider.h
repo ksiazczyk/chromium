@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Core Location provider header
+// summary: Declares CoreLocationProvider, a LocationProvider for macOS built on the Core Location API via SystemGeolocationSource.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_CORE_LOCATION_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_CORE_LOCATION_PROVIDER_H_
 

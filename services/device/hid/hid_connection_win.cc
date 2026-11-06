@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID connection implementation
+// summary: Implements HidConnection for Windows using overlapped I/O on HID file handles, routing report IDs to per-collection handles and managing pending transfers.
+// ---
+
 #include "services/device/hid/hid_connection_win.h"
 
 #include <algorithm>

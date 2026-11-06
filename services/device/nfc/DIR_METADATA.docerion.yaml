@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the NFC service
+summary: Directory metadata for the NFC service that mixes in common metadata from the Blink NFC renderer module.

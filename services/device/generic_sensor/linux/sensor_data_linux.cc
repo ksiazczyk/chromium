@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sensor data initialization for generic sensor service
+// summary: Implements SensorPathsLinux initialization for Linux sensors, mapping sysfs file names, scale and offset handling, and default configurations for ambient light, accelerometer, gyroscope, and magnetometer sensors.
+// ---
+
 #include "services/device/generic_sensor/linux/sensor_data_linux.h"
 
 #include "base/functional/bind.h"

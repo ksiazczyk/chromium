@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux portal location provider
+// summary: Implements a Linux location provider that obtains positions through the XDG Desktop Portal Location D-Bus interface.
+// ---
+
 #include "services/device/geolocation/location_provider_linux_portal.h"
 
 #include <map>

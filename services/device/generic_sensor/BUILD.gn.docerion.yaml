@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Generic sensor GN build configuration
+summary: Defines the generic_sensor source set, listing fusion algorithm and platform sensor sources with per-platform dependencies for Android, Mac, ChromeOS, Linux and Windows.

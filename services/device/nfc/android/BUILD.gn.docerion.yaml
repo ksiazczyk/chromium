@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android NFC service
+summary: Defines the GN android_library target that builds the Chromium device service's Android NFC Java sources and lists its dependencies.

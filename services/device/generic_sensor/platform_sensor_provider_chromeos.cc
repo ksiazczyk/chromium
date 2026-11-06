@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS platform sensor provider implementation
+// summary: Implements the ChromeOS sensor provider that connects to the IIO sensor service over Mojo, maps device types to sensor types and handles reconnection and device registration.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_chromeos.h"
 
 #include <algorithm>

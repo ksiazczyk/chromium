@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake position changed event args declarations
+// summary: Declares FakePositionChangedEventArgs, a fake Windows Runtime event args class for position changed events.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_POSITION_CHANGED_EVENT_ARGS_WINRT_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_POSITION_CHANGED_EVENT_ARGS_WINRT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS platform sensor unit tests
+// summary: Unit tests for PlatformSensorChromeOS using a fake sensor device to verify channel handling, reporting modes, and sample processing.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_chromeos.h"
 
 #include <array>

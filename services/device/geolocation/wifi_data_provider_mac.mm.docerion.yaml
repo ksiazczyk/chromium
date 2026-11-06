@@ -1,0 +1,4 @@
+# Docerion header of wifi_data_provider_mac.mm.
+type: source
+title: macOS WiFi data provider implementation using CoreWLAN
+summary: Implements WiFi access point scanning on macOS via CoreWLAN and provides the default provider factory and polling intervals.

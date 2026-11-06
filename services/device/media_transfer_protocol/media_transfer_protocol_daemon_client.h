@@ -6,6 +6,12 @@
 // responsible for communicating with PTP / MTP capable devices like cameras
 // and smartphones.
 
+// ---docerion
+// type: source
+// title: Media transfer protocol daemon client header
+// summary: Declares the MediaTransferProtocolDaemonClient interface and its result callbacks for making D-Bus calls to the mtpd service on ChromeOS.
+// ---
+
 #ifndef SERVICES_DEVICE_MEDIA_TRANSFER_PROTOCOL_MEDIA_TRANSFER_PROTOCOL_DAEMON_CLIENT_H_
 #define SERVICES_DEVICE_MEDIA_TRANSFER_PROTOCOL_MEDIA_TRANSFER_PROTOCOL_DAEMON_CLIENT_H_
 

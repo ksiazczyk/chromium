@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relative orientation Euler angles fusion algorithm tests
+// summary: Unit tests verifying the accelerometer-and-gyroscope relative orientation fusion algorithm using fake fusion sensor readings.
+// ---
+
 #include "services/device/generic_sensor/relative_orientation_euler_angles_fusion_algorithm_using_accelerometer_and_gyroscope.h"
 
 #include <numbers>

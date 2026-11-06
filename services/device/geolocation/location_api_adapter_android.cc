@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android location API adapter
+// summary: Implements the JNI bridge that starts and stops the Android platform location provider and forwards location and error updates to Chromium.
+// ---
+
 #include "services/device/geolocation/location_api_adapter_android.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NFC unit tests for NfcImpl and NdefMessageUtils
+// summary: Robolectric unit tests covering the NfcImpl and NdefMessageUtils classes, including NDEF message parsing, watch and push behavior, and error handling.
+// ---
+
 package org.chromium.device.nfc;
 
 import static org.junit.Assert.assertArrayEquals;

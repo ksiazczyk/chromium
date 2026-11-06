@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java geolocation LocationProvider test suite
+// summary: Parameterized Robolectric JUnit suite that verifies Chromium's Android geolocation location providers (mock, Android, and GMS Core) using Mockito mocks of the adapter and fused location client.
+// ---
+
 package org.chromium.device.geolocation;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Position cache performance test
+// summary: Performance test measuring the time to add and find positions in the position cache over batches of WiFi data and geopositions, reporting metrics via PerfResultReporter.
+// ---
+
 #include "services/device/geolocation/position_cache_impl.h"
 
 #include <memory>

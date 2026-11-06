@@ -5,6 +5,12 @@
 // Most logic for the platform wifi provider is now factored into
 // WifiDataProviderCommon and covered by it's unit tests.
 
+// ---docerion
+// type: test
+// title: Unit test for the Windows WiFi data provider
+// summary: Runs a basic create-and-destroy test for WifiDataProviderWin, since starting the provider would require real hardware.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_win.h"
 
 #include "base/test/task_environment.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: HID service include rules
+summary: Grants the HID service directory includes from chromeos/dbus and components/device_event_log.

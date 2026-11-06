@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidConnectionImpl Mojo interface header
+// summary: Declares HidConnectionImpl, which handles Mojo HidConnection client calls and delegates read, write and feature report operations to the platform HidConnection.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_CONNECTION_IMPL_H_
 #define SERVICES_DEVICE_HID_HID_CONNECTION_IMPL_H_
 

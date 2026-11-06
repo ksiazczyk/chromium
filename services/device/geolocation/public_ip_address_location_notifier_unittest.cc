@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public IP address location notifier unit tests
+// summary: Unit tests for the location notifier, simulating Google geolocation API responses, server errors and network connection changes.
+// ---
+
 #include "services/device/geolocation/public_ip_address_location_notifier.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidConnectionImpl unit tests
+// summary: Unit tests for HidConnectionImpl that use a mock HidConnection to simulate input reports and verify Mojo read, write and feature report behavior.
+// ---
+
 #include "services/device/hid/hid_connection_impl.h"
 
 #include "base/functional/bind.h"

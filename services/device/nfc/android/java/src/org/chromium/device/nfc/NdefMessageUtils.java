@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NDEF message conversion between Android and Mojo
+// summary: Utility class that converts between Android NdefMessage and Mojo NdefMessage structures, including record type handling and NFC Forum URI prefix mapping.
+// ---
+
 package org.chromium.device.nfc;
 
 import android.content.Intent;

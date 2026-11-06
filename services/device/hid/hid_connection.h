@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidConnection base class declaration
+// summary: Declares the platform-independent HID connection interface for reading, writing, and feature reports with platform hooks for subclasses.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_CONNECTION_H_
 #define SERVICES_DEVICE_HID_HID_CONNECTION_H_
 

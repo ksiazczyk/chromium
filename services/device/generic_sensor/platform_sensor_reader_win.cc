@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sensor reader implementation
+// summary: Implements the Win32 sensor reader that fetches sensor data through the ISensor COM interface and delivers notifications via a client interface.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_reader_win.h"
 
 #include <objbase.h>

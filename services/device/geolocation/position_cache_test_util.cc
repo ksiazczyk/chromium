@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Position cache test utilities
+// summary: Provides test helpers that create unique WiFi data with random access point MAC addresses and simple geoposition objects for geolocation cache tests.
+// ---
+
 #include "services/device/geolocation/position_cache_test_util.h"
 
 #include <cmath>

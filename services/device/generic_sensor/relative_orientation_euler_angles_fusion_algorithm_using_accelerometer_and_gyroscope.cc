@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relative orientation Euler angles fusion using accelerometer and gyroscope
+// summary: Implements the fusion algorithm that combines accelerometer and gyroscope readings into relative orientation Euler angles.
+// ---
+
 #include "services/device/generic_sensor/relative_orientation_euler_angles_fusion_algorithm_using_accelerometer_and_gyroscope.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gravity fusion algorithm using accelerometer implementation
+// summary: Implements the fusion algorithm that derives gravity readings from accelerometer data using a frequency-tuned low-pass filter.
+// ---
+
 #include "services/device/generic_sensor/gravity_fusion_algorithm_using_accelerometer.h"
 
 #include "base/check.h"

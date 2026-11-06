@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux WiFi data provider
+// summary: Tests the Linux WiFi data provider against mocked NetworkManager D-Bus proxies for devices and access points.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_linux.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web NFC tag blocklist for YubiKey protection
+// summary: Decides whether an NFC tag is accessible via Web NFC, blocking YubiKeys by matching historical bytes and server-provided variations parameters.
+// ---
+
 package org.chromium.device.nfc;
 
 import android.nfc.Tag;

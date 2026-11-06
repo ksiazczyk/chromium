@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relative orientation Euler angles accelerometer fusion tests
+// summary: Unit tests verifying relative orientation Euler angles computed from accelerometer readings alone, across device orientations.
+// ---
+
 #include <cmath>
 
 #include "base/memory/raw_ptr.h"

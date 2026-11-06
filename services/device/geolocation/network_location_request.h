@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkLocationRequest header
+// summary: Declares NetworkLocationRequest, its result enum, and LocationResponseResult for sending Wi-Fi data to a location server.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_NETWORK_LOCATION_REQUEST_H_
 #define SERVICES_DEVICE_GEOLOCATION_NETWORK_LOCATION_REQUEST_H_
 

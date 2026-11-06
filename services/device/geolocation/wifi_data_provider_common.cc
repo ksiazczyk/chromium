@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common WiFi data provider implementation
+// summary: Implements the shared WiFi data provider base class, handling scan scheduling, polling policy, and access point data updates.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_common.h"
 
 #include "base/compiler_specific.h"

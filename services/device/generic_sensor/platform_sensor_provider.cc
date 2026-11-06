@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensorProvider base implementation
+// summary: Implements the platform-independent sensor provider base, managing shared memory reading buffers, sensor maps, pending create requests and platform selection.
+// ---
+
 
 #include "services/device/generic_sensor/platform_sensor_provider.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake platform sensor fusion implementation
+// summary: Implements a fake fusion sensor that returns preconfigured source readings to fusion algorithms during unit tests.
+// ---
+
 #include "services/device/generic_sensor/fake_platform_sensor_fusion.h"
 
 #include "services/device/generic_sensor/platform_sensor_fusion_algorithm.h"

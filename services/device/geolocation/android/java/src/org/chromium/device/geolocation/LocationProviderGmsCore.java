@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationProviderGmsCore
+// summary: Location provider backed by Google Play Services' FusedLocationProviderClient that handles update intervals, granularity support checks, and precise-location leak detection.
+// ---
+
 package org.chromium.device.geolocation;
 
 import android.Manifest;

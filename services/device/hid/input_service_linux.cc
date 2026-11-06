@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input device service implementation
+// summary: Enumerates and monitors connected input and HID devices on Linux using udev, classifying devices by type such as Bluetooth, USB, and serio.
+// ---
+
 #include "services/device/hid/input_service_linux.h"
 
 #include <memory>

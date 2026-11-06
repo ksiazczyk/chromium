@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockWifiDataProvider header
+// summary: Declares MockWifiDataProvider, a test double for WifiDataProvider with settable Wi-Fi data for use with the testing factory.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_MOCK_WIFI_DATA_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_MOCK_WIFI_DATA_PROVIDER_H_
 

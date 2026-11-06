@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the NfcProvider Mojo interface
+// summary: Android implementation of the NfcProvider Mojo interface that creates per-host NfcImpl connections and suspends or resumes NFC operations on page visibility changes.
+// ---
+
 package org.chromium.device.nfc;
 
 import org.chromium.build.annotations.NullMarked;

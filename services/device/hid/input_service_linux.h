@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Linux input device service
+// summary: Declares InputServiceLinux, which provides information and notifications about connected and disconnected input and HID devices on Linux.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_INPUT_SERVICE_LINUX_H_
 #define SERVICES_DEVICE_HID_INPUT_SERVICE_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WiFi data provider implementation
+// summary: Implements WiFi access point scanning on Windows by dynamically loading wlanapi.dll and converting BSS entries to access point data.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_win.h"
 
 #include <windows.h>

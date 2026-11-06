@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Euler angles from quaternion algorithm unit tests
+// summary: Unit tests checking the quaternion-to-Euler-angles fusion algorithm against sample values and failed source sensor reads.
+// ---
+
 #include "services/device/generic_sensor/orientation_euler_angles_fusion_algorithm_using_quaternion.h"
 
 #include "base/memory/raw_ptr.h"

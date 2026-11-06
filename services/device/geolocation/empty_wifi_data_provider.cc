@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty Wi-Fi data provider implementation
+// summary: Implements a WifiDataProvider that returns no data and provides the default factory for platforms without a real Wi-Fi provider.
+// ---
+
 #include "services/device/geolocation/empty_wifi_data_provider.h"
 
 #include "services/device/geolocation/wifi_data_provider_handle.h"

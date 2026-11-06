@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location provider manager
+// summary: Implements LocationProviderManager, which selects and coordinates network, platform, and custom location providers according to the active mode.
+// ---
+
 #include "services/device/geolocation/location_provider_manager.h"
 
 #include <map>

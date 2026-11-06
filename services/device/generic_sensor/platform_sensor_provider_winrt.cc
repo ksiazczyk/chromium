@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT sensor provider implementation
+// summary: Implements the platform sensor provider for Windows using the Windows.Devices.Sensors WinRT API, with fusion sensor fallbacks for missing low-level sensors.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_winrt.h"
 
 #include <comdef.h>

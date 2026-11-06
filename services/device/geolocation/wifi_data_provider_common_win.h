@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows NDIS access point conversion header
+// summary: Declares the helper that extracts access point data from an NDIS 802.11 BSSID list on Windows.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_COMMON_WIN_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_COMMON_WIN_H_
 

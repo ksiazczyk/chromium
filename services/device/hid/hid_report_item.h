@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID report item class header
+// summary: Declares HidReportItem with accessors for usages, ranges, report size and count, units and logical or physical limits.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_REPORT_ITEM_H_
 #define SERVICES_DEVICE_HID_HID_REPORT_ITEM_H_
 

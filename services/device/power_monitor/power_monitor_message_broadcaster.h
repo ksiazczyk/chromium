@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerMonitorMessageBroadcaster header
+// summary: Declares the PowerMonitorMessageBroadcaster class that monitors power state changes and communicates them to child processes via IPC.
+// ---
+
 #ifndef SERVICES_DEVICE_POWER_MONITOR_POWER_MONITOR_MESSAGE_BROADCASTER_H_
 #define SERVICES_DEVICE_POWER_MONITOR_POWER_MONITOR_MESSAGE_BROADCASTER_H_
 

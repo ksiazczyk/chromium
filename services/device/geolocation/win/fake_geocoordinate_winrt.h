@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WinRT geocoordinate declarations
+// summary: Declares FakeGeocoordinateData, FakeGeopoint and FakeGeocoordinate classes that fake Windows geolocation interfaces.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_GEOCOORDINATE_WINRT_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_GEOCOORDINATE_WINRT_H_
 

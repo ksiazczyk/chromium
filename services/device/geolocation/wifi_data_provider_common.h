@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common WiFi data provider base class
+// summary: Declares WifiDataProviderCommon, a base class that shares polling and scan behavior across platform-specific WiFi data providers.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_COMMON_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_COMMON_H_
 

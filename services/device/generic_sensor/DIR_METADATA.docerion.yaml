@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Directory metadata file that mixins the COMMON_METADATA settings for issue tracking of this folder.

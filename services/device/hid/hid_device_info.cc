@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID device info implementation
+// summary: Implements HidDeviceInfo, parsing report descriptors and building Mojom device info with blocklist-protected report IDs and platform device ID mappings.
+// ---
+
 #include "services/device/hid/hid_device_info.h"
 
 #include "base/uuid.h"

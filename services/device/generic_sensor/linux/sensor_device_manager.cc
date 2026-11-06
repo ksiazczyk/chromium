@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sensor device manager implementation
+// summary: Implements udev-based enumeration and monitoring of iio subsystem sensor devices, matching sysfs attributes against per-type sensor data and notifying the delegate of added and removed sensors.
+// ---
+
 #include "services/device/generic_sensor/linux/sensor_device_manager.h"
 
 #include "base/functional/bind.h"

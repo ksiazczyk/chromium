@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS platform sensor provider header
+// summary: Declares the ChromeOS sensor provider class that manages IIO sensor devices, their locations and scales, and Mojo connections to the sensor HAL service.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_PROVIDER_CHROMEOS_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_PROVIDER_CHROMEOS_H_
 

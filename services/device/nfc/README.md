@@ -1,3 +1,13 @@
+---
+type: readme
+title: NFC
+summary: Overview of the Web NFC implementation in Chromium, covering architecture, testing, security, permissions, and Android platform support.
+relations:
+  - documents /services/device/nfc/android/java/src/org/chromium/device/nfc/NdefMessageUtils.java
+  - documents /services/device/nfc/android/java/src/org/chromium/device/nfc/NfcImpl.java
+  - documents /services/device/nfc/android/java/src/org/chromium/device/nfc/NfcTagHandler.java
+---
+
 # NFC
 
 ### High level Overview

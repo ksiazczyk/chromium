@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake position cache class declaration
+// summary: Declares FakePositionCache, a test double of PositionCache that caches wifi data with positions and tracks the last used network position.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_FAKE_POSITION_CACHE_H_
 #define SERVICES_DEVICE_GEOLOCATION_FAKE_POSITION_CACHE_H_
 

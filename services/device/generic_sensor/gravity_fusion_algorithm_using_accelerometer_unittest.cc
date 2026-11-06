@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gravity fusion algorithm using accelerometer unit tests
+// summary: Unit tests that verify the gravity fusion algorithm's low-pass filtering of accelerometer readings, including no output on the first reading and expected values over successive readings.
+// ---
+
 #include "services/device/generic_sensor/gravity_fusion_algorithm_using_accelerometer.h"
 
 #include "base/memory/raw_ptr.h"

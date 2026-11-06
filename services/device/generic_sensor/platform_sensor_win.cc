@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform sensor implementation
+// summary: Implements the Windows PlatformSensor that forwards reader events to clients and validates configurations against the reader's minimal reporting interval.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_win.h"
 
 #include "base/functional/bind.h"

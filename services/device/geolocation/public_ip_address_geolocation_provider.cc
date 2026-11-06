@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public IP address geolocation provider
+// summary: Implements the Mojo provider that binds IP-only geolocation service requests and creates PublicIpAddressGeolocator instances backed by a shared location notifier.
+// ---
+
 #include "services/device/geolocation/public_ip_address_geolocation_provider.h"
 
 #include "base/functional/bind.h"

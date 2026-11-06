@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationProviderManager class header
+// summary: Declares LocationProviderManager, which selects and manages location providers by mode (platform, network, custom, hybrid) with error fallback.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_LOCATION_PROVIDER_MANAGER_H_
 #define SERVICES_DEVICE_GEOLOCATION_LOCATION_PROVIDER_MANAGER_H_
 

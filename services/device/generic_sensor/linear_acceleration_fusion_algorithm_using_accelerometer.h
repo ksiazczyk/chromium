@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear acceleration fusion algorithm declaration
+// summary: Declares the fusion algorithm that derives linear acceleration from accelerometer readings by filtering out gravity.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_LINEAR_ACCELERATION_FUSION_ALGORITHM_USING_ACCELEROMETER_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_LINEAR_ACCELERATION_FUSION_ALGORITHM_USING_ACCELEROMETER_H_
 

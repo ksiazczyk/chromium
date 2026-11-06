@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi data provider handle implementation
+// summary: Implements WifiDataProviderHandle, managing the singleton WiFi data provider instance shared by network location providers.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_handle.h"
 #include "base/memory/ptr_util.h"
 #include "base/no_destructor.h"

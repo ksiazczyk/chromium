@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WinRT sensor readers
+// summary: Unit tests that verify WinRT sensor reader behavior using fake sensor readings and mock Windows.Devices.Sensors interfaces.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_reader_winrt.h"
 
 #include <objbase.h>

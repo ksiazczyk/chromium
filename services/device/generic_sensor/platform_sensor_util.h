@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor reading rounding constants and declarations
+// summary: Declares rounding multiples and functions that coarsen sensor readings to guard against calibration fingerprinting and gyroscope audio recording.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_UTIL_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_UTIL_H_
 

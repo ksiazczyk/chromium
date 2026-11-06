@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HID connection implementation
+// summary: Bridges HID connection operations to the Java ChromeHidConnection class over JNI, tracking pending write and feature read callbacks.
+// ---
+
 #include "services/device/hid/hid_connection_android.h"
 
 #include <utility>

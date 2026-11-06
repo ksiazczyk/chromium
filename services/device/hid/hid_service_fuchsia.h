@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service Fuchsia header
+// summary: Declares the unimplemented Fuchsia HidService stub class pending future implementation.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_SERVICE_FUCHSIA_H_
 #define SERVICES_DEVICE_HID_HID_SERVICE_FUCHSIA_H_
 

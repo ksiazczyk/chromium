@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidService unit tests
+// summary: Unit test that verifies HID devices can be enumerated through HidService without crashing, without assuming any device is connected.
+// ---
+
 #include "services/device/hid/hid_service.h"
 
 #include "base/functional/bind.h"

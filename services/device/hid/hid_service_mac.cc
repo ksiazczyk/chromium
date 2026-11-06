@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service macOS implementation
+// summary: Enumerates and connects to HID devices on macOS using IOKit first-match and termination notifications and registry entry properties.
+// ---
+
 
 #include "services/device/hid/hid_service_mac.h"
 

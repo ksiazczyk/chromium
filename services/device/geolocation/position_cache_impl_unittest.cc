@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Position cache unit tests
+// summary: Unit tests covering caching, lookup, maximum size, eviction, and diagnostics behavior of the position cache implementation.
+// ---
+
 #include "services/device/geolocation/position_cache_impl.h"
 
 #include <memory>

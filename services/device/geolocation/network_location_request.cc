@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkLocationRequest implementation
+// summary: Implements requests to the Google geolocation API, formatting Wi-Fi data into uploads and parsing position responses with UMA metrics.
+// ---
+
 #include "services/device/geolocation/network_location_request.h"
 
 #include <stdint.h>

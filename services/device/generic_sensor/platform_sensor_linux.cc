@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux platform sensor implementation
+// summary: Implements PlatformSensorLinux, which starts and stops a Linux sensor reader, timestamps readings and notifies clients of updates and errors.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_linux.h"
 
 #include <algorithm>

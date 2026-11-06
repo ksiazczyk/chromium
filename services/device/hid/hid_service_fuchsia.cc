@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service Fuchsia implementation
+// summary: Stub Fuchsia HID service whose Connect method is not yet implemented and always invokes the callback with a null connection.
+// ---
+
 #include "services/device/hid/hid_service_fuchsia.h"
 
 #include "base/notimplemented.h"

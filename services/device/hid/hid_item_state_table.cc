@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID item state table implementation
+// summary: Implements HidItemStateTable, tracking global and local item state while interpreting HID report descriptor items.
+// ---
+
 #include "services/device/hid/hid_item_state_table.h"
 
 #include <limits>

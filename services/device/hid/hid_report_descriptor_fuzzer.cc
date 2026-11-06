@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz target for HID report descriptor parsing
+// summary: libFuzzer entry point that feeds arbitrary byte sequences into HidReportDescriptor to check parsing robustness.
+// ---
+
 #include "services/device/hid/hid_report_descriptor.h"
 
 #include <stddef.h>

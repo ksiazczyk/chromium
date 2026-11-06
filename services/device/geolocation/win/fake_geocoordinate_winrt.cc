@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WinRT geocoordinate implementation
+// summary: Implements fake IGeocoordinate and IGeopoint WinRT classes that return canned position data for geolocation tests.
+// ---
+
 #include "services/device/geolocation/win/fake_geocoordinate_winrt.h"
 
 #include <windows.devices.geolocation.h>

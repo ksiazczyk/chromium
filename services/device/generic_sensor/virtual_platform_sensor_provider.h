@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualPlatformSensorProvider class header
+// summary: Declares the VirtualPlatformSensorProvider, a PlatformSensorProvider for tests that adds and removes virtual sensor overrides and injects readings.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_VIRTUAL_PLATFORM_SENSOR_PROVIDER_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_VIRTUAL_PLATFORM_SENSOR_PROVIDER_H_
 

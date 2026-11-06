@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux portal location provider header
+// summary: Declares LocationProviderLinuxPortal, which uses org.freedesktop.portal.Location over D-Bus for geolocation on Linux desktops.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_LOCATION_PROVIDER_LINUX_PORTAL_H_
 #define SERVICES_DEVICE_GEOLOCATION_LOCATION_PROVIDER_LINUX_PORTAL_H_
 

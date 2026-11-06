@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputServiceLinux unit test
+// summary: Verifies that the Linux input service enumerates devices and that each returned device has a non-empty identifier.
+// ---
+
 #include <stddef.h>
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidServiceWin unit tests
+// summary: Tests opening a HID device through GCPW on Windows by simulating the credential provider over a named pipe and checking the returned handle.
+// ---
+
 #include "services/device/hid/hid_service_win.h"
 
 #include <windows.h>

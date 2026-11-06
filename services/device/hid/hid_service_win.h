@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Windows HID device service
+// summary: Declares HidServiceWin, the Windows HidService implementation, including its PreparsedData interface describing HID top-level collections and report items.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_SERVICE_WIN_H_
 #define SERVICES_DEVICE_HID_HID_SERVICE_WIN_H_
 

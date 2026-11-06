@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sensor reader implementation
+// summary: Implements a polling sensor reader for Linux that reads sensor data on a blocking task runner and forwards readings or errors to the sensor.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_reader_linux.h"
 
 #include <memory>

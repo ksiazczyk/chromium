@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device manager header
+// summary: Declares MtpDeviceManager, the mojom::MtpManager implementation providing storage information and file operations for MTP devices.
+// ---
+
 #ifndef SERVICES_DEVICE_MEDIA_TRANSFER_PROTOCOL_MTP_DEVICE_MANAGER_H_
 #define SERVICES_DEVICE_MEDIA_TRANSFER_PROTOCOL_MTP_DEVICE_MANAGER_H_
 

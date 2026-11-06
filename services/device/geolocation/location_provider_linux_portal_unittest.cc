@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux portal location provider unit tests
+// summary: Unit tests for LocationProviderLinuxPortal that use mock D-Bus buses and portal proxies to simulate session, start, and location responses.
+// ---
+
 #include "services/device/geolocation/location_provider_linux_portal.h"
 
 #include <memory>

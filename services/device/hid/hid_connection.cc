@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID connection base implementation
+// summary: Implements queued reads, writes, and feature report handling while enforcing protected report and buffer size checks.
+// ---
+
 #include "services/device/hid/hid_connection.h"
 
 #include <algorithm>

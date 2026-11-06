@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public IP address geolocator header
+// summary: Declares the PublicIpAddressGeolocator class, an IP-only Geolocation implementation that forwards position queries to a PublicIpAddressLocationNotifier.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_PUBLIC_IP_ADDRESS_GEOLOCATOR_H_
 #define SERVICES_DEVICE_GEOLOCATION_PUBLIC_IP_ADDRESS_GEOLOCATOR_H_
 

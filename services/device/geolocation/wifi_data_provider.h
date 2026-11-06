@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi data provider interface
+// summary: Declares the abstract WifiDataProvider interface for starting, stopping and polling Wi-Fi scan data used by geolocation.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_H_
 

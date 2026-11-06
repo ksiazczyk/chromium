@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the generic sensor directory
+summary: Declares the allowed include dependencies, such as device synchronization, ChromeOS sensors, JNI headers, device features and gfx geometry.

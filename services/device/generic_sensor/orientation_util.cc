@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Orientation utilities for rotation matrix conversion
+// summary: Implements computation of orientation Euler angles from a rotation matrix following the W3C device orientation spec, including gimbal lock handling.
+// ---
+
 #include "services/device/generic_sensor/orientation_util.h"
 
 #include <cmath>

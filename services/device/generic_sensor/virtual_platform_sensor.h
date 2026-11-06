@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualPlatformSensor class header
+// summary: Declares the VirtualPlatformSensor class, a PlatformSensor subclass used in tests that stores readings and simulates sensor behavior and removal.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_VIRTUAL_PLATFORM_SENSOR_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_VIRTUAL_PLATFORM_SENSOR_H_
 

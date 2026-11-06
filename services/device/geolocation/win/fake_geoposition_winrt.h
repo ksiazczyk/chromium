@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WinRT geoposition declarations
+// summary: Declares FakeGeoposition, a fake Windows Runtime IGeoposition class used in geolocation tests.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_GEOPOSITION_WINRT_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_GEOPOSITION_WINRT_H_
 

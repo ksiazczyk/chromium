@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationProviderAdapter
+// summary: Java-side adapter for the Android geolocation provider that delegates start/stop calls to the factory-created implementation and forwards location and error results to native code via JNI.
+// ---
+
 package org.chromium.device.geolocation;
 
 import android.location.Location;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID device service implementation
+// summary: Implements HidService device enumeration, observer notifications and platform-specific service creation for Linux, Mac, Windows, Fuchsia and Android.
+// ---
+
 #include "services/device/hid/hid_service.h"
 
 #include "base/at_exit.h"

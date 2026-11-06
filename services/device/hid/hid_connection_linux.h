@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux HID connection header
+// summary: Declares HidConnectionLinux, the Linux hidraw-based HidConnection with a SequenceBound helper for blocking device I/O.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_CONNECTION_LINUX_H_
 #define SERVICES_DEVICE_HID_HID_CONNECTION_LINUX_H_
 

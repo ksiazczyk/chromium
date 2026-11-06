@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Power monitor build targets (BUILD.gn)
+summary: GN build file defining the power_monitor source set with its sources and Mojo and base dependencies.

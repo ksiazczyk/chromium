@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Absolute orientation Euler angles fusion algorithm header
+// summary: Declares the fusion algorithm class that derives absolute orientation Euler angles from accelerometer and magnetometer sensors.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_ABSOLUTE_ORIENTATION_EULER_ANGLES_FUSION_ALGORITHM_USING_ACCELEROMETER_AND_MAGNETOMETER_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_ABSOLUTE_ORIENTATION_EULER_ANGLES_FUSION_ALGORITHM_USING_ACCELEROMETER_AND_MAGNETOMETER_H_
 

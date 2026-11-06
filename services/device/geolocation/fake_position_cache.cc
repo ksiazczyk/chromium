@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake position cache implementation
+// summary: Implements FakePositionCache, a simple in-memory PositionCache substitute that stores wifi data and geoposition pairs for testing.
+// ---
+
 #include "services/device/geolocation/fake_position_cache.h"
 
 #include <algorithm>

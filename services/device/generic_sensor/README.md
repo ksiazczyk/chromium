@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sensors
+summary: Explains how Chromium implements sensor APIs, covering fusion, security and privacy, code flow, permissions, testing with virtual sensors and platform-specific details.
+---
+
 # Sensors
 
 [TOC]

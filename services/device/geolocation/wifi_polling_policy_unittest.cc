@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WiFi polling policy
+// summary: Tests initial, polling and no-wifi interval behavior of GenericWifiPollingPolicy as scan results repeat or change.
+// ---
+
 #include "services/device/geolocation/wifi_polling_policy.h"
 
 #include <memory>

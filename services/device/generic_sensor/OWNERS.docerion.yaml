@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Delegates code ownership to the owners of the Blink sensor renderer module.

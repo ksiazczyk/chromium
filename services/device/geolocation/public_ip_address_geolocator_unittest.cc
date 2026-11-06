@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public IP address geolocator unit tests
+// summary: Unit tests for the public IP address geolocator, covering Mojo binding, QueryNextPosition calls and bad-message handling.
+// ---
+
 #include "services/device/geolocation/public_ip_address_geolocator.h"
 
 #include <memory>

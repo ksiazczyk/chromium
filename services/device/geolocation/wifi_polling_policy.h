@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi polling policy interface and generic implementation
+// summary: Defines the WifiPollingPolicy interface for scheduling WiFi scans and a compile-time parameterized GenericWifiPollingPolicy.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_POLLING_POLICY_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_POLLING_POLICY_H_
 
