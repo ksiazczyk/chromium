@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy diagnostic implementation
+// summary: Implements diagnostic snapshots of sandbox policies, converting token, job, integrity, mitigation, AppContainer and policy rule settings into value dictionaries for the browser's sandbox diagnostics page.
+// ---
+
 #include "sandbox/win/src/sandbox_policy_diagnostic.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for 64-bit NT API interceptions
+// summary: Declares the 64-bit interception functions for section, file, thread, token and other NT calls used by the Windows sandbox.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_INTERCEPTORS_64_H_
 #define SANDBOX_WIN_SRC_INTERCEPTORS_64_H_
 

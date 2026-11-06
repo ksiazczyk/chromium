@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy opcode unit tests
+// summary: Unit tests for ParameterSet storage and retrieval, opcode object constraints, and OpcodeFactory buffer limits with string and integer opcodes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

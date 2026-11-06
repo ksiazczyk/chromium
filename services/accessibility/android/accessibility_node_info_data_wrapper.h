@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_node_info_data_wrapper.h
+// summary: Declares the wrapper for Android accessibility node info data, including property accessors, Chrome role computation and cached values.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_ACCESSIBILITY_NODE_INFO_DATA_WRAPPER_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_ACCESSIBILITY_NODE_INFO_DATA_WRAPPER_H_
 

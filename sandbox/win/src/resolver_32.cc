@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 32-bit x86 interception thunk implementation
+// summary: Builds the packed machine-code thunk used on 32-bit Windows to redirect intercepted calls to the interceptor function.
+// ---
+
 #include "sandbox/win/src/resolver.h"
 
 #include <windows.h>

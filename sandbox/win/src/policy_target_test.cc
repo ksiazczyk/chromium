@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy target tests
+// summary: Tests policy target behavior in sandboxed child processes, covering shared memory handles, environment filtering, and thread token impersonation.
+// ---
+
 #include <ntstatus.h>
 
 #include <string_view>

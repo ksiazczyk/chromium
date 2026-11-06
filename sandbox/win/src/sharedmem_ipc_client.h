@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory IPC client interface
+// summary: Declares the shared memory IPC client with channel states, control structures, timeouts, and the client-server signaling protocol.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SHAREDMEM_IPC_CLIENT_H_
 #define SANDBOX_WIN_SRC_SHAREDMEM_IPC_CLIENT_H_
 

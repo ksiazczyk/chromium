@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle closer agent implementation
+// summary: Implements the target-side HandleCloserAgent that closes broker-listed handles, stuffs closed handle slots with dummy events and performs CSRSS disconnection cleanup.
+// ---
+
 #include "sandbox/win/src/handle_closer_agent.h"
 
 #include <Windows.h>

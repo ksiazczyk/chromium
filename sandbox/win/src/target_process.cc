@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target process implementation
+// summary: Implements the TargetProcess class that creates and manages sandboxed child processes, including IPC server setup, policy transfer and termination.
+// ---
+
 #include "sandbox/win/src/target_process.h"
 
 #include <windows.h>

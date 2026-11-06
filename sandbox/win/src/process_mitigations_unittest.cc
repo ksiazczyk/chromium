@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process mitigations tests
+// summary: Unit and integration tests for process mitigations, including non-system font loading restrictions and policy checks in sandboxed child processes.
+// ---
+
 #include "sandbox/win/src/process_mitigations.h"
 
 #include <windows.h>

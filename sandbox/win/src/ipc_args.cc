@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC argument parsing implementation
+// summary: Implements IPCArgs, filling and validating typed argument values for an IPC server call from cross-call parameters.
+// ---
+
 #include "sandbox/win/src/ipc_args.h"
 
 #include <base/notreached.h>

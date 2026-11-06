@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate window station and desktop creation
+// summary: Creates alternate window stations and desktops with reduced-privilege security descriptors for sandboxed targets.
+// ---
+
 #include "sandbox/win/src/window.h"
 
 #include <windows.h>

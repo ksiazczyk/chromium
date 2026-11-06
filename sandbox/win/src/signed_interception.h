@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtCreateSection interceptor declaration
+// summary: Declares the TargetNtCreateSection interception function used to hook section creation in sandboxed target processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SIGNED_INTERCEPTION_H_
 #define SANDBOX_WIN_SRC_SIGNED_INTERCEPTION_H_
 

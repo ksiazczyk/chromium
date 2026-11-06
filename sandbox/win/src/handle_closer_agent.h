@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle closer agent class declaration
+// summary: Declares the HandleCloserAgent class used in the target process to close handles matching the broker's list and track CSRSS connection state.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_HANDLE_CLOSER_AGENT_H_
 #define SANDBOX_WIN_SRC_HANDLE_CLOSER_AGENT_H_
 

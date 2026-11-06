@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Android accessibility tree source header
+// summary: Declares AXTreeSourceAndroid, a ui::AXTreeSource and AXActionHandler for Android accessibility trees, with delegate, serialization, and hook interfaces.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_AX_TREE_SOURCE_ANDROID_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_AX_TREE_SOURCE_ANDROID_H_
 

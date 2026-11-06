@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal sandbox types and constants
+// summary: Defines internal constants like DLL names, the ArgType encoding enum and the CountedBuffer span type used across the sandbox.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_INTERNAL_TYPES_H_
 #define SANDBOX_WIN_SRC_INTERNAL_TYPES_H_
 

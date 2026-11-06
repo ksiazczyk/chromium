@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy base implementation
+// summary: Implements the sandbox policy base, including shared policy memory setup, AppContainer SID handling, and target process spawn preparation.
+// ---
+
 #include "sandbox/win/src/sandbox_policy_base.h"
 
 #include <winternl.h>

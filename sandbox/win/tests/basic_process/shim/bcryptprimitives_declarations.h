@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BcryptPrimitives ProcessPrng declaration for the shim
+// summary: Declares the ProcessPrng entry point from bcryptprimitives.dll for use by the apifw.dll test shim.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_BCRYPTPRIMITIVES_DECLARATIONS_H_
 #define SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_BCRYPTPRIMITIVES_DECLARATIONS_H_
 

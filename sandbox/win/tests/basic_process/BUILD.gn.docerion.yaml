@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Basic Process audit shim
+summary: Defines the test-only apifw.dll and kernel32 shim targets plus allowlist coverage and thunk export audit actions.

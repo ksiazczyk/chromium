@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap helper for CSR port heap discovery
+// summary: Implements helpers that validate undocumented heap structures and locate the Windows CSR port heap by its flags.
+// ---
+
 #include "sandbox/win/src/heap_helper.h"
 
 #include <windows.h>

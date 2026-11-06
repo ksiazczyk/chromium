@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target process class declaration
+// summary: Declares the TargetProcess class that models a sandboxed target child process owned by the policy, with initialization and variable transfer APIs.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_TARGET_PROCESS_H_
 #define SANDBOX_WIN_SRC_TARGET_PROCESS_H_
 

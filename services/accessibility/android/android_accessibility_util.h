@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android accessibility utility header
+// summary: Declares Android-to-Chrome accessibility event and action conversion functions plus template helpers for reading accessibility node properties.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_ANDROID_ACCESSIBILITY_UTIL_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_ANDROID_ACCESSIBILITY_UTIL_H_
 

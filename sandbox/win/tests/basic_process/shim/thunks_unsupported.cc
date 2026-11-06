@@ -6,6 +6,12 @@
 // Keep generated forwarders sorted by DLL name, then by API name within each
 // DLL section.
 
+// ---docerion
+// type: test
+// title: Pass-through thunks for non-allowlisted APIs
+// summary: Defines logged pass-through forwarders for Windows APIs outside the basic-process allowlist, sorted by DLL name and then API name.
+// ---
+
 #include <windows.h>
 
 #include <aclapi.h>

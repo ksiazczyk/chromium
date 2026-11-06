@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-level policy implementation
+// summary: Implements LowLevelPolicy and PolicyRule, compiling added string and number rules into a packed policy store of opcodes for the target process.
+// ---
+
 #include "sandbox/win/src/policy_low_level.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-complete handler implementation
+// summary: Implements a tree source hook that detects autocomplete text view nodes and tracks their anchored suggestion popup windows during event dispatch.
+// ---
+
 #include "services/accessibility/android/auto_complete_handler.h"
 
 #include "base/memory/raw_ptr.h"

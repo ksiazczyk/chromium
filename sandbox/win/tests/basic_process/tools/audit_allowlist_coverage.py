@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Audit allowlist coverage of logging shim exports
+# summary: Build-time audit that the logging shim's export routing agrees with the basic-process API allowlist, failing the build when direct forwards or crash-sinks drift.
+# ---
+
 """Audit that the logging shim's export routing agrees with the allowlist.
 
 basic_sandbox.def is the in-repo basic-process API allowlist: the set of

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: PRESUBMIT.py check running shim tool unit tests
+# summary: Runs the Python unit tests in the tools directory when .py files change during presubmit.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

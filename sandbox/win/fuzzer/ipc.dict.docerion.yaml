@@ -1,0 +1,4 @@
+# Docerion header of ipc.dict.
+type: data
+title: IPC fuzzer dictionary
+summary: Dictionary of byte patterns and IPC argument types used by the sandbox IPC fuzzer to generate cross-call parameter buffers.

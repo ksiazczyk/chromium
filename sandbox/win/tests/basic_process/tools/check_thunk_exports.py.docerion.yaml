@@ -1,0 +1,4 @@
+# Docerion header of check_thunk_exports.py.
+type: test
+title: Check thunk exports against logging def
+summary: Verifies that Apifw thunks defined in shim source files are exported by exports_logging.def, reporting unexported thunks and failing on mismatch.

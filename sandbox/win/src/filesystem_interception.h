@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem interception declarations
+// summary: Declares the SANDBOX_INTERCEPT target-side interception functions for file system NT APIs such as NtCreateFile and NtOpenFile.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_FILESYSTEM_INTERCEPTION_H_
 #define SANDBOX_WIN_SRC_FILESYSTEM_INTERCEPTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox IPC fuzzer
+// summary: Fuzzer entry point that feeds arbitrary buffers into CrossCallParamsEx::CreateFromBuffer to exercise sandbox IPC parameter parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

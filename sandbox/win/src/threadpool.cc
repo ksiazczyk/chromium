@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread pool implementation
+// summary: Implements the ThreadPool class that registers and unregisters kernel waits used to service sandbox IPC callbacks.
+// ---
+
 #include "sandbox/win/src/threadpool.h"
 
 #include <windows.h>

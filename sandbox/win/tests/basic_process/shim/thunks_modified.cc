@@ -4,6 +4,12 @@
 
 // Thunks whose behavior differs from a plain OS forward.
 
+// ---docerion
+// type: test
+// title: Modified thunks for the basic process shim
+// summary: Implements shim thunks that alter OS behavior, such as mapping CP_ACP to UTF-8 in string conversion APIs and logging file and semaphore calls before forwarding to kernel32.
+// ---
+
 #include "sandbox/win/tests/basic_process/shim/shim_runtime.h"
 
 extern "C" {

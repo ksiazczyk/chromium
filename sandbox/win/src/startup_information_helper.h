@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup information helper header
+// summary: Declares StartupInformationHelper, a wrapper around base::win::StartupInformation for configuring process creation attributes between broker and target.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_STARTUP_INFORMATION_HELPER_H_
 #define SANDBOX_WIN_SRC_STARTUP_INFORMATION_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process and thread IPC dispatcher header
+// summary: Declares the ThreadProcessDispatcher class that handles process and thread related IPC requests from the target process.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_THREAD_DISPATCHER_H_
 #define SANDBOX_WIN_SRC_PROCESS_THREAD_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker services implementation
+// summary: Implements BrokerServicesBase, which initializes the broker, spawns and tracks sandboxed target processes, and manages job objects, policies and diagnostics.
+// ---
+
 #include "sandbox/win/src/broker_services.h"
 
 #include <stddef.h>

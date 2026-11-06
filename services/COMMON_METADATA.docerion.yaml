@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared issue-tracking metadata for services
+summary: Defines shared issue-tracking metadata assigning the Internals>Services Monorail component and a public Buganizer component ID.

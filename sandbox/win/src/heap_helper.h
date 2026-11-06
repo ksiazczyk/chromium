@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap helper interface
+// summary: Declares HeapFlags and FindCsrPortHeap helpers exposed for direct testing of heap inspection functionality.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_HEAP_HELPER_H_
 #define SANDBOX_WIN_SRC_HEAP_HELPER_H_
 

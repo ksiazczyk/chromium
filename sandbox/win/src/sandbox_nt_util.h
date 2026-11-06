@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox NT utility header
+// summary: Declares utilities for ntdll interception code in the Windows sandbox, including placement new/delete, debug macros, and shared memory access helpers.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_NT_UTIL_H_
 #define SANDBOX_WIN_SRC_SANDBOX_NT_UTIL_H_
 

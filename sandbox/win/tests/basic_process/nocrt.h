@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-CRT helper declarations for the shim
+// summary: Declares the C-linkage string and path helpers defined in nocrt.cc for the no-CRT shim DLL.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_BASIC_PROCESS_NOCRT_H_
 #define SANDBOX_WIN_TESTS_BASIC_PROCESS_NOCRT_H_
 

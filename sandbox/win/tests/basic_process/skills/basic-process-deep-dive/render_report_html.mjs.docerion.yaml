@@ -1,0 +1,4 @@
+# Docerion header of render_report_html.mjs.
+type: script
+title: Render Basic Process reports as HTML
+summary: Node script that converts Basic Process Markdown reports into styled HTML pages and writes an index.html linking the reports, interactive views, and evidence files.

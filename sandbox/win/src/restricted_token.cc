@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted Windows token creation
+// summary: Implements RestrictedToken, which builds restricted access tokens with deny-only SIDs, removed privileges, restricting SIDs, integrity levels and DACL entries.
+// ---
+
 #include "sandbox/win/src/restricted_token.h"
 
 #include <windows.h>

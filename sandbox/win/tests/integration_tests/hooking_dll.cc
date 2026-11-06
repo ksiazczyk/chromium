@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hooking DLL implementation for sandbox integration tests
+// summary: Implements a test DLL with a shared data segment that installs a Windows hook, records hook calls, and signals a named event for the test process.
+// ---
+
 #include <windows.h>
 
 #include <stdio.h>

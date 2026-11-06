@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service resolver core implementation
+// summary: Implements ServiceResolverThunk methods for resolving ntdll service targets and writing protected memory in the child process.
+// ---
+
 #include "sandbox/win/src/service_resolver.h"
 
 #include <ntstatus.h>

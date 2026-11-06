@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox factory implementation
+// summary: Implements SandboxFactory to return broker or target services based on the presence of the shared IPC section handle.
+// ---
+
 #include "sandbox/win/src/sandbox.h"
 
 #include <windows.h>

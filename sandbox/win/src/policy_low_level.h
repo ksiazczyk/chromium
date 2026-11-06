@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-level policy header
+// summary: Declares PolicyGlobal, PolicyRule and LowLevelPolicy for building string and number match rules that are compiled into opcode buffers.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_POLICY_LOW_LEVEL_H_
 #define SANDBOX_WIN_SRC_POLICY_LOW_LEVEL_H_
 

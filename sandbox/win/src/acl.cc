@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity level ACL helpers implementation
+// summary: Implements mapping of Windows integrity levels to RIDs and setting mandatory integrity labels on kernel objects.
+// ---
+
 #include "sandbox/win/src/acl.h"
 
 #include <windows.h>

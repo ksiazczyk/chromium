@@ -5,6 +5,12 @@
 // For information about interceptions as a whole see
 // http://dev.chromium.org/developers/design-documents/sandbox .
 
+// ---docerion
+// type: source
+// title: Interception manager implementation
+// summary: Implements the broker-side InterceptionManager that collects function patches and transfers interception data into the child process.
+// ---
+
 #include "sandbox/win/src/interception.h"
 
 #include <stddef.h>

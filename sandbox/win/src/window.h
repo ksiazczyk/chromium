@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for alternate window station and desktop helpers
+// summary: Declares functions to create alternate window stations and desktops and to build full desktop names for CreateProcess.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_WINDOW_H_
 #define SANDBOX_WIN_SRC_WINDOW_H_
 

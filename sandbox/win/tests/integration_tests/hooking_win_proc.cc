@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window procedure test executable for mitigation tests
+// summary: Implements a small Win32 application that registers a window class, runs a message loop, and signals named events used by sandbox mitigation tests.
+// ---
+
 #include "hooking_win_proc.h"
 
 #include <windows.h>

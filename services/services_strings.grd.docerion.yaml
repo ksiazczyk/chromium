@@ -1,0 +1,4 @@
+# Docerion header of services_strings.grd.
+type: config
+title: Grit string resources for services
+summary: Grit resource file holding translatable strings for code in //services and defining per-language .pak output files.

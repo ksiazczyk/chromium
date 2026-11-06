@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system policy class declaration
+// summary: Declares the FileSystemPolicy class that centralizes file system policy rule generation and broker-side create, open, query and set-information file actions.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_FILESYSTEM_POLICY_H_
 #define SANDBOX_WIN_SRC_FILESYSTEM_POLICY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shim logging implementation
+// summary: Implements bounds-checked log line building and file writing for the apifw.dll API-call logging shim.
+// ---
+
 #include "sandbox/win/tests/basic_process/shim/logging.h"
 
 #include <cstdint>

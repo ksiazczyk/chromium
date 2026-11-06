@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle closer configuration header
+// summary: Defines the HandleCloserConfig struct shared from broker to target, with flags controlling handle closing, section and device handle cleanup and CSRSS disconnection.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_HANDLE_CLOSER_H_
 #define SANDBOX_WIN_SRC_HANDLE_CLOSER_H_
 

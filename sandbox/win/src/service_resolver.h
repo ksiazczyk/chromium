@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service resolver for ntdll service calls
+// summary: Declares ServiceResolverThunk, the resolver that patches service-call functions inside ntdll.dll to enable interception.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SERVICE_RESOLVER_H_
 #define SANDBOX_WIN_SRC_SERVICE_RESOLVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake accessibility helper instance header
+// summary: Declares a fake AccessibilityHelperInstance that stores filter, explore-by-touch, and last-requested action state for test inspection.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_TEST_FAKE_ACCESSIBILITY_HELPER_INSTANCE_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_TEST_FAKE_ACCESSIBILITY_HELPER_INSTANCE_H_
 

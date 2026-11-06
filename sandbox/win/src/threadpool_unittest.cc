@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread pool unit tests
+// summary: Unit tests verifying registration, unregistration and event servicing behavior of the sandbox IPC thread pool.
+// ---
+
 #include "sandbox/win/src/threadpool.h"
 
 #include <windows.h>

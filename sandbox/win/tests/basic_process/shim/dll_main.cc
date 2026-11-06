@@ -4,6 +4,12 @@
 
 // Process-wide state for the apifw.dll logging shim.
 
+// ---docerion
+// type: test
+// title: apifw.dll entry point and process state
+// summary: Implements the apifw.dll DLL entry point, parsing test command-line switches to open the log file and enable call-site logging and audit mode.
+// ---
+
 #include <windows.h>
 
 #include <cstdint>

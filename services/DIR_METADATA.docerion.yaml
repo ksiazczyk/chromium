@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for services
+summary: Directory metadata file that mixes in COMMON_METADATA and points to the dirmd schema documentation.

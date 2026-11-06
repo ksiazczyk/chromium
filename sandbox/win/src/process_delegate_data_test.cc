@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process delegate data tests
+// summary: Verifies that delegate data added to the sandbox policy reaches the target process and can be read through target services.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

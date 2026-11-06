@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android accessibility event conversion utilities
+// summary: Implements conversion of Android accessibility events and actions to Chrome accessibility equivalents, including live region handling and property helpers.
+// ---
+
 #include "services/accessibility/android/android_accessibility_util.h"
 
 #include <optional>

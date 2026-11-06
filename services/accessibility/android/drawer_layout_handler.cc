@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drawer layout handler implementation
+// summary: Implements a tree source hook that maps Android DrawerLayout nodes to Chrome menu roles and names the opened drawer menu during serialization.
+// ---
+
 #include "services/accessibility/android/drawer_layout_handler.h"
 
 #include <vector>

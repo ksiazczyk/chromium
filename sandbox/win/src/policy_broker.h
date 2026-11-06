@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy broker interface
+// summary: Declares functions that set up basic interceptions and ntdll imports for sandboxed target processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_POLICY_BROKER_H_
 #define SANDBOX_WIN_SRC_POLICY_BROKER_H_
 

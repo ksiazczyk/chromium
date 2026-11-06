@@ -4,6 +4,12 @@
 
 // Some tests for the framework itself.
 
+// ---docerion
+// type: test
+// title: Framework tests for the Windows sandbox test harness
+// summary: Contains SBOX_TEST commands and a policy diagnostics receiver that exercise the sandbox test framework itself, covering process state, arguments, and events.
+// ---
+
 #include <windows.h>
 
 #include <stddef.h>

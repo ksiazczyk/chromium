@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Windows sandbox utility helpers
+// summary: Declares sandbox utility functions for handle path and type lookup, child memory copy, pipe detection, NTSTATUS conversion, and environment filtering.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_WIN_UTILS_H_
 #define SANDBOX_WIN_SRC_WIN_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of sandbox_policy_rule.dict.
+type: data
+title: Policy rule fuzzer dictionary
+summary: Dictionary of wide-string paths, pipe names and byte patterns used by the sandbox policy rule fuzzer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test utilities header
+// summary: Declares reparse point helpers and the DACL SID check used by the Windows sandbox tests.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_COMMON_TEST_UTILS_H_
 #define SANDBOX_WIN_TESTS_COMMON_TEST_UTILS_H_
 

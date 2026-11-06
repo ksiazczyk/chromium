@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox NT utility unit tests
+// summary: Unit tests for sandbox NT utilities, covering process handle comparison and the searching allocator across reserved memory regions.
+// ---
+
 #include "sandbox/win/src/sandbox_nt_util.h"
 
 #include <windows.h>

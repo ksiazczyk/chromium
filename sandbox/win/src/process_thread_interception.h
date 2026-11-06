@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for process and thread interception hooks
+// summary: Declares the SANDBOX_INTERCEPT target functions that intercept thread, process, token and CreateThread calls in the child process.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_PROCESS_THREAD_INTERCEPTION_H_
 #define SANDBOX_WIN_SRC_PROCESS_THREAD_INTERCEPTION_H_
 

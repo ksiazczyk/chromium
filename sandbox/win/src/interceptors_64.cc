@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 64-bit interception targets for NT API calls
+// summary: Implements 64-bit interception wrappers for NT functions such as section mapping, file, thread and token calls in the sandboxed target process.
+// ---
+
 
 #include "sandbox/win/src/interceptors_64.h"
 

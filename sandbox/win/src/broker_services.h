@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker services header
+// summary: Declares the BrokerServicesBase class implementing the BrokerServices interface for creating policies, spawning targets and managing alternate desktops.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_BROKER_SERVICES_H_
 #define SANDBOX_WIN_SRC_BROKER_SERVICES_H_
 

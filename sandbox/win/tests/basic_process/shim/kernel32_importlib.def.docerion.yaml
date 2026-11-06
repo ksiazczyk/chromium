@@ -1,0 +1,4 @@
+# Docerion header of kernel32_importlib.def.
+type: test
+title: Fake kernel32 import library definition
+summary: Defines a fake kernel32.dll import library scoped to the APIs allowed by basic_sandbox.def for the basic-process test.

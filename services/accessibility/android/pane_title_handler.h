@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pane title handler header
+// summary: Declares PaneTitleHandler, an AXTreeSourceAndroid hook that exposes Android pane titles as live region announcements in the accessibility tree.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_PANE_TITLE_HANDLER_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_PANE_TITLE_HANDLER_H_
 

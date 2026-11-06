@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window procedure test header
+// summary: Defines constants for the window procedure test executable name and its named synchronization event.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_INTEGRATION_TESTS_HOOKING_WIN_PROC_H_
 #define SANDBOX_WIN_TESTS_INTEGRATION_TESTS_HOOKING_WIN_PROC_H_
 

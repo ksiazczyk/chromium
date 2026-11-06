@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: CFG and CFI integration tests for Windows sandbox
+// summary: Verifies that Control Flow Guard works with setjmp/longjmp and that an invalid indirect call into Microsoft binaries causes a CFG violation.
+// ---
+
 #include <windows.h>
 
 #include <intrin.h>

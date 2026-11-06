@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security capabilities header
+// summary: Declares the SecurityCapabilities class, which wraps AppContainer package and capability SIDs for use when launching sandboxed processes.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SECURITY_CAPABILITIES_H_
 #define SANDBOX_WIN_SRC_SECURITY_CAPABILITIES_H_
 

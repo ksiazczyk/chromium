@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossCall IPC server interface
+// summary: Declares CrossCallParamsEx for validated parameter access and the dispatcher and thread pool interfaces that route IPC calls on the broker side.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_CROSSCALL_SERVER_H_
 #define SANDBOX_WIN_SRC_CROSSCALL_SERVER_H_
 

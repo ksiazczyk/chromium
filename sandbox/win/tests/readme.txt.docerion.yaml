@@ -1,0 +1,4 @@
+# Docerion header of readme.txt.
+type: readme
+title: Sandbox Windows Tests Overview
+summary: 'Describes the test categories in the sandbox tests folder: integration tests that spawn child processes, unit tests, and validation tests for the sandbox rules engine.'

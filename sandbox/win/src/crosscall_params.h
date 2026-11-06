@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossCall IPC parameter types
+// summary: Defines the shared IPC types CrossCallParams, ActualCallParams and CrossCallReturn that model input parameters and return values for sandbox IPC calls.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_CROSSCALL_PARAMS_H_
 #define SANDBOX_WIN_SRC_CROSSCALL_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox global variable definitions
+// summary: Defines shared sandbox globals, including the IPC and policy section handle and the ntdll export table.
+// ---
+
 #include <windows.h>
 
 #include "sandbox/win/src/sandbox_nt_types.h"

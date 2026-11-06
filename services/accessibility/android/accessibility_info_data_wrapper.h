@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: accessibility_info_data_wrapper.h
+// summary: Declares the abstract base class that wraps a single Android accessibility node or window for use by AXTreeSourceAndroid.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_ACCESSIBILITY_INFO_DATA_WRAPPER_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_ACCESSIBILITY_INFO_DATA_WRAPPER_H_
 

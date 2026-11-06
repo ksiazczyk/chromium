@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC service tag definitions
+// summary: Defines the IpcTag enum listing all sandbox IPC services such as file, thread, GDI and section calls.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_IPC_TAGS_H_
 #define SANDBOX_WIN_SRC_IPC_TAGS_H_
 

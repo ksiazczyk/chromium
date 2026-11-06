@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox policy base header
+// summary: Declares ConfigBase, the TargetConfig implementation shared across sandbox policies, with settings for tokens, jobs, mitigations, and AppContainers.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_SANDBOX_POLICY_BASE_H_
 #define SANDBOX_WIN_SRC_SANDBOX_POLICY_BASE_H_
 

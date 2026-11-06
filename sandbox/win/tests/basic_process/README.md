@@ -1,3 +1,13 @@
+---
+type: readme
+title: Basic Process API audit shim
+summary: Documents how the apifw.dll shim audits Windows API use against the Basic Process allowlist, its command-line switches, and how to run the test.
+relations:
+  - references /build/win/redirect_imports.gni
+  - documents /sandbox/win/tests/basic_process/basic_sandbox.def
+  - documents /sandbox/win/tests/basic_process/shim/exports_logging.def
+---
+
 # Basic Process API audit shim
 
 This directory provides `apifw.dll`, a Windows-only shim for auditing a

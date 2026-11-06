@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolverThunk interface for interception resolvers
+// summary: Defines the ResolverThunk interface that sets up function interception thunks, resolves target functions and reports the required thunk storage size.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_RESOLVER_H_
 #define SANDBOX_WIN_SRC_RESOLVER_H_
 

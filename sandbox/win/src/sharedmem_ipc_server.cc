@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory IPC server implementation
+// summary: Implements the broker-side shared memory IPC server that initializes channels, creates ping and pong events, and dispatches client requests.
+// ---
+
 #include "sandbox/win/src/sharedmem_ipc_server.h"
 
 #include <stddef.h>

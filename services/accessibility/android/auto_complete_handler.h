@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-complete handler header
+// summary: Declares AutoCompleteHandler, an AXTreeSourceAndroid hook that adjusts serialization for autocomplete suggestion popups.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_AUTO_COMPLETE_HANDLER_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_AUTO_COMPLETE_HANDLER_H_
 

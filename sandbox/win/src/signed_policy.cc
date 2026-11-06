@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed policy rule generation
+// summary: Implements SignedPolicy::GenerateRules, which creates low-level policy rules that return a pre-created section handle matching a given DLL path.
+// ---
+
 #include "sandbox/win/src/signed_policy.h"
 
 #include <ntstatus.h>

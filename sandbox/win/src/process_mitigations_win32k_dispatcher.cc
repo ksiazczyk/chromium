@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32K lockdown dispatcher implementation
+// summary: Implements the dispatcher that sets up EAT intercepts for gdi32 and user32 calls when the Win32K lockdown mitigation is enabled.
+// ---
+
 #include "sandbox/win/src/process_mitigations_win32k_dispatcher.h"
 
 #include <algorithm>

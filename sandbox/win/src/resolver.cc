@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolverThunk initialization for function interception
+// summary: Implements ResolverThunk::Init, validating parameters and resolving the interception target and interceptor entry point into member variables.
+// ---
+
 #include "sandbox/win/src/resolver.h"
 
 #include <windows.h>

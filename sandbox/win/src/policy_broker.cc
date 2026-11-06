@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker-side basic interception setup
+// summary: Sets up broker-side interceptions without explicit policies and transfers ntdll imports to the target process.
+// ---
+
 #include "sandbox/win/src/policy_broker.h"
 
 #include <stddef.h>

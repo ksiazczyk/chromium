@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtCreateSection interception shim
+// summary: Implements the TargetNtCreateSection interceptor, which duplicates constant section handles for signed binaries and falls back to the original API otherwise.
+// ---
+
 #include "sandbox/win/src/signed_interception.h"
 
 #include <ntstatus.h>

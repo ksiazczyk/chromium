@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android accessibility tree source unit tests
+// summary: Unit tests for AXTreeSourceAndroid event handling, serialization, and action dispatch using a mock automation event router.
+// ---
+
 #include "services/accessibility/android/ax_tree_source_android.h"
 
 #include <memory>

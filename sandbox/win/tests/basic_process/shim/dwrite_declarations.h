@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DWriteCore factory declaration for the shim
+// summary: Declares the DWriteCoreCreateFactory entry point needed by the apifw.dll test shim.
+// ---
+
 #ifndef SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_DWRITE_DECLARATIONS_H_
 #define SANDBOX_WIN_TESTS_BASIC_PROCESS_SHIM_DWRITE_DECLARATIONS_H_
 

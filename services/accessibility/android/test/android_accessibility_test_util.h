@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android accessibility test utility header
+// summary: Declares test helpers and macros for setting properties and actions on Android accessibility event, node, and window mojom structs.
+// ---
+
 #ifndef SERVICES_ACCESSIBILITY_ANDROID_TEST_ANDROID_ACCESSIBILITY_TEST_UTIL_H_
 #define SERVICES_ACCESSIBILITY_ANDROID_TEST_ANDROID_ACCESSIBILITY_TEST_UTIL_H_
 

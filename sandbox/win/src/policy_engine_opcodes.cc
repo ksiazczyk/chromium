@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy engine opcode implementation
+// summary: Implements factory and evaluation functions for low-level sandbox policy opcodes such as number matching, string matching, and actions.
+// ---
+
 #include "sandbox/win/src/policy_engine_opcodes.h"
 
 #include <stddef.h>

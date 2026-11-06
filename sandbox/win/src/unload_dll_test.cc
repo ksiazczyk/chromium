@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unload DLL tests
+// summary: Integration tests verifying that DLLs marked for unloading, such as avicap32.dll, cannot be loaded or used inside the sandbox.
+// ---
+
 #include <windows.h>
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process policy tests for process and thread access
+// summary: Contains sandbox tests for opening processes, threads and tokens, and for thread creation under the process policy.
+// ---
+
 #include <memory>
 #include <string>
 

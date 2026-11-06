@@ -6,6 +6,12 @@
 // for the sandboxed process. For more details see
 // http://dev.chromium.org/developers/design-documents/sandbox .
 
+// ---docerion
+// type: source
+// title: Interception manager interface
+// summary: Declares InterceptionManager, which sets up function interceptions and places the interception agent in the sandboxed child process.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_INTERCEPTION_H_
 #define SANDBOX_WIN_SRC_INTERCEPTION_H_
 

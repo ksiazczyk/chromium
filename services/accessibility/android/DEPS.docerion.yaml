@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines the allowed include rules for the Android accessibility service directory, covering ash, extensions, ui accessibility and utility headers.

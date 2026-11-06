@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process and thread interception hooks for the Windows sandbox
+// summary: Implements interception of NtOpenThread, NtOpenProcess and process token APIs in the sandboxed child process, proxying calls to the broker over shared-memory IPC.
+// ---
+
 #include "sandbox/win/src/process_thread_interception.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC ping tests
+// summary: Verifies that the sandbox IPC ping service works before and after the token drop in the target process.
+// ---
+
 #include "base/strings/string_number_conversions_win.h"
 #include "sandbox/win/src/sandbox.h"
 #include "sandbox/win/src/sandbox_factory.h"

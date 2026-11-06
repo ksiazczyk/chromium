@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy engine processor implementation
+// summary: Implements the PolicyProcessor that evaluates policy opcode streams against parameter sets to find matching sandbox rules and actions.
+// ---
+
 #include "sandbox/win/src/policy_engine_processor.h"
 
 #include <stddef.h>

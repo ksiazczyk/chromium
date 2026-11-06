@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppContainer interface
+// summary: Defines the AppContainer interface for access checks, capability management, and security capabilities.
+// ---
+
 #ifndef SANDBOX_WIN_SRC_APP_CONTAINER_H_
 #define SANDBOX_WIN_SRC_APP_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Handle inheritance tests
+// summary: Tests that a sandboxed child process inherits and redirects a stdout handle, writing expected output to a temporary file.
+// ---
+
 #include <windows.h>
 
 #include "base/files/file_util.h"
