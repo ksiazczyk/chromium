@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamProvider implementation
+// summary: Implements StreamProvider and its MediaStream, which wrap remote audio and video demuxer streams and fetch decoder buffers via ReadUntil RPC messages.
+// ---
+
 #include "media/remoting/stream_provider.h"
 
 #include <vector>

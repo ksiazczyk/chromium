@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for //media/remoting
+summary: GN build file defining source sets for the remoting sender, renderer, and device capability code plus the media remoting unit test targets.

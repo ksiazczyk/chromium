@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOPVideoDecoderFactoryProcessService class declaration
+// summary: Declares the OOPVideoDecoderFactoryProcessService class that lets the browser process initialize a video decoder InterfaceFactory and observes GPU channel loss.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_OOP_VIDEO_DECODER_FACTORY_PROCESS_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_OOP_VIDEO_DECODER_FACTORY_PROCESS_SERVICE_H_
 

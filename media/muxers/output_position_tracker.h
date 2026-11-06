@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputPositionTracker class header
+// summary: Declares OutputPositionTracker, which supplies the current buffer offset needed for writing MOOF and TFHD boxes.
+// ---
+
 #ifndef MEDIA_MUXERS_OUTPUT_POSITION_TRACKER_H_
 #define MEDIA_MUXERS_OUTPUT_POSITION_TRACKER_H_
 

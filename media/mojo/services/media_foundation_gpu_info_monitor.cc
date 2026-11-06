@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation GPU info monitor implementation
+// summary: Implements a singleton that tracks GPUInfo updates and notifies registered observers when the active GPU LUID changes.
+// ---
+
 #include "media/mojo/services/media_foundation_gpu_info_monitor.h"
 
 namespace media {

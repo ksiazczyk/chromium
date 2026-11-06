@@ -4,6 +4,12 @@
 //
 // This file contains an implementation of an H265 Annex-B video stream parser.
 
+// ---docerion
+// type: source
+// title: H.265 parser header
+// summary: Declares H.265 parser data structures such as profile/tier/level, scaling list data, and the H265Parser class.
+// ---
+
 #ifndef MEDIA_PARSERS_H265_PARSER_H_
 #define MEDIA_PARSERS_H265_PARSER_H_
 

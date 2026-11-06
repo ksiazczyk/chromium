@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Receiver unit tests
+// summary: Unit tests for the remoting Receiver renderer, using a mock sender over the RPC messenger to verify renderer initialization, playback callbacks, and error handling.
+// ---
+
 #include "media/remoting/receiver.h"
 
 #include <optional>

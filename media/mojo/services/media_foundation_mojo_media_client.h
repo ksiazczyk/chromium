@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Mojo media client header
+// summary: Declares MediaFoundationMojoMediaClient, the MojoMediaClient for the Media Foundation service utility process hosting the Media Foundation renderer and CDM.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_MOJO_MEDIA_CLIENT_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_MOJO_MEDIA_CLIENT_H_
 

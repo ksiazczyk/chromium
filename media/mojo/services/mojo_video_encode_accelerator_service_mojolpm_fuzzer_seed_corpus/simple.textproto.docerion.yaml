@@ -1,0 +1,4 @@
+# Docerion header of simple.textproto.
+type: data
+title: MojoVideoEncodeAcceleratorService MojoLPM fuzzer seed corpus entry
+summary: Textproto seed that drives the MojoLPM fuzzer through the service's Initialize and Encode deserialization paths using a populated encoder config and VideoFrame.

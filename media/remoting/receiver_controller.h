@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReceiverController class declaration
+// summary: Declares the ReceiverController singleton, a RemotingSink implementation that owns the RPC messenger for receiver-to-sender communication and proxies calls to the Remotee interface.
+// ---
+
 #ifndef MEDIA_REMOTING_RECEIVER_CONTROLLER_H_
 #define MEDIA_REMOTING_RECEIVER_CONTROLLER_H_
 

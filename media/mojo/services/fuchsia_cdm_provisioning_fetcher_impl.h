@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM provisioning fetcher header
+// summary: Declares the server-end implementation of the fuchsia.media.drm.ProvisioningFetcher protocol used for CDM provisioning.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_FUCHSIA_CDM_PROVISIONING_FETCHER_IMPL_H_
 #define MEDIA_MOJO_SERVICES_FUCHSIA_CDM_PROVISIONING_FETCHER_IMPL_H_
 

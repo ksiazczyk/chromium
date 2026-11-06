@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo video encode accelerator integration test
+// summary: Integration test that verifies the Mojo video encode accelerator client and service using a fake encoder implementation.
+// ---
+
 #include <stddef.h>
 #include <memory>
 

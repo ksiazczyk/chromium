@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Temporal scalability ID extractor implementation
+// summary: Extracts temporal layer IDs and reference frame metadata from H264, HEVC, VP9, and AV1 encoded bitstream chunks.
+// ---
+
 #include "media/parsers/temporal_scalability_id_extractor.h"
 
 #include <bitset>

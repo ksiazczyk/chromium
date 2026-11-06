@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 parser unit test
+// summary: Unit test that parses a test-25fps.vp8 IVF stream and verifies all contained frames are parsed successfully.
+// ---
+
 #include "media/parsers/vp8_parser.h"
 
 #include <stddef.h>

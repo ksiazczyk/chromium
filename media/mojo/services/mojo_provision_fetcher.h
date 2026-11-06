@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo provision fetcher header
+// summary: Declares MojoProvisionFetcher, a media::ProvisionFetcher that proxies provisioning requests to a remote mojom::ProvisionFetcher through Mojo bindings.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_PROVISION_FETCHER_H_
 #define MEDIA_MOJO_SERVICES_MOJO_PROVISION_FETCHER_H_
 

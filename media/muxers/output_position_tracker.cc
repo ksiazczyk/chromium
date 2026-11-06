@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputPositionTracker implementation
+// summary: Implements OutputPositionTracker, which forwards data spans to the muxer write callback and tracks the current output byte offset.
+// ---
+
 #include "media/muxers/output_position_tracker.h"
 
 #include "base/functional/callback.h"

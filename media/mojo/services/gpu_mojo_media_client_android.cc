@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GpuMojoMediaClient implementation
+// summary: Android-specific GpuMojoMediaClient that creates MediaCodec video decoders, an Android CDM factory, and platform audio decoder configs.
+// ---
+
 #include "media/mojo/services/gpu_mojo_media_client.h"
 
 #include "base/android/android_info.h"

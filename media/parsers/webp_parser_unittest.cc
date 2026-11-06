@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebP parser unit tests
+// summary: Tests WebP header validation and VP8 frame parsing using valid, lossless, extended and various malformed WebP file headers.
+// ---
+
 #include "media/parsers/webp_parser.h"
 
 #include <stddef.h>

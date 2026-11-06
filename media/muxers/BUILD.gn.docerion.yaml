@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the media muxers
+summary: Defines the muxers source set and its unit_tests target, listing sources and dependencies for the //media/muxers directory.

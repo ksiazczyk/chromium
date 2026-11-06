@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoVideoEncoderMetricsProviderService unit tests
+// summary: Unit tests verifying that the video encoder metrics provider reports the expected UKM entries and histograms across encoder use cases, profiles and statuses.
+// ---
+
 #include "media/mojo/services/mojo_video_encoder_metrics_provider_service.h"
 
 #include <stddef.h>

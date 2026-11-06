@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileWebmMuxerDelegate class declaration
+// summary: Declares a WebmMuxer delegate providing a seekable file-based IMkvWriter so a SeekHead element can be written for arbitrary seeking.
+// ---
+
 #ifndef MEDIA_MUXERS_FILE_WEBM_MUXER_DELEGATE_H_
 #define MEDIA_MUXERS_FILE_WEBM_MUXER_DELEGATE_H_
 

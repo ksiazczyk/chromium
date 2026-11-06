@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 uncompressed header parser implementation
+// summary: Parses VP9 uncompressed frame headers, including default probability tables, color config, frame sizes, loop filter, quantization and segmentation parameters.
+// ---
+
 #include "media/parsers/vp9_uncompressed_header_parser.h"
 
 #include <array>

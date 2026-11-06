@@ -1,0 +1,4 @@
+# Docerion header of update_record_and_get_perf.textproto.
+type: data
+title: 'WebRTC video perf fuzzer seed: update record and get perf'
+summary: Seed corpus input for the WebRTC video performance fuzzer, defining update_record and get_perf_info actions with decode stats features and video processing stats.

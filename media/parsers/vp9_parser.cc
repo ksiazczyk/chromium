@@ -9,6 +9,12 @@
 //  2 parsing steps
 //  3 parsed values (selected)
 
+// ---docerion
+// type: source
+// title: VP9 bitstream parser implementation
+// summary: Implements the VP9 bitstream parser, including dequantization lookup tables, to support hardware decode acceleration.
+// ---
+
 #include "media/parsers/vp9_parser.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMediaClient interface
+// summary: Declares the MojoMediaClient interface MediaService uses to create concrete platform-specific media components such as decoders, renderers, and CDM factories.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_MEDIA_CLIENT_H_
 #define MEDIA_MOJO_SERVICES_MOJO_MEDIA_CLIENT_H_
 

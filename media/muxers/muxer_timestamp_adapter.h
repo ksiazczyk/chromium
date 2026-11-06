@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muxer timestamp adapter header
+// summary: Declares an adapter that orders incoming samples by timestamp and handles MediaRecorder pause/resume, track ending, and enabledness for muxers.
+// ---
+
 #ifndef MEDIA_MUXERS_MUXER_TIMESTAMP_ADAPTER_H_
 #define MEDIA_MUXERS_MUXER_TIMESTAMP_ADAPTER_H_
 

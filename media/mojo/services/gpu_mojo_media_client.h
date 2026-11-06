@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuMojoMediaClient class declaration
+// summary: Declares GpuMojoMediaClient plus VideoDecoderTraits and GpuMojoMediaClientTraits structs used to build platform-specific GPU media clients.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_GPU_MOJO_MEDIA_CLIENT_H_
 #define MEDIA_MOJO_SERVICES_GPU_MOJO_MEDIA_CLIENT_H_
 

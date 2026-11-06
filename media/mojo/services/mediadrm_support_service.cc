@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmSupportService implementation
+// summary: Implements the mojom::MediaDrmSupport service that reports key system container support and version via MediaDrmBridge on Android.
+// ---
+
 #include "media/mojo/services/mediadrm_support_service.h"
 
 #include <utility>

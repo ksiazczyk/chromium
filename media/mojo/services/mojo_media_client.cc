@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMediaClient default implementation
+// summary: Provides the default MojoMediaClient implementation whose factory methods return null, intended to be overridden by platform-specific clients.
+// ---
+
 #include "media/mojo/services/mojo_media_client.h"
 
 #include "base/task/sequenced_task_runner.h"

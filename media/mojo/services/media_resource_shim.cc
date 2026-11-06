@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media resource shim implementation
+// summary: Implements a MediaResource shim that adapts Mojo demuxer streams for the renderer pipeline and signals when all streams are ready.
+// ---
+
 #include "media/mojo/services/media_resource_shim.h"
 
 #include <utility>

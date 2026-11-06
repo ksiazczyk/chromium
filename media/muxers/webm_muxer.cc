@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebmMuxer implementation
+// summary: Implements the WebmMuxer that wraps encoded VP8, VP9, AV1, H.264 and Opus or PCM frames into a WebM container via libwebm.
+// ---
+
 #include "media/muxers/webm_muxer.h"
 
 #include <algorithm>

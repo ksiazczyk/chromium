@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 uncompressed header parser unit tests
+// summary: Tests SetupPastIndependence and the default frame context of Vp9UncompressedHeaderParser, checking reference frame sign bias and loop filter defaults.
+// ---
+
 #include "media/parsers/vp9_uncompressed_header_parser.h"
 
 #include <type_traits>

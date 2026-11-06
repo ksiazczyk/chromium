@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM service class declaration
+// summary: Declares CdmService, the mojom::CdmService implementation that hosts CDM factories, together with its Client interface.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_CDM_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_CDM_SERVICE_H_
 

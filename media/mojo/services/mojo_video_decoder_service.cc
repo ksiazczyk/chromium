@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video decoder service implementation
+// summary: Implements the mojom::VideoDecoder service in the GPU process, wrapping a media::VideoDecoder for decode, reset, tracing, and video frame handle release.
+// ---
+
 #include "media/mojo/services/mojo_video_decoder_service.h"
 
 #include <memory>

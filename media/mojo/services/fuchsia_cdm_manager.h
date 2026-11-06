@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuchsiaCdmManager class header
+// summary: Declares FuchsiaCdmManager, which creates and connects to Fuchsia media DRM key systems and manages CDM user data storage.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_FUCHSIA_CDM_MANAGER_H_
 #define MEDIA_MOJO_SERVICES_FUCHSIA_CDM_MANAGER_H_
 

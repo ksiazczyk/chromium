@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake media resource implementation
+// summary: Implements fake demuxer streams and a MediaResource that generate synthetic audio and video frames for use in remoting tests.
+// ---
+
 #include "media/remoting/fake_media_resource.h"
 
 #include <vector>

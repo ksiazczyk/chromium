@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo renderer service header
+// summary: Declares MojoRendererService, a mojom::Renderer implementation that uses a media::Renderer to render media streams and forwards renderer client events.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_RENDERER_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_RENDERER_SERVICE_H_
 

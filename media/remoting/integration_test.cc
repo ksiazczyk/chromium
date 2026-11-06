@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media remoting pipeline integration tests
+// summary: Runs pipeline integration tests with the End2EndTestRenderer covering basic playback, media source playback, config changes, and seeking during remoting.
+// ---
+
 #include <memory>
 
 #include "media/base/test_data_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP4 muxer unit tests
+// summary: Unit tests for Mp4Muxer using a mock delegate to verify that frames, flush calls, and output intervals are forwarded correctly.
+// ---
+
 #include "media/muxers/mp4_muxer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H26x SEI metadata implementation
+// summary: Implements conversion of H.26x SEI content light level and mastering display info to Skia HDR metadata plus T35 user data lifecycle.
+// ---
+
 #include "media/parsers/h26x_parser.h"
 
 namespace media {

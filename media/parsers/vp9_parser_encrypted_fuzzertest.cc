@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encrypted VP9 parser libFuzzer target
+// summary: LibFuzzer entry point that parses IVF VP9 frames with generated CENC decrypt configurations to exercise encrypted stream parsing.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

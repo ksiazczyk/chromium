@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4MuxerDelegateFragment class declaration
+// summary: Declares the fragment class that manages movie fragment and media data boxes for audio and video tracks.
+// ---
+
 #ifndef MEDIA_MUXERS_MP4_MUXER_DELEGATE_FRAGMENT_H_
 #define MEDIA_MUXERS_MP4_MUXER_DELEGATE_FRAGMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface factory implementation header
+// summary: Declares InterfaceFactoryImpl, the mojom::InterfaceFactory implementation that creates media decoder, encoder, renderer, and CDM services.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_INTERFACE_FACTORY_IMPL_H_
 #define MEDIA_MOJO_SERVICES_INTERFACE_FACTORY_IMPL_H_
 

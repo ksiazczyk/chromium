@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mp4MuxerContext unit tests
+// summary: Unit tests verifying that video and audio tracks can be set and retrieved and that data is written via the tracker.
+// ---
+
 #include "media/muxers/mp4_muxer_context.h"
 
 #include <string>

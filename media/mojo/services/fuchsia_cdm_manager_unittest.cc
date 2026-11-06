@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuchsiaCdmManager unit tests
+// summary: Tests FuchsiaCdmManager CDM creation, provisioning and storage quota behavior using mock Fuchsia key systems and a mock provision fetcher.
+// ---
+
 #include "media/mojo/services/fuchsia_cdm_manager.h"
 
 #include <fuchsia/media/drm/cpp/fidl.h>

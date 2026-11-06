@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Mojo utility functions for provision fetcher and DRM storage
+// summary: Creates Mojo-backed provision fetcher and MediaDrm storage remotes from the frame interface factory for Android media clients.
+// ---
+
 #include "media/mojo/services/android_mojo_util.h"
 
 #include "media/mojo/services/mojo_media_drm_storage.h"

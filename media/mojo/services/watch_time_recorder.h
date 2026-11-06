@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatchTimeRecorder class declaration
+// summary: Declares WatchTimeRecorder, the Mojo implementation that records watch time histograms, underflow counts, and UKM playback data.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_WATCH_TIME_RECORDER_H_
 #define MEDIA_MOJO_SERVICES_WATCH_TIME_RECORDER_H_
 

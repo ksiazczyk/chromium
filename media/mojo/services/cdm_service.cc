@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM service implementation
+// summary: Implements CdmService and its CdmFactory, which create and host Mojo CDM services with deferred destruction to protect active CDMs.
+// ---
+
 #include "media/mojo/services/cdm_service.h"
 
 #include <utility>

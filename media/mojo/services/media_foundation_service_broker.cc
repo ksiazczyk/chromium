@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation service broker implementation
+// summary: Implements the service broker that initializes the CDM module, binds the Media Foundation service, forwards GPU info updates, and terminates failed services.
+// ---
+
 #include "media/mojo/services/media_foundation_service_broker.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamProvider demuxer for the Media Remoting receiver
+// summary: Implements the media::Demuxer interface for the Media Remoting receiver, providing audio and video DemuxerStreams that receive frames from mojo data pipes over RPC.
+// ---
+
 #ifndef MEDIA_REMOTING_STREAM_PROVIDER_H_
 #define MEDIA_REMOTING_STREAM_PROVIDER_H_
 

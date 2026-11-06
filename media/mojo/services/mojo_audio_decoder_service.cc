@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoAudioDecoderService implementation
+// summary: Implements the Mojo audio decoder service, handling construction, initialization, CDM binding, supported configs and decode over Mojo interfaces.
+// ---
+
 #include "media/mojo/services/mojo_audio_decoder_service.h"
 
 #include <memory>

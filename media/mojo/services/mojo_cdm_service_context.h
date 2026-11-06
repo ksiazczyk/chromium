@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM service context header
+// summary: Declares MojoCdmServiceContext, which creates, owns, and manages MojoCdmService instances and maps CDM IDs to their CDM contexts.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_CDM_SERVICE_CONTEXT_H_
 #define MEDIA_MOJO_SERVICES_MOJO_CDM_SERVICE_CONTEXT_H_
 

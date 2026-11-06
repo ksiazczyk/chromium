@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 raw bits reader implementation
+// summary: Implements Vp9RawBitsReader, which reads booleans, literals and signed literals from a VP9 raw bits stream per the VP9 spec while tracking whether reads stayed in bounds.
+// ---
+
 #include "media/parsers/vp9_raw_bits_reader.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemuxerStreamAdapter unit tests
+// summary: Unit tests for DemuxerStreamAdapter covering RPC read-until handling, flush signaling, and error reporting using fake streams and a mock adapter wrapper.
+// ---
+
 #include "media/remoting/demuxer_stream_adapter.h"
 
 #include <memory>

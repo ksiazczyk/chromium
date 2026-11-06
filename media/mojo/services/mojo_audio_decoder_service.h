@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo audio decoder service declaration
+// summary: Declares MojoAudioDecoderService, the mojom::AudioDecoder implementation that forwards decode, reset, and buffer requests to an underlying media audio decoder over Mojo.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_AUDIO_DECODER_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_AUDIO_DECODER_SERVICE_H_
 

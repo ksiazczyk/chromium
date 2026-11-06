@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264BitReader unit tests
+// summary: Unit tests verifying bit reading, remaining bit counts and more-RBSP-data detection in H264BitReader.
+// ---
+
 #include "media/parsers/h264_bit_reader.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

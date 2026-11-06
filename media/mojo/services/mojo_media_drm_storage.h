@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMediaDrmStorage header
+// summary: Declares MojoMediaDrmStorage, a MediaDrmStorage implementation that forwards provisioning and persistent session calls to a remote mojom::MediaDrmStorage.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_MEDIA_DRM_STORAGE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_MEDIA_DRM_STORAGE_H_
 

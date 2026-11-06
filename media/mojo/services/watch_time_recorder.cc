@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatchTimeRecorder implementation
+// summary: Implements WatchTimeRecorder, which records watch time, rebuffer, and UKM playback metrics for media playback sessions.
+// ---
+
 #include "media/mojo/services/watch_time_recorder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoEncoderMetricsProviderService class declaration
+// summary: Declares the MojoVideoEncoderMetricsProviderService class that tracks per-encoder metrics and reports them via UKM and UMA.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODER_METRICS_PROVIDER_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODER_METRICS_PROVIDER_SERVICE_H_
 

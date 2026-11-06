@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoDemuxerStreamAdapter unit tests
+// summary: Unit tests covering MojoDemuxerStreamAdapter together with MojoDemuxerStreamImpl, including stream initialization, multi-buffer reads, and config change handling.
+// ---
+
 #include "media/mojo/services/mojo_demuxer_stream_adapter.h"
 
 #include <memory>

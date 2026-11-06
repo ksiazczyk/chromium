@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CourierRenderer class declaration
+// summary: Declares the media::Renderer implementation that forwards all rendering operations to a remote renderer over RPCs, with state and threading details.
+// ---
+
 #ifndef MEDIA_REMOTING_COURIER_RENDERER_H_
 #define MEDIA_REMOTING_COURIER_RENDERER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebmMuxer class header
+// summary: Declares the WebmMuxer adapter class that manages a WebM container and pushes encoded video or audio frames through libwebm delegates.
+// ---
+
 #ifndef MEDIA_MUXERS_WEBM_MUXER_H_
 #define MEDIA_MUXERS_WEBM_MUXER_H_
 

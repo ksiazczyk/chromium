@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 picture order count header
+// summary: Declares the H265POC class that computes picture order counts for H.265 slices and resets its computation state.
+// ---
+
 #ifndef MEDIA_PARSERS_H265_POC_H_
 #define MEDIA_PARSERS_H265_POC_H_
 

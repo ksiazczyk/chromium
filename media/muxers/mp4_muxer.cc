@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4Muxer implementation
+// summary: Implements the MP4 muxer that accepts encoded audio and video frames and forces periodic fragment flushes based on the maximum data output interval.
+// ---
+
 #include "media/muxers/mp4_muxer.h"
 
 #include <algorithm>

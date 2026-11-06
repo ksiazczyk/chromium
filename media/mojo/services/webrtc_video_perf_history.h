@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoPerfHistory class declaration
+// summary: Declares the WebrtcVideoPerfHistory Mojo service that stores and queries WebRTC video performance statistics on behalf of the MediaCapabilities API.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_WEBRTC_VIDEO_PERF_HISTORY_H_
 #define MEDIA_MOJO_SERVICES_WEBRTC_VIDEO_PERF_HISTORY_H_
 

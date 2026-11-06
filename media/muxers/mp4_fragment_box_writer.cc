@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 fragment box writers implementation
+// summary: Implements writers for MP4 fragment boxes such as moof, mfhd, traf, tfhd, and track fragment run boxes.
+// ---
+
 #include "media/muxers/mp4_fragment_box_writer.h"
 
 #include <memory>

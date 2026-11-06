@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuMojoMediaClient implementation
+// summary: Implements the GPU-process Mojo media client that creates platform audio and video decoders and encoders for the media service.
+// ---
+
 #include "media/mojo/services/gpu_mojo_media_client.h"
 
 #include <optional>

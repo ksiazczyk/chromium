@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory WebM muxer delegate implementation
+// summary: Implements a seekable in-memory WebM muxer delegate that buffers output and can flush and disable seeking on demand.
+// ---
+
 #include "media/muxers/memory_webm_muxer_delegate.h"
 
 #include <cstdint>

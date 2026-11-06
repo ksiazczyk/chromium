@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoDecodeStatsRecorder unit tests
+// summary: Unit tests for VideoDecodeStatsRecorder verifying that stats records are saved when starting a new record and on destruction.
+// ---
+
 #include <memory>
 #include <string>
 

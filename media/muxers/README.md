@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the //media/muxers directory
+summary: Describes the WebM and MP4 muxing code, supported codecs, and timestamp alignment used by MediaRecorder and ChromeOS video recording.
+---
+
 # //media/muxers
 
 This directory contains code for muxing mkv (webm) and mp4 files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo renderer service implementation
+// summary: Implements the mojom::Renderer Mojo service, wrapping a media::Renderer to handle initialization, playback, flushing, volume, playback rate, and CDM setup.
+// ---
+
 #include "media/mojo/services/mojo_renderer_service.h"
 
 #include <memory>

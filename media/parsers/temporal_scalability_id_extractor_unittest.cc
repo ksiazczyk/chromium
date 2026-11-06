@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Temporal scalability ID extractor unit tests
+// summary: Unit tests covering temporal ID assignment patterns for two and three layers and H264, AV1, and VP9 chunk parsing behavior.
+// ---
+
 #include "media/parsers/temporal_scalability_id_extractor.h"
 
 #include "base/files/file_util.h"

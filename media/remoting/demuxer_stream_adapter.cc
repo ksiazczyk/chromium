@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamAdapter implementation
+// summary: Implements the adapter that fetches audio/video buffers from a demuxer stream and sends them to the browser process over Mojo data pipes and RPC messages during media remoting.
+// ---
+
 #include "media/remoting/demuxer_stream_adapter.h"
 
 #include <utility>

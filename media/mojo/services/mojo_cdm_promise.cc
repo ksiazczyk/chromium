@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM promise implementation
+// summary: Implements MojoCdmPromise templates that resolve or reject CDM operations and translate results into Mojo CdmPromiseResult callbacks.
+// ---
+
 #include "media/mojo/services/mojo_cdm_promise.h"
 
 #include <string>

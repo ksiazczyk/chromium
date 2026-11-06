@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4MuxerDelegateFragment implementation
+// summary: Implements fragment handling that accumulates audio and video samples into moof and mdat boxes before writing.
+// ---
+
 #include "media/muxers/mp4_muxer_delegate_fragment.h"
 
 #include "base/notreached.h"

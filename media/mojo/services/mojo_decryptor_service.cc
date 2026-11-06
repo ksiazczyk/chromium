@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decryptor service implementation
+// summary: Implements MojoDecryptorService, exposing a media Decryptor over Mojo for decrypting and decoding audio and video streams with shared buffer transport.
+// ---
+
 #include "media/mojo/services/mojo_decryptor_service.h"
 
 #include <memory>

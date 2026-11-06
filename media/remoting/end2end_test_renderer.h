@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: End2EndTestRenderer class header
+// summary: Declares End2EndTestRenderer, a Renderer that simulates the media remoting pipeline by connecting sender and receiver components for end-to-end tests.
+// ---
+
 #ifndef MEDIA_REMOTING_END2END_TEST_RENDERER_H_
 #define MEDIA_REMOTING_END2END_TEST_RENDERER_H_
 

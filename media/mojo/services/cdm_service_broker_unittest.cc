@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CdmServiceBroker unit tests
+// summary: Verifies that CdmServiceBroker calls EnsureSandboxed on its client when GetService is requested, even when the CDM path is invalid.
+// ---
+
 #include "media/mojo/services/cdm_service_broker.h"
 
 #include <memory>

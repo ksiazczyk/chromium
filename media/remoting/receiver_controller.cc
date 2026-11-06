@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReceiverController implementation
+// summary: Implements the per-process ReceiverController singleton that bridges RPC messages between the remoting receiver and the sender and forwards calls to the Remotee mojo interface.
+// ---
+
 #include "media/remoting/receiver_controller.h"
 
 #include "base/no_destructor.h"

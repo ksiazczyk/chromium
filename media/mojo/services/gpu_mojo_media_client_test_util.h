@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuMojoMediaClient test utility header
+// summary: Declares AddSupplementalCodecsForTesting, a helper that registers platform-supported codecs for decoder support checks in tests.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_GPU_MOJO_MEDIA_CLIENT_TEST_UTIL_H_
 #define MEDIA_MOJO_SERVICES_GPU_MOJO_MEDIA_CLIENT_TEST_UTIL_H_
 

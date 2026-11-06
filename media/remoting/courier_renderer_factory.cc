@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CourierRendererFactory implementation
+// summary: Creates renderers for remote playback and reports whether remoting is active, returning null on Android or when RPC remoting is disabled.
+// ---
+
 #include "media/remoting/courier_renderer_factory.h"
 
 #include <memory>

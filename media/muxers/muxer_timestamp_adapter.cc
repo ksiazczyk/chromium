@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muxer timestamp adapter implementation
+// summary: Implements queueing of encoded audio and video frames so they are emitted in monotonically increasing timestamp order, with pause/resume compensation.
+// ---
+
 #include "media/muxers/muxer_timestamp_adapter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback events recorder header
+// summary: Declares PlaybackEventsRecorder, a mojom::PlaybackEventsRecorder implementation that records playback metrics and includes an internal bitrate estimator.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_PLAYBACK_EVENTS_RECORDER_H_
 #define MEDIA_MOJO_SERVICES_PLAYBACK_EVENTS_RECORDER_H_
 

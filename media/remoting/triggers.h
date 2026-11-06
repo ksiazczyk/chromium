@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start and stop trigger enums for Media Remoting
+// summary: Defines the StartTrigger and StopTrigger enums listing events that start or stop Media Remoting, with stable numbering required for UMA histograms.
+// ---
+
 #ifndef MEDIA_REMOTING_TRIGGERS_H_
 #define MEDIA_REMOTING_TRIGGERS_H_
 

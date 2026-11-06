@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo audio encoder service implementation
+// summary: Implements MojoAudioEncoderService, which forwards initialize, encode, and flush requests to an underlying media AudioEncoder and delivers encoded buffers to the Mojo client.
+// ---
+
 #include "media/mojo/services/mojo_audio_encoder_service.h"
 
 #include <memory>

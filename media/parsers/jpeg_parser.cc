@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG parser implementation
+// summary: Implements the baseline JPEG parser, defining default Huffman and quantization tables, the zig-zag scan order, and parsing that delegates to the Rust implementation.
+// ---
+
 #include "media/parsers/jpeg_parser.h"
 
 #include <cstring>

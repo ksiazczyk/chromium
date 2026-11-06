@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 level limits declarations
+// summary: Declares functions to query H.264 level limits and to validate or find a valid level for a given profile, bitrate, framerate and frame size.
+// ---
+
 #ifndef MEDIA_PARSERS_H264_LEVEL_LIMITS_H_
 #define MEDIA_PARSERS_H264_LEVEL_LIMITS_H_
 

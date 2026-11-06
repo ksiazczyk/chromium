@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux GpuMojoMediaClient implementation
+// summary: Linux-specific GpuMojoMediaClient that selects Vaapi or V4L2 decoder implementations and determines preferred renderable pixel formats.
+// ---
+
 #include "media/mojo/services/gpu_mojo_media_client.h"
 
 #include <algorithm>

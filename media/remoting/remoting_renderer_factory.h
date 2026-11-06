@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemotingRendererFactory class declaration
+// summary: Declares RemotingRendererFactory, which creates Receiver renderers on the media task runner and exchanges RPC handles with the sender-side renderer.
+// ---
+
 #ifndef MEDIA_REMOTING_REMOTING_RENDERER_FACTORY_H_
 #define MEDIA_REMOTING_REMOTING_RENDERER_FACTORY_H_
 

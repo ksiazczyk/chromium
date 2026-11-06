@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDemuxerStreamAdapter header
+// summary: Declares MojoDemuxerStreamAdapter, which exposes a remote mojom::DemuxerStream as a media DemuxerStream for use by media components.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_DEMUXER_STREAM_ADAPTER_H_
 #define MEDIA_MOJO_SERVICES_MOJO_DEMUXER_STREAM_ADAPTER_H_
 

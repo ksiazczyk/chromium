@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.264 POC unit tests
+// summary: Unit tests verifying picture order count computation for POC types 0 and 1, including LSB wrapping and MMCO5 reset behavior.
+// ---
+
 
 #include <stdint.h>
 

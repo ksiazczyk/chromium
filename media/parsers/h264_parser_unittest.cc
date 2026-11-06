@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.264 parser unit tests
+// summary: Unit tests for the H.264 parser covering SPS coded size and visible rect helpers, slice header parsing, and full stream file parsing.
+// ---
+
 #include "media/parsers/h264_parser.h"
 
 #include <array>

@@ -32,6 +32,12 @@
 // pending_remote<MediaLog>, and the UnsafeSharedMemoryRegion handle itself, so
 // the harness does not have to hand-build them.
 
+// ---docerion
+// type: test
+// title: Proto messages for the VideoEncodeAccelerator MojoLPM fuzzer
+// summary: Defines the protobuf message format describing fuzzer actions that exercise the media.mojom.VideoEncodeAccelerator interface through the real Mojo serialization path.
+// ---
+
 syntax = "proto2";
 
 package media.fuzzing.video_encode_accelerator.proto;

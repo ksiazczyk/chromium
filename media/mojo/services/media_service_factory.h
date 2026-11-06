@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaService factory declarations
+// summary: Declares factory functions for building MediaService with the default platform, GPU or test MojoMediaClient implementations.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_SERVICE_FACTORY_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_SERVICE_FACTORY_H_
 

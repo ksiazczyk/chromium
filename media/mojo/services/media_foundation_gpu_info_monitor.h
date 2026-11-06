@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation GPU info monitor header
+// summary: Declares MediaFoundationGpuInfoMonitor, a singleton that keeps track of GPU info and manages notifications to observers on GPU LUID changes.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_GPU_INFO_MONITOR_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_GPU_INFO_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JPEG parser unit tests
+// summary: Unit tests verifying JPEG parsing of a sample 1280x720 frame, checking frame header, quantization, Huffman, restart interval, and scan fields.
+// ---
+
 #include "media/parsers/jpeg_parser.h"
 
 #include <stdint.h>

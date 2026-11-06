@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IVF parser header
+// summary: Declares IvfParser and packed IVF file and frame header structures for the container format used to transport VP8 and VP9 bitstreams.
+// ---
+
 #ifndef MEDIA_PARSERS_IVF_PARSER_H_
 #define MEDIA_PARSERS_IVF_PARSER_H_
 

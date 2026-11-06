@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4MuxerContext implementation
+// summary: Implements the MP4 muxer context that stores video and audio track data and exposes the output position tracker.
+// ---
+
 #include "media/muxers/mp4_muxer_context.h"
 
 #include "media/formats/mp4/writable_box_definitions.h"

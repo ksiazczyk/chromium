@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDemuxerStreamAdapter implementation
+// summary: Implements MojoDemuxerStreamAdapter, which forwards DemuxerStream reads and config changes to a remote mojom::DemuxerStream over Mojo.
+// ---
+
 #include "media/mojo/services/mojo_demuxer_stream_adapter.h"
 
 #include <stdint.h>

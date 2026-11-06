@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererController unit tests
+// summary: Unit tests for RendererController using a fake remoter to verify sink availability, metadata changes, and switching between remote and local rendering.
+// ---
+
 #include "media/remoting/renderer_controller.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media Mojo services
+summary: Grants specific files in this directory permission to include ChromeOS CDM factory daemon, viz, and fuzzer-related headers.

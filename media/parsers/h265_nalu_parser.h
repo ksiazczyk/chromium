@@ -5,6 +5,12 @@
 // This file contains an implementation of an H265 Annex-B video stream parser,
 // but it only handles NALU parsing.
 
+// ---docerion
+// type: source
+// title: H.265 NALU parser header
+// summary: Declares the H265NALU structure with HEVC NAL unit types and the H265NaluParser class for parsing H.265 Annex-B NALUs.
+// ---
+
 #ifndef MEDIA_PARSERS_H265_NALU_PARSER_H_
 #define MEDIA_PARSERS_H265_NALU_PARSER_H_
 

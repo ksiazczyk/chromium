@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 type conversion implementation
+// summary: Implements conversion of ISO 639-2/T language codes into packed 16-bit codes and of time deltas into MP4 timescale values.
+// ---
+
 #include "media/muxers/mp4_type_conversion.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.264 parser fuzz test
+// summary: LibFuzzer entry point that feeds arbitrary inputs to the H.264 parser, exercising NALU, slice header, SPS, PPS, and SEI parsing.
+// ---
+
 #include <stddef.h>
 
 #include <optional>

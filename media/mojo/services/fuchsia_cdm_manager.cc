@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuchsiaCdmManager implementation
+// summary: Implements the Fuchsia CDM manager, including per-origin CDM data storage enumeration and quota enforcement by deleting least recently used directories.
+// ---
+
 #include "media/mojo/services/fuchsia_cdm_manager.h"
 
 #include <fuchsia/media/drm/cpp/fidl.h>

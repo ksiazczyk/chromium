@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoPerfHistory implementation
+// summary: Implements saving and retrieving WebRTC video performance statistics for the MediaCapabilities API, including smoothness prediction and UMA logging.
+// ---
+
 #include "media/mojo/services/webrtc_video_perf_history.h"
 
 #include <math.h>

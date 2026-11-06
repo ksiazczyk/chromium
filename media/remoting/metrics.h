@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session metrics recorder and remoting UMA enums
+// summary: Declares SessionMetricsRecorder plus persisted enums for remoting compatibility, pixel rate support, and track configuration used in UMA histograms.
+// ---
+
 #ifndef MEDIA_REMOTING_METRICS_H_
 #define MEDIA_REMOTING_METRICS_H_
 

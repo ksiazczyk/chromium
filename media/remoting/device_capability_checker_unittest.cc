@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device capability checker unit tests
+// summary: Unit tests verifying device allowlisting and video/audio codec compatibility for Chromecast, Chromecast Ultra, Eureka Dongle, and Google TV Streamer models.
+// ---
+
 #include "media/remoting/device_capability_checker.h"
 
 #include "media/base/audio_codecs.h"

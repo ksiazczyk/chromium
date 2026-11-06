@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: End2EndTestRenderer implementation
+// summary: Implements a Renderer that simulates the full media remoting pipeline, wiring the CourierRenderer sender and Receiver components together for end-to-end testing.
+// ---
+
 #include "media/remoting/end2end_test_renderer.h"
 #include "base/memory/raw_ptr.h"
 

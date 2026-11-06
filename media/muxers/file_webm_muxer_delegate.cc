@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based WebM muxer delegate implementation
+// summary: Implements a seekable file-backed mkvmuxer writer that writes WebM data to a base::File with Cues enabled for optimized seeking.
+// ---
+
 #include "media/muxers/file_webm_muxer_delegate.h"
 
 #include <cstdint>

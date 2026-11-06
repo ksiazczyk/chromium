@@ -10,6 +10,12 @@
 // See media::VP9Decoder for example usage.
 //
 
+// ---docerion
+// type: source
+// title: VP9 parser header and frame structures
+// summary: Declares the VP9 parser API and structures for frame headers, segmentation, loop filter, and quantization parameters.
+// ---
+
 #ifndef MEDIA_PARSERS_VP9_PARSER_H_
 #define MEDIA_PARSERS_VP9_PARSER_H_
 

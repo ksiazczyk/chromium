@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Mojo media client class declaration
+// summary: Declares AndroidMojoMediaClient, the Android specialization of MojoMediaClient that supplies an audio decoder and a CDM factory.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_ANDROID_MOJO_MEDIA_CLIENT_H_
 #define MEDIA_MOJO_SERVICES_ANDROID_MOJO_MEDIA_CLIENT_H_
 

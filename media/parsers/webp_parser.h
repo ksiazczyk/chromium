@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebP parser API declaration
+// summary: Declares IsLossyWebPImage and ParseWebPImage, a lightweight parser that extracts a Vp8FrameHeader from simple lossy WebP image data.
+// ---
+
 #ifndef MEDIA_PARSERS_WEBP_PARSER_H_
 #define MEDIA_PARSERS_WEBP_PARSER_H_
 

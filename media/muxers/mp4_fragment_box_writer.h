@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 fragment box writers header
+// summary: Declares box writer classes for MP4 movie fragment and media data boxes, including moof and mdat and their children.
+// ---
+
 #ifndef MEDIA_MUXERS_MP4_FRAGMENT_BOX_WRITER_H_
 #define MEDIA_MUXERS_MP4_FRAGMENT_BOX_WRITER_H_
 

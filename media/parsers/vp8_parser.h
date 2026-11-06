@@ -5,6 +5,12 @@
 // This file contains an implementation of a VP8 raw stream parser,
 // as defined in RFC 6386.
 
+// ---docerion
+// type: source
+// title: VP8 parser header and frame structures
+// summary: Declares the VP8 parser interface and frame header structures for segmentation, loop filter, quantization, and entropy data.
+// ---
+
 #ifndef MEDIA_PARSERS_VP8_PARSER_H_
 #define MEDIA_PARSERS_VP8_PARSER_H_
 

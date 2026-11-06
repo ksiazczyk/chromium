@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muxer base implementation
+// summary: Implements the Muxer::VideoParameters and Muxer::EncodedFrame structures shared by container muxers such as WebM and MP4.
+// ---
+
 #include "media/muxers/muxer.h"
 
 #include <optional>

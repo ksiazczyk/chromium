@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JPEG picture parser fuzzer
+// summary: LibFuzzer entry point that feeds arbitrary input bytes to ParseJpegPicture to check the JPEG parser for crashes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebmMuxer fuzzer test
+// summary: LibFuzzer entry point that feeds randomly generated video and audio frames to WebmMuxer to fuzz the WebM muxing path.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

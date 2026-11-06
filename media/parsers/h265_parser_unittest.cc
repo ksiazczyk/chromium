@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 parser unit tests
+// summary: Unit tests verifying H.265 parsing of raw HEVC test streams, including NALU counts, VPS, SPS, PPS, SEI and slice header handling.
+// ---
+
 #include "media/parsers/h265_parser.h"
 
 #include <memory>

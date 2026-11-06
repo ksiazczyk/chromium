@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamAdapter class header
+// summary: Declares the DemuxerStreamAdapter class that fetches buffers from a demuxer stream and forwards them to the browser process via Mojo, running on the media thread.
+// ---
+
 #ifndef MEDIA_REMOTING_DEMUXER_STREAM_ADAPTER_H_
 #define MEDIA_REMOTING_DEMUXER_STREAM_ADAPTER_H_
 

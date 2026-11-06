@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process video decoder factory service implementation
+// summary: Implements OOPVideoDecoderFactoryService, a MojoMediaClient that lets a browser process create out-of-process video decoders in a utility process on VA-API or V4L2 platforms.
+// ---
+
 #include "media/mojo/services/oop_video_decoder_factory_service.h"
 
 #include "base/feature_list.h"

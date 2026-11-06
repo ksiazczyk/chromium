@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia CDM provisioning fetcher implementation
+// summary: Implements the fuchsia.media.drm.ProvisioningFetcher protocol by forwarding provisioning requests to a Chromium ProvisionFetcher and returning responses.
+// ---
+
 #include "media/mojo/services/fuchsia_cdm_provisioning_fetcher_impl.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

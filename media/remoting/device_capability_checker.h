@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device capability checker header
+// summary: Declares functions that test Cast receiver model support for remoting, video and audio codec compatibility, and custom codec string parsing.
+// ---
+
 #ifndef MEDIA_REMOTING_DEVICE_CAPABILITY_CHECKER_H_
 #define MEDIA_REMOTING_DEVICE_CAPABILITY_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebrtcVideoPerf MojoLPM fuzzer
+// summary: Libprotobuf-mutator fuzzer harness that exercises the WebrtcVideoPerf Mojo interface against an in-memory WebRTC video stats database.
+// ---
+
 #include <stdint.h>
 
 #include <utility>

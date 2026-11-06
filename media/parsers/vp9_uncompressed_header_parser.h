@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 uncompressed header parser class declaration
+// summary: Declares Vp9UncompressedHeaderParser, which parses a VP9 uncompressed header into a Vp9FrameHeader using a raw bits reader and parser context.
+// ---
+
 #ifndef MEDIA_PARSERS_VP9_UNCOMPRESSED_HEADER_PARSER_H_
 #define MEDIA_PARSERS_VP9_UNCOMPRESSED_HEADER_PARSER_H_
 

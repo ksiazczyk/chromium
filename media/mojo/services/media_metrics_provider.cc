@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media metrics provider implementation
+// summary: Implements the media metrics provider that records UKM and UMA metrics about media players, pipelines, renderers, demuxers, and key systems.
+// ---
+
 #include "media/mojo/services/media_metrics_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video encode accelerator provider header
+// summary: Declares MojoVideoEncodeAcceleratorProvider, the mojom::VideoEncodeAcceleratorProvider implementation that creates mojom::VideoEncodeAccelerator instances.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODE_ACCELERATOR_PROVIDER_H_
 #define MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODE_ACCELERATOR_PROVIDER_H_
 

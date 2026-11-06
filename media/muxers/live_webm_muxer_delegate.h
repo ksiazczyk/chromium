@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live WebM muxer delegate header
+// summary: Declares LiveWebmMuxerDelegate, a non-seekable live-mode implementation of the mkvmuxer writer interface for WebM output.
+// ---
+
 #ifndef MEDIA_MUXERS_LIVE_WEBM_MUXER_DELEGATE_H_
 #define MEDIA_MUXERS_LIVE_WEBM_MUXER_DELEGATE_H_
 

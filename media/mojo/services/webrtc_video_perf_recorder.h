@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoPerfRecorder class declaration
+// summary: Declares the WebrtcVideoPerfRecorder class that receives video performance data from the browser process and passes it to the history save callback.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_WEBRTC_VIDEO_PERF_RECORDER_H_
 #define MEDIA_MOJO_SERVICES_WEBRTC_VIDEO_PERF_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation preferences header
+// summary: Declares MediaFoundationPreferencesImpl, a self-owned mojom service that reports whether hardware-secure decryption is allowed for a given site.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_PREFERENCES_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_PREFERENCES_H_
 

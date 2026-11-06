@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo CDM allocator unit tests
+// summary: Unit tests for MojoCdmAllocator verifying buffer creation, reuse of freed shared memory regions, the free buffer limit, and video frame creation.
+// ---
+
 #include "media/mojo/services/mojo_cdm_allocator.h"
 
 #include <stddef.h>

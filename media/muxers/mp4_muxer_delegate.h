@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4MuxerDelegate class declaration
+// summary: Declares the MP4 muxer delegate interface and class that build MP4 boxes from encoded audio and video streams.
+// ---
+
 #ifndef MEDIA_MUXERS_MP4_MUXER_DELEGATE_H_
 #define MEDIA_MUXERS_MP4_MUXER_DELEGATE_H_
 

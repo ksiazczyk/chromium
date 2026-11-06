@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Playback events recorder tests
+// summary: Tests for PlaybackEventsRecorder verifying recorded WebEngine.Media events for play, pause, errors, buffering, and bitrate estimation using a mock clock.
+// ---
+
 #include "media/mojo/services/playback_events_recorder.h"
 
 #include "base/metrics/user_metrics.h"

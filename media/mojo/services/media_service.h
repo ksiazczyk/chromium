@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaService class declaration
+// summary: Declares MediaService, the exported Mojo media service that hosts deferred-destroy interface factories backed by a per-instance MojoMediaClient.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaService factory implementation
+// summary: Creates MediaService instances using platform-specific MojoMediaClients for Android, Windows, GPU and testing scenarios.
+// ---
+
 #include "media/mojo/services/media_service_factory.h"
 
 #include <memory>

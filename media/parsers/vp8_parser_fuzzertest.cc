@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 parser libFuzzer target
+// summary: LibFuzzer entry point that parses IVF container frames and feeds them to the VP8 parser to uncover parsing crashes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

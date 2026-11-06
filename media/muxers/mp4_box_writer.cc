@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 box writer base class implementation
+// summary: Implements the Mp4BoxWriter base class that writes MP4 boxes and their child boxes to the muxer output stream.
+// ---
+
 #include "media/muxers/mp4_box_writer.h"
 
 #include <stddef.h>

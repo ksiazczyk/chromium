@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake remoter classes for media remoting tests
+// summary: Declares FakeRemotingDataStreamSender, FakeRemoter, and FakeRemoterFactory, fake implementations of the remoting mojo interfaces used in media remoting tests.
+// ---
+
 #ifndef MEDIA_REMOTING_FAKE_REMOTER_H_
 #define MEDIA_REMOTING_FAKE_REMOTER_H_
 
