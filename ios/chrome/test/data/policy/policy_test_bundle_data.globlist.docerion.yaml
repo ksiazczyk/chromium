@@ -1,0 +1,4 @@
+# Docerion header of policy_test_bundle_data.globlist.
+type: test
+title: Policy test bundle data glob list
+summary: Glob pattern for pref-mapping JSON files, used by update_bundle_filelist.py to regenerate the policy test bundle file list.

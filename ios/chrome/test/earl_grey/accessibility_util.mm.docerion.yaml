@@ -1,0 +1,4 @@
+# Docerion header of accessibility_util.mm.
+type: test
+title: Accessibility verification using GTXiLib
+summary: Implements screen-wide accessibility checks by running GTXiLib checks on all windows of connected UI scenes.

@@ -1,0 +1,4 @@
+# Docerion header of amp.html.
+type: test
+title: AMP test page
+summary: AMP-format HTML fixture with an intentionally slow first-layout script, used by optimization guide browser tests to reduce flakiness.

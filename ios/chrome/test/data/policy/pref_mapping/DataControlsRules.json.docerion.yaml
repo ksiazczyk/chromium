@@ -1,0 +1,4 @@
+# Docerion header of DataControlsRules.json.
+type: test
+title: DataControlsRules policy pref mapping test data
+summary: Test data specifying the iOS pref mapping for the DataControlsRules policy with a sample rule blocking clipboard access for given URLs.

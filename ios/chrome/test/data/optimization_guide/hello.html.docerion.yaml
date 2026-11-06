@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello test page
+summary: HTML fixture displaying the text hello with a slow first-layout script, used by optimization guide browser tests.

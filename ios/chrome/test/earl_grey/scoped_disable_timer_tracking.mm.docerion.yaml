@@ -1,0 +1,4 @@
+# Docerion header of scoped_disable_timer_tracking.mm.
+type: test
+title: Scoped timer tracking disable helper
+summary: Scoped helper that temporarily disables EarlGrey's NSTimer tracking by overriding the GREYConfiguration trackable interval as a workaround.

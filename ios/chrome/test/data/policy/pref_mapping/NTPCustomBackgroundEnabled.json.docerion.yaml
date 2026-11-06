@@ -1,0 +1,4 @@
+# Docerion header of NTPCustomBackgroundEnabled.json.
+type: test
+title: NTPCustomBackgroundEnabled policy pref mapping test
+summary: Test data checking that the NTPCustomBackgroundEnabled policy toggles the iOS new tab page custom background pref.

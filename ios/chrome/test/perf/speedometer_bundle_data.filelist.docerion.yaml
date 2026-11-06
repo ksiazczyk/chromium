@@ -1,0 +1,4 @@
+# Docerion header of speedometer_bundle_data.filelist.
+type: data
+title: Speedometer v3.1 bundle data filelist
+summary: Generated list of Speedometer v3.1 files bundled into the iOS performance test target and not meant for manual edits.

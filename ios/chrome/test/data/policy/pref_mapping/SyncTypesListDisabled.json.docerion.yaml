@@ -1,0 +1,4 @@
+# Docerion header of SyncTypesListDisabled.json.
+type: test
+title: SyncTypesListDisabled policy pref mapping test data
+summary: Defines the policy pref mapping test for SyncTypesListDisabled, verifying that the bookmarks and preferences sync prefs are disabled on iOS.

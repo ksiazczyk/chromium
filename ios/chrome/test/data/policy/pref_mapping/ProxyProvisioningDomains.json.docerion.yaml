@@ -1,0 +1,4 @@
+# Docerion header of ProxyProvisioningDomains.json.
+type: test
+title: ProxyProvisioningDomains policy pref mapping test data
+summary: Test data mapping the ProxyProvisioningDomains policy to the proxy provisioning domains preference with sample secure gateway configurations.

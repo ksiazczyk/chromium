@@ -1,0 +1,4 @@
+# Docerion header of fake_ui_view_controller.mm.
+type: test
+title: Fake UIViewController implementation
+summary: Implements FakeUIViewController, recording the presented view controller and posting dismissal completion callbacks as tasks.

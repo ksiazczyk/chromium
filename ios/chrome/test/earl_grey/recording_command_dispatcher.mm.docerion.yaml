@@ -1,0 +1,4 @@
+# Docerion header of recording_command_dispatcher.mm.
+type: test
+title: Recording command dispatcher implementation
+summary: Implements the recording command dispatcher using an NSProxy recorder that logs every dispatched selector and invokes registered test callbacks.

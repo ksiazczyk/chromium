@@ -1,0 +1,4 @@
+# Docerion header of ProvisionManagedClientCertificateForUser.json.
+type: test
+title: ProvisionManagedClientCertificateForUser policy pref mapping test data
+summary: Test data mapping the managed client certificate provisioning for user policy to its preference with value 1 on iOS.

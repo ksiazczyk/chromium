@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for accessibility verification helpers
+// summary: Declares chrome_test_util functions that verify all interactive on-screen elements are accessible during Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_ACCESSIBILITY_UTIL_H_
 #define IOS_CHROME_TEST_EARL_GREY_ACCESSIBILITY_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync test utility header
+// summary: Declares helpers to set up a fake sync server and inject or verify bookmarks, sessions, autofill profiles, demographics, and other sync entities.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_SYNC_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_SYNC_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of LensCameraAssistedSearchEnabled.json.
+type: test
+title: LensCameraAssistedSearchEnabled policy pref mapping test data
+summary: Test data verifying that the LensCameraAssistedSearchEnabled policy maps to the Lens camera assisted search preference stored in local state on iOS.

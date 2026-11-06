@@ -1,0 +1,4 @@
+# Docerion header of WatermarkStyle.json.
+type: test
+title: WatermarkStyle policy pref mapping test data
+summary: Test cases mapping the WatermarkStyle policy to the policy.watermark_style fill opacity, outline opacity and font size prefs on iOS, including default values.

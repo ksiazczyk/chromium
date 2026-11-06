@@ -1,0 +1,4 @@
+# Docerion header of IdleTimeoutActions.json.
+type: test
+title: IdleTimeoutActions policy pref mapping test data
+summary: Test data verifying that the IdleTimeoutActions policy maps action names to the corresponding idle_timeout_actions preference values on iOS.

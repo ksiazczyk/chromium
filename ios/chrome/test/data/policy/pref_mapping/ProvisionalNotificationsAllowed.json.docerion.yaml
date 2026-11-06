@@ -1,0 +1,4 @@
+# Docerion header of ProvisionalNotificationsAllowed.json.
+type: test
+title: ProvisionalNotificationsAllowed policy pref mapping test data
+summary: Test data mapping the ProvisionalNotificationsAllowed policy to the iOS provisional notifications preference with true and false values.

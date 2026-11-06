@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped testing variations service header
+// summary: Declares a helper that creates a VariationsService and sets it on TestingApplicationContext for its lifetime.
+// ---
+
 #ifndef IOS_CHROME_TEST_IOS_CHROME_SCOPED_TESTING_VARIATIONS_SERVICE_H_
 #define IOS_CHROME_TEST_IOS_CHROME_SCOPED_TESTING_VARIATIONS_SERVICE_H_
 

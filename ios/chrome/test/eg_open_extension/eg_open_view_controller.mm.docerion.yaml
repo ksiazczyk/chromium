@@ -1,0 +1,4 @@
+# Docerion header of eg_open_view_controller.mm.
+type: source
+title: EGOpenViewController implementation
+summary: Implements the share extension controller that extracts a URL from shared items and opens it in Chrome over HTTP using the channel scheme.

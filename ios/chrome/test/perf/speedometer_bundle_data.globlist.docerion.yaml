@@ -1,0 +1,4 @@
+# Docerion header of speedometer_bundle_data.globlist.
+type: data
+title: Speedometer bundle data globlist patterns
+summary: Glob patterns used to regenerate the Speedometer bundle data filelist, excluding tests, source maps, and documentation files.

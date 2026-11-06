@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UIKit test utilities for view lookup
+// summary: Declares test helpers that recursively find UIKit views by predicate, class, or accessibility identifier and check subview counts in iOS Chrome tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_UIKIT_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_UIKIT_TEST_UTIL_H_
 

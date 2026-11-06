@@ -1,0 +1,4 @@
+# Docerion header of chrome_matchers_app_interface.mm.
+type: test
+title: Chrome matchers app interface implementation
+summary: Implements ChromeMatchersAppInterface with matchers for Chrome UI elements across settings, omnibox, downloads, and other surfaces.

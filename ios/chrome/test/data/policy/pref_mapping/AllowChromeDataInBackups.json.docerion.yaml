@@ -1,0 +1,4 @@
+# Docerion header of AllowChromeDataInBackups.json.
+type: test
+title: AllowChromeDataInBackups policy pref mapping test data
+summary: Test data verifying the AllowChromeDataInBackups policy maps to the ios.allow_chrome_data_in_backups preference with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of test_switches.mm.
+type: test
+title: EarlGrey test switch definitions
+summary: Defines the string values of the command-line switches used to configure EarlGrey test behavior.

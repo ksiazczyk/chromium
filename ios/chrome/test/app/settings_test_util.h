@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings test utility header
+// summary: Declares a helper to set the popup-blocking default content setting for iOS Chrome tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_SETTINGS_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_SETTINGS_TEST_UTIL_H_
 

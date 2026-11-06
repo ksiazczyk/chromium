@@ -1,0 +1,4 @@
+# Docerion header of scoped_eg_traits_overrider_app_interface.mm.
+type: test
+title: Implementation of ScopedTraitOverriderAppInterface
+summary: Implements reading, setting and removing the preferred content size category override on a view controller's trait overrides.

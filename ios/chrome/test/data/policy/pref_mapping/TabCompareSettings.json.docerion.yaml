@@ -1,0 +1,4 @@
+# Docerion header of TabCompareSettings.json.
+type: test
+title: TabCompareSettings policy pref mapping test data
+summary: Defines the policy-to-pref mapping test for TabCompareSettings against the optimization guide tab compare settings preference on iOS.

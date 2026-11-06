@@ -1,0 +1,4 @@
+# Docerion header of CloudProfileReportingEnabled.json.
+type: test
+title: CloudProfileReportingEnabled policy pref mapping test data
+summary: Maps the CloudProfileReportingEnabled policy to the enterprise_reporting.chrome_profile_cloud_reporting preference for iOS.

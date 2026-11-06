@@ -1,0 +1,4 @@
+# Docerion header of earl_grey_scoped_block_swizzler.mm.
+type: test
+title: Earl Grey scoped block swizzler implementation
+summary: Creates and deletes scoped block swizzlers through the app interface, keyed by a unique id.

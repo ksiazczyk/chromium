@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderImageURL.json.
+type: test
+title: DefaultSearchProviderImageURL policy pref mapping test data
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderImageURL policy because its mapping is complex.

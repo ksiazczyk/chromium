@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overscroll actions controller delegate header
+// summary: Declares a fake OverscrollActionsControllerDelegate for testing that saves the last triggered overscroll action and provides a header view.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_OVERSCROLL_ACTIONS_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_OVERSCROLL_ACTIONS_CONTROLLER_DELEGATE_H_
 

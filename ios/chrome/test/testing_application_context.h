@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestingApplicationContext header
+// summary: Declares TestingApplicationContext, a test ApplicationContext that lets tests inject local state, profile manager, metrics, signin and other services.
+// ---
+
 #ifndef IOS_CHROME_TEST_TESTING_APPLICATION_CONTEXT_H_
 #define IOS_CHROME_TEST_TESTING_APPLICATION_CONTEXT_H_
 

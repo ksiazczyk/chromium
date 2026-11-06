@@ -1,0 +1,4 @@
+# Docerion header of chrome_actions_app_interface_stub.mm.
+type: test
+title: Chrome actions app interface stub
+summary: Stub registration of ChromeActionsAppInterface for Earl Grey test builds without the real app interface implementation.

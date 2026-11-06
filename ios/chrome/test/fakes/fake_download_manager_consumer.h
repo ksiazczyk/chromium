@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake download manager consumer header
+// summary: Declares a test fake DownloadManagerConsumer holding download file name, byte counts, progress, state and Drive button visibility.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_DOWNLOAD_MANAGER_CONSUMER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_DOWNLOAD_MANAGER_CONSUMER_H_
 

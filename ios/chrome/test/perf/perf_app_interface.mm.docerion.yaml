@@ -1,0 +1,4 @@
+# Docerion header of perf_app_interface.mm.
+type: test
+title: PerfAppInterface implementation collecting startup and memory metrics
+summary: Implements PerfAppInterface, reading startup durations from StartupInformation and recording memory, page-in, and custom samples to perf_samples.json.

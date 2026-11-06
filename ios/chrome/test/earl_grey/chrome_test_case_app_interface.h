@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome test case app interface
+// summary: Declares ChromeTestCaseAppInterface with app-side helpers for mock authentication, infobar removal, and completion tracking in Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_TEST_CASE_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_TEST_CASE_APP_INTERFACE_H_
 

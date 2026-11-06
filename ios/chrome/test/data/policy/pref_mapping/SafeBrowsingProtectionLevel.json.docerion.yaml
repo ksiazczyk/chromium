@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingProtectionLevel.json.
+type: test
+title: SafeBrowsingProtectionLevel policy pref mapping test data
+summary: Defines policy pref mapping tests for SafeBrowsingProtectionLevel, verifying the safebrowsing.enabled and safebrowsing.enhanced preferences on iOS.

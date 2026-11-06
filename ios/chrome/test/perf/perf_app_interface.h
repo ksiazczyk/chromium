@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfAppInterface header for EG2 performance benchmarks
+// summary: Declares the app-side helper interface exposing cold startup timings, memory footprint, page-ins, and perf sample recording for EG2 benchmarks.
+// ---
+
 #ifndef IOS_CHROME_TEST_PERF_PERF_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_PERF_PERF_APP_INTERFACE_H_
 

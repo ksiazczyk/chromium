@@ -1,0 +1,4 @@
+# Docerion header of OptimizationGuideFetchingEnabled.json.
+type: test
+title: OptimizationGuideFetchingEnabled pref mapping test data
+summary: Test data noting that no pref mapping test exists for the OptimizationGuideFetchingEnabled policy because the policy was removed.

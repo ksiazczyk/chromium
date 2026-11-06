@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderEncodings.json.
+type: test
+title: DefaultSearchProviderEncodings policy pref mapping test data
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderEncodings policy because its mapping is complex.

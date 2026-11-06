@@ -1,0 +1,4 @@
+# Docerion header of NewTabPageLocation.json.
+type: test
+title: NewTabPageLocation policy pref mapping test
+summary: Test data verifying that the NewTabPageLocation policy overrides the iOS new tab page location pref, including URL normalization.

@@ -1,0 +1,4 @@
+# Docerion header of selected_ranges.txt.
+type: test
+title: Multilingual sample text for selection range tests
+summary: Plain text fixture with example sentences in several languages used to test text selection ranges in the iOS Chrome omnibox.

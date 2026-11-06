@@ -1,0 +1,4 @@
+# Docerion header of EditBookmarksEnabled.json.
+type: test
+title: EditBookmarksEnabled policy pref mapping test data
+summary: Test data verifying the EditBookmarksEnabled policy maps to the bookmarks.editing_enabled preference on iOS.

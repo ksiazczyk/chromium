@@ -1,0 +1,4 @@
+# Docerion header of ChromeDataRegionSetting.json.
+type: test
+title: ChromeDataRegionSetting policy pref mapping test data
+summary: Defines policy pref mapping tests for ChromeDataRegionSetting covering user and machine cloud policy scopes, defaults, and out-of-bounds values on iOS.

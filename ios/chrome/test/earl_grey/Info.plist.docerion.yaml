@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Bundle metadata for the Earl Grey test bundle
+summary: Standard bundle property list providing executable, identifier, and version keys for the test bundle.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window test utilities
+// summary: Declares helpers to inspect and manipulate tabs and the active WebState in a window identified by number.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_WINDOW_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_WINDOW_TEST_UTIL_H_
 

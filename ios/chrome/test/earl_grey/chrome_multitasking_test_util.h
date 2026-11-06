@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitasking test utilities for Earl Grey tests
+// summary: Declares utilities with gestures and checks to manipulate iPad multitasking windows and Stage Manager mode on iOS 26+.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_MULTITASKING_TEST_UTIL_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_MULTITASKING_TEST_UTIL_H_
 

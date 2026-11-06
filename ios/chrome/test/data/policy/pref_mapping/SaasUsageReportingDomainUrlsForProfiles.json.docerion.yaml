@@ -1,0 +1,4 @@
+# Docerion header of SaasUsageReportingDomainUrlsForProfiles.json.
+type: test
+title: SaasUsageReportingDomainUrlsForProfiles policy pref mapping test data
+summary: Test data verifying the SaaS usage reporting profile domain URLs policy maps to the enterprise reporting preference in the user profile.

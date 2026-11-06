@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web view interaction test utilities
+// summary: Declares helpers that tap web page elements by ID, including within same-origin iframes, and submit forms in the current WebState.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_WEB_VIEW_INTERACTION_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_WEB_VIEW_INTERACTION_TEST_UTIL_H_
 

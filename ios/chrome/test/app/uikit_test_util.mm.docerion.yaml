@@ -1,0 +1,4 @@
+# Docerion header of uikit_test_util.mm.
+type: test
+title: UIKit test utility implementations
+summary: Implements UIKit test helpers, including obtaining a connected UIWindowScene and finding a label by its text.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake download manager tab helper delegate header
+// summary: Declares a test fake DownloadManagerTabHelperDelegate that records download task state, policy decisions and state update call counts.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_DOWNLOAD_MANAGER_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_DOWNLOAD_MANAGER_TAB_HELPER_DELEGATE_H_
 

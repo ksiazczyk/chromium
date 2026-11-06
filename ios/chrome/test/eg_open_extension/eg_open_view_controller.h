@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGOpenViewController header
+// summary: Declares the EGOpenViewController view controller that serves as the principal class of the share extension.
+// ---
+
 #ifndef IOS_CHROME_TEST_EG_OPEN_EXTENSION_EG_OPEN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_TEST_EG_OPEN_EXTENSION_EG_OPEN_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake UI navigation controller header
+// summary: Declares a fake UINavigationController that tracks pushed and popped view controllers and supports presenting or dismissing view controllers in tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_UI_NAVIGATION_CONTROLLER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_UI_NAVIGATION_CONTROLLER_H_
 

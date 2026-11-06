@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome_earl_grey_ui
+// summary: Header declaring ChromeEarlGreyUI helper methods that drive Chrome through the UI in Earl Grey tests, such as opening the tools, settings and privacy menus.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_EARL_GREY_UI_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_EARL_GREY_UI_H_
 

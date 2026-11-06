@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake password auto-fill status manager header
+// summary: Declares a substitute PasswordAutoFillStatusManager that updates observers without touching the iOS API, with methods to set and reset auto-fill status.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_PASSWORD_AUTO_FILL_STATUS_MANAGER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_PASSWORD_AUTO_FILL_STATUS_MANAGER_H_
 

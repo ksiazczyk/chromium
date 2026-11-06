@@ -1,0 +1,4 @@
+# Docerion header of Chrome.entitlements.
+type: config
+title: Chrome entitlements for Earl Grey test resources
+summary: Entitlements plist for the Chrome test target, setting the application identifier and enabling extended virtual addressing.

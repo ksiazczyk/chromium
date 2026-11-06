@@ -1,0 +1,4 @@
+# Docerion header of uikit_test_util_unittest.mm.
+type: test
+title: Unit tests for UIKit test utilities
+summary: Unit tests verifying FindViewById, FindViewByClass, subview count expectations, and FindLabelWithText behavior on view hierarchies.

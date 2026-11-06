@@ -1,0 +1,4 @@
+# Docerion header of chrome_earl_grey_app_interface.mm.
+type: test
+title: chrome_earl_grey_app_interface
+summary: Implementation of the app-side ChromeEarlGreyAppInterface helpers used by Earl Grey tests to clear browsing data, load URLs, manage tabs and query browser state.

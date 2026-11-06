@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include dependency rules
+summary: Specifies which components and directories code in ios/chrome/test may include, with a few explicit bans.

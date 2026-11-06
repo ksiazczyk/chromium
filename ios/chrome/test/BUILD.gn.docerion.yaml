@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS Chrome test build targets
+summary: Defines GN build targets for iOS Chrome unit, fuzzer and XCUITest suites plus the test_support source set.

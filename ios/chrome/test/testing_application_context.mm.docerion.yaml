@@ -1,0 +1,4 @@
+# Docerion header of testing_application_context.mm.
+type: test
+title: TestingApplicationContext implementation
+summary: Implements the test application context, wiring test and fake implementations for network, metrics, signin, policy and other app services.

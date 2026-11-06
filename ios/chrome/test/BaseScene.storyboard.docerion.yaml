@@ -1,0 +1,4 @@
+# Docerion header of BaseScene.storyboard.
+type: asset
+title: Base scene storyboard for tests
+summary: Xcode Interface Builder storyboard providing a base view controller scene used by iOS Chrome tests.

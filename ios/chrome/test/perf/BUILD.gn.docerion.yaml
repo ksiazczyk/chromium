@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: iOS Chrome performance test build definitions
+summary: Defines GN targets bundling Speedometer data and building the perf app interface, EG2 test support, and performance test sources for iOS Chrome.

@@ -1,0 +1,4 @@
+# Docerion header of hello_world.html.
+type: test
+title: Hello world test page
+summary: HTML fixture showing hello text and asynchronously adding world text via a slow script, used by optimization guide browser tests.

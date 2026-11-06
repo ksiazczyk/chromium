@@ -1,0 +1,4 @@
+# Docerion header of ShoppingListEnabled.json.
+type: test
+title: ShoppingListEnabled policy pref mapping test data
+summary: Defines the policy-to-pref mapping test for ShoppingListEnabled, checking the shopping_list_enabled preference with true and false values on iOS.

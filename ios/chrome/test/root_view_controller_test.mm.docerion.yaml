@@ -1,0 +1,4 @@
+# Docerion header of root_view_controller_test.mm.
+type: test
+title: RootViewControllerTest fixture implementation
+summary: Implements setting and restoring the key window's root view controller around each test.

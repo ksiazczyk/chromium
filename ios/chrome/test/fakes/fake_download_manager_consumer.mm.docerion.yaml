@@ -1,0 +1,4 @@
+# Docerion header of fake_download_manager_consumer.mm.
+type: test
+title: Fake download manager consumer implementation
+summary: Implements the fake download manager consumer, synthesizing its properties and stubbing destination, Drive email and file opening updates.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for EG2 test dependency changes
+summary: Requires owner review for BUILD.gn changes, notably adding, removing, or renaming EG2 test deps entries.

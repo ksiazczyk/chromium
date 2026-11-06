@@ -1,0 +1,4 @@
+# Docerion header of device_check_egtest.mm.
+type: test
+title: Device network connectivity Earl Grey test
+summary: Earl Grey test suite that verifies Internet connectivity by loading google.com and asserting the offline dino page is not shown.

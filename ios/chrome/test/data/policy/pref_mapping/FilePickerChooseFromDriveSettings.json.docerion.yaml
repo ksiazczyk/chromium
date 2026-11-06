@@ -1,0 +1,4 @@
+# Docerion header of FilePickerChooseFromDriveSettings.json.
+type: test
+title: FilePickerChooseFromDriveSettings policy pref mapping test data
+summary: Test data verifying the FilePickerChooseFromDriveSettings policy maps to the ios.choose_from_drive.file_picker_policy preference on iOS.

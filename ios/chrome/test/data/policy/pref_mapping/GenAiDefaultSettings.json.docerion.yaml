@@ -1,0 +1,4 @@
+# Docerion header of GenAiDefaultSettings.json.
+type: test
+title: GenAiDefaultSettings policy pref mapping test data
+summary: Test data verifying how the GenAiDefaultSettings policy maps to AI-related preferences on iOS, including interactions with individual GenAI policies and an iOS-specific note.

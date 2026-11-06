@@ -1,0 +1,4 @@
+# Docerion header of chrome_ios_eg2_test.gni.
+type: config
+title: GN template for Chrome EarlGrey 2 test app hosts
+summary: Defines the chrome_ios_eg2_test_app_host GN template that assembles entitlements, Info.plist, and bundles for EG2 test apps.

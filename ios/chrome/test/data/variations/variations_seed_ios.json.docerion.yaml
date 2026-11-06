@@ -1,0 +1,4 @@
+# Docerion header of variations_seed_ios.json.
+type: test
+title: iOS variations seed test data
+summary: Test fixture containing a compressed variations seed used by iOS Chrome variations tests.

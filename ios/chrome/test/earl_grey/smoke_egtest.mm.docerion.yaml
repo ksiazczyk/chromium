@@ -1,0 +1,4 @@
+# Docerion header of smoke_egtest.mm.
+type: test
+title: EarlGrey smoke tests
+summary: Smoke tests verifying that EarlGrey tests can launch and perform basic UI interactions such as tapping the tools menu and opening a tab.

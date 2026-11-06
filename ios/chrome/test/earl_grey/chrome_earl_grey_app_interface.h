@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome_earl_grey_app_interface
+// summary: Header declaring the app-side ChromeEarlGreyAppInterface helpers that let Earl Grey tests inspect and control Chrome state through direct model access.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_EARL_GREY_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_EARL_GREY_APP_INTERFACE_H_
 

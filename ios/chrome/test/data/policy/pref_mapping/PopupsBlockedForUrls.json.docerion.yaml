@@ -1,0 +1,4 @@
+# Docerion header of PopupsBlockedForUrls.json.
+type: test
+title: PopupsBlockedForUrls policy pref mapping test data
+summary: Test data mapping the PopupsBlockedForUrls policy to the managed popups blocked URLs preference with a URL pattern value on iOS.

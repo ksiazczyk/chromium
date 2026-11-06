@@ -1,0 +1,4 @@
+# Docerion header of scoped_key_window.mm.
+type: test
+title: ScopedKeyWindow implementation
+summary: Creates a ChromeOverlayWindow as the key window for the test scene and restores the original key window when the object is destroyed.

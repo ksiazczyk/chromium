@@ -1,0 +1,4 @@
+# Docerion header of WebAnnotations.json.
+type: test
+title: WebAnnotations policy pref mapping test data
+summary: Test cases mapping the WebAnnotations policy to the ios.web_annotations_policy pref on iOS, covering default and per-annotation-type settings.

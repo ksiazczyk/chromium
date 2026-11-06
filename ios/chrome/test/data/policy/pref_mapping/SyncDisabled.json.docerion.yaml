@@ -1,0 +1,4 @@
+# Docerion header of SyncDisabled.json.
+type: test
+title: SyncDisabled policy pref mapping test data
+summary: Defines policy pref mapping tests for SyncDisabled, verifying the sync.managed preference for enabled, disabled, and unset policy cases on iOS.

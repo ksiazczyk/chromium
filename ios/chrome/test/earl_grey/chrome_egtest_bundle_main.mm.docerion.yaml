@@ -1,0 +1,4 @@
+# Docerion header of chrome_egtest_bundle_main.mm.
+type: test
+title: chrome_egtest_bundle_main
+summary: Implementation of the EG2 test bundle principal class that initializes command line, ICU and resources and wires up the gRPC test plugin client for test runs.

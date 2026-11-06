@@ -1,0 +1,4 @@
+# Docerion header of UserSecuritySignalsReporting.json.
+type: test
+title: UserSecuritySignalsReporting policy pref mapping test data
+summary: Test data mapping the UserSecuritySignalsReporting policy to the enterprise_reporting.user_security_signals.enabled preference on iOS.

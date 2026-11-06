@@ -1,0 +1,4 @@
+# Docerion header of navigation_test_util.mm.
+type: test
+title: Navigation test utility implementation
+summary: Implements the navigation helpers by delegating URL loading and loading-state checks to the iOS web layer's test utilities.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the eg_open_extension app extension
+summary: Defines GN targets that build the eg_open_extension iOS share extension, including Info.plist tweaks, entitlements compilation, and the appex bundle.

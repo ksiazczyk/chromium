@@ -1,0 +1,4 @@
+# Docerion header of fake_web_content_handler.mm.
+type: test
+title: Fake web content command handler implementation
+summary: Implements FakeWebContentHandler, recording calls to web content commands like showing the App Store or PassKit dialogs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOSChromeUnitTestSuite declaration
+// summary: Declares the iOS Chrome unit test suite that extends the web test suite with additional initialization for unit tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_IOS_CHROME_UNIT_TEST_SUITE_H_
 #define IOS_CHROME_TEST_IOS_CHROME_UNIT_TEST_SUITE_H_
 

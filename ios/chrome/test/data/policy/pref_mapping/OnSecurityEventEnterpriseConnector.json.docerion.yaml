@@ -1,0 +1,4 @@
+# Docerion header of OnSecurityEventEnterpriseConnector.json.
+type: test
+title: OnSecurityEventEnterpriseConnector policy pref mapping test
+summary: Test data verifying that the OnSecurityEventEnterpriseConnector policy maps to the enterprise connectors security event pref on iOS.

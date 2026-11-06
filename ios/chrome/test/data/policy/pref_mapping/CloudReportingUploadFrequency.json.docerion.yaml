@@ -1,0 +1,4 @@
+# Docerion header of CloudReportingUploadFrequency.json.
+type: test
+title: CloudReportingUploadFrequency policy pref mapping test data
+summary: Maps CloudReportingUploadFrequency policy values to the enterprise_reporting.upload_frequency preference, converted to microseconds, under machine cloud policy.

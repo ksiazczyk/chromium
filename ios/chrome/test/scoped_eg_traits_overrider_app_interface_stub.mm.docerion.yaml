@@ -1,0 +1,4 @@
+# Docerion header of scoped_eg_traits_overrider_app_interface_stub.mm.
+type: test
+title: Stub for ScopedTraitOverriderAppInterface
+summary: Provides a GREY_STUB_CLASS_IN_APP_MAIN_QUEUE stub of ScopedTraitOverriderAppInterface for EarlGrey tests that run without the app-side implementation.

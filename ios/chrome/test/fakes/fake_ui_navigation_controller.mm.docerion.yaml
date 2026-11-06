@@ -1,0 +1,4 @@
+# Docerion header of fake_ui_navigation_controller.mm.
+type: test
+title: Fake UINavigationController for tests
+summary: Implements a fake UINavigationController that records presented and pushed view controllers instead of presenting them during tests.

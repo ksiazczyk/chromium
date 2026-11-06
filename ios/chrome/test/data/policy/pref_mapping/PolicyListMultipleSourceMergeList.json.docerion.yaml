@@ -1,0 +1,4 @@
+# Docerion header of PolicyListMultipleSourceMergeList.json.
+type: test
+title: PolicyListMultipleSourceMergeList pref mapping test data
+summary: Test data explaining that no pref mapping test exists for the PolicyListMultipleSourceMergeList policy because it has no pref and is read directly by the policy system.

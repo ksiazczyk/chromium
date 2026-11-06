@@ -1,0 +1,4 @@
+# Docerion header of IsolatedModeSettings.json.
+type: test
+title: IsolatedModeSettings policy pref mapping test data
+summary: Test data verifying the simple mapping of the IsolatedModeSettings policy to the enterprise.isolated_mode preference on iOS.

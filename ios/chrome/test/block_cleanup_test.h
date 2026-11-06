@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlockCleanupTest fixture header
+// summary: Declares a PlatformTest subclass whose teardown spins the run loop so blocks created during tests can clean up.
+// ---
+
 #ifndef IOS_CHROME_TEST_BLOCK_CLEANUP_TEST_H_
 #define IOS_CHROME_TEST_BLOCK_CLEANUP_TEST_H_
 

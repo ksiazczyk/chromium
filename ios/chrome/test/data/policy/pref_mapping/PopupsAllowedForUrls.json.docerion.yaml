@@ -1,0 +1,4 @@
+# Docerion header of PopupsAllowedForUrls.json.
+type: test
+title: PopupsAllowedForUrls pref mapping test data
+summary: Defines the iOS pref mapping test for the PopupsAllowedForUrls policy against the profile.managed_popups_allowed_for_urls preference using a google.com URL list.

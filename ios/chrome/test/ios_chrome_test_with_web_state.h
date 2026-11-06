@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOSChromeTestWithWebState test fixture declaration
+// summary: Declares a PlatformTest fixture that provides a WebState, test profile, and scoped local state for iOS Chrome tests, with helpers to load HTML or URLs and wait for frames.
+// ---
+
 #ifndef IOS_CHROME_TEST_IOS_CHROME_TEST_WITH_WEB_STATE_H_
 #define IOS_CHROME_TEST_IOS_CHROME_TEST_WITH_WEB_STATE_H_
 

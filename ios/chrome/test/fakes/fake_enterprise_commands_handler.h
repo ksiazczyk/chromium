@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake enterprise commands handler header
+// summary: Declares FakeEnterpriseCommandsHandler, a fake EnterpriseCommands implementation that captures enterprise dialog type, organization domain and callback.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_ENTERPRISE_COMMANDS_HANDLER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_ENTERPRISE_COMMANDS_HANDLER_H_
 

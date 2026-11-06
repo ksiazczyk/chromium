@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome coordinator app interface
+// summary: Declares an app interface to start and stop Chrome coordinators in isolation from the rest of the app UI during tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_COORDINATOR_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_COORDINATOR_APP_INTERFACE_H_
 

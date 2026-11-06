@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the test data directory
+summary: Grants code review approval rights to everyone for the ios/chrome/test/data directory via the wildcard owner rule.

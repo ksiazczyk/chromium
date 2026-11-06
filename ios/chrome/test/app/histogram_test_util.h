@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: histogram_test_util.h
+// summary: Declares a HistogramTester class that snapshots histogram counts and verifies bucket and total counts for Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_HISTOGRAM_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_HISTOGRAM_TEST_UTIL_H_
 

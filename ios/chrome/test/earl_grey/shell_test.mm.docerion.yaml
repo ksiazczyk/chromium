@@ -1,0 +1,4 @@
+# Docerion header of shell_test.mm.
+type: test
+title: Empty placeholder test file
+summary: Minimal placeholder defining an empty Objective-C class for the EarlGrey test shell.

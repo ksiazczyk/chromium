@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: browsing_data_test_util.h
+// summary: Declares test helpers to clear browsing cache, history, cookies, web state, and certificate policy caches and to count history entries.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_BROWSING_DATA_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_BROWSING_DATA_TEST_UTIL_H_
 

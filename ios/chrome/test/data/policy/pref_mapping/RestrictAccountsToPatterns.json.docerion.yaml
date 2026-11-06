@@ -1,0 +1,4 @@
+# Docerion header of RestrictAccountsToPatterns.json.
+type: test
+title: RestrictAccountsToPatterns policy pref mapping test data
+summary: Test data verifying the RestrictAccountsToPatterns policy sets the signin.restrict_accounts_to_patterns preference in local state.

@@ -1,0 +1,4 @@
+# Docerion header of fake_suggestion_actions.json.
+type: test
+title: Fake suggestion actions test data
+summary: JSON fixture with fake omnibox suggestions, including a local restaurant entity with rich suggest details, used by iOS Chrome omnibox tests.

@@ -1,0 +1,4 @@
+# Docerion header of CloudUserPolicyMerge.json.
+type: test
+title: CloudUserPolicyMerge missing test placeholder
+summary: Placeholder explaining that CloudUserPolicyMerge has no pref because it is read directly by the policy system.

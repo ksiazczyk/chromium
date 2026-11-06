@@ -1,0 +1,4 @@
+# Docerion header of InsecureFormsWarningsEnabled.json.
+type: test
+title: InsecureFormsWarningsEnabled policy pref mapping test data
+summary: Test data verifying the simple boolean mapping of the InsecureFormsWarningsEnabled policy to the insecure form warnings preference on iOS.

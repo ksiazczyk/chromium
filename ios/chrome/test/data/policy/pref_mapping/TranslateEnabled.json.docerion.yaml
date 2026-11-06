@@ -1,0 +1,4 @@
+# Docerion header of TranslateEnabled.json.
+type: test
+title: TranslateEnabled policy pref mapping test data
+summary: Test data mapping the TranslateEnabled policy to the translate.enabled preference, which can also be recommended, on iOS.

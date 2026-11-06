@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake language detection tab helper observer header
+// summary: Declares a fake IOSLanguageDetectionTabHelper observer that captures language detection details for a web state during tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_LANGUAGE_DETECTION_TAB_HELPER_OBSERVER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_LANGUAGE_DETECTION_TAB_HELPER_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of histogram_test_util.mm.
+type: test
+title: histogram_test_util.mm
+summary: Implements HistogramTester by snapshotting recorded histogram samples and comparing them against expected bucket and total counts.

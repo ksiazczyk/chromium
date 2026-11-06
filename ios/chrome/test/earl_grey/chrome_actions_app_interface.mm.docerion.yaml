@@ -1,0 +1,4 @@
+# Docerion header of chrome_actions_app_interface.mm.
+type: test
+title: Chrome actions app interface implementation
+summary: Implements Earl Grey actions for web element taps, long presses, scrolling, switch toggling and simulated swipe gestures.

@@ -1,0 +1,4 @@
+# Docerion header of fake_ar_quick_look_tab_helper_delegate.mm.
+type: test
+title: Fake AR Quick Look tab helper delegate implementation
+summary: Implements the fake AR Quick Look delegate by collecting presented USDZ file URLs and storing the most recent canonical URL and scaling setting.

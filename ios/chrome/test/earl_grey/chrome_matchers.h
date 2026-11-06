@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome matchers for Earl Grey tests
+// summary: Declares GREYMatcher helper functions for locating Chrome UI elements such as windows, buttons, context menu items, and alerts in Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_MATCHERS_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_MATCHERS_H_
 

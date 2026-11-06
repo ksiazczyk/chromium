@@ -1,0 +1,4 @@
+# Docerion header of GeminiActOnWebSettings.json.
+type: test
+title: GeminiActOnWebSettings policy pref mapping test data
+summary: Test data verifying the GeminiActOnWebSettings policy maps to the ios.actuation_on_web preference on iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped disable timer tracking
+// summary: Declares a scoped workaround that disables Earl Grey's NSTimer tracking and restores the original max trackable interval afterwards.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_SCOPED_DISABLE_TIMER_TRACKING_H_
 #define IOS_CHROME_TEST_EARL_GREY_SCOPED_DISABLE_TIMER_TRACKING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DisableSafeBrowsingProceedAnyway.json.
+type: test
+title: DisableSafeBrowsingProceedAnyway policy pref mapping test data
+summary: Defines an iOS pref mapping test for the DisableSafeBrowsingProceedAnyway policy against the SafeBrowsing proceed-anyway preference, testing true and false values.

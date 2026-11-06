@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingProxiedRealTimeChecksAllowed.json.
+type: test
+title: SafeBrowsingProxiedRealTimeChecksAllowed policy pref mapping test data
+summary: Defines the policy-to-pref mapping test for SafeBrowsingProxiedRealTimeChecksAllowed against the hash prefix real time checks preference on iOS.

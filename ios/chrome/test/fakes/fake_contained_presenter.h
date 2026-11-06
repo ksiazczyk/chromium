@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake contained presenter header
+// summary: Declares a test fake ContainedPresenter that records whether the last presentation call was animated.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_CONTAINED_PRESENTER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_CONTAINED_PRESENTER_H_
 

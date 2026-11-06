@@ -1,0 +1,4 @@
+# Docerion header of perf_app_interface_stub.mm.
+type: test
+title: PerfAppInterface Earl Grey stub for test support
+summary: Provides a stub PerfAppInterface implementation injected into the app under Earl Grey test support builds.

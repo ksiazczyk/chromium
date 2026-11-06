@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_scoped_testing_local_state.mm.
+type: test
+title: Scoped testing local state helper implementation
+summary: Registers local state prefs and sets or clears the testing local state in TestingApplicationContext.
