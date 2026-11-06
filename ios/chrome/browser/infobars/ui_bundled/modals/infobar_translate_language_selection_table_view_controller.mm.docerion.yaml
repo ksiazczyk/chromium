@@ -1,0 +1,4 @@
+# Docerion header of infobar_translate_language_selection_table_view_controller.mm.
+type: source
+title: Translate infobar language selection table view controller implementation
+summary: Implements the language selection list for the Translate infobar modal, populating language items and notifying the delegate of the chosen source or target language.

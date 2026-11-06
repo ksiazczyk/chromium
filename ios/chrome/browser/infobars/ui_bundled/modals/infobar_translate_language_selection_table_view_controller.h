@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar language selection table view controller declaration
+// summary: Declares the table view controller that lists source or target language options for the Translate infobar modal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_LANGUAGE_SELECTION_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_LANGUAGE_SELECTION_TABLE_VIEW_CONTROLLER_H_
 

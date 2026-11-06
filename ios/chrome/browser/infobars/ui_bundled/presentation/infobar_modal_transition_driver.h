@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarModalTransitionDriver interface
+// summary: Declares the transitioning delegate for modal infobar presentation, with transition modes for presenting from a base view controller or from a banner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_MODAL_TRANSITION_DRIVER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_MODAL_TRANSITION_DRIVER_H_
 

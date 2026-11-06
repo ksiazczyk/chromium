@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate modal consumer protocol and pref keys
+// summary: Declares a consumer protocol and preference key constants used to configure the translate infobar modal UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_COORDINATORS_INFOBAR_TRANSLATE_MODAL_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_COORDINATORS_INFOBAR_TRANSLATE_MODAL_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_egtest.mm.
+type: test
+title: Translate infobar Earl Grey UI tests
+summary: Earl Grey UI tests verifying translate infobar banner, modal and badge behavior, including language detection and preferences.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner consumer protocol
+// summary: Declares the protocol for setting banner content such as title, subtitle, icon, button text, and modal presentation behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_INFOBAR_BANNER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_INFOBAR_BANNER_CONSUMER_H_
 

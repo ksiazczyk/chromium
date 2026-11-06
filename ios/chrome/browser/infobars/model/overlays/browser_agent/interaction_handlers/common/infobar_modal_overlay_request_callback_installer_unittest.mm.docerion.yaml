@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_request_callback_installer_unittest.mm.
+type: test
+title: Infobar modal overlay request callback installer unit tests
+summary: Unit test fixture verifying that a dispatched InfobarModalMainActionResponse triggers the mock modal interaction handler's main action through the installed callback.

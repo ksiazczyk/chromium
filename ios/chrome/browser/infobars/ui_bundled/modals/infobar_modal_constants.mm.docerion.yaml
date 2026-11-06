@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_constants.mm.
+type: source
+title: Infobar modal shared constants implementation
+summary: Defines the infobar modal accessibility identifier strings and the cancel button tapped user action key.

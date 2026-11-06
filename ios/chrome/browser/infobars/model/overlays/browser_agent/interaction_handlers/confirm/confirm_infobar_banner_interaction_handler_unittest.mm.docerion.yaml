@@ -1,0 +1,4 @@
+# Docerion header of confirm_infobar_banner_interaction_handler_unittest.mm.
+type: test
+title: Unit tests for ConfirmInfobarBannerInteractionHandler
+summary: Platform test fixture verifying that tapping the main button accepts the infobar and that hiding the banner dismisses it via the mock delegate.

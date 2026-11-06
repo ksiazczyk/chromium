@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for autofill address profile infobar handlers
+summary: Defines the autofill_address_profile source set and its unit_tests target, listing sources and dependencies for the save address profile infobar handlers.

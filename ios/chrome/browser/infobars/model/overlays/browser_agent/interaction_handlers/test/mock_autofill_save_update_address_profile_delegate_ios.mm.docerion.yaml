@@ -1,0 +1,4 @@
+# Docerion header of mock_autofill_save_update_address_profile_delegate_ios.mm.
+type: test
+title: Implementation of the mock autofill save update address profile delegate
+summary: Implements the mock address profile save and update delegate, constructing it with test profiles and locale settings.

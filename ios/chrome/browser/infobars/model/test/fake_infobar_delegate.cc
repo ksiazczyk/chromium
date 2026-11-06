@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake infobar delegate implementation
+// summary: Implements FakeInfobarDelegate, a configurable ConfirmInfoBarDelegate fake supplying title, message, button label, icon and tint for tests.
+// ---
+
 #include "ios/chrome/browser/infobars/model/test/fake_infobar_delegate.h"
 
 #include "base/strings/utf_string_conversions.h"

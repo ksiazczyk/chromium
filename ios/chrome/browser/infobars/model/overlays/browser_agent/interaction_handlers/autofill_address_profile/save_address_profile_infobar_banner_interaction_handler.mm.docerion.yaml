@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_banner_interaction_handler.mm.
+type: source
+title: Save address profile infobar banner interaction handler implementation
+summary: Implements banner visibility and dismissal handling by forwarding these events to the autofill save address profile delegate.

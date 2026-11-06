@@ -1,0 +1,4 @@
+# Docerion header of infobar_egtest.mm.
+type: test
+title: Infobar Earl Grey UI tests
+summary: Earl Grey tests verifying infobar behavior such as dismissal on navigation and persistence per tab.

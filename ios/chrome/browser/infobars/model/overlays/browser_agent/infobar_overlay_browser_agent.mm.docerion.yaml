@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_browser_agent.mm.
+type: source
+title: Infobar overlay browser agent implementation
+summary: Implements InfobarOverlayBrowserAgent, installing banner and modal callback installers per infobar type and notifying interaction handlers of overlay visibility changes.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_transition_driver.mm.
+type: source
+title: InfobarModalTransitionDriver implementation
+summary: Implements the modal infobar transition driver, providing the presentation controller and the banner expand animator for presentation transitions.

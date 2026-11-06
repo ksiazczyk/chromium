@@ -1,0 +1,4 @@
+# Docerion header of infobar_save_card_table_view_controller.mm.
+type: source
+title: Save Card infobar modal table view controller implementation
+summary: Implements the Save Card infobar modal content, building card detail fields, legal messages and wallet branding while recording metrics and handling save actions.

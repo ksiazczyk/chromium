@@ -1,0 +1,4 @@
+# Docerion header of infobar_utils.mm.
+type: source
+title: Confirm infobar factory helper implementation
+summary: Implements the confirm infobar factory helpers, constructing InfoBarIOS instances with optional high-priority presentation.

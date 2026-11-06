@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_interaction_handler.mm.
+type: source
+title: InfobarBannerInteractionHandler implementation
+summary: Implements banner interaction handling, inserting modal overlay requests when the modal button is tapped and notifying delegates of user-initiated dismissals.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobar interaction handlers test build target
+summary: Defines a test-only source set bundling the mock infobar delegates and interaction handlers used by Chrome iOS infobar tests.

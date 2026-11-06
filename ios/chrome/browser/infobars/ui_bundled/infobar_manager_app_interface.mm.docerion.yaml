@@ -1,0 +1,4 @@
+# Docerion header of infobar_manager_app_interface.mm.
+type: test
+title: Infobar manager app interface implementation
+summary: Implements helpers that access the active web state's infobar manager to support UI tests.

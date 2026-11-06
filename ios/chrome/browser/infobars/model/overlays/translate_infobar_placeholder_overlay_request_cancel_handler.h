@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar placeholder cancel handler header
+// summary: Declares a cancel handler that observes translation progress and cancels Translate infobar placeholder overlay requests when translation finishes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_TRANSLATE_INFOBAR_PLACEHOLDER_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_TRANSLATE_INFOBAR_PLACEHOLDER_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 

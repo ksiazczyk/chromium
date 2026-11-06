@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake infobar iOS class declaration
+// summary: Declares FakeInfobarIOS, a fake InfoBarIOS subclass created with fake delegates for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_TEST_FAKE_INFOBAR_IOS_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_TEST_FAKE_INFOBAR_IOS_H_
 

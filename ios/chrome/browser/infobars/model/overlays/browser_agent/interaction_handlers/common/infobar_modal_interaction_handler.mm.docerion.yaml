@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_interaction_handler.mm.
+type: source
+title: InfobarModalInteractionHandler implementation
+summary: Implements the modal interaction handler constructor, destructor, and creation of its modal callback installer.

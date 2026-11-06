@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_request_cancel_handler.mm.
+type: source
+title: Infobar banner overlay request cancel handler implementation
+summary: Implements cancellation handling for infobar banner overlay requests, inserting replacement banner requests and cancelling when modals presented from the banner complete.

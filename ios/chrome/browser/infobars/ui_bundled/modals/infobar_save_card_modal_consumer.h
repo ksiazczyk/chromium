@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card infobar modal consumer protocol and pref keys
+// summary: Declares pref key constants and the InfobarSaveCardModalConsumer protocol for pushing card preferences and save/upload progress state to the save card UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_SAVE_CARD_MODAL_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_SAVE_CARD_MODAL_CONSUMER_H_
 

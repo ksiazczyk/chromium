@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarPermissionsTableViewController interface
+// summary: Declares InfobarPermissionsTableViewController, the table view controller that provides the content of the permissions infobar modal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_PERMISSIONS_INFOBAR_PERMISSIONS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_PERMISSIONS_INFOBAR_PERMISSIONS_TABLE_VIEW_CONTROLLER_H_
 

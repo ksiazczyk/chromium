@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar modal delegate protocol
+// summary: Declares the InfobarTranslateModalDelegate protocol handling Translate infobar actions such as translating, showing the original page and language preference changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_MODAL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_MODAL_DELEGATE_H_
 

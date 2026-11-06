@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for infobars UI
+summary: Defines GN source sets for infobar constants, Earl Grey tests, and test support with their dependencies.

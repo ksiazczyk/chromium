@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_request_callback_installer.mm.
+type: source
+title: Infobar banner overlay request callback installer implementation
+summary: Implements dispatch callbacks for banner main action, show modal, user dismissal, and remove infobar responses, forwarding them to the handler.

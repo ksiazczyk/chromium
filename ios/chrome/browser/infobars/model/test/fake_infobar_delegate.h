@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake infobar delegate class declaration
+// summary: Declares FakeInfobarDelegate, a fake ConfirmInfoBarDelegate with constructors for custom identifiers, texts, buttons and icons used in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_TEST_FAKE_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_TEST_FAKE_INFOBAR_DELEGATE_H_
 

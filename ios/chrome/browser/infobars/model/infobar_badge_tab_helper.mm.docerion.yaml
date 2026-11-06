@@ -1,0 +1,4 @@
+# Docerion header of infobar_badge_tab_helper.mm.
+type: source
+title: InfobarBadgeTabHelper implementation
+summary: Implements badge state updates, observer notification and handling of infobars added during prerendering.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_coordinator.mm.
+type: source
+title: Infobar coordinator implementation
+summary: Implements InfobarCoordinator behavior including banner and modal presentation, auto-dismiss timers, and fullscreen disabling.

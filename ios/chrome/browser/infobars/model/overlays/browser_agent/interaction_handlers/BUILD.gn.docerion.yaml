@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for interaction_handlers
+summary: Defines the interaction_handlers source_set, listing its sources and dependencies on the infobars and overlays model targets.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_presentation_controller.mm.
+type: source
+title: InfobarModalPresentationController implementation
+summary: Implements the modal infobar presentation controller, sizing and rounding the presented view, animating the scrim, and adding a tap gesture to end editing.

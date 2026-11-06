@@ -1,0 +1,4 @@
+# Docerion header of mock_save_address_profile_modal_infobar_interaction_handler.mm.
+type: test
+title: Implementation of the mock save address profile modal interaction handler
+summary: Provides default constructor and destructor implementations for the mock save address profile modal interaction handler.

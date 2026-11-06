@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default infobar banner interaction handler header
+// summary: Declares DefaultInfobarBannerInteractionHandler, a helper that updates the model layer for interaction events with the infobar banner UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_DEFAULT_DEFAULT_INFOBAR_BANNER_INTERACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_DEFAULT_DEFAULT_INFOBAR_BANNER_INTERACTION_HANDLER_H_
 

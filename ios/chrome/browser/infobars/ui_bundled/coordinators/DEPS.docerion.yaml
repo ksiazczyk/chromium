@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for coordinators
+summary: Restricts the includes allowed in this directory to the fullscreen ui_bundled path via include rules.

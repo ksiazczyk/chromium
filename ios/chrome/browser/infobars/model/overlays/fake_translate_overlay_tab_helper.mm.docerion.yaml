@@ -1,0 +1,4 @@
+# Docerion header of fake_translate_overlay_tab_helper.mm.
+type: source
+title: Fake translate overlay tab helper implementation
+summary: Implements trigger methods that notify observers of translation completion and tab helper destruction.

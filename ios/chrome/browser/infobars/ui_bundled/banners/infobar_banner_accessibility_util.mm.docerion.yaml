@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_accessibility_util.mm.
+type: source
+title: Infobar banner accessibility utility implementation
+summary: Implements accessibility updates that add the banner to or remove it from the presenting view controller's accessibility elements.

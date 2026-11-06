@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for permissions infobar modal
+summary: Defines the GN source_set for the permissions infobar modal, listing its source files and build dependencies.

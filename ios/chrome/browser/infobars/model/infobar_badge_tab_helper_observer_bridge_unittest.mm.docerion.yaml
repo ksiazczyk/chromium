@@ -1,0 +1,4 @@
+# Docerion header of infobar_badge_tab_helper_observer_bridge_unittest.mm.
+type: test
+title: InfobarBadgeTabHelper observer bridge unit tests
+summary: Unit tests verifying that the observer bridge forwards badge update method calls to the Objective-C observing object.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for instructions bottom sheet UI
+summary: Defines the ui source_set listing the coordinator and view controller sources, dependencies, and the UIKit framework for the instructions bottom sheet.

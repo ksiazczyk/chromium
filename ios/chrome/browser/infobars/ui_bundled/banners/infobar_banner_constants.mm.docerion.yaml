@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_constants.mm.
+type: source
+title: Infobar banner UI constants definitions
+summary: Defines the banner accessibility identifier strings and numeric layout and styling constants for the banner UI.

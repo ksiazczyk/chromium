@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarModalPresentationController interface
+// summary: Declares the UIPresentationController subclass for the modal infobar, requiring a modal positioner in its designated initializer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_MODAL_PRESENTATION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_PRESENTATION_INFOBAR_MODAL_PRESENTATION_CONTROLLER_H_
 

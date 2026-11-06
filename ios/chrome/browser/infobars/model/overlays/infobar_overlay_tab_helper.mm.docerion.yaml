@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_tab_helper.mm.
+type: source
+title: Infobar overlay tab helper implementation
+summary: Implements the InfoBarManager observer that inserts banner overlay requests, honoring skip-banner and high-priority infobar flags.

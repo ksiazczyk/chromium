@@ -1,0 +1,4 @@
+# Docerion header of default_infobar_overlay_request_factory.mm.
+type: source
+title: Default infobar overlay request factory implementation
+summary: Maps infobar types to banner or modal overlay request configs when creating overlay requests.

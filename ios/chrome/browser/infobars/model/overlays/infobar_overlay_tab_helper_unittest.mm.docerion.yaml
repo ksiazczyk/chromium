@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_tab_helper_unittest.mm.
+type: source
+title: Infobar overlay tab helper unit tests
+summary: Unit tests verifying that adding an InfoBar to the manager creates a banner overlay request, including front-of-queue placement for high-priority infobars.

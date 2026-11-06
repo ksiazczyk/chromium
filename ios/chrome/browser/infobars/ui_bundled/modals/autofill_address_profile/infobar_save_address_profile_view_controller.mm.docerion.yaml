@@ -1,0 +1,4 @@
+# Docerion header of infobar_save_address_profile_view_controller.mm.
+type: source
+title: Save address profile infobar modal implementation
+summary: Implements the modal table view showing address, phone, and email fields with save, update, and account migration actions plus metrics recording.

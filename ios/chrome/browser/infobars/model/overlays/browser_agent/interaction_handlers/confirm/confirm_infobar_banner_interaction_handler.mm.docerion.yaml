@@ -1,0 +1,4 @@
+# Docerion header of confirm_infobar_banner_interaction_handler.mm.
+type: source
+title: ConfirmInfobarBannerInteractionHandler implementation
+summary: Implements handling of main button taps, banner visibility changes, and modal button taps for confirm infobars by delegating to the ConfirmInfoBarDelegate.

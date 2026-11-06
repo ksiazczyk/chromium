@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeInfobarBannerConsumer test fake header
+// summary: Declares FakeInfobarBannerConsumer, a fake InfobarBannerConsumer that redefines banner properties such as title, subtitle, and icon settings as readwrite for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_TEST_FAKE_INFOBAR_BANNER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_BANNERS_TEST_FAKE_INFOBAR_BANNER_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of confirm_infobar_metrics_recorder.mm.
+type: source
+title: Confirm infobar metrics recorder implementation
+summary: Records Confirm Infobar event and accept-time histograms for the restore and block-popups infobar types.

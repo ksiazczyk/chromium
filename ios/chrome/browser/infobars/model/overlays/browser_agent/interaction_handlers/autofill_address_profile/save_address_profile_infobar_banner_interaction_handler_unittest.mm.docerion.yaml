@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_banner_interaction_handler_unittest.mm.
+type: test
+title: Unit tests for the save address profile infobar banner interaction handler
+summary: Verifies that banner visibility changes and user dismissal map to message timeout and declined user decisions on a mock delegate.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for common infobar interaction handlers
+summary: Defines the common source set and unit test targets for infobar banner and modal interaction handlers and their callback installers.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_request_callback_installer.mm.
+type: source
+title: Infobar modal overlay request callback installer
+summary: Implements the installer that adds dispatch callbacks so infobar modal main action responses are forwarded to the modal interaction handler for iOS Chrome overlay requests.

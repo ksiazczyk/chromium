@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar type enums
+// summary: Defines the InfobarType and InfobarConfirmType enums listing message infobar types used for metrics, with stable numeric values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_TYPE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_TYPE_H_
 

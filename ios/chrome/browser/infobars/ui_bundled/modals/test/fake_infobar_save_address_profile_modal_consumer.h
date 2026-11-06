@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake infobar save address profile modal consumer interface
+// summary: Declares FakeInfobarSaveAddressProfileModalConsumer, a test double recording values passed to the save address profile modal consumer interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_TEST_FAKE_INFOBAR_SAVE_ADDRESS_PROFILE_MODAL_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_TEST_FAKE_INFOBAR_SAVE_ADDRESS_PROFILE_MODAL_CONSUMER_H_
 

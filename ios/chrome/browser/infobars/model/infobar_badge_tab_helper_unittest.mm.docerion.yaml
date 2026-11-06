@@ -1,0 +1,4 @@
+# Docerion header of infobar_badge_tab_helper_unittest.mm.
+type: test
+title: InfobarBadgeTabHelper unit tests
+summary: Unit tests for InfobarBadgeTabHelper badge state updates and delegate notifications when infobars are added, presented, accepted or reverted.

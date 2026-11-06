@@ -1,0 +1,4 @@
+# Docerion header of infobar_earl_grey_ui_test_util.mm.
+type: test
+title: Infobar Earl Grey UI test utility implementation
+summary: Implements waiting for infobar banner visibility using Earl Grey matchers and assertions.

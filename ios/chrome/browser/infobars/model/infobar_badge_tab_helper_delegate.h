@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarBadgeTabHelperDelegate protocol
+// summary: Declares the delegate protocol for checking badge support and requesting infobar badge re-rendering.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_BADGE_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_BADGE_TAB_HELPER_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of instructions_bottom_sheet_coordinator.mm.
+type: source
+title: InstructionsBottomSheetCoordinator implementation
+summary: Presents the instructions bottom sheet in a navigation controller with a close button, handling dismissal via stop and the presentation controller delegate.

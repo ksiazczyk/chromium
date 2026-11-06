@@ -1,0 +1,4 @@
+# Docerion header of mock_infobar_interaction_handler.mm.
+type: test
+title: Implementation of the mock infobar interaction handler
+summary: Implements the mock infobar interaction handler builder, wiring mock banner and modal handlers into an InfobarInteractionHandler.

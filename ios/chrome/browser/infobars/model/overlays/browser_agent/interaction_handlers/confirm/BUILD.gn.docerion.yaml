@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for confirm infobar interaction handler
+summary: Defines the confirm source set and its unit_tests target, listing sources and dependencies for the confirm infobar banner interaction handler.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill address profile modals
+summary: Restricts the headers this directory may include, allowing autofill UI and settings cells dependencies.

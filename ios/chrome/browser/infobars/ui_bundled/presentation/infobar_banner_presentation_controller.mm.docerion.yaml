@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_presentation_controller.mm.
+type: source
+title: Infobar banner presentation controller implementation
+summary: Implements frame calculation and layout for the banner container, sizing and centering the banner within the window.

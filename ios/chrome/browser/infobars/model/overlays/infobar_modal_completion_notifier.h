@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar modal completion notifier header
+// summary: Declares a helper that observes modal overlay request completion and notifies observers when all modal requests for an infobar have completed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_INFOBAR_MODAL_COMPLETION_NOTIFIER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_INFOBAR_MODAL_COMPLETION_NOTIFIER_H_
 

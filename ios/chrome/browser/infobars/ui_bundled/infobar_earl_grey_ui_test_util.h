@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Infobar Earl Grey UI test utility header
+// summary: Declares a helper that waits until an infobar banner is visible or times out during UI tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_INFOBAR_EARL_GREY_UI_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_INFOBAR_EARL_GREY_UI_TEST_UTIL_H_
 

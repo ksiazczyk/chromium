@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_view_controller.mm.
+type: source
+title: Infobar banner view controller implementation
+summary: Implements the iOS Chrome view controller that renders infobar banners, covering layout constants, animations, gestures, accessibility, and user metrics.

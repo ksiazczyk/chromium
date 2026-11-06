@@ -1,0 +1,4 @@
+# Docerion header of infobar_manager_app_interface_stub.mm.
+type: test
+title: Infobar manager app interface stub
+summary: Stub registration that makes InfobarManagerAppInterface available in the app main queue for Earl Grey tests.

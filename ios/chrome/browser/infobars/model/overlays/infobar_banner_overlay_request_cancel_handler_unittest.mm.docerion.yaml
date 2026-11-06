@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_request_cancel_handler_unittest.mm.
+type: test
+title: Infobar banner overlay request cancel handler unit tests
+summary: Unit tests verifying that banner overlay requests are replaced or cancelled when the underlying infobar is replaced or its modal requests complete.

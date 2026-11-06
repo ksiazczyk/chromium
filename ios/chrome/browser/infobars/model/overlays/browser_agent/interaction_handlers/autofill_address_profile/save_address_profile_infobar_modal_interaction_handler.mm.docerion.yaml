@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_modal_interaction_handler.mm.
+type: source
+title: Save address profile infobar modal interaction handler implementation
+summary: Implements accept, cancel, no-thanks and visibility handling for the save address profile modal and creates its callback installer.

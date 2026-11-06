@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarManagerImpl header
+// summary: Declares the iOS InfoBarManager that associates a WebState with an InfoBarManager and responds to navigation events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_MANAGER_IMPL_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_INFOBAR_MANAGER_IMPL_H_
 

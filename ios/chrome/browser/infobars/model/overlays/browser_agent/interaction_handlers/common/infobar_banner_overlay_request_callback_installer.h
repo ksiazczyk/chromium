@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner overlay request callback installer header
+// summary: Declares the installer that attaches callbacks to infobar banner overlay requests and forwards banner responses to the interaction handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_INFOBAR_BANNER_OVERLAY_REQUEST_CALLBACK_INSTALLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_BROWSER_AGENT_INTERACTION_HANDLERS_COMMON_INFOBAR_BANNER_OVERLAY_REQUEST_CALLBACK_INSTALLER_H_
 

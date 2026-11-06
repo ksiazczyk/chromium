@@ -1,0 +1,4 @@
+# Docerion header of infobar_overlay_request_inserter_unittest.mm.
+type: source
+title: Infobar overlay request inserter unit tests
+summary: Unit tests verifying that the inserter adds banner and modal overlay requests to the correct queues with the expected ordering and configuration.

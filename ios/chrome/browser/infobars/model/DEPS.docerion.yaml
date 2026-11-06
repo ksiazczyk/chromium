@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for infobars model
+summary: Restricts allowed includes for the directory and lists specific per-file include exceptions.

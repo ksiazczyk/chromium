@@ -1,0 +1,4 @@
+# Docerion header of infobar_badge_tab_helper_observer_bridge.mm.
+type: source
+title: InfobarBadgeTabHelper observer bridge implementation
+summary: Implements the bridge that forwards infobar badge update callbacks to the registered Objective-C observer.

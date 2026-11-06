@@ -1,0 +1,4 @@
+# Docerion header of infobar_metrics_recorder.mm.
+type: source
+title: Infobar metrics recorder implementation
+summary: Implements the infobar metrics recorder, defining per-infobar-type UMA histogram names for banner, modal, and badge events.

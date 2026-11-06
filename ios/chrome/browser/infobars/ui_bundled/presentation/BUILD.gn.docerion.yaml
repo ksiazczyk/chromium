@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for infobar presentation
+summary: Defines the GN source_set targets that build the infobar banner and modal presentation sources plus the positioner headers.

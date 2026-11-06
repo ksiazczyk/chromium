@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for infobars model test
+summary: Grants specific test files in this directory extra include dependencies on badge headers, with a TODO to remove them.

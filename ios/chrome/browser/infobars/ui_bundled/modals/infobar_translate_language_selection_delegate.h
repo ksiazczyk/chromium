@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar language selection delegate protocol
+// summary: Declares the InfobarTranslateLanguageSelectionDelegate protocol used to report user changes to the Translate infobar's source or target language.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_LANGUAGE_SELECTION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INFOBARS_UI_BUNDLED_MODALS_INFOBAR_TRANSLATE_LANGUAGE_SELECTION_DELEGATE_H_
 

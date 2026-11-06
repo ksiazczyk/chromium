@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar modal overlay request cancel handler header
+// summary: Declares a cancel handler for infobar modal overlay requests that cancels the request when modal UI presented from the banner completes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_INFOBAR_MODAL_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 #define IOS_CHROME_BROWSER_INFOBARS_MODEL_OVERLAYS_INFOBAR_MODAL_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 

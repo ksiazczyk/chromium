@@ -1,0 +1,4 @@
+# Docerion header of infobar_address_profile_modal_constants.mm.
+type: source
+title: Address profile infobar modal constants implementation
+summary: Defines the accessibility identifier string for the save address profile infobar modal edit button.

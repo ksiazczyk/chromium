@@ -1,0 +1,4 @@
+# Docerion header of infobar_ios.mm.
+type: source
+title: InfoBarIOS implementation
+summary: Implements InfoBarIOS construction, accepted and high-priority state changes with observer notifications, and controller delegate removal handling.
