@@ -1,0 +1,4 @@
+# Docerion header of json_comment_eater.py.
+type: source
+title: JSON comment eater utility
+summary: Command-line utility that strips // and /* */ comments from JSON input so the result can be parsed with json.loads.

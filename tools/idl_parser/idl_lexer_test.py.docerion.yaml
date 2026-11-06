@@ -1,0 +1,4 @@
+# Docerion header of idl_lexer_test.py.
+type: test
+title: Unit tests for the Web IDL lexer
+summary: Verifies that test input files tokenize as expected and that text rebuilt from tokens produces identical token streams and types.

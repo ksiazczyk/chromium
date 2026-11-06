@@ -1,0 +1,4 @@
+# Docerion header of resource_ids.spec.
+type: config
+title: GRIT resource ID assignments for Chromium grd files
+summary: Assigns fake start IDs for resources and strings across all grd files so resource IDs stay unique, organized into sections by directory.

@@ -1,0 +1,4 @@
+# Docerion header of rc2grd_unittest.py.
+type: test
+title: Unit tests for the rc2grd tool
+summary: Unit tests for rc2grd covering placeholderization, menu parsing regressions, translateable script content and role-model placeholder reuse.

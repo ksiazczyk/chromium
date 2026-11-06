@@ -1,0 +1,4 @@
+# Docerion header of cpp_bundle_generator_test.py.
+type: test
+title: cpp_bundle_generator tests
+summary: Unit tests checking that the C++ bundle generator emits correct platform BUILDFLAG ifdefs for Windows, Linux, ChromeOS and all-platform functions.

@@ -1,0 +1,4 @@
+# Docerion header of web_idl_schema.py.
+type: source
+title: WebIDL schema parser
+summary: Parses WebIDL extension API files into the schema format understood by the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of resource_map_unittest.py.
+type: test
+title: Unit tests for grit.format.resource_map
+summary: Tests generation of resource map headers and sources, including resource paths, conditional resources and generated files.

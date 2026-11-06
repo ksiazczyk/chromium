@@ -1,0 +1,4 @@
+# Docerion header of postprocess_unittest.py.
+type: test
+title: Unit tests for RC file postprocessing
+summary: Unit tests that run rc2grd with a dummy postprocessor renaming DUMMY message names to SMART to verify postprocessing hooks.

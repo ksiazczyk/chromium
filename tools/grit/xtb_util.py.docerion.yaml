@@ -1,0 +1,4 @@
+# Docerion header of xtb_util.py.
+type: script
+title: XTB file parse and dump tool
+summary: Command-line helper that parses a .xtb translation file and dumps its contents to the console for debugging.

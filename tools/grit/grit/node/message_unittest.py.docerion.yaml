@@ -1,0 +1,4 @@
+# Docerion header of message_unittest.py.
+type: test
+title: Unit tests for the message node
+summary: Tests message parsing, placeholders, formatter data, ellipsis replacement, and byte order mark removal.

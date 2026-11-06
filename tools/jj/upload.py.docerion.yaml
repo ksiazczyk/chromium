@@ -1,0 +1,4 @@
+# Docerion header of upload.py.
+type: source
+title: Upload changes to Gerrit
+summary: Uploads jj revisions to Gerrit via git cl, checking presubmit results, bug trailers, and building refspec options for reviewers, labels, and the commit queue.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT resize tool for generating dialog editing projects in Visual Studio
+# summary: Implements the grit resize command, which generates RC files, resource headers and Visual Studio projects for editing the layout of dialogs for a chosen language.
+# ---
+
 '''The 'grit resize' tool.'''
 
 import getopt

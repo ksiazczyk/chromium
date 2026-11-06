@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Message count tool
+# summary: GRIT tool that counts and reports the number of occurrences of a given message ID in the parsed resource tree.
+# ---
+
 '''Count number of occurrences of a given message ID.'''
 
 import getopt

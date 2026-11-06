@@ -1,0 +1,4 @@
+# Docerion header of idl_node.py.
+type: source
+title: IDL node classes for the parser AST
+summary: Defines IDLNode and IDLAttribute objects that form the parser's AST, with traversal, property lookup and error and warning logging.

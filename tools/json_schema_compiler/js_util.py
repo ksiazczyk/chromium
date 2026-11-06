@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JavaScript code generation helpers
+# summary: Helper utilities for JavaScript code generation, providing license headers, JSDoc construction, property name normalization and type mapping.
+# ---
+
 import re
 from datetime import datetime
 

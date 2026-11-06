@@ -1,0 +1,4 @@
+# Docerion header of util_test.py.
+type: test
+title: Unit tests for description splitting
+summary: Unit tests verifying that split_description separates commit descriptions from git trailers across single-paragraph, trailer-only, and mixed cases.

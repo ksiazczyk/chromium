@@ -8,6 +8,12 @@
 // The exact format of this tool's output to stdout is important, to match
 // what the run_web_tests.py script expects.
 
+// ---docerion
+// type: source
+// title: image_diff tool implementation
+// summary: Implements the image_diff command-line utility that compares PNG images for web tests, supporting histogram, diff output, and fuzzy matching options.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

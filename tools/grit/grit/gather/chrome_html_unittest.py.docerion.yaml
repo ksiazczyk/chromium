@@ -1,0 +1,4 @@
+# Docerion header of chrome_html_unittest.py.
+type: test
+title: Chrome HTML gatherer unit tests
+summary: Unit tests for ChromeHtml covering inlined image resources, image sets, scale factor handling and flatten behavior.

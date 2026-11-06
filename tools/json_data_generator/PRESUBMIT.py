@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for json_data_generator
+# summary: Runs the directory's Python unit tests as presubmit checks for uploaded and committed changes.
+# ---
+
 """Presubmit script for changes affecting tools/json_data_generator/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Skeleton gatherer base class
+# summary: Defines SkeletonGatherer, a base class that stores parsed resources as a list of translatable and nontranslatable chunks and reassembles them into translated output.
+# ---
+
 '''A baseclass for simple gatherers that store their gathered resource in a
 list.
 '''

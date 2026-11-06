@@ -1,0 +1,4 @@
+# Docerion header of print_stats.py.
+type: script
+title: Print stats for Kombucha interactive UI tests
+summary: Script that scans build output sources and prints counts of Kombucha interactive UI tests, test cases, and test files.

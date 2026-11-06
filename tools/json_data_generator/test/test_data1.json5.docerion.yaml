@@ -1,0 +1,4 @@
+# Docerion header of test_data1.json5.
+type: test
+title: JSON5 test data file with an object
+summary: Test JSON5 data source containing a single object with name, age and habits fields, used as input for generator tests.

@@ -1,0 +1,4 @@
+# Docerion header of filename_unittest.py.
+type: test
+title: Unit tests for the WindowsFilename custom type
+summary: Unit tests verifying that the WindowsFilename custom type removes banned characters from French translations of messages.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Structure diff tool (grit sdiff)
+# summary: GRIT tool that compares the structure of two files by replacing translateable content with placeholders before invoking an external diff program.
+# ---
+
 '''The 'grit sdiff' tool.'''
 
 import os

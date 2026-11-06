@@ -1,3 +1,13 @@
+---
+type: readme
+title: JSON Data Generator
+summary: Explains when and how to use the GN template to share JSON5 data across languages by rendering Jinja templates, including variables, globals, filters, and custom helpers.
+relations:
+  - references /tools/json_data_generator/generator.py
+  - references /tools/json_data_generator/test/jinja_helper.py
+  - documents /tools/json_data_generator/json_data_generator.gni
+---
+
 # JSON Data Generator
 
 This GN template will help you share JSON data across multiple languages (e.g

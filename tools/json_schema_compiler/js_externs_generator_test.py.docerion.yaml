@@ -1,0 +1,4 @@
+# Docerion header of js_externs_generator_test.py.
+type: test
+title: Closure Compiler externs generator tests
+summary: Unit tests that compare generated Closure Compiler externs output against expected results for a fake IDL API definition.

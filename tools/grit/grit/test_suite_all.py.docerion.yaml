@@ -1,0 +1,4 @@
+# Docerion header of test_suite_all.py.
+type: test
+title: GRIT full test suite runner
+summary: Collects and runs all GRIT unit tests through the typ test runner, skipping the pseudo unittest.

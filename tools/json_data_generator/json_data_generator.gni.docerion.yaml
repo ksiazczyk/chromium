@@ -1,0 +1,4 @@
+# Docerion header of json_data_generator.gni.
+type: config
+title: GN template for json_data_generator
+summary: Defines the json_data_generator GN template that invokes the generator script to render Jinja templates from JSON5 sources, documenting its variables and usage.

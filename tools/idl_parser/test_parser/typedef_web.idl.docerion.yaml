@@ -1,0 +1,4 @@
+# Docerion header of typedef_web.idl.
+type: test
+title: WebIDL typedef parser test cases
+summary: WebIDL test input exercising typedef productions across primitive, string, sequence, record, union and nullable types, with expected AST trees and errors in comments.

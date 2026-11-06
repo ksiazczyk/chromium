@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Message and translation classes for GRIT
+# summary: Defines Message, Translation, and Placeholder classes that represent translatable strings and their parts.
+# ---
+
 '''Adaptation of the extern.tclib classes for our needs.'''
 
 import functools

@@ -1,0 +1,4 @@
+# Docerion header of html_inline_unittest.py.
+type: test
+title: Unit tests for html_inline
+summary: Unit tests covering resource filename collection, conditional if blocks, generated files and inlining behavior of the html_inline module.

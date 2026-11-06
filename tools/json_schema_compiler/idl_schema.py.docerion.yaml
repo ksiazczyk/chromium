@@ -1,0 +1,4 @@
+# Docerion header of idl_schema.py.
+type: source
+title: IDL schema parser
+summary: Parses WebIDL API definitions into the schema model used by the JSON schema compiler, converting comments, functions, types and events.

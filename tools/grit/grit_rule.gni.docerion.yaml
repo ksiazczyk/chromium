@@ -1,0 +1,4 @@
+# Docerion header of grit_rule.gni.
+type: config
+title: GN template for grit resource targets
+summary: GN template that instantiates grit targets to run grit and compile generated .cc files, documenting parameters such as source, outputs, defines and deps.

@@ -1,0 +1,4 @@
+# Docerion header of grit_info.py.
+type: source
+title: GRIT input and output info tool
+summary: Parses a .grd file to determine its input and output files for the build system, including Android zip outputs.

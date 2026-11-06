@@ -1,0 +1,4 @@
+# Docerion header of android2grd_unittest.py.
+type: test
+title: Android2Grd unit tests
+summary: Unit tests for the android2grd tool covering message parsing, whitespace and placeholder handling, translatable detection, and Android-to-GRD DOM conversion.

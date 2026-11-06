@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ util code generation helper
+# summary: Helper class that emits code referencing the util.cc functions for generated C++ API bindings.
+# ---
+
 _API_UTIL_NAMESPACE = 'json_schema_compiler::util'
 
 

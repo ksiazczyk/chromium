@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript HTML template test input with if expressions
+// summary: JavaScript fixture returning an HTML template with if expressions, used as preprocessor test input.
+// ---
+
 function getTemplate() {
   return `<!--_html_template_start_--><html>
   <head>

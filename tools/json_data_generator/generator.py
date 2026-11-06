@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSONDataGenerator core implementation
+# summary: Implements the JSONDataGenerator class that loads JSON5 sources into a model and renders Jinja templates with built-in and custom globals and filters.
+# ---
+
 import collections
 import importlib.util
 import os

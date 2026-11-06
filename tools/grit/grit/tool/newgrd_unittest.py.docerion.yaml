@@ -1,0 +1,4 @@
+# Docerion header of newgrd_unittest.py.
+type: test
+title: Unit tests for the newgrd tool
+summary: Unit tests verifying that newgrd creates a new .grd file and fails when given no output file or too many arguments.

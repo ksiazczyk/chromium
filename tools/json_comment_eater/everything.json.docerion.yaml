@@ -1,0 +1,4 @@
+# Docerion header of everything.json.
+type: test
+title: Everything test input JSON
+summary: Test input JSON packed with comments, quoted strings and escape edge cases used by the comment eater unit test.

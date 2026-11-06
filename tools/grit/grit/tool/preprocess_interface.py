@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Preprocessor base class for RC files
+# summary: Defines the PreProcessor base class for adjusting RC file text with constructs GRIT cannot handle before conversion to GRD format.
+# ---
+
 '''Base class for preprocessing of RC files.'''
 
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: tools/gritsettings README
+summary: Explains the files in tools/gritsettings and gives step-by-step instructions for adding new grd entries to resource_ids.spec.
+relations:
+  - documents /tools/gritsettings/resource_ids.spec
+  - documents /tools/gritsettings/translation_expectations.pyl
+  - references /tools/grit/grit/format/gen_predetermined_ids.py
+---
+
 ### tools/gritsettings README
 
 This directory contains several files that apply globally to the Chrome resource

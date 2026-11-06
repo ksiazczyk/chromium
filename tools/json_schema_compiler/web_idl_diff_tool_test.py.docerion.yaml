@@ -1,0 +1,4 @@
+# Docerion header of web_idl_diff_tool_test.py.
+type: test
+title: WebIDL conversion diff tests
+summary: Verifies that schemas converted from IDL to WebIDL parse identically, using copied pre-conversion schema pairs.

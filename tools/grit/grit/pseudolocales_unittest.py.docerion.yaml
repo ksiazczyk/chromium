@@ -1,0 +1,4 @@
+# Docerion header of pseudolocales_unittest.py.
+type: test
+title: Unit tests for grit.pseudolocales
+summary: Verifies pseudolocale text parsing into syntax trees covering HTML tags, variables, and plural constructs.

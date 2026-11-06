@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Tool base class for GRIT command-line tools
+# summary: Defines the Tool base class that GRIT tools implement, with abstract Run and ShortDescription methods plus verbosity-aware output helpers.
+# ---
+
 '''Base class and interface for tools.'''
 
 

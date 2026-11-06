@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT structure node element
+# summary: Implements the GRIT <structure> element, mapping structure types to gatherers and supporting variables, skeletons, and compression.
+# ---
+
 '''The <structure> element.'''
 
 import os

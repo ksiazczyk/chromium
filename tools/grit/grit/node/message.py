@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Message element node
+# summary: Implements the <message> element with placeholder validation, whitespace handling, shortcut groups, and translation support.
+# ---
+
 '''Handling of the <message> element.'''
 
 import re

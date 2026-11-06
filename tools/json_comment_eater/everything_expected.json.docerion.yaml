@@ -1,0 +1,4 @@
+# Docerion header of everything_expected.json.
+type: test
+title: Expected output for the everything test
+summary: Expected comment-stripped JSON that the unit test compares against the result of processing everything.json.

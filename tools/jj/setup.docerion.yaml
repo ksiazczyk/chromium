@@ -1,0 +1,4 @@
+# Docerion header of setup.
+type: script
+title: Shell launcher for jj setup
+summary: Bash wrapper that runs setup.py with python3 to set up jj in a Chromium checkout.

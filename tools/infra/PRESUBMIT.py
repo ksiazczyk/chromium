@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks running Python unit tests
+# summary: Presubmit script that recursively runs *_unittest.py files on change upload and commit.
+# ---
+
 """Runs python unittests.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Miscellaneous GRIT node types
+# summary: Implements miscellaneous GRIT node types, including the root GritNode, resource ID assignment, RTL language handling, and first-ids file reading.
+# ---
+
 """Miscellaneous node types."""
 
 import gc

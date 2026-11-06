@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for updating default GRIT resource IDs
+summary: Defines a GN action that runs grit.py update_resource_ids to generate the default GRIT resource ID file from resource_ids.spec.

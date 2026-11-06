@@ -1,0 +1,4 @@
+# Docerion header of idl_lexer.py.
+type: source
+title: Web IDL lexer
+summary: Tokenizes Web IDL source with the PLY library, defining keywords, literals, strings and special comments for the parser.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Container nodes for GRIT grouping elements
+# summary: Defines logic-free container node classes for the includes, messages, structures, translations, outputs, and identifiers elements.
+# ---
+
 '''Container nodes that don't have any logic.'''
 
 from grit.node import base

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest parsing helpers
+// summary: C++ helpers for parsing manifest dictionary values with type checks and detailed error messages for missing keys, invalid types and bad enum or choice values.
+// ---
+
 #include "tools/json_schema_compiler/manifest_parse_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSON schema loader with caching
+# summary: Loads and parses JSON schema files, caching results so repeated loads return deep copies without re-reading the files.
+# ---
+
 import copy
 
 import json_parse

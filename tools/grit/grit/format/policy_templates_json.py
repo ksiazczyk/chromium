@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Policy templates JSON formatter
+# summary: Formats translated policy template metafiles by gathering the translated JSON text from the matching structure node in the GRIT tree.
+# ---
+
 """Translates policy_templates.json files."""
 
 from grit.node import structure

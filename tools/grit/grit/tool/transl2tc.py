@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT transl2tc tool for importing RC translations into Translation Console
+# summary: Implements the grit transl2tc command, which matches source and translated RC files against a .grd file to produce a file importable into the Translation Console.
+# ---
+
 '''The 'grit transl2tc' tool.'''
 
 from grit import grd_reader

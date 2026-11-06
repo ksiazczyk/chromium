@@ -1,0 +1,4 @@
+# Docerion header of generate_canonical_locales_list.py.
+type: source
+title: Canonical locales list generator
+summary: Generates a C++ include file with IMPL_LANGUAGECODE_TAG_NAME macros for all supported Chromium language codes, run by the canonical_language_codes_gen build action.

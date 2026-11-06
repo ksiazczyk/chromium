@@ -1,0 +1,4 @@
+# Docerion header of generate_all_externs.py.
+type: script
+title: generate_all_externs
+summary: Command-line helper that regenerates and checks all known JavaScript externs against their API schemas, reporting files that need updating.

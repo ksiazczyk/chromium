@@ -1,0 +1,4 @@
+# Docerion header of repack.gni.
+type: config
+title: GN repack templates for pak files
+summary: GN templates for combining .pak files and repacking locale-specific pak files, with optional bundle data, allowlists and gzip compression.

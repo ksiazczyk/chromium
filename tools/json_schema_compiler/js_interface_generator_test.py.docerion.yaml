@@ -1,0 +1,4 @@
+# Docerion header of js_interface_generator_test.py.
+type: test
+title: Closure Compiler interface generator tests
+summary: Unit tests that verify the interface generator produces the expected JSDoc interface output for a fake IDL API definition.

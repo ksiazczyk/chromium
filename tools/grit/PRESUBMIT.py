@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for GRIT
+# summary: Runs the GRIT unittest suites on change upload and commit through the Chromium presubmit API.
+# ---
+
 """grit unittests presubmit script.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts for

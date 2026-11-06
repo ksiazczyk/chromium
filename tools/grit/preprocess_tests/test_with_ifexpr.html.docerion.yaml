@@ -1,0 +1,4 @@
+# Docerion header of test_with_ifexpr.html.
+type: test
+title: HTML test input with if expressions
+summary: HTML fixture with grit if-expression conditionals, used as input for preprocessor tests.

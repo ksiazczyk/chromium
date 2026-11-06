@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Gzip string utilities
+# summary: Provides a GzipString helper that compresses strings or bytes with Python's gzip module at maximum level for deterministic output.
+# ---
+
 """Provides gzip utilities for strings."""
 
 import gzip

@@ -1,0 +1,4 @@
+# Docerion header of grit_runner_unittest.py.
+type: test
+title: Unit tests for grit_runner
+summary: Unit tests verifying option and argument handling of the GRIT command runner.

@@ -1,0 +1,4 @@
+# Docerion header of assigner_unittest.py.
+type: test
+title: Unit tests for the resource ID assigner
+summary: Tests DAG-based coarse ID assignment over synthetic resource_ids specs covering series, branching, and join cases.

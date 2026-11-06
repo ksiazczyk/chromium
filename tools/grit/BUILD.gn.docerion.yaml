@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for GRIT
+summary: Defines GN targets including a stamp action that tracks grit source changes and a group for running grit Python unittests.

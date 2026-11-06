@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Preprocess if-expr unit tests
+# summary: Unit tests for the preprocess_if_expr script, covering defines and removal comments for JS, TypeScript, HTML and HTML template inputs.
+# ---
+
 import os
 import shutil
 import tempfile

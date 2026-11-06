@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Admin template gatherer
+# summary: Gatherer that extracts translateable strings from the [strings] section of Windows administrative template (.adm) files using regular expressions.
+# ---
+
 '''Gatherer for administrative template files.'''
 
 import re

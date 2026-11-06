@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cpp_generator
+# summary: Small wrapper that pairs the C++ header and source generators into a single CppGenerator entry point for the schema compiler.
+# ---
+
 from cc_generator import CCGenerator
 from h_generator import HGenerator
 

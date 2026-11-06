@@ -1,0 +1,4 @@
+# Docerion header of misc_unittest.py.
+type: test
+title: Unit tests for misc.GritNode
+summary: Unit tests for the miscellaneous GRIT node types, covering first-ids reading, input file collection, and duplicate-name parsing errors.

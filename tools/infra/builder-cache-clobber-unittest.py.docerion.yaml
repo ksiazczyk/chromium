@@ -1,0 +1,4 @@
+# Docerion header of builder-cache-clobber-unittest.py.
+type: test
+title: Unit tests for builder-cache-clobber.py
+summary: Unittest suite covering the clobber script's main flow, bot ID handling and Xcode cache actions.

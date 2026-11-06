@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected JavaScript HTML template output for if expression preprocessing
+// summary: Expected JavaScript HTML template output after grit preprocessing of if expressions.
+// ---
+
 function getTemplate() {
   return `<!--_html_template_start_--><html>
   <head>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: IPC fuzzer owners
+summary: Lists the Chromium developers responsible for reviewing and approving changes in the tools/ipc_fuzzer directory.

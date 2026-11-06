@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: FP 64-bit string fingerprint module
+# summary: Generates 64-bit string fingerprints from MD5 and supports swapping the fingerprint implementation at runtime via a setter or by importing a replacement module.
+# ---
+
 
 try:
   import hashlib

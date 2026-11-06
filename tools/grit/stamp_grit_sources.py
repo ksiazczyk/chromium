@@ -12,6 +12,12 @@
 # Usage:
 #    stamp_grit_sources.py <directory> <stamp-file> <.d-file>
 
+# ---docerion
+# type: script
+# title: Grit source stamp and dep file generator
+# summary: Build helper that enumerates grit Python sources and writes a stamp file plus a .d dependency file for the build.
+# ---
+
 
 import os
 import sys

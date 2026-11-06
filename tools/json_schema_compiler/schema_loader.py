@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Schema file loader
+# summary: Loads API schema definitions from JSON, IDL or WebIDL files, dispatching on the file extension to the matching parser.
+# ---
+
 import os
 import sys
 

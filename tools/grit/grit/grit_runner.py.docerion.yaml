@@ -1,0 +1,4 @@
+# Docerion header of grit_runner.py.
+type: script
+title: GRIT command-line runner
+summary: Command-line entry point that dispatches GRIT tools such as build, rc2grd, and xmb with global options.

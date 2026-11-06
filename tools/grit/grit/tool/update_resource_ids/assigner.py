@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Resource ID assigner for resource_ids files
+# summary: Assigns start IDs and per-tag ID quotas to resource_ids items using naive and DAG-based coarse assigners that preserve structure.
+# ---
+
 """Assign IDs to resource_ids file based on usage, while preserving structure.
 
 resource_ids assignment is divided into two parts:

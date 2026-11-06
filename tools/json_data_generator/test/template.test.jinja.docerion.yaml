@@ -1,0 +1,4 @@
+# Docerion header of template.test.jinja.
+type: test
+title: Jinja test template for the JSON data generator
+summary: Test Jinja template exercising source file paths, C++ header guard generation, model data access and custom globals and filters.

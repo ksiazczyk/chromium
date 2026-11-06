@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT newgrd tool for creating empty GRD files
+# summary: GRIT newgrd tool that writes a new, empty .grd file with template sections and TODO comments guiding resource setup.
+# ---
+
 '''Tool to create a new, empty .grd file with all the basic sections.'''
 
 import getopt

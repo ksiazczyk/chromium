@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT constant definitions
+# summary: Defines shared GRIT constants such as the encoding check string, pseudolocale names, the brotli header magic, and gender values.
+# ---
+
 '''Constant definitions for GRIT.'''
 
 # This is the Icelandic noun meaning "grit" and is used to check that our

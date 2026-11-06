@@ -1,0 +1,4 @@
+# Docerion header of txt_unittest.py.
+type: test
+title: Text file gatherer unit tests
+summary: Unit tests verifying that the TxtFile gatherer reads a text file and produces a single translatable message clique with the original content.

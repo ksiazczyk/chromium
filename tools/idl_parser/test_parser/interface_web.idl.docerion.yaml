@@ -1,0 +1,4 @@
+# Docerion header of interface_web.idl.
+type: test
+title: WebIDL interface parser test cases
+summary: WebIDL test input exercising interface productions including mixins, partials, attributes, operations, constants and error cases, with expected AST trees and errors in comments.

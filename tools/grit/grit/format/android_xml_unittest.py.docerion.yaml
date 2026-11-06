@@ -1,0 +1,4 @@
+# Docerion header of android_xml_unittest.py.
+type: test
+title: Unit tests for the Android XML formatter
+summary: Verifies Android XML output for strings, quotes, whitespace, placeholders, and plural handling.

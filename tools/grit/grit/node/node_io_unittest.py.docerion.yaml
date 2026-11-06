@@ -1,0 +1,4 @@
+# Docerion header of node_io_unittest.py.
+type: test
+title: Unit tests for node_io.FileNode
+summary: Unit tests for the GRIT file and output nodes, covering path resolution, translation loading, and concurrent gathering.

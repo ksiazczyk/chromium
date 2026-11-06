@@ -1,0 +1,4 @@
+# Docerion header of translation_expectations.pyl.
+type: config
+title: GRD translation expectations and language list
+summary: Python literal config specifying which grd files should be translated and into which languages, used by the internal translation process.

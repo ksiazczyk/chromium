@@ -1,0 +1,4 @@
+# Docerion header of include_unittest.py.
+type: test
+title: Unit tests for the include node
+summary: Tests input path resolution with base_dir and gzip compression behavior of IncludeNode.

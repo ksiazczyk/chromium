@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Closure Compiler interface generator
+# summary: Generates Closure Compiler interface files for API namespaces, defining overridable interfaces with functions and events.
+# ---
+
 """
 Generator that produces an interface file for the Closure Compiler.
 Note: This is a work in progress, and generated interfaces may require tweaking.

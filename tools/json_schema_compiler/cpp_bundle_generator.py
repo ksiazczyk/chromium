@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ bundle schema generator
+# summary: Generates bundled C++ schema and API code from multiple extension API schema definitions, trimming unneeded fields and namespacing types and references.
+# ---
+
 import code_util
 import cpp_util
 from model import Platforms

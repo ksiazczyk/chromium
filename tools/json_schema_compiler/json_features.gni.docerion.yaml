@@ -1,0 +1,4 @@
+# Docerion header of json_features.gni.
+type: config
+title: json_features.gni
+summary: GN template that runs the feature compiler to generate C++ FeatureProvider files from extension features JSON files.

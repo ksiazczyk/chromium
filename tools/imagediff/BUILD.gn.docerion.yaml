@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: imagediff GN build configuration
+summary: GN build file that defines the image_diff test executable and selects the test host toolchain for cross-compilation scenarios.

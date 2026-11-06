@@ -1,0 +1,4 @@
+# Docerion header of cpp_util_test.py.
+type: test
+title: cpp_util tests
+summary: Unit tests for C++ utility helpers covering classname conversion, namespace opening and closing, include guard names and namespace formatting.

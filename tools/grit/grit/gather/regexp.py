@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Regular expression gatherer base class
+# summary: Provides RegexpGatherer, a base class for gatherers that parse resource sections with a single multi-line regular expression, mapping type names to message descriptions.
+# ---
+
 '''A baseclass for simple gatherers based on regular expressions.'''
 
 from grit.gather import skeleton_gatherer

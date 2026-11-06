@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript test input with if expressions
+// summary: JavaScript Polymer fixture with if expressions in its template and comments, used as preprocessor test input.
+// ---
+
 Polymer({
   is: 'cr-foo',
 

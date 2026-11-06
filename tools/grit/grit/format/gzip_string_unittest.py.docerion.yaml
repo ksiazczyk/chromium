@@ -1,0 +1,4 @@
+# Docerion header of gzip_string_unittest.py.
+type: test
+title: Unit tests for gzip_string
+summary: Unit tests checking that GzipString produces valid gzip output that decompresses back to the original input.

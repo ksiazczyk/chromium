@@ -1,0 +1,4 @@
+# Docerion header of ipc_fuzzer.gni.
+type: config
+title: IPC fuzzer build arguments
+summary: GN import file declaring the enable_ipc_fuzzer argument and the platform, sanitizer, and build-type conditions under which it defaults to enabled.

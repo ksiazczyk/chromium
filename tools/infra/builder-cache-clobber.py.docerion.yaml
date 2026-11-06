@@ -1,0 +1,4 @@
+# Docerion header of builder-cache-clobber.py.
+type: script
+title: Clobber builder caches for a builder
+summary: CLI script that clobbers the builder cache on Swarming bots for a given builder and handles Xcode caches.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: IPC fuzzer directory metadata
+summary: Maps the directory to the Tools>Stability>Libfuzzer monorail component, the Chrome security team email, and a Buganizer component for issue tracking.

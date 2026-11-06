@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared utilities for jj commands
+# summary: Shared helpers for running jj commands, querying revision data through templated log output, and splitting commit descriptions from git trailers.
+# ---
+
 import collections
 import logging
 import re

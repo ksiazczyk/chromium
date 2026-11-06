@@ -1,0 +1,4 @@
+# Docerion header of grd_reader.py.
+type: source
+title: GRD file reader
+summary: SAX-based parser that loads GRD and GRDP files into an in-memory node tree without processing them.

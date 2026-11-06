@@ -1,0 +1,4 @@
+# Docerion header of grit_args.gni.
+type: config
+title: GN arguments for GRIT builds
+summary: Computes the defines, environment variables and target platform flags passed to grit when building Chromium resources.

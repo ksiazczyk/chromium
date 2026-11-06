@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome extension messages.json formatter
+# summary: Formats GRIT messages as JSON for localizing Chrome extensions, handling placeholders and English fallback.
+# ---
+
 """Formats as a .json file that can be used to localize Google Chrome
 extensions."""
 

@@ -1,0 +1,4 @@
+# Docerion header of ts_definition_generator_test.py.
+type: test
+title: TypeScript definition generator tests
+summary: Tests that generated TypeScript definitions match expected .d.ts output for IDL and JSON inputs.

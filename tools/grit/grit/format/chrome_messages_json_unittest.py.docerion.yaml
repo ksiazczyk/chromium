@@ -1,0 +1,4 @@
+# Docerion header of chrome_messages_json_unittest.py.
+type: test
+title: Unit tests for the Chrome messages JSON formatter
+summary: Tests JSON output for quotes, placeholders, spacing, and translation fallback behavior.

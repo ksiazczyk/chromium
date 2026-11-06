@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GRIT update_resource_ids tool main module
+# summary: Updates GRID resource_ids from linked GRD files while preserving comments, item ordering, and mutual-exclusion structure.
+# ---
+
 """Package grit.tool.update_resource_ids
 
 Updates GRID resource_ids from linked GRD files, while preserving structure.

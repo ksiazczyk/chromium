@@ -1,0 +1,4 @@
+# Docerion header of json_comment_eater_test.py.
+type: test
+title: JSON comment eater unit tests
+summary: Unit test that feeds the everything fixture through Nom and asserts the output matches the expected JSON.

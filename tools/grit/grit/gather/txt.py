@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Text file gatherer
+# summary: Implements TxtFile, a simple gatherer that turns the entire content of a text file into a single translatable message clique.
+# ---
+
 '''Supports making amessage from a text file.'''
 
 from grit.gather import interface

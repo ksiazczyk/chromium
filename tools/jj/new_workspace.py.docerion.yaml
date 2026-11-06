@@ -1,0 +1,4 @@
+# Docerion header of new_workspace.py.
+type: source
+title: New jj Chromium workspace creation
+summary: Creates a new jj workspace directory with a linked .gclient file and a jj workspace under src for parallel Chromium checkouts.

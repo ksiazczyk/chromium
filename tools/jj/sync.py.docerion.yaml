@@ -1,0 +1,4 @@
+# Docerion header of sync.py.
+type: source
+title: jj sync command for Chromium
+summary: Implements the jj sync command, fetching origin/main, rebasing local changes onto trunk, and running gclient sync.

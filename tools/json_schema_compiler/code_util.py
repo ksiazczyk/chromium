@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Code building utility
+# summary: Provides the Code class for assembling generated code with indentation, substitution, concatenation, and comment wrapping.
+# ---
+
 
 class Code(object):
   """A convenience object for constructing code.

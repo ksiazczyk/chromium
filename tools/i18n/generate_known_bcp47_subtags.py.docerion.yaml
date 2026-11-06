@@ -1,0 +1,4 @@
+# Docerion header of generate_known_bcp47_subtags.py.
+type: source
+title: Known BCP47 subtags generator
+summary: Generates C++ macro files from separated lists of known BCP47 language, script, region, and variant subtags.

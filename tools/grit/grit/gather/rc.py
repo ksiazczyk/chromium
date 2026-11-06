@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: RC file resource gatherer
+# summary: Implements gatherers for Windows RC resource files, including sections, dialogs and menus, with escaping and unescaping of resource strings.
+# ---
+
 '''Support for gathering resources from RC files.'''
 
 import re

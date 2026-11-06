@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android strings.xml output formatter
+# summary: Formats GRIT messages and translations into localized Android strings.xml files, including ICU plurals and tagged-only mode.
+# ---
+
 """Produces localized strings.xml files for Android.
 
 In cases where an "android" type output file is requested in a grd, the classes

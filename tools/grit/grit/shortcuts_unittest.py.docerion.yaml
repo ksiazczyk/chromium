@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_unittest.py.
+type: test
+title: Unit tests for grit.shortcuts
+summary: Tests duplicate shortcut warning generation, ampersand escaping, and shortcut handling in RC dialogs.

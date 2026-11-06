@@ -1,0 +1,4 @@
+# Docerion header of pseudo_unittest.py.
+type: test
+title: Unit tests for grit.pseudo
+summary: Tests vowel mapping and pseudo string and message generation in the grit.pseudo module.

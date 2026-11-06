@@ -1,0 +1,4 @@
+# Docerion header of compiler_test.py.
+type: test
+title: Unit tests for compiler
+summary: Unit tests for the compiler's node deletion logic used to strip nocompile entries from loaded schemas.

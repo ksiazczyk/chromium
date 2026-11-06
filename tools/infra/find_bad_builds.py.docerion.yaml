@@ -1,0 +1,4 @@
+# Docerion header of find_bad_builds.py.
+type: script
+title: Find builds containing a bad CL
+summary: Finds buildbucket try builds that ran a bad, usually reverted, CL so they can be cancelled.

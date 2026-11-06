@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: RC file formatter
+# summary: Formats GRIT resource trees into Windows RC files, emitting string tables, includes, structures and language-charset data for version resources.
+# ---
+
 '''Support for formatting an RC file for compilation.'''
 
 import os

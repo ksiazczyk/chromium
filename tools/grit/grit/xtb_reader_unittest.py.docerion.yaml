@@ -1,0 +1,4 @@
+# Docerion header of xtb_reader_unittest.py.
+type: test
+title: Unit tests for xtb_reader
+summary: Unit tests verifying that xtb_reader correctly parses XTB translation bundles, including placeholders, multiline text, and grammatical gender branches.

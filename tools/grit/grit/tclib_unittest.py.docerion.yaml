@@ -1,0 +1,4 @@
+# Docerion header of tclib_unittest.py.
+type: test
+title: Unit tests for grit.tclib
+summary: Tests message construction, placeholder handling, content retrieval, and message ID fingerprinting in grit.tclib.

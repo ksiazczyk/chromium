@@ -1,0 +1,4 @@
+# Docerion header of html_inline.py.
+type: source
+title: HTML inlining for resource flattening
+summary: Flattens HTML files by recursively inlining external resources such as stylesheets, scripts, images, srcset entries and includes into one self-contained file.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSON Data Generator path utilities
+# summary: Helper functions for extracting file names, file names without extension, directory names and joining paths, used by the JSON data generator tool.
+# ---
+
 from pathlib import Path
 
 

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Zip file helper functions
+# summary: Helpers for building zip archives hermetically, with fixed timestamps, canonical paths, stable ordering, and options for compression and path transformation.
+# ---
+
 """Helper functions for dealing with .zip files.
 
 Copied from

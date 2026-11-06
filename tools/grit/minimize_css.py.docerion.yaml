@@ -1,0 +1,4 @@
+# Docerion header of minimize_css.py.
+type: script
+title: CSS minimizer tool
+summary: Command-line tool that reads CSS from stdin and strips comments and whitespace while preserving content inside quotes.

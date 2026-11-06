@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for json_schema_compiler
+# summary: Presubmit script that verifies generated externs are updated on tool changes and runs the directory's Python unit tests.
+# ---
+
 """Presubmit script for changes affecting tools/json_schema_compiler/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

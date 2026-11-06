@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Cache clobbering utility functions
+# summary: Shared helpers for cache clobber scripts to query Swarming bots and trigger cache clobber tasks.
+# ---
+
 """Utility functions for cache clobbering scripts."""
 
 from __future__ import print_function

@@ -1,0 +1,4 @@
+# Docerion header of code_util_test.py.
+type: test
+title: Unit tests for code_util
+summary: Unit tests covering the Code class's appending, blocks, concatenation, substitution, and comment rendering.
