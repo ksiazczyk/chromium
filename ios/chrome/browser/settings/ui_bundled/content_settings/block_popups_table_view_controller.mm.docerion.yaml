@@ -1,0 +1,4 @@
+# Docerion header of block_popups_table_view_controller.mm.
+type: source
+title: Block popups settings controller implementation
+summary: Implements the block popups settings screen with a main switch, policy-managed state, and a list of allowed popup patterns.

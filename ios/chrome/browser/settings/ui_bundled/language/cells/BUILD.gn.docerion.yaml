@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for language settings cells
+summary: Defines the GN source_set for the language settings cells, listing language_item sources and dependencies on base i18n and shared table view cells.

@@ -1,0 +1,4 @@
+# Docerion header of identity_button_item.mm.
+type: source
+title: IdentityButtonItem implementation
+summary: Implements IdentityButtonItem, configuring the IdentityButtonCell's button with identity data and applying a disabled alpha when not enabled.

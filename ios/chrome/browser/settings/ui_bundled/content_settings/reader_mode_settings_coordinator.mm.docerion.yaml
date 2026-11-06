@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_settings_coordinator.mm.
+type: source
+title: Reader mode settings coordinator implementation
+summary: Implements the coordinator that builds the reader mode settings view controller from distilled page prefs and pushes it onto the navigation stack.

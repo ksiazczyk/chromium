@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageItem model class header
+// summary: Declares the LanguageItem model class holding a language tag and Translate-related flags such as target language, blocked state, and Translate support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_LANGUAGE_CELLS_LANGUAGE_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_LANGUAGE_CELLS_LANGUAGE_ITEM_H_
 

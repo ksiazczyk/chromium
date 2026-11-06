@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_settings_table_view_controller.mm.
+type: source
+title: Reader mode settings table view controller implementation
+summary: Implements the Reading Mode settings screen with switches for showing reading suggestions and hyperlinks, backed by preferences and distilled page prefs.

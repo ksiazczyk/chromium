@@ -1,0 +1,4 @@
+# Docerion header of block_popups_egtest.mm.
+type: test
+title: Block popups settings Earl Grey tests
+summary: Integration tests verifying the block popups settings screen and popup exception behavior using an embedded test server.

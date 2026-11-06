@@ -1,0 +1,4 @@
+# Docerion header of language_settings_ui_constants.mm.
+type: source
+title: Language settings UI accessibility constants
+summary: Defines accessibility identifier string constants for the iOS language settings UI, covering the add-language search and table, language details, settings table, and translate switch.

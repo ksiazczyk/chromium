@@ -1,0 +1,4 @@
+# Docerion header of web_inspector_state_table_view_controller_unittest.mm.
+type: test
+title: Web Inspector state table view controller unit tests
+summary: Unit tests checking the Web Inspector screen's items, title, and switch state, including updates applied before the model is loaded.

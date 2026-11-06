@@ -1,0 +1,4 @@
+# Docerion header of elements_constants.mm.
+type: source
+title: Definitions of info bubble accessibility identifier constants
+summary: Defines the NSString values for the enterprise and supervised user info bubble accessibility identifiers declared in the constants header.

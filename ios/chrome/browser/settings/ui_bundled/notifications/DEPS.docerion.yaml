@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for notifications settings folder
+summary: Restricts which Chromium directories this folder is allowed to include headers from.

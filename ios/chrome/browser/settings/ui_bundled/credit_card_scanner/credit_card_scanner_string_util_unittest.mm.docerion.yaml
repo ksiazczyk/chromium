@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_string_util_unittest.mm.
+type: test
+title: Credit card scanner string utilities unit tests
+summary: Unit tests covering extraction of credit card numbers and expiration dates from valid and invalid recognised text.

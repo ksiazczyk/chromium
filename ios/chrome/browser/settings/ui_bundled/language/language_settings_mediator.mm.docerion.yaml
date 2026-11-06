@@ -1,0 +1,4 @@
+# Docerion header of language_settings_mediator.mm.
+type: source
+title: Language settings mediator implementation
+summary: Implements the mediator that observes language and Translate preferences, builds language item lists, and logs settings actions.

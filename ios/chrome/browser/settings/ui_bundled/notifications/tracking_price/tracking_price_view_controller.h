@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackingPriceViewController header with presentation delegate
+// summary: Declares the price tracking settings view controller, conforming to SettingsControllerProtocol and TrackingPriceConsumer, plus a presentation delegate protocol for removal events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_TRACKING_PRICE_TRACKING_PRICE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_NOTIFICATIONS_TRACKING_PRICE_TRACKING_PRICE_VIEW_CONTROLLER_H_
 

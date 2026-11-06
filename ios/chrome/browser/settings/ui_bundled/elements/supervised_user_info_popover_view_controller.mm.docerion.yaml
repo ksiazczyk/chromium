@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_info_popover_view_controller.mm.
+type: source
+title: Supervised user info popover view controller implementation
+summary: Implements the supervised user info popover with a family link icon and localized parental control text and link.

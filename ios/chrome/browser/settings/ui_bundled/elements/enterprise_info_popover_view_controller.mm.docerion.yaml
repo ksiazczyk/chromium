@@ -1,0 +1,4 @@
+# Docerion header of enterprise_info_popover_view_controller.mm.
+type: source
+title: Enterprise info popover view controller implementation
+summary: Implements the enterprise info popover, building a tinted enterprise icon and localized primary and secondary messages with an optional management link.

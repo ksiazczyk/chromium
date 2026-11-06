@@ -1,0 +1,4 @@
+# Docerion header of content_settings_table_view_controller.mm.
+type: source
+title: Content settings table view controller implementation
+summary: Implements the content settings screen with toggles for popups, mailto, link previews, address and unit detection, default page mode, reader mode and web inspector.

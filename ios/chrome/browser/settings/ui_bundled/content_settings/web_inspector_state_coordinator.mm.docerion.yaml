@@ -1,0 +1,4 @@
+# Docerion header of web_inspector_state_coordinator.mm.
+type: source
+title: Web Inspector state coordinator implementation
+summary: Implements the Web Inspector settings coordinator, creating the mediator and table view controller and pushing the screen onto the navigation stack.

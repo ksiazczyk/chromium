@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content settings BUILD.gn build definition
+summary: Defines source sets for the content settings UI, its table view components, and unit tests, listing sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS language settings
+summary: Defines source sets and dependencies for the language settings mediator, UI, constants, unit tests and Earl Grey test support.

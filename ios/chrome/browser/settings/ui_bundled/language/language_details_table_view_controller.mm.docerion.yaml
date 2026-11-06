@@ -1,0 +1,4 @@
+# Docerion header of language_details_table_view_controller.mm.
+type: source
+title: Language details table view controller implementation
+summary: Implements the per-language options screen with never translate and offer translate choices and related histograms.

@@ -1,0 +1,4 @@
+# Docerion header of credit_card_scanner_view.mm.
+type: source
+title: Credit card scanner view implementation
+summary: Implements the credit card scanner view, defining the scanner viewport size for iPhone and iPad and the localized viewport caption.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web inspector state consumer protocol
+// summary: Declares a consumer protocol for updating whether Web Inspector support is enabled in the settings UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_WEB_INSPECTOR_STATE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_WEB_INSPECTOR_STATE_CONSUMER_H_
 

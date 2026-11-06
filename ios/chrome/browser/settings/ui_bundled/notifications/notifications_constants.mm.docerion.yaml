@@ -1,0 +1,4 @@
+# Docerion header of notifications_constants.mm.
+type: source
+title: Notifications settings constants definitions
+summary: Defines the accessibility identifier strings and symbol name declared for the notifications settings UI.

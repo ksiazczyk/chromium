@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for iOS notifications settings
+summary: Defines source sets and dependencies for the notifications settings coordinator, UI, constants and utils targets.

@@ -1,0 +1,4 @@
+# Docerion header of downloads_settings_table_view_controller_unittest.mm.
+type: test
+title: Downloads settings table view controller unit tests
+summary: Unit tests verifying the content and delegate behavior of the Downloads settings table view controller.

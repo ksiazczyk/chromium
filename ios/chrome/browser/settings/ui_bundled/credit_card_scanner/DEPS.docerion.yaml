@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Credit card scanner DEPS include rules
+summary: Grants the credit card scanner directory permission to include headers from ios/chrome/browser/scanner/ui_bundled.

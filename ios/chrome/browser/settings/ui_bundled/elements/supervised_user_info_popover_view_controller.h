@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user info popover view controller interface
+// summary: Declares a static popover view controller that presents parental control information with configurable message and optional Learn More link.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ELEMENTS_SUPERVISED_USER_INFO_POPOVER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ELEMENTS_SUPERVISED_USER_INFO_POPOVER_VIEW_CONTROLLER_H_
 

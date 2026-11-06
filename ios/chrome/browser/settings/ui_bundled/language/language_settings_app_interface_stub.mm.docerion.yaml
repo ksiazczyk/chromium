@@ -1,0 +1,4 @@
+# Docerion header of language_settings_app_interface_stub.mm.
+type: test
+title: Language settings app interface Earl Grey stub
+summary: Registers a stub of the language settings app interface for use in Earl Grey test support builds.

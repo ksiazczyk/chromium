@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise info popover view controller interface
+// summary: Declares a static popover view controller that presents enterprise management information with configurable message, Learn More link, and presentation options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ELEMENTS_ENTERPRISE_INFO_POPOVER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ELEMENTS_ENTERPRISE_INFO_POPOVER_VIEW_CONTROLLER_H_
 

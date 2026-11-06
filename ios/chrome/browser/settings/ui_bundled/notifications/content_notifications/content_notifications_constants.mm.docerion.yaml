@@ -1,0 +1,4 @@
+# Docerion header of content_notifications_constants.mm.
+type: source
+title: Content notifications settings constants implementation
+summary: Defines the accessibility identifier strings and medal symbol name used by the content notifications settings UI.

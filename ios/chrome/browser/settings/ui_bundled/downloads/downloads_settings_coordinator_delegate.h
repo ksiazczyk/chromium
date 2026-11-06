@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads settings coordinator delegate protocol
+// summary: Declares the delegate protocol notified when the Downloads settings coordinator wants to stop.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_DOWNLOADS_SETTINGS_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_DOWNLOADS_SETTINGS_COORDINATOR_DELEGATE_H_
 

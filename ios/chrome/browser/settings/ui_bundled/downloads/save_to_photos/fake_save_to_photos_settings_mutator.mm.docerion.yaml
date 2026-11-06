@@ -1,0 +1,4 @@
+# Docerion header of fake_save_to_photos_settings_mutator.mm.
+type: source
+title: Fake Save to Photos settings mutator implementation
+summary: Implements the FakeSaveToPhotosSettingsMutator test double used by the Save to Photos settings unit tests.

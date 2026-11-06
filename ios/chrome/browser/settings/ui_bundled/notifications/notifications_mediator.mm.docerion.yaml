@@ -1,0 +1,4 @@
+# Docerion header of notifications_mediator.mm.
+type: source
+title: Notifications mediator implementation
+summary: Implements the notifications settings mediator, building table items for price, content, tips, safety check and send tab notifications and handling permission changes.

@@ -1,0 +1,4 @@
+# Docerion header of language_settings_histograms.mm.
+type: source
+title: Language settings UMA histogram names
+summary: Defines the UMA histogram name constants for Language Settings page impressions and actions.

@@ -1,0 +1,4 @@
+# Docerion header of info_popover_view_controller.mm.
+type: source
+title: Info popover view controller implementation
+summary: Implements the generic info popover, setting the accessibility identifier and re-enabling the presenting button when the popover is dismissed.

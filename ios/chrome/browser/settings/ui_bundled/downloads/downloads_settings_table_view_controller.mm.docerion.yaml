@@ -1,0 +1,4 @@
+# Docerion header of downloads_settings_table_view_controller.mm.
+type: source
+title: Downloads settings table view controller implementation
+summary: Implements the Downloads settings UI with the Save to Photos identity button, ask-every-time switch and download auto-deletion toggle.

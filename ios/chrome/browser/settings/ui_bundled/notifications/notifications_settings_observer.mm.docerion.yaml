@@ -1,0 +1,4 @@
+# Docerion header of notifications_settings_observer.mm.
+type: source
+title: Notifications settings observer implementation
+summary: Implements preference observation for feature and app-level push notification permissions, notifying the delegate with the matching client id on changes.

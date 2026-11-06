@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityButtonCell header
+// summary: Declares IdentityButtonCell, a legacy table view cell that holds an IdentityButtonControl for the downloads settings UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_IDENTITY_BUTTON_CELL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_DOWNLOADS_IDENTITY_BUTTON_CELL_H_
 

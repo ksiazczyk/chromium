@@ -1,0 +1,4 @@
+# Docerion header of notifications_egtest.mm.
+type: test
+title: Notifications settings Earl Grey integration tests
+summary: Earl Grey integration tests for the iOS notifications settings screen, covering swipe-to-dismiss behavior and notification toggles such as tips notifications.

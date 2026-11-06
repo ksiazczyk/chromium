@@ -1,0 +1,4 @@
+# Docerion header of save_to_photos_settings_mediator_unittest.mm.
+type: test
+title: Save to Photos settings mediator unit tests
+summary: Unit tests for the Save to Photos settings mediator, exercising consumer updates and delegate callbacks with fake identities.

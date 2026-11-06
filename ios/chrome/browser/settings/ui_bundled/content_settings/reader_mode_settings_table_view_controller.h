@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode settings table view controller header
+// summary: Declares the settings screen controller that lets the user change Reading Mode settings, requiring distilled page prefs and a pref service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_READER_MODE_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CONTENT_SETTINGS_READER_MODE_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 

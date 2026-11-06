@@ -1,0 +1,4 @@
+# Docerion header of block_popups_app_interface.mm.
+type: source
+title: Block popups app interface implementation
+summary: Implements setPopupPolicy to apply popup content setting exceptions to the original profile's HostContentSettingsMap.

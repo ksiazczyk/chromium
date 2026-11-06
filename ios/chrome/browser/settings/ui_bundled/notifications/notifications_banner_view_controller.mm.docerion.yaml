@@ -1,0 +1,4 @@
+# Docerion header of notifications_banner_view_controller.mm.
+type: source
+title: Notifications banner view controller implementation
+summary: Implements the notifications settings table view with an opt-in banner and switches for price, content, tips, Safety Check and send tab notifications.

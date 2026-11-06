@@ -1,0 +1,4 @@
+# Docerion header of add_language_table_view_controller.mm.
+type: source
+title: Add language table view controller implementation
+summary: Implements the searchable table UI for selecting a supported language to add, with search filtering and impression histograms.
