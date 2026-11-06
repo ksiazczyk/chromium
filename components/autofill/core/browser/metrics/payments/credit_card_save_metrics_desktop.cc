@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop credit card save prompt metrics implementation
+// summary: Logs desktop save credit card prompt offer and result metrics with sub-histograms based on save card options.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/credit_card_save_metrics_desktop.h"
 
 #include <string>

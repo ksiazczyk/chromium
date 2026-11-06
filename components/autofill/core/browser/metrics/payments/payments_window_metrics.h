@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments window VCN 3DS metrics header
+// summary: Declares enums and logging functions that track VCN 3DS authentication flow events, consent dialog results, and auth latency.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_PAYMENTS_WINDOW_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_PAYMENTS_WINDOW_METRICS_H_
 

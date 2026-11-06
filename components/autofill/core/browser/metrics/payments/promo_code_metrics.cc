@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo code metrics implementation
+// summary: Implements histogram logging for promo code form events, stored promo code counts split by validity, and offer notification bubble results.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/promo_code_metrics.h"
 
 #include <stddef.h>

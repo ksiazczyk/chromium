@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field filling stats and score metrics unit tests
+// summary: Tests computation and logging of field filling statistics and form filling scores.
+// ---
+
 #include "components/autofill/core/browser/metrics/field_filling_stats_and_score_metrics.h"
 
 #include <ranges>

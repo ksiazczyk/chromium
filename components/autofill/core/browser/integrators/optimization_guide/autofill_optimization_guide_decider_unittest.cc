@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillOptimizationGuideDecider
+// summary: Verifies optimization type registration, suggestion blocking, and credit card benefit eligibility using mock deciders and test payments data.
+// ---
+
 #include "components/autofill/core/browser/integrators/optimization_guide/autofill_optimization_guide_decider.h"
 
 #include <algorithm>

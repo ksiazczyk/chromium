@@ -1,0 +1,4 @@
+# Docerion header of README_class.plantuml.
+type: asset
+title: Class diagram of integrators and BrowserAutofillManager
+summary: PlantUML source for the README class diagram showing how BrowserAutofillManager relates to delegates such as PasswordManagerDelegate and TouchToFillPaymentMethodDelegate.

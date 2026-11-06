@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction quality metrics unit tests
+// summary: Unit tests verifying field type prediction quality metrics, including sane behavior when the cached form differs from the submitted one.
+// ---
+
 #include "components/autofill/core/browser/metrics/prediction_quality_metrics.h"
 
 #include <ranges>

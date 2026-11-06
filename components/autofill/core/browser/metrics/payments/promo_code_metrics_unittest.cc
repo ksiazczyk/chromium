@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promo code metrics unit tests
+// summary: Unit tests verifying that promo code form events, stored promo code counts, and offer notification bubble results are logged to the expected histograms.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/promo_code_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

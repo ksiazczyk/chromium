@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card save metrics implementation
+// summary: Implements UMA and UKM logging for credit card save and upload decisions, prompt offers, and strike database outcomes.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/credit_card_save_metrics.h"
 
 #include <string>

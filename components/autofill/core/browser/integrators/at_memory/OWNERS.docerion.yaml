@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the at_memory integrators folder
+summary: Points to the parent at_memory OWNERS file that defines the code owners for this directory.

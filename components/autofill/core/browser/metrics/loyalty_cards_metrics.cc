@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card suggestion metrics implementation
+// summary: Logs the histogram recording whether an email or loyalty card suggestion was accepted for the email-or-loyalty-membership field.
+// ---
+
 #include "components/autofill/core/browser/metrics/loyalty_cards_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

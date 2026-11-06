@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogBufferSubmitter unit tests
+// summary: Unit tests verifying that buffered log entries are submitted on destruction, empty submissions are skipped, and buffer activation follows receiver registration.
+// ---
+
 #include "components/autofill/core/browser/logging/log_buffer_submitter.h"
 
 #include <tuple>

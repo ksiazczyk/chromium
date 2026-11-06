@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Gmail OTP opt-in coordinator
+// summary: Tests tickle subscription timing, gating conditions, and bubble outcomes of the Gmail OTP opt-in coordinator using fake backends and mock clients.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/gmail_otp_opt_in_coordinator.h"
 
 #include <memory>

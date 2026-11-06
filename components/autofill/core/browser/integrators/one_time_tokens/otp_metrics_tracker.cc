@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpMetricsTracker implementation
+// summary: Implements tab-scoped recording of OTP tickle notification metrics, including latency histograms, UKM events, and form outcomes.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_metrics_tracker.h"
 
 #include <algorithm>

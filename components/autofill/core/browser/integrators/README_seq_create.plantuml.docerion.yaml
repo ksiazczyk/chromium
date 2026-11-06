@@ -1,0 +1,4 @@
+# Docerion header of README_seq_create.plantuml.
+type: asset
+title: Diagram of PasswordManagerDelegate creation
+summary: PlantUML source for the README sequence diagram showing how a PasswordManagerDelegate is created when the underlying feature is initialized.

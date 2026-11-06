@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpFormEventLogger class header
+// summary: Declares the OtpFormEventLogger class extending FormEventLoggerBase to track one-time password form events and OTP availability for metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_METRICS_OTP_FORM_EVENT_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_METRICS_OTP_FORM_EVENT_LOGGER_H_
 

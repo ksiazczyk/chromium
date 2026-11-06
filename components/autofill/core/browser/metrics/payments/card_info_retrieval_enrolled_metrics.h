@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card info retrieval enrolled metrics declarations
+// summary: Declares enums and logging functions for form events and unmask results of cards enrolled in card info retrieval.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_CARD_INFO_RETRIEVAL_ENROLLED_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_CARD_INFO_RETRIEVAL_ENROLLED_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM metrics test utility header
+// summary: Declares test helpers and a matcher for comparing recorded UKM events against expected metrics in autofill metrics tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_UKM_METRICS_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_UKM_METRICS_TEST_UTIL_H_
 

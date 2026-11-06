@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextLogReceiver implementation
+// summary: Renders structured log buffer entries into plain text and emits them through the Chrome logging system for debugging.
+// ---
+
 #include "components/autofill/core/browser/logging/text_log_receiver.h"
 
 #include <algorithm>

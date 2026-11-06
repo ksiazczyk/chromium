@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill in DevTools metrics declarations
+// summary: Declares enums and functions for logging when DevTools test address suggestions are shown or selected.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_AUTOFILL_IN_DEVTOOLS_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_AUTOFILL_IN_DEVTOOLS_METRICS_H_
 

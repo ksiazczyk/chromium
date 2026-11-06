@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OTP suggestion unit tests
+// summary: Tests how OTP values are split or filled into trigger fields depending on the number of detected OTP fields.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_suggestion.h"
 
 #include "components/autofill/core/browser/field_types.h"

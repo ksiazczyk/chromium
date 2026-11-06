@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtpFormEventLogger unit tests
+// summary: Integration tests verifying OTP form event logging, including histogram and UKM expectations for suggestion shown, filled, and form interaction events.
+// ---
+
 #include "base/base64.h"
 #include "base/run_loop.h"
 #include "base/test/metrics/histogram_tester.h"

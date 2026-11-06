@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockIdentityCredentialDelegate implementation
+// summary: Implements the constructor and destructor of the mock IdentityCredentialDelegate test double in the autofill namespace.
+// ---
+
 #include "components/autofill/core/browser/integrators/identity_credential/mock_identity_credential_delegate.h"
 
 namespace autofill {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestions list metrics unit tests
+// summary: Unit tests verifying that suggestion counts, accepted suggestion indices, and related email suggestion metrics are logged correctly for the autofill popup.
+// ---
+
 #include "components/autofill/core/browser/metrics/suggestions_list_metrics.h"
 
 #include <string>

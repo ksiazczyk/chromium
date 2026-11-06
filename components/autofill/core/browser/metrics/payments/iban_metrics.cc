@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN metrics implementation
+// summary: Implements histogram logging for IBAN form events, stored IBAN counts, disuse, strikes, and upload save flows.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/iban_metrics.h"
 
 #include <stddef.h>

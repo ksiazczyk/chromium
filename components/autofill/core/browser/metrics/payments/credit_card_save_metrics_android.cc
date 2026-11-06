@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android credit card save prompt metrics implementation
+// summary: Logs Android save credit card prompt offer metrics with sub-histograms keyed by save options such as CVC and legal lines.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/credit_card_save_metrics_android.h"
 
 #include <string>

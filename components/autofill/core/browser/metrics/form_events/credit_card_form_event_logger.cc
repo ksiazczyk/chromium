@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card form event logger implementation
+// summary: Implements the credit card form event logger that records autofill metrics for credit card forms, including BNPL suggestions, unmask authentication flows and payments events.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/credit_card_form_event_logger.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP opt-in coordinator implementation
+// summary: Implements the coordinator that subscribes to Gmail tickles when OTP fields are detected and shows the opt-in bubble subject to prefs, cooldown, and session gating.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/gmail_otp_opt_in_coordinator.h"
 
 #include <memory>

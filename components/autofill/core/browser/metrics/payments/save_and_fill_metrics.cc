@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and fill metrics implementation
+// summary: Implements histogram logging for the credit card save and fill flow, covering form events, server request latency, dialog results, strike database data, and funnel metrics.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/save_and_fill_metrics.h"
 
 #include <string_view>

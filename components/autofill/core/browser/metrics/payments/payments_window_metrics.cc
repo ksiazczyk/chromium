@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments window VCN 3DS metrics implementation
+// summary: Implements histogram logging for VCN 3DS authentication flow events, user consent dialog results and visibility, and auth flow latency.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/payments_window_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

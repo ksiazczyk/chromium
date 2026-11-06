@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI entity labels
+// summary: Unit tests checking that entity labels disambiguate suggestions using only the necessary and permitted attribute types.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_labels.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogManager unit tests
+// summary: Unit tests covering log delivery to receivers, logging activity notifications, and flushing of buffered log entries.
+// ---
+
 #include "components/autofill/core/browser/logging/log_manager.h"
 
 #include <string_view>

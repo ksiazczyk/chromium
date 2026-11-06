@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpFormEventLogger implementation
+// summary: Implements the OTP form event logger that records metrics and UKM events for one-time password suggestion display and filling in Chromium autofill.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/metrics/otp_form_event_logger.h"
 
 #include <optional>

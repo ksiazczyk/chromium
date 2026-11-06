@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging utilities for at_memory search results
+// summary: Declares LogBuffer serialization operators for fetch plans and memory search results plus a helper to log discarded duplicate results.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_AT_MEMORY_LOGGING_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_AT_MEMORY_LOGGING_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card suggestion metrics header
+// summary: Declares the acceptance metric enum and the logging function for email versus loyalty card suggestion acceptance.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_LOYALTY_CARDS_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_LOYALTY_CARDS_METRICS_H_
 

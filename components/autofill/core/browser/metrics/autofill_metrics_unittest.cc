@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillMetrics unit tests
+// summary: Unit tests verifying that autofill metrics are logged correctly for form events, popups, and payments.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_metrics.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-fill metrics unit tests
+// summary: Unit tests verifying that per-fill Autofill metrics such as Autofill.NumberOfFieldsPerAutofill are emitted correctly when forms are filled.
+// ---
+
 #include "components/autofill/core/browser/metrics/per_fill_metrics.h"
 
 #include "base/containers/span.h"

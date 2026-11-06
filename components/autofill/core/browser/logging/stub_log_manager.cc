@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubLogManager implementation
+// summary: Implements StubLogManager as a no-op LogManager whose logging methods do nothing, intended for use in tests.
+// ---
+
 #include "components/autofill/core/browser/logging/stub_log_manager.h"
 
 #include "base/types/pass_key.h"

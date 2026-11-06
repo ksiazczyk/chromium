@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill metrics utility unit tests
+// summary: Unit tests for form classification helpers such as email-only and postal address form detection.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_metrics_util.h"
 
 #include "components/autofill/core/browser/autofill_field.h"

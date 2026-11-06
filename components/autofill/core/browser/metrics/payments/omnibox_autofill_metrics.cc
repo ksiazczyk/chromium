@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox autofill chip metrics implementation
+// summary: Implements histogram logging for omnibox autofill chip show decisions and chip-related events in the autofill payments metrics module.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/omnibox_autofill_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

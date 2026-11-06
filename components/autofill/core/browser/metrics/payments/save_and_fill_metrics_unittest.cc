@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save and Fill metrics unit tests
+// summary: Unit tests verifying that Save and Fill metrics are logged to the expected autofill histograms.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/save_and_fill_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

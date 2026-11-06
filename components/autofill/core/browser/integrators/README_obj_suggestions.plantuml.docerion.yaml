@@ -1,0 +1,4 @@
+# Docerion header of README_obj_suggestions.plantuml.
+type: asset
+title: Diagram of field interaction to Autofill UI display
+summary: PlantUML source for the README diagram tracing the control flow from a text field interaction to the display of the Autofill UI on different platforms.

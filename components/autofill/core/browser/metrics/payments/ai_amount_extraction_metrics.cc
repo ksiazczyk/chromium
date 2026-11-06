@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI amount extraction metrics implementation
+// summary: Logs AI-based amount extraction results, latency, invalid response reasons, issuer range checks, and APC fetch outcomes to UMA histograms and UKM.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/ai_amount_extraction_metrics.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address profile import metrics declarations
+// summary: Declares enums and functions for logging address profile import requirement statuses and country-specific field requirement metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PROFILE_IMPORT_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PROFILE_IMPORT_METRICS_H_
 

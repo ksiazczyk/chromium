@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dropdown detection metrics implementation
+// summary: Logs histograms for the detected JavaScript dropdown type and the timing of JavaScript field modifications during detection.
+// ---
+
 #include "components/autofill/core/browser/metrics/javascript_dropdown_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

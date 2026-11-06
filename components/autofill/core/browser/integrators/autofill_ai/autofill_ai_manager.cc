@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI manager implementation
+// summary: Implements the tab-specific Autofill AI manager covering suggestion generation, form submission import prompts, metrics logging and strike database handling.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_manager.h"
 
 #include <algorithm>

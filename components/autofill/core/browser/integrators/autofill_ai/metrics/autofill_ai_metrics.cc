@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI metrics implementation
+// summary: Implements helper functions that log Autofill AI opt-in funnel, wallet notice, deduplication, and stored entity count histograms.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/metrics/autofill_ai_metrics.h"
 
 #include <stddef.h>

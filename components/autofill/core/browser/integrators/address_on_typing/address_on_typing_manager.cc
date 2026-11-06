@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address on typing manager implementation
+// summary: Implements the AddressOnTypingManager, which handles address suggestions shown while typing, logs acceptance metrics and adds strike database entries for ignored field types.
+// ---
+
 #include "components/autofill/core/browser/integrators/address_on_typing/address_on_typing_manager.h"
 
 #include <stddef.h>

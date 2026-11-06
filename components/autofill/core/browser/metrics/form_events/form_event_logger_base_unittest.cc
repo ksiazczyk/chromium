@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Form event logger base unit tests
+// summary: Parameterized unit tests for the base form event logger verifying funnel metrics across stages from form interaction to submission.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/form_event_logger_base.h"
 
 #include <string>

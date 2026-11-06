@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address on typing manager test API
+// summary: Test API header that exposes private strike database operations of AddressOnTypingManager so unit tests can add, query and remove strikes.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ADDRESS_ON_TYPING_ADDRESS_ON_TYPING_MANAGER_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ADDRESS_ON_TYPING_ADDRESS_ON_TYPING_MANAGER_TEST_API_H_
 

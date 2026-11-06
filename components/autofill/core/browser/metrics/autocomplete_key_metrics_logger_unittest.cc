@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete key metrics logger unit tests
+// summary: Unit tests verifying FillingAcceptance and FillingCorrectness histograms across matching types when suggestions are shown, accepted, and submitted.
+// ---
+
 #include "components/autofill/core/browser/metrics/autocomplete_key_metrics_logger.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context metrics implementation
+// summary: Implements logging of personal context cache readiness, prefetch trigger results and latency, and non-eligibility histograms for Autofill AI.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/metrics/personal_context_metrics.h"
 
 #include <algorithm>

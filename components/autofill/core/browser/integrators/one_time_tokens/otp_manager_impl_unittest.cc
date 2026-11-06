@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtpManagerImpl unit tests
+// summary: Extensive unit tests for OtpManagerImpl covering OTP suggestion delivery, PhishGuard metrics, Gmail and SMS token retrieval, and preference handling.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_manager_impl.h"
 
 #include <string_view>

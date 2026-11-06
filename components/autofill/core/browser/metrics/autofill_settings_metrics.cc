@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings metrics implementation
+// summary: Logs whether autofill features are enabled at startup or page load and which policy controls the settings.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_settings_metrics.h"
 
 #include <optional>

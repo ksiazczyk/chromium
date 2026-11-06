@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth metrics header
+// summary: Declares enums and functions for mandatory reauth metrics covering opt-in decisions, bubble offers and results, and authentication flow events.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_MANDATORY_REAUTH_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_MANDATORY_REAUTH_METRICS_H_
 

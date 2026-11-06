@@ -1,0 +1,4 @@
+# Docerion header of README_seq_generate.plantuml.
+type: asset
+title: Diagram of suggestion generation via PasswordManagerDelegate
+summary: PlantUML source for the README sequence diagram showing how BrowserAutofillManager requests frame-specific password suggestions from the PasswordManagerDelegate.

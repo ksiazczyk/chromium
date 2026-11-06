@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI logger implementation
+// summary: Implements the AutofillAiLogger, which tracks form states and user interactions and records Autofill AI funnel and key metrics histograms.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/metrics/autofill_ai_logger.h"
 
 #include <algorithm>

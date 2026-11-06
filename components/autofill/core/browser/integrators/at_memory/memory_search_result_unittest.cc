@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for memory search result
+// summary: Tests that IBAN values are obfuscated while non-sensitive values remain unobfuscated in memory search results.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/memory_search_result.h"
 
 #include <string>

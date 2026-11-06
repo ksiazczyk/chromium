@@ -1,3 +1,13 @@
+---
+type: readme
+title: Component Autofill Integrators
+summary: Explains how BrowserAutofillManager uses delegates to compose autofill suggestions, with class and sequence diagrams covering delegate relationships, creation, and suggestion generation.
+relations:
+  - references /components/autofill/core/browser/integrators/README_class.png
+  - references /components/autofill/core/browser/integrators/README_obj_suggestions.png
+  - references /components/autofill/core/browser/integrators/README_seq_create.png
+---
+
 # Component Autofill Integrators
 
 Interfaces in this folder are used for dependency injection from directories

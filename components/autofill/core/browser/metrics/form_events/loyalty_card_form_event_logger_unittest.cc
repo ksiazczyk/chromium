@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loyalty card form event logger unit tests
+// summary: Parameterized unit tests verifying funnel histograms and UKM logging for loyalty card autofill form events across interaction stages.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/loyalty_card_form_event_logger.h"
 
 #include "base/test/metrics/histogram_tester.h"

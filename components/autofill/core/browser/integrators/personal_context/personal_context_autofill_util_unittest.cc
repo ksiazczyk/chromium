@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the personal context Autofill settings utility
+// summary: Unit tests verifying when the Personal Context Autofill setting should be shown, using a mocked eligibility service, test client, and enabled Autofill AI feature flags.
+// ---
+
 #include "components/autofill/core/browser/integrators/personal_context/personal_context_autofill_util.h"
 
 #include "base/test/scoped_feature_list.h"

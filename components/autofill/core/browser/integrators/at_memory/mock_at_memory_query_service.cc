@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AtMemoryQueryService implementation
+// summary: Implements the mock query service constructor that initializes the base class with null dependencies for use in tests.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/mock_at_memory_query_service.h"
 
 #include <memory>

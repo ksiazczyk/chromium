@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI management utilities
+// summary: Tests string ID resolution for the Wallet Pass 2026 experiment arms, filtering of settings entities, and localized add, edit, and delete strings.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/management_util.h"
 
 #include "base/test/scoped_feature_list.h"

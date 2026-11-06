@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and Fill metrics declarations
+// summary: Declares enums and logging functions for Save and Fill suggestion, dialog, and payments request metrics in the autofill payments component.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_SAVE_AND_FILL_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_SAVE_AND_FILL_METRICS_H_
 

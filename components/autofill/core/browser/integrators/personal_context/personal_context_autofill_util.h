@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context Autofill settings utility header
+// summary: Declares ShouldShowPersonalContextAutofillSetting helpers that determine whether the Personal Context setting is shown in the Autofill settings page.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_PERSONAL_CONTEXT_PERSONAL_CONTEXT_AUTOFILL_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_PERSONAL_CONTEXT_PERSONAL_CONTEXT_AUTOFILL_UTIL_H_
 

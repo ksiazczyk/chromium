@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entity import utilities implementation
+// summary: Implements extraction of Autofill AI entity candidates from submitted forms, including import constraint checks, attribute value validation and localized date formatting.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_import_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address form event logger implementation
+// summary: Implements the address form event logger that records autofill metrics for address forms, including readiness, assistance and correctness resolved by profile record type category.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/address_form_event_logger.h"
 
 #include <stdint.h>

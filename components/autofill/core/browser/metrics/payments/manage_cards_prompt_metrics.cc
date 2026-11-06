@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage cards prompt metrics implementation
+// summary: Logs the Autofill.ManageCardsPrompt histogram for user interaction with the manage cards view shown after saving a local card.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/manage_cards_prompt_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

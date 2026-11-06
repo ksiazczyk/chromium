@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory query service implementation
+// summary: Implements the per-profile service that queries server and local memory data, filters and ranks results, and reports AtMemory search results.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/at_memory_query_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillComposeDelegate interface
+// summary: Declares the AutofillComposeDelegate interface that lets the autofill component open the Compose UI, provide Compose suggestions, and disable or configure Compose per origin.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_COMPOSE_AUTOFILL_COMPOSE_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_COMPOSE_AUTOFILL_COMPOSE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet reminder notice metrics unit tests
+// summary: Unit tests verifying Wallet Reminder Notice interaction and show result histograms across flow types.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/wallet_reminder_notice_metrics.h"
 
 #include <string>

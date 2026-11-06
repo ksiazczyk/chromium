@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockIdentityCredentialDelegate mock header
+// summary: Declares a gmock-based mock of IdentityCredentialDelegate that stubs verified suggestion generation, suggestion acceptance, and the suggestion generator for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_IDENTITY_CREDENTIAL_MOCK_IDENTITY_CREDENTIAL_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_IDENTITY_CREDENTIAL_MOCK_IDENTITY_CREDENTIAL_DELEGATE_H_
 

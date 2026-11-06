@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete key metrics logger implementation
+// summary: Implements tracking of autocomplete suggestion impressions and acceptances per field to emit FillingAcceptance and FillingCorrectness metrics on form submission.
+// ---
+
 #include "components/autofill/core/browser/metrics/autocomplete_key_metrics_logger.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager autofill helper unit tests
+// summary: Unit tests verifying that IsOtpFilledField only reports fields autofilled with a one-time password and not user-corrected ones.
+// ---
+
 #include "components/autofill/core/browser/integrators/password_manager/password_manager_autofill_helper.h"
 
 #include "components/autofill/core/browser/autofill_field.h"

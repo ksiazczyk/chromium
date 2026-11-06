@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ownership delegation to the one-time tokens component
+summary: OWNERS file that delegates review approval to the OWNERS file of components/one_time_tokens.

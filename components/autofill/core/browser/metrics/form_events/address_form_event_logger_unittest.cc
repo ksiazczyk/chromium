@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Address form event logger unit tests
+// summary: Unit tests verifying category-resolved key metrics for address autofill, such as filling assistance and correctness across profile record type categories.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/address_form_event_logger.h"
 
 #include "base/test/metrics/histogram_tester.h"

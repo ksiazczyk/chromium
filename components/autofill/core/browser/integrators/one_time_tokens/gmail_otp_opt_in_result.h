@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP opt-in result enum
+// summary: Defines the GmailOtpOptInResult enum describing opt-in prompt outcomes such as accepted, declined, closed, lost focus, and discarded.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_RESULT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_RESULT_H_
 

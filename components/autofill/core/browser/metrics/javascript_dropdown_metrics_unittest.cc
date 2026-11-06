@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript dropdown metrics unit tests
+// summary: Unit tests verifying the histograms emitted when a JavaScript dropdown is detected and when none is detected.
+// ---
+
 #include "components/autofill/core/browser/metrics/javascript_dropdown_metrics.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI management utilities implementation
+// summary: Implements localized string resolution for Autofill AI entity types in settings, including branded variants of the Wallet Pass 2026 experiment.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/management_util.h"
 
 #include <string>

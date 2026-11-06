@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL metrics implementation
+// summary: Logs buy-now-pay-later settings toggles, synced issuer counts, terms-of-service and issuer selection dialogs, popup window results, and latency to UMA and UKM.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/bnpl_metrics.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address data cleaner metrics unit tests
+// summary: Unit tests verifying that per-country-code dedupe profile counts are logged into the correct histograms.
+// ---
+
 #include "components/autofill/core/browser/metrics/address_data_cleaner_metrics.h"
 
 #include <vector>

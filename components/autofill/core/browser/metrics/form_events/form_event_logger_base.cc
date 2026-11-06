@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form event logger base implementation
+// summary: Implements the base class for autofill form event loggers, handling funnel metrics, ablation studies and histogram logging shared by the form type loggers.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/form_event_logger_base.h"
 
 #include <stddef.h>

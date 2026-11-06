@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log event helpers implementation
+// summary: Implements fill event ID generation, OptionalBoolean helpers and collapsibility checks for merging redundant autofill form log events.
+// ---
+
 #include "components/autofill/core/browser/metrics/log_event.h"
 
 #include <variant>

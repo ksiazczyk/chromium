@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field filling stats and score metrics implementation
+// summary: Logs UMA histograms of field filling statuses and computes form filling quality scores.
+// ---
+
 #include "components/autofill/core/browser/metrics/field_filling_stats_and_score_metrics.h"
 
 #include <stddef.h>

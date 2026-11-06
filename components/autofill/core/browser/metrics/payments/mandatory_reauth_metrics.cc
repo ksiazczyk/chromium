@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth metrics implementation
+// summary: Implements histograms for mandatory reauth opt-in offers, bubbles, opt-in and opt-out events, and settings page authentication flows.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/mandatory_reauth_metrics.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogRouter unit tests
+// summary: Unit tests verifying that LogRouter forwards log entries to registered receivers and notifies the log manager when receiver availability changes.
+// ---
+
 #include "components/autofill/core/browser/logging/log_router.h"
 
 #include "base/values.h"

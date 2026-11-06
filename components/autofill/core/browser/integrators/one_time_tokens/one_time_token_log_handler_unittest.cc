@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneTimeTokenLogHandler unit tests
+// summary: Unit tests verifying that the one-time-token log handler forwards log messages to the LogRouter and returns a null callback for a null router.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/one_time_token_log_handler.h"
 
 #include "base/values.h"
