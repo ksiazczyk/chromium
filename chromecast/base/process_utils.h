@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetAppOutput process helper declaration
+// summary: Declares GetAppOutput, a helper that executes a command built from the given arguments, waits for it to exit, and stores its stdout output.
+// ---
+
 #ifndef CHROMECAST_BASE_PROCESS_UTILS_H_
 #define CHROMECAST_BASE_PROCESS_UTILS_H_
 

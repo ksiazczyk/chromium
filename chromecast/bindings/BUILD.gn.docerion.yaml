@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for Cast bindings manager and tests
+summary: Defines GN source sets for the bindings manager, its Cast and Fuchsia implementations, and the browser test targets.

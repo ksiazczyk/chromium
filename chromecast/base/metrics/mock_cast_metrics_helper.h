@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CastMetricsHelper header
+// summary: Declares a gmock mock of CastMetricsHelper with mocked recording and logging methods for use in Cast tests.
+// ---
+
 #ifndef CHROMECAST_BASE_METRICS_MOCK_CAST_METRICS_HELPER_H_
 #define CHROMECAST_BASE_METRICS_MOCK_CAST_METRICS_HELPER_H_
 

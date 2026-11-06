@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_ja.xtb.
+type: data
+title: Chromecast settings Japanese translation bundle
+summary: XML translation bundle for Japanese that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to ja, en-US and en for Chromecast settings.

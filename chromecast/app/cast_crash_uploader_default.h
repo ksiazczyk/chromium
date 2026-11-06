@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashUploaderDefault class declaration
+// summary: Declares the default CastCrashUploader subclass used on platforms other than Android.
+// ---
+
 #ifndef CHROMECAST_APP_CAST_CRASH_UPLOADER_DEFAULT_H_
 #define CHROMECAST_APP_CAST_CRASH_UPLOADER_DEFAULT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owner listing for chromecast/bindings
+summary: Names lijiawei@chromium.org as the code owner for the chromecast/bindings directory.

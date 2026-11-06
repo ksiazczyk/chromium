@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeightedMovingLinearRegression implementation
+// summary: Implements weighted moving linear regression over (x, y) samples, dropping samples outside a maximum x range and estimating y values and slope with errors.
+// ---
+
 #include "chromecast/base/statistics/weighted_moving_linear_regression.h"
 
 #include <math.h>

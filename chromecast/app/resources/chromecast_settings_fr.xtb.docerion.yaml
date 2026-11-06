@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_fr.xtb.
+type: data
+title: Chromecast settings translations for French
+summary: Translation bundle that sets the accepted languages for Chromecast settings to French with English fallbacks.

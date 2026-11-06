@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared library command line initialization header
+// summary: Declares InitCommandLineShlib, a utility that initializes command line flags and logging when a shared library starts.
+// ---
+
 #ifndef CHROMECAST_BASE_INIT_COMMAND_LINE_SHLIB_H_
 #define CHROMECAST_BASE_INIT_COMMAND_LINE_SHLIB_H_
 

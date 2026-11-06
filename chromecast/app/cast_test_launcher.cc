@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast test launcher entry point
+// summary: Entry point that launches Cast content test suites with parallel jobs, Mojo init, and an in-process network service.
+// ---
+
 #include "base/command_line.h"
 #include "base/system/sys_info.h"
 #include "base/test/launcher/test_launcher.h"

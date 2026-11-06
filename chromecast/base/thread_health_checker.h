@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadHealthChecker header
+// summary: Declares ThreadHealthChecker, a class that periodically verifies a thread's responsiveness by posting a sentinel task and calling a callback on timeout.
+// ---
+
 #ifndef CHROMECAST_BASE_THREAD_HEALTH_CHECKER_H_
 #define CHROMECAST_BASE_THREAD_HEALTH_CHECKER_H_
 

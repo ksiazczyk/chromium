@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Dict
+// summary: JUnit tests for the reactive Dict, verifying that entries, keys, and values observers are notified of additions, updates, and removals.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.chromium.chromecast.base.ReactiveRecorder.record;

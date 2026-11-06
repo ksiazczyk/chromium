@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observable.or() unit tests
+// summary: Unit tests verifying how Observable.or() combines static and mutable observables and orders their activations.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.chromium.chromecast.base.Observable.empty;

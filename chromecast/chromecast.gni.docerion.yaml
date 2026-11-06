@@ -1,0 +1,4 @@
+# Docerion header of chromecast.gni.
+type: config
+title: Chromecast build arguments
+summary: Declares GN build arguments for the //chromecast directory, covering desktop builds, media, Mojo services, and Starboard backends.

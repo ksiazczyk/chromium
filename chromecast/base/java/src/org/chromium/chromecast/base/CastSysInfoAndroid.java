@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast system info Android implementation
+// summary: Java implementation of CastSysInfoAndroid methods called by native code, providing the device serial number and board name.
+// ---
+
 package org.chromium.chromecast.base;
 
 import android.annotation.SuppressLint;

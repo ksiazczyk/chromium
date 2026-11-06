@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observable miscellaneous unit tests
+// summary: Unit tests for advanced Observable behaviors such as subscription currying, empty and just factories, and generics with inheritance.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

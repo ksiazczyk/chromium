@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error codes unit tests
+// summary: Unit tests verifying that the initial error code file is written, updated, and cleared correctly using a fake home directory.
+// ---
+
 #include "chromecast/base/error_codes.h"
 
 #include <memory>

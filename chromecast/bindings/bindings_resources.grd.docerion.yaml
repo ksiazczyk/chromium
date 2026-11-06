@@ -1,0 +1,4 @@
+# Docerion header of bindings_resources.grd.
+type: config
+title: Grit packaging of the port connector script
+summary: Grit resource file that packages the named message port connector JavaScript into bindings_resources.pak.

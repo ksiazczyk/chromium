@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Android lint baseline issues
+summary: Records known Android lint issues such as picture-in-picture, overdraw, and unused resources so lint does not re-report them.
+-->
+
 <issues format="6" by="lint 9.1.0-alpha06" type="baseline" client="" dependencies="true" name="" variant="all" version="9.1.0-alpha06">
 
     <issue

@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_es.xtb.
+type: data
+title: Chromecast settings translations for Spanish
+summary: Translation bundle that sets the accepted languages for Chromecast settings to es-ES and es.

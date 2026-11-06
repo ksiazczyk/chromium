@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast build targets and test groups
+summary: Defines GN targets, configs, and the cast_tests group that aggregates unit test binaries for the Chromecast build.

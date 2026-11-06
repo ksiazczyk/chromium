@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Both product type for pairing two values
+// summary: Generic product type holding an A and B instance, with adapters for using bi-functions, bi-consumers and bi-predicates on pairs.
+// ---
+
 package org.chromium.chromecast.base;
 
 import androidx.annotation.NonNull;

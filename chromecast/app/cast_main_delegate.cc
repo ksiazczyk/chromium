@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMainDelegate implementation
+// summary: Implements Cast shell startup covering logging, path and resource setup, crash reporting, and per-process routing.
+// ---
+
 #include "chromecast/app/cast_main_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dict reactive dictionary container
+// summary: Map-like reactive container that notifies observers of key, value and entry additions and removals through Observables.
+// ---
+
 package org.chromium.chromecast.base;
 
 import java.util.HashMap;

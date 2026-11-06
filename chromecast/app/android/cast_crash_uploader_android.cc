@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast crash uploader for Android implementation
+// summary: Implements CastCrashUploaderAndroid, initializing Crashpad and crash keys and periodically uploading crash dumps through the Java CastCrashHandler.
+// ---
+
 #include "chromecast/app/android/cast_crash_uploader_android.h"
 
 #include <jni.h>

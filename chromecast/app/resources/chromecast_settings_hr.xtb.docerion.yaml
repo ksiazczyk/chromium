@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_hr.xtb.
+type: data
+title: Chromecast settings Croatian translation bundle
+summary: XML translation bundle for Croatian that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to hr-HR, hr, en-US and en for Chromecast settings.

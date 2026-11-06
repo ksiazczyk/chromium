@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_kn.xtb.
+type: data
+title: Chromecast settings Kannada translation bundle
+summary: XML translation bundle for Kannada that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to kn-IN, kn, en-US and en for Chromecast settings.

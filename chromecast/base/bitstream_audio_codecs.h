@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitstream audio codec constants and info struct
+// summary: Defines bit flags for bitstream audio codecs and the BitstreamAudioCodecsInfo struct with spatial rendering support.
+// ---
+
 #ifndef CHROMECAST_BASE_BITSTREAM_AUDIO_CODECS_H_
 #define CHROMECAST_BASE_BITSTREAM_AUDIO_CODECS_H_
 

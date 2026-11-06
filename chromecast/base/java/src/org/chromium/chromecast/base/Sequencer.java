@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequencer for serial task execution
+// summary: Utility that schedules tasks to run one after another, deferring nested tasks to provide limited single-threaded atomicity.
+// ---
+
 package org.chromium.chromecast.base;
 
 import java.util.ArrayDeque;

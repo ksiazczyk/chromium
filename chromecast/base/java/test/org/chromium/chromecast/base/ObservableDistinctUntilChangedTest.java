@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableDistinctUntilChangedTest: unit tests for distinctUntilChanged()'
+// summary: JUnit tests verifying that Observable.distinctUntilChanged() suppresses notifications for repeated identical values while emitting for changed data.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

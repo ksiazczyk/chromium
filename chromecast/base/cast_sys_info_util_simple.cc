@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastSysInfo factory using dummy implementation
+// summary: Implements CreateSysInfo() by returning a CastSysInfoDummy instance for simple builds.
+// ---
+
 #include <memory>
 
 #include "chromecast/base/cast_sys_info_util.h"

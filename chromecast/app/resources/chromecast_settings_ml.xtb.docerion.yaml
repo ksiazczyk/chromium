@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_ml.xtb.
+type: data
+title: Chromecast settings translation bundle for Malayalam (ml)
+summary: XML translation bundle that supplies the Malayalam accept-languages list for Chromecast settings.

@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings.grd.
+type: config
+title: Chromecast settings grit resource definition
+summary: Grit resource definition holding the Chromecast settings strings and listing per-language translation outputs for packaging.

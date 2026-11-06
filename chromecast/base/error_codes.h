@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast error code definitions
+// summary: Defines the ErrorCode enum for web content, reboot, and misc errors and declares functions to get and set the initial error code.
+// ---
+
 #ifndef CHROMECAST_BASE_ERROR_CODES_H_
 #define CHROMECAST_BASE_ERROR_CODES_H_
 

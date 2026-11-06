@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedObservable for shared subscriptions
+// summary: Observable wrapper that subscribes to its source only while at least one observer is subscribed, caching activations for sharing.
+// ---
+
 package org.chromium.chromecast.base;
 
 /**

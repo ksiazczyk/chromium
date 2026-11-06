@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeightedMovingLinearRegression unit tests
+// summary: Unit tests for WeightedMovingLinearRegression covering insufficient samples, zero x variance, zero weights, simple and weighted lines, and dropping old samples.
+// ---
+
 #include "chromecast/base/statistics/weighted_moving_linear_regression.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

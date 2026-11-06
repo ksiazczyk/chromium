@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Grouped histogram API header
+// summary: Declares functions to preregister the grouped histogram list and tag the current app so subsequent samples are recorded per app.
+// ---
+
 #ifndef CHROMECAST_BASE_METRICS_GROUPED_HISTOGRAM_H_
 #define CHROMECAST_BASE_METRICS_GROUPED_HISTOGRAM_H_
 

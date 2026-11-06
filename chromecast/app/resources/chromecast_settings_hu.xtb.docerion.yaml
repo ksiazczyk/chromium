@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_hu.xtb.
+type: data
+title: Chromecast settings Hungarian translation bundle
+summary: XML translation bundle for Hungarian that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to hu-HU, hu, en-US and en for Chromecast settings.

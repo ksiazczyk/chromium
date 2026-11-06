@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Both
+// summary: JUnit tests for the Both pair type, covering member access, nesting, toString, equality, method references, and adaptation of BiFunction and BiConsumer lambdas.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

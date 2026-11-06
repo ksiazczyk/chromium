@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableFilterTest: unit tests for the Observable.filter() operator'
+// summary: JUnit tests verifying that Observable.filter() only propagates activations matching a predicate, using empty, starts-with, and ends-with string filters.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

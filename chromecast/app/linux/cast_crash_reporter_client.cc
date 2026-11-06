@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast crash reporter client implementation for Linux
+// summary: Implements CastCrashReporterClient, initializing Breakpad per process type and handling crash dumps by setting error codes and requesting minidump uploads.
+// ---
+
 #include "chromecast/app/linux/cast_crash_reporter_client.h"
 
 #include "base/time/time.h"

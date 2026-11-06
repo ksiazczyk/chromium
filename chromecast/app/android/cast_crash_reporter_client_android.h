@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast crash reporter client for Android header
+// summary: Declares CastCrashReporterClientAndroid, a CrashReporterClient subclass handling crash locations and Breakpad enablement per process type.
+// ---
+
 #ifndef CHROMECAST_APP_ANDROID_CAST_CRASH_REPORTER_CLIENT_ANDROID_H_
 #define CHROMECAST_APP_ANDROID_CAST_CRASH_REPORTER_CLIENT_ANDROID_H_
 

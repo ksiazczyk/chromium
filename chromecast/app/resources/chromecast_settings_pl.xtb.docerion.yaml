@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_pl.xtb.
+type: data
+title: Chromecast settings translation bundle for Polish (pl)
+summary: XML translation bundle that supplies the Polish accept-languages list for Chromecast settings.

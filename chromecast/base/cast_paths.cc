@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast path provider implementation
+// summary: Implements a PathService provider that resolves Cast-specific directories and files such as config, CRL, pak and Widevine paths per platform.
+// ---
+
 #include "chromecast/base/cast_paths.h"
 
 #include "base/base_paths.h"

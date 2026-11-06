@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast hash utility implementations
+// summary: Implements hashing of strings, GUIDs, app IDs, build numbers, session IDs, socket IDs, and SDK versions into integers for UMA reporting.
+// ---
+
 #include "chromecast/base/hash_util.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast constants header
+// summary: Declares the chrome-resource scheme constant in the chromecast namespace.
+// ---
+
 #ifndef CHROMECAST_BASE_CAST_CONSTANTS_H_
 #define CHROMECAST_BASE_CAST_CONSTANTS_H_
 

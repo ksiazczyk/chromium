@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMetricsHelper class header
+// summary: Declares the CastMetricsHelper singleton for tracking app and playback metrics such as app load times and time to first audio, with a pluggable metrics sink.
+// ---
+
 #ifndef CHROMECAST_BASE_METRICS_CAST_METRICS_HELPER_H_
 #define CHROMECAST_BASE_METRICS_CAST_METRICS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Cast system info implementation
+// summary: Implements CastSysInfo on Android, reading device, build and factory locale details via JNI and Android system properties.
+// ---
+
 #include "chromecast/base/cast_sys_info_android.h"
 
 #include <sys/system_properties.h>

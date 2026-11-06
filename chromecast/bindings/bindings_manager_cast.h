@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindingsManagerCast class declaration
+// summary: Declares BindingsManagerCast, the CastOS bindings manager implementing the ApiBindings Mojo interface for Cast platforms.
+// ---
+
 #ifndef CHROMECAST_BINDINGS_BINDINGS_MANAGER_CAST_H_
 #define CHROMECAST_BINDINGS_BINDINGS_MANAGER_CAST_H_
 

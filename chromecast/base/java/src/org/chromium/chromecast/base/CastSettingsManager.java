@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast settings manager
+// summary: Manages Cast settings on Android, observing device name and provisioning changes and notifying listeners of changes.
+// ---
+
 package org.chromium.chromecast.base;
 
 import android.content.ContentResolver;

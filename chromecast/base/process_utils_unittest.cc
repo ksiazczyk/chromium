@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process utils unit tests
+// summary: Unit tests verifying GetAppOutput for a simple echo command, invalid commands, and processes that return error codes while still capturing output.
+// ---
+
 #include "chromecast/base/process_utils.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

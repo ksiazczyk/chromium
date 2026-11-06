@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pool observable with multiple concurrent activations
+// summary: Observable that supports any number of simultaneous activations, with sequenced mutators to add and remove data safely.
+// ---
+
 package org.chromium.chromecast.base;
 
 import androidx.annotation.NonNull;

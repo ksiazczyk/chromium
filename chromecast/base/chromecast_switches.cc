@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast command-line switch definitions
+// summary: Defines the string constants for Chromecast command-line switches covering crash reporting, metrics, network, audio, GPU, and UI settings.
+// ---
+
 #include "chromecast/base/chromecast_switches.h"
 
 #include "base/check_op.h"

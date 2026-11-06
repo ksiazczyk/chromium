@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashReporterClient class header
+// summary: Declares the CastCrashReporterClient class, a CrashReporterClient subclass that enables Breakpad for renderer, zygote, GPU and utility processes and handles crash dumps.
+// ---
+
 #ifndef CHROMECAST_APP_LINUX_CAST_CRASH_REPORTER_CLIENT_H_
 #define CHROMECAST_APP_LINUX_CAST_CRASH_REPORTER_CLIENT_H_
 

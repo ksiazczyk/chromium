@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromecast/android
+summary: Restricts includes in this directory to chromecast/media/cma/backend and jni headers.

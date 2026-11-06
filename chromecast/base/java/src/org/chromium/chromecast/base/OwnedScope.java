@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnedScope for holding at most one active Scope
+// summary: Scope wrapper that holds at most one Scope at a time, closing the previous one when a new one is set, useful for start/stop style APIs.
+// ---
+
 package org.chromium.chromecast.base;
 
 /**

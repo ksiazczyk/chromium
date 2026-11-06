@@ -1,0 +1,4 @@
+# Docerion header of version.h.in.
+type: config
+title: Chromecast version header template
+summary: Template from which the build generates version.h, filling in product version and Cast build defines such as CAST_BUILD_INCREMENTAL and CAST_BUILD_RELEASE.

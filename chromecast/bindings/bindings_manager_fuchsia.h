@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindingsManagerFuchsia class declaration
+// summary: Declares BindingsManagerFuchsia, which implements the ApiBindings FIDL service to provide bindings on Fuchsia.
+// ---
+
 #ifndef CHROMECAST_BINDINGS_BINDINGS_MANAGER_FUCHSIA_H_
 #define CHROMECAST_BINDINGS_BINDINGS_MANAGER_FUCHSIA_H_
 

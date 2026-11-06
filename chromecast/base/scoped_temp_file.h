@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped temp file declaration
+// summary: Declares ScopedTempFile, a test-oriented helper that owns a temporary file deleted when the object is destroyed, with path, existence, write, and read accessors.
+// ---
+
 #ifndef CHROMECAST_BASE_SCOPED_TEMP_FILE_H_
 #define CHROMECAST_BASE_SCOPED_TEMP_FILE_H_
 

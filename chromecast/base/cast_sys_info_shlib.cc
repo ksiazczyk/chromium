@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast system info shared library factory
+// summary: Creates a CastSysInfoDummy for shared library builds, optionally loading values from a file path command-line switch.
+// ---
+
 #include "chromecast/public/cast_sys_info_shlib.h"
 
 #include "base/command_line.h"

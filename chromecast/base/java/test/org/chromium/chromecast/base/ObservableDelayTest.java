@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableDelayTest: unit tests for the Observable.delay() operator'
+// summary: JUnit tests verifying Observable.delay() scheduling behavior with a fake scheduler, covering delayed activation, unsubscribe, and accumulated delays.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

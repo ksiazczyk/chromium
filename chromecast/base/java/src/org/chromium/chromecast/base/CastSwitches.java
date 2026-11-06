@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast Android command line switches
+// summary: Defines command line switches specific to Chromecast on Android, including a cast app background color switch with a parsing helper.
+// ---
+
 package org.chromium.chromecast.base;
 
 import android.graphics.Color;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast base build targets
+summary: GN build file defining source sets, test support, and unit test targets for the chromecast base library.

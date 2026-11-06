@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_nb.xtb.
+type: data
+title: Chromecast settings translation bundle for Norwegian Bokmål (nb)
+summary: XML translation bundle that supplies the Norwegian Bokmål accept-languages list for Chromecast settings.

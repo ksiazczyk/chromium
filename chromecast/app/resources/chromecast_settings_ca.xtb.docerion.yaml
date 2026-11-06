@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_ca.xtb.
+type: data
+title: Catalan translation bundle for Chromecast settings
+summary: Translation bundle providing the accepted-languages string for Chromecast settings in Catalan.

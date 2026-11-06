@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of BindingsManagerCast
+// summary: Implements BindingsManagerCast, which stores binding scripts and serves them over the chromecast::mojom::ApiBindings Mojo interface.
+// ---
+
 #include "chromecast/bindings/bindings_manager_cast.h"
 
 #include <memory>

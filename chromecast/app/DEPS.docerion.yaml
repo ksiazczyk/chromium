@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Cast app directory
+summary: Restricts which headers files under chromecast/app may include, with extra allowances for the test launcher.

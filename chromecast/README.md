@@ -1,3 +1,11 @@
+---
+type: readme
+title: Cast base
+summary: Explains the cast_features system for checking feature state in Cast products and how to add new features to cast_features.cc.
+relations:
+  - documents /chromecast/base/cast_features.cc
+---
+
 # Cast base
 
 ## cast_features

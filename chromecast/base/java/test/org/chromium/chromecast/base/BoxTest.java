@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Box
+// summary: JUnit tests verifying construction, mutation, and storage of subclasses in the Box mutable value container.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.junit.Assert.assertEquals;

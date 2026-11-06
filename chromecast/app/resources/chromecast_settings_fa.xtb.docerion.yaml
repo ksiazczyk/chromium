@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_fa.xtb.
+type: data
+title: Chromecast settings translations for Persian
+summary: Translation bundle that sets the accepted languages for Chromecast settings to Persian with English fallbacks.

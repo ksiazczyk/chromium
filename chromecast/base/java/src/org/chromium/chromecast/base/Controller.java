@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller optional-activation observable
+// summary: An Observable with at most one activation at a time, offering sequenced set and reset mutators for the activation data.
+// ---
+
 package org.chromium.chromecast.base;
 
 import java.util.ArrayList;

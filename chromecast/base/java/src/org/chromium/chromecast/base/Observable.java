@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observable interface for reactive state
+// summary: Functional interface for observable state with combinators such as and, or, and after for composing activation-driven pipelines.
+// ---
+
 package org.chromium.chromecast.base;
 
 import java.util.function.BiFunction;

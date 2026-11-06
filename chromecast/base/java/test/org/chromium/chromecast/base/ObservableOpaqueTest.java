@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observable.opaque() unit tests
+// summary: Unit tests verifying that Observable.opaque() hides the value type and emits Unit activations.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

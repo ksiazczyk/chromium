@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy app ID mapper interface
+// summary: Declares MapLegacyAppId, which maps a legacy identifier to its associated AppID or returns an unknown-app fallback.
+// ---
+
 #ifndef CHROMECAST_BASE_LEGACY_APP_ID_MAPPER_H_
 #define CHROMECAST_BASE_LEGACY_APP_ID_MAPPER_H_
 

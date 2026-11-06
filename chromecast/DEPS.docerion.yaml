@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast include rules
+summary: Restricts includes within chromecast, forbidding chrome/ includes and requiring explicit per-directory dependencies.

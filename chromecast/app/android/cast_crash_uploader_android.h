@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast crash uploader for Android header
+// summary: Declares CastCrashUploaderAndroid with members for the log path, preferences, process type, and periodic crash report upload scheduling.
+// ---
+
 #ifndef CHROMECAST_APP_ANDROID_CAST_CRASH_UPLOADER_ANDROID_H_
 #define CHROMECAST_APP_ANDROID_CAST_CRASH_UPLOADER_ANDROID_H_
 

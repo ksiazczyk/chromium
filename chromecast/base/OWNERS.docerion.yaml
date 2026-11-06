@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for chromecast/base
+summary: Delegates review of BUILD.gn changes in this directory to the chromecast/android owners.

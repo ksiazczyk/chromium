@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path utility implementations
+// summary: Resolves relative paths against the HOME, BIN and TMP directories using the base path service, leaving absolute paths unchanged.
+// ---
+
 #include "chromecast/base/path_utils.h"
 
 #include "base/logging.h"

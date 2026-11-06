@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of chromecast/android
+summary: Lists the code owners for this directory and grants per-file ownership of lint-*.xml files to everyone.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastSysInfo factory using shared library
+// summary: Implements CreateSysInfo() by creating a CastSysInfoShlib configured from the process command line arguments.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_it.xtb.
+type: data
+title: Chromecast settings Italian translation bundle
+summary: XML translation bundle for Italian that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to it-IT, it, en-US and en for Chromecast settings.

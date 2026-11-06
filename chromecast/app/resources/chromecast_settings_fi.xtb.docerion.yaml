@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_fi.xtb.
+type: data
+title: Chromecast settings translations for Finnish
+summary: Translation bundle that sets the accepted languages for Chromecast settings to Finnish with English fallbacks.

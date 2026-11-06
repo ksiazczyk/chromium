@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableDebugTest: unit tests for the Observable.debug() operator'
+// summary: JUnit tests verifying that Observable.debug() logs subscribe, unsubscribe, open, and close events without altering the data flowing through the stream.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

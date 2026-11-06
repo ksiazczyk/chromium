@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LocalService
+// summary: Robolectric tests for LocalService binding, checking synchronous and asynchronous implementation delivery and revocation when the service disconnects.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.robolectric.Shadows.shadowOf;

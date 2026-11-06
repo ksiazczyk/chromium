@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Cast browser Android library
+summary: Defines the libcast_browser_android shared library with its JNI loader source and dependencies, plus a target to copy libc++_shared.so for the APK.

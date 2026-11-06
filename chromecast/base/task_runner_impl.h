@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerImpl header
+// summary: Header for TaskRunnerImpl, which implements the chromecast TaskRunner interface by posting tasks through a base::SingleThreadTaskRunner captured at construction.
+// ---
+
 #ifndef CHROMECAST_BASE_TASK_RUNNER_IMPL_H_
 #define CHROMECAST_BASE_TASK_RUNNER_IMPL_H_
 

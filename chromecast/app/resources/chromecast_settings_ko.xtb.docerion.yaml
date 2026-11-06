@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_ko.xtb.
+type: data
+title: Chromecast settings Korean translation bundle
+summary: XML translation bundle for Korean that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to ko-KR, ko, en-US and en for Chromecast settings.
