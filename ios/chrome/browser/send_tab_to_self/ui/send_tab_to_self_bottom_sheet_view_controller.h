@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self bottom sheet view controller header
+// summary: Declares the bottom sheet view controller that lets the user choose a target device to send the current tab to.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_UI_SEND_TAB_TO_SELF_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_UI_SEND_TAB_TO_SELF_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

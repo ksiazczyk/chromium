@@ -1,3 +1,12 @@
+---
+type: readme
+title: Session saving and restoration
+summary: Explains how Chrome on iOS saves, restores, and recovers sessions, including incognito session handling.
+relations:
+  - documents /ios/chrome/browser/sessions/model/session_saving_scene_agent.h
+  - documents /ios/chrome/browser/sessions/model/session_saving_scene_agent.mm
+---
+
 ## Session saving and restoration.
 
 A *Session* is the data Chrome saves to an iOS device's storage that preserves

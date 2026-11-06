@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore browser agent
+// summary: Declares a browser agent that observes tab closures and informs the tab restore service about them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_IOS_CHROME_TAB_RESTORE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_IOS_CHROME_TAB_RESTORE_BROWSER_AGENT_H_
 

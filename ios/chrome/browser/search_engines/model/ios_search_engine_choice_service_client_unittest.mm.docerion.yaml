@@ -1,0 +1,4 @@
+# Docerion header of ios_search_engine_choice_service_client_unittest.mm.
+type: test
+title: iOS search engine choice service client unit tests
+summary: Tests guest propagation eligibility and device restore detection using sentinel files with controlled timestamps.

@@ -1,0 +1,4 @@
+# Docerion header of test_session_restoration_observer.mm.
+type: test
+title: Test session restoration observer implementation
+summary: Implements the test observer that records when session restoration starts and finishes and how many web states were restored.

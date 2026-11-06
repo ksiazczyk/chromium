@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group serialization utility interface
+// summary: Declares utility methods and the DeserializedGroup struct for converting tab groups between proto storage and tab_groups component types.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_TAB_GROUP_UTIL_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_TAB_GROUP_UTIL_H_
 

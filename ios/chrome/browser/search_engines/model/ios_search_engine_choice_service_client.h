@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS search engine choice service client header
+// summary: Declares the iOS client that supplies country and device restore state to the search engine choice service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_IOS_SEARCH_ENGINE_CHOICE_SERVICE_CLIENT_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_IOS_SEARCH_ENGINE_CHOICE_SERVICE_CLIENT_H_
 

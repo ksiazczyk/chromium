@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_browser_agent_unittest.mm.
+type: test
+title: Send Tab to Self browser agent unit tests
+summary: Unit tests for the Send Tab to Self browser agent covering sharing, infobars, snackbars, and scroll position generation metrics.

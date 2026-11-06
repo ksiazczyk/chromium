@@ -1,0 +1,4 @@
+# Docerion header of tab_group_util_unittest.mm.
+type: test
+title: Tab group utility unit tests
+summary: Unit tests verifying serialization and deserialization of tab group ranges, colors, identifiers and visual data.

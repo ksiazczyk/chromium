@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self browser agent header
+// summary: Declares the browser agent that coordinates sending tabs to devices and displaying received entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_MODEL_SEND_TAB_TO_SELF_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_MODEL_SEND_TAB_TO_SELF_BROWSER_AGENT_H_
 

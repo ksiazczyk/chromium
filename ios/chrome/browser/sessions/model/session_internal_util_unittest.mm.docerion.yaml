@@ -1,0 +1,4 @@
+# Docerion header of session_internal_util_unittest.mm.
+type: test
+title: Session internal utility unit tests
+summary: Unit tests verifying the session file helpers for existence checks, directory operations, copying, renaming, and protobuf reading and writing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test session restoration observer header
+// summary: Declares a SessionRestorationObserver implementation that records restoration callbacks and parameters for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_TEST_SESSION_RESTORATION_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_TEST_SESSION_RESTORATION_OBSERVER_H_
 

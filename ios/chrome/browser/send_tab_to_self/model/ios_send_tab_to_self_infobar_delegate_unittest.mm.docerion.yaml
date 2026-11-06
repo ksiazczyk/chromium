@@ -1,0 +1,4 @@
+# Docerion header of ios_send_tab_to_self_infobar_delegate_unittest.mm.
+type: test
+title: iOS Send Tab to Self infobar delegate unit tests
+summary: Unit tests for the infobar delegate covering its properties and behavior with fake web states.

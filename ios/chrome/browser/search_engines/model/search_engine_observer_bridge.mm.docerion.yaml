@@ -1,0 +1,4 @@
+# Docerion header of search_engine_observer_bridge.mm.
+type: source
+title: SearchEngineObserverBridge implementation
+summary: Implements the bridge that notifies the Objective-C owner when the TemplateURLService changes or shuts down.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for sessions model
+summary: Defines source sets and dependencies for the iOS session saving and restoration code.

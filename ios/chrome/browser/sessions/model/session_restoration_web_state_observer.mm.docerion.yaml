@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_web_state_observer.mm.
+type: source
+title: Session restoration WebState observer implementation
+summary: Implements per-WebState dirty tracking on navigation, scroll, frame availability and visibility changes for session saving.

@@ -1,0 +1,4 @@
+# Docerion header of send_tab_push_notification_client_unittest.mm.
+type: test
+title: Send Tab push notification client unit tests
+summary: Unit tests for the Send Tab push notification client covering notification handling and metrics.

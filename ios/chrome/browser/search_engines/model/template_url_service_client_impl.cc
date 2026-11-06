@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLServiceClientImpl implementation
+// summary: Implements the iOS TemplateURLService client, forwarding keyword search terms and visited URLs to the history service.
+// ---
+
 #include "ios/chrome/browser/search_engines/model/template_url_service_client_impl.h"
 
 #include "base/check_op.h"

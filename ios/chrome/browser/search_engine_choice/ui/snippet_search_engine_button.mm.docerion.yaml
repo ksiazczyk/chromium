@@ -1,0 +1,4 @@
+# Docerion header of snippet_search_engine_button.mm.
+type: source
+title: Snippet search engine button implementation
+summary: Implements the search engine button layout, selection states, snippet expansion animation, and current default pill styling.

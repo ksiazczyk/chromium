@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines utility functions
+// summary: Implements helpers that check whether the default search provider supports search by image and search with Google Lens.
+// ---
+
 #include "ios/chrome/browser/search_engines/model/search_engines_util.h"
 
 #include "components/search_engines/template_url_service.h"

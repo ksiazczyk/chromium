@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEnginesAppInterface header
+// summary: Declares the app interface exposing methods to get, set, add and remove default search engines for Earl Grey UI tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_SEARCH_ENGINES_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_SEARCH_ENGINES_APP_INTERFACE_H_
 

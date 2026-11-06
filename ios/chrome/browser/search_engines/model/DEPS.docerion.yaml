@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Search engines model include rules
+summary: Declares the include paths permitted for code in the search engines model directory.

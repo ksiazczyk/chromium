@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab push notification client header
+// summary: Declares the push notification client that handles Send Tab to Self notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_MODEL_SEND_TAB_PUSH_NOTIFICATION_CLIENT_H_
 #define IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_MODEL_SEND_TAB_PUSH_NOTIFICATION_CLIENT_H_
 

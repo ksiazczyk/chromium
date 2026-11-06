@@ -1,0 +1,4 @@
+# Docerion header of ios_search_engine_choice_service_client.mm.
+type: source
+title: iOS search engine choice service client implementation
+summary: Implements iOS-specific country lookup, guest profile eligibility, and device restore detection for search engine choice.

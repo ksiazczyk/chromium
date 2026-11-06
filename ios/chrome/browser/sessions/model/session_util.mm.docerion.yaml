@@ -1,0 +1,4 @@
+# Docerion header of session_util.mm.
+type: source
+title: Session utility implementation
+summary: Implements helpers to create a WebState from restored navigation entries and to build session identifiers for active and inactive browsers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restoration scroll observer interface
+// summary: Declares SessionRestorationScrollObserver, an observer that invokes a closure whenever a web view scroll event completes, with a shutdown method to invalidate the closure.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_SCROLL_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_SCROLL_OBSERVER_H_
 

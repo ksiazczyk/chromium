@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_egtest.mm.
+type: test
+title: Search engine choice screen Earl Grey UI tests
+summary: Earl Grey tests verifying the choice screen across backgrounding, multiple windows and search engine selection.

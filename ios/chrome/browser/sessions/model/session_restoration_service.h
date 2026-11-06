@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restoration service interface
+// summary: Defines the SessionRestorationService keyed service interface for saving and restoring browser sessions, including observer registration, session loading, and backup browser support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_SERVICE_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_SERVICE_H_
 

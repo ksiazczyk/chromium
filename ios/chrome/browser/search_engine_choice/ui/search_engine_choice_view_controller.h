@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice view controller header
+// summary: Declares the base view controller and action delegate protocol for displaying the search engine choice screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SEARCH_ENGINE_CHOICE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SEARCH_ENGINE_CHOICE_VIEW_CONTROLLER_H_
 

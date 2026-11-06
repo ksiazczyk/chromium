@@ -1,0 +1,4 @@
+# Docerion header of search_engines_app_interface_stub.mm.
+type: test
+title: SearchEnginesAppInterface Earl Grey stub
+summary: Registers SearchEnginesAppInterface as an Earl Grey stub class running in the app main queue for test support.

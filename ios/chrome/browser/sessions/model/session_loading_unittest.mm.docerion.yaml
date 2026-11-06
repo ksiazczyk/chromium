@@ -1,0 +1,4 @@
+# Docerion header of session_loading_unittest.mm.
+type: test
+title: Session loading unit tests
+summary: Unit tests verifying session storage loading with tabs, tab groups, pinned counts, filtering of removed items, and related metrics.

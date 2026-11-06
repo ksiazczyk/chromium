@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_service_impl.mm.
+type: source
+title: Session restoration service implementation
+summary: Implements session saving and restoration, loading WebState storage and native sessions from disk, deleting unknown content, and recording loading metrics.

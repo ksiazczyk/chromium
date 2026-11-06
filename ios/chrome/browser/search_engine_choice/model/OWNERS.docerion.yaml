@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the model directory
+summary: Delegates code review ownership to the parent search_engine_choice OWNERS file.

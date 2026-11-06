@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_mediator.mm.
+type: source
+title: Search engine choice mediator implementation
+summary: Builds the search engine list items from template URLs and persists the user's default search engine choice.

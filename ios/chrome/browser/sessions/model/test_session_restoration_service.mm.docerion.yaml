@@ -1,0 +1,4 @@
+# Docerion header of test_session_restoration_service.mm.
+type: test
+title: Test session restoration service implementation
+summary: Implements the test restoration service, simulating empty session loads and asynchronous storage callbacks for use in tests.

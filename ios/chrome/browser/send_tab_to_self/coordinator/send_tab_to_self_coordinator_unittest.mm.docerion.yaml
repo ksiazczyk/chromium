@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_coordinator_unittest.mm.
+type: test
+title: SendTabToSelfCoordinator unit tests
+summary: Unit tests for the send tab to self coordinator covering picker and direct-send behavior with fake identities, sync services, and metrics.

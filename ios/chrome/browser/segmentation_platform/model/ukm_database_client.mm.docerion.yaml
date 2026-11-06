@@ -1,0 +1,4 @@
+# Docerion header of ukm_database_client.mm.
+type: source
+title: UkmDatabaseClient implementation
+summary: Implements UkmDatabaseClient, initializing the UKM data manager, starting and stopping UKM observation, and managing per-profile client instances for testing.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the search with UI directory
+summary: Defines the allowed include dependencies for this directory, with additional rules for unit test files.

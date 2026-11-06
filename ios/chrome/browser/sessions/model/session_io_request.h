@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session IO request classes
+// summary: Declares delayed IO request classes for writing data or protobuf messages and for copying or deleting paths during session restoration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_IO_REQUEST_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_IO_REQUEST_H_
 

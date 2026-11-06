@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLServiceClientImpl header
+// summary: Declares the iOS implementation of TemplateURLServiceClient that provides keyword-related history functionality to TemplateURLService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_TEMPLATE_URL_SERVICE_CLIENT_IMPL_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_TEMPLATE_URL_SERVICE_CLIENT_IMPL_H_
 

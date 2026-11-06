@@ -1,0 +1,4 @@
+# Docerion header of ui_thread_search_terms_data.mm.
+type: source
+title: UIThreadSearchTermsData implementation
+summary: Implements UI-thread search terms data, supplying the Google base URL, application locale, RLZ parameter, and image search source values.

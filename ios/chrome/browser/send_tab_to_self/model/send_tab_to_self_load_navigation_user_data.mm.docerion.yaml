@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_load_navigation_user_data.mm.
+type: source
+title: Send Tab to Self load navigation user data implementation
+summary: Implements the WebState user data class that stores the Send Tab to Self entry GUID attached to a navigation.

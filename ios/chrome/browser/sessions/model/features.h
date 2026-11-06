@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restoration feature flag declarations
+// summary: Declares feature flags for session restoration SessionID checks and full history conversion of tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_FEATURES_H_
 

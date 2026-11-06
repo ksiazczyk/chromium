@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_triggering_service.mm.
+type: source
+title: Search engine choice triggering service implementation
+summary: Implements evaluation of surface eligibility, static and dynamic choice screen conditions, and skip counting for external intent starts.

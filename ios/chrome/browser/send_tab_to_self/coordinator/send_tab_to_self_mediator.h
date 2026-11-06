@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfMediator interface
+// summary: Declares the mediator that tracks the primary signed-in identity for the send tab to self feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_TO_SELF_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SEND_TAB_TO_SELF_COORDINATOR_SEND_TAB_TO_SELF_MEDIATOR_H_
 

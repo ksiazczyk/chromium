@@ -1,0 +1,4 @@
+# Docerion header of search_engine_tab_helper_factory.mm.
+type: source
+title: SearchEngineTabHelperFactory implementation
+summary: Dispatches searchable URL and OSDD messages from the JavaScript feature to the matching SearchEngineTabHelper, if one exists.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform service factory header
+// summary: Declares the profile-keyed factory for SegmentationPlatformService with dispatcher and card registry accessors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEGMENTATION_PLATFORM_MODEL_SEGMENTATION_PLATFORM_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SEGMENTATION_PLATFORM_MODEL_SEGMENTATION_PLATFORM_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of search_engine_tab_helper_unittest.mm.
+type: test
+title: SearchEngineTabHelper unit tests
+summary: Unit tests for SearchEngineTabHelper covering TemplateURL creation from form submissions and OpenSearch XML served by an embedded test server.

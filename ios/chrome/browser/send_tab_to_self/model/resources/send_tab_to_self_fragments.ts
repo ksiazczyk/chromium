@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self text fragment generation
+// summary: TypeScript interface that generates text fragments for the reading position shared via Send Tab to Self on iOS, wrapping the text-fragments-polyfill library and reporting status codes to native code.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {generateFragment, GenerateFragmentStatus, isValidRangeForFragmentGeneration} from '//third_party/text-fragments-polyfill/src/src/fragment-generation-utils.js';
 import * as utils from '//third_party/text-fragments-polyfill/src/src/text-fragment-utils.js';

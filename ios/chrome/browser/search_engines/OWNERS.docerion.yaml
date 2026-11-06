@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Defines code ownership for the iOS search engines directory, delegating to the components search_engines owners and listing jlebel@chromium.org for Objective-C changes.

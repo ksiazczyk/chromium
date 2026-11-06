@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_text_fragment_selector_generator.mm.
+type: source
+title: Send Tab to Self text fragment selector generator implementation
+summary: Implements the text fragment generator, mapping JavaScript status codes and fragment fields into SendTabToSelfTextFragment results.

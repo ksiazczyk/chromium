@@ -1,0 +1,4 @@
+# Docerion header of search_engine_tab_helper.mm.
+type: source
+title: SearchEngineTabHelper implementation
+summary: Implements TemplateURL creation from navigations, form submissions and OSDD links, plus provider favicon updates for the TemplateURLService.

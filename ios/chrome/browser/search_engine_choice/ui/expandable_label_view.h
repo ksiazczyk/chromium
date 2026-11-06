@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expandable label view interface
+// summary: Declares a UIView that displays text on one line or expanded across multiple lines, with an anchor for layout.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_EXPANDABLE_LABEL_VIEW_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_EXPANDABLE_LABEL_VIEW_H_
 

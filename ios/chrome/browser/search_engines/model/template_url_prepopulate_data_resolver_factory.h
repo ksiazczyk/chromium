@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLPrepopulateDataResolverFactory header
+// summary: Declares the profile keyed service factory for TemplateURLPrepopulateData::Resolver on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_TEMPLATE_URL_PREPOPULATE_DATA_RESOLVER_FACTORY_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_TEMPLATE_URL_PREPOPULATE_DATA_RESOLVER_FACTORY_H_
 

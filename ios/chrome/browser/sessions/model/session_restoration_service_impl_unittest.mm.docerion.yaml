@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_service_impl_unittest.mm.
+type: test
+title: Session restoration service implementation unit tests
+summary: Extensive unit tests covering session saving, loading, backup browsers, unrealized WebStates, and data deletion for the session restoration service implementation.

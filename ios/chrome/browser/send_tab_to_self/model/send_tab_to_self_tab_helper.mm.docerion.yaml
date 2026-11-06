@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_tab_helper.mm.
+type: source
+title: Send Tab to Self tab helper implementation
+summary: Implements the tab helper that consumes Send Tab to Self navigation user data and scrolls to text fragments after page load.

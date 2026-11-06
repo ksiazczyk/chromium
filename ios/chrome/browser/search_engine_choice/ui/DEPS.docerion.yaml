@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Search engine choice UI include rules
+summary: Permits the search engine choice UI to include the favicon loader header from the favicon model.

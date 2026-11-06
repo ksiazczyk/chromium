@@ -1,0 +1,4 @@
+# Docerion header of session_restoration_service_factory.mm.
+type: source
+title: Session restoration service factory implementation
+summary: Implements the factory, building SessionRestorationServiceImpl instances with a save delay, pinned tabs feature flag, profile state path, and a blocking task runner.

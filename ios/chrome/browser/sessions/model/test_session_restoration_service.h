@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test session restoration service header
+// summary: Declares a test SessionRestorationService implementing the restoration API without saving or loading sessions, plus a KeyedService testing factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_TEST_SESSION_RESTORATION_SERVICE_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_TEST_SESSION_RESTORATION_SERVICE_H_
 

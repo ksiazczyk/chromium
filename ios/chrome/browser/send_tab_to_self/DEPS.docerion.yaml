@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for send_tab_to_self
+summary: Defines allowed include dependencies for the iOS send_tab_to_self directory, listing authentication, signin, sync, and tabs model paths.

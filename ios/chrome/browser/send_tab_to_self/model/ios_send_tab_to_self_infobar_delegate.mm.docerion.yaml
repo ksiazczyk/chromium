@@ -1,0 +1,4 @@
+# Docerion header of ios_send_tab_to_self_infobar_delegate.mm.
+type: source
+title: iOS Send Tab to Self infobar delegate implementation
+summary: Implements the infobar delegate, locating the most recently received tab and handling user actions.

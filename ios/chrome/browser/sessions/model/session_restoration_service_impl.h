@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restoration service implementation header
+// summary: Declares SessionRestorationServiceImpl, the concrete implementation that observes browser changes and schedules session saves to storage.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_SERVICE_IMPL_H_
 

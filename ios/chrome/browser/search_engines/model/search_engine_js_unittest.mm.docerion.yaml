@@ -1,0 +1,4 @@
+# Docerion header of search_engine_js_unittest.mm.
+type: test
+title: SearchEngineJavaScriptFeature unit tests
+summary: Unit tests verifying that search_engine.js correctly reports form submissions and OpenSearch description documents back to the native feature.

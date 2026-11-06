@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for search engine choice Earl Grey test utilities
+summary: Defines the test-only Earl Grey UI test utility source set and its dependencies for the iOS search engine choice feature.

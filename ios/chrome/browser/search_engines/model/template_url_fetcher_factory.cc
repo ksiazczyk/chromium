@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLFetcherFactory implementation
+// summary: Builds per-profile TemplateURLFetcher instances as a typed profile keyed service factory depending on TemplateURLServiceFactory.
+// ---
+
 #include "ios/chrome/browser/search_engines/model/template_url_fetcher_factory.h"
 
 #include "components/search_engines/template_url_fetcher.h"

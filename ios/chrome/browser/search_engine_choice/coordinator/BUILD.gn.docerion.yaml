@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice coordinator BUILD.gn build targets
+summary: Defines the GN source sets for the coordinator, its unit tests and Earl Grey tests with their dependencies.

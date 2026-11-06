@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_util_unittest.mm.
+type: test
+title: Search engine choice utility unit tests
+summary: Tests choice screen display logic and eligibility metrics across countries, policies, and first-run or external intent entry points.

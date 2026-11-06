@@ -1,0 +1,4 @@
+# Docerion header of search_engine_java_script_feature.mm.
+type: source
+title: SearchEngineJavaScriptFeature implementation
+summary: Implements the script message handler that dispatches OpenSearch and searchable URL commands from web pages to its delegate.

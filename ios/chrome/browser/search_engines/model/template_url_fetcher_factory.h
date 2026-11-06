@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLFetcherFactory header
+// summary: Declares the iOS profile keyed service factory that owns a TemplateURLFetcher for each profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_TEMPLATE_URL_FETCHER_FACTORY_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINES_MODEL_TEMPLATE_URL_FETCHER_FACTORY_H_
 

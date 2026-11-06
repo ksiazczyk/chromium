@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Segmentation platform model build targets
+summary: Defines GN source sets for the segmentation platform model, the UKM database client, and their unit tests.

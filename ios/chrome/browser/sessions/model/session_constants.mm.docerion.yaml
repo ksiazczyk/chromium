@@ -1,0 +1,4 @@
+# Docerion header of session_constants.mm.
+type: source
+title: Session storage constants values
+summary: Defines the session storage directory, metadata and WebState file names, and the saving and loading time histogram names.

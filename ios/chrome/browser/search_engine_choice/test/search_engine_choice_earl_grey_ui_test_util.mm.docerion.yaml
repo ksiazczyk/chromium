@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_earl_grey_ui_test_util.mm.
+type: test
+title: Search engine choice Earl Grey UI test utility implementation
+summary: Implements Earl Grey helpers that interact with the search engine choice screen and search engine settings during iOS UI tests.

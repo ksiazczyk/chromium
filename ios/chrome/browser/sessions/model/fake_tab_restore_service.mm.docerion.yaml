@@ -1,0 +1,4 @@
+# Docerion header of fake_tab_restore_service.mm.
+type: test
+title: Fake tab restore service implementation
+summary: Implements the in-memory fake TabRestoreService used as a testing factory in tests.

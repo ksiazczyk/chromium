@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Equality operators for session storage protobuf messages
+// summary: Defines equality and inequality operators for session storage protobuf messages so they can be compared in tests.
+// ---
+
 #include "ios/chrome/browser/sessions/model/proto_util.h"
 
 #include "third_party/protobuf/src/google/protobuf/message_lite.h"

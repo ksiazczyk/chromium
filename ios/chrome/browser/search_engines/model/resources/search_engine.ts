@@ -6,6 +6,12 @@
  * @fileoverview Add functionality related to getting search engine details.
  */
 
+// ---docerion
+// type: source
+// title: Search engine details extraction script for iOS Chrome
+// summary: TypeScript script injected into web pages that inspects forms, submit elements and search fields to extract search engine details for the iOS Chrome browser.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_coordinator_egtest.mm.
+type: test
+title: Send Tab to Self coordinator Earl Grey tests
+summary: Earl Grey UI tests covering the iOS Send Tab to Self coordinator, including snackbars, entry point histograms, and page behaviors like scroll restoration and form propagation.

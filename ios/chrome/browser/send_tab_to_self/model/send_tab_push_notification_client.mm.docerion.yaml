@@ -1,0 +1,4 @@
+# Docerion header of send_tab_push_notification_client.mm.
+type: source
+title: Send Tab push notification client implementation
+summary: Processes Send Tab to Self push notifications and opens the sent URL in a new tab.

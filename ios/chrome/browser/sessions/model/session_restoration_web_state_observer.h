@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restoration WebState observer
+// summary: Declares a per-WebState helper that records when a tab's content changes through navigation, scrolling or frames and needs saving.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_WEB_STATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_RESTORATION_WEB_STATE_OBSERVER_H_
 

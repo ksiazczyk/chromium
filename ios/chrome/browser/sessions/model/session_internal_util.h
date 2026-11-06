@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session internal utility header
+// summary: Declares file and directory helpers such as existence checks, copy, rename, delete, and protobuf read/write used by the iOS session storage code.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_INTERNAL_UTIL_H_
 #define IOS_CHROME_BROWSER_SESSIONS_MODEL_SESSION_INTERNAL_UTIL_H_
 

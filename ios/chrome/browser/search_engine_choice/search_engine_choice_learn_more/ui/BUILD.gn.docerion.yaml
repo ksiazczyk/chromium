@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the search engine choice learn more UI
+summary: Defines the GN source_set for the learn more UI, listing its Objective-C sources, dependencies and the UIKit framework.

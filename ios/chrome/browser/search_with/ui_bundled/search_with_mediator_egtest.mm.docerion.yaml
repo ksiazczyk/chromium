@@ -1,0 +1,4 @@
+# Docerion header of search_with_mediator_egtest.mm.
+type: test
+title: Search with mediator Earl Grey tests
+summary: Earl Grey UI tests for the Search With edit menu entry, using an embedded test server to serve selection and fake search result pages.

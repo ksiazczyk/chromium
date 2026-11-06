@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_tab_restore_browser_agent.mm.
+type: source
+title: Tab restore browser agent implementation
+summary: Implements recording history for closed tabs, loading unrealized web states from storage when needed.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snippet search engine text view header
+// summary: Declares SnippetSearchEngineTextView, a UIView showing a search engine name, an expandable snippet, and a current-default tag depending on the default state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SNIPPET_SEARCH_ENGINE_TEXT_VIEW_H_
 #define IOS_CHROME_BROWSER_SEARCH_ENGINE_CHOICE_UI_SNIPPET_SEARCH_ENGINE_TEXT_VIEW_H_
 

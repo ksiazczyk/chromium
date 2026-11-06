@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_tab_card_label_data_unittest.mm.
+type: test
+title: Send Tab to Self tab card label data unit tests
+summary: Unit tests for tab card label data covering matching entries, viewed tabs, and label text generation.

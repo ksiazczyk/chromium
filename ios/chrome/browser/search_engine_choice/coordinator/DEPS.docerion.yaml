@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the search engine choice coordinator
+summary: DEPS file restricting which first run headers this directory may include.

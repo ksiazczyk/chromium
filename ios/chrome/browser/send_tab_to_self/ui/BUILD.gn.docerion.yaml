@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Send Tab to Self UI build targets
+summary: Defines the constants and UI source sets for the Send Tab to Self bottom sheet, listing sources, frameworks, and dependencies.

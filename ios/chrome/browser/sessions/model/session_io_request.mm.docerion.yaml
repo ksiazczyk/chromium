@@ -1,0 +1,4 @@
+# Docerion header of session_io_request.mm.
+type: source
+title: Session IO request implementation
+summary: Implements the session IO request classes, executing file writes, copies, and deletions as blocking background work.

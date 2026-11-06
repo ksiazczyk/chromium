@@ -1,0 +1,4 @@
+# Docerion header of expandable_label_view.mm.
+type: source
+title: Expandable label view implementation
+summary: Implements the expandable label using one-line and multi-line labels toggled through layout constraints.

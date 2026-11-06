@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the search engine choice Learn More coordinator
+summary: Defines the coordinator source set for the search engine choice Learn More screen, listing its sources, dependencies and the UIKit framework.

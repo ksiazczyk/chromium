@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the sessions proto library
+summary: Defines the proto_library GN target that compiles storage.proto and tab_group.proto for iOS Chrome session persistence.

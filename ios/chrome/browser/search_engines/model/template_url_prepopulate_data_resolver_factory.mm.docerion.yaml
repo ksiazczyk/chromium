@@ -1,0 +1,4 @@
+# Docerion header of template_url_prepopulate_data_resolver_factory.mm.
+type: source
+title: TemplateURLPrepopulateDataResolverFactory implementation
+summary: Creates TemplateURLPrepopulateData::Resolver instances per profile using profile prefs and the regional capabilities service.

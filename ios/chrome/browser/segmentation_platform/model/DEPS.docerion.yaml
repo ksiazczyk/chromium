@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Segmentation platform model DEPS rules
+summary: Restricts which directories this model folder may include headers from.
