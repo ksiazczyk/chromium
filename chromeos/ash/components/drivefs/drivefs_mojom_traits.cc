@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS mojom enum traits implementation
+// summary: Implements mojo enum traits that convert drive::FileError values to and from drivefs::mojom::FileError.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_mojom_traits.h"
 
 #include "base/notreached.h"

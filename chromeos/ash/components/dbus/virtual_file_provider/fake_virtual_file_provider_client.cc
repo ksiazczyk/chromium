@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake VirtualFileProviderClient implementation
+// summary: Implements a fake DBus client that returns preset IDs and file descriptors for GenerateVirtualFileId and OpenFileById, used in place of the real service.
+// ---
+
 #include "chromeos/ash/components/dbus/virtual_file_provider/fake_virtual_file_provider_client.h"
 
 #include "base/functional/bind.h"

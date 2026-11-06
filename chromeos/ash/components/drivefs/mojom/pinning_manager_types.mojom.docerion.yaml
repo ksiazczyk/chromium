@@ -1,0 +1,4 @@
+# Docerion header of pinning_manager_types.mojom.
+type: source
+title: PinManager bulk pinning stage enum
+summary: Defines the Stage enum for bulk pinning setup phases, shared between the PinManager and OS Settings and persisted to UMA histograms.

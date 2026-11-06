@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFsSearch unit tests
+// summary: Unit tests for DriveFsSearch verifying query parameters, offline fallback, and shared-with-me cache TTL behavior.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_search.h"
 
 #include <memory>

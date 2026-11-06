@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationFetcher header for the Geolocation API client
+// summary: Declares LocationFetcher, which abstracts Google Maps Geolocation API network details away from location providers and owns all in-flight requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_LOCATION_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_LOCATION_FETCHER_H_
 

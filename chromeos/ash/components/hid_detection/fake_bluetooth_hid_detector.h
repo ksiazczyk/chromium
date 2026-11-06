@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth HID detector class
+// summary: Declares a fake BluetoothHidDetector that simulates Bluetooth HID pairing states and input device status for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_FAKE_BLUETOOTH_HID_DETECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_FAKE_BLUETOOTH_HID_DETECTOR_H_
 

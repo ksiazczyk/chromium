@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement tracker provider implementation
+// summary: Implements the FeatureEngagementTrackerProvider singleton, enforcing a single instance and exposing a process-wide Get accessor in the ash namespace.
+// ---
+
 #include "chromeos/ash/components/feature_engagement/feature_engagement_tracker_provider.h"
 
 #include "base/check.h"

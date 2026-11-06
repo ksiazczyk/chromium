@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the emoji component
+summary: Specifies which directories the emoji component may include headers from, such as ui/base, endpoint_fetcher, and content test support.

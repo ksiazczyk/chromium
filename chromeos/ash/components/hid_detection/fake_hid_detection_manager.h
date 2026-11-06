@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake HID detection manager class
+// summary: Declares a fake HidDetectionManager with methods to mock touchscreen, pointer, keyboard and pairing status in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_FAKE_HID_DETECTION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_FAKE_HID_DETECTION_MANAGER_H_
 

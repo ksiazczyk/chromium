@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firmware update manager implementation
+// summary: Implements the firmware update manager that talks to the fwupd D-Bus daemon, downloads and installs firmware, and serves the firmware update settings page.
+// ---
+
 #include "chromeos/ash/components/fwupd/firmware_update_manager.h"
 
 #include <algorithm>

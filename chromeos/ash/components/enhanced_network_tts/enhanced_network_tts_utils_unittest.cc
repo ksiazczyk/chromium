@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for enhanced network TTS utility functions
+// summary: Unit tests verifying JSON request formatting, rate capping, text break computation, and related utility behavior for the enhanced network TTS component.
+// ---
+
 #include "chromeos/ash/components/enhanced_network_tts/enhanced_network_tts_utils.h"
 
 #include <memory>

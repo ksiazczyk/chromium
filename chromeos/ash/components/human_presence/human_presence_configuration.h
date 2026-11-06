@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Human presence configuration API
+// summary: Declares functions to obtain LockOnLeave and SnoopingProtection feature configs and quick dim, quick lock, and feedback settings for power_manager.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HUMAN_PRESENCE_HUMAN_PRESENCE_CONFIGURATION_H_
 #define CHROMEOS_ASH_COMPONENTS_HUMAN_PRESENCE_HUMAN_PRESENCE_CONFIGURATION_H_
 

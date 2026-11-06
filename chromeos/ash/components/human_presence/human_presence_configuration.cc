@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Human presence configuration implementation
+// summary: Builds FeatureConfig protos and quick dim/lock delay settings for snooping protection and lock-on-leave from Finch field trial parameters.
+// ---
+
 #include "chromeos/ash/components/human_presence/human_presence_configuration.h"
 
 #include <optional>

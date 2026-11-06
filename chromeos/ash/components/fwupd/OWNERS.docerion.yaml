@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the fwupd directory
+summary: Lists jimmyxgong@chromium.org as the owner of the fwupd directory.

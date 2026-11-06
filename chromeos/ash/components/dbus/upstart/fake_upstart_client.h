@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Upstart client header
+// summary: Declares FakeUpstartClient, a test double for UpstartClient with configurable start and stop callbacks and Upstart operation recording.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_UPSTART_FAKE_UPSTART_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_UPSTART_FAKE_UPSTART_CLIENT_H_
 

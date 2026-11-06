@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the disks directory
+summary: Restricts directory dependencies to allowed includes such as base, dbus, chromeos ash dbus, testing, and cros_system_api.

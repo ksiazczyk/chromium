@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptohomePkcs11Client
+// summary: Header declaring the fake CryptohomePkcs11Client that stubs PKCS11 TPM token calls and service availability behavior for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_USERDATAAUTH_FAKE_CRYPTOHOME_PKCS11_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_USERDATAAUTH_FAKE_CRYPTOHOME_PKCS11_CLIENT_H_
 

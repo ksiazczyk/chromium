@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: drivefs DEPS include rules
+summary: Lists the include dependencies allowed for the drivefs directory, such as dbus clients, disks, file manager, and signin components.

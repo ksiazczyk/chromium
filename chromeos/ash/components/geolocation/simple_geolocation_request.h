@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleGeolocationRequest header
+// summary: Declares the SimpleGeolocationRequest class that formats and sends geolocation server requests with retry and timeout handling for system location providers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_SIMPLE_GEOLOCATION_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_SIMPLE_GEOLOCATION_REQUEST_H_
 

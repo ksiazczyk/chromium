@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: drivefs OWNERS file
+summary: Delegates code ownership to the file_manager owners and requires IPC security owners for mojom traits files.

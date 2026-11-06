@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mount point implementation
+// summary: Implements MountPoint, which mounts a device, archive, or network filesystem via DiskMountManager and unmounts it on destruction or explicit unmount.
+// ---
+
 #include "chromeos/ash/components/disks/mount_point.h"
 
 #include <string>

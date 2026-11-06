@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS pinning manager unit tests
+// summary: Unit tests for the DriveFS pinning manager using fake DBus clients and mock search results to verify pinning stages, progress, and error handling.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_pinning_manager.h"
 
 #include <iomanip>

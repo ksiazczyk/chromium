@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection manager interface
+// summary: Defines the HidDetectionManager interface with input state enums, status structs and delegate for detecting human interface devices.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_HID_DETECTION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_HID_DETECTION_MANAGER_H_
 

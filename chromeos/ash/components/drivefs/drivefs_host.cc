@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFsHost implementation
+// summary: Implements DriveFsHost, which manages the lifetime of a DriveFS mount and bridges between the DriveFS process and the file manager.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_host.h"
 
 #include <memory>

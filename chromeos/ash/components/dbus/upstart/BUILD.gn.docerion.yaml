@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the upstart DBus client
+summary: Defines the upstart component build target, listing the client sources and their dependencies for Chrome OS builds.

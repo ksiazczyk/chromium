@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the virtual_file_provider component
+summary: Defines the ash_virtual_file_provider GN component target, its sources and dependencies, and asserts Chrome OS-only builds.

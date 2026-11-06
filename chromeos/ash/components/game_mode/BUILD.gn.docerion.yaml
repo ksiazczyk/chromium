@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the game_mode component
+summary: GN build definition for the game_mode static library, listing its sources and dependencies for ChromeOS Ash builds.

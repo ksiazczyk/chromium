@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cache eviction options
+// summary: Parameterized unit tests verifying displacement detection for WiFi and cellular cache eviction strategies across similarity degrees.
+// ---
+
 #include "chromeos/ash/components/geolocation/cache_eviction_options.h"
 
 #include "base/notreached.h"

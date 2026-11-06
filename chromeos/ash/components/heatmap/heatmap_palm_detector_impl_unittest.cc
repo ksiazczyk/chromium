@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heatmap palm detector unit tests
+// summary: Tests palm detection and timestamp matching of touch records using a fake machine learning service connection.
+// ---
+
 #include "chromeos/ash/components/heatmap/heatmap_palm_detector_impl.h"
 
 #include <memory>

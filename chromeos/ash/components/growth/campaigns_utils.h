@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns utility functions header
+// summary: Declares utility functions for growth campaign event name prefixes, app group id lookup by app id or URL, and feature engagement query condition building.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_UTILS_H_
 

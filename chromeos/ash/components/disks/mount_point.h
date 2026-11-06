@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mount point header
+// summary: Declares MountPoint, a thin wrapper that owns a mount point created through DiskMountManager and unmounts it when destroyed.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DISKS_MOUNT_POINT_H_
 #define CHROMEOS_ASH_COMPONENTS_DISKS_MOUNT_POINT_H_
 

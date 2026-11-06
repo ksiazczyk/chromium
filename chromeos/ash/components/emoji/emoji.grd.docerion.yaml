@@ -1,0 +1,4 @@
+# Docerion header of emoji.grd.
+type: config
+title: Grit resource definitions for emoji picker data
+summary: Grit resource file that packages per-language emoji keyword JSON resources, including internal Google-branded keyword sets, for the emoji picker.

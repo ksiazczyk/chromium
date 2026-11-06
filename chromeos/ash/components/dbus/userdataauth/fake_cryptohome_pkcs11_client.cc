@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptohomePkcs11Client implementation
+// summary: Implements the fake CryptohomePkcs11Client, returning stub TPM token readiness and info and simulating service availability for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/fake_cryptohome_pkcs11_client.h"
 
 #include "base/location.h"

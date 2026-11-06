@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake DriveFs implementation for tests
+// summary: Implements an in-process fake of the DriveFs Mojo interfaces, covering metadata, mounting, and search queries, for use in Chromium tests.
+// ---
+
 #include "chromeos/ash/components/drivefs/fake_drivefs.h"
 
 #include <algorithm>

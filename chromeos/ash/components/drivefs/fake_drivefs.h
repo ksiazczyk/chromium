@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake DriveFs class declarations
+// summary: Declares FakeDriveFs, FakeMetadata, and a bootstrap listener that emulate the DriveFs service in tests, with gmock stubs for DriveFs operations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DRIVEFS_FAKE_DRIVEFS_H_
 #define CHROMEOS_ASH_COMPONENTS_DRIVEFS_FAKE_DRIVEFS_H_
 

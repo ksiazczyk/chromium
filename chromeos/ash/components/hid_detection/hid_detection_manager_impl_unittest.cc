@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID detection manager unit tests
+// summary: Unit tests for HidDetectionManagerImpl covering HID detection requirements, device connection and Bluetooth pairing behavior.
+// ---
+
 #include "chromeos/ash/components/hid_detection/hid_detection_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

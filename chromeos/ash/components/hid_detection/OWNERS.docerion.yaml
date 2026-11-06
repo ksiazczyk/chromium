@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the HID detection directory
+summary: Lists chadduffin@chromium.org and khorimoto@chromium.org as the owners for review approval in this directory.

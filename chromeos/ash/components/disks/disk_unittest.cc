@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disk unit tests
+// summary: Unit tests for the Disk class verifying construction from D-Bus DiskInfo dictionaries and mount path handling.
+// ---
+
 #include "chromeos/ash/components/disks/disk.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake HID detection manager implementation
+// summary: Implements the fake HID detection manager, simulating status updates, pairing state and detection lifecycle for tests.
+// ---
+
 #include "chromeos/ash/components/hid_detection/fake_hid_detection_manager.h"
 
 namespace ash::hid_detection {

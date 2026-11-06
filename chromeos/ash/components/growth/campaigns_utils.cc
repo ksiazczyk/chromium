@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns utility functions implementation
+// summary: Implements growth campaign helpers such as event name construction, app group id mapping for Google apps and domains, and histogram campaign id rounding.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_utils.h"
 
 #include <algorithm>

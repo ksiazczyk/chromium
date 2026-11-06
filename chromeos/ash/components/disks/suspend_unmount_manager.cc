@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspend unmount manager implementation
+// summary: Implements SuspendUnmountManager, which unmounts USB and SD devices before system suspend, blocks suspend until unmounts finish, and refreshes mounts after wake.
+// ---
+
 #include "chromeos/ash/components/disks/suspend_unmount_manager.h"
 
 #include "base/functional/bind.h"

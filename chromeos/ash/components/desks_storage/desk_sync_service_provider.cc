@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskSyncServiceProvider implementation
+// summary: Implements the DeskSyncServiceProvider singleton, registering and clearing the global instance with CHECK-based lifecycle assertions and exposing Get().
+// ---
+
 #include "chromeos/ash/components/desks_storage/desk_sync_service_provider.h"
 
 #include "base/check.h"

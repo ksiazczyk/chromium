@@ -1,3 +1,9 @@
+---
+type: readme
+title: Early prefs mechanism overview
+summary: Explains the early prefs mechanism that exports profile preferences for reading early in the ChromeOS login flow and documents the version 1 schema.
+---
+
 "Early prefs" is the mechanism to export some of the Profile preferences
 in a way that they can be read early in the ChromeOS Login flow, before
 Profile loading starts.

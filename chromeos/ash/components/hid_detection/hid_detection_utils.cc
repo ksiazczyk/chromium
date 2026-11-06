@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection utilities
+// summary: Classifies input devices as pointers, keyboards or touchscreens and records UMA metrics for HID detection and Bluetooth pairing.
+// ---
+
 #include "chromeos/ash/components/hid_detection/hid_detection_utils.h"
 
 #include <optional>

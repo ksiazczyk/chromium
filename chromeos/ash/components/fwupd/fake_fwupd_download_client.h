@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake fwupd download client header
+// summary: Declares FakeFwupdDownloadClient, a test double of the fwupd download client that exposes a test URL loader factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_FWUPD_FAKE_FWUPD_DOWNLOAD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_FWUPD_FAKE_FWUPD_DOWNLOAD_CLIENT_H_
 

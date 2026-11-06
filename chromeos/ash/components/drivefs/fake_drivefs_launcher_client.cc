@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake DriveFs launcher client implementation
+// summary: Connects to a fake DriveFs launcher over a socket and hooks into cros_disks mount handling so DriveFs mounts work in off-device test environments.
+// ---
+
 #include "chromeos/ash/components/drivefs/fake_drivefs_launcher_client.h"
 
 #include <string_view>

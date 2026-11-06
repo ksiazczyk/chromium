@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager implementation
+// summary: Implements the CampaignsManager that loads, parses and installs growth campaigns from disk and serves campaigns and actions for slots.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspend unmount manager unit tests
+// summary: Unit tests for SuspendUnmountManager verifying that USB and SD drives are unmounted before suspend while devices of other types are left mounted.
+// ---
+
 #include "chromeos/ash/components/disks/suspend_unmount_manager.h"
 
 #include <algorithm>

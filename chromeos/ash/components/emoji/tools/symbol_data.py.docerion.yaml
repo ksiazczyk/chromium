@@ -1,0 +1,4 @@
+# Docerion header of symbol_data.py.
+type: script
+title: Symbol data generation script
+summary: Generates symbol group data for the emoji picker from Unicode block ranges, skipping unrenderable symbols and adding custom search keywords.

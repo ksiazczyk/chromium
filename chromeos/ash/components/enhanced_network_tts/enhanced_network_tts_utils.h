@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced network TTS utility function declarations
+// summary: Declares helpers for the ChromeOS enhanced network TTS component that format JSON requests, find text breaks, unpack server audio responses, and build error results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_ENHANCED_NETWORK_TTS_ENHANCED_NETWORK_TTS_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_ENHANCED_NETWORK_TTS_ENHANCED_NETWORK_TTS_UTILS_H_
 

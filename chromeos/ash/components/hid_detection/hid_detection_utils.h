@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection utilities header
+// summary: Declares UMA enums and helper functions for classifying HIDs and recording detection and pairing metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_HID_DETECTION_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_HID_DETECTION_UTILS_H_
 

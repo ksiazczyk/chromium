@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usbguard observer interface
+// summary: Declares UsbguardObserver with the Target enum and the DevicePolicyChanged callback, documenting usbguard signal parameters and attributes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_USB_USBGUARD_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_USB_USBGUARD_OBSERVER_H_
 

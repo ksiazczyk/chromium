@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Heatmap palm detector implementation
+// summary: Implements the heatmap palm detector client that loads palm rejection models via the ML service, handles connection errors and reports palm results to ozone.
+// ---
+
 #include "chromeos/ash/components/heatmap/heatmap_palm_detector_impl.h"
 
 #include "base/strings/strcat.h"

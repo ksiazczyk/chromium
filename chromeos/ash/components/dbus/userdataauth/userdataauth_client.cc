@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDataAuthClient implementation
+// summary: Implements the real UserDataAuthClient that talks to cryptohomed's UserDataAuth D-Bus interface, including proto parsing and signal handling.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/userdataauth_client.h"
 
 #include <google/protobuf/message_lite.h>

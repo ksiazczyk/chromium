@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection manager base implementation
+// summary: Implements the HidDetectionManager base class lifecycle, delegate handling and status change notification logic.
+// ---
+
 #include "chromeos/ash/components/hid_detection/hid_detection_manager.h"
 
 #include "ash/constants/ash_features.h"

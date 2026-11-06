@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for geolocation
+summary: Specifies the allowed include dependencies for the geolocation directory, with extra rules for test files and test utilities.

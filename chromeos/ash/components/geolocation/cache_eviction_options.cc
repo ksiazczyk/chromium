@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache eviction strategy implementations
+// summary: Implements cache eviction strategies that compare WiFi access point and cell tower scans to detect significant device displacement.
+// ---
+
 #include "chromeos/ash/components/geolocation/cache_eviction_options.h"
 
 #include "base/notreached.h"

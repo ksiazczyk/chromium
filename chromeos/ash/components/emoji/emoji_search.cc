@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji search implementation
+// summary: Implements emoji search by loading per-language keyword resources and ranking emoji, symbol, and emoticon matches by language and relevance cost.
+// ---
+
 #include "chromeos/ash/components/emoji/emoji_search.h"
 
 #include <algorithm>

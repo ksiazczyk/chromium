@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GIF Tenor API fetcher implementation
+// summary: Implements fetching of categories, featured, search and posts GIF endpoints from the Tenor API for the ChromeOS emoji picker.
+// ---
+
 #include "chromeos/ash/components/emoji/gif_tenor_api_fetcher.h"
 
 #include <memory>

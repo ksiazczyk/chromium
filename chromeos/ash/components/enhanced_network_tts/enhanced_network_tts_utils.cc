@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request formatting and text break utilities (enhanced_network_tts_utils.cc)
+// summary: Implements utilities that format TTS requests as JSON for the ReadAloud API and compute text breaks for splitting utterances.
+// ---
+
 #include "chromeos/ash/components/enhanced_network_tts/enhanced_network_tts_utils.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Growth component metadata
+summary: Declares the owning team email and Buganizer component for the growth directory.

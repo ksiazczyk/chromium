@@ -1,0 +1,4 @@
+# Docerion header of fake_drivefs_launcher.mojom.
+type: source
+title: FakeDriveFsLauncher Mojo interface
+summary: Defines the Mojo interface for launching a fake DriveFS instance with a data directory, mount path and Mojo socket handle.

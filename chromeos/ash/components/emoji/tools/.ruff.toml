@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for emoji tools
+# summary: Extends the repository-wide Ruff lint configuration and sets the indentation width for the emoji tools directory.
+# ---
+
 extend = "../../../../.ruff.toml"
 indent-width = 4

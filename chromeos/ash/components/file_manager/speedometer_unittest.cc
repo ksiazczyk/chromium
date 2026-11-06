@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speedometer unit tests
+// summary: Unit tests for Speedometer covering remaining-time estimation, sample buffering limits, and dropping of too-frequent samples.
+// ---
+
 #include "chromeos/ash/components/file_manager/speedometer.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureUsageMetrics unit tests
+// summary: Unit tests verifying usage recording, usage time tracking and periodic metric reporting using mock time and histogram testers.
+// ---
+
 #include "chromeos/ash/components/feature_usage/feature_usage_metrics.h"
 
 #include <optional>

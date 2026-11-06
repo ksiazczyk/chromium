@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DriveFS mojom GN build definitions
+summary: Defines the mojom_component build targets for the DriveFS Mojo interfaces, including sources, dependencies and C++ typemaps.

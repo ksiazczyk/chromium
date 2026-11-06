@@ -1,0 +1,4 @@
+# Docerion header of tenor_types.mojom.
+type: source
+title: Tenor API response Mojom types
+summary: Defines Mojom structs and enums modeling Tenor search and featured API responses, including GIF URLs, dimensions and pagination.

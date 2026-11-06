@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns matcher interface
+// summary: Declares the CampaignsMatcher class that filters campaigns by prematch criteria and matches runtime targeting to select a campaign for a slot.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_MATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_MATCHER_H_
 

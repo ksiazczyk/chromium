@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceProvider interface
+// summary: Declares an abstract singleton that lets ChromeOS callers obtain the history::HistoryService for a user account without depending on Chrome's profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HISTORY_HISTORY_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_HISTORY_HISTORY_SERVICE_PROVIDER_H_
 

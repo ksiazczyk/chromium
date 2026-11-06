@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake disk mount manager header
+// summary: Declares FakeDiskMountManager, a fake DiskMountManager for tests that tracks mount, unmount and remount requests and supports injecting disks and mount points.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DISKS_FAKE_DISK_MOUNT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_DISKS_FAKE_DISK_MOUNT_MANAGER_H_
 

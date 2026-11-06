@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the fwupd component
+summary: Defines the fwupd component, unit test, and test support targets with their sources and dependencies for the ChromeOS Ash firmware update code.

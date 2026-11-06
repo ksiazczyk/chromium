@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early prefs reader implementation
+// summary: Implements asynchronous reading and validation of the early prefs JSON file, exposing managed, recommended and value lookups per pref.
+// ---
+
 #include "chromeos/ash/components/early_prefs/early_prefs_reader.h"
 
 #include <memory>

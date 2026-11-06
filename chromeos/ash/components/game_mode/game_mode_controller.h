@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GameModeController class header
+// summary: Declares GameModeController with its WindowTracker and GameModeEnabler criteria chain for fullscreen Borealis windows, plus histogram names.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GAME_MODE_GAME_MODE_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_GAME_MODE_GAME_MODE_CONTROLLER_H_
 

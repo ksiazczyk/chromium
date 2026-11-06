@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFileProviderClient interface declaration
+// summary: Declares the VirtualFileProviderClient interface for communicating with the VirtualFileProvider service, including callbacks and instance initialization methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_VIRTUAL_FILE_PROVIDER_VIRTUAL_FILE_PROVIDER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_VIRTUAL_FILE_PROVIDER_VIRTUAL_FILE_PROVIDER_CLIENT_H_
 

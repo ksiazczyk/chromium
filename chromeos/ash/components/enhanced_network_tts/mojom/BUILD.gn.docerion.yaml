@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enhanced network TTS mojom
+summary: GN build file that compiles enhanced_network_tts.mojom into a Mojo bindings target for ChromeOS.

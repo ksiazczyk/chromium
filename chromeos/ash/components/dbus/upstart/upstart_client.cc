@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upstart DBus client implementation
+// summary: Implements UpstartClient by issuing D-Bus method calls to the com.ubuntu.Upstart service to start, stop and restart jobs such as media analytics.
+// ---
+
 #include "chromeos/ash/components/dbus/upstart/upstart_client.h"
 
 #include <utility>

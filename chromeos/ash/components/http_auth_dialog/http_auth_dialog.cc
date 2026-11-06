@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth dialog implementation
+// summary: Implements the ash-chrome HTTP authentication dialog, including scoped enablement, observer notifications, dialog strings, and the credentials dialog view.
+// ---
+
 #include "chromeos/ash/components/http_auth_dialog/http_auth_dialog.h"
 
 #include <vector>

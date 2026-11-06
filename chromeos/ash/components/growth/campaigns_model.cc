@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns model implementation
+// summary: Implements helpers for reading campaign fields, targetings and payloads from campaign dictionaries, including icon, image and payload accessors.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced network TTS engine implementation (enhanced_network_tts_impl.cc)
+// summary: Implements the enhanced network TTS mojom receiver, sending text pieces to the ReadAloud server and returning audio data and errors to the extension.
+// ---
+
 #include "chromeos/ash/components/enhanced_network_tts/enhanced_network_tts_impl.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake VirtualFileProviderClient class declaration
+// summary: Declares the fake VirtualFileProviderClient with setters for expected size, result ID and result file descriptor for use in tests and Linux desktop builds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_VIRTUAL_FILE_PROVIDER_FAKE_VIRTUAL_FILE_PROVIDER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_VIRTUAL_FILE_PROVIDER_FAKE_VIRTUAL_FILE_PROVIDER_CLIENT_H_
 

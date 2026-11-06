@@ -1,0 +1,4 @@
+# Docerion header of emoji_search.mojom.
+type: source
+title: Emoji search Mojo interface
+summary: Defines the Mojo interface for searching emoji metadata by query and loading emoji languages, returning emoji, symbol, and emoticon results.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS bootstrap connection implementation
+// summary: Implements the bootstrap listener and DriveFsConnection that establish and hold the Mojo IPC channel between Chrome and the DriveFS daemon.
+// ---
+
 #include "chromeos/ash/components/drivefs/drivefs_bootstrap.h"
 
 #include <utility>

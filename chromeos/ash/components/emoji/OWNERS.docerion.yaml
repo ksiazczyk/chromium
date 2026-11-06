@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the emoji component
+summary: Lists code owners for the emoji component and routes Mojom file reviews to the IPC security owners.

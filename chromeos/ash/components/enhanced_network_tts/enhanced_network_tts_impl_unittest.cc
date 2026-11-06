@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enhanced network TTS implementation
+// summary: Unit tests for EnhancedNetworkTtsImpl using a fake URL loader factory to verify requests, responses, and error handling.
+// ---
+
 #include "chromeos/ash/components/enhanced_network_tts/enhanced_network_tts_impl.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enhanced network TTS
+summary: Restricts includes in this directory to allowed Google utility, API key, and accessibility headers.

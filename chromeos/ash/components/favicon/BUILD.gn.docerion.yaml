@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Favicon service provider build targets
+summary: GN build file defining the favicon_service_provider component and a test_support source set with the fake provider.

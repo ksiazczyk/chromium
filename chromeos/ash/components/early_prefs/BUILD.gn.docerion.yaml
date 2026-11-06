@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Early prefs GN build targets
+summary: Defines GN source sets for the early prefs component, grouping constants, reader and writer sources for ChromeOS-only builds.

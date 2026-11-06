@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Growth metrics declarations and error enum
+// summary: Declares metrics recording functions and the CampaignsManagerError enum covering errors in the campaigns loading and matching flow.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GROWTH_GROWTH_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_GROWTH_GROWTH_METRICS_H_
 

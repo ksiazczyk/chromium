@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: file_manager BUILD.gn build definition
+summary: Defines GN build targets for the file_manager component, including the component library, a constants static library, and unit tests.

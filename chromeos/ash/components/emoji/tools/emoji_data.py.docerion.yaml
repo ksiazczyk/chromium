@@ -1,0 +1,4 @@
+# Docerion header of emoji_data.py.
+type: script
+title: Emoji data generation script
+summary: Parses CLDR emoji annotations and metadata to produce emoji picker data with names, keywords, and skin tone and gender variants.

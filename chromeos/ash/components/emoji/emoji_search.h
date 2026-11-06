@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emoji search header
+// summary: Declares the EmojiSearch class and result types for searching emojis, symbols, and emoticons across multiple supported languages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_EMOJI_EMOJI_SEARCH_H_
 #define CHROMEOS_ASH_COMPONENTS_EMOJI_EMOJI_SEARCH_H_
 

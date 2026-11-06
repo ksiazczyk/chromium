@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeMiscClient D-Bus client implementation
+// summary: Implements CryptohomeMiscClient, the D-Bus client for cryptohomed's CryptohomeMisc interface with methods such as GetSystemSalt and GetLoginStatus.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/cryptohome_misc_client.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the userdataauth directory
+summary: Grants include access to protobuf headers and cryptohome constants and error utilities for code in this directory.

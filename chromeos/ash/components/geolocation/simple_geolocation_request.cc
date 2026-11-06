@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleGeolocationRequest implementation
+// summary: Sends geolocation requests to a server, building request bodies from WiFi and cell tower data, parsing responses, retrying on errors and recording UMA metrics.
+// ---
+
 #include "chromeos/ash/components/geolocation/simple_geolocation_request.h"
 
 #include <stddef.h>

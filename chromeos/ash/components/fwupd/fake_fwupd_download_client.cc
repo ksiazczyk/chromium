@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake fwupd download client implementation
+// summary: Implements a fake FwupdDownloadClient backed by a test URL loader factory for use in firmware update tests.
+// ---
+
 #include "chromeos/ash/components/fwupd/fake_fwupd_download_client.h"
 
 #include <memory>

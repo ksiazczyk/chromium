@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake BluetoothHidDetector for tests
+// summary: Provides a fake BluetoothHidDetector that simulates pairing start, pairing state changes and session end for test environments.
+// ---
+
 #include "chromeos/ash/components/hid_detection/fake_bluetooth_hid_detector.h"
 
 namespace ash::hid_detection {

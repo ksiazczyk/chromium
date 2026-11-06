@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation test utilities implementation
+// summary: Implements shared test helpers including a geolocation API URL loader interceptor, a response receiver and a fake network delegate.
+// ---
+
 #include "chromeos/ash/components/geolocation/test_utils.h"
 
 #include "base/json/json_writer.h"

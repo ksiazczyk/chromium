@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cached location provider
+// summary: Unit tests covering cache validity, rate limiting, eviction strategies, and histogram reporting of the cached location provider.
+// ---
+
 #include "chromeos/ash/components/geolocation/cached_location_provider.h"
 
 #include "base/containers/fixed_flat_map.h"

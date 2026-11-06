@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns manager client interface
+// summary: Defines the CampaignsManagerClient interface supplying component loading, device and user state, and feature engagement services to the campaigns manager.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_MANAGER_CLIENT_H_
 

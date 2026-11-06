@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for input_method
+summary: Lists default review addresses and last-resort owner accounts so incoming changes are load-balanced across reviewers.

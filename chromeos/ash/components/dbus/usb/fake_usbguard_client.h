@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Usbguard client header
+// summary: Declares FakeUsbguardClient, a UsbguardClient subclass with a SendDevicePolicyChanged method to simulate usbguard signals in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_USB_FAKE_USBGUARD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_USB_FAKE_USBGUARD_CLIENT_H_
 

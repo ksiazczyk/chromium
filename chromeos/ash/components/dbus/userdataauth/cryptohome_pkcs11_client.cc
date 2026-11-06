@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomePkcs11Client D-Bus client implementation
+// summary: Implements CryptohomePkcs11Client, the D-Bus client for cryptohomed's CryptohomePkcs11 interface covering PKCS#11 token readiness and info.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/cryptohome_pkcs11_client.h"
 
 #include <utility>

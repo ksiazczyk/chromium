@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLocationProvider header
+// summary: Declares the singleton entry point that ChromeOS system services must use to obtain geolocation and query or observe location permission status.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GEOLOCATION_SYSTEM_LOCATION_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_GEOLOCATION_SYSTEM_LOCATION_PROVIDER_H_
 

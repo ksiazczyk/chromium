@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with Buganizer component and team email
+summary: Maps the directory to Buganizer component 1131776 and the cros-device-enablement team mailing list.

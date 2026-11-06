@@ -1,3 +1,13 @@
+---
+type: readme
+title: Feature usage metrics
+summary: Explains the Feature Usage Metrics component and how to integrate new features by appending histogram variants, implementing a delegate, and recording usage and usage time.
+relations:
+  - documents /chromeos/ash/components/feature_usage/feature_usage_metrics.cc
+  - documents /chromeos/ash/components/feature_usage/feature_usage_metrics.h
+  - references /tools/metrics/histograms/metadata/chromeos/histograms.xml
+---
+
 # Feature usage metrics
 
 The Feature Usage Metrics component provides a unified approach to report

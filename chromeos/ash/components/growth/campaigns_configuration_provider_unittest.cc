@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the campaigns configuration provider
+// summary: Tests event prefix handling and feature configuration parsing for valid and invalid growth framework features.
+// ---
+
 #include "chromeos/ash/components/growth/campaigns_configuration_provider.h"
 
 #include "base/feature_list.h"

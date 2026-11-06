@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the http_auth_dialog component
+summary: Defines the ChromeOS Ash http_auth_dialog component build target, listing its sources and base, content, views, and other dependencies.

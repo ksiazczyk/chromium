@@ -1,0 +1,4 @@
+# Docerion header of emoji_test_ordering.json.
+type: test
+title: Emoji test ordering data
+summary: JSON fixture listing emoji codepoints grouped with alternates and emoticons, used as test ordering data for the emoji picker.

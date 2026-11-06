@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Campaigns configuration provider declaration
+// summary: Declares CampaignsConfigurationProvider, which supplies feature engagement configuration and event prefixes for growth campaigns.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_CONFIGURATION_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_GROWTH_CAMPAIGNS_CONFIGURATION_PROVIDER_H_
 

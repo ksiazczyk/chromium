@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for enhanced network TTS (enhanced_network_tts_test_utils.cc)
+// summary: Implements helpers that build expected ReadAloud requests, encode fake server responses, and compare request JSON with tolerant speech rate checks.
+// ---
+
 #include "chromeos/ash/components/enhanced_network_tts/enhanced_network_tts_test_utils.h"
 
 #include <memory>

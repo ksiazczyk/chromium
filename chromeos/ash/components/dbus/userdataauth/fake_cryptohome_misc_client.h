@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CryptohomeMiscClient
+// summary: Header declaring the fake CryptohomeMiscClient D-Bus client for tests, with configurable system salt, RSU ID, error codes and service availability.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_USERDATAAUTH_FAKE_CRYPTOHOME_MISC_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_USERDATAAUTH_FAKE_CRYPTOHOME_MISC_CLIENT_H_
 

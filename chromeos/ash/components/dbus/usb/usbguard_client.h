@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usbguard D-Bus client interface
+// summary: Declares the abstract UsbguardClient with Initialize, InitializeFake, Shutdown, Get, and observer management methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_USB_USBGUARD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_USB_USBGUARD_CLIENT_H_
 

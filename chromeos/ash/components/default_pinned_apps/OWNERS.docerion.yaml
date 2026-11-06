@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the default_pinned_apps component
+summary: Lists alancutter@chromium.org as the owner responsible for reviewing changes in this directory.

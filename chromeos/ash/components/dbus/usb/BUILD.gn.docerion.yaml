@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the usb D-Bus client component
+summary: Defines the usb GN component target, asserting ChromeOS builds and listing the usbguard client and fake client sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upstart DBus client interface
+// summary: Declares the UpstartClient interface for communicating with the com.ubuntu.Upstart service, covering job start, stop and media analytics methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_UPSTART_UPSTART_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_UPSTART_UPSTART_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement tracker provider interface
+// summary: Declares an abstract singleton provider that gives ChromeOS callers access to a per-account feature_engagement::Tracker without depending on the Chrome profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_FEATURE_ENGAGEMENT_FEATURE_ENGAGEMENT_TRACKER_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_FEATURE_ENGAGEMENT_FEATURE_ENGAGEMENT_TRACKER_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLocationProvider implementation
+// summary: Implements the singleton central authority for system geolocation, managing access levels, observers, client requests and related UMA reporting.
+// ---
+
 #include "chromeos/ash/components/geolocation/system_location_provider.h"
 
 #include <algorithm>

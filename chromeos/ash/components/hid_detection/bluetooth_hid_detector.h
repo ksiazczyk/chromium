@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothHidDetector interface and data types
+// summary: Declares the Bluetooth HID detector interface with pairing state, device metadata, detection status structs and a delegate for status changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_HID_DETECTION_BLUETOOTH_HID_DETECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_HID_DETECTION_BLUETOOTH_HID_DETECTOR_H_
 

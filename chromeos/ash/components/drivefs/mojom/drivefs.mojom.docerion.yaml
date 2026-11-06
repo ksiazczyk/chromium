@@ -1,0 +1,4 @@
+# Docerion header of drivefs.mojom.
+type: source
+title: DriveFS Mojo interface definitions
+summary: Defines the Mojo interfaces and structs Chrome uses to talk to the DriveFS daemon, covering bootstrap, file operations, search, changelogs and developer-mode controls.

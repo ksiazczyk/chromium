@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo session utilities implementation
+// summary: Implements Demo Mode session helpers including demo mode detection, local state pref registration, demo account sign-in enablement, power idle policy, and logout scheduling flags.
+// ---
+
 #include "chromeos/ash/components/demo_mode/utils/demo_session_utils.h"
 
 #include "ash/constants/ash_features.h"

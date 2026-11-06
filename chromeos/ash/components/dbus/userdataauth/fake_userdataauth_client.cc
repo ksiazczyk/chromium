@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake UserDataAuthClient implementation
+// summary: Implements the in-memory fake UserDataAuthClient that simulates cryptohome vaults, auth factors and related D-Bus methods for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/userdataauth/fake_userdataauth_client.h"
 
 #include <algorithm>

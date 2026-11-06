@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GameModeController implementation
+// summary: Implements GameModeController, which watches window focus and enables game mode via resourced when a fullscreen Borealis game window is focused.
+// ---
+
 #include "chromeos/ash/components/game_mode/game_mode_controller.h"
 
 #include "ash/public/cpp/window_properties.h"

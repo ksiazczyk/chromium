@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the growth component
+summary: Defines GN build targets, sources and dependencies for the growth component, its utils, config provider, test support and unit tests.
