@@ -1,0 +1,4 @@
+# Docerion header of coverage_utils.mm.
+type: source
+title: CoverageUtils implementation for Clang coverage profiles
+summary: Objective-C++ implementation of CoverageUtils that configures the coverage report path and resets or writes Clang coverage profiles during iOS tests.

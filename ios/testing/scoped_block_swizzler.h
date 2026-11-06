@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: ScopedBlockSwizzler header
+// summary: Declares ScopedBlockSwizzler, a helper that replaces an Objective-C method implementation with a block and restores the original when it goes out of scope.
+// ---
+
 #ifndef IOS_TESTING_SCOPED_BLOCK_SWIZZLER_H_
 #define IOS_TESTING_SCOPED_BLOCK_SWIZZLER_H_
 

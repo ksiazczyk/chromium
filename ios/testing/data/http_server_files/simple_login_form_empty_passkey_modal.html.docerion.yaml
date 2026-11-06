@@ -1,0 +1,4 @@
+# Docerion header of simple_login_form_empty_passkey_modal.html.
+type: test
+title: Login form with modal passkey mediation test page
+summary: Test page whose button triggers a WebAuthn passkey request with required mediation for iOS testing.

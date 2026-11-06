@@ -1,0 +1,4 @@
+# Docerion header of cookie_notification_observer.mm.
+type: source
+title: Cookie notification observer implementation
+summary: Implements the CookieNotificationObserver destructor, which checks the observer is removed from observer lists.

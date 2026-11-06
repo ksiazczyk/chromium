@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieStoreIOSClient embedder interface
+// summary: Declares the client interface that embedders of the net layer implement to supply a sequenced task runner used for blocking cookie store I/O on iOS.
+// ---
+
 #ifndef IOS_NET_COOKIES_COOKIE_STORE_IOS_CLIENT_H_
 #define IOS_NET_COOKIES_COOKIE_STORE_IOS_CLIENT_H_
 

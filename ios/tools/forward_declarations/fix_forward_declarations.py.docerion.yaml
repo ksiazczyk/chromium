@@ -1,0 +1,4 @@
+# Docerion header of fix_forward_declarations.py.
+type: script
+title: Forward Declarations Fixer CLI
+summary: Automatically patches headers by replacing imports with forward declarations and shifting the original imports into implementation and unit test files.

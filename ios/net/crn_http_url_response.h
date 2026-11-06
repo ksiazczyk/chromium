@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRNHTTPURLResponse interface
+// summary: Declares a custom NSHTTPURLResponse subclass that exposes the HTTP version string it was initialized with.
+// ---
+
 #ifndef IOS_NET_CRN_HTTP_URL_RESPONSE_H_
 #define IOS_NET_CRN_HTTP_URL_RESPONSE_H_
 

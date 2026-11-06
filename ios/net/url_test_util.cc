@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL test helper for content and fragment
+// summary: Implements GetContentAndFragmentForUrl, returning a GURL's content and fragment concatenated for test comparisons.
+// ---
+
 #include "ios/net/url_test_util.h"
 
 #include "base/strings/strcat.h"

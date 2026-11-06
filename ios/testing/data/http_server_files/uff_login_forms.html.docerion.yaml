@@ -1,0 +1,4 @@
+# Docerion header of uff_login_forms.html.
+type: test
+title: UFF login forms test page
+summary: HTML test page with separate single-username and single-password sign-in forms used to exercise login and autofill flows.

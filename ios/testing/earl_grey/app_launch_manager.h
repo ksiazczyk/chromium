@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLaunchManager interface for Earl Grey 2 tests
+// summary: Declares the singleton AppLaunchManager that launches, relaunches, and backgrounds the app under test with a given configuration and notifies observers.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_APP_LAUNCH_MANAGER_H_
 #define IOS_TESTING_EARL_GREY_APP_LAUNCH_MANAGER_H_
 

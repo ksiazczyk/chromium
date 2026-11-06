@@ -1,0 +1,4 @@
+# Docerion header of url_scheme_util.mm.
+type: source
+title: URL scheme utility implementation
+summary: Implements case-insensitive NSURL scheme comparison and data scheme detection aligned with GURL behavior.

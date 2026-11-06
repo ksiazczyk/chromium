@@ -1,0 +1,4 @@
+# Docerion header of vcard.vcf.
+type: data
+title: vCard contact fixture
+summary: vCard 3.0 contact entry for Mark Chang used as test data for contact-related features.

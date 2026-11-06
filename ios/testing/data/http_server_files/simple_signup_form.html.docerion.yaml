@@ -1,0 +1,4 @@
+# Docerion header of simple_signup_form.html.
+type: test
+title: Simple signup form test page
+summary: Test page with a signup form using new-password autocomplete, used for iOS password saving tests.

@@ -1,0 +1,4 @@
+# Docerion header of link.html.
+type: test
+title: Single link test page
+summary: Test page containing one precisely positioned link to pony.html for tap tests.

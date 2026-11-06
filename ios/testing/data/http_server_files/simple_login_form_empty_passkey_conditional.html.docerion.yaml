@@ -1,0 +1,4 @@
+# Docerion header of simple_login_form_empty_passkey_conditional.html.
+type: test
+title: Login form with conditional passkey mediation test page
+summary: Test login form that requests passkey credentials via WebAuthn conditional mediation for iOS testing.

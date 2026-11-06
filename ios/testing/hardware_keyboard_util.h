@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware keyboard event simulation header
+// summary: Declares SimulatePhysicalKeyboardEvent, a test helper that simulates physical keyboard events with modifier flags and key input for testing iOS keyboard shortcuts.
+// ---
+
 #ifndef IOS_TESTING_HARDWARE_KEYBOARD_UTIL_H_
 #define IOS_TESTING_HARDWARE_KEYBOARD_UTIL_H_
 

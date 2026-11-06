@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ios/net
+summary: Defines the ios_net_buildflags, the net source set, test support, and the ios_net_unittests target for the iOS net layer.

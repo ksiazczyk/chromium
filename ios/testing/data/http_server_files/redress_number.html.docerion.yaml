@@ -1,0 +1,4 @@
+# Docerion header of redress_number.html.
+type: test
+title: Redress number form test page
+summary: Test page with a redress number form and a button that fills its fields via JavaScript for autofill tests.

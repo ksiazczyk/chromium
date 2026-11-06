@@ -1,0 +1,4 @@
+# Docerion header of core_header_mapping.json.
+type: config
+title: Core Header Mapping Configuration
+summary: Maps common base, system, and iOS Chrome types to their defining headers so the forward declaration tools avoid removing essential imports.

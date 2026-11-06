@@ -1,0 +1,4 @@
+# Docerion header of url_scheme_util_unittest.mm.
+type: test
+title: URL scheme utility unit tests
+summary: Verifies that UrlHasDataScheme matches GURL data scheme detection across sample http, https, data, about and chrome URLs.

@@ -1,0 +1,4 @@
+# Docerion header of shared_test_utils_unittest.py.
+type: test
+title: Unit tests for shared_test_utils
+summary: Unit tests for the iOS test runner helpers in shared_test_utils.py, mocking simulator commands and verifying workspace, simulator, and console streaming behavior.

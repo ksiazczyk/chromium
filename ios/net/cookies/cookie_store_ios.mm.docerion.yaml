@@ -1,0 +1,4 @@
+# Docerion header of cookie_store_ios.mm.
+type: source
+title: CookieStoreIOS implementation
+summary: Implements the iOS cookie store, wrapping the system cookie storage with change notification dispatch through a notification trampoline and cookie filtering helpers.

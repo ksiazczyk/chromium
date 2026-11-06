@@ -1,0 +1,4 @@
+# Docerion header of email_signup_form.html.
+type: test
+title: Email signup form test page
+summary: Test page with a signup form whose username is an email field, mimicking two-step registration forms for autofill testing.

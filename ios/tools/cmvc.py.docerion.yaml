@@ -1,0 +1,4 @@
+# Docerion header of cmvc.py.
+type: script
+title: Coordinator and MVC skeleton generator
+summary: Generates skeleton headers, implementations and BUILD.gn entries for iOS coordinator, mediator, view controller and consumer components.

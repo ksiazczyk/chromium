@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestExpectations header
+// summary: Declares classes for managing expected XCTest outcomes such as pass, fail, skip, and crash loaded from a test expectations file.
+// ---
+
 #ifndef IOS_TESTING_TEST_EXPECTATIONS_H_
 #define IOS_TESTING_TEST_EXPECTATIONS_H_
 

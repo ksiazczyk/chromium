@@ -1,0 +1,4 @@
+# Docerion header of app_launch_manager_app_interface.mm.
+type: source
+title: AppLaunchManagerAppInterface implementation
+summary: Implements the app interface that returns the current app process identifier for Earl Grey test launches.

@@ -1,0 +1,4 @@
+# Docerion header of coverage_utils_stub.mm.
+type: source
+title: CoverageUtils stub for the app process
+summary: Stub implementation of CoverageUtils registered in the app main queue via GREY_STUB_CLASS_IN_APP_MAIN_QUEUE for builds without profiling support.

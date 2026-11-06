@@ -1,0 +1,4 @@
+# Docerion header of scoped_disable_fast_animation_earl_grey.mm.
+type: source
+title: Scoped fast animation disable implementation
+summary: Implementation of ScopedDisableFastAnimationEarlGrey that disables fast animation on construction and re-enables it on destruction via the app interface.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Tag Registry Header
+// summary: Declares the TestTagRegistry singleton and the TAG_TEST and TAG_SMOKE_TEST macros for registering test tags such as smoke at startup.
+// ---
+
 #ifndef IOS_TESTING_TEST_TAG_REGISTRY_H_
 #define IOS_TESTING_TEST_TAG_REGISTRY_H_
 

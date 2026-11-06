@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: OpenSearch description for a test search engine
+summary: OpenSearch XML document describing a search engine named Chrooome, served as a fixture for search engine tests.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
     <ShortName>Chrooome</ShortName>
     <Description>Chrooome</Description>

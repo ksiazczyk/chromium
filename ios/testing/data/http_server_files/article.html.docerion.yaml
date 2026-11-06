@@ -1,0 +1,4 @@
+# Docerion header of article.html.
+type: test
+title: Article test page with links and Chromium logo
+summary: Serves a lorem ipsum article with mixed link types and an image for iOS browser navigation tests.

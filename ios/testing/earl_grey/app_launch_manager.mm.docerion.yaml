@@ -1,0 +1,4 @@
+# Docerion header of app_launch_manager.mm.
+type: source
+title: Implementation of AppLaunchManager
+summary: Implements app launch and relaunch handling, including extra arguments from the test command line, launch argument comparison, and observer notifications.

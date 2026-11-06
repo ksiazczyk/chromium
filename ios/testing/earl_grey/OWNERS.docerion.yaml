@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Earl Grey testing directory
+summary: Lists stkhapugin@chromium.org as the reviewer responsible for changes in this directory.

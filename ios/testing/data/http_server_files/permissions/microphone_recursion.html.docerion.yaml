@@ -1,0 +1,4 @@
+# Docerion header of microphone_recursion.html.
+type: test
+title: Microphone Recursion Test
+summary: Test page that repeatedly requests microphone permission in a recursive loop and reports 'Denied And Survived' once the requests are exhausted.

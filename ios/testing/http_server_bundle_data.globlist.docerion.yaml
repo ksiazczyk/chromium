@@ -1,0 +1,4 @@
+# Docerion header of http_server_bundle_data.globlist.
+type: config
+title: HTTP server bundle data glob list
+summary: Glob pattern covering data/http_server_files that update_bundle_filelist.py uses to regenerate the .filelist counterpart for the test bundle.

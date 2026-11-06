@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie cache unit tests
+// summary: Unit tests covering CookieCache updates, including added, changed and removed cookies.
+// ---
+
 #include "ios/net/cookies/cookie_cache.h"
 
 #include "net/cookies/canonical_cookie.h"

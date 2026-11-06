@@ -1,0 +1,4 @@
+# Docerion header of nserror_util.mm.
+type: source
+title: NSError test helper implementation
+summary: Creates test NSErrors via a custom subclass marked as an eDO value type so the error can be serialized and reconstructed in a remote process.

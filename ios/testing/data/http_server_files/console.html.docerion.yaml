@@ -1,0 +1,4 @@
+# Docerion header of console.html.
+type: test
+title: Console message iframe page
+summary: Buttons that send debug, error, info, log and warn messages to the console, embedded as an iframe.

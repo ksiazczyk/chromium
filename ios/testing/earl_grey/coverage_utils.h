@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoverageUtils header
+// summary: Declares utilities to configure the coverage report path, reset coverage counters, and write Clang coverage data during tests.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_COVERAGE_UTILS_H_
 #define IOS_TESTING_EARL_GREY_COVERAGE_UTILS_H_
 

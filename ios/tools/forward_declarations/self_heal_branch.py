@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Compiler-Driven Branch Self-Healing Loop
+# summary: Iteratively compiles configured targets, parses Clang diagnostics for incomplete types, resolves missing headers, and commits healing patches automatically.
+# ---
+
 """Compiler-driven automated self-healing loop for forward declarations.
 
 Compiles specified targets iteratively, parses Clang diagnostics for missing headers,

@@ -1,0 +1,4 @@
+# Docerion header of window_open.html.
+type: test
+title: Window.open variations test page
+summary: Test page with buttons and links covering many window.open scenarios such as blank targets, JavaScript hrefs and location.replace in new windows.

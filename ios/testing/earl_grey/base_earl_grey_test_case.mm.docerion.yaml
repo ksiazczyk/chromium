@@ -1,0 +1,4 @@
+# Docerion header of base_earl_grey_test_case.mm.
+type: source
+title: BaseEarlGreyTestCase implementation
+summary: Implements Earl Grey test setup and teardown, including app relaunch with profile wipe, blocked URLs, and animation configuration.

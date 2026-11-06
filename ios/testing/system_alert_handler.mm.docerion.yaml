@@ -1,0 +1,4 @@
+# Docerion header of system_alert_handler.mm.
+type: source
+title: System alert handler implementation
+summary: Dismisses known iOS system alerts such as update and permission prompts by tapping mapped buttons via XCUITest during test runs.

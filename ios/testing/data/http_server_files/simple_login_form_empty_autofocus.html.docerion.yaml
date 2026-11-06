@@ -1,0 +1,4 @@
+# Docerion header of simple_login_form_empty_autofocus.html.
+type: test
+title: Simple empty login form with autofocus test page
+summary: Test page with an empty login form that autofocuses the username field, used for iOS autofill testing.

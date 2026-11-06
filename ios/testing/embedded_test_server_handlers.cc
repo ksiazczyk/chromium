@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded test server handlers implementation
+// summary: Implements HTTP responses for forms, downloads, iframes, echo queries, and slow loads used by iOS tests.
+// ---
+
 #include "ios/testing/embedded_test_server_handlers.h"
 
 #include <utility>

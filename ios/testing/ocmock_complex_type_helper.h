@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OCMock complex type helper header
+// summary: Declares an NSProxy-based OCMock helper that registers block expectations for selectors whose scalar or complex C++ arguments OCMock cannot verify directly.
+// ---
+
 #ifndef IOS_TESTING_OCMOCK_COMPLEX_TYPE_HELPER_H_
 #define IOS_TESTING_OCMOCK_COMPLEX_TYPE_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie creation time manager class declaration
+// summary: Declares CookieCreationTimeManager, which stores and retrieves unique creation times for NSHTTPCookie objects.
+// ---
+
 #ifndef IOS_NET_COOKIES_COOKIE_CREATION_TIME_MANAGER_H_
 #define IOS_NET_COOKIES_COOKIE_CREATION_TIME_MANAGER_H_
 

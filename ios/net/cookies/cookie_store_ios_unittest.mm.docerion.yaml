@@ -1,0 +1,4 @@
+# Docerion header of cookie_store_ios_unittest.mm.
+type: test
+title: CookieStoreIOS unit tests
+summary: Runs the shared cookie store and change notification test suites against CookieStoreIOS backed by NSHTTPSystemCookieStore, plus additional store behavior tests.

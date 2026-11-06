@@ -1,0 +1,4 @@
+# Docerion header of scoped_block_swizzler.mm.
+type: source
+title: ScopedBlockSwizzler implementation
+summary: Implements scoped swizzling of class or instance methods with block implementations, reinstalling the original implementation on destruction.

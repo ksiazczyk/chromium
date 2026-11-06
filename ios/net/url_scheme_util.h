@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme utility declarations
+// summary: Declares helpers to check whether an NSURL uses a given scheme or has a data scheme.
+// ---
+
 #ifndef IOS_NET_URL_SCHEME_UTIL_H_
 #define IOS_NET_URL_SCHEME_UTIL_H_
 

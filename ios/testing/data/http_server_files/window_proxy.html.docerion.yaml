@@ -1,0 +1,4 @@
+# Docerion header of window_proxy.html.
+type: test
+title: Window proxy object test page
+summary: Test page that opens named and unnamed windows and compares window proxy identity and closed state.

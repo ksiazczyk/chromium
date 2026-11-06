@@ -1,0 +1,4 @@
+# Docerion header of ocmock_complex_type_helper.mm.
+type: source
+title: OCMock complex type helper implementation
+summary: Implements block-based expectation registration per selector and explicit forwarding of OCMockObject methods such as stub, expect, and verify.

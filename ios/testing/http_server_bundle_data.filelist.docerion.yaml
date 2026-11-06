@@ -1,0 +1,4 @@
+# Docerion header of http_server_bundle_data.filelist.
+type: config
+title: HTTP server bundle data file list
+summary: Generated list of test HTTP server data files packaged into the iOS test bundle, maintained by update_bundle_filelist.py and not meant for manual edits.

@@ -1,0 +1,4 @@
+# Docerion header of tall_page.html.
+type: test
+title: Tall page for full screen testing
+summary: Long page titled Full Screen with a numbered list, used to test scrolling and full screen behavior in iOS.

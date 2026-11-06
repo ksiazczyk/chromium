@@ -1,0 +1,4 @@
+# Docerion header of window_close.html.
+type: test
+title: Self-closing window test page
+summary: Test page that closes its window immediately or after a delay in seconds taken from the URL hash.

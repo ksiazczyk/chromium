@@ -1,0 +1,4 @@
+# Docerion header of filters.py.
+type: source
+title: Ownership analysis filters
+summary: Provides filters that skip files, directories, commits, usernames, and OWNERS lines not relevant to ownership analysis.

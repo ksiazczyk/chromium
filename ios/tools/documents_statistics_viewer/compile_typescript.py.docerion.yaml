@@ -1,0 +1,4 @@
+# Docerion header of compile_typescript.py.
+type: script
+title: compile_typescript.py
+summary: Compiles viewer.ts into the tsc/viewer.js JavaScript file used by the statistics viewer.

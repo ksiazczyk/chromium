@@ -1,0 +1,4 @@
+# Docerion header of ns_http_system_cookie_store_unittest.mm.
+type: test
+title: NSHTTPSystemCookieStore unit tests
+summary: Instantiates the shared system cookie store test suite against NSHTTPSystemCookieStore using the shared NSHTTPCookieStorage instance.

@@ -1,0 +1,4 @@
+# Docerion header of create_feature_flag.py.
+type: script
+title: Feature flag creation utility
+summary: Creates a new iOS feature flag by updating features.h, features.mm, flag descriptions, about_flags.mm and flag metadata files.

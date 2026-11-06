@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS cookie store class declaration
+// summary: Declares CookieStoreIOS, a net::CookieStore implementation backed by the system cookie store on iOS.
+// ---
+
 #ifndef IOS_NET_COOKIES_COOKIE_STORE_IOS_H_
 #define IOS_NET_COOKIES_COOKIE_STORE_IOS_H_
 

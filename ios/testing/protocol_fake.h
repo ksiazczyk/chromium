@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtocolFake header
+// summary: Declares ProtocolFake, an NSProxy-based stub that conforms to protocols and counts, logs, or alerts method calls in tests.
+// ---
+
 #ifndef IOS_TESTING_PROTOCOL_FAKE_H_
 #define IOS_TESTING_PROTOCOL_FAKE_H_
 

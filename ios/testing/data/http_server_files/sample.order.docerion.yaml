@@ -1,0 +1,4 @@
+# Docerion header of sample.order.
+type: test
+title: Sample order fixture file
+summary: Nearly empty one-byte fixture file in the iOS test HTTP server data directory.

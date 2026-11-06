@@ -1,0 +1,4 @@
+# Docerion header of passport_form.html.
+type: test
+title: Passport autofill form test page
+summary: Test form with passport autocomplete fields and a button that fills the form with sample passport data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript logic for the statistics viewer
+// summary: Implements report parsing, rendering, sorting, and directory navigation for the statistics viewer.
+// ---
+
 // Returns a display string given the date & time specified in dateString.
 // Example format: 2023-04-30T14:20:10
 function getDateTimeDisplayString(dateString: string|undefined): string {

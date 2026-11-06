@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache clearing helper
+// summary: Declares the ClearHttpCache function that clears the HTTP cache for a time range and invokes a completion callback.
+// ---
+
 #ifndef IOS_NET_HTTP_CACHE_HELPER_H_
 #define IOS_NET_HTTP_CACHE_HELPER_H_
 

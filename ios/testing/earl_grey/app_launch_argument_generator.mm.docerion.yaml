@@ -1,0 +1,4 @@
+# Docerion header of app_launch_argument_generator.mm.
+type: source
+title: Implementation of app launch argument generation
+summary: Converts an AppLaunchConfiguration into command-line arguments, escaping and merging feature flags, variations, IPH settings, and additional arguments.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSHTTPSystemCookieStore interface
+// summary: Declares a SystemCookieStore implementation that uses NSHTTPCookieStorage as the underlying system cookie store with asynchronous cookie operations.
+// ---
+
 #ifndef IOS_NET_COOKIES_NS_HTTP_SYSTEM_COOKIE_STORE_H_
 #define IOS_NET_COOKIES_NS_HTTP_SYSTEM_COOKIE_STORE_H_
 

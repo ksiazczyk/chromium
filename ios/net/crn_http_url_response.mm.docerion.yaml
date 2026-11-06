@@ -1,0 +1,4 @@
+# Docerion header of crn_http_url_response.mm.
+type: source
+title: CRNHTTPURLResponse implementation
+summary: Implements CRNHTTPURLResponse, storing the HTTP version at initialization and returning it via cr_HTTPVersion.

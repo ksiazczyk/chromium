@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseEGTestHelperImpl header
+// summary: Declares the base class and assertion macros for Earl Grey test helpers that raise exceptions with correct file and line numbers.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_BASE_EG_TEST_HELPER_IMPL_H_
 #define IOS_TESTING_EARL_GREY_BASE_EG_TEST_HELPER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of page_stability.html.
+type: test
+title: Page Stability Test
+summary: Test page that triggers DOM mutations during button, typing and select interactions to verify page stability handling.

@@ -1,0 +1,4 @@
+# Docerion header of matchers.mm.
+type: source
+title: Implementation of Earl Grey matcher helpers
+summary: Implementation of the declared matchers, building GREYMatcher instances that adapt to device form factor for alerts and navigation elements.

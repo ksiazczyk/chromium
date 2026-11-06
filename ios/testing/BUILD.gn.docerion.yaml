@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS testing build configuration
+summary: Defines GN source sets for iOS test support utilities and the ios_testing_unittests target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie cache implementation
+// summary: Implements CookieCache, which diffs cookie sets per URL and name and reports added and removed cookies.
+// ---
+
 #include "ios/net/cookies/cookie_cache.h"
 
 #include <algorithm>

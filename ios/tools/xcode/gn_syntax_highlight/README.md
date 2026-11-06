@@ -1,3 +1,12 @@
+---
+type: readme
+title: GN syntax highlight support for Xcode
+summary: README explaining how to install and uninstall the Xcode plug-in that adds syntax highlighting for GN BUILD.gn files, noting it targets Xcode 15.4.
+relations:
+  - documents /ios/tools/xcode/gn_syntax_highlight/install.sh
+  - references /BUILD.gn
+---
+
 # GN syntax highlight support for Xcode
 
 This project aims to bring syntax highlight support for GN (`BUILD.gn`) in

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ios/testing
+summary: Maps the directory to the Test>iOS monorail component and a Buganizer component ID.

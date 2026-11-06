@@ -1,0 +1,4 @@
+# Docerion header of cookie_store_ios_client.mm.
+type: source
+title: CookieStoreIOSClient global setter and getter
+summary: Stores and returns the global CookieStoreIOSClient instance and provides a default implementation whose task runner getter returns an empty reference.

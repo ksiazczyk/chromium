@@ -1,0 +1,4 @@
+# Docerion header of gitutils.py.
+type: source
+title: Git command utilities
+summary: Wraps git log and git blame commands and splits raw log output into individual commits.

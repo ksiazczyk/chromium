@@ -1,0 +1,4 @@
+# Docerion header of commit_test.py.
+type: test
+title: Git commit parser tests
+summary: Unit tests for the Commit class, verifying parsing of authors, reviewers, dates, and file change lines.

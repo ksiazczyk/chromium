@@ -1,0 +1,4 @@
+# Docerion header of chrome_sso_internal_dynamic_framework.arm64.zip.sha1.
+type: data
+title: Chrome SSO internal dynamic framework arm64 zip SHA1 checksum
+summary: Contains the SHA1 hash used to verify the arm64 build of the chrome_sso_internal_dynamic_framework archive.

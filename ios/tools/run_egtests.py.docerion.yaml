@@ -1,0 +1,4 @@
+# Docerion header of run_egtests.py.
+type: script
+title: Earl Grey test runner
+summary: Builds and runs selected Earl Grey EG2 tests, locating test files and choosing the best matching eg2tests_module GN target.

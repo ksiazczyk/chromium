@@ -1,0 +1,4 @@
+# Docerion header of ocmock_complex_type_helper_unittest.mm.
+type: test
+title: OCMock complex type helper unit tests
+summary: Verifies the helper still supports nil and any-object matching and correctly dispatches complex and scalar type arguments through registered block expectations.

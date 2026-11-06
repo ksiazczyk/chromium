@@ -1,0 +1,4 @@
+# Docerion header of shared_test_utils.py.
+type: source
+title: Shared test utilities for iOS test runners
+summary: Shared utility functions for iOS test runners, covering simulator listing and booting, app install, launch, terminate and uninstall, log streaming, and xcodebuild test execution helpers.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for internal iOS frameworks
+summary: Lists the service account that owns and can approve changes in the internal iOS frameworks directory.

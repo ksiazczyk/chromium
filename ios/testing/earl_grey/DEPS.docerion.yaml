@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Earl Grey test sources
+summary: Grants specific include permissions so matchers.mm and base_earl_grey_test_case.mm may depend on ui/base and ui/display.

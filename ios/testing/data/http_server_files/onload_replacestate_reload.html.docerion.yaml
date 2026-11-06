@@ -1,0 +1,4 @@
+# Docerion header of onload_replacestate_reload.html.
+type: test
+title: Onload ReplaceState reload regression test page
+summary: Regression test page for crbug 788464 that loads a script performing history.replaceState and a reload on window load.

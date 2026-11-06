@@ -1,0 +1,4 @@
+# Docerion header of console_with_iframe.html.
+type: test
+title: Console message page with iframe
+summary: Buttons that log console messages and embed console.html in an iframe for console UI tests.

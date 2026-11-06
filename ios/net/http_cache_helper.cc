@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache clearing implementation
+// summary: Implements ClearHttpCache, clearing QUIC server states and dooming disk cache entries between two times on the IO thread.
+// ---
+
 #include "ios/net/http_cache_helper.h"
 
 #include <utility>
