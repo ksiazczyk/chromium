@@ -1,0 +1,4 @@
+# Docerion header of 42f61ce40687b6eca86e268db27cb16ab125c009.
+type: data
+title: NTLM client fuzzer input 42f61ce4
+summary: Fuzzer corpus input for the NTLM client fuzzer made up of backslash and quote characters to stress NTLM parsing.

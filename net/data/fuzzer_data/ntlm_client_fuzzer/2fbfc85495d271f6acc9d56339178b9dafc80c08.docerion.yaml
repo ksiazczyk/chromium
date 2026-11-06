@@ -1,0 +1,4 @@
+# Docerion header of 2fbfc85495d271f6acc9d56339178b9dafc80c08.
+type: data
+title: NTLM client fuzzer input 2fbfc854
+summary: Fuzzer corpus input for the NTLM client fuzzer containing a two-byte sequence of a newline and a control character.
