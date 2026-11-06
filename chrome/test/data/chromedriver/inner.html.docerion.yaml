@@ -1,0 +1,4 @@
+# Docerion header of inner.html.
+type: test
+title: Inner iframe page
+summary: Simple test page titled Inner iframe that displays the text Three, used for nested frame tests.

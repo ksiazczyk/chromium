@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: ExtTab test extension manifest
+summary: Manifest V3 manifest for the ExtTab Chromedriver test extension, registering background.js as its service worker.

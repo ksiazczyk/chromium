@@ -1,0 +1,4 @@
+# Docerion header of page_with_frame.html.
+type: test
+title: Page with frame test
+summary: Test page embedding frame_with_button.html in an iframe for frame interaction tests.

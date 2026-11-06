@@ -1,0 +1,4 @@
+# Docerion header of shadow_iframe_component.html.
+type: test
+title: Shadow iframe component page
+summary: Inner iframe page with a button that reports clicks, used as a component by the shadow iframe test.

@@ -1,0 +1,4 @@
+# Docerion header of client_metadata.json.
+type: test
+title: FedCM client metadata test fixture
+summary: JSON fixture providing privacy policy and terms of service URLs for the FedCM test identity provider.

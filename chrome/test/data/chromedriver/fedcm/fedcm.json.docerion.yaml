@@ -1,0 +1,4 @@
+# Docerion header of fedcm.json.
+type: test
+title: FedCM provider manifest test fixture
+summary: JSON manifest defining the accounts, client metadata, ID assertion endpoints and login URL for the FedCM test provider.

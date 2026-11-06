@@ -1,0 +1,4 @@
+# Docerion header of touch_action_tests.html.
+type: test
+title: Touch Action Test Page
+summary: Test page that logs touchstart, touchend, touchmove and touchcancel events on a target div for chromedriver touch and swipe tests.

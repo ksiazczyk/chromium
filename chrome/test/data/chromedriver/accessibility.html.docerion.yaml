@@ -1,0 +1,4 @@
+# Docerion header of accessibility.html.
+type: test
+title: Accessibility header test page
+summary: Test page with rendered, role-ignored, and hidden headers for verifying accessibility tree handling.

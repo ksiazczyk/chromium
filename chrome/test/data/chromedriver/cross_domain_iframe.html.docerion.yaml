@@ -1,0 +1,4 @@
+# Docerion header of cross_domain_iframe.html.
+type: test
+title: Cross-domain nested iframe test page
+summary: Test page that loads a nested cross-origin iframe, likely out-of-process, for frame handling tests.

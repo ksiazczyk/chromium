@@ -1,0 +1,4 @@
+# Docerion header of container.html.
+type: test
+title: Iframe container test page
+summary: Test page that embeds iframe.html and defines a global variable, serving as a frame container.

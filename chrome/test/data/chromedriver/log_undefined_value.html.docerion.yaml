@@ -1,0 +1,4 @@
+# Docerion header of log_undefined_value.html.
+type: test
+title: Console log undefined value test page
+summary: Test page whose script logs an undefined variable to the console, used by chromedriver console log tests.

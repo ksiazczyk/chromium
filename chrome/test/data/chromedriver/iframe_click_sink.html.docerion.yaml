@@ -1,0 +1,4 @@
+# Docerion header of iframe_click_sink.html.
+type: test
+title: Iframe click sink posting events to parent
+summary: Test iframe page that reports readiness and mouse clicks to its parent window via postMessage for click event tests.

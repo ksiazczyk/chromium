@@ -1,0 +1,4 @@
+# Docerion header of element_ref.html.
+type: test
+title: Element reference test page
+summary: Test page containing a link that opens empty.html in a new tab, for element reference testing.

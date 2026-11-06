@@ -1,0 +1,4 @@
+# Docerion header of attribute_colon_test.html.
+type: test
+title: Attribute with colon test page
+summary: Test page with a select element carrying a colon-containing attribute for testing attribute escaping.

@@ -1,0 +1,4 @@
+# Docerion header of click_over_cross_origin_iframe.html.
+type: test
+title: Click overlay over cross-origin iframe test page
+summary: Test page with an overlay button above a cross-origin iframe to verify click hit-testing across origins.

@@ -1,0 +1,4 @@
+# Docerion header of context_menu.html.
+type: test
+title: Context menu test page
+summary: Test page that sets a success flag when a context menu event fires on a div, for right-click testing.

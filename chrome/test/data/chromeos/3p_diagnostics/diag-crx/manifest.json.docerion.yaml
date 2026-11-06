@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: ChromeOS Diagnostics Test Extension manifest
+summary: Manifest for the ChromeOS diagnostics test extension, declaring telemetry and diagnostics permissions plus a service worker background.

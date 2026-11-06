@@ -1,0 +1,4 @@
+# Docerion header of multiline.html.
+type: test
+title: Multi-line link test page
+summary: Test page with a link spanning two lines whose bounding box center falls outside the link element.

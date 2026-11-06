@@ -1,4 +1,10 @@
 <?xml version='1.0' standalone='no'?>
+<!--docerion
+type: test
+title: SVG drag and drop test page
+summary: Interactive SVG script that lets shapes be grabbed, dragged and dropped into a folder, raising an alert on drop.
+-->
+
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20001102//EN'
     'http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd'>
 <svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'

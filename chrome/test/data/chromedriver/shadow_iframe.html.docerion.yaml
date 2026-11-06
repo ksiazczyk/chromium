@@ -1,0 +1,4 @@
+# Docerion header of shadow_iframe.html.
+type: test
+title: Shadow DOM iframe test page
+summary: Page that attaches open or closed shadow roots containing iframes to test clicking inside iframes within shadow DOM.

@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Iframe test page
+summary: Minimal test page that defines an iframe_var variable, used for frame handling and JavaScript execution tests.

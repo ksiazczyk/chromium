@@ -1,0 +1,4 @@
+# Docerion header of horizontal_scroller.html.
+type: test
+title: Horizontal scroller with click counter
+summary: Test page with a forced horizontal scrollbar, a link that registers clicks, and a click counter input for scroll and click tests.

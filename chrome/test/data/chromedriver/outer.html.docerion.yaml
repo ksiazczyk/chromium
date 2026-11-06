@@ -1,0 +1,4 @@
+# Docerion header of outer.html.
+type: test
+title: Outer iframe test page
+summary: Test page containing an inner iframe, part of the nested frame test chain.

@@ -1,0 +1,4 @@
+# Docerion header of file_input.html.
+type: test
+title: File input test page
+summary: Test page with a required file input element for exercising file upload interactions.

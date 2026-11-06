@@ -1,0 +1,4 @@
+# Docerion header of page_with_iframe_redbox.html.
+type: test
+title: Offscreen iframe with red box
+summary: Test page with an offscreen iframe showing a red box, used for scrolling and visibility tests.

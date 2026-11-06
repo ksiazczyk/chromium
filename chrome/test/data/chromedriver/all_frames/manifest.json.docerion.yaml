@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: All Frames extension manifest
+summary: Chrome extension manifest for the All Frames test extension that injects a content script into all frames at document start.

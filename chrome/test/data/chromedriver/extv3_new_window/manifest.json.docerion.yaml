@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the ExtWindow test extension
+summary: Manifest V3 definition for the ChromeDriver test extension ExtWindow, registering background.js as its service worker.

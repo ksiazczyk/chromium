@@ -1,0 +1,4 @@
+# Docerion header of console_log.html.
+type: test
+title: Console log test page
+summary: Test page that produces a JavaScript error and a missing image to generate console log entries.
