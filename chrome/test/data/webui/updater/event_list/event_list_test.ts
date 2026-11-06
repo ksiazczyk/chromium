@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event list element WebUI tests
+// summary: Tests the updater event-list element, covering default initialization, filter change metrics recording, and parsing and displaying updater history events.
+// ---
+
 import 'chrome://updater/event_list/event_list.js';
 
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTS voice filtering tests
+// summary: WebUI tests for getFilteredVoiceList, checking that remote, Android, and eSpeak voices are filtered according to platform and locale.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {getFilteredVoiceList} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

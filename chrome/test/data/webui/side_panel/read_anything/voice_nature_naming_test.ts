@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice nature naming tests
+// summary: WebUI tests validating the voice nature naming table for unique keys and names, non-empty fields, and expected voice counts per locale.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {AVAILABLE_GOOGLE_TTS_LOCALES, getVoiceNatureNaming, VOICE_NATURE_NAMING_BY_LOCALE} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

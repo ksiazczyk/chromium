@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common utility tests for word count and block tracking
+// summary: WebUI tests for getWordCount and isBlockTrackingEnabled behavior in the read anything side panel.
+// ---
+
 import {getWordCount, isBlockTrackingEnabled} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 

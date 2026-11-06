@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test skills browser proxy mock
+// summary: Test double that mocks the skills page Mojo handler and callback router so skills WebUI tests can stub browser responses.
+// ---
+
 import {PageHandlerRemote, SkillsPageCallbackRouter} from 'chrome://skills/skills.mojom-webui.js';
 import type {SkillsPageRemote} from 'chrome://skills/skills.mojom-webui.js';
 import {TestMock} from 'chrome://webui-test/test_mock.js';

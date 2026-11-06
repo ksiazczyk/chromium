@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Typed page element accessors for the test client
+// summary: Declares typed interfaces for every DOM element of the test client page and exposes them through a proxy for convenient access.
+// ---
+
 export interface PageElementTypes {
   // Header / Status
   pageHeader: HTMLElement;

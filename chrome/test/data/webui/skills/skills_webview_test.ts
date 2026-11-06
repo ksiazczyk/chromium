@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills webview tests
+// summary: WebUI tests for the skills webview verifying remote URL query parameters for dialog type, skill id, source, and language, plus loading page behavior until handshake.
+// ---
+
 import 'chrome://skills/loading_page.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

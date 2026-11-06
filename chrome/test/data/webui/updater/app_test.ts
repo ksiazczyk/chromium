@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater app element tests
+// summary: Mocha tests for the updater app element covering initial data fetching, passing data to sub-components, and Mojo handler failure handling.
+// ---
+
 import 'chrome://updater/app.js';
 
 import {PluralStringProxyImpl} from 'chrome://resources/js/plural_string_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter dialog positioning tests
+// summary: WebUI tests for the filter dialog element verifying rendering and dialog positioning relative to its parent or anchor element, including repositioning on anchor changes and scroll.
+// ---
+
 import {FilterDialogElement} from 'chrome://updater/event_list/filter_dialog/filter_dialog.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {whenCheck} from 'chrome://webui-test/test_util.js';

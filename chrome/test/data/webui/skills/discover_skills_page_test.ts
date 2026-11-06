@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discover skills page tests
+// summary: WebUI tests for the discover skills page covering first-party skill listings, category subheaders and page interactions.
+// ---
+
 import 'chrome://skills/discover_skills_page.js';
 
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';

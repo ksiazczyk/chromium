@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome check mark wrapper WebUI tests
+// summary: Mocha suite verifying that the check mark wrapper renders its circle and check mark only when the checked property is true.
+// ---
+
 import {CheckMarkWrapperElement} from 'chrome://customize-chrome-side-panel.top-chrome/check_mark_wrapper.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';
 

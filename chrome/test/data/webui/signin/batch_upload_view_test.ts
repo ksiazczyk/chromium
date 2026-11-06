@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload view tests
+// summary: WebUI tests for the batch upload dialog, covering header content, data sections and interactions via a test browser proxy.
+// ---
+
 import 'chrome://batch-upload/batch_upload.js';
 
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test runner for history clusters side panel tests
+// summary: C++ WebUI MOcha browser test that enables the Journeys, History Embeddings, and ChromeOS feature flags and runs the history_clusters_app_test.js suite in the side panel host.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "components/history_clusters/core/features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper search side panel WebUI tests
+// summary: Browser test suite for the wallpaper search side panel element, mocking Mojom handlers to verify descriptors, inspiration groups, feedback, styling, and metrics.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/wallpaper_search/wallpaper_search.js';
 import 'chrome://customize-chrome-side-panel.top-chrome/strings.m.js';
 

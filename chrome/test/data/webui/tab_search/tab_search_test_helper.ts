@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search test helpers
+// summary: Helper utilities for tab search tests providing visibility assertions, loadTimeData initialization with defaults, and computed style parsing.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {assertGE, assertLE} from 'chrome://webui-test/chai_assert.js';
 

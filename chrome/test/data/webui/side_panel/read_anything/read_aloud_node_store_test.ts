@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read aloud node store WebUI tests
+// summary: WebUI tests for the ReadAloudNodeStore, covering node registration on creation and updating the DOM node of one or more read aloud nodes.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {ReadAloudNodeStore} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

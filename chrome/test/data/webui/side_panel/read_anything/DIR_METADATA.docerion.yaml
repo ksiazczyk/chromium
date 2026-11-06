@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Read Anything tests directory metadata
+summary: Directory metadata assigning the Read Anything tests to the UI>Accessibility>Reading Mode monorail component and a Buganizer component.

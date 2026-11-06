@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Speech controller tests
+// summary: WebUI tests for SpeechController play, pause and voice behavior, covering pause sources, speech state listeners and engine state changes.
+// ---
+
 import {ContentPositionSource, MAX_SPEECH_LENGTH, ReadAloudHighlighter, ReadAloudNode} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import type {NodeStore, Segment, SpeechController, SpeechListener, VoiceLanguageController, WordBoundaries} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertFalse, assertGE, assertGT, assertNotEquals, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';

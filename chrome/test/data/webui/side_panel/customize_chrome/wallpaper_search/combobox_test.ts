@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome combobox WebUI tests
+// summary: Browser test suite verifying the customize-chrome combobox element's dropdown visibility, keyboard navigation, highlighting, and grouped option behavior.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/wallpaper_search/combobox/customize_chrome_combobox.js';
 
 import type {CustomizeChromeComboboxElement} from 'chrome://customize-chrome-side-panel.top-chrome/wallpaper_search/combobox/customize_chrome_combobox.js';

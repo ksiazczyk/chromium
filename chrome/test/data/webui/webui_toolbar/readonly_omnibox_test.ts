@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Readonly omnibox WebUI tests
+// summary: WebUI tests for the readonly omnibox element, covering text piece rendering, strikethrough and colors, selection sync, inline autocompletion, and mouse interactions.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals, assertFalse, assertGE, assertLE, assertTrue} from 'chrome://webui-test/chai_assert.js';

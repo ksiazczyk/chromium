@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App toolbar change handling tests
+// summary: Verifies the app reacts to toolbar events such as font, spacing, theme, rate, and highlight changes by updating styles and state.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {AppElement, ContentController, LanguageToastElement, LineFocusController, SpeechController, VoiceLanguageController, VoiceNotificationManager} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

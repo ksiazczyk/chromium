@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome test support helpers
+// summary: Shared helpers for Customize Chrome side panel WebUI tests, providing mock installation, style assertions, shadow DOM queries, event capture, and theme fixture factories.
+// ---
+
 import type {BackgroundImage, Theme, ThirdPartyThemeInfo} from 'chrome://customize-chrome-side-panel.top-chrome/customize_chrome.mojom-webui.js';
 import {assertEquals, assertNotEquals} from 'chrome://webui-test/chai_assert.js';
 import {TestMock} from 'chrome://webui-test/test_mock.js';

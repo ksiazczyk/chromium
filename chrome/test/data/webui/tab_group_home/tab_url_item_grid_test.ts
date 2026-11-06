@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL item grid rendering tests
+// summary: Mocha tests verifying the url-item-grid element renders the expected items and updates its view correctly when the delegate dispatches item added, moved, and removed events.
+// ---
+
 import 'chrome://tab-group-home/url_item_grid/url_item_grid.js';
 
 import {ItemEventType} from 'chrome://tab-group-home/url_item_grid/url_item_delegate.js';

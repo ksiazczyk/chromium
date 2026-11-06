@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab button WebUI mocha test
+// summary: Mocha test suite that loads the tabstrip NTB app and verifies the new tab button exists and can be clicked.
+// ---
+
 import 'chrome://tabstrip-ntb.top-chrome/app.js';
 
 import type {TabstripNtbAppElement} from 'chrome://tabstrip-ntb.top-chrome/app.js';

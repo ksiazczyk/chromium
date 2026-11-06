@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test managed user profile notice browser proxy
+// summary: Test double for the managed user profile notice browser proxy with fake media query support and configurable profile info.
+// ---
+
 import type {ManagedUserProfileInfo, ManagedUserProfileNoticeBrowserProxy} from 'chrome://managed-user-profile-notice/managed_user_profile_notice_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 import {FakeMediaQueryList} from 'chrome://webui-test/fake_media_query_list.js';

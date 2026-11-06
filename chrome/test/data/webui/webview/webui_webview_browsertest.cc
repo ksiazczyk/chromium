@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview WebUI browser tests
+// summary: C++ browser test harness that serves a WebUI page with a webview tag and runs WebUI Mocha browser tests for webview behavior in Chrome.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"

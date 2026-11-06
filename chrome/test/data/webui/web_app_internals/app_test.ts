@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app internals app element tests
+// summary: WebUI mocha tests for the web-app-internals app element, using a fake handler to verify app index rendering, hash-based link activation, and IWA notice visibility.
+// ---
+
 import 'chrome://web-app-internals/app.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

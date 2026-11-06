@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks app test utilities
+// summary: Shared helpers for the power bookmarks tests that build sample bookmark trees and query rows, lists, and items in the app UI.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_list.js';
 
 import type {BookmarksTreeNode} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';

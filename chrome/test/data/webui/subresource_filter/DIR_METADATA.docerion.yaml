@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for subresource filter WebUI tests
+summary: Metadata file that inherits the common subresource filter component metadata for this test directory.

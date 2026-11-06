@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scope dialog filter tests
+// summary: WebUI tests for the updater scope filter dialog covering rendering, user and system scope checkboxes, initial selections, apply events, focus and keyboard navigation.
+// ---
+
 import type {CrCheckboxElement} from '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import type {Scope} from 'chrome://updater/event_history.js';
 import {ScopeDialogElement} from 'chrome://updater/event_list/filter_dialog/scope_dialog.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location icon WebUI tests
+// summary: WebUI tests for the location-icon element covering text and tooltip rendering, dangerous text styling, accessibility, and pointer capture via a test proxy.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {isMac} from 'chrome://resources/js/platform.js';

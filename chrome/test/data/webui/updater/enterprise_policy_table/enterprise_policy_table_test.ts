@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise policy table WebUI tests
+// summary: WebUI tests verifying the enterprise-policy-table element's empty-state messages, appId filtering, and rendering of updater and per-app policies.
+// ---
+
 import 'chrome://updater/enterprise_policy_table/enterprise_policy_table.js';
 
 import type {EnterprisePolicyTableElement} from 'chrome://updater/enterprise_policy_table/enterprise_policy_table.js';

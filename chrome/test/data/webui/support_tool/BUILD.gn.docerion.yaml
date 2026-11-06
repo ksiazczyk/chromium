@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Support tool WebUI tests build definition
+summary: GN build file that defines the WebUI test target for the support tool, listing its C++ and TypeScript test sources and TypeScript dependencies.

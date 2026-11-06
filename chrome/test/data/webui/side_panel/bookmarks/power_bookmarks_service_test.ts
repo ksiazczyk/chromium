@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks service tests
+// summary: WebUI unit tests for the power bookmarks service, covering bookmark listening, sorting, and tracked product info handling with fake proxies.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_list.js';
 
 import type {BookmarkProductInfo} from '//resources/cr_components/commerce/shared.mojom-webui.js';

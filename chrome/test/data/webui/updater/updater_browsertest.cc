@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater WebUI browser tests
+// summary: Browser test harness that loads the updater WebUI host and runs its Mocha JavaScript test suites, covering the app, event list, filter dialogs, enterprise policy table and updater state views.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

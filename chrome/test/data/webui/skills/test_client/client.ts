@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills V2 webview bridge test client
+// summary: TypeScript test client that emulates the Skills webview side of the bridge, handling handshake, prompts, dialogs, provided skills, toasts, and event logging during WebUI testing.
+// ---
+
 import {$} from './page_element_types.js';
 
 // Protocol message types matching

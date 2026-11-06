@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overflowable toolbar action container mixin tests
+// summary: WebUI tests for the overflowable toolbar action container mixin using dummy icon and divider elements to verify overflow menu handling and dynamic action updates.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertNotReached} from '//resources/js/assert.js';

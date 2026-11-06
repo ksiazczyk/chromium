@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB internals WebUI browser test
+// summary: C++ browser test fixture that loads the USB internals WebUI page and runs its mocha test suite with the MojoJSTest blink feature enabled.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

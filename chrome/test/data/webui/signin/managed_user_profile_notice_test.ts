@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed user profile notice WebUI tests
+// summary: WebUI tests for the managed user profile notice dialog, covering proceed and cancel actions, state changes with a back button, and avatar display via a test browser proxy.
+// ---
+
 import 'chrome://managed-user-profile-notice/managed_user_profile_notice_app.js';
 import 'chrome://managed-user-profile-notice/managed_user_profile_notice_disclosure.js';
 

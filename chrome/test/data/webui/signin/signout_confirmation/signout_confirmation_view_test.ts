@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signout confirmation view WebUI tests
+// summary: Mocha tests for the signout confirmation dialog covering header and button visibility, extensions section behavior, tooltips and keyboard interactions.
+// ---
+
 import 'chrome://signout-confirmation/signout_confirmation.js';
 
 import {SignoutConfirmationBrowserProxyImpl} from 'chrome://signout-confirmation/signout_confirmation.js';

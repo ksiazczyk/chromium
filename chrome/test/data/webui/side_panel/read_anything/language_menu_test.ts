@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language menu tests
+// summary: WebUI tests for the language menu element covering voice-based language listing, duplicate prevention, sorting, search field behavior, and notifications.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {CrInputElement} from '//resources/cr_elements/cr_input/cr_input.js';

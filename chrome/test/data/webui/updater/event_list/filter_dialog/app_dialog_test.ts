@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App dialog filter tests
+// summary: WebUI tests for the updater app filter dialog covering rendering, known app checkboxes, search filtering, initial selections, apply and cancel events, focus and keyboard navigation.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {AppDialogElement} from 'chrome://updater/event_list/filter_dialog/app_dialog.js';
 import {assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

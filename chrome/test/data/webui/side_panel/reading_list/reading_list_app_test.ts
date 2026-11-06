@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading List app WebUI tests
+// summary: Mocha test suite for the Reading List side panel app, verifying entry display, item click URLs, click modifiers and read status updates.
+// ---
+
 import 'chrome://read-later.top-chrome/reading_list_app.js';
 
 import type {ReadLaterEntriesByStatus} from 'chrome://read-later.top-chrome/reading_list.mojom-webui.js';

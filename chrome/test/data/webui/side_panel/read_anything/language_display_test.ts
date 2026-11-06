@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language display tests
+// summary: WebUI tests for language display name resolution, diacritic stripping, case-insensitive search matching, alphabetical sorting, and voice pack locale lookups.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {getDisplayName, getDisplayNameForLocale, getNormalizedDisplayName, isLanguageSearchMatch, isSubstring, sortLanguagesByDisplayName, stripDiacritics} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

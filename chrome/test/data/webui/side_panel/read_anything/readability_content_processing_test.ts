@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Readability content processing tests
+// summary: WebUI tests verifying that removeExtraneousElementsFrom strips ad labels, accessibility announcements and visually hidden empty elements from extracted content.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {removeExtraneousElementsFrom} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

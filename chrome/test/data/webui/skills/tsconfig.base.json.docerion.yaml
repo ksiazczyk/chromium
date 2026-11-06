@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.base.json.
+type: config
+title: Base TypeScript config for skills WebUI tests
+summary: Extends the shared Chromium TypeScript base configuration for the skills WebUI test directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice web sign-in intercept tests
+// summary: WebUI tests for the Dice web sign-in interception dialog, covering parameter display, buttons and avatar updates.
+// ---
+
 import 'chrome://signin-dice-web-intercept.top-chrome/dice_web_signin_intercept_app.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

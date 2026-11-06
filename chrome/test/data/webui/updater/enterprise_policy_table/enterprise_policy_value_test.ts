@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise policy value WebUI tests
+// summary: WebUI tests verifying the enterprise-policy-value element's formatting of policy values such as check periods, suppressed update ranges, and cache limits.
+// ---
+
 import 'chrome://updater/enterprise_policy_table/enterprise_policy_value.js';
 
 import type {EnterprisePolicyValueElement} from 'chrome://updater/enterprise_policy_table/enterprise_policy_value.js';

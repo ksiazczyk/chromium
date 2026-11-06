@@ -1,3 +1,11 @@
+---
+type: readme
+title: Skills Test Client (V2)
+summary: Explains how to build and run the test server, launch Chrome with the required flags, and use the test client to exercise the Skills WebUI postMessage bridge.
+relations:
+  - documents /chrome/test/data/webui/skills/test_client/serve.py
+---
+
 <!--
 Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater tools deepEqual tests
+// summary: Unit tests for the deepEqual helper from the updater WebUI tools module, covering primitives, arrays, objects, and nested values.
+// ---
+
 import {deepEqual} from 'chrome://updater/tools.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

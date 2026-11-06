@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action icon WebUI tests
+// summary: WebUI tests for the page action icon element covering state rendering, chip animations, SVG icon animation end handling, and help bubble element tracking.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import type {HelpBubbleOptions} from '//resources/cr_components/help_bubble/help_bubble_controller.js';

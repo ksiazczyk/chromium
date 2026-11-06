@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable keys internals browser test
+// summary: Browser test that enables the unexportable key deletion feature and runs the mocha test suite for the unexportable keys internals WebUI page.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/common/webui_url_constants.h"

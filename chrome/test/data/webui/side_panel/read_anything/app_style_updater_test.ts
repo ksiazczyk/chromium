@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: App style updater tests
+// summary: Tests AppStyleUpdater's application of max line width, line focus padding and height, and line focus styles.
+// ---
+
 import {AppStyleUpdater, LineFocusType} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import type {AppElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertGT, assertNotEquals, assertStringContains} from 'chrome-untrusted://webui-test/chai_assert.js';

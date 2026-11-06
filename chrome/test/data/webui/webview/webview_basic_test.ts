@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview basic behavior tests
+// summary: TypeScript test suite covering basic webview behavior in WebUI, including display:none handling and media permission request forwarding for glic and sign-in pages.
+// ---
+
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('WebviewBasicTest', function() {

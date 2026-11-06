@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater app list element WebUI tests
+// summary: WebUI tests for the updater's app-list element, covering the no-apps message, the query-failed error card, and rendering of installed apps with scope, name, and version.
+// ---
+
 import 'chrome://updater/app_list/app_list.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

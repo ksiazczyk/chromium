@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signout confirmation WebUI tests build file
+summary: GN build configuration that defines the signout confirmation WebUI test target, listing the C++ and TypeScript test files and their dependencies.

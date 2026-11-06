@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skill card element tests
+// summary: WebUI tests verifying the skill card renders name, icon and prompt and resizes gstatic illustration URLs by device pixel ratio.
+// ---
+
 import 'chrome://skills/card.js';
 
 import type {SkillCardElement} from 'chrome://skills/card.js';

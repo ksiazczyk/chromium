@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Word boundaries unit tests
+// summary: Unit tests for the WordBoundaries class, covering default state, boundary updates, reset, unsupported mode and resume boundary calculation.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {WordBoundaries} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

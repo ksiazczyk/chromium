@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills app page WebUI tests
+// summary: WebUI tests for the skills app covering initial page load, sidebar and drawer tab navigation, routing fallbacks, and skills management metrics recording.
+// ---
+
 import 'chrome://skills/app.js';
 
 import type {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';

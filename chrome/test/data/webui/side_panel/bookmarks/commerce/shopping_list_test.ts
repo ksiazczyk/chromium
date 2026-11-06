@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping list side panel WebUI tests
+// summary: Test suite for the bookmarks side panel shopping list element, verifying product rendering, price tracking actions, and metrics behavior with mocked proxies.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/commerce/shopping_list.js';
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_list.js';
 

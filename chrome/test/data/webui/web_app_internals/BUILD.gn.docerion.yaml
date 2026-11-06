@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web app internals WebUI tests build definition
+summary: GN build file that defines the web_app_internals WebUI test target, listing the TypeScript test files, path mappings, and TypeScript dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome themes tests
+// summary: WebUI tests for the Customize Chrome themes section, covering background collections, collection images, back-click events, and metrics reporting with mocked backend calls.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/themes.js';
 
 import {CustomizeChromeAction, NtpImageType} from 'chrome://customize-chrome-side-panel.top-chrome/common.js';

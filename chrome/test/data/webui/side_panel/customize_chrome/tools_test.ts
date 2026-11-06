@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome tools tests
+// summary: WebUI tests for the Customize Chrome tool chips toggle, verifying chip visibility settings, Mojo handler calls, and metrics reporting for the side panel action.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/tools.js';
 
 import {CustomizeChromeAction} from 'chrome://customize-chrome-side-panel.top-chrome/common.js';

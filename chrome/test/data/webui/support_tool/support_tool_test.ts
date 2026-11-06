@@ -7,6 +7,12 @@
  * executed by support_tool_browsertest.js.
  */
 
+// ---docerion
+// type: test
+// title: Support Tool WebUI test suite
+// summary: TypeScript Mocha tests for the Support Tool UI, covering data collectors, PII handling, support token and URL generation via a mocked browser proxy.
+// ---
+
 import 'chrome://support-tool/support_tool.js';
 import 'chrome://support-tool/url_generator.js';
 

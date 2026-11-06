@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Grouped action menu tests
+// summary: WebUI tests for the grouped action menu covering event dispatch, per-item event names, and selected item checkmarks.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

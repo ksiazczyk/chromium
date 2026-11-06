@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned toolbar actions WebUI tests
+// summary: WebUI tests for the pinned toolbar actions container, verifying move and move-by commands, divider handling, BroadcastChannel synchronization, and exit animations.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

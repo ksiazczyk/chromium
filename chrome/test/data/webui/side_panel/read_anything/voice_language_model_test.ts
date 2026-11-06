@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VoiceLanguageModel tests
+// summary: WebUI tests for the VoiceLanguageModel, covering enabling and disabling languages, available languages and voices, and server statuses.
+// ---
+
 import {mojoVoicePackStatusToVoicePackStatusEnum, VoiceClientSideStatusCode, VoiceLanguageModel} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertArrayEquals, assertEquals, assertFalse, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 

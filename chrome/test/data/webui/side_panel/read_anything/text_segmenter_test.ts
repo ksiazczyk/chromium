@@ -5,6 +5,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: TextSegmenter tests
+// summary: WebUI tests for the read anything TextSegmenter, covering word counts, accessible boundaries, and language-dependent sentence segmentation.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {AudioBrowserProxyImpl, TextSegmenter} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

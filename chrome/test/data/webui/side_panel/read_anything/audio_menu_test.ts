@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio menu WebUI tests
+// summary: Tests the audio menu's highlight granularity options, accent menu integration, and voice selection dialog behavior.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

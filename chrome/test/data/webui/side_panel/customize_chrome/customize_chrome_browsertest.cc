@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome side panel WebUI browser tests
+// summary: C++ WebUIMochaBrowserTest harness that runs each Customize Chrome side panel mocha test suite, enabling wallpaper search and optimization guide features.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/config/coverage/buildflags.h"
 #include "chrome/common/webui_url_constants.h"

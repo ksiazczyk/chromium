@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync opt-in app refresh tests
+// summary: WebUI tests for the refreshed history sync opt-in page, covering button visibility, accept and reject actions and screen mode changes.
+// ---
+
 import 'chrome://history-sync-optin/history_sync_optin_app_refresh.js';
 
 import {HistorySyncOptInBrowserProxyImpl} from 'chrome://history-sync-optin/browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise companion state card tests
+// summary: WebUI tests for the enterprise-companion-state-card element, verifying rendering of version and install path and that clicking the path link requests showing the companion app directory.
+// ---
+
 import 'chrome://updater/updater_state/enterprise_companion_state_card.js';
 
 import type {EnterpriseCompanionStateCardElement} from 'chrome://updater/updater_state/enterprise_companion_state_card.js';

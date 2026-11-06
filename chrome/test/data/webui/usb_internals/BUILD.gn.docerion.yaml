@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for USB internals WebUI tests
+summary: GN build definition that wires the USB internals C++ browser test and TypeScript test files into the WebUI test build with the required TypeScript dependencies.

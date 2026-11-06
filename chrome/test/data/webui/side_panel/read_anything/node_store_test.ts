@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NodeStore WebUI tests
+// summary: WebUI tests for the Read Anything NodeStore, covering DOM node registration, accessibility node offsets, hidden node checks, and words-seen metrics.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {NodeStore} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

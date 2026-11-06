@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test signout confirmation browser proxy
+// summary: Test double implementing the signout confirmation browser proxy so WebUI tests can record and await handler calls.
+// ---
+
 import {PageCallbackRouter} from 'chrome://signout-confirmation/signout_confirmation.js';
 import type {PageHandlerInterface, SignoutConfirmationBrowserProxy} from 'chrome://signout-confirmation/signout_confirmation.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome footer element WebUI tests
+// summary: Mocha suite for the footer section, covering the show toggle, visibility, and policy-managed management notice states with mocked handlers.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/footer.js';
 
 import {CustomizeChromeAction} from 'chrome://customize-chrome-side-panel.top-chrome/common.js';

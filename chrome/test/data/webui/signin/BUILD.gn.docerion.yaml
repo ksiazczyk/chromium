@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin WebUI tests build configuration
+summary: GN build rules that assemble the signin WebUI test targets, listing test sources and TypeScript dependencies per platform.

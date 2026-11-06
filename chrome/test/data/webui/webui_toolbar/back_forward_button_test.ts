@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back and forward button tests
+// summary: WebUI tests for the toolbar back and forward button, covering window state margins, click actions, ripples, and pointer capture behavior.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

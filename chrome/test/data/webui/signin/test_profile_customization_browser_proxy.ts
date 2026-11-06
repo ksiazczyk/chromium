@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test profile customization browser proxy
+// summary: Test double for the profile customization browser proxy that records calls and returns fake profile info and avatar icons.
+// ---
+
 import type {ProfileCustomizationBrowserProxy, ProfileInfo} from 'chrome://profile-customization/profile_customization_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for Customize Chrome side panel tests
+summary: Directory metadata file that inherits ownership and component information from the shared Customize Chrome COMMON_METADATA via a mixins entry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech model tests
+// summary: WebUI tests for the SpeechModel state container, verifying setters and getters for speech activity, pause source, voices and utterances.
+// ---
+
 import {PauseActionSource, SpeechEngineState, SpeechModel} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 

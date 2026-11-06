@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync internals WebUI browser tests
+// summary: Browser test harness that runs the sync-internals WebUI Mocha cases, including ChromeOS-specific variants for sync disabled by default.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"
 #include "chrome/common/webui_url_constants.h"

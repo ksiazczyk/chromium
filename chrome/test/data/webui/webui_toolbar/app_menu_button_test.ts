@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu button tests
+// summary: WebUI tests for the toolbar app menu button, covering menu triggering from mouse and touch input, focus requests, and accessibility attributes.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

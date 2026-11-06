@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Skills WebUI test include rules (DEPS)
+summary: Allows this test directory to include headers from components/skills.

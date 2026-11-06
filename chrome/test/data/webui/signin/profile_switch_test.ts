@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile switch WebUI tests
+// summary: WebUI tests for the profile switch element, covering profile state loading, managed badges, and confirming or cancelling a profile switch.
+// ---
+
 import 'chrome://profile-picker/lazy_load.js';
 
 import type {ProfileSwitchElement} from 'chrome://profile-picker/lazy_load.js';

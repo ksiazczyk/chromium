@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search item WebUI tests
+// summary: WebUI tests for the tab-search-item element covering search highlight rendering and close button behavior for open and recently closed tabs.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import type {RecentlyClosedTab, Tab, TabGroup, TabSearchItemElement} from 'chrome://tab-search.top-chrome/tab_search.js';
 import {TabAlertState, TabData, TabGroupColor, TabItemType} from 'chrome://tab-search.top-chrome/tab_search.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for web_app_internals tests
+summary: DIR_METADATA file that inherits common metadata from chrome/browser/web_applications via a mixins entry.

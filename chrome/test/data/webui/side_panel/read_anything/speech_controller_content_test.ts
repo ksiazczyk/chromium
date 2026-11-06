@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Speech controller content tests
+// summary: WebUI tests for SpeechController content handling, including speech tree initialization, playing from selection and word boundary events.
+// ---
+
 import type {AppElement, NodeStore, ReadAloudHighlighter, Segment, SelectionController, SpeechController, WordBoundaries} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {playFromSelectionTimeout, ReadAloudNode} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';

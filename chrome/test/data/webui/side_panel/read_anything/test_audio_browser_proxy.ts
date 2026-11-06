@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio browser proxy for tests
+// summary: Test double implementing the audio browser proxy to stub speech rate, highlighting granularity, voices and voice pack calls in Read Anything WebUI tests.
+// ---
+
 import type {AudioBrowserProxy} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {FakeChromeEvent} from 'chrome-untrusted://webui-test/fake_chrome_event.js';
 import {TestBrowserProxy} from 'chrome-untrusted://webui-test/test_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selectable lazy list tests
+// summary: Tests scrolling, viewport filling and selection behavior of the tab search selectable lazy list element.
+// ---
+
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {TabData, TabItemType, TitleItem} from 'chrome://tab-search.top-chrome/tab_search.js';
 import type {SelectableLazyListElement, TabSearchItemElement} from 'chrome://tab-search.top-chrome/tab_search.js';

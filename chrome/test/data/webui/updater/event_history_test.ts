@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater event history tests
+// summary: Tests parsing, merging, deduplication, and update outcome logic for updater history events in event_history.js.
+// ---
+
 import type {ActivateEndEvent, ActivateStartEvent, AppCommandEndEvent, AppCommandStartEvent, HistoryEvent, InstallEndEvent, InstallStartEvent, LoadPolicyEndEvent, LoadPolicyStartEvent, MergedHistoryEvent, MergedInstallEvent, MergedUpdateEvent, MergedUpdaterProcessEvent, PersistedDataEvent, PostRequestEndEvent, PostRequestStartEvent, QualifyEndEvent, QualifyStartEvent, UninstallEndEvent, UninstallStartEvent, UpdateEndEvent, UpdaterProcessEndEvent, UpdaterProcessStartEvent, UpdateStartEvent} from 'chrome://updater/event_history.js';
 import {deduplicateEvents, getUpdateOutcome, mergeEvents, parseEvent, UpdaterProcessMap} from 'chrome://updater/event_history.js';
 import {assertArrayEquals, assertDeepEquals, assertEquals, assertFalse, assertThrows, assertTrue} from 'chrome://webui-test/chai_assert.js';

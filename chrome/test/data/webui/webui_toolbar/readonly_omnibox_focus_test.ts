@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Readonly omnibox focus WebUI tests
+// summary: WebUI tests for readonly omnibox focus and selection behavior, including selection persistence across focus changes and text overflow handling.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertArrayEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

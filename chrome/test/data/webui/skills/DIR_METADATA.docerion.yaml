@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Skills test directory metadata (DIR_METADATA)
+summary: Maps the directory to a Buganizer component for issue tracking and routing.

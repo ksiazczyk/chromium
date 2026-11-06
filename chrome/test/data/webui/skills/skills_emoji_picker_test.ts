@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills emoji picker WebUI tests
+// summary: WebUI tests for the skills emoji picker covering data loading, search filtering, emoji selection events, and closing via Escape or outside clicks.
+// ---
+
 import 'chrome://resources/cr_elements/icons.html.js';
 import 'chrome://skills/skills_emoji_picker.js';
 

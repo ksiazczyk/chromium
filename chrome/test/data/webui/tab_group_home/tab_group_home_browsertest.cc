@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group home WebUI browser test
+// summary: Browser test harness that loads the tab group home WebUI with its feature flag enabled and runs Mocha suites covering tab URL item grid rendering and URL item element behavior.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/tabs/features.h"

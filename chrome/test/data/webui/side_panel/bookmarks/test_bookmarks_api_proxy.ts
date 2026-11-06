@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmarks API proxy
+// summary: Test double implementing BookmarksApiProxy that records method calls and fakes bookmark data for side panel WebUI tests.
+// ---
+
 import type {ActionSource, BookmarksPageRemote, BookmarksTreeNode, SortOrder, ViewType} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';
 import {BookmarksPageCallbackRouter} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';
 import type {BookmarksApiProxy} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks_api_proxy.js';

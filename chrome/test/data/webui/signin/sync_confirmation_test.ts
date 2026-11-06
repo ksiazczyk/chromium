@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync confirmation WebUI tests
+// summary: WebUI tests for the sync confirmation dialog, covering button behavior and verifying recorded consent strings across scenarios.
+// ---
+
 import 'chrome://sync-confirmation/sync_confirmation_app.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

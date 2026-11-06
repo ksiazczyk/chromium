@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unexportable keys internals WebUI app tests
+// summary: TypeScript mocha tests that check the internals page keys table rendering and delete-key behavior using a mocked PageHandler browser proxy.
+// ---
+
 import 'chrome://unexportable-keys-internals/app.js';
 
 import type {UnexportableKeysInternalsAppElement} from 'chrome://unexportable-keys-internals/app.js';

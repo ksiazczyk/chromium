@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission chip WebUI tests
+// summary: WebUI tests for the permission chip element covering visible and collapsed rendering, icon and message display, and mouse and keyboard click events through the proxy.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import type {CrIconElement} from 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

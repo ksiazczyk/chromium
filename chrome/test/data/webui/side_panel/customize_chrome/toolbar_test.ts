@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome toolbar tests
+// summary: WebUI tests for the Customize Chrome toolbar element, covering action and category fetching from the backend, back button events, and toolbar placement in the side panel.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/customize_toolbar/toolbar.js';
 
 import {ActionId, CategoryId} from 'chrome://customize-chrome-side-panel.top-chrome/customize_toolbar.mojom-webui.js';

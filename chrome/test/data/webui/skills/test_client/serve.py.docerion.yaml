@@ -1,0 +1,4 @@
+# Docerion header of serve.py.
+type: script
+title: Skills test client build and serve script
+summary: Builds the test client with autoninja and serves it over HTTP, mapping SPA routes to index.html and printing launch instructions from the README.

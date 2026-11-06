@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test double for the Reading List API proxy
+// summary: Mock implementation of ReadingListApiProxy that records method calls and provides sample entries and window data for WebUI tests.
+// ---
+
 import type {ReadLaterEntriesByStatus, Window} from 'chrome://read-later.top-chrome/reading_list.mojom-webui.js';
 import {PageCallbackRouter} from 'chrome://read-later.top-chrome/reading_list.mojom-webui.js';
 import type {ReadingListApiProxy} from 'chrome://read-later.top-chrome/reading_list_api_proxy.js';

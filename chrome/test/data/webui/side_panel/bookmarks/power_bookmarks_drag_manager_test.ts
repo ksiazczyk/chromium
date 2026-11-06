@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks drag manager tests
+// summary: WebUI unit tests for drag-and-drop of bookmarks and folders in the power bookmarks side panel, including drop positions and nested targets.
+// ---
+
 
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_app.js';
 

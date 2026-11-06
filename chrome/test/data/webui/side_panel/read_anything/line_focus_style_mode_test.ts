@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Line focus style mode tests
+// summary: WebUI tests for line focus style modes covering line and window styles, focus bounds, focal points, clamping, and off-screen line differences.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {LineFocusLineStyleMode, LineFocusModel, LineFocusNoneStyleMode, LineFocusStyle, LineFocusWindowStyleMode} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

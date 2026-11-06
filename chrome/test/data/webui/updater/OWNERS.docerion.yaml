@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for updater WebUI tests
+summary: Delegates ownership of this test directory to the OWNERS file of chrome/updater.

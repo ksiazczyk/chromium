@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake speech browser proxy for tests
+// summary: Test double implementing the speech browser proxy to stub speak, pause, resume, cancel and voice retrieval calls in WebUI tests.
+// ---
+
 import type {SpeechBrowserProxy} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {TestBrowserProxy} from 'chrome-untrusted://webui-test/test_browser_proxy.js';
 

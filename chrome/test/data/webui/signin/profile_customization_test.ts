@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile customization WebUI tests
+// summary: WebUI tests for the profile customization dialog, covering name input validation, avatar display, and done and cancel behavior through a test browser proxy.
+// ---
+
 import 'chrome://profile-customization/profile_customization_app.js';
 
 import type {ProfileCustomizationAppElement} from 'chrome://profile-customization/profile_customization_app.js';

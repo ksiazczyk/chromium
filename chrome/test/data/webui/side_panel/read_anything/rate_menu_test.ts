@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech rate menu WebUI tests
+// summary: WebUI tests for the speech rate menu, covering rate event firing, restoring saved rate options, and platform-specific counts of rate options.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {RateMenuElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

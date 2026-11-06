@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter internals WebUI test suite
+// summary: TypeScript Mocha tests covering the subresource filter internals app, including fetching settings and toggling ads highlighting through a mocked browser proxy.
+// ---
+
 import 'chrome://subresource-filter-internals/app.js';
 
 import type {CrCheckboxElement} from 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';

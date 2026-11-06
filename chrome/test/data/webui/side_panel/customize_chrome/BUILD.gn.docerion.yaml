@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Customize Chrome side panel WebUI tests
+summary: Defines the build_webui_tests target listing the TypeScript test files, TypeScript path mappings, definitions, and dependencies for the Customize Chrome side panel tests.
