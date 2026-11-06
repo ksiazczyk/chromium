@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension state tester implementation
+// summary: Implements assertions that an extension is enabled, disabled with specific reasons, blocklisted, or terminated, reporting detailed gtest failures.
+// ---
+
 #include "extensions/test/extension_state_tester.h"
 
 #include "base/memory/raw_ref.h"

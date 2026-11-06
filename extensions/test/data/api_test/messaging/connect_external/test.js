@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: connect_external messaging test
+// summary: Test script that connects to an external extension by ID via chrome.runtime.connect and chrome.extension.connect, posts a message, and asserts the reply and sender ID.
+// ---
+
 const TEST_ID = 'bjafgdebaacbbbecmhlhpofkepfkgcpa';
 
 // Call with |api| as either chrome.runtime or chrome.extension.

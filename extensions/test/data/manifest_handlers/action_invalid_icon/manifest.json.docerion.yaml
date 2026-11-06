@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test manifest with nonexistent action icon
+summary: Manifest fixture for an extension whose action default icon points to a nonexistent file, used to test invalid icon handling.

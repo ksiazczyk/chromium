@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension test message listener class declaration
+// summary: Declares a test helper for waiting on chrome.test.sendMessage messages from extensions, with options for replies, failure messages, and callbacks.
+// ---
+
 #ifndef EXTENSIONS_TEST_EXTENSION_TEST_MESSAGE_LISTENER_H_
 #define EXTENSIONS_TEST_EXTENSION_TEST_MESSAGE_LISTENER_H_
 

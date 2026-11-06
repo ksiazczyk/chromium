@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script test for first-resolving promise response
+// summary: Runs a test asserting sendMessage returns the faster promise's response even though the slower listener was registered first, matching webextension-polyfill behavior.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple listeners return promises, the sender receives a

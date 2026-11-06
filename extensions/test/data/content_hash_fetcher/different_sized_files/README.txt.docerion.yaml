@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README for different-sized content hash test files
+summary: Explains that the directory contains files taken from a signed webstore test extension, packaged in source.zip, with sizes chosen around the content verifier's 4096-byte hash block size.

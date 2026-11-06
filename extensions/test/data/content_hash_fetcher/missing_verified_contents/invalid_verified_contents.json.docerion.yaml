@@ -1,0 +1,4 @@
+# Docerion header of invalid_verified_contents.json.
+type: test
+title: Invalid verified contents JSON test fixture
+summary: Corrupted copy of verified_contents.json with one modified character, used as test data for handling invalid verified contents in the content hash fetcher.

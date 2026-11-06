@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test extension manifest
+summary: Manifest V3 configuration for the test extension, registering the background service worker and the content script that runs the messaging tests.

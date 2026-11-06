@@ -1,0 +1,4 @@
+# Docerion header of payload.json.
+type: test
+title: Treehash payload fixture for content verification
+summary: Test fixture holding base64url-encoded treehash root hashes for extension files, plus the item ID and version used by the content verifier.

@@ -5,6 +5,12 @@
 // NOTE: the ordering is important here as first listener registered must be
 // synchronous to trigger the bug.
 
+// ---docerion
+// type: test
+// title: Background script with sync and async onMessage listeners
+// summary: Registers a synchronous and an asynchronous onMessage listener in the test extension's service worker, with ordering chosen to reproduce the listener bug.
+// ---
+
 function onMessageSyncListener(message, sender, sendResponse) {
   return false;
 }

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for multi-size extension icon test
+summary: Manifest for a test extension declaring 16, 24 and 32 pixel icons, with a comment warning against adding a 48 pixel icon that would reduce test coverage in ExtensionIconManagerTest.ScaleFactors.

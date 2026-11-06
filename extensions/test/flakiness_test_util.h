@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flakiness test helper macros
+// summary: Development-only macros that instantiate a parameterized test suite running a given test hundreds of times to help flush out flaky tests.
+// ---
+
 #ifndef EXTENSIONS_TEST_FLAKINESS_TEST_UTIL_H_
 #define EXTENSIONS_TEST_FLAKINESS_TEST_UTIL_H_
 

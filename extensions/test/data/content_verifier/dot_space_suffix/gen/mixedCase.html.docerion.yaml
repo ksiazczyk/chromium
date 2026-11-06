@@ -1,0 +1,4 @@
+# Docerion header of mixedCase.html.
+type: test
+title: mixedCase.html test fixture
+summary: Minimal HTML fixture with a single body element, used by content verifier tests covering mixed-case filenames.

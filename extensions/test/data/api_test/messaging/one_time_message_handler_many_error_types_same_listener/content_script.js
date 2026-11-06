@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script asserting sender promise rejections
+// summary: Runs browser tests that send one-time messages and assert the sender's promise rejects with the expected error for each thrown error type.
+// ---
+
 chrome.test.runTests([
 
   // Several tests that cover when there is a single registered listener for

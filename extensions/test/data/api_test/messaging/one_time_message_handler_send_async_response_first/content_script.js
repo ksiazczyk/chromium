@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script test for async response before sync error
+// summary: Verifies that a synchronous error from a later listener takes precedence over an earlier listener's asynchronous response when sending a runtime message.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple listeners are registered for runtime.onMessage

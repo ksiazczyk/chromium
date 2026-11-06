@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message serialization test case definitions
+// summary: Defines JSON and structured-clone serialization test cases covering basic types, containers, errors and the expected values after message transfer.
+// ---
+
 // Automatically populates 'expected' with the 'message' value if the 'expected'
 // property is omitted from the test case object. This deduplicates test cases
 // where the message is expected to serialize identically and helps identify

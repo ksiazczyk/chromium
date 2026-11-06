@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the messaging SharedArrayBuffer test extension
+summary: Extension manifest that sets up the service worker, cross-origin isolation policies and structured clone serialization for the messaging test.

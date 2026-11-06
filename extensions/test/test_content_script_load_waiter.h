@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentScriptLoadWaiter class declaration
+// summary: Declares a single-use test observer class that waits via a RunLoop until the observed UserScriptLoader completes a content script load.
+// ---
+
 #ifndef EXTENSIONS_TEST_TEST_CONTENT_SCRIPT_LOAD_WAITER_H_
 #define EXTENSIONS_TEST_TEST_CONTENT_SCRIPT_LOAD_WAITER_H_
 

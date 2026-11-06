@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script test for response before later listener error
+// summary: Runs a browser test asserting that sendMessage resolves with the first listener's response even when a later registered listener throws a synchronous error.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple listeners are registered for runtime.onMessage and

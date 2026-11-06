@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: en_US locale messages for extension test fixture
+summary: English (US) message strings defining the extension name, description, and color label for the extension_with_locales test fixture.

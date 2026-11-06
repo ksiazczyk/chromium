@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test that sendMessage rejects when first listener throws
+// summary: Content script test asserting that chrome.runtime.sendMessage rejects with the thrown sync error when the first registered listener throws before another listener responds.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple listeners are registered for runtime.onMessage

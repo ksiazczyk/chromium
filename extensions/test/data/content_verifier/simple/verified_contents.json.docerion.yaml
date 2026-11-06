@@ -1,0 +1,4 @@
+# Docerion header of verified_contents.json.
+type: test
+title: Signed verified contents fixture with base64url signature
+summary: Test fixture wrapping the payload in signed content with a webstore signature encoded in base64url for content verifier tests.

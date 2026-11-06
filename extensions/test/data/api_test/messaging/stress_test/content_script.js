@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script running the messaging stress test
+// summary: Content script that injects 25 iframes, counts their success and failure messages, and passes the stress test only when every response arrives.
+// ---
+
 chrome.test.runTests([
   // This test creates a large number of iframes, each of which will send a
   // message to the background script and expect an asynchronous response as a

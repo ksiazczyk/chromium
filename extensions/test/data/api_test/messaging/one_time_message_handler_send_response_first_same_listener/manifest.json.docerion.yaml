@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the one-time messaging response-before-error test
+summary: Manifest for the test extension that registers the background service worker and injects the content script running the one-time messaging test at document start.

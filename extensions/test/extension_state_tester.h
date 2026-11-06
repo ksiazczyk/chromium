@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension state tester class declaration
+// summary: Declares a utility class for robustly checking expected extension states in tests, validating registry sets and disable reasons with detailed failures.
+// ---
+
 #ifndef EXTENSIONS_TEST_EXTENSION_STATE_TESTER_H_
 #define EXTENSIONS_TEST_EXTENSION_STATE_TESTER_H_
 

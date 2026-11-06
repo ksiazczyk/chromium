@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script asserting the faster sendResponse response
+// summary: Runs a chrome.test case asserting that when one listener returns a promise and another returns true, the faster sendResponse value is delivered.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when the first listener returns a promise and the second returns

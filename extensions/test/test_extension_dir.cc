@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionDir implementation
+// summary: Implements a temporary-directory helper for building extensions in tests, supporting manifest and file writing, file copying, packing into a .crx, and returning the unpacked path.
+// ---
+
 #include "extensions/test/test_extension_dir.h"
 
 #include <string_view>

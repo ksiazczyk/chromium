@@ -1,0 +1,4 @@
+# Docerion header of verified_contents.json.
+type: test
+title: Signed verified contents JSON test fixture
+summary: Signed verified_contents.json payload with treehashes for a test extension's manifest and script, used as test data for the content hash fetcher.

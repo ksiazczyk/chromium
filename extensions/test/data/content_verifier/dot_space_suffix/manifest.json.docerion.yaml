@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the minimal test extension whose files are hashed and signed in the content verifier fixture.

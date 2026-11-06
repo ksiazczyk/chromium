@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for icon images
+summary: Test fixture manifest for a minimal extension that declares 16, 24 and 48 pixel icon images.

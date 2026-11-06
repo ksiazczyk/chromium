@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Chrome extension manifest for gzipped locales test
+summary: Chrome extension manifest fixture declaring a localized name and description via message placeholders with en_US as the default locale.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bad manifest test fixture
+summary: Intentionally malformed manifest.json with an extra quote, used as test data for file_util manifest error handling.

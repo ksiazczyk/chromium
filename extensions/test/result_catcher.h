@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResultCatcher test helper
+// summary: Declares a TestApiObserver that collects pass/fail results and failure messages from extension API tests, optionally restricted to one BrowserContext.
+// ---
+
 #ifndef EXTENSIONS_TEST_RESULT_CATCHER_H_
 #define EXTENSIONS_TEST_RESULT_CATCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for one-time messaging error handling test extension
+summary: Manifest version 3 extension manifest registering the background service worker and a document-start content script for the messaging API test.

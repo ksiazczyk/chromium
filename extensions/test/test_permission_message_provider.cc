@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPermissionMessageProvider implementation
+// summary: Implements a stub PermissionMessageProvider for tests that returns no permission messages and never reports a privilege increase.
+// ---
+
 #include "extensions/test/test_permission_message_provider.h"
 
 namespace extensions {

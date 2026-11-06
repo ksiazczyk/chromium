@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionsManagerWaiter test helper
+// summary: Declares a PermissionsManager observer that blocks tests until permission settings change, permissions update, or an active tab permission is granted.
+// ---
+
 #ifndef EXTENSIONS_TEST_PERMISSIONS_MANAGER_WAITER_H_
 #define EXTENSIONS_TEST_PERMISSIONS_MANAGER_WAITER_H_
 

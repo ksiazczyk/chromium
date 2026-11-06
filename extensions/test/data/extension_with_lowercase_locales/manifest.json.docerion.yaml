@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with lowercase locales
+summary: Chrome extension manifest fixture that declares a localized name and description via message placeholders and sets en_US as the default locale.

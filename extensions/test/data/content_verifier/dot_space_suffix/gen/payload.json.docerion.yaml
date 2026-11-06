@@ -1,0 +1,4 @@
+# Docerion header of payload.json.
+type: test
+title: payload.json content hash payload
+summary: JSON payload with treehash content hashes for manifest, background script and HTML fixtures plus item ID and version, used by content verifier tests.

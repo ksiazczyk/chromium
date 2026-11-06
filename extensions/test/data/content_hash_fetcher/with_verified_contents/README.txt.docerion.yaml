@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README.txt for verified contents test fixtures
+summary: Explains that the directory holds files, including signed verified_contents.json, taken from a Chrome Web Store test extension download and packed into source_all.zip.

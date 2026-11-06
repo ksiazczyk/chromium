@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for one-time messaging error
+summary: Manifest V3 manifest for the test extension, registering background.js as service worker and injecting content_script.js into all pages at document_start.

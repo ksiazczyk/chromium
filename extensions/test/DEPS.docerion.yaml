@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the extensions test directory
+summary: Defines allowed include dependencies for the extensions test directory, granting access to content settings, content public, and UI test headers.

@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README for missing_verified_contents test data
+summary: 'Explains that the directory holds test data extracted from a downloaded Chrome webstore extension: source.zip with the extension files, the signed verified_contents.json, and an intentionally corrupted copy.'

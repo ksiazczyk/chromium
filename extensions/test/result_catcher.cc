@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResultCatcher implementation
+// summary: Implements ResultCatcher, queuing pass and fail notifications from extension API tests and pumping a nested run loop until a result is available.
+// ---
+
 #include "extensions/test/result_catcher.h"
 
 #include "base/logging.h"

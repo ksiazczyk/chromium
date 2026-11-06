@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestContextData class declaration
+// summary: Declares a test ContextData subclass for extension tests whose HasControlledFrameCapability override returns false.
+// ---
+
 #ifndef EXTENSIONS_TEST_TEST_CONTEXT_DATA_H_
 #define EXTENSIONS_TEST_TEST_CONTEXT_DATA_H_
 

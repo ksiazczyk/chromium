@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with invisible icon
+summary: Manifest for a test extension that uses invisible_icon.png as its 16-pixel icon, serving as test data for file utility analysis.

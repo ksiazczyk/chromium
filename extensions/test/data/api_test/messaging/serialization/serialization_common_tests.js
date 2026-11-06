@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common test module for message serialization tests
+// summary: Shared module exporting message serialization test cases with deep-equality helpers for containers, ArrayBuffers, typed arrays and error objects.
+// ---
+
 import * as testCases from './test_cases.js';
 
 const unserializableRuntimeError =

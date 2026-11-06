@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker for unserializable sendResponse test
+// summary: Listens for test messages and asserts that sendResponse throws a serialization error when replying synchronously or asynchronously with an unserializable function.
+// ---
+
 function onMessageListener(message, sender, sendResponse) {
   switch (message) {
       // JS functions are not JSON serializable. The below causes extensions v8

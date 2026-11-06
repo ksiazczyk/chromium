@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script test for multi-promise onMessage response
+// summary: Runs a chrome.test case asserting the sender receives the response from the first promise to resolve when multiple listeners return promises.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple listeners return promises, the sender receives a

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoggingTimer implementation
+// summary: Implements LoggingTimer and a global time tracker that accumulates total and average elapsed time per key and prints the results through logging.
+// ---
+
 #include "extensions/test/logging_timer.h"
 
 #include <array>

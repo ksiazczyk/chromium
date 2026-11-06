@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionsManagerWaiter implementation
+// summary: Implements run-loop waits for PermissionsManager events, including user settings changes, extension permission updates, and active tab permission grants.
+// ---
+
 #include "extensions/test/permissions_manager_waiter.h"
 
 #include "base/check.h"

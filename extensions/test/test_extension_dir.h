@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionDir class declaration
+// summary: Declares a helper that provides a temp directory to build an extension in, with methods to write manifests and files and to pack the extension into a .crx.
+// ---
+
 #ifndef EXTENSIONS_TEST_TEST_EXTENSION_DIR_H_
 #define EXTENSIONS_TEST_TEST_EXTENSION_DIR_H_
 

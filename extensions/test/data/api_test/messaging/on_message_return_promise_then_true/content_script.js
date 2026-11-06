@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script test for faster promise response
+// summary: Runs a browser test asserting that when a promise-returning listener and a return-true listener coexist, the faster promise response is delivered.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when the first listener returns a promise and the second returns

@@ -1,0 +1,4 @@
+# Docerion header of mixedcase.html.
+type: test
+title: Test HTML file for mixed-case names
+summary: Tiny HTML page included as test content to cover mixed-case file name handling in content verification.

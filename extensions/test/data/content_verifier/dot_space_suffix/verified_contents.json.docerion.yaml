@@ -1,0 +1,4 @@
+# Docerion header of verified_contents.json.
+type: test
+title: Signed content hashes for the test extension
+summary: Signed tree hashes of the test extension files, used as the verified contents fixture for content verifier tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for messaging serialization API tests
+// summary: Background script that echoes runtime and port messages back to senders and runs tabs API serialization tests once the C++ test driver signals a ready tab.
+// ---
+
 import {getMessageSerializationTestCases} from '/serialization_common_tests.js';
 
 // The handlers are for the content script tests that run.
