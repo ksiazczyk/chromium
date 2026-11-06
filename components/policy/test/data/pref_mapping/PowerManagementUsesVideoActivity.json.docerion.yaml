@@ -1,0 +1,4 @@
+# Docerion header of PowerManagementUsesVideoActivity.json.
+type: test
+title: PowerManagementUsesVideoActivity pref mapping test data
+summary: Test data verifying that the PowerManagementUsesVideoActivity policy maps to the power.use_video_activity pref on ChromeOS.

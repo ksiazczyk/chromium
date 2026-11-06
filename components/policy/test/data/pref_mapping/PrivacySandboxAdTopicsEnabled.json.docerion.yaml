@@ -1,0 +1,4 @@
+# Docerion header of PrivacySandboxAdTopicsEnabled.json.
+type: test
+title: PrivacySandboxAdTopicsEnabled policy pref mapping test data
+summary: Policy pref mapping tests verifying PrivacySandboxAdTopicsEnabled controls the privacy_sandbox.m1.topics_enabled pref, noting true values are not applied.

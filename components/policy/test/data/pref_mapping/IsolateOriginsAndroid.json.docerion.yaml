@@ -1,0 +1,4 @@
+# Docerion header of IsolateOriginsAndroid.json.
+type: test
+title: IsolateOriginsAndroid pref mapping test data
+summary: Test data recording that the IsolateOriginsAndroid policy has no pref mapping test because trybots override the default with a command-line flag.

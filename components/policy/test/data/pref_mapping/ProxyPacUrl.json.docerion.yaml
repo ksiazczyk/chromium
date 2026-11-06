@@ -1,0 +1,4 @@
+# Docerion header of ProxyPacUrl.json.
+type: test
+title: ProxyPacUrl policy pref mapping test data
+summary: Test data verifying the ProxyPacUrl policy sets the PAC script URL in the proxy pref when proxy mode is pac_script.

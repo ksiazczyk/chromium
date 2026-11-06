@@ -1,0 +1,4 @@
+# Docerion header of PrefetchWithServiceWorkerEnabled.json.
+type: test
+title: PrefetchWithServiceWorkerEnabled policy pref mapping test data
+summary: Test data mapping the PrefetchWithServiceWorkerEnabled policy to the preloading.prefetch_with_service_worker_enabled preference across desktop and mobile platforms.

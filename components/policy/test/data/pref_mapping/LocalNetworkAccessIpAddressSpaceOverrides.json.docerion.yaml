@@ -1,0 +1,4 @@
+# Docerion header of LocalNetworkAccessIpAddressSpaceOverrides.json.
+type: test
+title: LocalNetworkAccessIpAddressSpaceOverrides policy pref mapping test data
+summary: Test data covering default, valid and invalid IP address space overrides for the LocalNetworkAccessIpAddressSpaceOverrides policy and its managed pref in local state.

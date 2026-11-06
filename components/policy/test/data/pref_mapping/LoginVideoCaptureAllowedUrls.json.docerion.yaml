@@ -1,0 +1,4 @@
+# Docerion header of LoginVideoCaptureAllowedUrls.json.
+type: test
+title: LoginVideoCaptureAllowedUrls pref mapping test data
+summary: Test data noting that the LoginVideoCaptureAllowedUrls policy maps into CrosSettings, so no policy pref mapping test is defined.

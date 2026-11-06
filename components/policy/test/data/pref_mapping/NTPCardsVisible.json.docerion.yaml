@@ -1,0 +1,4 @@
+# Docerion header of NTPCardsVisible.json.
+type: test
+title: NTPCardsVisible policy pref mapping test data
+summary: Test data mapping the NTPCardsVisible policy to the new tab page modules visibility pref across desktop and ChromeOS platforms.

@@ -1,0 +1,4 @@
+# Docerion header of PdfLocalFileAccessAllowedForDomains.json.
+type: test
+title: PdfLocalFileAccessAllowedForDomains pref mapping test data
+summary: Test data mapping the PdfLocalFileAccessAllowedForDomains policy to the pdf_local_file_access_allowed_for_domains pref, testing a domain list against the empty default.

@@ -1,0 +1,4 @@
+# Docerion header of ProxyServer.json.
+type: test
+title: ProxyServer policy pref mapping test data
+summary: Test data verifying the ProxyServer policy sets the server in the proxy pref when proxy mode is fixed servers.

@@ -1,0 +1,4 @@
+# Docerion header of LensOverlaySettings.json.
+type: test
+title: LensOverlaySettings pref mapping test data
+summary: Test data verifying that the LensOverlaySettings policy maps to the lens.policy.lens_overlay_settings preference on desktop platforms.

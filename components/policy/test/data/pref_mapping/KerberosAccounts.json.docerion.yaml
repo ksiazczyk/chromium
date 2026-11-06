@@ -1,0 +1,4 @@
+# Docerion header of KerberosAccounts.json.
+type: test
+title: KerberosAccounts pref mapping test data
+summary: Test data verifying the KerberosAccounts policy maps to the kerberos.accounts local state pref on ChromeOS, with redacted password values.

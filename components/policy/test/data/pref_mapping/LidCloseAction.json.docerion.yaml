@@ -1,0 +1,4 @@
+# Docerion header of LidCloseAction.json.
+type: test
+title: LidCloseAction policy pref mapping test data
+summary: Test data verifying that the LidCloseAction policy maps to the power.lid_closed_action pref on ChromeOS.

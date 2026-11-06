@@ -1,0 +1,4 @@
+# Docerion header of ManagedBookmarks.json.
+type: test
+title: ManagedBookmarks pref mapping test data
+summary: Test data verifying default and policy-set values for the bookmarks.managed_bookmarks and folder name prefs across all platforms.

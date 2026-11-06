@@ -1,0 +1,4 @@
+# Docerion header of JavaScriptJitAllowedForSites.json.
+type: test
+title: JavaScriptJitAllowedForSites policy pref mapping test data
+summary: Test data verifying that the JavaScriptJitAllowedForSites policy maps to the managed JIT allowed-for-sites preference, with a URL pattern example.

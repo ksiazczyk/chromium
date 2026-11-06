@@ -1,0 +1,4 @@
+# Docerion header of JavaScriptOptimizerBlockedForSites.json.
+type: test
+title: JavaScriptOptimizerBlockedForSites policy pref mapping test data
+summary: Test data verifying that the JavaScriptOptimizerBlockedForSites policy maps to the managed JavaScript optimizer blocked-for-sites preference.

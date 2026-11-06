@@ -1,0 +1,4 @@
+# Docerion header of ProfilePickerOnStartupAvailability.json.
+type: test
+title: ProfilePickerOnStartupAvailability policy pref mapping test data
+summary: Policy pref mapping test verifying ProfilePickerOnStartupAvailability sets the profile.picker_availability_on_startup pref in local state on desktop platforms.

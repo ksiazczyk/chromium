@@ -1,0 +1,4 @@
+# Docerion header of MetricsReportingEnabled.json.
+type: test
+title: MetricsReportingEnabled policy pref mapping test data
+summary: Test data verifying the MetricsReportingEnabled policy maps to the user_experience_metrics.reporting_enabled pref, including recommended-only handling.

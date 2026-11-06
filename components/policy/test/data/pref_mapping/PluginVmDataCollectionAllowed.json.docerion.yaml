@@ -1,0 +1,4 @@
+# Docerion header of PluginVmDataCollectionAllowed.json.
+type: test
+title: PluginVmDataCollectionAllowed deprecated policy placeholder
+summary: Placeholder pref mapping entry stating that no test exists because the PluginVmDataCollectionAllowed policy was deprecated in M152.

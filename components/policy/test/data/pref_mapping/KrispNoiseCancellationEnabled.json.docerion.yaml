@@ -1,0 +1,4 @@
+# Docerion header of KrispNoiseCancellationEnabled.json.
+type: test
+title: KrispNoiseCancellationEnabled pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KrispNoiseCancellationEnabled policy, checking the local state pref ash.input_krisp_noise_cancellation_enabled with true and false values.

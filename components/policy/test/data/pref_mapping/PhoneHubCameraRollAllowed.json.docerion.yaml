@@ -1,0 +1,4 @@
+# Docerion header of PhoneHubCameraRollAllowed.json.
+type: test
+title: PhoneHubCameraRollAllowed policy pref mapping test data
+summary: Test data verifying the PhoneHubCameraRollAllowed policy maps to the phone_hub_camera_roll.allowed preference on ChromeOS with true and false values.

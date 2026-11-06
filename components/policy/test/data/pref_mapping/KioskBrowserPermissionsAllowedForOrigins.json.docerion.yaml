@@ -1,0 +1,4 @@
+# Docerion header of KioskBrowserPermissionsAllowedForOrigins.json.
+type: test
+title: KioskBrowserPermissionsAllowedForOrigins pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KioskBrowserPermissionsAllowedForOrigins policy, checking the policy.kiosk_browser_permissions_allowed_for_origins list pref with an allowed origin pattern.

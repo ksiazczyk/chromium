@@ -1,0 +1,4 @@
+# Docerion header of PrintRasterizePdfDpi.json.
+type: test
+title: PrintRasterizePdfDpi policy pref mapping test data
+summary: Test data verifying that the PrintRasterizePdfDpi policy maps to the printing.rasterize_pdf_dpi preference across desktop platforms and ChromeOS.

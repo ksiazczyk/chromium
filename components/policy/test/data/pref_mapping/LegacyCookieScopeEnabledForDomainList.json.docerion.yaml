@@ -1,0 +1,4 @@
+# Docerion header of LegacyCookieScopeEnabledForDomainList.json.
+type: test
+title: LegacyCookieScopeEnabledForDomainList pref mapping test data
+summary: Test data verifying that the LegacyCookieScopeEnabledForDomainList policy maps to the per-domain managed legacy cookie scope preference.

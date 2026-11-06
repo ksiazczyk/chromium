@@ -1,0 +1,4 @@
+# Docerion header of MaxInvalidationFetchDelay.json.
+type: test
+title: MaxInvalidationFetchDelay missing pref mapping test note
+summary: Test data noting the MaxInvalidationFetchDelay policy is read by the policy stack but is not mapped to a pref.

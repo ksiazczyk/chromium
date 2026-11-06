@@ -1,0 +1,4 @@
+# Docerion header of NearbyShareAllowed.json.
+type: test
+title: NearbyShareAllowed policy pref mapping test data
+summary: Test fixture verifying how the NearbyShareAllowed policy maps to the nearby_sharing.enabled preference on ChromeOS.

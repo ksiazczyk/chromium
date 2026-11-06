@@ -1,0 +1,4 @@
+# Docerion header of LocalNetworkAccessRestrictionsTemporaryOptOut.json.
+type: test
+title: LocalNetworkAccessRestrictionsTemporaryOptOut pref mapping test data
+summary: Test data checking that the LocalNetworkAccessRestrictionsTemporaryOptOut policy maps to its managed pref with the expected default and boolean values across all supported platforms.

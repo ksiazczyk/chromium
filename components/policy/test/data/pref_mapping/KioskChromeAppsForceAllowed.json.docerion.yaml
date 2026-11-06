@@ -1,0 +1,4 @@
+# Docerion header of KioskChromeAppsForceAllowed.json.
+type: test
+title: KioskChromeAppsForceAllowed pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KioskChromeAppsForceAllowed policy, checking the user profile pref kiosk_chrome_apps_force_allowed with true and false values.

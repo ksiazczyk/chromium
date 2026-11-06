@@ -1,0 +1,4 @@
+# Docerion header of KeyboardFocusHighlightEnabled.json.
+type: test
+title: KeyboardFocusHighlightEnabled pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KeyboardFocusHighlightEnabled policy, checking the settings.a11y.focus_highlight pref with true and false values against its default of false.

@@ -1,0 +1,4 @@
+# Docerion header of ImportHistory.json.
+type: test
+title: ImportHistory policy pref mapping test data
+summary: Test fixture mapping the ImportHistory policy to the import_dialog_history preference, checking true and false values on desktop platforms.

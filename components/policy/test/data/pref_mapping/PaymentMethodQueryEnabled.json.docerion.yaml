@@ -1,0 +1,4 @@
+# Docerion header of PaymentMethodQueryEnabled.json.
+type: test
+title: PaymentMethodQueryEnabled pref mapping test data
+summary: Test data mapping the PaymentMethodQueryEnabled policy to the payments.can_make_payment_enabled pref, verifying true and false values against the default of true.

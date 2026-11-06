@@ -1,0 +1,4 @@
+# Docerion header of MultiScreenCaptureAllowedForUrls.json.
+type: test
+title: MultiScreenCaptureAllowedForUrls policy pref mapping test data
+summary: Test data verifying that invalid URL patterns are filtered out when the multi-screen capture URL allowlist policy maps to its profile pref.

@@ -1,0 +1,4 @@
+# Docerion header of QuickAnswersEnabled.json.
+type: test
+title: QuickAnswersEnabled policy pref mapping test data
+summary: ChromeOS test data verifying the QuickAnswersEnabled policy maps to the quick answers preference with true and false values.

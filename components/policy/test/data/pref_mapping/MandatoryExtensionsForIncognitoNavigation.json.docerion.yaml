@@ -1,0 +1,4 @@
+# Docerion header of MandatoryExtensionsForIncognitoNavigation.json.
+type: test
+title: MandatoryExtensionsForIncognitoNavigation policy pref mapping test data
+summary: Test data checking the MandatoryExtensionsForIncognitoNavigation policy maps to its pref with a list of extension IDs.

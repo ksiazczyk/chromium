@@ -1,0 +1,4 @@
+# Docerion header of OnBulkDataEntryEnterpriseConnector.json.
+type: test
+title: OnBulkDataEntryEnterpriseConnector pref mapping test data
+summary: Test cases verifying that the OnBulkDataEntryEnterpriseConnector policy maps to the enterprise_connectors.on_bulk_data_entry pref on desktop platforms.

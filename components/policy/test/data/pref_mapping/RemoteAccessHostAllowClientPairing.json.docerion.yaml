@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostAllowClientPairing.json.
+type: test
+title: RemoteAccessHostAllowClientPairing policy pref mapping test data
+summary: Test data entry noting the RemoteAccessHostAllowClientPairing policy has no pref mapping test because it is handled by the CRD host rather than the browser.

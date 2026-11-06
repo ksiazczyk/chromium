@@ -1,0 +1,4 @@
+# Docerion header of ImportSearchEngine.json.
+type: test
+title: ImportSearchEngine policy pref mapping test data
+summary: Test fixture mapping the ImportSearchEngine policy to the import_dialog_search_engine preference, checking true and false values on desktop platforms.

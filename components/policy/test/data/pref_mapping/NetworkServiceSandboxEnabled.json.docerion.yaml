@@ -1,0 +1,4 @@
+# Docerion header of NetworkServiceSandboxEnabled.json.
+type: test
+title: NetworkServiceSandboxEnabled policy pref mapping test data
+summary: Test fixture verifying the NetworkServiceSandboxEnabled policy maps to the local_state preference net.network_service_sandbox on Windows and Linux.

@@ -1,0 +1,4 @@
+# Docerion header of OutOfProcessSystemDnsResolutionEnabled.json.
+type: test
+title: OutOfProcessSystemDnsResolutionEnabled policy pref mapping test data
+summary: Test data verifying that the policy maps to the net.out_of_process_system_dns_resolution_enabled local state preference on Linux and Android.

@@ -1,0 +1,4 @@
+# Docerion header of ProcessIsolationEnabled.json.
+type: test
+title: ProcessIsolationEnabled pref mapping test data
+summary: Simple policy pref mapping test checking that ProcessIsolationEnabled toggles the isolation_state.enabled pref in local state on Windows.

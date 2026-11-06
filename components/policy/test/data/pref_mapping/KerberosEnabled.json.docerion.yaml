@@ -1,0 +1,4 @@
+# Docerion header of KerberosEnabled.json.
+type: test
+title: KerberosEnabled pref mapping test data
+summary: Test data verifying the KerberosEnabled policy maps to the kerberos.enabled local state pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of PartitionedBlobUrlUsage.json.
+type: test
+title: PartitionedBlobUrlUsage policy pref mapping test
+summary: Test data verifying the PartitionedBlobUrlUsage policy maps to the profile.content_settings.partitioned_blob_url_usage preference across all supported platforms.

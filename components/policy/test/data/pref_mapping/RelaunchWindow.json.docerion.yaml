@@ -1,0 +1,4 @@
+# Docerion header of RelaunchWindow.json.
+type: test
+title: RelaunchWindow policy pref mapping test data
+summary: Test data verifying the RelaunchWindow policy maps to the browser.relaunch_window local state pref with scheduled relaunch entries across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of ProvisionalNotificationsAllowed.json.
+type: test
+title: ProvisionalNotificationsAllowed policy pref mapping test data
+summary: Test data entry recording that the ProvisionalNotificationsAllowed policy has no pref mapping test because it maps to an iOS-specific pref.

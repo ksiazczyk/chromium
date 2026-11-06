@@ -1,0 +1,4 @@
+# Docerion header of NativeMessagingUserLevelHosts.json.
+type: test
+title: NativeMessagingUserLevelHosts policy pref mapping test
+summary: Test data mapping the NativeMessagingUserLevelHosts policy to the native_messaging.user_level_hosts pref with true and false values on win, linux, mac and fuchsia.

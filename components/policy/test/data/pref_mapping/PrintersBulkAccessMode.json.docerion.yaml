@@ -1,0 +1,4 @@
+# Docerion header of PrintersBulkAccessMode.json.
+type: test
+title: PrintersBulkAccessMode policy pref mapping test data
+summary: Test data verifying that the PrintersBulkAccessMode policy maps to the native_printing.recommended_printers_access_mode preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of LoginAuthenticationBehavior.json.
+type: test
+title: LoginAuthenticationBehavior pref mapping test data
+summary: Test data noting that the LoginAuthenticationBehavior policy maps into CrosSettings, so no policy pref mapping test is defined.

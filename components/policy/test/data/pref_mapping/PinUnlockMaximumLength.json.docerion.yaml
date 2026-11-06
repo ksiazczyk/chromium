@@ -1,0 +1,4 @@
+# Docerion header of PinUnlockMaximumLength.json.
+type: test
+title: PinUnlockMaximumLength policy pref mapping test data
+summary: Test data verifying the PinUnlockMaximumLength policy maps to the pin_unlock_maximum_length preference on ChromeOS with values 1 and 2 to test.

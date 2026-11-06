@@ -1,0 +1,4 @@
+# Docerion header of PluginVmUserId.json.
+type: test
+title: PluginVmUserId deprecated policy placeholder
+summary: Placeholder pref mapping entry stating that no test exists because the PluginVmUserId policy was deprecated in M152.

@@ -1,0 +1,4 @@
+# Docerion header of MicrosoftOfficeCloudUpload.json.
+type: test
+title: MicrosoftOfficeCloudUpload policy pref mapping test data
+summary: Test data mapping the MicrosoftOfficeCloudUpload policy to the Office cloud upload pref on ChromeOS with allowed, disallowed and automated values.

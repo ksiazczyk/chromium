@@ -1,0 +1,4 @@
+# Docerion header of PowerSmartDimEnabled.json.
+type: test
+title: PowerSmartDimEnabled pref mapping test data
+summary: Test data verifying that the PowerSmartDimEnabled policy maps to the power.smart_dim_enabled pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostMatchUsername.json.
+type: test
+title: RemoteAccessHostMatchUsername pref mapping test data
+summary: Policy test data stating that RemoteAccessHostMatchUsername has no pref mapping test because it is handled by the Chrome Remote Desktop host, not the browser.

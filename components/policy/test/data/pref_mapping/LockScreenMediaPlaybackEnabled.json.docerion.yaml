@@ -1,0 +1,4 @@
+# Docerion header of LockScreenMediaPlaybackEnabled.json.
+type: test
+title: LockScreenMediaPlaybackEnabled pref mapping test data
+summary: ChromeOS-only test data checking that the LockScreenMediaPlaybackEnabled policy maps to the ash lock screen media controls pref with the expected default and boolean values.

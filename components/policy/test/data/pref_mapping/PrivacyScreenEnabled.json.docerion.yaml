@@ -1,0 +1,4 @@
+# Docerion header of PrivacyScreenEnabled.json.
+type: test
+title: PrivacyScreenEnabled pref mapping test data
+summary: Simple policy pref mapping test checking that PrivacyScreenEnabled toggles the settings.display.privacy_screen_enabled pref on ChromeOS.

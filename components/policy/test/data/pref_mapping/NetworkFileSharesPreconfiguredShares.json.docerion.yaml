@@ -1,0 +1,4 @@
+# Docerion header of NetworkFileSharesPreconfiguredShares.json.
+type: test
+title: NetworkFileSharesPreconfiguredShares policy pref mapping test data
+summary: Test fixture verifying that preconfigured network file shares in drop_down and pre_mount modes map to the network_file_shares.preconfigured_shares preference.

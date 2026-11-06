@@ -1,0 +1,4 @@
+# Docerion header of NotificationsBlockedForUrls.json.
+type: test
+title: NotificationsBlockedForUrls pref mapping test data
+summary: Test cases verifying that the NotificationsBlockedForUrls policy maps to the profile.managed_notifications_blocked_for_urls pref across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of PhoneHubNotificationsAllowed.json.
+type: test
+title: PhoneHubNotificationsAllowed policy pref mapping test data
+summary: Test data verifying the PhoneHubNotificationsAllowed policy maps to the phone_hub_notifications.allowed preference on ChromeOS with true and false values.

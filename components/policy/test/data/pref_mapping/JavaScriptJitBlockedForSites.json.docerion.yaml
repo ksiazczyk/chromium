@@ -1,0 +1,4 @@
+# Docerion header of JavaScriptJitBlockedForSites.json.
+type: test
+title: JavaScriptJitBlockedForSites policy pref mapping test data
+summary: Test data verifying that the JavaScriptJitBlockedForSites policy maps to the managed JIT blocked-for-sites preference, with a URL pattern example.

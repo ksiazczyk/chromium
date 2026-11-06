@@ -1,0 +1,4 @@
+# Docerion header of InsertKeyModifier.json.
+type: test
+title: InsertKeyModifier pref mapping test data
+summary: ChromeOS test data verifying that the InsertKeyModifier policy maps to the ash.settings.insert_key_modifier preference with values 0 and 2.

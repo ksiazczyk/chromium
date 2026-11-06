@@ -1,0 +1,4 @@
+# Docerion header of MediaRouterCastAllowAllIPs.json.
+type: test
+title: MediaRouterCastAllowAllIPs policy pref mapping test data
+summary: Test data checking the MediaRouterCastAllowAllIPs policy maps to the media_router.cast_allow_all_ips pref in local state.

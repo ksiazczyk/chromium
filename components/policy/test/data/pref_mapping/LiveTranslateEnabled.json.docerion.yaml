@@ -1,0 +1,4 @@
+# Docerion header of LiveTranslateEnabled.json.
+type: test
+title: LiveTranslateEnabled policy pref mapping test data
+summary: Test data verifying that the LiveTranslateEnabled policy maps to the accessibility.captions.live_translate_enabled pref on Windows, Mac, Linux and ChromeOS.

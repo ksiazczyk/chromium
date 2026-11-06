@@ -1,0 +1,4 @@
+# Docerion header of QuickOfficeForceFileDownloadEnabled.json.
+type: test
+title: QuickOfficeForceFileDownloadEnabled policy pref mapping test data
+summary: ChromeOS test data verifying the QuickOfficeForceFileDownloadEnabled policy maps to the quick office force file download preference with true and false values.

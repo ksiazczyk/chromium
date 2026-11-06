@@ -1,0 +1,4 @@
+# Docerion header of PdfAnnotationsEnabled.json.
+type: test
+title: PdfAnnotationsEnabled pref mapping test data
+summary: Test data mapping the PdfAnnotationsEnabled policy to the pdf.enable_annotations pref, testing true and false values against the default of true.

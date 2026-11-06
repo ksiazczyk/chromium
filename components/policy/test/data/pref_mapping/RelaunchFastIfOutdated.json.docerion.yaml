@@ -1,0 +1,4 @@
+# Docerion header of RelaunchFastIfOutdated.json.
+type: test
+title: RelaunchFastIfOutdated policy pref mapping test data
+summary: Test data verifying the RelaunchFastIfOutdated policy maps to the browser.relaunch_fast_if_outdated local state pref on desktop and ChromeOS platforms.

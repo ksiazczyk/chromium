@@ -1,0 +1,4 @@
+# Docerion header of ProxySettings.json.
+type: test
+title: ProxySettings policy pref mapping test data
+summary: Test data checking that the ProxySettings policy with ProxyMode direct maps to the proxy preference mode direct across all supported platforms.

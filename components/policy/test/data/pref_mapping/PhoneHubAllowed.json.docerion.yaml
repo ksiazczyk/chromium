@@ -1,0 +1,4 @@
+# Docerion header of PhoneHubAllowed.json.
+type: test
+title: PhoneHubAllowed policy pref mapping test data
+summary: Test data verifying the PhoneHubAllowed policy maps to the phone_hub.allowed preference on ChromeOS, with true and false values to test.

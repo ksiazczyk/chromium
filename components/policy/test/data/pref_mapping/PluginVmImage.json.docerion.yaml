@@ -1,0 +1,4 @@
+# Docerion header of PluginVmImage.json.
+type: test
+title: PluginVmImage deprecated policy placeholder
+summary: Placeholder pref mapping entry stating that no test exists because the PluginVmImage policy was deprecated in M152.

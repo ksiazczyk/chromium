@@ -1,0 +1,4 @@
+# Docerion header of ManagedConfigurationPerOrigin.json.
+type: test
+title: ManagedConfigurationPerOrigin policy pref mapping test data
+summary: Test data verifying the ManagedConfigurationPerOrigin policy maps to the profile.managed_configuration.list pref across supported platforms.

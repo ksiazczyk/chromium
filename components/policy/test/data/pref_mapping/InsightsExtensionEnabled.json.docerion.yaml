@@ -1,0 +1,4 @@
+# Docerion header of InsightsExtensionEnabled.json.
+type: test
+title: InsightsExtensionEnabled pref mapping test data
+summary: ChromeOS test data verifying that the InsightsExtensionEnabled policy maps to the insights_extension_enabled preference with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of ProxyBypassList.json.
+type: test
+title: ProxyBypassList policy pref mapping test data
+summary: Test data verifying the ProxyBypassList policy sets the bypass list in the proxy pref when proxy mode is fixed servers.

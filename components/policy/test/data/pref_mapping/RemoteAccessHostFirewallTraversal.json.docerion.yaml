@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostFirewallTraversal.json.
+type: test
+title: RemoteAccessHostFirewallTraversal pref mapping test data
+summary: Policy test data stating that RemoteAccessHostFirewallTraversal has no pref mapping test because it is handled by the Chrome Remote Desktop host, not the browser.

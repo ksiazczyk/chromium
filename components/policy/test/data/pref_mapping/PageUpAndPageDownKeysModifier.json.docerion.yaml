@@ -1,0 +1,4 @@
+# Docerion header of PageUpAndPageDownKeysModifier.json.
+type: test
+title: PageUpAndPageDownKeysModifier policy pref mapping test
+summary: Test data verifying the PageUpAndPageDownKeysModifier policy maps to the ash.settings.page_up_and_page_down_keys_modifier preference on ChromeOS.

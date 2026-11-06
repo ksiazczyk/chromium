@@ -1,0 +1,4 @@
+# Docerion header of PinnedLauncherApps.json.
+type: test
+title: PinnedLauncherApps pref mapping test data
+summary: Test data mapping the PinnedLauncherApps policy to the policy_pinned_launcher_apps pref on ChromeOS, including filtering of unknown app IDs.

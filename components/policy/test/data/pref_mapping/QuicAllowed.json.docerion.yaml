@@ -1,0 +1,4 @@
+# Docerion header of QuicAllowed.json.
+type: test
+title: QuicAllowed policy pref mapping test data
+summary: Test data verifying the QuicAllowed policy maps to the net.quic_allowed preference with true and false values on desktop platforms.

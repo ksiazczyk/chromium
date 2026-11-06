@@ -1,0 +1,4 @@
+# Docerion header of IncognitoModeUrlBlocklist.json.
+type: test
+title: IncognitoModeUrlBlocklist policy pref mapping test data
+summary: Test fixture mapping the IncognitoModeUrlBlocklist policy to the policy.incognito_mode_url_blocklist preference with an example.com blocklist value.

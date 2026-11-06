@@ -1,0 +1,4 @@
+# Docerion header of QuickAnswersTranslationEnabled.json.
+type: test
+title: QuickAnswersTranslationEnabled policy pref mapping test data
+summary: ChromeOS test data verifying the QuickAnswersTranslationEnabled policy maps to the quick answers translation preference with true and false values.

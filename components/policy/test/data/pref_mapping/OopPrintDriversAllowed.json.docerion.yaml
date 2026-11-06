@@ -1,0 +1,4 @@
+# Docerion header of OopPrintDriversAllowed.json.
+type: test
+title: OopPrintDriversAllowed policy pref mapping test data
+summary: Test data verifying that the OopPrintDriversAllowed policy maps to the printing.oop_print_drivers_allowed_by_policy local state preference.

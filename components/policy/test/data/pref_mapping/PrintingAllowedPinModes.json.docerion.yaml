@@ -1,0 +1,4 @@
+# Docerion header of PrintingAllowedPinModes.json.
+type: test
+title: PrintingAllowedPinModes policy pref mapping test data
+summary: Test fixture verifying that the PrintingAllowedPinModes policy maps to the printing.allowed_pin_modes preference on ChromeOS.

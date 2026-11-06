@@ -1,0 +1,4 @@
+# Docerion header of PhysicalKeyboardAutocorrect.json.
+type: test
+title: PhysicalKeyboardAutocorrect policy pref mapping test data
+summary: Test data verifying the PhysicalKeyboardAutocorrect policy maps to the managed physical keyboard autocorrect preference on ChromeOS with true and false values.

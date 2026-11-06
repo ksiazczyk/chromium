@@ -1,0 +1,4 @@
+# Docerion header of PromotionalTabsEnabled.json.
+type: test
+title: PromotionalTabsEnabled policy pref mapping test data
+summary: Test data verifying the deprecated PromotionalTabsEnabled policy maps to the browser.promotions_enabled pref stored in local state.

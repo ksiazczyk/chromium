@@ -1,0 +1,4 @@
+# Docerion header of Printers.json.
+type: test
+title: Printers policy pref mapping test data
+summary: Test data verifying that the Printers policy maps to the native_printing.recommended_printers preference on ChromeOS using a sample printer configuration.

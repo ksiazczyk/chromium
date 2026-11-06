@@ -1,0 +1,4 @@
+# Docerion header of IsolatedWebAppUserInstallationEnabled.json.
+type: test
+title: IsolatedWebAppUserInstallationEnabled policy pref mapping test data
+summary: Test data verifying that the IsolatedWebAppUserInstallationEnabled policy maps to the user profile preference controlling isolated web app installs on ChromeOS.

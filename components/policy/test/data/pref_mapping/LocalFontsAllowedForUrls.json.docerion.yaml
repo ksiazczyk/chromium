@@ -1,0 +1,4 @@
+# Docerion header of LocalFontsAllowedForUrls.json.
+type: test
+title: LocalFontsAllowedForUrls policy pref mapping test data
+summary: Test data verifying that the LocalFontsAllowedForUrls policy maps to the profile.managed_local_fonts_allowed_for_urls pref across supported platforms.

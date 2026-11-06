@@ -1,0 +1,4 @@
+# Docerion header of PrintersBulkBlocklist.json.
+type: test
+title: PrintersBulkBlocklist policy pref mapping test data
+summary: Test data verifying that the PrintersBulkBlocklist policy maps to the native_printing.recommended_printers_blacklist preference on ChromeOS.

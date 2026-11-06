@@ -1,0 +1,4 @@
+# Docerion header of LocalUserFilesMigrationDestination.json.
+type: test
+title: LocalUserFilesMigrationDestination pref mapping test data
+summary: ChromeOS-only test data checking that the LocalUserFilesMigrationDestination policy maps to its local_state pref with values such as google_drive, microsoft_onedrive and delete.

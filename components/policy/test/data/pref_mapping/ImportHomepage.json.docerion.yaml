@@ -1,0 +1,4 @@
+# Docerion header of ImportHomepage.json.
+type: test
+title: ImportHomepage policy pref mapping test data
+summary: Test fixture mapping the ImportHomepage policy to the import_home_page preference, checking true and false values on desktop platforms.

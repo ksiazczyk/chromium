@@ -1,0 +1,4 @@
+# Docerion header of MutationEventsEnabled.json.
+type: test
+title: MutationEventsEnabled deprecated policy test data
+summary: Marks the MutationEventsEnabled policy as deprecated, so no pref mapping test is defined for it.

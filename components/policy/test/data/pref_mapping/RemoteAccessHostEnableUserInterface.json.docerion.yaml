@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostEnableUserInterface.json.
+type: test
+title: RemoteAccessHostEnableUserInterface pref mapping test data
+summary: Policy test data stating that RemoteAccessHostEnableUserInterface has no pref mapping test because it is handled by the Chrome Remote Desktop host, not the browser.

@@ -1,0 +1,4 @@
+# Docerion header of IncognitoModeAvailability.json.
+type: test
+title: IncognitoModeAvailability policy pref mapping test data
+summary: Test fixture mapping the IncognitoModeAvailability policy to the incognito.mode_availability preference, checking values 0, 1 and 2 across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of PrintingMaxSheetsAllowed.json.
+type: test
+title: PrintingMaxSheetsAllowed policy pref mapping test data
+summary: Test fixture verifying that the PrintingMaxSheetsAllowed policy maps to the printing.max_sheets_allowed preference on ChromeOS.

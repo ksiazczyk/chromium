@@ -1,0 +1,4 @@
+# Docerion header of InsecureFormsWarningsEnabled.json.
+type: test
+title: InsecureFormsWarningsEnabled pref mapping test data
+summary: Test data verifying that the InsecureFormsWarningsEnabled policy maps to the profile.mixed_forms_warnings preference with true and false values on all major platforms.

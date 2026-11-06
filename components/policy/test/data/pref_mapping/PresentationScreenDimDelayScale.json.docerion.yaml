@@ -1,0 +1,4 @@
+# Docerion header of PresentationScreenDimDelayScale.json.
+type: test
+title: PresentationScreenDimDelayScale policy pref mapping test data
+summary: ChromeOS test data mapping the PresentationScreenDimDelayScale policy to the power.presentation_screen_dim_delay_factor preference.

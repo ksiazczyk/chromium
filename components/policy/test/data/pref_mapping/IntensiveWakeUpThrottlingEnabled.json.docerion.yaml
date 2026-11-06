@@ -1,0 +1,4 @@
+# Docerion header of IntensiveWakeUpThrottlingEnabled.json.
+type: test
+title: IntensiveWakeUpThrottlingEnabled pref mapping test data
+summary: Test data verifying that the IntensiveWakeUpThrottlingEnabled policy maps to the local_state preference policy.intensive_wake_up_throttling_enabled with true and false values.

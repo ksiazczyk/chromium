@@ -1,0 +1,4 @@
+# Docerion header of InstantTetheringAllowed.json.
+type: test
+title: InstantTetheringAllowed pref mapping test data
+summary: ChromeOS test data verifying that the InstantTetheringAllowed policy maps to the tether.allowed preference with an enterprise default of false.

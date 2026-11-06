@@ -1,0 +1,4 @@
+# Docerion header of KioskWebAppOfflineEnabled.json.
+type: test
+title: KioskWebAppOfflineEnabled pref mapping test data
+summary: Defines the ChromeOS pref mapping test for the KioskWebAppOfflineEnabled policy, checking the user profile pref policy.kiosk_web_app_offline_enabled with true and false values.

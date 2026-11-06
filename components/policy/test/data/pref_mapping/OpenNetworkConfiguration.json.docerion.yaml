@@ -1,0 +1,4 @@
+# Docerion header of OpenNetworkConfiguration.json.
+type: test
+title: OpenNetworkConfiguration policy pref mapping test data
+summary: Records that the OpenNetworkConfiguration policy has no pref mapping test because it is covered by a ChromeOS network policy browser test.

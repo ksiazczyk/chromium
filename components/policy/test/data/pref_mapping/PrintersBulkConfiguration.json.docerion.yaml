@@ -1,0 +1,4 @@
+# Docerion header of PrintersBulkConfiguration.json.
+type: test
+title: PrintersBulkConfiguration missing test placeholder
+summary: Placeholder noting that no pref mapping test exists for the PrintersBulkConfiguration policy because external data policies are not yet supported.

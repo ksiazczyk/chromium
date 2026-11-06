@@ -1,0 +1,4 @@
+# Docerion header of PrintPreviewUseSystemDefaultPrinter.json.
+type: test
+title: PrintPreviewUseSystemDefaultPrinter policy pref mapping test data
+summary: Test data verifying that the PrintPreviewUseSystemDefaultPrinter policy maps to the printing.use_system_default_printer preference on Windows, Mac, Linux and Fuchsia.

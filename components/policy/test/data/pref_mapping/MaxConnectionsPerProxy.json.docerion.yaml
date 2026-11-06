@@ -1,0 +1,4 @@
+# Docerion header of MaxConnectionsPerProxy.json.
+type: test
+title: MaxConnectionsPerProxy policy pref mapping test data
+summary: Test data checking the MaxConnectionsPerProxy policy maps to the net.max_connections_per_proxy pref in local state.

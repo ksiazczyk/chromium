@@ -1,0 +1,4 @@
+# Docerion header of ProfileReauthPrompt.json.
+type: test
+title: ProfileReauthPrompt policy pref mapping test data
+summary: Test data verifying the ProfileReauthPrompt policy maps to the enterprise_signin.profile_reauth_prompt pref on Windows, Linux and Mac, including default behaviour.

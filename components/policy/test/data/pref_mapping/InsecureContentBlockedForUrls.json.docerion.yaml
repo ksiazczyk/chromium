@@ -1,0 +1,4 @@
+# Docerion header of InsecureContentBlockedForUrls.json.
+type: test
+title: InsecureContentBlockedForUrls pref mapping test data
+summary: Test data verifying that the InsecureContentBlockedForUrls policy maps to the profile.managed_insecure_content_blocked_for_urls preference across desktop, ChromeOS and Fuchsia platforms.

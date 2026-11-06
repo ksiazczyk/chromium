@@ -1,0 +1,4 @@
+# Docerion header of PrimaryMouseButtonSwitch.json.
+type: test
+title: PrimaryMouseButtonSwitch policy pref mapping test data
+summary: ChromeOS test data mapping the PrimaryMouseButtonSwitch policy to the settings.mouse.primary_right preference.

@@ -1,0 +1,4 @@
+# Docerion header of KerberosAddAccountsAllowed.json.
+type: test
+title: KerberosAddAccountsAllowed pref mapping test data
+summary: Test data verifying the KerberosAddAccountsAllowed policy maps to the kerberos.add_accounts_allowed local state pref on ChromeOS.

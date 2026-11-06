@@ -1,0 +1,4 @@
+# Docerion header of PrivacySandboxPromptEnabled.json.
+type: test
+title: PrivacySandboxPromptEnabled removed policy placeholder
+summary: Placeholder test data recording that the PrivacySandboxPromptEnabled policy was removed and therefore has no pref mapping test.

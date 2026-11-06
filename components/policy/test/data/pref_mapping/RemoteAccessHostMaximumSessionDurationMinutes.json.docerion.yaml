@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostMaximumSessionDurationMinutes.json.
+type: test
+title: RemoteAccessHostMaximumSessionDurationMinutes pref mapping test data
+summary: Policy test data stating that RemoteAccessHostMaximumSessionDurationMinutes has no pref mapping test because it is handled by the Chrome Remote Desktop host, not the browser.

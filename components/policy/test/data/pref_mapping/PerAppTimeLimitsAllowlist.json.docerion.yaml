@@ -1,0 +1,4 @@
+# Docerion header of PerAppTimeLimitsAllowlist.json.
+type: test
+title: PerAppTimeLimitsAllowlist pref mapping test data
+summary: ChromeOS test data verifying that the PerAppTimeLimitsAllowlist policy, with app, domain and scheme lists, maps to the child_user.per_app_time_limits.allowlist pref.

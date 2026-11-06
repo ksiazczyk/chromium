@@ -1,0 +1,4 @@
+# Docerion header of PolicyRefreshRate.json.
+type: test
+title: PolicyRefreshRate pref mapping test data
+summary: Simple pref mapping test for the PolicyRefreshRate policy checking the policy.user_refresh_rate local state pref default and changed values across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of NTPSharepointCardVisible.json.
+type: test
+title: NTPSharepointCardVisible policy pref mapping test
+summary: Test data mapping the NTPSharepointCardVisible policy to the NewTabPage.SharepointModuleVisible pref with true and false values across win, linux, mac, chromeos and fuchsia.

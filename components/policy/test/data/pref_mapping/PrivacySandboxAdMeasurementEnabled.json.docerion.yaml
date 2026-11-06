@@ -1,0 +1,4 @@
+# Docerion header of PrivacySandboxAdMeasurementEnabled.json.
+type: test
+title: PrivacySandboxAdMeasurementEnabled policy pref mapping test data
+summary: Policy pref mapping tests verifying PrivacySandboxAdMeasurementEnabled controls the privacy_sandbox.m1.ad_measurement_enabled pref, noting true values are not applied.

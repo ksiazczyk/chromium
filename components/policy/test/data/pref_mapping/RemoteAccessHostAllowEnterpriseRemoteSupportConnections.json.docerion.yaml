@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostAllowEnterpriseRemoteSupportConnections.json.
+type: test
+title: RemoteAccessHostAllowEnterpriseRemoteSupportConnections pref mapping test data
+summary: Defines a ChromeOS pref mapping test asserting the policy maps to the enterprise_remote_support_connections_allowed local state pref with default true.

@@ -1,0 +1,4 @@
+# Docerion header of PinUnlockMinimumLength.json.
+type: test
+title: PinUnlockMinimumLength policy pref mapping test data
+summary: Test data verifying the PinUnlockMinimumLength policy maps to the pin_unlock_minimum_length preference on ChromeOS with values 4 and 6 to test.

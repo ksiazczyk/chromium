@@ -1,0 +1,4 @@
+# Docerion header of ProvisionManagedClientCertificateForUser.json.
+type: test
+title: ProvisionManagedClientCertificateForUser policy pref mapping test data
+summary: Test data verifying the ProvisionManagedClientCertificateForUser policy maps to its client certificate pref across desktop, Android and ChromeOS platforms.

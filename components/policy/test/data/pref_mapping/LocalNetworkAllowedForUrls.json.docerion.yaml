@@ -1,0 +1,4 @@
+# Docerion header of LocalNetworkAllowedForUrls.json.
+type: test
+title: LocalNetworkAllowedForUrls pref mapping test data
+summary: Test data checking that the LocalNetworkAllowedForUrls policy maps to its managed URL list pref with the expected default and pattern values across all supported platforms.

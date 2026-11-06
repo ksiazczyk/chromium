@@ -1,0 +1,4 @@
+# Docerion header of OnPrintEnterpriseConnector.json.
+type: test
+title: OnPrintEnterpriseConnector policy pref mapping test data
+summary: Test data verifying that the OnPrintEnterpriseConnector policy maps to the enterprise_connectors.on_print preference across supported platforms.

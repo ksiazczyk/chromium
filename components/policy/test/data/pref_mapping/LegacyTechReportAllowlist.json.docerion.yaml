@@ -1,0 +1,4 @@
+# Docerion header of LegacyTechReportAllowlist.json.
+type: test
+title: LegacyTechReportAllowlist pref mapping test data
+summary: Test data verifying that the LegacyTechReportAllowlist policy maps to the enterprise_reporting.legacy_tech.urls preference for populated and empty values.

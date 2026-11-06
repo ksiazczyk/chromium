@@ -1,0 +1,4 @@
+# Docerion header of RegisteredProtocolHandlers.json.
+type: test
+title: RegisteredProtocolHandlers policy pref mapping test data
+summary: Test data verifying the RegisteredProtocolHandlers policy maps to the custom_handlers.policy.registered_protocol_handlers pref across all supported platforms.

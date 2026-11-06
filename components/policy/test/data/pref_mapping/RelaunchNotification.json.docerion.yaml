@@ -1,0 +1,4 @@
+# Docerion header of RelaunchNotification.json.
+type: test
+title: RelaunchNotification policy pref mapping test data
+summary: Test data verifying the RelaunchNotification policy maps to the browser.relaunch_notification local state pref across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of NTPFooterExtensionAttributionEnabled.json.
+type: test
+title: NTPFooterExtensionAttributionEnabled policy pref mapping test
+summary: Test data mapping the NTPFooterExtensionAttributionEnabled policy to the ntp_footer.settings.extension_attribution pref with true and false values across win, linux, mac and chromeos.

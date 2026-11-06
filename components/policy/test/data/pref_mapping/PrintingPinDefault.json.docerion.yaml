@@ -1,0 +1,4 @@
+# Docerion header of PrintingPinDefault.json.
+type: test
+title: PrintingPinDefault policy pref mapping test data
+summary: Defines a policy pref mapping test verifying that the PrintingPinDefault policy sets the printing.pin_default pref on ChromeOS.

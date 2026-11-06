@@ -1,0 +1,4 @@
+# Docerion header of MediaRecommendationsEnabled.json.
+type: test
+title: MediaRecommendationsEnabled removed policy test placeholder
+summary: Test data noting the MediaRecommendationsEnabled policy was removed and has no pref mapping test.

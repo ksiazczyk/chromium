@@ -1,0 +1,4 @@
+# Docerion header of LensDesktopNTPSearchEnabled.json.
+type: test
+title: LensDesktopNTPSearchEnabled pref mapping test data
+summary: Test data verifying that the LensDesktopNTPSearchEnabled policy maps to its user profile preference, including a default value check with no policies set.

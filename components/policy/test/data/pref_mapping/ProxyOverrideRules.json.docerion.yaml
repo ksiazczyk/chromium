@@ -1,0 +1,4 @@
+# Docerion header of ProxyOverrideRules.json.
+type: test
+title: ProxyOverrideRules policy pref mapping test data
+summary: Test data verifying ProxyOverrideRules maps to its pref, covering valid rule values, invalid policy values and that platform-sourced values are ignored for the cloud-only policy.

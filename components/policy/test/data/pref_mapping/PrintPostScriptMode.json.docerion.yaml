@@ -1,0 +1,4 @@
+# Docerion header of PrintPostScriptMode.json.
+type: test
+title: PrintPostScriptMode policy pref mapping test data
+summary: Windows test data mapping the PrintPostScriptMode policy to the printing.postscript_mode preference.

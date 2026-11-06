@@ -1,0 +1,4 @@
+# Docerion header of PhysicalKeyboardPredictiveWriting.json.
+type: test
+title: PhysicalKeyboardPredictiveWriting policy pref mapping test data
+summary: Test data verifying the PhysicalKeyboardPredictiveWriting policy maps to the managed physical keyboard predictive writing preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of LocalUserFilesAllowed.json.
+type: test
+title: LocalUserFilesAllowed pref mapping test data
+summary: ChromeOS-only test data checking that the LocalUserFilesAllowed policy maps to the filebrowser local user files pref with the expected default and boolean values.

@@ -1,0 +1,4 @@
+# Docerion header of ManagedGuestSessionPrivacyWarningsEnabled.json.
+type: test
+title: ManagedGuestSessionPrivacyWarningsEnabled policy pref mapping test data
+summary: Test data checking the ManagedGuestSessionPrivacyWarningsEnabled policy maps to the managed_session.privacy_warning_enabled pref on ChromeOS.

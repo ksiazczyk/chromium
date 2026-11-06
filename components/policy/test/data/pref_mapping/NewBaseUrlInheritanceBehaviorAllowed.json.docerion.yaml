@@ -1,0 +1,4 @@
+# Docerion header of NewBaseUrlInheritanceBehaviorAllowed.json.
+type: test
+title: NewBaseUrlInheritanceBehaviorAllowed removed policy placeholder
+summary: Placeholder test data recording that the NewBaseUrlInheritanceBehaviorAllowed policy was removed and has no pref mapping test.

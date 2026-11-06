@@ -1,0 +1,4 @@
+# Docerion header of KeyPermissions.json.
+type: test
+title: KeyPermissions pref mapping test placeholder
+summary: Placeholder marking the KeyPermissions policy pref mapping test as missing, with a TODO referencing crbug.com/40768762.

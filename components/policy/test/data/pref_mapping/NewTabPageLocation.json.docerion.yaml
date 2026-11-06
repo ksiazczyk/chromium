@@ -1,0 +1,4 @@
+# Docerion header of NewTabPageLocation.json.
+type: test
+title: NewTabPageLocation policy pref mapping test data
+summary: Test fixture verifying the NewTabPageLocation policy maps to the newtab_page_location_override preference across supported platforms.

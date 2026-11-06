@@ -1,0 +1,4 @@
+# Docerion header of NewWindowsInKioskAllowed.json.
+type: test
+title: NewWindowsInKioskAllowed policy pref mapping test data
+summary: Test fixture verifying the NewWindowsInKioskAllowed policy maps to the new_windows_in_kiosk_allowed preference on ChromeOS.

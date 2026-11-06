@@ -1,0 +1,4 @@
+# Docerion header of LensCameraAssistedSearchEnabled.json.
+type: test
+title: LensCameraAssistedSearchEnabled pref mapping test data
+summary: Test data verifying that the LensCameraAssistedSearchEnabled policy maps to its policy preference in local state on Android.

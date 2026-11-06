@@ -1,0 +1,4 @@
+# Docerion header of LaunchOnStartupEnabled.json.
+type: test
+title: LaunchOnStartupEnabled pref mapping test data
+summary: Test data verifying that the LaunchOnStartupEnabled policy maps to the launch_on_login.foreground.enabled preference in local state on Windows.

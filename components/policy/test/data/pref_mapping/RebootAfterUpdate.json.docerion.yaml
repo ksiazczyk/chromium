@@ -1,0 +1,4 @@
+# Docerion header of RebootAfterUpdate.json.
+type: test
+title: RebootAfterUpdate policy pref mapping test data
+summary: Test data verifying the RebootAfterUpdate policy maps to the automatic_reboot.reboot_after_update local state pref on ChromeOS.
