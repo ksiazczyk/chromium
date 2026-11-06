@@ -1,3 +1,9 @@
+---
+type: readme
+title: One time tokens
+summary: Explains the component that provides infrastructure to request, receive and supply one time tokens such as SMS and email OTPs for autofill.
+---
+
 # One time tokens
 
 One time tokens are tokens requested by websites to login, create accounts, or

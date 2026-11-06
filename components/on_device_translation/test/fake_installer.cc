@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake on-device translation installer implementation
+// summary: Implements a fake translation installer for tests that simulates initialization, language pack installation and uninstallation, and observer notifications within a fake install directory.
+// ---
+
 #include "components/on_device_translation/test/fake_installer.h"
 
 #include "base/task/task_traits.h"

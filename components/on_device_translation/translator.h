@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translator class header for on-device translation
+// summary: Declares the browser-side Translator that exposes Translate and TranslateStreaming to the renderer over Mojo and tracks pending streaming responders.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_TRANSLATOR_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_TRANSLATOR_H_
 

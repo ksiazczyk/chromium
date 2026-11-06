@@ -1,0 +1,4 @@
+# Docerion header of page_text_service.mojom.
+type: source
+title: Page text service Mojo interface definitions
+summary: Defines the TextDumpEvent enum, PageTextDumpRequest struct, and PageTextConsumer and PageTextService interfaces for requesting and consuming page text dumps between renderer and browser.

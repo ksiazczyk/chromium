@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page text observer implementation
+// summary: Implements the PageTextObserver, consuming chunked page text dumps from renderers over Mojo, capping dump sizes, and recording timing and length histograms.
+// ---
+
 #include "components/optimization_guide/content/browser/page_text_observer.h"
 
 #include <algorithm>

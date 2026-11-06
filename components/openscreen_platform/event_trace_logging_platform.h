@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventTraceLoggingPlatform class declaration
+// summary: Declares EventTraceLoggingPlatform, a trace logging platform that forwards Open Screen trace events to Chrome's TRACE_EVENT macros.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_EVENT_TRACE_LOGGING_PLATFORM_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_EVENT_TRACE_LOGGING_PLATFORM_H_
 

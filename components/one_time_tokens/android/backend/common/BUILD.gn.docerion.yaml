@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for one-time tokens Android backend
+summary: Defines the android_library target for the one-time tokens backend Java sources and a Robolectric junit target for the metrics recorder test.

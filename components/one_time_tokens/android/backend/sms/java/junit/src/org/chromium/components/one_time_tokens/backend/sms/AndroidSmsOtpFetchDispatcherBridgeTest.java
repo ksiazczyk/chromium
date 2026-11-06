@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidSmsOtpFetchDispatcherBridgeTest
+// summary: JUnit tests verifying that the SMS OTP fetch dispatcher bridge forwards retrieved OTP values and fetch errors to the receiver bridge and records the expected UMA histograms.
+// ---
+
 package org.chromium.components.one_time_tokens.backend.sms;
 
 import static org.junit.Assert.assertNotNull;

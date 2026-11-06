@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the SMS OTP backend
+summary: Restricts includes for the SMS OTP backend directory and grants test files access to UI test utilities.

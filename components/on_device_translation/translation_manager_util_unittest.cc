@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LookupMatchingLocaleByBestFit
+// summary: Verifies that LookupMatchingLocaleByBestFit resolves language tag variants to supported tags and returns nullopt for unsupported language tags.
+// ---
+
 #include "components/on_device_translation/translation_manager_util.h"
 
 #include <string>

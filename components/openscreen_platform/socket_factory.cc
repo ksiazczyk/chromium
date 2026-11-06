@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SocketFactory getter implementation
+// summary: Implements a process-wide callback getter that supplies the network::mojom::SocketFactory needed by Open Screen networking.
+// ---
+
 #include "components/openscreen_platform/socket_factory.h"
 
 #include "base/check.h"

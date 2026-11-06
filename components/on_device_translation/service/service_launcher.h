@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation service launcher interface
+// summary: Defines the OnDeviceTranslationServiceLauncher interface for launching the on-device translation service and a factory function to create launcher instances.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_SERVICE_LAUNCHER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_SERVICE_LAUNCHER_H_
 

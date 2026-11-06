@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the onc directory
+summary: Lists the Chromium accounts responsible for reviewing changes in this directory.

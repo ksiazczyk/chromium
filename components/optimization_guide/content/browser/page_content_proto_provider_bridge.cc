@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for page content proto provider
+// summary: Exposes GetAIPageContent to Android Java via JNI and returns the serialized AnnotatedPageContent proto as a byte array callback.
+// ---
+
 #include "base/android/callback_android.h"
 #include "components/optimization_guide/content/browser/page_content_proto_provider.h"
 #include "content/public/browser/web_contents.h"

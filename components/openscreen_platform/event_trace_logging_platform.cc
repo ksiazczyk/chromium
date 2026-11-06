@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event trace logging platform implementation
+// summary: Implements the Open Screen trace logging platform by emitting Chrome TRACE_EVENT events for synchronous and asynchronous trace events.
+// ---
+
 #include "components/openscreen_platform/event_trace_logging_platform.h"
 
 #include <chrono>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page text dump result unit tests
+// summary: Tests initialization, equality, and ordering behavior of frame text dump results across events, contents, and navigation ids.
+// ---
+
 #include "components/optimization_guide/content/browser/page_text_dump_result.h"
 
 #include "base/strings/stringprintf.h"

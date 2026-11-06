@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmail OTP retriever unit tests
+// summary: Unit tests for GmailOtpRetriever covering cache hits, subscription-based retrieval, sender domain matching outcomes, and recorded metrics.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_retriever.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of clipboard_async_wrapper_ios.mm.
+type: source
+title: iOS pasteboard async wrapper implementation
+summary: Fetches the general UIPasteboard on a blocking sequenced task runner and delivers it to the caller via callback.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android SMS OTP backend
+summary: Defines native, Java, JNI, and test build targets for the Android SMS OTP backend component.

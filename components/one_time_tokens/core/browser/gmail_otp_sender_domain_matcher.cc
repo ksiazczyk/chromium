@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP sender domain matcher implementation
+// summary: Implements GmailOtpSenderDomainMatcher, which resolves how an email sender's domain relates to the OTP frame origin using the domain relation checker.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_sender_domain_matcher.h"
 
 #include <memory>

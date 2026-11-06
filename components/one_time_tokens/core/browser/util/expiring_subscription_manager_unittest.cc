@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExpiringSubscriptionManager
+// summary: Unit tests verifying subscription notification, expiration, expiration callbacks, cancellation, and related lifecycle behavior of ExpiringSubscriptionManager.
+// ---
+
 #include "components/one_time_tokens/core/browser/util/expiring_subscription_manager.h"
 
 #include <memory>

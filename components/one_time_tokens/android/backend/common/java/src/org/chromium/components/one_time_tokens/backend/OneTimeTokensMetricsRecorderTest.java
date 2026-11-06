@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the one-time tokens metrics recorder
+// summary: Robolectric unit tests verifying that the metrics recorder reports success, latency, error code and API error histograms correctly.
+// ---
+
 package org.chromium.components.one_time_tokens.backend;
 
 import com.google.android.gms.common.api.ApiException;

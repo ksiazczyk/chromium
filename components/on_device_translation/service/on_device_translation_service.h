@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceTranslationService class declaration
+// summary: Declares the OnDeviceTranslationService class, which implements the mojom service interface and manages translator receivers, resetting the service receiver when no translators remain.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_ON_DEVICE_TRANSLATION_SERVICE_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_ON_DEVICE_TRANSLATION_SERVICE_H_
 

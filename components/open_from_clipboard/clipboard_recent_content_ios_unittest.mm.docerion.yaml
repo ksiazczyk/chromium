@@ -1,0 +1,4 @@
+# Docerion header of clipboard_recent_content_ios_unittest.mm.
+type: test
+title: ClipboardRecentContentIOS unit tests
+summary: Platform unit tests for the iOS clipboard recent content implementation, using fake uptime and pasteboard helpers to verify URL, text and image handling and expiration.

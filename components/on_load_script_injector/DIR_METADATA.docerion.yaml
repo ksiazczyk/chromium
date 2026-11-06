@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for on_load_script_injector
+summary: Declares the Fuchsia issue tracker component, owning team email and buganizer ID used for triaging this directory.

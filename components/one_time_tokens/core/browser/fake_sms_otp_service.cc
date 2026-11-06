@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SMS OTP service implementation
+// summary: Implements the FakeSmsOtpService test double, which caches recent tokens, simulates OTP arrival, and completes or times out pending token requests.
+// ---
+
 #include "components/one_time_tokens/core/browser/fake_sms_otp_service.h"
 
 #include <ranges>

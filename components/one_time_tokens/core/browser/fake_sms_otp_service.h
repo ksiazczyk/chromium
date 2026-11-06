@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SMS OTP service header
+// summary: Declares FakeSmsOtpService, a testing implementation of SmsOtpService that lets tests simulate SMS OTP reception and inspect subscriptions and requests.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_FAKE_SMS_OTP_SERVICE_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_FAKE_SMS_OTP_SERVICE_H_
 

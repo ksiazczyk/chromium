@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP retriever header
+// summary: Declares GmailOtpRetriever, a single-use object that queries cached tokens and listens for incoming Gmail OTPs whose sender matches the target frame origin.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_GMAIL_OTP_RETRIEVER_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_GMAIL_OTP_RETRIEVER_H_
 

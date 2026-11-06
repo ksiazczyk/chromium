@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for one-time tokens common features
+summary: GN build file defining the features component that compiles the one-time token feature and switch sources and depends on //base.

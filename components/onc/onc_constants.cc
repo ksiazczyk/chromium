@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementations of ONC property name helpers
+// summary: Builds dotted property name strings for cellular, tether, VPN and WiFi network configuration properties.
+// ---
+
 #include "components/onc/onc_constants.h"
 
 #include <string>

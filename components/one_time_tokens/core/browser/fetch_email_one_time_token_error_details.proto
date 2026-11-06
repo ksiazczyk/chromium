@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchEmailOneTimeToken error details proto
+// summary: Defines the FetchEmailOneTimeTokenErrorDetails proto with reason codes for consent, message reference, expiry, and authentication failures during token fetching.
+// ---
+
 syntax = "proto3";
 
 package google.internal.chrome.passwords.onetimetoken.v1;

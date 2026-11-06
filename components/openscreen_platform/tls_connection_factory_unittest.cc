@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TlsConnectionFactory unit tests
+// summary: Unit tests for TlsConnectionFactory using a fake network SocketFactory to verify connect calls and error reporting.
+// ---
+
 #include "components/openscreen_platform/tls_connection_factory.h"
 
 #include <iostream>

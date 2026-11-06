@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake service controller manager class declaration
+// summary: Declares FakeServiceControllerManager, a test double managing per-origin translation service controllers with test-only access to the controller count and injection.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_TEST_FAKE_SERVICE_CONTROLLER_MANAGER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_TEST_FAKE_SERVICE_CONTROLLER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringSubscription implementation
+// summary: Implements the subscriber-side ExpiringSubscription that delegates cancellation, expiration queries, and updates to its ExpiringSubscriptionManager and cancels on destruction.
+// ---
+
 #include "components/one_time_tokens/core/browser/util/expiring_subscription.h"
 
 #include "components/one_time_tokens/core/browser/util/expiring_subscription_manager.h"

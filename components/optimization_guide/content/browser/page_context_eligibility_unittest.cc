@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context eligibility unit tests
+// summary: Tests conversion of AI page content results into frame metadata structs, verifying host, path, and meta tag extraction.
+// ---
+
 #include "components/optimization_guide/content/browser/page_context_eligibility.h"
 
 #include <vector>

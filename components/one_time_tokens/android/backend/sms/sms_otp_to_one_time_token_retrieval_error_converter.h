@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP to one-time token retrieval error converter declaration
+// summary: Declares ConvertSmsOtpRetrievalApiError, which converts SMS OTP retrieval API errors into generic one-time token retrieval errors.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_ANDROID_BACKEND_SMS_SMS_OTP_TO_ONE_TIME_TOKEN_RETRIEVAL_ERROR_CONVERTER_H_
 #define COMPONENTS_ONE_TIME_TOKENS_ANDROID_BACKEND_SMS_SMS_OTP_TO_ONE_TIME_TOKEN_RETRIEVAL_ERROR_CONVERTER_H_
 

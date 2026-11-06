@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SMS OTP fetch receiver bridge interface
+// summary: C++ interface for the Android SMS OTP fetch receiver bridge, defining a consumer that is notified with a retrieved OTP value or a retrieval error via the Java JNI bridge.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_ANDROID_BACKEND_SMS_ANDROID_SMS_OTP_FETCH_RECEIVER_BRIDGE_INTERFACE_H_
 #define COMPONENTS_ONE_TIME_TOKENS_ANDROID_BACKEND_SMS_ANDROID_SMS_OTP_FETCH_RECEIVER_BRIDGE_INTERFACE_H_
 

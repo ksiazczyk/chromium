@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidSmsOtpFetchReceiverBridgeTest
+// summary: JUnit tests verifying that the SMS OTP fetch receiver bridge forwards retrieved OTP values and error codes, including backend exceptions, to the native layer via JNI.
+// ---
+
 package org.chromium.components.one_time_tokens.backend.sms;
 
 import static org.mockito.Mockito.verify;

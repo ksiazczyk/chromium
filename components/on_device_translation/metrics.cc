@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation metrics recording implementation
+// summary: Builds Translate histogram names and records language, language pair, and translation length UMA metrics for the Translator API and on-device translation.
+// ---
+
 #include "components/on_device_translation/metrics.h"
 
 #include <sstream>

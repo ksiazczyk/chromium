@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation service controller interface
+// summary: Declares the controller interface and error enums for creating translators and checking translation support, shared by translation manager instances.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_CONTROLLER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_CONTROLLER_H_
 

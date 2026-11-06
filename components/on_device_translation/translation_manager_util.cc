@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of translation manager utility helpers
+// summary: Implements helpers that read a profile's Accept Languages, check whether a language is accepted, and check the Translator API permission preference.
+// ---
+
 #include "components/on_device_translation/translation_manager_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake on-device translation installer class declaration
+// summary: Declares FakeOnDeviceTranslationInstaller, a test double for OnDeviceTranslationInstaller that tracks installed language packs and supports forcing immediate init and install.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_TEST_FAKE_INSTALLER_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_TEST_FAKE_INSTALLER_H_
 

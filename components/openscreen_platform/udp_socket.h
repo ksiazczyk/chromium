@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UdpSocket class declaration
+// summary: Declares UdpSocket, an adapter implementing openscreen::UdpSocket and the UDPSocketListener Mojo interface for the network service.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_UDP_SOCKET_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_UDP_SOCKET_H_
 

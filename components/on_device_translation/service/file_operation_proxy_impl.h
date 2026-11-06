@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileOperationProxyImpl class declaration
+// summary: Declares FileOperationProxyImpl, which serves file operations for translation language packages over Mojo and is created on the UI thread but destroyed on a background task runner.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_FILE_OPERATION_PROXY_IMPL_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_FILE_OPERATION_PROXY_IMPL_H_
 

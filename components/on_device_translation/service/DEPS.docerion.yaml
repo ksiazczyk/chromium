@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the on-device translation service
+summary: Specifies include rules for the directory, allowing Mojo includes generally and sandbox-specific headers for sandbox_hook.cc and sandbox_hook.h.

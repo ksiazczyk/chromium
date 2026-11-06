@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardRecentContentImplIOS interface
+// summary: Objective-C header declaring ClipboardRecentContentImplIOS, an iOS helper that returns recent clipboard URLs, text and images and tracks pasteboard changes in shared user defaults.
+// ---
+
 #ifndef COMPONENTS_OPEN_FROM_CLIPBOARD_CLIPBOARD_RECENT_CONTENT_IMPL_IOS_H_
 #define COMPONENTS_OPEN_FROM_CLIPBOARD_CLIPBOARD_RECENT_CONTENT_IMPL_IOS_H_
 

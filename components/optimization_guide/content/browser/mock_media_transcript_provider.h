@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media transcript provider header
+// summary: Declares a gmock mock of MediaTranscriptProvider with stubbed transcript queries and transcription-begin notifications for use in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_MOCK_MEDIA_TRANSCRIPT_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_MOCK_MEDIA_TRANSCRIPT_PROVIDER_H_
 

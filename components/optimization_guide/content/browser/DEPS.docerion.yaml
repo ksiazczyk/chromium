@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for optimization guide content browser
+summary: Specifies allowed include dependencies for the directory, with per-file exceptions for browser tests, unit tests and specific sources.

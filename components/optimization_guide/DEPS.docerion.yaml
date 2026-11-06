@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Optimization guide include rules
+summary: Specifies allowed include dependencies for the directory and blocks the content layer by default.

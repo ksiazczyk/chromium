@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation metrics recording declarations
+// summary: Declares functions that record UMA histograms for translation API calls, language pairs, and translation character counts.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_METRICS_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the on-device translation service
+summary: Defines GN build targets for the on-device translation service, including the TranslateKit API proto, source sets, unit tests, and mock TranslateKit shared libraries for testing.

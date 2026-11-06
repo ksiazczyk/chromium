@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for on_load_script_injector
+summary: Points to the Fuchsia build owners and requires security owner review for changes to Mojom files.

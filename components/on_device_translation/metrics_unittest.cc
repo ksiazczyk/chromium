@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for translation metrics recording
+// summary: Verifies UMA recording of language codes, language pairs, and translation lengths, including handling of unknown language codes.
+// ---
+
 #include "components/on_device_translation/metrics.h"
 
 #include "base/logging.h"

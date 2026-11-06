@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the renderer directory
+summary: Restricts includes in this directory to content public renderer and test code, Mojo public, and Blink public headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time tokens backend metrics recorder
+// summary: Records success, latency, error code and API error histograms for asynchronous one-time token jobs in the autofill backend.
+// ---
+
 package org.chromium.components.one_time_tokens.backend;
 
 import android.os.SystemClock;

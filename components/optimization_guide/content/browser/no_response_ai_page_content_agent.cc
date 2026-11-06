@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Non-responsive AI page content agent implementation
+// summary: Implements a test double that intercepts AIPageContentAgent requests, can respond later through the real renderer, or drop the pipe to simulate no response.
+// ---
+
 #include "components/optimization_guide/content/browser/no_response_ai_page_content_agent.h"
 
 #include <utility>

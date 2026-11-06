@@ -1,0 +1,4 @@
+# Docerion header of clipboard_recent_content_impl_ios.mm.
+type: source
+title: ClipboardRecentContentImplIOS implementation
+summary: Objective-C implementation of the iOS clipboard helper, caching pasteboard content, storing change counts and dates in user defaults, and detecting content types without triggering iOS notifications.

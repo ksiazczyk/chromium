@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context eligibility observer unit tests
+// summary: Unit tests for the eligibility observer using a mocked eligibility API to verify eligibility computation, meta tag handling, and change notifications.
+// ---
+
 #include "components/optimization_guide/content/browser/page_context_eligibility_observer.h"
 
 #include <memory>

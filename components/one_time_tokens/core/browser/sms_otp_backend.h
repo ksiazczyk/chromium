@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP backend interface
+// summary: Declares the abstract SmsOtpBackend interface with RetrieveSmsOtp to query a backend for recently received SMS one-time tokens.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_SMS_OTP_BACKEND_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_SMS_OTP_BACKEND_H_
 

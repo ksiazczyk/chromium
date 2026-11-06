@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen task runner declaration
+// summary: Declares TaskRunner, an adapter that forwards Open Screen tasks to a base::SequencedTaskRunner.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_TASK_RUNNER_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_TASK_RUNNER_H_
 

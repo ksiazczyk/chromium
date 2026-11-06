@@ -1,3 +1,9 @@
+---
+type: readme
+title: Open Screen platform implementation overview
+summary: Explains that the directory implements the Open Screen platform API with //base and //net and which of the two incompatible socket targets to depend on.
+---
+
 This directory contains an implementation of the
 [Open Screen](../../third_party/openscreen) platform API along with utility
 functions, using the `//base` and `//net` directories in Chromium.

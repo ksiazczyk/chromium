@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the page text observer
+// summary: Unit tests covering page text dump requests, AMP subframe handling, consumer callbacks, and Mojo disconnect behavior using a fake page text service.
+// ---
+
 #include "components/optimization_guide/content/browser/page_text_observer.h"
 
 #include <optional>

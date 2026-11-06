@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeClipboardRecentContent implementation
+// summary: Implements the FakeClipboardRecentContent test double that returns configurable clipboard URL, text and image content for use in tests.
+// ---
+
 #include "components/open_from_clipboard/fake_clipboard_recent_content.h"
 
 #include <utility>

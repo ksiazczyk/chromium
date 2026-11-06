@@ -1,3 +1,9 @@
+---
+type: reference
+title: Open Network Configuration specification
+summary: Specification of the Open Network Configuration JSON format for describing WiFi, Ethernet, cellular, and VPN network settings, including encryption, GUID-based updating, and certificate provisioning.
+---
+
 # Open Network Configuration
 
 [TOC]

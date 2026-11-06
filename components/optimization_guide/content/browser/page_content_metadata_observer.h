@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content metadata observer header
+// summary: Declares PageContentMetadataObserver and its MediaTranscriptObserver helper for observing frame meta tags and delivering page metadata via callback.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_CONTENT_METADATA_OBSERVER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_PAGE_CONTENT_METADATA_OBSERVER_H_
 

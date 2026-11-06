@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePort-backed TLS connection implementation
+// summary: Implements a TLS connection that exchanges bytes through a cast MessagePort and dispatches client callbacks on the Open Screen task runner.
+// ---
+
 #include "components/openscreen_platform/message_port_tls_connection.h"
 
 #include <string_view>

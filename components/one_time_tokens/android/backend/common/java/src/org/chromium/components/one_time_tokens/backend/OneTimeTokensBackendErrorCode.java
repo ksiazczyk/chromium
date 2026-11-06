@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time tokens backend error code annotation
+// summary: Defines an IntDef annotation of backend error codes that are persisted to logs and kept in sync with the autofill histograms enums.xml.
+// ---
+
 package org.chromium.components.one_time_tokens.backend;
 
 import androidx.annotation.IntDef;

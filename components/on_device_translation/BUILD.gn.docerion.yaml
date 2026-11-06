@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the on-device translation component
+summary: Defines GN source sets and dependencies for the on-device translation component, covering features, metrics, installer, public helpers, unit tests and test support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for on-device translation service tests
+// summary: Provides paths to the mock TranslateKit libraries, a fake FileOperationProxy backed by a temporary data directory, and helpers for service tests.
+// ---
+
 #include "components/on_device_translation/service/test/test_util.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation service controller implementation
+// summary: Implements launching the on-device translation service, language code normalization, and translator creation and can-translate handling with metrics.
+// ---
+
 #include "components/on_device_translation/service_controller.h"
 
 #include <algorithm>

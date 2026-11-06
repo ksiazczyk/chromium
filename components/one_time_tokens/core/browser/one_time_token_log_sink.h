@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeTokenLogSink header
+// summary: Declares the OneTimeTokenLogSink callback-based logger, the LogMessageBuffer stream helper and the LOG_OTT macro for conditional log messages.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_LOG_SINK_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_LOG_SINK_H_
 

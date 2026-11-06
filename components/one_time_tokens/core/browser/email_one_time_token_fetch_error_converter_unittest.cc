@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the email one time token fetch error converter
+// summary: Verifies the mapping of individual reason codes and single or multiple reason error details to client-side retrieval errors.
+// ---
+
 #include "components/one_time_tokens/core/browser/email_one_time_token_fetch_error_converter.h"
 
 #include "components/one_time_tokens/core/browser/fetch_email_one_time_token_error_details.pb.h"

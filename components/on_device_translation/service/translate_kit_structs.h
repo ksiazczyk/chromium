@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateKit C interface structs
+// summary: Defines the backwards-compatible C structs and function pointer types that form the interface contract between Chrome and the TranslateKit binary.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_TRANSLATE_KIT_STRUCTS_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_TRANSLATE_KIT_STRUCTS_H_
 

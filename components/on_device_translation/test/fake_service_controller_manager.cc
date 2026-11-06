@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake service controller manager implementation
+// summary: Implements a test fake of ServiceControllerManager that creates translators, answers CanTranslate queries, and lets tests inject per-origin service controllers.
+// ---
+
 #include "components/on_device_translation/test/fake_service_controller_manager.h"
 
 #include "base/functional/bind.h"

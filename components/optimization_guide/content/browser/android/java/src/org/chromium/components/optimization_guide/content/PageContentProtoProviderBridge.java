@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentProtoProviderBridge
+// summary: Java JNI bridge that requests AI page content from native code and parses the returned bytes into an AnnotatedPageContent proto, passing null on empty or invalid results.
+// ---
+
 package org.chromium.components.optimization_guide.content;
 
 import com.google.protobuf.InvalidProtocolBufferException;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP backend factory implementation
+// summary: Implements the GmailOtpBackend::Create factory method, which returns a GmailOtpBackendImpl built from a URL loader factory and IdentityManager.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_backend.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeTokenLogSink implementation
+// summary: Implements the log sink that dispatches messages to registered handlers and the LogMessageBuffer that emits its buffered output on destruction.
+// ---
+
 #include "components/one_time_tokens/core/browser/one_time_token_log_sink.h"
 
 namespace one_time_tokens {

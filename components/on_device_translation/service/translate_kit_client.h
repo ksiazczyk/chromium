@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateKit client interface
+// summary: Declares TranslateKitClient and its Translator interface for checking supported language pairs, creating translators and reporting library load results.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_TRANSLATE_KIT_CLIENT_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_SERVICE_TRANSLATE_KIT_CLIENT_H_
 

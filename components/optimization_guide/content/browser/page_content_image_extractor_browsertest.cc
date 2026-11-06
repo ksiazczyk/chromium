@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content image extractor browser tests
+// summary: Browser tests for GetImageBytes that load test pages, insert images, and check image byte retrieval, related histograms, and timeout behavior.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_image_extractor.h"
 
 #include <cstdint>

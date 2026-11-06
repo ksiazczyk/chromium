@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email one time token fetch coordinator class declaration
+// summary: Declares the coordinator that manages the lifecycle of email one-time token fetch requests via a delegate interface with a concurrency limit.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_EMAIL_ONE_TIME_TOKEN_FETCH_COORDINATOR_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_EMAIL_ONE_TIME_TOKEN_FETCH_COORDINATOR_H_
 

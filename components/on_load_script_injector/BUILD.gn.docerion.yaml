@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for on_load_script_injector
+summary: Defines the GN targets that build the on_load_script_injector Mojom bindings and the export header source set.

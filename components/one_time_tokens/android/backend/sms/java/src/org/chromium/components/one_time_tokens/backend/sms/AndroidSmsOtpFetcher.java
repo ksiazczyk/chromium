@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AndroidSmsOtpFetcher
+// summary: Interface for requesting SMS one-time password retrieval from a downstream implementation via success and failure callbacks.
+// ---
+
 package org.chromium.components.one_time_tokens.backend.sms;
 
 import org.chromium.base.Callback;

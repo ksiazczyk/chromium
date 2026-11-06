@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time token feature flag declarations
+// summary: Declares the Gmail OTP retrieval feature and its feature parameters for export from the one-time tokens component.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_COMMON_ONE_TIME_TOKEN_FEATURES_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_COMMON_ONE_TIME_TOKEN_FEATURES_H_
 

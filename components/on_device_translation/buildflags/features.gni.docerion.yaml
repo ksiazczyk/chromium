@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: On-device translation feature build arguments
+summary: GN file declaring the enable_on_device_translation build argument, enabled by default on desktop platforms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeTokenRetrievalError enum header
+// summary: Defines the OneTimeTokenRetrievalError enum of SMS and Gmail OTP backend error codes whose values are persisted to logs and must not be renumbered.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_RETRIEVAL_ERROR_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_ONE_TIME_TOKEN_RETRIEVAL_ERROR_H_
 

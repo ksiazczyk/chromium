@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpiringSubscriptionManagerBase implementation
+// summary: Implements ExpiringSubscriptionManagerBase with subscription storage, an expiration queue, timer scheduling, and processing of expired subscriptions and their callbacks.
+// ---
+
 #include "components/one_time_tokens/core/browser/util/expiring_subscription_manager.h"
 
 #include <optional>

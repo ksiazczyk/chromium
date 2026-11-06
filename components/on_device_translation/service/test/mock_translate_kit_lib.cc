@@ -19,6 +19,12 @@
 //   - Otherwise, pass the concatenation of the content of "dict.dat" and the
 //     input text to the callback, and return true.
 
+// ---docerion
+// type: test
+// title: Mock TranslateKit library for tests
+// summary: Implements the TranslateKit ABI as a test mock that simulates translators, crashes, errors, and package file checks based on special inputs and dict.dat contents.
+// ---
+
 #include <cstddef>
 #include <cstdint>
 #include <cstring>

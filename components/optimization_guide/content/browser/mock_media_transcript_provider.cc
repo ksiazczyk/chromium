@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media transcript provider implementation
+// summary: Implements the gmock MockMediaTranscriptProvider that fakes MediaTranscriptProvider behavior for tests.
+// ---
+
 #include "components/optimization_guide/content/browser/mock_media_transcript_provider.h"
 
 namespace optimization_guide {

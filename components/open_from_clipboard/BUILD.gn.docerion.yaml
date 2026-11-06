@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for open_from_clipboard
+summary: Defines static libraries and source sets for clipboard recent content, feature flags, iOS helpers, test support and unit tests with their dependencies.

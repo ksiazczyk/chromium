@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardRecentContent core implementation
+// summary: Implements the ClipboardRecentContent singleton instance management and computes the maximum clipboard content age from a field trial parameter.
+// ---
+
 #include "components/open_from_clipboard/clipboard_recent_content.h"
 
 #include "base/feature_list.h"

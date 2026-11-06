@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SMS OTP retrieval error converter
+// summary: Unit tests verifying that every SMS OTP retrieval API error converts to the expected one-time token retrieval error value.
+// ---
+
 #include "components/one_time_tokens/android/backend/sms/sms_otp_to_one_time_token_retrieval_error_converter.h"
 
 #include "components/one_time_tokens/android/backend/sms/sms_otp_retrieval_api_errors.h"

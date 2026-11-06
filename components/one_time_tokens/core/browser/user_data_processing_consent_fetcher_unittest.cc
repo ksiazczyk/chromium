@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User data processing consent fetcher unit tests
+// summary: Unit tests for the consent fetcher covering successful fetches, network errors, access token errors, and undefined or unknown consent states.
+// ---
+
 #include "components/one_time_tokens/core/browser/user_data_processing_consent_fetcher.h"
 
 #include <memory>

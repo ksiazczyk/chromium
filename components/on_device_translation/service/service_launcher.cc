@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation service launcher implementation
+// summary: Launches the on-device translation service process via ServiceProcessHost, passing the TranslateKit binary path and the installed language pack configuration.
+// ---
+
 #include "components/on_device_translation/service/service_launcher.h"
 
 #include "base/files/file_path.h"

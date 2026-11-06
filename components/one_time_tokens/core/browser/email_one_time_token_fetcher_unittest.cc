@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the email one time token fetcher
+// summary: Tests the fetcher's access token retrieval, network requests, response parsing and error handling using a test URL loader factory.
+// ---
+
 #include "components/one_time_tokens/core/browser/email_one_time_token_fetcher.h"
 
 #include <memory>

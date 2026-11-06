@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TlsClientConnection class declaration
+// summary: Declares TlsClientConnection, an openscreen::TlsConnection adapter that reads and writes TLS data through Mojo data pipes.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_TLS_CLIENT_CONNECTION_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_TLS_CLIENT_CONNECTION_H_
 

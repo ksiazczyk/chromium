@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content metadata observer implementation
+// summary: Implements a WebContents observer that registers per-frame meta tag observers and reports page metadata changes, including media transcript notifications.
+// ---
+
 #include "components/optimization_guide/content/browser/page_content_metadata_observer.h"
 
 #include <algorithm>

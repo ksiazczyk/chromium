@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnLoadScriptInjector implementation
+// summary: Implements a RenderFrameObserver that binds the Mojo interface and executes queued UTF-16 scripts in the main frame when a load commits.
+// ---
+
 #include "components/on_load_script_injector/renderer/on_load_script_injector.h"
 
 #include <utility>

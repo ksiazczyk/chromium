@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time tokens backend exception
+// summary: Exception carrying a OneTimeTokensBackendErrorCode that is thrown when an error occurs in the one-time token backend.
+// ---
+
 package org.chromium.components.one_time_tokens.backend;
 
 import androidx.annotation.Nullable;

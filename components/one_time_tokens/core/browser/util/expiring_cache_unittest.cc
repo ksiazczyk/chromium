@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ExpiringCache template
+// summary: Unit tests covering adding new and duplicate items, expiration after a max age, and custom projection-based equality for the ExpiringCache template.
+// ---
+
 #include "components/one_time_tokens/core/browser/util/expiring_cache.h"
 
 #include <optional>

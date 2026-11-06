@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP fetch dispatcher bridge implementation
+// summary: Implements the JNI bridge that sends OTP fetch requests to the Java-side dispatcher from a background thread.
+// ---
+
 #include "components/one_time_tokens/android/backend/sms/android_sms_otp_fetch_dispatcher_bridge.h"
 
 #include "base/android/jni_android.h"

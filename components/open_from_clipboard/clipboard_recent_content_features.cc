@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard maximum age feature flag definition
+// summary: Defines the kClipboardMaximumAge feature and its UIClipboardMaximumAge parameter, enabled by default on Android and disabled elsewhere.
+// ---
+
 #include "components/open_from_clipboard/clipboard_recent_content_features.h"
 
 const char kClipboardMaximumAgeParam[] = "UIClipboardMaximumAge";

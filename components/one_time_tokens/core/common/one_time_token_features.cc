@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time token feature flag definitions
+// summary: Defines the Gmail OTP retrieval service feature with platform-dependent default state plus subscription period and consent fetch timeout parameters.
+// ---
+
 #include "components/one_time_tokens/core/common/one_time_token_features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation installer singleton implementation
+// summary: Implements singleton instance management for OnDeviceTranslationInstaller, allowing instance override only in test mode.
+// ---
+
 #include "components/on_device_translation/installer.h"
 
 #include "base/check_is_test.h"

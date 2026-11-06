@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP service interface
+// summary: Declares the per-profile SmsOtpService KeyedService interface for cached token access, subscriptions, and one-time token requests.
+// ---
+
 #ifndef COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_SMS_OTP_SERVICE_H_
 #define COMPONENTS_ONE_TIME_TOKENS_CORE_BROWSER_SMS_OTP_SERVICE_H_
 

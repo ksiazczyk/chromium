@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill annotations provider interface
+// summary: Defines the interface and data types for exposing Autofill field metadata and fill availability to annotated page content.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_AUTOFILL_ANNOTATIONS_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CONTENT_BROWSER_AUTOFILL_ANNOTATIONS_PROVIDER_H_
 

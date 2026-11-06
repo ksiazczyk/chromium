@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of ONC preference names
+// summary: Declares the exported ONC preference name constants and the preference registration functions.
+// ---
+
 #ifndef COMPONENTS_ONC_ONC_PREF_NAMES_H_
 #define COMPONENTS_ONC_ONC_PREF_NAMES_H_
 

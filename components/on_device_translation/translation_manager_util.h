@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation manager utility helpers and locale matching
+// summary: Declares Accept-Language helpers, the Translator API permission check, and a LookupMatchingLocaleByBestFit template for matching requested language tags.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_TRANSLATION_TRANSLATION_MANAGER_UTIL_H_
 #define COMPONENTS_ON_DEVICE_TRANSLATION_TRANSLATION_MANAGER_UTIL_H_
 

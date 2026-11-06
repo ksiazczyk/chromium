@@ -1,0 +1,4 @@
+# Docerion header of clipboard_recent_content_ios.mm.
+type: source
+title: ClipboardRecentContentIOS implementation
+summary: Implements ClipboardRecentContentIOS, mapping clipboard content types to the iOS implementation, defining authorized URL schemes and recording clipboard change metrics.

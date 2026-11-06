@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the on-load script injector browser component
+summary: GN build definition for the browser component, listing its sources and its base, URL, content, Mojo, and blink dependencies.

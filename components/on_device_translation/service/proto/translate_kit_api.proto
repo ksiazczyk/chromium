@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: TranslateKit language package proto definition
+// summary: Protobuf definition for Chrome's on-device translation, describing TranslateKit language package messages including language pair codes and package paths.
+// ---
+
 // WARNING: !DO NOT CHANGE THIS FILE!
 // This file should only be synced from its source by the owner.
 syntax = "proto3";

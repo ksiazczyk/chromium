@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetUdpSocket class declaration
+// summary: Declares NetUdpSocket, an openscreen::UdpSocket implementation backed by net::UDPSocket with weak-pointer-safe dispatch of client callbacks.
+// ---
+
 #ifndef COMPONENTS_OPENSCREEN_PLATFORM_NET_UDP_SOCKET_H_
 #define COMPONENTS_OPENSCREEN_PLATFORM_NET_UDP_SOCKET_H_
 

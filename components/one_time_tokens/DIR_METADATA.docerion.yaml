@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: One time tokens directory metadata
+summary: Points the directory metadata to the shared autofill COMMON_METADATA mixins.

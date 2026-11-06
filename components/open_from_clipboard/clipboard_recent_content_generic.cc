@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardRecentContentGeneric implementation
+// summary: Implements the generic ClipboardRecentContent provider that reads recent URLs, text and images from the system clipboard via ui/base/clipboard on all platforms except iOS.
+// ---
+
 #include "components/open_from_clipboard/clipboard_recent_content_generic.h"
 
 #include <string>

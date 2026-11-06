@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneTimeToken unit tests
+// summary: Unit tests verifying the OneTimeToken constructors for SMS and Gmail tokens and the IsPotentialOtp digit and length validation.
+// ---
+
 #include "components/one_time_tokens/core/browser/one_time_token.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

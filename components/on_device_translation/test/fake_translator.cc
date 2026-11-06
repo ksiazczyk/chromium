@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake translator implementation
+// summary: Implements a fake OnDeviceTranslator mojo interface that returns canned translations such as 'Hola mundo' and splits sentences on punctuation for tests.
+// ---
+
 #include "components/on_device_translation/test/fake_translator.h"
 
 #include <vector>

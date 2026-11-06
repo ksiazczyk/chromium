@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS OTP fetch receiver bridge implementation
+// summary: Implements the JNI bridge that maps Java OTP retrieval results and error codes back to native consumers.
+// ---
+
 #include "components/one_time_tokens/android/backend/sms/android_sms_otp_fetch_receiver_bridge.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateKit sandbox hook implementation
+// summary: Implements the Linux sandbox hook that loads the TranslateKit library and starts the broker process with the file permissions the on-device translation service needs.
+// ---
+
 #include "components/on_device_translation/service/sandbox_hook.h"
 
 #include "components/on_device_translation/service/translate_kit_client.h"

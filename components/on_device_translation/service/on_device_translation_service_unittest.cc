@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OnDeviceTranslationService
+// summary: Unit tests for OnDeviceTranslationService verifying CanTranslate and CreateTranslator behavior against a mock TranslateKit library using fake file operation proxies.
+// ---
+
 #include "components/on_device_translation/service/on_device_translation_service.h"
 
 #include "base/command_line.h"

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AndroidSmsOtpFetcherFactoryUpstreamImpl
+// summary: Empty instantiable subclass of AndroidSmsOtpFetcherFactory serving as the upstream default, with real fetcher implementations provided downstream.
+// ---
+
 package org.chromium.components.one_time_tokens.backend.sms;
 
 import org.chromium.build.annotations.NullMarked;

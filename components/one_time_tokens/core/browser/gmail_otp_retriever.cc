@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP retriever implementation
+// summary: Implements GmailOtpRetriever, which retrieves a Gmail OTP for a frame origin from cached tokens or backend subscriptions and applies sender domain matching.
+// ---
+
 #include "components/one_time_tokens/core/browser/gmail_otp_retriever.h"
 
 #include <algorithm>

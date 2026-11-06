@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the on-device translation component
+summary: Lists the code owners responsible for the on_device_translation directory, referencing the Chrome AI owners file and danft@google.com.

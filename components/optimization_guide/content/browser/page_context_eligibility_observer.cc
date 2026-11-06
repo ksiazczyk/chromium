@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context eligibility observer implementation
+// summary: Implements a WebContentsObserver that computes and reports page context eligibility changes using the eligibility API and renderer-provided meta tag metadata.
+// ---
+
 #include "components/optimization_guide/content/browser/page_context_eligibility_observer.h"
 
 #include "base/containers/span.h"

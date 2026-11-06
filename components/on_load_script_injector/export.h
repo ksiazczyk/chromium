@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macro header for on_load_script_injector
+// summary: Defines the ON_LOAD_SCRIPT_INJECTOR_EXPORT macro that controls symbol visibility in component builds.
+// ---
+
 #ifndef COMPONENTS_ON_LOAD_SCRIPT_INJECTOR_EXPORT_H_
 #define COMPONENTS_ON_LOAD_SCRIPT_INJECTOR_EXPORT_H_
 
