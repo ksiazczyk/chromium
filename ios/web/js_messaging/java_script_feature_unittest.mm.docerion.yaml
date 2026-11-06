@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_unittest.mm.
+type: test
+title: JavaScriptFeature unit tests
+summary: Unit tests for JavaScriptFeature::FeatureScript creation covering injection times, target frames and reinjection behavior.

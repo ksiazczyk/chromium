@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view JavaScript utilities header
+// summary: Declares helpers to execute JavaScript on WKWebView, convert between base values and Foundation objects, and register existing web frames.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_WEB_VIEW_JS_UTILS_H_
 #define IOS_WEB_JS_MESSAGING_WEB_VIEW_JS_UTILS_H_
 

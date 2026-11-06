@@ -1,0 +1,4 @@
+# Docerion header of crw_wk_navigation_states.mm.
+type: source
+title: CRWWKNavigationStates implementation
+summary: Implements storage of WKNavigation states, creation order and associated navigation contexts.

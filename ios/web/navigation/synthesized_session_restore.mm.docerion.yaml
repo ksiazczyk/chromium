@@ -1,0 +1,4 @@
+# Docerion header of synthesized_session_restore.mm.
+type: source
+title: SynthesizedSessionRestore implementation
+summary: Builds a session restore dictionary of navigation items and serializes it as a binary property list for WKWebView interaction state.

@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_navigation_observer.mm.
+type: source
+title: CRWWebViewNavigationObserver implementation
+summary: Implements KVO observation of WKWebView URL, loading, progress, and back-forward state to track navigation events and update navigation state.

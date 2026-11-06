@@ -1,0 +1,4 @@
+# Docerion header of proto_util_unittest.mm.
+type: test
+title: Unit tests for HTTP header proto round trip
+summary: Verifies that HTTP request headers survive serialization to proto storage and back unchanged.

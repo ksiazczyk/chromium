@@ -1,0 +1,4 @@
+# Docerion header of script_error_details.mm.
+type: source
+title: Script error details implementation
+summary: Implements the ScriptErrorDetails struct constructors and destructor that hold details of a JavaScript error such as frame, line number, message, API, stack and URL.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page script utility declarations
+// summary: Declares helpers to load bundled page scripts and to wrap scripts so they inject only once and run only on allowed origins.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_PAGE_SCRIPT_UTIL_H_
 #define IOS_WEB_JS_MESSAGING_PAGE_SCRIPT_UTIL_H_
 

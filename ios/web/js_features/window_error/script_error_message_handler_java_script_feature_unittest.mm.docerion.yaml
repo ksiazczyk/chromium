@@ -1,0 +1,4 @@
+# Docerion header of script_error_message_handler_java_script_feature_unittest.mm.
+type: test
+title: Script error message handler unit tests
+summary: Verifies that error details are received for script errors occurring in the main frame head and body and in iframes using web test fixtures.

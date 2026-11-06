@@ -7,6 +7,12 @@
  * must be included at document end time.
  */
 
+// ---docerion
+// type: source
+// title: Frame load notification setup
+// summary: Notifies the application that the frame has loaded by calling gCrWeb.registerFrame at document end script injection time.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 
 // Requires message.js to already have been injected.

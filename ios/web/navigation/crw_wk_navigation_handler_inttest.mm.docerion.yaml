@@ -1,0 +1,4 @@
+# Docerion header of crw_wk_navigation_handler_inttest.mm.
+type: test
+title: CRWWKNavigationHandler integration tests
+summary: Integration tests covering navigation failures, SSL and net errors, failed HTTPS upgrades, and blocked redirects using an embedded test server.

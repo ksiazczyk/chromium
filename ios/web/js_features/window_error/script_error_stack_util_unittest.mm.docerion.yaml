@@ -1,0 +1,4 @@
+# Docerion header of script_error_stack_util_unittest.mm.
+type: test
+title: Script error stack utility unit tests
+summary: Tests filtering of stack frames, parsing of top frame components for user-script and URL filenames, and middle truncation of large stacks.

@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_manager_inttest.mm.
+type: test
+title: JavaScriptFeatureManager integration tests
+summary: Integration tests checking that features registered by JavaScriptFeatureManager in page and isolated content worlds receive script message callbacks from main frames and iframes.

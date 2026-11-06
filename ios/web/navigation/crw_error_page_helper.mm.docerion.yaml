@@ -1,0 +1,4 @@
+# Docerion header of crw_error_page_helper.mm.
+type: source
+title: Error page helper implementation
+summary: Implements error page file URL construction, HTML injection scripts, and failed URL extraction for navigation errors.

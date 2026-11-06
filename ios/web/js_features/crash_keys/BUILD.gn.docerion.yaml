@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crash keys JS build targets
+summary: GN build file defining targets to compile the crash_keys TypeScript, optimize its test script, and build the JavaScript unit tests.

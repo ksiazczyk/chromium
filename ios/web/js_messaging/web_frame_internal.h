@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebFrameInternal interface
+// summary: Declares the internal WebFrame interface for calling and executing JavaScript functions within specific content worlds.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_WEB_FRAME_INTERNAL_H_
 #define IOS_WEB_JS_MESSAGING_WEB_FRAME_INTERNAL_H_
 

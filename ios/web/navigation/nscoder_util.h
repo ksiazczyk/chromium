@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSCoder string encoding helper declarations
+// summary: Declares functions to encode a std::string into an Objective-C key archiver and decode it from a key unarchiver.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_NSCODER_UTIL_H_
 #define IOS_WEB_NAVIGATION_NSCODER_UTIL_H_
 

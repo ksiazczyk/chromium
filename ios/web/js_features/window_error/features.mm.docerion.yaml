@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: JavaScript error report signature filter implementation
+summary: Implements regex-based filtering of JavaScript error report uploads driven by the signature filter feature and its regex parameter.

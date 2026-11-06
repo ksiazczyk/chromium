@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebKit error constants for iOS navigation
+// summary: Declares the WebKit error domain and error code constants that are missing from the iOS SDK's WebKitErrors.h.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_WEB_KIT_CONSTANTS_H_
 #define IOS_WEB_NAVIGATION_WEB_KIT_CONSTANTS_H_
 

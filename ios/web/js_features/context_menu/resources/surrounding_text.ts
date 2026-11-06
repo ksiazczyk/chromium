@@ -7,6 +7,12 @@
  * pressed character.
  */
 
+// ---docerion
+// type: source
+// title: Surrounding text extraction for long press
+// summary: Exports getSurroundingText, which returns the text surrounding a long-pressed character while skipping invalid elements such as controls and contenteditable nodes.
+// ---
+
 // The number of characters to add after a long press going left or going right.
 const NUMBER_OF_SURROUNDING_CHARS = 100;
 

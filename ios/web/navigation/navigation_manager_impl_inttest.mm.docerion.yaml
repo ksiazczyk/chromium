@@ -1,0 +1,4 @@
+# Docerion header of navigation_manager_impl_inttest.mm.
+type: test
+title: NavigationManagerImpl integration tests
+summary: Integration tests exercising the navigation manager against a real web view and embedded test server, focusing on session restoration.

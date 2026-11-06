@@ -1,0 +1,4 @@
+# Docerion header of crw_cert_verification_controller.mm.
+type: source
+title: CRWCertVerificationController implementation
+summary: Implements SSL trust verification via SecTrust, applying user-accepted certificate exceptions and deciding load policy for rejected trusts.

@@ -1,0 +1,4 @@
+# Docerion header of error_page_injected.html.
+type: source
+title: Injected error page reload script
+summary: Script injected into error pages that replaces the current location with a URL supplied by the injecting native code whenever the page is shown again.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error page helper interface
+// summary: Declares CRWErrorPageHelper, which builds error page URLs and HTML injection scripts from a navigation error.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_ERROR_PAGE_HELPER_H_
 #define IOS_WEB_NAVIGATION_CRW_ERROR_PAGE_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of cookie_notification_bridge.mm.
+type: source
+title: CookieNotificationBridge implementation
+summary: Objective-C++ implementation that registers for NSHTTPCookieManagerCookiesChangedNotification and posts a cookie store change notification to the IO thread.

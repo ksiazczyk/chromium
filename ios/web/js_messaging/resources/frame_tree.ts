@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame tree parent-child registration
+// summary: Tracks parent-child relationships between frames, registering child frames with tokens and an isolated-world secret and reporting them to C++.
+// ---
+
 import {gCrWeb, setRegisterCallback} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {generateRandomId, sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

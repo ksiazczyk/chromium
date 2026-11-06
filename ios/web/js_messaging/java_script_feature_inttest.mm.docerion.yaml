@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_inttest.mm.
+type: test
+title: JavaScriptFeature integration tests
+summary: Integration tests verifying that a JavaScriptFeature injects and executes its scripts and receives script messages in page and isolated content worlds.

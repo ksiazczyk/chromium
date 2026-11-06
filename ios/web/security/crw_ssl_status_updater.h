@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWSSLStatusUpdater class declaration
+// summary: Declares the CRWSSLStatusUpdater Objective-C class, data source, and delegate protocols used to update the SSL status of navigation items.
+// ---
+
 #ifndef IOS_WEB_SECURITY_CRW_SSL_STATUS_UPDATER_H_
 #define IOS_WEB_SECURITY_CRW_SSL_STATUS_UPDATER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerificationError struct and cache type
+// summary: Declares the CertVerificationError struct and the LRU cache type that stores cert verification errors keyed by CertHostPair.
+// ---
+
 #ifndef IOS_WEB_SECURITY_CERT_VERIFICATION_ERROR_H_
 #define IOS_WEB_SECURITY_CERT_VERIFICATION_ERROR_H_
 

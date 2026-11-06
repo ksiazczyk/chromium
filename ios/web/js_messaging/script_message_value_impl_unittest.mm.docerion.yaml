@@ -1,0 +1,4 @@
+# Docerion header of script_message_value_impl_unittest.mm.
+type: test
+title: ScriptMessageValue unit tests
+summary: Unit tests verifying ScriptMessageValue construction from bool, string, double, dictionary and array types plus move semantics.

@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_manager.mm.
+type: source
+title: JavaScriptFeatureManager implementation
+summary: Implements JavaScriptFeatureManager, associating an instance with each BrowserState and adding features to the page or isolated content worlds.

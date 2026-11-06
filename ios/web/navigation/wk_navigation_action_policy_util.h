@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKNavigationActionPolicy utilities header
+// summary: Declares a navigation action policy that allows loads while blocking universal links and a helper to select the policy based on browser state.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_WK_NAVIGATION_ACTION_POLICY_UTIL_H_
 #define IOS_WEB_NAVIGATION_WK_NAVIGATION_ACTION_POLICY_UTIL_H_
 

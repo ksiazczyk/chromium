@@ -1,0 +1,4 @@
+# Docerion header of features_unittest.mm.
+type: test
+title: Unit tests for JavaScript error report signature filtering
+summary: Tests upload filtering behavior when the signature filter feature is disabled, enabled with the default regex, given an invalid regex, or given message and API name filters.

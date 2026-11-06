@@ -1,0 +1,4 @@
+# Docerion header of script_message_dict_value_impl_unittest.mm.
+type: test
+title: Script message dictionary value unit tests
+summary: Unit tests verifying empty, size, contains, and Find* behavior of ScriptMessageDictValue, including nested dictionaries and lists.

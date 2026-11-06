@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content world conversion utilities declaration
+// summary: Declares conversion helpers between WKContentWorld instances and the web::ContentWorld enum.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_CONTENT_WORLD_UTIL_H_
 #define IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_CONTENT_WORLD_UTIL_H_
 

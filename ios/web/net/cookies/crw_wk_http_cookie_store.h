@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWKHTTPCookieStore interface
+// summary: Declares CRWWKHTTPCookieStore, a WKHTTPCookieStore wrapper that caches getAllCookies results and works around a missing-callback bug.
+// ---
+
 #ifndef IOS_WEB_NET_COOKIES_CRW_WK_HTTP_COOKIE_STORE_H_
 #define IOS_WEB_NET_COOKIES_CRW_WK_HTTP_COOKIE_STORE_H_
 

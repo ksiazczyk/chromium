@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenJavaScriptFeature class header
+// summary: Declares the web::FullscreenJavaScriptFeature singleton class, a JavaScript feature that listens for viewport configuration messages.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_FULLSCREEN_FULLSCREEN_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_FEATURES_FULLSCREEN_FULLSCREEN_JAVA_SCRIPT_FEATURE_H_
 

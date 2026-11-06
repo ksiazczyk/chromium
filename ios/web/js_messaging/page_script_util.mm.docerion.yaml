@@ -1,0 +1,4 @@
+# Docerion header of page_script_util.mm.
+type: source
+title: Page script utility implementation
+summary: Implements loading JavaScript from bundled resources and wrapping scripts for single injection and origin-restricted execution.

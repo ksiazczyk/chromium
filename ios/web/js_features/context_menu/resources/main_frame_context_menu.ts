@@ -6,6 +6,12 @@
  * @fileoverview APIs used by CRWContextMenuController.
  */
 
+// ---docerion
+// type: source
+// title: Main frame context menu JavaScript API
+// summary: Registers the contextMenu API whose findElementAtPoint delegates to the all-frames implementation to locate the image or link under the selected point.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 
 /**

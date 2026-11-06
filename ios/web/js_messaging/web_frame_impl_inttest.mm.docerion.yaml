@@ -1,0 +1,4 @@
+# Docerion header of web_frame_impl_inttest.mm.
+type: test
+title: WebFrameImpl integration tests
+summary: Integration tests exercising JavaScript function calls on main frames and iframes using a real JavaScript context.

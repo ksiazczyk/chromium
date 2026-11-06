@@ -8,6 +8,12 @@
  * state across bundles while remaining hidden from property enumeration.
  */
 
+// ---docerion
+// type: source
+// title: Crash keys management API
+// summary: TypeScript API for setting, getting, and clearing crash keys attached to reports, storing them on the document via a global symbol so state is shared across bundles.
+// ---
+
 const CRASH_KEYS_MAP_SYMBOL = Symbol.for('__gCrJSCrashKeysMap');
 
 declare global {

@@ -1,0 +1,4 @@
+# Docerion header of window_location_inttest.mm.
+type: test
+title: Window.location integration tests
+summary: Integration tests that verify window.location assign, replace and reload commands trigger the correct navigation behavior via a dedicated test page.

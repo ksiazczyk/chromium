@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeSmoother implementation
+// summary: Implements timestamp smoothing that advances duplicate times past the high-water mark while still allowing time to move backwards.
+// ---
+
 #include "ios/web/navigation/time_smoother.h"
 
 namespace web {

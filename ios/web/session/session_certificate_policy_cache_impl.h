@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionCertificatePolicyCacheImpl class declaration
+// summary: Declares the concrete SessionCertificatePolicyCache that stores allowed certificates and supports construction and serialization from proto storage.
+// ---
+
 #ifndef IOS_WEB_SESSION_SESSION_CERTIFICATE_POLICY_CACHE_IMPL_H_
 #define IOS_WEB_SESSION_SESSION_CERTIFICATE_POLICY_CACHE_IMPL_H_
 

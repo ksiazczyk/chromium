@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web frames tree JavaScript feature header
+// summary: Declares WebFramesTreeJavaScriptFeature, a singleton JavaScript feature that manages frame tree hierarchy and child frame registration in the isolated world.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_WEB_FRAMES_TREE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_MESSAGING_WEB_FRAMES_TREE_JAVA_SCRIPT_FEATURE_H_
 

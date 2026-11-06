@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollHelperJavaScriptFeature header
+// summary: Declares ScrollHelperJavaScriptFeature, a JavaScript feature with helpers to work around scroll problems in WKWebView, including setting the scroll dragging state.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_SCROLL_HELPER_SCROLL_HELPER_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_FEATURES_SCROLL_HELPER_SCROLL_HELPER_JAVA_SCRIPT_FEATURE_H_
 

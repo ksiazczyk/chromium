@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for js_image_transcoder
+summary: Defines the js_image_transcoder source set, its unit tests, and the optimized transcode_image TypeScript script target.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the window_error feature
+summary: Defines GN source sets and dependencies for the iOS window error feature, covering error listeners, error reporting, script error utilities, and unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of session_certificate_policy_cache_impl_unittest.mm.
+type: test
+title: Unit tests for SessionCertificatePolicyCacheImpl
+summary: Tests registering allowed certificates, querying policy judgments on the IO thread, and serialization of the certificate policy cache.

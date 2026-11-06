@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_util_impl.mm.
+type: source
+title: Built-in JavaScript feature utilities implementation
+summary: Assembles the built-in JavaScriptFeatures for //ios/web, wiring features such as favicon, find-in-page, clipboard, context menu and JavaScript error logging.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation item holder interface
+// summary: Declares an NSObject wrapper that associates a NavigationItemImpl with a WKBackForwardListItem.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_NAVIGATION_ITEM_HOLDER_H_
 #define IOS_WEB_NAVIGATION_CRW_NAVIGATION_ITEM_HOLDER_H_
 

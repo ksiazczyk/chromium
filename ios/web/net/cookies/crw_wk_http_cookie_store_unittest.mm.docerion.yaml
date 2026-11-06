@@ -1,0 +1,4 @@
+# Docerion header of crw_wk_http_cookie_store_unittest.mm.
+type: test
+title: Unit tests for CRWWKHTTPCookieStore
+summary: Tests caching, setting, deleting and clearing of cookies in CRWWKHTTPCookieStore using OCMock and a non-persistent WKWebsiteDataStore.

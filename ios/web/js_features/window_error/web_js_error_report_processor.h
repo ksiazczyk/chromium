@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web JavaScript error report processor
+// summary: Declares a per-BrowserState processor that reports JavaScript errors and failed executions and uploads error reports with duplicate suppression.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_WEB_JS_ERROR_REPORT_PROCESSOR_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_WEB_JS_ERROR_REPORT_PROCESSOR_H_
 

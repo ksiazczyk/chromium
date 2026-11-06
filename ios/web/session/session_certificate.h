@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionCertificate class declaration
+// summary: Declares an allowed certificate for a specific host as stored in the session certificate policy cache, with hashing and set typedefs.
+// ---
+
 #ifndef IOS_WEB_SESSION_SESSION_CERTIFICATE_H_
 #define IOS_WEB_SESSION_SESSION_CERTIFICATE_H_
 

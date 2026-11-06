@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript navigation handler interface
+// summary: Declares CRWJSNavigationHandler for handling history pushState and replaceState messages from web pages.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_JS_NAVIGATION_HANDLER_H_
 #define IOS_WEB_NAVIGATION_CRW_JS_NAVIGATION_HANDLER_H_
 

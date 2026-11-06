@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_java_script_feature_unittest.mm.
+type: test
+title: FullscreenJavaScriptFeature unit tests
+summary: Unit tests verifying that viewport-fit values cover, auto, and unset propagate correctly to the web controller container view.

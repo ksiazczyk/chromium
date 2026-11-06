@@ -1,0 +1,4 @@
+# Docerion header of ios_javascript_error_report.mm.
+type: source
+title: IOSJavaScriptErrorReport struct implementation
+summary: Provides the default constructor, copy and move operations, and destructor for the IOSJavaScriptErrorReport struct.

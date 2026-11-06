@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS context menu feature
+summary: Defines the context_menu source set, TypeScript compilation targets and unit test target for the iOS context menu feature.

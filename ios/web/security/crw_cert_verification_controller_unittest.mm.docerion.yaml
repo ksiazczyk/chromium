@@ -1,0 +1,4 @@
+# Docerion header of crw_cert_verification_controller_unittest.mm.
+type: test
+title: CRWCertVerificationController unit tests
+summary: Unit tests for the certificate verification controller, checking load policy decisions and SSL status queries for valid and invalid server trust.

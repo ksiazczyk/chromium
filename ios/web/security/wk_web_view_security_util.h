@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKWebView security utility declarations
+// summary: Declares helpers to create certificates and server trust from chains, force trust evaluation to succeed, and extract SSL info from WKWebView errors.
+// ---
+
 #ifndef IOS_WEB_SECURITY_WK_WEB_VIEW_SECURITY_UTIL_H_
 #define IOS_WEB_SECURITY_WK_WEB_VIEW_SECURITY_UTIL_H_
 

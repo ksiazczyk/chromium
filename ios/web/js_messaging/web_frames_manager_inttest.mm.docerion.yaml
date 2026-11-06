@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_inttest.mm.
+type: test
+title: WebFramesManager integration tests
+summary: Integration tests verifying that WebFramesManager tracks web frames correctly across page loads and back navigation.

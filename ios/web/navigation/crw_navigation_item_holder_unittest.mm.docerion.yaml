@@ -1,0 +1,4 @@
+# Docerion header of crw_navigation_item_holder_unittest.mm.
+type: test
+title: CRWNavigationItemHolder unit tests
+summary: Unit tests verifying holder creation for back-forward list items, navigation item storage and retrieval, and holder uniqueness per item.

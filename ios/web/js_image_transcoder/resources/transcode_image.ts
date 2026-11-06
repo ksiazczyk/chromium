@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image transcoder TypeScript module
+// summary: Provides transcodeImage, which decodes base64 image data and reencodes it to a chosen type, width, height and quality using canvas.
+// ---
+
 // Converts `dataBase64` from a base-64 encoded string to a Blob.
 function base64toBlob(dataBase64: string): Blob {
   const sliceSize = 512;

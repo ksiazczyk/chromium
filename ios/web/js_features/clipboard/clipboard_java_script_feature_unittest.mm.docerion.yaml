@@ -1,0 +1,4 @@
+# Docerion header of clipboard_java_script_feature_unittest.mm.
+type: test
+title: ClipboardJavaScriptFeature unit tests
+summary: Tests the native clipboard feature with a fake web state delegate, verifying copy and paste permission handling and outcome metrics.

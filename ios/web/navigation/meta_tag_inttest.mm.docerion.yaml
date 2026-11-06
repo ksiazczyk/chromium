@@ -1,0 +1,4 @@
+# Docerion header of meta_tag_inttest.mm.
+type: test
+title: Meta tag refresh integration tests
+summary: Integration tests verifying that pages redirect after meta HTTP-EQUIV REFRESH delays.

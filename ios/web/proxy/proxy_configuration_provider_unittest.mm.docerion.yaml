@@ -1,0 +1,4 @@
+# Docerion header of proxy_configuration_provider_unittest.mm.
+type: test
+title: Unit tests for the proxy configuration provider
+summary: Verifies that proxy rules produce native proxy configurations with the expected match and excluded domains on iOS 17 and later.

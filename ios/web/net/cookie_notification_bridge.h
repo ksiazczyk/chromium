@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieNotificationBridge class header
+// summary: Declares the web::CookieNotificationBridge class, which listens for system cookie change notifications and re-sends them to the cookie store on the IO thread.
+// ---
+
 #ifndef IOS_WEB_NET_COOKIE_NOTIFICATION_BRIDGE_H_
 #define IOS_WEB_NET_COOKIE_NOTIFICATION_BRIDGE_H_
 

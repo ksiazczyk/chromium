@@ -1,0 +1,4 @@
+# Docerion header of wk_navigation_util_unittest.mm.
+type: test
+title: WKNavigation util unit tests
+summary: Unit tests covering GetSafeItemRange session trimming and which URLs require a user agent type.

@@ -1,0 +1,4 @@
+# Docerion header of error_page_reloaded.html.
+type: source
+title: Error page cache reload script
+summary: Script that reloads the error page when it is redisplayed from the browser cache, detected via a persisted pageshow event.

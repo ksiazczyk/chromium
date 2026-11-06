@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature_util_impl_unittest.mm.
+type: test
+title: JavaScript feature util implementation unit tests
+summary: Unit tests checking that the base and built-in JavaScript features are returned with the expected scripts, injection times and target frames.

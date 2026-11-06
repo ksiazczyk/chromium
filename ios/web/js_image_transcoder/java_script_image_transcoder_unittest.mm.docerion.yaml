@@ -1,0 +1,4 @@
+# Docerion header of java_script_image_transcoder_unittest.mm.
+type: test
+title: JavaScriptImageTranscoder unit tests
+summary: Tests transcoding PNG images to PNG, including resizing to a given width and height.

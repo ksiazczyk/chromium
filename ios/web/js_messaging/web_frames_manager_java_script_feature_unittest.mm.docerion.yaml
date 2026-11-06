@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_java_script_feature_unittest.mm.
+type: test
+title: WebFramesManagerJavaScriptFeature unit tests
+summary: Unit tests for WebFramesManagerJavaScriptFeature using mocked WKScriptMessage frame notifications.

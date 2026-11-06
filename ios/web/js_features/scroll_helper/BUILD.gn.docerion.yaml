@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for scroll_helper
+summary: Defines the scroll_helper source set and the optimize_ts target that compiles resources/scroll_helper.ts for the iOS web scroll helper feature.

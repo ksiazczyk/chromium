@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebFramesManagerImpl interface
+// summary: Declares the WebFramesManager implementation that registers, removes and looks up web frames by ID.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_WEB_FRAMES_MANAGER_IMPL_H_
 #define IOS_WEB_JS_MESSAGING_WEB_FRAMES_MANAGER_IMPL_H_
 

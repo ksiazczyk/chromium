@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript content world class declaration
+// summary: Declares the JavaScriptContentWorld class that configures isolated WKContentWorlds for JavaScript features and routes script messages to handlers.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_CONTENT_WORLD_H_
 #define IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_CONTENT_WORLD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CertPolicy
+// summary: Unit tests verifying CertPolicy allow and check behavior for certificates with single and combined error statuses.
+// ---
+
 #include "ios/web/public/security/cert_policy.h"
 
 #include "base/memory/ref_counted.h"

@@ -1,0 +1,4 @@
+# Docerion header of synthesized_session_restore_unittest.mm.
+type: test
+title: Synthesized session restore unit tests
+summary: Verifies that synthesized session restore data is accepted by WebStateImpl and restores the expected number of navigation items.

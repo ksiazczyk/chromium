@@ -6,6 +6,12 @@
  * @fileoverview APIs used by CRWContextMenuController.
  */
 
+// ---docerion
+// type: source
+// title: All-frames context menu JavaScript API
+// summary: JavaScript API used by CRWContextMenuController to find the image, link or text element at a tapped point across all frames and report details back to native code.
+// ---
+
 import {getSurroundingText} from '//ios/web/js_features/context_menu/resources/surrounding_text.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';

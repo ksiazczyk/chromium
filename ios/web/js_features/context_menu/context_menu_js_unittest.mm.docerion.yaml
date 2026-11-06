@@ -1,0 +1,4 @@
+# Docerion header of context_menu_js_unittest.mm.
+type: test
+title: Context menu JavaScript unit tests
+summary: Unit tests for the context menu JavaScript covering element detection on links, images, SVG and shadow DOM content.

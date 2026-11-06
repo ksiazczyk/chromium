@@ -1,0 +1,4 @@
+# Docerion header of scroll_helper_java_script_feature.mm.
+type: source
+title: ScrollHelperJavaScriptFeature implementation
+summary: Implements ScrollHelperJavaScriptFeature, injecting the scroll_helper script at document start and calling scrollHelper.setWebViewScrollViewIsDragging on the main frame.

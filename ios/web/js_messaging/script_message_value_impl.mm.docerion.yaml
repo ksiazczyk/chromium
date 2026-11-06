@@ -1,0 +1,4 @@
+# Docerion header of script_message_value_impl.mm.
+type: source
+title: ScriptMessageValue implementation
+summary: Implements the ScriptMessageValue variant that holds strings, numbers, booleans, dictionaries or lists and converts them to base::Value.

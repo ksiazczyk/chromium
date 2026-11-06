@@ -1,0 +1,4 @@
+# Docerion header of crw_js_navigation_handler.mm.
+type: source
+title: JavaScript navigation handler implementation
+summary: Implements handling of window.history push and replace state messages, updating navigation items and history state.

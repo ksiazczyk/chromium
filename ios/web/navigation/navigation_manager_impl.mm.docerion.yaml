@@ -1,0 +1,4 @@
+# Docerion header of navigation_manager_impl.mm.
+type: source
+title: NavigationManagerImpl implementation
+summary: Implements back-forward navigation history on WKBackForwardList, including pending item handling and session restoration with metrics.

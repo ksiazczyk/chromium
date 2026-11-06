@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorEventListenerJavaScriptFeature class declaration
+// summary: Declares the singleton JavaScript feature that injects a script listening for JavaScript errors and reporting them to the native application.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_ERROR_EVENT_LISTENER_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_ERROR_EVENT_LISTENER_JAVA_SCRIPT_FEATURE_H_
 

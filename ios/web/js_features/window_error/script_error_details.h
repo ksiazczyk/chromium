@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptErrorDetails struct declaration
+// summary: Declares the struct holding the API name, line number, message, stack, URL, main-frame flag, and crash keys for a script error.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_SCRIPT_ERROR_DETAILS_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_SCRIPT_ERROR_DETAILS_H_
 

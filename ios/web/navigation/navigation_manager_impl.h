@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationManagerImpl header
+// summary: Declares the WKBackForwardList-based NavigationManager implementation that mirrors Chromium's NavigationController and links items to WKBackForwardListItems.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_NAVIGATION_MANAGER_IMPL_H_
 #define IOS_WEB_NAVIGATION_NAVIGATION_MANAGER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_java_script_feature.mm.
+type: source
+title: WebFramesManagerJavaScriptFeature implementation
+summary: Implements the frame lifecycle feature, handling frame available and unavailable messages per content world.

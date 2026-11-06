@@ -1,0 +1,4 @@
+# Docerion header of web_navigation.mm.
+type: source
+title: Navigation provider stub
+summary: Implements the navigation provider API, always reporting that a back-forward list item was not created automatically.

@@ -1,0 +1,4 @@
+# Docerion header of script_error_stack_util.mm.
+type: source
+title: Script error stack utilities implementation
+summary: Implements filtering of unhelpful stack frames, parsing of top frame components and middle truncation of JavaScript error stacks.

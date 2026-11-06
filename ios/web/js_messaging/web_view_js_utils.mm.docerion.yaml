@@ -1,0 +1,4 @@
+# Docerion header of web_view_js_utils.mm.
+type: source
+title: Web view JavaScript utilities implementation
+summary: Implements JavaScript execution on WKWebView and conversion of evaluation results between base values and Foundation types with recursion depth limits.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationManager utility helpers
+// summary: Declares helper functions that look up committed or pending navigation items by unique ID, extending the NavigationManager API outside ios/web/public.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_NAVIGATION_MANAGER_UTIL_H_
 #define IOS_WEB_NAVIGATION_NAVIGATION_MANAGER_UTIL_H_
 

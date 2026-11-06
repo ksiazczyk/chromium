@@ -1,0 +1,4 @@
+# Docerion header of java_script_image_transcoder.mm.
+type: source
+title: JavaScriptImageTranscoder implementation
+summary: Implements image transcoding by running a transcode_image JavaScript script in a WKWebView and returning transcoded image data.

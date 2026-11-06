@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_java_script_feature.mm.
+type: source
+title: FullscreenJavaScriptFeature implementation
+summary: Implements the fullscreen feature by injecting the fullscreen script and forwarding viewport-fit cover messages from the main frame to the web controller.

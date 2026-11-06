@@ -1,0 +1,4 @@
+# Docerion header of error_page_java_script_feature.mm.
+type: source
+title: ErrorPageJavaScriptFeature implementation
+summary: Implements the error page JavaScript feature, handling main-frame error page messages to update, reset, and supply the easter egg game high score stored in NSUserDefaults.

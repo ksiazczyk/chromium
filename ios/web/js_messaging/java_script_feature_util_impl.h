@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Built-in JavaScript feature utilities header
+// summary: Declares helpers that return the JavaScriptFeatures built into //ios/web, including the scroll helper feature.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_FEATURE_UTIL_IMPL_H_
 #define IOS_WEB_JS_MESSAGING_JAVA_SCRIPT_FEATURE_UTIL_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionCertificatePolicyCacheImpl implementation
+// summary: Implements the concrete certificate policy cache, registering allowed certificates on the IO thread and serializing them to proto storage.
+// ---
+
 #include "ios/web/session/session_certificate_policy_cache_impl.h"
 
 #include "base/functional/bind.h"

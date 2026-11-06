@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_observer_bridge_unittest.mm.
+type: test
+title: Web frames manager observer bridge unit tests
+summary: Unit tests verifying that WebFramesManagerObserverBridge forwards frame availability and unavailability callbacks to the Objective-C observer.

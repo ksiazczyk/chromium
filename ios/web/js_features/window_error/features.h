@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript error report signature filter feature declarations
+// summary: Declares the kIOSJavaScriptErrorReportSignatureFilter feature flag and helper functions that decide whether a JavaScript error report may be uploaded.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_FEATURES_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_FEATURES_H_
 

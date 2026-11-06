@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptMessageValue utility header
+// summary: Declares CreateScriptMessageValue, a helper that converts an Objective-C object into a ScriptMessageValue.
+// ---
+
 #ifndef IOS_WEB_JS_MESSAGING_SCRIPT_MESSAGE_VALUE_UTIL_H_
 #define IOS_WEB_JS_MESSAGING_SCRIPT_MESSAGE_VALUE_UTIL_H_
 

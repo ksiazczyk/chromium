@@ -1,0 +1,4 @@
+# Docerion header of navigation_item_impl.mm.
+type: source
+title: NavigationItemImpl implementation
+summary: Implements the iOS NavigationItem, storing URL, title, referrer, transition type and HTTP headers, with serialization to and from session proto storage.

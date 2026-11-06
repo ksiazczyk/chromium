@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll helper JavaScript API for iOS web view
+// summary: Registers a gCrWeb scrollHelper API that tracks scroll view dragging and suppresses window.scrollTo calls while the user is scrolling, as a workaround for crbug.com/554257.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 
 /**

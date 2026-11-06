@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewNavigationObserver header
+// summary: Declares an observer that watches navigation-related WKWebView properties and forwards the events to a delegate.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_WEB_VIEW_NAVIGATION_OBSERVER_H_
 #define IOS_WEB_NAVIGATION_CRW_WEB_VIEW_NAVIGATION_OBSERVER_H_
 

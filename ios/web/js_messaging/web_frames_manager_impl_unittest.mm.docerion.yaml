@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_impl_unittest.mm.
+type: test
+title: WebFramesManagerImpl unit tests
+summary: Unit tests for WebFramesManagerImpl verifying frame addition, removal, main frame handling and observer callbacks.

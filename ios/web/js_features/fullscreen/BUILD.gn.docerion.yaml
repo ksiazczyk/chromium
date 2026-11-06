@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen JavaScript feature BUILD.gn
+summary: GN build rules defining the fullscreen source set, its optimized TypeScript script target, and the testonly unittests target.

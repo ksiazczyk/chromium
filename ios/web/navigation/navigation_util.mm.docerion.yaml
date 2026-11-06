@@ -1,0 +1,4 @@
+# Docerion header of navigation_util.mm.
+type: source
+title: Navigation utilities for WebState storage serialization
+summary: Creates WebStateStorage protobuf messages from web load params, serializing navigation item details, metadata and active page information.

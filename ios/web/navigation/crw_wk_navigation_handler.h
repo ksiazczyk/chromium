@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWKNavigationHandler header
+// summary: Declares the WKNavigationDelegate handler that manages WKWebView navigation callbacks and page loading state, along with its owner delegate protocol.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_WK_NAVIGATION_HANDLER_H_
 #define IOS_WEB_NAVIGATION_CRW_WK_NAVIGATION_HANDLER_H_
 

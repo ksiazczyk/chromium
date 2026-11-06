@@ -1,0 +1,4 @@
+# Docerion header of web_frame_impl_unittest.mm.
+type: test
+title: WebFrameImpl unit tests
+summary: Unit tests for WebFrameImpl covering frame creation for main frames and JavaScript function calls in content worlds.

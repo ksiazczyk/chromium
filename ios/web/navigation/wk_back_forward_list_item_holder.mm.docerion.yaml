@@ -1,0 +1,4 @@
+# Docerion header of wk_back_forward_list_item_holder.mm.
+type: source
+title: WKBackForwardListItemHolder implementation
+summary: Implements lazy creation and attachment of the holder to a NavigationItem's user data using a private identifier key.

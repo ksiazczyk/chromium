@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Sets the Monorail and Buganizer components used for issues filed against the ios/web/js_messaging directory.

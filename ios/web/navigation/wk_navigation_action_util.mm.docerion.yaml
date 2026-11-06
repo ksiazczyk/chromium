@@ -1,0 +1,4 @@
+# Docerion header of wk_navigation_action_util.mm.
+type: source
+title: Navigation action initiation type implementation
+summary: Parses WKNavigationAction description strings to detect user gestures, with separate handling for VoiceOver-on and VoiceOver-off cases.

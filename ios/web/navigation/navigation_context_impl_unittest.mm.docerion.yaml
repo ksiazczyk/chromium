@@ -1,0 +1,4 @@
+# Docerion header of navigation_context_impl_unittest.mm.
+type: test
+title: NavigationContextImpl unit tests
+summary: Unit tests for navigation context creation, unique IDs and setter behavior.

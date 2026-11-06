@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WKHTTPSystemCookieStore interface
+// summary: Declares WKHTTPSystemCookieStore, a net::SystemCookieStore implementation backed by WKHTTPCookieStore.
+// ---
+
 #ifndef IOS_WEB_NET_COOKIES_WK_HTTP_SYSTEM_COOKIE_STORE_H_
 #define IOS_WEB_NET_COOKIES_WK_HTTP_SYSTEM_COOKIE_STORE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of nscoder_util_unittest.mm.
+type: test
+title: Unit tests for NSCoder string helpers
+summary: Tests round-trip encoding and decoding of various strings, including empty and Unicode text, via NSKeyedArchiver and NSKeyedUnarchiver.

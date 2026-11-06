@@ -1,0 +1,4 @@
+# Docerion header of pvd_route_translator_unittest.mm.
+type: test
+title: Unit tests for the PvD route translator
+summary: Tests translation of dynamic routing rules, covering direct, HTTP, HTTPS, SOCKS and multi-hop proxy chains and domain matchers.

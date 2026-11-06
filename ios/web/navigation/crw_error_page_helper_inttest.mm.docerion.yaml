@@ -1,0 +1,4 @@
+# Docerion header of crw_error_page_helper_inttest.mm.
+type: test
+title: Error page helper integration tests
+summary: Integration tests verifying HTML injection into error pages and reload behavior when navigating back.

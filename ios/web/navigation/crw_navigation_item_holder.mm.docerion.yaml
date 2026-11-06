@@ -1,0 +1,4 @@
+# Docerion header of crw_navigation_item_holder.mm.
+type: source
+title: CRWNavigationItemHolder implementation
+summary: Associates web::NavigationItemImpl objects with WKBackForwardListItem instances using Objective-C associated objects.

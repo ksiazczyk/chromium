@@ -1,0 +1,4 @@
+# Docerion header of web_frames_manager_observer_bridge.mm.
+type: source
+title: WebFramesManagerObserverBridge implementation
+summary: Forwards web frame availability observer callbacks to the Objective-C CRWWebFramesManagerObserver protocol.

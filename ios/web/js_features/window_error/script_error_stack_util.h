@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script error stack utilities
+// summary: Declares helpers to filter useful stack frames, extract top frame components and truncate long JavaScript error stacks.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_WINDOW_ERROR_SCRIPT_ERROR_STACK_UTIL_H_
 #define IOS_WEB_JS_FEATURES_WINDOW_ERROR_SCRIPT_ERROR_STACK_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLStatus class implementation
+// summary: Implements constructors, copy constructor, and assignment operator for the web::SSLStatus struct holding security style and certificate state.
+// ---
+
 #include "ios/web/public/security/ssl_status.h"
 
 namespace web {

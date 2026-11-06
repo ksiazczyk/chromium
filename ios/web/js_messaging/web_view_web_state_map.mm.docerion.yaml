@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_state_map.mm.
+type: source
+title: Web view web state map implementation
+summary: Implements the WKWebView to WebState association using Objective-C associated objects backed by weak pointers to the web state.

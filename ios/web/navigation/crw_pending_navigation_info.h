@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWPendingNavigationInfo header
+// summary: Declares a container for navigation information available only during pre-commit delegate callbacks, held until the navigation commits.
+// ---
+
 #ifndef IOS_WEB_NAVIGATION_CRW_PENDING_NAVIGATION_INFO_H_
 #define IOS_WEB_NAVIGATION_CRW_PENDING_NAVIGATION_INFO_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of context_menu_params_utils_unittest.mm.
+type: test
+title: Context menu params utils unit tests
+summary: Unit tests for ContextMenuParamsFromElementDictionary, covering dictionary parsing, missing frame ID handling, and when a context menu can be shown.

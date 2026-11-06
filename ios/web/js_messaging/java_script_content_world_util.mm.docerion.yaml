@@ -1,0 +1,4 @@
+# Docerion header of java_script_content_world_util.mm.
+type: source
+title: Content world conversion utilities implementation
+summary: Maps WKContentWorld page and default client worlds to and from the web::ContentWorld enum values.

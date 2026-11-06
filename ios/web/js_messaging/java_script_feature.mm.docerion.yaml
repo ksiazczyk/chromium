@@ -1,0 +1,4 @@
+# Docerion header of java_script_feature.mm.
+type: source
+title: JavaScriptFeature implementation
+summary: Implements the JavaScriptFeature base class that injects feature scripts into WKWebView content worlds, controls script enabling via command-line switches and dispatches script messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardJavaScriptFeature class declaration
+// summary: Declares the JavaScript feature that intercepts navigator.clipboard read and write calls and resolves requests via the web state delegate.
+// ---
+
 #ifndef IOS_WEB_JS_FEATURES_CLIPBOARD_CLIPBOARD_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_JS_FEATURES_CLIPBOARD_CLIPBOARD_JAVA_SCRIPT_FEATURE_H_
 

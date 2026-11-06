@@ -1,0 +1,4 @@
+# Docerion header of context_menu_params.mm.
+type: source
+title: ContextMenuParams method implementations
+summary: Implements the default and copy and move constructors, assignment operators and destructor for ContextMenuParams.

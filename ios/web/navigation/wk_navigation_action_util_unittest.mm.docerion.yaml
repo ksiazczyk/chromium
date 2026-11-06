@@ -1,0 +1,4 @@
+# Docerion header of wk_navigation_action_util_unittest.mm.
+type: test
+title: WKNavigationAction util unit tests
+summary: Unit tests that verify deriving the navigation action initiation type from WKNavigationAction description strings with VoiceOver on and off.
