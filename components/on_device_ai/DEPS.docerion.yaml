@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the on_device_ai directory
+summary: Allowlists dependencies on optimization guide core, Mojo bindings and Blink AI mojom headers for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device AI utility declarations
+// summary: Declares helpers for sending errors to Mojo client remotes and streaming responders, plus error conversion and language enablement functions.
+// ---
+
 #ifndef COMPONENTS_ON_DEVICE_AI_AI_UTILS_H_
 #define COMPONENTS_ON_DEVICE_AI_AI_UTILS_H_
 

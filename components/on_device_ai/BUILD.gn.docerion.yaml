@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the on_device_ai component
+summary: Defines the on_device_ai source_set with its sources and public dependencies for the GN build.
