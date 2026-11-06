@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnterpriseProxyTabHelper unit tests
+// summary: Unit tests verifying tab helper lookup, navigation ID tracking, disguised error recording with NetLog entries, and error state cleanup on navigation completion.
+// ---
+
 #include "components/enterprise/net/content/enterprise_proxy_tab_helper.h"
 
 #include <memory>

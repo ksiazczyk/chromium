@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enterprise proxy service implementation
+// summary: Implements observer management and notification of dynamic proxy config status changes for the MockEnterpriseProxyService test double.
+// ---
+
 #include "components/enterprise/net/core/mock_enterprise_proxy_service.h"
 
 namespace enterprise_net {

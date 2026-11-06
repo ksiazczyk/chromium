@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Watermark rendering unit tests
+// summary: Parameterized pixel tests that draw a watermark onto canvases of different background colors and compare the result against reference PNG images, enabled only on Linux.
+// ---
+
 #include "components/enterprise/watermarking/watermark.h"
 
 #include <vector>

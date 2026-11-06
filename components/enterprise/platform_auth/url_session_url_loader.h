@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLLoader implementation using Apple URLSession
+// summary: Declares a mojo URLLoader that performs Okta SSO requests via Apple's URLSession, with self-ownership rules, failure reasons and result metrics.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_URL_LOADER_H_
 #define COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_URL_LOADER_H_
 

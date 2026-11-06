@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download obfuscator class declarations
+// summary: Declares the DownloadObfuscator class and DownloadObfuscationData user data used to obfuscate and deobfuscate download files chunk by chunk.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_OBFUSCATION_CORE_DOWNLOAD_OBFUSCATOR_H_
 #define COMPONENTS_ENTERPRISE_OBFUSCATION_CORE_DOWNLOAD_OBFUSCATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatermarkStyle policy handler class
+// summary: Declares a schema-validating policy handler that maps the WatermarkStyle policy to browser preferences.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_WATERMARKING_WATERMARK_STYLE_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_WATERMARKING_WATERMARK_STYLE_POLICY_HANDLER_H_
 

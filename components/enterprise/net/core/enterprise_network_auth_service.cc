@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise network auth service implementation
+// summary: Implements the keyed service that fetches OAuth access tokens for enterprise network features, mapping sign-in errors to token fetch errors and recording metrics.
+// ---
+
 #include "components/enterprise/net/core/enterprise_network_auth_service.h"
 
 #include <map>

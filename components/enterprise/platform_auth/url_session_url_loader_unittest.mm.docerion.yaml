@@ -1,0 +1,4 @@
+# Docerion header of url_session_url_loader_unittest.mm.
+type: test
+title: URLSessionURLLoader unit tests
+summary: Unit tests for the URLSession-based URL loader covering responses, CORS headers, oversized payloads, timeouts, client disconnects, and histogram metrics.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Enterprise Isolated Mode component
+summary: GN build file defining the isolated_mode source set and its unit test target, listing their sources and dependencies.

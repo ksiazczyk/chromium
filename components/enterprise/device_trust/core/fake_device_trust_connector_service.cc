@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Device Trust connector service implementation
+// summary: Implements a fake connector service for tests that writes inline URL allowlist policies into a testing pref service for a given policy level.
+// ---
+
 #include "components/enterprise/device_trust/core/fake_device_trust_connector_service.h"
 
 #include <string>

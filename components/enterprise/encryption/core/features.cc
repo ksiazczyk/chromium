@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache encryption feature flag definitions
+// summary: Defines base features that enable on-disk HTTP cache encryption, including a testing-only flag that bypasses the enterprise policy check.
+// ---
+
 #include "components/enterprise/encryption/core/features.h"
 
 namespace enterprise_encryption {

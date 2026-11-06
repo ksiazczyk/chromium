@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAttestationService class declaration
+// summary: Declares the browser-side attestation service that coordinates attesters, Google keys, and background tasks to build challenge responses.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_BROWSER_ATTESTATION_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_BROWSER_ATTESTATION_SERVICE_H_
 

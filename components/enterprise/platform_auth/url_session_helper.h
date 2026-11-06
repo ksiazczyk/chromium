@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helpers converting Chrome network requests to Apple URLSession
+// summary: Declares conversions between Chrome resource requests and NSURL objects, response conversion with CORS checks, and Okta SSO request matching.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_HELPER_H_
 #define COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_HELPER_H_
 

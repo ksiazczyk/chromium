@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timer constants and delay calculation declarations
+// summary: Declares timing constants and functions for computing proactive refresh delays and transient failure retry backoff.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_TIMER_UTILS_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_TIMER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy provisioning domain manager implementation
+// summary: Implements the state machine that fetches, refreshes, and classifies failures for proxy provisioning domains, mapping network, HTTP, and token errors to states.
+// ---
+
 #include "components/enterprise/net/core/proxy_provisioning_domain_manager.h"
 
 #include <utility>

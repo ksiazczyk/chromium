@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners pointer for platform auth
+summary: Delegates ownership of this directory to the OWNERS file of chrome/browser/enterprise/platform_auth.

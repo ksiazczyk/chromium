@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Watermarking code owners
+summary: Lists the directory owners and the cep-review alias preferred for code reviews, with a reference to CEP_OWNERS.

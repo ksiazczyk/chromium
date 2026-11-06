@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device trust prefs implementation
+// summary: Registers device trust connector profile preferences for the user and browser context-aware access signals allowlists.
+// ---
+
 #include "components/enterprise/device_trust/prefs.h"
 
 namespace enterprise_connectors {

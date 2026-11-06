@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetErrorAutoReloader browser tests
+// summary: Contains browser tests verifying auto-reload behavior of network error pages using URL interceptors and navigation throttles to simulate errors.
+// ---
+
 #include "components/error_page/content/browser/net_error_auto_reloader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalsFilterer unit tests
+// summary: Verifies that the base SignalsFilterer leaves entries such as the serial number unfiltered in the signal dictionary.
+// ---
+
 #include "components/enterprise/device_trust/core/signals/signals_filterer.h"
 
 #include "components/device_signals/core/common/signals_constants.h"

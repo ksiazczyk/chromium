@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark test utilities header
+// summary: Declares the MakeTestWatermarkBlock helper that builds a serialized Skia watermark block in shared memory for use in watermarking tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_WATERMARKING_WATERMARK_TEST_UTILS_H_
 #define COMPONENTS_ENTERPRISE_WATERMARKING_WATERMARK_TEST_UTILS_H_
 

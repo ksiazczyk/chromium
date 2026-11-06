@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust metrics utilities implementation
+// summary: Implements histogram logging for attestation funnel steps, policy levels, handshake results, response latency, and ChromeOS enrollment status and origin metrics.
+// ---
+
 #include "components/enterprise/device_trust/core/metrics_utils.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust metrics enums and logging helpers
+// summary: Declares attestation funnel, handshake result, policy level, and origin enums plus helper functions for logging Device Trust metrics histograms.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_METRICS_UTILS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_METRICS_UTILS_H_
 

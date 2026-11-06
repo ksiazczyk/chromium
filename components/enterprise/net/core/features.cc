@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise net feature flags
+// summary: Defines feature flags and parameters for dynamic route fetching and enterprise proxy error handling, including size limits and forced error codes.
+// ---
+
 #include "components/enterprise/net/core/features.h"
 
 #if BUILDFLAG(ENTERPRISE_PROXY)

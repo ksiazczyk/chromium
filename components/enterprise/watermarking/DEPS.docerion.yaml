@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for watermarking
+summary: Lists the allowed include paths such as cc/paint, Skia, and ui/gfx for code in the watermarking directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of idle timeout action type mapping
+// summary: Maps action name strings to ActionType values and reads the configured actions from preferences, with platform-specific action sets.
+// ---
+
 #include "components/enterprise/idle/action_type.h"
 
 #include <algorithm>

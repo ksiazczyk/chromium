@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttester implementation
+// summary: Implements ProfileAttester, decorating key info with the profile ID, user customer ID and obfuscated GAIA ID from the cloud policy store during browser attestation.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/profile_attester.h"
 
 #include <utility>

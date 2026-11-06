@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise network preference registration
+// summary: Registers profile preferences for proxy provisioning domains and cached provisioning domain proxy configs, guarded by the enterprise proxy build flag.
+// ---
+
 #include "components/enterprise/net/core/prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

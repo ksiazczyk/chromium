@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust error and timeout constants
+// summary: Defines string constants for attestation and Device Trust errors plus timeout values for handshake, process wait and key upload.
+// ---
+
 #include "components/enterprise/device_trust/core/device_trust_constants.h"
 
 namespace enterprise_connectors {

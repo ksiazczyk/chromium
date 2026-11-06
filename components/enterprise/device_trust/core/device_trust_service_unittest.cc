@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceTrustService unit tests
+// summary: Parameterized unit tests for DeviceTrustService covering challenge parsing, signal collection, attestation responses, and result metrics using mock attestation and signals services.
+// ---
+
 #include "components/enterprise/device_trust/core/device_trust_service.h"
 
 #include <tuple>

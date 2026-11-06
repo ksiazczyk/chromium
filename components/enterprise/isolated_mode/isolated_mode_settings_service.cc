@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Isolated Mode settings service
+// summary: Computes and caches whether Isolated Mode replaces Incognito and whether Milestone 2 is enabled, based on prefs, feature flags, channel, and command line.
+// ---
+
 #include "components/enterprise/isolated_mode/isolated_mode_settings_service.h"
 
 #include "base/command_line.h"

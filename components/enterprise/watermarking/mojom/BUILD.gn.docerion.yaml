@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the watermark Mojom target
+summary: Defines a GN Mojom target that compiles watermark.mojom and depends on the Mojo public base bindings.

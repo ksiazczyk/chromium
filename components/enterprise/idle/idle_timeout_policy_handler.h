@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout policy handler declarations
+// summary: Declares the IdleTimeoutPolicyHandler and IdleTimeoutActionsPolicyHandler classes that translate enterprise policies into preferences.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_IDLE_IDLE_TIMEOUT_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_IDLE_IDLE_TIMEOUT_POLICY_HANDLER_H_
 

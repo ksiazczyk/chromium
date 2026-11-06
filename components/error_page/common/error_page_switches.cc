@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error page command-line switches
+// summary: Defines command-line switch names for disabling the dinosaur easter egg and enabling its alternate images.
+// ---
+
 #include "components/error_page/common/error_page_switches.h"
 
 namespace error_page {

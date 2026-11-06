@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalsAggregatorDecorator unit tests
+// summary: Unit tests verifying that the aggregator decorator maps OS and profile signal responses into the expected Device Trust signal values.
+// ---
+
 #include "components/enterprise/device_trust/core/signals/decorators/common/signals_aggregator_decorator.h"
 
 #include <memory>

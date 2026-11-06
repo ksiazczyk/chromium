@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain fetcher
+// summary: Declares ProvisioningDomainFetcher, which orchestrates PvD authentication, HTTP fetch, and JSON parsing, returning detailed results and error states.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_PROVISIONING_DOMAIN_FETCHER_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_PROVISIONING_DOMAIN_FETCHER_H_
 

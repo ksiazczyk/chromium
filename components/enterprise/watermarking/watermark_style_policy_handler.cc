@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatermarkStyle policy handler implementation
+// summary: Applies the WatermarkStyle policy by copying fill and outline opacity, font size, and timestamp timezone values into preferences.
+// ---
+
 #include "components/enterprise/watermarking/watermark_style_policy_handler.h"
 
 #include "components/enterprise/connectors/core/connectors_prefs.h"

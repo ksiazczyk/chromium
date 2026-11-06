@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the encryption component
+summary: Lists the code owners and review alias responsible for changes in the encryption component, with a pointer to the enterprise CEP owners file.

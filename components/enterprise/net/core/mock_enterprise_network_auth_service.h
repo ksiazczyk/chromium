@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enterprise network auth service
+// summary: Declares a GoogleMock implementation of EnterpriseNetworkAuthService that stubs FetchAccessToken and ResolveExtraHeaders for use in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_MOCK_ENTERPRISE_NETWORK_AUTH_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_MOCK_ENTERPRISE_NETWORK_AUTH_SERVICE_H_
 

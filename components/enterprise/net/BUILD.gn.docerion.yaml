@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: enterprise net component group target'
+summary: GN build file defining a group target that aggregates the enterprise net core and content subcomponents, excluding content on iOS.

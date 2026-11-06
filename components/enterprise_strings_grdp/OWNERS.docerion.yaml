@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the enterprise strings directory
+summary: Delegates ownership of the enterprise strings resources directory to the components/enterprise OWNERS file.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for enterprise encryption core features
+summary: GN build file defining the features source set for the enterprise encryption core component, with base as a public dependency.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscation utility implementations
+// summary: Implements obfuscation helpers such as header creation, AES-GCM chunk encryption, nonce computation, per-process key generation, and file replacement with retries on Windows.
+// ---
+
 #include "components/enterprise/obfuscation/core/utils.h"
 
 #include <array>

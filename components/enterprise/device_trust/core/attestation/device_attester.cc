@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attester implementation
+// summary: Implements DeviceAttester, which decorates key info with the DM token, device ID, customer ID and public key, and signs challenge responses for browser-level attestation.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/device_attester.h"
 
 #include <utility>

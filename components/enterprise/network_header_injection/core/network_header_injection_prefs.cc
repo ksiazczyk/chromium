@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection preference registration
+// summary: Registers the http_header_injection list profile preference used to store the header injection policy.
+// ---
+
 #include "components/enterprise/network_header_injection/core/network_header_injection_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

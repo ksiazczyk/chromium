@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyProvisioningDomains policy handler unit tests
+// summary: Unit tests validating schema parsing, valid and invalid ProxyProvisioningDomains values, affiliation errors, and pref application for the policy handler.
+// ---
+
 #include "components/enterprise/net/core/proxy_provisioning_domains_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise network auth service declarations
+// summary: Declares the EnterpriseNetworkAuthService keyed service, its TokenFetchError enum, observer interface and access token fetching API.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_ENTERPRISE_NETWORK_AUTH_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_ENTERPRISE_NETWORK_AUTH_SERVICE_H_
 

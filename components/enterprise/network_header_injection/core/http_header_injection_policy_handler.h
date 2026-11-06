@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection policy handler interface
+// summary: Declares the policy handler that validates and applies the HttpHeaderInjection policy to preferences.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_HTTP_HEADER_INJECTION_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_HTTP_HEADER_INJECTION_POLICY_HANDLER_H_
 

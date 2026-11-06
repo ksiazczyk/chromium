@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionType enum and helpers for idle timeout actions
+// summary: Defines the ActionType enum ordered by execution priority and declares helpers for name lookup and reading actions from prefs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_IDLE_ACTION_TYPE_H_
 #define COMPONENTS_ENTERPRISE_IDLE_ACTION_TYPE_H_
 

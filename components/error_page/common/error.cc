@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error class implementation for error pages
+// summary: Implements factory methods and constructors for the Error value class covering net, http, and dnsprobe error domains.
+// ---
+
 #include "components/error_page/common/error.h"
 
 #include "net/base/net_errors.h"

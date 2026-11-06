@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Device Trust connector service declaration
+// summary: Declares a fake DeviceTrustConnectorService subclass used in tests to update inline policy preferences directly.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_FAKE_DEVICE_TRUST_CONNECTOR_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_FAKE_DEVICE_TRUST_CONNECTOR_SERVICE_H_
 

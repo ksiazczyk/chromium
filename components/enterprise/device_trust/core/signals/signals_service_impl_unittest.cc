@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalsServiceImpl unit tests
+// summary: Unit tests verifying that CollectSignals runs all decorators, applies the filterer, completes asynchronously with no decorators, and records the latency histogram.
+// ---
+
 #include "components/enterprise/device_trust/core/signals/signals_service_impl.h"
 
 #include <memory>

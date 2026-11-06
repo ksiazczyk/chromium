@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized error page implementation
+// summary: Maps network error codes to localized headings, summaries, suggested actions and buttons for Chromium error pages, including the dino easter egg host constants.
+// ---
+
 #include "components/error_page/common/localized_error.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSignalsFilterer class
+// summary: Declares a gmock mock of SignalsFilterer whose Filter method can be stubbed in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_MOCK_SIGNALS_FILTERER_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_MOCK_SIGNALS_FILTERER_H_
 

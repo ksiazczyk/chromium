@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Attestation GN build targets
+summary: Defines GN source_set targets for the attestation code, its types, test support mocks, and unit test sources with platform-conditional dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust common types implementation
+// summary: Implements helpers that map attestation results and Device Trust errors to string codes and classify successful attestation outcomes.
+// ---
+
 #include "components/enterprise/device_trust/core/common_types.h"
 
 #include "components/enterprise/device_trust/core/device_trust_constants.h"

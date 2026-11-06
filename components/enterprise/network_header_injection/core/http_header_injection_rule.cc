@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection rule parsing
+// summary: Parses policy values into HttpHeaderInjectionRule objects containing URL patterns and header name-value pairs.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_rule.h"
 
 namespace enterprise_custom_headers {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout preference name constants
+// summary: Defines preference name constants for the idle timeout, its actions, bubble display, timestamps, and user-only data clearing.
+// ---
+
 #include "components/enterprise/idle/idle_pref_names.h"
 
 namespace enterprise_idle::prefs {

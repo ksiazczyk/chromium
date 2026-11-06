@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust common types and enums
+// summary: Declares policy level, attestation result and error enums plus response structs used across the Device Trust connector attestation flow.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_COMMON_TYPES_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_COMMON_TYPES_H_
 

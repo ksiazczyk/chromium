@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Provisioning domain client unit tests
+// summary: Unit tests for ProvisioningDomainClient covering successful fetches with auth and custom headers, error responses, and fetch result histogram metrics.
+// ---
+
 #include "components/enterprise/net/core/provisioning_domain_client.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy policy affiliation validation utilities header
+// summary: Declares helpers that validate user affiliation requirements and value ranges for proxy override policies on desktop and Android platforms.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_PROXY_POLICY_UTILS_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_PROXY_POLICY_UTILS_H_
 

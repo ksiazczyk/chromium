@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Device Trust common types
+// summary: Verifies attestation result success classification and error-to-string conversions for the common Device Trust types.
+// ---
+
 #include "components/enterprise/device_trust/core/common_types.h"
 
 #include <array>

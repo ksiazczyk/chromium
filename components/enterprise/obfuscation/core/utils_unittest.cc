@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for enterprise obfuscation utils
+// summary: Unit tests for the enterprise obfuscation utilities, verifying header creation, chunked obfuscation and deobfuscation behavior with the file obfuscation feature enabled and disabled.
+// ---
+
 #include "components/enterprise/obfuscation/core/utils.h"
 
 #include "base/containers/span_reader.h"

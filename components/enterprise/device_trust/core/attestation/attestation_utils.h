@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation utility declarations
+// summary: Declares helpers to convert a challenge response proto to JSON and a signals dictionary to a signals protobuf.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_ATTESTATION_UTILS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_ATTESTATION_UTILS_H_
 

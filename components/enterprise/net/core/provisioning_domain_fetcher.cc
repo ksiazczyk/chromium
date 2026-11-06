@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain fetcher implementation
+// summary: Implements the PvD fetch lifecycle, building the well-known PvD URL, obtaining access tokens when required, and running the HTTP fetch with error handling.
+// ---
+
 #include "components/enterprise/net/core/provisioning_domain_fetcher.h"
 
 #include <utility>

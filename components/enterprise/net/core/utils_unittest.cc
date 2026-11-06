@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Provisioning domain utils unit tests
+// summary: Unit tests covering policy and PvD parsing, routing rules, header placeholder expansion, and iOS-specific matcher behavior.
+// ---
+
 #include "components/enterprise/net/core/utils.h"
 
 #include <optional>

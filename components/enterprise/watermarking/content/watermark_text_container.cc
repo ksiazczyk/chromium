@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatermarkTextContainer implementation
+// summary: Implements the WebContentsUserData that stores a watermark SkPicture with block dimensions and serializes it into a shared-memory-backed WatermarkBlock Mojom message.
+// ---
+
 #include "components/enterprise/watermarking/content/watermark_text_container.h"
 
 #include <utility>

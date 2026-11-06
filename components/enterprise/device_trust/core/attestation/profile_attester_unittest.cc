@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileAttester unit tests
+// summary: Unit tests verifying that ProfileAttester decorates key info with profile, customer and GAIA IDs under various policy conditions and adds no profile-level signature.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/profile_attester.h"
 
 #include "base/run_loop.h"

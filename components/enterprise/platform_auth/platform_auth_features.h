@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for Okta SSO feature flags
+// summary: Declares the Okta SSO base feature and its string parameters for export and use across the platform auth component.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_FEATURES_H_
 

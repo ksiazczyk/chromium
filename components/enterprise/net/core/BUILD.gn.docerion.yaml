@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the enterprise net core component
+summary: GN build configuration defining the core static library, unit test and test support targets for enterprise network features, gated by the enterprise_proxy build flag.

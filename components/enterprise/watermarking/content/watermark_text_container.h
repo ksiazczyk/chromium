@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WatermarkTextContainer class declaration
+// summary: Declares the WatermarkTextContainer WebContentsUserData holding the watermark picture and block dimensions, with SetWatermarkText and Serialize methods.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_WATERMARKING_CONTENT_WATERMARK_TEXT_CONTAINER_H_
 #define COMPONENTS_ENTERPRISE_WATERMARKING_CONTENT_WATERMARK_TEXT_CONTAINER_H_
 

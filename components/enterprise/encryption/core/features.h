@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache encryption feature flag declarations
+// summary: Declares the enterprise encryption features controlling on-disk HTTP cache encryption and the testing-only bypass of the policy check.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_ENCRYPTION_CORE_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_ENCRYPTION_CORE_FEATURES_H_
 

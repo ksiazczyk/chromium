@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise net flag description declarations
+// summary: Declares the flag name and description string constants for the enterprise proxy feature flags.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_FLAG_DESCRIPTIONS_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_FLAG_DESCRIPTIONS_H_
 

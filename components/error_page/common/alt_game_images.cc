@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate game image stubs implementation
+// summary: Implements stubbed functions for enabling alternate game mode and selecting alternate game images.
+// ---
+
 
 #include "components/error_page/common/alt_game_images.h"
 

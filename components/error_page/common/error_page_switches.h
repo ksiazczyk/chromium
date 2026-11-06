@@ -4,6 +4,12 @@
 
 // Defines all the command-line switches used by //components/error_page.
 
+// ---docerion
+// type: source
+// title: Error page command-line switches header
+// summary: Declares the command-line switches for the error_page component, including toggles for the dinosaur easter egg and its alternate game images.
+// ---
+
 #ifndef COMPONENTS_ERROR_PAGE_COMMON_ERROR_PAGE_SWITCHES_H_
 #define COMPONENTS_ERROR_PAGE_COMMON_ERROR_PAGE_SWITCHES_H_
 

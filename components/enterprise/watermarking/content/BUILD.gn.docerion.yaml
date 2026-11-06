@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the watermarking content static library
+summary: Defines the "content" static_library target listing the watermark text container sources and its dependencies on base, content, and the watermarking mojom target.

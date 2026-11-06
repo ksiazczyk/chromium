@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorAutoReloader implementation
+// summary: Implements automatic reloading of main-frame network error pages with increasing backoff delays, filtering out error types that a reload cannot fix.
+// ---
+
 #include "components/error_page/content/browser/net_error_auto_reloader.h"
 
 #include <algorithm>

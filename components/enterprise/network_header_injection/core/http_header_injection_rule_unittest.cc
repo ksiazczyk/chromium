@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HTTP header injection rule parsing
+// summary: Unit tests verifying parsing of injection rules from policy values, covering valid rules, invalid dictionaries, missing keys, malformed headers and invalid patterns.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_rule.h"
 
 #include <optional>

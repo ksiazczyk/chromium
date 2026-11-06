@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the error page browser component
+summary: Defines the browser static library and browser_tests source set for the net error auto reloader, listing their sources and dependencies.

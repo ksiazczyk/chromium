@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for attestation proto libraries
+summary: Defines GN proto_library targets that build the device trust attestation, interface, and Google key protobuf sources.

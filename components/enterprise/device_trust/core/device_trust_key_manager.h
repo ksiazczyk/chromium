@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceTrustKeyManager interface for signing key management
+// summary: Declares the interface that starts signing key creation and rotation, caches the key, and exposes signing, key export, metadata, and permanent failure status methods.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_KEY_MANAGER_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_KEY_MANAGER_H_
 

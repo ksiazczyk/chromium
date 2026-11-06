@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypto utility for RSA key wrapping
+// summary: Implements CryptoUtility helpers that build an RSA key from a hex modulus and wrap keys with RSA-PKCS1-OAEP using BoringSSL.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/crypto_utility.h"
 
 #include "base/compiler_specific.h"

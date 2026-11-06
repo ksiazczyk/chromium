@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy error data declarations
+// summary: Declares the EnterpriseProxyErrorData class holding destination and proxy URLs, error code and the error category used to select error page UI variations.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_ENTERPRISE_PROXY_ERROR_DATA_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_ENTERPRISE_PROXY_ERROR_DATA_H_
 

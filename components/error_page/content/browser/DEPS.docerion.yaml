@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the error page browser directory
+summary: Specifies allowed include paths for the error page browser component, with additional rules for browsertest files.

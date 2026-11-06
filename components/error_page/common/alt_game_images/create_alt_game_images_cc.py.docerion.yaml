@@ -1,0 +1,4 @@
+# Docerion header of create_alt_game_images_cc.py.
+type: script
+title: Obfuscate dino game images and generate C++ source
+summary: Python tool that AES-encrypts PNG images with a provided key and renders the template into the generated C++ source containing the obfuscated image data.

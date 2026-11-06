@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection service interface
+// summary: Declares HttpHeaderInjectionService, a KeyedService that tracks the header injection policy preference and returns headers to inject for a given URL.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_HTTP_HEADER_INJECTION_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_HTTP_HEADER_INJECTION_SERVICE_H_
 

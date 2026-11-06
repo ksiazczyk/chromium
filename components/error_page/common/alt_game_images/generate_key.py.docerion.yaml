@@ -1,0 +1,4 @@
+# Docerion header of generate_key.py.
+type: script
+title: Generate a random obfuscation key
+summary: Prints a random URL-safe 32-byte key used to obfuscate the dino game images until launch.

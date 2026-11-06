@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Device Trust key manager
+// summary: Declares a GoogleMock mock of DeviceTrustKeyManager that stubs initialization, key rotation, signing, key export, metadata, and failure status for unit tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_MOCK_DEVICE_TRUST_KEY_MANAGER_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_MOCK_DEVICE_TRUST_KEY_MANAGER_H_
 

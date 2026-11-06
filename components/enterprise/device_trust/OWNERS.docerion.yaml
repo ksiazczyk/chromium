@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device trust component owners
+summary: Lists the owners responsible for reviewing changes to the device_trust component.

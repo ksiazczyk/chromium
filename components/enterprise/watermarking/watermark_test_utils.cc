@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark test utilities implementation
+// summary: Implements MakeTestWatermarkBlock, a test helper that renders watermark text with Skia, serializes it into shared memory, and returns a WatermarkBlockPtr for use in tests.
+// ---
+
 #include "components/enterprise/watermarking/watermark_test_utils.h"
 
 #include <utility>

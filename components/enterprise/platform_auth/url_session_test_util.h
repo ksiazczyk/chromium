@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NSURLSession configuration for tests
+// summary: Declares ResponseConfig and a helper to attach a mock NSURLProtocol to an NSURLSession so tests can simulate bodies, errors, hangs and redirects.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_TEST_UTIL_H_
 #define COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_TEST_UTIL_H_
 

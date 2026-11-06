@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error page event and DNS probe enums
+// summary: Defines the NetworkErrorPageEvent enum for UMA statistics and the DnsProbeStatus enum used in histograms for error page reporting.
+// ---
+
 #ifndef COMPONENTS_ERROR_PAGE_COMMON_NET_ERROR_INFO_H_
 #define COMPONENTS_ERROR_PAGE_COMMON_NET_ERROR_INFO_H_
 

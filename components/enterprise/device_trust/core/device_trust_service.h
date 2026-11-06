@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceTrustService class declaration
+// summary: Declares the main KeyedService that drives Device Trust connector scenarios, building challenge responses for Verified Access attestation and reporting watched policy levels per URL.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_SERVICE_H_
 

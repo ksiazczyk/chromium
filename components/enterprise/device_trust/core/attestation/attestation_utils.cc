@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation utility implementations
+// summary: Implements conversion of a protobuf challenge response into the base64-encoded JSON format expected by Vaapi v2.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/attestation_utils.h"
 
 #include <memory>

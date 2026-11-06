@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Obfuscated file reader unit tests
+// summary: Unit tests for the obfuscated file reader covering creation, seek, read, and chunk index behavior against obfuscated test files.
+// ---
+
 #include "components/enterprise/obfuscation/core/obfuscated_file_reader.h"
 
 #include <numeric>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout policy handler implementation
+// summary: Implements policy handlers that validate and apply the IdleTimeout and IdleTimeoutActions policies, including dependency and scope checks.
+// ---
+
 #include "components/enterprise/idle/idle_timeout_policy_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyed service exposing cached Isolated Mode settings
+// summary: Declares IsolatedModeSettingsService, a KeyedService that caches whether Isolated Mode replaces Incognito and whether Milestone 2 is enabled.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_ISOLATED_MODE_ISOLATED_MODE_SETTINGS_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_ISOLATED_MODE_ISOLATED_MODE_SETTINGS_SERVICE_H_
 

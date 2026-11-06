@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscation constants and utility declarations
+// summary: Declares obfuscation size constants, error types, feature flags, and helper functions for chunk encryption, header handling, and file operations.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_OBFUSCATION_CORE_UTILS_H_
 #define COMPONENTS_ENTERPRISE_OBFUSCATION_CORE_UTILS_H_
 

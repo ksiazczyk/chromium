@@ -1,0 +1,4 @@
+# Docerion header of url_session_url_loader.mm.
+type: source
+title: URLSessionURLLoader implementation
+summary: Implements a Mojo URL loader that performs requests via NSURLSession, enforcing same-origin redirects and a 128 KiB size limit for enterprise platform auth.

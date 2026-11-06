@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache encryption utils implementation
+// summary: Implements ShouldEncryptHttpCache, which enables HTTP cache encryption from a testing flag or the enterprise policy pref and logs a usage histogram.
+// ---
+
 #include "components/enterprise/encryption/cache/utils.h"
 
 #include "base/feature_list.h"

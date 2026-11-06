@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsAggregatorDecorator class
+// summary: Declares the SignalsDecorator implementation that bridges the device signals aggregator pipeline into the Device Trust signals collection flow.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_DECORATORS_COMMON_SIGNALS_AGGREGATOR_DECORATOR_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_DECORATORS_COMMON_SIGNALS_AGGREGATOR_DECORATOR_H_
 
