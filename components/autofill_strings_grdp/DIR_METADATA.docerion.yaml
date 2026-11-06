@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autofill strings directory metadata
+summary: Configures issue tracking for the autofill strings directory, assigning the UI>Browser>Autofill monorail component and Buganizer component 1456764.
