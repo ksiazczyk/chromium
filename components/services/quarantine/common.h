@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL sanitization header
+// summary: Declares SanitizeUrlForQuarantine, which sanitizes URLs used to annotate the source of downloaded files for privacy.
+// ---
+
 #ifndef COMPONENTS_SERVICES_QUARANTINE_COMMON_H_
 #define COMPONENTS_SERVICES_QUARANTINE_COMMON_H_
 

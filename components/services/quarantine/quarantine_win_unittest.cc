@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows quarantine unit tests
+// summary: Windows-specific tests for quarantine annotation, checking Zone.Identifier metadata and per-domain internet zone registry mappings.
+// ---
+
 #include "components/services/quarantine/quarantine.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server certificate database class declaration
+// summary: Declares the ServerCertificateDatabase class that wraps on-disk SQLite storage for user-configured TLS certificates and their trust settings.
+// ---
+
 #ifndef COMPONENTS_SERVER_CERTIFICATE_DATABASE_SERVER_CERTIFICATE_DATABASE_H_
 #define COMPONENTS_SERVER_CERTIFICATE_DATABASE_SERVER_CERTIFICATE_DATABASE_H_
 

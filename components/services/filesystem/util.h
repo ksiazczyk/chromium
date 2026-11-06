@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem service utility declarations
+// summary: Declares validation functions for paths, Whence values and offsets, plus conversion helpers for file errors, file information serialization and safe absolute path creation in the filesystem namespace.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FILESYSTEM_UTIL_H_
 #define COMPONENTS_SERVICES_FILESYSTEM_UTIL_H_
 

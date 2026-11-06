@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sensitive_content component
+summary: Specifies allowed include dependencies for the component, with additional Java-specific rules for Android embedder and WebContents classes.

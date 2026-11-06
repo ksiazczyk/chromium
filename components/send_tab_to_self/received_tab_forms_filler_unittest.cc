@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for received tab form filling
+// summary: Tests matching and filling of form fields from a received tab using mock autofill clients, drivers, and managers.
+// ---
+
 #include "components/send_tab_to_self/received_tab_forms_filler.h"
 
 #include <memory>

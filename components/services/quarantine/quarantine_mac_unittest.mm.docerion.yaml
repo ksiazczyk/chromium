@@ -1,0 +1,4 @@
+# Docerion header of quarantine_mac_unittest.mm.
+type: test
+title: macOS quarantine unit tests
+summary: Unit tests verifying that macOS quarantine metadata is set correctly and that IsFileQuarantined reports the expected results.

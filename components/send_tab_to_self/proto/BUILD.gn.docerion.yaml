@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Send tab to self proto build definition
+summary: Defines the GN proto_library target that builds send_tab_to_self.proto and depends on the components/sync/protocol target.

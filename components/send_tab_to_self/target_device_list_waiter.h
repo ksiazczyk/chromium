@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetDeviceListWaiter class header
+// summary: Declares TargetDeviceListWaiter, which waits for the Send Tab to Self target device list to become known after sign-in or while sync data loads.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_TARGET_DEVICE_LIST_WAITER_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_TARGET_DEVICE_LIST_WAITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DirectWrite local font matcher header
+// summary: Declares the DirectWrite-based implementation of the LocalFontMatcher interface for Windows.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FONT_DATA_DWRITE_LOCAL_FONT_MATCHER_H_
 #define COMPONENTS_SERVICES_FONT_DATA_DWRITE_LOCAL_FONT_MATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self commit tracker implementation
+// summary: Tracks pending Send Tab to Self sync commits and invokes result callbacks on success, commit errors, timeouts, sync disable or entry removal.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_commit_tracker.h"
 
 #include <utility>

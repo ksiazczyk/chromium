@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self commit tracker header
+// summary: Declares SendTabToSelfCommitTracker, which monitors pending sync commits via the local change processor and reports results through callbacks.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_COMMIT_TRACKER_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_COMMIT_TRACKER_H_
 

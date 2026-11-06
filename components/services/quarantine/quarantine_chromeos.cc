@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS quarantine implementation
+// summary: Implements QuarantineFile on ChromeOS by registering downloaded files with the DLP service over D-Bus.
+// ---
+
 #include "components/services/quarantine/quarantine.h"
 
 #include <string>

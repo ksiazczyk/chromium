@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self metrics utility unit tests
+// summary: Unit tests verifying that notification status values are recorded to the Sharing.SendTabToSelf.NotificationStatus histogram.
+// ---
+
 #include "components/send_tab_to_self/metrics_util.h"
 
 #include "base/test/metrics/histogram_tester.h"

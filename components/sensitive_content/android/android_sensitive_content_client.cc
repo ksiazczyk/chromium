@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSensitiveContentClient implementation for Android
+// summary: Implements the Android sensitive content client, bridging the sensitive content manager to the Java SensitiveContentClient over JNI and forwarding content sensitivity updates.
+// ---
+
 #include "components/sensitive_content/android/android_sensitive_content_client.h"
 
 #include "base/android/jni_android.h"

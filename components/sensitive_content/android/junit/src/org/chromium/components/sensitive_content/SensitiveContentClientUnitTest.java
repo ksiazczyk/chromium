@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SensitiveContentClientUnitTest
+// summary: Robolectric unit tests verifying that SensitiveContentClient applies content sensitivity to the correct container view and notifies observers on changes.
+// ---
+
 package org.chromium.components.sensitive_content;
 
 import static org.mockito.Mockito.any;

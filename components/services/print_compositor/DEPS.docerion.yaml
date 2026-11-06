@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Print compositor include rules
+summary: Declares the allowed include dependencies for code in the print compositor directory, covering printing, skia, content, and enterprise watermarking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server certificate database service declaration
+// summary: Declares the KeyedService providing asynchronous access to the certificate database with observer notifications.
+// ---
+
 #ifndef COMPONENTS_SERVER_CERTIFICATE_DATABASE_SERVER_CERTIFICATE_DATABASE_SERVICE_H_
 #define COMPONENTS_SERVER_CERTIFICATE_DATABASE_SERVER_CERTIFICATE_DATABASE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self bridge unit tests
+// summary: Unit tests for the Send Tab to Self sync bridge covering sync merging, entry handling, metrics histograms and device interactions.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_bridge.h"
 
 #include <map>

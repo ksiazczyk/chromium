@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outgoing tab form field extractor unit tests
+// summary: Unit tests covering extraction and filtering of outgoing tab form fields, including user interaction and sensitive type rules.
+// ---
+
 #include "components/send_tab_to_self/outgoing_tab_form_field_extractor.h"
 
 #include <memory>

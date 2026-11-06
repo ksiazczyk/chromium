@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print compositor implementation unit tests
+// summary: Contains unit tests for the print compositor, using mocks and test addons to verify page compositing, document completion, and PDF overlay behavior.
+// ---
+
 #include "components/services/print_compositor/print_compositor_impl.h"
 
 #include <memory>

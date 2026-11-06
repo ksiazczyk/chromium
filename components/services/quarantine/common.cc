@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL sanitization implementation
+// summary: Implements SanitizeUrlForQuarantine, stripping credentials and reducing blob and filesystem URLs to their origins.
+// ---
+
 #include "components/services/quarantine/common.h"
 
 #include "url/origin.h"

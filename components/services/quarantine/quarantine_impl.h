@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuarantineImpl class header
+// summary: Declares the QuarantineImpl class that binds the Quarantine Mojo interface and initializes COM on Windows.
+// ---
+
 #ifndef COMPONENTS_SERVICES_QUARANTINE_QUARANTINE_IMPL_H_
 #define COMPONENTS_SERVICES_QUARANTINE_QUARANTINE_IMPL_H_
 

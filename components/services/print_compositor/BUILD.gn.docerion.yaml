@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print compositor build rules
+summary: Defines the GN build targets, sources, and dependencies for the print compositor library and its unit tests, including optional enterprise watermark support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local font matcher factory implementation
+// summary: Implements LocalFontMatcher::Create, returning a DirectWrite-based matcher on Windows and nullptr on other platforms.
+// ---
+
 #include "components/services/font_data/local_font_matcher.h"
 
 #include <memory>

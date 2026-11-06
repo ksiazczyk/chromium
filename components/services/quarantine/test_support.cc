@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default IsFileQuarantined stub
+// summary: Supplies a stub IsFileQuarantined that reports files as not quarantined on platforms other than Windows and macOS.
+// ---
+
 #include "components/services/quarantine/test_support.h"
 
 #include "build/build_config.h"

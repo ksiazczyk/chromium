@@ -4,6 +4,12 @@
 //
 // Sync protocol datatype extension for the send tab to self entries.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfLocal protobuf definition
+// summary: Defines the SendTabToSelfLocal proto message that stores local fields for a send tab to self sync entry.
+// ---
+
 syntax = "proto2";
 
 import "components/sync/protocol/send_tab_to_self_specifics.proto";

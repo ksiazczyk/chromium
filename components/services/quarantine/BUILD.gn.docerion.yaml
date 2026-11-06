@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quarantine service build targets
+summary: Defines GN build targets for the quarantine service, including platform-specific sources, test support, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory Mojo interface implementation
+// summary: Implements the mojom::Directory interface, handling entry listing, opening files and directories, renaming, deleting, stat, flush, and whole-file read and write operations.
+// ---
+
 #include "components/services/filesystem/directory_impl.h"
 
 #include <memory>

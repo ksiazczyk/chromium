@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server certificate database service implementation
+// summary: Implements the KeyedService that dispatches certificate database operations to a background sequence and notifies observers of changes.
+// ---
+
 #include "components/server_certificate_database/server_certificate_database_service.h"
 
 #include <string>

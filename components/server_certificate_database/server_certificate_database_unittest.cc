@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server certificate database unit tests
+// summary: Unit tests covering storing, updating, retrieving and persisting certificates in the server certificate database.
+// ---
+
 #include "components/server_certificate_database/server_certificate_database.h"
 
 #include "base/containers/span.h"

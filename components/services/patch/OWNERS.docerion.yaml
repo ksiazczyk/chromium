@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Patch directory owners
+summary: OWNERS file that delegates code ownership to the components/update_client OWNERS file.

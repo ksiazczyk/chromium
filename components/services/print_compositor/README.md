@@ -1,3 +1,11 @@
+---
+type: readme
+title: Print compositor service overview
+summary: Explains how the print compositor service composites frame pictures into PDF or XPS print documents in a sandboxed process and links an IPC flow diagram.
+relations:
+  - references /components/services/print_compositor/ipc_flow_diagram.png
+---
+
 The print_compositor service should composite multiple raw pictures from
 different frames into a complete one, then converts it into a print document
 format, either PDF or XPS.  This all happens within an isolated sandboxed

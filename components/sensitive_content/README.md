@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sensitive content component overview
+summary: Explains how the component detects sensitive form fields on Android V+ via Autofill predictions and describes the roles of SensitiveContentClient and SensitiveContentManager.
+---
+
 The sensitive content component is responsible for detecting form content that
 should be marked as "sensitive" on Android V+ (e.g., payment information, login
 information). It is used by both Chrome and WebView on Android.

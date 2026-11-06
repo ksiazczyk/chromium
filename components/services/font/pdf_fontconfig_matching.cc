@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF font matching via FontConfig
+// summary: Implements PDFium font matching helpers, translating Microsoft charset identifiers into Fontconfig language sets for fallback font selection.
+// ---
+
 #include "components/services/font/pdf_fontconfig_matching.h"
 
 #include <fcntl.h>

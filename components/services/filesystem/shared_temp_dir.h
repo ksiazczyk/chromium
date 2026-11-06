@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedTempDir class declaration
+// summary: Declares SharedTempDir, a reference-counted wrapper that lets multiple mojom::Directory objects share ownership of a temporary directory.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FILESYSTEM_SHARED_TEMP_DIR_H_
 #define COMPONENTS_SERVICES_FILESYSTEM_SHARED_TEMP_DIR_H_
 

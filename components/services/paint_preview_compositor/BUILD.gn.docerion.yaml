@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for paint preview compositor
+summary: Defines the paint_preview_compositor static library, its dependencies, and the unit test targets for the service.

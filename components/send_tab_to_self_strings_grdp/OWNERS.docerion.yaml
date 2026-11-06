@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Send Tab to Self strings OWNERS
+summary: OWNERS file that delegates review ownership of this directory to the send_tab_to_self component's OWNERS file.

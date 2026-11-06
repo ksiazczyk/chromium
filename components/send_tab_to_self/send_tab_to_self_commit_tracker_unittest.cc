@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self commit tracker unit tests
+// summary: Unit tests verifying commit tracker notifications for success, timeout, commit errors, network failure, sync disable and entry removal.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_commit_tracker.h"
 
 #include <memory>

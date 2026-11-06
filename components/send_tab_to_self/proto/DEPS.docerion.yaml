@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Send tab to self proto directory dependencies
+summary: DEPS include rules granting this directory access to components/sync/protocol headers.

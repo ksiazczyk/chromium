@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the server certificate database component
+summary: Specifies the include rules permitting dependencies on keyed_service, crypto, net, sql, and BoringSSL pki within this component.

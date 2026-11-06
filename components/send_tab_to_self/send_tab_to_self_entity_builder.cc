@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self test entity builder implementation
+// summary: Builds Send Tab to Self loopback server entities for tests, packaging page context with form fields, text fragments and optional Nigori encryption.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_entity_builder.h"
 
 #include <utility>

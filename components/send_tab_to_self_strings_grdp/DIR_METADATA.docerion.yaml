@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Send tab to self strings directory metadata
+summary: Declares the Monorail component UI>Browser>Sharing and Buganizer component 1457306 for the send_tab_to_self_strings_grdp directory.

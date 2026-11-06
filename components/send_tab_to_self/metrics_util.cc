@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self metrics implementation
+// summary: Implements histogram recording for Send Tab to Self entry points, send results, notification statuses, and device form factor combinations.
+// ---
+
 #include "components/send_tab_to_self/metrics_util.h"
 
 #include <cmath>

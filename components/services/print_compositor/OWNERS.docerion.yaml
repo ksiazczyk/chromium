@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for print compositor
+summary: Delegates review ownership to printing OWNERS and assigns watermark-related files to the enterprise watermarking owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows common quarantine header
+// summary: Declares the Windows Zone.Identifier stream suffix constant shared by the quarantine implementation.
+// ---
+
 #ifndef COMPONENTS_SERVICES_QUARANTINE_COMMON_WIN_H_
 #define COMPONENTS_SERVICES_QUARANTINE_COMMON_WIN_H_
 

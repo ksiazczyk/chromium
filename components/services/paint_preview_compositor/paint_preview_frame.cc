@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintPreviewFrame implementation
+// summary: Implements the default constructors, destructors and move operations of the PaintPreviewFrame class.
+// ---
+
 #include "components/services/paint_preview_compositor/paint_preview_frame.h"
 
 namespace paint_preview {

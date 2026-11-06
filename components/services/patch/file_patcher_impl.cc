@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePatcherImpl implementation
+// summary: Implements the FilePatcher Mojo interface by applying puffin puff patches and Zucchini patches to input, patch, and output files.
+// ---
+
 #include "components/services/patch/file_patcher_impl.h"
 
 #include <utility>

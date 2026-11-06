@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview compositor implementation
+// summary: Implements frame deserialization and Skia-based bitmap compositing for separated and main frame paint preview requests.
+// ---
+
 #include "components/services/paint_preview_compositor/paint_preview_compositor_impl.h"
 
 #include <algorithm>

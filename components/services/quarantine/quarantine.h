@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuarantineFile API declaration
+// summary: Declares the QuarantineFile function that marks downloaded files as quarantined, with detailed platform-specific usage guidance.
+// ---
+
 #ifndef COMPONENTS_SERVICES_QUARANTINE_QUARANTINE_H_
 #define COMPONENTS_SERVICES_QUARANTINE_QUARANTINE_H_
 

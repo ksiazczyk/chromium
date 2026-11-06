@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server certificate database test utilities header
+// summary: Declares the MakeCertInfo helper and a CertInfoEquals matcher for comparing certificate database entries in unit tests.
+// ---
+
 #ifndef COMPONENTS_SERVER_CERTIFICATE_DATABASE_SERVER_CERTIFICATE_DATABASE_TEST_UTIL_H_
 #define COMPONENTS_SERVER_CERTIFICATE_DATABASE_SERVER_CERTIFICATE_DATABASE_TEST_UTIL_H_
 

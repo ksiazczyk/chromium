@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryImpl class declaration
+// summary: Declares the DirectoryImpl class implementing the mojom::Directory Mojo interface with read-only and read-write access modes.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FILESYSTEM_DIRECTORY_IMPL_H_
 #define COMPONENTS_SERVICES_FILESYSTEM_DIRECTORY_IMPL_H_
 

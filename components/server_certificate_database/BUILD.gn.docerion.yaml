@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the server certificate database
+summary: Defines GN build targets for the component, including the proto library, the server certificate database component, test support, and unit tests.

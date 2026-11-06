@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font service Mojo application implementation
+// summary: Implements the FontService Mojo interface, matching font families through FontConfig with an LRU cache and serving fallback and render style requests.
+// ---
+
 #include "components/services/font/font_service_app.h"
 
 #include <fontconfig/fontconfig.h>

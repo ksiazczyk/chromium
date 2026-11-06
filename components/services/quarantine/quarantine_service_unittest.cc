@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quarantine service unit tests
+// summary: Unit tests for the QuarantineImpl Mojo service, checking that QuarantineFile completes with an OK result.
+// ---
+
 #include <memory>
 #include <utility>
 

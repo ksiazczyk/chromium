@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for components/services
+summary: Points to the shared services COMMON_METADATA mixins so this directory inherits the standard metadata.

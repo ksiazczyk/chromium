@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiving UI handler interface
+// summary: Defines the platform interface for displaying new Send Tab to Self entries and dismissing their UI, to be registered with the ReceivingUIRegistry.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_RECEIVING_UI_HANDLER_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_RECEIVING_UI_HANDLER_H_
 

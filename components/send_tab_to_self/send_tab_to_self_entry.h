@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self entry and navigation history declarations
+// summary: Declares the SendTabToSelfEntry class and NavigationHistory struct representing a tab shared between a user's devices.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ENTRY_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ENTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self metrics enums and recording functions
+// summary: Declares enums and functions for recording Send Tab to Self usage metrics such as entry points, notification status, and auto-open outcomes.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_METRICS_UTIL_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_METRICS_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for send_tab_to_self
+summary: Defines the static library, features and test_support source sets, and unit test targets for the send_tab_to_self component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectoryTestHelper class declaration
+// summary: Declares DirectoryTestHelper, which binds remote DirectoryImpl instances for temporary directories on a blocking background thread for use in tests.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FILESYSTEM_DIRECTORY_TEST_HELPER_H_
 #define COMPONENTS_SERVICES_FILESYSTEM_DIRECTORY_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectoryTestHelper implementation
+// summary: Implements DirectoryTestHelper, binding DirectoryImpl instances for temporary directories, including read-only ones, on a background thread for tests.
+// ---
+
 #include "components/services/filesystem/directory_test_helper.h"
 
 #include <memory>

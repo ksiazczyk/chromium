@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print compositor service implementation
+// summary: Implements the PrintCompositor Mojo service that composites pages, manages subframe content, and generates PDF documents within a sandboxed utility process.
+// ---
+
 #include "components/services/print_compositor/print_compositor_impl.h"
 
 #include <algorithm>

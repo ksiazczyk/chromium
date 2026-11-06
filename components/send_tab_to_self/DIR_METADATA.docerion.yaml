@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA metadata mixin for the directory
+summary: Points the directory metadata to the shared COMMON_METADATA mixins for tracker configuration.

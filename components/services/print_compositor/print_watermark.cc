@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise print watermark implementation
+// summary: Implements the PrintWatermark addon that draws enterprise watermarks on composited pages and overlays watermarks onto generated PDF documents.
+// ---
+
 #include "components/services/print_compositor/print_watermark.h"
 
 #include <memory>

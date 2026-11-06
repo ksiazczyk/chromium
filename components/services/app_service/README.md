@@ -1,3 +1,9 @@
+---
+type: readme
+title: App Service
+summary: Explains the App Service architecture that mediates between app consumers and publishers, covering the registry, icon factory, runner, installer, coordinator, and per-profile proxies.
+---
+
 # App Service
 
 Chrome, and especially Chrome OS, has apps, e.g. chat apps and camera apps.

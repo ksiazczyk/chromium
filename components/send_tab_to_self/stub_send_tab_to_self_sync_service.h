@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub Send Tab to Self sync service header
+// summary: Declares a stub SendTabToSelfSyncService with a settable entry point display reason and fake model for test use.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_STUB_SEND_TAB_TO_SELF_SYNC_SERVICE_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_STUB_SEND_TAB_TO_SELF_SYNC_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetDeviceListWaiter implementation
+// summary: Implements a utility that observes sync and Send Tab to Self model state until the target device list is known, then asynchronously runs the given callback.
+// ---
+
 #include "components/send_tab_to_self/target_device_list_waiter.h"
 
 #include <utility>

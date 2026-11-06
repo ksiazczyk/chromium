@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print watermark unit tests
+// summary: Unit tests for the PrintWatermark class, verifying enterprise watermark rendering on PDF pages using test watermark blocks and pixel comparisons.
+// ---
+
 #include "components/services/print_compositor/print_watermark.h"
 
 #include <memory>

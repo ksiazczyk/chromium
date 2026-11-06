@@ -1,0 +1,4 @@
+# Docerion header of quarantine_mac.mm.
+type: source
+title: macOS quarantine implementation
+summary: Implements macOS file quarantine by setting kMDItemWhereFroms origin metadata and Launch Services quarantine attributes on downloaded files.

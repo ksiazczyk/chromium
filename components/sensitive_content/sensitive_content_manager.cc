@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the sensitive content manager
+// summary: Implements tracking of sensitive autofill fields, notifying the client when sensitivity changes, and recording sensitivity and latency histograms.
+// ---
+
 #include "components/sensitive_content/sensitive_content_manager.h"
 
 #include "base/check_deref.h"

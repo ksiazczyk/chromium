@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Directory implementation unit tests
+// summary: Unit tests for DirectoryImpl covering reading directory entries, opening files and directories, renaming, deleting, and other directory operations over Mojo.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App Service code owners
+summary: Lists the primary code owner and an additional owner designated for mechanical changes only.

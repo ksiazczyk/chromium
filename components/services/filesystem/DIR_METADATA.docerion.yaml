@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Filesystem service component and team metadata
+summary: Maps the directory to the Internals>Services>File bug tracker component and the storage-dev@chromium.org team.

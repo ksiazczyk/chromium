@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry point display reason unit tests
+// summary: Unit tests covering signin, reauth, policy and null-service cases for the entry point display reason logic.
+// ---
+
 #include "components/send_tab_to_self/entry_point_display_reason.h"
 
 #include <memory>

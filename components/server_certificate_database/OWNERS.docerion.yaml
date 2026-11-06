@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegated to net/cert
+summary: Points to the net/cert OWNERS file as the code owners for this directory.

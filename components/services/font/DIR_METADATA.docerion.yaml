@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for the font service
+summary: Maps the directory to the Blink>Fonts Monorail component and Buganizer public component 1456925.

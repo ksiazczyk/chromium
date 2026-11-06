@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub Send Tab to Self sync service implementation
+// summary: Implements a stub sync service backed by a fake model and fake delegate for exercising the Send Tab to Self feature in tests.
+// ---
+
 #include "components/send_tab_to_self/stub_send_tab_to_self_sync_service.h"
 
 #include <utility>

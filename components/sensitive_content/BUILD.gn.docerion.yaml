@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the sensitive_content component
+summary: Defines GN build targets for the sensitive content component, including Android-specific sources, JNI generation, Java libraries, feature flags target, and unit tests.

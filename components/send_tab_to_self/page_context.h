@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context data structures for Send Tab to Self
+// summary: Declares the PageContext struct with form field info, autofill signatures, and scroll position data used to carry page state along with a sent tab.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_PAGE_CONTEXT_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_PAGE_CONTEXT_H_
 

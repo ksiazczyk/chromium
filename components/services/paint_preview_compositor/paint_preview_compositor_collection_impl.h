@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview compositor collection header
+// summary: Declares the collection service class that creates, lists, and tracks compositors and manages discardable shared memory.
+// ---
+
 #ifndef COMPONENTS_SERVICES_PAINT_PREVIEW_COMPOSITOR_PAINT_PREVIEW_COMPOSITOR_COLLECTION_IMPL_H_
 #define COMPONENTS_SERVICES_PAINT_PREVIEW_COMPOSITOR_PAINT_PREVIEW_COMPOSITOR_COLLECTION_IMPL_H_
 

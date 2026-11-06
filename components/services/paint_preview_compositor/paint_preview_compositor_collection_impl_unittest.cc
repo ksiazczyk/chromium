@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview compositor collection unit tests
+// summary: Tests compositor creation, listing, and disconnect behavior of the collection implementation, including remote outliving the collection.
+// ---
+
 #include "components/services/paint_preview_compositor/paint_preview_compositor_collection_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac quarantine properties header
+// summary: Declares GetQuarantineProperties, which returns a dictionary of macOS quarantine attributes for a file.
+// ---
+
 #ifndef COMPONENTS_SERVICES_QUARANTINE_COMMON_MAC_H_
 #define COMPONENTS_SERVICES_QUARANTINE_COMMON_MAC_H_
 

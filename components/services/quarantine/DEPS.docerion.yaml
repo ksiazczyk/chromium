@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Quarantine include rules
+summary: Specifies allowed include paths for the quarantine component, covering ChromeOS DLP and net filename utilities.

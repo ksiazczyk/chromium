@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App Service dependency include rules
+summary: Sets allowed include rules for the component and grants per-file exceptions for files such as instance registry, intent utilities, and shortcut image code.

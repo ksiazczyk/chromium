@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake send tab to self model for tests
+// summary: Provides an in-memory fake SendTabToSelfModel that records entries and observer calls for use in tests.
+// ---
+
 #include "components/send_tab_to_self/fake_send_tab_to_self_model.h"
 
 #include <algorithm>

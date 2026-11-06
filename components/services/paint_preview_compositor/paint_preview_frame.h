@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintPreviewFrame struct definition
+// summary: Defines the PaintPreviewFrame struct, an in-memory deserialized frame holding a SkPicture and its subframe clip rects.
+// ---
+
 #ifndef COMPONENTS_SERVICES_PAINT_PREVIEW_COMPOSITOR_PAINT_PREVIEW_FRAME_H_
 #define COMPONENTS_SERVICES_PAINT_PREVIEW_COMPOSITOR_PAINT_PREVIEW_FRAME_H_
 
