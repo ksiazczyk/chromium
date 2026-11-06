@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Isolated Wayland compositor manager
+# summary: Starts and stops headless mutter Wayland compositors so GPU tests run each browser on its own display and avoid window occlusion issues.
+# ---
+
 """Utilities for running isolated Wayland display servers."""
 
 import atexit

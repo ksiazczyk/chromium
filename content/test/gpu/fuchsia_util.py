@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Fuchsia test execution helper
+# summary: Helper module that launches Telemetry-based GPU tests on Fuchsia devices through the Fuchsia run_test script.
+# ---
+
 import argparse
 import os
 import subprocess

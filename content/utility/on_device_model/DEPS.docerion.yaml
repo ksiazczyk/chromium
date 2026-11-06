@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the on-device model utility directory
+summary: DEPS file allowing includes from services/on_device_model/ml and third_party/dawn/include within this directory.

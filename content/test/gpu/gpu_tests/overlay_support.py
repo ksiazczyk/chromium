@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Video overlay support helpers
+# summary: Shared helper classes and enums describing GPU video overlay support, pixel formats, presentation modes, rotations, and driver conditionals.
+# ---
+
 """Helper module for shared code related to video overlays."""
 
 import collections

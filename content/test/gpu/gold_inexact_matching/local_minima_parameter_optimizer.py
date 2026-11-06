@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Local minima parameter optimizer
+# summary: Searches the parameter space with weighted depth- or breadth-first search to find local minima faster than brute force, though not guaranteed to find all good combinations.
+# ---
+
 import collections
 import itertools
 import logging

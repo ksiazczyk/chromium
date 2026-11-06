@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebCodecs integration tests
+# summary: Integration tests for WebCodecs frame, video, and audio encoding and decoding across frame sources, codecs, and hardware acceleration options.
+# ---
+
 import os
 import posixpath
 import sys

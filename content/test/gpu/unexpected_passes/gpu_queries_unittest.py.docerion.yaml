@@ -1,0 +1,4 @@
+# Docerion header of gpu_queries_unittest.py.
+type: test
+title: Unit tests for GPU queries
+summary: Unit tests verifying suite name translation to GPU test classes and the generated BigQuery queries for CI and try results.

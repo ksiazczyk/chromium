@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Datatypes for Swarming task statistics
+# summary: Defines BotStats and MixinStats classes that store and validate per-bot and per-mixin task counts and failure rates.
+# ---
+
 """Datatypes for locally storing Swarming task data."""
 
 import collections

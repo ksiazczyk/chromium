@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model sandbox initialization declarations
+// summary: Header declaring PreSandboxInit, Shutdown, and the Linux sandbox option and hook functions for the on-device model utility service.
+// ---
+
 #ifndef CONTENT_UTILITY_ON_DEVICE_MODEL_ON_DEVICE_MODEL_SANDBOX_INIT_H_
 #define CONTENT_UTILITY_ON_DEVICE_MODEL_ON_DEVICE_MODEL_SANDBOX_INIT_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GPU result processor for flake suppression
+# summary: Parses ResultDB result names to extract the GPU test suite and test name for flake suppression.
+# ---
+
 from typing import Tuple
 
 from flake_suppressor_common import results as results_module

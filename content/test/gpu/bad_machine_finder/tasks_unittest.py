@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for task statistics datatypes
+# summary: Unit tests for BotStats and MixinStats covering input validation, freeze-gated access, and stat tracking.
+# ---
+
 import unittest
 
 from bad_machine_finder import tasks

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebGPU CTS integration test
+# summary: Runs the WebGPU conformance suite, defining serial test groups and platform-specific workarounds for flaky or memory-heavy tests.
+# ---
+
 import os
 import sys
 from typing import Any

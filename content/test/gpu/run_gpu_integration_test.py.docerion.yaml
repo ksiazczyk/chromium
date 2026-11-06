@@ -1,0 +1,4 @@
+# Docerion header of run_gpu_integration_test.py.
+type: script
+title: GPU integration test runner
+summary: Runs GPU integration tests through the Telemetry browser test runner, adding retry defaults, test name prefixes, and Mac lockscreen detection.

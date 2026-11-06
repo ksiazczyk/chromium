@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the speech utility directory
+summary: Maps the directory to the Internals>Sandbox monorail component and Buganizer component 1455745.

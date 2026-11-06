@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the on-device model sandbox init source set
+summary: GN build file defining the on_device_model_sandbox_init source set with platform-conditional dependencies for the on-device model service.

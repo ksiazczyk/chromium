@@ -1,0 +1,4 @@
+# Docerion header of find_bad_machines.py.
+type: script
+title: Find bad GPU test machines
+summary: Detects GPU bots likely contributing to test failures using BigQuery and swarming data and can report them to Buganizer.

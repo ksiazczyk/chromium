@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Iterative parameter optimizer base class
+# summary: Abstract optimizer for iterative algorithms that adds step-size arguments for edge threshold and fuzzy diff parameter changes between iterations.
+# ---
+
 
 import gold_inexact_matching.base_parameter_optimizer as base_optimizer
 from gold_inexact_matching import common_typing as ct

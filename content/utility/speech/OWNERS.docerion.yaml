@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file ownership rules for the sandbox hook sources
+summary: Delegates review of the speech recognition sandbox hook files to the sandbox/linux OWNERS without a parent rule.

@@ -1,0 +1,4 @@
+# Docerion header of build_4760_5047_repeat3.json.
+type: data
+title: Structured power measurement data for builds 4760 to 5047, three repeats
+summary: JSON dataset of per-build power measurements for builds 4760 to 5047 on Windows 10 Intel HD 630, storing the three repeated iterations of each test as arrays.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Hardware accelerated feature GPU integration test
+# summary: Integration test that verifies the browser reports WebGL and 2D canvas as hardware accelerated by checking the GPU feature status on the internal GPU info page.
+# ---
+
 import os
 import sys
 from typing import Any

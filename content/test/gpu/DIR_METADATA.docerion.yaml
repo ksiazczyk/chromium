@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the GPU test directory
+summary: Declares the Monorail component, team email, and public Buganizer component used for issues in the GPU test directory.

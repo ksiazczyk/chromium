@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Common browser argument constants
+# summary: Defines string constants for commonly used Chromium browser command-line arguments in GPU tests.
+# ---
+
 """String constants for commonly used browser arguments."""
 
 from __future__ import print_function

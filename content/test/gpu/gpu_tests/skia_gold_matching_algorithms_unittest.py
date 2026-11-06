@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for Skia Gold matching algorithms
+# summary: Unit tests verifying command line generation and argument validation for exact, fuzzy, Sobel, and other Skia Gold matching algorithms.
+# ---
+
 import math
 import unittest
 

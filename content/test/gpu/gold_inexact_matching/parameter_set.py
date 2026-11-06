@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Parameter set dataclass
+# summary: Holds fuzzy and Sobel matching parameters for an optimization iteration and renders them as goldctl match command arguments.
+# ---
+
 import dataclasses
 import typing
 

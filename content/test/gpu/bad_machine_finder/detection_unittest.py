@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for bad machine detection
+# summary: Unit tests for BadMachineList and MixinGroupedBadMachines covering merging, confidence filtering, input validation, and Markdown output.
+# ---
+
 import decimal
 import unittest
 

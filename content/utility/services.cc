@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility process service registration
+// summary: Registers the services runnable in the utility process, including network, storage, audio, tracing, video capture, CDM, and XR, on the IO and main threads.
+// ---
+
 #include "content/utility/services.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: bad_machine_finder package initialization
+# summary: Initializes the bad_machine_finder package and adds the blink tools directory to the Python path.
+# ---
+
 import os
 import sys
 

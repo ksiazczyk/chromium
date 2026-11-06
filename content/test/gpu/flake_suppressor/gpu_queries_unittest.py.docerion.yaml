@@ -1,0 +1,4 @@
+# Docerion header of gpu_queries_unittest.py.
+type: test
+title: Unit tests for GPU BigQuery queries
+summary: Unit tests verifying result count aggregation and merging of counts for ignored tags in GPU BigQuery queries.

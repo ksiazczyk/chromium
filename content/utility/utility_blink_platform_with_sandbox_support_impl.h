@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility Blink platform with sandbox support header
+// summary: Declares UtilityBlinkPlatformWithSandboxSupportImpl, a blink::Platform subclass for utility processes that exposes sandbox support and task runner overrides.
+// ---
+
 #ifndef CONTENT_UTILITY_UTILITY_BLINK_PLATFORM_WITH_SANDBOX_SUPPORT_IMPL_H_
 #define CONTENT_UTILITY_UTILITY_BLINK_PLATFORM_WITH_SANDBOX_SUPPORT_IMPL_H_
 

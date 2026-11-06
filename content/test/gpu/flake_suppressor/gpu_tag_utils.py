@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GPU tag utilities for flake suppression
+# summary: Removes tags ignored by GPU integration tests from tag sets used during flake suppression.
+# ---
+
 """Module for tag-related helper functions."""
 
 from typing import Iterable

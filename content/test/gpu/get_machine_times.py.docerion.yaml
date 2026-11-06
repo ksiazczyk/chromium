@@ -1,0 +1,4 @@
+# Docerion header of get_machine_times.py.
+type: script
+title: GPU test shard time reporting entry point
+summary: Entry point wrapper that reports estimated GPU test shard times by delegating to the machine_times module.

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: WebSocket server for GPU test communication
+# summary: Runs a single-connection websocket server on a background thread so GPU tests can send and receive messages with the browser under test.
+# ---
+
 """Code to allow tests to communicate via a websocket server."""
 
 import logging

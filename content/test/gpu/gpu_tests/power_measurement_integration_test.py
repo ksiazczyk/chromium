@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Power measurement GPU integration test
+# summary: Integration test measuring power consumption while playing videos using Intel Power Gadget on Windows machines with Intel CPUs.
+# ---
+
 """This script only works on Windows with Intel CPU. Intel Power Gadget needs
 to be installed on the machine before this script works. The software can be
 downloaded from:

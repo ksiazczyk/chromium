@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebRTC hardware codec loopback integration test
+# summary: Runs WebRTC hardware encode and decode loopback tests for H264, H265, VP8, VP9, and AV1 using codec loopback pages.
+# ---
+
 import os
 import sys
 import json

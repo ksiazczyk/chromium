@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Shared type aliases for GPU tests
+# summary: Provides shared type aliases and dataclass field helpers used across the GPU test modules.
+# ---
+
 """Helper module to store class-independent, common type hinting."""
 
 from collections.abc import Callable, Generator

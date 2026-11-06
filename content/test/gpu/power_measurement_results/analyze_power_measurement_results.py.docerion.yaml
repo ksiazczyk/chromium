@@ -1,0 +1,4 @@
+# Docerion header of analyze_power_measurement_results.py.
+type: script
+title: Power Measurement Results Analysis Script
+summary: Analyzes power measurement test results from bots to provide insights into Intel Power Gadget power data.

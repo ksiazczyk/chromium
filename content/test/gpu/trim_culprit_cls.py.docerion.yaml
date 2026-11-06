@@ -1,0 +1,4 @@
+# Docerion header of trim_culprit_cls.py.
+type: script
+title: Trybot blamelist checker for culprit CLs
+summary: Queries BigQuery to determine which CLs in a blamelist ran on a given trybot, helping absolve CLs of CI failures.

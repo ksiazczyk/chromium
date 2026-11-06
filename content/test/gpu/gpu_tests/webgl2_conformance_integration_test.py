@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: WebGL 2 conformance integration tests
+# summary: Defines the WebGL 2 conformance test suite, listing supported extensions and pointing to its expectations file.
+# ---
+
 """Class for WebGL 2 conformance tests."""
 
 import os

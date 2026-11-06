@@ -20,6 +20,12 @@
 #
 # and put the output into this file.
 
+# ---docerion
+# type: test
+# title: Fake Windows AMD GPU info fixture
+# summary: Provides a fake GPU info dictionary captured from a Windows AMD GPU trybot, used to test telemetry's GPUInfo class.
+# ---
+
 from __future__ import print_function
 
 # yapf: disable

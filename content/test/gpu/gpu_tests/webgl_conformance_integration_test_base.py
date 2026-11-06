@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: WebGL conformance test base class
+# summary: Base class for WebGL conformance integration tests, managing harness scripts, websocket servers, timeouts, and serial test handling.
+# ---
+
 """Base class for WebGL conformance tests."""
 
 from collections.abc import Mapping

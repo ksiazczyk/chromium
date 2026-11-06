@@ -6,6 +6,12 @@
 // GPU tests. Intended to be evaluated on commit in addition to whatever
 // suite-specific code there is.
 
+// ---docerion
+// type: test
+// title: Shared WebSocket heartbeat wrapper for GPU tests
+// summary: Defines a WebSocketWrapper that sends throttled heartbeats and test lifecycle messages over a WebSocket, shared by several GPU test suites.
+// ---
+
 const HEARTBEAT_THROTTLE_MS = 5000;
 
 class WebSocketWrapper {

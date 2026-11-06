@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GPU builders implementation for unexpected passes
+# summary: GPU-specific builders module that decides which builders run tests of interest and defines isolate names, fake CI builders, and non-Chromium builders.
+# ---
+
 """GPU-specific implementation of the unexpected passes' builders module."""
 
 from typing import Any, Dict, Optional, Set

@@ -1,0 +1,4 @@
+# Docerion header of validate_tag_consistency.py.
+type: script
+title: GPU Expectation Tag Consistency Validator
+summary: Script that checks that the same tags are used consistently across all GPU test expectation files, including tag specializations for OS, browser, and GPU.

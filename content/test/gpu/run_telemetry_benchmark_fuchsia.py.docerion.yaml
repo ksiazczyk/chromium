@@ -1,0 +1,4 @@
+# Docerion header of run_telemetry_benchmark_fuchsia.py.
+type: script
+title: Fuchsia Telemetry benchmark wrapper
+summary: Wrapper that launches Telemetry performance benchmarks on Fuchsia devices via the fuchsia_util helper.

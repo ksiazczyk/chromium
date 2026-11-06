@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Optimizer set for multiple tests
+# summary: Runs a selected parameter optimizer class once for each test name supplied on the command line.
+# ---
+
 import typing
 
 from gold_inexact_matching import base_parameter_optimizer as bpo

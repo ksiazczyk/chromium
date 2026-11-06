@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GPU process integration tests
+# summary: Integration tests verifying GPU process functionality such as canvas, CSS 3D, WebGL, video, driver bug workarounds, and GPU info.
+# ---
+
 import logging
 import os
 import sys

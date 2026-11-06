@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Browser power measurement with Intel Power Gadget
+# summary: Measures browser power consumption on Windows and Mac using Intel Power Gadget and Selenium for supported Chrome, Chromium, and Edge builds.
+# ---
+
 """This script runs power measurements for browsers using Intel Power Gadget.
 
 This script only works on Windows/Mac with Intel CPU. Intel Power Gadget needs

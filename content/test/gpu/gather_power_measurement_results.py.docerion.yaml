@@ -1,0 +1,4 @@
+# Docerion header of gather_power_measurement_results.py.
+type: script
+title: Gather power measurement results from bots
+summary: Collects IPG-based power measurement results from buildbucket builds and stores them as data for understanding IPG.

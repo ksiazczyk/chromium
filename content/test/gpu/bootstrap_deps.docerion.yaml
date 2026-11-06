@@ -1,0 +1,4 @@
+# Docerion header of bootstrap_deps.
+type: config
+title: Bootstrap dependencies for GPU test tooling
+summary: Specifies DEPS-style dependency URLs needed to bootstrap GPU test tooling outside a normal Chrome checkout.

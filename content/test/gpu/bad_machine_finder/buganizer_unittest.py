@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for Buganizer bug updates
+# summary: Unit tests for posting bad machine comments to Buganizer, covering grace period filtering, no-new-findings cases, and error handling.
+# ---
+
 import datetime
 import typing
 from typing import Union

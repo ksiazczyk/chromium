@@ -1,0 +1,4 @@
+# Docerion header of run_tests_with_expectations_files_expectations.txt.
+type: test
+title: Expectations fixture for run tests with expectations files
+summary: Unit test fixture defining Failure, RetryOnFailure and Skip expectations for specific tests, used by run tests with expectations files.

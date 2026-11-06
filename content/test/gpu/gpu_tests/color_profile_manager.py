@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Display color profile manager
+# summary: Forces all displays to use an sRGB color profile during GPU tests on macOS and restores the originals at exit.
+# ---
+
 
 import atexit
 

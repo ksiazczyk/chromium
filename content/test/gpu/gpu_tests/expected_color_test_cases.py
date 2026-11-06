@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Expected color test case definitions
+# summary: Defines test case and expectation classes for expected color GPU tests, including sampled regions, colors, tolerances, and crop actions.
+# ---
+
 import collections
 from collections.abc import Callable
 

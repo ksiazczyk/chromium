@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Screenshot test DPR utilities
+# summary: Provides functions that read the true and effective device pixel ratio from a Telemetry tab for use in screenshot-based GPU tests.
+# ---
+
 """Utility functions related to screenshot tests."""
 
 from gpu_tests import common_typing as ct

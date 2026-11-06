@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility thread implementation
+// summary: Implements the utility process main thread, binding incoming Mojo service requests via a ServiceFactory, recording service crash keys, and initializing Blink when required.
+// ---
+
 #include "content/utility/utility_thread_impl.h"
 
 #include <memory>

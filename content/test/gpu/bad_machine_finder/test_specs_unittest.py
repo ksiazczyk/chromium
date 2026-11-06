@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for test_specs mixin dimension lookup
+# summary: Unit tests covering GetMixinDimensions behavior, including the Swarming OR operator and error cases when dimensions are missing.
+# ---
+
 import unittest
 from unittest import mock
 

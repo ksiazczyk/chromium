@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model pre-sandbox initialization implementation
+// summary: Implements PreSandboxInit for the on-device model utility process, loading ChromeML, warming GPU drivers via Dawn, and configuring Linux sandbox options per GPU vendor.
+// ---
+
 #include "content/utility/on_device_model/on_device_model_sandbox_init.h"
 
 #include "base/base_paths.h"

@@ -1,0 +1,4 @@
+# Docerion header of gpu_tag_utils_unittest.py.
+type: test
+title: Unit tests for GPU tag utilities
+summary: Unit tests verifying that ignored GPU tags such as win-laptop are removed from tag lists.

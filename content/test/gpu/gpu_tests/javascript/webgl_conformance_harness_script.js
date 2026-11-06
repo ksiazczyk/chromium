@@ -5,6 +5,12 @@
 // Script meant to be evaluated on commit by WebGL tests. Requires that
 // websocket_heartbeat.js be prepended or otherwise evaluated first.
 
+// ---docerion
+// type: test
+// title: WebGL conformance test harness script
+// summary: Provides the testHarness for WebGL conformance tests, wrapping GL and canvas calls in heartbeats and reporting results and errors to the test wrapper.
+// ---
+
 if (inIframe) {
   // Wrap a subset of GL calls in heartbeats to ensure that longer-running tests
   // still send them regularly.

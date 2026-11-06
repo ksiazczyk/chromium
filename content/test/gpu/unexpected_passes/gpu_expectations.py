@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GPU expectations implementation for unexpected passes
+# summary: GPU-specific expectations module that creates test expectation maps, drops Slow expectations, and consolidates overlapping dual-GPU Mac tags.
+# ---
+
 """GPU-specific implementation of the unexpected passes' expectations module."""
 
 import collections

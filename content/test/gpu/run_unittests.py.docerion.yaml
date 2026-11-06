@@ -1,0 +1,4 @@
+# Docerion header of run_unittests.py.
+type: script
+title: GPU unit test runner
+summary: Runs the unit tests for code in the gpu_tests directory using the Telemetry unittest runner without launching a browser.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Noop sleep GPU integration test
+# summary: GPU integration test that navigates to an empty page and sleeps for 180 seconds without performing any checks.
+# ---
+
 from __future__ import print_function
 
 import sys

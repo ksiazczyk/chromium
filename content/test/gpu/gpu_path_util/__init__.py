@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GPU path utility package
+# summary: Defines constants for Chromium source, Catapult, GPU test data and expectations directories and provides a helper to add directories to sys.path.
+# ---
+
 import os
 import sys
 

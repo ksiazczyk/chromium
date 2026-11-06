@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for Swarming task stats
+# summary: Unit tests for parsing Swarming query results into per-mixin and per-bot task statistics using a fake querier.
+# ---
+
 import collections
 from typing import Generator
 import unittest

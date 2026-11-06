@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GPU BigQuery queries for flake suppression
+# summary: Defines BigQuery queries that collect failing GPU tests and result counts from Chromium CI and try bots over a sample period.
+# ---
+
 from flake_suppressor_common import queries as queries_module
 
 SUBMITTED_BUILDS_SUBQUERY = f"""\

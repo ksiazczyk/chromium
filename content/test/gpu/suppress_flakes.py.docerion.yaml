@@ -1,0 +1,4 @@
+# Docerion header of suppress_flakes.py.
+type: script
+title: Flaky GPU test finder and suppressor
+summary: Queries ResultDB BigQuery data for flaky or failing GPU tests and generates or updates expectations to suppress them.
