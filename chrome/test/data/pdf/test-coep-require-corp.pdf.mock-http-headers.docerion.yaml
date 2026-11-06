@@ -1,0 +1,4 @@
+# Docerion header of test-coep-require-corp.pdf.mock-http-headers.
+type: test
+title: COEP require-corp PDF mock HTTP headers
+summary: Mock HTTP response headers serving a PDF with cross-origin-embedder-policy require-corp for PDF browser tests.

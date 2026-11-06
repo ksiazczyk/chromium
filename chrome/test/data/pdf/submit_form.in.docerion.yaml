@@ -1,0 +1,4 @@
+# Docerion header of submit_form.in.
+type: test
+title: PDF template with a form submit button
+summary: PDF source template that generates a test document whose button triggers form submission through a JavaScript action.

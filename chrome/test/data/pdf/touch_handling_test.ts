@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch handling tests
+// summary: Tests that the PDF viewer suppresses the context menu on single touch and allows it on double touch.
+// ---
+
 import type {Point} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 const viewer = document.body.querySelector('pdf-viewer')!;

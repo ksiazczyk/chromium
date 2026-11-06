@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No beep test
+// summary: Verifies that blocked PDF JavaScript cannot call back into the viewer via app.beep().
+// ---
+
 import type {PdfViewerElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 chrome.test.runTests([

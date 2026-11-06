@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink2 Save to Drive cancelled before unload test
+// summary: Browser test checking that the unedited dialog appears when Save to Drive is cancelled mid-upload after an Ink2 stroke, triggering beforeunload prevention.
+// ---
+
 import {AnnotationMode, PluginController} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {eventToPromise, microtasksFinished} from 'chrome://webui-test/test_util.js';
 

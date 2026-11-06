@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer save file picker test
+// summary: Browser test verifying that opening a save file picker for saving a PDF is not blocked in the PDF viewer.
+// ---
+
 export {};
 
 const tests = [

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing icon tests
+// summary: Browser tests checking that the toolbar print icon is shown or hidden based on the printingEnabled flag.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';
 

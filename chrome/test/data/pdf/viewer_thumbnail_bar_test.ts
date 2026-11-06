@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer thumbnail bar unit tests
+// summary: Unit tests for the viewer-thumbnail-bar element, covering thumbnail creation, page navigation, scrolling, and thumbnail request behavior.
+// ---
+
 import type {ViewerThumbnailBarElement, ViewerThumbnailElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {ChangePageOrigin, LANDSCAPE_WIDTH, PAINTED_ATTRIBUTE, PluginController, PORTRAIT_WIDTH} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {keyDownOn} from 'chrome://webui-test/keyboard_mock_interactions.js';

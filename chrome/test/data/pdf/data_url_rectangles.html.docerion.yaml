@@ -1,0 +1,4 @@
+# Docerion header of data_url_rectangles.html.
+type: test
+title: Data URL embedded rectangles PDF test page
+summary: HTML test page that embeds a base64 data URL copy of rectangles.pdf to exercise PDF loading from data URLs.

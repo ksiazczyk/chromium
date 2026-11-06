@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer searchify progress and metrics tests
+// summary: Tests the searchify progress indicator open and close behavior and user action metrics for copy and find operations on searchified documents.
+// ---
+
 import {PluginController, PluginControllerEventType, UserAction} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 import {setupMockMetricsPrivate} from './test_util.js';

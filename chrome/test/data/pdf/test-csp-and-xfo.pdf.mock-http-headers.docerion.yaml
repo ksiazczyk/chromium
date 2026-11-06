@@ -1,0 +1,4 @@
+# Docerion header of test-csp-and-xfo.pdf.mock-http-headers.
+type: test
+title: CSP and X-Frame-Options PDF mock HTTP headers
+summary: Mock HTTP headers serving a PDF with CSP frame-ancestors 'self' and X-Frame-Options DENY for embedding tests.

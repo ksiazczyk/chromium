@@ -1,0 +1,4 @@
+# Docerion header of test-coep-blob-navigation-new-tab.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the COEP blob navigation page
+summary: Serves the blob navigation test page with a require-corp cross-origin embedder policy header.

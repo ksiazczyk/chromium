@@ -1,0 +1,4 @@
+# Docerion header of encrypted.in.
+type: test
+title: Encrypted PDF test template
+summary: PDFium-style template used to generate a password-encrypted test PDF using the standard security handler with owner and user passwords.

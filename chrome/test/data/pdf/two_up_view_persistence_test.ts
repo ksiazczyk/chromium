@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-up view persistence tests
+// summary: Tests that toggling two-up view updates the plugin layout and persists the enabled state in local storage.
+// ---
+
 import {LOCAL_STORAGE_TWO_UP_VIEW_ENABLED_KEY, LocalStorageProxyImpl, PluginController, PluginControllerEventType} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';

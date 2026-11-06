@@ -1,0 +1,4 @@
+# Docerion header of test-iframe.html.
+type: test
+title: Bookmarks PDF iframe test page
+summary: HTML test page that embeds test-bookmarks.pdf in an iframe for PDF browser tests.

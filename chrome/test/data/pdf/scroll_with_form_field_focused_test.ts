@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll with focused form field tests
+// summary: Browser tests checking PageUp, PageDown, and space key scrolling behavior while a PDF form field is focused.
+// ---
+
 import {eventToPromise} from 'chrome://webui-test/test_util.js';
 
 import {getCurrentPage} from './test_util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF sidenav element unit tests
+// summary: Unit tests for the viewer-pdf-sidenav element, verifying toggling between thumbnail, outline, and attachment views and their selection states.
+// ---
+
 import type {ViewerPdfSidenavElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {keyDownOn} from 'chrome://webui-test/keyboard_mock_interactions.js';
 import {isVisible, microtasksFinished} from 'chrome://webui-test/test_util.js';

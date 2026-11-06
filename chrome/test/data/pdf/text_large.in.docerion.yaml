@@ -1,0 +1,4 @@
+# Docerion header of text_large.in.
+type: test
+title: Large text PDF template
+summary: PDF template that generates a test PDF drawing large text with a Helvetica font for viewer rendering tests.

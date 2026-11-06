@@ -1,0 +1,4 @@
+# Docerion header of blob_navigation_new_tab.html.
+type: test
+title: Blob PDF navigation in new tab test page
+summary: Test page that fetches a PDF as a blob and opens it in a new tab to exercise blob URL navigation in the PDF viewer.

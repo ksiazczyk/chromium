@@ -1,0 +1,4 @@
+# Docerion header of test-cross-site-iframe.html.
+type: test
+title: Cross-site iframe PDF test page
+summary: HTML test page that embeds a PDF from a cross-site origin in an iframe.

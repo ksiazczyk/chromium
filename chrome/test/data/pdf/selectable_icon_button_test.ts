@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selectable icon button tests
+// summary: Browser tests verifying the selectable icon button passes icon and label properties to the underlying button.
+// ---
+
 import 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';

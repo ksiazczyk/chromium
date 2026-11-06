@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF viewer metrics tests
+// summary: Tests that user action metrics are recorded, first-action variants fire only once and fit-to-page and fit-to-width counts are correct.
+// ---
+
 import {FittingType, record, recordFitTo, UserAction} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 import {setupMockMetricsPrivate} from './test_util.js';

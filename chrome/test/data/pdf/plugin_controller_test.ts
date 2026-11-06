@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF plugin controller tests
+// summary: Tests PluginController thumbnail requests, verifying thumbnail dimensions and image data byte length against the device pixel ratio.
+// ---
+
 import {PluginController} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 const tests = [

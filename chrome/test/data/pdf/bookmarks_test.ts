@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF viewer bookmarks tests
+// summary: Tests that PDF viewer bookmarks load with correct titles, pages, and zoom levels and that clicking a bookmark navigates the viewer.
+// ---
+
 import type {ChangePageAndXyDetail, ChangePageDetail, ChangeZoomDetail, NavigateDetail} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';
 

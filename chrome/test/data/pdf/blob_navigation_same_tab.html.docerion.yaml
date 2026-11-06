@@ -1,0 +1,4 @@
+# Docerion header of blob_navigation_same_tab.html.
+type: test
+title: Blob PDF navigation in same tab test page
+summary: Test page that fetches a PDF as a blob and navigates the current tab to the blob object URL.

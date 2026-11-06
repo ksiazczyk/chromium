@@ -1,0 +1,4 @@
+# Docerion header of test-bookmarks-with-zoom.in.
+type: test
+title: PDF template with bookmarks and zoom destinations
+summary: PDF source template that generates a document with outline bookmarks pointing to pages at different zoom levels.

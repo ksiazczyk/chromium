@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Undo/redo stack tests
+// summary: Unit tests for the PDF viewer's undo/redo stack covering state change events, dirty tracking and redo invalidation.
+// ---
+
 import {UndoRedoStack} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import type {UndoRedoState, UndoRedoStateChangedDetail} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {assert} from 'chrome://resources/js/assert.js';

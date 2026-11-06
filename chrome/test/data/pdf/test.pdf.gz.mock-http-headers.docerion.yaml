@@ -1,0 +1,4 @@
+# Docerion header of test.pdf.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for a gzipped PDF response
+summary: Mock HTTP response headers serving a PDF with gzip content encoding for tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Attachment bar tests
+// summary: Unit tests for the viewer-attachment-bar element, including the warning shown for oversize attachments.
+// ---
+
 import type {ViewerAttachmentBarElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/elements/viewer_attachment_bar.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gesture detector pinch tests
+// summary: Tests the PDF viewer's GestureDetector, verifying pinch start, update, and end events with correct centers and scale ratios from touch and wheel input.
+// ---
+
 import type {PinchEventDetail} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {GestureDetector} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 

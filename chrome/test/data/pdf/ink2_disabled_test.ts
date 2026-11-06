@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink2 disabled annotation test
+// summary: Browser test verifying that the PDF viewer hides the annotate controls and ink2 button section when annotations are disabled in loadTimeData.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 
 const viewer = document.body.querySelector('pdf-viewer')!;

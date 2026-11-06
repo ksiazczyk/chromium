@@ -4,6 +4,12 @@
 
 // Utilities that are used in multiple tests.
 
+// ---docerion
+// type: test
+// title: Shared test utilities for PDF viewer tests
+// summary: Shared helpers and mock objects such as MockElement and MockSizer used across PDF viewer browser tests.
+// ---
+
 // clang-format off
 import './test_bookmarks.js';
 

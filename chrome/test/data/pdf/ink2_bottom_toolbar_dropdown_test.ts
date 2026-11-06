@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom toolbar dropdown tests
+// summary: Tests the viewer bottom toolbar dropdown, covering toggling by button click, staying open on menu focus, closing on focus loss, and keyboard focus behavior.
+// ---
+
 import type {ViewerBottomToolbarDropdownElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {keyDownOn, keyUpOn} from 'chrome://webui-test/keyboard_mock_interactions.js';

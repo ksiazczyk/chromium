@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF viewer beep callback test
+// summary: Verifies that PDF JavaScript can call back into the viewer through app.beep() by checking the viewer's recorded beep count.
+// ---
+
 import type {PdfViewerElement} from 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 chrome.test.runTests([

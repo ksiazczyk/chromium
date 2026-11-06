@@ -1,0 +1,4 @@
+# Docerion header of test-coep-blob-navigation-new-tab.html.
+type: test
+title: Blob PDF navigation in a new tab under COEP
+summary: Test page that fetches a PDF as a blob and opens it in a new tab for cross-origin embedder policy testing.

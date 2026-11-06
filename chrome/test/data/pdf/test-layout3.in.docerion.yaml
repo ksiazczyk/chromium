@@ -1,0 +1,4 @@
+# Docerion header of test-layout3.in.
+type: test
+title: Test PDF template with three pages
+summary: PDF template that generates a three-page test document with an asymmetrical F figure for layout tests.

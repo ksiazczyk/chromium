@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Drive tests
+// summary: Browser tests covering the full Save to Drive flow, including bubble actions, progress, metrics, and account navigation.
+// ---
+
 import 'chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js';
 
 // clang-format off

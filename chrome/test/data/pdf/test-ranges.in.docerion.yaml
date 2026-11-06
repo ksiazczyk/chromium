@@ -1,0 +1,4 @@
+# Docerion header of test-ranges.in.
+type: test
+title: Test PDF template for range request tests
+summary: Large padded PDF template used to test byte range requests and linearization without stream compression.

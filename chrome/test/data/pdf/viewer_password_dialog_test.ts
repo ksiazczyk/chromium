@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer password dialog tests
+// summary: Tests the viewer-password dialog, covering incorrect password rejection, correct password acceptance, and disabled input and submit states.
+// ---
+
 import {eventToPromise} from 'chrome://webui-test/test_util.js';
 
 const viewer = document.body.querySelector('pdf-viewer')!;

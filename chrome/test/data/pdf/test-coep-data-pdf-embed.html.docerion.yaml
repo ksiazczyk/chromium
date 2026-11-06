@@ -1,0 +1,4 @@
+# Docerion header of test-coep-data-pdf-embed.html.
+type: test
+title: Data URL PDF embed under COEP headers
+summary: Test page that embeds a base64 data URL PDF for cross-origin embedder policy testing.
