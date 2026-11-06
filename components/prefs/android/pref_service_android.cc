@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI implementation of PrefService for Android
+// summary: Implements the native methods behind the Java PrefService, exposing typed getters and setters plus managed and recommendation checks.
+// ---
+
 #include "components/prefs/android/pref_service_android.h"
 
 #include <string>

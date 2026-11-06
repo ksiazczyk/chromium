@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing pref store implementation
+// summary: Implements an in-memory PersistentPrefStore whose read errors, initialization, and notifications are explicitly controlled by tests.
+// ---
+
 #include "components/prefs/testing_pref_store.h"
 
 #include <memory>

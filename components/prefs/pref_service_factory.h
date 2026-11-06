@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefServiceFactory class declaration
+// summary: Declares a factory class for conveniently building a PrefService with configurable managed, user, extension, command line and recommended pref stores.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_SERVICE_FACTORY_H_
 #define COMPONENTS_PREFS_PREF_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line pref store implementation
+// summary: Applies command line string, path, integer and boolean switches to their corresponding preference values.
+// ---
+
 #include "components/prefs/command_line_pref_store.h"
 
 #include <memory>

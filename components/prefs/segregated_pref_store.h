@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segregated pref store
+// summary: Declares a PersistentPrefStore that partitions preferences by name between two underlying stores and combines their initialization and error states.
+// ---
+
 #ifndef COMPONENTS_PREFS_SEGREGATED_PREF_STORE_H_
 #define COMPONENTS_PREFS_SEGREGATED_PREF_STORE_H_
 

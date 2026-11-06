@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for power_metrics
+summary: Defines the power_metrics static library and unit test targets, listing platform-specific sources for Mac, Windows, and Linux/ChromeOS.

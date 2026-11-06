@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreviousSessionInfo testing-only private header
+// summary: Declares a TestingOnly category that makes PreviousSessionInfo properties writable and adds test helpers.
+// ---
+
 #ifndef COMPONENTS_PREVIOUS_SESSION_INFO_PREVIOUS_SESSION_INFO_PRIVATE_H_
 #define COMPONENTS_PREVIOUS_SESSION_INFO_PREVIOUS_SESSION_INFO_PRIVATE_H_
 

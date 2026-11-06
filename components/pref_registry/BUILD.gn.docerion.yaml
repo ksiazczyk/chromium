@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the pref_registry component
+summary: Defines the pref_registry GN component, listing its source files and public dependencies on //base and //components/prefs.

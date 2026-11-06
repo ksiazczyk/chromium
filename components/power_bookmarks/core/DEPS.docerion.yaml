@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Power bookmarks core dependency rules
+summary: Declares the include directories allowed for code in the power bookmarks core component.

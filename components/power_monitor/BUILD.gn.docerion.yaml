@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PowerMonitor build targets
+summary: Defines the power_monitor source set and unit tests, selecting the D-Bus-based Linux implementation or the default //base implementation.

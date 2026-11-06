@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark data provider interface
+// summary: Interface that lets features attach metadata to the PowerBookmarkMeta of newly created bookmarks.
+// ---
+
 #ifndef COMPONENTS_POWER_BOOKMARKS_CORE_POWER_BOOKMARK_DATA_PROVIDER_H_
 #define COMPONENTS_POWER_BOOKMARKS_CORE_POWER_BOOKMARK_DATA_PROVIDER_H_
 

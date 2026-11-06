@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentPrefStore commit write test helper header
+// summary: Declares the shared TestCommitPendingWriteWithCallback helper that is reused by tests of various PersistentPrefStore implementations.
+// ---
+
 #ifndef COMPONENTS_PREFS_PERSISTENT_PREF_STORE_UNITTEST_H_
 #define COMPONENTS_PREFS_PERSISTENT_PREF_STORE_UNITTEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for issue tracking and team contact
+summary: Maps the directory to the Internals>Preferences Monorail component, a Buganizer component ID, and the chromium-dev team email.

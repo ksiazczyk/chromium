@@ -1,0 +1,4 @@
+# Docerion header of previous_session_info_unittest.mm.
+type: test
+title: PreviousSessionInfo unit tests
+summary: Contains unit tests verifying PreviousSessionInfo behavior across empty defaults, language changes, upgrades, and session restoration.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android prefs Java and JNI targets
+summary: GN build file that generates JNI headers and defines the Java library and Robolectric JUnit tests for the Android prefs component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WriteablePrefStore interface for writable pref stores
+// summary: Declares the WriteablePrefStore interface with write, remove and change-notification methods plus lossy pref write flags.
+// ---
+
 #ifndef COMPONENTS_PREFS_WRITEABLE_PREF_STORE_H_
 #define COMPONENTS_PREFS_WRITEABLE_PREF_STORE_H_
 

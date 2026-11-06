@@ -1,0 +1,4 @@
+# Docerion header of test.plist.
+type: test
+title: Sample energy constants test fixture
+summary: Plist test fixture with sample energy constant values used to exercise power metrics tests.

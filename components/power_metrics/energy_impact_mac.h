@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Energy Impact computation interface for macOS
+// summary: Declares Energy Impact coefficients and functions to read them from macOS plist files and compute Energy Impact scores from resource coalition usage.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_ENERGY_IMPACT_MAC_H_
 #define COMPONENTS_POWER_METRICS_ENERGY_IMPACT_MAC_H_
 

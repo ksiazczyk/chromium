@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay user pref store unit tests
+// summary: Unit tests for OverlayUserPrefStore covering observer notifications, get and set behavior, and persistent preference registration.
+// ---
+
 #include "components/prefs/overlay_user_pref_store.h"
 
 #include <memory>

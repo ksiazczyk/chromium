@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Energy metrics provider interface
+// summary: Declares the EnergyMetricsProvider interface and EnergyMetrics struct capturing package, CPU, GPU, DRAM, and system energy in nanojoules.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_ENERGY_METRICS_PROVIDER_H_
 #define COMPONENTS_POWER_METRICS_ENERGY_METRICS_PROVIDER_H_
 

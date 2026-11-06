@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark meta protobuf definition
+// summary: Defines the deprecated PowerBookmarkMeta message and PowerBookmarkType enum used to store and sync extra bookmark data such as lead images, tags, and shopping specifics.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

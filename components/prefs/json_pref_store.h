@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON pref store header
+// summary: Declares JsonPrefStore, a writable PersistentPrefStore that asynchronously reads and serializes user preferences to a JSON file.
+// ---
+
 #ifndef COMPONENTS_PREFS_JSON_PREF_STORE_H_
 #define COMPONENTS_PREFS_JSON_PREF_STORE_H_
 

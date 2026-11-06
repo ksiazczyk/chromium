@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System power monitor class declarations
+// summary: Declares SystemPowerMonitor and its helper and delegate classes that periodically sample and record system-wide power trace events.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_SYSTEM_POWER_MONITOR_H_
 #define COMPONENTS_POWER_METRICS_SYSTEM_POWER_MONITOR_H_
 

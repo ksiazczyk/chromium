@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android PrefService JNI bridge
+// summary: Declares PrefServiceAndroid with typed preference accessors and JNI conversion helpers between Java and native PrefService.
+// ---
+
 #ifndef COMPONENTS_PREFS_ANDROID_PREF_SERVICE_ANDROID_H_
 #define COMPONENTS_PREFS_ANDROID_PREF_SERVICE_ANDROID_H_
 

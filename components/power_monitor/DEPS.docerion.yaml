@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PowerMonitor dependency rules
+summary: Grants the component include access to components/dbus and //dbus headers used by the Linux implementation.

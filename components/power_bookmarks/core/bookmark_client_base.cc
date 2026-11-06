@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark client base implementation
+// summary: Implements suggested save location lookup, rejection cool-off tracking and histogram metrics for bookmark clients.
+// ---
+
 #include "components/power_bookmarks/core/bookmark_client_base.h"
 
 #include <string>

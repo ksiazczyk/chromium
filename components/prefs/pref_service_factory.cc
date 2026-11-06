@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefServiceFactory implementation
+// summary: Implements the factory that assembles a PrefService from the configured pref stores, a value store and a pref registry.
+// ---
+
 #include "components/prefs/pref_service_factory.h"
 
 #include <memory>

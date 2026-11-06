@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefChangeRegistrar
+// summary: Java wrapper around the native PrefChangeRegistrar that lets Android code register observers for preference changes and dispatches native change notifications.
+// ---
+
 package org.chromium.components.prefs;
 
 import android.util.ArrayMap;

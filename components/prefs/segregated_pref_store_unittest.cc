@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segregated pref store unit tests
+// summary: Tests value storage, read error delegation, initialization, and commit-pending-write behavior of SegregatedPrefStore.
+// ---
+
 #include "components/prefs/segregated_pref_store.h"
 
 #include <memory>

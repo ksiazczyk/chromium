@@ -5,6 +5,12 @@
 // The Apple M1 chip has sensors to monitor its power consumption and
 // temperature. This file defines a class to retrieve data from these sensors.
 
+// ---docerion
+// type: source
+// title: Apple M1 sensors reader declaration
+// summary: Declares M1SensorsReader, which retrieves P-core and E-core temperature readings from Apple M1 power and temperature sensors.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_M1_SENSORS_MAC_H_
 #define COMPONENTS_POWER_METRICS_M1_SENSORS_MAC_H_
 

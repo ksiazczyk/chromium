@@ -1,0 +1,4 @@
+# Docerion header of pref_observer_bridge.mm.
+type: source
+title: PrefObserverBridge implementation
+summary: Implements PrefObserverBridge by registering a PrefChangeRegistrar callback that invokes the delegate's onPreferenceChanged method.

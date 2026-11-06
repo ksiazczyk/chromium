@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock preference change callback implementation
+// summary: Implements MockPrefChangeCallback, a gmock helper that lets tests set expectations on preference change notifications.
+// ---
+
 #include "components/prefs/mock_pref_change_callback.h"
 
 #include "base/functional/bind.h"

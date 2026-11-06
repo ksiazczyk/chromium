@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux power monitor device source unit tests
+// summary: Unit tests for the Linux power monitor source using mock D-Bus buses and proxies to verify suspend/resume and power-saver handling.
+// ---
+
 #include "components/power_monitor/power_monitor_device_source_linux.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Prefs component GN build configuration
+summary: Defines the GN build targets for the prefs component, its test support static library and its unit tests.

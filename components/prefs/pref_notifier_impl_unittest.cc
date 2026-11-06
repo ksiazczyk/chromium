@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefNotifierImpl unit tests
+// summary: Unit tests covering preference change notifications, observer registration and removal, and initialization-completed callbacks for PrefNotifierImpl.
+// ---
+
 #include "components/prefs/pref_notifier_impl.h"
 
 #include <stddef.h>

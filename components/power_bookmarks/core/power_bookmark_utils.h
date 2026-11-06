@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark utilities header
+// summary: Declares helpers for storing, retrieving, deleting and searching power bookmark metadata on bookmark nodes, including tag filtering and JSON storage encoding.
+// ---
+
 #ifndef COMPONENTS_POWER_BOOKMARKS_CORE_POWER_BOOKMARK_UTILS_H_
 #define COMPONENTS_POWER_BOOKMARKS_CORE_POWER_BOOKMARK_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefValueMap implementation
+// summary: Implements a string-to-value map with typed getters and setters, removal, prefix-based clearing, swapping and differing-key comparison for pref stores.
+// ---
+
 #include "components/prefs/pref_value_map.h"
 
 #include <limits.h>

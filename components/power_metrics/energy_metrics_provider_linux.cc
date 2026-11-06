@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux energy metrics provider implementation
+// summary: Implements energy metrics capture on Linux via perf events for Intel RAPL power counters such as package, cores, GPU, RAM, and system energy.
+// ---
+
 
 #include "components/power_metrics/energy_metrics_provider_linux.h"
 

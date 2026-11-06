@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped user pref update unit tests
+// summary: Unit tests verifying that ScopedDictPrefUpdate and ScopedListPrefUpdate create, modify, and notify preference changes correctly.
+// ---
+
 #include "components/prefs/scoped_user_pref_update.h"
 
 #include "components/prefs/mock_pref_change_callback.h"

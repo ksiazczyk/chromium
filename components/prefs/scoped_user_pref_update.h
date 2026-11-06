@@ -5,6 +5,12 @@
 // A helper class that assists preferences in firing notifications when lists
 // or dictionaries are changed.
 
+// ---docerion
+// type: source
+// title: Scoped user pref update helpers
+// summary: Declares ScopedDictPrefUpdate and ScopedListPrefUpdate helpers that notify observers after scoped modifications of dictionary or list preferences.
+// ---
+
 #ifndef COMPONENTS_PREFS_SCOPED_USER_PREF_UPDATE_H_
 #define COMPONENTS_PREFS_SCOPED_USER_PREF_UPDATE_H_
 

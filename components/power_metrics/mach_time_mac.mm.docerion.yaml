@@ -1,0 +1,4 @@
+# Docerion header of mach_time_mac.mm.
+type: source
+title: Mach time conversion implementation
+summary: Implements Mach time to nanoseconds conversion with overflow checks and retrieval of the system Mach timebase.

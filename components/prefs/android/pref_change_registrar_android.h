@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android PrefChangeRegistrar JNI bridge
+// summary: Declares PrefChangeRegistrarAndroid, a wrapper that observes PrefService changes on behalf of the Java PrefChangeRegistrar.
+// ---
+
 #ifndef COMPONENTS_PREFS_ANDROID_PREF_CHANGE_REGISTRAR_ANDROID_H_
 #define COMPONENTS_PREFS_ANDROID_PREF_CHANGE_REGISTRAR_ANDROID_H_
 

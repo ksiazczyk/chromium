@@ -8,6 +8,12 @@
 // process and its descendants. The source can help understand the mechanism:
 // https://github.com/apple/darwin-xnu/blob/main/osfmk/kern/coalition.c
 
+// ---docerion
+// type: source
+// title: macOS resource coalition usage API
+// summary: Declares functions to look up process coalition IDs, fetch coalition resource usage and compute resource usage rates for groups of macOS processes.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_RESOURCE_COALITION_MAC_H_
 #define COMPONENTS_POWER_METRICS_RESOURCE_COALITION_MAC_H_
 

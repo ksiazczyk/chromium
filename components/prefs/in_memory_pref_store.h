@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory pref store class declaration
+// summary: Declares a light-weight memory-backed pref store that subclasses PersistentPrefStore for use by PrefService.
+// ---
+
 #ifndef COMPONENTS_PREFS_IN_MEMORY_PREF_STORE_H_
 #define COMPONENTS_PREFS_IN_MEMORY_PREF_STORE_H_
 

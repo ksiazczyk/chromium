@@ -1,3 +1,9 @@
+---
+type: readme
+title: PreviousSessionInfo component README
+summary: Explains that the component exposes PreviousSessionInfo, which holds last-session information and persists current-session data for reuse on iOS.
+---
+
 # PreviousSessionInfo
 
 This component exposes a class `PreviousSessionInfo` which holds information

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux energy metrics provider interface
+// summary: Declares EnergyMetricsProviderLinux, which reads Intel RAPL energy metrics through perf events and requires perf_event_paranoid below one.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_ENERGY_METRICS_PROVIDER_LINUX_H_
 #define COMPONENTS_POWER_METRICS_ENERGY_METRICS_PROVIDER_LINUX_H_
 

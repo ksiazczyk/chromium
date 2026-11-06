@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefService
+// summary: Java binding to the native PrefService providing typed getters and setters for boolean, integer, double, long, and string preferences over JNI.
+// ---
+
 package org.chromium.components.prefs;
 
 import androidx.annotation.VisibleForTesting;

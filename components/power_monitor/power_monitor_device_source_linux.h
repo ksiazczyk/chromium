@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux power monitor device source class declaration
+// summary: Declares PowerMonitorDeviceSourceLinux, a base::PowerMonitorSource observing systemd sleep signals and XDG portal power-saver status on Linux.
+// ---
+
 #ifndef COMPONENTS_POWER_MONITOR_POWER_MONITOR_DEVICE_SOURCE_LINUX_H_
 #define COMPONENTS_POWER_MONITOR_POWER_MONITOR_DEVICE_SOURCE_LINUX_H_
 

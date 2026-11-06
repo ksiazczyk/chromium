@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON pref store unit tests
+// summary: Unit tests for JsonPrefStore covering JSON loading, writing, pref filters, write callbacks, lossy writes, and error handling.
+// ---
+
 #include "components/prefs/json_pref_store.h"
 
 #include <stdint.h>

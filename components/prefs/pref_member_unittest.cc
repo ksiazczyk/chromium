@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefMember unit tests
+// summary: Unit tests verifying get and set behavior, observer notifications, and cross-sequence value access for PrefMember types.
+// ---
+
 #include "components/prefs/pref_member.h"
 
 #include <memory>

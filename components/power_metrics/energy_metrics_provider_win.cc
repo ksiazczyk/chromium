@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows energy metrics provider implementation
+// summary: Reads energy consumption via the Windows Energy Meter Interface (EMI) IOCTLs and maps Intel RAPL and AMD metric types to package, CPU, GPU and DRAM energy values.
+// ---
+
 #include "components/power_metrics/energy_metrics_provider_win.h"
 
 #include <initguid.h>

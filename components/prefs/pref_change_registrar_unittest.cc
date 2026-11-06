@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefChangeRegistrar unit tests
+// summary: Unit tests covering adding, removing, multiple registration, and automatic unregistration of observers in PrefChangeRegistrar.
+// ---
+
 #include "components/prefs/pref_change_registrar.h"
 
 #include <memory>

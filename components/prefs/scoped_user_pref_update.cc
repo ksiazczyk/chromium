@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped user pref update implementation
+// summary: Implements scoped update helpers that modify dict or list preferences and report changes to the pref service when the scope ends.
+// ---
+
 #include "components/prefs/scoped_user_pref_update.h"
 
 #include <string_view>

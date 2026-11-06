@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux D-Bus power monitor device source
+// summary: Implements a Linux power monitor source that tracks systemd sleep/resume signals and XDG PowerProfileMonitor power-saver status over D-Bus.
+// ---
+
 #include "components/power_monitor/power_monitor_device_source_linux.h"
 
 #include <utility>

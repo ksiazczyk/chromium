@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing pref service
+// summary: Declares a PrefService test subclass with helpers to get, set, and remove managed, supervised user, extension, user, and recommended preferences.
+// ---
+
 #ifndef COMPONENTS_PREFS_TESTING_PREF_SERVICE_H_
 #define COMPONENTS_PREFS_TESTING_PREF_SERVICE_H_
 

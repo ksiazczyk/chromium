@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for system power monitor
+// summary: Tests the system power monitor helper and monitor using fake energy metrics providers and delegates with mock time.
+// ---
+
 #include "components/power_metrics/system_power_monitor.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach time conversion helpers
+// summary: Declares helpers to convert Mach time to nanoseconds and to retrieve the system Mach timebase on macOS.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_MACH_TIME_MAC_H_
 #define COMPONENTS_POWER_METRICS_MACH_TIME_MAC_H_
 

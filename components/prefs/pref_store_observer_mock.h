@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefStore observer mock declaration
+// summary: Declares a mock implementation of PrefStore::Observer used to track changed keys and initialization outcomes in tests.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_STORE_OBSERVER_MOCK_H_
 #define COMPONENTS_PREFS_PREF_STORE_OBSERVER_MOCK_H_
 

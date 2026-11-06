@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefMember base implementation
+// summary: Implements PrefMemberBase, which keeps local values in sync with preferences and handles observer callbacks and sequence moves.
+// ---
+
 #include "components/prefs/pref_member.h"
 
 #include <utility>

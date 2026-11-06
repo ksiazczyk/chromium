@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefValueStore implementation
+// summary: Implements the layered preference store that resolves values across managed, supervised user, extension, command line, user, recommended and default stores.
+// ---
+
 #include "components/prefs/pref_value_store.h"
 
 #include <stddef.h>

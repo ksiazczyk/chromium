@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref name set type alias
+// summary: Defines PrefNameSet, a string set with transparent lookup that accepts string-comparable keys like std::string_view without conversion to std::string.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_NAME_SET_H_
 #define COMPONENTS_PREFS_PREF_NAME_SET_H_
 

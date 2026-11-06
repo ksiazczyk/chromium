@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMC internal types for macOS
+// summary: Defines Apple SMC key identifiers, data types, and parameter structures used to read power and temperature sensor values on Macs.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_SMC_INTERNAL_TYPES_MAC_H_
 #define COMPONENTS_POWER_METRICS_SMC_INTERNAL_TYPES_MAC_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of energy_impact_mac.mm.
+type: source
+title: Energy Impact computation implementation for macOS
+summary: Implements reading Energy Impact coefficients from /usr/share/pmenergy plists and computing Energy Impact scores from resource coalition metrics on macOS.

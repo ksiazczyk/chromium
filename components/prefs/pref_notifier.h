@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefNotifier delegate interface
+// summary: Declares the PrefNotifier delegate interface used by PrefValueStore to notify its owner about preference value changes and initialization completion.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_NOTIFIER_H_
 #define COMPONENTS_PREFS_PREF_NOTIFIER_H_
 

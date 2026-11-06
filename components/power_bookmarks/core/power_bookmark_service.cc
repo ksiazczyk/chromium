@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark service implementation
+// summary: Implements the service that notifies registered data providers so they can attach metadata when bookmarks are added.
+// ---
+
 #include "components/power_bookmarks/core/power_bookmark_service.h"
 
 #include <algorithm>

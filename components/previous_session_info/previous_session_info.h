@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreviousSessionInfo public header
+// summary: Declares the PreviousSessionInfo interface, UserDefaults key constants, and device battery and thermal state enums.
+// ---
+
 #ifndef COMPONENTS_PREVIOUS_SESSION_INFO_PREVIOUS_SESSION_INFO_H_
 #define COMPONENTS_PREVIOUS_SESSION_INFO_PREVIOUS_SESSION_INFO_H_
 

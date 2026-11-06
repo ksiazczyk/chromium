@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentPrefStore commit write test helper implementation
+// summary: Implements TestCommitPendingWriteWithCallback, verifying that the commit callback runs on the appropriate sequence for PersistentPrefStore implementations.
+// ---
+
 #include "components/prefs/persistent_pref_store.h"
 
 #include "base/functional/bind.h"

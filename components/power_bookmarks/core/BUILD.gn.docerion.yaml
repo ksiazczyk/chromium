@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Power bookmarks core build configuration
+summary: GN build file defining the core static library, protobuf targets and unit test sources for the power bookmarks component.

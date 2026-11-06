@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory pref store unit tests
+// summary: Unit tests for InMemoryPrefStore covering value get/set, observer notifications, silent writes, and persistent store interface behavior.
+// ---
+
 #include "components/prefs/in_memory_pref_store.h"
 
 #include <memory>

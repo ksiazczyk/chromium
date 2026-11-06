@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark utilities implementation
+// summary: Implements reading, writing, deleting and searching power bookmark metadata, including shopping specifics backfill.
+// ---
+
 #include "components/power_bookmarks/core/power_bookmark_utils.h"
 
 #include <string>

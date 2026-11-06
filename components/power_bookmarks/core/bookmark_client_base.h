@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark client base class
+// summary: Declares the base bookmark client with save location suggestion providers, state enum and move observation logic.
+// ---
+
 #ifndef COMPONENTS_POWER_BOOKMARKS_CORE_BOOKMARK_CLIENT_BASE_H_
 #define COMPONENTS_POWER_BOOKMARKS_CORE_BOOKMARK_CLIENT_BASE_H_
 

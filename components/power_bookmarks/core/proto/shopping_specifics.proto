@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping specifics protobuf definition
+// summary: Defines the ShoppingSpecifics and ProductPrice messages that hold shopping data tied to a bookmark, including product title, images, prices, offer id, and price tracking state.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrapWithPrefixPrefStore implementation
+// summary: Implements WrapWithPrefixPrefStore, forwarding pref reads and writes to a target store under a dotted path prefix.
+// ---
+
 #include "components/prefs/wrap_with_prefix_pref_store.h"
 
 #include <string>
