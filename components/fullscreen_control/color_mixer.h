@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen notification color mixer header
+// summary: Declares AddColorMixer, which adds the fullscreen notification colors to a ui::ColorProvider.
+// ---
+
 #ifndef COMPONENTS_FULLSCREEN_CONTROL_COLOR_MIXER_H_
 #define COMPONENTS_FULLSCREEN_CONTROL_COLOR_MIXER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supplemental device picker item implementation
+// summary: Implements the SupplementalDevicePickerItem notification item that shows media metadata and artwork or favicon images for a presentation request and hides itself on dismissal.
+// ---
+
 #include "components/global_media_controls/supplemental_device_picker_item.h"
 
 #include "base/unguessable_token.h"

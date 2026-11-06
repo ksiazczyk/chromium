@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM client implementation
+// summary: Implements a fake GCMClient that simulates registration, unregistration, message sending, account mappings, and statistics for use in tests.
+// ---
+
 #include "components/gcm_driver/fake_gcm_client.h"
 
 #include <stddef.h>

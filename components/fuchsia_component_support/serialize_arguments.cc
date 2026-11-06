@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializeArguments implementation
+// summary: Serializes a command line's arguments, excluding the program name, into a JSON byte vector for Fuchsia component use.
+// ---
+
 #include "components/fuchsia_component_support/serialize_arguments.h"
 
 #include <string>

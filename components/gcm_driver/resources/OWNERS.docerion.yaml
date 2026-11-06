@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for GCM driver resources
+summary: Ownership file that delegates review of trivial or mechanical JS, CSS, and HTML changes in the GCM driver resources directory to the WebUI platform owners.

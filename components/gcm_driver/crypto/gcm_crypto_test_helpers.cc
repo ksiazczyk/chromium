@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper for creating encrypted GCM payloads
+// summary: Creates encrypted test messages using a generated P-256 key, a random salt and the GCM message cryptographer, filling in the encryption headers.
+// ---
+
 #include "components/gcm_driver/crypto/gcm_crypto_test_helpers.h"
 
 #include <stddef.h>

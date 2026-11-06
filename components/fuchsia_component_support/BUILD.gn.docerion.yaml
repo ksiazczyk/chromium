@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuchsia component support GN build targets
+summary: GN build configuration defining the source sets, test support, and unit test targets for the Fuchsia component support library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals WebUI constants
+// summary: Defines string constants for gcm-internals WebUI message handlers and GCM internal info keys such as checkin, connection, registration, send, and decryption failure data.
+// ---
+
 #include "components/gcm_driver/gcm_internals_constants.h"
 
 namespace gcm_driver {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message payload parser class declaration
+// summary: Declares the MessagePayloadParser class, which validates the binary header of draft-ietf-webpush-encryption-08 payloads and exposes salt, record size, public key and ciphertext.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_MESSAGE_PAYLOAD_PARSER_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_MESSAGE_PAYLOAD_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceIDImpl class declaration
+// summary: Declares InstanceIDImpl, the InstanceID implementation for desktop and iOS that queues tasks through a GCM delayed task controller.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_INSTANCE_ID_INSTANCE_ID_IMPL_H_
 #define COMPONENTS_GCM_DRIVER_INSTANCE_ID_INSTANCE_ID_IMPL_H_
 

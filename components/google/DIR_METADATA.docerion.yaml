@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracking metadata for the google component
+summary: Specifies the Monorail component, team email chromium-dev@chromium.org, and public Buganizer component ID used for issues in this directory.

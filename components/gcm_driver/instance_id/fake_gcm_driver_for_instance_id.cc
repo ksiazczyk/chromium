@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM driver for Instance ID implementation
+// summary: Implements a fake GCMDriver that generates, validates, deletes and persists FCM registration tokens for use in tests.
+// ---
+
 #include "components/gcm_driver/instance_id/fake_gcm_driver_for_instance_id.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspect version info publisher implementation
+// summary: Publishes the Chromium version number and last-change revision as strings on a Fuchsia Inspect node.
+// ---
+
 #include "components/fuchsia_component_support/inspect.h"
 
 #include <lib/inspect/cpp/inspect.h>

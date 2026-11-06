@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Google core common library
+summary: Defines the common static library target with its Google utility sources and a separate unit test target, including their dependencies.

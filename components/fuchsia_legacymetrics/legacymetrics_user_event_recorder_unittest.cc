@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LegacyMetrics user event recorder unit tests
+// summary: Unit tests verifying that user actions are recorded and consumed in order, the maximum event count is enforced, empty buffers behave correctly, and deleting the recorder does not crash.
+// ---
+
 #include "components/fuchsia_legacymetrics/legacymetrics_user_event_recorder.h"
 
 #include "base/task/single_thread_task_runner.h"

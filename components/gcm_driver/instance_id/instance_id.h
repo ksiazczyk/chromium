@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceID interface and result enums
+// summary: Declares the platform-independent InstanceID class with result codes, token flags, callbacks and the GCM token scope constant.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_INSTANCE_ID_INSTANCE_ID_H_
 #define COMPONENTS_GCM_DRIVER_INSTANCE_ID_INSTANCE_ID_H_
 

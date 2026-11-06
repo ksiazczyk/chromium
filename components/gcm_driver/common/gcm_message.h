@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM outgoing and incoming message definitions
+// summary: Declares the MessageData map type plus OutgoingMessage and IncomingMessage structs carrying data, TTL, collapse key, sender, and message identifiers.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_COMMON_GCM_MESSAGE_H_
 #define COMPONENTS_GCM_DRIVER_COMMON_GCM_MESSAGE_H_
 

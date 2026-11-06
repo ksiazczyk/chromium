@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Sets include rules permitting dependencies on components/version_info from this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazySubscriptionsManager
+// summary: Manages lazy GCM subscriptions and persists, retrieves, and migrates queued messages in shared preferences.
+// ---
+
 package org.chromium.components.gcm_driver;
 
 import android.content.Context;

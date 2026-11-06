@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPageBridge
+// summary: Java bridge that lets Android code issue find-in-page requests for a WebContents, such as starting, stopping, and activating searches, and forwards them to native code via JNI.
+// ---
+
 package org.chromium.components.find_in_page;
 
 import org.jni_zero.JNINamespace;

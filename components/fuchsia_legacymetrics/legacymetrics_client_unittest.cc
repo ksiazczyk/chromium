@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LegacyMetricsClient
+// summary: Tests event reporting, batching, reconnection and flush behavior of LegacyMetricsClient against a test MetricsRecorder service.
+// ---
+
 #include "components/fuchsia_legacymetrics/legacymetrics_client.h"
 
 #include <fuchsia/legacymetrics/cpp/fidl.h>

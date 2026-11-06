@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia package config reader API
+// summary: Declares LoadPackageConfig, which returns the merged JSON dictionary from the component's config-data, plus a test hook for loading configs from an arbitrary directory.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_CONFIG_READER_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_CONFIG_READER_H_
 

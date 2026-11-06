@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped fake InstanceID helper for Android tests header
+// summary: Declares ScopedUseFakeInstanceIDAndroid, a scoped test helper that swaps in a fake Android InstanceID to avoid network and disk access.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_INSTANCE_ID_SCOPED_USE_FAKE_INSTANCE_ID_ANDROID_H_
 #define COMPONENTS_GCM_DRIVER_INSTANCE_ID_SCOPED_USE_FAKE_INSTANCE_ID_ANDROID_H_
 

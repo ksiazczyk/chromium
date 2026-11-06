@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GCM stats recorder implementation
+// summary: Implements GCMStatsRecorderAndroid, which records registration, receiving, and decryption failure activities for GCM statistics on Android.
+// ---
+
 #include "components/gcm_driver/gcm_stats_recorder_android.h"
 
 #include <stddef.h>

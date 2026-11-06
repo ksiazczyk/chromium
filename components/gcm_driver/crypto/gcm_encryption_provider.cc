@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM encryption provider implementation
+// summary: Implements key management plus encryption and decryption of incoming GCM messages using the key store, header parsers and message cryptographer.
+// ---
+
 #include "components/gcm_driver/crypto/gcm_encryption_provider.h"
 
 #include <memory>

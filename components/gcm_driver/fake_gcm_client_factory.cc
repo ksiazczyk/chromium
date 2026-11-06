@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM client factory implementation
+// summary: Implements FakeGCMClientFactory, whose BuildInstance method creates FakeGCMClient objects bound to the given UI and IO task runners.
+// ---
+
 #include "components/gcm_driver/fake_gcm_client_factory.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the gcm_driver common component
+summary: Defines the common component build target listing the GCM driver sources, the GCM_DRIVER_IMPLEMENTATION define, and a dependency on //base.

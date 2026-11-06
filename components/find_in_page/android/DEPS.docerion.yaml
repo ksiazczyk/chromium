@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android find-in-page component
+summary: Restricts includes in this directory to content/public/android and ui/android.

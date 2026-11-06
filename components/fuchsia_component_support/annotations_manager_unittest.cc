@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnnotationsManager unit tests
+// summary: Unit tests for annotation creation helpers and the AnnotationsManager, covering client connections and hanging-get watch behavior.
+// ---
+
 #include "components/fuchsia_component_support/annotations_manager.h"
 
 #include "base/fuchsia/mem_buffer_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GCMDriver class declaration
+// summary: Declares GCMDriverAndroid, the Android GCMDriver implementation built on Android GCM APIs with JNI callbacks and stats recording support.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_DRIVER_ANDROID_H_
 #define COMPONENTS_GCM_DRIVER_GCM_DRIVER_ANDROID_H_
 

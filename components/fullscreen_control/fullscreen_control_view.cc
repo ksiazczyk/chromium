@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenControlView implementation
+// summary: Implements the fullscreen control view, a circular floating button with a close icon that exits fullscreen mode when pressed.
+// ---
+
 #include "components/fullscreen_control/fullscreen_control_view.h"
 
 #include <memory>

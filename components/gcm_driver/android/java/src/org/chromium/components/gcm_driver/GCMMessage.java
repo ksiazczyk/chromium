@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMMessage
+// summary: Represents the contents of a GCM message, built from received GCM data and serializable to and from Android Bundles.
+// ---
+
 package org.chromium.components.gcm_driver;
 
 import android.os.Bundle;

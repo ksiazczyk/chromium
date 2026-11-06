@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RFC 8291 message encryption implementation
+// summary: Encrypts push message payloads per RFC 8291 using a recipient P-256 public key and auth secret, building the salt, record size, key ID and ciphertext payload.
+// ---
+
 #include "components/gcm_driver/crypto/rfc8291_util.h"
 
 #include <algorithm>

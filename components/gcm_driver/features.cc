@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM feature flags implementation
+// summary: Defines the kGCMMessageBuffering feature and the accessor for its message buffering TTL parameter.
+// ---
+
 #include "components/gcm_driver/features.h"
 
 #include "base/feature_list.h"

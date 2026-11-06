@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM app handler base implementation
+// summary: Provides default implementations for the GCMAppHandler interface, including decryption failure and CanHandle behavior.
+// ---
+
 #include "components/gcm_driver/gcm_app_handler.h"
 
 namespace gcm {

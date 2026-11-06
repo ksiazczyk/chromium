@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM client factory interface
+// summary: Declares a factory class that creates GCMClient instances, with a virtual BuildInstance that tests can override to provide mocked instances.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_CLIENT_FACTORY_H_
 #define COMPONENTS_GCM_DRIVER_GCM_CLIENT_FACTORY_H_
 

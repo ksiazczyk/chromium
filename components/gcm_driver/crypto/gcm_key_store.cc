@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM key store implementation
+// summary: Implements the GCM key store that creates, stores, retrieves and removes P-256 key pairs and auth secrets per app ID, backed by a LevelDB proto database.
+// ---
+
 #include "components/gcm_driver/crypto/gcm_key_store.h"
 
 #include <stddef.h>

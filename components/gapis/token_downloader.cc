@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenDownloader implementation
+// summary: Implements the TokenDownloader class, which posts an ObtainToken protobuf request with a bearer access token to the gapis service token endpoint and reports the fetched token or failure via callback with a timeout.
+// ---
+
 #include "components/gapis/token_downloader.h"
 
 #include <optional>

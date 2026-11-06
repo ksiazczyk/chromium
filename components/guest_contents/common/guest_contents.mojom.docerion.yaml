@@ -1,0 +1,4 @@
+# Docerion header of guest_contents.mojom.
+type: source
+title: GuestContentsHost mojom interface
+summary: Defines the GuestContentsHost Mojo interface that renderers use to attach an inner WebContents to an outer WebContents.

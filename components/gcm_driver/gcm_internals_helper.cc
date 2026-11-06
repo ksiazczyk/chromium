@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals info helper for WebUI
+// summary: Converts GCM statistics activities such as checkins, connections, registrations, receiving, sending, and decryption failures into list values for the gcm-internals WebUI.
+// ---
+
 #include "components/gcm_driver/gcm_internals_helper.h"
 
 #include <memory>

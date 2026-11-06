@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the instance_id directory
+summary: Restricts allowed includes in the instance_id directory to components/gcm_driver and crypto.

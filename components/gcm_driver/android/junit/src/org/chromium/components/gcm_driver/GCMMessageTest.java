@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCMMessageTest
+// summary: JUnit unit tests for the GCMMessage class, covering message creation from GCM bundles, filtering of extra bundle values, and serialization to and from persistable bundles.
+// ---
+
 package org.chromium.components.gcm_driver;
 
 import static org.junit.Assert.assertArrayEquals;

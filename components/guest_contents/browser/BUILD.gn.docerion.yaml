@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest contents browser build targets
+summary: Defines the browser static library and unit and browser test targets for the guest contents component, gated by the enable_guest_contents build flag.

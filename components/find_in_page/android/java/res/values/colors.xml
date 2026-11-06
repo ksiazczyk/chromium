@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Find in page result bar color resources
+summary: Android resource file defining the color values used by the find result bar, including background, border, result, and active highlight colors.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <color name="find_result_bar_background_color">@color/white_alpha_75</color>
     <color name="find_result_bar_background_border_color">@color/baseline_neutral_70</color>

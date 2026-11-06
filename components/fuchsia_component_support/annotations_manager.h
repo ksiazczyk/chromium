@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationsManager interface
+// summary: Declares helpers to build fuchsia.element annotations and a manager that stores them and serves AnnotationController clients.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_ANNOTATIONS_MANAGER_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_ANNOTATIONS_MANAGER_H_
 

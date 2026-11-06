@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationsManager implementation
+// summary: Implements annotation creation helpers and the AnnotationController serving fuchsia.element annotations for session elements and views.
+// ---
+
 #include "components/fuchsia_component_support/annotations_manager.h"
 
 #include <lib/fpromise/promise.h>

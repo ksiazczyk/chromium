@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic Fuchsia component host API
+// summary: Declares the DynamicComponentHost class that creates, exposes, and destroys dynamic child components in a Fuchsia collection, with teardown callbacks.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_DYNAMIC_COMPONENT_HOST_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_DYNAMIC_COMPONENT_HOST_H_
 

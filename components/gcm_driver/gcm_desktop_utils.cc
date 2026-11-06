@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop GCM driver factory helper
+// summary: Implements CreateGCMDriverDesktop, which constructs a GCMDriverDesktop from a client factory, prefs, store path, network dependencies and task runners.
+// ---
+
 #include "components/gcm_driver/gcm_desktop_utils.h"
 
 #include <utility>

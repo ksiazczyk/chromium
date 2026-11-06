@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceIDWithSubtype
+// summary: Wrapper around Google Play Services' InstanceID that maintains one cached instance per subtype, enabling multiple InstanceIDs for platforms-within-platforms like browsers.
+// ---
+
 package org.chromium.components.gcm_driver.instance_id;
 
 import android.content.Context;

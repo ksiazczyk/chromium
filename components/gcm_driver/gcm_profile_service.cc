@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM profile service implementation
+// summary: Implements GCMProfileService, a KeyedService that creates a platform-appropriate GCMDriver, either GCMDriverAndroid or GCMDriverDesktop, to provide GCM service per profile.
+// ---
+
 #include "components/gcm_driver/gcm_profile_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceID implementation for desktop and iOS
+// summary: Implements the InstanceID class for desktop and iOS, generating IDs and handling token and delete operations via the GCM driver's InstanceIDHandler.
+// ---
+
 #include "components/gcm_driver/instance_id/instance_id_impl.h"
 
 #include <stdint.h>

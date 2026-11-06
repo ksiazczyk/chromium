@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceIDProfileService class declaration
+// summary: Declares InstanceIDProfileService, a KeyedService that exposes an InstanceIDDriver to provide Instance ID support for a profile.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_INSTANCE_ID_INSTANCE_ID_PROFILE_SERVICE_H_
 #define COMPONENTS_GCM_DRIVER_INSTANCE_ID_INSTANCE_ID_PROFILE_SERVICE_H_
 

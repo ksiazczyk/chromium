@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM client implementation unit tests
+// summary: Unit tests for GCMClientImpl covering checkin, registration, unregistration, message sending, receiving, and deletion using fake connections and test URL loaders.
+// ---
+
 #include "components/gcm_driver/gcm_client_impl.h"
 
 #include <stdint.h>

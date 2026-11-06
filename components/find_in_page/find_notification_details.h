@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindNotificationDetails class header
+// summary: Declares FindNotificationDetails, a value object carrying the find request ID, match count, selection rect, active match ordinal, and final update flag.
+// ---
+
 #ifndef COMPONENTS_FIND_IN_PAGE_FIND_NOTIFICATION_DETAILS_H_
 #define COMPONENTS_FIND_IN_PAGE_FIND_NOTIFICATION_DETAILS_H_
 

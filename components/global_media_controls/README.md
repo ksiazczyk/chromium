@@ -1,3 +1,9 @@
+---
+type: readme
+title: Global Media Controls
+summary: Describes how Global Media Controls builds media UI on top of the Media Session service for use by //chrome and //ash.
+---
+
 # Global Media Controls
 
 The Global Media Controls use information from the [Media Session

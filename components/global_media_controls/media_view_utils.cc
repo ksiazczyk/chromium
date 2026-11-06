@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media view image scaling utility
+// summary: Implements ScaleImageSizeToFitView, which scales an image to fill a view even when part of it is cropped.
+// ---
+
 #include "components/global_media_controls/media_view_utils.h"
 
 #include <algorithm>

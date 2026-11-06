@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for fuchsia_legacymetrics
+summary: Defines the fuchsia_legacymetrics source set and its unit test target, including sources, dependencies, visibility and friend rules for the GN build.

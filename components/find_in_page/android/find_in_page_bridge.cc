@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPageBridge native JNI implementation
+// summary: Implements the native side of the Android find-in-page bridge, forwarding find requests and results to FindTabHelper.
+// ---
+
 #include "components/find_in_page/android/find_in_page_bridge.h"
 
 #include "base/android/jni_string.h"

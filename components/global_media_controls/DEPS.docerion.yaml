@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Global Media Controls include rules
+summary: Specifies the allowed include dependencies for code in the global_media_controls directory.

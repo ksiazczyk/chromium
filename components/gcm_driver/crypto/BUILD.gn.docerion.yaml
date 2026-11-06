@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the GCM crypto library
+summary: Defines the crypto static library, test support and unit test targets with their sources and dependencies.

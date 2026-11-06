@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceIDDriver implementation
+// summary: Implements creation, lookup and removal of InstanceID objects keyed by application ID.
+// ---
+
 #include "components/gcm_driver/instance_id/instance_id_driver.h"
 
 #include "build/build_config.h"

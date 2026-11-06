@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceID base implementation
+// summary: Implements shared InstanceID behavior, including GCM-scoped token deletion and removal of associated encryption info.
+// ---
+
 #include "components/gcm_driver/instance_id/instance_id.h"
 
 #include "base/functional/bind.h"

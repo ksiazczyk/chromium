@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM message implementations
+// summary: Implements constructors, destructors, and the one-day maximum time-to-live constant for outgoing and incoming GCM messages.
+// ---
+
 #include "components/gcm_driver/common/gcm_message.h"
 
 namespace gcm {

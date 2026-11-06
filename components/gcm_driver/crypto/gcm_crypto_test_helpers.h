@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declaration of the encrypted payload test helper
+// summary: Declares CreateEncryptedPayloadForTesting, which builds an encrypted incoming message for use in tests.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_GCM_CRYPTO_TEST_HELPERS_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_GCM_CRYPTO_TEST_HELPERS_H_
 

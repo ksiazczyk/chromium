@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyMetricsClient class declaration
+// summary: Declares LegacyMetricsClient, which reports user events and histogram data to the Fuchsia MetricsRecorder service on a configurable interval.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_LEGACYMETRICS_LEGACYMETRICS_CLIENT_H_
 #define COMPONENTS_FUCHSIA_LEGACYMETRICS_LEGACYMETRICS_CLIENT_H_
 

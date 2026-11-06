@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Points the directory metadata to the common Fuchsia metadata file in the build directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GapisManager singleton implementation
+// summary: Implements the GapisManager singleton that stores and retrieves the app token with sequence-checked accessors.
+// ---
+
 #include "components/gapis/gapis_manager.h"
 
 #include "base/no_destructor.h"

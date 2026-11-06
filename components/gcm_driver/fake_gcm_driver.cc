@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM driver implementation
+// summary: Implements FakeGCMDriver with stubbed and no-op GCM driver methods that report success and connectivity for testing.
+// ---
+
 #include "components/gcm_driver/fake_gcm_driver.h"
 
 #include "base/files/file_path.h"

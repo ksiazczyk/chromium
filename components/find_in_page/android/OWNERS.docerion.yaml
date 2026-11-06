@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Android find-in-page component
+summary: Delegates code ownership to the owners listed in chrome/android/OWNERS.

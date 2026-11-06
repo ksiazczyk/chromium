@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption and Crypto-Key header parsers
+// summary: Implements iterators that parse Encryption and Crypto-Key HTTP header values, including salt, keyid and record size fields, for GCM messages.
+// ---
+
 #include "components/gcm_driver/crypto/encryption_header_parsers.h"
 
 #include <string_view>

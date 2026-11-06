@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestContentsHostImpl class declaration
+// summary: Declares GuestContentsHostImpl, the browser-process implementation of the mojom GuestContentsHost interface bound by a WebUIController.
+// ---
+
 #ifndef COMPONENTS_GUEST_CONTENTS_BROWSER_GUEST_CONTENTS_HOST_IMPL_H_
 #define COMPONENTS_GUEST_CONTENTS_BROWSER_GUEST_CONTENTS_HOST_IMPL_H_
 

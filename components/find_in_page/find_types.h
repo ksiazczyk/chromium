@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection and result action enums for find-in-page
+// summary: Defines the SelectionAction and ResultAction enums describing what happens to the page selection and find box results when a find session ends.
+// ---
+
 #ifndef COMPONENTS_FIND_IN_PAGE_FIND_TYPES_H_
 #define COMPONENTS_FIND_IN_PAGE_FIND_TYPES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for gapis
+summary: Specifies the directories and components that code in the gapis folder is allowed to include.

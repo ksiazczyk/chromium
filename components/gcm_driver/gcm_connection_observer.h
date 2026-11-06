@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM connection observer interface
+// summary: Declares an interface for objects observing GCM connection events, such as a successful connection handshake or connection interruption.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_CONNECTION_OBSERVER_H_
 #define COMPONENTS_GCM_DRIVER_GCM_CONNECTION_OBSERVER_H_
 

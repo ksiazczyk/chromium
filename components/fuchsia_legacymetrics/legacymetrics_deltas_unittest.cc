@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for histogram delta collection
+// summary: Verifies that deltas for boolean, linear, percentage and enumeration histograms are collected correctly and only when data changed.
+// ---
+
 #include "components/fuchsia_legacymetrics/legacymetrics_deltas.h"
 
 #include <string_view>

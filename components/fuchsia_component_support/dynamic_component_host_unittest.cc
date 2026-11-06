@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DynamicComponentHost
+// summary: Unit tests using a mock Realm to verify child creation, dynamic service offers, teardown behavior, and error handling of DynamicComponentHost.
+// ---
+
 #include "components/fuchsia_component_support/dynamic_component_host.h"
 
 #include <fuchsia/component/cpp/fidl_test_base.h>

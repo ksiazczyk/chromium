@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM encryption data protobuf definitions
+// summary: 'Proto2 schema defining KeyPair and EncryptionData messages that store ECDH P-256 key pairs, PKCS #8 private keys, auth secrets, and app IDs for GCM message encryption.'
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

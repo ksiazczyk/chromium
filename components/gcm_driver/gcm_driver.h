@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMDriver and InstanceIDHandler class declarations
+// summary: Declares the GCMDriver bridge between Chrome GCM users and platform-specific implementations, plus the InstanceIDHandler token and persistence interface.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_DRIVER_H_
 #define COMPONENTS_GCM_DRIVER_GCM_DRIVER_H_
 

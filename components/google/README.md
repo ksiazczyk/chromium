@@ -1,3 +1,9 @@
+---
+type: readme
+title: Google component README
+summary: Explains that the component provides utilities for Google-specific URLs and warns against keying Chrome behavior to them to keep the browser fair to all search engines and sites.
+---
+
 The Google component deals with Google- (and Google-owned-property-)specific
 URLs and utilities.  This includes functions that determine if URLs are various
 types of Google URLs, getters for Google search URLs, and various URL

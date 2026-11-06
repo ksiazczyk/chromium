@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash and feedback product data registration API
+// summary: Declares RegisterProductDataForCrashReporting and RegisterProductDataForFeedback, which publish component product data to Fuchsia feedback services.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_FEEDBACK_REGISTRATION_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_FEEDBACK_REGISTRATION_H_
 

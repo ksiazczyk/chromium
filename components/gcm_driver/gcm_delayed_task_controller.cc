@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM delayed task controller implementation
+// summary: Implements GCMDelayedTaskController, queuing tasks until ready and recording the readiness time to a UMA histogram.
+// ---
+
 #include "components/gcm_driver/gcm_delayed_task_controller.h"
 
 #include <stddef.h>

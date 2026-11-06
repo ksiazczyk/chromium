@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Global Media Controls build configuration
+summary: Defines the GN build targets, public headers, sources, and dependencies for the global_media_controls component and its unit tests.

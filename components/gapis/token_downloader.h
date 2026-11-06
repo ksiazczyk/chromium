@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenDownloader class declaration
+// summary: Declares the gapis TokenDownloader class, which fetches a token from the gapis service over HTTP using a SimpleURLLoader and invokes a callback with the token or an empty string on failure.
+// ---
+
 #ifndef COMPONENTS_GAPIS_TOKEN_DOWNLOADER_H_
 #define COMPONENTS_GAPIS_TOKEN_DOWNLOADER_H_
 

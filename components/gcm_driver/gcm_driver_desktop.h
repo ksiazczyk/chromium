@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMDriverDesktop for desktop and Chrome OS
+// summary: Declares GCMDriverDesktop, the GCMDriver implementation for desktop and Chrome OS that uses GCMClient and manages app handlers, connection observers, statistics, account mappings, and heartbeat intervals.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_DRIVER_DESKTOP_H_
 #define COMPONENTS_GCM_DRIVER_GCM_DRIVER_DESKTOP_H_
 

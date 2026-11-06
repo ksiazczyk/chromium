@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P-256 shared secret computation header
+// summary: Declares ComputeSharedP256Secret, which derives an ECDH P-256 shared secret from a private key and a SEC1-encoded peer public key.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_P256_KEY_UTIL_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_P256_KEY_UTIL_H_
 

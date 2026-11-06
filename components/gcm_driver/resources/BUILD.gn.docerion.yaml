@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GCM Internals WebUI build definition
+summary: GN build file that assembles the gcm_internals WebUI, listing the static CSS and HTML files, TypeScript sources, and dependencies for the trusted WebUI build.

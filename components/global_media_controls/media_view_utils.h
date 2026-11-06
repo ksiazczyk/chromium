@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media view constants and utilities
+// summary: Declares seek time, artwork corner radius, view ID constants, and the image scaling helper for media views.
+// ---
+
 #ifndef COMPONENTS_GLOBAL_MEDIA_CONTROLS_MEDIA_VIEW_UTILS_H_
 #define COMPONENTS_GLOBAL_MEDIA_CONTROLS_MEDIA_VIEW_UTILS_H_
 

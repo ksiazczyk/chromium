@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RFC 8291 message encryption header
+// summary: Declares EncryptPayloadWithRfc8291, a stateless helper for Web Push message encryption, plus the strict compliance feature flag and error enum.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_RFC8291_UTIL_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_RFC8291_UTIL_H_
 

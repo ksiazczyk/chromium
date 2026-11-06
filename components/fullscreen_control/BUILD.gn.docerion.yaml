@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen control GN build targets
+summary: Defines the fullscreen_control static library, the non-Android color_mixer source set, and the unit_tests target with their sources and dependencies.

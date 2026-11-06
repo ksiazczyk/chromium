@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GapisService app token fetching implementation
+// summary: Implements the GapisService keyed service that fetches app tokens, initializing the Widevine CDM to sign challenges and using OAuth access tokens.
+// ---
+
 #include "components/gapis/gapis_service.h"
 
 #include <cstdint>

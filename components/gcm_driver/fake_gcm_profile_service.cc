@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM profile service implementation
+// summary: Implements FakeGCMProfileService and its custom fake driver to simulate GCM registration, sending and offline behavior in tests.
+// ---
+
 #include "components/gcm_driver/fake_gcm_profile_service.h"
 
 #include <utility>

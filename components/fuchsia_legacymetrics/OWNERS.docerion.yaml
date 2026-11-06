@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for fuchsia_legacymetrics
+summary: Delegates code ownership for this directory to the owners listed in build/fuchsia/OWNERS.

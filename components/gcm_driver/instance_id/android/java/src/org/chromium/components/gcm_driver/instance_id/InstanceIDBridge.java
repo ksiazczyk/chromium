@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceIDBridge
+// summary: Java JNI bridge that wraps InstanceIDWithSubtype for Chromium's native code, running ID, creation time and token operations asynchronously on a background thread.
+// ---
+
 package org.chromium.components.gcm_driver.instance_id;
 
 import org.jni_zero.CalledByNative;

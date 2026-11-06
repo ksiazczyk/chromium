@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for find_in_page
+summary: Delegates ownership and review responsibility for this directory to the chrome/browser/ui OWNERS file.

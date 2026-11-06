@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Fuchsia package config reader
+// summary: Unit tests covering empty, single, and multiple config files, malformed JSON, and clashing keys, using temporary directories.
+// ---
+
 #include "components/fuchsia_component_support/config_reader.h"
 
 #include <string>

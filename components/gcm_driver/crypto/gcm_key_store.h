@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM key store class declaration
+// summary: Declares the GCMKeyStore class, which manages key pairs and authentication secrets for encrypted GCM messages through asynchronous, callback-based APIs.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_GCM_KEY_STORE_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_GCM_KEY_STORE_H_
 

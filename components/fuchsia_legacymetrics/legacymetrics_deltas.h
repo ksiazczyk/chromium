@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of GetLegacyMetricsDeltas
+// summary: Declares GetLegacyMetricsDeltas, which returns histogram deltas as fuchsia.legacymetrics.Histogram structs.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_LEGACYMETRICS_LEGACYMETRICS_DELTAS_H_
 #define COMPONENTS_FUCHSIA_LEGACYMETRICS_LEGACYMETRICS_DELTAS_H_
 

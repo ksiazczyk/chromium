@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for guest_contents common
+summary: Sets per-file review rules requiring IPC security owners to approve changes to mojom files in this directory.

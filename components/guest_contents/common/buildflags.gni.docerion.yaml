@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Guest contents build flags
+summary: Declares the enable_guest_contents build argument, enabled by default on platforms other than Android and iOS.

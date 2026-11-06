@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals helper declaration
+// summary: Declares SetGCMInternalsInfo, which returns GCM statistics as a dictionary for the gcm-internals WebUI.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_INTERNALS_HELPER_H_
 #define COMPONENTS_GCM_DRIVER_GCM_INTERNALS_HELPER_H_
 

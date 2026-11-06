@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the GCM crypto directory
+summary: Allowlists the directories whose headers the GCM crypto sources may include.

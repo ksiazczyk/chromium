@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppendArgumentsFromFile interface
+// summary: Declares the function that reads serialized arguments from an optional file and appends them to a command line.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_APPEND_ARGUMENTS_FROM_FILE_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_APPEND_ARGUMENTS_FROM_FILE_H_
 

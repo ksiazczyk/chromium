@@ -1,3 +1,9 @@
+---
+type: readme
+title: Fullscreen Control
+summary: Describes the UI components shown during fullscreen, the press-and-hold ESC message and the exit circle, used by Chrome browser and Chrome OS exo.
+---
+
 # Fullscreen Control #
 
 Fullscreen control provides UI components used during fullscreen:

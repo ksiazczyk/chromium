@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram delta collection implementation
+// summary: Implements a histogram snapshot manager that serializes histogram changes since the last call into Fuchsia legacy metrics FIDL structs.
+// ---
+
 #include "components/fuchsia_legacymetrics/legacymetrics_deltas.h"
 
 #include <memory>

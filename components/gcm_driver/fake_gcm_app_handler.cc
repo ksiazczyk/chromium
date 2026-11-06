@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM app handler implementation
+// summary: Implements FakeGCMAppHandler, recording incoming messages, deletions, send errors, acknowledgements, and decryption failures so tests can wait for notifications.
+// ---
+
 #include "components/gcm_driver/fake_gcm_app_handler.h"
 
 #include <memory>

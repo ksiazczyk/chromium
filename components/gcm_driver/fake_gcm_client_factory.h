@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM client factory declaration
+// summary: Declares FakeGCMClientFactory, a GCMClientFactory subclass that builds fake GCMClient instances for tests.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_FAKE_GCM_CLIENT_FACTORY_H_
 #define COMPONENTS_GCM_DRIVER_FAKE_GCM_CLIENT_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User action event recorder implementation
+// summary: Implements a recorder that captures user action callbacks as Fuchsia UserActionEvent structs, capped at a maximum event count.
+// ---
+
 #include "components/fuchsia_legacymetrics/legacymetrics_user_event_recorder.h"
 
 #include <utility>

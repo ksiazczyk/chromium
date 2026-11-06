@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for fuchsia_legacymetrics
+summary: Points the directory to the shared Fuchsia metadata mixins defined in build/fuchsia/COMMON_METADATA.
