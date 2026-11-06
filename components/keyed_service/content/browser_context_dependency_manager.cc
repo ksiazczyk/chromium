@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context dependency manager implementation
+// summary: Implements BrowserContextDependencyManager methods for creating, destroying, and asserting browser context keyed services on top of the core DependencyManager.
+// ---
+
 #include "components/keyed_service/content/browser_context_dependency_manager.h"
 
 #include "base/no_destructor.h"

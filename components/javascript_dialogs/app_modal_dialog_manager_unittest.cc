@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App modal dialog manager unit tests
+// summary: Tests dialog title generation for main frame and subframe alerts across http, file, data, javascript, about, blob and filesystem URLs.
+// ---
+
 #include "components/javascript_dialogs/app_modal_dialog_manager.h"
 
 #include "base/strings/utf_string_conversions.h"

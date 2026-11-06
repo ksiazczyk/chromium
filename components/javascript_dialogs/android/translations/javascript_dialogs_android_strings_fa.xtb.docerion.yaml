@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_android_strings_fa.xtb.
+type: data
+title: JavaScript dialog strings for Android in Persian
+summary: Persian translation bundle providing Android JavaScript dialog strings, including the warning that blocks a page from creating additional dialogs and the leave button label.

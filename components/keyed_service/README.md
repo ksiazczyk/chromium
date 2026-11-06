@@ -1,3 +1,11 @@
+---
+type: readme
+title: KeyedService and KeyedServiceFactory overview
+summary: Explains how KeyedService and KeyedServiceFactory build dependency trees of services keyed off BrowserContext or BrowserState and outlines the layered component structure.
+relations:
+  - references /docs/android_jni_ownership_best_practices.md
+---
+
 KeyedService and KeyedServiceFactory together support building a dependency tree
 of services that are all keyed off the same object (typically,
 content::BrowserContext or web::BrowserState), and whose teardown order is

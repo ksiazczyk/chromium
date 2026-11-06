@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_android_strings_fr.xtb.
+type: data
+title: JavaScript dialog strings for Android in French
+summary: French translation bundle providing Android JavaScript dialog strings, including the warning that blocks a page from creating additional dialogs and the leave button label.

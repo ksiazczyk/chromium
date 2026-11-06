@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsCommunicationHost class declaration
+// summary: Declares JsCommunicationHost and JavaScriptExecutable, the browser-side APIs for adding and removing injected scripts and web message host factories with origin rules.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_JS_COMMUNICATION_HOST_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_JS_COMMUNICATION_HOST_H_
 

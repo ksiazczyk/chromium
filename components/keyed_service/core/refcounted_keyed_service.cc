@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refcounted keyed service implementation
+// summary: Implements destruction traits that defer deletion to a task runner when needed, plus constructors for refcounted keyed services.
+// ---
+
 #include "components/keyed_service/core/refcounted_keyed_service.h"
 #include "base/task/sequenced_task_runner.h"
 

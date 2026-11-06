@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service shutdown notifier factory implementation
+// summary: Implements the factory that provides a KeyedServiceShutdownNotifier instance for each BrowserContext.
+// ---
+
 #include "components/keyed_service/content/browser_context_keyed_service_shutdown_notifier_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

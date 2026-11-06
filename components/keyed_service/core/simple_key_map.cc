@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleKeyMap implementation
+// summary: Implements the SimpleKeyMap singleton that associates BrowserContexts with SimpleFactoryKeys and looks up or removes those mappings.
+// ---
+
 #include "components/keyed_service/core/simple_key_map.h"
 
 #include "base/check.h"

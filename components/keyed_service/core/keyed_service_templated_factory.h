@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyedServiceTemplatedFactory class header
+// summary: Declares a templated factory base that shares implementation between KeyedService and RefcountedKeyedService factories, including testing factory and association APIs.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_TEMPLATED_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_KEYED_SERVICE_TEMPLATED_FACTORY_H_
 

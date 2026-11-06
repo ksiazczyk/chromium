@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the keep_alive_registry component
+summary: DEPS file allowing this directory to include headers from components/crash/core/common.

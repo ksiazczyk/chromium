@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveStateObserver interface
+// summary: Abstract observer interface with callbacks for keep-alive state changes and restart permission changes.
+// ---
+
 #ifndef COMPONENTS_KEEP_ALIVE_REGISTRY_KEEP_ALIVE_STATE_OBSERVER_H_
 #define COMPONENTS_KEEP_ALIVE_REGISTRY_KEEP_ALIVE_STATE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsToBrowserMessaging class declaration
+// summary: Declares JsToBrowserMessaging, the browser-side Mojo receiver that forwards page message payloads and ports to a WebMessageHost and lives with its RenderFrameHost.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_JS_TO_BROWSER_MESSAGING_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_JS_TO_BROWSER_MESSAGING_H_
 

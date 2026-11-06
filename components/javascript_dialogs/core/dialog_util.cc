@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog title utility implementation
+// summary: Implements helpers that unwrap opaque origins and build localized titles for JavaScript dialogs based on the main frame and alerting frame origins.
+// ---
+
 #include "components/javascript_dialogs/core/dialog_util.h"
 
 #include "base/i18n/rtl.h"

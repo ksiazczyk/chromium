@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleDependencyManager class declaration
+// summary: Declares a singleton dependency manager that rebroadcasts SimpleFactoryKey destruction notifications to simple keyed service factories in dependency-safe order.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_SIMPLE_DEPENDENCY_MANAGER_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_SIMPLE_DEPENDENCY_MANAGER_H_
 

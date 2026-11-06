@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation listener browser tests
+// summary: Browser tests verifying navigation listener web messages, covering navigation lifecycle events, page load notifications, and message ordering across hosts.
+// ---
+
 #include <string>
 #include <variant>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal dialog manager delegate interface
+// summary: Platform-specific delegate interface for TabModalDialogManager, covering dialog view creation, tab visibility, app state, and modal UI checks.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_TAB_MODAL_DIALOG_MANAGER_DELEGATE_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_TAB_MODAL_DIALOG_MANAGER_DELEGATE_H_
 

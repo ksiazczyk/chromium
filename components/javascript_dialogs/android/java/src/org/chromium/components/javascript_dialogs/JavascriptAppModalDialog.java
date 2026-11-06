@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavascriptAppModalDialog
+// summary: Android app modal JavaScript dialog that creates alert, confirm, prompt and beforeunload dialogs via JNI calls from native code and reports user responses back.
+// ---
+
 package org.chromium.components.javascript_dialogs;
 
 import android.content.Context;

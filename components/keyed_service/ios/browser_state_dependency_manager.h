@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserStateDependencyManager class declaration
+// summary: Declares the BrowserStateDependencyManager singleton that rebroadcasts BrowserState lifecycle events to keyed service factories in dependency order.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_IOS_BROWSER_STATE_DEPENDENCY_MANAGER_H_
 #define COMPONENTS_KEYED_SERVICE_IOS_BROWSER_STATE_DEPENDENCY_MANAGER_H_
 

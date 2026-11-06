@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal dialog manager implementation
+// summary: Implements tab modal JavaScript dialog handling, including suppression when other modal UI is showing, dismissal causes, and UKM metrics.
+// ---
+
 #include "components/javascript_dialogs/tab_modal_dialog_manager.h"
 
 #include <utility>

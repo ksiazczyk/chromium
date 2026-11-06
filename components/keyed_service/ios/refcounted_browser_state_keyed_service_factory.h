@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedBrowserStateKeyedServiceFactory class declaration
+// summary: Declares a BrowserStateKeyedServiceFactory variant that manages refcounted services, guaranteeing UI-thread shutdown for RefcountedKeyedService objects.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_IOS_REFCOUNTED_BROWSER_STATE_KEYED_SERVICE_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_IOS_REFCOUNTED_BROWSER_STATE_KEYED_SERVICE_FACTORY_H_
 

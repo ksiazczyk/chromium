@@ -1,0 +1,4 @@
+# Docerion header of tab_modal_dialog_view_ios.mm.
+type: source
+title: iOS tab-modal JavaScript dialog view implementation
+summary: Implements creation and lifecycle of the iOS tab-modal JavaScript dialog, forwarding accept, cancel, and close events to the registered callbacks.

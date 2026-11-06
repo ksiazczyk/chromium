@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavascriptDialogCustomView
+// summary: Custom LinearLayout view for JavaScript dialogs that exposes the prompt text field and the suppress-dialogs check box used by app modal and tab modal dialogs.
+// ---
+
 package org.chromium.components.javascript_dialogs;
 
 import android.content.Context;

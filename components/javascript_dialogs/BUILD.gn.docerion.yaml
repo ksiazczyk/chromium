@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the JavaScript dialogs component
+summary: GN build file that defines the javascript_dialogs static library, its platform-specific sources and dependencies, and the unit test target.

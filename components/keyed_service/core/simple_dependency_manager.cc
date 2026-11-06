@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleDependencyManager implementation
+// summary: Implements the SimpleDependencyManager singleton that creates, destroys, and marks live services for SimpleFactoryKey contexts and registers profile preferences.
+// ---
+
 #include "components/keyed_service/core/simple_dependency_manager.h"
 
 #include "base/no_destructor.h"

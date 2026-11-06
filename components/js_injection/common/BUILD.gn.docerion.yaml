@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for js_injection common Mojom targets
+summary: Defines Mojom targets for the js_injection common interfaces and enums, including typemaps for web message traits and a unit test source set.

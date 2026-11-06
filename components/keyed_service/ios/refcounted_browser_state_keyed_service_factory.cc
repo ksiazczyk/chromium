@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedBrowserStateKeyedServiceFactory implementation
+// summary: Implements the refcounted variant of the BrowserState keyed service factory that returns scoped_refptr RefcountedKeyedService instances.
+// ---
+
 #include "components/keyed_service/ios/refcounted_browser_state_keyed_service_factory.h"
 
 #include "base/check_op.h"

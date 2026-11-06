@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedKeepAlive class declaration
+// summary: Declares the ScopedKeepAlive RAII object that prevents BrowserProcess shutdown by registering with KeepAliveRegistry for its lifetime, with usage notes and threading constraints.
+// ---
+
 #ifndef COMPONENTS_KEEP_ALIVE_REGISTRY_SCOPED_KEEP_ALIVE_H_
 #define COMPONENTS_KEEP_ALIVE_REGISTRY_SCOPED_KEEP_ALIVE_H_
 

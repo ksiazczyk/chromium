@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog title utility header
+// summary: Declares the DialogTitle function that formats title text for JavaScript dialogs in the javascript_dialogs::util namespace.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_CORE_DIALOG_UTIL_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_CORE_DIALOG_UTIL_H_
 

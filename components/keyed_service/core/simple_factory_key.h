@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFactoryKey class declaration
+// summary: Declares a lightweight key holding a profile path and off-the-record flag so factories can provide keyed services without a full browser context.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_CORE_SIMPLE_FACTORY_KEY_H_
 #define COMPONENTS_KEYED_SERVICE_CORE_SIMPLE_FACTORY_KEY_H_
 

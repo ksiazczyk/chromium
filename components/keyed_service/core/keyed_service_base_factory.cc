@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyedServiceBaseFactory implementation
+// summary: Implements the base keyed service factory, registering with the dependency manager, declaring dependencies, and checking context lifetime.
+// ---
+
 #include "components/keyed_service/core/keyed_service_base_factory.h"
 
 #include <type_traits>

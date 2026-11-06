@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the keyed_service core component
+summary: GN build rules defining the keyed_service_core component target and feature build flags that control factory registration and context initialization strictness.

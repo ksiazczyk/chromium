@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserStateKeyedServiceFactory class declaration
+// summary: Declares the base class for factories that return a KeyedService for a given BrowserState, with hooks for incognito, creation timing, and testing.
+// ---
+
 #ifndef COMPONENTS_KEYED_SERVICE_IOS_BROWSER_STATE_KEYED_SERVICE_FACTORY_H_
 #define COMPONENTS_KEYED_SERVICE_IOS_BROWSER_STATE_KEYED_SERVICE_FACTORY_H_
 

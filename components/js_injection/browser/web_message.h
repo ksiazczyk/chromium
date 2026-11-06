@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessage struct declaration
+// summary: Declares the WebMessage struct holding a payload and message port descriptors for messages exchanged with the page.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refcounted browser context keyed service factory implementation
+// summary: Implements the refcounted variant of the browser context keyed service factory, adapting RefcountedKeyedServiceFactory hooks to BrowserContext.
+// ---
+
 #include "components/keyed_service/content/refcounted_browser_context_keyed_service_factory.h"
 
 #include "base/check_op.h"

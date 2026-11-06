@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for JavaScript dialogs strings
+summary: Points to the owners file of components/javascript_dialogs to define code ownership for this directory.

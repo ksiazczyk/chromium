@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS tab-modal JavaScript dialog view header
+// summary: Declares the TabModalDialogViewIOS class, an iOS implementation of TabModalDialogView that manages the coordinator and dialog closed callbacks.
+// ---
+
 #ifndef COMPONENTS_JAVASCRIPT_DIALOGS_IOS_TAB_MODAL_DIALOG_VIEW_IOS_H_
 #define COMPONENTS_JAVASCRIPT_DIALOGS_IOS_TAB_MODAL_DIALOG_VIEW_IOS_H_
 

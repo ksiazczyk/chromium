@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_android_strings_ro.xtb.
+type: data
+title: Romanian strings for Android JavaScript dialogs
+summary: Romanian translation bundle with Android JavaScript dialog strings, covering the warning that stops a page from creating more dialogs and the exit button label.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for Mojom and traits files
+summary: Delegates review of Mojom and web message traits files in this directory to the IPC security owners.

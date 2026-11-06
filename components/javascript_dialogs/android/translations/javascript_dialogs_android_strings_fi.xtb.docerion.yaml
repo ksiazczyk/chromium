@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_android_strings_fi.xtb.
+type: data
+title: JavaScript dialog strings for Android in Finnish
+summary: Finnish translation bundle providing Android JavaScript dialog strings, including the warning that blocks a page from creating additional dialogs and the leave button label.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationWebMessageSender implementation
+// summary: Implements NavigationWebMessageSender, which observes navigations and dispatches navigation lifecycle messages such as started, redirected, completed, and page load end to the embedder.
+// ---
+
 #include "components/js_injection/browser/navigation_web_message_sender.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessageHostFactory interface for creating per-page WebMessageHosts
+// summary: Defines a factory interface whose CreateHost method builds a WebMessageHost for each page matching the parameters registered via JsCommunicationHost::AddWebMessageHostFactory.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_HOST_FACTORY_H_
 #define COMPONENTS_JS_INJECTION_BROWSER_WEB_MESSAGE_HOST_FACTORY_H_
 

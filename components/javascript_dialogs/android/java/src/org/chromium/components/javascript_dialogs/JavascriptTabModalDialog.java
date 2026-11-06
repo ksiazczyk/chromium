@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavascriptTabModalDialog
+// summary: Controller for tab modal JavaScript dialogs that creates alert, confirm and prompt dialogs and communicates accept, cancel and input results to native code over JNI.
+// ---
+
 package org.chromium.components.javascript_dialogs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

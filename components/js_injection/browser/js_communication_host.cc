@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsCommunicationHost implementation
+// summary: Implements JsCommunicationHost, the per-WebContents browser-side manager for persistent JavaScript executables and web message host factories, configuring render frames accordingly.
+// ---
+
 #include "components/js_injection/browser/js_communication_host.h"
 
 #include "base/functional/bind.h"

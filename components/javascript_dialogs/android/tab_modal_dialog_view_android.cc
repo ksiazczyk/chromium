@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab modal JavaScript dialog view implementation
+// summary: Implements the Android tab modal JavaScript dialog view, showing dialogs via JNI and forwarding accept, cancel, and user input to callbacks.
+// ---
+
 #include "components/javascript_dialogs/android/tab_modal_dialog_view_android.h"
 
 #include "base/android/jni_android.h"

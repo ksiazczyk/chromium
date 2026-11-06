@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the renderer directory
+summary: Grants the renderer directory access to gin and V8 headers, including cppgc, needed by the Oilpan-based JS binding.

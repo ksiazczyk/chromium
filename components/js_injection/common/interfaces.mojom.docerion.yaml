@@ -1,0 +1,4 @@
+# Docerion header of interfaces.mojom.
+type: source
+title: Mojom interfaces for JavaScript injection messaging
+summary: Defines structs and interfaces for injecting JavaScript objects and passing web messages between JavaScript and the browser, including JsObject, JavaScriptExecutable, and JsWebMessage.

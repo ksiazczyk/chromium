@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsCommunication implementation
+// summary: Implements the per-render-frame JsCommunication that stores injected JS objects and persistent scripts and runs them at document injection times.
+// ---
+
 #include "components/js_injection/renderer/js_communication.h"
 
 #include <algorithm>

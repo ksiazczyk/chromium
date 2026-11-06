@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS keyed service component
+summary: Defines the ios source set that builds the BrowserState keyed service sources with dependencies on base, keyed_service core, and ios/web public.

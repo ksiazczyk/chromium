@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveRegistry class declaration
+// summary: Declares the centralized registry API for querying and changing browser keep-alive state, which the browser process uses to decide when to stay alive.
+// ---
+
 #ifndef COMPONENTS_KEEP_ALIVE_REGISTRY_KEEP_ALIVE_REGISTRY_H_
 #define COMPONENTS_KEEP_ALIVE_REGISTRY_KEEP_ALIVE_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App modal dialog queue implementation
+// summary: Implements the singleton AppModalDialogQueue that shows one app modal JavaScript dialog at a time, queues pending dialogs, and safely invalidates them during shutdown.
+// ---
+
 #include "components/javascript_dialogs/app_modal_dialog_queue.h"
 
 #include <memory>

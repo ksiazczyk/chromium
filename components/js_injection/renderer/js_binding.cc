@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsBinding implementation
+// summary: Implements the JavaScript-exposed jsObject API with postMessage, message listeners, and script execution, backed by V8, gin, and Mojo messaging.
+// ---
+
 #include "components/js_injection/renderer/js_binding.h"
 
 #include <algorithm>

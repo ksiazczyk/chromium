@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_android_strings_nl.xtb.
+type: data
+title: Dutch strings for Android JavaScript dialogs
+summary: Dutch translation bundle with Android JavaScript dialog strings, covering the warning that stops a page from creating more dialogs and the leave button label.

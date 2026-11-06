@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App modal dialog queue unit tests
+// summary: Unit tests for AppModalDialogQueue using fake views and dialog controllers to verify queuing, showing, cancellation, and destruction behavior.
+// ---
+
 #include "components/javascript_dialogs/app_modal_dialog_queue.h"
 
 #include <memory>

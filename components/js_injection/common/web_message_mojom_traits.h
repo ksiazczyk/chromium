@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traits declarations for JsWebMessage Mojom mapping
+// summary: Declares StructTraits and UnionTraits specializations mapping blink WebMessagePayload to the js_injection JsWebMessage Mojom union.
+// ---
+
 #ifndef COMPONENTS_JS_INJECTION_COMMON_WEB_MESSAGE_MOJOM_TRAITS_H_
 #define COMPONENTS_JS_INJECTION_COMMON_WEB_MESSAGE_MOJOM_TRAITS_H_
 

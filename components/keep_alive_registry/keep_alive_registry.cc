@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveRegistry implementation
+// summary: Implements the singleton registry that tracks registered keep-alives, restart and shutdown state, and notifies observers of changes.
+// ---
+
 #include "components/keep_alive_registry/keep_alive_registry.h"
 
 #include <sstream>

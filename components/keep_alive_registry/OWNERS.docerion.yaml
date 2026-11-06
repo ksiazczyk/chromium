@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the keep_alive_registry directory
+summary: Lists nicolaso@chromium.org as the code owner for review routing in this directory.

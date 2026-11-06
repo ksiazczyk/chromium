@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for web message Mojom traits round trips
+// summary: Verifies serialization round trips of JsWebMessage payloads for strings, array buffers, and Android shared memory regions.
+// ---
+
 #include "components/js_injection/common/web_message_mojom_traits.h"
 
 #include <variant>
