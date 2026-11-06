@@ -1,0 +1,4 @@
+# Docerion header of page_classification_api.mm.
+type: source
+title: Page classification API stub
+summary: Public-build stub returning empty education category prefixes and academic entity MIDs for page classification.

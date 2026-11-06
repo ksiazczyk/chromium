@@ -1,0 +1,4 @@
+# Docerion header of push_notification_settings_util_unittest.mm.
+type: test
+title: Push notification settings utility unit tests
+summary: Unit tests verifying permission state aggregation and notification toggling behavior of the push notification settings helpers.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_signin_ai_unittest.mm.
+type: test
+title: Chromium sign-in AI unit tests
+summary: Unit tests verifying AI tier name strings and premium disc image loading in the Chromium sign-in AI provider.

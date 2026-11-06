@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: QR scanner coordinator build file (BUILD.gn)
+summary: Defines the coordinator source set listing the QR scanner coordinator and mediator sources together with their build dependencies.

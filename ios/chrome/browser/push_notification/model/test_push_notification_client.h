@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test push notification client interface
+// summary: Declares a configurable test double of PushNotificationClient used to exercise notification handling in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_TEST_PUSH_NOTIFICATION_CLIENT_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_TEST_PUSH_NOTIFICATION_CLIENT_H_
 

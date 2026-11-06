@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for chromium_branded_images
+summary: Defines the chromium_branded_images source set with its source file and GN build dependencies.

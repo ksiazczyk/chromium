@@ -1,0 +1,4 @@
+# Docerion header of chromium_additional_features.mm.
+type: source
+title: Chromium additional features controller implementation
+summary: Provides the Chromium build's no-op AdditionalFeaturesController and its factory function for the iOS provider layer.

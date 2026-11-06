@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Safari data import provider
+summary: Defines the chromium_safari_data_import source set with its implementation file and dependency on the Safari data import provider API.

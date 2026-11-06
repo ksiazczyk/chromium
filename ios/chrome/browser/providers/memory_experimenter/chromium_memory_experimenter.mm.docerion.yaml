@@ -1,0 +1,4 @@
+# Docerion header of chromium_memory_experimenter.mm.
+type: source
+title: Chromium memory experimenter provider implementation
+summary: Implements empty BeginMemoryExperimentation and StopMemoryExperimentation functions in the ios::provider namespace for the Chromium iOS memory experimenter.

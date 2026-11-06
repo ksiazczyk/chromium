@@ -1,0 +1,4 @@
+# Docerion header of provisional_push_notification_service.mm.
+type: source
+title: Provisional push notification service implementation
+summary: Enrolls users in provisional notifications when their authorization status is not determined or provisional.

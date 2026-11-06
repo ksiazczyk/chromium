@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file bundling push notification resources
+summary: GN build target that packages the dark and light mode prominence notification JSON animations into the iOS app bundle.

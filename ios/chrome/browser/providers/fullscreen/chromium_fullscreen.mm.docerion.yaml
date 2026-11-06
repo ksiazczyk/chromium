@@ -1,0 +1,4 @@
+# Docerion header of chromium_fullscreen.mm.
+type: source
+title: Chromium fullscreen provider implementation
+summary: Implements IsFullscreenSmoothScrollingSupported in the ios provider namespace, always returning false.

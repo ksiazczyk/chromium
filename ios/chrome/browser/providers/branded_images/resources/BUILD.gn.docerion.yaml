@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for branded images resource bundle data
+summary: Declares the Assets.xcassets image sets (made-on-iOS badges, promo and stay safe artwork, download and password suggestion icons) as bundle data for the branded images provider build.

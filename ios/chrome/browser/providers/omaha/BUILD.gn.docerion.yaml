@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_omaha provider
+summary: GN build file defining the chromium_omaha source set with chromium_omaha.cc and a dependency on the iOS Omaha provider API.

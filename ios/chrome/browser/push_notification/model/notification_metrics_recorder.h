@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics recorder interface
+// summary: Declares a classifier protocol and a class that records received, dismissed, and interaction metrics for notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_NOTIFICATION_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_NOTIFICATION_METRICS_RECORDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chromium_share_kit.mm.
+type: source
+title: Chromium no-op ShareKitService implementation
+summary: Implements ChromiumShareKitService, a stub ShareKitService that reports no support and returns nil for all operations, plus the CreateShareKitService factory.

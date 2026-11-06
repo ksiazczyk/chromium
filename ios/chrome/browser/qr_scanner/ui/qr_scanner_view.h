@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QRScannerView interface
+// summary: Declares the QR scanner view rendering the camera preview, viewport overlay, close and flash controls, and the code positioning caption.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_QR_SCANNER_UI_QR_SCANNER_VIEW_H_
 #define IOS_CHROME_BROWSER_QR_SCANNER_UI_QR_SCANNER_VIEW_H_
 

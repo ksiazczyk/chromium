@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device attestation
+summary: Allows this folder to include headers from ios/public/provider/chrome/browser/device_attestation.

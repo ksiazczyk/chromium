@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications opt-in consumer protocol
+// summary: Declares the consumer protocol that lets the notifications opt-in view controller receive updates to enable or disable opt-in items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_UI_NOTIFICATIONS_OPT_IN_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_UI_NOTIFICATIONS_OPT_IN_CONSUMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications alert presenter protocol
+// summary: Declares a protocol for presenting alerts that direct users to iOS settings to enable push notification permissions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_ALERT_PRESENTER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_ALERT_PRESENTER_H_
 

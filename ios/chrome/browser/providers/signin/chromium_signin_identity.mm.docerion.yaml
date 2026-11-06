@@ -1,0 +1,4 @@
+# Docerion header of chromium_signin_identity.mm.
+type: source
+title: Chromium system identity manager
+summary: Null SystemIdentityManager implementation that never returns identities and asserts on identity-dependent calls.

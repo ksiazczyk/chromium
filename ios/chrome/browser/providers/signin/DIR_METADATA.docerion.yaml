@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Signin providers directory metadata
+summary: Declares the signin common metadata mixin and IOS as the operating system for this directory.

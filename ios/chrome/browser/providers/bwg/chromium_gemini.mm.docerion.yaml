@@ -1,0 +1,4 @@
+# Docerion header of chromium_gemini.mm.
+type: source
+title: Chromium Gemini provider stub implementation
+summary: Implements no-op stubs of the Gemini provider API that return default values when no bwg backend is available.

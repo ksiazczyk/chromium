@@ -1,0 +1,4 @@
+# Docerion header of chromium_device_attestation.mm.
+type: source
+title: Chromium device attestation provider implementation
+summary: Implements the Chromium-level provider, creating a device integrity service whose snapshot fetch returns nil and a null iOS attestation service.

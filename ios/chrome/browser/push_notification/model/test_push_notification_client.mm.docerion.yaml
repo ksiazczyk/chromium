@@ -1,0 +1,4 @@
+# Docerion header of test_push_notification_client.mm.
+type: test
+title: Test push notification client implementation
+summary: Implements the test push notification client with controllable notification handling, background fetch results, and browser readiness state.

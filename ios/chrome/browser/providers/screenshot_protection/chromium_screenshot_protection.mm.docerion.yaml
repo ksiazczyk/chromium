@@ -1,0 +1,4 @@
+# Docerion header of chromium_screenshot_protection.mm.
+type: source
+title: Chromium screenshot protection no-op stub
+summary: Objective-C++ implementation of SetScreenshotProtection that acts as a no-op stub because screenshot protection is unsupported in public Chromium.

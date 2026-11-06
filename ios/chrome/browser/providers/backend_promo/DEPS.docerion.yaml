@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for backend promo
+summary: Grants this directory permission to include the backend promo service header from the backend_promo model.

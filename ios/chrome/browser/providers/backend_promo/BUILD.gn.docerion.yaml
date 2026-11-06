@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for chromium_backend_promo
+summary: Defines the chromium_backend_promo source set containing chromium_backend_promo.mm and its dependency on the backend promo model.

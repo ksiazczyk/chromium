@@ -1,0 +1,4 @@
+# Docerion header of provisional_push_notification_service_factory.mm.
+type: source
+title: ProvisionalPushNotificationServiceFactory implementation
+summary: Implements the factory that builds a ProvisionalPushNotificationService per profile from identity, sync, and application context dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_keyboard source set
+summary: GN build file defining the chromium_keyboard source set with chromium_keyboard.mm and dependencies on base and the iOS keyboard provider API.

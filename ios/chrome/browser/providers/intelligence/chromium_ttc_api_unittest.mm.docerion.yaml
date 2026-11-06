@@ -1,0 +1,4 @@
+# Docerion header of chromium_ttc_api_unittest.mm.
+type: test
+title: Chromium TTC API unit tests
+summary: Unit tests covering TTCConfig default properties, validity, equality, and setting or resetting test provider overrides.

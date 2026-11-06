@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_view_controller.mm.
+type: source
+title: QRScannerViewController implementation
+summary: Implements QR scanner result sanitizing, URL handling, dismissal metrics, accessibility announcements, and handing results to the composebox.

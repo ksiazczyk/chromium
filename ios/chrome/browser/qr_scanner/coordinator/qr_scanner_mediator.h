@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR scanner mediator interface
+// summary: Declares QRScannerMediator, a ScannerMutator that loads scanned QR code results through a URL loading browser agent.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_QR_SCANNER_COORDINATOR_QR_SCANNER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_QR_SCANNER_COORDINATOR_QR_SCANNER_MEDIATOR_H_
 

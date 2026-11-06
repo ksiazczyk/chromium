@@ -1,3 +1,9 @@
+---
+type: readme
+title: QR Scanner
+summary: Documents the iOS QR scanner feature, covering usage, behavior, entry points, controller architecture, views, accessibility, metrics, and known issues.
+---
+
 # QR Scanner
 
 The QR Scanner provides a way of scanning QR codes and bar codes directly from

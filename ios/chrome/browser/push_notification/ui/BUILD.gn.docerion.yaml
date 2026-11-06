@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Push notification UI build configuration
+summary: Defines the source set for the notifications opt-in UI and its dependencies on shared iOS Chrome UI and string targets.

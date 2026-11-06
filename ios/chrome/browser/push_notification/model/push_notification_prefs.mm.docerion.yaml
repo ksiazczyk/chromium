@@ -1,0 +1,4 @@
+# Docerion header of push_notification_prefs.mm.
+type: source
+title: Push notification preferences implementation
+summary: Registers the push notification local state preference that stores the timestamp of the last opened Send Tab To Self notification.

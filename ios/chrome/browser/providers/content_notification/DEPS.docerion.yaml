@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the content notification provider
+summary: DEPS file listing the allowed include rule for the content notification model directory.

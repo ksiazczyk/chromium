@@ -1,0 +1,4 @@
+# Docerion header of classification_metrics_tab_helper_api.mm.
+type: source
+title: Classification metrics tab helper stub
+summary: No-op public-build implementation that attaches the classification metrics tab helper to a web state.

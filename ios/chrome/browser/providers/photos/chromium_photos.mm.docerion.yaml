@@ -1,0 +1,4 @@
+# Docerion header of chromium_photos.mm.
+type: source
+title: Chromium photos service stub
+summary: Implements a ChromiumPhotosService that reports photo saving as unsupported and provides the photos service factory for Chromium builds.

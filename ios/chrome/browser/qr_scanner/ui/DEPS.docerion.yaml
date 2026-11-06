@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: QR scanner UI include rules
+summary: Restricts the headers that files in the QR scanner ui directory may include by allowing the composebox entrypoint header.

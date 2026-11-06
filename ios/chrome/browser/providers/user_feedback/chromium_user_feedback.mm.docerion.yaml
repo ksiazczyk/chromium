@@ -1,0 +1,4 @@
+# Docerion header of chromium_user_feedback.mm.
+type: source
+title: Chromium user feedback provider stub
+summary: Objective-C++ implementation of the user feedback provider for Chromium builds, reporting feedback as unsupported and hitting NOTREACHED for upload and feedback flow calls.

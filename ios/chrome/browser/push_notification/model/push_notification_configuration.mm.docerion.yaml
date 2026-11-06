@@ -1,0 +1,4 @@
+# Docerion header of push_notification_configuration.mm.
+type: source
+title: Push notification configuration implementation
+summary: Objective-C++ implementation of the PushNotificationConfiguration class, currently providing an empty implementation.

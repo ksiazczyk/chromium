@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Voice search build definition
+summary: Defines the chromium_voice_search source set with its sources and dependencies for the GN build.

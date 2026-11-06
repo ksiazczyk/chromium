@@ -1,0 +1,4 @@
+# Docerion header of notifications_opt_in_coordinator.mm.
+type: source
+title: Notifications opt-in coordinator implementation
+summary: Implements the notifications opt-in flow, wiring the view controller, mediator, and opt-in alert coordinator together.

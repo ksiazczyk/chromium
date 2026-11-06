@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for chromium_password_auto_fill
+summary: GN build file defining the chromium_password_auto_fill source set with a dependency on the password_auto_fill provider API and UIKit.

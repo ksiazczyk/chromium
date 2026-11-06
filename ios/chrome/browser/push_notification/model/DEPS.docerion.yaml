@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Push notification model include rules
+summary: Restricts which directories this code may include headers from, with a special rule for push_notification_client.mm.

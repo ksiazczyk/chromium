@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for chromium_screenshot_protection
+summary: GN build file defining the chromium_screenshot_protection source set with a dependency on the screenshot protection provider API.

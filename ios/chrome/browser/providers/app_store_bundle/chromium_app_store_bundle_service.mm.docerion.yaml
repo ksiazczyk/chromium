@@ -1,0 +1,4 @@
+# Docerion header of chromium_app_store_bundle_service.mm.
+type: source
+title: Chromium app store bundle service implementation
+summary: Implements the service, reporting zero installed apps and presenting an open-source app store bundle promo view controller with a dismiss handler.

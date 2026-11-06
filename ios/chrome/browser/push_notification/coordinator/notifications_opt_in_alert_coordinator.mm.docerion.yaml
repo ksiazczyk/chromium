@@ -1,0 +1,4 @@
+# Docerion header of notifications_opt_in_alert_coordinator.mm.
+type: source
+title: Notifications opt-in alert coordinator implementation
+summary: Implements the opt-in alert flow with prominence setting alerts, permission result handling, and metrics logging.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium app distribution provider implementation
+// summary: Chromium implementation of the app distribution provider with an empty brand code and no-op notification and Firebase functions.
+// ---
+
 #include "ios/public/provider/chrome/browser/app_distribution/app_distribution_api.h"
 
 namespace ios {

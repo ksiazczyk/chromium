@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications opt-in alert coordinator interface
+// summary: Declares the coordinator that presents alerts asking users to opt in to notifications, plus its result delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_OPT_IN_ALERT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_OPT_IN_ALERT_COORDINATOR_H_
 

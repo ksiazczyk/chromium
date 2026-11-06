@@ -1,0 +1,4 @@
+# Docerion header of push_notification_egtest.mm.
+type: test
+title: Push notification Earl Grey tests
+summary: Earl Grey tests for enabling push notifications from the Set Up List menu, including flows after denied or granted authorization.

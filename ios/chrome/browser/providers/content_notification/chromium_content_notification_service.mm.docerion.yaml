@@ -1,0 +1,4 @@
+# Docerion header of chromium_content_notification_service.mm.
+type: source
+title: Chromium content notification service implementation
+summary: Objective-C++ dummy ContentNotificationService used for Chromium builds, returning an empty destination URL and no feedback payload.

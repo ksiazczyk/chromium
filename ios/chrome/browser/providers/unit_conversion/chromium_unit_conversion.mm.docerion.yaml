@@ -1,0 +1,4 @@
+# Docerion header of chromium_unit_conversion.mm.
+type: source
+title: Chromium unit conversion provider implementation
+summary: Implements the iOS provider API by returning default units, supported unit types, conversion target units, and formatted unit display names.

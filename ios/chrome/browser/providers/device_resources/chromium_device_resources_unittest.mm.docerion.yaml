@@ -1,0 +1,4 @@
+# Docerion header of chromium_device_resources_unittest.mm.
+type: test
+title: Unit tests for Chromium device type icons
+summary: Verifies that GetDeviceTypeIcon returns the expected symbol images for phone, tablet, desktop, and unknown form factors.

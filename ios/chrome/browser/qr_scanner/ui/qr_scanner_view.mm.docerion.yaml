@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_view.mm.
+type: source
+title: QRScannerView implementation
+summary: Implements the QR scanner viewport sizes for iPhone and iPad and returns the localized viewport caption string.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the photos provider
+summary: Sets include rules that allow this directory to depend only on the photos service model header.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_keyboard.mm.
+type: source
+title: Chromium keyboard provider implementation
+summary: Objective-C++ implementation of the iOS provider keyboard API that returns the last window of the connected window scenes as the keyboard window.

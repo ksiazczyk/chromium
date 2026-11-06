@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the bwg chromium_gemini provider
+summary: Defines the chromium_gemini source set with its Objective-C++ source and a dependency on the bwg gemini_api provider.

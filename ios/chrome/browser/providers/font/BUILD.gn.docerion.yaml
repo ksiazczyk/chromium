@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_font provider
+summary: GN build file defining the chromium_font source set with a dependency on the iOS font provider API.

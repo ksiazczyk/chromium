@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_overrides target
+summary: Defines the chromium_overrides source set with chromium_overrides.cc and a dependency on the iOS provider overrides API.

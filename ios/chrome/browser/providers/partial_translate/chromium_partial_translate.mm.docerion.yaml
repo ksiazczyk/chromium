@@ -1,0 +1,4 @@
+# Docerion header of chromium_partial_translate.mm.
+type: source
+title: Chromium partial translate provider stub
+summary: Implements the partial translate provider for Chromium, returning nil and a zero character limit because partial translate is not supported.

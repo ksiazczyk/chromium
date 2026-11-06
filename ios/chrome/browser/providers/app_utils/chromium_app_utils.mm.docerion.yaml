@@ -1,0 +1,4 @@
+# Docerion header of chromium_app_utils.mm.
+type: source
+title: Chromium app utils provider implementation
+summary: Objective-C++ implementation of the app utils provider for Chromium, providing empty no-op hooks for initialization, experimental settings switches, and browser agents.

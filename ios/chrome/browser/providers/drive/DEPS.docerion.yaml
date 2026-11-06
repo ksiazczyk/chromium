@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the drive provider
+summary: Declares the directory's include rules, allowing use of the ios/chrome/browser/drive/model drive_service.h header.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushNotificationAccountContextManager interface
+// summary: Declares the manager that maps Gaia IDs to push notification context data and per-account notification permissions across profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_PUSH_NOTIFICATION_ACCOUNT_CONTEXT_MANAGER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_PUSH_NOTIFICATION_ACCOUNT_CONTEXT_MANAGER_H_
 

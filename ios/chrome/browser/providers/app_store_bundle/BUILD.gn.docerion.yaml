@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_app_store_bundle source set
+summary: Defines the chromium_app_store_bundle source set, listing its sources and its dependency on the iOS app store bundle provider API.

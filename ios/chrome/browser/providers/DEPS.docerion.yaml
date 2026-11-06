@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Providers dependency rules
+summary: DEPS file listing the allowed include rules that restrict which headers and modules the providers directory may depend on.

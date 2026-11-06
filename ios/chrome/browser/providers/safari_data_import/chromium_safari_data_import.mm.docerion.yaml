@@ -1,0 +1,4 @@
+# Docerion header of chromium_safari_data_import.mm.
+type: source
+title: Chromium Safari data import provider implementation
+summary: Implements OpenSettingsToExportDataFromSafari by opening the iOS Settings app so the user can export data from Safari.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_privacy_primitive.mm.
+type: source
+title: Chromium privacy primitive provider stub
+summary: Objective-C++ implementation of the privacy primitive provider factory that returns nil for CreatePrivacyPrimitiveService, serving as the Chromium-side stub.

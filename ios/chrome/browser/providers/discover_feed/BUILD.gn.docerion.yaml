@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_discover_feed source set
+summary: Defines the chromium_discover_feed source set with its single source file and its dependency on the discover feed provider API.

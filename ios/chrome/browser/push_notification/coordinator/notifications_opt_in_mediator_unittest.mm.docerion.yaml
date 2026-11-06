@@ -1,0 +1,4 @@
+# Docerion header of notifications_opt_in_mediator_unittest.mm.
+type: test
+title: Notifications opt-in mediator unit tests
+summary: Unit tests for the push notification opt-in mediator, covering feature-flagged notification permission prefs at profile and app level using test profiles and OCMock.

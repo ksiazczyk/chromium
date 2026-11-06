@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sign-in AI build targets
+summary: Defines GN source sets for the sign-in AI provider implementation and its unit tests, listing their source files and dependencies.

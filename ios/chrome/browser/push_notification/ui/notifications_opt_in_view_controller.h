@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications opt-in view controller interface
+// summary: Declares the view controller for the notifications opt-in screen, its delegate protocol, and content notification state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_UI_NOTIFICATIONS_OPT_IN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_UI_NOTIFICATIONS_OPT_IN_VIEW_CONTROLLER_H_
 

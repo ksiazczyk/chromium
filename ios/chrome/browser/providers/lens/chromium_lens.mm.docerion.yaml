@@ -1,0 +1,4 @@
+# Docerion header of chromium_lens.mm.
+type: source
+title: Chromium Lens provider stubs
+summary: Implements the iOS Lens provider API with stubs that disable Lens features in Chromium by returning nil or false.

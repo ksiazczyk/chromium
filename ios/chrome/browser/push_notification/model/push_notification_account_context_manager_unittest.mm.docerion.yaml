@@ -1,0 +1,4 @@
+# Docerion header of push_notification_account_context_manager_unittest.mm.
+type: test
+title: PushNotificationAccountContextManager unit tests
+summary: Unit tests verifying that the account context manager stores accounts, tracks registrations, and manages permission preferences.

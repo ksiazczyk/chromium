@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_text_zoom source set
+summary: Defines the chromium_text_zoom source set, listing chromium_text_zoom.mm and its dependencies on the font size feature, text zoom API, and ui/base.

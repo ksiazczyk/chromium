@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the add_to_calendar provider
+summary: GN build file defining the chromium_add_to_calendar source set and its dependency on the add_to_calendar API.

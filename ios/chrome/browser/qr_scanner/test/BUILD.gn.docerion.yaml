@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: QR scanner test build definition
+summary: Defines GN source sets for QR scanner Earl Grey tests and the app interface support used by them.

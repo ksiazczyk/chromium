@@ -1,0 +1,4 @@
+# Docerion header of chromium_embedded_reauth.mm.
+type: source
+title: Chromium embedded re-auth provider
+summary: Supplies an embedded re-auth interaction manager that reports re-auth as unsupported and asserts if invoked.

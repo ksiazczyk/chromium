@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for chromium_application_mode_fetcher
+summary: Defines the chromium_application_mode_fetcher source set, listing its Objective-C++ source and dependencies on base, the application mode fetcher API, and url.

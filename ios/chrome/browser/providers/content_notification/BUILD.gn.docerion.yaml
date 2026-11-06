@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Chromium content notification service
+summary: GN build file defining the chromium_content_notification_service source set with its source file and dependencies.

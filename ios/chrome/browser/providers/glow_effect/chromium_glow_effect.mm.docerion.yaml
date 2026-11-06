@@ -1,0 +1,4 @@
+# Docerion header of chromium_glow_effect.mm.
+type: source
+title: Chromium glow effect provider stub
+summary: Objective-C++ implementation of the ios::provider CreateGlowEffect factory that currently returns nil for the glow effect view.

@@ -1,0 +1,4 @@
+# Docerion header of ttc_api.mm.
+type: source
+title: TTC API implementation
+summary: Public-build stub returning an empty TTCConfig and a nil TTC audio engine.

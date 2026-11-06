@@ -1,0 +1,4 @@
+# Docerion header of chromium_google_one.mm.
+type: source
+title: Chromium Google One provider implementation
+summary: Implements the Chromium-side Google One provider, holding a controller factory and delegating controller creation, URL handling, and email extraction to it.
