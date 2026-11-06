@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium policy definitions
+summary: Explains how Chromium policies are organized in YAML group directories and how policy_templates.json is now generated.
+relations:
+  - references /docs/enterprise/add_new_policy.md
+  - references /components/policy/resources/templates/policies.yaml
+  - references /components/policy/resources/policy_templates.py
+---
+
 # Chromium policy definitions
 
 This directory houses the data templates used Chromium browser and OS policies.

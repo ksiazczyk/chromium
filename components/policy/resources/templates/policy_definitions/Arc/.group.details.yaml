@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Arc policy group details
+# summary: Defines the caption and description for the Arc policy group covering the Android container (ARC) and Android apps settings.
+# ---
+
 caption: Android settings
 desc: Controls settings for the Android container (ARC) and Android apps.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CursorHighlightEnabled policy definition
+# summary: ChromeOS policy that controls highlighting of the area surrounding the mouse cursor while it moves.
+# ---
+
 caption: Enable the cursor highlight accessibility feature
 default: null
 desc: |-

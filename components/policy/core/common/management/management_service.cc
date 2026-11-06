@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementService implementation
+// summary: Implements ManagementStatusProvider caching and the ManagementService that aggregates management authorities from its providers.
+// ---
+
 #include "components/policy/core/common/management/management_service.h"
 
 #include <algorithm>

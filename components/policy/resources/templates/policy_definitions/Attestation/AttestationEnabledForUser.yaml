@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AttestationEnabledForUser policy definition
+# summary: Defines the deprecated per-user policy that enabled remote attestation via the Enterprise Platform Keys API, removed in M118.
+# ---
+
 caption: Enable remote attestation for the user
 deprecated: true
 desc: |-

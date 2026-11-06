@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'CACertificatesWithConstraints: trusted TLS certificates with constraints'
+# summary: Defines the policy listing trusted TLS certificates with additional DNS name and CIDR constraints applied outside the certificate.
+# ---
+
 caption: TLS certificates that should be trusted by <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> for server authentication with constraints
 default: null
 desc: |-

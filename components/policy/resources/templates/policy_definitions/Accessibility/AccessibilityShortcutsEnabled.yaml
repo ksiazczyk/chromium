@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AccessibilityShortcutsEnabled policy definition
+# summary: ChromeOS policy that controls whether accessibility features shortcuts are enabled, locked to the admin's chosen value when set.
+# ---
+
 caption: Enable accessibility features shortcuts
 default: null
 desc: |-

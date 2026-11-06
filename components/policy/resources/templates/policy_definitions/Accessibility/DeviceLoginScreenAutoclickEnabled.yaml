@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenAutoclickEnabled policy definition
+# summary: Device-only ChromeOS policy that controls the autoclick accessibility feature on the login screen.
+# ---
+
 caption: Enable autoclick on the login screen
 default: null
 desc: |-

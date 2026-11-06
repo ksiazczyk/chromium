@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoLaunchAndroidApps policy definition
+# summary: ChromeOS policy definition listing Android app package names that launch automatically at sign-in, with only the first app currently launched.
+# ---
+
 caption: <ph name="ANDROID_NAME">Android</ph> applications to launch automatically on sign-in
 desc: |-
   Setting the policy specifies a list of <ph name="ANDROID_NAME">Android</ph> application package names (e.g. <ph name="EXAMPLE_PACKAGE_NAME">com.example.app</ph>) that will automatically launch when the user signs in to <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

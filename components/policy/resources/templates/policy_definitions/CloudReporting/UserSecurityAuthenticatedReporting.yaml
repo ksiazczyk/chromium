@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserSecurityAuthenticatedReporting policy definition
+# summary: Defines the policy that enables first-party user authentication when uploading user security signals for a managed profile.
+# ---
+
 caption: Enable cloud reporting of security signals in managed profiles
 default: false
 desc: |-

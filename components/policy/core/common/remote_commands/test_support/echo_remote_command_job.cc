@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo remote command job implementation
+// summary: Implements a test remote command job that echoes its payload back after a configurable delay, with a malformed payload marker and a three-hour expiration.
+// ---
+
 #include "components/policy/core/common/remote_commands/test_support/echo_remote_command_job.h"
 
 #include <memory>

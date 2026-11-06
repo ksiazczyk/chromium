@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Policy group details template
+# summary: Template for setting the caption and description of a policy group, to be copied into a policy_definitions directory and edited.
+# ---
+
 # This file will be used to set the caption and description of a policy group.
 # A policy group is a list of policies that apply to the same realm. This is
 # used mostly for documentation and every policy should be in a group.

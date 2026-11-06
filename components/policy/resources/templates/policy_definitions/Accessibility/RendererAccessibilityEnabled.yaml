@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Renderer accessibility policy
+# summary: Policy definition that controls accessibility tree generation in renderer processes.
+# ---
+
 caption: Enable renderer accessibility
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowAccessibilityOptionsInSystemTrayMenu policy definition
+# summary: Policy definition controlling whether accessibility options appear in the Chrome OS system tray menu, leaving them hidden but user-changeable when unset.
+# ---
+
 caption: Show accessibility options in system tray menu
 default: null
 desc: |-

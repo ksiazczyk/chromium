@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromadToCloudMigrationEnabled policy definition
+# summary: Defines the deprecated device policy that enables remote migration of Active Directory managed ChromeOS devices into cloud management.
+# ---
+
 caption: Enable the migration of Chromad devices into cloud management
 deprecated: true
 default: false

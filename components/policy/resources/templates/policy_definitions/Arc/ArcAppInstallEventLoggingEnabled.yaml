@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcAppInstallEventLoggingEnabled policy
+# summary: Policy definition that controls whether key Android app installation events are reported to Google on ChromeOS.
+# ---
+
 caption: Log events for Android app installs
 default: false
 desc: |-

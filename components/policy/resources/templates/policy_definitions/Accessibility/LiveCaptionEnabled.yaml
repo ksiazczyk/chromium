@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Live Caption policy
+# summary: Policy definition that controls whether the Live Caption feature is always on, always off, or user-decided.
+# ---
+
 caption: Enable Live Caption
 default: null
 desc: |-

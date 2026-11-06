@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Mono audio policy
+# summary: Chrome OS policy definition that controls the mono audio accessibility feature for stereo output.
+# ---
+
 caption: Enable the mono audio accessibility feature
 default: null
 desc: |-

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementService unit tests
+// summary: Unit tests for ManagementService authority aggregation, caching, and the scoped testing override.
+// ---
+
 #include "components/policy/core/common/management/management_service.h"
 
 #include "base/test/bind.h"

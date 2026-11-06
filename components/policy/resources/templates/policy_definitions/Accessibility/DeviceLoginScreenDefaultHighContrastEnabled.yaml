@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenDefaultHighContrastEnabled policy
+# summary: Defines the ChromeOS device policy that sets the default high contrast mode state at the sign-in screen, overridable by DeviceLoginScreenHighContrastEnabled.
+# ---
+
 caption: Set the default state of high contrast mode on the login screen
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceFlexArcPreloadEnabled policy definition
+# summary: ChromeOS device policy that enables or blocks preloading of the ArcVM image on ChromeOS Flex devices.
+# ---
+
 caption: Preload <ph name="ARC_VM">ArcVM</ph> image On Flex
 default: false
 desc: |-

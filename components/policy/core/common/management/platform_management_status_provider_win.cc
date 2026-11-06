@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows management status providers implementation
+// summary: Implements Windows status providers that detect domain enrollment, enterprise MDM registration, and Azure Active Directory joins to report management authorities.
+// ---
+
 #include "components/policy/core/common/management/platform_management_status_provider_win.h"
 
 #include "base/feature_list.h"

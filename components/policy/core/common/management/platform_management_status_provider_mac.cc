@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac domain enrollment and MDM status provider implementation
+// summary: Implements Mac status providers that report domain-local or cloud management authorities based on domain join state and enterprise MDM detection.
+// ---
+
 #include "components/policy/core/common/management/platform_management_status_provider_mac.h"
 
 #include "base/enterprise_util.h"

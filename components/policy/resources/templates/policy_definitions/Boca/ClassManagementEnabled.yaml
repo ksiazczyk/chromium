@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Class Tools main policy definition
+# summary: Defines the ChromeOS string-enum policy that enables Class Tools and assigns users the student or teacher role, or disables the feature entirely.
+# ---
+
 caption: Configure <ph name="CLASS_TOOLS_NAME">Class Tools</ph>
 default: disabled
 desc: |-

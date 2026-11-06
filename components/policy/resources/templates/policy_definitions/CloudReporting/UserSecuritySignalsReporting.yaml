@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserSecuritySignalsReporting policy definition
+# summary: Defines the policy that enables cloud reporting of device, browser and profile security signals for managed profiles.
+# ---
+
 caption: Enable cloud reporting of security signals in managed profiles
 default: false
 desc: |-

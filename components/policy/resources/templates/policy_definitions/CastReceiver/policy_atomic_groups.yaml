@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Google Cast policy atomic group
+# summary: Groups the CastReceiverEnabled and CastReceiverName policies together in the GoogleCast atomic policy group.
+# ---
+
 GoogleCast:
   caption: Google Cast
   policies:

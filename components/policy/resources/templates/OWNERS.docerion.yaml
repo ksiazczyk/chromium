@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review restrictions for policy templates
+summary: Restricts code review of policy templates to enterprise policy owners to protect forward and backward compatibility.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceGpoCacheLifetime policy definition
+# summary: Defines the deprecated device policy setting in hours how long cached Group Policy Objects can be reused before redownload.
+# ---
+
 caption: GPO cache lifetime
 deprecated: true
 default: 25

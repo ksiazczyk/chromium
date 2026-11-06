@@ -1,0 +1,4 @@
+# Docerion header of policy_templates.grd.
+type: config
+title: Policy templates manual grit definitions
+summary: Grit definitions for manually generating localized policy translations, kept in sync with the build-time variant of the same file.

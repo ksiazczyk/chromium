@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserBorealisAllowed policy definition
+# summary: ChromeOS user policy definition that controls whether Borealis is available for a user, defaulting to true except for enterprise users.
+# ---
+
 caption: Allow users to use <ph name="BOREALIS_NAME">Borealis</ph> on <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>
 default: true

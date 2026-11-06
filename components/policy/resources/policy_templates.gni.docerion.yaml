@@ -1,0 +1,4 @@
+# Docerion header of policy_templates.gni.
+type: config
+title: Policy templates GN build configuration
+summary: GN build file listing policy template languages and the generated output paths for translations, Android, Linux, Mac, and Windows artifacts.

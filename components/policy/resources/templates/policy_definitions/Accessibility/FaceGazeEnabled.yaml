@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FaceGazeEnabled policy definition
+# summary: Chrome OS policy definition that controls the face control accessibility feature for hands-free cursor control via head movement and facial gestures.
+# ---
+
 caption: Enable the face control accessibility feature
 default: null
 desc: |-

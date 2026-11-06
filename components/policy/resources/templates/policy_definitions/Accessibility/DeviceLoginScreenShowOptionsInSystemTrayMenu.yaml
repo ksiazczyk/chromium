@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenShowOptionsInSystemTrayMenu policy definition
+# summary: Chrome OS policy definition that controls whether accessibility options appear in the login screen system tray menu.
+# ---
+
 caption: Show accessibility options in system tray menu in the login screen
 default: null
 desc: |-

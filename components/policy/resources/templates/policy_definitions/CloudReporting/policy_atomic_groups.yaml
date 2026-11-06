@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudReporting policy atomic group definitions
+# summary: Lists the Cloud Reporting policies grouped together in the CloudReporting atomic group.
+# ---
+
 CloudReporting:
   caption: Cloud Reporting
   policies:

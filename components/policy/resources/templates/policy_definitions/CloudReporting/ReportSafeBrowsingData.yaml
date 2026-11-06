@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportSafeBrowsingData policy definition
+# summary: Deprecated policy definition that controlled reporting of Safe Browsing warning counts for Chrome 72 through 84.
+# ---
+
 caption: Report Safe Browsing information
 deprecated: true
 desc: |-

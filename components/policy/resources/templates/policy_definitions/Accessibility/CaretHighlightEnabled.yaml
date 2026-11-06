@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CaretHighlightEnabled policy definition
+# summary: ChromeOS policy that controls highlighting of the area surrounding the text caret while editing.
+# ---
+
 caption: Enable the caret highlight accessibility feature
 default: null
 desc: |-

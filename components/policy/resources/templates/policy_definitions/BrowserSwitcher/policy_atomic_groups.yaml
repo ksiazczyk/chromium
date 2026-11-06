@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserSwitcher policy atomic group definition
+# summary: Groups the Legacy Browser Support policies such as BrowserSwitcherUrlList and BrowserSwitcherEnabled into the BrowserSwitcher atomic policy group.
+# ---
+
 BrowserSwitcher:
   caption: Legacy Browser Support
   policies:

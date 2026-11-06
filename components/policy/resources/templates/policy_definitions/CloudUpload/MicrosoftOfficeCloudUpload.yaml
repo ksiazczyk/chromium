@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Microsoft Office Cloud Upload policy definition
+# summary: Defines the ChromeOS enterprise policy that lets admins configure the Cloud Upload flow for Microsoft OneDrive and Microsoft 365 with allowed, disallowed or automated values.
+# ---
+
 caption: Configures the <ph name="CLOUD_UPLOAD_NAME">Cloud Upload</ph> flow for <ph name="MICROSOFT_ONE_DRIVE_NAME">Microsoft OneDrive</ph> and <ph name="MICROSOFT_365_NAME">Microsoft 365</ph>
 default: allowed
 default_for_enterprise_users: disallowed

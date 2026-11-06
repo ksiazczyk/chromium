@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcPolicy policy definition
+# summary: ChromeOS policy definition that hands a JSON set of policies to the ARC runtime, including which Android apps are force-installed, blocked or available.
+# ---
+
 caption: Configure ARC
 desc: |-
   Setting the policy specifies a set of policies to hand over to the ARC runtime. Admins can use it to select the Android apps that autoinstall. Enter value in valid JSON format.

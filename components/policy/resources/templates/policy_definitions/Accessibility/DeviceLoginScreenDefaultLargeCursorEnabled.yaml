@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenDefaultLargeCursorEnabled policy
+# summary: Defines the ChromeOS device policy that sets the default large cursor state at the sign-in screen, overridable by DeviceLoginScreenLargeCursorEnabled.
+# ---
+
 caption: Set default state of the large cursor on the login screen
 default: null
 desc: |-

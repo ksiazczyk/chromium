@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Media keys default to function keys policy
+# summary: Chrome OS policy definition that makes top-row keys act as function keys by default instead of media keys.
+# ---
+
 caption: Media keys default to function keys
 default: false
 desc: |-

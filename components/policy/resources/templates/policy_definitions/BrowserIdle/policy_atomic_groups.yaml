@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserIdle atomic policy group
+# summary: Defines the BrowserIdle atomic policy group that bundles the IdleTimeout and IdleTimeoutActions policies.
+# ---
+
 BrowserIdle:
   caption: Idle Browser Actions
   policies:

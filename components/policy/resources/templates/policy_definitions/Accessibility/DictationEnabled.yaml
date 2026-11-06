@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DictationEnabled policy definition
+# summary: Chrome OS policy definition that controls whether the dictation accessibility feature is enabled, applicable per profile.
+# ---
+
 caption: Enable the dictation accessibility feature
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SelectToSpeakEnabled policy definition
+# summary: Policy definition that lets administrators force the select to speak accessibility feature on or off on Chrome OS, or leave the choice to the user.
+# ---
+
 caption: Enable select to speak
 default: null
 desc: |-

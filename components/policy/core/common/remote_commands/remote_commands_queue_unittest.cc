@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteCommandsQueue unit tests
+// summary: Unit tests for RemoteCommandsQueue covering job scheduling, observer callbacks, issued-time verification and command timeouts using mock clocks and echo jobs.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_commands_queue.h"
 
 #include <memory>

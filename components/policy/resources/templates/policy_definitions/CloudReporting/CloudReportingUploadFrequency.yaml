@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudReportingUploadFrequency policy definition
+# summary: Policy definition setting the number of hours between successive Chrome status report uploads, defaulting to every 24 hours.
+# ---
+
 caption: Frequency of cloud reporting in hours
 default: 24
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'CAPlatformIntegrationEnabled: use platform trust store certificates'
+# summary: Defines the policy controlling whether user-added TLS certificates from platform trust stores are used for server authentication.
+# ---
+
 caption: Use user-added TLS certificates from platform trust stores for server authentication
 default: true
 desc: |-

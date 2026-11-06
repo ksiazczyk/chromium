@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Manual device policy proto mappings
+# summary: Maps device policies to their corresponding fields in chrome_device_policy.proto for use by the policy code generator.
+# ---
+
 # Mapping between device policies and fields in chrome_device_policy.proto.
 AllowKioskAppControlChromeVersion: allow_kiosk_app_control_chrome_version.allow_kiosk_app_control_chrome_version
 AttestationEnabledForDevice: attestation_settings.attestation_enabled

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management backend protobuf definitions
+// summary: Defines protobuf messages and enums for device registration, policy fetch and remote commands exchanged with the device management server.
+// ---
+
 syntax = "proto2";
 
 package enterprise_management;

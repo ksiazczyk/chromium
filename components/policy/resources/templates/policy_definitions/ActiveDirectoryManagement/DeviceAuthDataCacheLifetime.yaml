@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAuthDataCacheLifetime policy definition
+# summary: Defines the deprecated device policy setting in hours how long authentication data for affiliated realms is cached.
+# ---
+
 caption: Authentication data cache lifetime
 deprecated: true
 default: 73

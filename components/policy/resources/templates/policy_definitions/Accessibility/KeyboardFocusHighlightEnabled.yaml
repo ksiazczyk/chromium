@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Keyboard focus highlighting policy
+# summary: Chrome OS policy definition that controls the keyboard focus highlighting accessibility feature.
+# ---
+
 caption: Enable the keyboard focus highlighting accessibility feature
 default: null
 desc: |-

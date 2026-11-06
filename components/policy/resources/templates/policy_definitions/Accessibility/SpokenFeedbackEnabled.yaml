@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SpokenFeedbackEnabled policy definition
+# summary: Policy definition that keeps Chrome OS spoken feedback permanently on or off, leaving it off initially but user-changeable when unset.
+# ---
+
 caption: Enable spoken feedback
 default: null
 desc: |-

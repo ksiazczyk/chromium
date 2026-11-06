@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcOpenLinksInBrowserByDefault policy definition
+# summary: ChromeOS policy definition that controls whether supported links open in the Chrome browser or in Android apps by default.
+# ---
+
 caption: Open links in Chrome browser by default
 desc: |-
   Setting the policy to False allows Android apps to capture supported links by default.

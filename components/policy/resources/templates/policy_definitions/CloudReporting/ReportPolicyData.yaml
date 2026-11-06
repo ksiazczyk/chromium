@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportPolicyData policy definition
+# summary: Policy definition controlling whether applied policy data and policy fetch times are gathered for cloud reports.
+# ---
+
 caption: Report <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> Policy Information
 default: true
 desc: |-

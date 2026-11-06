@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidEnterpriseInfo unit tests
+// summary: Unit tests for AndroidEnterpriseInfo callback queuing and servicing of device and profile owner results.
+// ---
+
 #include "components/policy/core/common/management/android_enterprise_info.h"
 
 #include <optional>

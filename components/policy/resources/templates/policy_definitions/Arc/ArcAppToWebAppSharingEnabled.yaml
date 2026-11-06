@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcAppToWebAppSharingEnabled policy
+# summary: Policy definition that enables or disables sharing text and files from Android apps to supported web apps on ChromeOS.
+# ---
+
 caption: Enable sharing from Android apps to Web apps
 default: true
 desc: |-

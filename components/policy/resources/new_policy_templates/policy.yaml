@@ -34,6 +34,12 @@
 
 
 
+# ---docerion
+# type: config
+# title: Policy definition YAML template
+# summary: Template documenting the schema of policy definition YAML files used to generate Chromium C++ code, policy templates and public policy documentation.
+# ---
+
 # A short, one-line summary of the item it applies to. This can appear
 # both in policy or group listings or on title bars of policy-setting
 # windows.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'RequiredClientCertificateForDevice: device-wide client certificates'
+# summary: Defines the device-wide policy specifying client certificates to enroll via the device management protocol, including key algorithm and renewal settings.
+# ---
+
 caption: Required device-wide Client Certificates
 desc: |-
   Specifies device-wide client certificates that should be enrolled using the

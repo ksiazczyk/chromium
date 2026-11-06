@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoclickEnabled policy definition
+# summary: ChromeOS policy that controls the autoclick accessibility feature, which clicks without physically pressing the mouse or touchpad.
+# ---
+
 caption: Enable the autoclick accessibility feature
 default: null
 desc: |-

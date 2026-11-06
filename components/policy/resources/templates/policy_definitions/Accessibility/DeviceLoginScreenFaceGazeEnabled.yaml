@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenFaceGazeEnabled policy
+# summary: Defines the ChromeOS device policy that enables or disables face control for hands-free cursor and gesture control on the login screen.
+# ---
+
 caption: Enable face control on the login screen
 default: null
 desc: |-

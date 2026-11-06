@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote commands invalidator unit tests
+// summary: Unit tests for RemoteCommandsInvalidator covering registration, invalidation firing and remote command fetch behavior using fake listeners and mock cloud policy clients.
+// ---
+
 #include "components/policy/core/common/remote_commands/remote_commands_invalidator.h"
 
 #include <memory>

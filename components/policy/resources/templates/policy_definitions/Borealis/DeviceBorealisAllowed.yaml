@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceBorealisAllowed policy definition
+# summary: Deprecated ChromeOS device policy definition that controls whether Borealis is available on a device, superseded by UserBorealisAllowed.
+# ---
+
 caption: Allow devices to use <ph name="BOREALIS_NAME">Borealis</ph> on <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>
 default: true

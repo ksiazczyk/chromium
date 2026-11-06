@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserSwitcherUseIeSitelist policy definition
+# summary: Defines the Chrome policy controlling whether Internet Explorer's SiteList enterprise mode rules are used as a source for Legacy Browser Support browser switching.
+# ---
+
 caption: Use Internet Explorer's SiteList policy for Legacy Browser Support.
 default: false
 desc: |-

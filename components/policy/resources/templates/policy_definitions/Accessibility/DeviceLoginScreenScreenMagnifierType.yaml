@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenScreenMagnifierType policy definition
+# summary: Chrome OS policy definition that sets the login screen screen magnifier type (None, Full-screen, or Docked) as a device-only integer enum policy.
+# ---
+
 caption: Set the screen magnifier type on the login screen
 default: null
 desc: |-

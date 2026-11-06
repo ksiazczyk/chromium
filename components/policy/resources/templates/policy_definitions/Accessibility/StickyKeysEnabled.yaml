@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: StickyKeysEnabled policy definition
+# summary: Policy definition that keeps Chrome OS sticky keys permanently on or off, leaving it off initially but user-changeable when unset.
+# ---
+
 caption: Enable sticky keys
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Alternative browser launch delay policy
+# summary: Policy definition setting a delay in milliseconds before Chrome opens an alternative browser.
+# ---
+
 caption: Delay before launching alternative browser (milliseconds)
 default: 0
 desc: |-

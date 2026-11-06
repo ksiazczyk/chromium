@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenStickyKeysEnabled policy definition
+# summary: Chrome OS policy definition that controls whether the sticky keys accessibility feature is enabled on the login screen.
+# ---
+
 caption: Enable sticky keys on the login screen
 default: null
 desc: |-

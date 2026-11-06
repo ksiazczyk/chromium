@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing remote commands server declaration
+// summary: Declares TestingRemoteCommandsServer, a queue-like fake server for remote command service tests that issues commands and verifies reported results.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_REMOTE_COMMANDS_TEST_SUPPORT_TESTING_REMOTE_COMMANDS_SERVER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_REMOTE_COMMANDS_TEST_SUPPORT_TESTING_REMOTE_COMMANDS_SERVER_H_
 

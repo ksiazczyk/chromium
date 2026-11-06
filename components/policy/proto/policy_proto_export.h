@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy proto export macros
+// summary: Header defining POLICY_PROTO_EXPORT and related macros controlling symbol visibility for the policy proto component builds.
+// ---
+
 #ifndef COMPONENTS_POLICY_PROTO_POLICY_PROTO_EXPORT_H_
 #define COMPONENTS_POLICY_PROTO_POLICY_PROTO_EXPORT_H_
 

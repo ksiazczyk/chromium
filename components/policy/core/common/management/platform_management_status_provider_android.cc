@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android management status provider
+// summary: Android status provider that fetches device and profile owner state via AndroidEnterpriseInfo and maps it to a cloud authority.
+// ---
+
 #include "components/policy/core/common/management/platform_management_status_provider_android.h"
 
 #include "base/functional/bind.h"

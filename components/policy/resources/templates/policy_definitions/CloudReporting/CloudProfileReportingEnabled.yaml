@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudProfileReportingEnabled policy definition
+# summary: Policy definition enabling cloud reporting of profile state and usage information for managed profiles to the Google Admin console.
+# ---
+
 caption: Enable <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> cloud reporting for managed profile
 default: false
 desc: |-

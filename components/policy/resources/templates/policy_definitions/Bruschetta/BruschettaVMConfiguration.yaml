@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Bruschetta VM configuration policy
+# summary: Policy template mapping configuration IDs to Bruschetta VM settings, covering enabled state, installer images, UEFI data, and vTPM access.
+# ---
+
 owners:
 - sidereal@google.com
 - file://chrome/browser/ash/guest_os/OWNERS

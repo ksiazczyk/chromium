@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Attestation policy atomic group
+# summary: Groups the attestation-related policies into the Attestation atomic policy group.
+# ---
+
 Attestation:
   caption: Attestation
   policies:

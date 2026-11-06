@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CastReceiverEnabled policy definition
+# summary: Defines the deprecated CastReceiverEnabled policy that controls whether users may cast content to the device on ChromeOS.
+# ---
+
 caption: Enable casting content to the device
 default_for_enterprise_users: false
 deprecated: true

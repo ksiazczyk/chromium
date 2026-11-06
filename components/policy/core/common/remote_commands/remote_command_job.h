@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandJob class declaration
+// summary: Declares the RemoteCommandJob base class with its status and result enums, which concrete remote command implementations inherit to execute server-issued commands.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_REMOTE_COMMANDS_REMOTE_COMMAND_JOB_H_
 #define COMPONENTS_POLICY_CORE_COMMON_REMOTE_COMMANDS_REMOTE_COMMAND_JOB_H_
 

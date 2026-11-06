@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screen magnifier type policy
+# summary: 'Chrome OS policy definition that selects the screen magnifier type: none, full-screen, or docked.'
+# ---
+
 caption: Set screen magnifier type
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LegacyTechReportAllowlist policy definition
+# summary: Policy definition listing URL prefixes for which legacy technology usage is reported, using URLBlocklist-style patterns without wildcards.
+# ---
+
 caption: Specifies URLs that allow legacy technology report
 default: []
 desc: |-

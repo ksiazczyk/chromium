@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SaasUsageReportingDomainUrlsForBrowsers policy definition
+# summary: Defines the policy listing SaaS domains whose visits and content transfers are reported for managed browsers, populated by the cloud policy infrastructure.
+# ---
+
 caption: Specifies a list of SaaS domains that will be reported for managed browser
 desc: |-
   This policy controls <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> reporting of SaaS domain visits and content transfers for a managed browser.

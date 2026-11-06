@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcEnabled policy
+# summary: Policy definition that turns the ARC Android container on or off for enterprise users on ChromeOS.
+# ---
+
 caption: Enable ARC
 default: false
 default_for_enterprise_users: false

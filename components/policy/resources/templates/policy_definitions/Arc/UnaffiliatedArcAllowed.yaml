@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UnaffiliatedArcAllowed policy definition
+# summary: ChromeOS device policy that allows or blocks unaffiliated users from using ARC, applied only while ARC is not running.
+# ---
+
 caption: Allow unaffiliated users to use ARC
 default: true
 desc: |-

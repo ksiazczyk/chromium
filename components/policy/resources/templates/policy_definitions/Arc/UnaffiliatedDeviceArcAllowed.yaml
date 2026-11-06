@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UnaffiliatedDeviceArcAllowed policy definition
+# summary: ChromeOS policy that allows or blocks managed users from using ARC on unaffiliated devices, respecting other ARC restrictions.
+# ---
+
 caption: Allow enterprise users to use ARC on unaffiliated devices.
 desc:  |-
   Unless ARC is turned off by other means, then setting the policy to True or leaving it unset lets managed users use ARC on unaffiliated devices. Setting the policy to False means managed users may not use ARC on unaffiliated devices.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ArcBackupRestoreServiceEnabled policy
+# summary: Policy definition that controls whether Android backup and restore is enabled, disabled, or left under user control during ChromeOS setup.
+# ---
+
 caption: Control Android backup and restore service
 default: 0
 default_for_enterprise_users: 0

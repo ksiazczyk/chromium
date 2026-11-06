@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Keep last Chrome tab open policy
+# summary: Policy definition controlling whether Chrome keeps at least one tab open or exits completely after switching browsers.
+# ---
+
 caption: Keep last tab open in Chrome.
 default: true
 desc: |-

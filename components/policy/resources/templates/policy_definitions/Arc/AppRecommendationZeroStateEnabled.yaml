@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AppRecommendationZeroStateEnabled policy (deprecated)
+# summary: Deprecated ChromeOS policy definition that controlled app recommendations in the launcher's zero-state search box; the feature was removed in Chrome 100.
+# ---
+
 caption: Enable App Recommendations in Zero State of Search Box
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: BrowserSwitcherUrlList policy definition
+# summary: Defines the Chrome policy listing websites that should open in an alternative browser under Legacy Browser Support.
+# ---
+
 caption: Websites to open in alternative browser
 desc: |-
   Setting the policy controls the list of websites to open in an alternative browser. Each item is treated as a rule for something to open in an alternative browser. <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> uses those rules when choosing if a URL should open in an alternative browser. When the <ph name="IE_PRODUCT_NAME">Internet Explorer®</ph> add-in is on, <ph name="IE_PRODUCT_NAME">Internet Explorer®</ph> switches back to <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> when the rules don't match. If rules contradict each other, <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> uses the most specific rule.

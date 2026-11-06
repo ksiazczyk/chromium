@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidEnterpriseInfo class declaration
+// summary: Declares the AndroidEnterpriseInfo singleton that connects native calls to the Java EnterpriseInfo class for Android managed state.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_MANAGEMENT_ANDROID_ENTERPRISE_INFO_H_
 #define COMPONENTS_POLICY_CORE_COMMON_MANAGEMENT_ANDROID_ENTERPRISE_INFO_H_
 

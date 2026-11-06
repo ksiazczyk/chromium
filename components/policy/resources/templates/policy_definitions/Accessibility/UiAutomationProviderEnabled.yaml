@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UiAutomationProviderEnabled policy definition
+# summary: Deprecated Windows policy that enables or disables Chrome's UI Automation accessibility provider during a transition period ending in Chrome 146.
+# ---
+
 owners:
 - grt@chromium.org
 - file://ui/accessibility/OWNERS

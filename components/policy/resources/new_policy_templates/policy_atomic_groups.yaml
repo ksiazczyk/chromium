@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Atomic policy groups template
+# summary: Template defining atomic policy groups whose policies must share the same value source, with only the highest-priority source being applied.
+# ---
+
 # Policies from an atomic group need to have their values coming from the same
 # source. If policies from an atomic group come from multiple sources, only the
 # policies coming from the same source will be applied. The source with the

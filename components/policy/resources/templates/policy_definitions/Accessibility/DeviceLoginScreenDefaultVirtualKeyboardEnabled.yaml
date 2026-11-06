@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenDefaultVirtualKeyboardEnabled policy
+# summary: Deprecated ChromeOS device policy setting the default on-screen keyboard state at sign-in, replaced by DeviceLoginScreenVirtualKeyboardEnabled.
+# ---
+
 caption: Set default state of the on-screen keyboard on the login screen
 default: null
 deprecated: true

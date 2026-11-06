@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Class Tools network restriction policy definition
+# summary: Defines the ChromeOS policy requiring users' devices to be on a managed network in order to join a Class Tools class.
+# ---
+
 caption: Configure <ph name="CLASS_TOOLS_NAME">Class Tools</ph> network restriction
 default: true
 desc: |-
