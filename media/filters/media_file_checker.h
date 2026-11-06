@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media file checker class declaration
+// summary: Declares MediaFileChecker, which partially decodes an opened file to check whether it is a valid media file.
+// ---
+
 #ifndef MEDIA_FILTERS_MEDIA_FILE_CHECKER_H_
 #define MEDIA_FILTERS_MEDIA_FILE_CHECKER_H_
 

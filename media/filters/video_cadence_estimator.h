@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video cadence estimator header
+// summary: Declares VideoCadenceEstimator, which estimates render cadence patterns to keep displayed frame durations uniform across common frame and refresh rates.
+// ---
+
 #ifndef MEDIA_FILTERS_VIDEO_CADENCE_ESTIMATOR_H_
 #define MEDIA_FILTERS_VIDEO_CADENCE_ESTIMATOR_H_
 

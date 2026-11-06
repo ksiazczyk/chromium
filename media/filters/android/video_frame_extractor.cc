@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: VideoFrameExtractor implementation
+// summary: Implements synchronous extraction of a video key frame from media data using FFmpeg, applying bitstream converters for H264, HEVC, and AAC packets.
+// ---
+
 #include "media/filters/android/video_frame_extractor.h"
 
 #include "base/functional/bind.h"

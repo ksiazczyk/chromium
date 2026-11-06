@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video renderer algorithm implementation
+// summary: Implements frame selection logic for smooth video playback using cadence, deadline coverage, and drift-based rendering decisions.
+// ---
+
 #include "media/filters/video_renderer_algorithm.h"
 
 #include <algorithm>

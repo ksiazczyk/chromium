@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FFmpegDemuxer unit tests
+// summary: Unit tests for FFmpegDemuxer covering stream creation, encrypted media init data, and demuxer stream reading behavior.
+// ---
+
 #include "media/filters/ffmpeg_demuxer.h"
 
 #include <stddef.h>

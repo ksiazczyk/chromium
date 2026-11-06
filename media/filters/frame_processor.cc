@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame processor implementation
+// summary: Implements the Media Source Extensions coded frame processing algorithm, managing per-track buffers, sequence and segments append modes, and timestamp offsets.
+// ---
+
 #include "media/filters/frame_processor.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioToolbox audio decoder implementation
+// summary: Implements AudioToolboxAudioDecoder, using macOS AudioToolbox to decode xHE-AAC, AC3 and E-AC3 audio into raw audio buffers.
+// ---
+
 #include "media/filters/mac/audio_toolbox_audio_decoder.h"
 
 #include <algorithm>

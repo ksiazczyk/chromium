@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioClock implementation
+// summary: Implements AudioClock, which tracks buffered audio frames and hardware delay to estimate current media time during audio playback.
+// ---
+
 #include "media/filters/audio_clock.h"
 
 #include <stdint.h>

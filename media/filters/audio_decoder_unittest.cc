@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio decoder unit tests
+// summary: Parameterized tests decoding audio files across codecs and platforms, checking decoded output hashes and timestamps for FFmpeg, Opus, Symphonia, and platform decoders.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

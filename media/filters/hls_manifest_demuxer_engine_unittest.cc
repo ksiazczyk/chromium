@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS manifest demuxer engine unit tests
+// summary: Unit tests for the HLS manifest demuxer engine using sample media, live, and multivariant playlists, including codec and seek cases.
+// ---
+
 #include "media/filters/hls_manifest_demuxer_engine.h"
 
 #include <memory>

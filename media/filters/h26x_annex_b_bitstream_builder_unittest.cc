@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H26x Annex B bitstream builder unit tests
+// summary: Parameterized unit tests verifying bit appending, flushing, and buffer size accounting of the H26x Annex B bitstream builder against a fixed test pattern.
+// ---
+
 #include "media/filters/h26x_annex_b_bitstream_builder.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory data source implementation
+// summary: Implements an in-memory DataSource that serves byte spans to the media pipeline with bounds-checked reads and stop handling.
+// ---
+
 #include "media/filters/memory_data_source.h"
 
 #include <algorithm>

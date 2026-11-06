@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL protocol class declaration
+// summary: Declares InMemoryUrlProtocol, a simple FFmpegURLProtocol that reads from a caller-provided buffer without copying it.
+// ---
+
 #ifndef MEDIA_FILTERS_IN_MEMORY_URL_PROTOCOL_H_
 #define MEDIA_FILTERS_IN_MEMORY_URL_PROTOCOL_H_
 

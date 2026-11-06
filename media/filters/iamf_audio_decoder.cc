@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IAMF audio decoder
+// summary: Implements an IAMF audio decoder on top of the iamf_tools library, handling initialization, decoding, and usage metrics.
+// ---
+
 #include "media/filters/iamf_audio_decoder.h"
 
 #include <cstdint>

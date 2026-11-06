@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlockingUrlProtocol unit tests
+// summary: Unit tests for BlockingUrlProtocol verifying reads, position seeking, size queries, streaming flags and error propagation over a file data source.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

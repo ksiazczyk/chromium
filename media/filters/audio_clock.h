@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioClock class declaration
+// summary: Declares AudioClock, a model of buffered audio in the playback pipeline used to estimate media timestamps and wall clock delay across playback rates.
+// ---
+
 #ifndef MEDIA_FILTERS_AUDIO_CLOCK_H_
 #define MEDIA_FILTERS_AUDIO_CLOCK_H_
 

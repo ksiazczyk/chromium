@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decrypting demuxer stream unit tests
+// summary: Unit tests for DecryptingDemuxerStream covering audio and video streams, encrypted and clear buffers, and decryptor interactions with mocks.
+// ---
+
 #include "media/filters/decrypting_demuxer_stream.h"
 
 #include <stdint.h>

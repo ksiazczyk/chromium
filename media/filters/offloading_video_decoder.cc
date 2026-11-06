@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offloading video decoder implementation
+// summary: Implements a VideoDecoder wrapper that offloads software decoding to a thread pool for large or supported video configurations.
+// ---
+
 #include "media/filters/offloading_video_decoder.h"
 
 #include <algorithm>

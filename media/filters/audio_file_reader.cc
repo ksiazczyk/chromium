@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFileReader implementation
+// summary: Implements AudioFileReader, which demuxes and decodes audio files through FFmpeg, Opus, or Symphonia decoders into floating point PCM audio buses.
+// ---
+
 #include "media/filters/audio_file_reader.h"
 
 #include <stddef.h>

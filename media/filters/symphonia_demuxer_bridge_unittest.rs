@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Symphonia demuxer bridge unit tests
+// summary: Rust unit tests verifying codec parameter mapping, track info conversion, and demuxer initialization status handling in the Symphonia demuxer bridge.
+// ---
+
 chromium::import! {
     "//media/filters:symphonia_demuxer_bridge";
 }

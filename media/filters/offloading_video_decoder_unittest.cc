@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offloading video decoder unit tests
+// summary: Unit tests verifying OffloadingVideoDecoder offloading behavior, callback threading, and cancellation using mock decoders.
+// ---
+
 #include "media/filters/offloading_video_decoder.h"
 
 #include "base/functional/bind.h"

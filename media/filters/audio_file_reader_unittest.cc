@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioFileReader unit tests
+// summary: Unit tests verifying AudioFileReader demuxing and decoding against expected audio hashes, frame counts, and packet consistency across runs.
+// ---
+
 #include "media/filters/audio_file_reader.h"
 
 #include <memory>

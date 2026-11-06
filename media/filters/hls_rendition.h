@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition interfaces
+// summary: Declares the HlsRendition and HlsRenditionHost interfaces for playback state checks, seeking, playlist updates, and live stream control.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_RENDITION_H_
 #define MEDIA_FILTERS_HLS_RENDITION_H_
 

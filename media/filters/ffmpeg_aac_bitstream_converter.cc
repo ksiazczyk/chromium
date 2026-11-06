@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg AAC bitstream converter implementation
+// summary: Implements ADTS header generation and packet conversion for AAC bitstreams handled through FFmpeg.
+// ---
+
 #include "media/filters/ffmpeg_aac_bitstream_converter.h"
 
 #include <algorithm>

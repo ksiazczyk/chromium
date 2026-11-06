@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioClock unit tests
+// summary: Unit tests verifying AudioClock timestamp tracking, playback rate handling, and compensation for suspended writes.
+// ---
+
 #include "media/filters/audio_clock.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SourceBufferStream unit tests
+// summary: Unit tests covering SourceBufferStream append, removal, garbage collection, seeking and media log behavior for audio and video streams.
+// ---
+
 #include "media/filters/source_buffer_stream.h"
 
 #include <stddef.h>

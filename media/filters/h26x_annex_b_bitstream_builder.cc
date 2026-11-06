@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H26x Annex B bitstream builder implementation
+// summary: Implements construction of raw H.264/H.265 Annex B bitstream buffers, including bit appending, Exp-Golomb coding, and emulation prevention byte insertion.
+// ---
+
 #include "media/filters/h26x_annex_b_bitstream_builder.h"
 
 #include "base/bits.h"

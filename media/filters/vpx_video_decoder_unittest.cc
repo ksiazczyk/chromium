@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VpxVideoDecoder unit tests
+// summary: Unit tests covering initialization, single and multi-frame decoding, reset, and end-of-stream behavior of the VpxVideoDecoder.
+// ---
+
 #include "media/filters/vpx_video_decoder.h"
 
 #include <memory>

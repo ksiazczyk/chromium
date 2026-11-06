@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypting demuxer stream implementation
+// summary: Implements DecryptingDemuxerStream, which wraps an encrypted demuxer stream and decrypts buffers through a CDM decryptor to present a clear stream.
+// ---
+
 #include "media/filters/decrypting_demuxer_stream.h"
 
 #include "base/functional/bind.h"

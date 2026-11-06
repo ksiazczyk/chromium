@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File data source header
+// summary: Declares FileDataSource, a basic data source that treats a URL as a file path and reads data from the file system for the media pipeline.
+// ---
+
 #ifndef MEDIA_FILTERS_FILE_DATA_SOURCE_H_
 #define MEDIA_FILTERS_FILE_DATA_SOURCE_H_
 

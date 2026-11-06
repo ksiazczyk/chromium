@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypting audio decoder declaration
+// summary: Declares DecryptingAudioDecoder, an AudioDecoder that decrypts and decodes encrypted audio through a Decryptor with trampolined callbacks for thread safety.
+// ---
+
 #ifndef MEDIA_FILTERS_DECRYPTING_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_DECRYPTING_AUDIO_DECODER_H_
 

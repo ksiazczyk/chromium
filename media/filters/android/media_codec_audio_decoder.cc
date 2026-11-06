@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecAudioDecoder implementation
+// summary: Implements Android MediaCodec-based audio decoding, handling codec support checks, encrypted streams, passthrough formats, and codec lifecycle via MediaCodecLoop.
+// ---
+
 #include "media/filters/android/media_codec_audio_decoder.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderSelector header
+// summary: Declares the DecoderSelector template that builds, initializes and falls back between decoders for a DemuxerStream, with optional priority-based ordering.
+// ---
+
 #ifndef MEDIA_FILTERS_DECODER_SELECTOR_H_
 #define MEDIA_FILTERS_DECODER_SELECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpegGlue implementation
+// summary: Implements FFmpegGlue, which proxies FFmpeg read and seek requests to Chrome's data structures via a custom AVIO context and reports detected container metrics.
+// ---
+
 #include "media/filters/ffmpeg_glue.h"
 
 #include <string_view>

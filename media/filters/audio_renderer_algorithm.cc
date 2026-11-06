@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioRendererAlgorithm implementation
+// summary: Implements the WSOLA-based time stretching algorithm that adjusts audio playback rate while filling renderer buffers.
+// ---
+
 #include "media/filters/audio_renderer_algorithm.h"
 
 #include <algorithm>

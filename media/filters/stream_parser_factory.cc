@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream parser factory implementation
+// summary: Creates stream parsers for supported MIME types and codec lists, mapping codec strings to parsers for WebM, MP4, MPEG, MP2T and WebCodecs.
+// ---
+
 #include "media/filters/stream_parser_factory.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus audio decoder implementation
+// summary: Implements an audio decoder for Opus streams using libopus, including extra data parsing and channel layout remapping.
+// ---
+
 #include "media/filters/opus_audio_decoder.h"
 
 #include <stddef.h>

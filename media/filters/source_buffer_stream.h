@@ -9,6 +9,12 @@
 // order though not necessarily the same as presentation order within GOPs of
 // out-of-order codecs.
 
+// ---docerion
+// type: source
+// title: SourceBufferStream class declaration
+// summary: Declares SourceBufferStream, a data structure storing media buffers in ranges with append, remove, garbage collection and seek support for MSE playback.
+// ---
+
 #ifndef MEDIA_FILTERS_SOURCE_BUFFER_STREAM_H_
 #define MEDIA_FILTERS_SOURCE_BUFFER_STREAM_H_
 

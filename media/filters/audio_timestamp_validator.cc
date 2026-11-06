@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTimestampValidator implementation
+// summary: Implements AudioTimestampValidator, which monitors encoded audio buffer timestamps for gaps that could cause AV sync drift and logs warnings via MediaLog.
+// ---
+
 #include "media/filters/audio_timestamp_validator.h"
 
 #include <memory>

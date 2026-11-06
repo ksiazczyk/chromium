@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingUrlProtocol implementation
+// summary: Implements BlockingUrlProtocol, which adapts the asynchronous DataSource read API to a blocking FFmpegURLProtocol with abort and error handling.
+// ---
+
 #include "media/filters/blocking_url_protocol.h"
 
 #include <stddef.h>

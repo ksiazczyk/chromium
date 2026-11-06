@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame processor header
+// summary: Declares FrameProcessor, a helper implementing the MSE coded frame processing algorithm with track buffer management and append window handling.
+// ---
+
 #ifndef MEDIA_FILTERS_FRAME_PROCESSOR_H_
 #define MEDIA_FILTERS_FRAME_PROCESSOR_H_
 

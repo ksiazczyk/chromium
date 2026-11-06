@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IAMF audio decoder unit tests
+// summary: Unit tests for IamfAudioDecoder covering initialization, decoding status, and channel layout conversion using sample IAMF extra data.
+// ---
+
 #include "media/filters/iamf_audio_decoder.h"
 
 #include <array>

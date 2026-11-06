@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WSOLA internals implementation
+// summary: Implements WSOLA audio time-stretching helpers with SSE, AVX2, and NEON optimized dot products, energy computation, interpolation, and similarity search routines.
+// ---
+
 #include "media/filters/wsola_internals.h"
 
 #include <algorithm>

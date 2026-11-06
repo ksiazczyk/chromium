@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough DTS audio decoder implementation
+// summary: Implements a passthrough audio decoder that encapsulates DTS frames in IEC61937 format without decoding them.
+// ---
+
 #include "media/filters/passthrough_dts_audio_decoder.h"
 
 #include "base/task/bind_post_task.h"

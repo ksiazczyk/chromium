@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 to Annex B bitstream converter unit tests
+// summary: Unit tests verifying conversion of H.264 bitstreams from MP4 format to Annex B bytestream format, including header parsing and failure cases such as buffer overflow.
+// ---
+
 #include "media/filters/h264_to_annex_b_bitstream_converter.h"
 
 #include <stdint.h>

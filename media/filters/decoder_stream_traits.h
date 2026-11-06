@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder stream traits declarations
+// summary: Declares DecoderStreamTraits specializations for audio and video streams, defining decoder, output, and config types plus decode lifecycle hooks.
+// ---
+
 #ifndef MEDIA_FILTERS_DECODER_STREAM_TRAITS_H_
 #define MEDIA_FILTERS_DECODER_STREAM_TRAITS_H_
 

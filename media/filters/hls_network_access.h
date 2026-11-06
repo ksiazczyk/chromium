@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS network access interface
+// summary: Declares the HlsNetworkAccess interface that HLS renditions use to read manifests and media segments and abort pending reads.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_NETWORK_ACCESS_H_
 #define MEDIA_FILTERS_HLS_NETWORK_ACCESS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypting demuxer stream declaration
+// summary: Declares DecryptingDemuxerStream, a DemuxerStream wrapper that converts an encrypted stream into a clear one, including its state machine documentation.
+// ---
+
 #ifndef MEDIA_FILTERS_DECRYPTING_DEMUXER_STREAM_H_
 #define MEDIA_FILTERS_DECRYPTING_DEMUXER_STREAM_H_
 

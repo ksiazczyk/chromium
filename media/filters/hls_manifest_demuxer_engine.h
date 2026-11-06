@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS manifest demuxer engine header
+// summary: Declares HlsManifestDemuxerEngine, the ManifestDemuxer engine that uses HLS parsers and renditions to fetch playlists and segments.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_MANIFEST_DEMUXER_ENGINE_H_
 #define MEDIA_FILTERS_HLS_MANIFEST_DEMUXER_ENGINE_H_
 

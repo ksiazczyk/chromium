@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media file checker implementation
+// summary: Implements MediaFileChecker, which decodes a file with FFmpeg for up to a limited time to determine whether it is a valid media file.
+// ---
+
 #include "media/filters/media_file_checker.h"
 
 #include <stddef.h>

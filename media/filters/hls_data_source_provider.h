@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS data source provider interface
+// summary: Defines the HlsDataSourceProvider interface and HlsDataSourceStream class for fetching HLS segment data by URI and byte range across media and main threads.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_DATA_SOURCE_PROVIDER_H_
 #define MEDIA_FILTERS_HLS_DATA_SOURCE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS data source stream unit tests
+// summary: Unit tests for HlsDataSourceStream covering stream properties, writes and clears, and prepending init segment data.
+// ---
+
 #include "media/filters/hls_data_source_provider.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

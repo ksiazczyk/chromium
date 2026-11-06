@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media file checker unit tests
+// summary: Unit tests verifying MediaFileChecker validates media files such as video, audio, and MP3 within a short time limit.
+// ---
+
 #include "media/filters/media_file_checker.h"
 
 #include <utility>

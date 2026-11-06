@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypting audio decoder implementation
+// summary: Implements a decryptor-based audio decoder that decrypts and decodes encrypted audio buffers via a CDM decryptor while keeping timestamps in sync.
+// ---
+
 #include "media/filters/decrypting_audio_decoder.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory data source unit tests
+// summary: Unit tests covering MemoryDataSource reads, invalid positions, partial reads, stop behavior, and size reporting.
+// ---
+
 #include "media/filters/memory_data_source.h"
 
 #include <algorithm>

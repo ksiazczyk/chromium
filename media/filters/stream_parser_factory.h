@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamParserFactory interface
+// summary: Declares the StreamParserFactory API for checking MIME type and codec support and creating stream parsers, including relaxed parsers for HLS.
+// ---
+
 #ifndef MEDIA_FILTERS_STREAM_PARSER_FACTORY_H_
 #define MEDIA_FILTERS_STREAM_PARSER_FACTORY_H_
 

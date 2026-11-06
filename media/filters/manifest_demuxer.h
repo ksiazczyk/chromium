@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest demuxer class declaration
+// summary: Declares ManifestDemuxer and the ManifestDemuxerEngineHost interface that engines use to add roles, append data, and control the internal ChunkDemuxer.
+// ---
+
 #ifndef MEDIA_FILTERS_MANIFEST_DEMUXER_H_
 #define MEDIA_FILTERS_MANIFEST_DEMUXER_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FFmpegVideoDecoder implementation
+// summary: Implements FFmpegVideoDecoder, a software video decoder for H.264 that decodes FFmpeg packets into VideoFrames with a configurable thread count.
+// ---
+
 #include "media/filters/ffmpeg_video_decoder.h"
 
 #include <stddef.h>

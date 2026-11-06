@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipeline controller implementation
+// summary: Implements PipelineController, which wraps the media pipeline to serialize start, seek, suspend, and resume operations and dispatch pending operations when possible.
+// ---
+
 #include "media/filters/pipeline_controller.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offloading video decoder header
+// summary: Declares OffloadableVideoDecoder and OffloadingVideoDecoder, which run decoders on a separate task pool to avoid blocking the media thread.
+// ---
+
 #ifndef MEDIA_FILTERS_OFFLOADING_VIDEO_DECODER_H_
 #define MEDIA_FILTERS_OFFLOADING_VIDEO_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symphonia audio decoder implementation
+// summary: Implements an audio decoder that uses the Symphonia Rust library via FFI to decode FLAC, MP3, PCM and Vorbis streams in the media pipeline.
+// ---
+
 #include "media/filters/symphonia_audio_decoder.h"
 
 #include <stdint.h>

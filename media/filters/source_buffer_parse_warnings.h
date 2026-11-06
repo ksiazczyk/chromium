@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source buffer parse warnings
+// summary: Defines the SourceBufferParseWarning enum and its callback type used for telemetry reporting of non-fatal SourceBuffer parsing and buffering warnings.
+// ---
+
 #ifndef MEDIA_FILTERS_SOURCE_BUFFER_PARSE_WARNINGS_H_
 #define MEDIA_FILTERS_SOURCE_BUFFER_PARSE_WARNINGS_H_
 

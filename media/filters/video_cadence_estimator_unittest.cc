@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video cadence estimator unit tests
+// summary: GTest unit tests verifying cadence vector construction for various frame rates, render intervals, deviations, and drift limits.
+// ---
+
 #include "media/filters/video_cadence_estimator.h"
 
 #include <math.h>

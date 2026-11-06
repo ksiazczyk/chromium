@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameExtractor class header
+// summary: Declares VideoFrameExtractor, which demuxes one encoded video key frame with FFmpeg and returns it with its decoder configuration for later decoding.
+// ---
+
 #ifndef MEDIA_FILTERS_ANDROID_VIDEO_FRAME_EXTRACTOR_H_
 #define MEDIA_FILTERS_ANDROID_VIDEO_FRAME_EXTRACTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg demuxer implementation
+// summary: Implements the Demuxer interface using FFmpeg libavformat, handling seeking, stream enabling, and timeline offsets.
+// ---
+
 #include "media/filters/ffmpeg_demuxer.h"
 
 #include <algorithm>

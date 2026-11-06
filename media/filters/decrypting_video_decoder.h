@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingVideoDecoder header
+// summary: Declares DecryptingVideoDecoder, a VideoDecoder that uses a Decryptor to decrypt and decode encrypted video buffers on a sequenced task runner.
+// ---
+
 #ifndef MEDIA_FILTERS_DECRYPTING_VIDEO_DECODER_H_
 #define MEDIA_FILTERS_DECRYPTING_VIDEO_DECODER_H_
 

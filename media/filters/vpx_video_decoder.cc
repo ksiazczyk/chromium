@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpxVideoDecoder implementation
+// summary: Implements the libvpx-based video decoder for VP8 and VP9 content, including thread count selection, alpha plane decoding, and zero-copy VP9 frame buffer pooling.
+// ---
+
 #include "media/filters/vpx_video_decoder.h"
 
 #include <stddef.h>

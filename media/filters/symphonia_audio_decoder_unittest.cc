@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Symphonia audio decoder unit tests
+// summary: Unit tests for the Symphonia audio decoder covering packet conversion, truncated buffer handling and back-to-back decode errors with MP3 input.
+// ---
+
 #include "media/filters/symphonia_audio_decoder.h"
 
 #include <stdint.h>

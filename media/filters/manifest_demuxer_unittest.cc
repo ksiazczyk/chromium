@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest demuxer unit tests
+// summary: Unit tests for ManifestDemuxer using a mock engine to exercise initialization, seeking, and stream handling.
+// ---
+
 #include "media/filters/manifest_demuxer.h"
 
 #include <stdint.h>

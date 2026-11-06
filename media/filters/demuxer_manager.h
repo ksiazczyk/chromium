@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerManager header
+// summary: Declares DemuxerManager, which jointly manages Demuxer and DataSource lifetimes on the media thread and defines the client interface for playback events.
+// ---
+
 #ifndef MEDIA_FILTERS_DEMUXER_MANAGER_H_
 #define MEDIA_FILTERS_DEMUXER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File data source implementation
+// summary: Implements FileDataSource, a DataSource that serves media pipeline reads from a memory-mapped local file with bounds-checked access.
+// ---
+
 #include "media/filters/file_data_source.h"
 
 #include <algorithm>

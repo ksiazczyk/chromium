@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FFmpeg AAC bitstream converter unit tests
+// summary: Unit tests verifying ADTS header addition, packet data preservation, and failure cases for the AAC bitstream converter.
+// ---
+
 #include "media/filters/ffmpeg_aac_bitstream_converter.h"
 
 #include <stddef.h>

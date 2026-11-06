@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderSelector implementation
+// summary: Implements decoder selection for audio and video streams, prioritizing platform versus software decoders and handling decryption and fallback.
+// ---
+
 #include "media/filters/decoder_selector.h"
 
 #include <algorithm>

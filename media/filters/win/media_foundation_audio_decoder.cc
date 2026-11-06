@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation audio decoder implementation
+// summary: Implements the Windows Media Foundation audio decoder for Chromium, handling codecs such as AAC, AC3/EAC3, AC4 and DTS via Media Foundation transforms.
+// ---
+
 #include "media/filters/win/media_foundation_audio_decoder.h"
 
 #include <mfapi.h>

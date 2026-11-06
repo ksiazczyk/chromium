@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest demuxer implementation
+// summary: Implements ManifestDemuxer, a demuxer that drives a manifest engine such as HLS to feed and control an underlying ChunkDemuxer for manifest-based playback.
+// ---
+
 #include "media/filters/manifest_demuxer.h"
 
 #include <optional>

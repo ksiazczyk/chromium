@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS network access implementation header
+// summary: Declares HlsNetworkAccessImpl, which reads HLS manifests and media segments through a sequence-bound data source provider with security checks.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_NETWORK_ACCESS_IMPL_H_
 #define MEDIA_FILTERS_HLS_NETWORK_ACCESS_IMPL_H_
 
