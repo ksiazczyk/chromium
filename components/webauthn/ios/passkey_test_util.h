@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey test utilities header
+// summary: Declares test helpers that build test passkeys and passkey request, registration, and assertion parameter objects with default request and frame IDs.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_PASSKEY_TEST_UTIL_H_
 #define COMPONENTS_WEBAUTHN_IOS_PASSKEY_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceAuthorizationServiceImpl unit tests
+// summary: Unit tests covering key fetching, caching, ReAuth challenge responses, and primary account change handling for the device authorization service.
+// ---
+
 #include <map>
 #include <memory>
 #include <optional>

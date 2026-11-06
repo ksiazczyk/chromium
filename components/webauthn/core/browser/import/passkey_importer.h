@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyImporter class declaration
+// summary: Declares the PasskeyImporter class that validates incoming passkeys, groups conflicts and errors, and stores selected passkeys via PasskeyModel.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_PASSKEY_IMPORTER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_PASSKEY_IMPORTER_H_
 

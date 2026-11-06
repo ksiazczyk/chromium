@@ -1,0 +1,4 @@
+# Docerion header of passkey_request_parser_unittest.mm.
+type: test
+title: Passkey request parser unit tests
+summary: Unit tests verifying parsing of passkey script events, base64url handling, PRF input limits, and error cases for request parameter construction.

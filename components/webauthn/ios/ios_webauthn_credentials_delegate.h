@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS WebAuthn credentials delegate
+// summary: Declares the iOS implementation of WebAuthnCredentialsDelegate that supplies passkeys for autofill suggestions and handles passkey selection and verification state.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_IOS_WEBAUTHN_CREDENTIALS_DELEGATE_H_
 #define COMPONENTS_WEBAUTHN_IOS_IOS_WEBAUTHN_CREDENTIALS_DELEGATE_H_
 

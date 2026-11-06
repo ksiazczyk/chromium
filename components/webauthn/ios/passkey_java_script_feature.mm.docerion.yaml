@@ -1,0 +1,4 @@
+# Docerion header of passkey_java_script_feature.mm.
+type: source
+title: Passkey JavaScript feature implementation
+summary: Implements the passkey JavaScript feature, injecting feature-flag-driven script placeholders and handling attestation and assertion request resolution with metrics.

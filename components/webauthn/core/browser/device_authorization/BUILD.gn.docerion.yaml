@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for WebAuthn device authorization
+summary: Defines GN source sets for the device authorization component, including features, metrics, switches, types, test support and unit tests.

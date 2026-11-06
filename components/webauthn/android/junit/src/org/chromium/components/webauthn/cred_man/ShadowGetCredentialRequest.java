@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShadowGetCredentialRequest
+// summary: Robolectric shadow of the Android GetCredentialRequest class and its builder, storing data, origin and credential options for WebAuthn component tests.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.CredentialOption;

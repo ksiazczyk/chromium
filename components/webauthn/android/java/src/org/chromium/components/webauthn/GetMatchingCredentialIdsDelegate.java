@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetMatchingCredentialIdsDelegate
+// summary: Retrieves matching credential IDs from GMS Core for payment requests that use an allowlist.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.components.webauthn.WebauthnLogger.log;

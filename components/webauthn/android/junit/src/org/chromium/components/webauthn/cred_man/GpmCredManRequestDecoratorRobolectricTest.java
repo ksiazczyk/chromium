@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpmCredManRequestDecorator Robolectric tests
+// summary: Robolectric tests for GpmCredManRequestDecorator verifying Google Play services branding, origin, and user ID values added to create and get credential request bundles.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static com.google.common.truth.Truth.assertThat;

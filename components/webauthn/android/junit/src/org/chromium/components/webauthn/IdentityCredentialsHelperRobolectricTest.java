@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityCredentialsHelper Robolectric tests
+// summary: Robolectric tests verifying IdentityCredentialsHelper builds conditional create, get, and signal credential state requests with correct types and data.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static com.google.common.truth.Truth.assertThat;

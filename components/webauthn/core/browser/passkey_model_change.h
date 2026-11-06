@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyModelChange declaration
+// summary: Declares PasskeyModelChange, representing an individual add, update, or remove change to the passkey model.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_MODEL_CHANGE_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_MODEL_CHANGE_H_
 

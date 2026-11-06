@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn authentication context provider interface
+// summary: Interface exposing the Android context, frame, web contents, intent sender, and current request callback needed to run WebAuthn operations.
+// ---
+
 package org.chromium.components.webauthn;
 
 import android.content.Context;

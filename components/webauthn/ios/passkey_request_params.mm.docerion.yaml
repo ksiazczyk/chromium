@@ -1,0 +1,4 @@
+# Docerion header of passkey_request_params.mm.
+type: source
+title: Passkey request parameters implementation
+summary: Implements the passkey request parameter classes, including assertion and registration request params and allow-credential ID handling.

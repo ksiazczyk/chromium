@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock internal authenticator class declaration
+// summary: Declares a gmock mock of InternalAuthenticator that records calls to credential creation, assertion and matching-credential methods in tests.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_MOCK_INTERNAL_AUTHENTICATOR_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_MOCK_INTERNAL_AUTHENTICATOR_H_
 

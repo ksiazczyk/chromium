@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn JSON value conversion implementation
+// summary: Implements conversions between WebAuthn Mojo request and response structs and their JSON representations, including base64url handling and extension parsing.
+// ---
+
 #include "components/webauthn/json/value_conversions.h"
 
 #include <algorithm>

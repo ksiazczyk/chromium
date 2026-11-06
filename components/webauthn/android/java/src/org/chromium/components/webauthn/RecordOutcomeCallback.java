@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request outcome recording callback
+// summary: Callback interface for recording a metric on the outcome of a WebAuthn request.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.chromium.build.annotations.NullMarked;

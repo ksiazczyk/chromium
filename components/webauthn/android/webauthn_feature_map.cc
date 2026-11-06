@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI feature map exposing WebAuthn features to Java
+// summary: Native JNI implementation that exposes WebAuthn Android feature flags to Java through a base::android::FeatureMap.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "components/webauthn/features.h"

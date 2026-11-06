@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal authenticator implementation
+// summary: Implements the internal authenticator for trusted Chrome components such as Autofill, disabling UI and TLS checks and forwarding WebAuthn calls to AuthenticatorCommon.
+// ---
+
 #include "components/webauthn/content/browser/internal_authenticator_impl.h"
 
 #include <string>

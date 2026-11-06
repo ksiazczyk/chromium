@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey suggestion utilities header
+// summary: Declares helpers that convert passkey credentials into form suggestions, merge them with password suggestions, and format user-visible descriptions and subtitles.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_PASSKEY_SUGGESTION_UTILS_H_
 #define COMPONENTS_WEBAUTHN_IOS_PASSKEY_SUGGESTION_UTILS_H_
 

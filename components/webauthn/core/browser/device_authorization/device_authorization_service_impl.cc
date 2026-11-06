@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthorizationServiceImpl implementation
+// summary: Implements device authorization key retrieval, coordinating server fetches, cached key storage, key version validation, and platform client delegation.
+// ---
+
 #include "components/webauthn/core/browser/device_authorization/device_authorization_service_impl.h"
 
 #include <algorithm>

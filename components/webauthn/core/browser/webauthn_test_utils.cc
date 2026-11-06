@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn authenticator test utilities
+// summary: Provides shared valid and invalid origin and relying party ID test cases for testing Authenticator implementations.
+// ---
+
 #include "components/webauthn/core/browser/webauthn_test_utils.h"
 
 #include <array>

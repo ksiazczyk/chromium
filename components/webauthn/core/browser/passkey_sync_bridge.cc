@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeySyncBridge implementation
+// summary: Implements the sync bridge connecting the WEBAUTHN_CREDENTIAL sync data type to the passkey model, handling entity changes, shadow chains, and observer notifications.
+// ---
+
 #include "components/webauthn/core/browser/passkey_sync_bridge.h"
 
 #include <algorithm>

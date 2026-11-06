@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow of CreateCredentialRequest for Robolectric tests
+// summary: Robolectric shadow of android.credentials.CreateCredentialRequest and its Builder that stores type, data bundles, origin, and app info flag for use in tests.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.CreateCredentialRequest;

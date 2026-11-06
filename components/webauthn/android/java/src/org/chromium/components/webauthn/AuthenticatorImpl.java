@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the Authenticator Mojo interface
+// summary: Implements the authenticator Mojo interface, dispatching WebAuthn create and get requests and tracking pending FIDO2 credential requests on Android.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assertNonNull;

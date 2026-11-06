@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn JSON value conversion declarations
+// summary: Declares functions that serialize WebAuthn credential creation, request, and report options to JSON and parse JSON registration and authentication responses into Mojo structs.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_JSON_VALUE_CONVERSIONS_H_
 #define COMPONENTS_WEBAUTHN_JSON_VALUE_CONVERSIONS_H_
 

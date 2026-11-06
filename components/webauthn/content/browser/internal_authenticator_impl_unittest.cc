@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internal authenticator implementation unit tests
+// summary: Unit tests for InternalAuthenticatorImpl covering make credential, get assertion, and related WebAuthn operations using a virtual FIDO device factory.
+// ---
+
 #include "components/webauthn/content/browser/internal_authenticator_impl.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn Android client implementation
+// summary: Implements the embedder-set global WebAuthnClientAndroid instance and forwards Credential Manager conditional UI, UI-closed, cleanup, and password events to per-frame delegates.
+// ---
+
 #include "components/webauthn/android/webauthn_client_android.h"
 
 #include <memory>

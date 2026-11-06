@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core handler for WebAuthn Credential Manager requests on Android
+// summary: Central class that sends create, get and prepare requests to Android's Credential Manager and converts responses into WebAuthn results with metrics.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static org.chromium.build.NullUtil.assertNonNull;

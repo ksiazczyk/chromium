@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram recorder for Credential Manager WebAuthn usage
+// summary: Records histograms for Credential Manager create, prepare and get request outcomes and durations in Fido2CredentialRequest.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import androidx.annotation.IntDef;

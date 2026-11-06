@@ -1,0 +1,4 @@
+# Docerion header of passkey_controller_javascript_test.mm.
+type: test
+title: Passkey controller JavaScript tests
+summary: Tests for the passkey JavaScript feature that exercise navigator.credentials create and get flows, including conditional and error cases, via an embedded test server.

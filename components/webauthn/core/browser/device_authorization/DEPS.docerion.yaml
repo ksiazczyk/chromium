@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for device authorization
+summary: Grants the device authorization directory include access to endpoint fetcher, signin, sync, version info, Gaia and net headers.

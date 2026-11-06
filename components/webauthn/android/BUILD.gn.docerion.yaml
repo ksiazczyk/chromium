@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAuthn Android build targets
+summary: Defines JNI header generation, Java enum bindings, and the Android library build targets for the WebAuthn component.

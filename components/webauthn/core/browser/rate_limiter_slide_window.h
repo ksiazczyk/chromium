@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sliding-window rate limiter class declaration
+// summary: Declares the RateLimiterSlideWindow class, a bucket sliding-window rate limiter limiting total event size over a time window, copied from reporting::RateLimiterSlideWindow.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_RATE_LIMITER_SLIDE_WINDOW_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_RATE_LIMITER_SLIDE_WINDOW_H_
 

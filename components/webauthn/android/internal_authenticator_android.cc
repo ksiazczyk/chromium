@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android internal authenticator native implementation
+// summary: Implements the native side of the internal authenticator, forwarding makeCredential, getAssertion and related calls to the Java AuthenticatorImpl over JNI.
+// ---
+
 #include "components/webauthn/android/internal_authenticator_android.h"
 
 #include <jni.h>

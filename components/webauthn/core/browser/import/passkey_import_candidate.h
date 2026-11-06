@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyImportCandidate struct declaration
+// summary: Declares the PasskeyImportCandidate struct holding fields of a passkey awaiting import, such as RP ID, user ID, private key and large blob.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_PASSKEY_IMPORT_CANDIDATE_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_IMPORT_PASSKEY_IMPORT_CANDIDATE_H_
 

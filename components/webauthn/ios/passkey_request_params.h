@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey request parameters
+// summary: Declares parameter classes shared by passkey assertion and registration requests, carrying challenge, relying party, user verification, and PRF extension data.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_PASSKEY_REQUEST_PARAMS_H_
 #define COMPONENTS_WEBAUTHN_IOS_PASSKEY_REQUEST_PARAMS_H_
 

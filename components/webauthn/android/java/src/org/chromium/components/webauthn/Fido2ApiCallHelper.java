@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper wrapper for FIDO2 API calls
+// summary: Wraps Fido2ApiCall invocations with helper methods so GMS Core interactions can be overridden from tests.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMTG device key provider interface
+// summary: Defines the KeyedService interface that vends device keys for Credential Manager Trust Group key operations with error and operation enums.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_CMTG_DEVICE_KEY_PROVIDER_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_CMTG_DEVICE_KEY_PROVIDER_H_
 

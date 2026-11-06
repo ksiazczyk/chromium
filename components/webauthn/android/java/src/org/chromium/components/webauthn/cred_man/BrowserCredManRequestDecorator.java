@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser CredMan request decorator setting the request origin
+// summary: Decorates Credential Manager create and get requests for browser mode by setting the request origin on the builders.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static org.chromium.build.NullUtil.assertNonNull;

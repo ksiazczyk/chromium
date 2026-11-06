@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authorization keys fetcher implementation
+// summary: Implements fetching device authorization keys from the Google backend via EndpointFetcher with OAuth authentication, traffic annotation and metrics.
+// ---
+
 #include "components/webauthn/core/browser/device_authorization/device_authorization_keys_fetcher.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager delegate factory implementation
+// summary: Implements a per-WebContents factory that creates and tracks WebAuthnCredManDelegate instances per render frame and clears them on frame deletion or navigation.
+// ---
+
 #include "components/webauthn/android/webauthn_cred_man_delegate_factory.h"
 
 #include <memory>

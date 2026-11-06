@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Barrier coordinating FIDO2 and Credential Manager calls
+// summary: Waits for completion of FIDO2 and Android Credential Manager API calls in single or parallel mode, with FIDO2 results privileged on errors.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

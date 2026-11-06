@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptAuth CMTG device key provider unit tests
+// summary: Tests fetching and creating CMTG wrapper keys, covering success, network, parse, and access token error paths.
+// ---
+
 #include "components/webauthn/core/browser/cryptauth_cmtg_device_key_provider.h"
 
 #include <cstdint>

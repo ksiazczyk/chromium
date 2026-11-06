@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShadowGetCredentialException
+// summary: Robolectric shadow of the Android Credential Manager GetCredentialException that records the exception type for use in WebAuthn component tests.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.GetCredentialException;

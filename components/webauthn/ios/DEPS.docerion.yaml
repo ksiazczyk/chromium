@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the iOS WebAuthn passkey directory
+summary: Defines allowed include paths for this component, with an extra rule for unit test files.

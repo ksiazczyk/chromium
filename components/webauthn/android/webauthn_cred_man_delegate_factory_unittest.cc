@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebAuthn credential manager delegate factory
+// summary: Unit tests verifying that the WebAuthnCredManDelegateFactory returns the same delegate per RenderFrameHost, different delegates for different frames, and no delegate without a client.
+// ---
+
 #include "components/webauthn/android/webauthn_cred_man_delegate_factory.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyModel UserEntity implementation
+// summary: Implements the constructor and destructor of PasskeyModel::UserEntity, the user entity passed by the relying party during passkey registration.
+// ---
+
 #include "components/webauthn/core/browser/passkey_model.h"
 
 namespace webauthn {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fido2CredentialRequest JNI JSON conversion
+// summary: Implements JNI helpers that convert WebAuthn Mojo request and response objects between serialized form and JSON for Java code.
+// ---
+
 #include <jni.h>
 
 #include <optional>

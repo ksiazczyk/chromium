@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decorator adding Google Password Manager values to CredMan requests
+// summary: Decorates Credential Manager requests with Google Password Manager branding, channel and Chrome-specific extras to theme the CredMan UI.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static org.chromium.build.NullUtil.assertNonNull;

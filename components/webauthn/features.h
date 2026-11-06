@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn feature flag declarations
+// summary: Declares the exported WebAuthn feature flags and parameters, such as Android CredMan dev mode, incognito conditional create restrictions and GPM passkey recency tolerance.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_FEATURES_H_
 #define COMPONENTS_WEBAUTHN_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock device authorization service declaration
+// summary: Declares a gmock mock of DeviceAuthorizationService with stubbed key fetching methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_DEVICE_AUTHORIZATION_MOCK_DEVICE_AUTHORIZATION_SERVICE_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_DEVICE_AUTHORIZATION_MOCK_DEVICE_AUTHORIZATION_SERVICE_H_
 

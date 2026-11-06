@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sliding-window rate limiter implementation
+// summary: Implements the bucket sliding-window rate limiter that admits events only while their total size stays within a limit over a rolling time window.
+// ---
+
 #include "components/webauthn/core/browser/rate_limiter_slide_window.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn common utilities declarations
+// summary: Declares the base64url encoding helper shared by WebAuthn core browser code.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_COMMON_UTILS_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_COMMON_UTILS_H_
 

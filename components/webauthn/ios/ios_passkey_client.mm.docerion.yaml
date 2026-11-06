@@ -1,0 +1,4 @@
+# Docerion header of ios_passkey_client.mm.
+type: source
+title: IOSPasskeyClient RequestInfo implementation
+summary: Implements the RequestInfo struct constructors, assignment, and equality operators for the iOS passkey client.

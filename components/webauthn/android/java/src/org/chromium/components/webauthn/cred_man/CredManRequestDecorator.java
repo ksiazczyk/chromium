@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for decorating Credential Manager requests
+// summary: Interface for code that updates Credential Manager request bundles and builders for create, get, public key and password credential options.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.credentials.CreateCredentialRequest;

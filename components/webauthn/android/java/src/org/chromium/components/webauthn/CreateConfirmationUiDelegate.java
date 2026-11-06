@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential creation confirmation UI delegate
+// summary: Interface for showing a user confirmation dialog before creating a credential, intended for use in Incognito mode.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.chromium.build.annotations.NullMarked;

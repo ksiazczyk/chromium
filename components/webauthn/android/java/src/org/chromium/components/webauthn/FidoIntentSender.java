@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoIntentSender
+// summary: Interface abstracting the task of starting a PendingIntent for a WebAuthn operation and delivering the result to a callback.
+// ---
+
 package org.chromium.components.webauthn;
 
 import android.app.PendingIntent;

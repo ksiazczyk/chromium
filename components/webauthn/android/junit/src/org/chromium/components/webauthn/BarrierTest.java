@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Barrier parameterized tests
+// summary: Parameterized Robolectric tests verifying Barrier behavior across Credential Manager and FIDO2 API completion modes, statuses, and error handling.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fido2CredentialRequest
+// summary: Implements WebAuthn credential request logic using Google Play Services Fido2 APIs, handling make credential and get assertion requests.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.chromium.build.NullUtil.assertNonNull;

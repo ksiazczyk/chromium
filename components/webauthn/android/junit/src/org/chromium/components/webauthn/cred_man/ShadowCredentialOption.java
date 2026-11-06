@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow of CredentialOption for Robolectric tests
+// summary: Robolectric shadow of android.credentials.CredentialOption and its Builder that stores type, retrieval and query data bundles, and allowed providers for tests.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import android.content.ComponentName;

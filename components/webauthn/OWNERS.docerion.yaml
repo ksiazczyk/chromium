@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing device/fido owners
+summary: Points to device/fido/OWNERS as the owner list for the webauthn directory.

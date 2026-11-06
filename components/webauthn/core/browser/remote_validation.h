@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn RP ID remote validation class declaration
+// summary: Declares the RemoteValidation class that performs a pending remote validation of an RP ID via a network fetch and reports the result through a callback.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_REMOTE_VALIDATION_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_REMOTE_VALIDATION_H_
 

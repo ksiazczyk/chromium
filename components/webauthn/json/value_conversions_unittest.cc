@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebAuthn JSON value conversions
+// summary: Contains unit tests verifying the WebAuthn JSON value conversions, covering serialization of options and parsing of registration and authentication responses.
+// ---
+
 #include "components/webauthn/json/value_conversions.h"
 
 #include <cstdint>

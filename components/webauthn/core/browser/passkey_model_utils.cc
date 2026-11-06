@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey model utilities implementation
+// summary: Implements passkey utilities for AES-GCM encryption, key derivation, PRF HMAC evaluation, shadowed credential filtering, and passkey format validation.
+// ---
+
 #include "components/webauthn/core/browser/passkey_model_utils.h"
 
 #include <algorithm>

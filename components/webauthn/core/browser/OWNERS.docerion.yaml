@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for WebAuthn core browser
+summary: Delegates review of sync bridge and data type controller files to the owners of the sync component.

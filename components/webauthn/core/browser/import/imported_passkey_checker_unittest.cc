@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for imported passkey validity checks
+// summary: Unit tests verifying that CheckImportedPasskey returns the expected status for valid, malformed and unsupported passkey candidates.
+// ---
+
 #include "components/webauthn/core/browser/import/imported_passkey_checker.h"
 
 #include "base/rand_util.h"

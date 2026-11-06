@@ -1,0 +1,4 @@
+# Docerion header of passkey_tab_helper_unittest.mm.
+type: test
+title: Passkey tab helper unit tests
+summary: Unit tests covering passkey request handling, metrics logging, signal API events, origin validation, and passkey upgrade behavior in the tab helper.

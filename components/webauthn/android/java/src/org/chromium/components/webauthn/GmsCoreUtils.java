@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GmsCoreUtils
+// summary: Provides GMS Core version checks for WebAuthn API support and helpers that wrap Play Services callbacks onto the UI thread.
+// ---
+
 package org.chromium.components.webauthn;
 
 import com.google.android.gms.tasks.OnFailureListener;

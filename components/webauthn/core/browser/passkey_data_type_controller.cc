@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey sync data type controller implementation
+// summary: Implements PasskeyDataTypeController, which manages startup and shutdown of the WEBAUTHN_CREDENTIAL passkey sync data type.
+// ---
+
 #include "components/webauthn/core/browser/passkey_data_type_controller.h"
 
 #include <utility>

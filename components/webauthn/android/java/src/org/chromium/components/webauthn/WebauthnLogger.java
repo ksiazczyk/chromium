@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn logging helper
+// summary: Provides conditional debug and error logging for the WebAuthn component under a dedicated log tag.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.chromium.base.Log;

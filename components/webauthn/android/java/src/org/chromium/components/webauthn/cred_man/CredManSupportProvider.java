@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provider evaluating Android Credential Manager support
+// summary: Determines whether Android Credential Manager is supported, checking Android version, GMS Core version, service availability and embedder overrides.
+// ---
+
 package org.chromium.components.webauthn.cred_man;
 
 import static org.chromium.components.webauthn.WebauthnLogger.log;

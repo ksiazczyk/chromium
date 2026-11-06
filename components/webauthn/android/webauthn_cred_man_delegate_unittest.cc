@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebAuthn credential manager delegate
+// summary: Unit tests covering WebAuthnCredManDelegate callback behavior for conditional requests, credential manager UI triggering, cleanup, and request completion.
+// ---
+
 #include "components/webauthn/android/webauthn_cred_man_delegate.h"
 
 #include <memory>

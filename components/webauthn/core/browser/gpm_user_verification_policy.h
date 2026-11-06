@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Password Manager user verification policy header
+// summary: Declares GpmWillDoUserVerification, which returns whether Google Password Manager policy performs user verification for a given requirement.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_GPM_USER_VERIFICATION_POLICY_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_GPM_USER_VERIFICATION_POLICY_H_
 

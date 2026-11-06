@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS WebAuthn credentials delegate factory
+// summary: Declares a per-WebState factory that creates and manages one iOS WebAuthn credentials delegate per web frame, including lookup by remote frame token.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_IOS_WEBAUTHN_CREDENTIALS_DELEGATE_FACTORY_H_
 #define COMPONENTS_WEBAUTHN_IOS_IOS_WEBAUTHN_CREDENTIALS_DELEGATE_FACTORY_H_
 

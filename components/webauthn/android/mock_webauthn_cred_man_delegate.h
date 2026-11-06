@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Credential Manager delegate declaration
+// summary: Declares a GMock mock of WebAuthnCredManDelegate with stubbed HasPasskeys, TriggerCredManUi and callback methods for tests.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_ANDROID_MOCK_WEBAUTHN_CRED_MAN_DELEGATE_H_
 #define COMPONENTS_WEBAUTHN_ANDROID_MOCK_WEBAUTHN_CRED_MAN_DELEGATE_H_
 

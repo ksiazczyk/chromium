@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAuthn core browser GN build targets
+summary: Defines source sets, sources, and dependencies for the WebAuthn core browser component, including passkey model and unit test targets.

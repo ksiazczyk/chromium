@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyModel interface for synced passkeys
+// summary: Declares the PasskeyModel KeyedService interface for querying, updating, and observing synced passkeys represented as WebauthnCredentialSpecifics.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_MODEL_H_
 #define COMPONENTS_WEBAUTHN_CORE_BROWSER_PASSKEY_MODEL_H_
 

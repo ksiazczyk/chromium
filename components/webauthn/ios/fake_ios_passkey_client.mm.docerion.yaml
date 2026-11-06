@@ -1,0 +1,4 @@
+# Docerion header of fake_ios_passkey_client.mm.
+type: source
+title: Fake IOSPasskeyClient implementation
+summary: Implements the fake passkey client with stubbed key fetches, bottom sheet and interstitial tracking for tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GmsCoreGetCredentialsHelper Robolectric tests
+// summary: Robolectric tests verifying GmsCoreGetCredentialsHelper credential fetching via cache and FIDO2 invocation, including result and duration histograms.
+// ---
+
 package org.chromium.components.webauthn;
 
 import static org.mockito.ArgumentMatchers.any;

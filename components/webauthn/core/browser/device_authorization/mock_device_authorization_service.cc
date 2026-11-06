@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock device authorization service
+// summary: Provides the constructor and destructor for the gmock-based mock of DeviceAuthorizationService used in tests.
+// ---
+
 #include "components/webauthn/core/browser/device_authorization/mock_device_authorization_service.h"
 
 namespace webauthn {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imported passkey validity checker implementation
+// summary: Implements CheckImportedPasskey, validating credential ID and user ID bounds, private key format, HMAC secret and large blob constraints.
+// ---
+
 #include "components/webauthn/core/browser/import/imported_passkey_checker.h"
 
 #include "components/sync/protocol/webauthn_credential_specifics.pb.h"

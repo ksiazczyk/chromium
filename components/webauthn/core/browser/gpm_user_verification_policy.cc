@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Password Manager user verification policy implementation
+// summary: Implements GpmWillDoUserVerification, deciding per platform whether Google Password Manager performs user verification for a given requirement.
+// ---
+
 #include "components/webauthn/core/browser/gpm_user_verification_policy.h"
 
 #include "build/build_config.h"

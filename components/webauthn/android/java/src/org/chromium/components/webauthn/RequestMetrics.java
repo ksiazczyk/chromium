@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request metrics container
+// summary: Holds histogram outcome values for a WebAuthn request, assembled through a builder pattern.
+// ---
+
 package org.chromium.components.webauthn;
 
 import org.chromium.build.annotations.NullMarked;

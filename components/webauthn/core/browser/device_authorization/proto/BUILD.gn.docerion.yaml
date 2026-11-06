@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for device authorization protos
+summary: GN build file defining the proto_library target that builds the device authorization protobuf sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyImporter implementation
+// summary: Implements the asynchronous passkey import flow, converting candidates to sync specifics, detecting conflicts and recording error metrics.
+// ---
+
 #include "components/webauthn/core/browser/import/passkey_importer.h"
 
 #include "base/check_deref.h"

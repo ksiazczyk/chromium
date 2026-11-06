@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPasskeyClient interface
+// summary: Defines the virtual interface used by PasskeyTabHelper for key fetches, bottom sheets, interstitials and policy checks.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_IOS_PASSKEY_CLIENT_H_
 #define COMPONENTS_WEBAUTHN_IOS_IOS_PASSKEY_CLIENT_H_
 

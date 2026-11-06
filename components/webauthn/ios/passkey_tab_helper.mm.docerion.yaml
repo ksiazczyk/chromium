@@ -1,0 +1,4 @@
+# Docerion header of passkey_tab_helper.mm.
+type: source
+title: Passkey tab helper implementation
+summary: Implements handling of passkey get, create, cancel, and signal events, including metrics logging, device authorization, and automatic passkey upgrade flows.

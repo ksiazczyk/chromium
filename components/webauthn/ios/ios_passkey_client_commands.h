@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPasskeyClientCommands protocol
+// summary: Declares the Objective-C protocol for showing and dismissing passkey bottom sheets, welcome screens and interstitials.
+// ---
+
 #ifndef COMPONENTS_WEBAUTHN_IOS_IOS_PASSKEY_CLIENT_COMMANDS_H_
 #define COMPONENTS_WEBAUTHN_IOS_IOS_PASSKEY_CLIENT_COMMANDS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectedClientData JSON builder implementation
+// summary: Builds and serializes the WebAuthn CollectedClientData dictionary to JSON, including challenge, origin, cross-origin, and payment fields.
+// ---
+
 #include "components/webauthn/core/browser/client_data_json.h"
 
 #include <string_view>
