@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Popup background shape 24dp drawable
+summary: Rectangle shape drawable for the 24dp popup background with rounded corners and the menu background color.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <corners android:radius="@dimen/popup_bg_corner_radius_24dp" />

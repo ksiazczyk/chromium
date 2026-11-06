@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Search box icon background selector
+summary: Layer-list drawable defining pressed, hovered and focus ring states for the search box icon background.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <!-- Layer 0: Background Fill (Hovered/Pressed states) -->
   <item>

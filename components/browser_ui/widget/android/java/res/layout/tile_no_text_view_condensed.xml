@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Condensed icon-only tile layout
+summary: Android layout for a condensed icon-only tile with icon background, touch highlight and an offline badge.
+-->
+
 <!-- An icon tile. -->
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeItemPickerUtils
+// summary: Utility for creating intents to launch the Chrome Item Picker and extracting selected tab IDs from its result intent.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.content.Context;

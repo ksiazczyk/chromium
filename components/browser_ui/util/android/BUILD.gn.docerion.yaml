@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browser UI Android utilities
+summary: Defines GN build targets for the Android browser UI utility Java library, its resources, a native static library, and Robolectric unit tests.

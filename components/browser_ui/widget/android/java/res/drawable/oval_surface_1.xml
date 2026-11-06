@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Oval surface 1 drawable
+summary: Android shape drawable that renders an oval filled with the colorSurfaceContainerLow theme attribute for surface level 1.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">

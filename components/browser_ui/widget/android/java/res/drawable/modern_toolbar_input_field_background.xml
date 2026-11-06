@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Modern toolbar input field background
+summary: Rounded rectangle drawable styling the modern toolbar input field with the toolbar text box color and inner corner radius dimensions.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle" >

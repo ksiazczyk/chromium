@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Modern toolbar text box highlight background
+summary: Layer-list drawable adding a translucent primary-color highlight shape behind the modern toolbar text box.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <item
       android:top="@dimen/modern_toolbar_background_vertical_offset"

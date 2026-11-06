@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the Web Share service
+// summary: Implements the ShareService mojom for the Web Share API on Android, validating filenames and MIME types before sharing files via the Android share dialog.
+// ---
+
 package org.chromium.components.browser_ui.webshare;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for browser_ui widget Android
+summary: Points the directory metadata to the common Chrome Android mixins via the COMMON_METADATA file.

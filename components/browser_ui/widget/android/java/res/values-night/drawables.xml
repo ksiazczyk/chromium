@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Night-mode drawable alias for the more-vert icon
+summary: Maps the 24dp more-vert icon to its dark-background variant for Android night mode in the browser UI widget library.
+-->
+
 <resources>
     <drawable name="ic_more_vert_24dp">@drawable/ic_more_vert_24dp_on_dark_bg</drawable>
 </resources>

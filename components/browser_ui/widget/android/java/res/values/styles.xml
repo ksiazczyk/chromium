@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI widget styles and themes
+summary: Defines theme overlays and styles for alert dialogs, cards, and modern list items in the shared widget library.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- AlertDialog styles -->
     <!-- |Theme.BrowserUI.AlertDialog.NoActionBar| should have all the attributes this has. -->

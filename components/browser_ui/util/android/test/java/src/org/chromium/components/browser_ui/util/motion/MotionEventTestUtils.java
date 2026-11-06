@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Motion event test utilities
+// summary: Provides helper methods to create MotionEvent and MotionEventInfo objects simulating touch screen and mouse input for use in tests.
+// ---
+
 package org.chromium.components.browser_ui.util.motion;
 
 import android.view.InputDevice;

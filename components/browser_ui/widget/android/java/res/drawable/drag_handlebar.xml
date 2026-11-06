@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Drag handlebar drawable
+summary: Shape drawable for a 40 by 4 dp rounded drag handle bar filled with the divider color.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle" >
   <size android:height="4dp"

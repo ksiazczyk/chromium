@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: In-product help dialog layout
+summary: Layout for the IphDialogView in-product help dialog, combining an animated image with title and description text.
+-->
+
 <org.chromium.components.browser_ui.widget.IphDialogView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

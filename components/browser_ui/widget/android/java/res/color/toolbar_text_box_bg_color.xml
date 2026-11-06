@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar text box background color selector
+summary: Android color selector that sets the toolbar text box background to the theme's high surface container color.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurfaceContainerHigh"/>
 </selector>

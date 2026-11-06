@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AvatarGeneratorUnitTest
+// summary: Robolectric unit tests for AvatarGenerator covering null and empty inputs plus single and multiple avatar drawable output.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import static org.junit.Assert.assertEquals;

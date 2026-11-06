@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawableUtils
+// summary: Utility class that provides sized oval and pill-shaped ripple background drawables for icons, including incognito and search box variants.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.content.Context;

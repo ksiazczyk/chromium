@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_ui widget Android library
+summary: GN build configuration defining the android_library target that lists the Java sources of the browser_ui widget component.

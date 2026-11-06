@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomotiveUtils
+// summary: Utility for Android Automotive devices that checks OS share sheet support and provides horizontal or vertical back button toolbar layouts.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.content.Context;

@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Query tile overlay drawable
+summary: Selector drawable that overlays a bottom gradient on query tiles and adds a hairline stroke in the selected state.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android" >
   <item android:state_selected="false">
     <shape android:shape="rectangle" >

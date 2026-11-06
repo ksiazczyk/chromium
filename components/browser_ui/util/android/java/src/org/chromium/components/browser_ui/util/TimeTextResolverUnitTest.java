@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeTextResolverUnitTest
+// summary: Robolectric unit tests verifying that TimeTextResolver produces the expected relative time text for various elapsed durations.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import static org.junit.Assert.assertEquals;

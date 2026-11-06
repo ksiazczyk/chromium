@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: List item icon background level-list drawable
+summary: Level-list drawable switching the oval list item icon background between default, selected, and incognito levels.
+-->
+
 <level-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:maxLevel="@integer/list_item_level_default" android:drawable="@drawable/oval_surface_1" />
     <item android:maxLevel="@integer/list_item_level_selected">

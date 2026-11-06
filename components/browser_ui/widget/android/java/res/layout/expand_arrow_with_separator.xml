@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Expand arrow with separator layout
+summary: Android layout combining a vertical divider and an expand arrow button, used to replace the end view stub in radio_button_with_description.
+-->
+
 <!-- An expand arrow with a separator, used to replace end_view_stub in
     radio_button_with_description. -->
 <LinearLayout

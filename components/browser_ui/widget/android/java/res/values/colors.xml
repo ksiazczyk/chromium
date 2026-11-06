@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI widget color resources
+summary: Defines color and macro resources for dialogs, toolbars, and chip styling with light, dark, and baseline variants.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <color name="modal_dialog_scrim_color">@color/black_alpha_65</color>
     <color name="modal_dialog_scrim_color_lff">@color/black_alpha_40</color>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstDrawDetector
+// summary: Utility that invokes a callback when a view is drawn for the first time, with a strict mode that waits for the actual onDraw event.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.view.Choreographer;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Fullscreen loading view layout
+summary: Fullscreen loading layout that centers an indeterminate progress spinner and provides a cancel button at the bottom.
+-->
+
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/loading_fullscreen_container"

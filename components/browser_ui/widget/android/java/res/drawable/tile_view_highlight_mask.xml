@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tile view highlight oval mask shape
+summary: Oval shape drawable with a solid black fill used as the ripple mask for the tile view highlight.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval" >
     <solid android:color="#000000" />

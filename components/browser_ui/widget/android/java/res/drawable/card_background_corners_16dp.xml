@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- Default card background that has hover / focus / press state without ripple.-->
+
+<!--docerion
+type: asset
+title: Card background with 16dp corners
+summary: Layer-list card background with a base surface layer and a hover, focus and press overlay, without ripple.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <!-- Base background layer. This is always visible. -->
   <item android:id="@+id/card_background_base">

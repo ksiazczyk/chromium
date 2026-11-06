@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Rich radio button background drawable
+summary: Shape drawable giving rich radio buttons a card background color with rounded card corners.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@macro/default_card_bg_color" />
     <corners android:radius="@dimen/card_rounded_corner_radius" />

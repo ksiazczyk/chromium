@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet dimension values for browser UI widgets
+summary: Defines tablet-specific dimension values for the single tab module thumbnail size and the pill-shaped omnibox button corner radius in the browser UI widget resources.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!-- Single Tab module on tablets -->
   <dimen name="single_tab_module_tab_thumbnail_size">72dp</dimen>

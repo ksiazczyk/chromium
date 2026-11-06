@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night mode splash screen background color
+summary: Defines the dark-mode override of the splash screen background color for the Android browser UI, pointing to a system neutral color resource.
+-->
+
 <resources>
     <!-- This points to a system color resource in API 31+. However, it's unclear what its value is
          on devices that don't support dynamic colors. -->

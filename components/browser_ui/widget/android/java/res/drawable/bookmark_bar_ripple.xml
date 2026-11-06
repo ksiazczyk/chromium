@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Bookmark bar ripple drawable
+summary: Ripple drawable that applies a control-highlight ripple over the bookmark bar background selector.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight">
     <item android:drawable="@drawable/bookmark_bar_ripple_background_selector" />

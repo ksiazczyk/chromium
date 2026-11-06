@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tile view background state selector
+summary: State-list drawable giving tile views a rounded 8dp on-surface tint when hovered or focused and a transparent background otherwise.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:state_hovered="true">
     <shape android:shape="rectangle">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapCache
+// summary: In-memory bitmap cache combining a per-instance LRU cache with a static deduplication cache that is dropped under memory pressure.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

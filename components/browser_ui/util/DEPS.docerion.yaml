@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_ui util
+summary: Defines the allowed include dependencies for the components/browser_ui/util directory, listing permitted Chromium components and Android UI paths.

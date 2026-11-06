@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Webshare Android include rules
+summary: Specifies allowed include rules for the webshare Android directory, permitting dependencies on embedder support, content, mojo system, and UI code.

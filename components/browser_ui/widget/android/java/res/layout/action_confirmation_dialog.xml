@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Action confirmation dialog layout
+summary: Android layout for a confirmation dialog with a description text and a stop-showing checkbox inside a fading-edge scroll view.
+-->
+
 <org.chromium.components.browser_ui.widget.FadingEdgeScrollView xmlns:android="http://schemas.android.com/apk/res/android"
   android:layout_width="match_parent"
   android:layout_height="wrap_content">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedFileCollator for batched WebShare files
+// summary: Waits until all shared blobs have been received, then triggers the share callback and computes the common MIME type of the shared files.
+// ---
+
 package org.chromium.components.browser_ui.webshare;
 
 import org.chromium.base.Callback;

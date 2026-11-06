@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Radio button layout element
+summary: Layout for a standalone radio button row with a 48dp minimum height and large primary text appearance.
+-->
+
 <RadioButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

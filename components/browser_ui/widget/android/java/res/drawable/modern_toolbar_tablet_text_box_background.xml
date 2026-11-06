@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Tablet modern toolbar text box background
+summary: Layer-list drawable that offsets the modern toolbar text box background vertically for tablet layouts.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:id="@+id/unfocused_bg"
     android:drawable="@drawable/modern_toolbar_text_box_background"

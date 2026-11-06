@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tinted dialog background nine-patch
+summary: Nine-patch drawable that applies the popup background image tinted with the dialog background color in multiply mode.
+-->
+
 <nine-patch xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/popup_bg"
     android:tint="@color/dialog_bg_color"

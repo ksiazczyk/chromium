@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeTextResolver
+// summary: Converts timestamps into user-facing relative time strings such as today, yesterday, or days, weeks, and months ago using plural resources.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.util.Pair;

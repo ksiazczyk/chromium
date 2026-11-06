@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnPeripheralClickListener
+// summary: View.OnTouchListener that consumes pointer events from peripherals and runs a callback on completed clicks, while ignoring events from non-peripheral sources.
+// ---
+
 package org.chromium.components.browser_ui.util.motion;
 
 import android.annotation.SuppressLint;

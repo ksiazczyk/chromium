@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI widget view ID resources
+summary: Defines view IDs for DualControlLayout buttons, ViewHighlighter tags, the app menu footer, and ChipView child views.
+-->
+
 <resources>
     <!-- DualControlLayout button ids -->
     <item type="id" name="button_primary" />

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab resumption module icon background color for night mode
+summary: Android color selector that sets the dark-mode tab resumption module icon background to the colorSurfaceContainerHigh theme attribute.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurfaceContainerHigh"/>
 </selector>

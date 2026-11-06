@@ -9,6 +9,12 @@ found in the LICENSE file.
 Note: This is a jinja2 template, processed at build time into the final resources.
 -->
 
+<!--docerion
+type: source
+title: Android BrowserUI theme resource template
+summary: Jinja2 template that defines light and dark Material 3 themes for Chromium's Android BrowserUI, mapping color palettes, text and widget colors into final resources at build time.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Light themes -->
     <!-- Colors should be mirrored by Theme.BrowserUI.DialogWhenLarge and

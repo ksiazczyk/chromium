@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android theme attribute definitions (attrs.xml)
+summary: Defines custom Android attributes such as dimensions and references for toolbar buttons, location bar actions, close buttons, web app headers, and task menus in the browser UI theme.
+-->
+
 <resources>
   <attr name="defaultFontFamily" format="reference|string" />
   <attr name="defaultMediumFontFamily" format="reference|string" />

@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Bookmark bar ripple baseline background selector
+summary: Baseline layer-list with pressed, selected, hovered and focus-ring backgrounds for bookmark bar chips using baseline colors.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <!-- Layer 0: Background Fill (Hovered/Pressed states) -->
   <item>

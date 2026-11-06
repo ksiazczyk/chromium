@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReceiver for streaming Mojo blobs to a stream
+// summary: Receives a blob over a Mojo data pipe and writes it to an output stream, reporting completion on the UI thread while file operations run in the background.
+// ---
+
 package org.chromium.components.browser_ui.webshare;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

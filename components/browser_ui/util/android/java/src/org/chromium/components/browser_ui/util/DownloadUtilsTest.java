@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadUtilsTest
+// summary: Robolectric unit tests for DownloadUtils covering URL formatting for download notifications, including invalid, opaque and length-limited origins.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import org.junit.Assert;

@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Focused popup background for tablet toolbar text box
+summary: Layer-list drawable drawing the omnibox suggestion popup with rounded top corners plus an inset inner layer for search suggestions.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:id="@+id/focused_popup_bg">
     <shape

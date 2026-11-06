@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarFactory
+// summary: Helper class that asynchronously creates and hands out unique, cleared Calendar instances, with a warmUp method to trigger the static initializer early.
+// ---
+
 package org.chromium.components.browser_ui.util.date;
 
 import org.chromium.base.task.AsyncTask;

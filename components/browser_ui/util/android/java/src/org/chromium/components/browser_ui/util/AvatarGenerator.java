@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvatarGenerator
+// summary: Utility class that scales, crops and combines account avatar bitmaps into rounded drawable images with supersampled rendering.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import android.content.res.Resources;

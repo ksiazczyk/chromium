@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Image tile enter animation
+summary: Android view animation that slides an image tile in from 20% horizontal offset while fading it in over 200 milliseconds.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:duration="200">
     <translate

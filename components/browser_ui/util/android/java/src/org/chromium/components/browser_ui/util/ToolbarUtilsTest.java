@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarUtilsTest
+// summary: Robolectric unit tests for ToolbarUtils that check retrieval of the toolbar title text view.
+// ---
+
 package org.chromium.components.browser_ui.util;
 
 import static org.junit.Assert.assertNotNull;

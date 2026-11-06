@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Night-mode color resources for browser UI widgets
+summary: Defines dark-theme color overrides for chip backgrounds, outlines, and the new tab page search box in the Android browser UI widget library.
+-->
+
 <resources>
     <!-- Chip colors -->
     <color name="default_chip_outline_color">@color/default_chip_outline_color_light</color>

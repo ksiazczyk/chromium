@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Card hover and press overlay color state list
+summary: Android color state list that overlays cards with 12% alpha of colorOnSurface when pressed and 8% when hovered, staying transparent for focus and default states.
+-->
+
 <!-- Default color state list paired with card that should have hover / press
      state, while the focus state needs a outline highlight. -->
 <selector

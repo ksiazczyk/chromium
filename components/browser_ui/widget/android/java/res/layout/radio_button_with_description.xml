@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Radio button with description layout
+summary: Merge layout for a radio button row with an optional icon, primary and description text and an end ViewStub for custom views.
+-->
+
 <!-- RadioButtonWithDescription extends RelativeLayout -->
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android">

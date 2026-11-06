@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Fake search box action button background drawable
+summary: Layer-list drawable providing ripple, hover, pressed, and focus ring states for the fake search box action button.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <!-- Layer 0: Background Fill & Ripple -->
   <item>

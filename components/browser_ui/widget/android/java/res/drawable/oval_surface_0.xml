@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Oval surface 0 drawable
+summary: Android shape drawable that renders an oval filled with the default background color macro for surface level 0.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">

@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Automotive layout with horizontal back button toolbar
+summary: Android layout wrapping original content with a top horizontal back-button toolbar for automotive, plus an on-swipe toolbar ViewStub.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

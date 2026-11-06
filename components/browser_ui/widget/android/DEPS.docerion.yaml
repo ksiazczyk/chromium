@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_ui widget Android
+summary: Defines directory-wide include rules for allowed dependencies, with specific exemptions for AlwaysDismissedDialog and test files.

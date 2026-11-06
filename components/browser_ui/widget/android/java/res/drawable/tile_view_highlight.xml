@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tile view highlight ripple drawable
+summary: Ripple drawable for tile view press highlights that uses an on-surface alpha ripple color masked by an oval shape.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
   android:color="@color/color_on_surface_with_alpha_10">
   <item
