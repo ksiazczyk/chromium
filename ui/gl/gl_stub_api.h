@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub GL API class declaration
+// summary: Declares GLStubApi, a stub GL API with configurable version and extensions used by GPU tests and fuzzers.
+// ---
+
 #ifndef UI_GL_GL_STUB_API_H_
 #define UI_GL_GL_STUB_API_H_
 

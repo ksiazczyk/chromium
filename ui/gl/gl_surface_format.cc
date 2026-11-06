@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceFormat implementation
+// summary: Implements GLSurfaceFormat methods for setting and querying the RGB565 surface format preference.
+// ---
+
 #include "ui/gl/gl_surface_format.h"
 #include "base/notreached.h"
 

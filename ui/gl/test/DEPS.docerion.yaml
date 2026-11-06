@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the GL test directory
+summary: Defines the allowed include paths, such as gpu, ui, mojo, and viz headers, for code in the ui/gl test directory.

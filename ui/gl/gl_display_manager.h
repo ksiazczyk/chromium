@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLDisplayManager GPU preference mapping
+// summary: Declares a singleton template that maps GPU preferences to system device IDs and creates or removes GL displays, including dual-GPU EGL rendering support.
+// ---
+
 #ifndef UI_GL_GL_DISPLAY_MANAGER_H_
 #define UI_GL_GL_DISPLAY_MANAGER_H_
 

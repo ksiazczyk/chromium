@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL context base implementation
+// summary: Implements the GLContext base class, managing current context tracking, share groups, initialization, make-current logic, and GLES version metrics on Android.
+// ---
+
 #include "ui/gl/gl_context.h"
 
 #include <string>

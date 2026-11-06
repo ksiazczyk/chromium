@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurface interface declaration
+// summary: Declares the GLSurface interface that encapsulates a GL-renderable surface and hides platform-specific management such as resizing, swapping, and presentation callbacks.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_H_
 #define UI_GL_GL_SURFACE_H_
 

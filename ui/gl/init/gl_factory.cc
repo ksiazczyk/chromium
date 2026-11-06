@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL implementation selection and factory
+// summary: Resolves the requested GL implementation from the command line and provides platform helpers for one-off GL initialization.
+// ---
+
 #include "ui/gl/init/gl_factory.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parameters for Core Animation renderer layers
+// summary: Defines the CARendererLayerParams struct and CALayerEdge constants describing clipping, transforms, IOSurfaces, HDR, and video properties.
+// ---
+
 #ifndef UI_GL_CA_RENDERER_LAYER_PARAMS_H_
 #define UI_GL_CA_RENDERER_LAYER_PARAMS_H_
 

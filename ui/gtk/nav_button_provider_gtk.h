@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK navigation button provider declaration
+// summary: Declares NavButtonProviderGtk, which supplies frame button images, margins, spacing and heights derived from the GTK theme.
+// ---
+
 #ifndef UI_GTK_NAV_BUTTON_PROVIDER_GTK_H_
 #define UI_GTK_NAV_BUTTON_PROVIDER_GTK_H_
 

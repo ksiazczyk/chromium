@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorPoolBase class declaration
+// summary: Declares SolidColorPoolBase, an abstract pool producing DirectComposition visual content filled with a solid color, with entry caching, trim policy, and per-frame counters.
+// ---
+
 #ifndef UI_GL_SOLID_COLOR_POOL_BASE_H_
 #define UI_GL_SOLID_COLOR_POOL_BASE_H_
 

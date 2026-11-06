@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUiPlatformX11 class declaration
+// summary: Declares GtkUiPlatformX11, the GtkUiPlatform implementation for desktop Linux X11 backends, holding the X11 connection and event loop.
+// ---
+
 #ifndef UI_GTK_X_GTK_UI_PLATFORM_X11_H_
 #define UI_GTK_X_GTK_UI_PLATFORM_X11_H_
 

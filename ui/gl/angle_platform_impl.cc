@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE platform method implementations
+// summary: Implements ANGLE PlatformMethods callbacks for time, logging, histograms, and worker tasks using Chromium base facilities.
+// ---
+
 #include "ui/gl/angle_platform_impl.h"
 
 #include "base/compiler_specific.h"

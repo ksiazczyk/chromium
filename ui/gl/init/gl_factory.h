@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL factory interface for GL initialization and context and surface creation
+// summary: Declares functions to initialize GL bindings, shut down GL, and create GL contexts and surfaces, with platform-specific implementations selected per operating system.
+// ---
+
 #ifndef UI_GL_INIT_GL_FACTORY_H_
 #define UI_GL_INIT_GL_FACTORY_H_
 

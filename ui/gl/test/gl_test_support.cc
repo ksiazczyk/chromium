@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLTestSupport implementation for image test initialization
+// summary: Implements InitializeGL and CleanupGL, selecting an allowed GL implementation and handling Ozone and platform specifics for image testing.
+// ---
+
 #include "ui/gl/test/gl_test_support.h"
 
 #include <vector>

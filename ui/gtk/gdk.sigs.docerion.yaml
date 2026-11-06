@@ -1,0 +1,4 @@
+# Docerion header of gdk.sigs.
+type: data
+title: GDK API signatures for GTK stub generation
+summary: Lists GDK function signatures that the generate_stubs tool uses to create stubs for dynamically loaded GDK functions.

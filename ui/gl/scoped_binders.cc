@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementations of scoped GL state binders
+// summary: Implements RAII helpers that bind framebuffers, textures, programs, and vertex arrays and restore the previous GL state when they go out of scope.
+// ---
+
 #include "ui/gl/scoped_binders.h"
 
 #include "base/notimplemented.h"

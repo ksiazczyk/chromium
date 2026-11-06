@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL ANGLE utility for Windows
+// summary: Declares a helper that queries the Direct3D 11 device object from an ANGLE GL context on Windows.
+// ---
+
 #ifndef UI_GL_GL_ANGLE_UTIL_WIN_H_
 #define UI_GL_GL_ANGLE_UTIL_WIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of generate_bindings.py.
+type: script
+title: GL and GLES extension binding code generator
+summary: Python code generator that produces the GL, GLES, and EGL extension wrangler bindings from a table of GL function definitions and extension conditions.

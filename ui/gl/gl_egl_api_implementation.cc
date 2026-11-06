@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL API bindings and extension filtering
+// summary: Initializes static EGL bindings and implements real, logging, and tracing EGL API wrappers, including filtering of disabled EGL extensions.
+// ---
+
 #include "ui/gl/gl_egl_api_implementation.h"
 
 #include "base/strings/string_split.h"

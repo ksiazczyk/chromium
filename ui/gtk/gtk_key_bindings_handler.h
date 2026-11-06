@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK key bindings handler class
+// summary: Declares GtkKeyBindingsHandler, which matches key events against the key theme to produce edit commands.
+// ---
+
 #ifndef UI_GTK_GTK_KEY_BINDINGS_HANDLER_H_
 #define UI_GTK_GTK_KEY_BINDINGS_HANDLER_H_
 

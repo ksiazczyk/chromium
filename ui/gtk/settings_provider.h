@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings provider base interface
+// summary: Defines the empty SettingsProvider base class so GtkUi can hold either the GSettings or GTK implementation behind a single pointer.
+// ---
+
 #ifndef UI_GTK_SETTINGS_PROVIDER_H_
 #define UI_GTK_SETTINGS_PROVIDER_H_
 

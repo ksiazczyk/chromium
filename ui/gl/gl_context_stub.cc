@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub GL context implementation
+// summary: Implements a no-op GL context for unit tests, with configurable extensions, version strings, robustness, and an optional stub GL API.
+// ---
+
 #include "ui/gl/gl_context_stub.h"
 
 #include "build/build_config.h"

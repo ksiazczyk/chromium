@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IDCompositionTextureMock GMock class declaration
+// summary: Declares a GMock implementation of the Windows IDCompositionTexture interface for use in Direct Composition tests.
+// ---
+
 #ifndef UI_GL_DCOMP_MOCKS_H_
 #define UI_GL_DCOMP_MOCKS_H_
 

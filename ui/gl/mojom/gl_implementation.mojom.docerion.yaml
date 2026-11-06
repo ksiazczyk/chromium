@@ -1,0 +1,4 @@
+# Docerion header of gl_implementation.mojom.
+type: source
+title: GL implementation Mojom definitions
+summary: Defines Mojom enums and a struct mirroring GLImplementation, ANGLEImplementation, and GLImplementationParts from ui/gl.

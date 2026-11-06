@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows VSync provider using DWM timing info
+// summary: Implements the Windows VSync provider that derives vsync timebase and interval from DWM composition timing info, with fallbacks for unreliable or oversized QPC values.
+// ---
+
 #include "ui/gl/vsync_provider_win.h"
 
 #include <dwmapi.h>

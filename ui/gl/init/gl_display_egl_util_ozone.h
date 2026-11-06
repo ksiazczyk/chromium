@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone EGL display utility class declaration
+// summary: Declares the GLDisplayEglUtilOzone singleton that forwards GLDisplayEglUtil overrides to the Ozone platform's GL EGL utility.
+// ---
+
 #ifndef UI_GL_INIT_GL_DISPLAY_EGL_UTIL_OZONE_H_
 #define UI_GL_INIT_GL_DISPLAY_EGL_UTIL_OZONE_H_
 

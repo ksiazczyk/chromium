@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMPSurfaceRegistry class declaration
+// summary: Declares DCOMPSurfaceRegistry, a GPU-process singleton mapping unguessable tokens to Windows Direct Composition surface handles.
+// ---
+
 #ifndef UI_GL_DCOMP_SURFACE_REGISTRY_H_
 #define UI_GL_DCOMP_SURFACE_REGISTRY_H_
 

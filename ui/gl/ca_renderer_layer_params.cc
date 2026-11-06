@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CARendererLayerParams constructor definitions
+// summary: Implements the constructors and destructor for the CARendererLayerParams struct used with macOS Core Animation layers.
+// ---
+
 #include "ui/gl/ca_renderer_layer_params.h"
 
 namespace ui {

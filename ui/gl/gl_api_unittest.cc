@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL API unit tests
+// summary: Unit tests for the GL API implementation, covering extension string handling, disabled extensions, and version info setup with fake GL functions.
+// ---
+
 #include <stdint.h>
 
 #include <array>

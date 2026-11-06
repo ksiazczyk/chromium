@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Windows HDR display metadata helper
+// summary: Declares HDRMetadataHelperWin, an overlay caps observer that queries per-monitor HDR10 metadata through DXGI and exposes lookups by monitor or window.
+// ---
+
 #ifndef UI_GL_HDR_METADATA_HELPER_WIN_H_
 #define UI_GL_HDR_METADATA_HELPER_WIN_H_
 

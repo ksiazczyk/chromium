@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for gl mojom bindings
+summary: GN build configuration defining the gl mojom component with typemaps for GL implementation types and a test_interfaces target.

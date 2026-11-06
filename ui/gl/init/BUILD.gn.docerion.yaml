@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the gl_init component
+summary: Defines the gl_init component with its public headers, platform-specific GL factory and initializer sources, and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU timing classes abstracting GL timer extensions
+// summary: Declares GPUTiming, GPUTimer and GPUTimingClient classes that abstract GL GPU timing extensions such as EXT_disjoint_timer_query into a common interface for timing GL commands.
+// ---
+
 #ifndef UI_GL_GPU_TIMING_H_
 #define UI_GL_GPU_TIMING_H_
 

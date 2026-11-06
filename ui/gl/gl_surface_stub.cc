@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub GL surface implementation
+// summary: Implements a stub GL surface that acknowledges swaps and accepts resize without real rendering.
+// ---
+
 #include "ui/gl/gl_surface_stub.h"
 
 #include <utility>

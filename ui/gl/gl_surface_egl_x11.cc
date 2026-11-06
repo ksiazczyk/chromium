@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 EGL GL surface implementation
+// summary: Implements the X11 variant of NativeViewGLSurfaceEGL, forwarding expose events from ANGLE child windows, restoring background pixels, and creating an XRandr vsync provider.
+// ---
+
 #include "ui/gl/gl_surface_egl_x11.h"
 
 #include <algorithm>

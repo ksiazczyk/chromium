@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK input method context implementation
+// summary: Declares InputMethodContextImplGtk, a LinuxInputMethodContext that uses GtkIMContext as a bridge to underlying input method editors.
+// ---
+
 #ifndef UI_GTK_INPUT_METHOD_CONTEXT_IMPL_GTK_H_
 #define UI_GTK_INPUT_METHOD_CONTEXT_IMPL_GTK_H_
 

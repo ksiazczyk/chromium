@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncControlVSyncProvider class declaration
+// summary: Declares SyncControlVSyncProvider, a base class for vsync providers based on extensions like EGL_CHROMIUM_sync_control on Linux and ChromeOS.
+// ---
+
 #ifndef UI_GL_SYNC_CONTROL_VSYNC_PROVIDER_H_
 #define UI_GL_SYNC_CONTROL_VSYNC_PROVIDER_H_
 

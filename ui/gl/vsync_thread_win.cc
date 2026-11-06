@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows VSync thread implementation
+// summary: Implements the VSyncThreadWin singleton that runs a dedicated thread waiting for vsync and notifying observers, pausing when idle or the system is suspended.
+// ---
+
 #include "ui/gl/vsync_thread_win.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK file selection dialog header
+// summary: Declares SelectFileDialogLinuxGtk, the GTK-based SelectFileDialog implementation that shows modal file and folder chooser dialogs and tracks activation key state.
+// ---
+
 #ifndef UI_GTK_SELECT_FILE_DIALOG_LINUX_GTK_H_
 #define UI_GTK_SELECT_FILE_DIALOG_LINUX_GTK_H_
 

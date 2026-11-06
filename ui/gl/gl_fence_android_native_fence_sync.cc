@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native fence sync implementation
+// summary: Implements EGL Android native fence sync creation, GPU fence handle adoption and duplication, and status change time retrieval.
+// ---
+
 #include "ui/gl/gl_fence_android_native_fence_sync.h"
 
 #include "base/files/scoped_file.h"

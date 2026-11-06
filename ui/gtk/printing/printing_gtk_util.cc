@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK printing utility functions
+// summary: Provides helpers that obtain GTK paper sizes and initialize Chromium print settings from GTK print settings and page setup.
+// ---
+
 #include "ui/gtk/printing/printing_gtk_util.h"
 
 #include <string>

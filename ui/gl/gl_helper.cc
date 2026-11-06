@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLHelper implementation
+// summary: Provides static GL helpers to compile and link shaders with error checking, set up a quad vertex buffer, and draw a quad with fixed render state.
+// ---
+
 #include "ui/gl/gl_helper.h"
 
 #include <string>

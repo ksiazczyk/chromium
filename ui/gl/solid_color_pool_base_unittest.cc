@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SolidColorPoolBase
+// summary: Unit tests covering cache hits, entry reuse across frames, trim behavior, and failure handling of the SolidColorPoolBase solid color pool using a fake pool implementation.
+// ---
+
 #include "ui/gl/solid_color_pool_base.h"
 
 #include <windows.h>

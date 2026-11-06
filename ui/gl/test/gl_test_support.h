@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLTestSupport class declaration
+// summary: Declares the GLTestSupport class with static InitializeGL and CleanupGL methods for setting up and tearing down GL in image tests.
+// ---
+
 #ifndef UI_GL_TEST_GL_TEST_SUPPORT_H_
 #define UI_GL_TEST_GL_TEST_SUPPORT_H_
 

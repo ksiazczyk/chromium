@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/gtk
+summary: Declares which headers and modules files in ui/gtk may include, listing allowed dependencies such as skia, aura, views and native_theme.

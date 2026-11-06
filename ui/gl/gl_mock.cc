@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GL interface for tests
+// summary: Implements MockGLInterface with unique mock function pointers so GL-based unit tests can intercept calls.
+// ---
+
 #include "ui/gl/gl_mock.h"
 
 namespace gl {

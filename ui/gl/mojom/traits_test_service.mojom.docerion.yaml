@@ -1,0 +1,4 @@
+# Docerion header of traits_test_service.mojom.
+type: test
+title: TraitsTestService Mojom test interface
+summary: Defines a synchronous Mojom interface whose echo methods verify traits serialization and deserialization of GPU types.

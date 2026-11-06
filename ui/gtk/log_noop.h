@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op logger for GTK stub initializers
+// summary: Defines LogNoop, a no-op stream logger that discards error messages from generated stub initializers where missing GTK symbols are expected.
+// ---
+
 #ifndef UI_GTK_LOG_NOOP_H_
 #define UI_GTK_LOG_NOOP_H_
 

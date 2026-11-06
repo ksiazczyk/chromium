@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped GL framebuffer creation and deletion
+// summary: Implements traits that delete GL framebuffers on the current context and a helper that generates a new scoped framebuffer.
+// ---
+
 #include "ui/gl/scoped_gl_framebuffer.h"
 
 #include "base/check.h"

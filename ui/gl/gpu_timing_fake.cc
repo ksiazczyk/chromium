@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake GL timer query implementation for GPU timing tests
+// summary: Implements GPUTimingFake, which simulates GL timer queries against a mock GL interface so GPU timing code can be tested with controllable timestamps and disjoint states.
+// ---
+
 #include "ui/gl/gpu_timing_fake.h"
 
 #include "base/time/time.h"

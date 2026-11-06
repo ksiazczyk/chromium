@@ -1,0 +1,4 @@
+# Docerion header of gdk_pixbuf.sigs.
+type: data
+title: GdkPixbuf API signatures for GTK stub generation
+summary: Lists GdkPixbuf function signatures used to generate stubs for dynamically loaded GdkPixbuf functions.

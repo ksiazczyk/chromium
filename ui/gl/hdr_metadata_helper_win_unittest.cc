@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows HDR metadata helper
+// summary: Unit tests for HDRMetadataHelperWin that use mocked DXGI adapters and outputs to verify metadata caching, brightest-monitor selection, and metadata conversion.
+// ---
+
 #include "ui/gl/hdr_metadata_helper_win.h"
 
 #include "base/compiler_specific.h"

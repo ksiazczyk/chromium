@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SurfaceControl GL surface implementation
+// summary: Implements the GLSurfaceEGLSurfaceControl presenter for Android, managing root and child SurfaceControl surfaces, hardware buffers, overlays, and presentation callbacks.
+// ---
+
 #include "ui/gl/gl_surface_egl_surface_control.h"
 
 #include <android/hardware_buffer.h>

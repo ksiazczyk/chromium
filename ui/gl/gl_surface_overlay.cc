@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceOverlay implementation
+// summary: Implements GLSurfaceOverlay, scheduling a native pixmap as an overlay plane for a widget at swap time.
+// ---
+
 #include "ui/gl/gl_surface_overlay.h"
 
 #include "ui/gfx/gpu_fence.h"

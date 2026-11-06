@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUiPlatformWayland class declaration
+// summary: Declares the GtkUiPlatformWayland class, its GtkUiPlatform overrides, and the callback for handling exported parent window handles.
+// ---
+
 #ifndef UI_GTK_WAYLAND_GTK_UI_PLATFORM_WAYLAND_H_
 #define UI_GTK_WAYLAND_GTK_UI_PLATFORM_WAYLAND_H_
 

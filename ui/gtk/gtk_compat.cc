@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK dynamic library loading
+// summary: Loads GTK3 or GTK4 and related libraries at runtime via dlopen and initializes the generated function stubs.
+// ---
+
 #include "ui/gtk/gtk_compat.h"
 
 #include <dlfcn.h>

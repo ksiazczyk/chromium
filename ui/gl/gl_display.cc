@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL display initialization with ANGLE and EGL
+// summary: Implements GL display setup, including ANGLE platform display creation, feature override attributes, adapter LUID handling, and debug layer flags for EGL-based rendering.
+// ---
+
 #include "ui/gl/gl_display.h"
 
 #include <string>

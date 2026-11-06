@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARB sync fence implementation
+// summary: Implements GLFenceARB using GL ARB_sync objects for client and server waits, completion checks, and error handling on wait failure.
+// ---
+
 #include "ui/gl/gl_fence_arb.h"
 
 #include "base/strings/stringprintf.h"

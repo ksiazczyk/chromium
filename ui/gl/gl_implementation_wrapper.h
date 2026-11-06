@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL API wrapper with tracing and logging
+// summary: Template that wraps a GL API with its trace and log variants when the corresponding GPU service command line flags are enabled.
+// ---
+
 #ifndef UI_GL_GL_IMPLEMENTATION_WRAPPER_H_
 #define UI_GL_GL_IMPLEMENTATION_WRAPPER_H_
 

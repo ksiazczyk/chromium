@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op GL surface for unit tests
+// summary: Declares GLSurfaceStub, a do-nothing GLSurface implementation used by unit tests, with settable size and buffer-flip state.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_STUB_H_
 #define UI_GL_GL_SURFACE_STUB_H_
 

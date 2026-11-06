@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the GL init directory
+summary: Grants include access to ui base features and Ozone GL and public headers for code in this directory.

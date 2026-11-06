@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL and ANGLE command-line switch definitions
+// summary: Defines command-line switch name constants for GL and ANGLE implementations, command decoders, GPU debugging, and DirectComposition swap chain formats.
+// ---
+
 #include "ui/gl/gl_switches.h"
 
 #include <array>

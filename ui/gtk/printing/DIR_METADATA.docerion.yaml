@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for the GTK printing component
+summary: Maps the GTK printing directory to the Internals>Printing issue tracker component and its Buganizer component ID.

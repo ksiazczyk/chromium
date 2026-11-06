@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL share group class declaration
+// summary: Declares GLShareGroup, a ref-counted group of GL contexts that share an ID namespace and support context virtualization.
+// ---
+
 #ifndef UI_GL_GL_SHARE_GROUP_H_
 #define UI_GL_GL_SHARE_GROUP_H_
 

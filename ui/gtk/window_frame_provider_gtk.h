@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK window frame provider header
+// summary: Declares WindowFrameProviderGtk, which supplies frame metrics such as corner radius and thickness and paints cached GTK-themed window frame bitmaps.
+// ---
+
 #ifndef UI_GTK_WINDOW_FRAME_PROVIDER_GTK_H_
 #define UI_GTK_WINDOW_FRAME_PROVIDER_GTK_H_
 

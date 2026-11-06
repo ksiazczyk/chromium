@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLFenceWin implementation
+// summary: Implements GLFenceWin on Windows by creating and opening shared D3D11 fences through ANGLE, signaling them, and exposing GPU fence handles for cross-process synchronization.
+// ---
+
 #include "ui/gl/gl_fence_win.h"
 
 #include "base/logging.h"

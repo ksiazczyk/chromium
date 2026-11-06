@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUiPlatformStub header
+// summary: Declares GtkUiPlatformStub, a default GtkUiPlatform implementation with stubbed platform-specific behavior.
+// ---
+
 #ifndef UI_GTK_GTK_UI_PLATFORM_STUB_H_
 #define UI_GTK_GTK_UI_PLATFORM_STUB_H_
 

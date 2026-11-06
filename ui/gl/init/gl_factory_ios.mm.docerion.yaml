@@ -1,0 +1,4 @@
+# Docerion header of gl_factory_ios.mm.
+type: source
+title: iOS GL factory implementation
+summary: Implements the GL factory for iOS, using ANGLE Metal to create EGL contexts and native view, offscreen, and stub surfaces.

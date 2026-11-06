@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Java Surface wrapper implementation
+// summary: Implements a scoped holder for Java Surface instances that releases the surface on destruction and can create one from a SurfaceTexture.
+// ---
+
 #include "ui/gl/android/scoped_java_surface.h"
 
 #include <utility>

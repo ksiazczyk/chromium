@@ -6,6 +6,12 @@
 // corresponds to the set of functionally distinct GL functions defined in
 // generate_bindings.py, which may originate from either desktop GL or GLES.
 
+// ---docerion
+// type: source
+// title: Stub GL API base for unit tests
+// summary: Declares GLStubApiBase, a stub GL API class used in unit tests to stand in for the functionally distinct GL functions from desktop GL or GLES bindings.
+// ---
+
 #ifndef UI_GL_GL_STUB_API_BASE_H_
 #define UI_GL_GL_STUB_API_BASE_H_
 

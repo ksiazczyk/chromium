@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition VSync thread class declaration
+// summary: Declares VSyncThreadWinDComp, the VSyncThreadWin subclass that waits on the DirectComposition compositor clock and uses VSyncProviderWinDComp.
+// ---
+
 #ifndef UI_GL_VSYNC_THREAD_WIN_DCOMP_H_
 #define UI_GL_VSYNC_THREAD_WIN_DCOMP_H_
 

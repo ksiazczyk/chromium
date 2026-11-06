@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL and ANGLE command-line switch declarations
+// summary: Declares the command-line switches used by ui/gl, including GL and ANGLE implementation names, command decoder options, and test-only flags.
+// ---
+
 #ifndef UI_GL_GL_SWITCHES_H_
 #define UI_GL_GL_SWITCHES_H_
 

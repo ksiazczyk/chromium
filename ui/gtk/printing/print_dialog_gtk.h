@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK print dialog class declaration
+// summary: Declares PrintDialogGtk, the PrintDialogLinuxInterface implementation that shows the GTK dialog and manages print settings.
+// ---
+
 #ifndef UI_GTK_PRINTING_PRINT_DIALOG_GTK_H_
 #define UI_GTK_PRINTING_PRINT_DIALOG_GTK_H_
 

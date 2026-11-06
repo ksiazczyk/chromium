@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeThemeGtk preferred color scheme tests
+// summary: Unit tests verifying that NativeThemeGtk's preferred color scheme follows the GTK theme variant, the portal preference and process-wide overrides.
+// ---
+
 #include "ui/gtk/native_theme_gtk.h"
 
 #include <glib-object.h>

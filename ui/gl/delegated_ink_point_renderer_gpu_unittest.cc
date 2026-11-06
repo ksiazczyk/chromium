@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GPU delegated ink point renderer
+// summary: Unit tests covering delegated ink trail rendering, point and metadata handling, pointer id tracking, and histogram reporting for the GPU ink renderer.
+// ---
+
 #include "ui/gl/delegated_ink_point_renderer_gpu.h"
 
 #include <memory>

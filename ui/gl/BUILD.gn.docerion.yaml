@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui/gl component
+summary: Defines GN targets, buildflags, and dummy ANGLE stub libraries for building the gl component and its dependencies.

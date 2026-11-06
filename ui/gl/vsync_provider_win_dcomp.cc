@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition VSync provider implementation
+// summary: Implements a VSync provider that reads vsync timebase and interval from the DirectComposition compositor clock, caching previous frame stats when queries fail.
+// ---
+
 #include "ui/gl/vsync_provider_win_dcomp.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the GTK X11 directory
+summary: Lists hidehiko@chromium.org as owner for input-related changes in ui/gtk/x and refers other changes to owners in the parent directory.

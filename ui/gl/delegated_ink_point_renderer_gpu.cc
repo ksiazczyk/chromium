@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU delegated ink point renderer implementation
+// summary: Implements the GPU-backed delegated ink renderer that draws ink trails through DirectComposition on Windows, including initialization, support checks, and metrics reporting.
+// ---
+
 #include "ui/gl/delegated_ink_point_renderer_gpu.h"
 
 #include <algorithm>

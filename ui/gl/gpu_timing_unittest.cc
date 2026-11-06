@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GPU timing classes
+// summary: Unit tests for GPUTiming and GPUTimingClient covering fake CPU time, forced elapsed queries, timestamp queries, and disjoint timer behavior using mock GL bindings.
+// ---
+
 #include "ui/gl/gpu_timing.h"
 
 #include <stdint.h>

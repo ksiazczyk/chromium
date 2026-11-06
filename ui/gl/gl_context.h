@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL context class declaration
+// summary: Declares the GLContext base class with context attributes, priority and ANGLE virtualization group enums, and context management interfaces.
+// ---
+
 #ifndef UI_GL_GL_CONTEXT_H_
 #define UI_GL_GL_CONTEXT_H_
 

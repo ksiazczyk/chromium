@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native fence sync class declaration
+// summary: Declares GLFenceAndroidNativeFenceSync, an EGL-based GLFenceEGL subclass for Android native fence GPU fence handles.
+// ---
+
 #ifndef UI_GL_GL_FENCE_ANDROID_NATIVE_FENCE_SYNC_H_
 #define UI_GL_GL_FENCE_ANDROID_NATIVE_FENCE_SYNC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUi class interface for GTK desktop features
+// summary: Declares the GtkUi class implementing LinuxUiAndTheme, exposing GTK theming, fonts, dialogs, printing, cursor themes, and input methods to Chromium.
+// ---
+
 #ifndef UI_GTK_GTK_UI_H_
 #define UI_GTK_GTK_UI_H_
 

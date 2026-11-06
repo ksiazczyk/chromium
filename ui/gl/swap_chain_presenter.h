@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapChainPresenter class declaration
+// summary: Declares SwapChainPresenter, which holds a swap chain and DirectComposition visuals for a single overlay layer and presents overlay images via PresentToSwapChain.
+// ---
+
 #ifndef UI_GL_SWAP_CHAIN_PRESENTER_H_
 #define UI_GL_SWAP_CHAIN_PRESENTER_H_
 

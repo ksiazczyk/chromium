@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShaderTracking implementation
+// summary: Implements the Windows-only ShaderTracking singleton that records and retrieves the current shader pair under a lock for diagnostics.
+// ---
+
 #include "ui/gl/shader_tracking.h"
 
 #include "base/check.h"

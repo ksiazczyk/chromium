@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK cross-version type shims
+// summary: Supplies GTK and GDK types, enums, and constants missing from one GTK version so code builds against GTK3 and GTK4.
+// ---
+
 #ifndef UI_GTK_GTK_TYPES_H_
 #define UI_GTK_GTK_TYPES_H_
 

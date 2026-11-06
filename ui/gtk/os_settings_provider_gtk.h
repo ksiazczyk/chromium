@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK OS settings provider declaration
+// summary: Declares OsSettingsProviderGtk, which reports GTK-derived OS settings and accepts accent color and color-scheme values pushed from the xdg-desktop-portal.
+// ---
+
 #ifndef UI_GTK_OS_SETTINGS_PROVIDER_GTK_H_
 #define UI_GTK_OS_SETTINGS_PROVIDER_GTK_H_
 

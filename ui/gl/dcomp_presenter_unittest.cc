@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DCompPresenter unit tests
+// summary: Unit tests for DCompPresenter covering swap results, layer scheduling, and rendered pixel output via Skia gold diffs on Windows.
+// ---
+
 #include "ui/gl/dcomp_presenter.h"
 
 #include <wrl/client.h>

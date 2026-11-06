@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLSurfaceEGL unit tests
+// summary: Unit tests for EGL GL surfaces that initialize an ANGLE EGL display and check surface sizing and resizing behavior with a native window on Windows.
+// ---
+
 #include "ui/gl/gl_surface_egl.h"
 
 #include "base/memory/raw_ptr.h"

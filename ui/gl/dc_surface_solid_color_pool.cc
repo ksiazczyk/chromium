@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCSurfaceSolidColorPool implementation
+// summary: Implements DCSurfaceSolidColorPool, which creates and fills IDCompositionSurface entries with solid colors for DirectComposition solid color quads.
+// ---
+
 #include "ui/gl/dc_surface_solid_color_pool.h"
 
 #include <utility>

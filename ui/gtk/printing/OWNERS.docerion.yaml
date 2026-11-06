@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the GTK printing directory
+summary: Delegates code ownership and review for this directory to the owners of the top-level printing directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedGLFenceEGL implementation
+// summary: Implements SharedGLFenceEGL, which lets consumers on the same GL context share one EGL fence and perform a single server-side wait on it.
+// ---
+
 #include "ui/gl/shared_gl_fence_egl.h"
 
 #include "base/logging.h"

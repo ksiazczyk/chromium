@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL bindings EGL extension helpers
+// summary: Implements EGL display and client extension querying, including conditional disabling of EGL_KHR_fence_sync and EGL_KHR_wait_sync via driver bug workarounds.
+// ---
+
 #include "ui/gl/gl_bindings.h"
 
 #include <EGL/egl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK version compatibility declarations
+// summary: Declares version checks and wrapper functions that unify GTK3 and GTK4 APIs behind stable helpers.
+// ---
+
 #ifndef UI_GTK_GTK_COMPAT_H_
 #define UI_GTK_GTK_COMPAT_H_
 

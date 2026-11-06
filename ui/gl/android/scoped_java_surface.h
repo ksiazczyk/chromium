@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Java Surface wrapper declarations
+// summary: Declares the ScopedJavaSurface class holding a scoped reference to a Java Surface with automatic release and validity checks.
+// ---
+
 #ifndef UI_GL_ANDROID_SCOPED_JAVA_SURFACE_H_
 #define UI_GL_ANDROID_SCOPED_JAVA_SURFACE_H_
 

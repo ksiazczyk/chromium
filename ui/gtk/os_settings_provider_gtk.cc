@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK OS settings provider implementation
+// summary: Implements OsSettingsProviderGtk, exposing GTK-derived color scheme, contrast, overlay scrollbars, accent color and caret blink interval settings.
+// ---
+
 #include "ui/gtk/os_settings_provider_gtk.h"
 
 #include <glib-object.h>

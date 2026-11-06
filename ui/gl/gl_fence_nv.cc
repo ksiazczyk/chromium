@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLFenceNV implementation
+// summary: Implements GLFenceNV using the GL_NV_fence extension, wrapping fence generation, setting, testing, finishing, and deletion for GPU synchronization.
+// ---
+
 #include "ui/gl/gl_fence_nv.h"
 
 #include "ui/gl/gl_bindings.h"

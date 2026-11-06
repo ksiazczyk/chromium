@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK navigation button provider implementation
+// summary: Implements NavButtonProviderGtk, loading and rendering window control button icons such as minimize, maximize and close from GTK icon themes.
+// ---
+
 #include "ui/gtk/nav_button_provider_gtk.h"
 
 #include <cmath>

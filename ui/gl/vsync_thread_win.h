@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows VSync thread class declaration
+// summary: Declares VSyncThreadWin, a singleton thread wrapper that waits for the primary monitor vblank and notifies vsync observers, used by ExternalBeginFrameSourceWin.
+// ---
+
 #ifndef UI_GL_VSYNC_THREAD_WIN_H_
 #define UI_GL_VSYNC_THREAD_WIN_H_
 

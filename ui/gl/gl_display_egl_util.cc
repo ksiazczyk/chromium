@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLDisplayEglUtil singleton implementation
+// summary: Provides the GLDisplayEglUtil singleton, falling back to a stub implementation when no platform-specific instance has been set.
+// ---
+
 #include "ui/gl/gl_display_egl_util.h"
 
 #include <optional>

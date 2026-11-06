@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped GL framebuffer RAII wrapper
+// summary: Declares a ScopedGeneric wrapper that automatically deletes a framebuffer ID when it goes out of scope, along with a creation helper.
+// ---
+
 #ifndef UI_GL_SCOPED_GL_FRAMEBUFFER_H_
 #define UI_GL_SCOPED_GL_FRAMEBUFFER_H_
 

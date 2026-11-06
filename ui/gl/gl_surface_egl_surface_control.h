@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SurfaceControl GL surface declarations
+// summary: Declares GLSurfaceEGLSurfaceControl, an Android presenter that composites GL content through SurfaceControl surfaces, transactions, overlays, and frame rate control.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_EGL_SURFACE_CONTROL_H_
 #define UI_GL_GL_SURFACE_EGL_SURFACE_CONTROL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL implementation Mojom traits header
+// summary: Declares EnumTraits and StructTraits specializations mapping GL implementation C++ types to their Mojom data views.
+// ---
+
 #ifndef UI_GL_MOJOM_GL_IMPLEMENTATION_MOJOM_TRAITS_H_
 #define UI_GL_MOJOM_GL_IMPLEMENTATION_MOJOM_TRAITS_H_
 

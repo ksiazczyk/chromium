@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OS compositor tree base
+// summary: Unit tests for OsCompositorTreeBase that use a MiniTree mock of Direct Composition or Core Animation to verify incremental overlay tree updates.
+// ---
+
 #include "ui/gl/os_compositor_tree_base.h"
 
 #include <algorithm>

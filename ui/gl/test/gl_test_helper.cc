@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLTestHelper implementation for GL test setup
+// summary: Implements helpers that create textures and framebuffers, create offscreen GL surfaces and contexts, and on Windows read back window pixels for verification.
+// ---
+
 #include "ui/gl/test/gl_test_helper.h"
 
 #include <memory>

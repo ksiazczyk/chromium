@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presenter interface for overlay plane presentation
+// summary: Declares the Presenter abstraction around system APIs for presenting overlay planes, including resize, plane scheduling, and presentation callbacks across platforms.
+// ---
+
 #ifndef UI_GL_PRESENTER_H_
 #define UI_GL_PRESENTER_H_
 

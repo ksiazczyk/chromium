@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition VSync thread implementation
+// summary: Implements the DirectComposition variant of the vsync thread that waits on the compositor clock with a timeout fallback for adapter disconnection or occlusion.
+// ---
+
 #include "ui/gl/vsync_thread_win_dcomp.h"
 
 #include "base/time/time.h"

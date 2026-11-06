@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE implementation enum
+// summary: Defines the ANGLEImplementation enum naming ANGLE backends such as D3D11, OpenGL, Vulkan, Metal, and SwiftShader.
+// ---
+
 #ifndef UI_GL_ANGLE_IMPLEMENTATION_H_
 #define UI_GL_ANGLE_IMPLEMENTATION_H_
 

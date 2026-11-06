@@ -1,0 +1,4 @@
+# Docerion header of gtk.fragment.
+type: data
+title: Header fragment for GTK stub generation
+summary: Supplies the extra include line that the stub generator inserts into the generated GTK stub code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUiPlatformStub implementation
+// summary: Implements GtkUiPlatform with no-op or minimal behavior, returning null contexts and using gtk_window_present to show windows.
+// ---
+
 #include "ui/gtk/gtk_ui_platform_stub.h"
 
 #include "base/functional/callback.h"

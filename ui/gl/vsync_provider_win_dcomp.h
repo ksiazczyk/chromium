@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition VSync provider class declaration
+// summary: Declares VSyncProviderWinDComp, a gfx::VSyncProvider that uses the DirectComposition compositor clock instead of DWM or QueryDisplayConfig.
+// ---
+
 #ifndef UI_GL_VSYNC_PROVIDER_WIN_DCOMP_H_
 #define UI_GL_VSYNC_PROVIDER_WIN_DCOMP_H_
 

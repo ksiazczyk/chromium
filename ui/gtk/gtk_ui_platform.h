@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUiPlatform interface for platform-specific GTK functionality
+// summary: Defines the abstract GtkUiPlatform interface encapsulating platform-specific operations such as GdkWindow creation, dialog transiency, and input method contexts.
+// ---
+
 #ifndef UI_GTK_GTK_UI_PLATFORM_H_
 #define UI_GTK_GTK_UI_PLATFORM_H_
 

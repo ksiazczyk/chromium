@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLFenceWin unit tests
+// summary: Unit tests for GLFenceWin using D3D11 mocks to verify graceful failure without ID3D11Device5, shared fence creation flags, signaling, and opening fences from handles.
+// ---
+
 #include <d3d11_3.h>
 
 #include "media/base/win/d3d11_mocks.h"

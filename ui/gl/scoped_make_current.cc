@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMakeCurrent implementation
+// summary: Implements ScopedMakeCurrent, which makes a given GL context current with a surface and restores the previous context on destruction.
+// ---
+
 #include "ui/gl/scoped_make_current.h"
 
 #include "base/check.h"

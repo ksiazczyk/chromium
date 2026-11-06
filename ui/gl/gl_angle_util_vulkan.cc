@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE Vulkan object query helpers implementation
+// summary: Implements helpers that query Vulkan instances, devices, queues, versions, and extensions from ANGLE through EGL device attributes.
+// ---
+
 #include "ui/gl/gl_angle_util_vulkan.h"
 
 #include "third_party/angle/include/EGL/egl.h"

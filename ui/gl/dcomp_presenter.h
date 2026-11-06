@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCompPresenter class declaration
+// summary: Declares DCompPresenter, which owns the DComp layer tree and handles resize, overlay scheduling, present, vsync, and delegated ink rendering.
+// ---
+
 #ifndef UI_GL_DCOMP_PRESENTER_H_
 #define UI_GL_DCOMP_PRESENTER_H_
 

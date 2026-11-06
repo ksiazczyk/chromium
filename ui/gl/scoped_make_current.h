@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedMakeCurrent class declaration
+// summary: Declares ScopedMakeCurrent, which makes a context current with a surface, reports success, and restores the previous context on destruction.
+// ---
+
 #ifndef UI_GL_SCOPED_MAKE_CURRENT_H_
 #define UI_GL_SCOPED_MAKE_CURRENT_H_
 

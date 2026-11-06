@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkUiPlatformX11 implementation
+// summary: Implements the GtkUiPlatform interface for X11, covering GDK window lookup, transient-for window properties, window activation, and input method context creation.
+// ---
+
 #include "ui/gtk/x/gtk_ui_platform_x11.h"
 
 #include "base/check.h"

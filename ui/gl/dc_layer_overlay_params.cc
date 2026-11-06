@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCLayerOverlayParams implementation
+// summary: Provides default constructors, destructors, and move operations for the DCLayerOverlayParams struct and its nested VideoParams struct.
+// ---
+
 #include "ui/gl/dc_layer_overlay_params.h"
 
 namespace gl {

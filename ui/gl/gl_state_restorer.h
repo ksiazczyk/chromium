@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL state restorer interface
+// summary: Declares an interface for restoring GL state such as texture, framebuffer, program, and buffer bindings plus queries and transform feedback.
+// ---
+
 #ifndef UI_GL_GL_STATE_RESTORER_H_
 #define UI_GL_GL_STATE_RESTORER_H_
 

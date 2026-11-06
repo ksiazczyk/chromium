@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK printing utility declarations
+// summary: Declares the GTK printing helpers and a ScopedGKeyFile wrapper used to capture system print dialog data for out-of-process printing.
+// ---
+
 #ifndef UI_GTK_PRINTING_PRINTING_GTK_UTIL_H_
 #define UI_GTK_PRINTING_PRINTING_GTK_UTIL_H_
 

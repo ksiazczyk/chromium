@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for D3D11 and DXGI debug name helpers
+// summary: Declares SetDebugName functions that assign debug names to D3D11 and DXGI objects for use with ETW debugging tools.
+// ---
+
 #ifndef UI_GL_DEBUG_UTILS_H_
 #define UI_GL_DEBUG_UTILS_H_
 

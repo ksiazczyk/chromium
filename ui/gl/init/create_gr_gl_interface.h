@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of CreateGrGLInterface
+// summary: Declares the function that creates a Skia GrGLInterface from the current GL bindings using version info and an optional progress reporter.
+// ---
+
 #ifndef UI_GL_INIT_CREATE_GR_GL_INTERFACE_H_
 #define UI_GL_INIT_CREATE_GR_GL_INTERFACE_H_
 

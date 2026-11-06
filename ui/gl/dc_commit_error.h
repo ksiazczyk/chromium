@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommitError struct for DirectComposition commit failures
+// summary: Defines the CommitError struct with a Reason enum pinpointing the source of DirectComposition commit errors and an optional failing Windows HRESULT.
+// ---
+
 #ifndef UI_GL_DC_COMMIT_ERROR_H_
 #define UI_GL_DC_COMMIT_ERROR_H_
 

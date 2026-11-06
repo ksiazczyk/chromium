@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE Vulkan helper function declarations
+// summary: Declares helper functions for querying Vulkan objects, extensions, and features from ANGLE and for locking or unlocking the Vulkan queue.
+// ---
+
 #ifndef UI_GL_GL_ANGLE_UTIL_VULKAN_H_
 #define UI_GL_GL_ANGLE_UTIL_VULKAN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL GL surface for X11 GLES2 (header)
+// summary: Declares NativeViewGLSurfaceEGLX11GLES2, an X11 EGL surface variant handling config, resize, and events.
+// ---
+
 #ifndef UI_GL_GL_SURFACE_EGL_X11_GLES2_H_
 #define UI_GL_GL_SURFACE_EGL_X11_GLES2_H_
 

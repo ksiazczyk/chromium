@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL feature flag implementations
+// summary: Implements GPU feature flags and helpers for vsync, passthrough command decoder selection, ANGLE feature lists, and SwiftShader fallback across platforms.
+// ---
+
 #include "ui/gl/gl_features.h"
 
 #include "base/byte_size.h"

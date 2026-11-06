@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DCOMPSurfaceRegistry concurrency stress tests
+// summary: Stress tests concurrent registration and taking of surface handles in DCOMPSurfaceRegistry to expose data races under sanitizers.
+// ---
+
 #include "ui/gl/dcomp_surface_registry.h"
 
 #include <windows.h>

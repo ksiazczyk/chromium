@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLEnums class declaration for GL enum string helpers
+// summary: Declares the gl::GLEnums class with static helpers that convert GL enum values, booleans, and error codes into string representations.
+// ---
+
 #ifndef UI_GL_GL_ENUMS_H_
 #define UI_GL_GL_ENUMS_H_
 

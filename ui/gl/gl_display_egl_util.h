@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLDisplayEglUtil platform hook interface
+// summary: Declares the GLDisplayEglUtil singleton interface that platforms implement to supply extra EGL display attributes and custom alpha or buffer sizes.
+// ---
+
 #ifndef UI_GL_GL_DISPLAY_EGL_UTIL_H_
 #define UI_GL_GL_DISPLAY_EGL_UTIL_H_
 

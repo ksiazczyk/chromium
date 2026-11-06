@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL version and driver info parsing
+// summary: Parses OpenGL ES version and renderer strings to detect ANGLE, Mesa, SwiftShader, and D3D backends and extract driver vendor and version details.
+// ---
+
 #include "ui/gl/gl_version_info.h"
 
 #include <map>

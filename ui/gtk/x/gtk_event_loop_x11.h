@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtkEventLoopX11 class declaration
+// summary: Declares the GtkEventLoopX11 class that hooks GDK event dispatch on GTK3 and GTK4 to route key events through the X11 event loop.
+// ---
+
 #ifndef UI_GTK_X_GTK_EVENT_LOOP_X11_H_
 #define UI_GTK_X_GTK_EVENT_LOOP_X11_H_
 

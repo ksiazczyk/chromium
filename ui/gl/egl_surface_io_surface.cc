@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEGLSurfaceIOSurface implementation
+// summary: Implements ScopedEGLSurfaceIOSurface, which creates EGL PBuffer surfaces backed by IOSurfaces and binds them to EGL textures via the EGL_ANGLE_iosurface_client_buffer extension.
+// ---
+
 #include "ui/gl/egl_surface_io_surface.h"
 
 #include "base/check_op.h"
