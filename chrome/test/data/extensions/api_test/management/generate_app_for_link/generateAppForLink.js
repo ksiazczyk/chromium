@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: generateAppForLink API test script
+// summary: Runs browser tests for chrome.management.generateAppForLink, covering the user gesture requirement, invalid URLs, empty titles, and successful app creation from short and long URLs.
+// ---
+
 function testGenerateAppForLink(url, title, error, func) {
   chrome.test.runWithUserGesture(function() {
     if (error) {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the InstanceID getCreationTime test app
+summary: Manifest version 2 extension manifest for the test app, loading get_creation_time.js as a background script with the gcm permission.

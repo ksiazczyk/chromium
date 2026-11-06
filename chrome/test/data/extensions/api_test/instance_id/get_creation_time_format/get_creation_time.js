@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceID getCreationTime milliseconds browser test
+// summary: Browser test verifying that chrome.instanceID.getCreationTime returns a timestamp in milliseconds since the epoch, as a regression test for crbug.com/400486346.
+// ---
+
 chrome.test.runTests([
 
   // Regression test for crbug.com/400486346.

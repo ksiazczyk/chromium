@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Launch App in Panel test extension
+summary: Manifest version 2 extension manifest granting the management permission and configuring the app to launch launch.html in a panel container.

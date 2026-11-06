@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for management description API test
+summary: Manifest for a test extension with a short description, used by the management API description browser test.

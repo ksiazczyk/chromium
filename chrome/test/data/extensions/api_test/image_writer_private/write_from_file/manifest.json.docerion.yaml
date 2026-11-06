@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Image Writer Private test app
+summary: Chrome App manifest requesting the imageWriterPrivate and fileSystem permissions needed by the write-from-file API test.

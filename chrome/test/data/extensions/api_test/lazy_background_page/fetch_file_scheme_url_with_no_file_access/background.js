@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for file scheme fetch test
+// summary: Runs a test asserting that fetching a file scheme URL fails with 'Failed to fetch' when the extension has no file access.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
     async function fetchFileSchemeResource() {

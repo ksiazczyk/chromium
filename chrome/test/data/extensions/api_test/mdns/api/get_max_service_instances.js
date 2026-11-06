@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: mDNS MAX_SERVICE_INSTANCES_PER_EVENT constant test
+// summary: Browser test asserting that the chrome.mdns MAX_SERVICE_INSTANCES_PER_EVENT constant is set to a positive value.
+// ---
+
 onload = function() {
   chrome.test.runTests([
     function getMaxServiceInstancesPerEvent() {

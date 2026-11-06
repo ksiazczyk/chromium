@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Disabled app test extension manifest
+summary: Manifest fixture defining a simple app named disabled_app, used by the Chrome management API extension test for disabled apps.

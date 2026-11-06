@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture lazy background page test background script
+// summary: Background script for the lazy background page Picture-in-Picture API test that loads a test video and enters or exits Picture-in-Picture, reporting progress via test messages.
+// ---
+
 const video = document.createElement('video');
 
 function loadVideo() {

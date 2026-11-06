@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for lazy background page wait_for_view test extension
+summary: Manifest for the test extension declaring a non-persistent background script and the tabs permission to test lazy background page lifetime with open views.

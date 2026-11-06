@@ -1,0 +1,4 @@
+# Docerion header of get_max_service_instances.html.
+type: test
+title: mDNS max service instances test page
+summary: HTML page that loads get_max_service_instances.js for the mDNS API browser test.

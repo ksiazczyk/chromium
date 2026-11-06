@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: test
+// title: imageWriterPrivate list devices test
+// summary: Browser test that calls listRemovableStorageDevices and asserts the returned device list matches expected vendor, model, capacity and removable values.
+// ---
+
 // storage_unit_id is skipped because it is generated to point at a temporary
 // file.
 const expectedDevices = [

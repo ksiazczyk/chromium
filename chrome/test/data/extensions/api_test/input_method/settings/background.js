@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method settings API browser tests
+// summary: Runs chrome.test cases verifying get, set, update and per-IME behavior of chrome.inputMethodPrivate settings plus the onInputMethodOptionsChanged event.
+// ---
+
 chrome.test.runTests([
   // Test getting the settings for an engine with no settings.
   function getUnsetKey() {

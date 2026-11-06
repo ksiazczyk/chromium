@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the lazy background page filters test extension
+summary: Manifest v2 extension manifest granting the webNavigation permission and declaring a non-persistent background page for the test.

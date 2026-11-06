@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for permissionless management API test extension
+summary: Manifest for a test extension verifying that management APIs work without the management permission, registering test.js as a service worker.

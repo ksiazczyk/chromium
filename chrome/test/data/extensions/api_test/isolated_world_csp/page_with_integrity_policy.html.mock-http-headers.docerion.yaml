@@ -1,0 +1,4 @@
+# Docerion header of page_with_integrity_policy.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the integrity policy test page
+summary: Mock HTTP response headers that serve the integrity policy test page with an Integrity-Policy that blocks script destinations.

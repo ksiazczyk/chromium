@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for lazy background page incognito split test
+summary: Manifest version 2 extension manifest declaring split incognito mode, a non-persistent background script, and bookmarks permission for the API test.

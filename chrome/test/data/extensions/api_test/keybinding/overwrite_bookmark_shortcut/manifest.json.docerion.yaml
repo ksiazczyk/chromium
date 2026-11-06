@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for bookmark shortcut overwrite test extension
+summary: Extension manifest declaring a Ctrl+D command and a bookmark UI override used by the keybinding overwrite API test.

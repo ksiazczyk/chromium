@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of ExtensionA test extension
+summary: Manifest declaring ExtensionA with the management permission and a background service worker for the uninstall-via-browser-action API test.

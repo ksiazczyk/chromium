@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: internal_extension test manifest
+summary: Minimal manifest defining the internal_extension test extension used by the management API browser tests.

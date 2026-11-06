@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for lazy background wait for dialog test
+summary: Manifest version 2 extension manifest declaring a non-persistent background script for the test that lazy background pages stay alive while a dialog is open.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Incognito split-mode test extension manifest
+summary: Manifest for the incognito split-mode API test extension, declaring the background script, split incognito mode, and tabs, bookmarks, and host permissions.

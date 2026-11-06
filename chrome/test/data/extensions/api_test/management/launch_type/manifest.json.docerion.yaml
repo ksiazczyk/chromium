@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Management API test manifest
+summary: Manifest for the test extension, granting the management permission and registering launchType.js as its background service worker.

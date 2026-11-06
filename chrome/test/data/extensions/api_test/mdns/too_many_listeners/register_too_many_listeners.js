@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test registering too many mDNS event listeners
+// summary: Adds ten chrome.mdns.onServiceList listeners and asserts that adding an eleventh throws a 'Too many listeners' error, then removes the listeners.
+// ---
+
 chrome.test.runTests([function registerListeners() {
   // Add the maximum number of listeners.
   const listeners = [];

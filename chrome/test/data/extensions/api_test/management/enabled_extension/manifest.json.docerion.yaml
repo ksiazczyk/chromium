@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for enabled_extension test extension
+summary: Manifest defining the enabled_extension test extension with icons and a homepage URL, used as test data for the management API browser tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MV3 strict isolated world CSP test extension manifest
+summary: Manifest for the MV3 isolated world CSP test extension, registering content scripts for the eval, JavaScript URL, and remote script test pages.

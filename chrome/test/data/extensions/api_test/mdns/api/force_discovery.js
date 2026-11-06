@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: mDNS forceDiscovery API test
+// summary: Browser test that registers an mDNS service listener and verifies chrome.mdns.forceDiscovery completes without error.
+// ---
+
 onload = function() {
   chrome.test.runTests([
     function registerListener() {

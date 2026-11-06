@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Update manifest for login screen API test extensions
+summary: GUpdate manifest that serves extension.crx and in_session_extension.crx from a mock test server address substituted at runtime.
+-->
+
 <!--
   This update manifest points to the ./extension.crx and
   ./in_session_extension.ctx files. "mock.http" is a  placeholder that gets

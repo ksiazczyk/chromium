@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions API test extension manifest
+summary: Manifest for the management.permissions extension API test, declaring unlimitedStorage and notifications permissions plus broad host permissions.

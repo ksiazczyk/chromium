@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Image Writer Private test extension manifest
+summary: Manifest for the list_devices API test extension, declaring the imageWriterPrivate permission and a background service worker at test.js.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Login screen APIs test extensions
+summary: Explains the WebStore-signed test extension packages, their allowlisted IDs, the APIs each is used for, and how to publish new versions.
+---
+
 The .crx packages must be signed by WebStore in order for the extensions to
 have the expected IDs which are allowlisted in Chrome.
 The expected IDs are:

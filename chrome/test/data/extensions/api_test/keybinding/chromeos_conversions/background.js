@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for ChromeOS keybinding conversion test extension
+// summary: Listens for extension commands and fails on unexpected ones, passing the test once the four expected Search+Shift commands arrive in order.
+// ---
+
 // A list of all commands sorted in expected order.
 const expectedCommands = [
   'Search-Shift-Left',

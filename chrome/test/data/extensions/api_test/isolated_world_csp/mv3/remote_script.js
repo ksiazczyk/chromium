@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MV3 isolated world CSP remote script test
+// summary: Injects a remote script from the test server and expects the load to fail under the MV3 isolated world Content Security Policy.
+// ---
+
 chrome.test.getConfig(config => {
   const port = config.testServer.port;
 

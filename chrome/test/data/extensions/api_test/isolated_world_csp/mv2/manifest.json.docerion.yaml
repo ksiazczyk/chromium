@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the MV2 isolated world CSP test extension
+summary: Manifest v2 for the test extension, injecting eval.js, javascript_url.js and remote_script.js as content scripts on matching hosts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the non-global media keys keybinding test
+// summary: Extension background script that listens for the MediaStop command and notifies the test framework of pass or fail when unexpected commands arrive.
+// ---
+
 // Called when the user activates the command.
 chrome.commands.onCommand.addListener(function(command) {
   if (command === 'MediaStop-non-global') {

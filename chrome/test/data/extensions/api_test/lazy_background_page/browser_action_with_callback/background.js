@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action test background script
+// summary: Background script for a lazy background page browser action test that opens or focuses the extensions page when the browser action is clicked.
+// ---
+
 chrome.browserAction.onClicked.addListener(function(tab) {
   // Look for an existing tab for the extensions page before opening a new one.
   chrome.windows.getCurrent(null, function(window) {

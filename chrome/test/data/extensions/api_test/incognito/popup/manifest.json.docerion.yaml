@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Incognito popup tester extension manifest
+summary: Manifest for the Incognito popup tester extension used by the incognito popup API test, declaring the tabs permission and the default popup page.

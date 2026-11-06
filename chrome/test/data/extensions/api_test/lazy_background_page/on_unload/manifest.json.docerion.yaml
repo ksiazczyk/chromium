@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onSuspend unload test extension
+summary: Extension manifest declaring a non-persistent background page used by the onSuspend event test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest for the installable web app test
+summary: Web app manifest declaring the app name, a 512x512 PNG icon, start URL and browser display mode for the test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Get Session State browser test extension
+summary: Manifest for a Chrome browser test extension that registers test.js as a service worker and requests the loginState permission to test getSessionState().

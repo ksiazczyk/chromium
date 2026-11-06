@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Conflicting keybinding test extension manifest
+summary: Manifest for the conflicting keybinding test extension, defining commands with suggested keyboard shortcuts and a service worker background.

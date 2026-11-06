@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for event page with web iframe test
+summary: Manifest v2 fixture for the test extension, declaring event_page.html as a non-persistent background page with the activeTab permission.

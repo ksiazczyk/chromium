@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Management API Test manifest
+summary: Manifest for the Extension Management API test extension, requesting the management permission.

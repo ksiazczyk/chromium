@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for inputMethodPrivate typing tests
+// summary: Runs chrome.test cases that commit text, set composition ranges, and verify IME composition behavior via the inputMethodPrivate API.
+// ---
+
 class TestEnv {
   constructor() {
     this.inputContext = null;

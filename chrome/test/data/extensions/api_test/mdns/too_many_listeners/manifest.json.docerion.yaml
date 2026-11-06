@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the MDNS too many listeners test extension
+summary: Extension manifest for the mDNS API test, requesting the mdns permission and loading register_too_many_listeners.js as the background service worker.

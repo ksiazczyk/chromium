@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Lazy background page messaging test extension manifest
+summary: Manifest for the test extension declaring a non-persistent background page and a content script used to test message passing.

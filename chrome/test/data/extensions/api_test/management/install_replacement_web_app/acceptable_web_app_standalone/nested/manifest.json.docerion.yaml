@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Nested Installable web app manifest
+summary: Web app manifest declaring a standalone nested installable app with a 512px icon, used as test data for the management API test.

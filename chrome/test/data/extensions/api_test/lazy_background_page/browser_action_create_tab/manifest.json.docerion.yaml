@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the browser action create tab test extension
+summary: Manifest for a test extension with a non-persistent background page and a browser action that opens a tab.

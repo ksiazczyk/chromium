@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME menu API test background script
+// summary: Background script for the IME menu extension API test that checks the initial IME menu state and signals activation change events to the ChromeOS test runner.
+// ---
+
 chrome.inputMethodPrivate.getInputMethodConfig(function(config) {
   chrome.test.assertTrue(config['isImeMenuActivated']);
   chrome.test.sendMessage('config_ready');

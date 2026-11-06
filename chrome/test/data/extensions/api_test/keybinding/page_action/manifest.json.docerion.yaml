@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Page action keybinding test extension manifest
+summary: Manifest for the keybinding page action test extension, defining a service worker background, tabs permission, and an Alt+Shift+F command to trigger the action.

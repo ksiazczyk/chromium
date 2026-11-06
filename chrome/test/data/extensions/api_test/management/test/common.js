@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common helpers for management API tests
+// summary: Shared helper functions for the extension management API browser tests, providing item lookup and property verification utilities.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertFalse = chrome.test.assertFalse;
 const assertLastError = chrome.test.assertLastError;

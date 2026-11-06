@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Broadcast event test extension manifest
+summary: Manifest for the Stegosaurus test extension, declaring a non-persistent background script, tabs permission, icons and a page action for the broadcast_event API test.

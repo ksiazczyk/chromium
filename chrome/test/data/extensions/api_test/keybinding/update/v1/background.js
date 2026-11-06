@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keybinding update test extension background script
+// summary: Background script for the keybinding update test extension that injects a script turning the page red when the browser action is clicked and notifies the test of success.
+// ---
+
 // Called when the user clicks on the browser action.
 chrome.action.onClicked.addListener(function(tab) {
   chrome.scripting.executeScript({

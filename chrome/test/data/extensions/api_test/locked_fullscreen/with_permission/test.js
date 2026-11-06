@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locked fullscreen window API test service worker
+// summary: Service worker running chrome.test cases that create, update, and exit locked-fullscreen windows, including error handling for incorrect URL counts and incompatible windows.
+// ---
+
 const openLockedFullscreenWindow = async function() {
   const window = await chrome.windows.create(
       {url: 'about:blank', state: 'locked-fullscreen'});

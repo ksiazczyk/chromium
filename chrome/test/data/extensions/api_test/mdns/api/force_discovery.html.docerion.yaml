@@ -1,0 +1,4 @@
+# Docerion header of force_discovery.html.
+type: test
+title: mDNS force discovery test page
+summary: HTML page that loads force_discovery.js to run the mDNS forceDiscovery browser test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension B manifest
+summary: Manifest for the ExtensionB helper extension that gets uninstalled during the management uninstall via browser action API test.

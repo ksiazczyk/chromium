@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: version_name test extension manifest
+summary: Manifest for a test extension used in management API tests, declaring version 0.1 with version_name "0.1 beta".

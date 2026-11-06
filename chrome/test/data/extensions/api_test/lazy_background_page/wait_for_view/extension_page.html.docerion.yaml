@@ -1,0 +1,4 @@
+# Docerion header of extension_page.html.
+type: test
+title: Empty extension page for lazy background page wait_for_view test
+summary: Empty extension page opened by the background script so the test can verify the lazy background page stays alive until all extension views are closed.

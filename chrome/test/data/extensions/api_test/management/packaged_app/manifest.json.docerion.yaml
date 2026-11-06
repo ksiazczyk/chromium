@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Packaged app test manifest
+summary: Manifest for a minimal packaged app fixture with a background script, used by the management API browser test.

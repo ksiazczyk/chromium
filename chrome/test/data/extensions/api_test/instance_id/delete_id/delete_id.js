@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceID deleteID API browser test
+// summary: Runs chrome.test browser tests for chrome.instanceID.deleteID, covering promise and callback usage and verifying a new ID is issued after deletion.
+// ---
+
 async function deleteIDWithoutCallback() {
   try {
     await chrome.instanceID.deleteID();

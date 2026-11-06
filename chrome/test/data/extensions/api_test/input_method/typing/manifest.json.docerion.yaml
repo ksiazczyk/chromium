@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the inputMethodPrivate test extension
+summary: Extension manifest declaring the test IME, background script, and the input and inputMethodPrivate permissions needed by the API tests.

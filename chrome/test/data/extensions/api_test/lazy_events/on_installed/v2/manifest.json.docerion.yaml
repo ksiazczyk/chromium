@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onInstalled lazy events test extension
+summary: Manifest version 2 definition naming the extension as a lazy events runtime.onInstalled test and registering background.js as its background script.

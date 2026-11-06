@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for mdns extension API tests
+summary: Delegates ownership of the mdns extension API test data to the owners of the mdns browser extension API by referencing its OWNERS file.

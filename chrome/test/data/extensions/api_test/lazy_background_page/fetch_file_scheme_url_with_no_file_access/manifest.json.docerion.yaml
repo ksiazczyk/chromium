@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for lazy background page fetch test extension
+summary: Manifest for the test extension using a non-persistent background page to verify file scheme fetches fail without file access.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management API launch type browser test
+// summary: Browser test that verifies chrome.management.setLaunchType behavior, available launch types, and user gesture requirements for apps and extensions.
+// ---
+
 let enabledApp;
 let disabledApp;
 let enabledExtension;

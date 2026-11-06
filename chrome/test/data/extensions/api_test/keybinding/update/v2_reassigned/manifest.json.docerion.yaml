@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for reassigned keybinding test extension
+summary: Manifest for the v2 reassigned keybinding test extension, defining the service worker background and binding Alt+Shift+J to the browser action.

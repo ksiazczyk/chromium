@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the media key reassignment update test extension
+summary: Manifest version 3 for the 2.0 test extension that registers a global MediaPlayPause command to verify reassigned media keys are not reinstated during an update.

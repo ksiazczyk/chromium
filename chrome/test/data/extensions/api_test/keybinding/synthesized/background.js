@@ -11,6 +11,12 @@
 // Run with browser_tests:
 //     --gtest_filter=CommandsApiTest.SynthesizedCommand
 
+// ---docerion
+// type: test
+// title: Background script for synthesized command test
+// summary: Background script for the CommandsApiTest.SynthesizedCommand browser test, asserting chrome.commands.getAll returns a synthesized inactive shortcut command for a browser action.
+// ---
+
 // Called when the user clicks on the browser action.
 chrome.action.onClicked.addListener(function() {});
 

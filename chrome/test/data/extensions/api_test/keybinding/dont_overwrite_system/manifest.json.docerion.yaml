@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the system keybinding overwrite test extension
+summary: Manifest for a test extension defining commands with suggested keys Ctrl+F, Ctrl+D and Alt+Shift+F to check system keybindings are not overwritten.

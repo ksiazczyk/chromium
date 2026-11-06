@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Login screen APIs test extension manifest
+summary: Manifest for the login screen APIs test extension, declaring the background service worker and login-related permissions.

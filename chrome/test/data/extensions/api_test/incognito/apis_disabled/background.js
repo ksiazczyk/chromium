@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito APIs disabled test background script
+// summary: Background script for the incognito APIs disabled extension test, asserting that a regular extension only sees non-incognito windows and tab events.
+// ---
+
 let normalWindow;
 let normalTab;
 

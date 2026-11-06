@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Global shortcut test extension manifest
+summary: Manifest for the global shortcuts API test extension, defining non-global, non-assignable, and valid global command shortcuts.

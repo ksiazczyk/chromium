@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Standalone Capturing PWA web app manifest
+summary: Web app manifest defining a standalone-display PWA with a focus-existing launch handler and a shared icon, used as test data for the replacement web app install test.

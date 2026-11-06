@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Enabled app test extension manifest
+summary: Manifest for the enabled_app test extension used by the management API browser tests, defining a hosted app with offline enabled and an update URL.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the locked fullscreen with-permission test extension
+summary: Manifest V3 extension manifest that registers the test.js service worker and requests the lockWindowFullscreenPrivate permission for locked-fullscreen window API tests.

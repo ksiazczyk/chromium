@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for global media keys test extension
+summary: Manifest of the test extension that registers global media key commands used by the keybinding API browser test.

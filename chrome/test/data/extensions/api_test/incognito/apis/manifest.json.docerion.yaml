@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Incognito API test extension manifest
+summary: Manifest for the incognito apitest extension, declaring a background service worker plus tabs and scripting permissions.

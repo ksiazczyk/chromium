@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceID deleteToken API browser test
+// summary: Browser test that verifies parameter validation and token deletion behavior of the chrome.instanceID.deleteToken API, including Android-specific skips.
+// ---
+
 function deleteTokenShouldFail() {
   chrome.test.fail('deleteToken should fail due to parameter validation.');
 }

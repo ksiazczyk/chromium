@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for imageWriterPrivate.writeFromFile
+// summary: Extension API test that writes a chosen file to a removable storage device and verifies progress, completion, and error events.
+// ---
+
 function assertNotNullOrUndefined(value, message) {
   chrome.test.assertNe(null, value, message);
   chrome.test.assertNe(undefined, value, message);

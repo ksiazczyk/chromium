@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the v2_unassigned keybinding update test extension
+summary: Manifest V3 extension manifest declaring the background service worker, activeTab and scripting permissions, and the browser action used by the keybinding update API test.
