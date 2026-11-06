@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland touch input class declaration
+// summary: Declares WaylandTouch and its Delegate interface for wl_touch listener callbacks and dispatching touch events to Wayland windows.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TOUCH_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_TOUCH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland color manager implementation
+// summary: Implements the wp_color_manager_v1 global wrapper, mapping Chromium color spaces and HDR metadata to Wayland image descriptions and tracking supported capabilities behind a feature flag.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_wp_color_manager.h"
 
 #include <color-management-v1-client-protocol.h>

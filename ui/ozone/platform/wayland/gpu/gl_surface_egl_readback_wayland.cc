@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceEglReadbackWayland implementation
+// summary: Implements an EGL readback surface that copies rendered pixels into shared memory buffers and commits them to Wayland for presentation.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/gl_surface_egl_readback_wayland.h"
 
 #include <utility>

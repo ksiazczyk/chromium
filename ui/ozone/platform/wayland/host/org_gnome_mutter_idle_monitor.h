@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME Mutter idle monitor D-Bus client declaration
+// summary: Declares OrgGnomeMutterIdleMonitor, a wrapper around the org.gnome.Mutter.IdleMonitor D-Bus service that reports system idle time.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ORG_GNOME_MUTTER_IDLE_MONITOR_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ORG_GNOME_MUTTER_IDLE_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmPixmapWayland class declaration
+// summary: Declares GbmPixmapWayland, a NativePixmap that wraps GBM buffer objects and exposes dmabuf plane data and overlay plane scheduling.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_GBM_PIXMAP_WAYLAND_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_GBM_PIXMAP_WAYLAND_H_
 

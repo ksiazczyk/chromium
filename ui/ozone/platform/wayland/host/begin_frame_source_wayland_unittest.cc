@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Wayland begin frame source
+// summary: Tests ComputeEffectiveInterval across common refresh rates, subsampling, tolerance boundaries, and edge cases, plus begin frame behavior via WaylandTest.
+// ---
+
 #include "ui/ozone/platform/wayland/host/begin_frame_source_wayland.h"
 
 #include <memory>

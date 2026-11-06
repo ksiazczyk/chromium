@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland input method context unit tests
+// summary: Unit tests for WaylandInputMethodContext exercising IME composition, commit, and surrounding text behavior with mock text input servers and clients.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_input_method_context.h"
 
 #include <text-input-unstable-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandScreen class declaration
+// summary: Declares WaylandScreen, the PlatformScreen implementation for Wayland that maintains the display list from outputs and exposes display queries, cursor position, and screensaver control.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SCREEN_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SCREEN_H_
 

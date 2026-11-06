@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG foreign surface export wrapper
+// summary: Implements XdgForeignWrapper, which exports Wayland surfaces via the zxdg_exporter protocols and delivers exported handles to callbacks.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_foreign_wrapper.h"
 
 #include <xdg-foreign-unstable-v1-client-protocol.h>

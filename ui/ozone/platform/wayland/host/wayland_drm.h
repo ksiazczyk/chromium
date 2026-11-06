@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDrm class declaration
+// summary: Declares the WaylandDrm global object registrar that binds wl_drm, reports supported formats, and requests dmabuf prime backed wl_buffers via callbacks.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_DRM_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_DRM_H_
 

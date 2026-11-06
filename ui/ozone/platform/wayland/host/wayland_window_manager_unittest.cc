@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandWindowManager unit tests
+// summary: Tests window lookup by widget, largest-bounds queries, and pointer and keyboard focus tracking through a test Wayland server.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/ozone/platform/wayland/host/wayland_output.h"

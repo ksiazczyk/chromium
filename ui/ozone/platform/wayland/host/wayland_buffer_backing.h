@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer backing class declaration
+// summary: Declares WaylandBufferBacking, a dmabuf or shm buffer representation that dynamically requests wl_buffer objects for attachment to wl_surfaces.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland event source implementation
+// summary: Implements the Wayland PlatformEventSource that polls the connection, pre-processes input data from keyboard, pointer, touch and tablet devices, and dispatches translated ui::Event instances.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_event_source.h"
 
 #include <algorithm>

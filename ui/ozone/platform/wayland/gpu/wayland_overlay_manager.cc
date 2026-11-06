@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay manager implementation
+// summary: Implements overlay support checks that reject candidates unsupported by Wayland, such as perspective transforms or clip rects.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_overlay_manager.h"
 
 #include <variant>

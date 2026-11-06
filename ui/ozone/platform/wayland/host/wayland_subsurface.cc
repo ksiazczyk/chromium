@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSubsurface implementation
+// summary: Implements WaylandSubsurface, handling creation, positioning, stacking, visibility, and input-region setup of subsurfaces under a parent Wayland window.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_subsurface.h"
 
 #include <cstdint>

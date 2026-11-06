@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland overlay manager unit tests
+// summary: Unit tests verifying that WaylandOverlayManager marks valid overlay candidates as handled, covering multiple candidates, format support, and non-integer display rects.
+// ---
+
 
 #include "ui/ozone/platform/wayland/gpu/wayland_overlay_manager.h"
 

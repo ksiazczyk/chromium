@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland presentation info Mojo traits header
+// summary: Declares the Mojo StructTraits specialization that maps wl::WaylandPresentationInfo fields, frame_id and feedback, to its mojom data view.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_MOJOM_WAYLAND_PRESENTATION_INFO_MOJOM_TRAITS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_MOJOM_WAYLAND_PRESENTATION_INFO_MOJOM_TRAITS_H_
 

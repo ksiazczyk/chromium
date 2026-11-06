@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland color management output wrapper declaration
+// summary: Declares a wrapper around the wp_color_management_output_v1 Wayland object that tracks an output's display color spaces and reacts to HDR and image description changes.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WP_COLOR_MANAGEMENT_OUTPUT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WP_COLOR_MANAGEMENT_OUTPUT_H_
 

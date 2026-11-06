@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandProxy instance accessors
+// summary: Implements the static GetInstance and SetInstance accessors for the WaylandProxy singleton, guarded so they only work when the test config for platform windows is enabled.
+// ---
+
 #include "ui/ozone/platform/wayland/host/proxy/wayland_proxy.h"
 
 #include "base/check.h"

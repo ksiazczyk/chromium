@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland data device implementation
+// summary: Implements WaylandDataDevice, handling Wayland drag-and-drop sessions, selection sources, and data offer events for inter-client data transfer.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_device.h"
 
 #include <memory>

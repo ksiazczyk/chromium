@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay candidates implementation
+// summary: Implements overlay candidate checks that delegate overlay support decisions to the Wayland overlay manager.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_overlay_candidates.h"
 
 #include "ui/ozone/platform/wayland/gpu/wayland_overlay_manager.h"

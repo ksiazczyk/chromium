@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland data drag controller unit tests
+// summary: Unit tests for the Wayland drag-and-drop controller, using a test Wayland server, mock data devices and offers, and mock drop handlers.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_drag_controller.h"
 
 #include <linux/input.h>

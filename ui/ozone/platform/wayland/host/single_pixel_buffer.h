@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single pixel buffer manager wrapper
+// summary: Declares the SinglePixelBuffer class that wraps the single-pixel-buffer protocol and creates single-pixel buffers of a given color.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_SINGLE_PIXEL_BUFFER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_SINGLE_PIXEL_BUFFER_H_
 

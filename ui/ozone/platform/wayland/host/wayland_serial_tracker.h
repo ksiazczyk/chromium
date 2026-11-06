@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland SerialTracker header
+// summary: Declares the wl::SerialTracker class and SerialType enum for tracking and retrieving serial values received through Wayland protocol events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SERIAL_TRACKER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SERIAL_TRACKER_H_
 

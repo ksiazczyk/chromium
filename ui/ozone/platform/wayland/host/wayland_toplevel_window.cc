@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland top-level window implementation
+// summary: Implements WaylandToplevelWindow, managing xdg_toplevel creation, window states like maximize and fullscreen, session restore, decorations, and shell integration for Wayland top-level windows.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_toplevel_window.h"
 
 #include <string>

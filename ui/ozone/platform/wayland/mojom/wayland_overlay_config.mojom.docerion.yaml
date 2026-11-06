@@ -1,0 +1,4 @@
+# Docerion header of wayland_overlay_config.mojom.
+type: source
+title: Wayland overlay config Mojo struct
+summary: Defines the WaylandOverlayConfig struct and TransformUnion describing overlay plane properties such as z-order, transforms, damage region and fences.

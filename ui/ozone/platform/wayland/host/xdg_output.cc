@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDGOutput implementation for xdg-output protocol
+// summary: Implements the XDGOutput class, translating xdg-output events for logical position, size, name and description into Wayland display metrics including scale factor.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_output.h"
 
 #include <xdg-output-unstable-v1-client-protocol.h>

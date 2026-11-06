@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland touch input unit tests
+// summary: Unit tests for WaylandTouch that use a test Wayland server to verify touch press, motion, release, focus handling and event dispatch behavior.
+// ---
+
 #include <linux/input.h>
 #include <wayland-server.h>
 #include <cstdint>

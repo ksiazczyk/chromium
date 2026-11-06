@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpIdleInhibitManager implementation for idle inhibit protocol
+// summary: Implements binding of zwp_idle_inhibit_manager_v1 and creation or removal of idle inhibitors for the currently focused Wayland window.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_idle_inhibit_manager.h"
 
 #include <idle-inhibit-unstable-v1-client-protocol.h>

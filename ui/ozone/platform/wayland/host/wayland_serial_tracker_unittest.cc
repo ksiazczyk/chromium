@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland SerialTracker unit tests
+// summary: Unit tests verifying that SerialTracker correctly updates, resets, and queries serials for mouse, touch, and key event types.
+// ---
+
 #include <cstdint>
 
 #include "base/test/task_environment.h"

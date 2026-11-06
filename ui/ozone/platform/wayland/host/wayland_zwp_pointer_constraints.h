@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer constraints wrapper header
+// summary: Declares WaylandZwpPointerConstraints, which wraps the zwp_pointer_constraints_v1 protocol to lock and unlock the pointer on Wayland surfaces.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_POINTER_CONSTRAINTS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_POINTER_CONSTRAINTS_H_
 

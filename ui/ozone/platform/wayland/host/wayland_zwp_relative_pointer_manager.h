@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland relative pointer manager header
+// summary: Declares WaylandZwpRelativePointerManager and its delegate for enabling and disabling relative pointer motion via the zwp_relative_pointer_manager_v1 protocol.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_RELATIVE_POINTER_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_RELATIVE_POINTER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland buffer backing implementation
+// summary: Implements WaylandBufferBacking, managing per-surface wl_buffer handles for asynchronously created dmabuf, shm, or single-pixel buffers.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_backing.h"
 
 #include "base/check_op.h"

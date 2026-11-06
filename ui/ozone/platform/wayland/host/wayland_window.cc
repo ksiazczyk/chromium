@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland window base implementation
+// summary: Implements WaylandWindow, the base platform window class for the Wayland Ozone backend, covering focus, drag and drop, cursors, subsurfaces, and overlay configuration.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_window.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland surface factory implementation
+// summary: Implements WaylandSurfaceFactory, creating Wayland GL, Vulkan, canvas, and native pixmap surfaces for the Ozone Wayland platform, including the GLOzoneEGLWayland EGL binding helper.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_surface_factory.h"
 
 #include <memory>

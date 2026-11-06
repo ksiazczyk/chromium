@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland output unit tests
+// summary: Unit tests for WaylandOutput covering name and description fallback and scale factor calculation from physical and logical output sizes.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_output.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

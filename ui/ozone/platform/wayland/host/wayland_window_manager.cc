@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandWindowManager implementation
+// summary: Implements window tracking, located-event grabs, active and focused window queries, toplevel activation updates, and observer notifications for Wayland windows.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_window_manager.h"
 
 #include <algorithm>

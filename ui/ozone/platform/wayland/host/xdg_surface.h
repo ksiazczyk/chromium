@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgSurface wrapper for xdg-shell xdg_surface protocol objects
+// summary: Header declaring the XdgSurface wrapper for xdg-shell's xdg_surface protocol, providing factory methods for toplevels and popups plus shared requests and events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_SURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_SURFACE_H_
 

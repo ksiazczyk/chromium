@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgSession implementation for session management protocol
+// summary: Implements XdgSession for the xx-session-management-v1 protocol, tracking toplevels in sessions and working around missing remove_toplevel support in Mutter's experimental protocol.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_session.h"
 
 #include <xx-session-management-v1-client-protocol.h>

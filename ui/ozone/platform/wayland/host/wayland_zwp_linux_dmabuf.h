@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: zwp linux dmabuf wrapper declaration
+// summary: Declares the zwp_linux_dmabuf_v1 Wayland wrapper for creating dmabuf-backed wl_buffers and exposing supported formats with modifiers.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_LINUX_DMABUF_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_LINUX_DMABUF_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland pointer unit tests
+// summary: Unit tests for the Wayland pointer implementation, covering pointer enter/leave, buttons, axis scroll and axis stop events, and cursor handling via a test Wayland server.
+// ---
+
 #include <linux/input.h>
 #include <wayland-server.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland window base class declaration
+// summary: Declares WaylandWindow, the base PlatformWindow implementation for Wayland, including a factory for toplevel, popup and bubble windows plus scale and subsurface management.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WINDOW_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WINDOW_H_
 

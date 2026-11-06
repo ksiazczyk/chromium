@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SHM buffer backing class declaration
+// summary: Declares WaylandBufferBackingShm, a WaylandBufferBacking that manages wl_buffers backed by a shared memory buffer.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_SHM_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_BUFFER_BACKING_SHM_H_
 

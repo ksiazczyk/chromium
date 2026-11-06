@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSurface class declaration
+// summary: Declares WaylandSurface, a wrapper of a wl_surface owned by a WaylandWindow or subsurface, exposing buffer attach, state, and commit-related APIs.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_SURFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KDE Wayland idle manager implementation
+// summary: Implements binding to the org_kde_kwin_idle global and tracking user idle time through idle timeout listeners with a five-second threshold.
+// ---
+
 #include "ui/ozone/platform/wayland/host/org_kde_kwin_idle.h"
 
 #include <idle-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland menu utilities header
+// summary: Declares WaylandMenuUtils, a PlatformMenuUtils subclass that provides the current key modifiers for the Wayland platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_MENU_UTILS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_MENU_UTILS_H_
 

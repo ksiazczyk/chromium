@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland idle notifier header
+// summary: Declares ExtIdleNotifier, a wrapper around the ext_idle_notifier_v1 Wayland protocol that provides user idle time notifications.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_IDLE_NOTIFY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_IDLE_NOTIFY_H_
 

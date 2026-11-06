@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG activation protocol implementation
+// summary: Implements XdgActivation, which requests and queues xdg_activation_v1 tokens and activates surfaces on behalf of launched applications.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_activation.h"
 
 #include <xdg-activation-v1-client-protocol.h>

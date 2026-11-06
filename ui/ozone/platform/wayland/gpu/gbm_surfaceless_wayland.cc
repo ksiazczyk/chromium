@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmSurfacelessWayland implementation
+// summary: Implements the surfaceless Wayland GL presenter that presents NativePixmap buffers and caches solid color buffers for fast reuse.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/gbm_surfaceless_wayland.h"
 
 #include <algorithm>

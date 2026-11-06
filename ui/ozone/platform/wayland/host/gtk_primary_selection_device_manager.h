@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK primary selection device manager class declaration
+// summary: Declares GtkPrimarySelectionDeviceManager, which registers the gtk_primary_selection_device_manager Wayland global and provides device and source creation.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_GTK_PRIMARY_SELECTION_DEVICE_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_GTK_PRIMARY_SELECTION_DEVICE_MANAGER_H_
 

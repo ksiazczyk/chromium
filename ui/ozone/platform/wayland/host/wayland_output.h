@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland output header
+// summary: Declares WaylandOutput and its Metrics struct, which track wl_output information and related protocol extensions such as xdg-output.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_OUTPUT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_OUTPUT_H_
 

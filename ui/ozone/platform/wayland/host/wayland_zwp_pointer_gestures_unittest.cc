@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland pointer gestures unit tests
+// summary: Unit tests for WaylandZwpPointerGestures using a mock Wayland server, verifying pinch zoom scale conversion and gesture event delivery.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_zwp_pointer_gestures.h"
 
 #include <pointer-gestures-unstable-v1-server-protocol.h>

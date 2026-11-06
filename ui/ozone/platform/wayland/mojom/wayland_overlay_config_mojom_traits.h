@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland overlay config Mojo traits header
+// summary: Declares the Mojo StructTraits and UnionTraits mappings between the WaylandOverlayConfig mojom type and its native C++ representations.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_MOJOM_WAYLAND_OVERLAY_CONFIG_MOJOM_TRAITS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_MOJOM_WAYLAND_OVERLAY_CONFIG_MOJOM_TRAITS_H_
 

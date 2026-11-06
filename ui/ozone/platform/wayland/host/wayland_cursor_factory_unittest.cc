@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland cursor factory unit tests
+// summary: Unit tests for WaylandCursorFactory that use a dry-running factory faking cursor theme loading to verify theme retention, reload, and cache behavior.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_cursor_factory.h"
 
 #include <wayland-cursor.h>

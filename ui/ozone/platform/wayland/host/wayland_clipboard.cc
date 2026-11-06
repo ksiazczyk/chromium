@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland clipboard implementation
+// summary: Implements the wl::Clipboard interface and templated ClipboardImpl classes that handle clipboard buffers over Wayland data device and primary selection protocols for the Ozone Wayland platform.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_clipboard.h"
 
 #include <cstdint>

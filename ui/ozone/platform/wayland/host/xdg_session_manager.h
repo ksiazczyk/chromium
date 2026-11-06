@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgSessionManager class header
+// summary: Declares the XdgSessionManager class that implements PlatformSessionManager over the xx_session_manager_v1 protocol and owns the active XdgSession instances.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_SESSION_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_SESSION_MANAGER_H_
 

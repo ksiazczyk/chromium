@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland cursor shape implementation
+// summary: Implements the wp_cursor_shape_manager_v1 wrapper, mapping Chromium cursor types to Wayland cursor-shape protocol values for server-side cursors.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_cursor_shape.h"
 
 #include <cursor-shape-v1-client-protocol.h>

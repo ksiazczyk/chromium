@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland canvas surface implementation
+// summary: Implements a software canvas surface backed by shared memory buffers that are registered with the Wayland server as wl_buffers.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_canvas_surface.h"
 
 #include <memory>

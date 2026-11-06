@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SHM buffer backing implementation
+// summary: Implements WaylandBufferBackingShm, creating wl_buffers from a shared memory file descriptor with an alpha channel.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_buffer_backing_shm.h"
 
 #include "ui/ozone/platform/wayland/host/wayland_buffer_factory.h"

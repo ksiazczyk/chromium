@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandWindowDragController header
+// summary: Declares the controller that drives window moving (tab dragging) sessions on Wayland using the drag-and-drop protocol to track cursor location and surface focus.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WINDOW_DRAG_CONTROLLER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WINDOW_DRAG_CONTROLLER_H_
 

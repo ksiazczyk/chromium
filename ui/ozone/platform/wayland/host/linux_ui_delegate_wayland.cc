@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland Linux UI delegate implementation
+// summary: Implements the Wayland Linux UI delegate that exports toplevel window handles as foreign handles for use by Linux UI code.
+// ---
+
 #include "ui/ozone/platform/wayland/host/linux_ui_delegate_wayland.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationWayland class header
+// summary: Declares the Wayland Vulkan implementation that initializes Vulkan instances and creates surfaces for the Ozone Wayland platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_VULKAN_IMPLEMENTATION_WAYLAND_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_VULKAN_IMPLEMENTATION_WAYLAND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpPrimarySelectionOffer implementation
+// summary: Implements the ZwpPrimarySelectionOffer class that wraps the zwp_primary_selection_offer_v1 Wayland object, tracks offered MIME types, and receives primary selection data for a requested type.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_primary_selection_offer.h"
 
 #include <primary-selection-unstable-v1-client-protocol.h>

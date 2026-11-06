@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland cursor position implementation
+// summary: Implements WaylandCursorPosition, which stores the last known cursor pointer position and exposes it plus a state dump for diagnostics.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_cursor_position.h"
 
 #include "ui/ozone/platform/wayland/host/wayland_connection.h"

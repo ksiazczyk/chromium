@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland image description wrapper declaration
+// summary: Declares a ref-counted wrapper around wp_image_description_v1 that converts compositor image description info into gfx display color spaces.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WP_IMAGE_DESCRIPTION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_WP_IMAGE_DESCRIPTION_H_
 

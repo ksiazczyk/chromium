@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandConnection unit tests
+// summary: Unit tests for WaylandConnection verifying xdg-shell ping handling and compositor version binding across test server configurations.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_connection.h"
 #include "base/run_loop.h"
 #include "testing/gtest/include/gtest/gtest.h"

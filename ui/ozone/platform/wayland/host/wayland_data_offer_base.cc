@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDataOfferBase implementation
+// summary: Implements shared MIME type list handling for data offers, including forcibly injecting text/plain when only related text MIME types are provided.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_offer_base.h"
 
 #include <algorithm>

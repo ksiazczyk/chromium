@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM syncobj ioctl wrapper implementation
+// summary: Implements DrmSyncobjIoctlWrapper by forwarding syncobj create, destroy, transfer, import, export, and eventfd calls to libdrm on the held file descriptor.
+// ---
+
 #include "ui/ozone/platform/wayland/host/drm_syncobj_ioctl_wrapper.h"
 
 #include <xf86drm.h>

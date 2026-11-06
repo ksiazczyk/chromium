@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zwp text input v3 protocol implementation
+// summary: Implements the zwp_text_input_v3 Wayland text input wrapper, converting Chromium text input types and flags into Wayland content purposes and hints and managing IME state.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_text_input_v3.h"
 
 #include <string>

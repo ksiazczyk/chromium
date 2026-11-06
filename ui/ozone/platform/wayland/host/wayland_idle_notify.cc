@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland idle notifier implementation
+// summary: Implements ExtIdleNotifier, which binds the ext_idle_notifier_v1 protocol and reports system idle time through idled and resumed notifications.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_idle_notify.h"
 
 #include <ext-idle-notify-v1-client-protocol.h>

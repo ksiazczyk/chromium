@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandShmBuffer implementation
+// summary: Implements WaylandShmBuffer, which creates and maps shared memory regions and turns them into Wayland SHM buffers for drawing.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_shm_buffer.h"
 
 #include "base/logging.h"

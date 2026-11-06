@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandProxyImpl class declaration
+// summary: Declares WaylandProxyImpl, which implements WaylandProxy and WaylandWindowObserver, holding the WaylandConnection, delegate pointer, and a list of shm buffers.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_PROXY_WAYLAND_PROXY_IMPL_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_PROXY_WAYLAND_PROXY_IMPL_H_
 

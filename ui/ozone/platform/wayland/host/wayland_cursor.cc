@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandCursor implementation
+// summary: Implements WaylandCursor, managing pointer cursor surfaces, SHM buffers, platform cursor animation, and hide or show updates through Wayland protocol calls.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_cursor.h"
 
 #include <wayland-cursor.h>

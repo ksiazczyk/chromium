@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDataSource template declaration
+// summary: Declares the template class for the source side of data transfers, with type aliases for wl_data_source and primary selection protocol variants.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_DATA_SOURCE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_DATA_SOURCE_H_
 

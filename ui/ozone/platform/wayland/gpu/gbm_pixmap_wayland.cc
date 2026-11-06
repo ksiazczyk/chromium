@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmPixmapWayland implementation
+// summary: Implements the GBM-backed Wayland pixmap, allocating gbm buffer objects with format modifiers and creating dmabuf-based wl_buffers.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.h"
 
 #include <drm_fourcc.h>

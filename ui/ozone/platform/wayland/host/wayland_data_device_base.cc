@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland data device base implementation
+// summary: Implements the protocol-agnostic WaylandDataDeviceBase, reading clipboard selection data synchronously or asynchronously from data offers.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_data_device_base.h"
 
 #include <algorithm>

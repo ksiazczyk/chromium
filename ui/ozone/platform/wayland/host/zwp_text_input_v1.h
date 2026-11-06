@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zwp text input v1 interface declarations
+// summary: Declares the ZwpTextInputV1Client callback interface and the ZwpTextInputV1 wrapper API for Wayland text input v1 events such as preedit, commit, keysym, and panel state.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_TEXT_INPUT_V1_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_TEXT_INPUT_V1_H_
 

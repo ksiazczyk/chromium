@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpIdleInhibitManager wrapper for zwp_idle_inhibit_manager_v1
+// summary: Header declaring the ZwpIdleInhibitManager wrapper that binds the idle inhibit manager interface and manages idle inhibitors for focused windows.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_IDLE_INHIBIT_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_IDLE_INHIBIT_MANAGER_H_
 

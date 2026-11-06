@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDataOffer class declaration
+// summary: Declares the data offer representing data offered for transfer by another client, used by the copy-and-paste and drag-and-drop mechanisms.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_DATA_OFFER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_DATA_OFFER_H_
 

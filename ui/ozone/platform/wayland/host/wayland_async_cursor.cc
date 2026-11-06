@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland async cursor implementation
+// summary: Implements WaylandAsyncCursor, running pending callbacks immediately when the cursor is already loaded or once a bitmap cursor is set.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_async_cursor.h"
 
 namespace ui {

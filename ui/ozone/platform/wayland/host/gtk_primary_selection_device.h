@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK primary selection device for Wayland
+// summary: Declares GtkPrimarySelectionDevice, a Wayland data device wrapper that gives Chromium access to the GTK primary selection clipboard.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_GTK_PRIMARY_SELECTION_DEVICE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_GTK_PRIMARY_SELECTION_DEVICE_H_
 

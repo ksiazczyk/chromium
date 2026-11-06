@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland keyboard unit tests
+// summary: Unit tests for Wayland keyboard event handling, covering key presses, enter and leave events, and key repeat setup using a test Wayland server.
+// ---
+
 #include <linux/input.h>
 #include <wayland-server.h>
 #include <memory>

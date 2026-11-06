@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpPrimarySelectionDeviceManager for primary selection devices
+// summary: Header declaring the ZwpPrimarySelectionDeviceManager that binds the manager interface and creates primary selection devices and sources.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_PRIMARY_SELECTION_DEVICE_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_PRIMARY_SELECTION_DEVICE_MANAGER_H_
 

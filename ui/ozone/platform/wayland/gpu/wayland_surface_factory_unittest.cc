@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland surface factory unit tests
+// summary: Extensive unit tests for WaylandSurfaceFactory and related Wayland GPU surfaces, covering buffer submission, overlay plane scheduling, swaps, and presentation callbacks with a test Wayland server.
+// ---
+
 #include "ui/ozone/platform/wayland/gpu/wayland_surface_factory.h"
 
 #include <drm_fourcc.h>

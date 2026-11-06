@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland surface factory interface
+// summary: Declares WaylandSurfaceFactory, the Ozone surface factory for Wayland that provides GL implementations, Vulkan support, canvas surfaces, and native pixmap creation.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_SURFACE_FACTORY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_WAYLAND_SURFACE_FACTORY_H_
 

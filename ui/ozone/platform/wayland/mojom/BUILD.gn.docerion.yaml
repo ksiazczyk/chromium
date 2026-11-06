@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wayland mojom build targets
+summary: GN build file defining the mojom and test_interfaces targets, sources, dependencies and typemaps for the Wayland IPC definitions.

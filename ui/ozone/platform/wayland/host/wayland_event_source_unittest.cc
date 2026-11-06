@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland event source unit tests
+// summary: Unit tests verifying pointer button state handling and event dispatching in WaylandEventSource under different frame-event feature flag combinations.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_event_source.h"
 
 #include <linux/input.h>

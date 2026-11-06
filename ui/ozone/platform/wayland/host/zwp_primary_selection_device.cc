@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpPrimarySelectionDevice implementation for primary selection
+// summary: Implements the primary selection device, setting selection sources and handling data offer and selection events for the primary selection clipboard.
+// ---
+
 #include "ui/ozone/platform/wayland/host/zwp_primary_selection_device.h"
 
 #include <primary-selection-unstable-v1-client-protocol.h>

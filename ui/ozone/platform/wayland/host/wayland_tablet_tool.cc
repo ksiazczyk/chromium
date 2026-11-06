@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland tablet tool implementation
+// summary: Implements WaylandTabletTool, which wraps zwp_tablet_tool_v2 and translates tablet tool protocol events such as motion, pressure, tilt, wheel and buttons into Chromium pointer events.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_tablet_tool.h"
 
 #include <cursor-shape-v1-client-protocol.h>

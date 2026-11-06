@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland frame manager header
+// summary: Declares WaylandFrame and WaylandFrameManager, which track frame submission, presentation feedback, and buffer release for presenting frames over Wayland.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_FRAME_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_FRAME_MANAGER_H_
 

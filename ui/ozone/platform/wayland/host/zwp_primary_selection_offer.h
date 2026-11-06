@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZwpPrimarySelectionOffer class declaration
+// summary: Declares ZwpPrimarySelectionOffer, a WaylandDataOfferBase subclass representing data offered for transfer by another client through the Wayland primary selection mechanism.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_PRIMARY_SELECTION_OFFER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_ZWP_PRIMARY_SELECTION_OFFER_H_
 

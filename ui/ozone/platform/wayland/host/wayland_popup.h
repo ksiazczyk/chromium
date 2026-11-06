@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandPopup class declaration
+// summary: Declares the WaylandPopup class, a WaylandWindow subclass for popup windows, with configure, show/hide, bounds, decoration, and close request handling methods.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_POPUP_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_POPUP_H_
 

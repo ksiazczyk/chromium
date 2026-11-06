@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer gestures class declaration
+// summary: Declares WaylandZwpPointerGestures and its delegate interface for handling zwp_pointer_gestures_v1 pinch and hold gesture events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_POINTER_GESTURES_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_WAYLAND_ZWP_POINTER_GESTURES_H_
 

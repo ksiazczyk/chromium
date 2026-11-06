@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSeat implementation
+// summary: Implements WaylandSeat, which binds the wl_seat global and creates or refreshes keyboard, pointer, and touch input objects based on the reported seat capabilities.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_seat.h"
 
 #include "base/logging.h"

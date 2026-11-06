@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer constraints implementation
+// summary: Implements the zwp_pointer_constraints_v1 wrapper that locks and unlocks the pointer on a surface and toggles relative pointer mode accordingly.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_zwp_pointer_constraints.h"
 
 #include <pointer-constraints-unstable-v1-client-protocol.h>

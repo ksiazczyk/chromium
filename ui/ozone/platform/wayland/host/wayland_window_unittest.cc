@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandWindow unit tests
+// summary: Extensive unit tests for WaylandWindow behavior, covering configuration, focus, cursors, overlays, and surface interactions via a mock Wayland server.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_window.h"
 
 #include <cursor-shape-v1-client-protocol.h>

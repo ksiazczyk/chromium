@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single pixel buffer manager implementation
+// summary: Implements binding of wp_single_pixel_buffer_manager_v1 and creation of single-pixel RGBA buffers from premultiplied Skia colors.
+// ---
+
 #include "ui/ozone/platform/wayland/host/single_pixel_buffer.h"
 
 #include <single-pixel-buffer-v1-client-protocol.h>

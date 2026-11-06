@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgForeignWrapper header for xdg foreign surface export
+// summary: Declares the XdgForeignWrapper class that exports Wayland surfaces with xdg_surface roles and asynchronously returns foreign handles via zxdg_exporter_v1/v2.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_FOREIGN_WRAPPER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_FOREIGN_WRAPPER_H_
 

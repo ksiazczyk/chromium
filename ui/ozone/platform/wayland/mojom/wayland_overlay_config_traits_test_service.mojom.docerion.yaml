@@ -1,0 +1,4 @@
+# Docerion header of wayland_overlay_config_traits_test_service.mojom.
+type: test
+title: Traits test service Mojo interface
+summary: Defines a synchronous echo interface used only to test serialization and deserialization of the overlay config transform union.

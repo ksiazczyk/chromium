@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgSession and XdgToplevelSession class headers
+// summary: Declares XdgSession, which manages a Wayland session and its state, and XdgToplevelSession, which tracks individual toplevels added to or restored from a session.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_SESSION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_HOST_XDG_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK primary selection offer implementation
+// summary: Implements GtkPrimarySelectionOffer, which tracks offered MIME types and reads primary selection data from the source client through a pipe.
+// ---
+
 #include "ui/ozone/platform/wayland/host/gtk_primary_selection_offer.h"
 
 #include <gtk-primary-selection-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandSyncobjTimeline implementation
+// summary: Implements DRM syncobj timeline wrappers that create, import and export fences for Wayland buffer synchronization, including acquire and release timeline variants.
+// ---
+
 #include "ui/ozone/platform/wayland/host/wayland_syncobj_timeline.h"
 
 #include <linux-drm-syncobj-v1-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK primary selection device implementation
+// summary: Implements the gtk_primary_selection_device data device, handling data offers and selection changes for GTK-style primary selection over Wayland.
+// ---
+
 #include "ui/ozone/platform/wayland/host/gtk_primary_selection_device.h"
 
 #include <gtk-primary-selection-client-protocol.h>

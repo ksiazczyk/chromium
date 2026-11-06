@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgToplevel implementation for xdg-shell toplevel windows
+// summary: Implements the XdgToplevel wrapper, handling decoration modes, interactive move and resize, window state requests, and xdg_toplevel listener callbacks.
+// ---
+
 #include "ui/ozone/platform/wayland/host/xdg_toplevel.h"
 
 #include <xdg-decoration-unstable-v1-client-protocol.h>

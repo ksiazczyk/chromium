@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KDE KWin appmenu Wayland manager implementation
+// summary: Implements OrgKdeKwinAppmenuManager, binding the org_kde_kwin_appmenu_manager Wayland global and creating appmenu objects that publish D-Bus menu addresses.
+// ---
+
 #include "ui/ozone/platform/wayland/host/org_kde_kwin_appmenu.h"
 
 #include <appmenu-client-protocol.h>

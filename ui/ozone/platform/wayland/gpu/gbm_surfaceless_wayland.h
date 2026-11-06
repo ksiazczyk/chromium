@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GbmSurfacelessWayland class declaration
+// summary: Declares GbmSurfacelessWayland, a gl::Presenter for surfaceless Wayland rendering with overlay scheduling and a solid color buffer holder.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_GPU_GBM_SURFACELESS_WAYLAND_H_
 #define UI_OZONE_PLATFORM_WAYLAND_GPU_GBM_SURFACELESS_WAYLAND_H_
 
