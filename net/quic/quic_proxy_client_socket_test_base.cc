@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC proxy client socket test base implementation
+// summary: Shared implementation of the test fixture used by QUIC proxy client socket tests, wiring mock QUIC data, crypto config, packet makers and host resolution.
+// ---
+
 #include "net/quic/quic_proxy_client_socket_test_base.h"
 
 #include "base/memory/ptr_util.h"

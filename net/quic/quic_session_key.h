@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionKey class declaration
+// summary: Declares QuicSessionKey, the identifier for QUIC sessions combining server ID, privacy mode, proxy chain, socket tag, and network settings, with aliasing support.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_KEY_H_
 #define NET_QUIC_QUIC_SESSION_KEY_H_
 

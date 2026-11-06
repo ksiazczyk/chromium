@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting network change observer implementation
+// summary: Clears queued reports and configured endpoints when the network disconnects, unless policy asks to persist them across network changes.
+// ---
+
 #include "net/reporting/reporting_network_change_observer.h"
 
 #include "base/memory/raw_ptr.h"

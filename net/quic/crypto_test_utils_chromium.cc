@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromium crypto test utilities for QUIC
+// summary: Provides ProofSourceForTestingChromium, which builds a test proof source from QUIC test certificates for crypto testing.
+// ---
+
 #include "net/quic/crypto_test_utils_chromium.h"
 
 #include <utility>

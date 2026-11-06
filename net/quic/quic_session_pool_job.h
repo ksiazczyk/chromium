@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool job class declaration
+// summary: Declares QuicSessionPool::Job, the base class responsible for creating a QUIC session to a server and notifying associated requests of progress.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_JOB_H_
 #define NET_QUIC_QUIC_SESSION_POOL_JOB_H_
 

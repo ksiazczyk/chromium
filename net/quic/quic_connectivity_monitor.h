@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicConnectivityMonitor class declaration
+// summary: Declares QuicConnectivityMonitor, which tracks path degrading and recovery events on the default network and records connectivity stats to histograms.
+// ---
+
 #ifndef NET_QUIC_QUIC_CONNECTIVITY_MONITOR_H_
 #define NET_QUIC_QUIC_CONNECTIVITY_MONITOR_H_
 

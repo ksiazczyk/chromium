@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestQuicCryptoClientConfigHandle implementation
+// summary: Implements a test handle that wraps a provided QuicCryptoClientConfig pointer and returns it on demand.
+// ---
+
 #include "net/quic/test_quic_crypto_client_config_handle.h"
 
 namespace net {

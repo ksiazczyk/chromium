@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC test packet printer header
+// summary: Declares QuicPacketPrinter, a SocketDataPrinter that renders QUIC packet writes as readable text for test logs.
+// ---
+
 #ifndef NET_QUIC_QUIC_TEST_PACKET_PRINTER_H_
 #define NET_QUIC_QUIC_TEST_PACKET_PRINTER_H_
 

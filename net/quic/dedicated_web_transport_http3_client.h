@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated WebTransport over HTTP/3 client class declaration
+// summary: Declares the DedicatedWebTransportHttp3Client class that creates a dedicated HTTP/3 connection for WebTransport sessions and implements the WebTransportClient interface.
+// ---
+
 #ifndef NET_QUIC_DEDICATED_WEB_TRANSPORT_HTTP3_CLIENT_H_
 #define NET_QUIC_DEDICATED_WEB_TRANSPORT_HTTP3_CLIENT_H_
 

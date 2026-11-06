@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC migration attempt context implementation
+// summary: Implements QuicMigrationAttemptContext, mapping migration causes to strings and recording histograms for ineligible, superseded and waiting migration attempts.
+// ---
+
 #include "net/quic/quic_migration_attempt_context.h"
 
 #include <utility>

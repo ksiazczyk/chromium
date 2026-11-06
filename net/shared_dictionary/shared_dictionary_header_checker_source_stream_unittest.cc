@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared dictionary header checker unit tests
+// summary: Unit tests verifying header signature and hash checking for dictionary-compressed Brotli and Zstandard streams.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_header_checker_source_stream.h"
 
 #include <memory>

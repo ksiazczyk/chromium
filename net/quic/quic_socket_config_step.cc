@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC socket config step string conversion
+// summary: Implements QuicSocketConfigStepToString, mapping QUIC socket configuration step enum values to readable strings for logging.
+// ---
+
 #include "net/quic/quic_socket_config_step.h"
 
 #include <string_view>

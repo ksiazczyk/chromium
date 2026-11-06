@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAliasKey implementation
+// summary: Implements ordering and equality operators for session alias keys that pair a destination with a QUIC session key.
+// ---
+
 #include "net/quic/quic_session_alias_key.h"
 
 #include <tuple>

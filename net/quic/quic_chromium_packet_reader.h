@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: QuicChromiumPacketReader header
+// summary: Declares the Chromium packet reader that reads QUIC packets from a datagram socket and notifies a visitor, yielding after packet or time limits.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_PACKET_READER_H_
 #define NET_QUIC_QUIC_CHROMIUM_PACKET_READER_H_
 

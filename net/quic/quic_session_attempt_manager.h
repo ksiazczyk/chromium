@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAttemptManager class declaration
+// summary: Declares QuicSessionAttemptManager, which manages in-flight QUIC session creation jobs, attempts, and client requests on behalf of the QuicSessionPool.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_ATTEMPT_MANAGER_H_
 #define NET_QUIC_QUIC_SESSION_ATTEMPT_MANAGER_H_
 

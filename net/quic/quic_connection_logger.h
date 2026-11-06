@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicConnectionLogger header
+// summary: Declares the connection logger providing NetLog support and UMA histograms for QUIC sessions via connection debug visitor callbacks.
+// ---
+
 #ifndef NET_QUIC_QUIC_CONNECTION_LOGGER_H_
 #define NET_QUIC_QUIC_CONNECTION_LOGGER_H_
 

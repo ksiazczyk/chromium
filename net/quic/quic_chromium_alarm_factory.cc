@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC Chromium alarm factory implementation
+// summary: Implements QUIC alarms on top of base::OneShotTimer and SequencedTaskRunner for Chromium's network stack.
+// ---
+
 #include "net/quic/quic_chromium_alarm_factory.h"
 
 #include "base/check.h"

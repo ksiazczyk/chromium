@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC proof source and verifier tests
+// summary: Exercises the Chromium QUIC proof source and verifier by running proof verification against test certificates and asserting expected success or failure.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting endpoint definitions
+// summary: Declares the endpoint group key and endpoint structures describing reporting endpoints, their origins, network anonymization keys, and target types.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_ENDPOINT_H_
 #define NET_REPORTING_REPORTING_ENDPOINT_H_
 

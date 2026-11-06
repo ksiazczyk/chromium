@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock QUIC crypto client stream declaration
+// summary: Declares MockCryptoClientStream and its HandshakeMode options used to simulate QUIC crypto handshakes in tests.
+// ---
+
 #ifndef NET_QUIC_MOCK_CRYPTO_CLIENT_STREAM_H_
 #define NET_QUIC_MOCK_CRYPTO_CLIENT_STREAM_H_
 

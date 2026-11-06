@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC context implementation
+// summary: Implements QuicParams and QuicContext, including QUIC config initialization with flow control window sizes and handshake timeout handling.
+// ---
+
 #include "net/quic/quic_context.h"
 
 #include "net/base/features.h"

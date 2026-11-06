@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetQuicFlagByName implementation for QUIC flags
+// summary: Sets QUIC and QUICHE feature and protocol flags by name, converting string values to the matching bool, float, double, int, or uint type.
+// ---
+
 #include "net/quic/set_quic_flag.h"
 
 #include "base/strings/string_number_conversions.h"

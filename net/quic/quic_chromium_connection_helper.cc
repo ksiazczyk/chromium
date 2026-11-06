@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumConnectionHelper implementation
+// summary: Implements the QUIC connection helper supplying the clock, random generator, and stream send buffer allocator.
+// ---
+
 #include "net/quic/quic_chromium_connection_helper.h"
 #include "base/no_destructor.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClock class declaration
+// summary: Declares QuicChromiumClock, the Chromium implementation of the QUIC clock interface with a singleton accessor and QuicTime to TimeTicks conversion.
+// ---
+
 #ifndef NET_QUIC_PLATFORM_IMPL_QUIC_CHROMIUM_CLOCK_H_
 #define NET_QUIC_PLATFORM_IMPL_QUIC_CHROMIUM_CLOCK_H_
 

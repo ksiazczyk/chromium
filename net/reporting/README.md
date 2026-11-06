@@ -1,3 +1,9 @@
+---
+type: readme
+title: Reporting
+summary: Explains the Reporting API implementation in Chromium's network stack, covering its architecture and the differences between V0 and V1 reporting.
+---
+
 # Reporting
 
 Reporting is a central mechanism for sending out-of-band error reports

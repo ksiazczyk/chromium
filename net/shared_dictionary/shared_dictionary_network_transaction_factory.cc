@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary network transaction factory implementation
+// summary: Implements an HttpTransactionFactory that creates SharedDictionaryNetworkTransaction instances wrapping the underlying network layer.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_network_transaction_factory.h"
 
 #include "net/base/net_errors.h"

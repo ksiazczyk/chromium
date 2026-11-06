@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAttempt class declaration
+// summary: Declares QuicSessionAttempt, which handles one attempt to create a QUIC session for an endpoint and may retry on an alternate network when the default network fails.
+// ---
+
 #include <set>
 #include <string>
 

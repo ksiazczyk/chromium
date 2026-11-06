@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock persistent reporting store declaration
+// summary: Declares a mock PersistentReportingStore that stashes received commands in a vector for test verification and can simulate pre-stored clients.
+// ---
+
 #ifndef NET_REPORTING_MOCK_PERSISTENT_REPORTING_STORE_H_
 #define NET_REPORTING_MOCK_PERSISTENT_REPORTING_STORE_H_
 

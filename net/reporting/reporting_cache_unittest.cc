@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting cache unit tests
+// summary: Unit tests for the reporting cache covering report storage, eviction, and client updates, parameterized on use of a mock persistent store.
+// ---
+
 #include "net/reporting/reporting_cache.h"
 
 #include <algorithm>

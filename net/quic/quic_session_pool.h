@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool class declaration
+// summary: Declares QuicSessionPool, which owns QUIC client sessions, session jobs, and request handling for the network stack.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_H_
 #define NET_QUIC_QUIC_SESSION_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumPacketReader implementation
+// summary: Implements asynchronous reading of QUIC packets from a UDP socket, with batched ReadMultiple support and yielding after packet count or duration limits.
+// ---
+
 #include "net/quic/quic_chromium_packet_reader.h"
 
 #include "base/functional/bind.h"

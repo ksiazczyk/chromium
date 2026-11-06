@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC proxy client socket declarations
+// summary: Declares QuicProxyClientSocket, a ProxyClientSocket that sends CONNECT over a QUIC stream and transfers data in STREAM frames.
+// ---
+
 #ifndef NET_QUIC_QUIC_PROXY_CLIENT_SOCKET_H_
 #define NET_QUIC_QUIC_PROXY_CLIENT_SOCKET_H_
 

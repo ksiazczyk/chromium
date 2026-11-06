@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting delegate implementation
+// summary: Implements ReportingDelegate by consulting the URLRequestContext's network delegate for report and endpoint permissions.
+// ---
+
 #include "net/reporting/reporting_delegate.h"
 
 #include "base/memory/raw_ptr.h"

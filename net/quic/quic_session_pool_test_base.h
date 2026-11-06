@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool test base declaration
+// summary: Declares QuicSessionPoolTestBase and supporting helper classes shared by QUIC session pool unit tests.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_TEST_BASE_H_
 #define NET_QUIC_QUIC_SESSION_POOL_TEST_BASE_H_
 

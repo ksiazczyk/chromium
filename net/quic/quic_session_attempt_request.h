@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAttemptRequest class declaration
+// summary: Declares QuicSessionAttemptRequest, a client-owned request for QUIC session creation that is cancelled if destroyed while still pending.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_ATTEMPT_REQUEST_H_
 #define NET_QUIC_QUIC_SESSION_ATTEMPT_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketEncoder class declaration
+// summary: Declares WebSocketEncoder, which creates server or client encoders and encodes and decodes WebSocket frames with optional deflate compression.
+// ---
+
 #ifndef NET_SERVER_WEB_SOCKET_ENCODER_H_
 #define NET_SERVER_WEB_SOCKET_ENCODER_H_
 

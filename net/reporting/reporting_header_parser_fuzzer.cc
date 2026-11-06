@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting header parser fuzzer
+// summary: libFuzzer harness that feeds generated JSON Report-To headers and policy configurations into the reporting header parser.
+// ---
+
 #include "net/reporting/reporting_header_parser.h"
 
 #include <memory>

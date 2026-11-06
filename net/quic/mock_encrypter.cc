@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock QUIC encrypter implementation
+// summary: Implements MockEncrypter, a QuicEncrypter that appends padding without real encryption, used in tests and fuzzing.
+// ---
+
 #include "net/quic/mock_encrypter.h"
 
 #include "base/compiler_specific.h"

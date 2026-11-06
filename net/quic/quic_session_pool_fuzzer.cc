@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool fuzzer
+// summary: Fuzzer harness that exercises QuicSessionPool with fuzzed DNS and socket inputs to uncover crashes in session creation.
+// ---
+
 #include "net/quic/quic_session_pool.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

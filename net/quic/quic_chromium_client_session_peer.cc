@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumClientSession test peer
+// summary: Test-only peer class exposing private QuicChromiumClientSession state and helpers for use in unit tests.
+// ---
+
 #include "net/quic/quic_chromium_client_session_peer.h"
 
 #include <string>

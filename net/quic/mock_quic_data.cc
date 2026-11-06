@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockQuicData implementation
+// summary: Implements MockQuicData, which builds sequenced mock socket connects, reads, writes and pauses for QUIC tests.
+// ---
+
 #include "net/quic/mock_quic_data.h"
 
 #include "net/base/hex_utils.h"

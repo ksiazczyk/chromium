@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicConnectionLogger implementation
+// summary: Implements logging of QUIC connection events to NetLog and records UMA histograms for packet loss, RTT, and other session statistics.
+// ---
+
 #include "net/quic/quic_connection_logger.h"
 
 #include <algorithm>

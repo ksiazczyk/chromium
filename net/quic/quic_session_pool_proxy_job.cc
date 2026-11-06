@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool proxy job implementation
+// summary: Implements ProxyJob, a session pool job that establishes a QUIC connection to a destination server through a QUIC proxy.
+// ---
+
 #include "net/quic/quic_session_pool_proxy_job.h"
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicConnectivityMonitor implementation
+// summary: Tracks degrading QUIC sessions across network changes and records connectivity statistics to UMA histograms.
+// ---
+
 #include "net/quic/quic_connectivity_monitor.h"
 
 #include "base/metrics/histogram_functions.h"

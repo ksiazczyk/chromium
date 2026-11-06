@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicHttp3Logger class declaration
+// summary: Declares QuicHttp3Logger, an Http3DebugVisitor that logs HTTP/3 session events to NetLog and records histograms.
+// ---
+
 #ifndef NET_QUIC_QUIC_HTTP3_LOGGER_H_
 #define NET_QUIC_QUIC_HTTP3_LOGGER_H_
 

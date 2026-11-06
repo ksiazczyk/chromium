@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary network transaction implementation
+// summary: Implements an HttpTransaction that decodes shared dictionary compressed responses (dcb/dcz) using Brotli or Zstd when a matching registered dictionary is available.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_network_transaction.h"
 
 #include <optional>

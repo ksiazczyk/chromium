@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary isolation key
+// summary: Declares the key that isolates shared dictionary storages by frame origin and top frame site.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_ISOLATION_KEY_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_ISOLATION_KEY_H_
 

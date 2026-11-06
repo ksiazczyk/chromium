@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HTTP/3 event logger implementation
+// summary: Implements QuicHttp3Logger, which logs HTTP/3 events like control streams, settings, and headers to NetLog and records histograms.
+// ---
+
 #include "net/quic/quic_http3_logger.h"
 
 #include <algorithm>

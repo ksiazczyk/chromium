@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkConnection unit tests
+// summary: Unit tests verifying NetworkConnection reports and updates its cached connection type and description across simulated network changes.
+// ---
+
 #include "net/quic/network_connection.h"
 
 #include "base/memory/raw_ptr.h"

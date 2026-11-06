@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting delivery agent interface
+// summary: Declares the agent that batches reports from the reporting cache and uploads them, documenting delivery rules and hooks for testing.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_DELIVERY_AGENT_H_
 #define NET_REPORTING_REPORTING_DELIVERY_AGENT_H_
 

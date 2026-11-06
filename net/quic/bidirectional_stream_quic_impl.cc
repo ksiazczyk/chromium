@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC bidirectional stream implementation
+// summary: Implements BidirectionalStreamQuicImpl, which requests QUIC streams, writes request headers, and reads response headers and data for bidirectional streams.
+// ---
+
 #include "net/quic/bidirectional_stream_quic_impl.h"
 
 #include <utility>

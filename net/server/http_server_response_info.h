@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerResponseInfo class declaration
+// summary: Declares HttpServerResponseInfo, which stores the status code, headers and body of an HTTP response and serializes it for the embedded net server.
+// ---
+
 #ifndef NET_SERVER_HTTP_SERVER_RESPONSE_INFO_H_
 #define NET_SERVER_HTTP_SERVER_RESPONSE_INFO_H_
 

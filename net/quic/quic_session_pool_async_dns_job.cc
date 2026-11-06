@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool AsyncDnsJob implementation
+// summary: Implements the AsyncDnsJob, which resolves endpoints via async DNS service endpoint requests and drives QUIC session establishment through connectors.
+// ---
+
 #include "net/quic/quic_session_pool_async_dns_job.h"
 
 #include <algorithm>

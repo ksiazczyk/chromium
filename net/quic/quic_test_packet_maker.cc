@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC test packet maker implementation
+// summary: Implements QuicTestPacketMaker, building QUIC packets with configurable frames for use in network stack tests.
+// ---
+
 #include "net/quic/quic_test_packet_maker.h"
 
 #include <algorithm>

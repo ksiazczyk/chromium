@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockQuicContext test helper
+// summary: Declares MockQuicContext, a QuicContext subclass backed by a mock connection helper and mock clock for QUIC testing.
+// ---
+
 #ifndef NET_QUIC_MOCK_QUIC_CONTEXT_H_
 #define NET_QUIC_MOCK_QUIC_CONTEXT_H_
 

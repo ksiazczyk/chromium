@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool AsyncDnsJob declaration
+// summary: Declares the AsyncDnsJob, a QuicSessionPool job that owns DNS resolution results and coordinates endpoint connectors to establish QUIC sessions.
+// ---
+
 #ifndef NET_QUIC_QUIC_SESSION_POOL_ASYNC_DNS_JOB_H_
 #define NET_QUIC_QUIC_SESSION_POOL_ASYNC_DNS_JOB_H_
 

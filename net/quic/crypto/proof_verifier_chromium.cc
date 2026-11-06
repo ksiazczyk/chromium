@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProofVerifierChromium implementation
+// summary: Implements ProofVerifierChromium, verifying QUIC server proofs and certificate chains through Chromium's CertVerifier, TransportSecurityState and SCT auditing.
+// ---
+
 
 #include "net/quic/crypto/proof_verifier_chromium.h"
 

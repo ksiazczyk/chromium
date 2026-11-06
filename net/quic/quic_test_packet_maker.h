@@ -4,6 +4,12 @@
 //
 // Provides a simple interface for QUIC tests to create a variety of packets.
 
+// ---docerion
+// type: source
+// title: QUIC test packet maker header
+// summary: Declares QuicTestPacketMaker, a simple interface for QUIC tests to create a variety of packets with tracked connection state.
+// ---
+
 #ifndef NET_QUIC_QUIC_TEST_PACKET_MAKER_H_
 #define NET_QUIC_QUIC_TEST_PACKET_MAKER_H_
 

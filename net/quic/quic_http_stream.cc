@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC HTTP stream implementation
+// summary: Implements QuicHttpStream, the QUIC-specific HttpStream that sends requests and reads responses over a QuicChromiumClientSession.
+// ---
+
 #include "net/quic/quic_http_stream.h"
 
 #include <set>

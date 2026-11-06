@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared dictionary network transaction factory unit tests
+// summary: Unit tests verifying that the factory creates transactions and delegates GetCache and GetSession calls to the wrapped network layer.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_network_transaction_factory.h"
 
 #include "net/base/net_errors.h"

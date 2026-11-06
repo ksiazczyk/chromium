@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool unit tests
+// summary: Large unit test suite for QuicSessionPool covering session creation, pooling, network changes, and proxy scenarios.
+// ---
+
 #include "net/quic/quic_session_pool.h"
 
 #include <sys/types.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClientStreamBase implementation
+// summary: Implements the Chromium HTTP/3 stream base class with error handling and cellular migration hooks.
+// ---
+
 #include "net/quic/quic_chromium_client_stream_base.h"
 
 namespace net {

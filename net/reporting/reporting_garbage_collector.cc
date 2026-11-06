@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting garbage collector implementation
+// summary: Implements periodic removal of reports that are too old, exceeded delivery attempts, or belong to expired reporting sources.
+// ---
+
 #include "net/reporting/reporting_garbage_collector.h"
 
 #include <utility>

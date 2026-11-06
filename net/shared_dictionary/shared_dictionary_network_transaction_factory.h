@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary network transaction factory header
+// summary: Declares SharedDictionaryNetworkTransactionFactory, an HttpTransactionFactory that produces shared dictionary aware transactions.
+// ---
+
 #ifndef NET_SHARED_DICTIONARY_SHARED_DICTIONARY_NETWORK_TRANSACTION_FACTORY_H_
 #define NET_SHARED_DICTIONARY_SHARED_DICTIONARY_NETWORK_TRANSACTION_FACTORY_H_
 

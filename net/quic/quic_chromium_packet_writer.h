@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumPacketWriter header
+// summary: Declares the Chromium packet writer that sends QUIC packets over a datagram socket, with a reusable buffer and a delegate interface for write events.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_PACKET_WRITER_H_
 #define NET_QUIC_QUIC_CHROMIUM_PACKET_WRITER_H_
 

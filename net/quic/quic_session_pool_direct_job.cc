@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool DirectJob implementation
+// summary: Implements the DirectJob, which resolves the destination host and attempts a QUIC session for direct connections.
+// ---
+
 #include "net/quic/quic_session_pool_direct_job.h"
 
 #include "base/memory/weak_ptr.h"

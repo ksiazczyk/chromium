@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport send stats tracker class declaration
+// summary: Declares a tracker class that registers WebTransport streams and reports bytes sent and acknowledged, retaining stream state until the owner unregisters it.
+// ---
+
 #ifndef NET_QUIC_WEB_TRANSPORT_SEND_STATS_TRACKER_H_
 #define NET_QUIC_WEB_TRANSPORT_SEND_STATS_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC HTTP utilities header
+// summary: Declares helpers for converting request priorities to QUIC priorities and building NetLog parameters for QUIC HTTP requests and responses.
+// ---
+
 #ifndef NET_QUIC_QUIC_HTTP_UTILS_H_
 #define NET_QUIC_QUIC_HTTP_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionAttemptManager implementation
+// summary: Implements QuicSessionAttemptManager and its Job class, which coordinate concurrent QUIC session creation attempts across endpoints and notify waiting client requests.
+// ---
+
 #include "net/quic/quic_session_attempt_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket class declaration
+// summary: Declares the WebSocket class that performs the WebSocket handshake and reads and sends frames over an HttpServer connection.
+// ---
+
 #ifndef NET_SERVER_WEB_SOCKET_H_
 #define NET_SERVER_WEB_SOCKET_H_
 

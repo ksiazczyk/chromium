@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC test flag saver and checker implementation
+// summary: Implements QuicFlagSaverImpl and QuicFlagChecker, which save and restore all QUICHE flag values and verify flags are back at defaults between tests.
+// ---
+
 #include <cstdint>
 #include <iostream>
 

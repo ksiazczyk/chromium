@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockEncrypter QUIC encrypter
+// summary: Declares a mock QuicEncrypter that returns plaintext plus zero padding without encryption or MAC, allowing fuzzing to mutate packets.
+// ---
+
 #ifndef NET_QUIC_MOCK_ENCRYPTER_H_
 #define NET_QUIC_MOCK_ENCRYPTER_H_
 

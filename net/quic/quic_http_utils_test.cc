@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC HTTP utils tests
+// summary: Unit tests verifying conversion between net request priorities and QUIC priorities, including graceful handling of invalid priority values.
+// ---
+
 #include "net/quic/quic_http_utils.h"
 
 #include <stdint.h>

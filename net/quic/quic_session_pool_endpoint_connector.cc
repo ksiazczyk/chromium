@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicSessionPool EndpointConnector implementation
+// summary: Implements EndpointConnector, which establishes one QUIC session from candidates supplied by its AsyncDnsJob and adopts the first successful attempt.
+// ---
+
 #include "net/quic/quic_session_pool_endpoint_connector.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSocketDataProvider unit tests
+// summary: Unit tests verifying expectation ordering, synchronization, and read and write behavior of QuicSocketDataProvider.
+// ---
+
 #include "net/quic/quic_socket_data_provider.h"
 
 #include <memory>

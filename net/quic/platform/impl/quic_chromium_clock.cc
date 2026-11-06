@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClock implementation
+// summary: Implements the Chromium QUIC clock singleton, providing Now, ApproximateNow, WallNow and conversion from QuicTime to base::TimeTicks.
+// ---
+
 #include "net/quic/platform/impl/quic_chromium_clock.h"
 
 #include "base/check_op.h"

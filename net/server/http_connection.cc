@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpConnection implementation
+// summary: Implements the read and write IO buffers that manage pending data and capacity for HTTP server connections.
+// ---
+
 #include "net/server/http_connection.h"
 
 #include <ranges>

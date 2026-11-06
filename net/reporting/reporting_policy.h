@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting policy configuration
+// summary: Defines the ReportingPolicy struct with queue limits, delivery and persistence intervals, and network-change persistence knobs.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_POLICY_H_
 #define NET_REPORTING_REPORTING_POLICY_H_
 

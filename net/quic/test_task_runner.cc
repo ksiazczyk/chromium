@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestTaskRunner implementation
+// summary: Implements a task runner for QUIC tests that queues posted tasks against a MockClock and supports running, fast-forwarding, and draining virtual time.
+// ---
+
 #include "net/quic/test_task_runner.h"
 
 #include <algorithm>

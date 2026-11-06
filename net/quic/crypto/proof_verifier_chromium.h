@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProofVerifierChromium class declaration
+// summary: Declares ProofVerifierChromium plus its verify details and context classes implementing the QUIC ProofVerifier interface for concurrent verification requests.
+// ---
+
 #ifndef NET_QUIC_CRYPTO_PROOF_VERIFIER_CHROMIUM_H_
 #define NET_QUIC_CRYPTO_PROOF_VERIFIER_CHROMIUM_H_
 

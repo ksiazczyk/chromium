@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC bidirectional stream implementation header
+// summary: Declares BidirectionalStreamQuicImpl, the BidirectionalStreamImpl implementation running over a Chromium QUIC client session.
+// ---
+
 #ifndef NET_QUIC_BIDIRECTIONAL_STREAM_QUIC_IMPL_H_
 #define NET_QUIC_BIDIRECTIONAL_STREAM_QUIC_IMPL_H_
 

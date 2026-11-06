@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PropertiesBasedQuicServerInfo unit tests
+// summary: Unit tests that verify persisting, loading, and updating QUIC server info state through HttpServerProperties.
+// ---
+
 #include "net/quic/properties_based_quic_server_info.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock QUIC crypto client stream factory declaration
+// summary: Declares MockCryptoClientStreamFactory, a QuicCryptoClientStreamFactory that produces MockCryptoClientStream instances for testing.
+// ---
+
 #ifndef NET_QUIC_MOCK_CRYPTO_CLIENT_STREAM_FACTORY_H_
 #define NET_QUIC_MOCK_CRYPTO_CLIENT_STREAM_FACTORY_H_
 

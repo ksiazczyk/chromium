@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC migration attempt context unit tests
+// summary: Unit tests for QuicMigrationAttemptContext covering histogram recording for ineligible, superseded and session-destroyed migration attempts.
+// ---
+
 #include "net/quic/quic_migration_attempt_context.h"
 
 #include <memory>

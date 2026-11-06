@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicEventLogger class declaration
+// summary: Declares QuicEventLogger, a debug visitor that logs QUIC session and connection events to a supplied NetLog.
+// ---
+
 #ifndef NET_QUIC_QUIC_EVENT_LOGGER_H_
 #define NET_QUIC_QUIC_EVENT_LOGGER_H_
 

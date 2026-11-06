@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared dictionary network transaction unit tests
+// summary: Unit tests covering decoding of brotli and zstd dictionary compressed responses, dictionary matching behavior, and transaction outcome metrics.
+// ---
+
 #include "net/shared_dictionary/shared_dictionary_network_transaction.h"
 
 #include <memory>

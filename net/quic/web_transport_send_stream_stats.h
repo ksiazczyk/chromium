@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransportSendStreamStats struct declaration
+// summary: Declares a struct holding bytes sent and acknowledged for a WebTransport send stream, with equality comparison and an ostream output operator.
+// ---
+
 #ifndef NET_QUIC_WEB_TRANSPORT_SEND_STREAM_STATS_H_
 #define NET_QUIC_WEB_TRANSPORT_SEND_STREAM_STATS_H_
 

@@ -7,6 +7,12 @@
 // a non-owning pointer to the helper so this session needs to ensure that
 // the helper outlives the connection.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClientSession declaration
+// summary: Declares the client QuicSession subclass that owns the QUIC connection and defines connection migration modes and session APIs.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_CLIENT_SESSION_H_
 #define NET_QUIC_QUIC_CHROMIUM_CLIENT_SESSION_H_
 

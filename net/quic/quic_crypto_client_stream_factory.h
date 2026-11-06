@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC crypto client stream factory interface
+// summary: Declares an interface for creating QuicCryptoClientStream objects so tests can supply mock implementations.
+// ---
+
 #ifndef NET_QUIC_QUIC_CRYPTO_CLIENT_STREAM_FACTORY_H_
 #define NET_QUIC_QUIC_CRYPTO_CLIENT_STREAM_FACTORY_H_
 

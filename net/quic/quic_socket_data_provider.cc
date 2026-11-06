@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC socket data provider implementation
+// summary: Implements QuicSocketDataProvider, which manages named QUIC packet read and write expectations and decodes HTTP frames for test diagnostics.
+// ---
+
 #include "net/quic/quic_socket_data_provider.h"
 
 #include <algorithm>

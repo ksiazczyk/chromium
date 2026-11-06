@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dedicated WebTransport over HTTP/3 client unit tests
+// summary: Unit tests for DedicatedWebTransportHttp3Client covering exporter context serialization, connection setup, and session behavior against a local QUIC server.
+// ---
+
 #include "net/quic/dedicated_web_transport_http3_client.h"
 
 #include <array>

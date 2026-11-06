@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC proxy client socket implementation
+// summary: Implements QuicProxyClientSocket, tunneling a stream socket over a QUIC stream via CONNECT requests with proxy authentication and net logging support.
+// ---
+
 #include "net/quic/quic_proxy_client_socket.h"
 
 #include <cstdio>

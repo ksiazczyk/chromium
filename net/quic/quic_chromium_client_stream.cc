@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClientStream implementation
+// summary: Implements the client QUIC stream and its Handle for asynchronously reading and writing headers and body data.
+// ---
+
 #include "net/quic/quic_chromium_client_stream.h"
 
 #include <string_view>

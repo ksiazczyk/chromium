@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting endpoint manager interface
+// summary: Declares the manager that tracks pending and backoff endpoints and randomly chooses a suitable endpoint for report delivery.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_ENDPOINT_MANAGER_H_
 #define NET_REPORTING_REPORTING_ENDPOINT_MANAGER_H_
 

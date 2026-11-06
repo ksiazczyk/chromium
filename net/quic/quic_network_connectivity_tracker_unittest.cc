@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC network connectivity tracker unit tests
+// summary: Unit tests for QuicNetworkConnectivityTracker covering initial state, marking QUIC as working, resetting and reacting to IP address changes.
+// ---
+
 #include "net/quic/quic_network_connectivity_tracker.h"
 
 #include "net/base/ip_address.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting browsing data remover unit tests
+// summary: Tests removing reports and clients from the reporting cache, with and without origin filters.
+// ---
+
 #include "net/reporting/reporting_browsing_data_remover.h"
 
 #include <memory>

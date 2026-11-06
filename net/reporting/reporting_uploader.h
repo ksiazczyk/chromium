@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingUploader interface for uploading reports
+// summary: Declares the ReportingUploader interface that uploads serialized JSON reports to a URL and converts responses to success, remove-endpoint, or failure outcomes.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_UPLOADER_H_
 #define NET_REPORTING_REPORTING_UPLOADER_H_
 

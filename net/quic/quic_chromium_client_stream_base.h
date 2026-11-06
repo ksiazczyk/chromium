@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClientStreamBase class declaration
+// summary: Declares a Chromium-owned HTTP/3 stream base carrying client hooks used by QuicChromiumClientSession.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_CLIENT_STREAM_BASE_H_
 #define NET_QUIC_QUIC_CHROMIUM_CLIENT_STREAM_BASE_H_
 

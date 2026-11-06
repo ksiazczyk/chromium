@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketParseResult enum declaration
+// summary: Defines the WebSocketParseResult enum describing frame parsing outcomes such as OK, ping, pong, incomplete, close and error.
+// ---
+
 #ifndef NET_SERVER_WEB_SOCKET_PARSE_RESULT_H_
 #define NET_SERVER_WEB_SOCKET_PARSE_RESULT_H_
 

@@ -4,6 +4,12 @@
 //
 // NOTE: This code is not shared between Google and Chrome.
 
+// ---docerion
+// type: source
+// title: QuicChromiumClientStream class declaration
+// summary: Declares the client-initiated QUIC stream and its Handle interface for header, body, and stream data I/O.
+// ---
+
 #ifndef NET_QUIC_QUIC_CHROMIUM_CLIENT_STREAM_H_
 #define NET_QUIC_QUIC_CHROMIUM_CLIENT_STREAM_H_
 

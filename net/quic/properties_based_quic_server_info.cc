@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertiesBasedQuicServerInfo implementation
+// summary: Implements loading and persisting QUIC server info as base64 data in HttpServerProperties, recording cache failures to UMA histograms.
+// ---
+
 #include "net/quic/properties_based_quic_server_info.h"
 
 #include "base/base64.h"

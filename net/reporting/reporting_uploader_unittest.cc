@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportingUploader unit tests
+// summary: Unit tests for ReportingUploader that verify upload requests, CORS preflight handling, extra request headers, and outcome mapping using an embedded HTTPS test server.
+// ---
+
 #include "net/reporting/reporting_uploader.h"
 
 #include <memory>

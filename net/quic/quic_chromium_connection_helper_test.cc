@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicChromiumConnectionHelper unit tests
+// summary: Unit tests verifying that the connection helper returns the configured clock and random generator.
+// ---
+
 #include "net/quic/quic_chromium_connection_helper.h"
 
 #include "net/third_party/quiche/src/quiche/quic/test_tools/mock_clock.h"

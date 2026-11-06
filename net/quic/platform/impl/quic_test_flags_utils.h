@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC test flag saver and checker declarations
+// summary: Declares QuicFlagSaverImpl, which saves and restores all QUIC flags around tests, and QuicFlagChecker, which checks flags are at their default values.
+// ---
+
 #ifndef NET_QUIC_PLATFORM_IMPL_QUIC_TEST_FLAGS_UTILS_H_
 #define NET_QUIC_PLATFORM_IMPL_QUIC_TEST_FLAGS_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuicEndpoint implementation
+// summary: Implements the QuicEndpoint class holding a QUIC version, IP endpoint and connection metadata, with conversion to a base::DictValue.
+// ---
+
 #include "net/quic/quic_endpoint.h"
 
 #include "net/third_party/quiche/src/quiche/quic/core/quic_versions.h"

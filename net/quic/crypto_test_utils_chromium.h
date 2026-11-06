@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for Chromium QUIC crypto test utilities
+// summary: Declares ProofSourceForTestingChromium, a helper returning a test proof source used in QUIC crypto tests.
+// ---
+
 #ifndef NET_QUIC_CRYPTO_TEST_UTILS_CHROMIUM_H_
 #define NET_QUIC_CRYPTO_TEST_UTILS_CHROMIUM_H_
 

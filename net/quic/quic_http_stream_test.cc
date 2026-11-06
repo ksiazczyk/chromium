@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicHttpStream unit tests
+// summary: Unit tests for QuicHttpStream covering request sending, response reading, and session behavior using mock QUIC data and crypto streams.
+// ---
+
 #include "net/quic/quic_http_stream.h"
 
 #include <stdint.h>

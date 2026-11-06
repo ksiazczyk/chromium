@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC address mismatch histogram helper
+// summary: Computes a histogram sample describing how two IP endpoints differ in address family, address, and port for QUIC metrics.
+// ---
+
 #include "net/quic/quic_address_mismatch.h"
 
 #include "base/check_op.h"

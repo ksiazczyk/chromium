@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting test utilities header
+// summary: Declares test doubles for the Reporting system, including a controllable uploader, a delegate, and matchers for queued reports.
+// ---
+
 #ifndef NET_REPORTING_REPORTING_TEST_UTIL_H_
 #define NET_REPORTING_REPORTING_TEST_UTIL_H_
 

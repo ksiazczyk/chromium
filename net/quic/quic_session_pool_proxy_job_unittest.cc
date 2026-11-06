@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicSessionPool proxy job unit tests
+// summary: Unit tests verifying creation of proxied QUIC sessions through ProxyJob across all supported QUIC versions.
+// ---
+
 #include <memory>
 
 #include "base/strings/strcat.h"
