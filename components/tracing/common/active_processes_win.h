@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveProcesses class declaration for Windows
+// summary: Declares the ActiveProcesses helper that categorizes client, system, and other processes and maps thread IDs to categories for ETW-based tracing.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_ACTIVE_PROCESSES_WIN_H_
 #define COMPONENTS_TRACING_COMMON_ACTIVE_PROCESSES_WIN_H_
 

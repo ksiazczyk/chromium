@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test dump at schema version 157
+-- summary: SQL dump of a web database at schema version 157, following version 156, containing autofill, payments, and offer tables for use as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

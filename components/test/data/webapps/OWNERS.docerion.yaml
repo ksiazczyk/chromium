@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for webapps test data
+summary: Sets code ownership for the webapps test data folder and allows anyone to update the unit tests bundle data filelist.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test dump at schema version 156
+-- summary: SQL dump of a web database at schema version 156 with autofill, credit card, IBAN, address, and offer tables, used as test data for database migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

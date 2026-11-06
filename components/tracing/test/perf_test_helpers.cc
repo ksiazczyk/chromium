@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Perf test stopwatch helper implementation
+// summary: Implements ScopedStopwatch and IterableStopwatch helpers that report scoped, per-lap, and median timing metrics via PerfResultReporter for tracing performance tests.
+// ---
+
 #include "perf_test_helpers.h"
 
 #include <algorithm>

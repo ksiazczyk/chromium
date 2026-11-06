@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewConstraints for view behavior options
+// summary: Cloneable constraints object for ThinWebView covering opacity support, background color and ignoring layout-driven web contents size changes.
+// ---
+
 package org.chromium.components.thinwebview;
 
 import android.graphics.Color;

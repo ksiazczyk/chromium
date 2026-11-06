@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme utilities implementation
+// summary: Implements conversions between the sync NtpCustomBackground protobuf message and the background preference dictionary holding URL, attribution, collection, resume token, timestamp and main color fields.
+// ---
+
 #include "components/themes/theme_utils.h"
 
 #include <optional>

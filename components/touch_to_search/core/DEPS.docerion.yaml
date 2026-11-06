@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for touch_to_search core
+summary: Defines include rules granting the touch_to_search core access to dependencies such as network, translate, metrics, search engines, variations, and content browser APIs.

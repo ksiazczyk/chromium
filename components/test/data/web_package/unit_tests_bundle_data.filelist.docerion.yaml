@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: config
+title: File list of web package test data for unit test bundles
+summary: Generated list of web package test data files packaged into iOS unit test bundles and not meant for manual edits.

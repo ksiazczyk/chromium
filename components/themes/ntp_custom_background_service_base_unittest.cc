@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the NTP custom background service base
+// summary: Unit tests for NtpCustomBackgroundServiceBase covering preference validation, background info updates, observer notifications, and color extraction.
+// ---
+
 #include "components/themes/ntp_custom_background_service_base.h"
 
 #include <memory>

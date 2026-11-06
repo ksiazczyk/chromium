@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test data, schema version 128
+-- summary: SQL dump of a web database at schema version 128 with autofill, credit card, address, offer, and token service tables, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

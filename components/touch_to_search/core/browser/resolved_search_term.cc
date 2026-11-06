@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolvedSearchTerm implementation
+// summary: Implements the constructors and destructor of the ResolvedSearchTerm structure that encapsulates a Contextual Search server response.
+// ---
+
 #include "components/touch_to_search/core/browser/resolved_search_term.h"
 
 ResolvedSearchTerm::ResolvedSearchTerm(int response_code)

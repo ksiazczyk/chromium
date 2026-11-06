@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the cross-device theme directory
+summary: Defines include rules granting this directory access to sync base, model, protocol, and sync_device_info components.

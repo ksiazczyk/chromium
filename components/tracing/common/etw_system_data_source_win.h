@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EtwSystemDataSource class declaration
+// summary: Declares EtwSystemDataSource, a Perfetto data source that collects Windows ETW system events on behalf of a client process with optional event filtering.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_ETW_SYSTEM_DATA_SOURCE_WIN_H_
 #define COMPONENTS_TRACING_COMMON_ETW_SYSTEM_DATA_SOURCE_WIN_H_
 

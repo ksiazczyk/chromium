@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tracing metrics provider implementation
+// summary: Implements the metrics provider that uploads background traces as independent metrics and records system profile metrics at trace recording time.
+// ---
+
 #include "components/tracing/common/background_tracing_metrics_provider.h"
 
 #include "base/barrier_closure.h"

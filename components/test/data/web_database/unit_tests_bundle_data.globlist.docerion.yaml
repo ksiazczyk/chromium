@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Glob list for web database unit test bundle data
+summary: Glob pattern file (version_*.sql) used by update_bundle_filelist.py to regenerate the unit test bundle filelist.

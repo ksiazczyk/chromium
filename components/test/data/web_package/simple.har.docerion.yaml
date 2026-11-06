@@ -1,0 +1,4 @@
+# Docerion header of simple.har.
+type: data
+title: Simple HAR archive with two responses
+summary: Minimal HAR archive with a root page and an index.html response used to build a simple test web bundle.

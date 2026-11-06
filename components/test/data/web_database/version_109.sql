@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 109 SQL test fixture
+-- summary: SQL dump of a web database at schema version 109 with autofill, credit card, IBAN, and keyword tables, used as test data for database migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

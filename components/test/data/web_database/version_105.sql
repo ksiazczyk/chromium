@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: data
+-- title: Web database version 105 SQL test snapshot
+-- summary: SQL dump of the web database at schema version 105, which adds an ibans table, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

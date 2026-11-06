@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the thin webview view
+// summary: Implements ThinWebView, the native counterpart of ThinWebViewImpl.java, attaching WebContents, delegates, theming, and browser control handling.
+// ---
+
 #include "components/thin_webview/internal/thin_webview.h"
 
 #include "base/android/jni_android.h"

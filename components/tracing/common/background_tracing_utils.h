@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tracing setup utilities
+// summary: Declares utility functions to set up background, preset, field, and system tracing from config files, the command line, or field trials, plus output path helpers.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_BACKGROUND_TRACING_UTILS_H_
 #define COMPONENTS_TRACING_COMMON_BACKGROUND_TRACING_UTILS_H_
 

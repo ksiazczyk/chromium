@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background tracing utils unit tests
+// summary: Unit tests verifying setup of background and field tracing from field trials, command line switches, and serialized proto tracing configs.
+// ---
+
 #include "components/tracing/common/background_tracing_utils.h"
 
 #include <vector>

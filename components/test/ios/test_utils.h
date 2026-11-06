@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OCMock helpers for C++ argument matching
+// summary: Header with macros and helpers for using OCMock stubs and expectations with methods taking pointers to C++ objects, including capturing received argument values.
+// ---
+
 #ifndef COMPONENTS_TEST_IOS_TEST_UTILS_H_
 #define COMPONENTS_TEST_IOS_TEST_UTILS_H_
 

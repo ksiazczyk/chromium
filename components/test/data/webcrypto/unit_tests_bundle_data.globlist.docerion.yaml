@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: WebCrypto unit test bundle data globlist
+summary: Glob patterns used by the bundle filelist update script to select webcrypto JSON test data while excluding filelist, globlist, OWNERS and DIR_METADATA files.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Hello Web Bundles test page
+summary: Minimal HTML page that displays 'Hello Web Bundles!' and loads script.js, serving as test data for web package handling.

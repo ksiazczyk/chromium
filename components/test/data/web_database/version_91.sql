@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database schema version 91 test fixture
+-- summary: SQL dump of the web database at schema version 91, used as test data for migration testing, with apartment number and floor fields in profile addresses.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

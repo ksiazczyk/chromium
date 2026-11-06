@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test dump at schema version 158
+-- summary: SQL dump of a web database at schema version 158 in which offer identifiers are stored as VARCHAR, provided as test data for schema migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

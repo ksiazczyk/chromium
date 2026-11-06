@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the tracing component
+summary: Defines code review ownership for the tracing component, routing changes to mojom files to the IPC security owners.

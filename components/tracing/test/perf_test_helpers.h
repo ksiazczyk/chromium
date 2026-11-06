@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Perf test stopwatch helper declarations
+// summary: Declares ScopedStopwatch and IterableStopwatch classes for measuring scoped durations and median loop-iteration times inside GTest performance tests.
+// ---
+
 #ifndef COMPONENTS_TRACING_TEST_PERF_TEST_HELPERS_H_
 #define COMPONENTS_TRACING_TEST_PERF_TEST_HELPERS_H_
 

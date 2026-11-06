@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android graphics memory dump provider implementation
+// summary: Implements a memory dump provider that queries the root-owned memtrack_helper daemon over an abstract UNIX socket to report Android graphics memory usage in traces.
+// ---
+
 #include "components/tracing/common/graphics_memory_dump_provider_android.h"
 
 #include <fcntl.h>

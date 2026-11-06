@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme utilities unit tests
+// summary: Unit tests verifying that background metadata round-trips correctly between the NtpCustomBackground protobuf and the preference dictionary in both conversion directions.
+// ---
+
 #include "components/themes/theme_utils.h"
 
 #include <optional>

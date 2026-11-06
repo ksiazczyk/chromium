@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the themes directory
+summary: Lists the include_rules that define which components and libraries the themes directory may include from.

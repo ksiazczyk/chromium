@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchFieldTrial implementation
+// summary: Implements reading of field trial parameters and command-line switches for the resolver URL, surrounding text sizes, and related feature flags.
+// ---
+
 #include "components/touch_to_search/core/browser/contextual_search_field_trial.h"
 
 #include "base/command_line.h"

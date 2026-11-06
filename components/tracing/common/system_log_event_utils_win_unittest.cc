@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows system log event utils
+// summary: Unit tests covering string, wide string and SID parsing helpers, including empty, truncated, unaligned and malformed input cases.
+// ---
+
 #include "components/tracing/common/system_log_event_utils_win.h"
 
 #include <windows.h>

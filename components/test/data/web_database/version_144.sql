@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test dump for schema version 144
+-- summary: SQL dump of the autofill web database at schema version 144, adding card creation source fields alongside tables for cards, addresses, IBANs and offers for migration testing.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

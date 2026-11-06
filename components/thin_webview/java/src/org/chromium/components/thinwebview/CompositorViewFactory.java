@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorViewFactory for creating CompositorView instances
+// summary: Factory that creates CompositorView implementations backed by TextureView or SurfaceView surfaces, including a variant for XR surface entities.
+// ---
+
 package org.chromium.components.thinwebview;
 
 import android.content.Context;

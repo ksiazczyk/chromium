@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inclusion policy implementation for Windows tracing
+// summary: Implements event inclusion rules that decide which thread IDs, file and disk I/O events, and call stacks are recorded based on the thread's process category.
+// ---
+
 #include "components/tracing/common/inclusion_policy_win.h"
 
 #include "components/tracing/common/active_processes_win.h"

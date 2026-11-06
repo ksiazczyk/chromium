@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the themes component
+summary: Defines GN build targets for the themes component, including the themes source set, the NTP background proto library, the policy and prefs source sets, and unit tests.

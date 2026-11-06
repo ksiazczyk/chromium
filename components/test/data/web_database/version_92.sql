@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database schema version 92 test fixture
+-- summary: SQL dump of the web database at schema version 92, used as test data for migration testing, adding full_name_with_honorific_prefix to profile names.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

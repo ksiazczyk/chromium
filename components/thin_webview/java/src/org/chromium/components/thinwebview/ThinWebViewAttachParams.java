@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewAttachParams with builder for attach options
+// summary: Builder-based parameter object holding optional delegates, context menu, selection menu, theming and browser autofill settings for attaching WebContents.
+// ---
+
 package org.chromium.components.thinwebview;
 
 import org.chromium.build.annotations.NullMarked;

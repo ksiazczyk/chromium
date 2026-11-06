@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test data, schema version 130
+-- summary: SQL dump of a web database at schema version 130, adding a binding_key column to the token_service table, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

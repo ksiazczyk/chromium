@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchContext implementation
+// summary: Implements the ContextualSearchContext class, including selection adjustment, resolve preparation, and language detection via the translate utility.
+// ---
+
 #include "components/touch_to_search/core/browser/contextual_search_context.h"
 
 #include "components/language_detection/core/constants.h"

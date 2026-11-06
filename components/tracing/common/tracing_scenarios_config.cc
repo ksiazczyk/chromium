@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing scenarios config parsing implementation
+// summary: Defines field tracing, tracing triggers and preset tracing features and parses their encoded scenario and trigger rule configurations.
+// ---
+
 #include "components/tracing/common/tracing_scenarios_config.h"
 
 #include <memory>

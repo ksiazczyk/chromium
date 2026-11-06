@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebView feature flag definition
+// summary: Defines the kUseSurfaceViewForThinWebView feature, enabled by default, for the thin_webview component.
+// ---
+
 #include "components/thin_webview/features.h"
 
 namespace thin_webview::android {

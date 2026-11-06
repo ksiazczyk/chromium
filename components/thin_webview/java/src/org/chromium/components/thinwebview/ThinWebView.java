@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebView interface for displaying web contents
+// summary: Interface for a surface-backed Android view that displays WebContents, with attach, resize, opacity, frame callback and destroy operations.
+// ---
+
 package org.chromium.components.thinwebview;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchDelegate interface
+// summary: Declares the abstract delegate interface for gathering surrounding text and starting asynchronous search term resolution requests.
+// ---
+
 #ifndef COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_DELEGATE_H_
 #define COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_DELEGATE_H_
 

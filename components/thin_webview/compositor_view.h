@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorView native interface header
+// summary: Declares the native C++ interface for CompositorView.java, including setting the root layer of the view.
+// ---
+
 #ifndef COMPONENTS_THIN_WEBVIEW_COMPOSITOR_VIEW_H_
 #define COMPONENTS_THIN_WEBVIEW_COMPOSITOR_VIEW_H_
 

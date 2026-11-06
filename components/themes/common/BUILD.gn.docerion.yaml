@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for themes common helpers
+summary: Defines the common source_set with image URL option helpers and enforces one-way dependencies away from //components/themes subdirectories.

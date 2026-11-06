@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background preference key constants
+// summary: Defines constant string keys for custom NTP background preference fields such as background URL, attribution lines, collection ID, resume token, and main color.
+// ---
+
 #ifndef COMPONENTS_THEMES_NTP_CUSTOM_BACKGROUND_SERVICE_CONSTANTS_H_
 #define COMPONENTS_THEMES_NTP_CUSTOM_BACKGROUND_SERVICE_CONSTANTS_H_
 

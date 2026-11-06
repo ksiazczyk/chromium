@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 124 test fixture
+-- summary: SQL dump creating a web database at schema version 124 with tables for autofill, cards, local addresses, contact info and stored CVC, used as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

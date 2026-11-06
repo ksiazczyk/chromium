@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device theme sync bridge
+// summary: Declares a generic read-only DataTypeSyncBridge template that translates remote theme specifics and delegates storage and updates to CrossDeviceThemeTracker.
+// ---
+
 #ifndef COMPONENTS_THEMES_CROSS_DEVICE_CROSS_DEVICE_THEME_SYNC_BRIDGE_H_
 #define COMPONENTS_THEMES_CROSS_DEVICE_CROSS_DEVICE_THEME_SYNC_BRIDGE_H_
 

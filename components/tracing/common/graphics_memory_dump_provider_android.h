@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphicsMemoryDumpProvider class declaration
+// summary: Declares a singleton memory dump provider that collects Android graphics memory statistics via the memtrack_helper daemon, disabled when the helper is absent.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_GRAPHICS_MEMORY_DUMP_PROVIDER_ANDROID_H_
 #define COMPONENTS_TRACING_COMMON_GRAPHICS_MEMORY_DUMP_PROVIDER_ANDROID_H_
 

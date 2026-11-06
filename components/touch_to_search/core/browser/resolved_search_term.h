@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolvedSearchTerm structure and quick action category header
+// summary: Declares the ResolvedSearchTerm struct holding a Contextual Search server response and the QuickActionCategory enum used by its Java counterpart.
+// ---
+
 #ifndef COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_RESOLVED_SEARCH_TERM_H_
 #define COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_RESOLVED_SEARCH_TERM_H_
 

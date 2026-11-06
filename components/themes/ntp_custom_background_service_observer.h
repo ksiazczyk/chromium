@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background service observer interface
+// summary: Declares the observer interface for NtpCustomBackgroundServiceBase with callbacks for custom background image updates and service shutdown.
+// ---
+
 #ifndef COMPONENTS_THEMES_NTP_CUSTOM_BACKGROUND_SERVICE_OBSERVER_H_
 #define COMPONENTS_THEMES_NTP_CUSTOM_BACKGROUND_SERVICE_OBSERVER_H_
 

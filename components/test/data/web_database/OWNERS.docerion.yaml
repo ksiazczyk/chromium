@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for web database test data
+summary: Delegates ownership of the web database test data directory to components/webdata/OWNERS.

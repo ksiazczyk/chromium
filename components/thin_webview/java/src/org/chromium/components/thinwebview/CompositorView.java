@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorView interface for a surface-backed compositor view
+// summary: Interface for an Android view backed by a Surface that displays a cc::Layer, exposing render requests, frame callbacks, opacity and cleanup.
+// ---
+
 package org.chromium.components.thinwebview;
 
 import android.view.View;

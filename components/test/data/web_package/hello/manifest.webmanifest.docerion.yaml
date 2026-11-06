@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Web Bundles test manifest
+summary: Web app manifest naming the Web Bundles test and defining its start URL for the hello web package test.

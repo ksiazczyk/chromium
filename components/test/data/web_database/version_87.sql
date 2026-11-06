@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database schema version 87 test fixture
+-- summary: SQL dump of the web database at schema version 87, used as test data for migration testing of autofill, credit card, and keyword tables.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

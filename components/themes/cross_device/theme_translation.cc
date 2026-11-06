@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform theme translation
+// summary: Implements translation of theme specifics between desktop, Android, and iOS formats, including normalization of NTP background image URLs.
+// ---
+
 #include "components/themes/cross_device/theme_translation.h"
 
 #include "build/build_config.h"

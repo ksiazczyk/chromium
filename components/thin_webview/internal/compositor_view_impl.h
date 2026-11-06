@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the CompositorViewImpl class
+// summary: Declares CompositorViewImpl, the native counterpart of CompositorViewImpl.java, implementing CompositorView and the content compositor client interface.
+// ---
+
 #ifndef COMPONENTS_THIN_WEBVIEW_INTERNAL_COMPOSITOR_VIEW_IMPL_H_
 #define COMPONENTS_THIN_WEBVIEW_INTERNAL_COMPOSITOR_VIEW_IMPL_H_
 

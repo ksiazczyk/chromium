@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTracingStateManager class declaration
+// summary: Declares the singleton manager that stores and restores background tracing prefs such as enabled scenarios and the privacy filter across sessions.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_BACKGROUND_TRACING_STATE_MANAGER_H_
 #define COMPONENTS_TRACING_COMMON_BACKGROUND_TRACING_STATE_MANAGER_H_
 

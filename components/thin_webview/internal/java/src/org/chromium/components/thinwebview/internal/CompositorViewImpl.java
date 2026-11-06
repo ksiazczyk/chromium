@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorViewImpl Android compositor view
+// summary: Android view implementation backed by a Surface from either a TextureView or SurfaceView that displays a cc::Layer, with JNI bindings and XR surface entity support.
+// ---
+
 package org.chromium.components.thinwebview.internal;
 
 import android.content.Context;

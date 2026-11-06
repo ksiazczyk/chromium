@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser theme color policy handler implementation
+// summary: Implements the policy handler for the BrowserThemeColor policy, validating hex color strings and applying them as the policy theme color preference.
+// ---
+
 #include "components/themes/theme_color_policy_handler.h"
 
 #include "base/strings/string_number_conversions.h"

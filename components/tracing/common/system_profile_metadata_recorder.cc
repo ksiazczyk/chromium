@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System profile metadata recorder implementation
+// summary: Records system profile metadata such as OS, CPU, GPU, memory and network details into Perfetto Chrome event bundles for traces.
+// ---
+
 #include "components/tracing/common/system_profile_metadata_recorder.h"
 
 #include "base/strings/strcat.h"

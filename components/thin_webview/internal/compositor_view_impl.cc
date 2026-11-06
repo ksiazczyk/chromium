@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the thin webview compositor view
+// summary: Implements CompositorViewImpl, the native counterpart of the Java compositor view, managing surface lifecycle, layers, and compositing through JNI.
+// ---
+
 #include "components/thin_webview/internal/compositor_view_impl.h"
 
 #include <memory>

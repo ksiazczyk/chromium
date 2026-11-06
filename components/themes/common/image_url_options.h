@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image URL options header for themes
+// summary: Declares functions to get, add, and remove image resizing options on HTTP(S) image URLs, returning empty GURLs for invalid inputs.
+// ---
+
 #ifndef COMPONENTS_THEMES_COMMON_IMAGE_URL_OPTIONS_H_
 #define COMPONENTS_THEMES_COMMON_IMAGE_URL_OPTIONS_H_
 

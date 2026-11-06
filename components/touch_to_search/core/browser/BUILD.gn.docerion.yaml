@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for touch-to-search browser
+summary: GN build file defining the browser static library with its sources and dependencies, plus the unit_tests target and Java enum generation for Android.

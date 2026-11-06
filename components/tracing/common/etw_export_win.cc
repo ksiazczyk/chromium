@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW export controller implementation
+// summary: Implements the ETW export controller that registers the Chrome ETW provider and starts or aborts startup tracing sessions to export track events to ETW.
+// ---
+
 #include "components/tracing/common/etw_export_win.h"
 
 #include <memory>

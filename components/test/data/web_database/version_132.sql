@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test data, schema version 132
+-- summary: SQL dump of a web database at schema version 132, adding use_date2 and use_date3 columns to the contact info and local address tables, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

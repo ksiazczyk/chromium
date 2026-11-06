@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW stack sampling debug ID helpers
+// summary: Declares functions that add image paths and debug IDs to Perfetto trace configs so ETW call stacks can be symbolized.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_ETW_STACK_SAMPLING_WIN_H_
 #define COMPONENTS_TRACING_COMMON_ETW_STACK_SAMPLING_WIN_H_
 

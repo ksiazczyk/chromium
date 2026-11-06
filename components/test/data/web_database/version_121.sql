@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 121 test fixture
+-- summary: SQL dump creating a web database at schema version 121 with tables for local IBANs, addresses, contact info type tokens and stored CVC, used as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database schema version 96 test fixture
+-- summary: SQL dump of the web database at schema version 96, used as test data for migration testing, adding disallow_settings_visible_updates to autofill_profiles.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

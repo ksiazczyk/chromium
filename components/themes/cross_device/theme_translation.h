@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device theme translation declarations
+// summary: Declares functions that translate theme sync data between desktop, Android, and iOS platform-specific protobuf formats.
+// ---
+
 #ifndef COMPONENTS_THEMES_CROSS_DEVICE_THEME_TRANSLATION_H_
 #define COMPONENTS_THEMES_CROSS_DEVICE_THEME_TRANSLATION_H_
 
