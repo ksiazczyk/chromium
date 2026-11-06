@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker watcher declaration
+// summary: Declares WorkerWatcher, which tracks running workers of all types for a browser context, owns their worker nodes and handles client tracking for each worker type.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_WORKER_WATCHER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_WORKER_WATCHER_H_
 

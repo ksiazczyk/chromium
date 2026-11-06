@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAggregatorData implementation
+// summary: Implements per-page counters for frames holding WebLocks, IndexedDB locks, using WebRTC or having form interaction, updating the corresponding page properties.
+// ---
+
 #include "components/performance_manager/decorators/page_aggregator_data.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PDF stream delegate declarations for tests
+// summary: Declares a fake PdfStreamDelegate test double that returns preset stream info and configurable navigation allowances for tests.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_FAKE_PDF_STREAM_DELEGATE_H_
 #define COMPONENTS_PDF_BROWSER_FAKE_PDF_STREAM_DELEGATE_H_
 

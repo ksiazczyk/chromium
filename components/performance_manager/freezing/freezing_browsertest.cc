@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Freezing browser tests
+// summary: Browser test verifying a page can be frozen a second time after being unfrozen by a visibility change.
+// ---
+
 #include <optional>
 
 #include "base/run_loop.h"

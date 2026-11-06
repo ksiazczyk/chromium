@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF view web plugin client implementation
+// summary: Implements the renderer-side client that bridges the PDF web plugin to Blink frames, V8, messaging and browser services.
+// ---
+
 #include "components/pdf/renderer/pdf_view_web_plugin_client.h"
 
 #include <memory>

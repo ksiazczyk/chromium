@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF stream delegate StreamInfo definitions
+// summary: Defines the default constructors, copy and move assignment operators, and destructor for PdfStreamDelegate::StreamInfo.
+// ---
+
 #include "components/pdf/browser/pdf_stream_delegate.h"
 
 namespace pdf {

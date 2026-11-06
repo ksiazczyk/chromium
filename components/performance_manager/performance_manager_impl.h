@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager implementation header
+// summary: Declares the PerformanceManagerImpl class, the main-thread entry point for creating graph nodes and accessing the graph and process priority policy settings.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERFORMANCE_MANAGER_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERFORMANCE_MANAGER_IMPL_H_
 

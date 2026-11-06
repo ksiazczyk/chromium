@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Freezing unit test stub
+// summary: Placeholder unit test file for the freezing public API that currently contains only a TODO.
+// ---
+
 #include "components/performance_manager/public/freezing/freezing.h"
 
 #include <optional>

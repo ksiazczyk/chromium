@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphFeatures configuration helper
+// summary: Constexpr helper for configuring and enabling performance manager Graph feature sets such as minimal, default, and individual decorators.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_GRAPH_FEATURES_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_GRAPH_FEATURES_H_
 

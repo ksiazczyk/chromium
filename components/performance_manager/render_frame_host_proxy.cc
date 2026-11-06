@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render Frame Host Proxy Implementation
+// summary: Implements RenderFrameHostProxy, resolving a content RenderFrameHost from its global frame routing ID.
+// ---
+
 #include "components/performance_manager/public/render_frame_host_proxy.h"
 
 #include "content/public/browser/render_frame_host.h"

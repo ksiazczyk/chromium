@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: PDF component directory metadata
+summary: Points the components/pdf directory to the //pdf/COMMON_METADATA mixins for shared directory metadata.

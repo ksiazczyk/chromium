@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezer implementation for freezing page nodes
+// summary: Implements freezing and unfreezing of page nodes via WebContents, skipping pages that are currently visible.
+// ---
+
 #include "components/performance_manager/freezing/freezer.h"
 
 #include "base/functional/bind.h"

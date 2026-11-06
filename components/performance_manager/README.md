@@ -1,3 +1,13 @@
+---
+type: readme
+title: Performance Manager Overview
+summary: Explains the performance manager architecture, covering the graph, public and private APIs, decorators, observers, aggregators, policies and mechanisms.
+relations:
+  - references /components/performance_manager/doc/overview.png
+  - references /components/performance_manager/embedder/performance_manager_registry.h
+  - references /components/performance_manager/public/graph/frame_node.h
+---
+
 # Performance Manager Overview
 
 [TOC]

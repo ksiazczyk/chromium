@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker watcher implementation
+// summary: Implements WorkerWatcher, which tracks dedicated, shared and service workers of a browser context and maintains their client connections in the performance manager graph.
+// ---
+
 #include "components/performance_manager/worker_watcher.h"
 
 #include <map>

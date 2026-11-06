@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heuristic PDF heading detection
+// summary: Implements heuristics that classify PDF text runs as headings and detect paragraph breaks using font size, styling and line spacing thresholds.
+// ---
+
 #include "components/pdf/renderer/pdf_accessibility_tree_builder_heuristic.h"
 
 #include <algorithm>

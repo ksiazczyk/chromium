@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphFeatures graph configuration
+// summary: Implements GraphFeatures::ConfigureGraph, which installs decorators, aggregators, describers, and observers into the performance manager graph based on feature flags.
+// ---
+
 #include "components/performance_manager/embedder/graph_features.h"
 
 #include <memory>

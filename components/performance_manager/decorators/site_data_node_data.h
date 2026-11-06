@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data node data declaration
+// summary: Declares the site data recorder data attached to page nodes, exposing writer and reader access and handlers for tracked page property changes.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_SITE_DATA_NODE_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_SITE_DATA_NODE_DATA_H_
 

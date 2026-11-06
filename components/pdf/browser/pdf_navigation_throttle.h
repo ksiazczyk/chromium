@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF navigation throttle header
+// summary: Declares PdfNavigationThrottle, a content NavigationThrottle that intercepts PDF-related navigations using a PdfStreamDelegate.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_PDF_BROWSER_PDF_NAVIGATION_THROTTLE_H_
 

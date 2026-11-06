@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Performance Manager Common Metadata
+summary: Declares the issue tracker component, team email and Buganizer component for the performance manager directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Child Process Watcher Header
+// summary: Declares a BrowserChildProcessObserver that maintains process nodes for the browser, GPU and utility processes, with helpers for tests.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_BROWSER_CHILD_PROCESS_WATCHER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_BROWSER_CHILD_PROCESS_WATCHER_H_
 

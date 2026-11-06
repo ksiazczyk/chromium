@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the frame visibility decorator
+// summary: Unit tests checking frame visibility updates when pages become visible or mirrored, and when frames change active state or gain child nodes.
+// ---
+
 #include "components/performance_manager/decorators/frame_visibility_decorator.h"
 
 #include <memory>

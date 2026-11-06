@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF utility implementations
+// summary: Implements PDF load status reporting, extension origin checks, internal plugin origin allowlisting, and background color retrieval.
+// ---
+
 #include "components/pdf/common/pdf_util.h"
 
 #include <algorithm>

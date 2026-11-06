@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process metrics decorator unit tests
+// summary: Tests the process metrics decorator with fake memory measurement delegates and mock graphs containing multiple pages, workers and processes.
+// ---
+
 #include "components/performance_manager/public/decorators/process_metrics_decorator.h"
 
 #include <memory>

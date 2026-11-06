@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Plugin response writer unit tests
+// summary: Unit tests verifying that PluginResponseWriter generates and streams the expected embed response body to the URLLoaderClient.
+// ---
+
 #include "components/pdf/browser/plugin_response_writer.h"
 
 #include <stddef.h>

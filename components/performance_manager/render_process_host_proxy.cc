@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render Process Host Proxy Implementation
+// summary: Implements RenderProcessHostProxy, resolving a content RenderProcessHost from its stored render process host ID.
+// ---
+
 #include "components/performance_manager/public/render_process_host_proxy.h"
 
 #include "content/public/browser/render_process_host.h"

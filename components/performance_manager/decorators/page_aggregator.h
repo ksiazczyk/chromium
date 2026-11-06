@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAggregator class declaration
+// summary: Declares the PageAggregator decorator, a FrameNodeObserver that computes page-level properties like WebLock, IndexedDB lock and form interaction usage.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PAGE_AGGREGATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PAGE_AGGREGATOR_H_
 

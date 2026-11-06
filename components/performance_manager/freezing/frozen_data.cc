@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrozenData implementation for frozen frame state
+// summary: Implements the FrozenData class that tracks active and frozen frame counts, reports whether a page or process is frozen, and describes the counts as a dictionary.
+// ---
+
 #include "components/performance_manager/freezing/frozen_data.h"
 
 #include "base/check_op.h"

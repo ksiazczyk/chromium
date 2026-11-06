@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal PDF plugin helper declarations
+// summary: Declares IsPdfRenderer and CreateInternalPlugin, which create the internal PDF plugin for a render frame when origins allow it.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_INTERNAL_PLUGIN_RENDERER_HELPERS_H_
 #define COMPONENTS_PDF_RENDERER_INTERNAL_PLUGIN_RENDERER_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab page decorator unit tests
+// summary: Parameterized unit tests verifying tab handle creation, removal and discard behavior of the TabPageDecorator with and without the WebContents discard feature.
+// ---
+
 #include "components/performance_manager/public/decorators/tab_page_decorator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrozenData header for per-node frozen frame counts
+// summary: Declares the FrozenData inline node data class that stores active and frozen frame counts and converts the frozen state to a lifecycle state.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FROZEN_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FROZEN_DATA_H_
 

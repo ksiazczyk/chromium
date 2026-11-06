@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heuristic PDF accessibility tree builder
+// summary: Declares helpers and data structures for building accessibility trees from untagged PDFs using layout heuristics such as font size and line spacing.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_BUILDER_HEURISTIC_H_
 #define COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_BUILDER_HEURISTIC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Child Process Host Proxy
+// summary: Implements a proxy that resolves a browser child process host ID to its corresponding BrowserChildProcessHost instance.
+// ---
+
 #include "components/performance_manager/public/browser_child_process_host_proxy.h"
 
 #include "content/public/browser/browser_child_process_host.h"

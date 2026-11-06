@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registered Objects Container
+// summary: Header defining a sequence-checked container that holds at most one registered object per type ID and supports register, unregister, and lookup.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_REGISTERED_OBJECTS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_REGISTERED_OBJECTS_H_
 

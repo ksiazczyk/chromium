@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature observer client header
+// summary: Declares the PerformanceManagerFeatureObserverClient class implementing content::FeatureObserverClient to report feature usage changes to the graph.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERFORMANCE_MANAGER_FEATURE_OBSERVER_CLIENT_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERFORMANCE_MANAGER_FEATURE_OBSERVER_CLIENT_H_
 

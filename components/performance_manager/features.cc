@@ -5,6 +5,12 @@
 // This header contains field trial and variations definitions for policies,
 // mechanisms and features in the performance_manager component.
 
+// ---docerion
+// type: source
+// title: Performance manager feature flags
+// summary: Defines base::Feature entries and field trial parameters for performance manager policies and mechanisms, such as the PPM survey and its RAM-based segmentation.
+// ---
+
 #include "components/performance_manager/public/features.h"
 
 #include "base/feature_list.h"

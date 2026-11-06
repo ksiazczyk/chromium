@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process hosted content types aggregator implementation
+// summary: Updates the content types hosted by a process, such as main frames, subframes, extensions, ads, navigated frames and workers, from graph observer events.
+// ---
+
 #include "components/performance_manager/decorators/process_hosted_content_types_aggregator.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perfetto tracing track support for process nodes
+// summary: Creates a perfetto named tracing track for a process node so performance manager processes can be represented in traces.
+// ---
+
 #include "components/performance_manager/public/tracing_support.h"
 
 #include <optional>

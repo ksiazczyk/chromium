@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decorator utilities for WebContents page node properties
+// summary: Header providing template helpers that translate a WebContents to its PageNode and set or get decorator properties on the performance manager graph.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_DECORATORS_UTILS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_DECORATORS_UTILS_H_
 

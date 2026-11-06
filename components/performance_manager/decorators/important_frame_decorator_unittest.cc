@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Important frame decorator unit tests
+// summary: Unit tests verifying that ImportantFrameDecorator marks child frames as important based on user activation and viewport intersection.
+// ---
+
 #include "components/performance_manager/decorators/important_frame_decorator.h"
 
 #include <memory>

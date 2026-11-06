@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility action target implementation
+// summary: Implements dispatching of accessibility actions such as clicks, scrolling, selection and tree stitching to the PDF plugin.
+// ---
+
 #include "components/pdf/renderer/pdf_ax_action_target.h"
 
 #include "components/pdf/renderer/pdf_accessibility_tree.h"

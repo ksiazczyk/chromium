@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structure-based PDF accessibility tree builder implementation
+// summary: Implements accessibility tree building for tagged PDFs by walking the PDF structure tree and grouping text runs into semantic AX nodes.
+// ---
+
 #include "components/pdf/renderer/pdf_accessibility_tree_builder_structure.h"
 
 #include <algorithm>

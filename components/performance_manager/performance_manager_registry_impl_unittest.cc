@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance manager registry unit tests
+// summary: Unit tests covering registry observer notifications and accessors for browser, utility and GPU process nodes, including death tests for double deletion.
+// ---
+
 #include "components/performance_manager/performance_manager_registry_impl.h"
 
 #include "base/memory/ptr_util.h"

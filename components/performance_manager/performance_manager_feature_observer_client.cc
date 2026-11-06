@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature observer client implementation
+// summary: Updates frame node state when observed features such as Web Locks or blocking IndexedDB locks start or stop being used.
+// ---
+
 #include "components/performance_manager/performance_manager_feature_observer_client.h"
 
 #include "components/performance_manager/graph/frame_node_impl.h"

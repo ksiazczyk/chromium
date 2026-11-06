@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data recorder implementation
+// summary: Implements the SiteDataRecorder decorator with default heuristics and grace periods for recording site loading, visibility and background feature usage.
+// ---
+
 #include "components/performance_manager/public/decorators/site_data_recorder.h"
 
 #include <memory>

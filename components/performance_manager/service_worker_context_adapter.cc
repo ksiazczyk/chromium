@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker context adapter implementation
+// summary: Implements the adapter that observes a ServiceWorkerContext and sends OnVersionStoppedRunning notifications as soon as a running service worker's render process exits.
+// ---
+
 #include "components/performance_manager/service_worker_context_adapter.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame input state decorator implementation
+// summary: Implements the frame input state decorator that observes input events from RenderWidgetHost and tracks the current input scenario per frame, emitting metrics and observer notifications.
+// ---
+
 #include "components/performance_manager/decorators/frame_input_state_decorator.h"
 
 #include "base/check_is_test.h"

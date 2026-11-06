@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the frame input state decorator
+// summary: Unit tests simulating key, tap and scroll events to verify input scenario tracking and observer notifications for frames.
+// ---
+
 #include "components/performance_manager/decorators/frame_input_state_decorator.h"
 
 #include <memory>

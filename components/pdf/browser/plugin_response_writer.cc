@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin response writer implementation
+// summary: Generates and streams the HTML response with an embedded Chrome PDF plugin that replaces PDF loads so the PDF viewer web plugin is used.
+// ---
+
 #include "components/pdf/browser/plugin_response_writer.h"
 
 #include <memory>

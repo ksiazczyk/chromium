@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility tree builder
+// summary: Builds accessibility nodes for a PDF page from text runs, characters and page objects, sanitizing text and coordinating heuristic and structure builders.
+// ---
+
 #include "components/pdf/renderer/pdf_accessibility_tree_builder.h"
 
 #include <cmath>

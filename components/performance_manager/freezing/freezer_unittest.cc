@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Freezer unit tests
+// summary: Unit tests verifying pages can be frozen and unfrozen, and that pages with notification permission cannot be frozen.
+// ---
+
 #include "components/performance_manager/freezing/freezer.h"
 
 #include "components/performance_manager/public/performance_manager.h"

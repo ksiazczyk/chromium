@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF URL loader request interceptor header
+// summary: Declares PdfURLLoaderRequestInterceptor, which intercepts navigation requests within the PDF viewer's MimeHandlerViewGuest and creates loaders via a PdfStreamDelegate.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_URL_LOADER_REQUEST_INTERCEPTOR_H_
 #define COMPONENTS_PDF_BROWSER_PDF_URL_LOADER_REQUEST_INTERCEPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezing policy implementation
+// summary: Implements the policy that freezes connected page sets based on votes, CPU usage, Battery Saver and opt-out reasons, with UKM reporting.
+// ---
+
 #include "components/performance_manager/freezing/freezing_policy.h"
 
 #include <algorithm>

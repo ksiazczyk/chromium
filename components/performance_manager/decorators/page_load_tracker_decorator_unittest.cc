@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load tracker decorator unit tests
+// summary: Tests load idle state transitions, timeouts and almost-idle behavior of the page load tracker decorator using mock page graphs.
+// ---
+
 #include "components/performance_manager/decorators/page_load_tracker_decorator.h"
 
 #include <memory>

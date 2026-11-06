@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution context class declarations
+// summary: Declares FrameExecutionContext and WorkerExecutionContext classes that wrap frame and worker node implementations as execution contexts.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EXECUTION_CONTEXT_EXECUTION_CONTEXT_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EXECUTION_CONTEXT_EXECUTION_CONTEXT_IMPL_H_
 

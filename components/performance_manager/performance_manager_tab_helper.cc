@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager tab helper implementation
+// summary: Implements the WebContents tab helper that maintains the page node and frame tree in the graph, sourcing visibility, audio, opener, title and favicon attributes.
+// ---
+
 #include "components/performance_manager/performance_manager_tab_helper.h"
 
 #include <algorithm>

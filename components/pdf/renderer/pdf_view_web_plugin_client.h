@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF view web plugin client
+// summary: Declares the renderer client for the PDF view web plugin, covering messaging, find-in-page reporting, printing and OCR hooks.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_PDF_VIEW_WEB_PLUGIN_CLIENT_H_
 #define COMPONENTS_PDF_RENDERER_PDF_VIEW_WEB_PLUGIN_CLIENT_H_
 

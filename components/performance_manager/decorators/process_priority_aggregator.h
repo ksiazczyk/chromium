@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process priority aggregator declaration
+// summary: Declares ProcessPriorityAggregator, which aggregates the priorities of execution contexts hosted by a process and casts the result as a vote in the priority voting system.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PROCESS_PRIORITY_AGGREGATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PROCESS_PRIORITY_AGGREGATOR_H_
 

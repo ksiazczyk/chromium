@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load tracker decorator data implementation
+// summary: Implements load idle state transitions for page nodes, validating each transition and mapping it to the public PageNode loading state.
+// ---
+
 #include "components/performance_manager/decorators/page_load_tracker_decorator_data.h"
 
 #include "components/performance_manager/graph/page_node_impl.h"

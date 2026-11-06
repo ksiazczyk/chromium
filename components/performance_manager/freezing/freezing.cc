@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezing public API implementation
+// summary: Implements freezing votes, freeze eligibility details, user toggling of freezing, and the Discarder entry point.
+// ---
+
 #include "components/performance_manager/public/freezing/freezing.h"
 
 #include "base/check_deref.h"

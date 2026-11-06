@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGlobalScenarioMemory for shared scenario state
+// summary: Scoped object that maps writable shared memory for the global performance scenario state, readable from any process via the scenario API.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_SCOPED_GLOBAL_SCENARIO_MEMORY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_SCOPED_GLOBAL_SCENARIO_MEMORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process priority aggregator data implementation
+// summary: Implements ProcessPriorityAggregatorData, incrementing and decrementing user visible and user blocking priority counts and deriving the resulting process priority.
+// ---
+
 #include "components/performance_manager/decorators/process_priority_aggregator_data.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load tracker decorator helper implementation
+// summary: Observes WebContents loading notifications on the UI thread and forwards them to the page load tracker decorator for the primary page node.
+// ---
+
 #include "components/performance_manager/public/decorators/page_load_tracker_decorator_helper.h"
 
 #include "base/functional/bind.h"

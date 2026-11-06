@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render Process Host Proxy Browser Test
+// summary: Browser test verifying that a RenderProcessHostProxy returns null after the associated render process host is deleted.
+// ---
+
 #include "components/performance_manager/public/render_process_host_proxy.h"
 
 #include "base/functional/callback_helpers.h"

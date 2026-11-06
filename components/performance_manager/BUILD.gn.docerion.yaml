@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Performance Manager GN Build Rules
+summary: Defines the GN build targets, sources and dependencies for the performance manager component, including the site data proto library.

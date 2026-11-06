@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render Process User Data
+// summary: Attaches user data to each RenderProcessHost to create and delete its ProcessNode and track process launch, priority, and exit status.
+// ---
+
 #include "components/performance_manager/render_process_user_data.h"
 
 #include <memory>

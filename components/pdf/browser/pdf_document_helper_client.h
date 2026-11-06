@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client interface for the PDF document helper
+// summary: Defines the PDFDocumentHelperClient interface with callbacks for document load completion, content restrictions, saving, and scroll events.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_DOCUMENT_HELPER_CLIENT_H_
 #define COMPONENTS_PDF_BROWSER_PDF_DOCUMENT_HELPER_CLIENT_H_
 

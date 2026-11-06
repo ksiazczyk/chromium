@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal PDF plugin creation helpers
+// summary: Implements checks for the PDF renderer process and creation of the in-process PDF view web plugin for allowed parent frame origins.
+// ---
+
 #include "components/pdf/renderer/internal_plugin_renderer_helpers.h"
 
 #include <memory>

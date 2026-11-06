@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF view web plugin client browser tests
+// summary: Renderer-level tests verifying PostMessage does not crash when the plugin container is null or has been cleared.
+// ---
+
 #include "components/pdf/renderer/pdf_view_web_plugin_client.h"
 
 #include "base/values.h"

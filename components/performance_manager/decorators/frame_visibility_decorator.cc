@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame visibility decorator implementation
+// summary: Implements the frame visibility decorator that computes frame visibility from viewport intersection and page user visibility, including pages being mirrored.
+// ---
+
 #include "components/performance_manager/decorators/frame_visibility_decorator.h"
 
 #include "components/performance_manager/graph/frame_node_impl.h"

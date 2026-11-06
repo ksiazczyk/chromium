@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager registry factory
+// summary: Creates the PerformanceManagerRegistry implementation and attaches page nodes to WebContents that do not already have a tab helper.
+// ---
+
 #include "components/performance_manager/embedder/performance_manager_registry.h"
 
 #include "components/performance_manager/performance_manager_registry_impl.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF common build targets
+summary: GN build file defining source sets for PDF constants, utilities, and unit tests with their dependency rules.

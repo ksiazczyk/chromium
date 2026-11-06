@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF structure tree builder unit tests
+// summary: Unit tests verifying the mapping from PDF structure tag types to accessibility roles such as headings, lists and tables.
+// ---
+
 #include "components/pdf/renderer/pdf_accessibility_tree_builder_structure.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF navigation throttle unit tests
+// summary: Unit tests exercising PdfNavigationThrottle behavior for stream URL redirects and PDF frame navigation decisions using mock navigation handles and a fake stream delegate.
+// ---
+
 #include "components/pdf/browser/pdf_navigation_throttle.h"
 
 #include <memory>

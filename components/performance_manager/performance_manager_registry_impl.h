@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager registry class declaration
+// summary: Declares PerformanceManagerRegistryImpl, which owns tab helpers, browser child process and worker watchers, and exposes accessors for process and worker nodes.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_PERFORMANCE_MANAGER_REGISTRY_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_PERFORMANCE_MANAGER_REGISTRY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab helper frame node source declaration
+// summary: Declares TabHelperFrameNodeSource, a FrameNodeSource implementation that uses PerformanceManagerTabHelper to obtain frame node information and observe deletions.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_TAB_HELPER_FRAME_NODE_SOURCE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_TAB_HELPER_FRAME_NODE_SOURCE_H_
 

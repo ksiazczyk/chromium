@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF common include dependency rules
+summary: Lists the headers that files in the PDF common directory are allowed to include.

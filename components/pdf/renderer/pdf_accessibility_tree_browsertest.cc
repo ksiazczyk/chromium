@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF accessibility tree browser tests
+// summary: Large browser test suite verifying PDF accessibility tree structure, heading detection, annotations and accessibility actions.
+// ---
+
 #include "components/pdf/renderer/pdf_accessibility_tree.h"
 
 #include <algorithm>

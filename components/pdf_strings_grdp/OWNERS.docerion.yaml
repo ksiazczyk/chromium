@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the PDF strings directory
+summary: Includes the pdf component OWNERS file to define ownership and review requirements for this directory.

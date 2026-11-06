@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important frame decorator class declaration
+// summary: Declares the ImportantFrameDecorator, responsible for maintaining the IsImportant property of frame nodes in the performance manager graph.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_IMPORTANT_FRAME_DECORATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_IMPORTANT_FRAME_DECORATOR_H_
 

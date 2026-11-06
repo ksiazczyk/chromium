@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame visibility decorator class declaration
+// summary: Declares the FrameVisibilityDecorator, which decorates frames with visibility based on viewport intersection and the visibility of the containing page.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_FRAME_VISIBILITY_DECORATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_FRAME_VISIBILITY_DECORATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezing policy class interface
+// summary: Declares FreezingPolicy, which freezes sets of connected pages via voting, Battery Saver CPU thresholds, or infinite-tabs scaling.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FREEZING_POLICY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FREEZING_POLICY_H_
 

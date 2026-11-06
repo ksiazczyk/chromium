@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager lifetime setup
+// summary: Configures the performance manager graph at creation time, registering decorators, describers and the default set of priority voters based on features and policy.
+// ---
+
 #include "components/performance_manager/embedder/performance_manager_lifetime.h"
 
 #include "base/functional/bind.h"

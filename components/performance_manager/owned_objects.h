@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnedObjects container template
+// summary: Template container that stores owned objects and invokes member function callbacks when objects are passed in, taken back, or released.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_OWNED_OBJECTS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_OWNED_OBJECTS_H_
 

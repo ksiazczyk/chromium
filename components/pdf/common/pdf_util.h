@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF utility declarations and load status enum
+// summary: Declares the PDFLoadStatus enum and helper functions for origin checks and PDF background color.
+// ---
+
 #ifndef COMPONENTS_PDF_COMMON_PDF_UTIL_H_
 #define COMPONENTS_PDF_COMMON_PDF_UTIL_H_
 

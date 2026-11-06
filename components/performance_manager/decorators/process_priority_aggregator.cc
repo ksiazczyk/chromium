@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process priority aggregator implementation
+// summary: Aggregates the priorities of execution contexts hosted in a process and casts votes to set the process priority accordingly.
+// ---
+
 #include "components/performance_manager/decorators/process_priority_aggregator.h"
 
 #include <optional>
