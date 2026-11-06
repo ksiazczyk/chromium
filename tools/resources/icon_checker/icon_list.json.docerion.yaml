@@ -1,0 +1,4 @@
+# Docerion header of icon_list.json.
+type: data
+title: Valid Material Symbol Icon Names
+summary: JSON list of valid Material Symbol icon names used by the checker to validate icon naming.

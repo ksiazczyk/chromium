@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected Polymer template wrapper for foo
+// summary: Expected wrapper output exporting a getTemplate function that returns a Polymer html template with a styled div for the html_to_wrapper test.
+// ---
+
 import {html} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 export function getTemplate() {
   return html`<!--_html_template_start_--><style>

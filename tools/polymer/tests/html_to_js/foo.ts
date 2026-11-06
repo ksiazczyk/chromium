@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: foo.ts fixture for the html_to_js test
+// summary: TypeScript fixture defining a cr-foo Polymer element with an html template placeholder that the html_to_js test replaces with foo.html content.
+// ---
+
 Polymer({
   is: 'cr-foo',
 

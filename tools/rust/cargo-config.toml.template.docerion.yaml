@@ -1,0 +1,4 @@
+# Docerion header of cargo-config.toml.template.
+type: config
+title: Cargo config template for the rustc build
+summary: Template Cargo configuration enabling host-config features and setting sysroot rustflags for host artifacts when building rustc.

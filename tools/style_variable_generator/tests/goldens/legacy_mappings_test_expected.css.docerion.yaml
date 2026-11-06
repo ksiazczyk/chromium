@@ -1,0 +1,4 @@
+# Docerion header of legacy_mappings_test_expected.css.
+type: test
+title: Expected CSS output for legacy mappings test
+summary: Golden CSS custom properties mapping legacy color variables, used as expected output for the style variable generator test.

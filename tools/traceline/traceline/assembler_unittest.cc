@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Assembler unit test program
+// summary: Emits a buffer of assembler instructions exercising calls, moves, pushes, and other opcodes to check the code assembler output.
+// ---
+
 #include <stdio.h>
 
 #include "assembler.h"

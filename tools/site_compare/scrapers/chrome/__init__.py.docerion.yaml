@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: Chrome scraper version selector
+summary: Selects and returns the appropriate Chrome scraper module based on the given Chrome version string, defaulting to the most recent scraper when no version is given.

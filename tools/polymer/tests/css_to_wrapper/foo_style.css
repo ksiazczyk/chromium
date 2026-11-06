@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Basic style test fixture with imports and includes
+summary: Test CSS with style wrapper metadata importing and including two other styles while defining custom property calculations.
+*/
+
 /* #css_wrapper_metadata_start
  *
  * #type=style

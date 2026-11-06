@@ -1,0 +1,4 @@
+# Docerion header of chromebase.py.
+type: source
+title: Shared Chrome scraping base module
+summary: Provides the shared scraping logic that launches Chrome, navigates a list of URLs, saves window screenshots, and measures page load times for all known Chrome versions.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for polymer tools
+# summary: Runs the html_to_js, html_to_wrapper and css_to_wrapper unit tests on upload or commit whenever the polymer tool sources are affected.
+# ---
+
 """Presubmit script for files in tools/polymer/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

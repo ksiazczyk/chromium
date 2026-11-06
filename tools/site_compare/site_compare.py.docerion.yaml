@@ -1,0 +1,4 @@
+# Docerion header of site_compare.py.
+type: source
+title: SiteCompare bulk scrape and comparison driver
+summary: Invokes browsers over lists of URLs to scrape rendered bitmaps and compares results between browser versions using operator chains.

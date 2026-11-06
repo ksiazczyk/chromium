@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: SiteCompare command to scrape page images
+# summary: Defines the scrape command, which captures and saves browser window images as BMP files for a URL or list of URLs, optionally logging text output.
+# ---
+
 """Command for scraping images from a URL or list of URLs.
 
 Prerequisites:

@@ -1,0 +1,4 @@
+# Docerion header of blend_colors_test_expected.css.
+type: test
+title: Blend colors test expected CSS golden
+summary: Golden CSS output for the blend colors test, defining light and dark mode color variables with color-mix blends for comparison against generated output.

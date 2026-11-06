@@ -1,0 +1,4 @@
+# Docerion header of style_variable_generator_test.py.
+type: test
+title: Style variable generator unit tests
+summary: Python unit tests verifying that the style variable generators produce expected golden output for Views, CSS, proto, JSON, and TypeScript.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Traceline SVG UI README
+summary: Explains the small web application that displays traceline trace JSON as an SVG timeline, with JSON files selected via the URL hash.
+---
+
 This is a small "web application" to display traceline trace data.  It uses
 xhtml, SVG, and JavaScript to interpret the JSON data in a timeline format.
 Events can be moused over to show details, stack traces, etc.

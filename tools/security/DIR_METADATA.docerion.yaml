@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR Metadata for Security Tools
+summary: Assigns the security tools directory to the product-security@chromium.org team and Buganizer component 1517484.

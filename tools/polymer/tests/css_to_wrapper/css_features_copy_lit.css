@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Lit source for the CSS features test fixture
+summary: Lit-style CSS test fixture with wrapper metadata covering imports, includes, i18n replacement, CSS nesting, and container queries.
+*/
+
 /* #css_wrapper_metadata_start
  *
  * #type=style

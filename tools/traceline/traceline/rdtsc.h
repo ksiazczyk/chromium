@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RDTSC timestamp normalization header
+// summary: Header with a class that converts RDTSC timestamps to milliseconds since start using the Windows performance counter frequency.
+// ---
+
 #ifndef TRACELINE_RDTSC_H_
 #define TRACELINE_RDTSC_H_
 

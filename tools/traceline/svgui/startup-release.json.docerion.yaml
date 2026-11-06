@@ -1,0 +1,4 @@
+# Docerion header of startup-release.json.
+type: data
+title: Chrome startup trace event data
+summary: Traceline event data capturing Chrome startup on Windows, including syscalls and stack traces, for viewing in the SVG timeline UI.

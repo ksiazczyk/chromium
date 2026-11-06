@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: data
+# title: NSFW URLs in the Alexa Top 2000 Sites
+# summary: Defines a set of NSFW URLs drawn from the Alexa top 2000 sites, imported by the real-world impact tool.
+# ---
+
 """NSFW urls in the Alexa top 2000 sites."""
 
 nsfw_urls = set(

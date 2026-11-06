@@ -28,6 +28,12 @@
  *   '--csv=tools/polymer/progress.csv'
  */
 
+// ---docerion
+// type: source
+// title: Settings Lit migration stats script
+// summary: Node script that scans Settings sources, classifies TS, CSS and HTML files as Polymer or Lit, and writes per-revision migration stats to a CSV file.
+// ---
+
 import assert from 'node:assert';
 import {execSync} from 'node:child_process';
 import fs from 'node:fs';

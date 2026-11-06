@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: foo_style.css.ts expected output
+// summary: Expected output fixture for the CSS-to-wrapper test, registering a dom-module style that includes other style modules and defines custom properties with calc expressions.
+// ---
+
 import {html} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import './other1.css.js';
 import './other2.css.js';

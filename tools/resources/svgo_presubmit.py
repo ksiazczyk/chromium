@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: SVG optimization presubmit check
+# summary: Presubmit check that runs svgo on changed SVG files and notifies developers to optimize any that are not already optimized.
+# ---
+
 # Ignore the following files from SVG optimization checks.
 BLOCKLIST = [
   # Ignore since it holds documentation comments.

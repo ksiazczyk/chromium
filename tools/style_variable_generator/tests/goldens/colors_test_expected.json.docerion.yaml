@@ -1,0 +1,4 @@
+# Docerion header of colors_test_expected.json.
+type: test
+title: Colors test expected JSON golden
+summary: Golden JSON mapping reference token names to their CSS variables for the colors test, compared against generator output.

@@ -1,0 +1,4 @@
+# Docerion header of typography_test.json5.
+type: test
+title: Typography test data
+summary: JSON5 test input defining font families, font faces, and typefaces for testing typography generation.

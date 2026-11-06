@@ -1,0 +1,4 @@
+# Docerion header of inverted_colors_test.json5.
+type: test
+title: Inverted colors test fixture
+summary: Test fixture exercising generate_inverted and generate_per_mode color variants with reference opacities.

@@ -1,0 +1,4 @@
+# Docerion header of scstats.py.
+type: script
+title: Syscall timing statistics printer
+summary: Prints per-syscall timing deltas from trace events, resolving syscall numbers to ntdll function names.

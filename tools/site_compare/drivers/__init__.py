@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Drivers package importing platform-specific modules
+# summary: Package initializer that imports the keyboard, mouse, and windowing driver modules matching the current operating system platform.
+# ---
+
 """Imports a set of drivers appropriate to the current OS."""
 
 import sys

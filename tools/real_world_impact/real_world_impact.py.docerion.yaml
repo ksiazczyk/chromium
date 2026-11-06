@@ -1,0 +1,4 @@
+# Docerion header of real_world_impact.py.
+type: script
+title: Real World Impact Patch Evaluation Tool
+summary: Renders a large sample of top sites with and without a patch using content_shell and image_diff, then ranks sites by rendering difference for human review.

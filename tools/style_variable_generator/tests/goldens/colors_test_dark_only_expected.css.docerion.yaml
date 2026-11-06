@@ -1,0 +1,4 @@
+# Docerion header of colors_test_dark_only_expected.css.
+type: test
+title: Dark-only colors test expected CSS golden
+summary: Golden CSS output for the dark-only colors test variant, defining variables that apply in dark mode for comparison against generated output.

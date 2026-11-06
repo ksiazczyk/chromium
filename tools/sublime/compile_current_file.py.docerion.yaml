@@ -1,0 +1,4 @@
+# Docerion header of compile_current_file.py.
+type: source
+title: Sublime Text command to compile the current file with Ninja
+summary: Sublime Text plugin command that compiles the file in the current view using Ninja and streams build output into an output panel, with toggle-to-interrupt behavior.

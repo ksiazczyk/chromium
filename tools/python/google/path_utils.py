@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Path lookup and directory creation utilities
+# summary: Utility functions for finding files or directories by searching upward from a start directory and for creating directory paths.
+# ---
+
 """Some utility methods for getting and manipulating paths."""
 
 # TODO(pamg): Have the buildbot use these, too.

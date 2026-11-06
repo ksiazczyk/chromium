@@ -1,0 +1,4 @@
+# Docerion header of update_icon_list.py.
+type: script
+title: Icon List Update Script
+summary: Fetches Material Symbols metadata from the Google Fonts API and rewrites icon_list.json with the current icon names.

@@ -8,6 +8,12 @@
  *  tests/typography_test.json5
  */
 
+// ---docerion
+// type: test
+// title: Colors test typography golden TypeScript output
+// summary: Expected TypeScript output combining colors and typography test inputs, exporting getColorsCSS with font face, typeface and color CSS variables.
+// ---
+
 import {css} from 'lit';
 /* SAFETY_BOILERPLATE */
 

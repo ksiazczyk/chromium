@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome scraper for versions 0.1.101.0 and later
+# summary: Implements scraping and timing for Chrome 0.1.101.0 and later by locating the Chrome_TabContents render pane and delegating the work to chromebase.
+# ---
+
 """Does scraping for versions of Chrome from 0.1.101.0 up."""
 
 from drivers import windowing

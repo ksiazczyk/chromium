@@ -1,0 +1,4 @@
+# Docerion header of colors_test_custom_dark_toggle_expected.css.
+type: test
+title: Custom dark toggle colors test expected CSS golden
+summary: Golden CSS output for the custom dark toggle colors test, defining light and html[dark] mode variables including legacy mappings for comparison against generated output.

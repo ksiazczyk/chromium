@@ -1,0 +1,4 @@
+# Docerion header of find_unused_resources.py.
+type: script
+title: Unused grd resource finder
+summary: Checks resources listed in a .grd file via git grep and reports those never referenced in the code.

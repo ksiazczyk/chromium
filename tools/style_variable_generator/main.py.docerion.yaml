@@ -1,0 +1,4 @@
+# Docerion header of main.py.
+type: source
+title: Style variable generator command-line entry point
+summary: Parses command-line options and runs the selected generators to produce style variable outputs from JSON5 color files.

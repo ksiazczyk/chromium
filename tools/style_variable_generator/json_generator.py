@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSON style variable generator
+# summary: Generates a raw JSON dump of style token names, CSS variables and, for sys tokens, the formulas used to calculate them.
+# ---
+
 import json
 
 from style_variable_generator.base_generator import Color, BaseGenerator

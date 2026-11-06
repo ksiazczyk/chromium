@@ -1,0 +1,4 @@
+# Docerion header of optimize-ico-files.py.
+type: script
+title: Optimize Windows ICO files
+summary: Command-line crusher that optimizes the PNG sub-images inside Windows ICO files and can lint them without modifying.

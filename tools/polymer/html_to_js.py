@@ -6,6 +6,12 @@
 # placeholder. This is useful for implementing Web Components using JS modules,
 # where all the HTML needs to reside in the JS file (no more HTML imports).
 
+# ---docerion
+# type: source
+# title: HTML to JS inliner for Web Component templates
+# summary: Inlines an HTML template into a JS or TS file by replacing the __html_template__ placeholder, supporting Web Components implemented with JS modules.
+# ---
+
 import argparse
 import sys
 import io

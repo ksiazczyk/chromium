@@ -1,0 +1,4 @@
+# Docerion header of color_test.py.
+type: test
+title: Color parsing unit tests
+summary: Unit tests for color parsing, covering hex, rgb, rgba, blend, reference and malformed color inputs.

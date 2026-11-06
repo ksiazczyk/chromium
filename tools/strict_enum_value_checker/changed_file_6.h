@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enum fixture with misplaced boundary line
+// summary: Mock enum header fixture with the mBoundary comment line moved above the enum declaration, a malformed case for checker testing.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

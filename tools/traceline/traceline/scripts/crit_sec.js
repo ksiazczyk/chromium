@@ -4,6 +4,12 @@
 
 // You should run this with v8, like v8_shell alloc.js datafile.json
 
+// ---docerion
+// type: script
+// title: Critical section trace analyzer for v8
+// summary: Checks critical section enter and leave events for unbalanced or cross-thread lock use and reports long-held locks.
+// ---
+
 function toHex(num) {
   var str = "";
   var table = "0123456789abcdef";

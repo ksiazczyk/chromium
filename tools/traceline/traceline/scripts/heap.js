@@ -4,6 +4,12 @@
 
 // You should run this with v8, like v8_shell alloc.js datafile.json
 
+// ---docerion
+// type: script
+// title: Largest heap allocation finder for v8
+// summary: Scans trace events for heap allocations and dumps the largest ones using a TopN ranking.
+// ---
+
 function toHex(num) {
   var str = "";
   var table = "0123456789abcdef";

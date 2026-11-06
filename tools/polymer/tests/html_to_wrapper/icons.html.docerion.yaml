@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: test
+title: icons.html
+summary: Test fixture defining an iron-iconset-svg with an SVG icon, used as input for the html_to_wrapper icon conversion test.

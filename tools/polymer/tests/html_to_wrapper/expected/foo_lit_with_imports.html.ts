@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected Lit wrapper with imports
+// summary: Expected wrapper output for a Lit template that imports the nothing helper and uses it in an aria-label binding expression.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {FooLitWithImportsElement} from './foo_lit_with_imports.js';
 import {nothing} from '//resources/lit/v3_0/lit.rollup.js';

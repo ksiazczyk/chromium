@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Icon Checker Presubmit Check
+# summary: Presubmit script that extracts icon names from iconset HTML and .icon files and warns when they do not match known Material Symbol names.
+# ---
+
 import json
 import os
 import re

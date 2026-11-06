@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the polymer tools directory
+summary: Lists the owners responsible for changes to files under tools/polymer.

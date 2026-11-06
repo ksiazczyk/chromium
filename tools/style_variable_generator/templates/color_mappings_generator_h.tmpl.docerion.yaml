@@ -1,0 +1,4 @@
+# Docerion header of color_mappings_generator_h.tmpl.
+type: source
+title: Jinja template for generated color mapping C++ header
+summary: Template that renders color mappings into a C++ header declaring ui::ColorId enums per color set plus mixer and name lookup function declarations.

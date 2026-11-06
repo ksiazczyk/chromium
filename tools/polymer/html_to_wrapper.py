@@ -18,6 +18,12 @@
 # In case #2 the wrapper adds the <iron-iconset-svg> element to <head>, so that
 # it can be used by <iron-icon> instances.
 
+# ---docerion
+# type: source
+# title: HTML to wrapper generator for Polymer, Lit and native elements
+# summary: Generates TS or JS wrapper modules around HTML files for Polymer, Lit, native elements and iconsets, detecting the template type from the element definition when requested.
+# ---
+
 import argparse
 import io
 import re

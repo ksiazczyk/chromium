@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Icon Checker OWNERS
+summary: Lists the owners of the icon checker directory and delegates ownership to components/vector_icons/OWNERS.

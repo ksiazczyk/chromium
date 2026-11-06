@@ -1,0 +1,4 @@
+# Docerion header of img_fingerprint.py.
+type: script
+title: Image fingerprint tool
+summary: Command-line utility that prints an image file's fingerprint computed from its PE header timestamp and size.

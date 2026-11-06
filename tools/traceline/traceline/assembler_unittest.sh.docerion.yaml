@@ -1,0 +1,4 @@
+# Docerion header of assembler_unittest.sh.
+type: test
+title: Assembler unit test runner script
+summary: Shell script that runs assembler_unittest.exe and pipes its output through ndisasm to show the generated disassembly.

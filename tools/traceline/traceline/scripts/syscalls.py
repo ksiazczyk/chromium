@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: data
+# title: Windows syscall number to ntdll name table
+# summary: Lookup table mapping Windows syscall numbers to ntdll Nt and Zw function names, used by the trace analysis scripts.
+# ---
+
 syscalls = {
   0: "ntdll.dll!NtAcceptConnectPort",
   1: "ntdll.dll!NtAccessCheck",

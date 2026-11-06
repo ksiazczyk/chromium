@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Icon Checker Unit Tests
+# summary: Unit tests for the icon checker covering valid names, allowed suffixes, invalid names, and icon list parsing.
+# ---
+
 import unittest
 from unittest.mock import MagicMock, patch, mock_open
 import os

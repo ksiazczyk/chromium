@@ -1,0 +1,4 @@
+# Docerion header of additional_colors_test.json5.
+type: test
+title: Additional colors test fixture
+summary: Test fixture defining an extra text color with CSS prefix and proto options for generator tests.

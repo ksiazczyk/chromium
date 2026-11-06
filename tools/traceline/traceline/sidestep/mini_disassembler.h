@@ -4,6 +4,12 @@
 
 // Definition of MiniDisassembler.
 
+// ---docerion
+// type: source
+// title: MiniDisassembler class definition
+// summary: Declares the deliberately limited MiniDisassembler class that identifies jumps and returns and computes instruction lengths to support preamble patching.
+// ---
+
 #ifndef TRACELINE_SIDESTEP_MINI_DISASSEMBLER_H_
 #define TRACELINE_SIDESTEP_MINI_DISASSEMBLER_H_
 

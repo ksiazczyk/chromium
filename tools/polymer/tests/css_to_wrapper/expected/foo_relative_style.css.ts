@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected foo-relative style wrapper
+// summary: Expected css_to_wrapper output using relative resource imports and including other1 and other2 styles with CSS variable calculations.
+// ---
+
 import {html} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import './other1.css.js';
 import './other2.css.js';

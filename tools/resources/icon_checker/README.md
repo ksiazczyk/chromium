@@ -1,3 +1,12 @@
+---
+type: readme
+title: Icon Checker
+summary: 'Documents the icon checker presubmit: its usage, when it triggers, and how to update the icon list from Google Fonts.'
+relations:
+  - documents /tools/resources/icon_checker/icon_list.json
+  - documents /tools/resources/icon_checker/update_icon_list.py
+---
+
 # Icon Checker
 
 Validates icon names in HTML files against

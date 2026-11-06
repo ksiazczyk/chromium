@@ -1,0 +1,4 @@
+# Docerion header of generate_resource_allowlist.gni.
+type: config
+title: GN template for resource allowlist generation
+summary: Defines a GN template that extracts a pak file allowlist from unstripped binaries during the build.

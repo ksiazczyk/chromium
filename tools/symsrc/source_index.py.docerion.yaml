@@ -1,0 +1,4 @@
+# Docerion header of source_index.py.
+type: script
+title: PDB source indexing tool
+summary: Indexes source files referenced by a PDB with their repository URLs so debuggers can automatically fetch source during debugging.

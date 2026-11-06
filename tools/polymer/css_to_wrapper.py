@@ -8,6 +8,12 @@
 # CSS comments. The ID of a style module is inferred from the filename, for
 # example foo_style.css will be held in a module with ID 'foo-style'.
 
+# ---docerion
+# type: script
+# title: Generate TypeScript wrappers from Polymer CSS style modules
+# summary: Build tool that generates wrapper TS or JS files around CSS files holding Polymer style modules or CSS variables, using special metadata comments in the CSS.
+# ---
+
 import argparse
 import io
 import re

@@ -1,0 +1,4 @@
+# Docerion header of list_resources_removed_by_repack.py.
+type: script
+title: List resources removed by repack
+summary: Command-line tool that reads repack build output and prints unused resource IDs with their names and generated grit header files.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: v3_ready_expected.ts expected output
+// summary: Expected TypeScript result with the v3_ready HTML inlined between the html template start and end markers.
+// ---
+
 Polymer({
   is: 'cr-foo',
 

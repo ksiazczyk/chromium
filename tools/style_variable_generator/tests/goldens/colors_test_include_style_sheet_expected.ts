@@ -7,6 +7,12 @@
  *  tests/colors_test_palette.json5
  */
 
+// ---docerion
+// type: test
+// title: Colors test include style sheet golden TypeScript output
+// summary: Expected TypeScript output of the style variable generator for the colors test, exporting getColorsCSS with light/dark mode and legacy mapping CSS variables.
+// ---
+
 import {css} from 'lit';
 /* SAFETY_BOILERPLATE */
 

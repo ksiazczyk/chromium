@@ -1,0 +1,4 @@
+# Docerion header of linux-perf-renderer-cmd.sh.
+type: script
+title: Linux perf wrapper for profiling Chrome renderer processes
+summary: Shell script used as a renderer command prefix to run linux-perf on each Chrome renderer process, producing perf.data files with configurable output directory, prefix, frequency, clock, and call-graph options.

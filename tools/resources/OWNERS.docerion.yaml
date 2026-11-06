@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the resources tools directory
+summary: Lists default and per-file code owners for the tools/resources directory.

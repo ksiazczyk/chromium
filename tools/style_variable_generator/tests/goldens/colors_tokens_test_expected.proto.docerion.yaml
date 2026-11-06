@@ -1,0 +1,4 @@
+# Docerion header of colors_tokens_test_expected.proto.
+type: test
+title: Expected proto output for colors tokens test
+summary: Golden proto3 definition of light and dark color values that the style variable generator test compares against its generated output.

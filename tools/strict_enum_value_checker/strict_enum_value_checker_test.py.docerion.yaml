@@ -1,0 +1,4 @@
+# Docerion header of strict_enum_value_checker_test.py.
+type: test
+title: Strict enum value checker tests
+summary: Unit tests for the strict enum value checker that mock presubmit APIs and feed changed header fixtures to verify enum edit validation.

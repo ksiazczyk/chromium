@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Invalid CSS variable finder
+# summary: Command-line tool that reports CSS variables used in the codebase but not specified in the inputs, or generated but unused.
+# ---
+
 import argparse
 import sys
 import os

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for resources tools
+# summary: Runs unit tests for the svgo and icon checker scripts when their files are affected by a change.
+# ---
+
 
 def CheckChangeOnUpload(*args):
   return _CommonChecks(*args)

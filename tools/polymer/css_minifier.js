@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: script
+// title: CSS minifier for HTML and CSS files
+// summary: Node.js command-line wrapper around postcss-minify that minifies the CSS contents of listed HTML or CSS files, including inline style tags.
+// ---
+
 /**
  * @fileoverview A small wrapper around
  * third_party/node/node_modules/postcss and

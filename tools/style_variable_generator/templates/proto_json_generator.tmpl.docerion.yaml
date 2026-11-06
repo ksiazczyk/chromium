@@ -1,0 +1,4 @@
+# Docerion header of proto_json_generator.tmpl.
+type: source
+title: Jinja template for generated text-format proto color values
+summary: Template that renders style variables into text-format proto entries pairing each color name with its light and dark mode values.

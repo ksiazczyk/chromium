@@ -1,0 +1,4 @@
+# Docerion header of colors_test_expected.protojson.
+type: test
+title: Colors test expected protojson golden
+summary: Golden text-format proto output listing palette and test color values in light and dark modes for the colors test, compared against generator output.

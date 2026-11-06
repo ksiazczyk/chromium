@@ -10,6 +10,12 @@
 // Call CreateSyscallMap() to create a return a std::map<int, const char*>
 // which maps from a system call number to its function name.
 
+// ---docerion
+// type: source
+// title: Windows XP syscall number to name map
+// summary: Header providing CreateSyscallMap(), a table mapping Windows XP system call numbers to ntdll function names, likely needing regeneration for other kernel versions.
+// ---
+
 #ifndef TRACELINE_SYSCALL_MAP_H_
 #define TRACELINE_SYSCALL_MAP_H_
 

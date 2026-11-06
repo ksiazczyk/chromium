@@ -1,0 +1,4 @@
+# Docerion header of colors_test_expected.proto.
+type: test
+title: Colors test expected proto golden
+summary: Golden protobuf schema for the colors test defining light and dark color value messages, compared against generator output.

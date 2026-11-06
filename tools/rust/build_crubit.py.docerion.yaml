@@ -1,0 +1,4 @@
+# Docerion header of build_crubit.py.
+type: source
+title: Build script for the Crubit FFI tools
+summary: Clones Crubit, builds its Abseil and Protobuf dependencies plus the cc_bindings_from_rs and rs_bindings_from_cc tools, and installs them into the Rust toolchain.

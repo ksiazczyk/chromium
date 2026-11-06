@@ -1,0 +1,4 @@
+# Docerion header of colors_test_expected.css.
+type: test
+title: Colors test expected CSS golden
+summary: Golden CSS output for the colors test, defining light and dark mode CSS custom properties and opacities for comparison against generated output.

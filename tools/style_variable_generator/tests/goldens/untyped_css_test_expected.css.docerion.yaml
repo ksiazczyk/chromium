@@ -1,0 +1,4 @@
+# Docerion header of untyped_css_test_expected.css.
+type: test
+title: Expected CSS output for untyped CSS test
+summary: Golden CSS with untyped elevation shadow custom properties, used as expected output for the style variable generator test.

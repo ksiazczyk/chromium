@@ -1,0 +1,4 @@
+# Docerion header of v3_ready.html.
+type: test
+title: v3_ready.html test fixture
+summary: HTML fixture with a style block and a div that the polymer tool inlines into the v3_ready template placeholders.

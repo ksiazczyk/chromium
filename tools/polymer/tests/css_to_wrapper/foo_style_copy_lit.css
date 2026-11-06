@@ -9,6 +9,12 @@
  * #include=other1 other2
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: test
+title: Lit version of the foo style test fixture
+summary: Lit-style CSS fixture with style-lit wrapper metadata, two imports and includes, and custom property calculations.
+*/
+
 div {
   font-size: 2rem;
   --foo-bar: calc(var(--foo-bar1)

@@ -1,0 +1,4 @@
+# Docerion header of optimize-png-files.sh.
+type: script
+title: Optimize PNG files
+summary: Shell script that shrinks PNG files across Chromium resource directories using pngout, optipng and advdef optimization passes.

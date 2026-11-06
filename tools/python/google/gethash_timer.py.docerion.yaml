@@ -1,0 +1,4 @@
+# Docerion header of gethash_timer.py.
+type: script
+title: SafeBrowsing GetHash response time measurement tool
+summary: Command-line tool that repeatedly sends GetHash requests to SafeBrowsing servers and records response codes and elapsed times to CSV.

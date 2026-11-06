@@ -1,0 +1,4 @@
+# Docerion header of style_variable_generator.
+type: script
+title: Style variable generator shell wrapper
+summary: Bash wrapper that invokes main.py from the same directory, passing through all command-line arguments.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enum fixture with invalid mid-enum insertions
+// summary: Mock enum header fixture adding mInvalid1 through mInvalid4 in the middle of the enum, an invalid modification for checker testing.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

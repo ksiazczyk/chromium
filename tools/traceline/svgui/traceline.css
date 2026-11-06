@@ -1,3 +1,9 @@
+/*docerion
+type: source
+title: Traceline viewer styles
+summary: CSS for the traceline SVG timeline viewer, defining layout and colors for threads, events, event lines and the detail info area.
+*/
+
 @namespace url(http://www.w3.org/1999/xhtml);
 @namespace svg url(http://www.w3.org/2000/svg);
 

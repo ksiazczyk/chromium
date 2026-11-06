@@ -1,0 +1,4 @@
+# Docerion header of ie7.py.
+type: source
+title: Internet Explorer 7 scraper
+summary: Launches Internet Explorer via Windows UI automation, visits a list of URLs, and saves page screenshots or measures page load times for site comparison.

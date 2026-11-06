@@ -1,0 +1,4 @@
+# Docerion header of foo.html.
+type: test
+title: foo.html
+summary: Simple HTML template fixture with a styled div, serving as input for the Polymer wrapper generation test.

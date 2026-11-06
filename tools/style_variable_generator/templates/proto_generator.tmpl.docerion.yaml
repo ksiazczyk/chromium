@@ -1,0 +1,4 @@
+# Docerion header of proto_generator.tmpl.
+type: source
+title: Jinja template for generated proto color definitions
+summary: Template that renders style variables into a proto3 schema with Color messages holding light and dark mode values.

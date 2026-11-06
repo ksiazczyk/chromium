@@ -1,0 +1,4 @@
+# Docerion header of indexing-exclusions.txt.
+type: config
+title: Source indexing exclusions
+summary: Lists source directories, one per line, that are excluded from source indexing and consumed by pdb_processing.py.

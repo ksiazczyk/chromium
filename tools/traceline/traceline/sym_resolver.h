@@ -7,6 +7,12 @@
 //   SymResolver resolver("ntdll.dll");
 //   resolver.Resolve("ntdll!NtBlahBlah");
 
+// ---docerion
+// type: source
+// title: dbghelp symbol resolution wrapper
+// summary: Header defining a SymResolver class that wraps Windows dbghelp routines to load modules and resolve symbol names to addresses and back.
+// ---
+
 #ifndef TRACELINE_SYM_RESOLVER_H_
 #define TRACELINE_SYM_RESOLVER_H_
 

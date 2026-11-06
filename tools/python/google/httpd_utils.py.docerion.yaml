@@ -1,0 +1,4 @@
+# Docerion header of httpd_utils.py.
+type: source
+title: Utilities for starting and stopping a local Apache server
+summary: Helpers that start, poll, and stop a local Apache httpd server on port 8000, building platform-specific commands for test setups.

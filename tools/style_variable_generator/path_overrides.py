@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Template path overrides
+# summary: Provides the template loader root directory and template path lookup, with hooks intended to be overridden in google3.
+# ---
+
 import os
 
 

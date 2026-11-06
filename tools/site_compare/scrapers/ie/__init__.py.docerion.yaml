@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: Internet Explorer scraper selector
+summary: Selects and returns the scraper module for a given Internet Explorer version, currently always delegating to the ie7 scraper.

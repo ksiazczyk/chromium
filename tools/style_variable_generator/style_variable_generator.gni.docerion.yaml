@@ -1,0 +1,4 @@
+# Docerion header of style_variable_generator.gni.
+type: config
+title: GN build template for style variable generation
+summary: Defines the style_variable_generator GN template that creates targets generating CSS, Views, proto and related outputs from JSON5 token files.

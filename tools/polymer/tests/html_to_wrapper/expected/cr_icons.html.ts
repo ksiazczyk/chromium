@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected cr-iconset wrapper output
+// summary: Expected wrapper output that registers a dummy cr-iconset with SVG icon definitions in the document head for the html_to_wrapper test.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 import {getTrustedHTML} from '//resources/js/static_types.js';
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Style variable data model
+# summary: Defines the core data model for style variables, including light, dark and debug modes, variable types and mode-keyed value resolution.
+# ---
+
 import re
 import collections
 from style_variable_generator.color import (

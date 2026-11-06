@@ -1,0 +1,4 @@
+# Docerion header of package_rust.py.
+type: script
+title: Rust toolchain packaging script
+summary: Builds the Rust toolchain with bindgen and crubit, strips binaries, and creates tar.xz packages that can optionally be uploaded to Google Cloud Storage.

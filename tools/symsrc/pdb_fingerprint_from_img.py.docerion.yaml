@@ -1,0 +1,4 @@
+# Docerion header of pdb_fingerprint_from_img.py.
+type: script
+title: PDB fingerprint from image tool
+summary: Command-line utility that reads a DLL or EXE's CodeView debug entry to return the PDB fingerprint and PDB file name for symbol server lookups.

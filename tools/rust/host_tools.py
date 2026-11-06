@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Helpers for building host tools with the new toolchain
+# summary: Provides shared helpers for sysroot, compiler, linker, and Cargo setup used to build host tools such as bindgen after build_rust.py runs.
+# ---
+
 """Helpers for scripts that build more host tools after `build_rust.py`.
 
 The tools (e.g. `bindgen`) are shipped in the same package as `rustc`, so they

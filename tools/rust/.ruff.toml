@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for //tools/rust
+# summary: Extends the repository-wide Ruff lint configuration and sets the indent width to 4 for Python files in this directory.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

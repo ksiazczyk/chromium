@@ -1,0 +1,4 @@
+# Docerion header of legacy_mappings_test.json5.
+type: test
+title: Legacy mappings test data
+summary: JSON5 test input defining legacy CSS color mappings, including hex, rgb, and rgba values, for the style variable generator.

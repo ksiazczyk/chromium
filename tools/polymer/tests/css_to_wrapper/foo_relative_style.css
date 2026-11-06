@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Relative scheme style test fixture
+summary: Test CSS using the relative scheme in its wrapper metadata with two imports and includes plus custom property calculations.
+*/
+
 /* #css_wrapper_metadata_start
  *
  * #type=style

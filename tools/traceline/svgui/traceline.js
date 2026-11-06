@@ -25,6 +25,12 @@
 //
 // Dean McNamee <deanm@chromium.org>
 
+// ---docerion
+// type: source
+// title: Traceline SVG timeline viewer script
+// summary: JavaScript that parses traceline JSON events and renders threads and events as an interactive SVG timeline with hover details.
+// ---
+
 // XML namespaces.
 var svgNS = 'http://www.w3.org/2000/svg';
 var xhtmlNS = 'http://www.w3.org/1999/xhtml';

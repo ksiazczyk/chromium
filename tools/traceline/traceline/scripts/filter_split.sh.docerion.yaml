@@ -1,0 +1,4 @@
+# Docerion header of filter_split.sh.
+type: script
+title: Filtered trace split reassembler
+summary: Shell wrapper that runs filter_short on each split file and recombines the output into a single JSON file.

@@ -1,0 +1,4 @@
+# Docerion header of build_bindgen.py.
+type: source
+title: Build script for the bindgen tool
+summary: Checks out rust-bindgen at a pinned revision, builds it with Cargo against the Chromium LLVM build, and installs it into the Rust toolchain package.

@@ -1,0 +1,4 @@
+# Docerion header of dump_syscalls_idarub.rb.
+type: script
+title: IDA script to extract system call numbers
+summary: IdaRub script that extracts system call numbers and function names from DLLs such as ntdll.dll loaded in the IDA disassembler.

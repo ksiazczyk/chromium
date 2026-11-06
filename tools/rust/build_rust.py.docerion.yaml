@@ -1,0 +1,4 @@
+# Docerion header of build_rust.py.
+type: source
+title: Build script for the Rust toolchain
+summary: Clones Rust at a pinned revision, builds LLVM and Clang, then bootstraps rustc and libstd to assemble the Chromium Rust toolchain package.

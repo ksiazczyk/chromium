@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Lit-only style test fixture with three imports
+summary: Lit-style CSS fixture with style-lit metadata importing three styles and including two of them to set a color rule.
+*/
+
 /* #css_wrapper_metadata_start
  * #type=style-lit
  * #import=./other1.css.js

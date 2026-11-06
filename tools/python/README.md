@@ -1,3 +1,9 @@
+---
+type: readme
+title: //tools/python
+summary: Explains which Python code belongs in //tools/python and the trade-offs between code reuse and adding dependencies.
+---
+
 # //tools/python
 
 This directory is meant to contain Python code that is:

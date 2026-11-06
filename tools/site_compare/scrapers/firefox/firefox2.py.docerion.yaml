@@ -1,0 +1,4 @@
+# Docerion header of firefox2.py.
+type: source
+title: Firefox 2.0 scraper
+summary: Scrapes and times page loads in Firefox 2.0 by launching the browser and driving it with keyboard, mouse, and windowing drivers.

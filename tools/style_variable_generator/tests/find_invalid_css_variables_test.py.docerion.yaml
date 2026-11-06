@@ -1,0 +1,4 @@
+# Docerion header of find_invalid_css_variables_test.py.
+type: test
+title: Invalid CSS variable finder unit tests
+summary: Unit tests for FindInvalidCSSVariables covering unspecified, unused and missing-prefix CSS variable cases.
