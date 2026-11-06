@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Preferences fixture for pending extension updates with imports
+summary: Chrome Preferences test fixture containing extension settings entries, including delayed installs and shared module imports, used to test pending update handling.

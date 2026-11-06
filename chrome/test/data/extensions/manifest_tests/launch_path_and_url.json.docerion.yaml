@@ -1,0 +1,4 @@
+# Docerion header of launch_path_and_url.json.
+type: test
+title: Launch path and URL app manifest test fixture
+summary: Manifest fixture for a packaged app whose launch section defines both a local path and a web URL, used in manifest validation tests.

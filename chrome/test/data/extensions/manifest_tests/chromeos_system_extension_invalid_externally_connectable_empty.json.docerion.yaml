@@ -1,0 +1,4 @@
+# Docerion header of chromeos_system_extension_invalid_externally_connectable_empty.json.
+type: test
+title: ChromeOS system extension manifest with empty externally_connectable
+summary: Invalid manifest fixture for a ChromeOS system extension whose externally_connectable key is an empty object.

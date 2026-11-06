@@ -1,0 +1,4 @@
+# Docerion header of options_ui_page_basic.json.
+type: test
+title: Options UI page basic manifest fixture
+summary: Manifest fixture with an options_ui.page field used to test retrieving the options page from the options_ui entry.

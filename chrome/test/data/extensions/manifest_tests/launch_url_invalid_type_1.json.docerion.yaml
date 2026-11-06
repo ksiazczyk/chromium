@@ -1,0 +1,4 @@
+# Docerion header of launch_url_invalid_type_1.json.
+type: test
+title: Invalid launch URL type manifest test fixture
+summary: Manifest fixture with a numeric app launch web URL to test rejection of wrong-typed launch URL values.

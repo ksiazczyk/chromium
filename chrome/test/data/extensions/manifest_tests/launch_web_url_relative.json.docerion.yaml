@@ -1,0 +1,4 @@
+# Docerion header of launch_web_url_relative.json.
+type: test
+title: Relative launch web URL manifest test fixture
+summary: Manifest fixture setting an app launch web_url to the relative path launch.html for extension manifest tests.

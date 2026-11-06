@@ -1,0 +1,4 @@
+# Docerion header of launch_path_invalid_type.json.
+type: test
+title: Invalid launch path type manifest test fixture
+summary: Manifest fixture with a numeric app launch local path to test rejection of wrong-typed launch path values.

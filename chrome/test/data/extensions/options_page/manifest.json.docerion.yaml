@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Options page test extension manifest
+summary: Manifest for a test extension that declares an options page opened in a tab, used as fixture data for Chrome extension tests.

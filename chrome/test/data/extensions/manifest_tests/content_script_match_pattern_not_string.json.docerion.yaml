@@ -1,0 +1,4 @@
+# Docerion header of content_script_match_pattern_not_string.json.
+type: test
+title: Content script non-string match pattern test manifest
+summary: Test manifest whose content script matches value is a number instead of a string, exercising pattern validation.

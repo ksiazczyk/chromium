@@ -1,0 +1,4 @@
+# Docerion header of web_urls_default.json.
+type: test
+title: App manifest with default web URLs
+summary: Test manifest fixture for a manifest_version 2 app that omits app.urls and relies on the default derived from the launch web URL.

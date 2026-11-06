@@ -1,0 +1,4 @@
+# Docerion header of multiple_ui_surfaces.json.
+type: test
+title: Multiple UI surfaces manifest test fixture
+summary: Manifest fixture declaring both browser_action and page_action to exercise an extension with multiple UI surfaces.

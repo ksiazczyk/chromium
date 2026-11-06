@@ -1,0 +1,4 @@
+# Docerion header of evil_non_platform_app.json.
+type: test
+title: Non-platform app requesting platform-only permission test manifest
+summary: Test manifest of a non-platform app requesting the socket permission that is restricted to platform apps.

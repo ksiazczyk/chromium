@@ -1,0 +1,4 @@
+# Docerion header of packaged_app_absolute_options.json.
+type: test
+title: Packaged app with absolute options page URL fixture
+summary: Manifest version 2 packaged app fixture declaring an absolute http URL as its options_page.

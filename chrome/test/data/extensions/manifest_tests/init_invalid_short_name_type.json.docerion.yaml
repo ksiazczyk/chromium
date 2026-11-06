@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_short_name_type.json.
+type: test
+title: Invalid manifest test fixture with non-string short_name
+summary: Manifest fixture with short_name set to a number instead of a string, used to verify invalid manifest rejection.

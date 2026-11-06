@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_options_url_invalid.json.
+type: test
+title: Invalid manifest test fixture with invalid options page
+summary: Manifest fixture for extension init tests that expects validation to fail because options_page is null.

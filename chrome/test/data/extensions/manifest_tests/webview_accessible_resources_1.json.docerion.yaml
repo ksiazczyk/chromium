@@ -1,0 +1,4 @@
+# Docerion header of webview_accessible_resources_1.json.
+type: test
+title: Webview accessible resources test manifest 1
+summary: Test manifest for a webview app defining two partitions with wildcard names and their accessible resource lists.

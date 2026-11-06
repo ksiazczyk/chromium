@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_name_invalid.json.
+type: test
+title: 'Invalid manifest fixture: non-string name'
+summary: Invalid extension manifest fixture with a numeric name value, used to test manifest validation failures.

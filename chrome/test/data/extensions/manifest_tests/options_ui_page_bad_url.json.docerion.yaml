@@ -1,0 +1,4 @@
+# Docerion header of options_ui_page_bad_url.json.
+type: test
+title: options_ui with invalid page URL test fixture
+summary: Test manifest with a null options_ui page value to check error handling for invalid page URLs.

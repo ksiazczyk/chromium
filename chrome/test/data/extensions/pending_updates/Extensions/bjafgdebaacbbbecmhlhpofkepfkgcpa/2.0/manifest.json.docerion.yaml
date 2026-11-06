@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test extension version 2.0
+summary: Manifest defining version 2.0 of the test extension with a background page and tabs permission, used in pending update test fixtures.

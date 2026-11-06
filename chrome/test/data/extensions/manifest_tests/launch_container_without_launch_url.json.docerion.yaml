@@ -1,0 +1,4 @@
+# Docerion header of launch_container_without_launch_url.json.
+type: test
+title: Launch container without launch URL test manifest
+summary: Test manifest fixture defining an app launch container without a launch URL to check manifest validation.

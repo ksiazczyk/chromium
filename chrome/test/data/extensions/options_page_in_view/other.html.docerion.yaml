@@ -1,0 +1,4 @@
+# Docerion header of other.html.
+type: test
+title: Extra page fixture
+summary: Minimal HTML page containing the text 'Another page', serving as the extra page of the test extension.

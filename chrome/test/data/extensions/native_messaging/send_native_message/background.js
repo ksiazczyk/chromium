@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging send test background script
+// summary: Background service worker that sends a native message to a test Android app with a pinned certificate fingerprint and reports whether the response is verified.
+// ---
+
 // Pinned SHA-256 fingerprint for ChromePublicTestSupport.apk.
 const MATCHING_CERT =
     '32:A2:FC:74:D7:31:10:58:59:E5:A8:5D:F1:6D:95:F1:02:D8:5B:22' +

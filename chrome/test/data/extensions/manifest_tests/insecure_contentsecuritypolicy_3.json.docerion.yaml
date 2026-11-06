@@ -1,0 +1,4 @@
+# Docerion header of insecure_contentsecuritypolicy_3.json.
+type: test
+title: Manifest with content security policy 3
+summary: Test manifest with a self-only script content security policy, part of the CSP validation test cases.

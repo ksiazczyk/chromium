@@ -1,0 +1,4 @@
+# Docerion header of content_script_invalid_match_chrome_extension_url.json.
+type: test
+title: Content script invalid chrome extension URL match test manifest
+summary: Manifest test fixture declaring a content script whose match pattern points at a chrome extension page, used to verify the pattern is rejected as invalid.

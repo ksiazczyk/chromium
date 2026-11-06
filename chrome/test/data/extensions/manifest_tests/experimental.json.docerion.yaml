@@ -1,0 +1,4 @@
+# Docerion header of experimental.json.
+type: test
+title: Experimental permission manifest
+summary: Test manifest requesting the experimental permission.

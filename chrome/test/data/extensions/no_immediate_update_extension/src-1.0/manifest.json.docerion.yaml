@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: No Immediate Update Extension manifest version 1.0
+summary: Manifest for the version 1.0 test extension with a persistent background page, used as test data for extension update behavior tests.

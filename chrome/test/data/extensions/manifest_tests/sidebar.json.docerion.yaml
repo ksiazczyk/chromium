@@ -1,0 +1,4 @@
+# Docerion header of sidebar.json.
+type: test
+title: Empty sidebar test manifest
+summary: Empty fixture file in the manifest tests directory, apparently related to sidebar manifest testing.

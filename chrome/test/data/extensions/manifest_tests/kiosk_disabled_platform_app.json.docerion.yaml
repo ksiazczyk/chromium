@@ -1,0 +1,4 @@
+# Docerion header of kiosk_disabled_platform_app.json.
+type: test
+title: Platform app manifest with kiosk disabled
+summary: Test manifest for a platform app that explicitly sets kiosk_enabled to false, used to check kiosk flag handling.

@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_min_chrome_invalid.json.
+type: test
+title: 'Invalid manifest fixture: non-string minimum_chrome_version'
+summary: Invalid extension manifest fixture with a numeric minimum_chrome_version value, used to test manifest validation failures.

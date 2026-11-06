@@ -1,0 +1,4 @@
+# Docerion header of kiosk_only_platform_app.json.
+type: test
+title: Kiosk only platform app manifest
+summary: Manifest fixture for a platform app with background scripts and both kiosk_enabled and kiosk_only set to true.

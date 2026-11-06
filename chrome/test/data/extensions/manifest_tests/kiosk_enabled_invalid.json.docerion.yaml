@@ -1,0 +1,4 @@
+# Docerion header of kiosk_enabled_invalid.json.
+type: test
+title: Kiosk enabled invalid value manifest
+summary: Manifest fixture with an invalid kiosk_enabled string value used to test that non-boolean kiosk_enabled values are rejected.

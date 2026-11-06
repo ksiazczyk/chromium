@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_script_item_invalid.json.
+type: test
+title: Invalid manifest test fixture with non-object content script item
+summary: Manifest fixture whose content_scripts list contains a number instead of a script object, used to verify invalid manifest rejection.

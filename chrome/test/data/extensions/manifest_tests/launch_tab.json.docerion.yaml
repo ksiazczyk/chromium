@@ -1,0 +1,4 @@
+# Docerion header of launch_tab.json.
+type: test
+title: Tab container launch manifest test fixture
+summary: Manifest fixture for an app launching in a tab container from a local page, used in manifest validation tests.

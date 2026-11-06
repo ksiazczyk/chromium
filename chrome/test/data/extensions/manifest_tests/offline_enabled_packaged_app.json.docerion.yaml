@@ -1,0 +1,4 @@
+# Docerion header of offline_enabled_packaged_app.json.
+type: test
+title: Offline enabled packaged app manifest test fixture
+summary: Test manifest for a packaged app that declares offline_enabled true.

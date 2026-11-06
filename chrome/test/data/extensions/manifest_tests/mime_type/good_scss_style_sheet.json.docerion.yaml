@@ -1,0 +1,4 @@
+# Docerion header of good_scss_style_sheet.json.
+type: test
+title: 'Manifest fixture: valid SCSS style sheet content script'
+summary: Extension manifest test fixture declaring a content script CSS file with an SCSS extension, used to verify accepted style sheet MIME types.

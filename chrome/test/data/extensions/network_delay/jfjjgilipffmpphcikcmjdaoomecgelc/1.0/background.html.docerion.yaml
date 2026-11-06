@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Test extension background page
+summary: Minimal background page of the startup delay test extension used in Chrome network delay extension tests.

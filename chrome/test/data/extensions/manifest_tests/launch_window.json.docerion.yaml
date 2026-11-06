@@ -1,0 +1,4 @@
+# Docerion header of launch_window.json.
+type: test
+title: Window container launch manifest test fixture
+summary: Manifest fixture declaring an app launch in a window container with local_path bar.html for manifest tests.

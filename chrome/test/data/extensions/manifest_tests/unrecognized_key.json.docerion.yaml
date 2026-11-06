@@ -1,0 +1,4 @@
+# Docerion header of unrecognized_key.json.
+type: test
+title: Manifest with an unrecognized key
+summary: Test manifest containing an unrecognized key to verify a warning is produced.

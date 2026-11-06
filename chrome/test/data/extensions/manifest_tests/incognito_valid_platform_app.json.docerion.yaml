@@ -1,0 +1,4 @@
+# Docerion header of incognito_valid_platform_app.json.
+type: test
+title: Platform app manifest with valid incognito mode
+summary: Test manifest fixture of a platform app using incognito split, expected to pass manifest validation.

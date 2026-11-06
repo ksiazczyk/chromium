@@ -1,0 +1,4 @@
+# Docerion header of permissions_optional_all_urls_permissions.json.
+type: test
+title: Optional all URLs permission fixture
+summary: Manifest fixture declaring <all_urls> as an optional permission alongside required Google host access.

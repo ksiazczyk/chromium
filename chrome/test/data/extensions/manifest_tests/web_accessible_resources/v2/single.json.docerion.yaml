@@ -1,0 +1,4 @@
+# Docerion header of single.json.
+type: test
+title: Manifest fixture with a single resource entry
+summary: Extension manifest test fixture listing a single web_accessible_resources entry test under manifest version 2.

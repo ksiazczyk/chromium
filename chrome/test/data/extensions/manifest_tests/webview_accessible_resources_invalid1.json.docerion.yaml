@@ -1,0 +1,4 @@
+# Docerion header of webview_accessible_resources_invalid1.json.
+type: test
+title: Invalid webview manifest with array webview key
+summary: Test manifest with an invalid webview key formatted as an array instead of a dictionary.

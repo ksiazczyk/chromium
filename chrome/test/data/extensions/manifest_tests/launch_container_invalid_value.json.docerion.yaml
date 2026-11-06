@@ -1,0 +1,4 @@
+# Docerion header of launch_container_invalid_value.json.
+type: test
+title: Launch container invalid value test manifest
+summary: Test manifest fixture using an invalid app launch container value to exercise manifest validation error handling.

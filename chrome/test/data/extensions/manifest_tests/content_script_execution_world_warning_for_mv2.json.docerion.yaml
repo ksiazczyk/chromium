@@ -1,0 +1,4 @@
+# Docerion header of content_script_execution_world_warning_for_mv2.json.
+type: test
+title: MV2 content script manifest with execution world setting
+summary: Manifest fixture with an MV2 content script using the MAIN world, expected to trigger a warning during manifest validation.

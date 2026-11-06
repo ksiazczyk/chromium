@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the test extension 'My extension 3' version 1.0, declaring a background page and tabs permission for pending update tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Override component extension test manifest
+summary: Manifest for a test extension named 'Override Component Extension for testing' that pins a public key and version 0.9.74 under manifest version 3 for Chrome extension tests.

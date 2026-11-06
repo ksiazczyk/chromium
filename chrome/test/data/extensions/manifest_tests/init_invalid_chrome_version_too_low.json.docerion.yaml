@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_chrome_version_too_low.json.
+type: test
+title: Manifest with invalid minimum Chrome version
+summary: Test manifest fixture with a too-low minimum_chrome_version value, expected to fail initialization.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos_system_extension_google_iwa.json.
+type: test
+title: ChromeOS system extension manifest test fixture for Google IWA
+summary: Test manifest for the Google ChromeOS system extension adding an isolated web app to its externally_connectable matches.

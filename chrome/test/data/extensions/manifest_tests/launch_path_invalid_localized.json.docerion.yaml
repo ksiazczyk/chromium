@@ -1,0 +1,4 @@
+# Docerion header of launch_path_invalid_localized.json.
+type: test
+title: Invalid localized launch path manifest test fixture
+summary: Manifest fixture with an app launch local path set to an invalid localized message placeholder for manifest validation tests.

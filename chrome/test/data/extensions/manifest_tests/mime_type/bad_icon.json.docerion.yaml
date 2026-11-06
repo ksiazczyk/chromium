@@ -1,0 +1,4 @@
+# Docerion header of bad_icon.json.
+type: test
+title: 'Manifest fixture: icon with bad MIME type'
+summary: Extension manifest test fixture pointing an extension icon at a file with a bad MIME type, used to verify icon MIME type validation.

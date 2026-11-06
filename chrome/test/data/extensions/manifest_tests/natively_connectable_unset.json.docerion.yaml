@@ -1,0 +1,4 @@
+# Docerion header of natively_connectable_unset.json.
+type: test
+title: Manifest with natively_connectable unset
+summary: Minimal manifest fixture lacking the natively_connectable key, used by the NativelyConnectableManifestTest.Unset unit test.

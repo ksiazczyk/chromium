@@ -1,3 +1,9 @@
+---
+type: readme
+title: No Immediate Update Extension README
+summary: Describes a test extension with a persistent background page that suppresses update notification events, used for testing specific auto update scenarios.
+---
+
 This is an extension with a persistent background page that suppresses the
 update notification events.
 

@@ -1,0 +1,4 @@
+# Docerion header of platforms_key.json.
+type: test
+title: Manifest with a platforms key
+summary: Test manifest using the platforms key to verify it does not cause a warning.

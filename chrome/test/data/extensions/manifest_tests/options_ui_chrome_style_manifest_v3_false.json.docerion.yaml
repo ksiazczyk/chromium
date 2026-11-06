@@ -1,0 +1,4 @@
+# Docerion header of options_ui_chrome_style_manifest_v3_false.json.
+type: test
+title: options_ui chrome_style false in manifest v3 test fixture
+summary: Test manifest verifying that chrome_style set to false is invalid for manifest v3 options_ui.

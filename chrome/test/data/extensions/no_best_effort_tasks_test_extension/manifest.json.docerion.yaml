@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: No best effort tasks test extension manifest
+summary: Manifest for the NoBestEffortTasksTest extension, registering background.js as a service worker and allowing external connections from chromium.org pages.

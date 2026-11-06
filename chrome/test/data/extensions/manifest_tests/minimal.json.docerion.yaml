@@ -1,0 +1,4 @@
+# Docerion header of minimal.json.
+type: test
+title: Minimal manifest test fixture
+summary: Minimal manifest_version 3 fixture containing only name, version, and manifest_version for basic manifest tests.

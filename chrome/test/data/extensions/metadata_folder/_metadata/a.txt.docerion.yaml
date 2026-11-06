@@ -1,0 +1,4 @@
+# Docerion header of a.txt.
+type: test
+title: a.txt
+summary: Simple text fixture containing 'hello world' used as test data in the extension metadata folder tests.

@@ -1,0 +1,4 @@
+# Docerion header of launch_web_url_absolute.json.
+type: test
+title: Absolute web URL launch manifest test fixture
+summary: Manifest fixture for an app launching from an absolute http web URL, used in manifest validation tests.

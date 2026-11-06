@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Dummy background page for test extension
+summary: Dummy HTML background page serving as placeholder fixture data for the pending updates with imports extension test.

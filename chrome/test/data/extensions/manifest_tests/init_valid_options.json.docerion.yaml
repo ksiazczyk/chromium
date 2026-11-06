@@ -1,0 +1,4 @@
+# Docerion header of init_valid_options.json.
+type: test
+title: Valid manifest with options page
+summary: Test fixture manifest declaring an options_page, used to verify options page handling during initialization.

@@ -1,0 +1,4 @@
+# Docerion header of init_valid_version_name.json.
+type: test
+title: Valid manifest with version name
+summary: Test manifest verifying that a version_name field alongside the version field is accepted during extension manifest validation.

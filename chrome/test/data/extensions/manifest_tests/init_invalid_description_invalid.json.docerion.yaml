@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_description_invalid.json.
+type: test
+title: Manifest with invalid description type
+summary: Test manifest fixture whose description is a number instead of a string, expected to fail validation.

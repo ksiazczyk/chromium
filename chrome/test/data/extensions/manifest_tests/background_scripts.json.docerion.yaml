@@ -1,0 +1,4 @@
+# Docerion header of background_scripts.json.
+type: test
+title: Background scripts manifest test fixture
+summary: Test manifest declaring manifest version 2 background scripts to exercise extension manifest parsing.

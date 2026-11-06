@@ -1,0 +1,4 @@
+# Docerion header of webview_accessible_resources_invalid3.json.
+type: test
+title: Invalid webview manifest with empty partitions list
+summary: Test manifest whose webview key contains an empty partitions list.

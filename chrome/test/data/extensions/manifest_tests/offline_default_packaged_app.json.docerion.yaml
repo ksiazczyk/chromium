@@ -1,0 +1,4 @@
+# Docerion header of offline_default_packaged_app.json.
+type: test
+title: Packaged app manifest with default offline behavior
+summary: Manifest version 2 packaged app fixture without an offline_enabled key, used to test the default offline setting for packaged apps.

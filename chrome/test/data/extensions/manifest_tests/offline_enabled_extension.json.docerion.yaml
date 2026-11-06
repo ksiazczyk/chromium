@@ -1,0 +1,4 @@
+# Docerion header of offline_enabled_extension.json.
+type: test
+title: Extension manifest with offline enabled
+summary: Manifest version 3 extension fixture that sets offline_enabled to true, used to test offline enabling for extensions.

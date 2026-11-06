@@ -1,0 +1,4 @@
+# Docerion header of hosted_app_file_options.json.
+type: test
+title: Hosted app with file options page manifest test fixture
+summary: Manifest fixture for a hosted app whose options page points to a file path, used to test options page handling for hosted apps.

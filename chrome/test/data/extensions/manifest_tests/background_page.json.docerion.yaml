@@ -1,0 +1,4 @@
+# Docerion header of background_page.json.
+type: test
+title: Background page manifest fixture
+summary: Minimal extension manifest declaring a local background page foo.html for background manifest tests.

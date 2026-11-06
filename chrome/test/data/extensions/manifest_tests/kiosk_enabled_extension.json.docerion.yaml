@@ -1,0 +1,4 @@
+# Docerion header of kiosk_enabled_extension.json.
+type: test
+title: Extension manifest with kiosk enabled
+summary: Test manifest for an extension that sets kiosk_enabled to true, used to validate kiosk support in extensions.

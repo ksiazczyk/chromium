@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Dummy background page for pending updates test
+summary: Placeholder background page serving as part of the test extension fixture for Chrome's extension pending update tests.

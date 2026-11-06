@@ -1,0 +1,4 @@
+# Docerion header of content_script_invalid_match_isolated_app_url.json.
+type: test
+title: Content script invalid isolated app URL match test manifest
+summary: Manifest test fixture declaring a content script whose match pattern targets an isolated app URL, used to verify the pattern is rejected as invalid.

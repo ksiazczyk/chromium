@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_optional_host_permissions_invalid.json.
+type: test
+title: Invalid manifest test fixture with non-list optional host permissions
+summary: Manifest fixture for extension init tests that expects validation to fail because optional_host_permissions is a string instead of a list.

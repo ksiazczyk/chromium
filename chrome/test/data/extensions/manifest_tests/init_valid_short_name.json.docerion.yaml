@@ -1,0 +1,4 @@
+# Docerion header of init_valid_short_name.json.
+type: test
+title: Valid manifest with short name
+summary: Test fixture manifest defining both name and short_name, used to verify short name validation.

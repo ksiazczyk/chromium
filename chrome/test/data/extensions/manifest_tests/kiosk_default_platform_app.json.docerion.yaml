@@ -1,0 +1,4 @@
+# Docerion header of kiosk_default_platform_app.json.
+type: test
+title: Platform app manifest with default kiosk setting
+summary: Test manifest for a platform app without an explicit kiosk_enabled flag, used to check default kiosk behavior.

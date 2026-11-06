@@ -1,0 +1,4 @@
+# Docerion header of background_page_persistent_app.json.
+type: test
+title: Persistent app background page fixture
+summary: App manifest with a persistent background page inside the app section, used in background manifest tests.

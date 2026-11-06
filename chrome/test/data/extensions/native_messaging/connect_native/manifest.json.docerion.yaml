@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Connect native test extension manifest
+summary: Manifest V3 manifest for the Native Messaging Connect Native test extension, requesting the nativeMessaging permission and registering background.js as its service worker.

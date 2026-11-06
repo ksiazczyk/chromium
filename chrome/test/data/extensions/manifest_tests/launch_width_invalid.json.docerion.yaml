@@ -1,0 +1,4 @@
+# Docerion header of launch_width_invalid.json.
+type: test
+title: Invalid launch width manifest test fixture
+summary: Manifest fixture declaring a tab container launch with a width of 640, an apparently invalid combination used in manifest tests.

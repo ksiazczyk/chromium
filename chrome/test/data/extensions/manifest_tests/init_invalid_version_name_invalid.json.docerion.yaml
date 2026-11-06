@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_version_name_invalid.json.
+type: test
+title: Invalid version_name fixture
+summary: Test manifest with a numeric version_name, used to verify extension init rejects an invalid version_name value.

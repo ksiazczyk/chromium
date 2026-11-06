@@ -1,0 +1,4 @@
+# Docerion header of unsupported_optional_api_permission.json.
+type: test
+title: Manifest with unsupported optional API permission
+summary: Test manifest fixture declaring an optional permission (geolocation) that cannot be optional, used to verify manifest validation rejects it.

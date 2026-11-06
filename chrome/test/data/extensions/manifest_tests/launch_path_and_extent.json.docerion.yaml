@@ -1,0 +1,4 @@
+# Docerion header of launch_path_and_extent.json.
+type: test
+title: Launch path and extent test manifest
+summary: Test manifest fixture combining an app launch local path with web URLs to test launch and extent handling.

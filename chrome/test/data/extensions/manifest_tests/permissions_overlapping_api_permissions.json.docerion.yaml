@@ -1,0 +1,4 @@
+# Docerion header of permissions_overlapping_api_permissions.json.
+type: test
+title: Overlapping required and optional API permissions fixture
+summary: Manifest fixture with overlapping required and optional API permissions, including tabs in both lists.

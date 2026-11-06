@@ -1,0 +1,4 @@
+# Docerion header of valid_app.json.
+type: test
+title: Valid hosted app manifest fixture
+summary: Test manifest fixture for a valid manifest_version 2 hosted app with app URLs, a launch web URL, and the notifications permission.

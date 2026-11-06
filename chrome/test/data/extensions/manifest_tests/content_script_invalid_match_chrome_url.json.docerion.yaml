@@ -1,0 +1,4 @@
+# Docerion header of content_script_invalid_match_chrome_url.json.
+type: test
+title: Content script invalid chrome URL match test manifest
+summary: Manifest test fixture declaring a content script that matches an internal Chrome new tab page, used to verify the pattern is rejected as invalid.

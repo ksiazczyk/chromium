@@ -1,0 +1,4 @@
+# Docerion header of hosted_app_absolute_options.json.
+type: test
+title: Hosted app with absolute options page URL
+summary: Hosted app manifest whose options_page is an absolute http URL.

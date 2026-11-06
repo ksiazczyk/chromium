@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest fixture
+summary: Minimal Chrome extension manifest used as test data for extensions without an ID in the no_id test directory.

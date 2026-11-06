@@ -1,0 +1,4 @@
+# Docerion header of chromeos_system_extension_hp.json.
+type: test
+title: ChromeOS system extension manifest test fixture for HP
+summary: Test manifest for a ChromeOS system extension with HP partner externally_connectable matches and os.* permissions.

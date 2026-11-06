@@ -1,0 +1,4 @@
+# Docerion header of launch_panel.json.
+type: test
+title: Launch panel test manifest
+summary: Test manifest fixture launching an app in a panel container from a web URL.

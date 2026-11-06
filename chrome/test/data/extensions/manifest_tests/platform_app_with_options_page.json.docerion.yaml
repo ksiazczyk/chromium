@@ -1,0 +1,4 @@
+# Docerion header of platform_app_with_options_page.json.
+type: test
+title: Platform app manifest with an options page
+summary: Test manifest for a platform app that specifies an options page which should be ignored.

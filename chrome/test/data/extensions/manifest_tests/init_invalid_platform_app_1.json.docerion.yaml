@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_platform_app_1.json.
+type: test
+title: Invalid platform app manifest with launch section
+summary: Manifest fixture for extension init tests that expects validation to fail because a platform app declares a launch section.

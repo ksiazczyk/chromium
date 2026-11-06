@@ -1,0 +1,4 @@
+# Docerion header of host_permissions_key_invalid_hosts.json.
+type: test
+title: Host permissions with malformed hosts
+summary: MV3 manifest with malformed host patterns in host_permissions and optional_host_permissions.

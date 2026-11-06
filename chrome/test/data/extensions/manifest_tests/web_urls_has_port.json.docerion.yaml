@@ -1,0 +1,4 @@
+# Docerion header of web_urls_has_port.json.
+type: test
+title: App manifest with web URL including a port
+summary: Test manifest fixture for a manifest_version 2 app whose app.urls include a URL with an explicit port number.

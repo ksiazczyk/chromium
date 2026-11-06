@@ -1,0 +1,4 @@
+# Docerion header of init_platform_app_csp_insecure.json.
+type: test
+title: Platform app insecure CSP fixture
+summary: Platform app manifest with a content security policy permitting HTTP sources, used to test insecure CSP handling.

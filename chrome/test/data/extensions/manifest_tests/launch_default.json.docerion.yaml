@@ -1,0 +1,4 @@
+# Docerion header of launch_default.json.
+type: test
+title: Launch default test manifest
+summary: Minimal manifest version 3 test fixture serving as a default launch case in manifest tests.

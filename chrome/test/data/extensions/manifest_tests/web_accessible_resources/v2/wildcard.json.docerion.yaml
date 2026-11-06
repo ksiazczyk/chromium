@@ -1,0 +1,4 @@
+# Docerion header of wildcard.json.
+type: test
+title: Manifest fixture with a wildcard resource
+summary: Extension manifest test fixture using a wildcard * for web_accessible_resources under manifest version 2.

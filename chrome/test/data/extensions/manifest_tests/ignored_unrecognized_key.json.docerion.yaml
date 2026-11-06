@@ -1,0 +1,4 @@
+# Docerion header of ignored_unrecognized_key.json.
+type: test
+title: Manifest with unrecognized keys to be ignored
+summary: Test manifest fixture containing unrecognized keys such as browser_specific_settings and $schema that should be ignored without warnings.

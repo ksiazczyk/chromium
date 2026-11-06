@@ -1,0 +1,4 @@
+# Docerion header of natively_connectable_incorrect_values_type.json.
+type: test
+title: Natively connectable manifest with incorrect array value types
+summary: Test manifest fixture whose natively_connectable key is an array of numbers and nested arrays, used to check invalid values typing in the manifest.

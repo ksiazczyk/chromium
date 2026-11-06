@@ -1,0 +1,4 @@
+# Docerion header of theme_missing_image_variant.json.
+type: test
+title: Theme manifest with missing image variant
+summary: Test theme manifest deliberately missing the theme_toolbar image variant to exercise error handling.

@@ -1,0 +1,4 @@
+# Docerion header of offline_default_platform_app_with_webview.json.
+type: test
+title: Platform app manifest with webview permission
+summary: Manifest version 2 platform app fixture with background scripts and the webview permission, for testing default offline behavior with webview access.

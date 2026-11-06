@@ -1,0 +1,4 @@
+# Docerion header of init_valid_theme_minimum_chrome.json.
+type: test
+title: Valid theme manifest with minimum Chrome version
+summary: Test manifest for a theme extension that specifies a minimum_chrome_version, used to validate manifest parsing.

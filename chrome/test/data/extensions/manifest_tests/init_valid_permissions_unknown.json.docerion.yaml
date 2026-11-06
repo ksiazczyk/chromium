@@ -1,0 +1,4 @@
+# Docerion header of init_valid_permissions_unknown.json.
+type: test
+title: Valid manifest with unknown permission
+summary: Test fixture manifest listing an unrecognized permission string, used to verify handling of unknown permissions.

@@ -1,0 +1,4 @@
+# Docerion header of options_ui_flags_false.json.
+type: test
+title: options_ui flags set to false test fixture
+summary: Test manifest setting chrome_style and open_in_tab to false in options_ui.

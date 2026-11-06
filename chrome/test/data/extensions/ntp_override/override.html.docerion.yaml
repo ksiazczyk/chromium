@@ -1,0 +1,4 @@
+# Docerion header of override.html.
+type: test
+title: New tab override page
+summary: Simple HTML page shown as the overridden new tab page by the test extension.

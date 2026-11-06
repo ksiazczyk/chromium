@@ -1,0 +1,4 @@
+# Docerion header of pattern.json.
+type: test
+title: Manifest fixture with a path pattern resource
+summary: Extension manifest test fixture declaring web_accessible_resources pattern path/*.ext under manifest version 2.

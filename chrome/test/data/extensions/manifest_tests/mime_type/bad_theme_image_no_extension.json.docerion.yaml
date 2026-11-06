@@ -1,0 +1,4 @@
+# Docerion header of bad_theme_image_no_extension.json.
+type: test
+title: 'Manifest fixture: theme image without extension'
+summary: Extension manifest test fixture referencing a theme frame image whose file name has no extension, used to verify handling of extensionless theme images.

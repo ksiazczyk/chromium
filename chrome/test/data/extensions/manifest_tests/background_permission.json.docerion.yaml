@@ -1,0 +1,4 @@
+# Docerion header of background_permission.json.
+type: test
+title: Background permission manifest fixture
+summary: App manifest with a background page and notifications permission, used in background manifest tests.

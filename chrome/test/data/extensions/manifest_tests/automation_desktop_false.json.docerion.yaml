@@ -1,0 +1,4 @@
+# Docerion header of automation_desktop_false.json.
+type: test
+title: Automation desktop false manifest test fixture
+summary: Extension manifest fixture with automation desktop set to false for the AutomationManifestTest.DesktopFalse unit test.

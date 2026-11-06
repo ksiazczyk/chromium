@@ -1,0 +1,4 @@
+# Docerion header of default_path_for_extent.json.
+type: test
+title: Hosted app default path for extent test manifest
+summary: Test manifest for an app with app URLs and a launch web_url, used to check the default path for extent.

@@ -1,0 +1,4 @@
+# Docerion header of web_urls_invalid_3.json.
+type: test
+title: App manifest with wildcard in web URL path
+summary: Test manifest fixture with a wildcard character in an app.urls path to verify that such web URLs are rejected.

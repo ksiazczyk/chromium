@@ -1,0 +1,4 @@
+# Docerion header of not_platform_app.json.
+type: test
+title: Manifest for an app that is not a platform app
+summary: Manifest fixture with empty permissions describing an app that is not a platform app, for platform app detection tests.

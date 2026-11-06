@@ -1,0 +1,4 @@
+# Docerion header of chromeos_system_extension_invalid.json.
+type: test
+title: Invalid ChromeOS system extension manifest test fixture
+summary: Test manifest that is invalid because chromeos_system_extension is set to a string instead of a dictionary.

@@ -1,0 +1,4 @@
+# Docerion header of kiosk_only_not_enabled.json.
+type: test
+title: Kiosk only without kiosk enabled manifest
+summary: Manifest fixture with kiosk_only set to true while kiosk_enabled is absent, for testing that combination.

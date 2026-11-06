@@ -1,0 +1,4 @@
+# Docerion header of web_urls_invalid_1.json.
+type: test
+title: App manifest with non-string web URL entry
+summary: Test manifest fixture with a numeric entry in app.urls to verify that invalid web URL values are rejected.

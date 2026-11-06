@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test extension with no imports
+summary: Manifest for a 1.0.0 test extension with no imports, used as fixture data in Chrome's pending extension update tests.

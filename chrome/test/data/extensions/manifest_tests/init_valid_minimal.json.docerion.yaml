@@ -1,0 +1,4 @@
+# Docerion header of init_valid_minimal.json.
+type: test
+title: Minimal valid manifest fixture
+summary: Minimal valid manifest version 3 extension with name and version, used as a baseline in manifest init tests.

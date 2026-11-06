@@ -1,0 +1,4 @@
+# Docerion header of init_icon_size.json.
+type: test
+title: Manifest with multiple icon sizes
+summary: Test manifest fixture declaring icons from 16 up to 512 pixels to exercise icon size initialization.

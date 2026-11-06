@@ -1,0 +1,4 @@
+# Docerion header of launch_width.json.
+type: test
+title: Panel launch width manifest test fixture
+summary: Manifest fixture declaring a panel container app launch with width 640 and local_path bar.html for manifest tests.

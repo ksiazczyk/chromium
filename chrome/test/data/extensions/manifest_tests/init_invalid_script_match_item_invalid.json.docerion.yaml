@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_script_match_item_invalid.json.
+type: test
+title: Invalid manifest test fixture with non-string match pattern
+summary: Manifest fixture whose content script matches list contains a number instead of a pattern string, used to verify invalid manifest rejection.

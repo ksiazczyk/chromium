@@ -1,0 +1,4 @@
+# Docerion header of normalize_icon_paths.json.
+type: test
+title: Manifest for icon path normalization
+summary: Manifest fixture with a leading slash on one icon path to verify that icon paths are normalized when loaded.

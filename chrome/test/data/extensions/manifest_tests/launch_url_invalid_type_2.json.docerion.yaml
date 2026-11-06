@@ -1,0 +1,4 @@
+# Docerion header of launch_url_invalid_type_2.json.
+type: test
+title: Chrome scheme launch URL manifest test fixture
+summary: Manifest fixture with a chrome-scheme app launch web URL to test rejection of non-web launch URLs.

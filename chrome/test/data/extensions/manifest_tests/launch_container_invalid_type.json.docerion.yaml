@@ -1,0 +1,4 @@
+# Docerion header of launch_container_invalid_type.json.
+type: test
+title: Launch container invalid type manifest
+summary: Manifest fixture with the app launch container set to a numeric value, used to test invalid launch container type handling.

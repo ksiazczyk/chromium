@@ -1,0 +1,4 @@
+# Docerion header of init_invalid_icons_path_invalid.json.
+type: test
+title: 'Invalid manifest fixture: invalid icon path value'
+summary: Invalid extension manifest fixture with a non-string icon path in the icons dictionary, used to test manifest validation failures.

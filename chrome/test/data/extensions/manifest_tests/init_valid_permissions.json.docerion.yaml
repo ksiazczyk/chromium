@@ -1,0 +1,4 @@
+# Docerion header of init_valid_permissions.json.
+type: test
+title: Valid permissions manifest test fixture
+summary: Manifest fixture for manifest parsing tests declaring a valid extension whose permissions list includes a file scheme entry.

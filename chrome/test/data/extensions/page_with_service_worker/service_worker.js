@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker serving localized CSS
+// summary: Service worker test fixture that skips waiting, claims clients on activation, and responds to style.css fetches with CSS using a localized color message placeholder.
+// ---
+
 self.addEventListener('install', event => {
   // Skip waiting to activate the new service worker immediately.
   self.skipWaiting();
