@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia benchmarking extension unit tests
+// summary: Unit test verifying that BenchmarkingCanvas records the expected Skia draw commands and their arguments.
+// ---
+
 #include "content/renderer/skia_benchmarking_extension.h"
 
 #include <stddef.h>

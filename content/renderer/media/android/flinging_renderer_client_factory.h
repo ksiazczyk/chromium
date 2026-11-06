@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingRendererClientFactory class declaration
+// summary: Declares the media flinging renderer factory, which reports whether flinging is active via the remote playback client and sets the remote play state change callback.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_ANDROID_FLINGING_RENDERER_CLIENT_FACTORY_H_
 #define CONTENT_RENDERER_MEDIA_ANDROID_FLINGING_RENDERER_CLIENT_FACTORY_H_
 

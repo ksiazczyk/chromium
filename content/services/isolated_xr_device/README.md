@@ -1,3 +1,13 @@
+---
+type: readme
+title: Isolated XR Device Service
+summary: Explains the multiprocess WebXR architecture, the service and runtime provider entry points, and how browser tests bind test hooks.
+relations:
+  - references /chrome/browser/vr/test/xr_browser_tests.md
+  - references /components/webxr/README.md
+  - references /device/vr/public/mojom/test/README.md
+---
+
 # Isolated XR Device Service
 _For a more thorough/high level overview of the entire WebXR stack, please refer
 to [components/webxr][components-webxr-readme]._

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools media encoding service class declaration
+// summary: Declares DevToolsMediaEncodingServiceImpl, the Mojo service handling start, frame and audio recording, and stop of screencast capture.
+// ---
+
 #ifndef CONTENT_SERVICES_DEVTOOLS_MEDIA_ENCODING_SERVICE_DEVTOOLS_MEDIA_ENCODING_SERVICE_IMPL_H_
 #define CONTENT_SERVICES_DEVTOOLS_MEDIA_ENCODING_SERVICE_DEVTOOLS_MEDIA_ENCODING_SERVICE_IMPL_H_
 

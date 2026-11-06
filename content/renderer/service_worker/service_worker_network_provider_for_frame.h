@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerNetworkProviderForFrame class declaration
+// summary: Declares the WebServiceWorkerNetworkProvider implementation used for frames with controller accessors.
+// ---
+
 #ifndef CONTENT_RENDERER_SERVICE_WORKER_SERVICE_WORKER_NETWORK_PROVIDER_FOR_FRAME_H_
 #define CONTENT_RENDERER_SERVICE_WORKER_SERVICE_WORKER_NETWORK_PROVIDER_FOR_FRAME_H_
 

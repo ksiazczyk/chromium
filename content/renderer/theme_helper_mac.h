@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme helper for Mac subpixel antialiasing
+// summary: Declares IsSubpixelAntialiasingAvailable, which reports whether subpixel anti-aliasing can be used on macOS.
+// ---
+
 #ifndef CONTENT_RENDERER_THEME_HELPER_MAC_H_
 #define CONTENT_RENDERER_THEME_HELPER_MAC_H_
 

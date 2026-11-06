@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameImpl browser tests
+// summary: Browser tests exercising RenderFrameImpl behavior such as subframe creation, frame owner properties, and autoplay settings.
+// ---
+
 #include "content/renderer/render_frame_impl.h"
 
 #include <stdint.h>

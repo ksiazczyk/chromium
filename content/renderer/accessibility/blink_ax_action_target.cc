@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink accessibility action target implementation
+// summary: Implements accessibility action dispatch on a Blink WebAXObject, covering actions, relative bounds, scrolling and selection.
+// ---
+
 #include "content/renderer/accessibility/blink_ax_action_target.h"
 #include "third_party/blink/public/platform/web_string.h"
 #include "ui/gfx/geometry/rect_conversions.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owner list for the isolated XR device service
+summary: Delegates ownership to the webxr owners and assigns sandbox hook files to the Linux sandbox owners.

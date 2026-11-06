@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI extension data class declaration
+// summary: Declares WebUIExtensionData, a RenderFrameObserver and mojom::WebUI implementation holding a key-value map of WebUI properties.
+// ---
+
 #ifndef CONTENT_RENDERER_WEB_UI_EXTENSION_DATA_H_
 #define CONTENT_RENDERER_WEB_UI_EXTENSION_DATA_H_
 

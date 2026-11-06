@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspector media event handler implementation
+// summary: Implements InspectorMediaEventHandler, converting queued media log records into inspector player events, errors, properties and messages for DevTools.
+// ---
+
 #include "content/renderer/media/inspector_media_event_handler.h"
 
 #include <string>

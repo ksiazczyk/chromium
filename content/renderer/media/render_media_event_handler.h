@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderMediaEventHandler header
+// summary: Declares RenderMediaEventHandler, a BatchingMediaLog::EventHandler that sends media log events to the browser process.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_RENDER_MEDIA_EVENT_HANDLER_H_
 #define CONTENT_RENDERER_MEDIA_RENDER_MEDIA_EVENT_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation client implementation
+// summary: Implements the mojom::NavigationClient that commits successful and failed navigations in the renderer on behalf of RenderFrameImpl.
+// ---
+
 #include "content/renderer/navigation_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GinJavaBridgeValueConverter unit tests
+// summary: Unit tests verifying conversion of basic values, array buffers, and typed arrays between V8 and the GinJavaBridgeValue format.
+// ---
+
 #include "content/renderer/java/gin_java_bridge_value_converter.h"
 
 #include <stddef.h>

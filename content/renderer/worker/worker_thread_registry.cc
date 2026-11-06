@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker thread registry implementation
+// summary: Implements WorkerThread and WorkerThreadRegistry, which track renderer worker threads, dispatch posted tasks, and notify observers when threads stop.
+// ---
+
 #include "content/renderer/worker/worker_thread_registry.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-exposed renderer interfaces implementation
+// summary: Implements interfaces exposed from every renderer process to the browser, including a resource usage reporter that collects V8 and cppgc heap statistics from workers.
+// ---
+
 #include "content/renderer/browser_exposed_renderer_interfaces.h"
 
 #include <stdint.h>

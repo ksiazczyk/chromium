@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with XR bug tracker and team contacts
+summary: Declares the Monorail component, Buganizer component ID and xr-dev team email for this directory.

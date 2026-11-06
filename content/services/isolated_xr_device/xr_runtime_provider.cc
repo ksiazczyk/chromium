@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the isolated XR runtime provider
+// summary: Polls for XR hardware every five seconds, enables or disables runtimes such as OpenXR, and reports device changes to clients over Mojo.
+// ---
+
 #include "content/services/isolated_xr_device/xr_runtime_provider.h"
 
 #include "base/command_line.h"

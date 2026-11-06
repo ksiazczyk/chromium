@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Worker renderer directory owners
+summary: Owners file that delegates code ownership for this directory to the shared OWNERS list in content/browser/worker_host.

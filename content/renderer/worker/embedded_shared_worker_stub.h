@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded shared worker stub header
+// summary: Declares EmbeddedSharedWorkerStub, a self-destructing class implementing WebSharedWorkerClient and the SharedWorker Mojo interface that owns the blink WebSharedWorker.
+// ---
+
 #ifndef CONTENT_RENDERER_WORKER_EMBEDDED_SHARED_WORKER_STUB_H_
 #define CONTENT_RENDERER_WORKER_EMBEDDED_SHARED_WORKER_STUB_H_
 

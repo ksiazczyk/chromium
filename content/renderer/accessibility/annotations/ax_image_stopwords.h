@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXImageStopwords singleton declaration
+// summary: Declares a singleton stopword set with a case-insensitive check for whether a word should be filtered when judging image label quality.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_IMAGE_STOPWORDS_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_IMAGE_STOPWORDS_H_
 

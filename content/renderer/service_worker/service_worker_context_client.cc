@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker context client implementation
+// summary: Implements the embedder-side client that connects the browser to Blink's ServiceWorkerGlobalScope.
+// ---
+
 #include "content/renderer/service_worker/service_worker_context_client.h"
 
 #include <algorithm>

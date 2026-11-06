@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer process main entry point
+// summary: Implements the renderer process main function, setting up the task scheduler, Blink, tracing, startup metrics, and platform-specific initialization before entering the run loop.
+// ---
+
 #include <stddef.h>
 
 #include <optional>

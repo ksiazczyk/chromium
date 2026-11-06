@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for content/renderer
+# summary: Presubmit script that warns when changed renderer code uses the deprecated global task runner getters instead of RenderFrame::GetTaskRunner.
+# ---
+
 """Presubmit script for content/renderer
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

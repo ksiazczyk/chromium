@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceBrokerServiceImpl implementation
+// summary: Implements the ResourceBrokerService Mojo interface by binding a receiver and storing a validated broker configuration on Initialize.
+// ---
+
 #include "content/services/resource_broker/resource_broker_service_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer harness for audio file decoding
+// summary: libFuzzer entry point that feeds random inputs to DecodeAudioFileData, capping input size to avoid timeouts and out-of-memory reports.
+// ---
+
 #include "content/renderer/media/audio_decoder.h"
 
 #include "base/at_exit.h"

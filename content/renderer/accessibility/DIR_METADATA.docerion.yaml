@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the accessibility component
+summary: Metadata for the renderer accessibility directory, mapping it to shared mixins, the UI>Accessibility monorail component and a Buganizer component ID.

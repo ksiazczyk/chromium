@@ -1,0 +1,4 @@
+# Docerion header of render_view_browsertest_mac.mm.
+type: test
+title: RenderView Mac browser tests
+summary: Mac-specific RenderView tests checking that cmd-up and cmd-down scroll the page unless JavaScript intercepts the key events.

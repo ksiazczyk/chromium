@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedWorkerFactoryImpl class header
+// summary: Declares SharedWorkerFactoryImpl, the content-layer implementation of blink::mojom::SharedWorkerFactory that creates shared workers in the renderer process.
+// ---
+
 #ifndef CONTENT_RENDERER_WORKER_SHARED_WORKER_FACTORY_IMPL_H_
 #define CONTENT_RENDERER_WORKER_SHARED_WORKER_FACTORY_IMPL_H_
 

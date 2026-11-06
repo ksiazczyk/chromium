@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller service worker connector implementation
+// summary: Implements the connector that vends and manages the Mojo connection to the controller service worker.
+// ---
+
 #include "content/renderer/service_worker/controller_service_worker_connector.h"
 
 #include "base/functional/bind.h"

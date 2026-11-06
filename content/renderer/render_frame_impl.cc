@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameImpl implementation
+// summary: Implements the renderer-side frame object, handling navigation, loading, accessibility, media, and Mojo communication with the browser.
+// ---
+
 #include "content/renderer/render_frame_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background resource fetch assets implementation
+// summary: Implements the holder of a URL loader factory, throttle provider, frame token and background task runner used for resource fetches off the main thread.
+// ---
+
 #include "content/renderer/background_resource_fetch_assets.h"
 
 #include "base/check.h"

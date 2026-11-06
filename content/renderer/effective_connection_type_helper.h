@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Effective connection type helper header
+// summary: Declares EffectiveConnectionTypeToWebEffectiveConnectionType for mapping net NQE types to Blink.
+// ---
+
 #ifndef CONTENT_RENDERER_EFFECTIVE_CONNECTION_TYPE_HELPER_H_
 #define CONTENT_RENDERER_EFFECTIVE_CONNECTION_TYPE_HELPER_H_
 

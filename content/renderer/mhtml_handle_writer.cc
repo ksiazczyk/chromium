@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML handle writer implementation
+// summary: Implements writers that serialize MHTML contents to a file handle or a Mojo data pipe on a blocking thread and report the save status to the main thread.
+// ---
+
 #include "content/renderer/mhtml_handle_writer.h"
 
 #include "base/containers/span.h"

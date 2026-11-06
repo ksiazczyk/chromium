@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink platform audio hardware browser test
+// summary: Browser test verifying that blink::Platform audio hardware functions return valid buffer size, channel count, and sample rate without a V8 context.
+// ---
+
 #include "content/public/test/render_view_test.h"
 #include "third_party/blink/public/platform/platform.h"
 

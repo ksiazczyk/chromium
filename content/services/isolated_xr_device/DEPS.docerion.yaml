@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the isolated XR device service directory
+summary: Restricts includes in this directory to viz GPU context providers, webxr test hooks, device, Mojo and viz GPU code.

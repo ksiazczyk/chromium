@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch client settings object helpers header
+// summary: Declares helper functions that convert FetchClientSettingsObject between Web and Mojo variants, pending Onion Soup cleanup.
+// ---
+
 #ifndef CONTENT_RENDERER_WORKER_FETCH_CLIENT_SETTINGS_OBJECT_HELPERS_H_
 #define CONTENT_RENDERER_WORKER_FETCH_CLIENT_SETTINGS_OBJECT_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererWebAudioDeviceImpl unit tests
+// summary: Unit tests for RendererWebAudioDeviceImpl using a mock audio renderer sink to verify sink creation, rendering, and error handling.
+// ---
+
 #include "content/renderer/media/renderer_webaudiodevice_impl.h"
 
 #include <memory>

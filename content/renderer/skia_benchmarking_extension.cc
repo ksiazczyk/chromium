@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia benchmarking extension implementation
+// summary: Implements the SkiaBenchmarking gin extension that rasterizes pictures and reports draw commands and timings.
+// ---
+
 #include "content/renderer/skia_benchmarking_extension.h"
 
 #include <stddef.h>

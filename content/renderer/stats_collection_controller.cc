@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats collection controller implementation
+// summary: Implements the gin-wrapped statsCollectionController JavaScript binding that returns histogram and browser histogram data as JSON strings.
+// ---
+
 #include "content/renderer/stats_collection_controller.h"
 
 #include "base/json/json_writer.h"

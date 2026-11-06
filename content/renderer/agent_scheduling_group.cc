@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgentSchedulingGroup implementation
+// summary: Implements the renderer-side AgentSchedulingGroup that routes Mojo and legacy IPC messages and creates web views and frames within a scheduling group.
+// ---
+
 #include "content/renderer/agent_scheduling_group.h"
 
 #include <utility>

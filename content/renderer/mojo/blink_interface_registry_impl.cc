@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlinkInterfaceRegistryImpl implementation
+// summary: Implements the Blink interface registry by forwarding AddInterface and AddAssociatedInterface calls to the service manager and associated interface registries.
+// ---
+
 #include "content/renderer/mojo/blink_interface_registry_impl.h"
 
 #include <utility>

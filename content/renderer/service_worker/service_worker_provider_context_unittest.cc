@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker provider context unit tests
+// summary: Unit tests for ServiceWorkerProviderContext covering controller service worker setup, loader factory behavior, and worker client registry handling.
+// ---
+
 #include "content/renderer/service_worker/service_worker_provider_context.h"
 
 #include <memory>

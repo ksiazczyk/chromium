@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media permission dispatcher implementation
+// summary: Implements MediaPermissionDispatcher, which checks and requests media permissions such as protected media identifier through the PermissionService.
+// ---
+
 #include "content/renderer/media/media_permission_dispatcher.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client navigation throttler header
+// summary: Declares ClientNavigationThrottler, which dispatches navigations immediately or defers them while handles from DeferNavigations are alive.
+// ---
+
 #ifndef CONTENT_RENDERER_CLIENT_NAVIGATION_THROTTLER_H_
 #define CONTENT_RENDERER_CLIENT_NAVIGATION_THROTTLER_H_
 

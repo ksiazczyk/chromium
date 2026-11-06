@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DevTools media encoding service
+// summary: Tests recording start and stop, rejection of concurrent recording, and MP4 output via a dummy Mojo client.
+// ---
+
 #include "content/services/devtools_media_encoding_service/devtools_media_encoding_service_impl.h"
 
 #include <string_view>

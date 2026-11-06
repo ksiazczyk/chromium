@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderMediaEventHandler implementation
+// summary: Implements the BatchingMediaLog event handler that forwards queued media log records to the browser process via a Mojo remote.
+// ---
+
 #include "content/renderer/media/render_media_event_handler.h"
 #include "content/public/renderer/render_thread.h"
 

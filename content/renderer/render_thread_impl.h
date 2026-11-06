@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderThreadImpl class header
+// summary: Declares RenderThreadImpl, the renderer main thread class routing legacy IPC by routing ID and exposing Blink and Mojo interfaces.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDER_THREAD_IMPL_H_
 #define CONTENT_RENDERER_RENDER_THREAD_IMPL_H_
 

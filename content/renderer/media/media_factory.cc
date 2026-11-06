@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media factory implementation
+// summary: Implements MediaFactory, which assists RenderFrameImpl in creating WebMediaPlayers, renderer factories, encrypted media clients and related media components.
+// ---
+
 #include "content/renderer/media/media_factory.h"
 
 #include <memory>

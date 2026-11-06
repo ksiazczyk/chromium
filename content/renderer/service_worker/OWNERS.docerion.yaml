@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Service worker renderer directory owners
+summary: Defines code owners for the directory and routes type converter reviews to security owners.

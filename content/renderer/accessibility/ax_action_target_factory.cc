@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX action target factory implementation
+// summary: Creates an accessibility action target from a node ID or role, wrapping a Blink object or a plugin tree target, or a null target when none applies.
+// ---
+
 #include "content/renderer/accessibility/ax_action_target_factory.h"
 
 #include "content/public/renderer/plugin_ax_tree_action_target_adapter.h"

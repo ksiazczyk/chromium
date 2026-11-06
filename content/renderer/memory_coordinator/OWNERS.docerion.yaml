@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Renderer memory coordinator OWNERS
+summary: Points to the base memory coordinator OWNERS file so this directory reuses its list of code owners.

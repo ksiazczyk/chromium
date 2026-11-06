@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XR sandbox hook Linux unit tests
+// summary: Unit tests for ParseXrRuntimeManifest covering Monado and SteamVR manifests, SteamVR marker validation, and rejection of invalid or incomplete manifests.
+// ---
+
 #include "content/services/isolated_xr_device/xr_sandbox_hook_linux.h"
 
 #include <optional>

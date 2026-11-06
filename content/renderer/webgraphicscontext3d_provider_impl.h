@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphics context 3D provider class declaration
+// summary: Declares WebGraphicsContext3DProviderImpl, which adapts the viz ContextProviderCommandBuffer to Blink's graphics context provider interface.
+// ---
+
 #ifndef CONTENT_RENDERER_WEBGRAPHICSCONTEXT3D_PROVIDER_IMPL_H_
 #define CONTENT_RENDERER_WEBGRAPHICSCONTEXT3D_PROVIDER_IMPL_H_
 

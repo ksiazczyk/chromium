@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAnnotator interface for accessibility annotators
+// summary: Abstract interface that all accessibility annotators implement, covering annotation of tree updates, enabling and canceling annotations, and AX mode or action hooks.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_ANNOTATOR_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_ANNOTATIONS_AX_ANNOTATOR_H_
 

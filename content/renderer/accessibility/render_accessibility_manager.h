@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderAccessibilityManager class declaration
+// summary: Declares RenderAccessibilityManager, the RenderAccessibility Mojo receiver owned by RenderFrameImpl that owns RenderAccessibilityImpl while renderer accessibility is enabled.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_RENDER_ACCESSIBILITY_MANAGER_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_RENDER_ACCESSIBILITY_MANAGER_H_
 

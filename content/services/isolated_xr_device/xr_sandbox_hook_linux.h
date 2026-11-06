@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR Device Service Linux sandbox hook header
+// summary: Declares the OpenXR runtime manifest parser and the Linux pre-sandbox hook that maps the OpenXR loader and brokers runtime, Vulkan ICD and DRM access for the XR Device Service.
+// ---
+
 #ifndef CONTENT_SERVICES_ISOLATED_XR_DEVICE_XR_SANDBOX_HOOK_LINUX_H_
 #define CONTENT_SERVICES_ISOLATED_XR_DEVICE_XR_SANDBOX_HOOK_LINUX_H_
 

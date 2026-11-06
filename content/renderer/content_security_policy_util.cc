@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content security policy conversion utilities
+// summary: Converts content security policy structures between blink web types and network mojom types, including sources, source lists, and trusted types.
+// ---
+
 #include "content/renderer/content_security_policy_util.h"
 
 #include "base/containers/to_vector.h"

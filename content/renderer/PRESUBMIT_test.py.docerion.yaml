@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the renderer presubmit checks
+summary: Unit tests verifying that the presubmit check flags new uses of SingleThreadTaskRunner and SequencedTaskRunner GetCurrentDefault and GetCurrentBestEffort getters.

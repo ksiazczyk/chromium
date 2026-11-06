@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderThreadImpl implementation
+// summary: Implements the renderer main thread that hosts Blink views, managing Mojo IPC, scheduling, GPU channels and memory resources.
+// ---
+
 #include "content/renderer/render_thread_impl.h"
 
 #include <algorithm>

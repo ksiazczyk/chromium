@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaBridgeObject implementation
+// summary: Implements the gin-wrapped JavaScript proxy for a Java object, injecting named or anonymous wrappers and exposing Java methods through named property interception.
+// ---
+
 #include "content/renderer/java/gin_java_bridge_object.h"
 
 #include "base/functional/bind.h"

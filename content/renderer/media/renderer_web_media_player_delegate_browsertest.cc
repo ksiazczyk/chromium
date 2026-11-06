@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererWebMediaPlayerDelegate tests
+// summary: Tests for RendererWebMediaPlayerDelegate covering idle cleanup timer behavior, observer registration, and low-end device player suspension.
+// ---
+
 #include "content/renderer/media/renderer_web_media_player_delegate.h"
 
 #include <memory>

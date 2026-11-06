@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderProcess class declaration
+// summary: Declares the RenderProcess singleton interface representing the renderer end of the browser-renderer connection.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDER_PROCESS_H_
 #define CONTENT_RENDERER_RENDER_PROCESS_H_
 

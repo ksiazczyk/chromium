@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio file data decoder header
+// summary: Declares DecodeAudioFileData, which decodes encoded audio data into a populated WebAudioBus or returns null on failure.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_AUDIO_DECODER_H_
 #define CONTENT_RENDERER_MEDIA_AUDIO_DECODER_H_
 

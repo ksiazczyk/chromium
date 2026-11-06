@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batching media log implementation
+// summary: Implements BatchingMediaLog, queuing and throttling media log events before sending them over IPC while tracking the latest errors and buffering states.
+// ---
+
 #include "content/renderer/media/batching_media_log.h"
 
 #include <sstream>

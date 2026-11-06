@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the too many web media players intervention
+// summary: Browser test that caps web media players via a command-line switch and verifies that creating one more WebMediaPlayer is blocked with a console message.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/path_service.h"

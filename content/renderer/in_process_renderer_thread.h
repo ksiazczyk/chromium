@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process renderer thread declaration
+// summary: Declares the base::Thread subclass that runs the renderer in single-process mode and is not used in multi-process mode.
+// ---
+
 #ifndef CONTENT_RENDERER_IN_PROCESS_RENDERER_THREAD_H_
 #define CONTENT_RENDERER_IN_PROCESS_RENDERER_THREAD_H_
 

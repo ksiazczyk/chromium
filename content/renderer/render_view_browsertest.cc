@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderView browser tests
+// summary: Extensive browser tests covering RenderView behavior such as navigation, input events, bindings, zoom and accessibility.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

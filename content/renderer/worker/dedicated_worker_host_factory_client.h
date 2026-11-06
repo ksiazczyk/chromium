@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker host factory client header
+// summary: Declares DedicatedWorkerHostFactoryClient, which intermediates between blink WebDedicatedWorker and the browser's DedicatedWorkerHostFactory on the creating thread.
+// ---
+
 #ifndef CONTENT_RENDERER_WORKER_DEDICATED_WORKER_HOST_FACTORY_CLIENT_H_
 #define CONTENT_RENDERER_WORKER_DEDICATED_WORKER_HOST_FACTORY_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for GPU video renderer media
+summary: Defines code ownership for the directory by inheriting the owners listed in media/gpu/OWNERS.

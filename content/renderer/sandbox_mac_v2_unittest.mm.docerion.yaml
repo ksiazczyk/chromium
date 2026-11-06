@@ -1,0 +1,4 @@
+# Docerion header of sandbox_mac_v2_unittest.mm.
+type: test
+title: macOS V2 sandbox unit tests
+summary: Tests that the macOS V2 renderer sandbox compiles, initializes, and correctly enforces resource access restrictions.

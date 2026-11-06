@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererWebMediaPlayerDelegate header
+// summary: Declares RendererWebMediaPlayerDelegate, the standard WebMediaPlayerDelegate that communicates player state to the MediaPlayerDelegateHost.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_RENDERER_WEB_MEDIA_PLAYER_DELEGATE_H_
 #define CONTENT_RENDERER_MEDIA_RENDERER_WEB_MEDIA_PLAYER_DELEGATE_H_
 

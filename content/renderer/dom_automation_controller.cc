@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM automation controller implementation
+// summary: Implements the window.domAutomationController JavaScript object that sends values from the renderer to the browser.
+// ---
+
 #include "content/renderer/dom_automation_controller.h"
 
 #include "base/json/json_string_value_serializer.h"

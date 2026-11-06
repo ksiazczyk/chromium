@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX main node annotator browser tests
+// summary: Browser tests for the main node annotator that use a mock Screen2x main content extractor service to verify main node annotation behavior in the renderer accessibility pipeline.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_main_node_annotator.h"
 
 #include "base/test/scoped_feature_list.h"

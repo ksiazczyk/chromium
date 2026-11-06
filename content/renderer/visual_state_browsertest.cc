@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual state browser test
+// summary: Browser test verifying that visual state callbacks are delivered without deadlock even when no pending updates or commits exist.
+// ---
+
 #include "base/command_line.h"
 #include "base/containers/flat_map.h"
 #include "base/functional/bind.h"

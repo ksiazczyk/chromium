@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinJavaFunctionInvocationHelper class declaration
+// summary: Declares the helper that invokes a named Java bridge method from JavaScript with argument conversion and error handling.
+// ---
+
 #ifndef CONTENT_RENDERER_JAVA_GIN_JAVA_FUNCTION_INVOCATION_HELPER_H_
 #define CONTENT_RENDERER_JAVA_GIN_JAVA_FUNCTION_INVOCATION_HELPER_H_
 

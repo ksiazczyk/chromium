@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameImpl class declaration
+// summary: Declares the RenderFrameImpl class, the content-level implementation of a frame in the renderer process.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDER_FRAME_IMPL_H_
 #define CONTENT_RENDERER_RENDER_FRAME_IMPL_H_
 

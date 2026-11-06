@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local resource URL loader factory unit tests
+// summary: Tests in-process serving of bundled WebUI resources and the fallback to an out-of-process factory using a mock ResourceBundle and a fake URLLoaderFactory.
+// ---
+
 #include "content/renderer/local_resource_url_loader_factory.h"
 
 #include <cstdint>

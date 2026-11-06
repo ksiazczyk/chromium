@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for the devtools media encoding service
+summary: Delegates directory ownership to the Blink inspector OWNERS file.

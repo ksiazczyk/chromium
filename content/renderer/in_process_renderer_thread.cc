@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process renderer thread implementation
+// summary: Implements the renderer thread used in single-process mode, initializing Blink scheduling and the render process on that thread.
+// ---
+
 #include "content/renderer/in_process_renderer_thread.h"
 
 #include "base/message_loop/message_pump.h"

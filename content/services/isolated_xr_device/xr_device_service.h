@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the XrDeviceService Mojo service class
+// summary: Declares the XrDeviceService class implementing the XRDeviceService Mojo interface with runtime provider and test hook binding.
+// ---
+
 #ifndef CONTENT_SERVICES_ISOLATED_XR_DEVICE_XR_DEVICE_SERVICE_H_
 #define CONTENT_SERVICES_ISOLATED_XR_DEVICE_XR_DEVICE_SERVICE_H_
 

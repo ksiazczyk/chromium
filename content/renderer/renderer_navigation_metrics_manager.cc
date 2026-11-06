@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer navigation metrics manager implementation
+// summary: Records renderer-side navigation metrics and trace events, tracking process readiness for commit IPCs and managing per-navigation timelines with lazy cleanup.
+// ---
+
 #include "content/renderer/renderer_navigation_metrics_manager.h"
 
 #include "base/check.h"

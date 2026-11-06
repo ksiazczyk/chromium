@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame owner properties converter
+// summary: Mojo TypeConverter implementations between blink::mojom::FrameOwnerProperties and blink::WebFrameOwnerProperties.
+// ---
+
 #include "content/renderer/frame_owner_properties_converter.h"
 
 namespace mojo {

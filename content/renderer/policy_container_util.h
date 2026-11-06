@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy container util header
+// summary: Declares conversion functions between content PolicyContainer mojom types and blink WebPolicyContainer classes.
+// ---
+
 #ifndef CONTENT_RENDERER_POLICY_CONTAINER_UTIL_H_
 #define CONTENT_RENDERER_POLICY_CONTAINER_UTIL_H_
 

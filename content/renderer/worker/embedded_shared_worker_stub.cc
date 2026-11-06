@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded shared worker stub implementation
+// summary: Implements the renderer-side stub that receives IPC from the browser process and drives the blink WebSharedWorker for embedded shared workers.
+// ---
+
 #include "content/renderer/worker/embedded_shared_worker_stub.h"
 
 #include <stdint.h>

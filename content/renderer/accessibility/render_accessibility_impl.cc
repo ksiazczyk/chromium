@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render accessibility implementation
+// summary: Implements renderer-side accessibility support, enabling Blink accessibility, serializing tree updates to the browser and handling accessibility actions and metrics.
+// ---
+
 #include "content/renderer/accessibility/render_accessibility_impl.h"
 
 #include <stddef.h>

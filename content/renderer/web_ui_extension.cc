@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI extension renderer bindings
+// summary: Implements the chrome.send, chrome.getVariableValue and related WebUI JavaScript bindings installed in renderer frames when WebUI bindings are enabled.
+// ---
+
 #include "content/renderer/web_ui_extension.h"
 
 #include <memory>

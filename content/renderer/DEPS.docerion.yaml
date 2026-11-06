@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for content/renderer
+summary: DEPS include rules that whitelist the components and directories renderer code may depend on, with special exceptions for browser tests and unit tests.

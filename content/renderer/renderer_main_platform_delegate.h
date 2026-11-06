@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer main platform delegate declaration
+// summary: Declares the platform delegate interface for renderer startup, with methods for platform initialization and enabling the sandbox before the renderer runs.
+// ---
+
 #ifndef CONTENT_RENDERER_RENDERER_MAIN_PLATFORM_DELEGATE_H_
 #define CONTENT_RENDERER_RENDERER_MAIN_PLATFORM_DELEGATE_H_
 

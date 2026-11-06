@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI histograms extension declaration
+// summary: Declares InstallWebUIHistogramsExtension, which adds UMA histogram recording functions to the chrome.histograms object for WebUI.
+// ---
+
 #ifndef CONTENT_RENDERER_WEB_UI_HISTOGRAMS_EXTENSION_H_
 #define CONTENT_RENDERER_WEB_UI_HISTOGRAMS_EXTENSION_H_
 

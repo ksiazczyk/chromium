@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the DevTools media encoding service
+summary: Defines the source_set targets, dependencies and test target for the DevTools media encoding service.

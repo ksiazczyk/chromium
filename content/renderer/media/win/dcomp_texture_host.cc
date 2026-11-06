@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP texture host implementation
+// summary: Implements DCOMPTextureHost, binding mojo channels to the GPU process DCOMP texture and forwarding mailbox and output rect updates to its listener.
+// ---
+
 #include "content/renderer/media/win/dcomp_texture_host.h"
 
 #include "base/task/bind_post_task.h"

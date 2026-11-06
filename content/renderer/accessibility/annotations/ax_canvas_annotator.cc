@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXCanvasAnnotator implementation
+// summary: Implements OCR-based canvas annotations by connecting to the Screen AI service, tracking per-canvas annotation state and pruning stale entries to limit memory use.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_canvas_annotator.h"
 
 #include <algorithm>

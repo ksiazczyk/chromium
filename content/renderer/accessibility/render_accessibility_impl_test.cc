@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderAccessibilityImpl test fixture implementation
+// summary: Implements the RenderAccessibilityImplTest fixture and a Mojo interceptor that records accessibility tree updates and location changes sent to the browser during tests.
+// ---
+
 #include "content/renderer/accessibility/render_accessibility_impl_test.h"
 
 #include "content/renderer/accessibility/render_accessibility_impl.h"

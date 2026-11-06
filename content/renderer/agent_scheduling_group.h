@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgentSchedulingGroup class declaration
+// summary: Declares the renderer-side AgentSchedulingGroup, Blink's unit of scheduling and performance isolation providing ordering guarantees between Mojo and IPC messages.
+// ---
+
 #ifndef CONTENT_RENDERER_AGENT_SCHEDULING_GROUP_H_
 #define CONTENT_RENDERER_AGENT_SCHEDULING_GROUP_H_
 

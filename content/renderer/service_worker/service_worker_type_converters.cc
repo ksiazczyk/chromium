@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker Mojo type converters
+// summary: Converts Mojo service worker object and registration info structs into their Blink Web API equivalents for use in the renderer.
+// ---
+
 #include "content/renderer/service_worker/service_worker_type_converters.h"
 
 #include <utility>

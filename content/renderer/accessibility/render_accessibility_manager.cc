@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderAccessibilityManager implementation
+// summary: Implements the RenderAccessibility Mojo interface for a render frame, managing the RenderAccessibilityImpl lifetime and forwarding accessibility actions, hit tests, and events.
+// ---
+
 #include "content/renderer/accessibility/render_accessibility_manager.h"
 
 #include <utility>

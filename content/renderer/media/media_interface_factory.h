@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media interface factory header
+// summary: Declares MediaInterfaceFactory, a thread-safe media::mojom::InterfaceFactory implementation that handles Mojo disconnection errors automatically.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_MEDIA_INTERFACE_FACTORY_H_
 #define CONTENT_RENDERER_MEDIA_MEDIA_INTERFACE_FACTORY_H_
 

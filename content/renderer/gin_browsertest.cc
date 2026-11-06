@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gin garbage collection browser test
+// summary: Browser test verifying that garbage collection does not crash when a gin-wrapped object is alive in the renderer.
+// ---
+
 #include "base/command_line.h"
 #include "base/memory/raw_ptr.h"
 #include "content/public/test/render_view_test.h"

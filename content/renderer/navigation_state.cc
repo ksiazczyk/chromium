@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation state implementation
+// summary: Implements NavigationState factories and commit callbacks for cross-document, browser-driven same-document, and synchronous navigation commits.
+// ---
+
 #include "content/renderer/navigation_state.h"
 
 #include <memory>

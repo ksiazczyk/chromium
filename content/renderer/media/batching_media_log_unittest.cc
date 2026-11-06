@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BatchingMediaLog
+// summary: Unit tests verifying that BatchingMediaLog throttles IPC sends, limits queued events and preserves error information.
+// ---
+
 #include "content/renderer/media/batching_media_log.h"
 
 #include "base/memory/raw_ptr.h"

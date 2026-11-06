@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia benchmarking extension declaration
+// summary: Declares the gin-wrappable SkiaBenchmarking class installed into web frames for picture debugging.
+// ---
+
 #ifndef CONTENT_RENDERER_SKIA_BENCHMARKING_EXTENSION_H_
 #define CONTENT_RENDERER_SKIA_BENCHMARKING_EXTENSION_H_
 

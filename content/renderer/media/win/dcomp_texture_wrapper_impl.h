@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP texture wrapper header
+// summary: Declares DCOMPTextureWrapperImpl, the concrete media::DCOMPTextureWrapper that creates SharedImage mailboxes and video frames from GPU process DCOMP surfaces.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_WIN_DCOMP_TEXTURE_WRAPPER_IMPL_H_
 #define CONTENT_RENDERER_MEDIA_WIN_DCOMP_TEXTURE_WRAPPER_IMPL_H_
 

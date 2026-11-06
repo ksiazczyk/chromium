@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content/renderer/media
+summary: Lists code owners for the directory, including media, WebRTC and per-file WebAudio owners.

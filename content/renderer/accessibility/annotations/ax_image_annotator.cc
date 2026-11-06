@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXImageAnnotator implementation
+// summary: Implements automatic image label annotations, sending image data to the image annotation service and mapping icon types to localized description messages.
+// ---
+
 #include "content/renderer/accessibility/annotations/ax_image_annotator.h"
 
 #include <string>

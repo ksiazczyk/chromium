@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Resource broker GN build targets
+summary: Defines GN source sets for the resource broker service and its unit tests, with dependencies on the resource broker Mojom bindings, Mojo C++ bindings, and base.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker thread registry header
+// summary: Declares the WorkerThreadRegistry singleton that maps worker thread IDs to task runners and silently discards tasks for already-terminated workers.
+// ---
+
 #ifndef CONTENT_RENDERER_WORKER_WORKER_THREAD_REGISTRY_H_
 #define CONTENT_RENDERER_WORKER_WORKER_THREAD_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux pre-sandbox hook for the XR device service
+// summary: Loads the OpenXR runtime manifest and Vulkan libraries and builds syscall broker file permissions before the Linux sandbox seals.
+// ---
+
 #include "content/services/isolated_xr_device/xr_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

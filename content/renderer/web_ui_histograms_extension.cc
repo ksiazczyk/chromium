@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI histograms extension implementation
+// summary: Installs chrome.histograms functions such as recordUserAction and recordBoolean that record UMA metrics from WebUI pages.
+// ---
+
 #include "content/renderer/web_ui_histograms_extension.h"
 
 #include <limits.h>

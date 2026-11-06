@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation client class declaration
+// summary: Declares NavigationClient, the Mojo receiver that commits navigations and tracks whether a navigation was initiated in the same frame.
+// ---
+
 #ifndef CONTENT_RENDERER_NAVIGATION_CLIENT_H_
 #define CONTENT_RENDERER_NAVIGATION_CLIENT_H_
 

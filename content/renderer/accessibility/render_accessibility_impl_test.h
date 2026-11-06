@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderAccessibilityImpl test fixture declaration
+// summary: Declares the RenderAccessibilityImplTest fixture with helpers to load HTML, refresh the accessibility tree, inspect sent updates, and trigger pending accessibility events.
+// ---
+
 #ifndef CONTENT_RENDERER_ACCESSIBILITY_RENDER_ACCESSIBILITY_IMPL_TEST_H_
 #define CONTENT_RENDERER_ACCESSIBILITY_RENDER_ACCESSIBILITY_IMPL_TEST_H_
 

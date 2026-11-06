@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderMediaClient header
+// summary: Declares RenderMediaClient, the media::MediaClient implementation that makes content embedder customizations visible to the lower media layer.
+// ---
+
 #ifndef CONTENT_RENDERER_MEDIA_RENDER_MEDIA_CLIENT_H_
 #define CONTENT_RENDERER_MEDIA_RENDER_MEDIA_CLIENT_H_
 

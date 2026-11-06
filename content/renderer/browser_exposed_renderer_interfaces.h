@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-exposed renderer interfaces header
+// summary: Declares ExposeRendererInterfacesToBrowser, which populates a binder map with process-wide renderer interfaces the browser can acquire.
+// ---
+
 #ifndef CONTENT_RENDERER_BROWSER_EXPOSED_RENDERER_INTERFACES_H_
 #define CONTENT_RENDERER_BROWSER_EXPOSED_RENDERER_INTERFACES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 value converter implementation
+// summary: Implements conversion between V8 JavaScript values and Chromium base::Value, covering objects, arrays, buffers, dates and recursion depth limits.
+// ---
+
 #include "content/renderer/v8_value_converter_impl.h"
 
 #include <stddef.h>

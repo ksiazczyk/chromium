@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingRendererClientFactory implementation
+// summary: Implements the factory that creates FlingingRendererClient instances via a MojoRendererFactory when media flinging is active, wiring up the client extension pipe and play state callback.
+// ---
+
 #include "content/renderer/media/android/flinging_renderer_client_factory.h"
 
 #include <memory>
