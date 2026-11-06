@@ -1,0 +1,4 @@
+# Docerion header of device_posture_test.html.
+type: test
+title: Device posture event test page
+summary: Test page that records device posture change events for testing the Device Posture API.

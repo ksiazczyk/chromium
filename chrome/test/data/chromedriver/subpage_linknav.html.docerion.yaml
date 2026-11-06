@@ -1,0 +1,4 @@
+# Docerion header of subpage_linknav.html.
+type: test
+title: Sub page of link navigation
+summary: Sub page for link navigation tests that embeds frame_test.html in an iframe and has a button triggering an alert.

@@ -1,0 +1,4 @@
+# Docerion header of two_inputs.html.
+type: test
+title: Two Inputs Test Page
+summary: Minimal page with two text input fields used as a fixture for chromedriver input tests.

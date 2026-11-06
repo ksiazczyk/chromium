@@ -1,0 +1,4 @@
+# Docerion header of log_long_unicode_string.html.
+type: test
+title: Console log of long Unicode string
+summary: Test page that logs a long Chinese Unicode string to the console for console log handling tests.

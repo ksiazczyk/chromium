@@ -1,0 +1,4 @@
+# Docerion header of display_features_test.html.
+type: test
+title: Display features test page
+summary: Test page that listens for horizontal viewport segment changes and records whether the change event was received.

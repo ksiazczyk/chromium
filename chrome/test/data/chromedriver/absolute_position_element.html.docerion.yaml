@@ -1,0 +1,4 @@
+# Docerion header of absolute_position_element.html.
+type: test
+title: Absolutely positioned element test page
+summary: Test page with an absolutely positioned div used to verify element position handling in chromedriver.

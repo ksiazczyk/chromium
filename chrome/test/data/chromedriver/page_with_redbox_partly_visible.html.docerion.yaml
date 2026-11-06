@@ -1,0 +1,4 @@
+# Docerion header of page_with_redbox_partly_visible.html.
+type: test
+title: Red box partly visible test page
+summary: HTML page with a partly visible red box used as a fixture for chromedriver element visibility tests.

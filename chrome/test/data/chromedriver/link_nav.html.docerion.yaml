@@ -1,0 +1,4 @@
+# Docerion header of link_nav.html.
+type: test
+title: Link navigation test page
+summary: Test page containing a link to subpage_linknav.html for link navigation tests.

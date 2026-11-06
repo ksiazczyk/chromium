@@ -1,0 +1,4 @@
+# Docerion header of shared_worker.html.
+type: test
+title: Shared worker test page
+summary: Page served from the test web server that creates a shared worker, since the constructor requires a same-origin page.

@@ -1,0 +1,4 @@
+# Docerion header of web_worker.html.
+type: test
+title: Web Worker Test Page
+summary: Page that spawns a web worker from empty.js, serving as a fixture for chromedriver web worker tests.

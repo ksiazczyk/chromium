@@ -1,0 +1,4 @@
+# Docerion header of sensors_test.html.
+type: test
+title: Accelerometer sensor test page
+summary: Page that starts an Accelerometer sensor and counts reading events and errors for sensor-related chromedriver tests.

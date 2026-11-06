@@ -1,0 +1,4 @@
+# Docerion header of iframe_extension.html.
+type: test
+title: Page embedding a chrome-extension iframe
+summary: Test page that embeds a chrome-extension page in an iframe for extension iframe tests.

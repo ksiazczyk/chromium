@@ -1,0 +1,4 @@
+# Docerion header of signin.html.
+type: test
+title: FedCM sign-in test page
+summary: HTML page that marks the user as logged in and closes the identity provider window on load for FedCM testing.

@@ -1,0 +1,4 @@
+# Docerion header of drag.html.
+type: test
+title: Drag test page
+summary: Test page with an absolutely positioned blue square that follows the mouse while the left button is held down.

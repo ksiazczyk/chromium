@@ -1,0 +1,4 @@
+# Docerion header of xmlrequest_test.html.
+type: test
+title: XMLHttpRequest Test Page
+summary: Page that repeatedly sends XMLHttpRequests to /helloworld and counts successes and failures for chromedriver tests.

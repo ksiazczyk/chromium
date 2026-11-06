@@ -1,0 +1,4 @@
+# Docerion header of page_with_redbox.html.
+type: test
+title: Offscreen red box page
+summary: Test page with a red box positioned far offscreen for scroll-into-view tests.

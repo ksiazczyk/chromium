@@ -1,0 +1,4 @@
+# Docerion header of get_element_shadow_root.html.
+type: test
+title: Custom element with shadow root
+summary: Test page defining a custom checkbox element with an open shadow root containing inputs, for shadow root retrieval tests.

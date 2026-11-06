@@ -1,0 +1,4 @@
+# Docerion header of pending_console_log.html.
+type: test
+title: Pending console log test page
+summary: Page that logs console errors on load and again after five seconds to test pending console message handling.

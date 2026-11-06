@@ -1,0 +1,4 @@
+# Docerion header of prerender.html.
+type: test
+title: Prerender test page
+summary: Page using speculation rules to prerender inner.html and offering a link to trigger the prerendered navigation.

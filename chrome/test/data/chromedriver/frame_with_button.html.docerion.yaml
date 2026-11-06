@@ -1,0 +1,4 @@
+# Docerion header of frame_with_button.html.
+type: test
+title: Frame with alert button
+summary: Test page with a button that raises a JavaScript alert, used by chromedriver tests for alert handling in frames.

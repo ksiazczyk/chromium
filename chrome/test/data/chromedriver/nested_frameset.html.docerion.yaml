@@ -1,0 +1,4 @@
+# Docerion header of nested_frameset.html.
+type: test
+title: Nested frameset test page
+summary: Test page with nested framesets loading several frame pages for frame handling and navigation tests.

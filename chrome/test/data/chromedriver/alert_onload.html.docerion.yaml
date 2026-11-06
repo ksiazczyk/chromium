@@ -1,0 +1,4 @@
+# Docerion header of alert_onload.html.
+type: test
+title: JavaScript alert on load test page
+summary: Test page that opens a JavaScript alert when loaded, for testing alert handling.

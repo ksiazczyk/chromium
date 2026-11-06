@@ -1,0 +1,4 @@
+# Docerion header of more_details.html.
+type: test
+title: More details placeholder page
+summary: Minimal HTML page serving as a placeholder in the FedCM test data.

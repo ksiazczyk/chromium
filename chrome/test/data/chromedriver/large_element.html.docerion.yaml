@@ -1,0 +1,4 @@
+# Docerion header of large_element.html.
+type: test
+title: Page with oversized nested elements
+summary: Test page with very large nested divs used to exercise scrolling and element interaction on oversized elements.
