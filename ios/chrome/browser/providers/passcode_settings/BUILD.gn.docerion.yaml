@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the passcode settings provider
+summary: GN build file defining the chromium_passcode_settings source set with its dependency on the passcode settings provider API and the UIKit framework.

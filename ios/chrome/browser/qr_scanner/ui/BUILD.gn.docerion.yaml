@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: QR scanner UI BUILD.gn build definition
+summary: Defines the ui source_set listing the QR scanner sources, their dependencies, and the AVFoundation and UIKit frameworks for the iOS Chrome build.

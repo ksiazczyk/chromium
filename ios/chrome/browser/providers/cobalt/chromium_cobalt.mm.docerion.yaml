@@ -1,0 +1,4 @@
+# Docerion header of chromium_cobalt.mm.
+type: source
+title: Chromium cobalt provider stub implementations
+summary: Implements the cobalt provider API functions as no-op stubs that return nil, nullptr, or empty values for Chromium's iOS build.

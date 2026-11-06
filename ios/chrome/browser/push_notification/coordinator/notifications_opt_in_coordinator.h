@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications opt-in coordinator interface
+// summary: Declares the coordinator that manages presentation of the notifications opt-in view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_OPT_IN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_OPT_IN_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for QR scanner tests
+summary: Allows includes from ios/chrome/browser for the QR scanner test directory.

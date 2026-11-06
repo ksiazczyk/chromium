@@ -1,0 +1,4 @@
+# Docerion header of chromium_context_menu.mm.
+type: source
+title: Chromium context menu provider implementation
+summary: Implements the iOS provider context menu API with default no-op behavior, returning nil or empty results for context menu elements, configurations, and text intent handling.

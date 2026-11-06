@@ -1,0 +1,4 @@
+# Docerion header of chromium_device_identifier.mm.
+type: source
+title: Chromium device identifier provider
+summary: Returns the device vendor identifier for the signin device identifier API.

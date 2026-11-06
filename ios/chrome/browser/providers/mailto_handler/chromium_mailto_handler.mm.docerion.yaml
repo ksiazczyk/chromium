@@ -1,0 +1,4 @@
+# Docerion header of chromium_mailto_handler.mm.
+type: source
+title: Chromium mailto handler service implementation
+summary: Implements a dummy MailtoHandlerService for Chromium builds that opens mailto URLs via UIApplication.

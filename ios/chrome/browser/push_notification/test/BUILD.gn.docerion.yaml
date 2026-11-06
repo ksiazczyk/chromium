@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Push notification tests build file
+summary: Defines the test_support and eg2_tests source sets with sources and dependencies for the iOS push notification Earl Grey tests.

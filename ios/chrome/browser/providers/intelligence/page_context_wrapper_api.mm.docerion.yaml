@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_api.mm.
+type: source
+title: Page context wrapper API implementation
+summary: Public-build implementation reporting no protected URLs and returning a script that never detaches page context.

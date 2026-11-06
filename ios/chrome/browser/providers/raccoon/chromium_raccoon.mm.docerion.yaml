@@ -1,0 +1,4 @@
+# Docerion header of chromium_raccoon.mm.
+type: source
+title: Chromium raccoon provider implementation
+summary: Objective-C++ implementation of the Chromium-side raccoon provider whose IsRaccoonEnabled function reports the feature as disabled.

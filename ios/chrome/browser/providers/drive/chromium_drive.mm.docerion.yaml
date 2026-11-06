@@ -1,0 +1,4 @@
+# Docerion header of chromium_drive.mm.
+type: source
+title: Stub Chromium Drive service implementation
+summary: Implements ChromiumDriveService as an unsupported stub returning null uploaders, downloaders, and lists, and provides the CreateDriveService factory function.

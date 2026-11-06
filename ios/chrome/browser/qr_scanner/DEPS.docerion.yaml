@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: QR scanner dependency rules
+summary: Defines the include rules that specify which Chrome iOS directories the qr_scanner folder may depend on.

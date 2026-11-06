@@ -1,0 +1,4 @@
+# Docerion header of notification_metrics_recorder.mm.
+type: source
+title: Notification metrics recorder implementation
+summary: Tracks delivered notifications in local state prefs and records histograms for received, dismissed, and interacted notifications.

@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_legacy_coordinator.mm.
+type: source
+title: QR scanner legacy coordinator implementation
+summary: Implements the legacy QR scanner coordinator, presenting and dismissing the scanner view controller and handling QR scanner commands.

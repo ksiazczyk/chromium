@@ -1,0 +1,4 @@
+# Docerion header of notifications_opt_in_mediator.mm.
+type: source
+title: Notifications opt-in mediator implementation
+summary: Implements opt-in item selection tracking and applies notification permission changes for the selected clients.

@@ -1,0 +1,4 @@
+# Docerion header of scoped_notification_auth_swizzler.mm.
+type: test
+title: Scoped notification auth swizzler implementation
+summary: Implements swizzling of notification authorization status, lockscreen and alert settings, and authorization requests for Earl Grey tests.

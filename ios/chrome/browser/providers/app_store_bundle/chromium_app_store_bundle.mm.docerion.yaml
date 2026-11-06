@@ -1,0 +1,4 @@
+# Docerion header of chromium_app_store_bundle.mm.
+type: source
+title: Chromium app store bundle provider factory
+summary: Factory function that creates and returns a ChromiumAppStoreBundleService instance for the iOS provider layer.

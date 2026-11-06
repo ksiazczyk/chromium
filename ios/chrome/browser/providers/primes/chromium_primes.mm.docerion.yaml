@@ -1,0 +1,4 @@
+# Docerion header of chromium_primes.mm.
+type: source
+title: Chromium primes provider stub implementation
+summary: Objective-C++ implementation of the ios provider primes functions that reports Primes as unsupported and hits NOTREACHED for the other calls, since Primes is not used by Chromium.

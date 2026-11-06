@@ -1,0 +1,4 @@
+# Docerion header of chromium_passcode_settings.mm.
+type: source
+title: Chromium passcode settings provider implementation
+summary: Objective-C++ stub that reports no passcode settings support and opens the iOS system settings app when asked to open passcode settings.

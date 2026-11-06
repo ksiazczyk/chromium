@@ -1,0 +1,4 @@
+# Docerion header of chromium_multiwindow.mm.
+type: source
+title: Chromium multiwindow provider implementation
+summary: Implements the iOS provider multiwindow API, always allowing activation of a given window scene.

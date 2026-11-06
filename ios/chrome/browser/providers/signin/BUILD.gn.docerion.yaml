@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin providers BUILD.gn build targets
+summary: Defines source_set build targets for the Chromium signin provider implementations with their sources, dependencies and frameworks.

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_util.mm.
+type: source
+title: Push notification utility implementation
+summary: Implements APNS registration, permission and provisional notification requests, and UMA histogram logging of authorization status changes.

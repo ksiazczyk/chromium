@@ -1,0 +1,4 @@
+# Docerion header of push_notification_client_unittest.mm.
+type: test
+title: Push notification client unit tests
+summary: Unit tests for PushNotificationClient behavior, including delaying scheduled tips notifications when they collide with other scheduled notifications.

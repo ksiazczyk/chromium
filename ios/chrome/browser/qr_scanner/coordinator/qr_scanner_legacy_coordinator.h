@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR scanner legacy coordinator interface
+// summary: Declares QRScannerLegacyCoordinator, a ChromeCoordinator subclass presenting the public interface for the QR scanner feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_QR_SCANNER_COORDINATOR_QR_SCANNER_LEGACY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_QR_SCANNER_COORDINATOR_QR_SCANNER_LEGACY_COORDINATOR_H_
 

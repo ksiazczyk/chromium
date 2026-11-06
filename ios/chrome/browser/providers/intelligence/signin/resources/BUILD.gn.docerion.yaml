@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for intelligence sign-in resources
+summary: GN build file that bundles the Assets.xcassets catalog, including the premium disc image set, for the iOS intelligence sign-in provider.

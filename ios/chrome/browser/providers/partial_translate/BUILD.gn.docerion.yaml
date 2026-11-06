@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for chromium_partial_translate
+summary: Defines the chromium_partial_translate source set with its source file and dependencies on base and the partial translate provider API.

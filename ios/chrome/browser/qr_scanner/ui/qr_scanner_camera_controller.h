@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QRScannerCameraController interface
+// summary: Declares the QR scanner camera controller that manages the AVCaptureSession and its inputs, outputs, and notifications for the scanner view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_QR_SCANNER_UI_QR_SCANNER_CAMERA_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_QR_SCANNER_UI_QR_SCANNER_CAMERA_CONTROLLER_H_
 

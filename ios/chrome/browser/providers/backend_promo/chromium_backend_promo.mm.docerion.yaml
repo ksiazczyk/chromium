@@ -1,0 +1,4 @@
+# Docerion header of chromium_backend_promo.mm.
+type: source
+title: Chromium backend promo service stub
+summary: Implements the Chromium build's BackendPromoService factory with an empty service class and no-op debug tools.

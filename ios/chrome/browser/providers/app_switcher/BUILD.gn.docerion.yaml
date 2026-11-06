@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_app_switcher source set
+summary: GN build definition for the chromium_app_switcher source set, listing its source file and dependencies on base, the app switcher API, and url.

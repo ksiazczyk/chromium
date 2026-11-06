@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_context_menu source set
+summary: Defines the chromium_context_menu source set, listing chromium_context_menu.mm as its source and depending on the iOS context menu provider API target.

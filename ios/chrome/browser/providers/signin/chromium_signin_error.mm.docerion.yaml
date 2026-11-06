@@ -1,0 +1,4 @@
+# Docerion header of chromium_signin_error.mm.
+type: source
+title: Chromium signin error provider
+summary: Creates and categorizes Chromium signin NSError values such as user cancellation and missing identity.

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_profile_service.mm.
+type: source
+title: PushNotificationProfileService implementation
+summary: Implements the profile service, registering and unregistering signed-in accounts with the push notification server when the primary account changes.

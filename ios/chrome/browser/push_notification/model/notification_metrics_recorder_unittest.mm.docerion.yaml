@@ -1,0 +1,4 @@
+# Docerion header of notification_metrics_recorder_unittest.mm.
+type: test
+title: Notification metrics recorder unit tests
+summary: Tests delivered notification handling and metric recording using a mocked notification center and a fake classifier.

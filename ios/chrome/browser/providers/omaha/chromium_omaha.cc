@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium Omaha provider stubs
+// summary: Implements empty Omaha provider functions returning an empty URL and application ID because Chromium does not use Omaha.
+// ---
+
 #include <string_view>
 
 #include "ios/public/provider/chrome/browser/omaha/omaha_api.h"

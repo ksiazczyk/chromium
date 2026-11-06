@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications opt-in mediator interface
+// summary: Declares the mediator that handles model interactions and notification permission state for the opt-in screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_OPT_IN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_COORDINATOR_NOTIFICATIONS_OPT_IN_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_client_manager_unittest.mm.
+type: test
+title: Push notification client manager unit tests
+summary: Unit tests verifying adding and removing clients, notification handling with invalid data, interaction routing, and browser-ready callbacks in PushNotificationClientManager.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_trusted_vault.mm.
+type: source
+title: Chromium trusted vault client stub for public builds
+summary: Null implementation of the TrustedVaultClientBackend provider used in public builds, where trusted vault calls fail or do nothing because sign-in is unsupported.

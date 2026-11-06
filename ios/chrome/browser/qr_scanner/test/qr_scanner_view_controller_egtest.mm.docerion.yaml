@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_view_controller_egtest.mm.
+type: test
+title: QR scanner view controller Earl Grey tests
+summary: Earl Grey tests covering the QR scanner UI, torch controls, camera state dialogs, and scanned URL handling.

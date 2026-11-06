@@ -1,0 +1,4 @@
+# Docerion header of chromium_push_notification.mm.
+type: source
+title: Chromium push notification service stub
+summary: Implements ChromiumPushNotificationService, whose register, unregister, account and preference operations all fail with NSFeatureUnsupportedError because Chromium does not connect to the push notification server.

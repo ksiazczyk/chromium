@@ -1,0 +1,4 @@
+# Docerion header of chromium_voice_search.mm.
+type: source
+title: Chromium voice search provider implementation
+summary: Implements the Chromium voice search provider, disabling voice search and returning stub available languages.

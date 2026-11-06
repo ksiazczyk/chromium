@@ -1,0 +1,4 @@
+# Docerion header of chromium_signin_ai.mm.
+type: source
+title: Chromium sign-in AI provider implementation
+summary: Implements iOS provider functions returning non-branded, test-only AI tier names and a premium disc image for the sign-in AI feature.

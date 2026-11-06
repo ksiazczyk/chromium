@@ -1,0 +1,4 @@
+# Docerion header of chromium_choice.mm.
+type: source
+title: Chromium search engine choice provider
+summary: Chromium implementation of the choice API that disables automatically showing the default search engine choice.

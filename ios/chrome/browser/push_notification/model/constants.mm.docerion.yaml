@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Push notification constants implementation
+summary: Defines notification key strings, category identifiers, and a helper mapping client IDs to their string keys.

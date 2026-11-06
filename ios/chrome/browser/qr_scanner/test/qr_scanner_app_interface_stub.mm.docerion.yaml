@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_app_interface_stub.mm.
+type: test
+title: QR scanner app interface stub
+summary: Registers QRScannerAppInterface as an Earl Grey stub class in the app main queue.

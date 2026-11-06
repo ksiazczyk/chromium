@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_drive provider
+summary: Defines the chromium_drive source set, listing chromium_drive.mm and its dependencies on base, the drive model service, and the drive provider API.

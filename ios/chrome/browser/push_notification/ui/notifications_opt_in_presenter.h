@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications opt-in presenter protocol
+// summary: Declares the presenter protocol for showing the sign-in view, presenting the notifications opt-in alert, and dismissing the opt-in view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_UI_NOTIFICATIONS_OPT_IN_PRESENTER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_UI_NOTIFICATIONS_OPT_IN_PRESENTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped notification auth swizzler header
+// summary: Declares a test helper class that swizzles UNNotificationCenter authorization status, settings, and request responses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_TEST_SCOPED_NOTIFICATION_AUTH_SWIZZLER_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_TEST_SCOPED_NOTIFICATION_AUTH_SWIZZLER_H_
 

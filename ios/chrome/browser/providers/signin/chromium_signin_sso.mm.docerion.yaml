@@ -1,0 +1,4 @@
+# Docerion header of chromium_signin_sso.mm.
+type: source
+title: Chromium single sign-on service provider
+summary: Creates an empty SingleSignOnService stub for Chromium builds.

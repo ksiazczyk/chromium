@@ -1,0 +1,4 @@
+# Docerion header of chromium_text_zoom.mm.
+type: source
+title: Chromium text zoom provider implementation
+summary: Implements the default iOS provider functions that adjust a web state's font size and report text zoom as disabled on tablet form factors.

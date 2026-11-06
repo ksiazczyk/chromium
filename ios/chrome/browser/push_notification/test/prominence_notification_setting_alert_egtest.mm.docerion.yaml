@@ -1,0 +1,4 @@
+# Docerion header of prominence_notification_setting_alert_egtest.mm.
+type: test
+title: Prominence notification setting alert Earl Grey tests
+summary: Earl Grey tests verifying that the prominence alert appears when toggling a feature notification setting under provisional authorization.

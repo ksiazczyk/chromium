@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Push notification coordinator GN build targets
+summary: Defines GN source_set targets and dependencies for the push notification opt-in coordinators, mediator, and alert presenter.

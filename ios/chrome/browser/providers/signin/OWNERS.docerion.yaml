@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Signin providers owners file
+summary: Points to the shared iOS signin owners list responsible for reviewing changes in this directory.

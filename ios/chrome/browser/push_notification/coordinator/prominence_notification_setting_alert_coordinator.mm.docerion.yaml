@@ -1,0 +1,4 @@
+# Docerion header of prominence_notification_setting_alert_coordinator.mm.
+type: source
+title: Prominence notification setting alert coordinator implementation
+summary: Implements the silent-delivery alert, tracking impression counts in local state and logging open-settings and no-thanks actions to a histogram.

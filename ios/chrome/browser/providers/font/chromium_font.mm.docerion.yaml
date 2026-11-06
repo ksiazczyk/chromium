@@ -1,0 +1,4 @@
+# Docerion header of chromium_font.mm.
+type: source
+title: Chromium font provider implementation
+summary: Implements the branded font provider functions by returning the system default UIFont since Chromium has no branded fonts.

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_account_context_manager.mm.
+type: source
+title: PushNotificationAccountContextManager implementation
+summary: Implements account context tracking, updating notification permission prefs and profile attributes for signed-in accounts.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_switcher_info.mm.
+type: source
+title: Chromium switcher info provider implementation
+summary: Objective-C++ implementation of GetSwitcherInfo that reports switcher info as unsupported in Chromium by invoking the callback with no value.

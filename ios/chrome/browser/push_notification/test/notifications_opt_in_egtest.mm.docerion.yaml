@@ -1,0 +1,4 @@
+# Docerion header of notifications_opt_in_egtest.mm.
+type: test
+title: Notifications opt-in screen Earl Grey tests
+summary: Earl Grey test suite covering user interactions with the Notifications Opt-In Screen, such as toggling the switch to enable the primary button.

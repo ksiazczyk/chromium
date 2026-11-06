@@ -1,0 +1,4 @@
+# Docerion header of push_notification_delegate_unittest.mm.
+type: test
+title: Push notification delegate unit tests
+summary: Unit tests for PushNotificationDelegate covering app state setup, fake profile change command handling, and notification center interactions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for chromium_ui_utils
+summary: Defines the chromium_ui_utils source set with its source file, dependency on the ui_utils_api provider target, and CoreGraphics framework.

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_client_manager.mm.
+type: source
+title: Push notification client manager implementation
+summary: Implements PushNotificationClientManager, which registers push notification clients and routes incoming notification interactions and receptions to the matching client.

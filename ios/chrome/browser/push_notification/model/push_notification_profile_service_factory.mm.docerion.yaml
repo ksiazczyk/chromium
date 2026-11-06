@@ -1,0 +1,4 @@
+# Docerion header of push_notification_profile_service_factory.mm.
+type: source
+title: PushNotificationProfileServiceFactory implementation
+summary: Builds the profile-scoped push notification service, wiring the identity manager, client manager, and profile state path.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_add_to_calendar.mm.
+type: source
+title: Chromium add-to-calendar provider implementation
+summary: Objective-C++ implementation of the ios::provider PresentAddToCalendar function, currently an empty stub.

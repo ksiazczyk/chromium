@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium app store bundle service header
+// summary: Declares ChromiumAppStoreBundleService, the Chromium build's override of AppStoreBundleService for installed app count and promo presentation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROVIDERS_APP_STORE_BUNDLE_CHROMIUM_APP_STORE_BUNDLE_SERVICE_H_
 #define IOS_CHROME_BROWSER_PROVIDERS_APP_STORE_BUNDLE_CHROMIUM_APP_STORE_BUNDLE_SERVICE_H_
 

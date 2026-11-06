@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_share_kit provider
+summary: GN build file defining the chromium_share_kit source set with its source file and dependencies on the share_kit model and provider API targets.

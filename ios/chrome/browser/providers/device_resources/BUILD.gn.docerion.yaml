@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for chromium_device_resources
+summary: Defines the chromium_device_resources source set and its unit_tests target with their sources and dependencies.

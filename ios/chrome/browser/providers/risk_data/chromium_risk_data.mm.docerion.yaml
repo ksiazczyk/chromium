@@ -1,0 +1,4 @@
+# Docerion header of chromium_risk_data.mm.
+type: source
+title: Chromium risk data provider implementation
+summary: Objective-C++ implementation of the risk data provider that returns an empty risk data string.

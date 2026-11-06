@@ -1,0 +1,4 @@
+# Docerion header of chromium_app_switcher.mm.
+type: source
+title: Chromium app switcher provider implementation
+summary: Implements FetchAppSwitcherParams, which reports that app switcher parameter fetching is unsupported in Chromium by invoking the callback with an empty result.

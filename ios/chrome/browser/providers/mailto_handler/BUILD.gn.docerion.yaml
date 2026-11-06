@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for chromium_mailto_handler
+summary: Defines the chromium_mailto_handler source_set with its sources and dependencies for GN builds.

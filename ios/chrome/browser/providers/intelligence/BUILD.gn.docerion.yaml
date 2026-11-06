@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for intelligence providers
+summary: GN build file defining the chromium_intelligence source set and the unit_tests target for the intelligence provider sources.

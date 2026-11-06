@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushNotificationAccountContextManager testing category
+// summary: Declares a testing category on PushNotificationAccountContextManager exposing the sign-in registration count for an account.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_PUSH_NOTIFICATION_ACCOUNT_CONTEXT_MANAGER_TESTING_H_
 #define IOS_CHROME_BROWSER_PUSH_NOTIFICATION_MODEL_PUSH_NOTIFICATION_ACCOUNT_CONTEXT_MANAGER_TESTING_H_
 

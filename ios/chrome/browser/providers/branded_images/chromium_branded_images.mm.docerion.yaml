@@ -1,0 +1,4 @@
+# Docerion header of chromium_branded_images.mm.
+type: source
+title: Chromium branded images provider implementation
+summary: Implements GetBrandedImage to return Chromium-branded UIImages for promos and other branded UI elements.

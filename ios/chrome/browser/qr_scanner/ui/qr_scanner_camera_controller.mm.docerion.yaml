@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_camera_controller.mm.
+type: source
+title: QRScannerCameraController implementation
+summary: Implements QR code detection via AVCaptureMetadataOutput and forwards scanned results to the delegate, loading digit-only barcodes immediately.

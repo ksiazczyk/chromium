@@ -1,0 +1,4 @@
+# Docerion header of push_notification_settings_util.mm.
+type: source
+title: Push notification settings utility implementation
+summary: Computes aggregated permission states for push notification clients from profile preferences and mobile notification statuses.

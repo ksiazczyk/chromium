@@ -1,0 +1,4 @@
+# Docerion header of notifications_opt_in_view_controller.mm.
+type: source
+title: Notifications opt-in view controller implementation
+summary: Implements the notifications opt-in screen with a banner image, a table view of notification toggles, layout constants, and action handling.

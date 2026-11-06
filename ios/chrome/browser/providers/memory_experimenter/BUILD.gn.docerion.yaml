@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_memory_experimenter source set
+summary: Defines the chromium_memory_experimenter source set, listing its Objective-C++ source and its dependency on the memory experimenter provider API.

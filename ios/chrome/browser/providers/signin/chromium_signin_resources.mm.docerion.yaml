@@ -1,0 +1,4 @@
+# Docerion header of chromium_signin_resources.mm.
+type: source
+title: Chromium signin resources provider
+summary: Provides a default gray placeholder avatar image used for signin.

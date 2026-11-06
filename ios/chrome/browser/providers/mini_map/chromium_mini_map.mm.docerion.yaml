@@ -1,0 +1,4 @@
+# Docerion header of chromium_mini_map.mm.
+type: source
+title: Chromium mini map provider stubs
+summary: Implements the mini map provider functions for Chromium, returning stubs that disable mini map support and campaign token handling.

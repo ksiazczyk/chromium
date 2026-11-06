@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for share_kit providers
+summary: Declares the allowed include dependencies for the directory, permitting imports from ios/chrome/browser/share_kit/model.

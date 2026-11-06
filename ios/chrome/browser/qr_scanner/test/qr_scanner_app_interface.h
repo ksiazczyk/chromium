@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QR scanner app interface header for Earl Grey tests
+// summary: Declares helpers to mock the camera controller, swizzle it, and drive the QR scanner UI during tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_QR_SCANNER_TEST_QR_SCANNER_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_QR_SCANNER_TEST_QR_SCANNER_APP_INTERFACE_H_
 

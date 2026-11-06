@@ -1,0 +1,4 @@
+# Docerion header of push_notification_service.mm.
+type: source
+title: PushNotificationService implementation
+summary: Implements account registration and unregistration, preference updates, and profile and local state pref registration for push notifications.

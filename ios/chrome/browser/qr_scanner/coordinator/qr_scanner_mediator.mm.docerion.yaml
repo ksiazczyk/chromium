@@ -1,0 +1,4 @@
+# Docerion header of qr_scanner_mediator.mm.
+type: source
+title: QR scanner mediator implementation
+summary: Implements the QR scanner mediator, forwarding scanned queries to the URL loading browser agent as URL loads.

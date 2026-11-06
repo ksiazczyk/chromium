@@ -1,0 +1,4 @@
+# Docerion header of push_notification_util_unittest.mm.
+type: test
+title: Push notification utility unit tests
+summary: Verifies that PushNotificationUtil logs the correct UMA histogram buckets for notification authorization statuses and status changes.

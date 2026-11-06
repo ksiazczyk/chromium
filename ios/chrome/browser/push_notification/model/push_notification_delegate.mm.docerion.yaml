@@ -1,0 +1,4 @@
+# Docerion header of push_notification_delegate.mm.
+type: source
+title: Push notification delegate implementation
+summary: Implements PushNotificationDelegate, handling APNS registration, notification processing, profile switching, and metrics for push notifications in Chrome on iOS.

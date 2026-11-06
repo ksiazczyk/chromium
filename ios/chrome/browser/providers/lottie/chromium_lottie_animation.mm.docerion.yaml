@@ -1,0 +1,4 @@
+# Docerion header of chromium_lottie_animation.mm.
+type: source
+title: ChromiumLottieAnimation implementation
+summary: Implements the LottieAnimation provider interface by wrapping LOTAnimationView, with Mac Catalyst stubs, and exposes the GenerateLottieAnimation factory function.

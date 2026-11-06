@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Push notification coordinator include rules
+summary: Lists allowed directory include rules for the push notification coordinator code in the Chromium dependency checker.

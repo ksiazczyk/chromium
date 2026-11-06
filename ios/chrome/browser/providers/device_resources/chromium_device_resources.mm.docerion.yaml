@@ -1,0 +1,4 @@
+# Docerion header of chromium_device_resources.mm.
+type: source
+title: Chromium fallback device type icon provider
+summary: Implements GetDeviceTypeIcon, returning monochrome iPhone, iPad, or laptop symbols based on the device form factor.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: QR scanner coordinator DEPS include rules
+summary: Declares the permitted include rules for the QR scanner coordinator directory, allowing the composebox entry point header.

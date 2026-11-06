@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_fullscreen source set
+summary: Defines the chromium_fullscreen source set with its single source file and a dependency on the iOS fullscreen provider API.

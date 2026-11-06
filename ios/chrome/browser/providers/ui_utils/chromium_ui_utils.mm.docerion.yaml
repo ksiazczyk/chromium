@@ -1,0 +1,4 @@
+# Docerion header of chromium_ui_utils.mm.
+type: source
+title: Chromium UI utils provider implementation
+summary: Implements the ios::provider UI utility functions, providing no-op UI initialization, animated image view creation, and modal view handling stubs for Chromium.

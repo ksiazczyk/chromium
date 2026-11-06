@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromium_app_distribution source set
+summary: GN build file defining the chromium_app_distribution source set and its dependency on the app distribution provider API.

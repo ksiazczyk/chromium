@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the iOS push notification model
+summary: Defines GN source sets and dependencies for the push notification profile service, factories, utilities, and delegate.

@@ -1,0 +1,4 @@
+# Docerion header of push_notification_client.mm.
+type: source
+title: PushNotificationClient implementation
+summary: Implements PushNotificationClient, including profile-scoped local notification scheduling, error handling, and metrics logging.

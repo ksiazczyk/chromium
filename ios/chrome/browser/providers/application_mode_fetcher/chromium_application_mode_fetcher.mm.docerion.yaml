@@ -1,0 +1,4 @@
+# Docerion header of chromium_application_mode_fetcher.mm.
+type: source
+title: Chromium application mode fetcher stub
+summary: Implements FetchApplicationMode for Chromium by always posting a response indicating that application mode fetching is not supported.

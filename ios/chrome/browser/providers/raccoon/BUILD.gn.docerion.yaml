@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the chromium_raccoon source set
+summary: GN build file defining the chromium_raccoon source set with its Objective-C++ source and a dependency on the raccoon provider API.

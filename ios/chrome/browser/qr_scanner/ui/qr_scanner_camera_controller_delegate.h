@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QRScannerCameraControllerDelegate protocol
+// summary: Declares the delegate protocol that receives scanned QR results and indicates whether a result should be loaded without further user input.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_QR_SCANNER_UI_QR_SCANNER_CAMERA_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_QR_SCANNER_UI_QR_SCANNER_CAMERA_CONTROLLER_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chromium_discover_feed.mm.
+type: source
+title: Chromium Discover Feed stub implementation
+summary: Supplies a dummy DiscoverFeedService and factory functions so Chromium builds compile without the actual Discover Feed feature.
