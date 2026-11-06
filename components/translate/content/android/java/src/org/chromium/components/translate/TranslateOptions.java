@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateOptions – translation options and language state
+// summary: Holds the state of translation options and languages, tracking source and target language codes, never/always translate settings, and language code to display name mappings.
+// ---
+
 package org.chromium.components.translate;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateLanguageList class header
+// summary: Declares the TranslateLanguageList class that maintains the latest supported language list, fetches it from the translate server and exposes language lookups and event callbacks.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_LANGUAGE_LIST_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_LANGUAGE_LIST_H_
 

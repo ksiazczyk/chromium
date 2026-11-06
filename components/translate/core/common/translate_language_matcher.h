@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate language matcher interface
+// summary: Declares functions returning the default supported languages as language tags and the translate language tag matcher instance.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_LANGUAGE_MATCHER_H_
 #define COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_LANGUAGE_MATCHER_H_
 

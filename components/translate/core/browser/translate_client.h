@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateClient interface
+// summary: Declares the TranslateClient interface that embedders implement to provide drivers, preferences, and translate UI presentation to TranslateManager.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_CLIENT_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_CLIENT_H_
 

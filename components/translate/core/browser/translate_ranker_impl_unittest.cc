@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate ranker implementation unit tests
+// summary: Unit tests for TranslateRankerImpl covering model decisions with various thresholds, feature flags, and translate event recording to UKM.
+// ---
+
 #include "components/translate/core/browser/translate_ranker_impl.h"
 
 #include <initializer_list>

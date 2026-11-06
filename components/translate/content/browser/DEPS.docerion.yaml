@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for translate browser dependencies
+summary: Defines the allowed include paths for the translate content browser directory, covering content, PDF, network and metrics dependencies.

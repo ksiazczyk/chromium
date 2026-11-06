@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateLanguageList unit tests
+// summary: Unit tests for TranslateLanguageList covering SetSupportedLanguages, language code back-off, translate URL generation and language list fetching.
+// ---
+
 #include "components/translate/core/browser/translate_language_list.h"
 
 #include <algorithm>

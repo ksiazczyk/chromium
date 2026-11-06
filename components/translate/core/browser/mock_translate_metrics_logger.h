@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTranslateMetricsLogger declarations
+// summary: Declares a gmock mock of TranslateMetricsLogger with mocked methods for page load, ranker, trigger, translation, and UI logging events.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_METRICS_LOGGER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_METRICS_LOGGER_H_
 

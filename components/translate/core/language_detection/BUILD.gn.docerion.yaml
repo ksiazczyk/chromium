@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the language detection library
+summary: Defines the language_detection static library, its unit test source set, and a fuzz test target with their sources and dependencies.

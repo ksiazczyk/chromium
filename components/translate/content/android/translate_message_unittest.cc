@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TranslateMessage
+// summary: Unit tests for the Android TranslateMessage using a mock bridge, test language model, and translate manager test doubles to verify message and menu behavior.
+// ---
+
 #include "components/translate/content/android/translate_message.h"
 
 #include <algorithm>

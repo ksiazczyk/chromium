@@ -1,0 +1,4 @@
+# Docerion header of translate_controller.mm.
+type: source
+title: TranslateController implementation
+summary: Implements TranslateController, fetching and injecting the translate script into the main frame and processing JavaScript commands that report translation status.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for translate core browser resources
+summary: Designates ui/webui/PLATFORM_OWNERS as additional reviewers for trivial or mechanical JS/CSS/HTML changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateTriggerDecision implementation
+// summary: Implements TranslateTriggerDecision methods that control whether auto translation, UI display, href translation, and ranker suppression may occur.
+// ---
+
 #include "components/translate/core/browser/translate_trigger_decision.h"
 
 namespace translate {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateAgent unit tests
+// summary: Unit tests verifying that TranslateAgent::BuildTranslationScript produces the expected JavaScript call and correctly escapes quotes and angle brackets.
+// ---
+
 #include "components/translate/content/renderer/translate_agent.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

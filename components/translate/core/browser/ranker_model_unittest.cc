@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ranker model unit tests
+// summary: Unit tests verifying RankerModel serialization round-trips and the IsExpired cache-duration logic.
+// ---
+
 #include "components/translate/core/browser/ranker_model.h"
 
 #include <memory>

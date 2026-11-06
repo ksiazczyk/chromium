@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate URL utility header
+// summary: Declares AddApiKeyToUrl and AddHostLocaleToUrl helpers that decorate translate URLs with API key and locale query parameters.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_URL_UTIL_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_URL_UTIL_H_
 

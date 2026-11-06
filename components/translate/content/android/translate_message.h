@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateMessage class declaration
+// summary: Declares the TranslateMessage class that shows and updates the translate message UI on Android, including a Bridge interface that makes the class easier to test.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CONTENT_ANDROID_TRANSLATE_MESSAGE_H_
 #define COMPONENTS_TRANSLATE_CONTENT_ANDROID_TRANSLATE_MESSAGE_H_
 

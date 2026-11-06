@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Translate strings directory metadata
+summary: Declares the Monorail and Buganizer components used to track issues for the translate strings directory.

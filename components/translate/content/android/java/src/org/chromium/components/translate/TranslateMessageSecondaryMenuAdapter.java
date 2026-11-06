@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateMessageSecondaryMenuAdapter – list adapter for translate menu items
+// summary: BaseAdapter that backs the translate secondary menu, rendering divider, plain, subtitled, and checkmarked menu item view types from TranslateMessage.MenuItem entries.
+// ---
+
 package org.chromium.components.translate;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

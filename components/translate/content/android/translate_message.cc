@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateMessage native implementation for Android
+// summary: Implements the native C++ side of the Android translate message, bridging JNI calls to the Java TranslateMessage object for showing, dismissing, and handling menu actions.
+// ---
+
 #include "components/translate/content/android/translate_message.h"
 
 #include <stddef.h>

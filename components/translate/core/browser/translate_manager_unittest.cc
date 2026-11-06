@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateManager unit tests
+// summary: Unit tests for TranslateManager covering target language selection, auto translation, network changes, infobar behavior and metrics using mock client, driver and ranker.
+// ---
+
 #include "components/translate/core/browser/translate_manager.h"
 
 #include <algorithm>

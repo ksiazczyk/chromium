@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankerURLFetcher class declaration
+// summary: Declares RankerURLFetcher, a helper that asynchronously downloads ranker models from a URL and reports success or failure through a callback.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_URL_FETCHER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_URL_FETCHER_H_
 

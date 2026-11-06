@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankerModelLoaderImpl class declaration
+// summary: Declares the RankerModelLoaderImpl class and its loader state machine for loading ranker models from disk cache with fallback to a model URL download.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_MODEL_LOADER_IMPL_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_MODEL_LOADER_IMPL_H_
 

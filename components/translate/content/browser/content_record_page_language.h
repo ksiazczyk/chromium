@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for page language storage helpers
+// summary: Declares functions to get and set the page language stored in a content NavigationEntry.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CONTENT_BROWSER_CONTENT_RECORD_PAGE_LANGUAGE_H_
 #define COMPONENTS_TRANSLATE_CONTENT_BROWSER_CONTENT_RECORD_PAGE_LANGUAGE_H_
 

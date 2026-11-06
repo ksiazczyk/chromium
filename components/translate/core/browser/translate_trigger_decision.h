@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateTriggerDecision header
+// summary: Declares the TranslateTriggerDecision struct holding flags and blocklist states that decide whether translation can be triggered or its UI shown.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_TRIGGER_DECISION_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_TRIGGER_DECISION_H_
 

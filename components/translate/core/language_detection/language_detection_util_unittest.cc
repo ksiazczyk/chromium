@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for language detection utilities
+// summary: Tests language code typo correction, code validation, wrong server configuration handling, and page language determination behavior.
+// ---
+
 #include "components/translate/core/language_detection/language_detection_util.h"
 
 #include <string>

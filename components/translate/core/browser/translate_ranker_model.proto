@@ -4,6 +4,12 @@
 //
 // Translation Assist Model to allow/suppress translation prompts.
 
+// ---docerion
+// type: source
+// title: TranslateRankerModel protobuf definition
+// summary: Defines the protobuf schema for the translate ranker model, a logistic regression model with feature weights used to allow or suppress translation prompts.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

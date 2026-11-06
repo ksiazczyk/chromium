@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTranslateRanker declarations
+// summary: Declares a gmock mock of TranslateRanker with setters for logging, query, enforcement, model version, and translation offering flags.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_RANKER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_RANKER_H_
 

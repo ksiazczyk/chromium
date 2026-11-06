@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateScript implementation
+// summary: Implements fetching of the JavaScript translate element script from Google's server, including data region handling, request parameters, and script expiration.
+// ---
+
 #include "components/translate/core/browser/translate_script.h"
 
 #include "base/command_line.h"

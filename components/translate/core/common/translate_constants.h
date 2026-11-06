@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate constants declarations
+// summary: Declares shared constants for partial translate text selection limits, bubble show delay, PDF MIME type, and the reading mode side panel host.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_CONSTANTS_H_
 #define COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_CONSTANTS_H_
 

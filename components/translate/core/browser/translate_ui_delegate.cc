@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateUIDelegate implementation
+// summary: Implements the delegate for the full page translate bubble UI, handling language selection, translation actions, error reporting, and preference updates.
+// ---
+
 #include "components/translate/core/browser/translate_ui_delegate.h"
 
 #include "base/i18n/language_tag.h"

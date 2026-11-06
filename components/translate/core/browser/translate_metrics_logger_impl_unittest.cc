@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate metrics logger implementation unit tests
+// summary: Unit tests verifying that TranslateMetricsLoggerImpl records the expected UMA histograms and UKM TranslatePageLoad metrics for translations, reversions, and UI interactions.
+// ---
+
 #include "components/translate/core/browser/translate_metrics_logger_impl.h"
 
 #include <array>

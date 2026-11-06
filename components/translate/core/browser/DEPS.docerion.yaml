@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the translate core browser directory
+summary: DEPS file listing allowed include dependencies for the directory, with specific rules granting UKM access to ranker and metrics logger unit tests.

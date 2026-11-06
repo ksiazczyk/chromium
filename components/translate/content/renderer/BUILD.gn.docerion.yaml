@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for translate renderer
+summary: GN build file defining the translate renderer static library and its unit test source set, listing sources and dependencies.

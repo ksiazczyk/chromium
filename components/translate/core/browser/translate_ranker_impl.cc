@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker implementation
+// summary: Implements TranslateRankerImpl, which loads a logistic regression ranker model, scores translate events, and decides whether to show the translation prompt.
+// ---
+
 #include "components/translate/core/browser/translate_ranker_impl.h"
 
 #include <cmath>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android translate component
+summary: Lists the allowed include dependencies for the Android translate content directory, such as browser UI widgets, language detection, messages, and translate core.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the Translate Internals handler class
+// summary: Declares the TranslateInternalsHandler class, its virtual hooks for clients, message callbacks, and methods for sending prefs, languages, and country data to JavaScript.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_TRANSLATE_INTERNALS_TRANSLATE_INTERNALS_HANDLER_H_
 #define COMPONENTS_TRANSLATE_TRANSLATE_INTERNALS_TRANSLATE_INTERNALS_HANDLER_H_
 

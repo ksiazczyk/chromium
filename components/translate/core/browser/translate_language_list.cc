@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateLanguageList implementation
+// summary: Implements TranslateLanguageList, which fetches and maintains the list of languages supported by the translate and partial translate servers and maps language codes.
+// ---
+
 #include "components/translate/core/browser/translate_language_list.h"
 
 #include <stddef.h>

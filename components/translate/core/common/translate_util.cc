@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate utility implementation
+// summary: Implements translate utilities including the security origin lookup with switch override, TFLite language detection enablement, and thresholds for automatic always and never translate behavior.
+// ---
+
 #include "components/translate/core/common/translate_util.h"
 
 #include <string>

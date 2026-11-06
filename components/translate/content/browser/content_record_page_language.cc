@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page language storage in navigation entries
+// summary: Implements helpers that store and retrieve the detected page language as user data on a content NavigationEntry.
+// ---
+
 #include "components/translate/content/browser/content_record_page_language.h"
 
 #include "content/public/browser/navigation_entry.h"

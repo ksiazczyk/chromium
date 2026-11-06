@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSTranslateDriver class declaration
+// summary: Declares IOSTranslateDriver, the iOS implementation of TranslateDriver that observes WebState navigation and language detection events to drive page translation.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_IOS_BROWSER_IOS_TRANSLATE_DRIVER_H_
 #define COMPONENTS_TRANSLATE_IOS_BROWSER_IOS_TRANSLATE_DRIVER_H_
 

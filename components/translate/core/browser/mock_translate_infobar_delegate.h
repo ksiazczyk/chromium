@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTranslateInfoBarDelegate and factory for translate tests
+// summary: Declares gmock mock classes for TranslateInfoBarDelegate plus a factory that assembles mock driver, client, ranker, language model, and manager for infobar testing.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_INFOBAR_DELEGATE_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_INFOBAR_DELEGATE_H_
 

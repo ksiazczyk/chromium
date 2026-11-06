@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate URL fetcher implementation
+// summary: Implements TranslateURLFetcherImpl, which downloads translate resources such as the language list and script via SimpleURLLoader with retries and traffic annotations.
+// ---
+
 #include "components/translate/core/browser/translate_url_fetcher.h"
 
 #include <optional>

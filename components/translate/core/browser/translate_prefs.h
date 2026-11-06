@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate preferences class header
+// summary: Declares the TranslatePrefs wrapper around PrefService, the TranslateLanguageInfo struct, data region enum, and feature flags and thresholds for translate shortcuts.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_PREFS_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_PREFS_H_
 

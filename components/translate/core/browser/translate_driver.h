@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateDriver interface
+// summary: Declares the TranslateDriver interface that lets translate core code interact with its embedder for navigation, translation, and page information.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_DRIVER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_DRIVER_H_
 

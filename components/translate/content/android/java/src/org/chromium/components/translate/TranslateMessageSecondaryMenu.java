@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateMessageSecondaryMenu – secondary menu for the translate message
+// summary: Implements the ListMenu shown as the translate message's secondary menu, rendering menu items in a ListView and delegating item clicks to a handler that can replace the items.
+// ---
+
 package org.chromium.components.translate;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS translate browser
+summary: Lists allowed include rules for dependencies such as language, language detection, and UKM components in the iOS translate browser directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateMessageSecondaryMenuTest – instrumentation tests for the secondary menu
+// summary: Espresso instrumentation tests verifying the secondary menu behavior of TranslateMessage, including item clicks, subtitles, checkmarks, dividers, and handler interactions.
+// ---
+
 package org.chromium.components.translate;
 
 import static androidx.test.espresso.Espresso.onData;

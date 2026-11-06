@@ -7,6 +7,12 @@
 // language to another.
 // It should be included in the page before the Translate Element script.
 
+// ---docerion
+// type: source
+// title: translate.js bridge for the Google Translate Element
+// summary: JavaScript executed in an isolated world of a page that initializes the Translate Element library, tracks translation state and timing, and reports error codes during page translation.
+// ---
+
 // eslint-disable-next-line no-var
 var cr = cr || {};
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the translate_internals directory
+summary: Lists the platform WebUI owners and translate component owners responsible for reviewing changes in this directory.

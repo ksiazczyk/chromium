@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateOptionsTest – unit tests for TranslateOptions
+// summary: Robolectric unit tests for TranslateOptions verifying language name and code lookups, option state changes, invalid language handling, and never/always translate behavior.
+// ---
+
 package org.chromium.components.translate;
 
 import org.junit.Assert;

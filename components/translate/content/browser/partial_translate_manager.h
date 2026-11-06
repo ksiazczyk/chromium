@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartialTranslateManager class declaration
+// summary: Declares the partial translate request and response structures and the manager that handles translation of user-selected text.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CONTENT_BROWSER_PARTIAL_TRANSLATE_MANAGER_H_
 #define COMPONENTS_TRANSLATE_CONTENT_BROWSER_PARTIAL_TRANSLATE_MANAGER_H_
 

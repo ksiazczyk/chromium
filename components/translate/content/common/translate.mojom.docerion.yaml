@@ -1,0 +1,4 @@
+# Docerion header of translate.mojom.
+type: source
+title: Translate Mojo IPC interface definitions
+summary: Defines the TranslateAgent Mojo interface, TranslateError enum, and LanguageDetectionDetails struct used for browser-renderer translation communication.

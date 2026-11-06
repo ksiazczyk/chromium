@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate preferences unit tests
+// summary: Unit tests for TranslatePrefs covering accept and blocked language lists, always and never translate behavior, recent targets, and preference updates.
+// ---
+
 #include "components/translate/core/browser/translate_prefs.h"
 
 #include <algorithm>

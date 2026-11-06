@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTranslateDriver class declaration
+// summary: Declares a test double TranslateDriver with controllable navigation state used by translate unit tests.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_DRIVER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_DRIVER_H_
 

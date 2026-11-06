@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for translate strings context image hashes
+summary: Explains that the directory's image SHA-1 hashes give translators visual context for translating Chrome translate UI strings.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

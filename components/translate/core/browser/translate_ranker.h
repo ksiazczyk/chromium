@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker interface
+// summary: Declares the TranslateRanker keyed service interface that decides whether to offer a translation prompt using a downloaded ranker model and records translate events.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_RANKER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_RANKER_H_
 

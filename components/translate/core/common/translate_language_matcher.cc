@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate language matcher implementation
+// summary: Implements matching against the default list of languages supported by the Google translation server, exposing supported language tags and a language tag matcher.
+// ---
+
 #include "components/translate/core/common/translate_language_matcher.h"
 
 #include <array>

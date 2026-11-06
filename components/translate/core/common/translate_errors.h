@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate error type enum
+// summary: Defines the TranslateErrors enum listing all page translation error types used for UMA metrics and translate internals reporting.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_ERRORS_H_
 #define COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_ERRORS_H_
 

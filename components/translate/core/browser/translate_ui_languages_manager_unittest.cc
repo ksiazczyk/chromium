@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate UI languages manager unit tests
+// summary: Unit tests verifying language code and index handling, source and target language updates, and unknown-language behavior of TranslateUILanguagesManager.
+// ---
+
 #include "components/translate/core/browser/translate_ui_languages_manager.h"
 
 #include "components/language/core/browser/language_model.h"

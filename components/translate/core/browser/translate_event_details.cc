@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateEventDetails implementation
+// summary: Implements the TranslateEventDetails constructor that records the creation time along with a filename, line, and message for event logs.
+// ---
+
 #include "components/translate/core/browser/translate_event_details.h"
 
 #include <utility>

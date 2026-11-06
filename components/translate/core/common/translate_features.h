@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate feature flag declarations
+// summary: Declares feature flags controlling PDF translation, simplified Hindi model, language search UI, regionalization, OnePlatform API use, and translate triggering behavior.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_FEATURES_H_
 #define COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_FEATURES_H_
 

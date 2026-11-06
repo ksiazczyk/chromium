@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTranslateRanker implementation
+// summary: Implements MockTranslateRanker behavior including model version, ShouldOfferTranslation, and flushing of cached translate events for tests.
+// ---
+
 #include "components/translate/core/browser/mock_translate_ranker.h"
 
 #include "third_party/metrics_proto/translate_event.pb.h"

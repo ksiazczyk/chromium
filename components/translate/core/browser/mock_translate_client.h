@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTranslateClient class declaration
+// summary: Declares a gmock-based TranslateClient test double with stubbed UI, infobar and PDF translation methods.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_CLIENT_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_MOCK_TRANSLATE_CLIENT_H_
 

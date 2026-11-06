@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the translate common library
+summary: Defines the static library and unit test targets for the translate core common sources, including Android Java enum generation for translate infobar events.

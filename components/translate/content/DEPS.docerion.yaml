@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the translate content component
+summary: Defines include rules that allow the translate content component to depend on headers from content/public/common and mojo/public.

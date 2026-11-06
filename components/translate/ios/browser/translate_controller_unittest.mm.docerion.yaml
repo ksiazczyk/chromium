@@ -1,0 +1,4 @@
+# Docerion header of translate_controller_unittest.mm.
+type: test
+title: TranslateController unit tests
+summary: Unit tests for TranslateController verifying observer callbacks for script readiness, completion, and JavaScript command handling with fake web frames.

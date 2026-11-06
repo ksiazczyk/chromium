@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection utility implementation
+// summary: Implements helpers that determine page language from Content-Language, html lang, and model output, and filter or validate detected languages.
+// ---
+
 #include "components/translate/core/language_detection/language_detection_util.h"
 
 #include <stddef.h>

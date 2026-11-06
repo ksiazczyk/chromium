@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Translate UI dimension resources
+summary: Defines Android dimension values for the translate component, including the translate menu width and the translate toast vertical offset.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <dimen name="infobar_translate_menu_width">260dp</dimen>
     <dimen name="translate_toast_y_offset">24dp</dimen>

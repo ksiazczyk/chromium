@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateWaiter implementation
+// summary: Implements a test helper that blocks until translate events such as language detection or page translation arrive from the translate driver.
+// ---
+
 #include "components/translate/content/browser/translate_waiter.h"
 
 #include "base/run_loop.h"

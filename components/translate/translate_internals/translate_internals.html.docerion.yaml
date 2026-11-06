@@ -1,0 +1,4 @@
+# Docerion header of translate_internals.html.
+type: source
+title: Translate Internals WebUI page markup
+summary: Defines the Translate Internals page structure with tabs for preferences, detection logs, error logs, event logs, and init logs.

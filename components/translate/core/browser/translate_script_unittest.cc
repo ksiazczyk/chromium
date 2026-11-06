@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateScript unit tests
+// summary: Unit tests for TranslateScript verifying script URL construction, request parameters, and data region behavior using a test URL loader factory.
+// ---
+
 #include "components/translate/core/browser/translate_script.h"
 
 #include "base/command_line.h"

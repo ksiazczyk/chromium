@@ -1,0 +1,4 @@
+# Docerion header of translate_java_script_feature.mm.
+type: source
+title: TranslateJavaScriptFeature implementation
+summary: Implements TranslateJavaScriptFeature, injecting the translate_ios script at document start and forwarding TranslateMessage events to the TranslateController.

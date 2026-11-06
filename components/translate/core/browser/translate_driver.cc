@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateDriver base implementation
+// summary: Implements base TranslateDriver behavior for managing language detection observers and notifying them when the driver is destroyed.
+// ---
+
 #include "components/translate/core/browser/translate_driver.h"
 #include "base/observer_list.h"
 

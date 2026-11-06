@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate URL utility unit tests
+// summary: Unit test verifying that AddHostLocaleToUrl appends the correct host locale query parameter to a URL.
+// ---
+
 #include "components/translate/core/browser/translate_url_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankerModelLoader interface and status enum
+// summary: Declares the RankerModelLoader interface with the RankerModelStatus enum and callbacks for validating and receiving downloaded ranker models.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_MODEL_LOADER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_MODEL_LOADER_H_
 
