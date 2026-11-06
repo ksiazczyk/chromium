@@ -1,0 +1,4 @@
+# Docerion header of d33fef58bedd39dc1c2d38f16305b10010e9058e.
+type: data
+title: NTLM client fuzzer input d33fef58
+summary: Four-byte fuzzer corpus input for the NTLM client fuzzer made up of the letter f.

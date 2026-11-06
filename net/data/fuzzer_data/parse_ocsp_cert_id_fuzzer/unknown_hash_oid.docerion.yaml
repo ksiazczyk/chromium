@@ -1,0 +1,4 @@
+# Docerion header of unknown_hash_oid.
+type: data
+title: unknown_hash_oid fuzzer corpus input
+summary: Fuzzer corpus input for ParseOCSPCertId with a hash algorithm OID that is not recognized, testing the unknown-algorithm error path.

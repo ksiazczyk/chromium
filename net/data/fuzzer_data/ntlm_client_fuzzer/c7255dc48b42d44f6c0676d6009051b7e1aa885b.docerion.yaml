@@ -1,0 +1,4 @@
+# Docerion header of c7255dc48b42d44f6c0676d6009051b7e1aa885b.
+type: data
+title: NTLM client fuzzer input c7255dc4
+summary: Single-byte fuzzer corpus input for the NTLM client fuzzer containing one control character.

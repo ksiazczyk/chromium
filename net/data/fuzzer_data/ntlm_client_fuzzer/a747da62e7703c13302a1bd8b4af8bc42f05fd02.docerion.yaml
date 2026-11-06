@@ -1,0 +1,4 @@
+# Docerion header of a747da62e7703c13302a1bd8b4af8bc42f05fd02.
+type: data
+title: NTLM client fuzzer input a747da62
+summary: Fuzzer corpus input for the NTLM client fuzzer containing a run of f characters interrupted by a parenthesis.

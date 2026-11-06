@@ -1,0 +1,4 @@
+# Docerion header of ab18c9b1281c7766245907a7e9084b2dcfe4bed2.
+type: data
+title: NTLM client fuzzer input ab18c9b1
+summary: Fuzzer corpus input for the NTLM client fuzzer with a newline followed by control characters.

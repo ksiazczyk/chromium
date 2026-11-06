@@ -1,0 +1,4 @@
+# Docerion header of invalid_contents.
+type: data
+title: Invalid contents fuzzer input for parse_authority_key_identifier
+summary: Fuzzer corpus file with invalid contents used as a negative input case for the authority key identifier parser.
