@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard navigation listener base class
+// summary: Abstract OnKeyListener that handles Tab, Shift+Tab, and Enter keys so subclasses can customize focus traversal and enter key behavior for views.
+// ---
+
 package org.chromium.ui.util;
 
 import android.view.KeyEvent;

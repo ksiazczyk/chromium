@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardVisibilityDelegate
+// summary: Delegate that determines and changes the state of Android's soft keyboard and notifies listeners of visibility changes.
+// ---
+
 package org.chromium.ui;
 
 import android.content.Context;

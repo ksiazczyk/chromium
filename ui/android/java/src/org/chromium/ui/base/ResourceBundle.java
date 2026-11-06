@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceBundle
+// summary: Resource bundle helpers for the native library that register available locales and resolve locale-specific .pak asset paths for bundles and APKs.
+// ---
+
 package org.chromium.ui.base;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSurfaceEntityView abstract view for XR surface entities
+// summary: Abstract View subclass that exposes the underlying XR surface entity holder, existing mainly so CompositorView can add it to the view hierarchy.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import android.content.Context;

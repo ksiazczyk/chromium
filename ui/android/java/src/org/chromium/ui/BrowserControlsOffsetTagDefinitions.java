@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTagDefinitions
+// summary: Java counterpart of the native offset tag definitions, pairing browser controls offset tags with their constraints.
+// ---
+
 package org.chromium.ui;
 
 import com.google.errorprone.annotations.DoNotMock;

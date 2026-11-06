@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for the util directory
+summary: Chromium OWNERS file assigning per-file review ownership for ColorUtils, MotionEventUtils, and TokenHolder to specific Googlers.

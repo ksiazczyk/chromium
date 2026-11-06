@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ForwardingListObservable helper for forwarding list notifications
+// summary: Helper class implementing a ListObserver that forwards received list change notifications to its own observers.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.build.annotations.NullMarked;

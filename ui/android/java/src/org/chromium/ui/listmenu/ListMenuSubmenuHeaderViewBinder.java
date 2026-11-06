@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuSubmenuHeaderViewBinder
+// summary: View binder that applies submenu header properties, including bold text appearance and icon tint, to the corresponding view.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.CLICK_LISTENER;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard
+// summary: Singleton proxy giving C++ code access to the Android clipboard, including copied image URI metadata.
+// ---
+
 package org.chromium.ui.base;
 
 import android.annotation.SuppressLint;

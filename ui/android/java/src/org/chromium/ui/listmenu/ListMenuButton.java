@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuButton
+// summary: Image button that shows and anchors a popup list menu, relying on a delegate for positioning and menu content.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.content.Context;

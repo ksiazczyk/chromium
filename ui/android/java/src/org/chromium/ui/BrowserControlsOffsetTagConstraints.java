@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTagConstraints
+// summary: Java counterpart of the native browser controls offset tag constraints, holding top, content, and bottom constraint value objects.
+// ---
+
 package org.chromium.ui;
 
 import com.google.errorprone.annotations.DoNotMock;

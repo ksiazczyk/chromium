@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeResourceWrapper class
+// summary: Delegate class that provides themes and resources based on overlay state, wrapping a ContextThemeWrapper and notifying registered observers of theme resource changes.
+// ---
+
 package org.chromium.ui.theme;
 
 import android.content.Context;

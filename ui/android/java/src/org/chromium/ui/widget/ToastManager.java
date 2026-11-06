@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastManager
+// summary: Singleton manager that queues Android toasts, shows them one at a time by priority, and suppresses duplicate toasts with the same text.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.os.Build;

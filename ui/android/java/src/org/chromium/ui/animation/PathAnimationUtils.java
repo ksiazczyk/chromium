@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathAnimationUtils for arc path creation
+// summary: Utilities that create arc or straight paths between two points for view animations, supporting clockwise and counter-clockwise directions.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.graphics.Path;

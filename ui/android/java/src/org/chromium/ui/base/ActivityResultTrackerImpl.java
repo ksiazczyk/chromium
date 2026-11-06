@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityResultTrackerImpl
+// summary: Implementation of ActivityResultTracker that caches and restores pending activity results across Activity recreation.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

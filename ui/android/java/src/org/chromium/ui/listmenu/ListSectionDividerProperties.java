@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListSectionDividerProperties
+// summary: Defines the property keys for customizing list section dividers, such as left and right padding and color.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.ORDER;

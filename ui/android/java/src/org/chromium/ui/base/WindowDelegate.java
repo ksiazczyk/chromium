@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowDelegate
+// summary: Delegate that communicates an Android window's current state and properties, including soft input mode, visible display frame, and decor view height.
+// ---
+
 package org.chromium.ui.base;
 
 import android.graphics.Rect;

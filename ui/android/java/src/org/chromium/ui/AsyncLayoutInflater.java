@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncLayoutInflater
+// summary: Utility that inflates Android layouts asynchronously on a sequenced background task runner, with AppCompat support and a synchronous inflate variant.
+// ---
+
 package org.chromium.ui;
 
 import android.content.Context;

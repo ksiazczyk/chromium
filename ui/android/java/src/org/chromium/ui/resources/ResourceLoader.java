@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceLoader.java
+// summary: Abstract base class for loading resources for the ResourceManager, with a callback interface for load completion and resource unregistration.
+// ---
+
 package org.chromium.ui.resources;
 
 import org.chromium.build.annotations.NullMarked;

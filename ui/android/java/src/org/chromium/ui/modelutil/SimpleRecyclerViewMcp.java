@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SimpleRecyclerViewMcp for homogeneous item lists
+// summary: Model change processor that adapts a homogeneous SimpleList of independent items for RecyclerView use, binding items to view holders without partial update support.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import androidx.recyclerview.widget.RecyclerView;

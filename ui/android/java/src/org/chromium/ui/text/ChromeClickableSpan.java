@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeClickableSpan for blue underlined link text
+// summary: ClickableSpan that renders text as a themed blue underlined link, invokes a callback on click, and supports custom colors, focus handling and content descriptions.
+// ---
+
 package org.chromium.ui.text;
 
 import android.content.Context;

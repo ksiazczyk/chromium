@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedImageDragShadowBuilder
+// summary: Drag shadow builder that animates the drag shadow from the original web image to the center of the touch point.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.animation.ObjectAnimator;

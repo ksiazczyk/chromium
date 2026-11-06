@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckableImageView
+// summary: AppCompatImageView implementing the Checkable interface so state list and animated state list drawables can change the widget's appearance based on checked state.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

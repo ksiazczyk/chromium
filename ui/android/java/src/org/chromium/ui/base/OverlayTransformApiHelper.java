@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayTransformApiHelper
+// summary: Android S_V2 helper that listens for buffer transform hint changes and frame metrics to report overlay transform updates while avoiding class verification failures on older devices.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

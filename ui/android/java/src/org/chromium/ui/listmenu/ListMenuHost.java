@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuHost
+// summary: Host class that lets any view trigger and manage an anchored popup list menu, with core logic extracted from ListMenuButton.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.app.Activity;

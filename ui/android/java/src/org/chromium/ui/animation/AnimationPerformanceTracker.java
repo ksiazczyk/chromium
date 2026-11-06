@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationPerformanceTracker for animation metrics
+// summary: Monitors animation performance by collecting frame metrics such as first-frame latency, frame count, and frames per second, reporting them to listeners.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.os.SystemClock;

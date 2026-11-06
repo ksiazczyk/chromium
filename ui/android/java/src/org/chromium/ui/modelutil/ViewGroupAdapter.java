@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewGroupAdapter binding ModelList to ViewGroup children
+// summary: Generic adapter that binds a ModelList to any ViewGroup, creating, updating, moving and destroying child views as the model changes, with lifecycle cleanup on destroy.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import android.util.Pair;

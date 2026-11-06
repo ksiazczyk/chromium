@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogUtils helper functions
+// summary: Shared helpers for using the ModalDialogManager, including a builder for a one-button confirmation dialog.
+// ---
+
 package org.chromium.ui.modaldialog;
 
 import android.content.res.Resources;

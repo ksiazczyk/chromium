@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentRequestTrackerImpl
+// summary: Implementation of IntentRequestTracker that manages outstanding intent callbacks, request codes and saved error messages for an activity.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.chromium.ui.base.WindowAndroid.START_INTENT_FAILURE;

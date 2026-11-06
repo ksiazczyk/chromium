@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DynamicResourceReadyOnceCallback one-shot resource callback
+// summary: Invokes a callback once when the next dynamic resource update is ready, then unregisters itself.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import org.chromium.base.Callback;

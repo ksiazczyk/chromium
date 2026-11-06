@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual notification permission requester
+// summary: Abstract singleton that delegates contextual Android notification permission requests to a chrome-layer NotificationPermissionController implementation.
+// ---
+
 package org.chromium.ui.permissions;
 
 import org.chromium.build.annotations.NullMarked;

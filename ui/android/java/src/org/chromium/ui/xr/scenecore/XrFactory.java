@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrFactory interface for creating XR SceneCore objects
+// summary: Factory interface for creating XR vectors, quaternions, poses, sizes and surface or panel entity holders, with a static instance holder.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropMetricUtils
+// summary: Enums and recording helpers for drag and drop histograms covering tab drag types, URL intent sources and drop results.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import androidx.annotation.IntDef;

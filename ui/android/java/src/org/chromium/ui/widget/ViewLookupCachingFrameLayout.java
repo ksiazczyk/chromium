@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewLookupCachingFrameLayout
+// summary: FrameLayout that caches findViewById results by view ID and invalidates the cache on hierarchy changes for faster repeated lookups.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

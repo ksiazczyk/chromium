@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DynamicResourceSnapshot current resource state
+// summary: Implements Resource to expose the current bitmap, size and native resource id of a dynamic resource.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import android.graphics.Bitmap;

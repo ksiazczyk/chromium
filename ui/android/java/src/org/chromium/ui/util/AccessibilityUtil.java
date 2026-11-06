@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility state utility with observer notifications
+// summary: Exposes the current accessibility state and notifies registered observers when accessibility mode changes, with deprecated add and remove observer methods.
+// ---
+
 package org.chromium.ui.util;
 
 import org.chromium.base.ObserverList;

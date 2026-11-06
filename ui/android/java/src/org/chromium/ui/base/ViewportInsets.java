@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewportInsets
+// summary: Models the various kinds of viewport insets, explaining each inset type with a diagram of the view hierarchy.
+// ---
+
 package org.chromium.ui.base;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuCheckItemProperties
+// summary: Defines the property keys controlling checkmark-type items in list menus, including the CHECKED state.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.CLICK_LISTENER;

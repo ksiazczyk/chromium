@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewResourceInflater
+// summary: Utility class that inflates an Android View from an XML layout and captures it as a dynamic compositor resource, supporting async snapshot capture and optional offscreen attachment.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

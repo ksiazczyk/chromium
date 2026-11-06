@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragStateTracker
+// summary: Interface for listeners that track the latest drag event state, including active drag status and drag shadow dimensions.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.view.View;

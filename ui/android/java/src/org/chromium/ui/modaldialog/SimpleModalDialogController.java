@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleModalDialogController
+// summary: Default ModalDialogProperties.Controller implementation that dismisses a modal dialog when a button is clicked and reports the dismissal cause through a callback.
+// ---
+
 package org.chromium.ui.modaldialog;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSpace annotation for entity reference spaces
+// summary: IntDef annotation defining the spaces, activity or parent, in which an XR entity can be posed or queried.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import androidx.annotation.IntDef;

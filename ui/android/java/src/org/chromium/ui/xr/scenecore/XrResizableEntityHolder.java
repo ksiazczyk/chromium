@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrResizableEntityHolder interface for resizable XR entities
+// summary: Interface for an XR entity holder that exposes a resizable component and accessors for the entity's size.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import android.util.SizeF;

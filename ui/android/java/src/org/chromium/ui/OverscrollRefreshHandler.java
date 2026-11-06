@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollRefreshHandler
+// summary: Java interface invoked from native code that handles overscroll pull gestures, defining start, pull, release, reset and enable callbacks plus reference management for native pointers.
+// ---
+
 package org.chromium.ui;
 
 import static org.chromium.build.NullUtil.assertNonNull;

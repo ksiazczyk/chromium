@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorManager
+// summary: Java wrapper that creates and owns the native ui::AcceleratorManager and forwards key events to it.
+// ---
+
 package org.chromium.ui.base;
 
 import android.view.KeyEvent;

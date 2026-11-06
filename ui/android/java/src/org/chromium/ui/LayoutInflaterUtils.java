@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutInflaterUtils
+// summary: Utility helpers for inflating layouts while suppressing strict mode disk-read violations caused by Chromium's use of LayoutInflater.
+// ---
+
 package org.chromium.ui;
 
 import android.content.Context;

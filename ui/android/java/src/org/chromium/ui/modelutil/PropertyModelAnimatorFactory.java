@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyModelAnimatorFactory
+// summary: Factory that builds ObjectAnimators which mutate PropertyModel properties, supporting float and color state list animations.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import android.animation.ObjectAnimator;

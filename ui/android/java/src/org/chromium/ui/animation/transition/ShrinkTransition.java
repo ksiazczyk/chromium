@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShrinkTransition
+// summary: Android Visibility transition that animates a view's scale between visible and gone states when it appears or disappears.
+// ---
+
 package org.chromium.ui.animation.transition;
 
 import android.animation.Animator;

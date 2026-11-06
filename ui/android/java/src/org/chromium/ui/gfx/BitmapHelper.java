@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapHelper
+// summary: Java helper called from native code to create Android Bitmaps for a given format, mapping gfx bitmap format enums to Bitmap.Config and catching out-of-memory errors when requested.
+// ---
+
 package org.chromium.ui.gfx;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoverHighlightViewListener
+// summary: Generic OnHoverListener that manually toggles a view's hovered state, useful for child views that cannot be clickable because their parent handles clicks.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.view.MotionEvent;

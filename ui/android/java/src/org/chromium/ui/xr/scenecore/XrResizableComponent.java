@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrResizableComponent interface for user resizing of XR entities
+// summary: Component interface that lets users resize an XR entity, with min and max size limits, aspect ratio handling, and resize listeners.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

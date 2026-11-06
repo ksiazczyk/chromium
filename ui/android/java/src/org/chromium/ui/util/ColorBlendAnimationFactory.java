@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color blend animation factory
+// summary: Creates value animator animations that blend one or more pairs of colors and deliver interpolated colors to a consumer on each update.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.chromium.ui.util.ColorUtils.blendColorsMultiply;

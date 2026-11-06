@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInput
+// summary: Singleton utility that tracks connected input devices and reports keyboard, mouse and precision pointer availability for the current device.
+// ---
+
 package org.chromium.ui.base;
 
 import static android.view.InputDevice.KEYBOARD_TYPE_ALPHABETIC;

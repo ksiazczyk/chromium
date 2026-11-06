@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBulletSpan
+// summary: Wrapper around Android's BulletSpan that applies Chromium default styling and offsets bullet drawing so bullet points are not cut off.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

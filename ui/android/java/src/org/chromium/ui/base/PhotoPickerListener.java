@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhotoPickerListener
+// summary: Callback interface reporting photo picker user actions such as cancel, photo selection, camera launch, and gallery launch.
+// ---
+
 package org.chromium.ui.base;
 
 import android.net.Uri;

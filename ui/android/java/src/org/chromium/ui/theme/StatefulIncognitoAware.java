@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatefulIncognitoAware interface
+// summary: Interface for classes that handle incognito state changes, with an onIncognitoStateChanged callback reporting the change source and the new incognito state.
+// ---
+
 package org.chromium.ui.theme;
 
 import org.chromium.build.annotations.NullMarked;

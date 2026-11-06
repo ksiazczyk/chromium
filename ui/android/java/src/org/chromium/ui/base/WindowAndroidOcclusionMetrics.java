@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAndroidOcclusionMetrics
+// summary: Tracks and records window occlusion duration histograms bucketed by the visible region's minimum dimension.
+// ---
+
 package org.chromium.ui.base;
 
 import android.graphics.Rect;

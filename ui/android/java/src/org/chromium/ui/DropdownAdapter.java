@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownAdapter
+// summary: Array adapter that renders dropdown items with labels, icons, dividers, and hover highlighting for the dropdown popup window.
+// ---
+
 package org.chromium.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

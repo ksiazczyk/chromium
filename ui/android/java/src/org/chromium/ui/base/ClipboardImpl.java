@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardImpl
+// summary: Concrete Clipboard implementation that reads and writes text, URLs, and images through the system ClipboardManager.
+// ---
+
 package org.chromium.ui.base;
 
 import android.content.ClipData;

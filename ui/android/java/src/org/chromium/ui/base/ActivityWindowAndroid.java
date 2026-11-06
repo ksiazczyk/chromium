@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityWindowAndroid
+// summary: WindowAndroid implementation bound to an Activity with intent, permission, and keyboard visibility support.
+// ---
+
 package org.chromium.ui.base;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HorizontalListDividerDrawable
+// summary: Custom drawable that draws a horizontal list divider line at the bottom of its drawing area, wrapping the platform list divider.
+// ---
+
 package org.chromium.ui;
 
 import android.content.Context;

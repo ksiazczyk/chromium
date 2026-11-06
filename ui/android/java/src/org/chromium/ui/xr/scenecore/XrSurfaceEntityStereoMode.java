@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSurfaceEntityStereoMode stereo mode annotation
+// summary: Defines an IntDef annotation with constants for XR surface entity stereo modes, including mono, multiview left/right primary, side-by-side, and top-bottom.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import androidx.annotation.IntDef;

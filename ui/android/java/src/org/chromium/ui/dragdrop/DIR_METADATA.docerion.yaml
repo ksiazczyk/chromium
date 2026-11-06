@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata specifying the UI>Browser>Mobile component, team email, Android OS and buganizer component for the dragdrop folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerLockEventHelper
+// summary: Helper that tracks pointer and trackpad positions and transforms captured pointer events with rotation-aware offsets for pointer lock.
+// ---
+
 package org.chromium.ui.base;
 
 import android.view.InputDevice;

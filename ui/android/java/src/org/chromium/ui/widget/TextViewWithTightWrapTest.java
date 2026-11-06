@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextViewWithTightWrapTest
+// summary: Render tests verifying TextViewWithTightWrap under basic, wrap-content, match-parent, and snooze-button layout scenarios.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.app.Activity;

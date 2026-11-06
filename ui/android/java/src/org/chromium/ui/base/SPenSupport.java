@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPenSupport
+// summary: Detects Samsung S-Pen support and converts S-Pen event actions into standard Android motion event actions.
+// ---
+
 package org.chromium.ui.base;
 
 import android.content.Context;

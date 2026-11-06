@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MimeTypeUtils
+// summary: Utility class with MIME type constants and helpers that classify MIME types and URLs into text, image, audio, video, and PDF categories.
+// ---
+
 package org.chromium.ui.base;
 
 import android.content.ClipDescription;

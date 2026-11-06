@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowBoundsChangeDetector
+// summary: Utility that listens to a view's layout changes and invokes a callback when the view's width or height changes.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Rect;

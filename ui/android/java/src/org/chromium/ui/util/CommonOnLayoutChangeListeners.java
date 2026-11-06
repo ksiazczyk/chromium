@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout change listener factories
+// summary: Provides factory methods for view layout change listeners that trigger callbacks when bounds, size, height, or width change, filtering duplicate events.
+// ---
+
 package org.chromium.ui.util;
 
 import android.view.View;

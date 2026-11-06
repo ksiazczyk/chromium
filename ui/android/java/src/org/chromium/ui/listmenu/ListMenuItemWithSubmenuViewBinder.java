@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuItemWithSubmenuViewBinder
+// summary: View binder that applies submenu menu item properties, including expansion state, start icon bitmap, listeners and text styling, to the view.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static android.view.View.GONE;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HierarchicalMenuKeyProvider
+// summary: Interface that supplies property keys so the generic menu controller can access titles, listeners, and submenu items of menu models.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import android.view.View;

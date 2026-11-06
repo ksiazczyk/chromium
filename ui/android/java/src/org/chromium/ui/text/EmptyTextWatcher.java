@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op TextWatcher interface
+// summary: TextWatcher interface with empty default method implementations so subclasses only need to override the callbacks they actually use.
+// ---
+
 package org.chromium.ui.text;
 
 import android.text.Editable;

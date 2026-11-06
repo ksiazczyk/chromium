@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonCompat
+// summary: Material-styled button with customizable background, ripple, and border colors that works in Java or XML and degrades gracefully on pre-L devices without ripples or shadow.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

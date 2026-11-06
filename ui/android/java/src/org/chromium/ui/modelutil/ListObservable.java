@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ListObservable interface for list change notifications
+// summary: Interface defining observer registration and callbacks for item insert, remove, change and move events in list models.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.build.annotations.NullMarked;

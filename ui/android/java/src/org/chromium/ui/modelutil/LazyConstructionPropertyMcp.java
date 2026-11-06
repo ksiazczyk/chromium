@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyConstructionPropertyMcp for deferred view creation
+// summary: Property model change processor that lazily creates the view when the model becomes visible and queues property updates while hidden.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectFileDialog
+// summary: Implements a file selection dialog triggered by file input fields that filters by accepted types and passes the chosen file to native code.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

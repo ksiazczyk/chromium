@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSceneCoreSessionInitializer interface for XR launch mode
+// summary: Interface used by activities to initialize the XR scene core session in full or non-full space mode at launch.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.base.lifetime.Destroyable;

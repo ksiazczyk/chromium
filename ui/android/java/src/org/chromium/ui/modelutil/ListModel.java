@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ListModel convenience class for non-payload lists
+// summary: Shorthand subclass of ListModelBase with a Void payload for list models that do not support partial change notifications.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.build.annotations.NullMarked;

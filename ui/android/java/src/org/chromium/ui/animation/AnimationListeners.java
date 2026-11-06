@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationListeners utility for callback-based animator listeners
+// summary: Utility class that creates AnimatorListener instances from callbacks or runnables for animation start, end, and cancel events.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.animation.Animator;

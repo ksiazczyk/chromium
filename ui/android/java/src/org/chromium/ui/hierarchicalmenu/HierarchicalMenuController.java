@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HierarchicalMenuController
+// summary: Central controller for hierarchical menu logic, coordinating flyout and drilldown submenu interactions through a key provider.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import static org.chromium.ui.base.KeyNavigationUtil.isEscape;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceFormFactor
+// summary: UI utilities for determining Android form factor, exposing constants and checks for desktop, phone, tablet and automotive device types.
+// ---
+
 package org.chromium.ui.base;
 
 import android.content.Context;

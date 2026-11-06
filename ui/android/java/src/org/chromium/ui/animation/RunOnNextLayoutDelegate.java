@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunOnNextLayoutDelegate for deferring runnables to the next layout
+// summary: Delegate that lets Android views queue runnables and execute them once the next layout pass completes, implementing the RunOnNextLayout interface.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.view.View;

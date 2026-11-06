@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyModelChangeProcessor
+// summary: Change processor that observes a PropertyObservable model and binds its property changes to a view through a ViewBinder.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.build.annotations.NullMarked;

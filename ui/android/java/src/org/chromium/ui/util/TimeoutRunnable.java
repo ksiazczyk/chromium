@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeoutRunnable
+// summary: Runnable wrapper that runs a fallback runnable when a timeout expires before the primary runnable is executed.
+// ---
+
 package org.chromium.ui.util;
 
 import org.chromium.base.ThreadUtils.ThreadChecker;

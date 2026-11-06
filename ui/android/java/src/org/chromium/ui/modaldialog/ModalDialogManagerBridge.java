@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogManagerBridge JNI bridge
+// summary: JNI bridge that lets native code suspend, resume, show and dismiss modal dialogs through the Java ModalDialogManager.
+// ---
+
 package org.chromium.ui.modaldialog;
 
 import org.jni_zero.CalledByNative;

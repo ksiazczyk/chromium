@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrMovableComponent interface for user-driven entity movement
+// summary: Component interface for making XR entities movable via the system movable or a custom move handler, with move event listeners.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

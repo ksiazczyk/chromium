@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawableTranslationAnimatorFactory for drawable translation
+// summary: Factory that builds translation animations returning a drawable from a displaced position back to its initial bounds.
+// ---
+
 package org.chromium.ui.animation;
 
 import static org.chromium.ui.animation.TranslationAnimatorFactory.buildTranslationAnimation;

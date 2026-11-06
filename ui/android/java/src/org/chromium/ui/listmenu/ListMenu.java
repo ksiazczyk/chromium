@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenu interface
+// summary: Interface representing a list menu that exposes its content view, maximum item width and item click handling.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.view.View;

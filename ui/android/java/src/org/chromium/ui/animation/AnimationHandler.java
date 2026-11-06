@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationHandler for single-instance animations
+// summary: Tracks the current animator so only one instance of an animation runs at a time and can force-finish it before starting a new one.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.animation.Animator;

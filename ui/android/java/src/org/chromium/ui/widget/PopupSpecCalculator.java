@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupSpecCalculator for anchored popup positioning
+// summary: Helper that computes popup window specifications such as size and orientation used by AnchoredPopupWindow to position its content.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Point;

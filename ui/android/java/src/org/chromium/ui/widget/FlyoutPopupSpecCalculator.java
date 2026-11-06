@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlyoutPopupSpecCalculator
+// summary: SpecCalculator implementation that computes position and size specifications for flyout popup windows, including extra vertical padding to align with anchor items.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Rect;

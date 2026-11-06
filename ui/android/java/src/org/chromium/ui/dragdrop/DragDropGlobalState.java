@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropGlobalState
+// summary: Static holder for drag and drop state shared across instances, storing drop data and shadow builder with token-based access and cleanup.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.view.DragEvent;

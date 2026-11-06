@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrMeshData container for 3D mesh vertex and index data
+// summary: Final class holding 3D mesh data with texture ID, index type and buffers, splitting interleaved vertex data for native-driven spatial rendering.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.jni_zero.CalledByNative;

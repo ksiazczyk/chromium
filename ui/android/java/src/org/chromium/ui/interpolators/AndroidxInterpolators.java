@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidxInterpolators
+// summary: Holds a shared standard AndroidX path interpolator instance so callers avoid repeated allocations.
+// ---
+
 package org.chromium.ui.interpolators;
 
 import androidx.core.animation.Interpolator;

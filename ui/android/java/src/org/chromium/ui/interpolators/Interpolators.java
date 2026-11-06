@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interpolators
+// summary: Defines shared standard and custom animation interpolator constants for Chromium UI animations.
+// ---
+
 package org.chromium.ui.interpolators;
 
 import android.view.animation.AccelerateInterpolator;

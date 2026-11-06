@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceObserver
+// summary: Singleton Android Java class that listens for input device changes and enumerates connected keyboards, mice, and touchpads for native code via JNI callbacks.
+// ---
+
 package org.chromium.ui.events.devices;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

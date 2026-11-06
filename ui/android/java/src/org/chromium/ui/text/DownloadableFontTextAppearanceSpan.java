@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextAppearanceSpan with downloadable font support
+// summary: TextAppearanceSpan subclass that resolves a downloadable font family from a text appearance style and applies it to the text measure state.
+// ---
+
 package org.chromium.ui.text;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownPopupWindowInterface
+// summary: Defines the interface for dropdown popup windows, covering adapter setup, showing, dismissal, RTL direction, focus, and accessibility announcements.
+// ---
+
 package org.chromium.ui;
 
 import android.widget.AdapterView;

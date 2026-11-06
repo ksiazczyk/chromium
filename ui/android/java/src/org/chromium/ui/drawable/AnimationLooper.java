@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationLooper
+// summary: Android helper class that loops animated drawables by restarting them on animation end, with start and stop control and a test override for animator availability.
+// ---
+
 package org.chromium.ui.drawable;
 
 import android.animation.ValueAnimator;

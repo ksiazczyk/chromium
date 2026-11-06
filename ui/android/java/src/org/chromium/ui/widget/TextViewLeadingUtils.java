@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextViewLeadingUtils for text view leading
+// summary: Utilities that read and apply the leading property for TextView and EditText subclasses, overriding line spacing attributes set in XML.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

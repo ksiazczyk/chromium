@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayAndroidManager
+// summary: Manages DisplayAndroid instances and propagates display add, remove and change events from the Android DisplayManager, including display topology support.
+// ---
+
 package org.chromium.ui.display;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

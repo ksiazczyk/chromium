@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSceneCoreSessionManager interface for XR space mode control
+// summary: Interface for managing XR scene core sessions, covering space mode transitions, entity creation, head tracking, and panel visibility.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import android.view.View;

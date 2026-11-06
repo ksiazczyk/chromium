@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSurfaceEntityHolder interface for XR surface entities
+// summary: Interface for holders of XR surface entities, managing the underlying Surface, stereo mode, shape, dimensions, corner radius, and edge feathering.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import android.view.Surface;

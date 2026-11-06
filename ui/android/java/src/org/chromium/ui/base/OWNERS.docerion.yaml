@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Per-file code owner assignments for the ui base package, covering photo picker, clipboard, form factor, activity result, and input event files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrQuaternion interface for 3D rotation
+// summary: API surface for a quaternion used in 3D rotation, exposing components, vector rotation, yaw, and factory methods.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

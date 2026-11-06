@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuItemWithSubmenuView
+// summary: Linear layout view for menu items with submenus, adding expand accessibility actions and forward-key navigation into the submenu.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import static android.view.accessibility.AccessibilityNodeInfo.EXPANDED_STATE_COLLAPSED;

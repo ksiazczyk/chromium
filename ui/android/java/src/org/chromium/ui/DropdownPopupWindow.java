@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownPopupWindow wrapper
+// summary: Wraps the dropdown popup window API and delegates all operations to DropdownPopupWindowImpl; a TODO notes it is now a noop and should be removed.
+// ---
+
 package org.chromium.ui;
 
 import android.content.Context;

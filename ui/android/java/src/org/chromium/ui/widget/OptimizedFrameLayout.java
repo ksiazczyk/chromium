@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizedFrameLayout with single-pass child measuring
+// summary: A FrameLayout that avoids measuring children multiple times within one onMeasure call and supports clamping the layout to a maximum height.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.annotation.SuppressLint;

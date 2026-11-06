@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleRecyclerViewMcpBase with payload support
+// summary: Base model change processor implementing RecyclerViewAdapter.Delegate for a SimpleList, forwarding model changes and binding items to view holders with optional payloads.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import androidx.recyclerview.widget.RecyclerView;

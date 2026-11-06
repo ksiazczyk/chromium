@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewProvider
+// summary: Generic interface supporting asynchronous view inflation, with methods to start inflation and register callbacks that run once the view is loaded.
+// ---
+
 package org.chromium.ui;
 
 import android.view.View;

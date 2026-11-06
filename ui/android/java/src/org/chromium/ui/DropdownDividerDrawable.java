@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownDividerDrawable
+// summary: Drawable that draws a divider line between dropdown items and optionally paints the popup background color.
+// ---
+
 package org.chromium.ui;
 
 import android.graphics.Canvas;

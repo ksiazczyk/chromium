@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncPreloadResourceLoader
+// summary: Loads Android resources synchronously and asynchronously via a sequenced task runner, queueing preloads and notifying a ResourceLoaderCallback when loads finish.
+// ---
+
 package org.chromium.ui.resources.async;
 
 import android.util.SparseArray;

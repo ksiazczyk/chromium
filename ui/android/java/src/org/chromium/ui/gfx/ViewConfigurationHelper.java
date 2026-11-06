@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewConfigurationHelper
+// summary: Exposes Android ViewConfiguration values such as fling velocities, touch slop and timeouts to native code, and pushes updates when the device configuration changes.
+// ---
+
 package org.chromium.ui.gfx;
 
 import android.content.ComponentCallbacks;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeImageButton
+// summary: AppCompatImageButton subclass adding workarounds for Android framework and support library bugs, including meta-state tracking and middle-click handling.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.annotation.SuppressLint;

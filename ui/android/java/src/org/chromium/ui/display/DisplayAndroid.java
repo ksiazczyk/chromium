@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayAndroid
+// summary: Chromium's Java representation of an Android display, notifying observers of rotation, density, refresh rate and display mode changes.
+// ---
+
 package org.chromium.ui.display;
 
 import android.content.Context;

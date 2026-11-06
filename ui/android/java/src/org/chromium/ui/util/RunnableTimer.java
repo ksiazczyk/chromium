@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunnableTimer
+// summary: Timer that executes a Runnable after a given duration and supports resetting or cancelling the pending execution.
+// ---
+
 package org.chromium.ui.util;
 
 import android.os.Handler;
