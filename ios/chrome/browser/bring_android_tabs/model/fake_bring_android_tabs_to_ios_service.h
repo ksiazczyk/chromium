@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBringAndroidTabsToIOSService header
+// summary: Declares a fake service for tests that takes a fixed set of tabs and records prompt display, interaction, and opened tab indices.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_MODEL_FAKE_BRING_ANDROID_TABS_TO_IOS_SERVICE_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_MODEL_FAKE_BRING_ANDROID_TABS_TO_IOS_SERVICE_H_
 

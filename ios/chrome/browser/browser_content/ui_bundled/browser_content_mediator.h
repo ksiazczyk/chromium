@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContentMediator interface
+// summary: Declares a mediator that updates a BrowserContentConsumer based on the WebStateList and the web content area overlay presenter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_MEDIATOR_H_
 

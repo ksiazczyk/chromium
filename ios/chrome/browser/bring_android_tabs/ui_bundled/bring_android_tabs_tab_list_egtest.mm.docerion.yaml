@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_tab_list_egtest.mm.
+type: test
+title: Bring Android Tabs tab list Earl Grey tests
+summary: Earl Grey integration tests covering user interactions with the Bring Android Tabs tab list, such as opening all tabs or deselecting tabs.

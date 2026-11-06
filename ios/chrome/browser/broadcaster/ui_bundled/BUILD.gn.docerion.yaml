@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the ui_bundled broadcaster sources
+summary: Defines the ui_bundled source set and its unit_tests target, listing the Objective-C sources and their GN dependencies.

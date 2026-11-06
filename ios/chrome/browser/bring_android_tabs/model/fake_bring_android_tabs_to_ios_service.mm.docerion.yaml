@@ -1,0 +1,4 @@
+# Docerion header of fake_bring_android_tabs_to_ios_service.mm.
+type: test
+title: FakeBringAndroidTabsToIOSService implementation
+summary: Implements the fake service, returning the provided tabs and tracking whether the prompt was displayed, interacted with, and which tabs were opened.

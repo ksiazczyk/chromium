@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo manager bridge observer declarations
+// summary: Declares an Objective-C protocol and a C++ bridge class that translates UndoManagerObserver callbacks into Objective-C callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_UNDO_MANAGER_BRIDGE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_UNDO_MANAGER_BRIDGE_OBSERVER_H_
 

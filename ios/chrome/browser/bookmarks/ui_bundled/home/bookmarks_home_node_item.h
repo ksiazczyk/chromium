@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksHomeNodeItem interface
+// summary: Declares a table view item that provides data for a row displaying a single bookmark or folder node.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARKS_HOME_NODE_ITEM_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARKS_HOME_NODE_ITEM_H_
 

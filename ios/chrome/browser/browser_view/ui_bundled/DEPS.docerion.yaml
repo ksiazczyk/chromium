@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui_bundled
+summary: Specifies the allowed include rules and cross-directory dependencies for source files in the ui_bundled directory.

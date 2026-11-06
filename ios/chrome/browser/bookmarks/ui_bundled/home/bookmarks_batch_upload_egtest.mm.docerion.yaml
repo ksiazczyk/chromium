@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_batch_upload_egtest.mm.
+type: test
+title: Bookmarks batch upload Earl Grey tests
+summary: Earl Grey tests verifying the batch upload recommendation UI for local bookmarks, including sections, buttons and alerts.

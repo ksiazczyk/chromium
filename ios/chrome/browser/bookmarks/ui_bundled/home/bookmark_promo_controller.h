@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark promo controller header
+// summary: Declares BookmarkPromoController, which manages display of the sign-in promo cell in the bookmarks UI and presents sign-in UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARK_PROMO_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARK_PROMO_CONTROLLER_H_
 

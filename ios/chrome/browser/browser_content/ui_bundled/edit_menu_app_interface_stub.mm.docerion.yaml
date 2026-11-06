@@ -1,0 +1,4 @@
+# Docerion header of edit_menu_app_interface_stub.mm.
+type: test
+title: Edit menu app interface stub
+summary: Registers a stub EditMenuAppInterface in the app main queue for use in Earl Grey tests.

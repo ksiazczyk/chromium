@@ -1,0 +1,4 @@
+# Docerion header of bookmark_earl_grey.mm.
+type: test
+title: Bookmark Earl Grey test helper implementation
+summary: Implements the bookmark test helpers, delegating to the app interface and serving test bookmark URLs from a shared embedded server.

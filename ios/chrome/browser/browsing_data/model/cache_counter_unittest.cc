@@ -8,6 +8,12 @@
 // responsibility of a lower layer, and is tested in
 // DiskCacheBackendTest.CalculateSizeOfAllEntries in net_unittests.
 
+// ---docerion
+// type: test
+// title: Cache counter unit tests
+// summary: Unit tests covering the basic behavior of the browsing data cache counter, such as when it counts and whether the result is nonzero, leaving value correctness to lower-layer net_unittests.
+// ---
+
 #include "ios/chrome/browser/browsing_data/model/cache_counter.h"
 
 #include <memory>

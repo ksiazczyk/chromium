@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_test_utils.mm.
+type: test
+title: Bring Android Tabs test utilities implementation
+summary: Implements test helpers for app launch configuration, FRE sign-in flow, fake sync sessions, and prompt visibility verification.

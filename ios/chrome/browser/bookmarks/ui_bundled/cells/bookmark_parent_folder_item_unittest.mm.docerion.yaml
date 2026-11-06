@@ -1,0 +1,4 @@
+# Docerion header of bookmark_parent_folder_item_unittest.mm.
+type: test
+title: Unit tests for bookmark parent folder item
+summary: Verifies that BookmarkParentFolderItem copies its title into the cell's parent folder name label during cell configuration.

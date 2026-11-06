@@ -1,0 +1,4 @@
+# Docerion header of bookmark_parent_folder_item.mm.
+type: source
+title: Bookmark parent folder item implementation
+summary: Implements the parent folder table view item and cell, building the folder label, slashed cloud icon, and stack view layout with accessibility support.

@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_coordinator.mm.
+type: source
+title: Bookmarks coordinator implementation
+summary: Implements BookmarksCoordinator, handling bookmark creation, editing, folder chooser, snackbars and presentation of bookmark UI.

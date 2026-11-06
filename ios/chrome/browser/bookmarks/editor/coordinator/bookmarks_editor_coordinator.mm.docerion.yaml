@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_editor_coordinator.mm.
+type: source
+title: Bookmarks editor coordinator implementation
+summary: Implements the bookmark editor coordinator, wiring the editor view controller and mediator, folder chooser, action sheets and snackbar handling.

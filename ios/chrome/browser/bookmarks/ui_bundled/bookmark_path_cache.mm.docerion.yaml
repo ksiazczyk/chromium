@@ -1,0 +1,4 @@
+# Docerion header of bookmark_path_cache.mm.
+type: source
+title: BookmarkPathCache implementation
+summary: Implements caching, retrieval, and clearing of the last viewed bookmark folder and top-most row using profile preferences.

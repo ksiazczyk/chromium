@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark table cell title editing protocol
+// summary: Declares the BookmarkTableCellTitleEditing protocol for starting and stopping title editing in bookmark table cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_CELLS_BOOKMARK_TABLE_CELL_TITLE_EDITING_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_CELLS_BOOKMARK_TABLE_CELL_TITLE_EDITING_H_
 

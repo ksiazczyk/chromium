@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser view test build targets (BUILD.gn)
+summary: Defines GN source sets for browser view Earl Grey test support, the visibility app interface, and eg2 test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account bookmark sync service factory implementation
+// summary: Implements the profile-keyed service factory that creates the account bookmark sync service for a profile.
+// ---
+
 #include "ios/chrome/browser/bookmarks/model/account_bookmark_sync_service_factory.h"
 
 #include "components/bookmarks/common/bookmark_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of key_commands_provider_unittest.mm.
+type: test
+title: KeyCommandsProvider unit tests
+summary: Unit tests for KeyCommandsProvider verifying keyboard shortcut registration and the resulting Chrome commands and user metrics.

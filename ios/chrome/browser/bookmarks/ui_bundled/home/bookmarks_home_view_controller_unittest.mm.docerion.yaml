@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_home_view_controller_unittest.mm.
+type: source
+title: BookmarksHomeViewController unit tests
+summary: Unit tests verifying table view population and behaviors of the bookmarks home view controller.

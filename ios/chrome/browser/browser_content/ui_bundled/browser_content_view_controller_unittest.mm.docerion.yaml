@@ -1,0 +1,4 @@
+# Docerion header of browser_content_view_controller_unittest.mm.
+type: test
+title: Browser content view controller unit tests
+summary: Unit tests verifying adding, replacing, removing, and ordering of content views and content view controllers in BrowserContentViewController.

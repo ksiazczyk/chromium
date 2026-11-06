@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_home_mediator.mm.
+type: source
+title: BookmarksHomeMediator implementation
+summary: Implements the bookmarks home mediator, covering search results, sign-in promo, sync state, and batch upload handling.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_broadcaster.mm.
+type: source
+title: Implementation of ChromeBroadcaster
+summary: Implements ChromeBroadcaster using KVO and NSInvocation to broadcast observed property values to registered ChromeBroadcastObserver instances.

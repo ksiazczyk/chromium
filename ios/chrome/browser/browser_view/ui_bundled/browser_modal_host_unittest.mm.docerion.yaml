@@ -1,0 +1,4 @@
+# Docerion header of browser_modal_host_unittest.mm.
+type: test
+title: BrowserModalHost unit tests
+summary: Contains unit tests for BrowserModalHost verifying modal command handling and presentation using OCMock and a platform test fixture.

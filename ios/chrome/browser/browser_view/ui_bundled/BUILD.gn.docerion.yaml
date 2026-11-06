@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ui_bundled
+summary: Defines the source sets and dependencies for the browser view ui_bundled targets, including safe_area_provider and the main ui_bundled set.

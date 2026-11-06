@@ -1,0 +1,4 @@
+# Docerion header of browser_view_controller.mm.
+type: source
+title: BrowserViewController implementation
+summary: Implements the top-level browser view controller, wiring up coordinators, fullscreen, omnibox, metrics and other browser UI behaviors.

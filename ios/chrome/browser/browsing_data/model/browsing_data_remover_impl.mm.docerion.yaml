@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover_impl.mm.
+type: source
+title: BrowsingDataRemoverImpl implementation
+summary: Implements browsing data removal for iOS Chrome, clearing cache, cookies, history, passwords, autofill and other data types according to the remove mask and time period.

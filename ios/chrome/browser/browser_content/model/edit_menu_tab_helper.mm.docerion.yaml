@@ -1,0 +1,4 @@
+# Docerion header of edit_menu_tab_helper.mm.
+type: source
+title: EditMenuTabHelper implementation
+summary: Implements EditMenuTabHelper, delegating edit menu construction to the attached EditMenuBuilder for the web state.

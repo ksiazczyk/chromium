@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksHomeMediator interface
+// summary: Declares the mediator that manages bookmark model interactions, sections, and preferences for the bookmarks home UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARKS_HOME_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARKS_HOME_MEDIATOR_H_
 

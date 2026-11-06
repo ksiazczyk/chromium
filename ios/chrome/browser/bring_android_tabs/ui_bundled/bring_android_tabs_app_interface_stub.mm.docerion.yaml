@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_app_interface_stub.mm.
+type: test
+title: Stub of the Bring Android Tabs test app interface
+summary: Registers a stub BringAndroidTabsAppInterface class in the app main queue for Earl Grey test builds.

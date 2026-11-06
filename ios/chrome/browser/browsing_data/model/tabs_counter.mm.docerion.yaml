@@ -1,0 +1,4 @@
+# Docerion header of tabs_counter.mm.
+type: source
+title: TabsCounter implementation
+summary: Implements TabsCounter by loading last navigation timestamps from the session restoration service for all regular and inactive browsers and reporting total tab and window counts for the deletion period.

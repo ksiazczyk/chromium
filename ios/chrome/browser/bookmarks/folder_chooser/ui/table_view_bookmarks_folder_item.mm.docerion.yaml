@@ -1,0 +1,4 @@
+# Docerion header of table_view_bookmarks_folder_item.mm.
+type: source
+title: Bookmarks folder table view item and cell implementation
+summary: Implements folder row rendering with indentation, folder and new-folder icons, checkmark accessory, and title editing support.

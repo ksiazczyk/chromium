@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks editor coordinator header
+// summary: Declares the BookmarksEditorCoordinator that presents the bookmark editor UI for editing a bookmark node or URL on iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_COORDINATOR_BOOKMARKS_EDITOR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_COORDINATOR_BOOKMARKS_EDITOR_COORDINATOR_H_
 

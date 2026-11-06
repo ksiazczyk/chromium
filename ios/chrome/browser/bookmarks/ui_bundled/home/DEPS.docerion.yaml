@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bookmarks home include rules
+summary: Lists the allowed include rules for dependencies that the bookmarks home directory may use.

@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_editor_view_controller_unittest.mm.
+type: test
+title: Bookmarks editor view controller unit tests
+summary: Unit tests for the editor view controller covering first responder status, key commands, metrics reporting and syncing before the view loads.

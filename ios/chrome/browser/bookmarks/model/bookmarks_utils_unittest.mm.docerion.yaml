@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_utils_unittest.mm.
+type: test
+title: Unit tests for bookmarks utilities
+summary: Unit tests covering default bookmark folder selection and last-used folder preference behavior with and without account bookmarks.

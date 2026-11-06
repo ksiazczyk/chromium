@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPathCache interface
+// summary: Declares BookmarkPathCache, which stores and retrieves the bookmark folder and top-most row the user last viewed in preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_BOOKMARK_PATH_CACHE_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_BOOKMARK_PATH_CACHE_H_
 

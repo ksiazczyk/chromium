@@ -1,0 +1,4 @@
+# Docerion header of browser_view_controller_egtest.mm.
+type: test
+title: Browser view controller Earl Grey tests
+summary: Earl Grey UI test suite for the browser view controller, covering new tab page interactions and omnibox JavaScript behavior.

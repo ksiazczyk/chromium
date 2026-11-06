@@ -1,0 +1,4 @@
+# Docerion header of tab_list_from_android_mediator.mm.
+type: source
+title: Tab list from Android mediator implementation
+summary: Supplies tab list items, loads favicons, records usage metrics and opens the selected Android tabs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBrowserViewController header
+// summary: Declares a fake view controller implementing the BrowserLayoutConsumer protocol for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_FAKE_BROWSER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_FAKE_BROWSER_VIEW_CONTROLLER_H_
 

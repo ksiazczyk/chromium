@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the browsing data model
+summary: Defines GN source sets for the iOS browsing data model, including the remover, counters, and utility targets with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover_impl_unittest.mm.
+type: test
+title: BrowsingDataRemoverImpl unit tests
+summary: Unit tests verifying that BrowsingDataRemoverImpl removes browsing data with the expected mask, records deletion duration histograms and notifies its observers.

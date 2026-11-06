@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_chooser_view_controller.mm.
+type: source
+title: Bookmarks folder chooser view controller implementation
+summary: Implements the folder picker UI with account and local sections, search support, and a create-new-folder row.

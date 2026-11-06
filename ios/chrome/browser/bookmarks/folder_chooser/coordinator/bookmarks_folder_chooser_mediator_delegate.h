@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks folder chooser mediator delegate protocol
+// summary: Defines the delegate protocol the mediator uses to request dismissal of the folder chooser UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_COORDINATOR_BOOKMARKS_FOLDER_CHOOSER_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_COORDINATOR_BOOKMARKS_FOLDER_CHOOSER_MEDIATOR_DELEGATE_H_
 

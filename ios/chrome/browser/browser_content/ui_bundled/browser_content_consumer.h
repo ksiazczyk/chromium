@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContentConsumer protocol header
+// summary: Declares a protocol for consumers that can block the content view while keeping web content area overlays visible.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_UI_BUNDLED_BROWSER_CONTENT_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browser_content_view_controller.mm.
+type: source
+title: Browser content view controller implementation
+summary: Implements the view controller that hosts and swaps browser content views and view controllers, including content blocking and edit menu triggering.

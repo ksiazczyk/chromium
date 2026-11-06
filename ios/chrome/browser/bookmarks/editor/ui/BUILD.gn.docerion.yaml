@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the bookmarks editor UI
+summary: Defines the ui and unit_tests source sets with their sources and dependencies for the bookmarks editor UI.

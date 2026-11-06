@@ -1,0 +1,4 @@
+# Docerion header of browser_coordinator_unittest.mm.
+type: test
+title: BrowserCoordinator unit tests
+summary: Contains unit tests for BrowserCoordinator exercising coordinator behavior with test browser, profile, and mocked services.

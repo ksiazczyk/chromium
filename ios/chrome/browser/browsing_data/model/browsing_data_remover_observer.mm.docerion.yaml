@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover_observer.mm.
+type: source
+title: BrowsingDataRemoverObserver implementation
+summary: Implements the BrowsingDataRemoverObserver destructor, checking that observers leave the remover's observer list before being destroyed.

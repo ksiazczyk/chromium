@@ -1,0 +1,4 @@
+# Docerion header of browser_edit_menu_utils.mm.
+type: source
+title: Browser edit menu utilities implementation
+summary: Implements creation and placement of the Chrome and secondary edit menus and appends elements to them.

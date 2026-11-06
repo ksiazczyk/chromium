@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_chooser_mediator.mm.
+type: source
+title: Bookmarks folder chooser mediator implementation
+summary: Implements the mediator with local and account bookmark data sources, signin and sync observers, and filtering of nodes being moved.

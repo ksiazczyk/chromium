@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks folder chooser sub data source interface
+// summary: Declares the parent data source protocol and the sub data source class that wraps a single bookmark model for the folder chooser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_BOOKMARKS_FOLDER_CHOOSER_SUB_DATA_SOURCE_IMPL_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_BOOKMARKS_FOLDER_CHOOSER_SUB_DATA_SOURCE_IMPL_H_
 

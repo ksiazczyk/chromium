@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark text field item and cell header
+// summary: Declares BookmarkTextFieldItem and BookmarkTextFieldCell for editing a bookmark's title or URL text, with a delegate protocol for text change events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_CELLS_BOOKMARK_TEXT_FIELD_ITEM_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_CELLS_BOOKMARK_TEXT_FIELD_ITEM_H_
 

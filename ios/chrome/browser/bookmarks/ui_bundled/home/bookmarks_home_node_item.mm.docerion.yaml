@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_home_node_item.mm.
+type: source
+title: BookmarksHomeNodeItem implementation
+summary: Implements the table view item that configures cells for bookmark and folder rows with titles, URLs, and favicons.

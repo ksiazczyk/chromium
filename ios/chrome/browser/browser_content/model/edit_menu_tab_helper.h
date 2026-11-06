@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditMenuTabHelper class header
+// summary: Declares a WebStateUserData tab helper that forwards edit menu handling from the web view and stores the current EditMenuBuilder.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_CONTENT_MODEL_EDIT_MENU_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_BROWSER_CONTENT_MODEL_EDIT_MENU_TAB_HELPER_H_
 

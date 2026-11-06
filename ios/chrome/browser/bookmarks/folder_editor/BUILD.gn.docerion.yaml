@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the bookmarks folder editor
+summary: Defines the GN build targets for the iOS bookmarks folder editor, grouping public coordinator headers, coordinator implementation, and private UI sources with their dependencies.

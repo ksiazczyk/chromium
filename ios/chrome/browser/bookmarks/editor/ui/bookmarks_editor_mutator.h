@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks editor mutator protocol
+// summary: Declares the protocol through which the editor view controller commits or deletes bookmark changes and exposes temporary accessors for migration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_UI_BOOKMARKS_EDITOR_MUTATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_UI_BOOKMARKS_EDITOR_MUTATOR_H_
 

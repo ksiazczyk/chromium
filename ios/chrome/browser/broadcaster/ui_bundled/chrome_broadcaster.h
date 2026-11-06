@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBroadcaster interface for property broadcasting
+// summary: Declares ChromeBroadcaster, an interface for lightweight synchronization of object properties to observers via broadcast selectors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROADCASTER_UI_BUNDLED_CHROME_BROADCASTER_H_
 #define IOS_CHROME_BROWSER_BROADCASTER_UI_BUNDLED_CHROME_BROADCASTER_H_
 

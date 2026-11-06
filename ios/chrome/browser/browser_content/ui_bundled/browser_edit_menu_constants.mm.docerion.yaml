@@ -1,0 +1,4 @@
+# Docerion header of browser_edit_menu_constants.mm.
+type: source
+title: Browser edit menu constants implementation
+summary: Defines the string identifiers for the Chrome edit menu and its secondary Explain With Gemini menu.

@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_prompt_coordinator.mm.
+type: source
+title: Bring Android Tabs prompt coordinator
+summary: Coordinates the Bring Android Tabs prompt, setting up half sheet presentation and connecting the mediator with the confirmation alert view controller.

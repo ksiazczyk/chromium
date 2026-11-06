@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark undo service factory header
+// summary: Declares the iOS profile-keyed service factory that owns and creates BookmarkUndoService instances per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_MODEL_BOOKMARK_UNDO_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_MODEL_BOOKMARK_UNDO_SERVICE_FACTORY_H_
 

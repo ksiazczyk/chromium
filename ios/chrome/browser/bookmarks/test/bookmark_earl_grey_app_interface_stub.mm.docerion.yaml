@@ -1,0 +1,4 @@
+# Docerion header of bookmark_earl_grey_app_interface_stub.mm.
+type: test
+title: Stub for the bookmark app interface
+summary: Registers a stub of BookmarkEarlGreyAppInterface in the app main queue for Earl Grey test builds.

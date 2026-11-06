@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks utilities interface
+// summary: Declares helpers for permanent bookmark folders, last-used folder preferences, and default bookmark folder selection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_MODEL_BOOKMARKS_UTILS_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_MODEL_BOOKMARKS_UTILS_H_
 

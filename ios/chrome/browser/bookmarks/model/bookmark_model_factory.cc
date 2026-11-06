@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkModelFactory implementation
+// summary: Builds the profile-scoped BookmarkModel service for iOS, wiring in sync, managed bookmark, and undo service dependencies.
+// ---
+
 #include "ios/chrome/browser/bookmarks/model/bookmark_model_factory.h"
 
 #include "base/containers/extend.h"

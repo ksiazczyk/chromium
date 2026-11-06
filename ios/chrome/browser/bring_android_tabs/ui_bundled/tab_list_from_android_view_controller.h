@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list from Android view controller header
+// summary: Declares the table view controller that displays the Bring Android Tabs tab list.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_TAB_LIST_FROM_ANDROID_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_TAB_LIST_FROM_ANDROID_VIEW_CONTROLLER_H_
 

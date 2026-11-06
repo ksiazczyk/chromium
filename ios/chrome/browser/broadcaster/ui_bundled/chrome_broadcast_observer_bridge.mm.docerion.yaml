@@ -1,0 +1,4 @@
+# Docerion header of chrome_broadcast_observer_bridge.mm.
+type: source
+title: Implementation of the broadcast observer bridge
+summary: Implements the bridge methods that forward broadcast scroll and toolbar values to a C++ ChromeBroadcastObserverInterface observer.

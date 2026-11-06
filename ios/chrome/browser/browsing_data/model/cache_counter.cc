@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheCounter implementation
+// summary: Implements CacheCounter, computing the size of the HTTP disk cache on the IO thread and reporting the result for the clear browsing data UI.
+// ---
+
 #include "ios/chrome/browser/browsing_data/model/cache_counter.h"
 
 #include "base/functional/bind.h"

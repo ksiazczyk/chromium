@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyCommandsProvider header
+// summary: Declares KeyCommandsProvider, which registers and dispatches hardware keyboard commands for the browser view controller to command handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_KEY_COMMANDS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_KEY_COMMANDS_PROVIDER_H_
 

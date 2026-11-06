@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks folder table view item and cell interface
+// summary: Declares the table view item and cell that render a bookmark folder row with checkmark, disclosure, and cloud slash accessories.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_TABLE_VIEW_BOOKMARKS_FOLDER_ITEM_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_FOLDER_CHOOSER_UI_TABLE_VIEW_BOOKMARKS_FOLDER_ITEM_H_
 

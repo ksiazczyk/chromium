@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkModelFactory unit tests
+// summary: Tests bookmark ID reassignment and metrics logging when bookmark files on disk contain colliding IDs.
+// ---
+
 #include "ios/chrome/browser/bookmarks/model/bookmark_model_factory.h"
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Bring Android Tabs UI constants implementation
+summary: Defines the accessibility identifier strings and favicon size used by the Bring Android Tabs UI.

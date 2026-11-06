@@ -1,0 +1,4 @@
+# Docerion header of undo_manager_bridge_observer.mm.
+type: source
+title: Undo manager bridge observer implementation
+summary: Implements the bridge that forwards undo manager state change and shutdown callbacks to the Objective-C observer.

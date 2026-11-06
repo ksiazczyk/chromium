@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Bring Android Tabs UI
+summary: Defines GN source sets for the coordinator, UI, Swift prompt, constants, unit tests, and Earl Grey app support of the Bring Android Tabs feature.

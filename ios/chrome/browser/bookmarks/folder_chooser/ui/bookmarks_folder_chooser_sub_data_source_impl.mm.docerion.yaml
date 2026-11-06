@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_chooser_sub_data_source_impl.mm.
+type: source
+title: Bookmarks folder chooser sub data source implementation
+summary: Implements the sub data source, observing bookmark model changes and exposing visible folder nodes and nodes for search queries.

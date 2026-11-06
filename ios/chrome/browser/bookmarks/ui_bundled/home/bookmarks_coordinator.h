@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks coordinator header
+// summary: Declares BookmarksCoordinator, which manages UI for creating, removing and editing bookmarks and presents the bookmarks browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARKS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_HOME_BOOKMARKS_COORDINATOR_H_
 

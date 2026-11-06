@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo manager wrapper interface for bookmarks
+// summary: Declares an Objective-C wrapper around the UndoManager that groups bookmark model changes and supports undoing them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_UNDO_MANAGER_WRAPPER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_UI_BUNDLED_UNDO_MANAGER_WRAPPER_H_
 

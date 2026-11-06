@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks utilities implementation
+// summary: Implements helpers for permanent bookmark folders, last-used folder preferences, default folder selection, and ID migration on iOS.
+// ---
+
 #include "ios/chrome/browser/bookmarks/model/bookmarks_utils.h"
 
 #include "base/check.h"

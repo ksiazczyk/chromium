@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_remover_observer_bridge_unittest.mm.
+type: test
+title: BrowsingDataRemoverObserverBridge unit tests
+summary: Tests that the observer bridge forwards OnBrowsingDataRemoved events with the remover and mask to a fake Objective-C observer.

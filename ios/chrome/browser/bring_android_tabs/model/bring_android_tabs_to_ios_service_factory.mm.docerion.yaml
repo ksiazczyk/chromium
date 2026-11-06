@@ -1,0 +1,4 @@
+# Docerion header of bring_android_tabs_to_ios_service_factory.mm.
+type: source
+title: BringAndroidTabsToIOSServiceFactory implementation
+summary: Creates the service for regular profiles when the segmentation platform feature is enabled and registers the prompt-displayed preference.

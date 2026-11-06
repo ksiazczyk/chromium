@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift confirmation alert view controller for Bring Android Tabs prompt
+// summary: Implements the half-sheet Bring Android Tabs prompt on top of ConfirmationAlertViewController with open, cancel, and review actions.
+// ---
+
 import UIKit
 
 // Spacing before and after the top image in the confirmation alert prompt.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks editor coordinator delegate protocol
+// summary: Declares the delegate protocol for the bookmarks editor coordinator, notifying when editing finishes and when a title or URL change is committed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_COORDINATOR_BOOKMARKS_EDITOR_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_COORDINATOR_BOOKMARKS_EDITOR_COORDINATOR_DELEGATE_H_
 

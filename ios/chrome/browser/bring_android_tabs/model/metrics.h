@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bring Android Tabs metrics declarations
+// summary: Declares histogram name constants and enums for logging Bring Android Tabs prompt, tab list, and prompt attempt status metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_MODEL_METRICS_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_MODEL_METRICS_H_
 

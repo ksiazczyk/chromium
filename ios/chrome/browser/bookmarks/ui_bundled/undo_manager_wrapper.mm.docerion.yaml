@@ -1,0 +1,4 @@
+# Docerion header of undo_manager_wrapper.mm.
+type: source
+title: Undo manager wrapper implementation for bookmarks
+summary: Implements the Objective-C wrapper that observes the profile's undo manager, groups actions, and reverts bookmark model changes.

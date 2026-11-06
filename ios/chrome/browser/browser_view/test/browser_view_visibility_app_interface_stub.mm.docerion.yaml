@@ -1,0 +1,4 @@
+# Docerion header of browser_view_visibility_app_interface_stub.mm.
+type: test
+title: Browser view visibility app interface stub
+summary: Stubs the browser view visibility app interface for use in the Earl Grey test support target.

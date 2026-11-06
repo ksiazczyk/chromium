@@ -1,0 +1,4 @@
+# Docerion header of browser_omnibox_state_provider.mm.
+type: source
+title: BrowserOmniboxStateProvider implementation
+summary: Implements the omnibox state provider that reports whether the omnibox is focused, delegating to the composebox and location bar state providers.

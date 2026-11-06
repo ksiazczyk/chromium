@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_chooser_mediator_unittest.mm.
+type: test
+title: Bookmarks folder chooser mediator unit tests
+summary: Unit tests verifying the folder chooser mediator's cloud icon display and account bookmarks visibility behaviour.

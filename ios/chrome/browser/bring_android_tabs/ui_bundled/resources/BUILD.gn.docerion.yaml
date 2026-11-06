@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bring Android tabs resources build definition
+summary: Declares the asset catalog and icon image sources to bundle as resources for the bring Android tabs iOS feature.

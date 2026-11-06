@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for bookmarks folder chooser UI
+summary: Defines the source_set for the folder chooser UI, listing its sources, dependencies, and the UIKit framework.

@@ -1,0 +1,4 @@
+# Docerion header of managed_bookmark_service_factory.mm.
+type: source
+title: Managed bookmark service factory implementation
+summary: Builds ManagedBookmarkService instances from profile prefs and the signed-in identity's hosted domain.

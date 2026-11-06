@@ -1,0 +1,4 @@
+# Docerion header of fake_browsing_data_remover_observer.mm.
+type: test
+title: Fake browsing data remover observer implementation
+summary: Implements the fake observer by recording the remover and mask from the didRemoveBrowsingDataWithMask callback for later inspection.

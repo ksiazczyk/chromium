@@ -1,0 +1,4 @@
+# Docerion header of bookmark_utils_ios.mm.
+type: source
+title: Bookmark utility function implementations for iOS Chrome
+summary: Implements iOS bookmark utilities such as folder lookup, node retrieval by IDs, bookmark updates with undo snackbars, and recursive bookmark removal.

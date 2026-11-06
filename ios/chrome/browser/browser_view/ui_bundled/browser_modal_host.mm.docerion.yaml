@@ -1,0 +1,4 @@
+# Docerion header of browser_modal_host.mm.
+type: source
+title: BrowserModalHost implementation
+summary: Implements BrowserModalHost, presenting and dismissing browser-level modal UI such as signin promos, autofill sheets, and download coordinators.

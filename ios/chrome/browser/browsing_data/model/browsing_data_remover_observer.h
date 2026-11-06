@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataRemoverObserver interface
+// summary: Declares the observer interface notified by BrowsingDataRemover when browsing data has been successfully removed, passing along the removal mask.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_REMOVER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_REMOVER_OBSERVER_H_
 

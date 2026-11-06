@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data counter wrapper class header
+// summary: Declares a wrapper that creates browsing data counters and forwards their results to a UI update callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_COUNTER_WRAPPER_H_
 #define IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_COUNTER_WRAPPER_H_
 

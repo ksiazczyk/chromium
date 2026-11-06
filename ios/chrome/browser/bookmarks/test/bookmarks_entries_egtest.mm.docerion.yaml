@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_entries_egtest.mm.
+type: test
+title: Bookmark entries Earl Grey integration tests
+summary: Earl Grey tests for bookmark entry operations such as undoing deletions, copying, and opening bookmarks in new tabs or windows.

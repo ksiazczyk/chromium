@@ -1,0 +1,4 @@
+# Docerion header of bookmark_path_cache_unittest.mm.
+type: test
+title: BookmarkPathCache unit tests
+summary: Unit tests verifying that the bookmark path cache stores and retrieves values and reports no cache after the folder is deleted.

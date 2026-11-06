@@ -1,0 +1,4 @@
+# Docerion header of system_snapshots_cleaner_unittest.mm.
+type: test
+title: System snapshots cleaner unit tests
+summary: Unit tests checking that the generated snapshot paths match the expected bundle ID, orientation, and screen scale patterns.

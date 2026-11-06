@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataRemoverImpl class header
+// summary: Declares BrowsingDataRemoverImpl, the concrete implementation of the BrowsingDataRemover interface that queues and executes browsing data removal tasks for an iOS Chrome profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_REMOVER_IMPL_H_
 #define IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_BROWSING_DATA_REMOVER_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of bookmark_model_bridge_observer.mm.
+type: source
+title: BookmarkModelBridge observer implementation
+summary: Bridges C++ BookmarkModel change notifications to Objective-C observers implementing the BookmarkModelBridgeObserver protocol.

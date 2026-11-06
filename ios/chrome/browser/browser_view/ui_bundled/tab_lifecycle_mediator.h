@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLifecycleMediator header
+// summary: Declares TabLifecycleMediator, which installs UI-dependent tab helper delegates on the web states of a browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_TAB_LIFECYCLE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BROWSER_VIEW_UI_BUNDLED_TAB_LIFECYCLE_MEDIATOR_H_
 

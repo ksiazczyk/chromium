@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabsCounter browsing data counter declaration
+// summary: Declares TabsCounter, a BrowsingDataCounter that computes how many tabs and windows have a last navigation timestamp within the deletion time range and caches the matching tab info.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_TABS_COUNTER_H_
 #define IOS_CHROME_BROWSER_BROWSING_DATA_MODEL_TABS_COUNTER_H_
 

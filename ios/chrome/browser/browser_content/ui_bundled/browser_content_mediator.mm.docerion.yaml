@@ -1,0 +1,4 @@
+# Docerion header of browser_content_mediator.mm.
+type: source
+title: BrowserContentMediator implementation
+summary: Implements the mediator, blocking the content view when an HTTP authentication dialog is shown for a non-committed URL.

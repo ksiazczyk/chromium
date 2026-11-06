@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list from Android mediator header
+// summary: Declares the mediator that loads Android tabs via the Bring Android Tabs service and handles view controller interactions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_TAB_LIST_FROM_ANDROID_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_TAB_LIST_FROM_ANDROID_MEDIATOR_H_
 

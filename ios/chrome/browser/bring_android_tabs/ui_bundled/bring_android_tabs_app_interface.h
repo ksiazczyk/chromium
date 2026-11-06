@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test app interface header for Bring Android Tabs
+// summary: Declares test helpers that create fake foreign sessions, inject them into the fake sync server, and report the tab count shown in the prompt.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_BRING_ANDROID_TABS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_BRING_ANDROID_TABS_UI_BUNDLED_BRING_ANDROID_TABS_APP_INTERFACE_H_
 

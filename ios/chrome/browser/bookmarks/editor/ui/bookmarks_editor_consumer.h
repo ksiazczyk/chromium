@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks editor consumer protocol
+// summary: Declares the protocol used to update the bookmarks editor view controller when its bookmark, folder label or sync state changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_UI_BOOKMARKS_EDITOR_CONSUMER_H_
 #define IOS_CHROME_BROWSER_BOOKMARKS_EDITOR_UI_BOOKMARKS_EDITOR_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build definition for bookmarks editor Earl Grey tests
+summary: GN build file defining the eg2_tests source_set that compiles the bookmarks editor Earl Grey UI test with its test support and framework dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of managed_bookmarks_egtest.mm.
+type: test
+title: Managed bookmarks Earl Grey integration tests
+summary: Earl Grey tests for policy-managed bookmarks, verifying that managed bookmark behavior and context bar actions follow applied policies.

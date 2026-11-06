@@ -1,0 +1,4 @@
+# Docerion header of bookmarks_folder_editor_view_controller.mm.
+type: source
+title: Bookmarks folder editor view controller implementation
+summary: Implements the bookmark folder editor UI, observing bookmark model and sync changes, handling title edits, parent folder moves, deletion, and snackbar or action sheet interactions.
