@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryTableViewController class header
+// summary: Declares the table view controller that displays history items, with an optional searchTerms property for filtering the shown entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_TABLE_VIEW_CONTROLLER_H_
 

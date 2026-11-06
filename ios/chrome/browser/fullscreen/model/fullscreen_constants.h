@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen transition constants
+// summary: Defines progress thresholds, scroll distances, resistance factor, and animation duration constants used by fullscreen transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_MODEL_FULLSCREEN_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_MODEL_FULLSCREEN_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Google One shared build targets
+summary: Defines GN source sets for the Google One shared entry point header, deep link utilities, and their unit tests, along with their dependencies.

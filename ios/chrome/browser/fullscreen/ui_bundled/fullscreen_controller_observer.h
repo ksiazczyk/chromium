@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenControllerObserver interface
+// summary: Observer interface for listening to fullscreen state changes such as viewport inset range, fullscreen progress, enabled state, and animation events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_CONTROLLER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_CONTROLLER_OBSERVER_H_
 

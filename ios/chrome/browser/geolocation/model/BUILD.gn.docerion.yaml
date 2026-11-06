@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Geolocation model build targets
+summary: GN build file defining source sets for the geolocation manager, authorization status cache utility, and their unit tests.

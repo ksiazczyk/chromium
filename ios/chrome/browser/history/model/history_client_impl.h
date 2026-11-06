@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryClientImpl header
+// summary: Declares HistoryClientImpl, a history client and bookmark model observer that links bookmarks with the history service on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_CLIENT_IMPL_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_CLIENT_IMPL_H_
 

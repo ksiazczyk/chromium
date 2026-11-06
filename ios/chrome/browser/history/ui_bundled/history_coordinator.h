@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History coordinator interface
+// summary: Declares HistoryCoordinator, a coordinator that presents the History UI, with optional search terms to filter the displayed history items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_COORDINATOR_H_
 

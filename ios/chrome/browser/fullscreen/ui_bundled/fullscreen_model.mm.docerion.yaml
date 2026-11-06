@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_model.mm.
+type: source
+title: FullscreenModel implementation
+summary: Implements FullscreenModel, tracking scroll offsets and toolbar heights to compute fullscreen progress, disabled state, and exit transition metrics.

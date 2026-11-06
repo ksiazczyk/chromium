@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFullscreenControllerObserver declarations
+// summary: Declares a test observer that records fullscreen inset, progress, enabled, animator and shutdown state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_TEST_FULLSCREEN_CONTROLLER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_TEST_FULLSCREEN_CONTROLLER_OBSERVER_H_
 

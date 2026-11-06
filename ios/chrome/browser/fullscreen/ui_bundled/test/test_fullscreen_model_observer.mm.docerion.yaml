@@ -1,0 +1,4 @@
+# Docerion header of test_fullscreen_model_observer.mm.
+type: test
+title: TestFullscreenModelObserver implementation
+summary: Implements TestFullscreenModelObserver, capturing progress, enabled state, scroll end events and reset calls from the fullscreen model.

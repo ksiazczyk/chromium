@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_mediator_unittest.mm.
+type: test
+title: Fullscreen mediator unit tests
+summary: Unit tests covering FullscreenMediator scroll and inset behavior using fake web states, scroll views and histogram testers.

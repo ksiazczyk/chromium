@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryMediator class header
+// summary: Declares the history favicon data source mediator, initialized with a profile, that conforms to TableViewFaviconDataSource.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_MEDIATOR_H_
 

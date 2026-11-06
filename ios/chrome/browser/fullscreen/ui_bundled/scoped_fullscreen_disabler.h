@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFullscreenDisabler header
+// summary: Declares a helper that increments the fullscreen disabled counter for its lifetime, supporting both the legacy controller and FullscreenCommands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_SCOPED_FULLSCREEN_DISABLER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_SCOPED_FULLSCREEN_DISABLER_H_
 

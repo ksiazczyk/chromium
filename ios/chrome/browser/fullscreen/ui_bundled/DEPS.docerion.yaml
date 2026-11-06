@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for fullscreen UI bundled dependencies
+summary: Grants this directory include access to broadcaster, find-in-page, legacy toolbar fullscreen, and web view proxy headers.

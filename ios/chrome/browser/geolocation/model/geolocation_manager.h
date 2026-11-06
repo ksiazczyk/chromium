@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationManager interface
+// summary: Declares the GeolocationManager singleton that exposes the most recent geolocation authorization status.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_GEOLOCATION_MODEL_GEOLOCATION_MANAGER_H_
 #define IOS_CHROME_BROWSER_GEOLOCATION_MODEL_GEOLOCATION_MANAGER_H_
 

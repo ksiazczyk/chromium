@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History UI resources build configuration
+summary: GN build target that bundles the Assets.xcassets catalog, including history empty-state images, for the iOS Chrome history UI.

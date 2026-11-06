@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen coordinator GN build definition
+summary: Defines the GN source sets and dependencies for the fullscreen coordinator and its unit tests.

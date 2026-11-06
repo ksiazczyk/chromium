@@ -1,0 +1,4 @@
+# Docerion header of google_one_deep_link_util.mm.
+type: source
+title: Google One deep link utility implementation
+summary: Implements detection of one.google.com deep links, account extraction via the Google One provider, and lookup of matching system identities.

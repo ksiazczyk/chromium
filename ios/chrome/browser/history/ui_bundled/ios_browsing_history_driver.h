@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS browsing history driver
+// summary: Declares the iOS implementation of the BrowsingHistoryDriver interface that forwards history service callbacks to a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_IOS_BROWSING_HISTORY_DRIVER_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_IOS_BROWSING_HISTORY_DRIVER_H_
 

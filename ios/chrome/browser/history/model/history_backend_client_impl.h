@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryBackendClientImpl header
+// summary: Declares HistoryBackendClientImpl, the iOS history backend client that uses the bookmark model loader to answer bookmark queries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_BACKEND_CLIENT_IMPL_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_BACKEND_CLIENT_IMPL_H_
 

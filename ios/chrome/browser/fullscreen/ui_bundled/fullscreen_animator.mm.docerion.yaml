@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_animator.mm.
+type: source
+title: FullscreenAnimator implementation
+summary: Implements fullscreen progress animation using a Material Design timing curve and preserves progress when the animation stops.

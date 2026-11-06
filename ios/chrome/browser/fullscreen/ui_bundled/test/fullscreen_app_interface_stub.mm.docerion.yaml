@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_app_interface_stub.mm.
+type: test
+title: FullscreenAppInterface Earl Grey stub
+summary: Stubs FullscreenAppInterface in the test runner process for Earl Grey 2 distant object communication.

@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_state_observer.mm.
+type: source
+title: FullscreenWebStateObserver implementation
+summary: Implements navigation and scroll view proxy handling, adjusting content insets for different MIME types such as PDFs.

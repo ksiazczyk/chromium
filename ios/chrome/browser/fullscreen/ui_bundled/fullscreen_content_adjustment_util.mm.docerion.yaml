@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_content_adjustment_util.mm.
+type: source
+title: Fullscreen content adjustment utility implementation
+summary: Implements MoveContentBelowHeader by setting the scroll view content offset from the model's current toolbar insets.

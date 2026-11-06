@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenModelObserver interface
+// summary: Observer interface for FullscreenModel changes, including progress updates, enabled state changes, scroll event start and end, and model resets.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_MODEL_OBSERVER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_MODEL_OBSERVER_H_
 

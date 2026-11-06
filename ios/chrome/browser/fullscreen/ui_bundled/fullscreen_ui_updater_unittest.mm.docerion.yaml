@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_ui_updater_unittest.mm.
+type: test
+title: FullscreenUIUpdater unit tests
+summary: Unit tests verifying that FullscreenUIUpdater correctly forwards progress, insets, enabled state, and animation events to UI elements.

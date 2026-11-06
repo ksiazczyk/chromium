@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_controller_impl.mm.
+type: source
+title: FullscreenControllerImpl implementation
+summary: Implements the FullscreenController service for iOS Chrome, wiring the fullscreen model, mediator, web state observers, and Chrome broadcaster to drive toolbar fullscreen behavior.

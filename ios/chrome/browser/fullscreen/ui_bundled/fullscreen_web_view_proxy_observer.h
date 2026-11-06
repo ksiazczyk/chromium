@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenWebViewProxyObserver header
+// summary: Declares a helper object that observes the active WebState's CRWWebViewProxy and updates it using the fullscreen model.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_WEB_VIEW_PROXY_OBSERVER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_WEB_VIEW_PROXY_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Google One directory OWNERS
+summary: Lists the owners responsible for reviewing changes in the ios/chrome/browser/google_one directory.

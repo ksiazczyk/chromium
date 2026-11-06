@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointing to the shared GCM owners file
+summary: Delegates code ownership for this directory to the owners file of chrome/browser/gcm.

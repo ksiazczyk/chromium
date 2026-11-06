@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_controller_observer.mm.
+type: source
+title: FullscreenControllerObserver implementation
+summary: Implements the FullscreenControllerObserver destructor, which checks that observers are removed from the controller's observer list before destruction.

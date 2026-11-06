@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Google One controller and factory declarations
+// summary: Declares a test Google One controller that presents a red screen and a factory returning it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_GOOGLE_ONE_TEST_TEST_GOOGLE_ONE_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_GOOGLE_ONE_TEST_TEST_GOOGLE_ONE_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the fullscreen UI bundled sources
+summary: Defines source sets and dependencies for the iOS fullscreen UI bundled code, including unit test and Earl Grey test targets.

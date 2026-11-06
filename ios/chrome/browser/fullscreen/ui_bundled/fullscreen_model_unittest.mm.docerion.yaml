@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_model_unittest.mm.
+type: test
+title: FullscreenModel unit tests
+summary: Unit tests for FullscreenModel covering enable and disable counters, navigation resets, scroll progress, and toolbar inset calculations.

@@ -1,0 +1,4 @@
+# Docerion header of google_one_coordinator_unittest.mm.
+type: test
+title: GoogleOneCoordinator unit tests
+summary: Tests the coordinator with fake Google One controllers and histogram testers to verify launch, stop, and metrics behavior.

@@ -1,0 +1,4 @@
+# Docerion header of history_ui_constants.mm.
+type: source
+title: History UI accessibility identifier definitions
+summary: Defines the NSString constants for the history UI accessibility identifiers declared in the corresponding header.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Include rules listing the iOS Chrome model directories that the history model code is allowed to depend on.

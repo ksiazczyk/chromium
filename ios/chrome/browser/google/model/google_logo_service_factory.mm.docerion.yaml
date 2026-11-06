@@ -1,0 +1,4 @@
+# Docerion header of google_logo_service_factory.mm.
+type: source
+title: Google logo service factory implementation
+summary: Implements GoogleLogoServiceFactory, building a GoogleLogoService per profile with template URL and identity manager dependencies.

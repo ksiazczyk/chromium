@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenWebStateObserver class
+// summary: Declares a WebStateObserver that updates the FullscreenModel for navigation events and observes the WebState's scroll view proxy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_WEB_STATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_WEB_STATE_OBSERVER_H_
 

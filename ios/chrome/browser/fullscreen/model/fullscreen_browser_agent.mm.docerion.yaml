@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_browser_agent.mm.
+type: source
+title: FullscreenBrowserAgent implementation
+summary: Implements fullscreen state updates, scroll-driven progress with resistance, and spring animation parameter calculation for the browser agent.

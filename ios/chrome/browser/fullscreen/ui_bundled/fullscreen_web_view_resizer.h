@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenWebViewResizer header
+// summary: Declares the resizer that adjusts the WebState's web view frame and insets to match the current fullscreen progress.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_WEB_VIEW_RESIZER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_WEB_VIEW_RESIZER_H_
 

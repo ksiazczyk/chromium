@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authorization status cache utility header
+// summary: Declares functions to get, set, and clear the cached CoreLocation geolocation authorization status.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_GEOLOCATION_MODEL_AUTHORIZATION_STATUS_CACHE_UTIL_H_
 #define IOS_CHROME_BROWSER_GEOLOCATION_MODEL_AUTHORIZATION_STATUS_CACHE_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_state_observer_unittest.mm.
+type: test
+title: Fullscreen web state observer unit tests
+summary: Unit tests verifying that FullscreenWebStateObserver resets the fullscreen model on navigation and handles same-document navigations.

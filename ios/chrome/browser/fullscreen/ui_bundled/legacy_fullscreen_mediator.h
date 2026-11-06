@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyFullscreenMediator header
+// summary: Declares a mediator that listens to FullscreenModel changes, animates fullscreen transitions and notifies FullscreenControllerObservers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_LEGACY_FULLSCREEN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_LEGACY_FULLSCREEN_MEDIATOR_H_
 

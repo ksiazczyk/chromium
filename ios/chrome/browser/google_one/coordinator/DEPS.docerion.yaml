@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Google One coordinator
+summary: Restricts which headers files in the Google One coordinator directory are allowed to include.

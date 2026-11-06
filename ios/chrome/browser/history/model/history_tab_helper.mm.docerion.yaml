@@ -1,0 +1,4 @@
+# Docerion header of history_tab_helper.mm.
+type: source
+title: HistoryTabHelper implementation
+summary: Implements navigation recording, page title updates, redirect chain construction, Lens URL processing, and delayed history notifications for WebStates.

@@ -1,0 +1,4 @@
+# Docerion header of stub_history_coordinator_delegate.mm.
+type: test
+title: StubHistoryCoordinatorDelegate implementation
+summary: Implements the stub delegate with no-op closeHistory methods so it can stand in for the real delegate in tests.

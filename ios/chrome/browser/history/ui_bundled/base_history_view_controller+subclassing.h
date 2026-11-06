@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base history view controller subclassing category
+// summary: Declares internal view controller APIs for history display, search filtering and deletion.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_BASE_HISTORY_VIEW_CONTROLLER_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_BASE_HISTORY_VIEW_CONTROLLER_SUBCLASSING_H_
 

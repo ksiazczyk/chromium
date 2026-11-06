@@ -1,0 +1,4 @@
+# Docerion header of test_google_one_controller.mm.
+type: test
+title: Fake Google One controller implementation
+summary: Implements a test Google One controller showing a red screen and a factory that handles one.google.com URLs.

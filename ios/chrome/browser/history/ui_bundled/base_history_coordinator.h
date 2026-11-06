@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base history coordinator interface
+// summary: Declares the coordinator that presents the history UI with load strategy and delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_BASE_HISTORY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_BASE_HISTORY_COORDINATOR_H_
 

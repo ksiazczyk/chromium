@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift bridge header for the history UI
+// summary: Bridge header exposing Objective-C history UI headers to Swift.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_BRIDGE_HEADER_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_BRIDGE_HEADER_H_
 

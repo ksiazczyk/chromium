@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Google model
+summary: Declares include rules allowing dependencies on the iOS search engines and signin model directories.

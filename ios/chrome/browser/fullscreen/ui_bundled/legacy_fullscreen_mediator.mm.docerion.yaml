@@ -1,0 +1,4 @@
+# Docerion header of legacy_fullscreen_mediator.mm.
+type: source
+title: LegacyFullscreenMediator implementation
+summary: Implements fullscreen enter and exit animations, metrics recording and web view resizing in response to fullscreen model changes.

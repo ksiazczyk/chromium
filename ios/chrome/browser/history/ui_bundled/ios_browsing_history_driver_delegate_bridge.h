@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSBrowsingHistoryDriverDelegateBridge header
+// summary: Declares a C++ adapter that lets an Objective-C HistoryConsumer act as an IOSBrowsingHistoryDriverDelegate for history UI callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_IOS_BROWSING_HISTORY_DRIVER_DELEGATE_BRIDGE_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_IOS_BROWSING_HISTORY_DRIVER_DELEGATE_BRIDGE_H_
 

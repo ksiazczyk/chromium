@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryClientImpl implementation
+// summary: Implements the iOS history client, forwarding bookmark removals, favicon changes and URL-add rules to the history service.
+// ---
+
 #include "ios/chrome/browser/history/model/history_client_impl.h"
 
 #include <set>

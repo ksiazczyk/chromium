@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_system_notification_observer.mm.
+type: source
+title: Fullscreen system notification observer
+summary: Observes system notifications such as VoiceOver status changes and app lifecycle events to disable or exit fullscreen as needed.

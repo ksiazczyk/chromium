@@ -1,0 +1,4 @@
+# Docerion header of ios_browsing_history_driver.mm.
+type: source
+title: iOS browsing history driver implementation
+summary: Implements the iOS browsing history driver, passing query results, deletion events, and other-forms-of-history notices to its delegate.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top sites service factory header
+// summary: Declares TopSitesFactory, a singleton that associates history::TopSites instances with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_TOP_SITES_FACTORY_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_TOP_SITES_FACTORY_H_
 

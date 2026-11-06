@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_state_list_observer.mm.
+type: source
+title: FullscreenWebStateListObserver implementation
+summary: Implements handling of WebStateList changes such as activation, removal, replacement, and insertion to update fullscreen state.

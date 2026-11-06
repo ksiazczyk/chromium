@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_view_resizer_unittest.mm.
+type: test
+title: Fullscreen web view resizer unit tests
+summary: Unit tests checking that FullscreenWebViewResizer updates the WebState view frame according to fullscreen progress and toolbar heights.

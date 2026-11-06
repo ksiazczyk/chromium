@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryBackendClientImpl implementation
+// summary: Implements the history backend client that reports pinned bookmarked URLs and web-safe schemes via the bookmark model loader.
+// ---
+
 #include "ios/chrome/browser/history/model/history_backend_client_impl.h"
 
 #include "components/bookmarks/browser/history_bookmark_model.h"

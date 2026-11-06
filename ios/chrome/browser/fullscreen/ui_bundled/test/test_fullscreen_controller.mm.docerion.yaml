@@ -1,0 +1,4 @@
+# Docerion header of test_fullscreen_controller.mm.
+type: test
+title: TestFullscreenController implementation
+summary: Implements the test fullscreen controller, wiring the model, broadcaster, toolbars size and observer notifications.

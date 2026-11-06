@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubHistoryCoordinatorDelegate header
+// summary: Declares StubHistoryCoordinatorDelegate, a no-op test stub conforming to the HistoryCoordinatorDelegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_STUB_HISTORY_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_STUB_HISTORY_COORDINATOR_DELEGATE_H_
 

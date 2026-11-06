@@ -1,0 +1,4 @@
+# Docerion header of history_entry_inserter_unittest.mm.
+type: test
+title: HistoryEntryInserter unit tests
+summary: Unit tests verifying that history entry items are inserted into a ListModel sorted by timestamp and that the delegate receives the expected insertion callbacks.

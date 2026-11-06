@@ -1,0 +1,4 @@
+# Docerion header of history_entry_inserter.mm.
+type: source
+title: History entry inserter implementation
+summary: Implements sorted insertion of history entry items into a ListModel, managing date-based sections and section identifiers while notifying its delegate of changes.
