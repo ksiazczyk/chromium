@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script that embeds an iframe in the test extension
+// summary: Creates an iframe pointing to a cross-origin test server page and notifies the test runner with a message once the iframe has loaded.
+// ---
+
 chrome.test.getConfig(function(config) {
   const iframe = document.createElement('iframe');
   iframe.src =

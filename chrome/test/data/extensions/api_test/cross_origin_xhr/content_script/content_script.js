@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script performing cross-origin XHR requests
+// summary: Content script that listens for extension requests, issues an XMLHttpRequest for the given URL, and reports load, error, or thrown-error results back to the sender.
+// ---
+
 chrome.extension.onRequest.addListener(function(url, sender, sendResponse) {
   let isErrorTriggered = false;
   const req = new XMLHttpRequest();

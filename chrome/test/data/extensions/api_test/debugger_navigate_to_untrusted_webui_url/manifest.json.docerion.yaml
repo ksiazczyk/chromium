@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger navigation test extension
+summary: Manifest version 2 extension manifest granting the debugger permission and loading background.js for the navigation test.

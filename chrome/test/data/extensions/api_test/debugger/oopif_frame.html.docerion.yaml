@@ -1,0 +1,4 @@
+# Docerion header of oopif_frame.html.
+type: test
+title: Out-of-process iframe content page
+summary: Simple page displayed inside the iframe created by oopif.html during the debugger API tests.

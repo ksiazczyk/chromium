@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test for content script size limits
+// summary: Runs a chrome.test browser test asserting that only the content scripts within the size limits are injected and that the page title was changed.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 
 chrome.test.runTests([

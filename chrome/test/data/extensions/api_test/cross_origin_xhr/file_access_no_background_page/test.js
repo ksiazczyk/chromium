@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross origin XHR file access test script
+// summary: Browser test that requests a test data file via XHR and asserts the expected response text, failing on request errors.
+// ---
+
 chrome.test.getConfig(config => {
   chrome.test.runTests([
     function fileAccessAllowed() {

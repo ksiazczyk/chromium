@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script extension process test background script
+// summary: Drives the test by opening a popup window and an iframe to a test page, counting content script pings, navigating the iframe, and reporting pass or fail.
+// ---
+
 let numPings = 0;
 let baseUrl;
 

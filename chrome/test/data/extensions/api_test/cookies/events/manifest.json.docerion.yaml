@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the cookies events API test extension
+summary: Manifest v3 for the cookies events test extension, requesting the cookies permission and host permission for a.com while registering test.js as the background service worker.

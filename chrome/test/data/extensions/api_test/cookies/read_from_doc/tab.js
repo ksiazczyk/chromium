@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie reading assertions in the test tab
+// summary: Reads cookies back from document.cookie and asserts the expected values using chrome.test.runTests.
+// ---
+
 function readCookie(name) {
   const nameEQ = `${name}=`;
   const cookies = document.cookie.split(';');

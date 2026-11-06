@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script verifying SameSite cookie behavior across requests
+// summary: Content script that issues sequential GET and POST requests to set and echo SameSite lax and strict cookies, then reports pass or fail via chrome.test.
+// ---
+
 const requests = [
   {method: 'GET', url: '/set-cookie?laxcookie=1;samesite=lax'},
   {method: 'GET', url: '/set-cookie?strictcookie=1;samesite=strict'},

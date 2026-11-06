@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the cookies no-permission test extension
+summary: Manifest for the chrome.cookies.nopermission test extension, which declares tabs and host permissions but no cookies permission to test API access denial.

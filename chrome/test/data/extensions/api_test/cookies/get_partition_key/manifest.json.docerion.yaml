@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.cookies.getPartitionKey test extension
+summary: Manifest version 3 extension manifest declaring the cookies, webNavigation, tabs, and activeTab permissions plus host permissions for the end-to-end test.

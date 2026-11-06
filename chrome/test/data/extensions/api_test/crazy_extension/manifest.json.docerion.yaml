@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Crazy extension test manifest
+summary: Manifest for the crazy extension test fixture, declaring a version 1.0 MV2 extension whose background page loads background.js.

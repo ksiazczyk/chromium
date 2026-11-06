@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger OOPIF auto-attach test extension
+summary: Manifest for the test extension named Attacker that requests the debugger permission and runs background.js as a module service worker.

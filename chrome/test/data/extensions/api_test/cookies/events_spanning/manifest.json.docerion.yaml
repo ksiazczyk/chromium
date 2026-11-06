@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the cookies events_spanning extension test
+summary: Manifest for the events_spanning extension API test, granting the cookies permission and registering test.js as the service worker for incognito spanning mode.

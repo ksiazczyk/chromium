@@ -5,6 +5,12 @@
 // Simple success test: we want content-script APIs to be available (like
 // sendRequest), but other APIs to be undefined or throw exceptions on access.
 
+// ---docerion
+// type: test
+// title: Extension iframe API availability checks
+// summary: Script running inside the extension iframe that verifies privileged and unprivileged chrome APIs and reports the result via a runtime message.
+// ---
+
 chrome.test.getConfig(function(config) {
   'use strict';
 

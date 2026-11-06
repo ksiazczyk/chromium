@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the contextMenus item IDs test extension
+summary: Manifest for a test extension that exercises string and integer ID forms of the chrome.contextMenus API with a service worker background.

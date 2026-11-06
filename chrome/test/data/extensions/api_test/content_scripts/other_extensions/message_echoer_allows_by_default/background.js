@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message echoer test extension background script
+// summary: Background script of a test extension that echoes received external messages and sender details back via sendResponse.
+// ---
+
 chrome.runtime.onMessageExternal.addListener(function(
     message, sender, sendResponse) {
   sendResponse({receivedMessage: message, receivedSender: sender});

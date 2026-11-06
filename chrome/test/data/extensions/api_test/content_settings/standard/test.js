@@ -5,6 +5,12 @@
 // Content settings API test
 // Run with browser_tests --gtest_filter=ExtensionApiTest.ContentSettings
 
+// ---docerion
+// type: test
+// title: Content settings API browser test
+// summary: JavaScript test run with browser_tests that sets, reads back, and verifies content settings via the chrome.contentSettings API, including deprecated settings behavior.
+// ---
+
 const cs = chrome.contentSettings;
 const defaultContentSettings = {
   cookies: 'session_only',

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for content script host permissions test
+// summary: Test background script that opens a.com and b.com tabs and succeeds only when each page sends exactly one message with the expected modified flag.
+// ---
+
 const receivedRequests = {};
 
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {

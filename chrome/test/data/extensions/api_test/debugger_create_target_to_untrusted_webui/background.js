@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger API test blocking Target.createTarget to privileged URLs
+// summary: Background script for an extension API test asserting that chrome.debugger Target.createTarget fails with an error for chrome-untrusted and devtools URLs.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.runTests([async function testCreateTargetToUntrustedWebUIUrl() {

@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // <This space intentionally left empty.>
+
+// ---docerion
+// type: test
+// title: Empty background script for the cookie request test extension
+// summary: Placeholder background script required by the test extension manifest, intentionally left empty.
+// ---

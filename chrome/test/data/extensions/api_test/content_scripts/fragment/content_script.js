@@ -4,6 +4,12 @@
 
 // Tests that we don't re-inject scripts after fragment navigation.
 
+// ---docerion
+// type: test
+// title: Content script under test for fragment navigation
+// summary: Content script that signals the background page on injection and reports failure if it runs again after fragment navigation.
+// ---
+
 // The background page should only see this once - it will then use tab.update
 // to navigate this page to #foo.
 chrome.runtime.sendMessage('content_script_start');

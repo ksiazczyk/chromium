@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the chrome.cookies.getPartitionKey API test
+// summary: Runs browser tests for the cookies.getPartitionKey API, verifying frame setup, invalid input handling, and host permission requirements.
+// ---
+
 function getActiveTab() {
   return new Promise(function(resolve, reject) {
     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {

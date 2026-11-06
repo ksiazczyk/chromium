@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script extension process test extension
+summary: Manifest of the test extension declaring a background page and a content script matching all HTTP pages in all frames.

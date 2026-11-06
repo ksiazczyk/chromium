@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin XHR to file URL test with all URLs permission
+// summary: Browser test that requests a file URL via XMLHttpRequest and asserts the response text equals Hello! to verify file access is allowed.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
     function fileAccessAllowed() {

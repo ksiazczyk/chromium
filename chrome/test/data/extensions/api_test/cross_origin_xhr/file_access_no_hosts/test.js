@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin XHR file access test without host permissions
+// summary: Browser test asserting that an XMLHttpRequest to a file URL fails when the extension has no host permissions.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
     function fileAccessNotAllowed() {

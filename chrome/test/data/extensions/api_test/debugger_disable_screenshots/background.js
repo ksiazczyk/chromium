@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger disable screenshots API test background script
+// summary: Background service worker that tests attaching and detaching the debugger, including expected failure when screenshots are restricted by enterprise policy.
+// ---
+
 import {getSingleTab} from '/_test_resources/test_util/tabs_util.js';
 
 const protocolVersion = '1.3';

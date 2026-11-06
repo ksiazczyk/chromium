@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Extension Debugger test extension
+summary: Manifest version 2 extension fixture named Extension Debugger that requests the debugger permission and loads the test background script.

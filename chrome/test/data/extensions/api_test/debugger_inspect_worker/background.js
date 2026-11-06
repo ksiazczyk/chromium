@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger inspect worker test background script
+// summary: Browser test that attaches the debugger to a tab and asserts the ServiceWorker.enable CDP command is forbidden.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.getConfig(config => chrome.test.runTests([

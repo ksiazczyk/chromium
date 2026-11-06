@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for debugger auto-attach permissions
+summary: Manifest for the test extension, declaring the debugger permission and a background script for the auto-attach permission checks test.

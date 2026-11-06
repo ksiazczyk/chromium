@@ -9,6 +9,12 @@
 // Arguments: [Permission]
 // Example Arguments: "allow"
 
+// ---docerion
+// type: test
+// title: Content settings incognito isolation API test
+// summary: Browser test that sets and verifies incognito_session_only content settings for various types via the chrome.contentSettings API.
+// ---
+
 'use strict';
 
 const cs = chrome.contentSettings;

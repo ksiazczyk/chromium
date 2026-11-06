@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker running main and isolated world injection tests
+// summary: Extension service worker that opens test tabs and asserts content scripts run in the main and isolated worlds via chrome.scripting.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 chrome.test.runTests([

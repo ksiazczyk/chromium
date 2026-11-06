@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger flat session test extension
+summary: Extension manifest granting the debugger permission and registering the module background service worker used by the test.

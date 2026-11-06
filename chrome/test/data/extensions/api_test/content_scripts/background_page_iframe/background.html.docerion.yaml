@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Empty background page HTML for the iframe test extension
+summary: Minimal HTML document that serves as the background page of the test extension used by the content scripts iframe API test.

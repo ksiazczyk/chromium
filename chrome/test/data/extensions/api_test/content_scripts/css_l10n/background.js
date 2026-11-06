@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSS localization test background script
+// summary: Browser test background script that opens a test page and runs checks that CSS messages are localized both in manifest-declared content script CSS and in chrome.tabs.insertCSS calls.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.log('Creating tab...');
 

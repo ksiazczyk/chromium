@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger auto-attach flat mode permissions test
+// summary: Background service worker that attaches the debugger, enables flat auto-attach, and verifies child session permissions and event handling.
+// ---
+
 const protocolVersion = '1.3';
 
 import {openTab} from '/_test_resources/test_util/tabs_util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the Trusted Types bypass test extension
+// summary: Extension background script that opens the Trusted Types test page and notifies pass or fail based on the content script's message.
+// ---
+
 chrome.runtime.onConnect.addListener(port => {
   port.onMessage.addListener(msg => {
     chrome.test.log('got message: ' + msg);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger subframe navigation test background script
+// summary: Extension background script that attaches the debugger, navigates a subframe to a privileged devtools URL and asserts the navigation is rejected with a detachment error.
+// ---
+
 const protocolVersion = '1.3';
 const DETACHED_WHILE_HANDLING =
     '{"code":-32000,"message":"Navigating to a URL with a privileged scheme is not allowed"}';

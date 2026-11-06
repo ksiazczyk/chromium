@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script messaging API tests
+// summary: Runs chrome.test cases verifying that a content script can message other extensions depending on their externally_connectable manifest settings.
+// ---
+
 const TEST_MESSAGE = 'test_message';
 
 function assertValidExternalMessageSender(sender) {

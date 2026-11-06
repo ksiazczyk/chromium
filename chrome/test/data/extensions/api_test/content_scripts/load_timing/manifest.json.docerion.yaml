@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for content script load timing test
+summary: Extension manifest registering the three content scripts to run at document_start, document_end and document_idle for the load timing API test.

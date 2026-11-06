@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tests for cookie onChanged events
+// summary: Extension service worker test that verifies chrome.cookies.onChanged events for set, remove, overwrite, and expired-overwrite causes, including a regression case for unchanged overwrites.
+// ---
+
 // Expiration is capped at 400 days in the future, so we use 100 days here.
 const TEST_EXPIRATION_DATE = Math.round(Date.now() / 1000) + 100 * 24 * 60 * 60;
 

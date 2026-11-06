@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the message echoer allows test extension
+summary: Manifest for a test extension used to verify that content scripts can message an extension that lists them in externally_connectable.

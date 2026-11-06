@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the message echoer denies test extension
+summary: Manifest for a test extension with an empty externally_connectable IDs list, used to verify content scripts cannot connect to it.

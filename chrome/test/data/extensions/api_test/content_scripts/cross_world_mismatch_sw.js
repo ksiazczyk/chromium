@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross world mismatch service worker
+// summary: Service worker that intercepts fetches for injected.js and responds with replacement script content to test cross-world resource handling in content scripts.
+// ---
+
 self.addEventListener('install', event => {
   self.skipWaiting();
 });

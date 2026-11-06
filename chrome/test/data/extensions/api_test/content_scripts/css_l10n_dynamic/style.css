@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Test stylesheet setting body color to green
+summary: CSS fixture loaded by the test extension to verify dynamic web-accessible resource styling in content script tests.
+*/
+
 body {
   color: green;
 }

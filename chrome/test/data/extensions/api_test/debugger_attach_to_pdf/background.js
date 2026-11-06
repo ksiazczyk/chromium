@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger attach to PDF test background script
+// summary: Runs a browser test that opens a PDF page in a tab and verifies the chrome.debugger API can attach to and detach from it.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.getConfig(config => chrome.test.runTests([

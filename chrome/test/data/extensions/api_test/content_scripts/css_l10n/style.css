@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: Content script CSS with extension ID placeholder
+summary: CSS injected via the manifest whose background image URL contains the __MSG_@@extension_id__ placeholder used to verify extension ID replacement.
+*/
+
 body {
   background-image:url('chrome-extension://__MSG_@@extension_id__/test.png');
 }

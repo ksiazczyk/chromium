@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for about:blank iframe content scripts
+summary: Manifest of the test extension configuring content scripts and permissions used to verify injection behavior in about:blank and srcdoc iframes.

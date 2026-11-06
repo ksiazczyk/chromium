@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin XHR test expecting failure without file access
+// summary: Chrome extension API test that expects an XMLHttpRequest for a file in the test data directory to fail when the extension lacks file scheme access despite holding host permissions for all URLs.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
     function fileAccessNotAllowed() {

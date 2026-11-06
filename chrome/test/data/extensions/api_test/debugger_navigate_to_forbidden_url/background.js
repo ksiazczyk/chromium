@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger forbidden URL navigation test background script
+// summary: Background script for an extension API test that attaches the debugger to a tab, triggers a crash, and verifies that navigating to a forbidden browser page detaches the debugger with the expected error.
+// ---
+
 const protocolVersion = '1.3';
 const DETACHED_WHILE_HANDLING = 'Detached while handling command.';
 

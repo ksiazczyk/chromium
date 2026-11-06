@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger extension API test background script
+// summary: Runs browser tests for the chrome.debugger API, covering attach and detach to background pages, WebUI attach restrictions, and discovery of the extension's own background page and workers.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 

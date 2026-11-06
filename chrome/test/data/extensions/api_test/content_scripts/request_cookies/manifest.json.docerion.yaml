@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script cookie test extension
+summary: Manifest v2 extension definition registering the background script, host permissions for a.com and b.com, and the cookies.js content script.

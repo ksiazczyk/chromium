@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Cross-origin XHR file access test manifest without host permissions
+summary: Extension manifest that registers the background test script for the browser test checking cross-origin XHR to file URLs with no host permissions.

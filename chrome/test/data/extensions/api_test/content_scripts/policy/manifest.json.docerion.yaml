@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Content scripts policy test extension manifest
+summary: Manifest for the content_scripts/policy test extension, declaring tabs and example.com host permissions plus a persistent background script.

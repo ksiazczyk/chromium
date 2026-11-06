@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for content script injection into about:blank and about:srcdoc frames
+// summary: Browser test suite that checks content scripts and chrome.tabs.executeScript run in about:blank and about:srcdoc frames, including nested frames and popups opened via window.open.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.test.runTests([
     function testAboutBlankInFrame() {

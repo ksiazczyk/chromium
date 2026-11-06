@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Cookies API test extension manifest
+summary: Manifest version 3 manifest for the chrome.cookies end-to-end test extension, declaring the background service worker and cookie host permissions.

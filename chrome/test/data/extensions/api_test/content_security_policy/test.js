@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content security policy test script
+// summary: Verifies via chrome.test that inline scripts are blocked by the extension CSP while external scripts still run.
+// ---
+
 window.externalCanary = 'Alive';
 
 chrome.test.getConfig(function(config) {

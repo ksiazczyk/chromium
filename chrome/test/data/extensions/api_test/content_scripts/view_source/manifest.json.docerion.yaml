@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the view-source content scripts test extension
+summary: Manifest for the test extension, registering a document_start content script and tabs permission to check content scripts stay off view-source pages.

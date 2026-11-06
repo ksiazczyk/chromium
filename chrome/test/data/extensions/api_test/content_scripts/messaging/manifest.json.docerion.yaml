@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script messaging test extension
+summary: Manifest v2 fixture defining the test extension with a persistent background page and a content script matched to the localhost test page.

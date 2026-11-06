@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin XHR browser tests
+// summary: Runs chrome.test cases that send XHRs to allowed and disallowed origins and subdomains, asserting success or failure for each request.
+// ---
+
 chrome.test.getConfig(function(config) {
   function rewriteURL(url) {
     return url.replace(/PORT/, config.testServer.port);

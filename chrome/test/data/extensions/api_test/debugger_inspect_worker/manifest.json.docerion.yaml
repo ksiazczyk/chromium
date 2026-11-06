@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the debugger inspect worker test extension
+summary: Manifest version 2 extension manifest granting the debugger permission for the inspect worker API test.

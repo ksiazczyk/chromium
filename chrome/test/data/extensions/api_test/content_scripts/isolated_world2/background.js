@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated world 2 test background script
+// summary: Background script that listens for connections from the content script, asserts the isolation result to pass the test and injects a.js into the last open tab.
+// ---
+
 chrome.runtime.onConnect.addListener(function(port) {
   chrome.test.log('got connect');
   port.onMessage.addListener(function(msg) {

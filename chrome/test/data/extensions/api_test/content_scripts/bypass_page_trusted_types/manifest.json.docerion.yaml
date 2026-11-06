@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Trusted Types bypass test extension
+summary: Extension manifest that registers the background script and injects the content script into the Trusted Types test page.

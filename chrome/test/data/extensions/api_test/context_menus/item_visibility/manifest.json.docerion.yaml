@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the contextMenus visible property test extension
+summary: Manifest version 3 extension manifest granting the contextMenus permission and registering background.js as the service worker for the API test.

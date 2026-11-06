@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the privileged web contents content script test
+summary: Manifest V3 extension manifest declaring a content script on all URLs that runs at document_end in all frames for the API test.

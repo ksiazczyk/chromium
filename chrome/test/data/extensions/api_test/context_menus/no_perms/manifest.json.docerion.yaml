@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the contextMenus no-permission API test
+summary: Manifest for an extension API test verifying that the contextMenus permission is required to use the API.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: contextualTasksPrivate API test script
+// summary: Browser test script that exercises chrome.contextualTasksPrivate getState and launchPanelInNewTab across eligible, ineligible, and error modes selected via a custom argument.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 (async () => {

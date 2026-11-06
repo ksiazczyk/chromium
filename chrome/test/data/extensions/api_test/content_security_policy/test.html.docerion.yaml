@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Background page for the content security policy test
+summary: Background page containing an inline canary script that must not run and a reference to test.js.

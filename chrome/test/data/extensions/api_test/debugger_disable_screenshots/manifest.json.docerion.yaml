@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Debugger disable screenshots test extension manifest
+summary: Manifest for the test extension declaring debugger and tabs permissions, host permissions, and a module service worker background script.

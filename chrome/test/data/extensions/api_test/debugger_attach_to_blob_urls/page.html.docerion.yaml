@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page for the debugger blob URL test
+summary: Minimal HTML page opened by the test in the target tab, where the blob URL object is embedded before the debugger attaches.

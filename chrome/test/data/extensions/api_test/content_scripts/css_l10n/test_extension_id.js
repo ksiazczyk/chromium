@@ -6,6 +6,12 @@
 // has had the __MSG_@@extension_id__ message replaced ('extension_id' must
 // not be present in any CSS code).
 
+// ---docerion
+// type: test
+// title: Extension ID replacement check script
+// summary: Injected content script that scans CSS rules for unreplaced extension_id messages and reports the result to the test via a runtime message.
+// ---
+
 // NOTE: Using `var` because multiple scripts inject with a `message` variable.
 var message = 'Test failed to complete';  // eslint-disable-line no-var
 try {

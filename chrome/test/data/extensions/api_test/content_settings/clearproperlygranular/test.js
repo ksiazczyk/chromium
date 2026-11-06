@@ -5,6 +5,12 @@
 // Content settings API test
 // Run with browser_tests --gtest_filter=ExtensionApiTest.ClearProperlyGranular
 
+// ---docerion
+// type: test
+// title: ClearProperlyGranular content settings API test
+// summary: Browser test that sets camera and microphone content settings to block, clears one type, and verifies the other setting remains unchanged.
+// ---
+
 const cs = chrome.contentSettings;
 
 function expect(expected, message) {

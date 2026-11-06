@@ -6,6 +6,12 @@
 // has had the __MSG_text_color__ message replaced ('text_color' must
 // not be present in any CSS code).
 
+// ---docerion
+// type: test
+// title: Paragraph style check script
+// summary: Injected content script that checks the paragraph color matches the localized text color and reports the result via a runtime message.
+// ---
+
 // NOTE: Using `var` because multiple scripts inject with a `message` variable.
 var message = 'Test failed to complete';  // eslint-disable-line no-var
 try {

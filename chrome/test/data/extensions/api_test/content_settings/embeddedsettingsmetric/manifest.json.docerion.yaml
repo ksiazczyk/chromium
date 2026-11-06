@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Content Settings API Test Extension manifest
+summary: Manifest for the test extension used by the embedded settings metric content settings API test, registering test.js as a service worker with the contentSettings permission.

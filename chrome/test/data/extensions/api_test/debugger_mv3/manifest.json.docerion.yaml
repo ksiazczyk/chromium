@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Debugger MV3 test extension manifest
+summary: Manifest for the MV3 test extension declaring the module background service worker and the tabs and debugger permissions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test logic for content script prerendering
+// summary: Background script that drives the prerendering tests, counting messages from injected content scripts to verify all_frames and match_about_blank handling across prerendered pages and iframes.
+// ---
+
 let testServerPort = 0;
 
 // Obtains a full URL that match a configuration that meets the expectations for

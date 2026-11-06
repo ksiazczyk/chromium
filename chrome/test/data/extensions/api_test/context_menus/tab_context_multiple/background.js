@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context menu multiple items test background script
+// summary: Background service worker script that creates two tab context menu items and verifies the click event reports the correct item ID.
+// ---
+
 chrome.test.runTests([async function createMultipleTabContextMenuItems() {
   const onClickedPromise =
       chrome.test.listenOnce(chrome.contextMenus.onClicked);

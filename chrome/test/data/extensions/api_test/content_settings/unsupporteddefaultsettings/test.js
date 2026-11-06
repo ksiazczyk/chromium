@@ -5,6 +5,12 @@
 // Content settings API test
 // Run with browser_tests --gtest_filter=ExtensionApiTest.ContentSettings
 
+// ---docerion
+// type: test
+// title: Content settings API test for unsupported default settings
+// summary: Browser test asserting that camera and microphone settings fail when set as defaults but succeed when set as exceptions.
+// ---
+
 const cs = chrome.contentSettings;
 
 // The following type-value pairs indicate that the value should be supported
