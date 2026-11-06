@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the page visibility model executor
+// summary: Provides a libFuzzer harness that feeds arbitrary input to the PageVisibilityModelExecutor with a test model to fuzz model execution.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 
 #include <string>

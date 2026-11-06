@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSCrypt Async test utilities declarations
+// summary: Declares helpers that vend test OSCryptAsync and Encryptor objects with random or empty key rings for unit tests.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_TEST_UTILS_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_TEST_UTILS_H_
 

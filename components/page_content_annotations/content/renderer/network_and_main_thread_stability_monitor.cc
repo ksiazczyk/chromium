@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network and main thread stability monitor implementation
+// summary: Implements waiting for network idle and main thread idle, reporting stability events to the delegate before running the stable callback.
+// ---
+
 #include "components/page_content_annotations/content/renderer/network_and_main_thread_stability_monitor.h"
 
 #include <stddef.h>

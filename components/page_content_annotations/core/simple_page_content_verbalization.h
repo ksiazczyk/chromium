@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple page content verbalization header
+// summary: Declares helpers that turn annotated page content, PDF text, or plain text into passages for passage embeddings.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_SIMPLE_PAGE_CONTENT_VERBALIZATION_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_SIMPLE_PAGE_CONTENT_VERBALIZATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: os_crypt common dependency rules
+summary: Grants the os_crypt common directory include access to crypto/apple headers.

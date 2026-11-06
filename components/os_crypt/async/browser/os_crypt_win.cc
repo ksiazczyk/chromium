@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OSCrypt key initialization implementation
+// summary: Implements Windows v10 key initialization, encrypting a random AES256 key with DPAPI and storing it base64-encoded in local state preferences.
+// ---
+
 #include "components/os_crypt/async/browser/os_crypt_win.h"
 
 #include <windows.h>

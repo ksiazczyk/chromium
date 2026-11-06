@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OriginTrials unit tests
+// summary: Unit tests for persistent origin trials using generated tokens, covering subdomain matching, third-party trials, and token persistence behavior.
+// ---
+
 #include "components/origin_trials/browser/origin_trials.h"
 
 #include <memory>

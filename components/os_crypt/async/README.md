@@ -1,3 +1,9 @@
+---
+type: readme
+title: OS Crypt Async README
+summary: Explains the asynchronous, pluggable-provider OSCrypt implementation, its browser and common interfaces, Encryptor usage, mojo transfer, and threading rules for GetInstance.
+---
+
 ***OS Crypt Async***
 
 This directory contains the new version of `OSCrypt` that supports asynchronous

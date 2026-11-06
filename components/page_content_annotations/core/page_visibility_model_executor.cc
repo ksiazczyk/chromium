@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page visibility model executor implementation
+// summary: Implements the page visibility model executor, building a TFLite NLClassifier task and classifying text input into categories for the page visibility optimization target.
+// ---
+
 #include "components/page_content_annotations/core/page_visibility_model_executor.h"
 
 #include "base/functional/bind.h"

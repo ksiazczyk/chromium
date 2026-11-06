@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageSettledMonitor class declaration
+// summary: Declares PageSettledMonitor, a WebContentsObserver that detects when a page settles, with its states, milestones, events and delegate interface for feature hooks.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_BROWSER_PAGE_SETTLED_MONITOR_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_BROWSER_PAGE_SETTLED_MONITOR_H_
 

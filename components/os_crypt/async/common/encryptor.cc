@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryptor implementation
+// summary: Implements the Encryptor and Key classes, performing AES-256-GCM and AES-128-CBC encryption and decryption with Windows DPAPI key protection.
+// ---
+
 #include "components/os_crypt/async/common/encryptor.h"
 
 #include <algorithm>

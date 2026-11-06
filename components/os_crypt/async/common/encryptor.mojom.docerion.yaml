@@ -1,0 +1,4 @@
+# Docerion header of encryptor.mojom.
+type: source
+title: encryptor.mojom structs for Encryptor and Key
+summary: Defines Mojo structs mirroring the C++ Encryptor and Key classes, passing key data through shared memory regions.

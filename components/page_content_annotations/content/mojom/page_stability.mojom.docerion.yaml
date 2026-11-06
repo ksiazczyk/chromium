@@ -1,0 +1,4 @@
+# Docerion header of page_stability.mojom.
+type: source
+title: PageStabilityMonitor Mojom interfaces
+summary: Defines renderer-side Mojom interfaces that let the browser create a page stability monitor and be notified when a page is stable.

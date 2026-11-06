@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint stability monitor implementation
+// summary: Implements paint stability detection using interaction-attributed contentful paints with configurable initial and subsequent paint timeouts.
+// ---
+
 #include "components/page_content_annotations/content/renderer/paint_stability_monitor.h"
 
 #include "base/feature_list.h"

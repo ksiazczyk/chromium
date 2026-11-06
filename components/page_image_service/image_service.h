@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageService base interface
+// summary: Declares the abstract KeyedService interface for asynchronously fetching an image for a page URL, with a result callback and weak pointer access.
+// ---
+
 #ifndef COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_H_
 #define COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_H_
 

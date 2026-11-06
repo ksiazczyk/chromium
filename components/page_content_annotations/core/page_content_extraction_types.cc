@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extracted page content result implementation
+// summary: Implements constructors and assignment operators for ExtractedPageContentResult, which bundles extracted page content, timestamps, upload eligibility and screenshot data.
+// ---
+
 #include "components/page_content_annotations/core/page_content_extraction_types.h"
 
 namespace page_content_annotations {

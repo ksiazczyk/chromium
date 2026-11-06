@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateWrapper implementation
+// summary: Implements the constructor and destructor of the WebStateWrapper struct that carries off-the-record state, URL, navigation timestamp and visibility.
+// ---
+
 #include "components/page_content_annotations/core/web_state_wrapper.h"
 
 namespace page_content_annotations {

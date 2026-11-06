@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page content annotations core
+summary: Lists allowed include paths for the page content annotations core directory, covering optimization guide, history, search, and TFLite dependencies.

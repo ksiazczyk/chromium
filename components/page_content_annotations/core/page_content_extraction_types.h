@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extracted page content result type declaration
+// summary: Declares the ExtractedPageContentResult struct holding annotated page content, extraction timestamp, server upload eligibility and screenshot data.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_CONTENT_EXTRACTION_TYPES_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_CONTENT_EXTRACTION_TYPES_H_
 

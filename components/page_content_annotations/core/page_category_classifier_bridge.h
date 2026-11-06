@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page category classifier bridge interface
+// summary: Interface for a bridge that connects the on-device category classifier to a page embeddings source and toggles classification demand.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_CATEGORY_CLASSIFIER_BRIDGE_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CORE_PAGE_CATEGORY_CLASSIFIER_BRIDGE_H_
 

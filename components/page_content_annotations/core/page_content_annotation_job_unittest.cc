@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotation job unit tests
+// summary: Unit tests covering input iteration, result callbacks, null output filling, and DCHECK death on incomplete jobs.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotation_job.h"
 
 #include "base/functional/callback_helpers.h"

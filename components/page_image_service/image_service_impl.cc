@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceImpl implementation
+// summary: Implements the ImageService that resolves image URLs via the Optimization Guide and Suggest backends, including consent checks, request batching, and metrics recording.
+// ---
+
 #include "components/page_image_service/image_service_impl.h"
 
 #include <optional>

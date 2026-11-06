@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageServiceImpl unit tests
+// summary: Unit tests for ImageServiceImpl using fake Optimization Guide, sync, and URL loader services to verify consent handling, batching, and image fetching behavior.
+// ---
+
 #include "components/page_image_service/image_service_impl.h"
 
 #include <memory>

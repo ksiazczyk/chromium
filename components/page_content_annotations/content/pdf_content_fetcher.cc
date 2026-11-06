@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF content fetcher implementation
+// summary: Implements fetching of PDF bytes or text for a WebContents via PDFDocumentHelper, handling pipe disconnection, UTF-8 truncation, size limits, and extraction metrics.
+// ---
+
 #include "components/page_content_annotations/content/pdf_content_fetcher.h"
 
 #include <cstddef>

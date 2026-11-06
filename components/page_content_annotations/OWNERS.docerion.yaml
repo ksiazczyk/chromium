@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Page content annotations OWNERS
+summary: Lists the owners responsible for the page content annotations component, referencing blink content extraction and optimization guide owners plus ssid@chromium.org.

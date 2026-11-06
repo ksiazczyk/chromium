@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageEmbeddingsService unit tests
+// summary: Unit tests for the page embeddings service using mock embedders and observers to verify candidate generation, embedding computation, priorities, and observer notifications.
+// ---
+
 #include "components/page_content_annotations/content/page_embeddings_service.h"
 
 #include <memory>

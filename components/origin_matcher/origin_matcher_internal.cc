@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal origin matcher rule implementation
+// summary: Implements MatchAllOriginsRule and SubdomainMatchingRule evaluation, validation, and string conversion.
+// ---
+
 #include "components/origin_matcher/origin_matcher_internal.h"
 
 #include <algorithm>

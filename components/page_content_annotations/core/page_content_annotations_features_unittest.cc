@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotations features unit tests
+// summary: Unit tests for RAPPOR metric parameter validation, page visibility model locale checks, and country support for features.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_features.h"
 
 #include <string>

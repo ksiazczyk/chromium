@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content cache unit tests
+// summary: Unit tests for PageContentCache covering caching, retrieval, removal and expiry of page content using a temporary directory, mock time and a test encryptor.
+// ---
+
 #include "components/page_content_annotations/core/page_content_cache.h"
 
 #include <stdint.h>

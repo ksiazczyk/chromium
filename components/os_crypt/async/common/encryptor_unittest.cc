@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encryptor unit tests
+// summary: Unit tests for Encryptor covering string and data encryption and decryption with single and multiple keys, plus Mojo round-trip checks.
+// ---
+
 #include "components/os_crypt/async/common/encryptor.h"
 
 #include <algorithm>

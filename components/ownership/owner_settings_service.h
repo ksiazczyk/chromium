@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerSettingsService interface
+// summary: Declares the KeyedService interface for owner-related settings, with owner checks, observer notifications, and asynchronous policy assembly and signing.
+// ---
+
 #ifndef COMPONENTS_OWNERSHIP_OWNER_SETTINGS_SERVICE_H_
 #define COMPONENTS_OWNERSHIP_OWNER_SETTINGS_SERVICE_H_
 

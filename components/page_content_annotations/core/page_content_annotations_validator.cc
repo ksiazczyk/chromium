@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotations validator implementation
+// summary: Implements validation runs of the annotation service on dummy inputs, logging results to console or a file.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_validator.h"
 
 #include <array>

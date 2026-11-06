@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for allowed dependencies
+summary: Restricts includes in this directory to headers from mojo/public and net.

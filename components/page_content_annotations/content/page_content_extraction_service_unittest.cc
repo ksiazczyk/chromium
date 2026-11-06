@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content extraction service unit tests
+// summary: Unit tests for the page content extraction service covering cache enablement, Android user engagement gating, and enablement metrics.
+// ---
+
 #include "components/page_content_annotations/content/page_content_extraction_service.h"
 
 #include "base/files/scoped_temp_dir.h"

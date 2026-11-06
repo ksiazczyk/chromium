@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryptor Mojo traits header
+// summary: Declares Mojo StructTraits specializations for converting the Encryptor and Key classes to and from their Mojo representations.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_COMMON_ENCRYPTOR_MOJOM_TRAITS_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_COMMON_ENCRYPTOR_MOJOM_TRAITS_H_
 

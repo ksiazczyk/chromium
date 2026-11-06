@@ -1,3 +1,11 @@
+---
+type: readme
+title: Origin matcher component overview
+summary: Describes the origin matcher for sharing matching rules over mojo and its need to stay dependency-light.
+relations:
+  - references /net/base/scheme_host_port_matcher.h
+---
+
 This directory contains the origin matcher. This struct can be used to share matching rules over mojo
 using [scheme_host_port_matcher.h](../../net/base/scheme_host_port_matcher.h).
 

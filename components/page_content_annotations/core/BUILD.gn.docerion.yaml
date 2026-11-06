@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: page content annotations core build targets'
+summary: Defines GN build targets for the page content annotations core, including the features component, the core static library, test support, and unit tests.

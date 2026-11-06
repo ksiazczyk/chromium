@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDbPersistenceProvider unit tests
+// summary: Unit tests for the LevelDB persistence provider using a fake proto database, covering initialization, loading, saving, and histogram reporting.
+// ---
+
 #include "components/origin_trials/browser/leveldb_persistence_provider.h"
 
 #include <map>

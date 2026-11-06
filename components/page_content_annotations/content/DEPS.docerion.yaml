@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page content annotations content
+summary: Lists allowed header include paths for the page content annotations content directory, with special rules for unit tests and mock services.

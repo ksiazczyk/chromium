@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotation job executor unit tests
+// summary: Unit tests that verify the executor runs a full job flow and delivers results for all inputs using a test executor.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotation_job_executor.h"
 
 #include "base/test/scoped_run_loop_timeout.h"

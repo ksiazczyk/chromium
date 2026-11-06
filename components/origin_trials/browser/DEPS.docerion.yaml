@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the origin trials browser component
+summary: Defines allowed include dependencies for the origin trials browser component, with extra test-only include rules for unit test files.

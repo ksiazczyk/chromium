@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page content annotations service implementation
+// summary: Implements a factory creating a test PageContentAnnotationsService with optional test model provider and history service.
+// ---
+
 #include "components/page_content_annotations/core/test_page_content_annotations_service.h"
 
 #include "base/task/sequenced_task_runner.h"

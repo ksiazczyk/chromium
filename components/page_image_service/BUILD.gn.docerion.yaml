@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page image service GN build targets
+summary: Defines the page_image_service source set and its unit_tests target, listing sources and Chromium component dependencies.

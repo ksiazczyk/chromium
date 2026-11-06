@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotate page content request metrics implementation
+// summary: Records histograms for page content extraction request types and PDF document status.
+// ---
+
 #include "components/page_content_annotations/content/annotate_page_content_request_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

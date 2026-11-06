@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginMatcher implementation
+// summary: Implements rule parsing, origin matching, and serialization for the OriginMatcher class.
+// ---
+
 #include "components/origin_matcher/origin_matcher.h"
 
 #include <ranges>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for page content annotations renderer
+summary: GN build file defining the renderer source_set with the page stability monitor sources and their public and private dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of page_image_service.mojom.
+type: source
+title: Page image service Mojom interface definition
+summary: Defines the PageImageServiceHandler interface, ClientId enum, and Options and ImageResult structs for retrieving representative page image URLs.

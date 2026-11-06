@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor delegate implementation
+// summary: Implements the PageStabilityMonitorDelegate timeout and wait accessors, returning values from page content annotations feature flags.
+// ---
+
 #include "components/page_content_annotations/core/page_stability_monitor_delegate.h"
 
 #include "base/time/time.h"

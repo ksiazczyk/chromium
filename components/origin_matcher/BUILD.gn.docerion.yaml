@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the origin matcher component
+summary: Defines GN targets for the origin matcher, including the mojom bindings, the main source set, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page visibility model handler implementation
+// summary: Implements the page visibility model handler, executing the model on single inputs and postprocessing category output into content visibility scores.
+// ---
+
 #include "components/page_content_annotations/core/page_visibility_model_handler.h"
 
 #include "base/task/sequenced_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedTrialToken struct declaration
+// summary: Declares the PersistedTrialToken struct that stores persisted origin trial token data with partitioning metadata and comparison operators.
+// ---
+
 #ifndef COMPONENTS_ORIGIN_TRIALS_COMMON_PERSISTED_TRIAL_TOKEN_H_
 #define COMPONENTS_ORIGIN_TRIALS_COMMON_PERSISTED_TRIAL_TOKEN_H_
 

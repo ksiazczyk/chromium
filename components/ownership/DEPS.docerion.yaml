@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ownership component
+summary: Specifies allowed include rules for the ownership component, covering keyed_service, policy proto, and crypto.

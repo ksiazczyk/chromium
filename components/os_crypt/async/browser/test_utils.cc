@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSCrypt Async test utilities implementation
+// summary: Provides test OSCryptAsync instances and test encryptors with random keys for unit testing encryption and decryption flows.
+// ---
+
 #include "components/os_crypt/async/browser/test_utils.h"
 
 #include <memory>

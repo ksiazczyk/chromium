@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceConsentHelper implementation
+// summary: Implements sync-based consent checks that queue image fetch requests, record UMA metrics, and resolve them on sync state changes or timeout.
+// ---
+
 #include "components/page_image_service/image_service_consent_helper.h"
 
 #include "base/metrics/histogram_functions.h"

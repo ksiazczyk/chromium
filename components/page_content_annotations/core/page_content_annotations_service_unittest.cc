@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotations service unit tests
+// summary: Unit tests for PageContentAnnotationsService covering history annotations, search metadata, and optimization guide interactions with mocked dependencies.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_service.h"
 
 #include <algorithm>

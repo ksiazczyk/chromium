@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content store unit tests
+// summary: Unit tests for PageContentStore verifying add, get, delete and duplicate handling of page content entries using a temporary database and test encryptor.
+// ---
+
 #include "components/page_content_annotations/core/page_content_store.h"
 
 #include "base/files/scoped_temp_dir.h"

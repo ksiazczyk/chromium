@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content extraction service implementation
+// summary: Implements the profile-keyed service that manages extraction, in-memory and on-disk caching, and retrieval of annotated page content and PDF text.
+// ---
+
 #include "components/page_content_annotations/content/page_content_extraction_service.h"
 
 #include <stdint.h>

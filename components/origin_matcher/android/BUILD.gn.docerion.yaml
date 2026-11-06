@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Origin matcher Android build rules
+summary: GN build file defining JNI generation and the Android library target for the OriginMatcher Java class with its dependencies.

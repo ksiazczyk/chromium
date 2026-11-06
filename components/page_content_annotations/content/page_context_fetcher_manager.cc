@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context fetcher manager implementation
+// summary: Implements PageContextFetcherManager, a WebContentsUserData that starts page context fetches and owns active fetchers until they complete.
+// ---
+
 #include "components/page_content_annotations/content/page_context_fetcher_manager.h"
 
 #include <memory>

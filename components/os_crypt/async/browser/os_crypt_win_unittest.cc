@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows OSCrypt key initialization unit tests
+// summary: Tests Windows v10 key initialization with a testing pref service, covering key generation, reuse of existing keys, and re-encryption when audit is disabled.
+// ---
+
 #include "components/os_crypt/async/browser/os_crypt_win.h"
 
 #include <windows.h>

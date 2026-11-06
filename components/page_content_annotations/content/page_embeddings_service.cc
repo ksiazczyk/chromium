@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageEmbeddingsService implementation
+// summary: Implements the keyed service that tracks per-tab embedding states (restoring, pending, computing, available, unavailable) and computes page embeddings from passages with priority handling and metrics.
+// ---
+
 #include "components/page_content_annotations/content/page_embeddings_service.h"
 
 #include <algorithm>

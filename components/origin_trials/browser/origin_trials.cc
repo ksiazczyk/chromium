@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginTrials browser service implementation
+// summary: Implements the browser-side persistent origin trials service, managing observers, token validation, and persisted trial lookups per origin and partition.
+// ---
+
 #include "components/origin_trials/browser/origin_trials.h"
 
 #include <algorithm>

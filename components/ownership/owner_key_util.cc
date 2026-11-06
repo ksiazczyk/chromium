@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner key wrapper implementations
+// summary: Implements the ref-counted PublicKey and PrivateKey wrappers around owner key data and NSS private keys.
+// ---
+
 #include "components/ownership/owner_key_util.h"
 
 #include <utility>

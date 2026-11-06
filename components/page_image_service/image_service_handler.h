@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageServiceHandler class declaration
+// summary: Declares the ImageServiceHandler class that handles ImageService communication between C++ and WebUI in the renderer via mojo.
+// ---
+
 #ifndef COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_HANDLER_H_
 #define COMPONENTS_PAGE_IMAGE_SERVICE_IMAGE_SERVICE_HANDLER_H_
 

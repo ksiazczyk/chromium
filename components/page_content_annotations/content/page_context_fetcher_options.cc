@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context fetcher options implementation
+// summary: Implements ScreenshotOptions factories for full page and viewport captures plus PdfOptions and FetchPageContextOptions constructors.
+// ---
+
 #include "components/page_content_annotations/content/page_context_fetcher_options.h"
 
 #include <cstdint>

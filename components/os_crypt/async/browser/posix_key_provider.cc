@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Posix key provider implementation
+// summary: Implements the Posix key provider that returns the hardcoded v10 key derived from the well-known 'peanuts' password for use on Linux.
+// ---
+
 #include "components/os_crypt/async/browser/posix_key_provider.h"
 
 #include <array>

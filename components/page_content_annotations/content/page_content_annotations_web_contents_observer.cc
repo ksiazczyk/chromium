@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotations web contents observer implementation
+// summary: Implements a WebContents observer that dispatches page content to the annotations service and extracts related searches from Google search result pages.
+// ---
+
 #include "components/page_content_annotations/content/page_content_annotations_web_contents_observer.h"
 
 #include "base/functional/bind.h"

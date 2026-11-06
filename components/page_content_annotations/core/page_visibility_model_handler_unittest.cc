@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page visibility model handler unit tests
+// summary: Unit tests for PageVisibilityModelHandler's content visibility score extraction from model output.
+// ---
+
 #include "components/page_content_annotations/core/page_visibility_model_handler.h"
 
 #include "base/test/task_environment.h"

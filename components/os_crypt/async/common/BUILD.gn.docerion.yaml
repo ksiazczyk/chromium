@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for os_crypt async common
+summary: Defines GN build targets for the os_crypt/async common directory, including Mojo bindings, the Encryptor component, test support and unit tests.

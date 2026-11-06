@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecretPortalKeyProvider implementation
+// summary: Implements retrieval of an application-specific secret via the XDG desktop portal Secret D-Bus interface to derive encryption keys.
+// ---
+
 #include "components/os_crypt/async/browser/secret_portal_key_provider.h"
 
 #include <fcntl.h>

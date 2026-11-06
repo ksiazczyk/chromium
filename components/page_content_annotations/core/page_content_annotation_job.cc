@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content annotation job implementation
+// summary: Implements the PageContentAnnotationJob batch annotation job, including result posting, null output filling, and UMA timing metrics.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotation_job.h"
 
 #include "base/metrics/histogram_functions.h"

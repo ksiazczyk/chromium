@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content cache handler implementation
+// summary: Implements PageContentCacheHandler, which reacts to tab close, visibility and navigation events to cache or delete page content and records extraction and caching status histograms.
+// ---
+
 #include "components/page_content_annotations/core/page_content_cache_handler.h"
 
 #include "base/metrics/histogram_functions.h"

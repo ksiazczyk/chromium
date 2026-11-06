@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSecretPortal class declaration
+// summary: Declares a test double implementing the org.freedesktop.portal.Secret service side for exercising key retrieval in tests.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_TEST_SECRET_PORTAL_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_TEST_SECRET_PORTAL_H_
 

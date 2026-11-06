@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintStabilityMonitor class declaration
+// summary: Declares an observer of Blink's interaction effects monitor that tracks paint stability after tool usage and does not support iframes.
+// ---
+
 #ifndef COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_RENDERER_PAINT_STABILITY_MONITOR_H_
 #define COMPONENTS_PAGE_CONTENT_ANNOTATIONS_CONTENT_RENDERER_PAINT_STABILITY_MONITOR_H_
 

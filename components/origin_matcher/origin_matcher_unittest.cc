@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin matcher unit tests
+// summary: Unit tests for OriginMatcher covering rule string parsing, many invalid input cases, and matching behavior.
+// ---
+
 #include "components/origin_matcher/origin_matcher.h"
 
 #include "base/test/scoped_feature_list.h"

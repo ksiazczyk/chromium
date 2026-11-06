@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor manager implementation
+// summary: Implements the renderer-side Mojo PageStabilityMonitorManager that creates PageStabilityMonitor instances on browser requests.
+// ---
+
 #include "components/page_content_annotations/content/renderer/page_stability_monitor_manager.h"
 
 #include <memory>

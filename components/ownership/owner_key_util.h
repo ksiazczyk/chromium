@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Owner key utility classes and interface
+// summary: Declares the PublicKey and PrivateKey wrappers and the OwnerKeyUtil interface for importing, generating, and finding owner keys.
+// ---
+
 #ifndef COMPONENTS_OWNERSHIP_OWNER_KEY_UTIL_H_
 #define COMPONENTS_OWNERSHIP_OWNER_KEY_UTIL_H_
 

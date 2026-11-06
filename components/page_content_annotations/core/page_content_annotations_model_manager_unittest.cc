@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotations model manager unit tests
+// summary: Unit tests exercising model manager plumbing, job queueing, and model availability notifications with a test model provider.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_model_manager.h"
 
 #include "base/containers/flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerSettingsService implementation
+// summary: Implements assembling and signing device policy with the owner's private key, selecting SHA-1 or SHA-256 RSA signatures and retrying PKCS#11 signing failures.
+// ---
+
 #include "components/ownership/owner_settings_service.h"
 
 #include <cryptohi.h>

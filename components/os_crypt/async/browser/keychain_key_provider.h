@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keychain key provider header
+// summary: Declares the KeychainKeyProvider class that supplies an encryption key derived from the password stored in the macOS/iOS Keychain, compatible with the synchronous OSCrypt implementation.
+// ---
+
 #ifndef COMPONENTS_OS_CRYPT_ASYNC_BROWSER_KEYCHAIN_KEY_PROVIDER_H_
 #define COMPONENTS_OS_CRYPT_ASYNC_BROWSER_KEYCHAIN_KEY_PROVIDER_H_
 

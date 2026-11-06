@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor implementation
+// summary: Implements the page stability state machine that combines paint and network or main thread sub-monitors with timeouts and navigation handling.
+// ---
+
 #include "components/page_content_annotations/content/renderer/page_stability_monitor.h"
 
 #include <memory>

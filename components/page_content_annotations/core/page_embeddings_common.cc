@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedding common implementation
+// summary: Implements the constructors of the PassageEmbedding struct, which pairs a page passage with its computed embedding.
+// ---
+
 #include "components/page_content_annotations/core/page_embeddings_common.h"
 
 namespace page_content_annotations {

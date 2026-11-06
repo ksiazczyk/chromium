@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for page_image_service
+summary: Lists include rules specifying which Chromium components, network services, and sync modules this directory may depend on.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Origin trials component
+summary: Describes the browser-side origin trials component, its support for persistent origin trials, the Critical-Origin-Trial header mechanism and outstanding work items.
+---
+
 The origin trial component implements browser-side support for origin trials.
 
 [toc]

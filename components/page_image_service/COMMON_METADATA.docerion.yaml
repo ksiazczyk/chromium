@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracker metadata for page_image_service
+summary: Declares the Monorail component and public Buganizer component ID used for tracking issues in this directory.

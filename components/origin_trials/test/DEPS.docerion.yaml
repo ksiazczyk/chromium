@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for origin trials test directory
+summary: DEPS file allowing the origin trials test directory to include headers from components/origin_trials/common.

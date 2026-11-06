@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability state to string conversion
+// summary: Implements PageStabilityStateToString and an ostream operator that map page stability monitoring states to readable names.
+// ---
+
 #include "components/page_content_annotations/core/page_stability_state.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embeddings candidate generator unit tests
+// summary: Unit tests verifying embeddings candidate generation for annotated page content and PDF text under feature flags.
+// ---
+
 #include "components/page_content_annotations/content/embeddings_candidate_generator.h"
 
 #include <string>

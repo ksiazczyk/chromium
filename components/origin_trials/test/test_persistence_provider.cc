@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPersistenceProvider implementation for origin trials tests
+// summary: Implements TestPersistenceProvider with in-memory storage of persisted trial tokens, including site-to-origin mapping, for use in origin trials tests.
+// ---
+
 #include "components/origin_trials/test/test_persistence_provider.h"
 
 namespace origin_trials::test {

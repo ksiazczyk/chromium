@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS device ownership
+summary: Explains ChromeOS device ownership, key terminology, and how consumer and enterprise ownership work.
+---
+
 #Ownership
 
 [TOC]

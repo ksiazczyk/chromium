@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for the origin trials component
+summary: Lists code owners for the directory by referencing the Blink origin trials OWNERS file and naming peter@chromium.org.
