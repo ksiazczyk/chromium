@@ -1,0 +1,4 @@
+# Docerion header of redirect_to_mock_https.html.
+type: test
+title: Empty page for HTTPS redirect test
+summary: Empty HTML page whose paired mock headers redirect requests to a mock HTTPS captive portal URL.

@@ -1,0 +1,4 @@
+# Docerion header of bad_manifest.webmanifest.
+type: test
+title: Bad manifest test app in scope_a
+summary: Deliberately malformed web app manifest fixture used to test banner behavior when the manifest is invalid.

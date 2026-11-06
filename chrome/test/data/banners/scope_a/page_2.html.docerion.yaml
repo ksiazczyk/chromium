@@ -1,0 +1,4 @@
+# Docerion header of page_2.html.
+type: test
+title: Web app scope_a test page 2
+summary: Second scope_a test page linking the valid web app manifest and registering the banner service worker.

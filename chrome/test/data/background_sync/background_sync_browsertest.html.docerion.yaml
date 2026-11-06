@@ -1,0 +1,4 @@
+# Docerion header of background_sync_browsertest.html.
+type: test
+title: BackgroundSyncBrowserTest helper page
+summary: Helper HTML page for the BackgroundSyncBrowserTest that loads format_error.js and the browser test JavaScript while keeping logic out of the page.

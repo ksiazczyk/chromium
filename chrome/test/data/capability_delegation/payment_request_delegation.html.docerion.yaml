@@ -1,0 +1,4 @@
+# Docerion header of payment_request_delegation.html.
+type: test
+title: Payment request delegation top frame
+summary: Top-frame test page that posts a payment method message to an embedded child frame with the payment delegation option, used in capability delegation browser tests.

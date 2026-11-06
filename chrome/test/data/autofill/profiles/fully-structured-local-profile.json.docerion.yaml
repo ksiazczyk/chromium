@@ -1,0 +1,4 @@
+# Docerion header of fully-structured-local-profile.json.
+type: test
+title: Fully Structured Local Profile Test Data
+summary: JSON fixture defining a fully structured local autofill profile with a US name, address, email and phone for manual testing.

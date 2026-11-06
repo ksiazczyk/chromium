@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_file_handlers.json.
+type: test
+title: Test manifest with file handlers
+summary: Web app manifest fixture declaring file handlers for .foo, .foobar, .bar and .baz file types.

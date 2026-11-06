@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_x_scheme_handler_in_file_handlers.json.
+type: test
+title: Manifest with x-scheme-handler in file handlers
+summary: Web app manifest test fixture whose file_handlers entry includes an x-scheme-handler mailto accept type.

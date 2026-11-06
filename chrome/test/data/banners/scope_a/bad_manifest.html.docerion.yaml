@@ -1,0 +1,4 @@
+# Docerion header of bad_manifest.html.
+type: test
+title: Web app scope_a bad manifest test page
+summary: Test page that links an invalid web app manifest and registers the banner service worker for scope_a banner tests.

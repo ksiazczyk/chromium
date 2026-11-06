@@ -1,0 +1,4 @@
+# Docerion header of play_app_manifest.json.
+type: test
+title: Play app manifest test fixture
+summary: Web app manifest fixture that prefers a related Google Play application with id 123456 for add-to-homescreen banner tests.

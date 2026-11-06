@@ -1,0 +1,4 @@
+# Docerion header of page_with_embed_plugin.html.
+type: test
+title: Page embedding a plugin via embed
+summary: Test page for back/forward cache that embeds a Blink test plugin using an embed element.

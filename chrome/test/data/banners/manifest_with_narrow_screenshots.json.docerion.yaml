@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_narrow_screenshots.json.
+type: test
+title: Manifest with only narrow screenshots
+summary: Test manifest declaring only narrow portrait screenshots plus a 512px icon for web app banner screenshot tests.

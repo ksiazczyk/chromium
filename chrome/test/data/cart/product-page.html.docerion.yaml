@@ -1,0 +1,4 @@
+# Docerion header of product-page.html.
+type: test
+title: Product page test fixture
+summary: HTML test page with add-to-cart and checkout buttons plus a script that focuses elements by ID.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_too_many_screenshots.json.
+type: test
+title: Manifest with too many screenshots
+summary: Test manifest listing an excessive number of wide and portrait screenshots to exercise screenshot limit handling.

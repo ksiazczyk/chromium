@@ -1,0 +1,4 @@
+# Docerion header of background-color.json.
+type: test
+title: Background color test manifest
+summary: Web app manifest declaring a standalone app with a blue background color, used by the background-color banner test page.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_address_multi_form.html.
+type: test
+title: AutofillAddressMultiForm
+summary: Test page containing two address forms on one page to exercise autofill across multiple forms.

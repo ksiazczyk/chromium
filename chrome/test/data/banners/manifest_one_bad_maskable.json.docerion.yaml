@@ -1,0 +1,4 @@
+# Docerion header of manifest_one_bad_maskable.json.
+type: test
+title: Manifest test app with one bad maskable icon
+summary: Web app manifest test fixture declaring bad_icon.png as a maskable icon to exercise invalid maskable icon handling.

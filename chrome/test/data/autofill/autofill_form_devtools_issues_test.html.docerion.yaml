@@ -1,0 +1,4 @@
+# Docerion header of autofill_form_devtools_issues_test.html.
+type: test
+title: Autofill Form DevTools Issues Test Page
+summary: Autofill form with problematic inputs such as duplicated IDs, missing labels, and invalid autocomplete attributes, used to test DevTools issues.

@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Service worker registration script for banner tests
+// summary: Registers the isolated service worker at root scope via a Trusted Types policy, matching the isolated manifest scope.
+// ---
+
 const policy = trustedTypes.createPolicy('default', {
   createScriptURL: url => url,
 });

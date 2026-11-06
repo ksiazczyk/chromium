@@ -1,0 +1,4 @@
+# Docerion header of cast_mirroring_performance_browsertest.html.
+type: test
+title: Test page for the cast mirroring performance browser test
+summary: HTML page with a help overlay and canvas that hosts the cast mirroring performance test script and stylesheet.

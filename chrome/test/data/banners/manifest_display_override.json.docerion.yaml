@@ -1,0 +1,4 @@
+# Docerion header of manifest_display_override.json.
+type: test
+title: Manifest fixture with display_override
+summary: Web app manifest using display_override with minimal-ui and standalone to test display override resolution.

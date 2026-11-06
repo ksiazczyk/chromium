@@ -1,0 +1,4 @@
+# Docerion header of manifest_display_browser.json.
+type: test
+title: Manifest fixture with browser display mode
+summary: Web app manifest declaring the browser display mode, used to test banner behavior for non-standalone apps.

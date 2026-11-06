@@ -1,0 +1,4 @@
+# Docerion header of manifest_one_icon.json.
+type: test
+title: Manifest test app with one icon
+summary: Web app manifest test fixture declaring a single 512x512 PNG icon.

@@ -1,0 +1,4 @@
+# Docerion header of prerendered.html.
+type: test
+title: Prerendered autofill test form
+summary: Simple autofill profile form used for testing autofill behavior on prerendered pages.

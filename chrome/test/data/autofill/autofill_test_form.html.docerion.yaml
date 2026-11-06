@@ -1,0 +1,4 @@
+# Docerion header of autofill_test_form.html.
+type: test
+title: Autofill Generic Test Form
+summary: Generic autofill test form with name, address, email, and phone fields for browser autofill tests.

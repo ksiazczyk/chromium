@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form_with_date_formatter.html.
+type: test
+title: Autofill Credit Card Test Form with Date Formatter
+summary: HTML credit card form for Autofill tests whose script reformats the expiration date after autofill to test date formatting behavior.

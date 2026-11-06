@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install banner test helper script
+// summary: Helper script for banner test pages that verifies install events, drives beforeinstallprompt handling, and toggles fullscreen.
+// ---
+
 const Action = {
   VERIFY_APPINSTALLED: 'verify_appinstalled',
   VERIFY_APPINSTALLED_STASH_EVENT: 'verify_appinstalled_stash_event',

@@ -1,0 +1,4 @@
+# Docerion header of app3.webmanifest.
+type: test
+title: App3 web app manifest
+summary: Web app manifest for Test app 3 declaring its name, 512px icon, scope, start URL and standalone display for banner tests.

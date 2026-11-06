@@ -1,0 +1,4 @@
+# Docerion header of manifest_test_page.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the manifest test page
+summary: 'Mock HTTP response headers serving the manifest test page with a 200 status and the Supports-Loading-Mode: fenced-frame header.'

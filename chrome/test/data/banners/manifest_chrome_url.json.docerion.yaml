@@ -1,0 +1,4 @@
+# Docerion header of manifest_chrome_url.json.
+type: test
+title: Manifest with non-HTTP start URL
+summary: Web app manifest test data for banner tests where the start URL uses a non-HTTP scheme instead of a web page.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_tabbed_display_override.json.
+type: test
+title: Manifest with tabbed display override
+summary: Test manifest declaring display_override with the tabbed display mode for banner testing.

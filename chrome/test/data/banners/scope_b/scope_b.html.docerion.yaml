@@ -1,0 +1,4 @@
+# Docerion header of scope_b.html.
+type: test
+title: Web app scope_b test page
+summary: HTML test page that links the scope_b manifest and registers the banners service worker for web app banner scope testing.

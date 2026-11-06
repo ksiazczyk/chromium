@@ -1,0 +1,4 @@
+# Docerion header of manifest_prefer_related_apps_unknown.json.
+type: test
+title: Manifest preferring related apps on an unknown platform
+summary: Test web app manifest with prefer_related_applications set and a related app declared on an unknown platform.

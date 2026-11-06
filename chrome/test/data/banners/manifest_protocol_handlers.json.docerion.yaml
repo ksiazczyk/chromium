@@ -1,0 +1,4 @@
+# Docerion header of manifest_protocol_handlers.json.
+type: test
+title: Manifest with protocol handlers
+summary: Test manifest registering several protocol handlers, including mailto and web+ schemes with varying URL forms.

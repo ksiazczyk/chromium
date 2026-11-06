@@ -1,0 +1,4 @@
+# Docerion header of app4.html.
+type: test
+title: App4 banner test page
+summary: Test HTML page for App4 that links its web manifest and registers the banners service worker for add-to-homescreen banner tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch test service worker
+// summary: Service worker that performs Background Fetches on message, handles success, fail, abort and click events, and posts outcomes back to window clients.
+// ---
+
 // Service Worker initialization listeners.
 self.addEventListener('install', e => e.waitUntil(skipWaiting()));
 self.addEventListener('activate', e => e.waitUntil(clients.claim()));

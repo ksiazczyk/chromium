@@ -20,6 +20,13 @@
  * revise and save scripts in the archive in record mode and read it
  * from the archive in replay mode.
  */
+
+// ---docerion
+// type: test
+// title: Web Page Replay deterministic script for Chrome Endure tests
+// summary: JavaScript injected into Web Page Replay HTTP responses to override Math.random and Date with seeded, deterministic behavior during Chrome Endure test replays.
+// ---
+
 (function () {
   var orig_date = Date;
   var random_count = 0;

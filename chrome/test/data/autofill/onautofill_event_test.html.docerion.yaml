@@ -1,0 +1,4 @@
+# Docerion header of onautofill_event_test.html.
+type: test
+title: Autofill event handler test form
+summary: Test form verifying the onautofill event fires synchronously before filling, tracking refill behavior and dynamically added fields.

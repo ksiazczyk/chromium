@@ -1,0 +1,4 @@
+# Docerion header of phonecharacters.txt.
+type: test
+title: Aggregated Phone Number Test Profiles
+summary: Input profiles for a test validating that aggregated phone numbers are cleaned, used by autofill.py testCharsStrippedForAggregatedPhoneNumbers.

@@ -1,0 +1,4 @@
+# Docerion header of fl_codeless_discounts.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for fl_codeless_discounts.json
+summary: Mock HTTP response headers that serve fl_codeless_discounts.json as JSON with a 200 OK status during browser tests.

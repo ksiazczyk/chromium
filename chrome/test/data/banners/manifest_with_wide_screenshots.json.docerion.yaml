@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_wide_screenshots.json.
+type: test
+title: Manifest with wide screenshots test data
+summary: Web app manifest test fixture declaring a PWA with only wide screenshots, used in banner install prompt tests.

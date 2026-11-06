@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form_across_oopif.html.
+type: test
+title: Credit Card Form across OOPIFs
+summary: Test page with a card name field in the main frame and a cross-origin out-of-process iframe loading a partial credit card form.

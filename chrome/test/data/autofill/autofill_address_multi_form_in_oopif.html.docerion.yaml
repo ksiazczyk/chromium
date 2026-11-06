@@ -1,0 +1,4 @@
+# Docerion header of autofill_address_multi_form_in_oopif.html.
+type: test
+title: Address Form in an Out-of-Process iframe
+summary: Wrapper page that loads the multi-form address page in a cross-origin out-of-process iframe for autofill testing.

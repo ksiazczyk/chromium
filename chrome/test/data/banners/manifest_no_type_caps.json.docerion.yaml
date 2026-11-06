@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_type_caps.json.
+type: test
+title: Manifest test app with uppercase icon extension and mixed types
+summary: Web app manifest test fixture with an uppercase .PNG icon file name and mostly type-less icon entries.

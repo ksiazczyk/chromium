@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync browser test JavaScript
+// summary: Registers the background sync service worker, checks whether sync tags are registered, and registers a sync event on page unload for browser tests.
+// ---
+
 function RegisterServiceWorker() {
   return navigator.serviceWorker.register('background_sync_service_worker.js')
     .then(() => {

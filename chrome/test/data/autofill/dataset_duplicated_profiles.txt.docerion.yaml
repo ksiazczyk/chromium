@@ -1,0 +1,4 @@
+# Docerion header of dataset_duplicated_profiles.txt.
+type: test
+title: Duplicated Profiles Dataset for Autofill Tests
+summary: Pipe-delimited dataset of address profiles with many near-duplicates used by the AutofillTest.MergeAggregatedDuplicatedProfiles test.

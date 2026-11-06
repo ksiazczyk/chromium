@@ -1,0 +1,4 @@
+# Docerion header of manifest_empty_name_short_name_maskable.json.
+type: test
+title: Test manifest with maskable icon and no names
+summary: Web app manifest without name or short_name that declares an any icon and a maskable icon for banner icon purpose tests.

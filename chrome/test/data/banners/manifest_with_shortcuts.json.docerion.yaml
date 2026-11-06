@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_shortcuts.json.
+type: test
+title: Manifest with shortcuts
+summary: Test manifest defining two app shortcuts with icons and launch URLs for web app shortcut tests.

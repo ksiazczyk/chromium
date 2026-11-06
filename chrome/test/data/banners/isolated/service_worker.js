@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated service worker for web app banner tests
+// summary: Service worker that serves an offline fallback, shows push notifications, and opens the test page on notification click.
+// ---
+
 self.addEventListener('fetch', e => {
   e.respondWith((async () => {
     try {

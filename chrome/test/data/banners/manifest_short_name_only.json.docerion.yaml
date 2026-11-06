@@ -1,0 +1,4 @@
+# Docerion header of manifest_short_name_only.json.
+type: test
+title: Manifest with short name only
+summary: Test manifest that provides only short_name together with a full set of launcher icons.

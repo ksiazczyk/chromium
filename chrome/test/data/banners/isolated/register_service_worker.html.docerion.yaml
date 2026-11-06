@@ -1,0 +1,4 @@
+# Docerion header of register_service_worker.html.
+type: test
+title: Web app banner isolated service worker test page
+summary: HTML test page that loads push test helpers and registers the isolated service worker for web app banner tests.

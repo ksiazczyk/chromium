@@ -1,0 +1,4 @@
+# Docerion header of manifest_svg_icon_any.json.
+type: test
+title: Manifest with SVG icon of any size
+summary: Test manifest using an SVG icon with any 64x64 sizes plus shortcuts, file handlers and tab strip entries.

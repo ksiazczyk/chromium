@@ -1,0 +1,4 @@
+# Docerion header of manifest_empty_name_short_name.json.
+type: test
+title: Test manifest missing both name and short name
+summary: Web app manifest that omits both name and short_name, used to test banner behavior when no app name is provided.

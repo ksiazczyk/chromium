@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_icon.json.
+type: test
+title: Manifest test app without icons
+summary: Web app manifest test fixture that omits the icons array, used to test banner behavior when no icons are declared.

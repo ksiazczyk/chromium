@@ -1,0 +1,4 @@
+# Docerion header of manifest_large_screenshot.json.
+type: test
+title: Manifest with large screenshots
+summary: Web app manifest listing wide and narrow screenshots including oversized ones, for screenshot-related banner tests.

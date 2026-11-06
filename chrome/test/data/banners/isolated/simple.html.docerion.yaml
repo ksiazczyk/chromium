@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: test
+title: Simple test page with COOP and COEP headers
+summary: Minimal test page served with cross-origin isolation headers for the banner test scenario.

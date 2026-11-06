@@ -1,0 +1,4 @@
+# Docerion header of minimal-ui.json.
+type: test
+title: Minimal-ui display manifest test data
+summary: Web app manifest test fixture for an app using the minimal-ui display mode with landscape orientation.

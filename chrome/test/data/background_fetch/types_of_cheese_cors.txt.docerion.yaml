@@ -1,0 +1,4 @@
+# Docerion header of types_of_cheese_cors.txt.
+type: test
+title: CORS types of cheese download fixture
+summary: Shorter text fixture served with CORS headers for cross-origin Background Fetch test scenarios.

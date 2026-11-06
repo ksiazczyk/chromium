@@ -1,0 +1,4 @@
+# Docerion header of manifest_display_override_display_is_browser.json.
+type: test
+title: Test manifest with display override to standalone
+summary: Web app manifest with display browser and display_override standalone, used to test banner display override behavior.

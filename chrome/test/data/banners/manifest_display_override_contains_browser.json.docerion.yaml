@@ -1,0 +1,4 @@
+# Docerion header of manifest_display_override_contains_browser.json.
+type: test
+title: Manifest fixture with browser in display_override
+summary: Web app manifest whose display_override list contains browser, used to test override handling of the browser mode.

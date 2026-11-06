@@ -1,0 +1,4 @@
+# Docerion header of iframe_with_icon.html.
+type: test
+title: Subframe test page with icon
+summary: Test page containing an icon image and an iframe to no-sw-with-colors.html for subframe banner tests.

@@ -1,0 +1,4 @@
+# Docerion header of read_only_field_test.html.
+type: test
+title: Read-only field autofill test form
+summary: Form with a read-only email field used to verify autofill does not fill read-only fields.

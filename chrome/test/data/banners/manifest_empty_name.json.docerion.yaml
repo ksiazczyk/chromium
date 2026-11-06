@@ -1,0 +1,4 @@
+# Docerion header of manifest_empty_name.json.
+type: test
+title: Test manifest with empty name and a short name
+summary: Web app manifest with an empty name but a short_name, used to test banner handling of missing app names.

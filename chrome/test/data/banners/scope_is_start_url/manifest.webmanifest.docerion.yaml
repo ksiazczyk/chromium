@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Web app manifest for the scope_is_start_url test app
+summary: Web app manifest setting scope and start_url to /banners/scope_is_start_url for banner test scenarios.

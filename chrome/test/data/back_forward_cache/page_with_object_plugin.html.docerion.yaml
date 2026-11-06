@@ -1,0 +1,4 @@
+# Docerion header of page_with_object_plugin.html.
+type: test
+title: Page embedding a plugin via object
+summary: Test page for back/forward cache that embeds a Blink test plugin using an object element.

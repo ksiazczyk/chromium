@@ -1,0 +1,4 @@
+# Docerion header of dataset_no_address.txt.
+type: test
+title: No-Address Profiles Dataset for Autofill Tests
+summary: Pipe-delimited dataset of address profiles with missing address fields, used as test input for autofill tests.

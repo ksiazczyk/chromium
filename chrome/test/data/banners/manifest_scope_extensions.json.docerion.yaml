@@ -1,0 +1,4 @@
+# Docerion header of manifest_scope_extensions.json.
+type: test
+title: Manifest with scope extensions
+summary: Test manifest declaring a scope extension to an additional origin for web app scope testing.

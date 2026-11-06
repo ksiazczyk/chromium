@@ -1,0 +1,4 @@
+# Docerion header of fl_codeless_discounts.json.
+type: test
+title: Free-listing codeless discount test data
+summary: JSON fixture with codeless free-listing discount responses used by FetchFLCodelessDiscountWorkerBrowserTest cases for percent and dollar discounts.

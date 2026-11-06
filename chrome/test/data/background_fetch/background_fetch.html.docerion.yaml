@@ -1,0 +1,4 @@
+# Docerion header of background_fetch.html.
+type: test
+title: Background Fetch browser test helper page
+summary: Minimal HTML page that loads format_error.js and background_fetch.js to serve as the helper page for Background Fetch browser tests.

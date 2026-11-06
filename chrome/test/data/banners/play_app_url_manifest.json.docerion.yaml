@@ -1,0 +1,4 @@
+# Docerion header of play_app_url_manifest.json.
+type: test
+title: Play app manifest with URL test fixture
+summary: Web app manifest fixture preferring a related Play application and supplying its store URL with a chrome_inline referrer for banner tests.

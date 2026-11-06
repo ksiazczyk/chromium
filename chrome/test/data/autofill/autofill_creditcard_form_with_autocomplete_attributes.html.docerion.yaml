@@ -1,0 +1,4 @@
+# Docerion header of autofill_creditcard_form_with_autocomplete_attributes.html.
+type: test
+title: Autofill Credit Card Test Form (with autocomplete attributes)
+summary: Credit card test form whose number and expiration fields carry autocomplete attributes for autofill testing.

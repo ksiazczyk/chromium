@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch test helper script
+// summary: JavaScript helpers that register the service worker and start Background Fetch downloads with various downloadTotal settings, reporting results to the test.
+// ---
+
 // Background Fetch Id to use when its value is not significant.
 const kBackgroundFetchId = 'bg-fetch-id';
 const kBackgroundFetchResource = [ '/background_fetch/types_of_cheese.txt' ];

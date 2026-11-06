@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Dynamic form test utilities
+// summary: JavaScript helpers providing RemoveForm and AddNewFormAndFields to rebuild autofill test forms with standard address fields during dynamic form tests.
+// ---
+
 /** Removes the initial form. */
 function RemoveForm(form_id) {
   var initial_form = document.getElementById(form_id);

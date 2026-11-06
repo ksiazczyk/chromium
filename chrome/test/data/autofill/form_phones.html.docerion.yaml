@@ -1,0 +1,4 @@
+# Docerion header of form_phones.html.
+type: test
+title: Autofill phone fields test form
+summary: HTML test page with several forms covering phone field variants such as whole number, area code, split number parts, and extension.

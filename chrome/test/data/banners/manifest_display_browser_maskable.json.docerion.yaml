@@ -1,0 +1,4 @@
+# Docerion header of manifest_display_browser_maskable.json.
+type: test
+title: Manifest fixture with browser display and maskable icon
+summary: Web app manifest with browser display mode and a maskable icon, used to test icon purpose handling.

@@ -1,0 +1,4 @@
+# Docerion header of no_manifest.html.
+type: test
+title: Web app scope_a no manifest test page
+summary: Test page that registers the banner service worker but omits a manifest link to cover the no-manifest case.

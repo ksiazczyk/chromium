@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_use_counter_fields.json.
+type: test
+title: Manifest with use counter fields
+summary: Test manifest exercising many fields such as id, lock_screen, note_taking, related applications, and permissions policy for use counter tests.

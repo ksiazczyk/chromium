@@ -1,0 +1,4 @@
+# Docerion header of codebased_discounts.json.
+type: test
+title: Code-based discount test data
+summary: JSON fixture with code-based coupon discount responses used by FetchCodeBasedDiscountWorkerBrowserTest cases, keyed by unique cart URLs.

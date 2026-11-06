@@ -1,0 +1,4 @@
+# Docerion header of manifest_listing_related_android_app.json.
+type: test
+title: Manifest listing a related Android app
+summary: Web app manifest declaring a related Play Store Android app, used in banner related-application tests.

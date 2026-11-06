@@ -1,0 +1,4 @@
+# Docerion header of manifest_too_small_icon.json.
+type: test
+title: Test manifest with too small icon
+summary: Web app manifest fixture with a 48x48 monochrome icon to test minimum icon size checks.

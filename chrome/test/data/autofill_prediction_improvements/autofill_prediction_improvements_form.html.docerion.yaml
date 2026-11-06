@@ -1,0 +1,4 @@
+# Docerion header of autofill_prediction_improvements_form.html.
+type: test
+title: Autofill Prediction Improvements Form
+summary: HTML form fixture with name, address, postal code, and credit card fields used as test data for autofill prediction improvements.

@@ -1,0 +1,4 @@
+# Docerion header of simple.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for simple.html
+summary: Mock HTTP headers serving the simple test page with COOP, COEP, and Cross-Origin-Resource-Policy headers.

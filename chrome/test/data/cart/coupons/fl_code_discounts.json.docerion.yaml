@@ -1,0 +1,4 @@
+# Docerion header of fl_code_discounts.json.
+type: test
+title: Free-listing code discount test data
+summary: JSON fixture with free-listing code discount responses for FetchFLCodeDiscountWorkerBrowserTest cases, including an unsupported discount type case.

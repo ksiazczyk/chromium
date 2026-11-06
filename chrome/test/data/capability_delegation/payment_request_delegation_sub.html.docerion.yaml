@@ -1,0 +1,4 @@
+# Docerion header of payment_request_delegation_sub.html.
+type: test
+title: Payment request delegation child frame
+summary: Child-frame test page that attempts to show a PaymentRequest when messaged and reports the resulting exception name back to the parent frame.

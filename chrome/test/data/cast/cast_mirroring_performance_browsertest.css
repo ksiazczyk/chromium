@@ -2,6 +2,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Styles for the cast mirroring performance test page
+summary: CSS that lays out the help overlay and pixelated canvas used by the cast mirroring performance browser test page.
+*/
+
 body {
   background-color: #ffffff;
   margin: 0;

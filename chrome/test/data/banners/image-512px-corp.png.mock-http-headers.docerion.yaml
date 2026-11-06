@@ -1,0 +1,4 @@
+# Docerion header of image-512px-corp.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for image-512px-corp.png
+summary: Mock HTTP response headers serving image-512px-corp.png with a same-origin Cross-Origin-Resource-Policy during tests.

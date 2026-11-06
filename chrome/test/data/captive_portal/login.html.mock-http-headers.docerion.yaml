@@ -1,0 +1,4 @@
+# Docerion header of login.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for login.html
+summary: Mock HTTP response headers serving login.html with a 200 status for captive portal tests.

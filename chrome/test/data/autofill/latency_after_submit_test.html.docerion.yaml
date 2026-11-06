@@ -1,0 +1,4 @@
+# Docerion header of latency_after_submit_test.html.
+type: test
+title: Autofill latency after submit test form
+summary: Address profile form used to measure autofill latency after form submission.

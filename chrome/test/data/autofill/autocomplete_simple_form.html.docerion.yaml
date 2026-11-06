@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_simple_form.html.
+type: test
+title: Autocomplete Test Form
+summary: Simple HTML test page with a basic first-name form used for generic autofill autocomplete testing.

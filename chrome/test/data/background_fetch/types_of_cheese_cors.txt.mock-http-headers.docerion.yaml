@@ -1,0 +1,4 @@
+# Docerion header of types_of_cheese_cors.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for CORS cheese fixture
+summary: Mock HTTP response headers granting CORS access and adding a secret header, served with the CORS cheese fixture by the test server.

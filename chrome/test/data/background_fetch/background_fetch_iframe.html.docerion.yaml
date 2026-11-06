@@ -1,0 +1,4 @@
+# Docerion header of background_fetch_iframe.html.
+type: test
+title: Background Fetch iframe test page
+summary: Test page for an iframe that starts a Background Fetch and posts a permissionerror message to its parent window when the fetch fails.
