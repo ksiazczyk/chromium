@@ -1,0 +1,4 @@
+# Docerion header of text-selection-changed-expected-auralinux.txt.
+type: test
+title: Text selection changed expected events for Linux
+summary: Expected AT-SPI event log for the text-selection-changed test page on Linux.

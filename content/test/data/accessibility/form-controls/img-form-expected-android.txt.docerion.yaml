@@ -1,0 +1,4 @@
+# Docerion header of img-form-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for img-form
+summary: Expected Android accessibility tree snapshot for the img-form test, showing text views, name and email fields and a subscribe button.

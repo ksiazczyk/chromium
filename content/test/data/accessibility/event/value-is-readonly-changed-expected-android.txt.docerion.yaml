@@ -1,0 +1,4 @@
+# Docerion header of value-is-readonly-changed-expected-android.txt.
+type: test
+title: Expected Android events for value-is-readonly-changed accessibility test
+summary: Expected Android TYPE_WINDOW_CONTENT_CHANGED accessibility events for the value-is-readonly-changed test, listing WebView and EditText content-change events per pass.

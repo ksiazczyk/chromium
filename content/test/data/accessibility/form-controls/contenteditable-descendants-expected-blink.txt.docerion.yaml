@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for contenteditable-descendants
+summary: Expected Blink accessibility tree snapshot for the contenteditable-descendants test, describing editable static text, a button, list items and a paragraph.

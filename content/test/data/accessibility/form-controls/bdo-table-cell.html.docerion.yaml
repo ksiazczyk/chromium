@@ -1,0 +1,4 @@
+# Docerion header of bdo-table-cell.html.
+type: test
+title: Accessibility test page for bdo in a table cell
+summary: HTML test page combining a right-to-left bdo, a list item appended to a mark, and a zero-width table-cell span, linked to a Chromium bug for accessibility testing.

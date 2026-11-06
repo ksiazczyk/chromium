@@ -1,0 +1,4 @@
+# Docerion header of text-indent-changed-expected-win.txt.
+type: test
+title: Text indent changed expected events for Windows
+summary: Expected IAccessible2 event log for the text-indent-changed test page on Windows.

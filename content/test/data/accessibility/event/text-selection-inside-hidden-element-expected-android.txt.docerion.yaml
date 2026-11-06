@@ -1,0 +1,4 @@
+# Docerion header of text-selection-inside-hidden-element-expected-android.txt.
+type: test
+title: Text selection inside hidden element expected Android events
+summary: Expected Android accessibility events for the test that performs text selection inside an aria-hidden element.

@@ -1,0 +1,4 @@
+# Docerion header of text-selection-inside-video-expected-auralinux.txt.
+type: test
+title: Text selection inside video expected Auralinux events
+summary: Expected Linux AT-SPI caret and selection events for the test that extends a selection across a video element.

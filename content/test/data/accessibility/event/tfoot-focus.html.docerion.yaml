@@ -1,0 +1,4 @@
+# Docerion header of tfoot-focus.html.
+type: test
+title: tfoot focus accessibility event test page
+summary: HTML test page with a table whose script focuses the tfoot element, used to verify accessibility focus events across platforms.

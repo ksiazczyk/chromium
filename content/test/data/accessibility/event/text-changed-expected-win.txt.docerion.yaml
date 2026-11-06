@@ -1,0 +1,4 @@
+# Docerion header of text-changed-expected-win.txt.
+type: test
+title: Text changed expected events for Windows
+summary: Expected MSAA and IAccessible2 event log for the text-changed test page on Windows.

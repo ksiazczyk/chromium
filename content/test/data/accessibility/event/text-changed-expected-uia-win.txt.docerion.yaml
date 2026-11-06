@@ -1,0 +1,4 @@
+# Docerion header of text-changed-expected-uia-win.txt.
+type: test
+title: Text changed expected events for UIA on Windows
+summary: Expected UIA accessibility event log for the text-changed test page on Windows.

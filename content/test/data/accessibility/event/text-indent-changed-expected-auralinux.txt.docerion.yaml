@@ -1,0 +1,4 @@
+# Docerion header of text-indent-changed-expected-auralinux.txt.
+type: test
+title: Text indent changed expected events for Linux
+summary: Expected AT-SPI event log for the text-indent-changed test page on Linux.

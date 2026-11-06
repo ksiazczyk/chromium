@@ -1,0 +1,4 @@
+# Docerion header of simple_rectangles_with_curtain.html.
+type: test
+title: Simple rectangles with curtain hit testing page
+summary: Accessibility hit testing fixture with labeled rectangles plus full-screen negative z-index curtain divs that confound naive hit testing.

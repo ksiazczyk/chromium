@@ -1,0 +1,4 @@
+# Docerion header of thead-focus-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for thead focus
+summary: Expected Windows accessibility output for the thead focus test; the file is currently empty, indicating no events are expected.

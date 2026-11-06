@@ -1,0 +1,4 @@
+# Docerion header of simple_rectangles_scrolling_iframe.html.
+type: test
+title: Scrolling simple rectangles iframe content
+summary: Accessibility hit testing fixture with ten labeled rectangles spaced out so the iframe content requires scrolling.

@@ -1,0 +1,4 @@
+# Docerion header of text-selection-inside-video-expected-android.txt.
+type: test
+title: Text selection inside video expected Android events
+summary: Expected Android accessibility events for the test that extends a text selection across a video element.

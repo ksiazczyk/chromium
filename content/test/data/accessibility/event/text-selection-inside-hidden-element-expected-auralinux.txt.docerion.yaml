@@ -1,0 +1,4 @@
+# Docerion header of text-selection-inside-hidden-element-expected-auralinux.txt.
+type: test
+title: Text selection inside hidden element expected Auralinux events
+summary: Expected Linux AT-SPI events for the test that performs text selection inside an aria-hidden element.

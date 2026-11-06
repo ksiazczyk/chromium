@@ -1,0 +1,4 @@
+# Docerion header of thead-focus-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for thead focus
+summary: Expected Linux accessibility output with focus and FOCUSED state-change events on the thead panel when the test table's thead element receives focus.

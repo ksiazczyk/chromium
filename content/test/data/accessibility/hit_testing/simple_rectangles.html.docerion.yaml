@@ -1,0 +1,4 @@
+# Docerion header of simple_rectangles.html.
+type: test
+title: Simple rectangles hit testing page with iframe
+summary: Accessibility hit testing fixture with five small labeled rectangles and an embedded iframe loading simple_rectangles_iframe.html.

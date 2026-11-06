@@ -1,0 +1,4 @@
+# Docerion header of visibility-hidden-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for visibility-hidden-changed test
+summary: Empty expected output file for the UIA Windows platform of the visibility-hidden-changed accessibility test.

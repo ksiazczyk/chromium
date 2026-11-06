@@ -1,0 +1,4 @@
+# Docerion header of thead-focus-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for thead focus
+summary: Expected macOS accessibility output (AXFocusedUIElementChanged on the thead group) recorded when the test table's thead element receives focus.

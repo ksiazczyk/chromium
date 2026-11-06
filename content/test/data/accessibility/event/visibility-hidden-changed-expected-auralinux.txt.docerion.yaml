@@ -1,0 +1,4 @@
+# Docerion header of visibility-hidden-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for visibility-hidden-changed test
+summary: Expected CHILDREN-CHANGED accessibility events on Linux for the visibility-hidden-changed test.

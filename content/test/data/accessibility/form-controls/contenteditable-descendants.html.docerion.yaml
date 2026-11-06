@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants.html.
+type: test
+title: Accessibility test page for contenteditable descendants
+summary: HTML test page with a contenteditable area containing a link, image, button, editable table and list, plus platform allow-list annotations for expected output.

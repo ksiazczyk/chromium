@@ -1,0 +1,4 @@
+# Docerion header of img-form-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for img-form
+summary: Expected Blink accessibility tree snapshot for the img-form test, describing static text, labelled text fields and a subscribe button.

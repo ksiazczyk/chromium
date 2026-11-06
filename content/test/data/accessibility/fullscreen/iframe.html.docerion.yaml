@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Fullscreen accessibility test page with iframe
+summary: Test page that enters fullscreen on button click, injects an iframe during the fullscreen change, exits fullscreen and updates an aria-label for accessibility testing.
