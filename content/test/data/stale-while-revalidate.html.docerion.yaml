@@ -1,0 +1,4 @@
+# Docerion header of stale-while-revalidate.html.
+type: test
+title: Stale-while-revalidate test page
+summary: Page that repeatedly fetches stale-script.js and sets its title to Pass once a revalidation check is recorded in performance entries.

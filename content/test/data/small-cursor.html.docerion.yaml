@@ -1,0 +1,4 @@
+# Docerion header of small-cursor.html.
+type: test
+title: Small custom cursor test page
+summary: Page that sets a 32x32 red SVG image as the body cursor for testing custom cursor rendering.

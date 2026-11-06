@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-https.
+type: test
+title: 307 redirect to HTTPS target page
+summary: Minimal page body served for the redirect307-to-https test path that issues a 307 redirect to an HTTPS URL.

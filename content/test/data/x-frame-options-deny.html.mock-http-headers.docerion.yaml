@@ -1,0 +1,4 @@
+# Docerion header of x-frame-options-deny.html.mock-http-headers.
+type: test
+title: 'Mock HTTP headers with X-Frame-Options: DENY'
+summary: 'Mock HTTP response headers that serve X-Frame-Options: DENY for the matching HTML page, used by web tests to exercise frame blocking behavior.'

@@ -1,0 +1,4 @@
+# Docerion header of sandbox_main_frame_csp.html.
+type: test
+title: CSP sandbox test page
+summary: Test page served with a sandboxing Content-Security-Policy header that embeds a sandboxed child frame for CSP sandbox tests.

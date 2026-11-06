@@ -1,0 +1,4 @@
+# Docerion header of run_async_code_on_worker.html.
+type: test
+title: Run async code on a worker helper
+summary: Test page that creates a blob-backed worker to run posted async functions and await their results.

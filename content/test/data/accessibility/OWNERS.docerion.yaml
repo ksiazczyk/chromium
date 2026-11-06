@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for accessibility test data
+summary: Delegates review ownership of this directory to the owners of ui/accessibility via a file reference.

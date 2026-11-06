@@ -1,3 +1,9 @@
+---
+type: readme
+title: Dump accessibility tests documentation
+summary: Explains how Chromium dump accessibility tests work, covering test types, file structure, expectation formats, directives, rebaselining, and adding new tests.
+---
+
 # Dump Accessibility Tests
 
 There are several types of dump accessibility tests:

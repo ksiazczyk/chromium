@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-echo.
+type: test
+title: 307 redirect test page to /echo
+summary: Test page body served with mock headers that issue a 307 redirect to the /echo endpoint.

@@ -1,0 +1,4 @@
+# Docerion header of theme_color.html.
+type: test
+title: Theme color test page
+summary: Test page that sets a red theme color via the theme-color meta tag for testing theme color handling.

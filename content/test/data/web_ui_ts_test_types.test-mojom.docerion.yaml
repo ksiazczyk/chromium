@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ts_test_types.test-mojom.
+type: test
+title: WebUI TS test types Mojo definitions
+summary: Mojo definitions for TsCacheItem and StringWrapper imported by the WebUI TypeScript test to cover cross-module imports.

@@ -1,0 +1,4 @@
+# Docerion header of response204-csp-frame-ancestors-none.
+type: test
+title: 204 response body with CSP frame-ancestors none
+summary: Placeholder body data for a test response returning 204 No Content with a frame-ancestors 'none' content security policy.

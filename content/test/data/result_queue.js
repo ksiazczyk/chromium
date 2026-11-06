@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResultQueue asynchronous result helper
+// summary: JavaScript helper class that queues asynchronous results and resolves pending pop calls through promises.
+// ---
+
 // Queue storing asynchronous results. Results are available via `pop` when
 // requested.
 function ResultQueue() {

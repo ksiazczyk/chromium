@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TreeParserUtil tree grammar parser for tests
+// summary: JavaScript utility that parses and flattens a function-like tree grammar so browser tests can describe nested iframe structures.
+// ---
+
 /**
  * Parser for a simple grammar that describes a tree structure using a function-
  * like "a(b(c,d))" syntax. Original intended usage: to have browsertests

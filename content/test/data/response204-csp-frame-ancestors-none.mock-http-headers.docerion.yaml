@@ -1,0 +1,4 @@
+# Docerion header of response204-csp-frame-ancestors-none.mock-http-headers.
+type: test
+title: Mock 204 headers with CSP frame-ancestors none
+summary: Mock HTTP headers making the paired test file respond with 204 No Content and Content-Security-Policy frame-ancestors 'none'.

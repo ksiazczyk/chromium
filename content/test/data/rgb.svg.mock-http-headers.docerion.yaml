@@ -1,0 +1,4 @@
+# Docerion header of rgb.svg.mock-http-headers.
+type: test
+title: Mock HTTP headers for rgb.svg
+summary: Mock HTTP headers serving the rgb.svg test image with an image/svg+xml content type.

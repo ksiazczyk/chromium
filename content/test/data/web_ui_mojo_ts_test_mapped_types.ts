@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: WebUI Mojo TS test mapped types
+// summary: TypeScript classes and interfaces used as mapped types in the WebUI Mojo TypeScript conversion tests.
+// ---
+
 import {MappedDictType} from './web_ui_mojo_ts_test_other_mapped_types.js';
 
 // This is effectively the same structure as NestedMappedType mojom,

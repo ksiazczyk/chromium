@@ -1,0 +1,4 @@
+# Docerion header of rust_mojo_test.html.
+type: test
+title: Rust Mojo service test page
+summary: Interactive test page using MojoJS to query a Rust browser service for messages, a Finch flag state and a command-line switch.

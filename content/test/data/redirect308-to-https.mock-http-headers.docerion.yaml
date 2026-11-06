@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-https.mock-http-headers.
+type: test
+title: redirect308-to-https.mock-http-headers
+summary: Mock HTTP headers fixture that responds with a 308 permanent redirect to an HTTPS target for content tests.

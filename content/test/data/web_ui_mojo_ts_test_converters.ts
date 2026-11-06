@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mojo TypeScript test type converters
+// summary: Implements converters and typemaps for mapped types used by the WebUI Mojo TypeScript test.
+// ---
+
 import {MappedOptionalContainer, StringDictType, TestNode} from './web_ui_mojo_ts_test_mapped_types.js';
 import {MappedDictType} from './web_ui_mojo_ts_test_other_mapped_types.js';
 import {NestedMappedTypeDataView, NestedMappedTypeTypeMapper, OptionalTypemapDataView, OptionalTypemapTypeMapper, StringDictDataView, StringDictTypeMapper, TypeWithNestedEnumDataView, TypeWithNestedEnumTypeMapper,

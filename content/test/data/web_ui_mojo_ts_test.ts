@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mojo TypeScript bindings test
+// summary: Exercises WebUI Mojo TypeScript bindings including typemaps, optionals, arrays, maps and associated clients.
+// ---
+
 import {TypeWithNestedEnumTypemap} from './web_ui_mojo_ts_test_converters.js';
 import {MappedOptionalContainer, StringDictType, TestNode} from './web_ui_mojo_ts_test_mapped_types.js';
 import {ExtensibleUnion, ExtensibleUnionFieldTags, MojoResultTestCallbackRouter, MojoResultTestReceiver, MojoResultTestRemote, OptionalNumericsStruct, Result, TestAssociatedClient, TestAssociatedClientReceiver, TestEnum, TestMoreTypemapCallbackRouter, TypeWithNestedEnum_Enum, Union, UnionFieldTags, WebUITsMojoTestCache, whichExtensibleUnion, whichUnion} from './web_ui_ts_test.test-mojom-webui.js';

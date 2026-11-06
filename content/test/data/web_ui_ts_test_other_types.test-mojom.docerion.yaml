@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ts_test_other_types.test-mojom.
+type: test
+title: WebUI TS test other types Mojo definitions
+summary: Mojo module defining the MappedDict struct used by the WebUI TypeScript test types.

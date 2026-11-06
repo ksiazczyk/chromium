@@ -1,0 +1,4 @@
+# Docerion header of description-ignores-slot-expected-blink.txt.
+type: test
+title: Expected Blink output for description-ignores-slot accessibility test
+summary: Expected accessibility tree output for the Blink test checking that description calculation ignores slot elements.

@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_child_frame.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for sandboxed_child_frame.html
+summary: Mock HTTP response headers that apply the sandbox Content-Security-Policy to the child frame page.

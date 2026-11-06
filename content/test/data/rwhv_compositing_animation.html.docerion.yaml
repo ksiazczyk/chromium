@@ -1,0 +1,4 @@
+# Docerion header of rwhv_compositing_animation.html.
+type: test
+title: GPU feature test page for accelerated compositing
+summary: Test page that spins a div with a 3D CSS animation to exercise accelerated compositing in GPU feature tests.

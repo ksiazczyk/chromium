@@ -1,0 +1,4 @@
+# Docerion header of set_cookie.html.
+type: test
+title: Test page checking that cookie A=B is set
+summary: Test page that sets its title to 'cookie set' or 'cookie not set' depending on whether document.cookie contains A=B.
