@@ -1,0 +1,4 @@
+# Docerion header of leading_trailing_spaces_per_text_run.in.
+type: test
+title: Leading and trailing spaces per text run test template
+summary: PDF template with text runs containing leading and trailing spaces, used to test text extraction spacing behavior.

@@ -1,0 +1,4 @@
+# Docerion header of embedded_attachments_invalid_data.in.
+type: test
+title: Embedded attachments invalid data test template
+summary: Test PDF template with an embedded files name tree whose filespec lacks embedded data, for invalid-attachment handling.

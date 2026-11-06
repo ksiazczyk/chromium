@@ -1,0 +1,4 @@
+# Docerion header of form_buttons.in.
+type: test
+title: Form buttons PDF test template
+summary: Test PDF template defining AcroForm checkbox, radio button and push button widget fields with appearance streams.

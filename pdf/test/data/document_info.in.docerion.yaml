@@ -1,0 +1,4 @@
+# Docerion header of document_info.in.
+type: test
+title: Document info PDF test template
+summary: Test PDF template carrying a document information dictionary with author, dates, keywords and other metadata.

@@ -1,0 +1,4 @@
+# Docerion header of text_long.in.
+type: test
+title: Long text across three pages
+summary: Test template PDF with three pages of text for exercising text extraction across a multi-page document.

@@ -1,0 +1,4 @@
+# Docerion header of cropped_no_overlap.in.
+type: test
+title: Cropped no overlap PDF test template
+summary: Test PDF template whose CropBox lies outside the MediaBox so the two boxes do not overlap.

@@ -1,0 +1,4 @@
+# Docerion header of bug_1357385.in.
+type: test
+title: Bug 1357385 PDF test template
+summary: Test PDF template drawing modified text content to reproduce bug 1357385, similar to PDFium's bug_1139 case.

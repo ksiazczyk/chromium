@@ -1,0 +1,4 @@
+# Docerion header of text_synthetic_whitespace.in.
+type: test
+title: Synthetic whitespace between text runs
+summary: Test template PDF with two adjacent text runs separated by a horizontal move, for testing synthetic whitespace insertion.

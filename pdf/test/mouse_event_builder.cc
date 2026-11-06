@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse event builder implementation for PDF tests
+// summary: Builds blink::WebMouseEvent instances from stored type, position, button, click count and modifiers for PDF tests.
+// ---
+
 #include "pdf/test/mouse_event_builder.h"
 
 #include "base/check.h"

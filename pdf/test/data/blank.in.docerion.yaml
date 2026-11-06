@@ -1,0 +1,4 @@
+# Docerion header of blank.in.
+type: test
+title: Blank page PDF template
+summary: Template for a minimal PDF containing a single blank 200x200 page.

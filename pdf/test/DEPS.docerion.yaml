@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF test directory dependency rules
+summary: Defines allowed include dependencies for the pdf/test directory, such as cc/test and V8 snapshot buildflags.

@@ -1,0 +1,4 @@
+# Docerion header of font_matrix.in.
+type: test
+title: Font matrix PDF test template
+summary: Test PDF template rendering text under varied text matrices and transformation matrices with two fonts.

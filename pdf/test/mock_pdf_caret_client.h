@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PDF caret client declarations
+// summary: Declares a gmock-based PdfCaretClient mock for use in PDF caret and text selection tests.
+// ---
+
 #ifndef PDF_TEST_MOCK_PDF_CARET_CLIENT_H_
 #define PDF_TEST_MOCK_PDF_CARET_CLIENT_H_
 

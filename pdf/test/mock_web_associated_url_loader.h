@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock WebAssociatedURLLoader for PDF tests
+// summary: Gmock implementation of blink::WebAssociatedURLLoader that mocks asynchronous loading methods for use in PDF unit tests.
+// ---
+
 #ifndef PDF_TEST_MOCK_WEB_ASSOCIATED_URL_LOADER_H_
 #define PDF_TEST_MOCK_WEB_ASSOCIATED_URL_LOADER_H_
 

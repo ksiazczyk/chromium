@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPDFiumEngine mock implementation
+// summary: Implements a gmock-based TestPDFiumEngine that stubs PDFiumEngine behavior with dummy loaded and save data for PDF unit tests.
+// ---
+
 #include "pdf/test/test_pdfium_engine.h"
 
 #include <stdint.h>

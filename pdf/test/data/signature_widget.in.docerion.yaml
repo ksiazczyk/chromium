@@ -1,0 +1,4 @@
+# Docerion header of signature_widget.in.
+type: test
+title: Signature widget annotation
+summary: Test template PDF defining a page with a signature widget annotation and a simple form appearance stream.

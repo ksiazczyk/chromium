@@ -1,0 +1,4 @@
+# Docerion header of hello_world_cropped.in.
+type: test
+title: Hello world cropped page test PDF template
+summary: PDF template with hello world text and a CropBox on the pages object to test cropped page rendering.

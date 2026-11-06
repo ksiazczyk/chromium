@@ -1,0 +1,4 @@
+# Docerion header of multi_page_hello_world_with_empty_page.in.
+type: test
+title: Multi-page hello world with empty page test template
+summary: PDF template of a three-page document where the middle page deliberately has no contents, used to test empty page handling.

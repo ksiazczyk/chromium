@@ -1,0 +1,4 @@
+# Docerion header of bigtable_micro.in.
+type: test
+title: Bigtable micro PDF template
+summary: Template for a tiny PDF page rendering author email addresses in Times-Roman and CMSY9 fonts, named after the Bigtable paper.

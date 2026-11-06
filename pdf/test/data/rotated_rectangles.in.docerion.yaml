@@ -1,0 +1,4 @@
+# Docerion header of rotated_rectangles.in.
+type: test
+title: Rotated rectangles PDF test template
+summary: PDF template of four pages at different rotations drawing the same rectangles, used to test rotated page rendering with a crop box.

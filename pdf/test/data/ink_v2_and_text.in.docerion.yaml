@@ -1,0 +1,4 @@
+# Docerion header of ink_v2_and_text.in.
+type: test
+title: Ink v2 and text combined test input
+summary: PDF test input template combining a GOOG:INKIsInker ink path with a GOOG:CrText text block in one content stream.

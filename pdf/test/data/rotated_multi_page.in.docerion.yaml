@@ -1,0 +1,4 @@
+# Docerion header of rotated_multi_page.in.
+type: test
+title: Rotated multi-page PDF test template
+summary: PDF template of four pages rotated at 0, 90, 180 and 270 degrees, used to test page rotation rendering.

@@ -1,0 +1,4 @@
+# Docerion header of landscape_rectangles.in.
+type: test
+title: Landscape rectangles PDF test template
+summary: PDF template that draws colored rectangles on a landscape page with a crop box, used to test page geometry and rendering.

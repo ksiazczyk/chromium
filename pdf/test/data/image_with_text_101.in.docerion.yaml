@@ -1,0 +1,4 @@
+# Docerion header of image_with_text_101.in.
+type: test
+title: Image with 101-character text test PDF template
+summary: PDF template combining an exactly 101-character sentence with a small image to test text and image layout.

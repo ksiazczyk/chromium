@@ -1,0 +1,4 @@
+# Docerion header of actual_text_rtl.in.
+type: test
+title: ActualText RTL PDF template
+summary: Template for a PDF using ActualText spans with Hebrew right-to-left replacements to exercise text extraction.

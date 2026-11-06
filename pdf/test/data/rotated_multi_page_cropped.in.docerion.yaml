@@ -1,0 +1,4 @@
+# Docerion header of rotated_multi_page_cropped.in.
+type: test
+title: Rotated multi-page cropped PDF test template
+summary: PDF template of four rotated pages with a document-level crop box, used to test rotation combined with cropping.

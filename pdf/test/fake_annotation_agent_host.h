@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake annotation agent host declarations
+// summary: Declares a test-only AnnotationAgentHost fake used to wait for annotation attachment results in PDF tests.
+// ---
+
 #ifndef PDF_TEST_FAKE_ANNOTATION_AGENT_HOST_H_
 #define PDF_TEST_FAKE_ANNOTATION_AGENT_HOST_H_
 

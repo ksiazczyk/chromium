@@ -1,0 +1,4 @@
+# Docerion header of encrypted.in.
+type: test
+title: Encrypted PDF test template
+summary: Test PDF template with a standard security handler encryption dictionary and redacted owner and user passwords.

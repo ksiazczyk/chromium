@@ -1,0 +1,4 @@
+# Docerion header of blank_mini.in.
+type: test
+title: Blank mini page PDF template
+summary: Template for a minimal PDF containing a single blank 10x10 page.

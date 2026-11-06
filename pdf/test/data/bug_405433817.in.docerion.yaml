@@ -1,0 +1,4 @@
+# Docerion header of bug_405433817.in.
+type: test
+title: Bug 405433817 PDF test template
+summary: Test PDF template drawing paths and a 1x1 image XObject across two content streams for bug 405433817.

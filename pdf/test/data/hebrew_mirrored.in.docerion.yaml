@@ -1,0 +1,4 @@
+# Docerion header of hebrew_mirrored.in.
+type: test
+title: Hebrew mirrored text test PDF template
+summary: PDF template rendering Hebrew text with an embedded Noto Sans Hebrew font and a mirroring matrix to test RTL text positioning.

@@ -1,0 +1,4 @@
+# Docerion header of form_choice_fields.in.
+type: test
+title: Form choice fields test PDF template
+summary: PDF template defining listbox and combo box form widgets with single-select, multi-select, read-only, and mismatched selection states for testing.

@@ -1,0 +1,4 @@
+# Docerion header of ink_text.in.
+type: test
+title: Ink text test input
+summary: PDF test input template drawing text inside a GOOG:CrText marked-content block to exercise ink text handling.

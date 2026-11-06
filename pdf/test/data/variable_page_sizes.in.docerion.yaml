@@ -1,0 +1,4 @@
+# Docerion header of variable_page_sizes.in.
+type: test
+title: Variable page sizes
+summary: Test template PDF with seven pages of differing sizes, from ANSI Letter and A4 to extreme wide and tall media boxes.

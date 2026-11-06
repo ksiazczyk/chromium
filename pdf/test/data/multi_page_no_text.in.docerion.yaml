@@ -1,0 +1,4 @@
+# Docerion header of multi_page_no_text.in.
+type: test
+title: Multi-page no-text PDF test template
+summary: PDF template of four pages sharing one content stream that draws only an image, used to test pages without extractable text.

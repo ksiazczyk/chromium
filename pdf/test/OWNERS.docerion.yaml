@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: PDF test directory owners
+summary: Sets per-file ownership so that anyone may update the pdf_test_bundle_data.filelist.

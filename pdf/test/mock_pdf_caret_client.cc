@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PDF caret client implementation
+// summary: Implements the mock PDF caret client, recording invalidated rectangles during tests.
+// ---
+
 #include "pdf/test/mock_pdf_caret_client.h"
 
 #include "ui/gfx/geometry/rect.h"

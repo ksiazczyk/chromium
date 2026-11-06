@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake annotation agent host for PDF tests
+// summary: Test fake of the browser-side AnnotationAgentHost IPC endpoint that records attachment results and supports scroll-into-view.
+// ---
+
 #include "pdf/test/fake_annotation_agent_host.h"
 
 namespace chrome_pdf {

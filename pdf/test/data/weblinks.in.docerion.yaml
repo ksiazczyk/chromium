@@ -1,0 +1,4 @@
+# Docerion header of weblinks.in.
+type: test
+title: Weblinks PDF test input
+summary: Templated test input that generates a small PDF whose text contains several URLs, used to exercise weblink detection in the pdf test suite.

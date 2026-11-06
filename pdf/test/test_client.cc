@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test client implementation for PDFium engine tests
+// summary: Implements a stub PDFiumEngineClient that accepts proposed layouts and returns benign defaults so PDFium engine tests can run.
+// ---
+
 #include "pdf/test/test_client.h"
 
 #include <memory>

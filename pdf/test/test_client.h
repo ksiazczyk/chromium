@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test client header for PDFium engine tests
+// summary: Declares TestClient, a PDFiumEngineClient stub that supplies engine hooks and renderer settings for PDF unit tests.
+// ---
+
 #ifndef PDF_TEST_TEST_CLIENT_H_
 #define PDF_TEST_TEST_CLIENT_H_
 

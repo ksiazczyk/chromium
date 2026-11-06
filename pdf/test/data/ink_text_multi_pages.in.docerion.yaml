@@ -1,0 +1,4 @@
+# Docerion header of ink_text_multi_pages.in.
+type: test
+title: Ink text across multiple pages test input
+summary: PDF test input template placing GOOG:CrText textboxes on separate pages of a three-page document.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF test helpers implementation
+// summary: Implements helpers for PDF tests, including test data paths, PNG reference comparison, PDF rendering checks, and Skia surface creation.
+// ---
+
 #include "pdf/test/test_helpers.h"
 
 #include <string_view>
