@@ -1,0 +1,4 @@
+# Docerion header of browsing_prevent_default_test_page.html.
+type: test
+title: Browsing preventDefault test page
+summary: Exercises preventDefault() on links to verify it overrides target, stopPropagation and window.open.

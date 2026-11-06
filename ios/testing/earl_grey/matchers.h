@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of Earl Grey matcher helpers
+// summary: Header declaring GREYMatcher helpers for buttons, alert items, alert dismissal elements, accessibility label substrings and the navigation back button.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_MATCHERS_H_
 #define IOS_TESTING_EARL_GREY_MATCHERS_H_
 

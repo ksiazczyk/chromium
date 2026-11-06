@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History navigation test helper script
+// summary: JavaScript helper that drives window.history navigation and reports popstate, hashchange, and no-op events for tests.
+// ---
+
 // Populates pop-state-received-div and state-object-div upon a popstate event.
 function onPopstate(e) {
   updatePopStateReceivedText(true);

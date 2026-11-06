@@ -1,0 +1,4 @@
+# Docerion header of base_xc_test_case.mm.
+type: source
+title: BaseXCTestCase implementation
+summary: Applies skip, failure, crash, and pass expectations to iOS XCTests during test setup.

@@ -1,0 +1,4 @@
+# Docerion header of run_unittests.py.
+type: script
+title: Unit test build and run script
+summary: Builds a unit test target and runs it on an iOS simulator, applying gtest filter and repeat options and reporting failures.

@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: GN Xcode Plug-in bundle metadata
+summary: Bundle metadata for the GN syntax highlighting Xcode plug-in, declaring its identifier, version, macOS platform, and Xcode compatibility UUIDs.

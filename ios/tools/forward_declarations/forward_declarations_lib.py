@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Forward Declarations Core Library
+# summary: Core library providing lexical analysis of C++ and Objective-C headers, import resolution, style healing, and shared helpers for the forward declaration tools.
+# ---
+
 """Library for identifying and applying forward declarations in C++/ObjC."""
 
 import collections

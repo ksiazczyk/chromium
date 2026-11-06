@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseEarlGreyTestCase header
+// summary: Declares BaseEarlGreyTestCase, the base class for Earl Grey tests providing EG2 app-launch hooks and coverage setup.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_BASE_EARL_GREY_TEST_CASE_H_
 #define IOS_TESTING_EARL_GREY_BASE_EARL_GREY_TEST_CASE_H_
 

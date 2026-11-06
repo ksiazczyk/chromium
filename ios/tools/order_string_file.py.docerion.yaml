@@ -1,0 +1,4 @@
+# Docerion header of order_string_file.py.
+type: script
+title: GRD message sorter
+summary: Alphabetically orders the message entries in a given .grd string file while preserving HTML entities and comments.

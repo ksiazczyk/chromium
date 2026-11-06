@@ -1,0 +1,4 @@
+# Docerion header of chromium_logo_page.html.
+type: test
+title: Chromium logo test page
+summary: Minimal page with text and the Chromium logo image for image loading tests.

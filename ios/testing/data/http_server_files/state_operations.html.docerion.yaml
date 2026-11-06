@@ -1,0 +1,4 @@
+# Docerion header of state_operations.html.
+type: test
+title: History state operations test page
+summary: Test page with buttons that trigger history pushState and replaceState operations for iOS navigation tests.

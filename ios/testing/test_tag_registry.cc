@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Tag Registry Implementation
+// summary: Implements the singleton TestTagRegistry that stores tags for test classes and methods, plus a static registration helper class.
+// ---
+
 #include "ios/testing/test_tag_registry.h"
 
 #include <set>

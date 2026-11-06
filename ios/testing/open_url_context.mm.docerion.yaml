@@ -1,0 +1,4 @@
+# Docerion header of open_url_context.mm.
+type: source
+title: TestOpenURLContext implementation
+summary: Implements TestOpenURLContext and TestSceneOpenURLOptions stub classes that iOS tests use to open URLs.

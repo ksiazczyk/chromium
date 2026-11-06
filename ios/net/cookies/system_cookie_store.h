@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemCookieStore abstract interface
+// summary: Defines the abstract interface for interacting with different iOS system cookie stores, using async callbacks and RFC 6265 cookie ordering.
+// ---
+
 #ifndef IOS_NET_COOKIES_SYSTEM_COOKIE_STORE_H_
 #define IOS_NET_COOKIES_SYSTEM_COOKIE_STORE_H_
 

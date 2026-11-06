@@ -1,0 +1,4 @@
+# Docerion header of test_expectations.txt.
+type: data
+title: iOS Test Expectations
+summary: Lists expected outcomes for iOS tests, mapping test cases to Failure, Pass, Skip or Crash expectations with OS, device and build configuration tags.

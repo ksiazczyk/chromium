@@ -1,0 +1,4 @@
+# Docerion header of base_eg_test_helper_impl.mm.
+type: source
+title: BaseEGTestHelperImpl implementation
+summary: Implements failure reporting for Earl Grey test helper macros, raising framework exceptions with stack traces.

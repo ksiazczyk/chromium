@@ -1,0 +1,4 @@
+# Docerion header of camera_and_microphone.html.
+type: test
+title: Requesting Camera and Microphone Permissions
+summary: Test page that requests both camera and microphone access via getUserMedia and displays the video stream plus the current audio volume.

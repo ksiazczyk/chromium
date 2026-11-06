@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: iOS cookies directory metadata
+summary: Configures the bug tracking component used for the ios/net/cookies directory.

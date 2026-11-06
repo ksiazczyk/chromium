@@ -1,0 +1,4 @@
+# Docerion header of gn.xclangspec.
+type: config
+title: Xcode language specification for GN syntax highlighting
+summary: Xcode .xclangspec specification defining GN keywords, built-in variables, and syntax rules used to highlight BUILD.gn files in the editor.

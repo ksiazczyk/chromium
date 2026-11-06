@@ -1,0 +1,4 @@
+# Docerion header of vehicle_form.html.
+type: test
+title: Vehicle form test page
+summary: Test page with a vehicle details form using vehicle autocomplete attributes and a button that fills the fields with sample values.

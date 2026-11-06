@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History state operations JavaScript
+// summary: JavaScript driving the state operations page, performing history pushState and replaceState actions and updating placeholder text for tests.
+// ---
+
 function updateOnLoadText(text) {
   document.getElementById('on-load').innerHTML = text;
 }

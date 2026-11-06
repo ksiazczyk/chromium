@@ -1,0 +1,4 @@
+# Docerion header of destination.html.
+type: test
+title: Form submission destination page
+summary: Minimal page showing that navigation arrived, used as the target for form submissions and redirects in test scenarios.

@@ -1,0 +1,4 @@
+# Docerion header of cookie_store_ios_test_util.mm.
+type: test
+title: Cookie store iOS test utility implementations
+summary: Implements the test persistent cookie store, test client, scoped client override, and helpers to set, clear, and record cookie changes during tests.

@@ -1,0 +1,4 @@
+# Docerion header of cookie_creation_time_manager_unittest.mm.
+type: test
+title: Cookie creation time manager unit tests
+summary: Unit tests for setting, retrieving and uniquifying cookie creation times.

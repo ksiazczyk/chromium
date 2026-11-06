@@ -1,0 +1,4 @@
+# Docerion header of data_collector.py.
+type: source
+title: Data collector for automatic ownership
+summary: Collects git commit logs and parses existing OWNERS files to build cached input data for the ownership calculator.

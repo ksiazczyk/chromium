@@ -1,0 +1,4 @@
+# Docerion header of base_earl_grey_test_case_app_interface_stub.mm.
+type: source
+title: BaseEarlGreyTestCaseAppInterface stub
+summary: Registers a stub of the base Earl Grey test case app interface for the app main queue.

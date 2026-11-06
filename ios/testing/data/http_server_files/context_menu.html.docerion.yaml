@@ -1,0 +1,4 @@
+# Docerion header of context_menu.html.
+type: test
+title: Context menu test page
+summary: Links with and without -webkit-touch-callout styling for context menu tests.

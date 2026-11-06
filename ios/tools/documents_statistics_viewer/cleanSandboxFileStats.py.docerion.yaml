@@ -1,0 +1,4 @@
+# Docerion header of cleanSandboxFileStats.py.
+type: script
+title: cleanSandboxFileStats.py
+summary: Replaces the names of downloaded files and directories in a sandbox statistics JSON report with a placeholder.

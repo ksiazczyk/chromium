@@ -1,0 +1,4 @@
+# Docerion header of GN.xcplugindata.
+type: config
+title: Xcode plugin metadata registering the GN language
+summary: Property list that declares the GN file type, extension detector, and source code language so Xcode can recognize and highlight GN files.

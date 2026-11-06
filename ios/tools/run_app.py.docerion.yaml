@@ -1,0 +1,4 @@
+# Docerion header of run_app.py.
+type: script
+title: Simulator app build and run script
+summary: Builds an app target and installs and launches it on an iOS simulator, optionally wiping the container or toggling features.

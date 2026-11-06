@@ -1,0 +1,4 @@
+# Docerion header of sample.ics.
+type: test
+title: Sample ICS calendar event
+summary: Sample iCalendar file with a confirmed event and a display alarm, served as test data by the iOS HTTP server.

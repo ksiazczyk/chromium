@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App interface for the app launch manager
+// summary: Declares AppLaunchManagerAppInterface, compiled into the app binary, which exposes the host app process identifier to app or test code.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_APP_LAUNCH_MANAGER_APP_INTERFACE_H_
 #define IOS_TESTING_EARL_GREY_APP_LAUNCH_MANAGER_APP_INTERFACE_H_
 

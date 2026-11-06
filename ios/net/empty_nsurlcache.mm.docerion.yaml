@@ -1,0 +1,4 @@
+# Docerion header of empty_nsurlcache.mm.
+type: source
+title: EmptyNSURLCache implementation
+summary: Implements EmptyNSURLCache so cachedResponseForRequest always returns nil, effectively disabling caching.

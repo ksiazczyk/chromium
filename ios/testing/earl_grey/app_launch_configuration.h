@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch configuration for Earl Grey tests
+// summary: Defines the AppLaunchConfiguration struct and RelaunchPolicy enum covering features, variations, arguments, language, and relaunch behavior for EGTests.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_APP_LAUNCH_CONFIGURATION_H_
 #define IOS_TESTING_EARL_GREY_APP_LAUNCH_CONFIGURATION_H_
 

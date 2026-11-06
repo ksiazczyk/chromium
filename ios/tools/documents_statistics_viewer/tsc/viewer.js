@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Documents statistics viewer JavaScript
+// summary: JavaScript for the iOS documents statistics viewer tool that formats dates and file sizes, maps file extensions to icons, sorts items by name, size or access time, and tracks collapsed directories.
+// ---
+
 "use strict";
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be

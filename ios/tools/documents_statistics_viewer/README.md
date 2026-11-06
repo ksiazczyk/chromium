@@ -1,3 +1,13 @@
+---
+type: readme
+title: iOS Documents Directory Statistics Viewer
+summary: Explains how to generate, obtain, analyze, and clean sandbox file statistics reports with the viewer.
+relations:
+  - documents /ios/tools/documents_statistics_viewer/viewer.html
+  - documents /ios/tools/documents_statistics_viewer/cleanSandboxFileStats.py
+  - documents /ios/tools/documents_statistics_viewer/viewer.css
+---
+
 # iOS Documents Directory Statistics Viewer
 
 This tool allows interactive analysis of the statistics file created by

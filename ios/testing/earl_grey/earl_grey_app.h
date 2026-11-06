@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Umbrella header for EarlGrey2 in the app process
+// summary: Header that imports all EarlGrey2 headers required for the app process side of iOS UI tests.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_EARL_GREY_APP_H_
 #define IOS_TESTING_EARL_GREY_EARL_GREY_APP_H_
 

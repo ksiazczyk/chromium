@@ -1,0 +1,4 @@
+# Docerion header of install.sh.
+type: script
+title: Install GN syntax highlight plug-in for Xcode
+summary: Shell script that creates the Xcode plug-ins and specifications directories and copies the GN plug-in and language specification into them.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: iOS testing dependency rules
+summary: Restricts which headers and directories code in ios/testing is allowed to include.

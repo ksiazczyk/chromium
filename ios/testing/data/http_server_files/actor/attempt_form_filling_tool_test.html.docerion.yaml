@@ -1,0 +1,4 @@
+# Docerion header of attempt_form_filling_tool_test.html.
+type: test
+title: Form Filling Tool Test Page
+summary: Simple HTML page with a text input and a non-input element used to test the form filling tool.

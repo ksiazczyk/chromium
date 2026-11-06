@@ -1,0 +1,4 @@
+# Docerion header of pastebin_page.html.
+type: test
+title: Pastebin test page
+summary: Test page with a paste textarea and a sensitive information div, served by the iOS test HTTP server.

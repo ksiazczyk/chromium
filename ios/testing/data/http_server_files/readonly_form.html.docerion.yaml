@@ -1,0 +1,4 @@
+# Docerion header of readonly_form.html.
+type: test
+title: Read-only form test page
+summary: Test page containing a form with one read-only text field and one normal text field.

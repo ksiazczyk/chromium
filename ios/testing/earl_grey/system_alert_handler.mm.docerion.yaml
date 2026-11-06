@@ -1,0 +1,4 @@
+# Docerion header of system_alert_handler.mm.
+type: source
+title: System alert handler for Earl Grey tests
+summary: Implements SystemAlertHandlerImpl to detect, accept, and dismiss iOS system alerts shown during Earl Grey UI tests, including alerts unsupported by the EG2 framework.

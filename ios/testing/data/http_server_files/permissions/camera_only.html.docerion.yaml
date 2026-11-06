@@ -1,0 +1,4 @@
+# Docerion header of camera_only.html.
+type: test
+title: Requesting Camera Permissions
+summary: Test page that requests camera access only via getUserMedia and shows the resulting video stream.

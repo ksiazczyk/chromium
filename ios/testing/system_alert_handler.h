@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System alert handler header
+// summary: Declares helpers that map known iOS system alert texts to dismiss buttons and close visible system alerts during tests.
+// ---
+
 #ifndef IOS_TESTING_SYSTEM_ALERT_HANDLER_H_
 #define IOS_TESTING_SYSTEM_ALERT_HANDLER_H_
 

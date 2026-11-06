@@ -1,0 +1,4 @@
+# Docerion header of iframe_drag_link.html.
+type: test
+title: Iframe drag link test page
+summary: Test page embedding a link inside an iframe and reporting iframe load, apparently for link dragging tests.

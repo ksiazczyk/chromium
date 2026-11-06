@@ -1,0 +1,4 @@
+# Docerion header of iframe_form.html.
+type: test
+title: Iframe form test page
+summary: Test page that embeds a username and password form inside an iframe.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL test helper declarations
+// summary: Declares GetContentAndFragmentForUrl, which concatenates a GURL's content and fragment for use in tests.
+// ---
+
 #ifndef IOS_NET_URL_TEST_UTIL_H_
 #define IOS_NET_URL_TEST_UTIL_H_
 

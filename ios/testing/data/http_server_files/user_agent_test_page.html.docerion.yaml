@@ -1,0 +1,4 @@
+# Docerion header of user_agent_test_page.html.
+type: test
+title: User agent desktop/mobile test page
+summary: Test page that detects whether the user agent is mobile or desktop and displays the result along with the platform.

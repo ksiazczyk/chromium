@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded test server handlers interface
+// summary: Declares test server handlers for pages, forms, downloads, and slow responses plus their constants.
+// ---
+
 #ifndef IOS_TESTING_EMBEDDED_TEST_SERVER_HANDLERS_H_
 #define IOS_TESTING_EMBEDDED_TEST_SERVER_HANDLERS_H_
 

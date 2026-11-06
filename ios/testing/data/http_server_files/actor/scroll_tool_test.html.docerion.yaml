@@ -1,0 +1,4 @@
+# Docerion header of scroll_tool_test.html.
+type: test
+title: Scroll Tool Test Page
+summary: HTML page with scrollable, non-scrollable and non-overflowing divs used to test the scroll tool.

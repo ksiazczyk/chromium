@@ -1,0 +1,4 @@
+# Docerion header of protocol_handler_util.mm.
+type: source
+title: Protocol handler utility implementation
+summary: Converts URLRequest response headers into an NSURLResponse, handling encodings, duplicate and content-type headers, and cache control.

@@ -1,0 +1,4 @@
+# Docerion header of javascript_link.html.
+type: test
+title: JavaScript link test page
+summary: 'Test page with a precisely positioned link using the javascript: URL scheme for tap tests.'

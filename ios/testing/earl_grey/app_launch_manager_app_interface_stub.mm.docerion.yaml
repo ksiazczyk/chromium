@@ -1,0 +1,4 @@
+# Docerion header of app_launch_manager_app_interface_stub.mm.
+type: source
+title: AppLaunchManagerAppInterface stub
+summary: Registers a stub of the app launch manager app interface for use in the app main queue.

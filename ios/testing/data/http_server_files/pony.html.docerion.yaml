@@ -1,0 +1,4 @@
+# Docerion header of pony.html.
+type: test
+title: Ponies test page
+summary: Test page titled ponies that carries an apple-itunes-app meta tag, used by iOS web tests.

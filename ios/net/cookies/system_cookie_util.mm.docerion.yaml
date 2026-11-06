@@ -1,0 +1,4 @@
+# Docerion header of system_cookie_util.mm.
+type: source
+title: System cookie conversion utilities implementation
+summary: Converts between NSHTTPCookie and net::CanonicalCookie, mapping attributes such as SameSite policy, secure, HttpOnly and expiry.

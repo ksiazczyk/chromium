@@ -1,0 +1,4 @@
+# Docerion header of credit_card.html.
+type: test
+title: Credit card autofill test form
+summary: Test page with a credit card form used to exercise autofill of card name, number, expiry and CVC fields in iOS browser tests.

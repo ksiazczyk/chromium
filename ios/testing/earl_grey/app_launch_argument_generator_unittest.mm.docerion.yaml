@@ -1,0 +1,4 @@
+# Docerion header of app_launch_argument_generator_unittest.mm.
+type: test
+title: Unit tests for app launch argument generation
+summary: Verifies that enabled and disabled feature flags from configurations and additional arguments are merged into single arguments.

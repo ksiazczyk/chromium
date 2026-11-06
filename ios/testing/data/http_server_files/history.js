@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History navigation test helpers
+// summary: JavaScript implementing pushState, replaceState, back and forward helpers that update status text for the history test pages.
+// ---
+
 function onPopstate(e) {
   const state = e.state;
   const displayText = !state ? '' : state.button || state;

@@ -1,0 +1,4 @@
+# Docerion header of simple_login_form_empty.html.
+type: test
+title: Simple empty login form test page
+summary: Test page with an empty login form posting to destination.html, used for iOS autofill and login testing.

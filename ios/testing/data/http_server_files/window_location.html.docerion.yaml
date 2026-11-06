@@ -1,0 +1,4 @@
+# Docerion header of window_location.html.
+type: test
+title: Window location navigation test page
+summary: Test page with buttons that trigger location assign, replace, reload and DOM string assignment via window_location.js.

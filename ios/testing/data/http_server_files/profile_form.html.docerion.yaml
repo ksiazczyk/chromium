@@ -1,0 +1,4 @@
+# Docerion header of profile_form.html.
+type: test
+title: Profile form test page
+summary: Test page with a profile form posting name, address, city, state and zip fields to destination.html for autofill tests.

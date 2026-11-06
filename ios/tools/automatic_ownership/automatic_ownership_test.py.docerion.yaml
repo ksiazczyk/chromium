@@ -1,0 +1,4 @@
+# Docerion header of automatic_ownership_test.py.
+type: test
+title: Automatic ownership calculator unit tests
+summary: Unit tests for the ownership calculator, covering OWNERS parsing, high-level owner checks, and commit statistics extraction.

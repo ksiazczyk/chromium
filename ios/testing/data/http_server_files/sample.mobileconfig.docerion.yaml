@@ -1,0 +1,4 @@
+# Docerion header of sample.mobileconfig.
+type: test
+title: Sample mobile configuration profile
+summary: Apple configuration profile plist defining Mail-in-a-box CalDAV, CardDAV and IMAP account payloads for iOS tests.

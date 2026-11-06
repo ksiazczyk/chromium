@@ -1,0 +1,4 @@
+# Docerion header of insecure_form.html.
+type: test
+title: Insecure form test page
+summary: Test page with a username and password form whose action URL is taken from the page's query string.

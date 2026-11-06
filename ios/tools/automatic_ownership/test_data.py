@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Fake git log test data
+# summary: Provides a fake git log corpus used as fixture data by the automatic ownership tests.
+# ---
+
 """Test data corpus for automatic_ownership integration tests."""
 
 # This fake git log is designed to trigger the Z-Score analysis for the

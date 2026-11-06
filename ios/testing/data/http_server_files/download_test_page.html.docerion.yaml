@@ -1,0 +1,4 @@
+# Docerion header of download_test_page.html.
+type: test
+title: Download links test page
+summary: Test page offering download links backed by a data URL, a blob URL and a PDF, for exercising download behavior.

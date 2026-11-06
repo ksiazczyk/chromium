@@ -1,0 +1,4 @@
+# Docerion header of protocol_fake.mm.
+type: source
+title: ProtocolFake implementation
+summary: Implements the ProtocolFake proxy that records call counts and optionally logs or shows alerts for protocol method invocations during tests.

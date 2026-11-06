@@ -1,0 +1,4 @@
+# Docerion header of test_tag_registry_unittest.mm.
+type: test
+title: Test Tag Registry Unit Tests
+summary: Unit tests covering direct tagging and queries, macro-based static registration into the singleton, and clearing of the test tag registry.

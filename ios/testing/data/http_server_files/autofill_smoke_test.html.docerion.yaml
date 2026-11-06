@@ -1,0 +1,4 @@
+# Docerion header of autofill_smoke_test.html.
+type: test
+title: Autofill smoke test form
+summary: Profile form with a preset fill button used for autofill smoke testing on iOS.

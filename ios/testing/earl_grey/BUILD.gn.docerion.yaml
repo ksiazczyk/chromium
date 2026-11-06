@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Earl Grey test support build targets
+summary: Defines GN source sets for Earl Grey 2 app and test support, launch configuration, and unit tests in the iOS Earl Grey testing directory.

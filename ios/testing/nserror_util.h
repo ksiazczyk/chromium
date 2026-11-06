@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSError test helper header
+// summary: Declares NSErrorWithLocalizedDescription, which builds an NSError with a generic domain, error code, and a provided localized description for tests.
+// ---
+
 #ifndef IOS_TESTING_NSERROR_UTIL_H_
 #define IOS_TESTING_NSERROR_UTIL_H_
 

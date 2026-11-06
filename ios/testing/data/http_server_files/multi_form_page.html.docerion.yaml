@@ -1,0 +1,4 @@
+# Docerion header of multi_form_page.html.
+type: test
+title: Multi-form login and address test page
+summary: Test page with a login form and an address form that both post to destination.html, used for form-related iOS tests.

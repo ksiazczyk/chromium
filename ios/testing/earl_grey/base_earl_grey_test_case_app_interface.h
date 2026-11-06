@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseEarlGreyTestCaseAppInterface header
+// summary: Declares app-side helpers for logging, fast animation control, keyboard swizzling, and graceful app termination.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_BASE_EARL_GREY_TEST_CASE_APP_INTERFACE_H_
 #define IOS_TESTING_EARL_GREY_BASE_EARL_GREY_TEST_CASE_APP_INTERFACE_H_
 

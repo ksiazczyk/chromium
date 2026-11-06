@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gRPC service definition for the iOS test runner plugin
+// summary: Protobuf service and messages that let plugins observe test case start, finish, and failure events and query which plugins are enabled for a test run.
+// ---
+
 syntax = "proto3";
 
 package ios_test_plugin;

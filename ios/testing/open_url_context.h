@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test open URL context stubs
+// summary: Declares TestOpenURLContext and TestSceneOpenURLOptions test doubles mirroring UIOpenURLContext and UISceneOpenURLOptions fields that cannot be instantiated directly.
+// ---
+
 #ifndef IOS_TESTING_OPEN_URL_CONTEXT_H_
 #define IOS_TESTING_OPEN_URL_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System cookie conversion utilities header
+// summary: Declares functions converting between NSHTTPCookie and net::CanonicalCookie, plus a CookieEvent enum for read and foregrounded events.
+// ---
+
 #ifndef IOS_NET_COOKIES_SYSTEM_COOKIE_UTIL_H_
 #define IOS_NET_COOKIES_SYSTEM_COOKIE_UTIL_H_
 

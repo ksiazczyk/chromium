@@ -1,0 +1,4 @@
+# Docerion header of redirect_refresh.html.
+type: test
+title: Meta refresh redirect test page
+summary: Test page that redirects to destination.html via a meta refresh tag.

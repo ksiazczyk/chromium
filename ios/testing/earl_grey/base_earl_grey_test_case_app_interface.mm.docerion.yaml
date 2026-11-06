@@ -1,0 +1,4 @@
+# Docerion header of base_earl_grey_test_case_app_interface.mm.
+type: source
+title: BaseEarlGreyTestCaseAppInterface implementation
+summary: Implements helpers compiled into the app binary for logging, speeding up or restoring animations, forcing in-process keyboard, and graceful termination.

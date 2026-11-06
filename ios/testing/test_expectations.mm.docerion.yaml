@@ -1,0 +1,4 @@
+# Docerion header of test_expectations.mm.
+type: source
+title: TestExpectations implementation
+summary: Implements parsing and matching of test expectations against XCTest issues, including tag-based filtering by OS, device, and form factor.

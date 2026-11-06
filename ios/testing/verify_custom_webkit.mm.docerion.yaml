@@ -1,0 +1,4 @@
+# Docerion header of verify_custom_webkit.mm.
+type: source
+title: Custom WebKit Verification Implementation
+summary: Checks that loaded WebKit-related frameworks come from the custom WebKitFrameworks directory when the run-with-custom-webkit switch is set.

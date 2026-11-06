@@ -1,0 +1,4 @@
+# Docerion header of system_cookie_store.mm.
+type: source
+title: SystemCookieStore base class implementation
+summary: Implements the SystemCookieStore base class with cookie creation-time lookup and comparison of cookies by path length and creation time.

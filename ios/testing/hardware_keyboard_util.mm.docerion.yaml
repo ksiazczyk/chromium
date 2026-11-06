@@ -1,0 +1,4 @@
+# Docerion header of hardware_keyboard_util.mm.
+type: source
+title: Hardware keyboard event simulation implementation
+summary: Implements simulated physical keyboard events using private IOKit HID APIs to map characters, function keys, and modifiers to key codes for iOS tests.

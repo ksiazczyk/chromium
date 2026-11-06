@@ -1,0 +1,4 @@
+# Docerion header of microphone_only.html.
+type: test
+title: Requesting Microphone Permissions
+summary: Test page that requests microphone access only via getUserMedia and displays the current audio volume.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable.html.
+type: test
+title: Contenteditable accessory view test page
+summary: Checks that the keyboard accessory view with navigation buttons appears when contenteditable is focused.

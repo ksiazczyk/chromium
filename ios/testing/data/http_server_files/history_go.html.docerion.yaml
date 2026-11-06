@@ -1,0 +1,4 @@
+# Docerion header of history_go.html.
+type: test
+title: History go navigation test page
+summary: Test page with buttons for history.go variants such as no parameter, zero, back, forward and multi-step jumps, using history_go.js.

@@ -1,0 +1,4 @@
+# Docerion header of heal_gn_check.py.
+type: script
+title: GN Check Healer CLI
+summary: Runs gn check, parses dependency violation errors, and automatically inserts missing dependencies into the affected BUILD.gn files.

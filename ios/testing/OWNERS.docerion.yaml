@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for ios/testing
+summary: Opens approval of test bundle data filelists and test_expectations.txt changes to anyone.

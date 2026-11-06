@@ -1,0 +1,4 @@
+# Docerion header of simple_login_form.html.
+type: test
+title: Simple login form test page
+summary: Test page with a simple login form prefilled with example username and password values.

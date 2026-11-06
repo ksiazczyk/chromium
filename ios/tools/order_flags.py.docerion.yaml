@@ -1,0 +1,4 @@
+# Docerion header of order_flags.py.
+type: script
+title: Flag descriptions sorter
+summary: Alphabetically sorts the flag definitions in ios_chrome_flag_descriptions.h, with an optional check-only mode.

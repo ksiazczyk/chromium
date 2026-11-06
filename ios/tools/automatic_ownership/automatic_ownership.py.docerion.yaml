@@ -1,0 +1,4 @@
+# Docerion header of automatic_ownership.py.
+type: source
+title: Automatic Ownership Calculator
+summary: Analyzes pre-collected git history and OWNERS data to determine potential code owners for each sub-directory.

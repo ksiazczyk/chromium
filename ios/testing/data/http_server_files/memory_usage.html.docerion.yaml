@@ -1,0 +1,4 @@
+# Docerion header of memory_usage.html.
+type: test
+title: Memory usage test page
+summary: Test page with text and the Chromium logo image, named for memory usage tests.

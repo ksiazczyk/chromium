@@ -1,0 +1,4 @@
+# Docerion header of filters_test.py.
+type: test
+title: Ownership analysis filter tests
+summary: Unit tests for the filter functions covering files, directories, commits, usernames, and owner lines.

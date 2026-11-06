@@ -1,0 +1,4 @@
+# Docerion header of check_forward_declarations.py.
+type: script
+title: Forward Declarations Checker CLI
+summary: Scans header files to report imports that can be replaced with forward declarations or removed, printing suggested declarations and aggregate statistics.

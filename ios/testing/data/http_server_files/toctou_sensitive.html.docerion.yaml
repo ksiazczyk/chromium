@@ -1,0 +1,4 @@
+# Docerion header of toctou_sensitive.html.
+type: test
+title: TOCTOU sensitive page
+summary: Sensitive origin page with a result div used in time-of-check to time-of-use tests.

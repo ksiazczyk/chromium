@@ -1,0 +1,4 @@
+# Docerion header of fullscreen.html.
+type: test
+title: Full screen test page
+summary: Scrollable page with sports lists that can request full screen and repeated scrolling via URL parameters, for fullscreen mode tests.

@@ -1,0 +1,4 @@
+# Docerion header of history.html.
+type: test
+title: History navigation test page
+summary: Test page with buttons for pushState, replaceState, back and forward actions, using history.js to test session history behavior.

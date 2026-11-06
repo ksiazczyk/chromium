@@ -1,0 +1,4 @@
+# Docerion header of select_tool_test.html.
+type: test
+title: Select Tool Test Page
+summary: Test page for select_tool.ts that captures DOM events and exposes them via window.capturedEvents.

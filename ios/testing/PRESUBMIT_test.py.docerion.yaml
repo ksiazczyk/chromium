@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for iOS testing presubmit checks
+summary: Tests CheckTestExpectations handling of bug links, tags, wildcards, and expectation keywords.

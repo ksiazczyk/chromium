@@ -1,0 +1,4 @@
+# Docerion header of toctou_attacker.html.
+type: test
+title: TOCTOU attacker page
+summary: Attacker page without listeners that instructs opening bookmarks and tapping the bookmarklet, used in time-of-check to time-of-use tests.

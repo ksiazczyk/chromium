@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for disabling Earl Grey tests at runtime
+// summary: Header defining EARL_GREY_TEST_DISABLED and EARL_GREY_TEST_SKIPPED macros that force Earl Grey tests to pass when a runtime configuration is unsupported.
+// ---
+
 #ifndef IOS_TESTING_EARL_GREY_DISABLED_TEST_MACROS_H_
 #define IOS_TESTING_EARL_GREY_DISABLED_TEST_MACROS_H_
 

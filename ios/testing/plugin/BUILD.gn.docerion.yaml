@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS test plugin gRPC service
+summary: Defines a testonly gRPC library build target that compiles test_plugin_service.proto using the shared gRPC library template.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler utility declarations
+// summary: Declares helpers to build an NSURLResponse from a URLRequest and to copy HTTP headers between requests, plus the net NSError domain.
+// ---
+
 #ifndef IOS_NET_PROTOCOL_HANDLER_UTIL_H_
 #define IOS_NET_PROTOCOL_HANDLER_UTIL_H_
 

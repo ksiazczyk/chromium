@@ -1,3 +1,13 @@
+---
+type: readme
+title: 'Chrome for iOS: Forward Declarations & Self-Healing Optimization Guide'
+summary: Documents the automated forward declarations optimization and compiler self-healing workflow for Chrome for iOS, covering the tool suite and a step-by-step optimization process.
+relations:
+  - documents /ios/tools/forward_declarations/check_forward_declarations.py
+  - documents /ios/tools/forward_declarations/fix_forward_declarations.py
+  - documents /ios/tools/forward_declarations/forward_declarations_lib.py
+---
+
 # Chrome for iOS: Forward Declarations & Self-Healing Optimization Guide
 
 This guide documents the **Automated Forward Declarations Optimization & Compiler Self-Healing** workflow for Chrome for iOS. It is designed to guide future engineering agents and human developers in optimizing C++ and Objective-C++ headers, decoupling interface dependencies, and resolving compilation issues automatically.

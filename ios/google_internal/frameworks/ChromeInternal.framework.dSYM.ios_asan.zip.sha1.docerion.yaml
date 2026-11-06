@@ -1,0 +1,4 @@
+# Docerion header of ChromeInternal.framework.dSYM.ios_asan.zip.sha1.
+type: data
+title: ChromeInternal dSYM iOS ASan checksum
+summary: SHA1 checksum of the ChromeInternal framework debug symbols archive built with AddressSanitizer for iOS.

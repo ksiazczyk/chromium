@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie cache class declaration
+// summary: Declares CookieCache, a cache of cookies for URL and name pairs that detects changes between updates.
+// ---
+
 #ifndef IOS_NET_COOKIES_COOKIE_CACHE_H_
 #define IOS_NET_COOKIES_COOKIE_CACHE_H_
 

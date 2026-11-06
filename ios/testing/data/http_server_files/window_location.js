@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window location test helper script
+// summary: JavaScript helpers that perform window.location assign, replace, reload and assignment and report on-load state for the navigation test page.
+// ---
+
 function updateOnLoadText(text) {
   document.getElementById('on-load-div').innerHTML = text;
 }

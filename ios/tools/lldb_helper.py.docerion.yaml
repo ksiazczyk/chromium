@@ -1,0 +1,4 @@
+# Docerion header of lldb_helper.py.
+type: script
+title: LLDB tmux debugging helper
+summary: Manages interactive LLDB debugging sessions in tmux, including attaching to simulator apps and cleaning up sessions and processes.

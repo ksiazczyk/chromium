@@ -1,0 +1,4 @@
+# Docerion header of commit.py.
+type: source
+title: Git commit parser
+summary: Defines a Commit class that parses raw git commit descriptions into author, reviewers, date, file stats, and the primary modified folder.

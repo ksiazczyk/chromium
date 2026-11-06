@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie store iOS test utilities
+// summary: Declares test doubles and helpers for CookieStoreIOS tests, including a controllable persistent cookie store, a test client, and cookie change recording.
+// ---
+
 #ifndef IOS_NET_COOKIES_COOKIE_STORE_IOS_TEST_UTIL_H_
 #define IOS_NET_COOKIES_COOKIE_STORE_IOS_TEST_UTIL_H_
 

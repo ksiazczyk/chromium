@@ -1,0 +1,4 @@
+# Docerion header of links.html.
+type: test
+title: Links test page
+summary: Test page with normal and same-page links used to test renderer-initiated navigation.

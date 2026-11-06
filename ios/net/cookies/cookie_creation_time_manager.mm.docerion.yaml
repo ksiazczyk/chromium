@@ -1,0 +1,4 @@
+# Docerion header of cookie_creation_time_manager.mm.
+type: source
+title: Cookie creation time manager implementation
+summary: Implements creation time tracking for cookies, reading the undocumented Created property of NSHTTPCookie.

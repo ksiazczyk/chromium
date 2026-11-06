@@ -1,0 +1,4 @@
+# Docerion header of scoped_block_swizzler_unittest.mm.
+type: test
+title: ScopedBlockSwizzler unit tests
+summary: Unit tests verifying that ScopedBlockSwizzler swizzles class and instance methods and restores the original implementations afterwards.

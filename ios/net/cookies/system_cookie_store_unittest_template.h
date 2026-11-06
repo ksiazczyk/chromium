@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemCookieStore conformance test template
+// summary: Template header defining typed tests that every SystemCookieStore implementation must pass to be conformant, using a delegate for each implementation.
+// ---
+
 #ifndef IOS_NET_COOKIES_SYSTEM_COOKIE_STORE_UNITTEST_TEMPLATE_H_
 #define IOS_NET_COOKIES_SYSTEM_COOKIE_STORE_UNITTEST_TEMPLATE_H_
 
