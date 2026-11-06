@@ -7,6 +7,12 @@
 // via post message. Note that the embedder has to initiate a postMessage
 // first so that guest has a reference to the embedder's window.
 
+// ---docerion
+// type: test
+// title: WebView permissions test guest script
+// summary: Test guest script that runs geolocation, camera, microphone, media, and HID permission requests inside a webview and reports granted or denied results to the embedder via postMessage.
+// ---
+
 // The window reference of the embedder to send post message reply.
 var embedderWindowChannel = null;
 

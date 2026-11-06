@@ -1,0 +1,4 @@
+# Docerion header of echo.html.
+type: test
+title: Echo guest page for postMessage tests
+summary: Guest page that echoes received postMessage data back to its source.

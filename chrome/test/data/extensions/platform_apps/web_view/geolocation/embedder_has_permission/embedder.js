@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder test logic for webview geolocation permission
+// summary: Sets up the webview guest, exchanges post messages with it, and runs geolocation permission test cases, reporting pass or fail.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

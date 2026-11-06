@@ -1,0 +1,4 @@
+# Docerion header of guest_shadow.html.
+type: test
+title: Webview text selection shadow DOM guest page
+summary: Guest page that places selectable text inside an open shadow root to test text selection within shadow DOM.

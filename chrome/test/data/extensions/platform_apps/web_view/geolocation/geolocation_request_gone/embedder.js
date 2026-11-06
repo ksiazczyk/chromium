@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder test logic for webview geolocation permission cancellation
+// summary: Sets up a webview guest, intercepts its geolocation permission request, cancels it, and asserts the guest receives access-denied via chrome.test.
+// ---
+
 var embedder = {};
 embedder.baseGuestURL = '';
 embedder.guestURL = '';

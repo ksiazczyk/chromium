@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Packaged app test manifest for webview text selection
+summary: Manifest version 2 app manifest declaring the webview permission and test.js as the background script for the selection test.

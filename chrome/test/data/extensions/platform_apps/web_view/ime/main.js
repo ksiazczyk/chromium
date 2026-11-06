@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview IME test main script
+// summary: Creates the webview pointing at the test server guest page and relays init, focus and input messages to the browser test via chrome.test.sendMessage.
+// ---
+
 window.addEventListener('load', function() {
   window.webview = document.createElement('webview');
   document.querySelector('#webview-tag-container').appendChild(webview);

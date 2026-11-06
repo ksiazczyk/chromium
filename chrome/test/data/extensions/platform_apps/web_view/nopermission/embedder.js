@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview API undefined without permission test
+// summary: Verifies that all <webview> API methods and contentWindow are undefined when the webview permission is missing from the manifest.
+// ---
+
 // This test verifies that the <webview> API is undefined if the webview
 // permission is not specified in the manifest file.
 function testAPIMethodExistence() {

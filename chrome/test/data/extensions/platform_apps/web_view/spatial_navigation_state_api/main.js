@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spatial navigation state API test steps
+// summary: Drives the webview spatial navigation test, checking the enabled state, arrow-key focus movement, and disabling via the state API.
+// ---
+
 function firstCheck(spatialNavigationEnabled) {
   chrome.test.log('Spatial navigation initially enabled via switch');
   if (spatialNavigationEnabled) {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview permissions test app
+summary: Platform app manifest granting geolocation, video and audio capture, and webview permissions, with test.js as the background script.

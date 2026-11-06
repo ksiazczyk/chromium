@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview no-permission test page
+summary: Test page that embeds a <webview> element and loads the embedder test script.

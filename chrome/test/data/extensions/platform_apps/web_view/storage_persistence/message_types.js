@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message type constants
+// summary: Defines the message title constants used for setting and getting cookies between the host window and the guest webview windows.
+// ---
+
 // The different types of messages passed between the host window and the guest
 // webview windows.
 var SET_COOKIE = 'Set Cookie to Value';

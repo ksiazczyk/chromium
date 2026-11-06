@@ -1,0 +1,4 @@
+# Docerion header of embedder.html.
+type: test
+title: Embedder page for the webview speech recognition test
+summary: Minimal HTML page of the test app that loads embedder.js to set up the webview guest and run the speech recognition tests.

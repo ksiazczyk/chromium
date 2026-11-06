@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the storage persistence test app
+summary: Chrome app manifest declaring the webview permission and window.js as the background script for the storage persistence test app.

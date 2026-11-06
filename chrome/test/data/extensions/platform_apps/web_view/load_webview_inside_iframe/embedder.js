@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder test logic for webview inside iframe
+// summary: Test logic that loads the guest page into the webview and reports TEST_PASSED or TEST_FAILED via chrome.test messages.
+// ---
+
 var embedder = {};
 embedder.guestURL = '';
 

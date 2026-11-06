@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview popup positioning test app launcher
+// summary: Background script that opens main.html in a 400x400 app window positioned near the top-left of the screen when the test app is launched.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('main.html', {
     innerBounds: {

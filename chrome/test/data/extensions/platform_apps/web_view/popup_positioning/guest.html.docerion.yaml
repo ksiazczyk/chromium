@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Webview guest page with datetime input for popup positioning test
+summary: Guest page loaded inside the webview that hosts a datetime-local input, focuses it upon a request-connect message so its popup can be opened and positioned during the test.

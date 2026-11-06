@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal test runner helper
+// summary: Provides a Testing.Test class that chains named test steps and runs them with success and failure callbacks.
+// ---
+
 Testing = {};
 
 // A simple class which holds the test logic. Each "Test" instance has a |name|

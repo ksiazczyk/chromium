@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview spatial navigation test host page
+summary: HTML page that hosts a webview element and loads the test logic for the spatial navigation state API browser test.

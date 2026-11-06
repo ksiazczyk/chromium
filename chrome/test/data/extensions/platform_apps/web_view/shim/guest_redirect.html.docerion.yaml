@@ -1,0 +1,4 @@
+# Docerion header of guest_redirect.html.
+type: test
+title: Guest redirect test page
+summary: Bare guest page fixture for the webview shim suite, presumably used in redirect scenarios.

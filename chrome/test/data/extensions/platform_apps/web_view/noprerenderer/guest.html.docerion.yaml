@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Webview guest page with prerender link
+summary: Guest page titled Guest1 that declares a prerender link to guest_prerender.html for the webview noprerenderer test.

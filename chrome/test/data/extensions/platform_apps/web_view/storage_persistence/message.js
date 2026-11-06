@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostMessage messaging helper
+// summary: Defines a Messaging singleton with a message class and a handler dispatcher that routes postMessage traffic between host and guest windows.
+// ---
+
 Messaging = {};
 
 // Structure of a simple message sent/received using |window.postMessage| and

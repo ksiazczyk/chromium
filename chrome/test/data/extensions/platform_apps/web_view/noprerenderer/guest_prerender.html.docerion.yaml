@@ -1,0 +1,4 @@
+# Docerion header of guest_prerender.html.
+type: test
+title: Prerender target guest page
+summary: Minimal guest page titled Guest2 serving as the prerender target of the webview noprerenderer test.

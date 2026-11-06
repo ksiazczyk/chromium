@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script hosting the webview guest
+// summary: Creates a webview pointing at the guest page on the test server and relays guest messages to the browser test via chrome.test.sendMessage.
+// ---
+
 window.onload = () => {
   chrome.test.getConfig(function(config) {
     var guestURL = 'http://localhost:' + config.testServer.port +

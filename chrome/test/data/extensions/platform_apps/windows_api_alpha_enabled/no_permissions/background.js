@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: alphaEnabled window tests without permission
+// summary: Background script that runs chrome.app.window.create tests expecting failure when alphaEnabled is set without the app.window.alpha permission.
+// ---
+
 var error = "The alphaEnabled option requires app.window.alpha permission.";
 
 function testAlphaEnabled(testId, setValue) {

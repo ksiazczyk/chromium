@@ -1,0 +1,4 @@
+# Docerion header of guest_noopener.html.
+type: test
+title: Guest that opens a new window using noopener
+summary: Test guest page that opens empty_guest.html with the noopener window feature on load.

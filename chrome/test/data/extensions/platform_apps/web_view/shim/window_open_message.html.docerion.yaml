@@ -1,0 +1,4 @@
+# Docerion header of window_open_message.html.
+type: test
+title: Guest page that opens a window on embedder message
+summary: Test guest page that opens a new window without noopener when messaged by the embedder and posts the new window's URL back.

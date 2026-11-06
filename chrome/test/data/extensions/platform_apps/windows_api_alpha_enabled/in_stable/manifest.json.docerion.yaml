@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for alphaEnabled Stable channel test app
+summary: Defines the test extension app with the app.window.alpha permission and background script used to exercise alphaEnabled behavior on the Stable channel.

@@ -1,0 +1,4 @@
+# Docerion header of window.html.
+type: test
+title: Host window page for the storage persistence test app
+summary: HTML page for the app window that embeds the webview and loads the messaging, testing, and test definition scripts.

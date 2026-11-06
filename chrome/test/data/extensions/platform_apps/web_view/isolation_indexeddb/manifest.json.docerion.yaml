@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Platform app manifest for web view IndexedDB isolation test
+summary: Chrome platform app manifest granting the webview permission and running test.js as the background script for the isolation test app.

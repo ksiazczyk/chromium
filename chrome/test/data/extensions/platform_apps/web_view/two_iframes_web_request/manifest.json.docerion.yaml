@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest
+summary: Manifest for the webview webRequest regression test app, requesting the webview permission and running test.js in the background.

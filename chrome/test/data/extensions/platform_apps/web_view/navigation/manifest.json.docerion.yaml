@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Packaged app test manifest for webview navigation
+summary: Manifest for the packaged app test that verifies webview navigation, requesting the webview permission.

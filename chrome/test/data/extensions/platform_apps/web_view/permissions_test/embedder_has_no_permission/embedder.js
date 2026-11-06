@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'embedder.js: webview permission allow and deny test logic'
+// summary: Embedder script that loads a guest page in a webview and runs geolocation, camera and other permission request tests via postMessage.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

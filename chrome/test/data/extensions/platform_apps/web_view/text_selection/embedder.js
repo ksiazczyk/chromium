@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview text selection embedder script
+// summary: Sets up the webview guest from the test server, listens for load and context-menu messages, and reports progress via chrome.test.
+// ---
+
 var embedder = {};
 embedder.baseGuestURL = '';
 embedder.guestURL = '';

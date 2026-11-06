@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legacy web view content script test
+// summary: Content script that logs a hello message, mutates the bridge element, and dispatches an event so the embedder can detect that the script ran.
+// ---
+
 window.console.log('Hello world from content_script');
 
 // Signal back to the embedder via event and text content change.

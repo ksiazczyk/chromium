@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script for the webview pointer lock test
+// summary: Script that loads the guest page into the webview, handles its permission request while focusing the textarea, and relays messages through chrome.test.
+// ---
+
 // See chrome/browser/extensions/web_view_interactive_browsertest.cc
 // (WebViewInteractiveTest, PointerLockFocus) for documentation on this test.
 var guestURL;

@@ -2,4 +2,10 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Second embedder test invocation
+// summary: Starts the webRequest test for the second webview using empty2.html and the ready2, success2 and fail2 messages.
+// ---
+
 runWebRequestTest('empty2.html', 'ready2', 'success2', 'fail2');

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview SSL error page test app
+summary: Extension manifest for the test app that checks webview behavior when an SSL error is encountered in the guest.

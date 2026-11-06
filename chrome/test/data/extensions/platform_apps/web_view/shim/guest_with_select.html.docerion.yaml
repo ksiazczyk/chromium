@@ -1,0 +1,4 @@
+# Docerion header of guest_with_select.html.
+type: test
+title: Guest page with a select element
+summary: Guest page fixture with a small select that reports mousedown clicks to the test via chrome.test.sendMessage.

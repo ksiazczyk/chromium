@@ -1,0 +1,4 @@
+# Docerion header of foo.html.
+type: test
+title: Foo HTML test page
+summary: Minimal HTML page fixture containing only the text Foo, used by the webview load_webview_accessible_resource test.

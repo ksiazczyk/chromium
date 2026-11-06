@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB isolation test guest storage script
+// summary: Guest-side script that initializes DOM storage and IndexedDB and performs open, read, and write steps, reporting each result to the embedder via postMessage.
+// ---
+
 // This method initializes the two types of DOM storage.
 function initDomStorage(value) {
   window.localStorage.setItem('foo', 'local-' + value);

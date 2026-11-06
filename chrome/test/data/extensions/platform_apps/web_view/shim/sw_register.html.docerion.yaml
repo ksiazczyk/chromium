@@ -1,0 +1,4 @@
+# Docerion header of sw_register.html.
+type: test
+title: Service worker registration page
+summary: Page that registers sw.js in the sw/ scope and reports service worker registration status to the test harness.

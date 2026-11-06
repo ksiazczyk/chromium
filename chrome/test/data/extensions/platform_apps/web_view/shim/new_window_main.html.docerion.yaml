@@ -1,0 +1,4 @@
+# Docerion header of new_window_main.html.
+type: test
+title: Empty new window test page
+summary: Minimal empty HTML page used as the main page when testing new window creation from a webview.

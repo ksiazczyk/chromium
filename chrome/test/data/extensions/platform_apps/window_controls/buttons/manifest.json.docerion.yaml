@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Window controls test app manifest
+summary: Manifest for the Window Controls Demo test app, declaring background.js as the app background script with no permissions.

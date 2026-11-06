@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview media access deny test embedder logic
+// summary: Sets up webview guests that request media access, denies the permission requests, and verifies denial behavior and exception handling via post messages.
+// ---
+
 var embedder = {};
 embedder.tests = {};
 embedder.baseGuestURL = '';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stable channel alphaEnabled window API tests
+// summary: Runs browser tests verifying that creating windows with the alphaEnabled option fails on the Stable channel even when the app.window.alpha permission is set.
+// ---
+
 var error = "The alphaEnabled option requires dev channel or newer.";
 
 function testAlphaEnabled(testId, setValue) {

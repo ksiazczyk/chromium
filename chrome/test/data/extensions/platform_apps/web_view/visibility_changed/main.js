@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview visibility test main script
+// summary: Embeds a webview guest and handles app commands to hide the guest or embedder, reporting test progress via chrome.test messages.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

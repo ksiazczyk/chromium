@@ -1,0 +1,4 @@
+# Docerion header of accessible.txt.
+type: test
+title: Accessible webview test resource
+summary: Plain text fixture served as a webview accessible resource in the load_webview_accessible_resource test.

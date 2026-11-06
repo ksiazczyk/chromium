@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview visibility test main page
+summary: HTML page for the visibility changed test app that hosts a webview container and loads the main test script.

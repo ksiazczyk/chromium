@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Webview text selection guest page
+summary: Guest page with a long wrapped text string that logs a context-menu message used by the selection test.

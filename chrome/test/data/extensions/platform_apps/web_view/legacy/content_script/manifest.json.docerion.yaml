@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for legacy content script test extension
+summary: Extension manifest that force loads content_script.js into all frames of every URL to reproduce a crash bug in legacy hosted apps.

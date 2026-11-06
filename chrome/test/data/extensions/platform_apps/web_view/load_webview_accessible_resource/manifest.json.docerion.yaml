@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview accessible resource test extension
+summary: Defines the test extension with webview permission, the foo partition, its accessible resources, and the fixed extension key.

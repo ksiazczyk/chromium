@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder script creating and connecting the webview
+// summary: Creates and styles the webview pointing at the guest page, exchanges messages with it, and reports test progress through chrome.test.
+// ---
+
 var LOG = function(msg) {
     window.console.log(msg);
 };

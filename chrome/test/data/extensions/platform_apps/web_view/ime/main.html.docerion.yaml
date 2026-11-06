@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview IME test host page
+summary: Host page of the IME test app that contains the webview container element and loads the main test script.

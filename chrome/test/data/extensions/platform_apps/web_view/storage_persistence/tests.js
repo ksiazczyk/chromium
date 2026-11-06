@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview cookie storage persistence tests
+// summary: Defines helpers and chained tests that set cookies in webviews and verify cookies are shared between webviews on the same partition.
+// ---
+
 // Navigates |webview| to |url| and invokes |callback| when the navigation is
 // complete.
 function navigateWebview(webview, url, callback) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the window API cross origin isolation test
+// summary: Runs a test that creates an app window and asserts its content window, id, and current-window behavior under cross-origin isolation.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.test.runTests([
     function testCreate() {

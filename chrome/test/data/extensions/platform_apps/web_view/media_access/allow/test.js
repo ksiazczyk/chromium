@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView media access allow test background script
+// summary: Background script that opens the embedder page when the media access allow test app is launched.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('embedder.html', {}, function () {});
 });

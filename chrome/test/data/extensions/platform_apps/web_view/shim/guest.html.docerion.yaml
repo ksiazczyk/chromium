@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page opening a new window
+summary: Guest page that opens empty_guest.html in a new named window on load.

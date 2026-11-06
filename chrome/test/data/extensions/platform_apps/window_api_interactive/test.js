@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive Window API Test Script
+// summary: Chromium browser test script that exercises chrome.app.window creation, focus behavior, and innerBounds constraints through interactive test cases.
+// ---
+
 var callbackPass = chrome.test.callbackPass;
 
 function testWindowGetsFocus(win) {

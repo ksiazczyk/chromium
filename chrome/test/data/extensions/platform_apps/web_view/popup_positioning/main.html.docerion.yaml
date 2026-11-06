@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview popup positioning test host page
+summary: Host page that embeds a webview at a padded offset and loads main.js to drive the popup positioning test.

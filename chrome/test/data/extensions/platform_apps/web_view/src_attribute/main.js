@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView src attribute test logic
+// summary: Runs chrome.test checks that webview src updates via setAttribute and the src property, and that empty src values are ignored.
+// ---
+
 var checkSrc = function(element, expectedValue) {
   // Note that element.getAttribute('src') should not be used, it can be out of
   // sync with element.src.

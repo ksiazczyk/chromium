@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Webview guest page for the guest focus test
+summary: HTML guest page loaded inside the webview that includes guest.js to take part in the focus test.

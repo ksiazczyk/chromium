@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for alphaEnabled window tests
+// summary: Runs chrome.app.window.create tests that verify the alphaEnabled value of created windows when the app.window.alpha permission is set.
+// ---
+
 function testAlphaEnabled(testId, setOption, setValue, expectedValue) {
   var createOptions = { frame: 'none' };
   if (setOption)

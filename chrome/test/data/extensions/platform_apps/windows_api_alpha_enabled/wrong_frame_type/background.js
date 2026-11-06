@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for alphaEnabled wrong frame type tests
+// summary: Runs browser tests verifying that the alphaEnabled window option succeeds only with frame 'none' and fails with the default chrome frame.
+// ---
+
 var error = 'The alphaEnabled option can only be used with "frame: \'none\'".';
 
 chrome.app.runtime.onLaunched.addListener(function() {

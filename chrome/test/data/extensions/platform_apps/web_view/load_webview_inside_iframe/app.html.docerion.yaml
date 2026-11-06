@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: test
+title: App page loading the embedder inside an iframe
+summary: App entry page that places embedder.html inside an iframe and loads embedder.js for the webview-in-iframe test.

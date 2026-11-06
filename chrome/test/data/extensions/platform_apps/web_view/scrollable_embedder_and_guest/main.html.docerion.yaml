@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Embedder page hosting the webview
+summary: Embedder app page that provides the webview container element and loads the embedder script for the scroll bubbling test.

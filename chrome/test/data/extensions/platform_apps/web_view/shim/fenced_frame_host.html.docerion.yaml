@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame_host.html.
+type: test
+title: Fenced frame host test page
+summary: Host page that embeds fenced_frame.html using a FencedFrameConfig.

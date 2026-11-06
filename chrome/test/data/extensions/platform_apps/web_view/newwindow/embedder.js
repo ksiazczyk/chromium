@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder test harness for webview new window tests
+// summary: JavaScript harness that sets up webview guests, drives new window and frame name scenarios via postMessage, and reports pass or fail to the test framework.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

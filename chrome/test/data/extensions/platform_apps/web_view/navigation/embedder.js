@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview navigation test logic
+// summary: JavaScript that creates a webview guest and steps through navigation tests covering back, forward, and go behavior.
+// ---
+
 var embedder = {};
 embedder.tests = {};
 

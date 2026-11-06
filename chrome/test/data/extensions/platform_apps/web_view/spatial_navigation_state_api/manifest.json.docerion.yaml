@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Webview spatial navigation test app manifest
+summary: Chrome app manifest declaring the webview permission and the background script for the spatial navigation state API test app.

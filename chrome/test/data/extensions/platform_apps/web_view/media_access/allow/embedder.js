@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView media access allow test embedder logic
+// summary: Embedder script that loads a guest requesting media access, allows permission requests, and reports test pass or fail to WebViewTest.
+// ---
+
 var embedder = {};
 embedder.tests = {};
 embedder.baseGuestURL = '';
