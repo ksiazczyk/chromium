@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPipelineImpl class
+// summary: Declares VideoPipelineImpl, an AvPipelineImpl subclass that initializes video decoder configs and handles resolution and config updates.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_VIDEO_PIPELINE_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_VIDEO_PIPELINE_IMPL_H_
 

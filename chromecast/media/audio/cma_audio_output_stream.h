@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CmaAudioOutputStream class header
+// summary: Declares CmaAudioOutputStream, an audio output stream that delegates rendering to a CmaAudioOutput backend.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CMA_AUDIO_OUTPUT_STREAM_H_
 #define CHROMECAST_MEDIA_AUDIO_CMA_AUDIO_OUTPUT_STREAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioChannelPushBufferHandler interface
+// summary: Defines an interface for buffering PushBufferRequest data exchanged between producer and consumer sequences over gRPC.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_AUDIO_CHANNEL_PUSH_BUFFER_HANDLER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_AUDIO_CHANNEL_PUSH_BUFFER_HANDLER_H_
 

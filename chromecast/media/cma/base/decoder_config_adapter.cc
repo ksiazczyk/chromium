@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderConfigAdapter implementation
+// summary: Implements conversions between Chromium media and Cast media audio/video codec enums, sample formats, channel layouts, and decoder configurations.
+// ---
+
 #include "chromecast/media/cma/base/decoder_config_adapter.h"
 
 #include "base/logging.h"

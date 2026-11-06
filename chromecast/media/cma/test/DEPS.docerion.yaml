@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the CMA media test directory
+summary: Defines DEPS include rules allowing the test directory to depend on chromecast common mojom and media filters and parsers.

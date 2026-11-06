@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for chromecast media common base
+summary: GN build file defining the base source set with decoder config logging sources and its dependencies on //base, //chromecast/media/api and //chromecast/public/media.

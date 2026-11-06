@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineImpl class header
+// summary: Declares MediaPipelineImpl, which initializes and controls the audio and video pipelines against a CmaBackend and reports client callbacks.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_MEDIA_PIPELINE_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_MEDIA_PIPELINE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSocketService class declaration
+// summary: Declares AudioSocketService, a server socket listener used to pass audio connections between processes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_NET_AUDIO_SOCKET_SERVICE_H_
 #define CHROMECAST_MEDIA_AUDIO_NET_AUDIO_SOCKET_SERVICE_H_
 

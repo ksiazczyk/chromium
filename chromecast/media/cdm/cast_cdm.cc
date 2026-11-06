@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdm content decryption module implementation
+// summary: Implements the CastCdm base class, including its CDM context, HDCP policy status handling, and session event forwarding.
+// ---
+
 #include "chromecast/media/cdm/cast_cdm.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferAdapter implementation
+// summary: Implements the adapter wrapping a Chromium media DecoderBuffer into DecoderBufferBase, converting decrypt configs and validating subsample sizes.
+// ---
+
 #include "chromecast/media/cma/base/decoder_buffer_adapter.h"
 
 #include "base/logging.h"

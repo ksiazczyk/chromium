@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvPipelineClient callback struct
+// summary: Declares the AvPipelineClient struct with callbacks for waiting status, end of stream, errors and statistics.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_AV_PIPELINE_CLIENT_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_AV_PIPELINE_CLIENT_H_
 

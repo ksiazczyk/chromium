@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android backend directory
+summary: Sets directory-wide include rules allowing jni and media/filters headers for the Android cast media backend.

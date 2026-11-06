@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio media codec support
+// summary: Implements MediaCapabilitiesShlib for the cast audio platform, reporting which video and audio codecs are supported.
+// ---
+
 #include "base/strings/string_util.h"
 #include "chromecast/public/media/media_capabilities_shlib.h"
 

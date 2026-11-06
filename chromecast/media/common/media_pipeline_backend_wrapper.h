@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media pipeline backend wrapper header
+// summary: Declares MediaPipelineBackendWrapper, a CmaBackend that wraps the device media pipeline backend and supports revocation to release media resources.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_MEDIA_PIPELINE_BACKEND_WRAPPER_H_
 #define CHROMECAST_MEDIA_COMMON_MEDIA_PIPELINE_BACKEND_WRAPPER_H_
 

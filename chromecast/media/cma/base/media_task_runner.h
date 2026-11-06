@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaTaskRunner interface
+// summary: Declares the abstract MediaTaskRunner interface for posting tasks scheduled by media timestamp in the Chromecast media pipeline.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_MEDIA_TASK_RUNNER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_MEDIA_TASK_RUNNER_H_
 

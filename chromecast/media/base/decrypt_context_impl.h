@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptContextImpl base class declaration
+// summary: Declares the base decryption context class that CDMs extend to decrypt frames, with async decryption and output buffer type support.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_DECRYPT_CONTEXT_IMPL_H_
 #define CHROMECAST_MEDIA_BASE_DECRYPT_CONTEXT_IMPL_H_
 

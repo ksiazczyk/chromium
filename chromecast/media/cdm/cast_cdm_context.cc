@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdmContext decryptor default implementation
+// summary: Provides the default CastCdmContext::GetDecryptor implementation, returning null for DRM-based CDM implementations.
+// ---
+
 #include "chromecast/media/cdm/cast_cdm_context.h"
 
 namespace chromecast {

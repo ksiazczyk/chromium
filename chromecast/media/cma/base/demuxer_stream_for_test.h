@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemuxerStreamForTest header
+// summary: Declares a test DemuxerStream that generates frames with a delayed or instant scheduling pattern and optional config change indices.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_DEMUXER_STREAM_FOR_TEST_H_
 #define CHROMECAST_MEDIA_CMA_BASE_DEMUXER_STREAM_FOR_TEST_H_
 

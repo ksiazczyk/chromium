@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSinkAudioTrackImpl
+// summary: Implements a Cast audio sink on Android using AudioTrack to play back interleaved PCM float samples, sharing data with native code via JNI ByteBuffers.
+// ---
+
 package org.chromium.chromecast.cma.backend.android;
 
 import android.media.AudioAttributes;

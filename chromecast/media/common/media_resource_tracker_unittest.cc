@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaResourceTracker unit tests
+// summary: Unit tests covering MediaResourceTracker lifecycle, including double initialization, finalize without initialize, and finalize waiting for resources to become unused.
+// ---
+
 #include "chromecast/media/common/media_resource_tracker.h"
 
 #include <memory>

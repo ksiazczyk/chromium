@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sink manager class declaration
+// summary: Declares AudioSinkManager, which groups audio sinks and tracks per-content-type volume and limit levels for limiter control.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_SINK_MANAGER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_SINK_MANAGER_H_
 

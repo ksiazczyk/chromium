@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback rate shifter
+// summary: Declares PlaybackRateShifter, an AudioProvider that handles playback rates from 0.25x to 4x and reports buffered frames; a fader should be chained after it.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_PLAYBACK_RATE_SHIFTER_H_
 #define CHROMECAST_MEDIA_AUDIO_PLAYBACK_RATE_SHIFTER_H_
 

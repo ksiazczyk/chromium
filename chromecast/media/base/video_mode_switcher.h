@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video mode switcher interface
+// summary: Declares the VideoModeSwitcher interface used by CastRenderer to switch display video modes for input video streams, reporting the result via a completion callback.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_VIDEO_MODE_SWITCHER_H_
 #define CHROMECAST_MEDIA_BASE_VIDEO_MODE_SWITCHER_H_
 

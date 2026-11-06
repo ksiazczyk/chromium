@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushBufferPendingHandler implementation
+// summary: Implements retry queueing of PushBuffer requests when the delegated audio channel handler reports failure or pending status, rescheduling pushes at short intervals.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/push_buffer_pending_handler.h"
 
 #include <utility>

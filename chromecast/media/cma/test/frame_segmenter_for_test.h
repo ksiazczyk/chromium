@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame segmenter test helper declarations
+// summary: Declares the MP3 and H264 segmenter functions, the FFmpeg demux helper, and the DemuxResult struct returned to tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_TEST_FRAME_SEGMENTER_FOR_TEST_H_
 #define CHROMECAST_MEDIA_CMA_TEST_FRAME_SEGMENTER_FOR_TEST_H_
 

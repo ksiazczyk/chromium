@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffer ID manager
+// summary: Assigns IDs to PushBuffer commands and approximates the currently playing buffer for audio synchronization.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_BUFFER_ID_MANAGER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_BUFFER_ID_MANAGER_H_
 

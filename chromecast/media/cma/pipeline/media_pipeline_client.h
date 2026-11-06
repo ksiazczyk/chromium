@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineClient struct header
+// summary: Declares MediaPipelineClient, a struct of callbacks for playback errors, time updates, and buffering state used by the media pipeline.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_MEDIA_PIPELINE_CLIENT_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_MEDIA_PIPELINE_CLIENT_H_
 

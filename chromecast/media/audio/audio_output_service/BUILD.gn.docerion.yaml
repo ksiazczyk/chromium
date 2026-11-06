@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the audio output service
+summary: GN build file defining the proto, constants, output socket, output connection, and unit test targets for the audio output service.

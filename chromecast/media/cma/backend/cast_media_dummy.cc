@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub cast media library implementation
+// summary: Stub implementation of the cast media library with no-op media pipeline, media clock, capability and volume control functions for default linkage.
+// ---
+
 
 #include "chromecast/public/cast_media_shlib.h"
 #include "chromecast/public/media/media_capabilities_shlib.h"

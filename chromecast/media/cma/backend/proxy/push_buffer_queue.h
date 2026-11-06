@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushBufferQueue class header
+// summary: Declares PushBufferQueue, which buffers DecoderBuffer and AudioConfig data pushed over gRPC in a lockless FIFO shared by producer and consumer sequences.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_PUSH_BUFFER_QUEUE_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_PUSH_BUFFER_QUEUE_H_
 

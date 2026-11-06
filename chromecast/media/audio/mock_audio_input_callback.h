@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock audio input callback
+// summary: GoogleMock implementation of the audio input stream callback for use in Chromecast audio tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_MOCK_AUDIO_INPUT_CALLBACK_H_
 #define CHROMECAST_MEDIA_AUDIO_MOCK_AUDIO_INPUT_CALLBACK_H_
 

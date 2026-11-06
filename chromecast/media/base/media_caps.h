@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capabilities API
+// summary: Declares the MediaCapabilities class exposing audio and video display capabilities across browser and renderer processes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_MEDIA_CAPS_H_
 #define CHROMECAST_MEDIA_BASE_MEDIA_CAPS_H_
 

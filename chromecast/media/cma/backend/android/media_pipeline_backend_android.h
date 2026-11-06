@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android media pipeline backend header
+// summary: Declares MediaPipelineBackendAndroid, the MediaPipelineBackend implementation for Android with audio decoder creation and playback state handling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_MEDIA_PIPELINE_BACKEND_ANDROID_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_MEDIA_PIPELINE_BACKEND_ANDROID_H_
 

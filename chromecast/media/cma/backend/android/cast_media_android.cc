@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media shlib for Android
+// summary: Implements CastMediaShlib for Android, creating the media pipeline backend, a default video plane, and reporting no media clock rate support.
+// ---
+
 #include "base/at_exit.h"
 #include "base/logging.h"
 #include "chromecast/chromecast_buildflags.h"

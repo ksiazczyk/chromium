@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyCallTranslator header
+// summary: Declares ProxyCallTranslator, which converts CmaProxyHandler calls into CastRuntimeAudioChannelBroker gRPC requests and relays responses back to the client.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_PROXY_CALL_TRANSLATOR_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_PROXY_CALL_TRANSLATOR_H_
 

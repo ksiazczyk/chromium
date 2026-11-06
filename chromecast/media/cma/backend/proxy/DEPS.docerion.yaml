@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the proxy directory
+summary: Allows the proxy directory to include cast_core proto and protobuf headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdmOriginProvider interface
+// summary: Declares CastCdmOriginProvider, a static helper for retrieving the CDM origin via a synchronous mojo call.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CDM_CAST_CDM_ORIGIN_PROVIDER_H_
 #define CHROMECAST_MEDIA_CDM_CAST_CDM_ORIGIN_PROVIDER_H_
 

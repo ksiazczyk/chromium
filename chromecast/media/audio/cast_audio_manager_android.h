@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio manager for Android
+// summary: Declares CastAudioManagerAndroid, an Android-specific Cast audio manager that adapts AudioManagerAndroid using shared Cast helper logic.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_ANDROID_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_ANDROID_H_
 

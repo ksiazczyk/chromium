@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastAudioBus implementation
+// summary: Implements CastAudioBus, allocating per-channel float audio buffers and providing a method to zero all channels.
+// ---
+
 #include "chromecast/media/audio/cast_audio_bus.h"
 
 #include <algorithm>

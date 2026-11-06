@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CmaAudioOutput class header
+// summary: Declares CmaAudioOutput, an interface for starting, pausing, and pushing buffers to a CMA backend audio decoder.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CMA_AUDIO_OUTPUT_H_
 #define CHROMECAST_MEDIA_AUDIO_CMA_AUDIO_OUTPUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Cast audio manager implementation
+// summary: Implements the Android variant of the Cast audio manager, deciding when to use Cast audio output streams.
+// ---
+
 #include "chromecast/media/audio/cast_audio_manager_android.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved volumes loader interface
+// summary: Declares LoadSavedVolumes, which returns saved dBFS volumes per audio content type from persistent storage or device defaults.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_SAVED_VOLUMES_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_SAVED_VOLUMES_H_
 

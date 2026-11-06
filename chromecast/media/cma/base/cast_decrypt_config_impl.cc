@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDecryptConfigImpl implementation
+// summary: Implements the CastDecryptConfigImpl constructor and accessors for key ID, IV, encryption pattern, subsamples, and scheme.
+// ---
+
 #include "chromecast/media/cma/base/cast_decrypt_config_impl.h"
 
 namespace chromecast {

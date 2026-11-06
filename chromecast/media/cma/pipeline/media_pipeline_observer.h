@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineObserver interface
+// summary: Declares the MediaPipelineObserver interface with callbacks for audio pipeline initialization and pipeline destruction events.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_MEDIA_PIPELINE_OBSERVER_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_MEDIA_PIPELINE_OBSERVER_H_
 

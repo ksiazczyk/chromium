@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputConnection base class for service connections
+// summary: Declares a base class that obtains socket handles via AudioSocketBroker and notifies subclasses of connection success or failure.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_OUTPUT_CONNECTION_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_OUTPUT_CONNECTION_H_
 

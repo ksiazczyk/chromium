@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackendDecryptor unit tests
+// summary: Unit tests for BackendDecryptor using a configurable fake AudioDecryptor to verify delegate notification and cleanup on destruction, including pending decrypt and uninitialized cases.
+// ---
+
 #include "chromecast/media/cma/pipeline/backend_decryptor.h"
 
 #include <memory>

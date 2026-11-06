@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio decoder software wrapper header
+// summary: Declares AudioDecoderSoftwareWrapper, a wrapper that provides transparent software decoding if the backend does not support the incoming audio config.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_AUDIO_DECODER_SOFTWARE_WRAPPER_H_
 #define CHROMECAST_MEDIA_COMMON_AUDIO_DECODER_SOFTWARE_WRAPPER_H_
 

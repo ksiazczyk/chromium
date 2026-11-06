@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioClockSimulator implementation
+// summary: Implements AudioClockSimulator by resampling audio from an AudioProvider to simulate clock rate changes for Cast audio playback.
+// ---
+
 #include <algorithm>
 #include <cmath>
 #include <cstddef>

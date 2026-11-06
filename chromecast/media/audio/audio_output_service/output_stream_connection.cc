@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputStreamConnection implementation for audio streams
+// summary: Implements sending audio buffers and playback controls such as start timestamp, playback rate, volume, stop, config updates, and heartbeats to the service.
+// ---
+
 #include "chromecast/media/audio/audio_output_service/output_stream_connection.h"
 
 #include <utility>

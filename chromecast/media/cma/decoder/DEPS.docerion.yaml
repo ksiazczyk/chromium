@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the decoder directory
+summary: DEPS file specifying allowed include dependencies for the decoder directory, permitting includes from media/filters.

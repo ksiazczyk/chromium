@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdmContext CDM context interface
+// summary: Declares CastCdmContext, a media CdmContext extension with extra APIs used by CastRenderer for decryption contexts, key status, and video resolution.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CDM_CAST_CDM_CONTEXT_H_
 #define CHROMECAST_MEDIA_CDM_CAST_CDM_CONTEXT_H_
 

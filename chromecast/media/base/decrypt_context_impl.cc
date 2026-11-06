@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptContextImpl implementation
+// summary: Implements DecryptContextImpl, providing synchronous decryption via DecryptAsync and defaulting to secure output type.
+// ---
+
 #include "chromecast/media/base/decrypt_context_impl.h"
 
 #include <memory>

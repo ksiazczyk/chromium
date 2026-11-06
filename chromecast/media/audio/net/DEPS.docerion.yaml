@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Cast audio networking
+summary: Lists allowed include paths for the Cast audio networking code, mainly net socket headers.

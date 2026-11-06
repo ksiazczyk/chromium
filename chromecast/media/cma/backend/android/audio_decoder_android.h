@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio decoder class declaration
+// summary: Declares AudioDecoderAndroid, the MediaPipelineBackend audio decoder for Android that delegates output to AudioSinkAndroid.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_DECODER_ANDROID_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_DECODER_ANDROID_H_
 

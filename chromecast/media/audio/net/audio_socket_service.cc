@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSocketService accept loop implementation
+// summary: Implements the shared accept loop that hands accepted sockets to the AudioSocketService delegate.
+// ---
+
 #include "chromecast/media/audio/net/audio_socket_service.h"
 
 #include <utility>

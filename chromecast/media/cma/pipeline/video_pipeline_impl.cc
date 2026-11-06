@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPipelineImpl implementation
+// summary: Implements the video pipeline, handling video decoder configuration, resolution change metrics and encryption scheme tracking.
+// ---
+
 #include "chromecast/media/cma/pipeline/video_pipeline_impl.h"
 
 #include <stddef.h>

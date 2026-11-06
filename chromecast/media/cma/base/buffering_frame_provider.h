@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferingFrameProvider class declaration
+// summary: Declares a CodedFrameProvider wrapper that buffers coded frames up to a byte limit and invokes a callback for each buffered frame.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_BUFFERING_FRAME_PROVIDER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_BUFFERING_FRAME_PROVIDER_H_
 

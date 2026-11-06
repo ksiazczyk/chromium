@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFader implementation
+// summary: Implements AudioFader, which smoothly fades audio in and out on stream underruns to prevent pops and clicks.
+// ---
+
 #include "chromecast/media/audio/audio_fader.h"
 
 #include <algorithm>

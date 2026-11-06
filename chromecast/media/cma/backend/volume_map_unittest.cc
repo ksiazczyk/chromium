@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VolumeMap
+// summary: Tests VolumeMap behavior including default map fallback, loading configs, volume and dBFS interpolation, and reloading when the tuning file changes.
+// ---
+
 #include "chromecast/media/cma/backend/volume_map.h"
 
 #include <string>

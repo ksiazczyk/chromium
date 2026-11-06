@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast init data header
+// summary: Declares the InitDataMessageType enum, the ChromecastInitData struct, and the FindChromecastInitData function for locating Chromecast blobs in EME init data.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CDM_CHROMECAST_INIT_DATA_H_
 #define CHROMECAST_MEDIA_CDM_CHROMECAST_INIT_DATA_H_
 

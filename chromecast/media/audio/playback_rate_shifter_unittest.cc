@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Playback rate shifter unit tests
+// summary: Unit tests verifying playout timestamps and buffered-frame behavior of PlaybackRateShifter at normal, slower, and faster playback rates.
+// ---
+
 #include "chromecast/media/audio/playback_rate_shifter.h"
 
 #include "base/compiler_specific.h"

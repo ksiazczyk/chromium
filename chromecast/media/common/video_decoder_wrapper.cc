@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderWrapper implementation
+// summary: Implements a video decoder wrapper that can revoke the underlying decoder, substituting a stalled fake decoder that reports saved statistics.
+// ---
+
 #include "chromecast/media/common/video_decoder_wrapper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio and video pipeline device unit tests
+// summary: Unit tests exercising the media pipeline backend with audio and video streams, covering buffer feeding, PTS monitoring, pause behaviour and effects streams.
+// ---
+
 #include <stdint.h>
 
 #include <limits>

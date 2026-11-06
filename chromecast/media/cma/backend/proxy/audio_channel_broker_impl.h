@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioChannelBrokerImpl class declaration
+// summary: Declares a gRPC-based implementation of CastRuntimeAudioChannelBroker with helpers for asynchronous calls.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_AUDIO_CHANNEL_BROKER_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_AUDIO_CHANNEL_BROKER_IMPL_H_
 

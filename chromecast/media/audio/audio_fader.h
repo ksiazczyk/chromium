@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFader header
+// summary: Declares the AudioFader class, an AudioProvider wrapper that fades audio in and out during underruns and exposes static fade helper methods.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_FADER_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_FADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interleaved channel mixer implementation
+// summary: Implements InterleavedChannelMixer, converting interleaved audio between channel layouts via a transform matrix.
+// ---
+
 #include "chromecast/media/audio/interleaved_channel_mixer.h"
 
 #include "base/check_op.h"

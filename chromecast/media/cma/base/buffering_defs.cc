@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering size definitions
+// summary: Defines application audio and video buffer size constants used by the Cast media buffering pipeline.
+// ---
+
 #include "chromecast/media/cma/base/buffering_defs.h"
 
 namespace chromecast {

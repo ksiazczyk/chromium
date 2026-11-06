@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSocket implementation
+// summary: Implements sending and receiving audio and protobuf metadata messages over a stream socket.
+// ---
+
 #include "chromecast/media/audio/net/audio_socket.h"
 
 #include <cstring>

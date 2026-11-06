@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Balanced media task runner factory header
+// summary: Declares BalancedMediaTaskRunnerFactory, which creates media task runners loosely synchronized with a maximum timestamp deviation.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_BALANCED_MEDIA_TASK_RUNNER_FACTORY_H_
 #define CHROMECAST_MEDIA_CMA_BASE_BALANCED_MEDIA_TASK_RUNNER_FACTORY_H_
 

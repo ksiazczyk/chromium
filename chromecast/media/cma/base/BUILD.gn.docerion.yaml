@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining the base source set for the Cast media CMA base module and listing its dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering controller header
+// summary: Declares BufferingController, which monitors per-stream buffering states and notifies about overall buffering changes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_BUFFERING_CONTROLLER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_BUFFERING_CONTROLLER_H_
 

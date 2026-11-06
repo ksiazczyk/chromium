@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast audio manager unit tests
+// summary: Unit tests for CastAudioManager and CastAudioManagerAndroid using mock CMA backends, mock delegates, and fake audio parameters.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

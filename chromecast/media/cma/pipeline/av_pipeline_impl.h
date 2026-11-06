@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV pipeline class declaration
+// summary: Declares AvPipelineImpl, the base class managing pipeline state, frame feeding and decryption for audio and video.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_AV_PIPELINE_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_AV_PIPELINE_IMPL_H_
 

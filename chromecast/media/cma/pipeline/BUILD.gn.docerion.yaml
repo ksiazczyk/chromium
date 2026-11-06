@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Cast media pipeline
+summary: Defines the pipeline source set, listing its sources and build dependencies for the Cast media CMA pipeline.

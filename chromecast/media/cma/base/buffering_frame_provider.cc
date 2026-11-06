@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering frame provider implementation
+// summary: Implements a coded frame provider that buffers frames up to a size limit and serves read requests from that buffer.
+// ---
+
 #include "chromecast/media/cma/base/buffering_frame_provider.h"
 
 #include <utility>

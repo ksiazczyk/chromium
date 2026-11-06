@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSocket class for audio output service messaging
+// summary: Declares an AudioSocket subclass that exchanges messages with the audio output service and forwards metadata to a delegate.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_OUTPUT_SOCKET_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_OUTPUT_SOCKET_H_
 

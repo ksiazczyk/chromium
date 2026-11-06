@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio device ID declarations
+// summary: Declares constants identifying special Cast audio devices, including local-only, assistant alarm, TTS, bypass, and low-latency device IDs.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_AUDIO_DEVICE_IDS_H_
 #define CHROMECAST_MEDIA_BASE_AUDIO_DEVICE_IDS_H_
 

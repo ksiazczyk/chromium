@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio device factory implementation
+// summary: Creates Cast-specific audio renderer sinks and output devices for renderer-side audio playback, including a non-switchable sink.
+// ---
+
 #include "chromecast/media/audio/cast_audio_device_factory.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaPipelineBufferExtension unit tests
+// summary: Unit tests for MediaPipelineBufferExtension covering push buffer success, buffering, and rendering delay behavior using mock CMA backend decoders.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/media_pipeline_buffer_extension.h"
 
 #include <memory>

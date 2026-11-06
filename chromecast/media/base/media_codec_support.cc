@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media codec support conversion implementation
+// summary: Converts Chromium media audio and video codecs and profiles into their Chromecast equivalents.
+// ---
+
 #include "chromecast/media/base/media_codec_support.h"
 
 #include "base/functional/bind.h"

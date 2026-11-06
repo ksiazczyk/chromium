@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderConfigAdapter header
+// summary: Declares static helpers that convert audio and video decoder configurations between Chromium media and Cast media types.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_DECODER_CONFIG_ADAPTER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_DECODER_CONFIG_ADAPTER_H_
 

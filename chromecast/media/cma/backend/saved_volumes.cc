@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved volumes loader implementation
+// summary: Loads per-content-type saved volume levels in dBFS from persistent storage, falling back to defaults from the cast audio config.
+// ---
+
 #include "chromecast/media/cma/backend/saved_volumes.h"
 
 #include <string>

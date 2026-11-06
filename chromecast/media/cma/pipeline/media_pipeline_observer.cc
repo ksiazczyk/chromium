@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineObserver implementation
+// summary: Implements a global observer list that notifies observers when audio pipelines are initialized and when media pipelines are destroyed.
+// ---
+
 #include "chromecast/media/cma/pipeline/media_pipeline_observer.h"
 
 #include <memory>

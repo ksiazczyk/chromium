@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio output stream implementation
+// summary: Implements CastAudioOutputStream, which validates audio parameters and forwards playback to CmaAudioOutputStream on the media thread.
+// ---
+
 #include "chromecast/media/audio/cast_audio_output_stream.h"
 
 #include <string>

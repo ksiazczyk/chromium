@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rate adjuster
+// summary: Declares RateAdjuster, which smooths error samples with a moving linear regression to adjust clock rate for cases such as A/V sync.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_RATE_ADJUSTER_H_
 #define CHROMECAST_MEDIA_AUDIO_RATE_ADJUSTER_H_
 

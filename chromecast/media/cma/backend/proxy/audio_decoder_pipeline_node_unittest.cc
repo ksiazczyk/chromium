@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDecoderPipelineNode unit tests
+// summary: Verifies with mocks that the pipeline node forwards decoder and delegate calls correctly.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/audio_decoder_pipeline_node.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multizone backend unit test
+// summary: Unit test that feeds audio buffers through the multizone media pipeline backend and checks rendering delay errors across playback rate changes.
+// ---
+
 #include <stdint.h>
 #include <stdlib.h>
 

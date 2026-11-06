@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamAdapter header
+// summary: Declares DemuxerStreamAdapter, which wraps a media DemuxerStream into a CodedFrameProvider with media task runner pacing.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_DEMUXER_STREAM_ADAPTER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_DEMUXER_STREAM_ADAPTER_H_
 

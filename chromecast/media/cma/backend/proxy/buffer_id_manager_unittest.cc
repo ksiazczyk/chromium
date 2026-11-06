@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Buffer ID manager unit tests
+// summary: Unit tests for BufferIdManager buffer ID assignment, rendering delay handling, and timestamp update notifications.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/buffer_id_manager.h"
 
 #include <memory>

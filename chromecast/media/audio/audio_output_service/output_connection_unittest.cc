@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OutputConnection
+// summary: Tests connection success, failure, and retry behavior of OutputConnection using mock socket brokers, connections, and socket delegates.
+// ---
+
 #include "chromecast/media/audio/audio_output_service/output_connection.h"
 
 #include <memory>

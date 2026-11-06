@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio device factory header
+// summary: Declares CastAudioDeviceFactory, a blink AudioDeviceFactory that supplies mixable audio renderer sinks for Cast.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_DEVICE_FACTORY_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_DEVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMediaResourceTracker implementation
+// summary: Implements test mocks and a testable MediaResourceTracker subclass that forwards initialize, finalize, and destruction events to the mocks.
+// ---
+
 #include "chromecast/media/common/test_media_resource_tracker.h"
 
 #include "base/task/single_thread_task_runner.h"

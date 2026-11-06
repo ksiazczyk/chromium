@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeMap
+// summary: Implements the Java side of the volume control API that maps between volume levels from 0 to 100 and dBFS values using Android audio APIs.
+// ---
+
 package org.chromium.chromecast.cma.backend.android;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineClient implementation
+// summary: Implements the MediaPipelineClient struct constructors, move operations, and destructor.
+// ---
+
 #include "chromecast/media/cma/pipeline/media_pipeline_client.h"
 
 namespace chromecast {

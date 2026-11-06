@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSocket class declaration
+// summary: Declares the AudioSocket class and delegate interface for exchanging audio data with audio services.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_NET_AUDIO_SOCKET_H_
 #define CHROMECAST_MEDIA_AUDIO_NET_AUDIO_SOCKET_H_
 

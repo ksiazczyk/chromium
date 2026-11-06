@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sink manager implementation
+// summary: Implements the singleton AudioSinkManager that registers sinks and computes limiter multipliers from volume and output limit levels.
+// ---
+
 #include "chromecast/media/cma/backend/android/audio_sink_manager.h"
 
 #include <algorithm>

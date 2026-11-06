@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast key system lookup declaration
+// summary: Declares GetKeySystemByName, which translates a key system string into a CastKeySystem.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_KEY_SYSTEMS_COMMON_H_
 #define CHROMECAST_MEDIA_BASE_KEY_SYSTEMS_COMMON_H_
 

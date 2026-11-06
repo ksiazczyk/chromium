@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android media pipeline backend
+// summary: Implements MediaPipelineBackendAndroid, delegating playback control to the Android audio decoder and a null video decoder.
+// ---
+
 #include "chromecast/media/cma/backend/android/media_pipeline_backend_android.h"
 
 #include <limits>

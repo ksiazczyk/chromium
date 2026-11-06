@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypt utility implementation
+// summary: Implements DecoderBufferClear and DecryptDecoderBuffer, which decrypt encoded buffers in place and deliver the results as clear decoder buffers via callback.
+// ---
+
 #include "chromecast/media/cma/pipeline/decrypt_util.h"
 
 #include <stddef.h>

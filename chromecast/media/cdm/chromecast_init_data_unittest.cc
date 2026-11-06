@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromecast init data unit tests
+// summary: Unit tests for FindChromecastInitData covering custom data and secure stop PSSH blobs, including cases with a missing data size field.
+// ---
+
 #include "chromecast/media/cdm/chromecast_init_data.h"
 
 #include <stdint.h>

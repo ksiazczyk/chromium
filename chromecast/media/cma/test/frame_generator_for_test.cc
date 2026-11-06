@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame generator producing decoder buffers for tests
+// summary: Generates decoder buffers from frame specifications, including end-of-stream and CENC-encrypted frames, for Cast media pipeline tests.
+// ---
+
 #include "chromecast/media/cma/test/frame_generator_for_test.h"
 
 #include <stdint.h>

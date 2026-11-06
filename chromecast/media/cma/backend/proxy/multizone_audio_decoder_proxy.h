@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultizoneAudioDecoderProxy interface
+// summary: Abstract interface for an audio decoder pipeline node that decrypts and proxies audio data to an external CmaBackend audio decoder over gRPC.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_MULTIZONE_AUDIO_DECODER_PROXY_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_MULTIZONE_AUDIO_DECODER_PROXY_H_
 

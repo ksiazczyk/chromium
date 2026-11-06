@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null video decoder implementation
+// summary: Implements VideoDecoderForMixer as a no-op decoder for platforms without video, reporting end of stream and returning default values.
+// ---
+
 #include "chromecast/media/cma/backend/video_decoder_null.h"
 
 #include <memory>

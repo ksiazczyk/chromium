@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdmOriginProvider implementation
+// summary: Implements GetCdmOrigin, a utility that synchronously fetches the CDM origin through the mojo frame interface factory.
+// ---
+
 #include "chromecast/media/cdm/cast_cdm_origin_provider.h"
 
 #include "media/mojo/mojom/frame_interface_factory.mojom.h"

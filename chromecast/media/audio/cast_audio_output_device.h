@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio output device interface
+// summary: Declares CastAudioOutputDevice, the Cast AudioRendererSink whose internal rendering logic runs on a sequenced task runner.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_OUTPUT_DEVICE_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_OUTPUT_DEVICE_H_
 

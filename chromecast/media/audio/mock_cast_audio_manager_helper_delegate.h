@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock cast audio manager helper delegate
+// summary: GoogleMock delegate implementing CastAudioManagerHelper::Delegate for testing the Cast audio manager.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_MOCK_CAST_AUDIO_MANAGER_HELPER_DELEGATE_H_
 #define CHROMECAST_MEDIA_AUDIO_MOCK_CAST_AUDIO_MANAGER_HELPER_DELEGATE_H_
 

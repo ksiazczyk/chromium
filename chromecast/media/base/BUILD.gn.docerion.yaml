@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast media base GN build configuration
+summary: GN build file defining source sets for key systems, decoder buffers, codec support, slew volume, and monotonic clock in the Chromecast media base module.

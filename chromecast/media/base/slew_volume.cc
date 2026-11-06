@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slew volume implementation
+// summary: Implements volume scaling with slew rate limiting, using linear or cosine transitions for audio buffers.
+// ---
+
 #include "chromecast/media/base/slew_volume.h"
 
 #include <algorithm>

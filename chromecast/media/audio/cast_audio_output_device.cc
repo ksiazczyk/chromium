@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio output device implementation
+// summary: Implements CastAudioOutputDevice, an AudioRendererSink that renders PCM audio through the Cast audio output service with buffer underflow handling.
+// ---
+
 #include "chromecast/media/audio/cast_audio_output_device.h"
 
 #include <cstdint>

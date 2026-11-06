@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMA backend proxy
+// summary: Declares a CmaBackend that intercepts audio data and control messages and forwards them to a remote instance before local processing.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CMA_BACKEND_PROXY_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CMA_BACKEND_PROXY_H_
 

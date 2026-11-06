@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultizoneAudioDecoderProxyImpl implementation
+// summary: Implements the multizone audio decoder proxy, forwarding pipeline commands and buffers over gRPC while also feeding a downstream decoder as a flow control mechanism.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/multizone_audio_decoder_proxy_impl.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputStreamConnection class declaration
+// summary: Declares OutputStreamConnection, which sends proto messages and audio buffers to the audio output service to control the audio decoder, render audio, and receive status updates.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_OUTPUT_STREAM_CONNECTION_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_OUTPUT_STREAM_CONNECTION_H_
 

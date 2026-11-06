@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultizoneAudioDecoderProxyImpl header
+// summary: Declares the multizone audio decoder proxy implementation that sends audio to an external decoder over gRPC and to a downstream decoder, with buffer ID and PTS offset handling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_MULTIZONE_AUDIO_DECODER_PROXY_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_MULTIZONE_AUDIO_DECODER_PROXY_IMPL_H_
 

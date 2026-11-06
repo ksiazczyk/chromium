@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferAdapter class declaration
+// summary: Declares DecoderBufferAdapter, which wraps a media DecoderBuffer into the DecoderBufferBase interface with stream ID and decrypt config.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_DECODER_BUFFER_ADAPTER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_DECODER_BUFFER_ADAPTER_H_
 

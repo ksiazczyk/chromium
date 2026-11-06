@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External audio decoder wrapper implementation
+// summary: Implements a wrapper that loads the external third-party decoder shared library, resolves its entry points, and delegates audio decoding to it.
+// ---
+
 #include "chromecast/media/cma/decoder/external_audio_decoder_wrapper.h"
 
 #include <algorithm>

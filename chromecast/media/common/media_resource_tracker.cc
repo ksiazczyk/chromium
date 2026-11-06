@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaResourceTracker implementation
+// summary: Implements tracking of media library initialization and finalization, waiting for media resource usage counts to drop before releasing hardware resources across UI and media threads.
+// ---
+
 #include "chromecast/media/common/media_resource_tracker.h"
 
 #include "base/command_line.h"

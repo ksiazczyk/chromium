@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media pipeline backend manager implementation
+// summary: Implements MediaPipelineBackendManager, which tracks created media backends, decoder limits, and active audio streams on the media thread.
+// ---
+
 #include "chromecast/media/common/media_pipeline_backend_manager.h"
 
 #include <algorithm>

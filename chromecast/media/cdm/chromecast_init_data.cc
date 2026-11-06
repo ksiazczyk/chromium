@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast init data parsing implementation
+// summary: Implements FindChromecastInitData, which parses CENC init data for PSSH boxes with the Chromecast PlayReady UUID and extracts the message type and payload.
+// ---
+
 #include "chromecast/media/cdm/chromecast_init_data.h"
 
 #include "base/check.h"

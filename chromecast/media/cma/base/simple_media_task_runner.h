@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleMediaTaskRunner interface
+// summary: Declares a lightweight MediaTaskRunner that posts tasks immediately, ignoring the media timestamp.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_SIMPLE_MEDIA_TASK_RUNNER_H_
 #define CHROMECAST_MEDIA_CMA_BASE_SIMPLE_MEDIA_TASK_RUNNER_H_
 

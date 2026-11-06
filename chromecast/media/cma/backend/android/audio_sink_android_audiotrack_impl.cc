@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTrack sink implementation
+// summary: Implements the Android audio sink on top of AudioTrack through JNI, using a feeder thread to queue and render PCM data.
+// ---
+
 #include "chromecast/media/cma/backend/android/audio_sink_android_audiotrack_impl.h"
 
 #include <algorithm>

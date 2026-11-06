@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineImpl implementation
+// summary: Implements the Cast media pipeline, coordinating audio and video pipelines, buffering thresholds, playback rate, media time updates, CDM attachment, and bitrate metrics.
+// ---
+
 #include "chromecast/media/cma/pipeline/media_pipeline_impl.h"
 
 #include <algorithm>

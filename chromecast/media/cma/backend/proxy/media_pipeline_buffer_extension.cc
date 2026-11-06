@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineBufferExtension implementation
+// summary: Implements a queueing layer that extends the number of PushBuffer frames a delegated CMA audio decoder can accept, tracking buffer duration and decoder health.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/media_pipeline_buffer_extension.h"
 
 #include "base/functional/bind.h"

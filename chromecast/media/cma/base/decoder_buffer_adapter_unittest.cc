@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecoderBufferAdapter unit tests
+// summary: Unit tests for DecoderBufferAdapter covering stream id, timestamp, data access, and decrypt config handling when wrapping a media DecoderBuffer.
+// ---
+
 #include "chromecast/media/cma/base/decoder_buffer_adapter.h"
 
 #include "base/compiler_specific.h"

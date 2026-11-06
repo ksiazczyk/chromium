@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTrack sink class declaration
+// summary: Declares AudioSinkAndroidAudioTrackImpl, the AudioTrack-based AudioSinkAndroid with state tracking and JNI buffer handling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_SINK_ANDROID_AUDIOTRACK_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_SINK_ANDROID_AUDIOTRACK_IMPL_H_
 

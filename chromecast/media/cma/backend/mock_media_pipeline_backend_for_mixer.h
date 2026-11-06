@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock media pipeline backend for mixer
+// summary: Provides a mock media pipeline backend for mixer-based tests, allowing injection of mock audio and video decoders and a test clock.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_MOCK_MEDIA_PIPELINE_BACKEND_FOR_MIXER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_MOCK_MEDIA_PIPELINE_BACKEND_FOR_MIXER_H_
 
