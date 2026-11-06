@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App bar coordinator include rules
+summary: Lists the header include rules specifying which dependencies the app bar coordinator directory may use.

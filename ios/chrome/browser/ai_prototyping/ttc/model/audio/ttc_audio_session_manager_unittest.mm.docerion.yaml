@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_session_manager_unittest.mm.
+type: test
+title: TTCAudioSessionManager unit tests
+summary: Unit tests for TTCAudioSessionManager using a fake delegate to verify interruption, route change, and reconfiguration notifications and session configuration.

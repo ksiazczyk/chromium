@@ -1,0 +1,4 @@
+# Docerion header of app_bar_background_view.mm.
+type: source
+title: AppBar background view implementation
+summary: Draws the cutout mask, shadow, blur, and animated background colors for the app bar in light and dark modes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor prototyping page view controller declaration
+// summary: Declares the Actor page of the AI prototyping menu with methods to update window, tab, and frame debug data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_ACTOR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_ACTOR_VIEW_CONTROLLER_H_
 

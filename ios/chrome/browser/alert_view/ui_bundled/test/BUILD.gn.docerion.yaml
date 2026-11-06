@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Alert view test fakes build target
+summary: Defines a test-only source set that builds the fake alert consumer for alert view tests.

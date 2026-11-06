@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCAudioSessionManager interface
+// summary: Declares the TTCAudioSessionManager that wraps the shared iOS AVAudioSession, activating a PlayAndRecord configuration and exposing hardware AEC and speaker-route state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_SESSION_MANAGER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_SESSION_MANAGER_H_
 

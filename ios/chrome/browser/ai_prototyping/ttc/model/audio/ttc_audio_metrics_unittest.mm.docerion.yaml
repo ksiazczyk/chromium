@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_metrics_unittest.mm.
+type: test
+title: TTC audio metrics unit tests
+summary: Unit tests verifying RMS calculation for silence, sine waves, and NaN inputs, and perceptual level mapping across the dBFS range.

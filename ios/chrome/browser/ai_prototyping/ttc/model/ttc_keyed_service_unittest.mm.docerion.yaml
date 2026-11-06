@@ -1,0 +1,4 @@
+# Docerion header of ttc_keyed_service_unittest.mm.
+type: test
+title: TTCKeyedService unit tests
+summary: Tests TTCKeyedService and its factory, covering service creation under the feature flag, incognito exclusion, initial state, and session start and end transitions.

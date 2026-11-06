@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar IPH background view interface
+// summary: Declares a view that draws a circular gradient background behind the app bar while in-product help is displayed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_IPH_BACKGROUND_VIEW_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_IPH_BACKGROUND_VIEW_H_
 

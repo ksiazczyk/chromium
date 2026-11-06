@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_recorder.mm.
+type: source
+title: TTCAudioRecorder implementation
+summary: Implements microphone capture with real-time resampling to 16kHz mono Float32 and perceptual RMS energy computation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBar assistant button menu factory header
+// summary: Declares a factory that builds the menu for choosing the entry point shown by the app bar assistant button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_ASSISTANT_BUTTON_MENU_FACTORY_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_ASSISTANT_BUTTON_MENU_FACTORY_H_
 

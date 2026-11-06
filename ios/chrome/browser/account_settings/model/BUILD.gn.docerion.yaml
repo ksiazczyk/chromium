@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the account settings model
+summary: Defines the model source_set listing the account setting service factory sources and its dependencies on base, components, and iOS profile and sync factories.

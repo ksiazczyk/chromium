@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI prototyping feature flag declarations
+// summary: Declares test-only feature flags and string parameters for uploading BlingAIPrototyping logs and storing PageContext locally during manual testing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_FEATURES_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_FEATURES_H_
 

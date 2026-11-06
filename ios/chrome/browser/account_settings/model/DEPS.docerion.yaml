@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the account settings model
+summary: Restricts includes in this directory to components/account_settings, the shared profile model, and the iOS sync model.

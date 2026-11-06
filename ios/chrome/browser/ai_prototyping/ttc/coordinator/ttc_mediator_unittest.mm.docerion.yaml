@@ -1,0 +1,4 @@
+# Docerion header of ttc_mediator_unittest.mm.
+type: test
+title: TTCMediator unit tests
+summary: OCMock-based tests verifying that the mediator pushes initial state, reflects live sessions, and drives the TTC service when a session starts.

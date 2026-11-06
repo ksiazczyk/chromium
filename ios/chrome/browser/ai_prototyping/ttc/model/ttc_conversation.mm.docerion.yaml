@@ -1,0 +1,4 @@
+# Docerion header of ttc_conversation.mm.
+type: source
+title: TtcConversation implementation
+summary: Implements TtcConversation, bridging audio controller callbacks to the backend and logging transcription and audio activity to the session journal.

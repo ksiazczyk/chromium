@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_worklog_compact_view_controller.mm.
+type: source
+title: AIPrototypingWorklogCompactViewController implementation
+summary: Implements the compact worklog simulation with mock timeline steps and chips, appending each step to the ActuationWorklogCompactView with animation.

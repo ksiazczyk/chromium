@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC WebSocket backend
+// summary: Declares a WebSocket-based live model backend using Apple's NSURLSessionWebSocketTask, with payload builders and testing helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_WEBSOCKET_BACKEND_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_WEBSOCKET_BACKEND_H_
 

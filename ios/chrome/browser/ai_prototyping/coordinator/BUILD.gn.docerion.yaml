@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the AI prototyping coordinator
+summary: Defines the coordinator source set with its sources, dependencies, and the UIKit framework for the AI prototyping menu.

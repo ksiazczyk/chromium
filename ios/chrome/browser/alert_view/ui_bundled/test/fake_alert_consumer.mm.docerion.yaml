@@ -1,0 +1,4 @@
+# Docerion header of fake_alert_consumer.mm.
+type: test
+title: Fake alert consumer implementation
+summary: Implements FakeAlertConsumer with empty stubs for lottie image names and progress state used in alert view tests.

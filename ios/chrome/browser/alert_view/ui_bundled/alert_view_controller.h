@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlertViewController interface
+// summary: Declares AlertViewController, a UIAlertController replacement supporting custom presentation styles and progress state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ALERT_VIEW_UI_BUNDLED_ALERT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_ALERT_VIEW_UI_BUNDLED_ALERT_VIEW_CONTROLLER_H_
 

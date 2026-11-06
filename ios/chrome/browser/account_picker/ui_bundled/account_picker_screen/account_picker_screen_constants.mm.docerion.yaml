@@ -1,0 +1,4 @@
+# Docerion header of account_picker_screen_constants.mm.
+type: source
+title: Account picker screen constants implementation
+summary: Defines the account picker screen constant values, such as the 0.75 maximum sheet height ratio and the accessibility identifier string.

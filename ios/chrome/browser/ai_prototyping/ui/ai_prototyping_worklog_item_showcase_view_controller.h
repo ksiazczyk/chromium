@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIPrototypingWorklogItemShowcaseViewController
+// summary: Declares a view controller that presents a catalog showcase of all ActuationWorklogItemView layout variations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_WORKLOG_ITEM_SHOWCASE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_UI_AI_PROTOTYPING_WORKLOG_ITEM_SHOWCASE_VIEW_CONTROLLER_H_
 

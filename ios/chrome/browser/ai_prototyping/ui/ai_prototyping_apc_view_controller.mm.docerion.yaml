@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_apc_view_controller.mm.
+type: source
+title: AI prototyping APC view controller implementation
+summary: Implements the Annotated Page Content extraction page with rich extraction and actionable mode switches, a response view, and raw byte copying.

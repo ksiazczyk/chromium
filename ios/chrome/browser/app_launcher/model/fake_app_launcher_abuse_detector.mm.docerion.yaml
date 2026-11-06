@@ -1,0 +1,4 @@
+# Docerion header of fake_app_launcher_abuse_detector.mm.
+type: test
+title: Fake app launcher abuse detector implementation
+summary: Implements the fake abuse detector, returning its configurable policy for any launch request.

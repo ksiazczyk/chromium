@@ -1,0 +1,4 @@
+# Docerion header of ttc_view_controller.mm.
+type: source
+title: TTCViewController implementation
+summary: Implements the TTC prototype UI, including the microphone button, status label, energy meter, session journal with filters and detail modes, loopback switch, and test audio controls.

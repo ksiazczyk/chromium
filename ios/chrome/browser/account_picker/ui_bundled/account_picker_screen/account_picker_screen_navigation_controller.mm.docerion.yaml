@@ -1,0 +1,4 @@
+# Docerion header of account_picker_screen_navigation_controller.mm.
+type: source
+title: Account picker screen navigation controller implementation
+summary: Implements the account picker screen navigation controller, handling background blur, adaptive sizing, display styles, and push and pop behavior.

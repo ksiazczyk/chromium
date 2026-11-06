@@ -1,0 +1,4 @@
+# Docerion header of account_picker_screen_slide_transition_animator.mm.
+type: source
+title: Account picker screen slide transition animator implementation
+summary: Implements the slide animation for pushing and popping account picker view controllers, adjusting frames for RTL languages and display styles.

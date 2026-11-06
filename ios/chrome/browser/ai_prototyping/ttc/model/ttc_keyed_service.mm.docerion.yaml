@@ -1,0 +1,4 @@
+# Docerion header of ttc_keyed_service.mm.
+type: source
+title: TTCKeyedService implementation
+summary: Implements the profile-scoped TTC service that starts and ends sessions, chooses a WebSocket or MES backend, and notifies registered callbacks of service state changes.

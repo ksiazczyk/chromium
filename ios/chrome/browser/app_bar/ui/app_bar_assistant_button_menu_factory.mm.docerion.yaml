@@ -1,0 +1,4 @@
+# Docerion header of app_bar_assistant_button_menu_factory.mm.
+type: source
+title: AppBar assistant button menu factory implementation
+summary: Constructs the single-selection menu with Ask Gemini, AI Mode, Lens, and Account entries and notifies the mutator on selection.

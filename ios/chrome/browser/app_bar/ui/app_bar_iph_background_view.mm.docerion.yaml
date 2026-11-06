@@ -1,0 +1,4 @@
+# Docerion header of app_bar_iph_background_view.mm.
+type: source
+title: App bar IPH gradient background implementation
+summary: Implements the radial gradient background view with centered or left-bottom aligned blue gradient for the app bar in-product help.

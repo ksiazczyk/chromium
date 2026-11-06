@@ -1,0 +1,4 @@
+# Docerion header of ai_mode_button_service_ios_factory.mm.
+type: source
+title: AI Mode button service factory implementation
+summary: Builds the AI Mode button service for each profile, wiring template URL, eligibility, favicon, and image fetcher dependencies.

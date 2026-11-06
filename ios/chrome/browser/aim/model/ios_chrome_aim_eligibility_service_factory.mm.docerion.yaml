@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_aim_eligibility_service_factory.mm.
+type: source
+title: iOS AIM eligibility service factory implementation
+summary: Creates iOS AIM eligibility services per profile, assembling configuration with contextual tasks user agent details and incognito-aware settings.

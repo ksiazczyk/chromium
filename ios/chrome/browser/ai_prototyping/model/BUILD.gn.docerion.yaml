@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the AI prototyping model sources
+summary: Defines the model source_set listing the AI prototyping service implementation files and their build dependencies.

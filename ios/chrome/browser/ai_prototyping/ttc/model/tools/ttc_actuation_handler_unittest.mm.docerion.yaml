@@ -1,0 +1,4 @@
+# Docerion header of ttc_actuation_handler_unittest.mm.
+type: test
+title: TtcActuationHandler unit tests
+summary: Exercises task creation, tool call processing and actuation dispatch against a test browser with fake web states.

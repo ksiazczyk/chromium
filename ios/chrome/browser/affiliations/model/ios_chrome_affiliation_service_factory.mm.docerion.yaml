@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_affiliation_service_factory.mm.
+type: source
+title: iOS Chrome affiliation service factory implementation
+summary: Builds the AffiliationServiceImpl with a sequenced task runner and the profile database path.

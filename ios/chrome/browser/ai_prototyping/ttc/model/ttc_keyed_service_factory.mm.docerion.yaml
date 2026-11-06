@@ -1,0 +1,4 @@
+# Docerion header of ttc_keyed_service_factory.mm.
+type: source
+title: TTCKeyedServiceFactory implementation
+summary: Builds TTCKeyedService instances for profiles when the TTC feature is enabled, depending on the browser list and optimization guide service factories.

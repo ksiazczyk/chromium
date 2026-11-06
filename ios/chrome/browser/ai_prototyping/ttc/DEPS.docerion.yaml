@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: TTC directory DEPS include rules
+summary: Defines the allowed include dependencies for the iOS Chrome ai_prototyping ttc directory.

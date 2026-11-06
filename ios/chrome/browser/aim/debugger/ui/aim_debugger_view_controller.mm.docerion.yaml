@@ -1,0 +1,4 @@
+# Docerion header of aim_debugger_view_controller.mm.
+type: source
+title: AIM debugger view controller implementation
+summary: Implements the AIM Eligibility Debugger table view UI showing eligibility status, server response, and action buttons.

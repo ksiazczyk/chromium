@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCConsumer protocol and session UI states
+// summary: Declares the TTCSessionUIState enum and the TTCConsumer protocol that receives voice session state, microphone energy, test audio, loopback, error, and journal updates for the TTC prototype UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_UI_TTC_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_UI_TTC_CONSUMER_H_
 

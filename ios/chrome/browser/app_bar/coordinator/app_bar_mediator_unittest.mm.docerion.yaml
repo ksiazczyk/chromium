@@ -1,0 +1,4 @@
+# Docerion header of app_bar_mediator_unittest.mm.
+type: test
+title: App bar mediator unit tests
+summary: Unit tests for the app bar mediator covering metrics, feature availability, and state updates across regular and incognito profiles.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ai_prototyping
+summary: Defines the GN source_set target that builds the ai_prototyping feature flag sources with a dependency on //base.

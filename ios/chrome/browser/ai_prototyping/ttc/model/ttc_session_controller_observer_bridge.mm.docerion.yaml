@@ -1,0 +1,4 @@
+# Docerion header of ttc_session_controller_observer_bridge.mm.
+type: source
+title: TTC session controller observer bridge implementation
+summary: Implements the bridge that forwards C++ session controller observer callbacks to the registered Objective-C observer.

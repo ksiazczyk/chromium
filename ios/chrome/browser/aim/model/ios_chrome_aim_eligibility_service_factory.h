@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS AIM eligibility service factory header
+// summary: Declares the profile-keyed factory that creates IOSChromeAimEligibilityService instances for each ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_MODEL_IOS_CHROME_AIM_ELIGIBILITY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_AIM_MODEL_IOS_CHROME_AIM_ELIGIBILITY_SERVICE_FACTORY_H_
 

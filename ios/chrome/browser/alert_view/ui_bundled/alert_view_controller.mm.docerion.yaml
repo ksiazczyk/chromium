@@ -1,0 +1,4 @@
+# Docerion header of alert_view_controller.mm.
+type: source
+title: AlertViewController implementation
+summary: Implements the custom alert UI with layout constants, buttons, text fields, Lottie images, shadows, and progress indicator behavior.

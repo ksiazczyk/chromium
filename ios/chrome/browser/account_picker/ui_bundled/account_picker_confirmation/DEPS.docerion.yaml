@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the account picker confirmation screen
+summary: Lists the headers that files in the account picker confirmation directory are allowed to include.

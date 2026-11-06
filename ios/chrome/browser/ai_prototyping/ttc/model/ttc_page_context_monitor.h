@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcPageContextMonitor header
+// summary: Declares a WebState observer that extracts PageContext from the monitored tab via PageContextWrapper and notifies a delegate when extraction completes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_PAGE_CONTEXT_MONITOR_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_PAGE_CONTEXT_MONITOR_H_
 

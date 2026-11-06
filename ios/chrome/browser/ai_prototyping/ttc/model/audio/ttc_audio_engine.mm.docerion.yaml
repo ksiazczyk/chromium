@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_engine.mm.
+type: source
+title: TTCAudioEngine implementation
+summary: Implements the AVAudioEngine audio graph, installing recorder taps, forwarding PCM capture with energy levels, scheduling playback, and handling configuration changes.

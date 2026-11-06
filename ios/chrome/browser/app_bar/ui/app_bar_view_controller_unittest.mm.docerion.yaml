@@ -1,0 +1,4 @@
+# Docerion header of app_bar_view_controller_unittest.mm.
+type: test
+title: App Bar view controller unit tests
+summary: Unit tests for AppBarViewController covering button menu behavior, rotation, and IPH background display.

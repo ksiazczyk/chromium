@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_player_unittest.mm.
+type: test
+title: TTC audio player unit tests
+summary: Unit tests for TTCAudioPlayer covering Int16 to Float32 conversion, engine attach and detach, and playback lifecycle callbacks.

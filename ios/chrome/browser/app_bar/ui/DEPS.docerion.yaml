@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App bar UI include rules
+summary: Lists the headers and directories that files in the app bar UI folder are allowed to include.

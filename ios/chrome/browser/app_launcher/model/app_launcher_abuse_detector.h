@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLauncherAbuseDetector interface
+// summary: Declares the detector that tracks repeated external app launches per source page and app scheme and returns an allow, prompt or block policy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_APP_LAUNCHER_ABUSE_DETECTOR_H_
 #define IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_APP_LAUNCHER_ABUSE_DETECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app launcher abuse detector for testing
+// summary: Declares a fake AppLauncherAbuseDetector whose launch policy can be configured for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_FAKE_APP_LAUNCHER_ABUSE_DETECTOR_H_
 #define IOS_CHROME_BROWSER_APP_LAUNCHER_MODEL_FAKE_APP_LAUNCHER_ABUSE_DETECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIPrototypingMediator interface
+// summary: Declares AIPrototypingMediator, the AIPrototypingMutator that connects the browser and persist tab context agent to the menu's consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_COORDINATOR_AI_PROTOTYPING_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_COORDINATOR_AI_PROTOTYPING_MEDIATOR_H_
 

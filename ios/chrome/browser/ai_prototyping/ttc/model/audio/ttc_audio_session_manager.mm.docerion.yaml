@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_session_manager.mm.
+type: source
+title: TTCAudioSessionManager implementation
+summary: Implements the audio session manager, configuring and activating the AVAudioSession on a background task runner and restoring the prior session state on teardown.

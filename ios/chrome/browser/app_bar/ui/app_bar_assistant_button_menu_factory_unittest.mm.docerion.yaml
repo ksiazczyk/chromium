@@ -1,0 +1,4 @@
+# Docerion header of app_bar_assistant_button_menu_factory_unittest.mm.
+type: test
+title: AppBar assistant button menu factory unit tests
+summary: Verifies menu entries, checked states, hidden entries, and mutator notifications for the assistant button menu.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC audio player delegate protocol
+// summary: Declares the TTCAudioPlayerDelegate protocol receiving playback start, stop, and error events from TTCAudioPlayer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_PLAYER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_PLAYER_DELEGATE_H_
 

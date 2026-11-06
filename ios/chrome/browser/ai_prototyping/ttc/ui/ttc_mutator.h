@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCMutator protocol for UI interactions
+// summary: Declares the TTCJournalFilter enum and the TTCMutator protocol for starting and stopping voice sessions, toggling loopback and test audio, and filtering or clearing the session journal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_UI_TTC_MUTATOR_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_UI_TTC_MUTATOR_H_
 

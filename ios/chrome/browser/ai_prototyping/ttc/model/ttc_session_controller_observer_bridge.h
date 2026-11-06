@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC session controller observer bridge protocol and adapter
+// summary: Declares the Objective-C protocol for observing session controller lifecycle, audio level, and error events, plus a C++ bridge adapter for it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_SESSION_CONTROLLER_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_TTC_SESSION_CONTROLLER_OBSERVER_BRIDGE_H_
 

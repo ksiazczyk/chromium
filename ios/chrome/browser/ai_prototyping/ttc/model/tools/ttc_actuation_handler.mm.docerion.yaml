@@ -1,0 +1,4 @@
+# Docerion header of ttc_actuation_handler.mm.
+type: source
+title: TtcActuationHandler implementation
+summary: Implements actuation dispatch by injecting tab and window IDs into action protos and executing them through the Actor Service.

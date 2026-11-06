@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTC journal implementation
+// summary: Implements the TTC journal, including entry formatting, the details builder, and asynchronous begin/end event tracking.
+// ---
+
 #include "ios/chrome/browser/ai_prototyping/ttc/model/ttc_journal.h"
 
 #include <algorithm>

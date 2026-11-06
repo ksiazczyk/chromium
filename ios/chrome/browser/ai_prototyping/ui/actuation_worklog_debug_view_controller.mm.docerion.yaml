@@ -1,0 +1,4 @@
+# Docerion header of actuation_worklog_debug_view_controller.mm.
+type: source
+title: Actuation worklog debug sandbox view controller
+summary: Implements the actuation worklog sandbox with controls to configure step titles, styles, chips, and worklog items for preview.

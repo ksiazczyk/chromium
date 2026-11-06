@@ -1,0 +1,4 @@
+# Docerion header of account_picker_mediator.mm.
+type: source
+title: Account picker mediator implementation
+summary: Implements AccountPickerMediator, observing the authentication service and asking its delegate to stop the picker when sign-in becomes disabled.

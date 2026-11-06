@@ -1,0 +1,4 @@
+# Docerion header of app_launching_state_unittest.mm.
+type: test
+title: App launching state unit tests
+summary: Unit tests verifying that consecutive launch counts are tracked and reset after the maximum interval between launches is exceeded.

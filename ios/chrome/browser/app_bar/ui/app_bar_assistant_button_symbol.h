@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBar assistant button symbol header
+// summary: Declares the function returning the symbol shown by the assistant button for each state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_ASSISTANT_BUTTON_SYMBOL_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_ASSISTANT_BUTTON_SYMBOL_H_
 

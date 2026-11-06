@@ -1,0 +1,4 @@
+# Docerion header of ttc_voice_focused_web_state_tracker_unittest.mm.
+type: test
+title: TTC voice focused web state tracker unit tests
+summary: Unit tests verifying initial active tab binding, tab switch notifications, and observer recording for the web state tracker.

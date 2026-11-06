@@ -1,0 +1,4 @@
+# Docerion header of app_launcher_tab_helper.mm.
+type: source
+title: AppLauncherTabHelper implementation
+summary: Implements app launch request handling with URL validation, policy blocklist, abuse detection, call prompt schemes and UMA logging.

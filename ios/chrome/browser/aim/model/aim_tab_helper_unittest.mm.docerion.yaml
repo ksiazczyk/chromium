@@ -1,0 +1,4 @@
+# Docerion header of aim_tab_helper_unittest.mm.
+type: test
+title: AIM tab helper unit tests
+summary: Unit tests verifying the tab helper fetches eligibility only for committed HTTP or HTTPS AIM URL navigations.

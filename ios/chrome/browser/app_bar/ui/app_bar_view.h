@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Bar view header
+// summary: Declares the AppBarView container view and its delegate protocol for notifying observers when the view moves to a new window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_VIEW_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_VIEW_H_
 

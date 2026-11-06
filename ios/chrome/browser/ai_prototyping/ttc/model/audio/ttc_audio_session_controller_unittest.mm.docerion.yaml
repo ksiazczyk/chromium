@@ -1,0 +1,4 @@
+# Docerion header of ttc_audio_session_controller_unittest.mm.
+type: test
+title: TTCAudioSessionController unit tests
+summary: Unit tests for TTCAudioSessionController using a fake audio engine to verify capture, playback, interruption, and teardown flows.

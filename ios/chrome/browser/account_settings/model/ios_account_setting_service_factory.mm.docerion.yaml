@@ -1,0 +1,4 @@
+# Docerion header of ios_account_setting_service_factory.mm.
+type: source
+title: iOS account setting service factory implementation
+summary: Implements the factory, building an AccountSettingServiceImpl with a sync bridge only when the kSyncAccountSettings feature is enabled.

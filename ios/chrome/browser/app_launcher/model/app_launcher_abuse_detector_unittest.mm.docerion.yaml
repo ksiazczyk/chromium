@@ -1,0 +1,4 @@
+# Docerion header of app_launcher_abuse_detector_unittest.mm.
+type: test
+title: AppLauncherAbuseDetector unit tests
+summary: Verifies launch policy behavior for repeated app launches from the same source, same origin with different paths, and different sources.

@@ -1,0 +1,4 @@
+# Docerion header of ttc_voice_focused_web_state_tracker.mm.
+type: source
+title: TTC voice focused web state tracker implementation
+summary: Implements binding to the active browser's web state list and notifying observers whenever the active tab changes.

@@ -1,0 +1,4 @@
+# Docerion header of app_launcher_browser_agent.mm.
+type: source
+title: AppLauncherBrowserAgent implementation
+summary: Implements app launch handling with overlay confirmation dialogs, scene state observation and UMA metrics for user responses.

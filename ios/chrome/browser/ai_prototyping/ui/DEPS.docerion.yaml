@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for AI prototyping UI
+summary: Declares the allowed include rules for the directory, permitting actor UI and intelligence feature headers.

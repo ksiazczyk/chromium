@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI prototyping service implementation header
+// summary: Declares AIPrototypingServiceImpl, a Mojo service that executes server and on-device LLM queries through the Optimization Guide service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_MODEL_AI_PROTOTYPING_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_MODEL_AI_PROTOTYPING_SERVICE_IMPL_H_
 

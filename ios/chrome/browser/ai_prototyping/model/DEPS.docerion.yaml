@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the AI prototyping model directory
+summary: Specifies the allowed include dependencies for code in the ai_prototyping model directory.

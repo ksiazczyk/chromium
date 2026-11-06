@@ -1,0 +1,4 @@
+# Docerion header of app_launcher_tab_helper_unittest.mm.
+type: test
+title: App launcher tab helper unit tests
+summary: Unit tests for AppLauncherTabHelper covering app launch behavior, alert prompts, abuse detection and policy-based URL blocking.

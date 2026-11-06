@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Account picker selection include rules
+summary: Lists the allowed header dependencies for this directory in the Chromium DEPS include check.

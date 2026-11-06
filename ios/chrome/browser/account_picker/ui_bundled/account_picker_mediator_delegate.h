@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker mediator delegate protocol
+// summary: Declares the AccountPickerMediatorDelegate protocol used by the mediator to report that sign-in is no longer possible.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_MEDIATOR_DELEGATE_H_
 

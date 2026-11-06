@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimDebuggerCoordinator header
+// summary: Declares the AimDebuggerCoordinator class and its presenter protocol for dismissing the AIM debugger.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AIM_DEBUGGER_COORDINATOR_AIM_DEBUGGER_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AIM_DEBUGGER_COORDINATOR_AIM_DEBUGGER_COORDINATOR_H_
 

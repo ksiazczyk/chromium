@@ -1,0 +1,4 @@
+# Docerion header of app_bar_mediator.mm.
+type: source
+title: App bar mediator implementation
+summary: Implements the app bar mediator, observing preferences, sign-in, search engines, fullscreen, Gemini, and Lens state to drive the app bar.

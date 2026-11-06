@@ -1,0 +1,4 @@
+# Docerion header of ttc_websocket_backend_unittest.mm.
+type: test
+title: TTC WebSocket backend unit tests
+summary: Unit tests for the WebSocket backend using a mock observer and test TTC config, covering setup payload creation and backend behavior.

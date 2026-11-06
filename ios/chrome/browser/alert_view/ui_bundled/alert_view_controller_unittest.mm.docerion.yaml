@@ -1,0 +1,4 @@
+# Docerion header of alert_view_controller_unittest.mm.
+type: test
+title: AlertViewController unit tests
+summary: Unit tests covering AlertViewController initialization, deallocation without circular references, and progress indicator state changes.

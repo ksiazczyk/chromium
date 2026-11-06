@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_service_impl.mm.
+type: source
+title: AI prototyping service implementation
+summary: Implements server-hosted and on-device model query execution, handling requests, responses, and logging data via the Optimization Guide service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBar background view header
+// summary: Declares a custom app bar background view with top-edge corner masking, incognito styling, and touch transparency.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_BACKGROUND_VIEW_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_BACKGROUND_VIEW_H_
 

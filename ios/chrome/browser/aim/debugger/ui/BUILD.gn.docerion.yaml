@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for AIM debugger UI
+summary: Defines the ui source_set for the AIM debugger UI, listing its source files and Chromium dependencies.

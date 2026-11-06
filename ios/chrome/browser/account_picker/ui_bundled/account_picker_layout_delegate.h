@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account picker layout delegate protocol
+// summary: Declares the AccountPickerLayoutDelegate protocol and the sheet display styles (bottom or centered) used to lay out the account picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_LAYOUT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_ACCOUNT_PICKER_UI_BUNDLED_ACCOUNT_PICKER_LAYOUT_DELEGATE_H_
 

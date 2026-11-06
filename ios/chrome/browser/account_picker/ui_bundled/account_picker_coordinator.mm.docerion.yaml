@@ -1,0 +1,4 @@
+# Docerion header of account_picker_coordinator.mm.
+type: source
+title: Account picker coordinator implementation
+summary: Implements the account picker coordinator, wiring confirmation and selection screens, reauth, add-account flow, preferences and metrics.

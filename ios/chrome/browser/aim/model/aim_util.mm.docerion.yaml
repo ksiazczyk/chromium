@@ -1,0 +1,4 @@
+# Docerion header of aim_util.mm.
+type: source
+title: AIM utility implementation for opening AIM in the current tab
+summary: Implements helpers that build the AIM search URL from the template URL service and load it in the current tab via the URL loading browser agent.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: TTC model build targets (BUILD.gn)
+summary: Defines GN source sets for the TTC journal, model, and unit tests, listing their sources, dependencies, and frameworks.

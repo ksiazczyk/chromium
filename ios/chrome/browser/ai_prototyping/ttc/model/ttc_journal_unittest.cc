@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTC journal unit tests
+// summary: Unit tests for the TTC journal covering instant and async event logging, line formatting, clearing, and listener notifications.
+// ---
+
 #include "ios/chrome/browser/ai_prototyping/ttc/model/ttc_journal.h"
 
 #include <memory>

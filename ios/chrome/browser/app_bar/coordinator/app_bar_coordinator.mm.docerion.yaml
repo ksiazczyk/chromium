@@ -1,0 +1,4 @@
+# Docerion header of app_bar_coordinator.mm.
+type: source
+title: App bar coordinator implementation
+summary: Implements the app bar coordinator, building its view controllers and handling commands such as account menu, sign-in, fullscreen, and Gemini.

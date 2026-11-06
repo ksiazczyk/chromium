@@ -1,0 +1,4 @@
+# Docerion header of ttc_tool_definitions.mm.
+type: source
+title: TTC tool definitions implementation
+summary: Builds the default navigation toolset with go_back, go_forward and open_url definitions including JSON schemas for function calling.

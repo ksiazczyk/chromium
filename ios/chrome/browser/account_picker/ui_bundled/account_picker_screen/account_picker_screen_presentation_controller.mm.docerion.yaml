@@ -1,0 +1,4 @@
+# Docerion header of account_picker_screen_presentation_controller.mm.
+type: source
+title: Account picker screen presentation controller implementation
+summary: Implements presentation of the account picker screen, computing centered or bottom sheet frames and managing the background dimmer view and accessibility.

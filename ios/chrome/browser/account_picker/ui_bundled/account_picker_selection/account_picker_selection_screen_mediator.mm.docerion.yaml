@@ -1,0 +1,4 @@
+# Docerion header of account_picker_selection_screen_mediator.mm.
+type: source
+title: Account picker selection screen mediator implementation
+summary: Observes identity manager, account manager and authentication services to keep the account list current.

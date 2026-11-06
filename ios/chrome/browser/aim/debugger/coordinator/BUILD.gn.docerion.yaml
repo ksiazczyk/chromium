@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the AIM debugger coordinator
+summary: Defines the coordinator source_set for the AIM debugger, listing its Objective-C sources and build dependencies.

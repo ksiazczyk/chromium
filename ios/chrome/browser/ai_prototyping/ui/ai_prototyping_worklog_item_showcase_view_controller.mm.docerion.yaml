@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_worklog_item_showcase_view_controller.mm.
+type: source
+title: AIPrototypingWorklogItemShowcaseViewController implementation
+summary: Implements the worklog item showcase, building sections for connected timeline sequences, card accessories, and connector visibility configurations.

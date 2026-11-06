@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_aim_eligibility_service.mm.
+type: source
+title: iOS AIM eligibility service implementation
+summary: Implements the iOS AIM eligibility service, resolving the device locale with an en-US fallback for simulators and exposing the variations service.

@@ -1,0 +1,4 @@
+# Docerion header of account_picker_selection_screen_table_view_controller.mm.
+type: source
+title: Account picker selection screen table view controller implementation
+summary: Implements the table view listing account identities and an add-account entry, handling row selection and the restricted-accounts footer.

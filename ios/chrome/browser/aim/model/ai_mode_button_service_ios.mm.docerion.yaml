@@ -1,0 +1,4 @@
+# Docerion header of ai_mode_button_service_ios.mm.
+type: source
+title: AI Mode button service implementation
+summary: Implements the AI Mode button service, including favicon loading, third-party config handling, and entrypoint shown metrics.

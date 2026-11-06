@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the AI prototyping coordinator
+summary: Lists the include rules allowing the coordinator directory to depend on actor, intelligence, and optimization guide components.

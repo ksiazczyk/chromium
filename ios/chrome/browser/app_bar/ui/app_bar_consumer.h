@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App bar consumer protocol
+// summary: Declares the AppBarConsumer protocol with button types and methods for updating tab counts, menus, navigation and assistant button state in the app bar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONSUMER_H_
 #define IOS_CHROME_BROWSER_APP_BAR_UI_APP_BAR_CONSUMER_H_
 

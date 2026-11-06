@@ -1,0 +1,4 @@
+# Docerion header of ai_mode_button_service_ios_unittest.mm.
+type: test
+title: AI Mode button service unit tests
+summary: Unit tests for the AI Mode button service covering availability, entrypoint metrics, and icon sources using mocked dependencies.

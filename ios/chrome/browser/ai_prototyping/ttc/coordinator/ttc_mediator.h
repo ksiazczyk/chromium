@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCMediator interface
+// summary: Declares the mediator that bridges the TTC keyed service and session controller events to a TTC consumer, including a disconnect method.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_COORDINATOR_TTC_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_COORDINATOR_TTC_MEDIATOR_H_
 

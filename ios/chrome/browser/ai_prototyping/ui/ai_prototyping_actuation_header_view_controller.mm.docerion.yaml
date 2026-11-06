@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_actuation_header_view_controller.mm.
+type: source
+title: Actuation header showcase view controller
+summary: Implements a configurable showcase of the actuation header view with editable title, subtitle, and primary and secondary items.

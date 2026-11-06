@@ -1,0 +1,4 @@
+# Docerion header of app_bar_container_view_controller.mm.
+type: source
+title: App bar container view controller implementation
+summary: Implements the container view controller, observing browser layout, incognito and scene layout states to update app bar positioning and cutout radius.

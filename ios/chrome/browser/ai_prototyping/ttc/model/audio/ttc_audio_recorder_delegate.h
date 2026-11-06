@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTCAudioRecorder delegate protocol
+// summary: Declares the delegate protocol delivering captured audio buffers and perceptual input energy updates from TTCAudioRecorder.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_RECORDER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AI_PROTOTYPING_TTC_MODEL_AUDIO_TTC_AUDIO_RECORDER_DELEGATE_H_
 

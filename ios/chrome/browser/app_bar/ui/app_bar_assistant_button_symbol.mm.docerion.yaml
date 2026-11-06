@@ -1,0 +1,4 @@
+# Docerion header of app_bar_assistant_button_symbol.mm.
+type: source
+title: AppBar assistant button symbol implementation
+summary: Maps assistant button states to symbols, choosing the branded or non-branded Gemini logo based on build flags.
