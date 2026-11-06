@@ -1,0 +1,4 @@
+# Docerion header of privileged_api_features.json.
+type: test
+title: Privileged API features test data
+summary: Test fixture listing privileged API feature entries with trunk channels and contexts used by extension API unittests.

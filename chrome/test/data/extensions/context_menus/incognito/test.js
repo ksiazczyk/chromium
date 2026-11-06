@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for incognito context menus test
+// summary: Service worker that creates a context menu item and reports clicks via test messages, adapting its behavior to whether it runs in an incognito context.
+// ---
+
 const inIncognitoContext = chrome.extension.inIncognitoContext;
 const incognitoStr = inIncognitoContext ? 'incognito' : 'regular';
 

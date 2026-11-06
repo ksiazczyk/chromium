@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Deep Stack test extension manifest
+summary: Manifest for the Deep Stack test extension, registering code.js as a service worker so errors occur with a stack trace deeper than one layer.

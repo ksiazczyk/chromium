@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator view
+// summary: JavaScript view that renders the display and forwards button, mouse, touch and keyboard events.
+// ---
+
 function View(window) {
   this.display = window.document.querySelector('#calculator-display');
   this.buttons = window.document.querySelectorAll('#calculator-buttons button');

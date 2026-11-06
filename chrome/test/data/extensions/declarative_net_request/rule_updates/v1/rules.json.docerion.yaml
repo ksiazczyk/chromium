@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: test
+title: Enabled DNR ruleset blocking example.com main frames
+summary: Declarative net request ruleset that blocks main frame requests to example.com and is loaded as the enabled ruleset of the test extension.

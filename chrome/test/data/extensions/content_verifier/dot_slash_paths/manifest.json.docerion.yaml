@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest mixing ./ and / resource paths
+summary: Manifest for the content verification test extension that mixes ./, /, and relative paths for scripts, icons, and pages.

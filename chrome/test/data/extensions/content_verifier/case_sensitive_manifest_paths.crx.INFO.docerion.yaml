@@ -1,0 +1,4 @@
+# Docerion header of case_sensitive_manifest_paths.crx.INFO.
+type: test
+title: Case-sensitive manifest paths CRX info
+summary: Notes for a Chrome Web Store test extension whose locales use uppercase characters and whose PNG files were transcoded, used by content verifier tests.

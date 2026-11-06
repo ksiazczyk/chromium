@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for incognito split mode context menu test extension
+summary: Manifest for a test extension that verifies context menus work in incognito split mode, using a non-persistent event page.

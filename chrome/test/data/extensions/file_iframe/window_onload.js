@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window onload check for file iframe access
+// summary: Sends a chrome.test message reporting whether reading the file iframe location is denied or blocked as a cross-origin error, verifying extension file access behavior.
+// ---
+
 window.onload = function() {
   const iframe = document.getElementById('file_iframe');
   try {

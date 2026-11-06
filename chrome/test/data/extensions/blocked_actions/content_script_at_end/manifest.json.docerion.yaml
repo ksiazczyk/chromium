@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for document_end content script test extension
+summary: Manifest for a test extension named Blocked Actions Doc End that injects script.js at document_end on all URLs.

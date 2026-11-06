@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation test extension background service worker
+// summary: Service worker that manages dictation stream states, sets up the offscreen document, and exposes waiters so browser tests can await stream and context events.
+// ---
+
 const OFFSCREEN_PATH = 'offscreen.html';
 
 const startedStreams = new Map();

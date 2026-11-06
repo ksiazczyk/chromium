@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Long padded HTML test page
+summary: HTML page consisting of a long run of repeated characters, serving as long-file test data for the extension content verifier.

@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README for manifest_mislabeled_script test data
+summary: Explains that this directory holds files from a downloaded webstore test extension packed into source.zip, where the background script is mislabeled as an icon and corrupted, and the source files are reference only.

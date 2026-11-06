@@ -1,0 +1,4 @@
+# Docerion header of manual.html.
+type: test
+title: Manual test results page for the calculator app
+summary: HTML page that displays calculator test results with a header showing run counts, passed and failed totals, and a detailed list of tests.

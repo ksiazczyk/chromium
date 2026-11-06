@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for service worker event dispatch test extension
+summary: Manifest version 3 extension manifest that registers background.js as a service worker with the webNavigation permission for event reliability tests.

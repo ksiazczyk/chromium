@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script checking document_start injection
+// summary: Content script that detects whether it was injected at document_start and reports success or failure via the document title for the C++ test side.
+// ---
+
 // If the script was really injected at document_start, then document.body will
 // be null. If it's not null, then we didn't inject at document_start.
 const isDocumentStart = !document.body;

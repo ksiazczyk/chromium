@@ -1,0 +1,4 @@
+# Docerion header of two_hosts.json.
+type: test
+title: Two hosts permission test manifest
+summary: Test fixture manifest granting permissions for two distinct hosts to test how effective host permissions are combined.

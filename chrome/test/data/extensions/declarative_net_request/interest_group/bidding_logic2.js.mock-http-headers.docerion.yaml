@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic2.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_logic2.js
+summary: Mock HTTP response headers that serve the second bidding logic as JavaScript and set Ad-Auction-Allowed to true for the test.

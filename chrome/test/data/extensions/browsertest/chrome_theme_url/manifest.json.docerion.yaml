@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Chrome theme test extension manifest
+summary: Manifest for a browser test extension that verifies images can be loaded through the browser's theme resource scheme.

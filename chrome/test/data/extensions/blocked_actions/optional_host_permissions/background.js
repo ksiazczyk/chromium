@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for optional host permissions test extension
+// summary: Background service worker that listens for page navigation, injects a script setting the document title to success, and reports the result via chrome.test.
+// ---
+
 function changeDocumentTitle() {
   document.title = 'success';
   chrome.test.sendMessage('success');

@@ -1,0 +1,4 @@
+# Docerion header of content_script.crx.INFO.
+type: test
+title: Content script CRX info
+summary: Records the CRX ID of a webstore-fetched test extension package used by the content verifier tests.

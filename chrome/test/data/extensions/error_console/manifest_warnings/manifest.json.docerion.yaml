@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Error Console Manifest Warnings Test Manifest
+summary: Test extension manifest with intentionally unrecognized keys and permissions, used to trigger manifest warnings in the error console.

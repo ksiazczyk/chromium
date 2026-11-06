@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: PageAction Test extension manifest
+summary: Manifest for a test extension with a browser action, default icon, title, and popup page used by browser action popup browser tests.

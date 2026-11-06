@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker for redundant start event test
+// summary: Extension background script that listens for onInstalled and webNavigation events and sends chrome.test messages when the navigation listener has fired three times.
+// ---
+
 let num_listener_called = 0;
 
 chrome.runtime.onInstalled.addListener((details) => {

@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: test
+title: DNR ruleset blocking main frame requests to something-else.com
+summary: Declarative Net Request ruleset that blocks main frame requests to something-else.com for the rule update test.

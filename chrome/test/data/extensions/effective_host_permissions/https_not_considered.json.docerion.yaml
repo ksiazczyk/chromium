@@ -1,0 +1,4 @@
+# Docerion header of https_not_considered.json.
+type: test
+title: Test manifest with HTTP and HTTPS host permissions
+summary: Extension manifest fixture with wildcard, HTTP, and HTTPS google.com permissions to exercise scheme handling.

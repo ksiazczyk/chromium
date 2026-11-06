@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup Test extension popup page
+summary: Popup page for the Popup Test extension containing a simple select element with two options.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu test items with document URL patterns
+// summary: Service worker script that creates context menu items with documentUrlPatterns restrictions and signals the browser test once the items are created and updated.
+// ---
+
 const make_browsertest_proceed = function() {
   if (!chrome.runtime.lastError) {
     chrome.test.sendMessage('created items');

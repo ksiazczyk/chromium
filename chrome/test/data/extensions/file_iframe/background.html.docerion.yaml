@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: File iframe test extension background page
+summary: Background page of a test extension that loads window_onload.js and embeds a local file in an iframe to exercise file URL handling.

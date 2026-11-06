@@ -1,0 +1,4 @@
+# Docerion header of verified_contents.json.
+type: test
+title: Signed verified contents for test extension
+summary: Web Store signed verified contents listing content hashes for the test extension, part of the manifest_mislabeled_script content hash fetcher test fixture.

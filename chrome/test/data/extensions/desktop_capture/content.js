@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Desktop capture test extension content script
+// summary: Content script that forwards desktop capture source requests from the web page to the extension and posts the extension's response back into the page.
+// ---
+
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
   // Callback from extension, ChooseDesktopMedia has completed.
   window.postMessage(request, '*');

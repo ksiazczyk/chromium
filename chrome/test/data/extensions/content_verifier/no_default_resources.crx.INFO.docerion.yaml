@@ -1,0 +1,4 @@
+# Docerion header of no_default_resources.crx.INFO.
+type: test
+title: No default resources CRX info
+summary: Describes a webstore test extension with no resources loaded by default, containing only page.html and script.js.

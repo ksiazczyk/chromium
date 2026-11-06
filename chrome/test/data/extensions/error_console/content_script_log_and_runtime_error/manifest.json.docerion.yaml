@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the content script log and runtime error test extension
+summary: Manifest for a test extension whose content script logs a message and then causes a runtime type error for error console tests.

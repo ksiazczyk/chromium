@@ -1,0 +1,4 @@
+# Docerion header of all_hosts.json.
+type: test
+title: All hosts permission test manifest
+summary: Test fixture manifest granting an extension access to every host through a wildcard permission pattern for effective host permission tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bookmarks manager override test manifest
+summary: Extension manifest that registers bookmarks.html as a chrome_url_overrides replacement for the bookmarks page in a browser test.

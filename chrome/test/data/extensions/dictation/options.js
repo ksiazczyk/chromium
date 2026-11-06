@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Options page script for the dictation test extension
+// summary: Saves and restores the dictation test options, including canned response, delays, and fail-on-start flag, in chrome.storage.local.
+// ---
+
 async function saveOptions() {
   const cannedResponse = document.getElementById('cannedResponse').value;
   const wordDelay = Number(document.getElementById('wordDelay').value);

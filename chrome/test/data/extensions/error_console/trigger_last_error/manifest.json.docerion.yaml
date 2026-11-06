@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the lastError error console test extension
+summary: Manifest version 2 manifest declaring the test extension named Last Error Runtime Error with background.js as its background script.

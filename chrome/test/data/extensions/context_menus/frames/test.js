@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus test extension service worker
+// summary: Service worker that creates page and frame context menu items and reports click details such as pageUrl, frameUrl and frameId back to the test via chrome.test messages.
+// ---
+
 
 chrome.contextMenus.onClicked.addListener(function(info, tab) {
   chrome.test.sendMessage(

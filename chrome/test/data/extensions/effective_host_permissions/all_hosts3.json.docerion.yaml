@@ -1,0 +1,4 @@
+# Docerion header of all_hosts3.json.
+type: test
+title: Host permission with content script test manifest
+summary: Test fixture manifest pairing a single-host permission with a content script that matches all secure web hosts.

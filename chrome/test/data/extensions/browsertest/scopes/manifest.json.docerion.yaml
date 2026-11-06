@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Scopes browser test extension manifest
+summary: Manifest for a test extension used in Chrome extension browser tests, declaring permissions and OAuth2 client ID with calendar and docs scopes.

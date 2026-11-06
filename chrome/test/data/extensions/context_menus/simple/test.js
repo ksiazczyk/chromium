@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus test extension service worker
+// summary: Service worker that creates a context menu item and sends chrome.test messages when the item is created or clicked.
+// ---
+
 const menuId = 'my_id';
 
 chrome.contextMenus.onClicked.addListener(function(info, tab) {

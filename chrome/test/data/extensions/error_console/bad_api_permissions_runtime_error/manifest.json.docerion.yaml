@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the bad API permissions runtime error test extension
+summary: Manifest for a test extension that declares tabs and host permissions but omits history, so its background script raises a runtime error for error console tests.

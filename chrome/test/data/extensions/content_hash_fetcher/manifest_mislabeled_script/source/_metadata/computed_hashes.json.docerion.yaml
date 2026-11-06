@@ -1,0 +1,4 @@
+# Docerion header of computed_hashes.json.
+type: test
+title: Computed content hashes for test extension
+summary: Computed per-file content hashes for the test extension's background.js, part of the manifest_mislabeled_script content hash fetcher test fixture.

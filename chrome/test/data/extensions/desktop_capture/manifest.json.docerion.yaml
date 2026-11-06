@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Basic Desktop Capture test extension manifest
+summary: Manifest for the Basic Desktop Capture test extension, registering the background and content scripts and requesting the desktopCapture permission for WebRTC screensharing.

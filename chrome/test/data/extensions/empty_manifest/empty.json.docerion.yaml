@@ -1,0 +1,4 @@
+# Docerion header of empty.json.
+type: test
+title: Empty extension manifest for testing
+summary: A minimal generic Chrome extension manifest (manifest version 3) with only name and version fields, provided as empty test data.

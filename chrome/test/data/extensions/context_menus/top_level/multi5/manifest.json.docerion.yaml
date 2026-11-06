@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the multi5 context menu test extension
+summary: Manifest version 3 fixture declaring the contextMenus permission and a background service worker for the multi5 test extension.

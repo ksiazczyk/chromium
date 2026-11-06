@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup page of the Popup Test2 test extension
+summary: Minimal popup page containing a select element with two options, used by the crash 44415 browser test extension.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Proxy setting test extension manifest
+summary: Manifest for the proxy setting browser test extension, declaring proxy and tabs permissions plus a background service worker.

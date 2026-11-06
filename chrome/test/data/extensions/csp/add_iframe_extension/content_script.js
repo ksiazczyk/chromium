@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script adding a cross-origin iframe
+// summary: Content script for a test extension that adds a button which injects a cross-origin iframe and reports success to the browser test via domAutomationController.
+// ---
+
 // Add a button to the page that can add a cross-origin iframe.
 const button = document.createElement('button');
 button.id = 'addIframeButton';

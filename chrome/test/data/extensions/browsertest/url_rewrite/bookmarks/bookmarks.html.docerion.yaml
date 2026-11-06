@@ -1,0 +1,4 @@
+# Docerion header of bookmarks.html.
+type: test
+title: Bookmarks override test page
+summary: Minimal HTML fixture used as test data for extension browser tests of bookmark URL rewriting.

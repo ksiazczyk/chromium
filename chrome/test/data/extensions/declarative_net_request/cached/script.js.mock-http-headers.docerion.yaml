@@ -1,0 +1,4 @@
+# Docerion header of script.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for script.js
+summary: Mock HTTP response headers serving script.js as JavaScript with a 60-second cache lifetime.

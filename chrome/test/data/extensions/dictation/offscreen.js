@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offscreen speech recognition script
+// summary: Runs continuous SpeechRecognition or replays a canned response word by word, sending partial and final transcripts back to the background service worker.
+// ---
+
 let recognition = null;
 let streamIdQueue = [];
 

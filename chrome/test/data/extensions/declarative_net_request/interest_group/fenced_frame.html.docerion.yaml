@@ -1,0 +1,4 @@
+# Docerion header of fenced_frame.html.
+type: test
+title: Fenced frame test page
+summary: Minimal HTML page embedding a fencedframe element, used as test data for declarative net request extension tests.

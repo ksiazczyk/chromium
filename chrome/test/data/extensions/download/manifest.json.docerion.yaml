@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the download test extension, declaring version 1.0 and registering background.js as the background script.

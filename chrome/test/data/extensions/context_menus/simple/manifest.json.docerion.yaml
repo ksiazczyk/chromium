@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Context Menus Test Extension manifest
+summary: Manifest for a simple test extension with contextMenus and tabs permissions that runs test.js as its service worker.

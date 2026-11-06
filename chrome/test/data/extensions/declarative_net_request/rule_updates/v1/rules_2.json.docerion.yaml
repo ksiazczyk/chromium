@@ -1,0 +1,4 @@
+# Docerion header of rules_2.json.
+type: test
+title: Disabled DNR ruleset blocking google.com main frames
+summary: Declarative net request ruleset that blocks main frame requests to google.com and is referenced as the disabled forgotten ruleset in the manifest.

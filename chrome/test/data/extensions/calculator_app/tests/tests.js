@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calculator test suite definitions
+// summary: Defines the runTests suite of calculator test cases, with active division tests and commented-out tests planned as fixes for tracked bugs.
+// ---
+
 window.runTests = function(log) {
   const run = window.calculatorTestRun.create();
   /*

@@ -1,0 +1,4 @@
+# Docerion header of child_frame.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for child frame page
+summary: Mock HTTP response headers served for child_frame.html, marking the response as supporting fenced-frame loading mode.

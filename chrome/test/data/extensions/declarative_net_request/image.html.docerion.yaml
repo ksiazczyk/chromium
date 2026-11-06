@@ -1,0 +1,4 @@
+# Docerion header of image.html.
+type: test
+title: Image collapse test page
+summary: Test page that loads an image and records whether it was collapsed to display none by request rules.

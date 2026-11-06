@@ -1,0 +1,4 @@
+# Docerion header of ten_meg_resource.crx.INFO.
+type: test
+title: Ten meg resource CRX info
+summary: Describes a webstore test extension whose background script exceeds 10 megabytes in size.

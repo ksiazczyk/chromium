@@ -1,0 +1,4 @@
+# Docerion header of automatic.html.
+type: test
+title: Automatic test runner page for the calculator app
+summary: HTML page that loads the calculator app scripts together with the test suite and utilities so the tests run automatically on load.

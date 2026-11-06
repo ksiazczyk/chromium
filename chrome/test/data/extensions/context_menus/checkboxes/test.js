@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu checkbox test service worker
+// summary: Service worker that creates context menu checkboxes and a normal item, updates checkbox states on click, and sends chrome.test messages for browser test verification.
+// ---
+
 const menuItemId = 'item1';
 const checkboxOneId = 'checkbox1';
 const checkboxTwoId = 'checkbox2';

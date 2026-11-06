@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request throttle test page script
+// summary: Reads url and expectedFailRequestNum parameters and messages the service worker to issue the configured number of test requests.
+// ---
+
 const maxRequests = 3;
 
 const searchParams = new URLSearchParams(location.search);

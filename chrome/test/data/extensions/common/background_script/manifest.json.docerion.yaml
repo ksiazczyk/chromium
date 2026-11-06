@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for background script test extension
+summary: Manifest version 2 fixture declaring an extension named background_script that loads background.js as its background script.

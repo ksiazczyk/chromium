@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kitten Redirector test extension manifest
+summary: Manifest for the example Kitten Redirector extension used in back/forward cache crash tests, declaring declarativeNetRequest permissions and the rules.json ruleset.

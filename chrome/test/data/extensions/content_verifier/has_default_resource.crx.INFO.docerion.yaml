@@ -1,0 +1,4 @@
+# Docerion header of has_default_resource.crx.INFO.
+type: test
+title: Has default resource CRX info
+summary: Describes a webstore test extension that loads background.js on ExtensionLoad and also contains page.html and script.js resources.

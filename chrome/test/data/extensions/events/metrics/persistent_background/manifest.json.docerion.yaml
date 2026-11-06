@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Persistent background test extension manifest
+summary: Manifest for the test extension, declaring a persistent MV2 background page with the webNavigation permission.

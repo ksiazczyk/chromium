@@ -1,0 +1,4 @@
+# Docerion header of newtab.html.
+type: test
+title: New tab override test page
+summary: Minimal HTML page shown as the overridden new tab page during the extension browser test.

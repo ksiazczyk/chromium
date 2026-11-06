@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Test page fixture
+summary: Minimal HTML page containing hello world text, used as fixture data for the extension content verifier tests.

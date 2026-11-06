@@ -1,0 +1,4 @@
+# Docerion header of one_host.json.
+type: test
+title: Single host permission test manifest
+summary: Test fixture manifest granting an extension permission for exactly one host to exercise effective host permission behavior.

@@ -1,0 +1,4 @@
+# Docerion header of xhr_target.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for the XHR target
+summary: Supplies mock HTTP response headers, including a permissive CORS origin, for the xhr_target.txt resource during tests.

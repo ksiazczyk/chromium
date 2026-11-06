@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the Popup Test2 test extension
+summary: Manifest defining the Popup Test2 extension with a page action, popup page, persistent background script and tabs permission.

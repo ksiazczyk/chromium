@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for Delayed Install test extension
+summary: Manifest for a test extension used to verify extension update behavior during delayed install, defining a browser action with a popup page.

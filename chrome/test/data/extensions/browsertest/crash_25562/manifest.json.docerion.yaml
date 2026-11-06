@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the crash 25562 test extension
+summary: Manifest version 2 for the test extension, declaring a background page, a content script and a page action with an incorrect icon specification.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the multi4 context menu test extension
+summary: Manifest for the multi4 test extension declaring the contextMenus permission and a background service worker.
