@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form activity observer bridge header
+// summary: Declares an Objective-C protocol and a C++ bridge class that forwards form activity events from FormActivityObserver to Objective-C owners.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_FORM_ACTIVITY_OBSERVER_BRIDGE_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_FORM_ACTIVITY_OBSERVER_BRIDGE_H_
 

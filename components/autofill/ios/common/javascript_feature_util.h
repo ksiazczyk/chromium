@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill JavaScript content world utility
+// summary: Declares the function returning the content world used by Autofill JavaScript features on iOS.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_COMMON_JAVASCRIPT_FEATURE_UTIL_H_
 #define COMPONENTS_AUTOFILL_IOS_COMMON_JAVASCRIPT_FEATURE_UTIL_H_
 

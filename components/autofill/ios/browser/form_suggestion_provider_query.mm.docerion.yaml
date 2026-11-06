@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_provider_query.mm.
+type: source
+title: FormSuggestionProviderQuery implementation
+summary: Implements FormSuggestionProviderQuery, including its designated initializer and the hasFocusType check for focus-initiated queries.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_client_ios.mm.
+type: source
+title: AutofillClientIOS implementation
+summary: Implements AutofillClientIOS, attaching the client to a WebState via a user data handle.

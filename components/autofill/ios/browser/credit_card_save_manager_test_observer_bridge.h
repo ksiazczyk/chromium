@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card save manager test observer bridge header
+// summary: Declares an Objective-C protocol and C++ bridge that lets EarlGrey tests observe CreditCardSaveManager events such as local save offers and upload card responses.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_CREDIT_CARD_SAVE_MANAGER_TEST_OBSERVER_BRIDGE_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_CREDIT_CARD_SAVE_MANAGER_TEST_OBSERVER_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPasswordAutofillAgentDelegate mock
+// summary: gmock mock of PasswordAutofillAgentDelegate used to observe field fill notifications in tests of the iOS password autofill agent.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_MOCK_PASSWORD_AUTOFILL_AGENT_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_MOCK_PASSWORD_AUTOFILL_AGENT_DELEGATE_H_
 

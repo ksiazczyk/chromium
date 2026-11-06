@@ -1,0 +1,4 @@
+# Docerion header of form_activity_observer_bridge_unittest.mm.
+type: test
+title: Form activity observer bridge unit tests
+summary: Unit tests verifying that FormActivityObserverBridge forwards form activity, submission and removal events to its Objective-C observer.

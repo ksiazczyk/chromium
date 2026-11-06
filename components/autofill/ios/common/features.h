@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Autofill feature flag declarations
+// summary: Declares iOS-exclusive Autofill feature flags covering form submission detection, payments sheets, infobars, and input support.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_COMMON_FEATURES_H_
 #define COMPONENTS_AUTOFILL_IOS_COMMON_FEATURES_H_
 

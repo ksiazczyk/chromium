@@ -1,0 +1,4 @@
+# Docerion header of remote_frame_token_registration_unittest.mm.
+type: test
+title: Remote frame token registration unit tests
+summary: Verifies that remote frame tokens are registered and resolved to local frame tokens in the frames registrar.

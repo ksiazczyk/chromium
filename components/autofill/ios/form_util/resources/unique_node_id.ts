@@ -7,6 +7,12 @@
  * unique IDs on DOM nodes via `ID_SYMBOL` (`__gCrUniqueID`).
  */
 
+// ---docerion
+// type: source
+// title: Document-scoped unique node ID helpers
+// summary: Assigns and retrieves document-scoped unique IDs on DOM nodes via a symbol, using prototype getters to protect against DOM clobbering.
+// ---
+
 import {ID_SYMBOL} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 
 const NEXT_ID_SYMBOL = Symbol.for('__gCrNextUniqueID');

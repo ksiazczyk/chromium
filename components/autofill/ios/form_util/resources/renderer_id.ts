@@ -7,6 +7,12 @@
  * forms and fields.
  */
 
+// ---docerion
+// type: source
+// title: Stable renderer IDs for forms and fields
+// summary: Assigns stable unique IDs to form and field elements, stores them in the DOM and an element map, and tracks whether fields have been password inputs.
+// ---
+
 import {HAS_BEEN_PASSWORD_SYMBOL, UNIQUE_ID_ATTRIBUTE} from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import {getOrCreateUniqueNodeId} from '//components/autofill/ios/form_util/resources/unique_node_id.js';
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';

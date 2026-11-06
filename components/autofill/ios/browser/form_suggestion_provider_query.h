@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSuggestionProviderQuery value object
+// summary: Defines a class holding the form and field data that FormSuggestionProvider needs to find and retrieve suggestions for an input field of a web form.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_SUGGESTION_PROVIDER_QUERY_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_FORM_SUGGESTION_PROVIDER_QUERY_H_
 

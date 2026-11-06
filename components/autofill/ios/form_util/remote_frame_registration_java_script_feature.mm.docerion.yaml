@@ -1,0 +1,4 @@
+# Docerion header of remote_frame_registration_java_script_feature.mm.
+type: source
+title: Remote frame registration JavaScript feature implementation
+summary: Implements the remote frame registration feature, forwarding registration messages to the child frame registrar.

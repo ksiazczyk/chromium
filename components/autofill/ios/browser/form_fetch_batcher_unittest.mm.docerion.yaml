@@ -1,0 +1,4 @@
+# Docerion header of form_fetch_batcher_unittest.mm.
+type: test
+title: Form fetch batcher unit tests
+summary: Unit tests covering FormFetchBatcher batching, filtering, and completion behavior using a test AutofillDriverIOSBridge and fake web frame.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label inference utilities
+// summary: Offers helper functions for element inspection, whitespace handling and autofillability checks used during label inference.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {isTextField} from '//ios/web/public/js_messaging/resources/utils.js';
 

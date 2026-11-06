@@ -1,0 +1,4 @@
+# Docerion header of credit_card_save_manager_test_observer_bridge.mm.
+type: source
+title: Credit card save manager test observer bridge implementation
+summary: Implements the bridge that registers as a CreditCardSaveManager test observer and forwards its events to the Objective-C observer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillJavaScriptFeature header
+// summary: Declares the JavaScript feature that communicates with autofill_controller.js to extract forms and fill or scroll fields.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_JAVA_SCRIPT_FEATURE_H_
 

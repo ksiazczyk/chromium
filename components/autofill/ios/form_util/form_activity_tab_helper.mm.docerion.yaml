@@ -1,0 +1,4 @@
+# Docerion header of form_activity_tab_helper.mm.
+type: source
+title: Form activity tab helper implementation
+summary: Implements handling of form activity, removal and submission messages, including histogram logging of form submission outcomes.

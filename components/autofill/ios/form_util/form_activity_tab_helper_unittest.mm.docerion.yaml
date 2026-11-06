@@ -1,0 +1,4 @@
+# Docerion header of form_activity_tab_helper_unittest.mm.
+type: test
+title: Form activity tab helper unit tests
+summary: Unit tests for FormActivityTabHelper covering form activity, submission, removal and iframe handling using fake web states and frames.

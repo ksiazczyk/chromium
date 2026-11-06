@@ -1,0 +1,4 @@
+# Docerion header of test_autofill_manager_injector.mm.
+type: test
+title: TestAutofillManagerInjector base implementation
+summary: Implements the injector base class that tracks instances and enforces that at most one TestAutofillManagerInjector is alive at a time.

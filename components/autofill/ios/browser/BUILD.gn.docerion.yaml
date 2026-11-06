@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS autofill browser component
+summary: Defines GN source sets, dependencies, and optimized JS/TS targets for the iOS autofill browser code.

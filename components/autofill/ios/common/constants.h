@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Counted form submission type constants
+// summary: Defines the CountedSubmissionType enum classifying renderer-reported form submissions as HTML event, programmatic, or unparseable.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_COMMON_CONSTANTS_H_
 #define COMPONENTS_AUTOFILL_IOS_COMMON_CONSTANTS_H_
 

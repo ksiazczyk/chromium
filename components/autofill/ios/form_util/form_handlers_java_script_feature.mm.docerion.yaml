@@ -1,0 +1,4 @@
+# Docerion header of form_handlers_java_script_feature.mm.
+type: source
+title: Form handlers JavaScript feature implementation
+summary: Implements the form handlers JavaScript feature, injecting form handler scripts and handling form-related script messages.

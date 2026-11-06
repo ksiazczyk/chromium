@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAutofillAgent for iOS
+// summary: Declares the iOS PasswordAutofillAgent, which represents the Password Manager in Autofill, together with its delegate interface for reporting filled fields.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_PASSWORD_AUTOFILL_AGENT_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_PASSWORD_AUTOFILL_AGENT_H_
 

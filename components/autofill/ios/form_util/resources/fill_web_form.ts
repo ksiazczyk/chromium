@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web form to autofill data conversion
+// summary: Converts web form elements into autofill form data, including child frame tokens and form submission tracking.
+// ---
+
 import {registerChildFrame} from '//components/autofill/ios/form_util/resources/child_frame_registration_lib.js';
 import * as fillConstants from '//components/autofill/ios/form_util/resources/fill_constants.js';
 import type {FormControlElement} from '//components/autofill/ios/form_util/resources/fill_constants.js';

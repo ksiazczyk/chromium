@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS autofill form_util
+summary: DEPS rule allowing form_util to include headers from components/autofill/ios/common.

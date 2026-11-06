@@ -1,0 +1,4 @@
+# Docerion header of autofill_java_script_feature.mm.
+type: source
+title: AutofillJavaScriptFeature implementation
+summary: Implements AutofillJavaScriptFeature, invoking autofill_controller.js functions for form extraction, filling, and predictions with execution timeouts.

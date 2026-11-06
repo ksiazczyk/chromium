@@ -1,0 +1,4 @@
+# Docerion header of test_form_activity_observer.mm.
+type: test
+title: Test form activity observer implementation
+summary: Implementation of the test form activity observer that captures and counts form events received from the iOS autofill form activity tab helper.

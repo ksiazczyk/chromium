@@ -1,0 +1,4 @@
+# Docerion header of form_activity_tab_helper_fuzzer.mm.
+type: test
+title: Form activity tab helper fuzzer
+summary: LibFuzzer proto fuzzer that feeds randomized script messages into FormActivityTabHelper to uncover crashes in form message handling.

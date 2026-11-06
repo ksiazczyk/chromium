@@ -1,0 +1,4 @@
+# Docerion header of autofill_form_features_java_script_feature.mm.
+type: source
+title: Autofill form features JavaScript feature implementation
+summary: Injects autofill_form_features.js into all frames and replaces placeholders with current C++ feature flag states.

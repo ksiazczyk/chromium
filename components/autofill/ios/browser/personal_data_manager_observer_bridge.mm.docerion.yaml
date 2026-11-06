@@ -1,0 +1,4 @@
+# Docerion header of personal_data_manager_observer_bridge.mm.
+type: source
+title: PersonalDataManagerObserverBridge implementation
+summary: Implements the bridge that observes the PersonalDataManager and relays OnPersonalDataChanged calls to the Objective-C delegate.

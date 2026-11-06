@@ -1,0 +1,4 @@
+# Docerion header of credit_card_util.mm.
+type: source
+title: Credit card utility implementation
+summary: Implements helpers converting CreditCard details such as name, nickname, CVC, and expiration date into NSString and NSDateComponents values.

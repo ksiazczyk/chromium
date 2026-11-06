@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer ID test API registration
+// summary: Registers a CrWebApi exposing setUniqueIDIfNeeded and getElementByUniqueID so native-side tests can exercise renderer ID assignment and lookup.
+// ---
+
 import {getElementByUniqueID, setUniqueIDIfNeeded} from '//components/autofill/ios/form_util/resources/renderer_id.js';
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: iOS Autofill feature flag definitions
+summary: Defines iOS Autofill feature flags with default states and scan throttling parameters, kept in sync with TypeScript feature definitions via lint directives.

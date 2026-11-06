@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS autofill utility declarations
+// summary: Declares iOS autofill helpers for parsing JSON form data, extracting FormData objects, handling JavaScript frame IDs, and defines enums for extraction failures and blocked submissions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_UTIL_H_
 #define COMPONENTS_AUTOFILL_IOS_BROWSER_AUTOFILL_UTIL_H_
 

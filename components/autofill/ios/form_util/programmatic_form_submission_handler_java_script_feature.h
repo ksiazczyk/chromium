@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Programmatic form submission handler JavaScript feature header
+// summary: Declares a JavaScript feature that installs a listener invoked whenever HTMLElement.submit() is called.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_FORM_UTIL_PROGRAMMATIC_FORM_SUBMISSION_HANDLER_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_AUTOFILL_IOS_FORM_UTIL_PROGRAMMATIC_FORM_SUBMISSION_HANDLER_JAVA_SCRIPT_FEATURE_H_
 

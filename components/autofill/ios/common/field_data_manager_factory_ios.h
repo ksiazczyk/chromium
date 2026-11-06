@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldDataManager factory for iOS web frames
+// summary: Declares a factory that creates or provides a per-WebFrame FieldDataManager plus a WebFrameUserData holder scoped to the frame lifetime.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_IOS_COMMON_FIELD_DATA_MANAGER_FACTORY_IOS_H_
 #define COMPONENTS_AUTOFILL_IOS_COMMON_FIELD_DATA_MANAGER_FACTORY_IOS_H_
 
