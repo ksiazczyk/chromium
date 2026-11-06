@@ -1,0 +1,4 @@
+# Docerion header of simple-std-find.txt.
+type: test
+title: Expected diagnostics for simple-std-find
+summary: Expected iterator-checker error output for the simple-std-find test case, reporting one potentially invalid iterator use.

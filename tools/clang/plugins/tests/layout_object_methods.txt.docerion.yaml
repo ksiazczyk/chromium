@@ -1,0 +1,4 @@
+# Docerion header of layout_object_methods.txt.
+type: test
+title: Layout object methods expected warnings
+summary: Expected plugin warnings for the layout_object_methods test, naming methods that must call CheckIsNotDestroyed() at the beginning.

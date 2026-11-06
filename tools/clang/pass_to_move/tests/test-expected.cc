@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for the pass_to_move Clang tool test
+// summary: Expected-result fixture showing how the pass_to_move Clang tool should rewrite Pass() calls into std::move(), including member, pointer, nested and chained cases.
+// ---
+
 struct A {
   A&& Pass();
 };

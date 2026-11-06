@@ -1,0 +1,4 @@
+# Docerion header of pointer-to-container.txt.
+type: test
+title: Pointer to container expected errors
+summary: Expected iterator-checker error output for the pointer-to-container test case.

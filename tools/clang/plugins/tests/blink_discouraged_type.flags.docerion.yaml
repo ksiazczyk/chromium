@@ -1,0 +1,4 @@
+# Docerion header of blink_discouraged_type.flags.
+type: test
+title: Blink discouraged type plugin flags
+summary: Compiler flags enabling the check-blink-data-member-type check for the blink_discouraged_type test.

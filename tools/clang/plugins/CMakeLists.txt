@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Clang plugin CMake build file
+# summary: Build configuration that compiles the plugin sources directly into clang and registers the plugins test runner.
+# ---
+
 set(plugin_sources
   BlinkDataMemberTypeChecker.cpp
   ChromeClassTester.cpp

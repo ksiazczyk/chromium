@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: IteratorChecker issue tracker metadata
+summary: Maps the iterator checker directory to the Tools monorail component and a Buganizer component ID for issue tracking.

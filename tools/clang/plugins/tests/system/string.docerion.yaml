@@ -1,0 +1,4 @@
+# Docerion header of string.
+type: test
+title: Faux std::string system header test fixture
+summary: Mock std::basic_string and std::string definitions used as a system-header fixture in the clang plugin tests.

@@ -1,0 +1,4 @@
+# Docerion header of module.modulemap.
+type: test
+title: Module map for strict deps test
+summary: Module map defining system and test modules with textual headers and use declarations used as fixture for the strict deps plugin test.

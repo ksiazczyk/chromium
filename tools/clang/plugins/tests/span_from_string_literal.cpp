@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Span from string literal test
+// summary: Test input checking that the plugin flags base::span construction from string literals while allowing other arrays.
+// ---
+
 #include "base/containers/span.h"
 
 static const char s[] = "hi";

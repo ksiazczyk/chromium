@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Inter-container iterator comparison test
+// summary: Test case verifying the checker flags comparisons between iterators from different containers and checks against the wrong container's end iterator.
+// ---
+
 #include <algorithm>
 #include <vector>
 

@@ -1,0 +1,4 @@
+# Docerion header of comparison-check-after-std-swap.txt.
+type: test
+title: Expected output for comparison-check-after-std-swap
+summary: Expected iterator checker diagnostics for the std::swap comparison test case.

@@ -7,6 +7,12 @@
 // instantiations and in local classes, but not member function templates,
 // methods that are defined out of line, or lambdas.
 
+// ---docerion
+// type: test
+// title: Layout object methods edge case test source
+// summary: C++ test covering which LayoutObject subclass methods are checked, including class templates, instantiations, local classes, out-of-line methods, and lambdas.
+// ---
+
 namespace blink {
 
 class Visitor;

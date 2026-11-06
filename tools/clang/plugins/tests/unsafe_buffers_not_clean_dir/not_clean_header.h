@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Not-clean header fixture for unsafe buffers plugin tests
+// summary: Known-bad test header verifying that unsafe buffer usage inside it emits no errors and that macro warnings are decided by where the macro is used.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_BUFFERS_NOT_CLEAN_DIR_NOT_CLEAN_HEADER_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_BUFFERS_NOT_CLEAN_DIR_NOT_CLEAN_HEADER_H_
 

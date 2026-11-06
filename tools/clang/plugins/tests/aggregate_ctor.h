@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aggregate constructor test header
+// summary: Header defining aggregate and non-aggregate structs used to verify complex constructor and destructor warnings in the Chromium style plugin.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_AGGREGATE_CTOR_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_AGGREGATE_CTOR_H_
 

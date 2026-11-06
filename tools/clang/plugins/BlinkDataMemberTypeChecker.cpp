@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlinkDataMemberTypeChecker implementation
+// summary: Implements a Clang plugin check that flags discouraged STL types as data members in Blink renderer code and suggests Blink alternatives.
+// ---
+
 #include "BlinkDataMemberTypeChecker.h"
 
 #include "Util.h"

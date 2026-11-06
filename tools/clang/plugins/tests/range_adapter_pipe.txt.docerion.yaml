@@ -1,0 +1,4 @@
+# Docerion header of range_adapter_pipe.txt.
+type: test
+title: Range adapter pipe expected warnings
+summary: Expected compiler output for the range_adapter_pipe test, listing warnings that ban operator| with range adaptors.

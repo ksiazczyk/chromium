@@ -1,0 +1,4 @@
+# Docerion header of ipc.flags.
+type: test
+title: IPC test plugin flags
+summary: Compiler and plugin arguments that enable the check-ipc option of the find-bad-constructs plugin when running the ipc.cpp test.

@@ -1,0 +1,4 @@
+# Docerion header of missing_ctor_dllexport.txt.
+type: test
+title: Missing constructor dllexport expected warnings
+summary: Expected plugin warning output for the dllexport variant of the missing_ctor test.

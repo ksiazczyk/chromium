@@ -1,0 +1,4 @@
+# Docerion header of layout_object_methods.flags.
+type: test
+title: Layout object methods test flags
+summary: Compiler and plugin arguments that enable the check-layout-object-methods option when running the layout_object_methods test.

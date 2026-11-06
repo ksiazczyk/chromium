@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Separate repository paths list
+// summary: Defines a constant array of paths belonging to separate repositories, used by plugin checks to exclude those locations.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_SEPARATEREPOSITORYPATHS_H_
 #define TOOLS_CLANG_PLUGINS_SEPARATEREPOSITORYPATHS_H_
 

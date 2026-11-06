@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clang plugin test fixture for base::span
+// summary: Mock span and raw_span definitions used as a test fixture for Chromium's clang plugin checks.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_BASE_CONTAINERS_SPAN_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_BASE_CONTAINERS_SPAN_H_
 

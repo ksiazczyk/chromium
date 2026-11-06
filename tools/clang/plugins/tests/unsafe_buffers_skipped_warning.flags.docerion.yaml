@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_skipped_warning.flags.
+type: test
+title: Flags for the unsafe_buffers skipped warning test
+summary: Compiler flags passing unsafe_buffers_paths.txt to the unsafe-buffers plugin for the skipped warning test case.

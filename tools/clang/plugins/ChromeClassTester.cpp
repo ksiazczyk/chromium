@@ -5,6 +5,12 @@
 // A general interface for filtering and only acting on classes in Chromium C++
 // code.
 
+// ---docerion
+// type: source
+// title: ChromeClassTester implementation
+// summary: Implements filtering of class declarations by location classification and ignore lists, forwarding Chromium classes to check subclasses.
+// ---
+
 #include "ChromeClassTester.h"
 
 #include "Util.h"

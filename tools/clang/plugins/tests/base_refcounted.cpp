@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base refcounted test source
+// summary: Test source with refcounted classes exercising public, protected and private destructor checks in the find-bad-constructs Clang plugin.
+// ---
+
 #include "base_refcounted.h"
 
 #include <stddef.h>

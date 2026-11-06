@@ -1,0 +1,4 @@
+# Docerion header of atomic_member.txt.
+type: test
+title: Expected warnings for atomic member test
+summary: Expected plugin diagnostic output listing complex constructor and destructor warnings for classes with too many atomic members.

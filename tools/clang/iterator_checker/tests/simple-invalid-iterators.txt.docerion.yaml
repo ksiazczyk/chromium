@@ -1,0 +1,4 @@
+# Docerion header of simple-invalid-iterators.txt.
+type: test
+title: Expected diagnostics for simple-invalid-iterators
+summary: Expected iterator-checker error output for the simple-invalid-iterators test case, listing invalid iterator uses and an iterator mismatch.

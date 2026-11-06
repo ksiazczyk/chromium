@@ -1,0 +1,4 @@
+# Docerion header of range_adapter_pipe_friend.txt.
+type: test
+title: Range adapter pipe friend expected warnings
+summary: Expected compiler output for the range_adapter_pipe_friend test, listing three banned operator| warnings.

@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_ignored_libc.txt.
+type: test
+title: Expected output for the unsafe_buffers ignored libc test
+summary: Empty expected-diagnostics file asserting the ignored libc test case produces no plugin warnings.

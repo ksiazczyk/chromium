@@ -1,0 +1,4 @@
+# Docerion header of wrapped-reverse-iterators.txt.
+type: test
+title: Expected diagnostics for wrapped-reverse-iterators.cpp
+summary: Empty expected-output file for the wrapped-reverse-iterators test, meaning no diagnostics are expected for that case.

@@ -1,0 +1,4 @@
+# Docerion header of implicit-cast-iterator.txt.
+type: test
+title: Expected errors for implicit-cast-iterator
+summary: Expected iterator-checker diagnostic for the implicit-cast-iterator test, reporting one potentially invalid iterator use before the end check.

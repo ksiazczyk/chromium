@@ -1,0 +1,4 @@
+# Docerion header of test.py.
+type: test
+title: Iterator Checker plugin test harness
+summary: Test harness that runs the iterator-checker clang plugin on the test files and compares actual against expected results.

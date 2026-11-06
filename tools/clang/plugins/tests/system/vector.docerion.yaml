@@ -1,0 +1,4 @@
+# Docerion header of vector.
+type: test
+title: Faux std::vector system header test fixture
+summary: Mock std::vector template used as a system-header fixture in the clang plugin tests.

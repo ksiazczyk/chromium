@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers.flags.
+type: test
+title: Unsafe buffers test plugin flags
+summary: Clang plugin arguments pointing the unsafe buffers check at its paths configuration file.

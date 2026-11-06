@@ -1,0 +1,4 @@
+# Docerion header of annotated-container.txt.
+type: test
+title: Expected output for annotated-container
+summary: Expected iterator checker diagnostics for the annotated container test case.

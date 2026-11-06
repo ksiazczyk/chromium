@@ -1,0 +1,4 @@
+# Docerion header of virtual_specifiers.txt.
+type: test
+title: virtual_specifiers expected plugin warnings
+summary: Expected diagnostic output for the virtual_specifiers test, listing warnings about missing override, redundant virtual, and redundant override specifiers.

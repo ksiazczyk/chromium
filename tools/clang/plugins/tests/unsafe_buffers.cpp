@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsafe buffers plugin test source
+// summary: C++ test case including headers that exercise unsafe buffer usage warnings, opt-out annotations and directory-based checks.
+// ---
+
 #define UNSAFE_FN [[clang::unsafe_buffer_usage]]
 
 // clang-format off

@@ -1,0 +1,4 @@
+# Docerion header of virtual_base_method_also_final.txt.
+type: test
+title: Virtual base method also final expected warnings
+summary: Expected plugin warning output for the redundant virtual keyword test case.

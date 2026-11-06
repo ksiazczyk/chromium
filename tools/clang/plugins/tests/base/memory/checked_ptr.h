@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: checked_ptr.h stub for Clang plugin tests
+// summary: Defines an empty base::CheckedPtr class template as a minimal stand-in header for Clang plugin test cases.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_BASE_MEMORY_CHECKED_PTR_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_BASE_MEMORY_CHECKED_PTR_H_
 

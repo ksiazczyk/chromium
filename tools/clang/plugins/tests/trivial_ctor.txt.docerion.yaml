@@ -1,0 +1,4 @@
+# Docerion header of trivial_ctor.txt.
+type: test
+title: Trivial ctor expected results
+summary: Empty expected-output file for the trivial constructor plugin test case.

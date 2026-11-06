@@ -1,0 +1,4 @@
+# Docerion header of virtual_bodies.txt.
+type: test
+title: virtual_bodies expected plugin warnings
+summary: Expected compiler output for the virtual_bodies test, showing chromium-style warnings about inline virtual methods with non-empty bodies and missing override specifiers.

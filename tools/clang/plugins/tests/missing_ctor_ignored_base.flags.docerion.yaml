@@ -1,0 +1,4 @@
+# Docerion header of missing_ctor_ignored_base.flags.
+type: test
+title: Missing constructor ignored base test flags
+summary: Clang plugin flags relaxing aggregate constructor checks for the ignored base missing_ctor test.

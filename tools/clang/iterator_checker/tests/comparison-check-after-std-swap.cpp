@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: 'Iterator checker test: comparison after std::swap'
+// summary: C++ test case verifying iterator-to-container comparisons after std::swap exchanges two vectors.
+// ---
+
 #include <algorithm>
 #include <vector>
 

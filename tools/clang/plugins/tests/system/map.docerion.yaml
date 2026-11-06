@@ -1,0 +1,4 @@
+# Docerion header of map.
+type: test
+title: Faux std::map system header test fixture
+summary: Mock std::map template used as a system-header fixture in the clang plugin tests.

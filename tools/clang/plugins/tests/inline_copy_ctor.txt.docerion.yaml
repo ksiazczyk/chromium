@@ -1,0 +1,4 @@
+# Docerion header of inline_copy_ctor.txt.
+type: test
+title: Expected output for inline copy constructor test
+summary: Empty expected-output file indicating the inline copy constructor test produces no plugin warnings.

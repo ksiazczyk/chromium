@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: weak_ptr_factory plugin test input
+// summary: C++ test fixture with should_succeed and should_fail classes checking that WeakPtrFactory members referring to their outer class are declared last.
+// ---
+
 #include "weak_ptr_factory.h"
 
 namespace should_succeed {

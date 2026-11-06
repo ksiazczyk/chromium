@@ -1,0 +1,4 @@
+# Docerion header of class_with_incomplete_type.txt.
+type: test
+title: Class with incomplete type expected errors
+summary: Expected compiler output reporting the incomplete type error for the class_with_incomplete_type test.

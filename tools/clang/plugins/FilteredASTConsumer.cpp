@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilteredASTConsumer implementation
+// summary: Implements an AST consumer that filters top-level declarations and skips system headers, except where macros defined in non-system files expand.
+// ---
+
 #include "FilteredASTConsumer.h"
 
 #include <memory>

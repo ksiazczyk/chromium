@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsafeBuffersPlugin implementation
+// summary: Implements the unsafe-buffers clang plugin that checks unsafe buffer and libc operations, loading path-prefix suppression configuration files.
+// ---
+
 #include <algorithm>
 
 #include "DiagnosticConsumer.h"

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build file for the pass_to_move tool
+# summary: CMake build definition that compiles PassToMove.cpp into the pass_to_move executable and links it against LLVM and clang libraries.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

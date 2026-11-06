@@ -1,0 +1,4 @@
+# Docerion header of cstdint.
+type: test
+title: Faux cstdint system header test fixture
+summary: Minimal mock cstdint header providing uintptr_t, uint8_t and int8_t aliases for the clang plugin's system-header tests.

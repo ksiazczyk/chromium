@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsafe buffers clean header fixture
+// summary: Test header mixing guarded and unguarded unsafe buffer accesses to verify warning behavior in clean files.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_BUFFERS_CLEAN_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_BUFFERS_CLEAN_H_
 

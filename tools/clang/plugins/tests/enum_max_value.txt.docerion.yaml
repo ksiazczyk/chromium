@@ -1,0 +1,4 @@
+# Docerion header of enum_max_value.txt.
+type: test
+title: Expected warnings for enum max value test
+summary: Expected plugin warning output for the enum max value test case, listing the kMaxValue enumerator diagnostics.

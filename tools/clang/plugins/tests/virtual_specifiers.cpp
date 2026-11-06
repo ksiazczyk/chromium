@@ -5,6 +5,12 @@
 // Tests for chromium style checks for virtual/override/final specifiers on
 // virtual methods.
 
+// ---docerion
+// type: test
+// title: virtual_specifiers plugin test input
+// summary: C++ test fixture exercising chromium-style checks for virtual, override, and final specifiers, including macro-based specifiers and testing namespace exceptions.
+// ---
+
 // Note: This is not actual windows.h but the stub file in system/windows.h
 #include <windows.h>
 

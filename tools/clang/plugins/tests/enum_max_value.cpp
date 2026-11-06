@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enum max value plugin test
+// summary: C++ test case exercising the Chromium clang plugin's kMaxValue enum check with valid and invalid enum definitions.
+// ---
+
 // Don't warn for unscoped enums (for now).
 enum UnscopedEnumIgnored {
   kMaxValue = -1,

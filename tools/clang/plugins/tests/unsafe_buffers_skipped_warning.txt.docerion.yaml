@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_skipped_warning.txt.
+type: test
+title: Expected output for the unsafe_buffers skipped warning test
+summary: Empty expected-diagnostics file asserting the skipped warning test case produces no plugin warnings.

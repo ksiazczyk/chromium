@@ -1,0 +1,4 @@
+# Docerion header of atomic.
+type: test
+title: Faux std::atomic system header test fixture
+summary: Faux std::atomic header used as a system-header fixture for the clang plugin tests, modelling atomic's non-copyable and trivially-copyable requirements.

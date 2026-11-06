@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overridden methods test header
+// summary: Test header declaring base and derived classes used to check overridden method style warnings in the Chromium Clang plugin.
+// ---
+
 #ifndef OVERRIDDEN_METHODS_H_
 #define OVERRIDDEN_METHODS_H_
 

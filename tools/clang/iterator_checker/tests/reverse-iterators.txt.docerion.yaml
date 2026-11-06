@@ -1,0 +1,4 @@
+# Docerion header of reverse-iterators.txt.
+type: test
+title: Reverse iterators expected errors
+summary: Expected diagnostic output for the reverse-iterators test case, effectively empty because reverse iterators are not yet supported.

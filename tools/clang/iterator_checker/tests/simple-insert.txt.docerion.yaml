@@ -1,0 +1,4 @@
+# Docerion header of simple-insert.txt.
+type: test
+title: Simple insert expected errors
+summary: Expected iterator-checker error output for the simple-insert test case, including an iterator mismatch error.

@@ -1,0 +1,4 @@
+# Docerion header of strict_deps_test.txt.
+type: test
+title: Strict deps test expected diagnostics
+summary: Expected compiler errors and fix suggestions produced by the strict deps plugin test case.

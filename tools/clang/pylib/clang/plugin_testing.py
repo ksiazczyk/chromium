@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test harness for clang plugins
+# summary: Provides a reusable harness that runs clang plugin tests on C++ and Objective-C files and compares actual against expected output.
+# ---
+
 import difflib
 import glob
 import os

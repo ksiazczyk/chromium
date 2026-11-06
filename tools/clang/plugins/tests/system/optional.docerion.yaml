@@ -1,0 +1,4 @@
+# Docerion header of optional.
+type: test
+title: Faux std::optional system header test fixture
+summary: Mock std::optional template used as a system-header fixture in the clang plugin tests.

@@ -1,0 +1,4 @@
+# Docerion header of inter-container-iterator-comparison.txt.
+type: test
+title: Expected errors for inter-container-iterator-comparison
+summary: Expected iterator-checker diagnostics for the inter-container comparison test, listing three potentially invalid iterator comparison errors.

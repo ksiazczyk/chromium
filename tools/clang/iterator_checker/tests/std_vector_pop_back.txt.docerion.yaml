@@ -1,0 +1,4 @@
+# Docerion header of std_vector_pop_back.txt.
+type: test
+title: Expected diagnostics for std_vector_pop_back.cpp
+summary: Expected iterator-checker output for the std_vector_pop_back.cpp test, reporting one potentially invalid iterator use.

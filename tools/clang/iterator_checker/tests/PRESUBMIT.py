@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for iterator checker tests
+# summary: Presubmit script that restricts new files in the iterator checker tests directory to .py, .cpp, .txt and .h.
+# ---
+
 """Presubmit script for changes affecting partition_alloc.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

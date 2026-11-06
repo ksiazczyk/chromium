@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unsafe buffers test header with known-bad code
+// summary: Test fixture header for the clang unsafe-buffers plugin containing an intentionally unsafe array access that should not emit an error because it is in a known-bad header.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_BUFFERS_NOT_CLEAN_DIR_STILL_NOT_CLEAN_DIR_2_NOT_CLEAN_HEADER_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_BUFFERS_NOT_CLEAN_DIR_STILL_NOT_CLEAN_DIR_2_NOT_CLEAN_HEADER_H_
 

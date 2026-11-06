@@ -1,0 +1,4 @@
+# Docerion header of test.py.
+type: test
+title: Chrome style plugin test harness
+summary: Python test runner that executes the Chrome style clang plugin tests with result resetting, quiet mode and regex filtering.

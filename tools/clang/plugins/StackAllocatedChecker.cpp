@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackAllocatedChecker implementation
+// summary: Implements checks that classes annotated with STACK_ALLOCATED() are not used as fields of non-stack-allocated classes, with caching and template argument handling.
+// ---
+
 #include "StackAllocatedChecker.h"
 
 #include "clang/AST/Attr.h"

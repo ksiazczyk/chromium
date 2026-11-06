@@ -1,0 +1,4 @@
+# Docerion header of missing_ctor_ignored_base.txt.
+type: test
+title: Missing constructor ignored base expected output
+summary: Empty expected-output file accompanying the missing constructor ignored base plugin test.

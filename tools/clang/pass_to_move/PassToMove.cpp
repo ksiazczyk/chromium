@@ -4,6 +4,12 @@
 //
 // Clang tool to change calls to scoper::Pass() to just use std::move().
 
+// ---docerion
+// type: source
+// title: Clang tool rewriting scoper::Pass() calls to std::move()
+// summary: Clang AST-matching tool that rewrites calls to scoper::Pass() into std::move() as part of C++11 modernization and emits serialized replacements.
+// ---
+
 #include <memory>
 #include <string>
 

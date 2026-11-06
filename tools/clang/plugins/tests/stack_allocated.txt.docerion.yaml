@@ -1,0 +1,4 @@
+# Docerion header of stack_allocated.txt.
+type: test
+title: Stack allocated expected errors
+summary: Expected compiler errors for the stack_allocated test, one for each stack-allocated field in a non-stack-allocated class.

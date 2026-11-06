@@ -1,0 +1,4 @@
+# Docerion header of layout_object_methods_edge_cases.txt.
+type: test
+title: Layout object methods edge case expected warnings
+summary: Expected plugin warnings for the edge case test, listing the in-class, template, and local class methods that must call CheckIsNotDestroyed() first.

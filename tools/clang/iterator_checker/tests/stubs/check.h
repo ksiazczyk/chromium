@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Iterator checker test stub for CHECK macros
+// summary: Stub header supplying minimal CHECK, DCHECK, PCHECK and DPCHECK macro implementations so the iterator checker's tests can compile without the real logging library.
+// ---
+
 #ifndef TOOLS_CLANG_ITERATOR_CHECKER_TESTS_STUBS_CHECK_H_
 #define TOOLS_CLANG_ITERATOR_CHECKER_TESTS_STUBS_CHECK_H_
 

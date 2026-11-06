@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilteredASTConsumer header
+// summary: Declares the FilteredASTConsumer base class that limits AST traversal to the current compilation unit and can optionally skip system header declarations.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_FILTEREDASTCONSUMER_H_
 #define TOOLS_CLANG_PLUGINS_FILTEREDASTCONSUMER_H_
 

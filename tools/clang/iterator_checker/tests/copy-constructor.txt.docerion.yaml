@@ -1,0 +1,4 @@
+# Docerion header of copy-constructor.txt.
+type: test
+title: Expected errors for copy-constructor
+summary: Expected iterator-checker diagnostics for the copy-constructor test, reporting three potentially invalid iterator use errors.

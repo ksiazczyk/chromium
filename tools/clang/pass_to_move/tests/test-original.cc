@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Original input for the pass_to_move Clang tool test
+// summary: Input fixture with various Pass() call patterns that the pass_to_move Clang tool should rewrite into std::move() to produce the expected test output.
+// ---
+
 struct A {
   A&& Pass();
 };

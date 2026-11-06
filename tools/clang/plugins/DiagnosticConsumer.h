@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForwardingDiagnosticConsumer header
+// summary: Declares a base diagnostic consumer that wraps another consumer and keeps its error and warning counts in sync.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_DIAGNOSTICCONSUMER_H_
 #define TOOLS_CLANG_PLUGINS_DIAGNOSTICCONSUMER_H_
 

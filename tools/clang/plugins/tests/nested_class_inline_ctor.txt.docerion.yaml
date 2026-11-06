@@ -1,0 +1,4 @@
+# Docerion header of nested_class_inline_ctor.txt.
+type: test
+title: Nested class inline constructor expected warnings
+summary: Expected compiler warnings for complex inline constructors and destructors in the nested class inline constructor test.

@@ -1,0 +1,4 @@
+# Docerion header of invalidate-before-swap-iterators.txt.
+type: test
+title: Expected diagnostics for the invalidate-before-swap-iterators test
+summary: Expected iterator-checker diagnostics for the invalidate-before-swap-iterators test, listing the invalid uses before and after the swap.

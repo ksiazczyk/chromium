@@ -1,0 +1,4 @@
+# Docerion header of stack_allocated.flags.
+type: test
+title: Stack allocated test flags
+summary: Compiler flags enabling the check-stack-allocated plugin check when running the stack_allocated test.

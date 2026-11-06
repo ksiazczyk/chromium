@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Invalidate all iterators test
+// summary: Test case verifying that vector clear invalidates all iterators, while checked iterators remain valid when no invalidating operation occurs.
+// ---
+
 #include <vector>
 
 void InvalidatesAllIterators() {

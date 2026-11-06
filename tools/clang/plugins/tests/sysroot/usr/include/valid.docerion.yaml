@@ -1,0 +1,4 @@
+# Docerion header of valid.
+type: test
+title: valid test fixture header
+summary: Empty test fixture header in the plugin test sysroot representing a valid include path for plugin rule checks.

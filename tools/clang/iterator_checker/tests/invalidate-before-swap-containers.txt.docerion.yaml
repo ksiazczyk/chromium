@@ -1,0 +1,4 @@
+# Docerion header of invalidate-before-swap-containers.txt.
+type: test
+title: Expected diagnostics for the invalidate-before-swap-containers test
+summary: Expected iterator-checker diagnostics for the invalidate-before-swap-containers test, listing two potentially invalid iterator uses after swapping containers.

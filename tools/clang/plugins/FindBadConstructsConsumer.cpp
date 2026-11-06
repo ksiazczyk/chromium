@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindBadConstructsConsumer checks implementation
+// summary: Implements the AST visitor that detects unwanted Chromium C++ constructs such as inline complex constructors, missing virtual keywords, and refcounting issues.
+// ---
+
 #include "FindBadConstructsConsumer.h"
 
 #include "Util.h"

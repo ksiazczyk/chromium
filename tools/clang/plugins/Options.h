@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin options struct
+// summary: Defines the Options struct holding the flags that enable individual clang plugin checks such as check-ipc and check-layout-object-methods.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_OPTIONS_H_
 #define TOOLS_CLANG_PLUGINS_OPTIONS_H_
 

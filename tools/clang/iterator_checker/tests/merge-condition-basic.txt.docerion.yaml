@@ -1,0 +1,4 @@
+# Docerion header of merge-condition-basic.txt.
+type: test
+title: Expected diagnostics for the merge-condition-basic test
+summary: Expected iterator-checker diagnostics for the merge-condition-basic test, with two errors for unchecked iterators after conditional reassignment.

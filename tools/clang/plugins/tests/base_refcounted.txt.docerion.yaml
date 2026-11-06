@@ -1,0 +1,4 @@
+# Docerion header of base_refcounted.txt.
+type: test
+title: Base refcounted expected plugin warnings
+summary: Expected compiler output listing chromium-style warnings for refcounted classes with improper destructors.

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Iterator validity under merge conditions test
+// summary: C++ test case checking iterator validity when invalidation and reassignment happen under the same or different conditions.
+// ---
+
 #include <algorithm>
 #include <vector>
 
