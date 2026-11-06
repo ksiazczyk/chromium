@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePowerAdaptiveChargingEnabled policy definition
+# summary: Defines the deprecated ChromeOS device policy that allows an adaptive charging model to hold charging to extend battery life.
+# ---
+
 caption: Enable adaptive charging model to hold charging process to extend battery
   life
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: ProxyOverrideRules policy definition
+# summary: Defines the ProxyOverrideRules policy that selects proxies per destination URL and network conditions, taking precedence over ProxySettings.
+# ---
+
 caption: Proxy override rules
 desc: |-
   Configures rules that select which proxy the browser uses based on the destination URL and specific network conditions.

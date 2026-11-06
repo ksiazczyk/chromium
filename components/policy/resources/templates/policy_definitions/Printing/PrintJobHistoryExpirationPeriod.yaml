@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintJobHistoryExpirationPeriod policy definition
+# summary: Defines the policy setting how many days print jobs metadata is stored on ChromeOS devices, with a default period of 90 days.
+# ---
+
 caption: Set the time period in days for storing print jobs metadata
 desc: |-
   This policy controls how long print jobs metadata is stored on the device, in days.

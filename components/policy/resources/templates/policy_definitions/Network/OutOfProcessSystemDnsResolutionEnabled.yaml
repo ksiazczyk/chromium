@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Out-of-process system DNS resolution policy
+# summary: Defines the Chrome policy controlling whether system DNS resolution runs outside the network process.
+# ---
+
 owners:
 - mpdenton@google.com
 - file://services/network/OWNERS

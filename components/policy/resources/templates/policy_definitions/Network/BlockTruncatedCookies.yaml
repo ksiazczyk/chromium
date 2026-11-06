@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block truncated cookies
+# summary: Deprecated policy that offered a temporary opt-out for Chrome's handling of JavaScript-set cookies containing control characters.
+# ---
+
 caption: Block truncated cookies
 default: true
 deprecated: true

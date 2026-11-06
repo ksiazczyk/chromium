@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IdleAction policy definition
+# summary: Defines the deprecated ChromeOS policy specifying the fallback action when idle delay is reached, superseded by PowerManagementIdleSettings.
+# ---
+
 caption: Action to take when the idle delay is reached
 deprecated: true
 desc: |-

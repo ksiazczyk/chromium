@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ProtectedContentIdentifiersAllowed policy definition
+# summary: Defines a Chrome boolean policy that controls whether websites may use protected content identifiers to enable higher quality protected content playback.
+# ---
+
 caption: Allows web pages to use identifiers for the purpose of protected content playback
 owners:
 - vpasupathy@chromium.org

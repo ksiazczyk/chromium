@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAuthenticationRemoteDesktopAllowedOrigins policy definition
+# summary: Defines the policy listing remote desktop client origins allowed to execute proxied WebAuthn requests for relying party IDs they could not normally claim.
+# ---
+
 caption: Allowed Origins for Proxied WebAuthn Requests from Remote Desktop Applications.
 desc: |-
   A list of origins of remote desktop client apps that may execute WebAuthn API

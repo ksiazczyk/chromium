@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DNS-over-HTTPS included domains policy definition
+# summary: Defines a ChromeOS policy listing domains, as FQDNs or wildcard suffixes, that should be resolved using DNS-over-HTTPS.
+# ---
+
 caption: Specify domains to be resolved using DNS-over-HTTPS
 desc: |-
   List of domains to be resolved using DNS-over-HTTPS. Other domains not included in the list will not be resolved using DNS-over-HTTPS. This policy is ignored when the secure DNS mode is set to off (always use plain-text DNS).

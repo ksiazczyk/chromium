@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrivacySandboxIpProtectionEnabled policy definition
+# summary: Defines the deprecated Chrome policy for the Privacy Sandbox IP Protection feature, including enterprise considerations about proxied traffic and the Masked Domain List.
+# ---
+
 caption: Choose whether the <ph name="PRIVACY_SANDBOX_NAME">Privacy Sandbox</ph> IP Protection feature should be enabled.
 default: null
 deprecated: true

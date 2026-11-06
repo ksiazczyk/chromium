@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Restrict the range of local UDP ports used by WebRTC
+# summary: Chrome policy that restricts the local UDP port range WebRTC may use, for example 10000-11999, when a valid range is set.
+# ---
+
 caption: Restrict the range of local UDP ports used by WebRTC
 desc: |-
   If the policy is set, the UDP port range used by WebRTC is restricted to the specified port interval (endpoints included).

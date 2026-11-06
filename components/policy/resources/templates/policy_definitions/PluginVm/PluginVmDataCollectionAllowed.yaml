@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVmDataCollectionAllowed policy definition
+# summary: Deprecated policy controlling whether PluginVm may collect usage data for product analytics on ChromeOS.
+# ---
+
 caption: Allow <ph name="PLUGIN_VM_NAME">PluginVm</ph> Product Analytics
 deprecated: true
 desc: |-

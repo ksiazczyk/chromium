@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowScreenWakeLocks policy definition
+# summary: Defines the ChromeOS policy that allows screen wake locks for power management or demotes such requests to system wake locks.
+# ---
+
 caption: Allow screen wake locks
 default: true
 desc: |-

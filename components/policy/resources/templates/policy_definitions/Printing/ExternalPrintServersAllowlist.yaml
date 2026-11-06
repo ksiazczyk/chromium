@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enabled external print servers
+# summary: Defines a ChromeOS policy that restricts which external print servers are queried by matching server IDs from the ExternalPrintServers file.
+# ---
+
 caption: Enabled external print servers
 desc: |-
   Specifies the subset of print servers that will be queried for server printers.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable firewall traversal from remote access host
+# summary: Defines a Chrome policy that lets remote access hosts use STUN servers for firewall traversal, allowing remote clients to connect even across firewalls.
+# ---
+
 caption: Enable firewall traversal from remote access host
 desc: |-
   Setting the policy to Enabled or leaving it unset allows the usage of STUN servers, letting remote clients discover and connect to this machine, even if separated by a firewall.

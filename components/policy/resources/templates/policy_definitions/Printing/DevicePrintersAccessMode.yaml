@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device printers configuration access policy
+# summary: Defines a ChromeOS device policy that selects whether device printers are restricted by a blocklist, limited to an allowlist, or all allowed.
+# ---
+
 caption: Device printers configuration access policy.
 desc: |-
   Setting the policy designates which access policy applies to bulk printer configuration, controlling which printers from <ph name="DEVICE_PRINTERS_POLICY_NAME">DevicePrinters</ph> are available for users.

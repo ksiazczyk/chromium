@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLs for which local IPs are exposed in WebRTC ICE candidates
+# summary: Chrome policy listing URL patterns whose origins expose local IP addresses in WebRTC ICE candidates instead of concealing them with mDNS hostnames.
+# ---
+
 caption: URLs for which local IPs are exposed in WebRTC ICE candidates
 desc: |-
   Patterns in this list will be matched against the security origin of the requesting URL.

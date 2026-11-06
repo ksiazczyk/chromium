@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: QuickAnswersEnabled policy definition
+# summary: Defines the QuickAnswersEnabled boolean policy that controls whether Quick Answers may access selected content and send it to the server on Chrome OS.
+# ---
+
 caption: Enable Quick Answers
 default: true
 desc: |-

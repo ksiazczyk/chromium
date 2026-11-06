@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default background graphics printing mode
+# summary: Chrome policy definition that overrides the default background graphics printing mode, either enabled or disabled.
+# ---
+
 caption: Default background graphics printing mode
 desc: Overrides default background graphics printing mode.
 example_value: enabled

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAdvancedBatteryChargeModeDayConfig policy definition
+# summary: Defines the ChromeOS device policy that sets per-day start and end times for advanced battery charge mode charging windows.
+# ---
+
 caption: Set advanced battery charge mode day config
 desc: |-
   If <ph name="DEVICE_ADVANCED_BATTERY_CHARGE_MODE_ENABLED_POLICY_NAME">DeviceAdvancedBatteryChargeModeEnabled</ph> is set to Enabled, then setting <ph name="DEVICE_ADVANCED_BATTERY_CHARGE_MODE_DAY_CONFIG_POLICY_NAME">DeviceAdvancedBatteryChargeModeDayConfig</ph> lets you set up advanced battery charge mode. From <ph name="CHARGE_START_TIME_FIELD_NAME">charge_start_time</ph> until <ph name="CHARGE_END_TIME_FIELD_NAME">charge_end_time</ph>, the device's battery will only be allowed to charge to full once. For the remainder of the period, the batteries are kept in a lower charging state. The value for <ph name="CHARGE_START_TIME_FIELD_NAME">charge_start_time</ph> must be less than <ph name="CHARGE_END_TIME_FIELD_NAME">charge_end_time</ph>.

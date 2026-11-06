@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: OopPrintDriversAllowed policy definition
+# summary: Defines the OopPrintDriversAllowed policy that controls whether Chrome performs platform printing tasks in a separate service process instead of the browser process.
+# ---
+
 caption: Out-of-process print drivers allowed
 default: true
 desc: |-

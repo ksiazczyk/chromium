@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screen dim delay when running on battery power
+# summary: Defines the deprecated ChromeOS policy for the screen dim delay on battery power, replaced by PowerManagementIdleSettings in ChromeOS 85.
+# ---
+
 caption: Screen dim delay when running on battery power
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Idle warning delay when running on AC power
+# summary: Deprecated ChromeOS policy that set the idle warning delay before a logout or shutdown warning dialog on AC power, replaced by PowerManagementIdleSettings.
+# ---
+
 caption: Idle warning delay when running on AC power
 deprecated: true
 desc: |-

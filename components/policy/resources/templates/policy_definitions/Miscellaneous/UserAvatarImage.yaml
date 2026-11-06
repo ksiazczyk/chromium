@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User avatar image policy
+# summary: Defines the ChromeOS policy setting the login-screen avatar image via a URL and SHA-256 hash, restricted to JPEG files of at most 512kB.
+# ---
+
 caption: User avatar image
 desc: |-
   This policy allows you to configure the avatar image representing the user on the login screen. The policy is set by specifying the URL from which <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> can download the avatar image and a cryptographic hash used to verify the integrity of the download. The image must be in JPEG format, its size must not exceed 512kB. The URL must be accessible without any authentication.

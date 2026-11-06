@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAppInstallByUserEnabled Chrome policy definition
+# summary: Defines the policy controlling whether users can install web apps through the browser and its effect on Chrome Sync of apps data.
+# ---
+
 caption: Enable User Web App Install From Browser
 
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IdleActionAC policy definition
+# summary: Defines the deprecated ChromeOS policy specifying the action taken on idle delay while on AC power, superseded by PowerManagementIdleSettings.
+# ---
+
 caption: Action to take when the idle delay is reached while running on AC power
 deprecated: true
 desc: |-

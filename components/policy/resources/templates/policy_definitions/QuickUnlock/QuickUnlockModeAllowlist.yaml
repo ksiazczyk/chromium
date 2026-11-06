@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allowed quick unlock modes policy
+# summary: Defines the enum-list policy controlling which quick unlock modes may unlock the lock screen.
+# ---
+
 caption: Configure allowed quick unlock modes
 default_for_enterprise_users: []
 desc: |-

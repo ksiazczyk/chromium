@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostClientDomain policy (deprecated)
+# summary: Deprecated policy that required remote access clients to belong to a single domain, replaced by RemoteAccessHostClientDomainList.
+# ---
+
 caption: Configure the required domain name for remote access clients
 deprecated: true
 desc: This policy is deprecated. Please use <ph name="REMOTE_ACCESS_HOST_CLIENT_DOMAIN_LIST_POLICY_NAME">RemoteAccessHostClientDomainList</ph>

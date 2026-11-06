@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PIN auto-submit on lock and login screen policy
+# summary: Defines the ChromeOS policy that enables or disables PIN auto-submit on the lock and login screen.
+# ---
+
 caption: Enable PIN auto-submit feature on the lock and login screen.
 default_for_enterprise_users: false
 desc: |-

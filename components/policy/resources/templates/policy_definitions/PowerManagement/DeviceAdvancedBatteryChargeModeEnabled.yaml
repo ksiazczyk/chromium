@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAdvancedBatteryChargeModeEnabled policy definition
+# summary: Defines the ChromeOS device policy that enables advanced battery charge mode to prolong battery life by limiting full charges to once per day.
+# ---
+
 caption: Enable advanced battery charge mode
 desc: |-
   The policy prolongs the usable life of a system batteries by charging them to full capacity only once per day. For the remainder of the day, batteries are kept in a lower charge state that is better for storage, even when the system is plugged into a power source.

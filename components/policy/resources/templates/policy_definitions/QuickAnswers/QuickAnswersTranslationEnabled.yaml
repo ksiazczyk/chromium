@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: QuickAnswersTranslationEnabled policy definition
+# summary: Defines the QuickAnswersTranslationEnabled boolean policy that controls whether Quick Answers may send selected content to the server to get translation results on Chrome OS.
+# ---
+
 caption: Enable Quick Answers Translation
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NTLM authentication for SMB shares policy
+# summary: Defines the ChromeOS policy that enables or disables NTLM authentication for SMB mounts.
+# ---
+
 caption: Controls enabling NTLM as an authentication protocol for SMB mounts
 default_for_enterprise_users: false
 desc: |-

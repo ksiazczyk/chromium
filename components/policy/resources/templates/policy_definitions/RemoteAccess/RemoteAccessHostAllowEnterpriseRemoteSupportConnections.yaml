@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enterprise remote support connections policy
+# summary: Defines the policy that allows or blocks enterprise admin remote support sessions to managed ChromeOS devices via the admin console.
+# ---
+
 caption: Allow enterprise remote support connections to this machine
 default: true
 desc: |-

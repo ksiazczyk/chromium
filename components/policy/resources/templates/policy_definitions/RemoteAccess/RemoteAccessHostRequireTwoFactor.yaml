@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable two-factor authentication for remote access hosts
+# summary: Defines a deprecated Chrome policy that required a two-factor code instead of a user-defined PIN for accessing remote access hosts.
+# ---
+
 caption: Enable two-factor authentication for remote access hosts
 deprecated: true
 desc: |-

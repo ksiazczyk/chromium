@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrinterTypeDenyList policy definition
+# summary: Defines a policy that disables printer types on a deny list, such as extension, PDF, local, or cloud printers, effectively restricting available print destinations.
+# ---
+
 caption: Disable printer types on the deny list
 desc: |-
   The printers of types placed on the deny list will be disabled from being discovered or having their capabilities fetched.

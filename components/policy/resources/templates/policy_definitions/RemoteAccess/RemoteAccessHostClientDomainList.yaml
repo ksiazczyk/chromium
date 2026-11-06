@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostClientDomainList policy
+# summary: Defines the list of domains from which remote access clients are allowed to connect to the host.
+# ---
+
 caption: Configure the required domain names for remote access clients
 desc: |-
   Setting the policy specifies the client domain names that are imposed on remote access clients, and users can't change them. Only clients from one of the specified domains can connect to the host.

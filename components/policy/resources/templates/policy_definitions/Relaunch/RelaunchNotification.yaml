@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RelaunchNotification policy definition
+# summary: Chrome policy choosing whether users see a recurring prompt that a relaunch or restart is recommended or required to apply a pending update.
+# ---
+
 caption: Notify a user that a browser relaunch or device restart is recommended or
   required
 desc: |-

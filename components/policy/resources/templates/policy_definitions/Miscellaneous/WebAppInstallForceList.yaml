@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAppInstallForceList Chrome policy definition
+# summary: Defines the policy listing web apps that are silently force-installed without user interaction and cannot be uninstalled or turned off.
+# ---
+
 caption: Configure list of force-installed Web Apps
 desc: |-
   Setting the policy specifies a list of web apps that install silently, without user interaction, and which users can't uninstall or turn off.

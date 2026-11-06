@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Weak lock screen PIN allowance policy
+# summary: Defines the policy controlling whether users may set weak, easy-to-guess lock screen PINs.
+# ---
+
 caption: Enable users to set weak PINs for the lock screen PIN
 default: null
 desc: |-

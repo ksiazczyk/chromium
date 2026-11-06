@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVmLicenseKey policy definition
+# summary: Deprecated device policy that set the PluginVm license key and was removed in M94.
+# ---
+
 caption: <ph name="PLUGIN_VM_NAME">PluginVm</ph> license key
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WallpaperGooglePhotosIntegrationEnabled policy definition
+# summary: Defines a ChromeOS policy that allows or blocks selecting a Google Photos image as the user's wallpaper in the personalization app.
+# ---
+
 caption: Wallpaper selection from Google Photos
 default: true
 desc: |-

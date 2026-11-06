@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Edu Coexistence Terms of Service version policy
+# summary: Defines the ChromeOS policy that specifies the valid version of Edu Coexistence Terms of Service, compared against the parent's last accepted version to prompt permission renewal for Family Link users.
+# ---
+
 caption: The valid version of Edu Coexistence Terms of Service
 desc: |-
   This policy indicates current valid version of Edu Coexistence Terms of Service.

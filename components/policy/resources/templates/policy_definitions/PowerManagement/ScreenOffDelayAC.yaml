@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screen off delay when running on AC power
+# summary: Defines the deprecated ChromeOS policy for the screen off delay on AC power, replaced by PowerManagementIdleSettings in ChromeOS 85.
+# ---
+
 caption: Screen off delay when running on AC power
 deprecated: true
 desc: |-

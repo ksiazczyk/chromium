@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Login screen power management policy definition
+# summary: Defines the ChromeOS device policy that controls power management on the sign-in screen, including idle delays, lid-close actions, and screen dim scaling.
+# ---
+
 caption: Power management on the login screen
 desc: |-
   Setting the policy lets you set how <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> behaves when there is no user activity for some amount of time while the sign-in screen appears. The policy controls multiple settings. For their individual semantics and value ranges, see the corresponding policies that control power management within a session.

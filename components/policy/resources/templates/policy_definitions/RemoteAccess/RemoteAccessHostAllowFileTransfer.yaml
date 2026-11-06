@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Remote access file transfer policy
+# summary: Defines the policy allowing users connected to a remote access host to transfer files between the client and the host.
+# ---
+
 caption: Allow remote access users to transfer files to/from the host
 default: true
 desc: |-

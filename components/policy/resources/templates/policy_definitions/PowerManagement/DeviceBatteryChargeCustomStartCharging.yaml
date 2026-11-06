@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceBatteryChargeCustomStartCharging policy definition
+# summary: Defines the ChromeOS device policy setting the battery percentage at which charging starts in custom battery charge mode.
+# ---
+
 caption: Set battery charge custom start charging in percent
 desc: |-
   If <ph name="DEVICE_BATTERY_CHARGE_MODE_NAME">DeviceBatteryChargeMode</ph> is set to <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_MODE_NAME">"custom"</ph>, then setting <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_START_CHARGING_POLICY_NAME">DeviceBatteryChargeCustomStartCharging</ph> customizes when the battery starts charging, based the percentage of battery charge. The value must be at least 5 percentage points below <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_STOP_CHARGING_POLICY_NAME">DeviceBatteryChargeCustomStopCharging</ph>.

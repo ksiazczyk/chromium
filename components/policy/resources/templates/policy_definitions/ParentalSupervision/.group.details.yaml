@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Parental supervision policy group details
+# summary: Group metadata describing the ParentalSupervision policy group, whose policies apply to child accounts and are configured by the Kids API Server rather than the admin console.
+# ---
+
 caption: Parental supervision settings
 desc: |-
   Controls parental supervision policies, that are applied to child accounts only.

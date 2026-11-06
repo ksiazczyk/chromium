@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RelaunchFastIfOutdated policy definition
+# summary: Chrome policy that overrides the notification period to 2 hours when a pending update requires a relaunch and the running version is outdated beyond a minimum release age in days.
+# ---
+
 caption: Relaunch fast if outdated
 desc: |-
   Specifies the minimum release age beyond which relaunch notifications are more aggressive. The age is calculated from the time the currently-running version was last served to clients.

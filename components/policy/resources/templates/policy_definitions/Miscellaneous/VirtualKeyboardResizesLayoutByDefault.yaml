@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VirtualKeyboardResizesLayoutByDefault policy definition
+# summary: Defines a policy that makes the virtual keyboard resize the layout viewport by default unless a page requests different behavior via meta tag or the Virtual Keyboard API.
+# ---
+
 caption: The virtual keyboard resizes the layout viewport by default
 default: false
 desc: "Setting the policy to True causes the virtual keyboard to resize the layout\

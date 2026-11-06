@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: Proxy policy atomic groups
+# summary: Groups the related proxy policies such as ProxyMode, ProxyServer and ProxySettings into the Proxy atomic policy group.
+# ---
+
 Proxy:
   caption: Proxy
   policies:

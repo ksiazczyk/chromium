@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NetBIOS share discovery policy
+# summary: Defines the ChromeOS policy controlling whether share discovery uses the NetBIOS protocol.
+# ---
+
 caption: Controls Network File Share discovery via <ph name="NETBIOS_NAME">NetBIOS</ph>
 default_for_enterprise_users: false
 desc: |-

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Screencast policy group details
+# summary: Group metadata for the Screencast policy definitions, providing the group caption and description.
+# ---
+
 caption: Screencast
 desc: Controls policies for Screencast.

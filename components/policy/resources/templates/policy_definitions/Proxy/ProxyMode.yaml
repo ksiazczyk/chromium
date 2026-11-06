@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: ProxyMode policy definition (deprecated)
+# summary: Defines the deprecated ProxyMode policy for choosing how proxy server settings are specified, superseded by the ProxySettings policy.
+# ---
+
 caption: Choose how to specify proxy server settings
 deprecated: true
 desc: |-

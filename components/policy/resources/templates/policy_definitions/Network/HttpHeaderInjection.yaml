@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HTTP header injection policy definition
+# summary: Defines a policy that injects custom HTTP headers into requests matching URL patterns, with limits and security caveats.
+# ---
+
 caption: Configure HTTP Header Injection for specific URL patterns
 desc: |-
   This policy enables defining a list of rules to inject custom HTTP headers into web requests matching specific URL patterns. Headers set by this policy take precedence over those that initially were present in the request, as well as modifications attempted by users or extensions.

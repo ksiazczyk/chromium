@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: InsecurePrivateNetworkRequestsAllowed policy definition
+# summary: Defines the deprecated boolean policy that controls whether websites may make insecure requests to more-private network endpoints, bypassing Private Network Access checks.
+# ---
+
 caption: Specifies whether to allow websites to make requests to more-private network
   endpoints in an insecure manner
 deprecated: true

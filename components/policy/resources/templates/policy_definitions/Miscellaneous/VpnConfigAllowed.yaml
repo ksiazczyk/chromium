@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VpnConfigAllowed policy definition
+# summary: Defines a ChromeOS policy that lets users disconnect or modify VPN connections or disables the user interfaces for managing them.
+# ---
+
 caption: Allow the user to manage VPN connections
 desc: |-
   Setting the policy to Enabled or leaving it unset lets users manage (disconnect or modify) VPN connections. If the VPN connection is created using a VPN app, the UI inside the app isn't affected. So, users might still be able to use the app to modify the VPN connection. Use this policy with the Always on VPN feature, which lets the admin decide to establish a VPN connection when starting a device.

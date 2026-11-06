@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Policy atomic groups
+# summary: Lists atomic policy groups, currently grouping socket pool size policies such as MaxConnectionsPerProxy under SocketPoolSizeSettings.
+# ---
+
 SocketPoolSizeSettings:
   caption: Socket pool size settings
   policies:

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WindowOcclusionEnabled policy
+# summary: Defines the WindowOcclusionEnabled policy that toggles Chrome's detection of covered windows to suspend painting and reduce CPU and power use.
+# ---
+
 caption: Enable Window Occlusion
 default: true
 desc: |-

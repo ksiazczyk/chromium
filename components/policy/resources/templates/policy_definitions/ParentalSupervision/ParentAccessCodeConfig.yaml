@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Parent Access Code configuration policy
+# summary: Defines the ChromeOS policy supplying configuration for generating and verifying Parent Access Codes on child devices, with rotation across future, current, and old configs.
+# ---
+
 caption: Parent Access Code Configuration
 desc: |-
   This policy specifies configuration that is used to generate and verify Parent Access Code.

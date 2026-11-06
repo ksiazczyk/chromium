@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: Proxy policy group details
+# summary: Defines the caption and shared description for the Chrome Proxy policy group covering proxy server settings.
+# ---
+
 caption: Proxy server
 desc: |-
   Allows you to specify the proxy server used by <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> and prevents users from changing proxy settings.

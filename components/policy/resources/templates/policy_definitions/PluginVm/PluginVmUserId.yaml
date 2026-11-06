@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVmUserId policy definition
+# summary: Deprecated policy specifying the PluginVm licensing user id for the device.
+# ---
+
 caption: <ph name="PLUGIN_VM_NAME">PluginVm</ph> user id
 deprecated: true
 desc: This policy specifies the <ph name="PLUGIN_VM_NAME">PluginVm</ph> licensing

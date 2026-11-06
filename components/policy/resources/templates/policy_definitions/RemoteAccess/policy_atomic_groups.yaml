@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccess policy atomic groups
+# summary: Defines the RemoteAccess atomic group for Chromium policy templates, listing all RemoteAccess host and client policies that belong together.
+# ---
+
 RemoteAccess:
   caption: Remote access
   policies:

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAudioOutputBufferingEnabled Chrome policy definition
+# summary: Defines the policy controlling whether the browser uses adaptive buffering for Web Audio to reduce glitches at the cost of added latency.
+# ---
+
 caption: Enable adaptive buffering for Web Audio
 desc: |-
   This policy controls whether the browser uses adaptive buffering for

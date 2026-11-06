@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User avatar customization selectors policy
+# summary: Defines the ChromeOS policy allowing or blocking user avatar customization from local files, the camera, or the Google profile image.
+# ---
+
 caption: Allow customization of user avatar image using Google profile image or local images.
 desc: |-
   If this policy is disabled, the user's <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> avatar image cannot be set using local files, the device camera, or the user's Google profile image.

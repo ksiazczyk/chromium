@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Template for the 'client-name' Internet Printing Protocol attribute
+# summary: Defines a ChromeOS device policy that sets a template for the IPP client-name attribute in print jobs, with device placeholder variables and character length rules.
+# ---
+
 caption: Template for the <ph name="CLIENT_NAME_IPP_ATTRIBUTE">'client-name'</ph>
   <ph name="INTERNET_PRINTING_PROTOCOL">Internet Printing Protocol</ph> <ph name="IPP_ATTRIBUTE">attribute</ph>
 desc: "This policy controls the value of the <ph name=\"CLIENT_INFO_IPP_ATTRIBUTE\">'client-info'</ph>\

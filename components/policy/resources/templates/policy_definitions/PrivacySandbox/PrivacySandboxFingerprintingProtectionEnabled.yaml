@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrivacySandboxFingerprintingProtectionEnabled policy definition
+# summary: Defines the deprecated Chrome policy for enabling Privacy Sandbox Fingerprinting Protection in Incognito mode, marked for removal in M146.
+# ---
+
 # This policy is deprecated and should be removed in M146 (crbug.com/454935785).
 caption: Choose whether the <ph name="PRIVACY_SANDBOX_NAME">Privacy Sandbox</ph> Fingerprinting Protection feature is to be enabled in Incognito mode.
 deprecated: true

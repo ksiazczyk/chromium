@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WatermarkStyle Chrome policy definition
+# summary: Defines the policy letting administrators customize DLP watermark appearance, including fill and outline opacity, font size, and timestamp time zone.
+# ---
+
 caption: Configure Custom Watermark Settings
 desc: |-
   Allows administrators to customize the appearance of watermarks applied by Data Loss Prevention (DLP) rules. This includes setting its fill/outline opacity, defining its font size, and setting its timestamp time zone.

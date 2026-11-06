@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintPdfAsImageDefault policy definition
+# summary: Defines the policy that makes the Print as image option the default for PDF print previews, effective only when PrintPdfAsImageAvailability is enabled.
+# ---
+
 caption: Print PDF as Image Default
 default: false
 desc: |-

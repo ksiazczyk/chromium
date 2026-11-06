@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Specify whether video activity affects power management
+# summary: ChromeOS policy definition controlling whether video playback prevents idle actions, noting that video in Android apps is not taken into consideration.
+# ---
+
 arc_support: Video playing in Android apps is not taken into consideration, even if
   this policy is set to <ph name="TRUE">True</ph>.
 caption: Specify whether video activity affects power management

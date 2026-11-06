@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User-Agent Client Hints GREASE Update policy
+# summary: Defines the deprecated Chrome policy controlling the updated User-Agent Client Hints GREASE algorithm, which has been on by default since M103.
+# ---
+
 caption: Control the User-Agent Client Hints GREASE Update feature.
 default: true
 deprecated: true

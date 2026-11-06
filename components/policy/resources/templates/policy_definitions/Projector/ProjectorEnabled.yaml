@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screencast enablement policy for enterprise users
+# summary: ChromeOS policy definition that enables or disables Screencast for enterprise users, defaulting to enabled.
+# ---
+
 caption: Enable Screencast
 default: true
 desc: |-

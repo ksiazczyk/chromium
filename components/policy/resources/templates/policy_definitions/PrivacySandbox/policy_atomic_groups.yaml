@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Privacy Sandbox policy atomic group
+# summary: Maps the ad topics, site-enabled ads, and ad measurement policies into the PrivacySandbox atomic group.
+# ---
+
 PrivacySandbox:
   caption: Privacy sandbox settings controls
   policies:

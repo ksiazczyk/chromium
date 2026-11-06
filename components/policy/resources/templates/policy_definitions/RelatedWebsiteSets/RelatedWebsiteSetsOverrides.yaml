@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RelatedWebsiteSetsOverrides policy definition
+# summary: Defines the Chrome policy for overriding the browser's Related Website Sets list via additions and replacements, deprecated as of Chrome 144.
+# ---
+
 caption: Override Related Website Sets.
 deprecated: true
 default: {}

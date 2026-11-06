@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Send username and filename to native printers
+# summary: ChromeOS policy definition controlling whether username and filename are sent to native printers with every print job.
+# ---
+
 caption: Send username and filename to native printers
 desc: |-
   Send username and filename to native printers server with every print job. The default is not to send.

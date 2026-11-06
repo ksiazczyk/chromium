@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow WebDriver to Override Incompatible Policies
+# summary: Deprecated Chrome policy that allowed WebDriver to override incompatible policies like SitePerProcess and IsolateOrigins; it was removed in M80.
+# ---
+
 caption: Allow WebDriver to Override Incompatible Policies
 deprecated: true
 desc: |2-

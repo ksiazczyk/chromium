@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Protected content atomic policy group
+# summary: Declares the ProtectedContent atomic group and lists ProtectedContentIdentifiersAllowed as its member policy.
+# ---
+
 ProtectedContent:
   caption: Protected content controls
   policies:

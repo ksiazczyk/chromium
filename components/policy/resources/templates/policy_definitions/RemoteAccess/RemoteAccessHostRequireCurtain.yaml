@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable curtaining of remote access hosts
+# summary: Defines a Chrome policy that disables the remote access host's physical input and output devices during a remote connection when enabled.
+# ---
+
 caption: Enable curtaining of remote access hosts
 desc: |-
   Setting the policy to Enabled turns off remote access hosts' physical input and output devices during a remote connection.

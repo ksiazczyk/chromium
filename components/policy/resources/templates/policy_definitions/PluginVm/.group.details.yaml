@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: PluginVm policy group details
+# summary: Group metadata giving the PluginVm policy group its caption and description for the ChromeOS policy templates.
+# ---
+
 caption: PluginVm
 desc: Configure <ph name="PLUGIN_VM_NAME">PluginVm</ph> related policies.

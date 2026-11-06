@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceUsbPowerShareEnabled policy definition
+# summary: Defines the ChromeOS device policy that enables or disables USB power share charging of external devices during sleep and shutdown.
+# ---
+
 caption: Enable USB power share
 desc: |-
   Setting the policy to Enabled turns on the USB power share power management policy.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default printing color mode
+# summary: ChromeOS policy definition that sets the default printing color mode to color or monochrome.
+# ---
+
 caption: Default printing color mode
 desc: Setting the policy overrides the default printing color mode. If the mode is
   unavailable, this policy is ignored.

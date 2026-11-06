@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WelcomePageOnOSUpgradeEnabled policy
+# summary: Defines the deprecated WelcomePageOnOSUpgradeEnabled policy that controlled re-showing the welcome page after an OS upgrade on Windows Chrome 45-62.
+# ---
+
 caption: Enable showing the welcome page on the first browser launch following OS
   upgrade
 deprecated: true

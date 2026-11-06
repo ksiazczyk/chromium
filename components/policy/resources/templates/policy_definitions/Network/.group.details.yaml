@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Network settings policy group details
+# summary: Defines the caption and description for the Network policy group covering device-wide network configuration.
+# ---
+
 caption: Network settings
 desc: Controls device-wide network configuration.

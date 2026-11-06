@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable printing
+# summary: Chrome policy definition that enables or disables printing for users across desktop, ChromeOS, Android, and iOS.
+# ---
+
 arc_support: This policy has no effect on Android apps.
 caption: Enable printing
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserPrintersAllowed policy definition
+# summary: Defines the ChromeOS policy that controls whether users can add, configure, and print from their own non-enterprise CUPS printers, defaulting to allowed.
+# ---
+
 caption: Allow access to CUPS printers
 desc: "Allows you to control if users can access non-enterprise printers\n\n     \
   \ If the policy is set to True, or not set at all, users will be able to add, configure,\

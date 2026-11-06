@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Network File Shares policy group details
+# summary: Supplies the caption and description metadata for the Network File Shares policy group.
+# ---
+
 caption: Network File Shares settings
 desc: Configure Network File Share related policies.

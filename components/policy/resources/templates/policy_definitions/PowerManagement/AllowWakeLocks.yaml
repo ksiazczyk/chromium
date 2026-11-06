@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AllowWakeLocks policy definition
+# summary: Defines the ChromeOS policy that allows wake lock requests from extensions and ARC apps or ignores them entirely.
+# ---
+
 caption: Allow wake locks
 default: true
 desc: |-

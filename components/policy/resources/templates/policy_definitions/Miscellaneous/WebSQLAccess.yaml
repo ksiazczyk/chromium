@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force WebSQL to be enabled
+# summary: Deprecated Chrome policy that forces WebSQL access to be enabled or leaves it controllable via the web-sql-access flag; deprecated as of M124.
+# ---
+
 caption: Force WebSQL to be enabled.
 default: false
 deprecated: true

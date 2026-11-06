@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: PrivateNetworkRequestSettings group details
+# summary: Provides the caption and description for the private network request settings policy group, linking to the Private Network Access specification.
+# ---
+
 caption: Private network request settings
 desc: A group of policies related to private network request settings.  See https://wicg.github.io/private-network-access/.

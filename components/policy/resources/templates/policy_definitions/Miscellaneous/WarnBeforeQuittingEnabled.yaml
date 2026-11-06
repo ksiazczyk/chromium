@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WarnBeforeQuittingEnabled Chrome policy definition
+# summary: Defines the Chrome policy controlling whether a warning dialog is shown when the user attempts to quit the browser on macOS.
+# ---
+
 caption: Show a warning dialog when the user is attempting to quit
 default: true
 desc: |-

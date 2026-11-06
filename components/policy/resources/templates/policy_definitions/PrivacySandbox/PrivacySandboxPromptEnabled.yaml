@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrivacySandboxPromptEnabled policy definition
+# summary: Defines the deprecated Chrome policy controlling whether the Privacy Sandbox prompt is shown to users, required to be disabled when related Privacy Sandbox policies are set.
+# ---
+
 caption: Choose whether the <ph name="PRIVACY_SANDBOX_NAME">Privacy Sandbox</ph> prompt can be shown to your users
 default: true
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VideoCaptureAllowedUrls policy definition
+# summary: Defines a list policy whose URL patterns are granted access to video capture devices without prompting the user.
+# ---
+
 caption: URLs that will be granted access to video capture devices without prompt
 desc: |-
   Setting the policy means you specify the URL list whose patterns get matched to the security origin of the requesting URL. A match grants access to video capture devices without prompt

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativePrintersBulkConfiguration policy definition
+# summary: Defines the deprecated NativePrintersBulkConfiguration policy for supplying an enterprise printer configuration file, replaced by PrintersBulkConfiguration.
+# ---
+
 caption: Enterprise printer configuration file
 deprecated: true
 desc: |-

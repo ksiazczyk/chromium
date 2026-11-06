@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated firewall traversal policy for remote access client
+# summary: Defines the deprecated RemoteAccessClientFirewallTraversal policy that enabled STUN and relay servers when connecting to a remote client; no longer supported.
+# ---
+
 caption: Enable firewall traversal from remote access client
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device WiFi Allowed policy definition
+# summary: Defines a ChromeOS device policy that lets administrators enable or disable Wi-Fi and whether users may change it.
+# ---
+
 caption: Enable WiFi
 desc: |-
   Setting the policy to Disabled means <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> turns off Wi-Fi, and users can't change it.

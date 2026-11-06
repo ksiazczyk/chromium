@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable smart dim model to extend the time until the screen is dimmed
+# summary: ChromeOS policy definition enabling a smart dim model that can extend the time until the screen dims while keeping the other delays aligned.
+# ---
+
 caption: Enable smart dim model to extend the time until the screen is dimmed
 desc: |-
   Setting the policy to Enabled or leaving it unset turns the smart dim model on and can extend the time until the screen dims. If it delays the time, the screen off, screen lock, and idle delays adjust to maintain the same distances from the screen dim delay as originally set.

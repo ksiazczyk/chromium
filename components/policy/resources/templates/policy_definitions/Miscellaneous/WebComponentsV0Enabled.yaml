@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Re-enable Web Components v0 API until M84
+# summary: Deprecated Chrome policy that selectively re-enables Web Components v0 APIs such as Shadow DOM v0, Custom Elements v0 and HTML Imports until Chrome 84.
+# ---
+
 caption: Re-enable Web Components v0 API until M84.
 deprecated: true
 desc: |2-

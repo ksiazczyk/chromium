@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeMessagingBlocklist policy definition
+# summary: Defines the Chrome policy listing native messaging hosts that must not be loaded, supporting a wildcard value to deny all hosts.
+# ---
+
 caption: Configure native messaging blocklist
 desc: |-
   Setting the policy specifies which native messaging hosts shouldn't be loaded. A deny list value of <ph name="WILDCARD_VALUE">*</ph> means all native messaging hosts are denied, unless they're explicitly allowed.

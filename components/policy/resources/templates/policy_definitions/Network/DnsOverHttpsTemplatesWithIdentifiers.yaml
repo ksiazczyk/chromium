@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DNS-over-HTTPS resolver template with identifiers policy definition
+# summary: Defines a ChromeOS policy specifying DoH resolver URI templates whose user and device identifier placeholders are hashed before use.
+# ---
+
 caption: Specify URI template of desired DNS-over-HTTPS resolver with identity information
 desc: |-
   The URI template of the desired DNS-over-HTTPS resolver. To specify multiple DNS-over-HTTPS resolvers, separate the corresponding URI templates with spaces. This policy is very similar to <ph name="DOH_TEMPLATES_POLICY_NAME">DnsOverHttpsTemplates</ph> which it will override if specified.

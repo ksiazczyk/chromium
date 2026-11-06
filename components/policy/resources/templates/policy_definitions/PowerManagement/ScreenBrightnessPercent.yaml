@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screen brightness percent
+# summary: Defines the ChromeOS policy that sets screen brightness percentages for AC and battery power, disabling autobrightness while leaving user controls available.
+# ---
+
 caption: Screen brightness percent
 desc: |-
   Setting the policy specifies screen brightness percent, turning autobrightness features off. Initial screen brightness adjusts to the policy value, but users can change it.

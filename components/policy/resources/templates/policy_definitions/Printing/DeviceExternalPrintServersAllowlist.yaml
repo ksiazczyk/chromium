@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceExternalPrintServersAllowlist policy definition
+# summary: Defines the device-level policy that restricts which external print servers are queried for server printers on ChromeOS.
+# ---
+
 caption: Enabled external print servers
 desc: |-
   Specifies the subset of print servers that will be queried for server printers. This applies only to the <ph name="DEVICE_EXTERNAL_PRINT_SERVERS_POLICY">DeviceExternalPrintServers</ph> policy.

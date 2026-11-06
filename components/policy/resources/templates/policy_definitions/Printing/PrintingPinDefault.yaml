@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default PIN printing mode
+# summary: ChromeOS policy definition that sets the default PIN printing mode to pin or no_pin.
+# ---
+
 caption: Default PIN printing mode
 desc: Overrides default PIN printing mode. If the mode is unavailable this policy
   is ignored.

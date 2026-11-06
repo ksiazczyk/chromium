@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostAllowUrlForwarding policy
+# summary: Defines the policy that allows remote access clients to open host-side URLs in their local client browser.
+# ---
+
 caption: Allow remote access users to open host-side URLs in their local client browser
 default: true
 desc: |-

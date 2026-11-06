@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force WebSQL in non-secure contexts to be enabled
+# summary: Deprecated Chrome policy that re-enables WebSQL in non-secure contexts until the feature was removed in M112.
+# ---
+
 caption: Force WebSQL in non-secure contexts to be enabled.
 default: false
 deprecated: true

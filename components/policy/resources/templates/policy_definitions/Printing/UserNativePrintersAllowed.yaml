@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserNativePrintersAllowed policy definition
+# summary: Defines the deprecated ChromeOS policy that controls whether users can add, configure, and print with their own native CUPS printers, pointing to UserPrintersAllowed as its replacement.
+# ---
+
 caption: Allow access to native CUPS printers
 deprecated: true
 desc: "Allows you to control if users can access non-enterprise printers\n\n     \

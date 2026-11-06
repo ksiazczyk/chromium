@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Power management settings when the user becomes idle
+# summary: ChromeOS policy definition configuring screen dim, screen off, idle warning, and idle action delays separately for AC and battery power.
+# ---
+
 caption: Power management settings when the user becomes idle
 desc: |-
   Setting the policy controls the power management strategy when the user idles.

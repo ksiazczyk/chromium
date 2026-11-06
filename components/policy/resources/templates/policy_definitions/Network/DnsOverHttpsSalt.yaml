@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DNS-over-HTTPS salt policy definition
+# summary: Defines a ChromeOS policy supplying an 8 to 32 character salt used when hashing identity information in DoH resolver templates.
+# ---
+
 caption: Specify a salt value to be used in <ph name="DOH_TEMPLATES_WITH_IDENTIFIERS_POLICY_NAME">DnsOverHttpsTemplatesWithIdentifiers</ph> when evaluating identity information
 desc: |-
   This salt is used as a salt value when hashing identity information included in the <ph name="DOH_TEMPLATES_WITH_IDENTIFIERS_POLICY_NAME">DnsOverHttpsTemplatesWithIdentifiers</ph> string.

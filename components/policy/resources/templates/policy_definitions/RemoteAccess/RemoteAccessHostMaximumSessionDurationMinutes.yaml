@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Maximum session duration allowed for remote access connections
+# summary: Defines a Chrome policy that automatically disconnects remote access sessions after a configured number of minutes between 30 and 10080, with no effect when unset.
+# ---
+
 caption: Maximum session duration allowed for remote access connections
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Preconfigured network file shares policy
+# summary: Defines the ChromeOS policy listing preset network file shares with drop_down or pre_mount modes.
+# ---
+
 caption: List of preconfigured network file shares.
 desc: |-
   Setting the policy specifies a list of preset network file shares. Each item is an object with 2 properties: <ph name="SHARE_URL_FIELD_NAME">share_url</ph> and <ph name="MODE_FIELD_NAME">mode</ph>.

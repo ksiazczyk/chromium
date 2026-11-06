@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostEnableUserInterface policy
+# summary: Defines the internal policy controlling whether connection-related UI such as the disconnect window is shown during active remote access connections.
+# ---
+
 caption: Enable connection-related UI on the host desktop when a connection is active
 default: true
 desc: |-

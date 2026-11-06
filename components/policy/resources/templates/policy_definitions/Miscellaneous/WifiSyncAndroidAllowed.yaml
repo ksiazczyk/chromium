@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WifiSyncAndroidAllowed policy
+# summary: Defines the WifiSyncAndroidAllowed policy that governs syncing Wi-Fi network configurations between ChromeOS devices and a connected Android phone.
+# ---
+
 caption: Allow Wi-Fi network configurations to be synced across <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph> devices and a connected Android phone.
 default_for_enterprise_users: false

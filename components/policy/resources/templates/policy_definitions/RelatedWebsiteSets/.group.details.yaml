@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Related Website Sets policy group details
+# summary: Group metadata giving the caption and description for the Related Website Sets policy definitions group.
+# ---
+
 caption: Related Website Sets Settings
 desc: Controls policies for the Related Website Sets feature.

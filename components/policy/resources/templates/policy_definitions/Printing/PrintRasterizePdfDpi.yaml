@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintRasterizePdfDpi policy definition
+# summary: Defines the policy setting the DPI resolution used when rasterizing PDFs for printing, falling back to the system default when zero or unset.
+# ---
+
 caption: Print Rasterize PDF DPI
 default: 0
 desc: |-

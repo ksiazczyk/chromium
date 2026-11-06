@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Per-app time limits allowlist policy
+# summary: Defines the ChromeOS policy listing apps and URL patterns exempt from per-app time limits so they are not blocked for child users when PerAppTimeLimits is set.
+# ---
+
 caption: Per-App Time Limits Allowlist
 desc: "This policy specifies which applications and URLs should be allowed for per-app\
   \ usage restrictions.\n        The configured allowlist is applied to the apps installed\

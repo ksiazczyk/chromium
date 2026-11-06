@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Disabled enterprise device printers
+# summary: Defines a ChromeOS device policy listing printer IDs users cannot access when DevicePrintersAccessMode is set to BlocklistRestriction.
+# ---
+
 caption: Disabled enterprise device printers
 desc: If <ph name="PRINTERS_BLOCKLIST">BlocklistRestriction</ph> is chosen for <ph
   name="DEVICE_PRINTERS_ACCESS_MODE_POLICY_NAME">DevicePrintersAccessMode</ph>, then

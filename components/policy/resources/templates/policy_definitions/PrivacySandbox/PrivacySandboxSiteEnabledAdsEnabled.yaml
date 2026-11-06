@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrivacySandboxSiteEnabledAdsEnabled policy definition
+# summary: Defines the deprecated Chrome policy controlling whether users can disable the Privacy Sandbox Site-suggested ads setting, deprecated with the Protected Audience API.
+# ---
+
 caption: Choose whether the <ph name="PRIVACY_SANDBOX_NAME">Privacy Sandbox</ph> Site-suggested ads setting can be disabled
 default: true
 deprecated: true

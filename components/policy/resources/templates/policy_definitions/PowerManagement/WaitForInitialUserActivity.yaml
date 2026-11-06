@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WaitForInitialUserActivity policy definition
+# summary: Chrome OS policy definition that, when enabled, delays power management timers and session length limits until the first user activity in a session.
+# ---
+
 caption: Wait for initial user activity
 desc: |-
   Setting the policy to Enabled means that power management delays and session length limits don't start until after the first user activity occurs in a session.

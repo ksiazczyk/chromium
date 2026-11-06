@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVmRequiredFreeDiskSpace policy definition
+# summary: Deprecated policy setting the minimum free disk space in GB required to install PluginVm, defaulting to 20 GB.
+# ---
+
 caption: Required free disk space for <ph name="PLUGIN_VM_NAME">PluginVm</ph>
 deprecated: true
 desc: |-

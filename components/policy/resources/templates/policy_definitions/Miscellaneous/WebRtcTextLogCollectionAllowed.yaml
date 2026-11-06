@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow WebRTC text logs collection from Google Services
+# summary: Chrome policy that controls whether Chrome may collect and upload WebRTC text logs from Google services such as Google Meet for diagnostics.
+# ---
+
 caption: Allow WebRTC text logs collection from Google Services
 desc: |-
   Setting the policy to enabled means <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> can collect WebRTC text logs from Google services such as Google Meet and upload them to Google. These logs have diagnostic information for debugging issues with audio or video meetings in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>, such as textual metadata describing incoming and outgoing WebRTC streams, WebRTC specific log entries and additional system information. These logs have no audio or video content from the meeting.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VideoCaptureAllowed policy definition
+# summary: Defines a policy that allows or denies video capture access, prompting users except for URLs listed in VideoCaptureAllowedUrls.
+# ---
+
 caption: Allow or deny video capture
 desc: |-
   Setting the policy to Enabled or leaving it unset means that, with the exception of URLs set in the VideoCaptureAllowedUrls list, users get prompted for video capture access.

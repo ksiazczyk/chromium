@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostAllowUiAccessForRemoteAssistance policy
+# summary: Defines the Windows policy that lets remote assistance users interact with elevated windows by running the host with uiAccess permissions.
+# ---
+
 caption: Allow remote users to interact with elevated windows in remote assistance
   sessions
 default: false

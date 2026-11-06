@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PasswordManager policy atomic group
+# summary: Atomic group definition that lists the password manager related Chrome policies under the PasswordManager group.
+# ---
+
 PasswordManager:
   caption: Password manager
   policies:

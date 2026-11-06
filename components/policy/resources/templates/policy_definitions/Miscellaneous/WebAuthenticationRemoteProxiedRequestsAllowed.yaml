@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAuthenticationRemoteProxiedRequestsAllowed policy definition
+# summary: Defines the internal policy allowing Chrome Remote Desktop to execute WebAuthn API requests proxied from a browsing session on a remote host.
+# ---
+
 caption: Allow <ph name="CHROME_REMOTE_DESKTOP_PRODUCT_NAME">Chrome Remote Desktop</ph>
   to execute WebAuthn API requests proxied from a remote host.
 default: false

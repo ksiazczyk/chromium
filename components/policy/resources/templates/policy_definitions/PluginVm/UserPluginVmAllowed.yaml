@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UserPluginVmAllowed policy definition
+# summary: Deprecated user policy that permits a user to run PluginVm when device-level settings also allow it.
+# ---
+
 caption: Allow users to use a <ph name="PLUGIN_VM_NAME">PluginVm</ph> on <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>
 deprecated: true

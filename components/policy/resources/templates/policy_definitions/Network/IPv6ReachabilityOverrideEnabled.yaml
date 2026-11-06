@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IPv6 reachability override policy definition
+# summary: Defines a policy that overrides the IPv6 reachability check so AAAA records are always queried during host name resolution.
+# ---
+
 caption: Enable IPv6 reachability check override
 default: false
 desc: |-

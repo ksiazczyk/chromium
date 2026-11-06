@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device login screen privacy screen enabled policy
+# summary: Policy definition that sets the state of the privacy screen on the Chrome OS login screen, enforced at device level and supported since Chrome OS 83.
+# ---
+
 caption: Set the state of privacy screen on the login screen
 default: null
 desc: |-

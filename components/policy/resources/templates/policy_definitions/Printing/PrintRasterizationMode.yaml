@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintRasterizationMode policy definition
+# summary: Defines the policy selecting full or fast rasterization for printing to non-PostScript printers on Windows.
+# ---
+
 caption: Print Rasterization Mode
 default: 0
 desc: |-

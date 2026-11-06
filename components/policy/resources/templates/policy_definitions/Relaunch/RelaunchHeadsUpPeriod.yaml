@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RelaunchHeadsUpPeriod policy definition
+# summary: ChromeOS policy setting the time in milliseconds before the end of the notification period when the first restart notification appears, defaulting to three days.
+# ---
+
 caption: Set the time of the first user relaunch notification
 desc: |-
   Allows you to set the time period, in milliseconds, between the first notification that a <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> device must be restarted to apply a pending update and the end of the time period specified by the <ph name="RELAUNCH_NOTIFICATION_PERIOD_POLICY_NAME">RelaunchNotificationPeriod</ph> policy.

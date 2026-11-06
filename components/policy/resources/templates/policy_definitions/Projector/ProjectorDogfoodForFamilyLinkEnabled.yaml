@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screencast dogfood policy for Family Link users
+# summary: ChromeOS policy definition that enables or disables Screencast dogfood for Family Link users, defaulting to disabled.
+# ---
+
 caption: Enable Screencast dogfood for Family Link users
 default: false
 desc: |-

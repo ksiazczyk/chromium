@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrivacySandboxAdTopicsEnabled policy definition
+# summary: Defines the deprecated Chrome policy controlling whether users can disable the Privacy Sandbox ad topics setting, deprecated with the Topics API.
+# ---
+
 caption: Choose whether the <ph name="PRIVACY_SANDBOX_NAME">Privacy Sandbox</ph> Ad topics setting can be disabled
 default: true
 deprecated: true

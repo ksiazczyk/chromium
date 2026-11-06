@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default printing duplex mode
+# summary: ChromeOS policy definition that sets the default printing duplex mode to simplex, short-edge, or long-edge.
+# ---
+
 caption: Default printing duplex mode
 desc: Setting the policy overrides the default printing duplex mode. If the mode is
   unavailable, this policy is ignored.

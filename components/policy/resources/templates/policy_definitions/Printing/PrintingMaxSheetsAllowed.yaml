@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Maximal number of sheets allowed to use for a single print job
+# summary: ChromeOS policy definition limiting the maximum number of sheets a user may print in a single print job.
+# ---
+
 caption: Maximal number of sheets allowed to use for a single print job
 desc: |-
   Specifies the maximal number of sheets user is allowed to print for a single print job.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User data directory policy
+# summary: Defines the Windows and macOS policy setting the directory Chrome uses for storing user data, overriding the --user-data-dir flag.
+# ---
+
 caption: Set user data directory
 desc: |-
   Configures the directory that <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> will use for storing user data.

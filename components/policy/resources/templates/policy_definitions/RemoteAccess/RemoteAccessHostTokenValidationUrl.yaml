@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URL for validating remote access client authentication token
+# summary: Defines a deprecated Chrome policy giving the URL the remote access host uses to validate authentication tokens from connecting clients.
+# ---
+
 caption: URL for validating remote access client authentication token
 deprecated: true
 desc: |-

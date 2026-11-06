@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultPrinterSelection policy definition
+# summary: Defines the policy that sets rules for selecting the default printer in Chrome using printer ID and name regular expression patterns.
+# ---
+
 arc_support: This policy has no effect on Android apps.
 caption: Default printer selection rules
 desc: |-
