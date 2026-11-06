@@ -6,6 +6,12 @@
 // implementations of the PIN protocol should need to include this file. For all
 // other code, see |pin.h|.
 
+// ---docerion
+// type: source
+// title: Internal CTAP2 PIN protocol declarations
+// summary: Declares internal PIN subcommands, CBOR request and response keys, and the Protocol interface abstracting PIN/UV auth token protocols.
+// ---
+
 #ifndef DEVICE_FIDO_PIN_INTERNAL_H_
 #define DEVICE_FIDO_PIN_INTERNAL_H_
 

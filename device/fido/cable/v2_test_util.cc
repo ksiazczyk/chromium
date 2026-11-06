@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLEv2 test utilities
+// summary: Provides a mock tunnel server, mock platform, and helper devices used to exercise caBLEv2 discovery, handshake, and authenticator code in tests.
+// ---
+
 #include "device/fido/cable/v2_test_util.h"
 
 #include <array>

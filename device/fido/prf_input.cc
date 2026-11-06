@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PRF input implementation
+// summary: Implements PRFInput parsing from CBOR, hashing of PRF values with a fixed WebAuthn PRF prefix, and HMAC-SHA256 evaluation for the hmac-secret and prf extensions.
+// ---
+
 #include "device/fido/prf_input.h"
 
 #include <array>

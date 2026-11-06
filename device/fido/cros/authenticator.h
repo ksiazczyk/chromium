@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOSAuthenticator class declaration
+// summary: Declares the ChromeOSAuthenticator class, a FidoAuthenticator that forwards WebAuthn requests to the Chrome OS u2fd service and reports platform authenticator availability and options.
+// ---
+
 #ifndef DEVICE_FIDO_CROS_AUTHENTICATOR_H_
 #define DEVICE_FIDO_CROS_AUTHENTICATOR_H_
 

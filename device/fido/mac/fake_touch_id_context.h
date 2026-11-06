@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Touch ID context for tests
+// summary: Declares FakeTouchIdContext, a TouchIdContext test double that simulates Touch ID prompts with configurable callback results.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_FAKE_TOUCH_ID_CONTEXT_H_
 #define DEVICE_FIDO_MAC_FAKE_TOUCH_ID_CONTEXT_H_
 

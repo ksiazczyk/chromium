@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 handshake declarations
+// summary: Declares handshake initiator and responder APIs plus tunnel-server URL, EID, and QR code helpers for the caBLEv2 protocol.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_V2_HANDSHAKE_H_
 #define DEVICE_FIDO_CABLE_V2_HANDSHAKE_H_
 

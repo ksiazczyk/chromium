@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave authenticator discovery implementation
+// summary: Implements EnclaveAuthenticatorDiscovery, creating an EnclaveAuthenticator for each incoming UI credential request.
+// ---
+
 #include "device/fido/enclave/enclave_discovery.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoHidDiscovery class declaration
+// summary: Declares FidoHidDiscovery and the VidPid struct for discovering and tracking FIDO-capable HID authenticators through the device service's HidManager.
+// ---
+
 #ifndef DEVICE_FIDO_HID_FIDO_HID_DISCOVERY_H_
 #define DEVICE_FIDO_HID_FIDO_HID_DISCOVERY_H_
 

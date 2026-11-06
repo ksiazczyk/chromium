@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bio enrollment request construction
+// summary: Builds CTAP2 bio enrollment requests for enrolling, enumerating, renaming, deleting and cancelling fingerprint templates, including CBOR parameters and PIN auth.
+// ---
+
 #include "device/fido/bio/enrollment.h"
 
 #include "components/cbor/diagnostic_writer.h"

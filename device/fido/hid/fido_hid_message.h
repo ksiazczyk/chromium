@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoHidMessage class declaration
+// summary: Declares FidoHidMessage, representing the FIDO CTAP HID message and packet structure defined by the CTAP2 specification.
+// ---
+
 #ifndef DEVICE_FIDO_HID_FIDO_HID_MESSAGE_H_
 #define DEVICE_FIDO_HID_FIDO_HID_MESSAGE_H_
 

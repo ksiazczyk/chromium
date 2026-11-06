@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLEv2 handshake fuzzer
+// summary: libFuzzer harness that exercises the caBLEv2 handshake initiator and responder with arbitrary inputs to uncover parsing or crypto failures.
+// ---
+
 #include "device/fido/cable/v2_handshake.h"
 
 #include <stddef.h>

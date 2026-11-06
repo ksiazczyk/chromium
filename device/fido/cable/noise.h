@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noise protocol class declaration
+// summary: Declares the Noise class, which provides Noise Protocol Framework handshake patterns and symmetric encryption helpers for caBLEv2.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_NOISE_H_
 #define DEVICE_FIDO_CABLE_NOISE_H_
 

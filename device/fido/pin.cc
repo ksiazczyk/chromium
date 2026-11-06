@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP2 PIN protocol implementation
+// summary: Implements CTAP2 client PIN support, including PIN validation rules, encoding of authenticatorClientPIN commands, and parsing of PIN and UV retry responses.
+// ---
+
 #include "device/fido/pin.h"
 
 #include <numeric>

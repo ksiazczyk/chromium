@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the get assertion request handler
+// summary: Unit tests for GetAssertionRequestHandler covering transport selection, cross-device fallback URLs, PIN/UV token flows and response validation using mock and virtual FIDO devices.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

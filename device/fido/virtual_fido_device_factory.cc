@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDeviceFactory implementation
+// summary: Implements a test discovery factory that configures transport, protocol and CTAP2 options and creates virtual FIDO device discoveries.
+// ---
+
 #include "device/fido/virtual_fido_device_factory.h"
 
 #include "device/fido/cable/pairing.h"

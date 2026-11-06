@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FakeFidoDiscovery
+// summary: Unit tests covering FakeFidoDiscovery and its factory, including transport reporting, start modes, simulated start success and failure, and adding devices before or after start.
+// ---
+
 #include "device/fido/fake_fido_discovery.h"
 
 #include <utility>

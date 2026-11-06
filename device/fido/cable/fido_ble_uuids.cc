@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO and caBLE Bluetooth UUID constants
+// summary: Defines the FIDO GATT service UUIDs and the Google and FIDO caBLE advertising UUIDs in string, 16-bit and binary forms.
+// ---
+
 #include "device/fido/cable/fido_ble_uuids.h"
 
 #include "build/build_config.h"

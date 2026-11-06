@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FidoHidDiscovery
+// summary: Unit tests for FidoHidDiscovery that verify adding, removing and filtering of FIDO and non-FIDO HID devices using a fake HID manager.
+// ---
+
 #include "device/fido/hid/fido_hid_discovery.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FIDO discovery for tests
+// summary: Declares FakeFidoDiscovery and FakeFidoDiscoveryFactory, test fakes that simulate FIDO authenticator discovery so tests can feed mock devices to WebAuthn requests.
+// ---
+
 #ifndef DEVICE_FIDO_FAKE_FIDO_DISCOVERY_H_
 #define DEVICE_FIDO_FAKE_FIDO_DISCOVERY_H_
 

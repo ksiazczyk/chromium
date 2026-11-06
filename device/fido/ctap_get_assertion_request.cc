@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP get assertion request implementation
+// summary: Implements parsing and validation of CTAP2 authenticatorGetAssertion request maps, including allow lists, extensions and PRF inputs.
+// ---
+
 #include "device/fido/ctap_get_assertion_request.h"
 
 #include <algorithm>

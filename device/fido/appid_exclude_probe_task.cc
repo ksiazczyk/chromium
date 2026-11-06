@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppID exclude probe task implementation
+// summary: Implements silent CTAP2 getAssertion probing that checks whether excluded credentials are recognized under the appidExclude AppID.
+// ---
+
 #include "device/fido/appid_exclude_probe_task.h"
 
 #include "device/fido/ctap2_device_operation.h"

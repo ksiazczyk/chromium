@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO HID packet classes
+// summary: Declares the FidoHidPacket hierarchy with initialization and continuation packet classes used for CTAP HID message framing.
+// ---
+
 #ifndef DEVICE_FIDO_HID_FIDO_HID_PACKET_H_
 #define DEVICE_FIDO_HID_FIDO_HID_PACKET_H_
 

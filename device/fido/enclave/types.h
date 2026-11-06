@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave shared type declarations
+// summary: Declares shared enclave types, including EnclaveIdentity, client key and PIN validation enums, signing and PIN result callbacks, and CredentialRequest for enclave requests.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_TYPES_H_
 #define DEVICE_FIDO_ENCLAVE_TYPES_H_
 

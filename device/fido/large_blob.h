@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large blob classes and constants
+// summary: Declares LargeBlob, LargeBlobArrayFragment, LargeBlobsRequest and LargeBlobsResponse types plus constants for the CTAP2 largeBlobs read and write protocol.
+// ---
+
 #ifndef DEVICE_FIDO_LARGE_BLOB_H_
 #define DEVICE_FIDO_LARGE_BLOB_H_
 

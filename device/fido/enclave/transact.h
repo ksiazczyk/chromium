@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave transaction interface
+// summary: Declares the Transact function plus transaction result and error enums for communicating with the enclave service.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_TRANSACT_H_
 #define DEVICE_FIDO_ENCLAVE_TRANSACT_H_
 

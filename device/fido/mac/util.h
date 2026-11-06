@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID authenticator utility functions
+// summary: Declares helpers for building attested credential and authenticator data, generating signatures, and checking code signing and biometrics availability.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_UTIL_H_
 #define DEVICE_FIDO_MAC_UTIL_H_
 

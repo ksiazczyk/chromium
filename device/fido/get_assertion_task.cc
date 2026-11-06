@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get assertion task implementation
+// summary: Implements GetAssertionTask, the per-device CTAP1/CTAP2 sign operation handling allow lists, silent credential probing, U2F fallback with appid extension and PRF extension inputs.
+// ---
+
 #include "device/fido/get_assertion_task.h"
 
 #include <algorithm>

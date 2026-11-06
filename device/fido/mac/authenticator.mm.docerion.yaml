@@ -1,0 +1,4 @@
+# Docerion header of authenticator.mm.
+type: source
+title: TouchIdAuthenticator implementation for macOS
+summary: Implements the macOS Touch ID platform authenticator, including availability checks, credential info lookups, and dispatch of make credential and get assertion operations.

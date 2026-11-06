@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for enclave attestation
+// summary: Tests attestation processing against a sample handshake hash and attestation captured from the production enclave.
+// ---
+
 #include "device/fido/enclave/attestation.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

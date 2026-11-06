@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave authenticator discovery declaration
+// summary: Declares EnclaveAuthenticatorDiscovery, which instantiates enclave authenticators for a cloud-based authenticator service.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_ENCLAVE_DISCOVERY_H_
 #define DEVICE_FIDO_ENCLAVE_ENCLAVE_DISCOVERY_H_
 

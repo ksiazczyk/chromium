@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discoverable credential metadata implementation
+// summary: Implements the DiscoverableCredentialMetadata value type holding credential ID, user, provider name, and last-used information.
+// ---
+
 #include "device/fido/discoverable_credential_metadata.h"
 
 #include <optional>

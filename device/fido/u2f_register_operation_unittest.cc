@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: U2F register operation unit tests
+// summary: Unit tests for U2F registration flows using mock and virtual U2F devices.
+// ---
+
 #include "device/fido/u2f_register_operation.h"
 
 #include <memory>

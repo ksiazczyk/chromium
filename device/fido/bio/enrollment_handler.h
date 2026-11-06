@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BioEnrollmentHandler class declaration
+// summary: Declares the BioEnrollmentHandler that exercises the CTAP2.1 authenticatorBioEnrollment sub-protocol, with its callbacks, error codes and sensor info structure.
+// ---
+
 #ifndef DEVICE_FIDO_BIO_ENROLLMENT_HANDLER_H_
 #define DEVICE_FIDO_BIO_ENROLLMENT_HANDLER_H_
 

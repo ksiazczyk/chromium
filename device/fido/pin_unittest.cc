@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN protocol unit tests
+// summary: Parameterized tests verifying the PIN/UV auth protocol's key agreement, encryption, decryption, and MAC authentication across protocol versions one and two.
+// ---
+
 #include "device/fido/pin.h"
 
 #include "components/cbor/reader.h"

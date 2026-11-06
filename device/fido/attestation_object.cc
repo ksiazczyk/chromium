@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation object implementation
+// summary: Implements parsing of CBOR attestation objects, extraction of response fields and erasure of attestation statements and extensions.
+// ---
+
 #include "device/fido/attestation_object.h"
 
 #include <utility>

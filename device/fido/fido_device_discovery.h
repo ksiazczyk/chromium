@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO device discovery class header
+// summary: Declares FidoDeviceDiscovery, the base class that tracks discovery state and manages FIDO authenticators found on a given transport protocol.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_DEVICE_DISCOVERY_H_
 #define DEVICE_FIDO_FIDO_DEVICE_DISCOVERY_H_
 

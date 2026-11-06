@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F sign operation header
+// summary: Declares the U2fSignOperation class and its result enum for per-device U2F authentication.
+// ---
+
 #ifndef DEVICE_FIDO_U2F_SIGN_OPERATION_H_
 #define DEVICE_FIDO_U2F_SIGN_OPERATION_H_
 

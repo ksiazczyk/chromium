@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDeviceDiscovery implementation
+// summary: Implements a test device discovery that vends a single virtual CTAP2 or U2F device, with support for hybrid contact streams and disconnect events.
+// ---
+
 #include "device/fido/virtual_fido_device_discovery.h"
 
 #include <utility>

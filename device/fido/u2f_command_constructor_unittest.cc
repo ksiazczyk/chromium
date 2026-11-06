@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: U2F command constructor unit tests
+// summary: Unit tests verifying conversion of CTAP2 requests into U2F register and sign APDU commands and their constraints.
+// ---
+
 #include "device/fido/u2f_command_constructor.h"
 
 #include <utility>

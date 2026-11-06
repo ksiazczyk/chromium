@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR redaction utility unit tests
+// summary: Unit test verifying that RedactValueAtPaths replaces values at matching CBOR paths while leaving other entries untouched.
+// ---
+
 #include "device/fido/cbor_util.h"
 
 #include <string>

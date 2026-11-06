@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set PIN request handler declaration
+// summary: Declares SetPINRequestHandler, which flashes authenticators for user selection and manages attempts at setting or changing the PIN with status callbacks.
+// ---
+
 #ifndef DEVICE_FIDO_SET_PIN_REQUEST_HANDLER_H_
 #define DEVICE_FIDO_SET_PIN_REQUEST_HANDLER_H_
 

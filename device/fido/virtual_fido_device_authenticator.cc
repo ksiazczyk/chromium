@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDeviceAuthenticator implementation
+// summary: Implements GetPlatformCredentialInfoForRequest, which collects discoverable credential metadata matching a getAssertion request's RP ID and allowlist.
+// ---
+
 #include "device/fido/virtual_fido_device_authenticator.h"
 
 #include "crypto/hash.h"

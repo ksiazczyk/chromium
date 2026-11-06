@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_deletion_unittest.mm.
+type: test
+title: Browsing data deletion tests for macOS WebAuthn credentials
+summary: Tests that WebAuthn credentials stored in the macOS keychain are deleted correctly when browsing data is cleared, including profile separation via metadata secrets.

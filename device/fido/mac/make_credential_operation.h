@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MakeCredentialOperation class declaration
+// summary: Declares the operation that prompts Touch ID consent and generates a key pair in the Secure Enclave, persisting a reference and metadata in the macOS Keychain.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_MAKE_CREDENTIAL_OPERATION_H_
 #define DEVICE_FIDO_MAC_MAKE_CREDENTIAL_OPERATION_H_
 

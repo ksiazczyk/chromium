@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO and caBLE Bluetooth UUID declarations
+// summary: Declares exported constants for the FIDO GATT service UUIDs and the caBLE advertising UUIDs assigned to Google and FIDO.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_FIDO_BLE_UUIDS_H_
 #define DEVICE_FIDO_CABLE_FIDO_BLE_UUIDS_H_
 

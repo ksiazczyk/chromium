@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Make credential request handler unit tests
+// summary: Unit tests for MakeCredentialRequestHandler covering discovery forging, transport histograms, and make credential flows.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

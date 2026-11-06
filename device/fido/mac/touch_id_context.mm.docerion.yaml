@@ -1,0 +1,4 @@
+# Docerion header of touch_id_context.mm.
+type: source
+title: TouchIdContext implementation
+summary: Implements Touch ID availability checks, secure enclave key creation tests, and local user authentication prompts via the LocalAuthentication framework.

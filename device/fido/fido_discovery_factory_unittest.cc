@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDO discovery factory unit tests
+// summary: Tests that hybrid discovery is skipped when the Windows WebAuthn API supports hybrid unless discovery is forced.
+// ---
+
 #include "device/fido/fido_discovery_factory.h"
 
 #include <memory>

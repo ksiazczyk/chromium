@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO HID packet implementation
+// summary: Implements the FidoHidPacket base class plus init and continuation packet classes that serialize and parse CTAP HID message packets.
+// ---
+
 #include "device/fido/hid/fido_hid_packet.h"
 
 #include <algorithm>

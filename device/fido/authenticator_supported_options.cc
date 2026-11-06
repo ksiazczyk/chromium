@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorSupportedOptions CBOR serialization
+// summary: Implements serialization of authenticator capability options such as resident key, user verification, PIN, and bio enrollment into CBOR.
+// ---
+
 #include "device/fido/authenticator_supported_options.h"
 
 #include <utility>

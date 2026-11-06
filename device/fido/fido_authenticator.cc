@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoAuthenticator base class implementation
+// summary: Implements default and NOTREACHED stub methods of the FidoAuthenticator interface shared by physical and platform WebAuthn authenticators, such as PIN, bio enrollment, and credential management operations.
+// ---
+
 #include "device/fido/fido_authenticator.h"
 
 #include <utility>

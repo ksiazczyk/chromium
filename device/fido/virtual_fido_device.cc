@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDevice implementation
+// summary: Implements the virtual FIDO device base class, including private key generation and signing for ES256, RS256, EdDSA and ML-DSA algorithms plus large blob defaults.
+// ---
+
 #include "device/fido/virtual_fido_device.h"
 
 #include <algorithm>

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Security Keys
+summary: Explains Chromium's security key support, the WebAuthn and CTAP2 protocols, the life of a request through the code, settings and fuzzers.
+relations:
+  - documents /content/public/browser/authenticator_common.h
+  - documents /third_party/blink/public/mojom/webauthn/authenticator.mojom
+---
+
 # Security Keys
 
 Security keys are physical devices that often connect via USB and have a button. They can generate public keys and sign with them to authenticate a user and are most often used as a second factor for security.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential metadata encryption implementation for macOS
+// summary: Implements encryption and CBOR encoding of Touch ID credential metadata, including AEAD sealing and key derivation from the profile-specific secret.
+// ---
+
 #include "device/fido/mac/credential_metadata.h"
 
 #include <array>

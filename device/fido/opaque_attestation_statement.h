@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opaque attestation statement class declaration
+// summary: Declares the OpaqueAttestationStatement class, which holds an opaque CBOR attestation value for WebAuthn attestation objects.
+// ---
+
 #ifndef DEVICE_FIDO_OPAQUE_ATTESTATION_STATEMENT_H_
 #define DEVICE_FIDO_OPAQUE_ATTESTATION_STATEMENT_H_
 

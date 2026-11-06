@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave protocol utilities interface
+// summary: Declares the ErrorResponse struct and functions to build enclave protocol commands and parse GetAssertion and MakeCredential responses.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_ENCLAVE_PROTOCOL_UTILS_H_
 #define DEVICE_FIDO_ENCLAVE_ENCLAVE_PROTOCOL_UTILS_H_
 

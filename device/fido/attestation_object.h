@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationObject class declaration
+// summary: Declares the WebAuthn attestation object with parsing, self-attestation checks and CBOR serialization helpers.
+// ---
+
 #ifndef DEVICE_FIDO_ATTESTATION_OBJECT_H_
 #define DEVICE_FIDO_ATTESTATION_OBJECT_H_
 

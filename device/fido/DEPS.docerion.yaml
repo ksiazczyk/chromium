@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include allowlist for device/fido
+summary: Restricts which directories the FIDO code may include from and marks new usages as requiring review.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoHidDevice class declaration
+// summary: Declares the FidoHidDevice class, a FidoDevice that talks to HID authenticators, with its busy-state machine and pending transaction bookkeeping.
+// ---
+
 #ifndef DEVICE_FIDO_HID_FIDO_HID_DEVICE_H_
 #define DEVICE_FIDO_HID_FIDO_HID_DEVICE_H_
 

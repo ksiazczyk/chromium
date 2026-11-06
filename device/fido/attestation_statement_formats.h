@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO U2F and packed attestation statement classes
+// summary: Declares FidoAttestationStatement for the fido-u2f format and PackedAttestationStatement for the WebAuthn packed attestation format.
+// ---
+
 #ifndef DEVICE_FIDO_ATTESTATION_STATEMENT_FORMATS_H_
 #define DEVICE_FIDO_ATTESTATION_STATEMENT_FORMATS_H_
 

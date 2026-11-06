@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual CTAP2 device implementation
+// summary: Implements a software CTAP2 authenticator used as a test fake, covering PIN, large blobs and bio enrollment.
+// ---
+
 #include "device/fido/virtual_ctap2_device.h"
 
 #include <algorithm>

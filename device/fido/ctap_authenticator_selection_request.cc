@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP authenticator selection request implementation
+// summary: Implements encoding of the authenticator selection request as a CTAP authenticatorSelection command with no CBOR payload.
+// ---
+
 #include "device/fido/ctap_authenticator_selection_request.h"
 
 namespace device {

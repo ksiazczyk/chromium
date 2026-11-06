@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual U2F device class header
+// summary: Declares VirtualU2fDevice, a virtual FIDO device that supports U2F register and sign transactions over selected transports.
+// ---
+
 #ifndef DEVICE_FIDO_VIRTUAL_U2F_DEVICE_H_
 #define DEVICE_FIDO_VIRTUAL_U2F_DEVICE_H_
 

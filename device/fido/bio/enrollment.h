@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bio enrollment protocol constants and types
+// summary: Defines the enums, request and response keys, and structures needed to speak the CTAP2.1 authenticatorBioEnrollment (0x09) protocol with an authenticator.
+// ---
+
 #ifndef DEVICE_FIDO_BIO_ENROLLMENT_H_
 #define DEVICE_FIDO_BIO_ENROLLMENT_H_
 

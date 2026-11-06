@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoAuthenticator interface for WebAuthn authenticators
+// summary: Defines the FidoAuthenticator abstract class modeling a WebAuthn authenticator, with make-credential and get-assertion status enums plus PIN, bio enrollment, large blob, and credential management callbacks.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_AUTHENTICATOR_H_
 #define DEVICE_FIDO_FIDO_AUTHENTICATOR_H_
 

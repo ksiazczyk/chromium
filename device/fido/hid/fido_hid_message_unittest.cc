@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDO HID message unit tests
+// summary: Unit tests verifying serialization, parsing, and reconstruction of FIDO HID initialization and continuation packets and message assembly.
+// ---
+
 #include "device/fido/hid/fido_hid_message.h"
 
 #include "base/memory/ptr_util.h"

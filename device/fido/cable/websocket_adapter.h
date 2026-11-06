@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 WebSocket tunnel adapter interface
+// summary: Declares WebSocketAdapter, which bridges Mojo WebSocket handshake and client interfaces to callbacks for tunnel connections.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_WEBSOCKET_ADAPTER_H_
 #define DEVICE_FIDO_CABLE_WEBSOCKET_ADAPTER_H_
 

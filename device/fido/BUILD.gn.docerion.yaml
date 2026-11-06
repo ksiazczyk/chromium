@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the FIDO component
+summary: Defines the fido component, its source files and dependencies for building passkey and security key authentication support across platforms.

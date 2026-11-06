@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CTAP request construction unit tests
+// summary: Unit tests verifying CBOR serialization of CTAP2 MakeCredential and GetAssertion requests against FIDO spec examples and regression cases.
+// ---
+
 #include "base/containers/to_vector.h"
 #include "components/cbor/reader.h"
 #include "device/fido/ctap_get_assertion_request.h"

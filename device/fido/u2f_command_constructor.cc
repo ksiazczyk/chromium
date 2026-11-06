@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F command constructor implementation
+// summary: Converts CTAP2 make credential and get assertion requests into APDU-encoded U2F register and sign commands.
+// ---
+
 #include "device/fido/u2f_command_constructor.h"
 
 #include <algorithm>

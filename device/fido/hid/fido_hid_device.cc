@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoHidDevice implementation for USB HID authenticators
+// summary: Implements the FidoHidDevice state machine that performs CTAP and U2F transactions over USB HID, including channel allocation, keepalives and cancellation.
+// ---
+
 #include "device/fido/hid/fido_hid_device.h"
 
 #include <algorithm>

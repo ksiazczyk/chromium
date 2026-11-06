@@ -5,6 +5,12 @@
 // This file provides methods to encode credential metadata for storage in the
 // macOS keychain.
 
+// ---docerion
+// type: source
+// title: Credential metadata encoding for the macOS keychain
+// summary: Declares CredentialMetadata, the CBOR-serialized encrypted metadata for Touch ID credentials, with versioned formats from V0 through V4.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_CREDENTIAL_METADATA_H_
 #define DEVICE_FIDO_MAC_CREDENTIAL_METADATA_H_
 

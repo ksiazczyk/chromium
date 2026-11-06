@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual FIDO device factory header for tests
+// summary: Declares a test FidoDiscoveryFactory that always creates virtual FIDO devices, with configurable transport, CTAP2 config, and optional WinWebAuthnApi discovery.
+// ---
+
 #ifndef DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_FACTORY_H_
 #define DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_FACTORY_H_
 

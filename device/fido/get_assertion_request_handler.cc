@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get assertion request handler implementation
+// summary: Implements GetAssertionRequestHandler, which dispatches CTAP get assertion requests to discovered authenticators, validates responses and extensions, and manages PIN/UV auth token collection and metrics.
+// ---
+
 #include "device/fido/get_assertion_request_handler.h"
 
 #include <algorithm>

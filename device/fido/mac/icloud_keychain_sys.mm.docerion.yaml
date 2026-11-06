@@ -1,0 +1,4 @@
+# Docerion header of icloud_keychain_sys.mm.
+type: source
+title: SystemInterface implementation with AuthenticationServices
+summary: Implements SystemInterface using ASAuthorizationController delegates and a private request context override to drive iCloud Keychain make credential and get assertion flows.

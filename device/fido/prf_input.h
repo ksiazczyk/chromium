@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PRF input declaration
+// summary: Declares the PRFInput struct holding salts for the hmac-secret or prf extension, with CBOR conversion, salt hashing, and HMAC evaluation helpers.
+// ---
+
 #ifndef DEVICE_FIDO_PRF_INPUT_H_
 #define DEVICE_FIDO_PRF_INPUT_H_
 

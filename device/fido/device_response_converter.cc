@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP device response converter implementation
+// summary: Implements conversion of raw authenticator responses into CTAP response objects, including response codes, PRF outputs, and UTF-8 repair.
+// ---
+
 #include "device/fido/device_response_converter.h"
 
 #include <memory>

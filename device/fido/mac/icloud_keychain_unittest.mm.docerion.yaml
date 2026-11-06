@@ -1,0 +1,4 @@
+# Docerion header of icloud_keychain_unittest.mm.
+type: test
+title: Unit tests for the iCloud Keychain authenticator
+summary: Tests iCloud Keychain discovery, make and get assertion flows, and passkey permission metrics using a fake system interface.

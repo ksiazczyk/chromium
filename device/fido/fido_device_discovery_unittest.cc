@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDO device discovery unit tests
+// summary: Unit tests for FidoDeviceDiscovery covering observer registration, start success and failure notifications, and adding or removing devices.
+// ---
+
 #include "device/fido/fido_device_discovery.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Make credential task implementation
+// summary: Implements the per-device make credential task, including U2F fallback when a client PIN is set and CTAP response conversion.
+// ---
+
 #include "device/fido/make_credential_task.h"
 
 #include <algorithm>

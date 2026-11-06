@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDeviceAuthenticator class declaration
+// summary: Declares VirtualFidoDeviceAuthenticator, a FidoDeviceAuthenticator subclass that wraps a virtual FIDO device and overrides platform credential lookup.
+// ---
+
 #ifndef DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_AUTHENTICATOR_H_
 #define DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_AUTHENTICATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave authenticator implementation
+// summary: Implements the EnclaveAuthenticator FIDO authenticator, handling make-credential and get-assertion requests, error mapping, and metrics.
+// ---
+
 #include "device/fido/enclave/enclave_authenticator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CTAP response parsing unit tests
+// summary: Unit tests using encoded CBOR fixtures to verify parsing of authenticator MakeCredential, GetAssertion, and GetInfo responses.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <string_view>

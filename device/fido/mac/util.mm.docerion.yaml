@@ -1,0 +1,4 @@
+# Docerion header of util.mm.
+type: source
+title: Touch ID authenticator utility implementations
+summary: Implements attested credential data construction, signature counters, Chrome AAGUID constants, signature generation, and biometrics and code-signing checks.

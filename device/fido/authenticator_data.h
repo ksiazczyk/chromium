@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorData class for WebAuthn authenticator data
+// summary: Defines the AuthenticatorData class that models WebAuthn authenticator data, including flags, signature counter, attested credential data, and extension handling.
+// ---
+
 #ifndef DEVICE_FIDO_AUTHENTICATOR_DATA_H_
 #define DEVICE_FIDO_AUTHENTICATOR_DATA_H_
 

@@ -5,6 +5,12 @@
 // This file contains common data used to test CTAP/U2F register and sign
 // request/responses.
 
+// ---docerion
+// type: test
+// title: Shared CTAP and U2F test data
+// summary: Header of shared sample request and response constants used to test CTAP/U2F register and sign flows across the FIDO unit tests.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_TEST_DATA_H_
 #define DEVICE_FIDO_FIDO_TEST_DATA_H_
 

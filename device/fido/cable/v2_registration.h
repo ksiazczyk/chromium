@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 tunnel service registration interface
+// summary: Declares the Registration interface for subscribing to tunnel service events and the Register factory used by the caBLEv2 authenticator.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_V2_REGISTRATION_H_
 #define DEVICE_FIDO_CABLE_V2_REGISTRATION_H_
 

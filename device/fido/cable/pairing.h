@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 pairing record declaration
+// summary: Declares the Pairing struct holding authenticator contact IDs, secrets, public keys and metadata that let later caBLEv2 connections skip QR scanning.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_PAIRING_H_
 #define DEVICE_FIDO_CABLE_PAIRING_H_
 

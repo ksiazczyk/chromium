@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoTask implementation
+// summary: Implements the FidoTask base class, which schedules the asynchronous start of a per-device CTAP request task.
+// ---
+
 #include "device/fido/fido_task.h"
 
 #include <utility>

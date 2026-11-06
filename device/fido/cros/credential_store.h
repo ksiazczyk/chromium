@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformAuthenticatorCredentialStore class declaration
+// summary: Declares PlatformAuthenticatorCredentialStore, which manages counting and deleting credentials in the Chrome OS platform authenticator through the u2fd service.
+// ---
+
 #ifndef DEVICE_FIDO_CROS_CREDENTIAL_STORE_H_
 #define DEVICE_FIDO_CROS_CREDENTIAL_STORE_H_
 

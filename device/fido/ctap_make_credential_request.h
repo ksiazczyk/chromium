@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP make credential request header
+// summary: Declares CtapMakeCredentialRequest, the request parameters for the CTAP2 authenticatorMakeCredential command, including extension and PIN-related options.
+// ---
+
 #ifndef DEVICE_FIDO_CTAP_MAKE_CREDENTIAL_REQUEST_H_
 #define DEVICE_FIDO_CTAP_MAKE_CREDENTIAL_REQUEST_H_
 

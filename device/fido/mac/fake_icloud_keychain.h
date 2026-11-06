@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake iCloud Keychain test helpers
+// summary: Declares factory functions that install fakes simulating iCloud Keychain permission states and passkey configuration for tests.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_FAKE_ICLOUD_KEYCHAIN_H_
 #define DEVICE_FIDO_MAC_FAKE_ICLOUD_KEYCHAIN_H_
 

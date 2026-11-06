@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetAssertionTask class declaration
+// summary: Declares GetAssertionTask, which performs the authenticatorGetAssertion operation on a single FIDO device, including U2F fallback, silent probes and response handling callbacks.
+// ---
+
 #ifndef DEVICE_FIDO_GET_ASSERTION_TASK_H_
 #define DEVICE_FIDO_GET_ASSERTION_TASK_H_
 

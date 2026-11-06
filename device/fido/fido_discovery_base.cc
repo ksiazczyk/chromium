@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO discovery base implementation
+// summary: Implements the FidoDiscoveryBase constructor, destructor, and default Stop behavior for authenticator discovery.
+// ---
+
 #include "device/fido/fido_discovery_base.h"
 
 namespace device {

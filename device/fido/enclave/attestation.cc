@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave attestation validation
+// summary: Validates AMD SEV-SNP attestations from the enclave, checking the VCEK certificate chain, attestation report, and Oak DICE data down to the leaf public key.
+// ---
+
 #include "device/fido/enclave/attestation.h"
 
 #include <optional>

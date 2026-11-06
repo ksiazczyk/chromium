@@ -1,0 +1,4 @@
+# Docerion header of fake_icloud_keychain_sys.mm.
+type: source
+title: Fake iCloud Keychain system interface implementation
+summary: Implements fake AuthenticationServices credential and large-blob objects used to simulate the macOS passkey API in tests.

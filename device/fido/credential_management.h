@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential management request definitions
+// summary: Defines request and response keys, subcommands, and a preview adapter for the CTAP2 authenticatorCredentialManagement protocol.
+// ---
+
 #ifndef DEVICE_FIDO_CREDENTIAL_MANAGEMENT_H_
 #define DEVICE_FIDO_CREDENTIAL_MANAGEMENT_H_
 

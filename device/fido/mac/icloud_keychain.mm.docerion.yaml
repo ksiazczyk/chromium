@@ -1,0 +1,4 @@
+# Docerion header of icloud_keychain.mm.
+type: source
+title: iCloud Keychain authenticator implementation
+summary: Implements the iCloud Keychain platform authenticator, including make and get assertion, large blob and PRF extension handling, and passkey permission metrics.

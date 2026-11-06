@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP authenticator selection request header
+// summary: Declares the empty CtapAuthenticatorSelectionRequest struct and its conversion into a CTAP authenticatorSelection command pair.
+// ---
+
 #ifndef DEVICE_FIDO_CTAP_AUTHENTICATOR_SELECTION_REQUEST_H_
 #define DEVICE_FIDO_CTAP_AUTHENTICATOR_SELECTION_REQUEST_H_
 

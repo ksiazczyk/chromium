@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Make credential request handler class declaration
+// summary: Declares MakeCredentialRequestHandler, coordinating authenticator selection, PIN UV auth tokens, and bio enrollment for make credential requests.
+// ---
+
 #ifndef DEVICE_FIDO_MAKE_CREDENTIAL_REQUEST_HANDLER_H_
 #define DEVICE_FIDO_MAKE_CREDENTIAL_REQUEST_HANDLER_H_
 

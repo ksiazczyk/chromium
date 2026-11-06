@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 handshake implementation
+// summary: Implements the Noise-based caBLEv2 handshake, EID encryption for BLE adverts, tunnel-server URL construction, and QR code encoding and parsing.
+// ---
+
 #include "device/fido/cable/v2_handshake.h"
 
 #include <inttypes.h>

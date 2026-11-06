@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 FCM registration implementation
+// summary: Implements tunnel service registration on Android using Firebase Cloud Messaging to receive connection events from paired devices.
+// ---
+
 #include "device/fido/cable/v2_registration.h"
 
 #include "base/compiler_specific.h"

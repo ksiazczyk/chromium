@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device operation base classes
+// summary: Defines GenericDeviceOperation and a templated DeviceOperation that dispatches requests to a FIDO device and delivers responses via callback.
+// ---
+
 #ifndef DEVICE_FIDO_DEVICE_OPERATION_H_
 #define DEVICE_FIDO_DEVICE_OPERATION_H_
 

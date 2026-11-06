@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR redaction utility header
+// summary: Declares the RedactValueAtPaths template and Path helper for redacting values at nested paths in CBOR data.
+// ---
+
 #ifndef DEVICE_FIDO_CBOR_UTIL_H_
 #define DEVICE_FIDO_CBOR_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VirtualFidoDeviceAuthenticator unit tests
+// summary: Tests GetPlatformCredentialInfoForRequest across cases with no credentials, other RP IDs, non-resident and resident credentials.
+// ---
+
 #include "device/fido/virtual_fido_device_authenticator.h"
 
 #include <cstdint>

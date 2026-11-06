@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual U2F device unit tests
+// summary: Unit tests verifying that destroying the virtual U2F device from within its simulate press callback does not crash.
+// ---
+
 #include "device/fido/virtual_u2f_device.h"
 
 #include <cstdint>

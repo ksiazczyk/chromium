@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: JSONRequest class declaration
+// summary: Declares JSONRequest, a reference-counted wrapper holding a read-only base::Value so JSON request data can be copied cheaply without duplicating the underlying value.
+// ---
+
 #ifndef DEVICE_FIDO_JSON_REQUEST_H_
 #define DEVICE_FIDO_JSON_REQUEST_H_
 

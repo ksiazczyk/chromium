@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO U2F and packed attestation statement parsing
+// summary: Implements creation of fido-u2f attestation statements from U2F registration responses and packed-format statements, including detection of inappropriately identifying certificates.
+// ---
+
 #include "device/fido/attestation_statement_formats.h"
 
 #include <utility>

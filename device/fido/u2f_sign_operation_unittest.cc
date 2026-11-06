@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: U2F sign operation unit tests
+// summary: Unit tests for U2F sign operations with mock and virtual devices, including metrics histogram checks.
+// ---
+
 #include "device/fido/u2f_sign_operation.h"
 
 #include <cstdint>

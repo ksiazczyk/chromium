@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchIdContext interface
+// summary: Declares a facade over the macOS LAContext that prompts the user for Touch ID authentication and reports secure enclave and entitlement availability.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_TOUCH_ID_CONTEXT_H_
 #define DEVICE_FIDO_MAC_TOUCH_ID_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BioEnrollmentHandler unit tests
+// summary: Unit tests for BioEnrollmentHandler using a virtual CTAP2 device, covering cases such as missing PIN support, forced PIN change and the enrollment sample flow.
+// ---
+
 #include "device/fido/bio/enrollment_handler.h"
 
 #include <cstddef>

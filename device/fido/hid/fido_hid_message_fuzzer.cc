@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDO HID message fuzzer
+// summary: libFuzzer harness that feeds random 64-byte HID packets into FidoHidMessage creation and continuation packet handling to fuzz message parsing.
+// ---
+
 #include "device/fido/hid/fido_hid_message.h"
 
 #include <stddef.h>

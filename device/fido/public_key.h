@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential public key declaration
+// summary: Declares the PublicKey struct for WebAuthn credential public keys with parsers from COSE keys, SPKI DER, U2F registration responses, and raw P-256 points.
+// ---
+
 #ifndef DEVICE_FIDO_PUBLIC_KEY_H_
 #define DEVICE_FIDO_PUBLIC_KEY_H_
 

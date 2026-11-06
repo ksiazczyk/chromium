@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP make credential request implementation
+// summary: Implements parsing and validation of CTAP2 authenticatorMakeCredential request maps, including entities, exclude lists and enterprise attestation.
+// ---
+
 #include "device/fido/ctap_make_credential_request.h"
 
 #include <algorithm>
