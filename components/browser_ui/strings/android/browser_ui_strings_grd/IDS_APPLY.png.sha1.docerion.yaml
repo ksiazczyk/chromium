@@ -1,0 +1,4 @@
+# Docerion header of IDS_APPLY.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_APPLY
+summary: Stores the SHA-1 hash of the translated PNG for the Apply string, used to track translation updates.
