@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI import utilities
+// summary: Unit tests verifying entity import from submitted forms, covering attribute constraints, value validation and localized date output.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_import_util.h"
 
 #include <memory>

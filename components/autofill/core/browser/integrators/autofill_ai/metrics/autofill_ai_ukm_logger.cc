@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI UKM logger implementation
+// summary: Implements the AutofillAiUkmLogger, mapping entity types and field events to optimization guide protos and recording URL-keyed metrics.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/metrics/autofill_ai_ukm_logger.h"
 
 #include <stdint.h>

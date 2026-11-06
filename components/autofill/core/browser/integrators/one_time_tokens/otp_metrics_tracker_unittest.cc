@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtpMetricsTracker unit tests
+// summary: Unit tests verifying tickle subscriptions, latency histograms, UKM recording, and Gmail OTP eligibility for the metrics tracker.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_metrics_tracker.h"
 
 #include "base/metrics/metrics_hashes.h"

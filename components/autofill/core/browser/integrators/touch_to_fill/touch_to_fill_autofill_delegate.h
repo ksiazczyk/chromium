@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillAutofillDelegate interface for non-payments autofill bottom sheet
+// summary: Declares the delegate interface that supplies data to and receives events from the TouchToFillAutofillController bottom sheet UI for non-payments autofill on Android.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_TOUCH_TO_FILL_TOUCH_TO_FILL_AUTOFILL_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_TOUCH_TO_FILL_TOUCH_TO_FILL_AUTOFILL_DELEGATE_H_
 

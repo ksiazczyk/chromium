@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager delegate interface
+// summary: Declares the delegate interface that injects password manager suggestion logic into the autofill manager, including WebAuthn suggestion hooks.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_PASSWORD_MANAGER_PASSWORD_MANAGER_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_PASSWORD_MANAGER_PASSWORD_MANAGER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form interactions UKM logger interface
+// summary: Declares the UKM logger for autofill form interactions, including field autofill status enums.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_FORM_INTERACTIONS_UKM_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_FORM_INTERACTIONS_UKM_LOGGER_H_
 

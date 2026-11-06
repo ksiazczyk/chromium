@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field type prediction quality metrics implementation
+// summary: Implements metrics measuring how well Autofill predicts field types, logging prediction quality and overlap histograms by field type group.
+// ---
+
 #include "components/autofill/core/browser/metrics/prediction_quality_metrics.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormInteractionsUkmLogger unit tests
+// summary: Unit tests verifying that form interaction events such as shown suggestions, fills, edits and submissions are logged to UKM correctly.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_interactions_ukm_logger.h"
 
 #include <ranges>

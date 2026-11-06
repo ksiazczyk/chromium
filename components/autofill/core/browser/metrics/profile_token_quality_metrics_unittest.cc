@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile token quality metrics unit tests
+// summary: Unit tests verifying that stored profile token quality observations, per-type histograms and acceptance rates are logged correctly.
+// ---
+
 #include "components/autofill/core/browser/metrics/profile_token_quality_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual card standalone CVC suggestion metrics unit tests
+// summary: Unit tests verifying that virtual card standalone CVC suggestion metrics are logged to the expected histograms.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/virtual_card_standalone_cvc_suggestion_metrics.h"
 
 #include "base/test/gmock_callback_support.h"

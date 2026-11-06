@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtpManagerLegacyImplTestApi
+// summary: Test API that exposes private OtpManagerLegacyImpl methods such as OnOneTimeTokenReceived for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_OTP_MANAGER_LEGACY_IMPL_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_OTP_MANAGER_LEGACY_IMPL_TEST_API_H_
 

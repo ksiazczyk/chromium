@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo code metrics header
+// summary: Declares the promo code form event enum and logging functions for promo code autofill usage and stored promo code counts.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_PROMO_CODE_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_PROMO_CODE_METRICS_H_
 

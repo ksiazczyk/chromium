@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions list metrics implementation
+// summary: Logs metrics about autofill suggestion popups, such as suggestion counts, merged email suggestions, and accepted suggestion indices.
+// ---
+
 #include "components/autofill/core/browser/metrics/suggestions_list_metrics.h"
 
 #include <stddef.h>

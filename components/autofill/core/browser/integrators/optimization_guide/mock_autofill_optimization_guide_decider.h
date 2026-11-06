@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AutofillOptimizationGuideDecider declaration
+// summary: Declares a gmock subclass of AutofillOptimizationGuideDecider that stubs its decision methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_OPTIMIZATION_GUIDE_MOCK_AUTOFILL_OPTIMIZATION_GUIDE_DECIDER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_OPTIMIZATION_GUIDE_MOCK_AUTOFILL_OPTIMIZATION_GUIDE_DECIDER_H_
 

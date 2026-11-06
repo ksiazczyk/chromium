@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card save metrics header
+// summary: Defines card upload decision bit flags and declares logging functions for credit card save and upload metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_CREDIT_CARD_SAVE_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_CREDIT_CARD_SAVE_METRICS_H_
 

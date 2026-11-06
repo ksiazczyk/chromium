@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AtMemory string filtering utilities
+// summary: Tests exact, prefix, and fuzzy token matching plus raw-value query behavior across memory data types.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/at_memory_string_filtering_util.h"
 
 #include "components/autofill/core/browser/integrators/at_memory/memory_data_type.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card standalone CVC suggestion metrics declarations
+// summary: Declares the enum of virtual card standalone CVC suggestion form events and its logging function.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_VIRTUAL_CARD_STANDALONE_CVC_SUGGESTION_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_VIRTUAL_CARD_STANDALONE_CVC_SUGGESTION_METRICS_H_
 

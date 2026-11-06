@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile token quality metrics implementation
+// summary: Implements metrics that track stored profile token quality observations and acceptance rates for address profile field types.
+// ---
+
 #include "components/autofill/core/browser/metrics/profile_token_quality_metrics.h"
 
 #include <stddef.h>

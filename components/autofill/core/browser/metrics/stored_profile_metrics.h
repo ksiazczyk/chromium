@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stored profile metrics declarations
+// summary: Declares the StoredProfileCounts struct and functions for logging metrics about stored autofill profiles.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_STORED_PROFILE_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_STORED_PROFILE_METRICS_H_
 

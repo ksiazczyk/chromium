@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL metrics unit tests
+// summary: Unit tests verifying that BNPL autofill metrics, including settings toggles, synced issuer counts and dialog results, are logged to the expected histograms.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/bnpl_metrics.h"
 
 #include "base/strings/strcat.h"

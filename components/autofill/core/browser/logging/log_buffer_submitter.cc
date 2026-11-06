@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogBufferSubmitter implementation
+// summary: Implements the LogBufferSubmitter class that submits buffered log entries to a LogManager when the submitter is destroyed.
+// ---
+
 #include "components/autofill/core/browser/logging/log_buffer_submitter.h"
 
 #include <optional>

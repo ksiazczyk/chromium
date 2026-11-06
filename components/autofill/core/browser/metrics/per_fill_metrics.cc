@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-fill metrics implementation
+// summary: Logs histograms about the number of fields modified by autofill and refills, refill trigger reasons and trigger field types.
+// ---
+
 #include "components/autofill/core/browser/metrics/per_fill_metrics.h"
 
 #include <stddef.h>

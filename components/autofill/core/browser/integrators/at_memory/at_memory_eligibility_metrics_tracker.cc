@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory eligibility metrics tracker implementation
+// summary: Implements a tracker that observes eligibility services and prefs and logs AtMemory non-eligibility reasons as UMA histograms.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/at_memory_eligibility_metrics_tracker.h"
 
 #include <optional>

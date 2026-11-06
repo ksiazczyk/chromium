@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask authentication metrics implementation
+// summary: Implements histogram logging for CVC and OTP authentication attempts, results, retryable errors and request latencies during card unmasking.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/card_unmask_authentication_metrics.h"
 
 #include <string_view>

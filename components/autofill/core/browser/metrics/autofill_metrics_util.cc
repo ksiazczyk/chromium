@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill metrics utility functions
+// summary: Implements helpers that classify forms and profiles for autofill metrics logging.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_metrics_util.h"
 
 #include <stdint.h>

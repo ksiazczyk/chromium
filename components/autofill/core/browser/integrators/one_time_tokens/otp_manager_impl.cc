@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpManagerImpl implementation
+// summary: Implements OTP suggestion retrieval, fetching SMS and Gmail one-time tokens and applying PhishGuard checks before delivering them to the autofill UI.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_manager_impl.h"
 
 #include <algorithm>

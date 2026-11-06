@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of memory data type utilities
+// summary: Implements date parsing and formatting, mappings between MemoryDataType and field, attribute, entity, and policy types, and conversion of query response protos into results.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/memory_data_type_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time token log handler implementation
+// summary: Creates a log handler that forwards one-time token log messages to the autofill LogRouter under the kOneTimeTokens logging scope.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/one_time_token_log_handler.h"
 
 #include <memory>

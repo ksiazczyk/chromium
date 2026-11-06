@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPaymentMethodDelegate interface for payments bottom sheet
+// summary: Declares the delegate interface for the TouchToFillPaymentMethodController bottom sheet, covering credit card, IBAN, loyalty card and BNPL suggestion handling and dismissal events.
+// ---
+
 #include <stdint.h>
 
 #include <optional>

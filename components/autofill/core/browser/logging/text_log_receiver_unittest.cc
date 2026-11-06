@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextLogReceiver unit tests
+// summary: Integration-style test checking that TextLogReceiver renders HTML-like log buffer entries, including tables and fragments, into the expected text.
+// ---
+
 #include "components/autofill/core/browser/logging/text_log_receiver.h"
 
 #include "base/json/json_reader.h"

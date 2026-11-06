@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN metrics unit tests
+// summary: Unit tests validating stored IBAN count, nickname, and disused IBAN histograms logged by LogStoredIbanMetrics.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/iban_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityCredentialDelegate interface header
+// summary: Defines the delegate interface connecting Chromium's autofill component to //content/browser/webid, generating cryptographically signed autofill suggestions from FedCM identity providers such as verified email addresses.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_IDENTITY_CREDENTIAL_IDENTITY_CREDENTIAL_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_IDENTITY_CREDENTIAL_IDENTITY_CREDENTIAL_DELEGATE_H_
 

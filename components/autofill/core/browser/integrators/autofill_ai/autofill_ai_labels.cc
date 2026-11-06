@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entity label generation implementation
+// summary: Implements building of disambiguating labels for Autofill AI entities used in suggestions and the settings page, with obfuscation of sensitive values.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_labels.h"
 
 #include <stddef.h>

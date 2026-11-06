@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogBuffer serialization for protobuf repeated fields
+// summary: Adds a LogBuffer stream operator that serializes protobuf RepeatedField values into autofill log entries.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_LOG_PROTOBUFS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_LOG_PROTOBUFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address save metrics header
+// summary: Declares the AutofillManuallyAddedAddressSurface enum and the logging function for manually added addresses.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_ADDRESS_SAVE_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_ADDRESS_SAVE_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Better auth metrics header
+// summary: Declares persisted enums and logging functions for WebAuthn and FIDO card unmasking authentication metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_BETTER_AUTH_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_BETTER_AUTH_METRICS_H_
 

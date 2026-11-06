@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the actor form filling types library
+summary: Defines the static_library target for actor_form_filling_types sources and its public dependencies.

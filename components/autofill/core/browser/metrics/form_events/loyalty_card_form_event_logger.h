@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card form event logger class declaration
+// summary: Declares the LoyaltyCardFormEventLogger class and the AffiliationCategoryMetricBucket enum used to record loyalty card autofill metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_FORM_EVENTS_LOYALTY_CARD_FORM_EVENT_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_FORM_EVENTS_LOYALTY_CARD_FORM_EVENT_LOGGER_H_
 

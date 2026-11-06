@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Risk data metrics implementation
+// summary: Implements histogram logging of risk data loading latency for autofill payments.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/risk_data_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

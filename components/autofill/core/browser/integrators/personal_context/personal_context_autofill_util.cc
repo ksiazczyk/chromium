@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context Autofill settings utility implementation
+// summary: Implements ShouldShowPersonalContextAutofillSetting, which decides whether the Personal Context setting appears on the Autofill settings page based on eligibility, sync, and permission checks.
+// ---
+
 #include "components/autofill/core/browser/integrators/personal_context/personal_context_autofill_util.h"
 
 #include "components/autofill/core/browser/at_memory/at_memory_enablement_util.h"

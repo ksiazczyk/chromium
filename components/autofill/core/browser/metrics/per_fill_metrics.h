@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-fill metrics header
+// summary: Declares functions logging per-fill metrics such as modified field counts, refill trigger reasons and trigger field types.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PER_FILL_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PER_FILL_METRICS_H_
 

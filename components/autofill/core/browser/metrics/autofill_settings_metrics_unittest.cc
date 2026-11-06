@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill settings metrics unit tests
+// summary: Unit tests verifying Autofill settings metrics logging, including enterprise policy scenarios.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_settings_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

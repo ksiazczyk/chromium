@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpFieldDetector class header
+// summary: Declares the OtpFieldDetector utility class that tracks OTP field presence transitions per WebContents and exposes detection and submission callbacks.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_OTP_FIELD_DETECTOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_OTP_FIELD_DETECTOR_H_
 

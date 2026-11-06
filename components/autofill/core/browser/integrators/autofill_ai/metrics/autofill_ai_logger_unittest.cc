@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI logger unit tests
+// summary: Unit tests verifying the histogram and UKM metrics recorded by the AutofillAiLogger across form interactions and import prompts.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/metrics/autofill_ai_logger.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete key metrics logger header
+// summary: Declares the AutocompleteKeyMetricsLogger class that tracks per-field autocomplete suggestion state and records key filling metrics.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_AUTOCOMPLETE_KEY_METRICS_LOGGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_AUTOCOMPLETE_KEY_METRICS_LOGGER_H_
 

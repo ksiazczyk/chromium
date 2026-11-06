@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor form filling types header
+// summary: Declares enums for actor form filling errors and requested data plus suggestion and request structs.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ACTOR_ACTOR_FORM_FILLING_TYPES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ACTOR_ACTOR_FORM_FILLING_TYPES_H_
 

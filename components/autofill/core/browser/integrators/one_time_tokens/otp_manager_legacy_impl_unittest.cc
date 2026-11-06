@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtpManagerLegacyImpl unit tests
+// summary: Unit tests for the legacy OTP manager covering SMS OTP fetching, PhishGuard verdicts, metrics histograms, and suggestion delivery.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_manager_legacy_impl.h"
 
 #include "base/test/gmock_callback_support.h"

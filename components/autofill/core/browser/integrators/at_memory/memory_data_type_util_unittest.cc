@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for memory data type utilities
+// summary: Tests proto-to-local enum mapping, field and attribute type translation, and other memory data type utility behavior.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/memory_data_type_util.h"
 
 #include <optional>

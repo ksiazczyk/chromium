@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice metrics implementation
+// summary: Implements histogram logging for Wallet Reminder Notice interactions and show results, broken down by flow type.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/wallet_reminder_notice_metrics.h"
 
 #include <string_view>

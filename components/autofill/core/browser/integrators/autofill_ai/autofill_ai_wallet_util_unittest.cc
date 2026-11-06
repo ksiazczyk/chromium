@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Autofill AI Wallet utilities
+// summary: Unit tests covering Wallet upsert response handling, entity writes to the EntityDataManager, and the resulting UI notifications.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_wallet_util.h"
 
 #include "base/test/protobuf_matchers.h"

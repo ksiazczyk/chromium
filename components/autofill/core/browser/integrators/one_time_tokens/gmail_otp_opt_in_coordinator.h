@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP opt-in coordinator class declaration
+// summary: Declares a tab-scoped coordinator that correlates OTP field detections with Gmail push notifications across navigations to trigger the opt-in bubble.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_COORDINATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_COORDINATOR_H_
 

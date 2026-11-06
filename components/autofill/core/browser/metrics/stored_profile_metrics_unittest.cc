@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stored profile metrics unit tests
+// summary: Parameterized unit tests verifying stored profile count and usage metrics across autofill profile categories.
+// ---
+
 #include "components/autofill/core/browser/metrics/stored_profile_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

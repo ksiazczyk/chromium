@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address on typing manager unit tests
+// summary: Unit tests for AddressOnTypingManager covering strike database behavior when address-on-typing suggestions are shown or accepted and the related metrics.
+// ---
+
 #include "components/autofill/core/browser/integrators/address_on_typing/address_on_typing_manager.h"
 
 #include <memory>

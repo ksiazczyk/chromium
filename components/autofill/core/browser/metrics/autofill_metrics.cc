@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillMetrics implementation
+// summary: Implements UMA and UKM logging of autofill form events, popup interactions, and payments behavior.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_metrics.h"
 
 #include <stddef.h>

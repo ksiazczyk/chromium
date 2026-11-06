@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP suggestion fill data implementation
+// summary: Computes which form fields receive which parts of an OTP value when a suggestion is selected, splitting codes across multiple fields.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_suggestion.h"
 
 #include <stddef.h>

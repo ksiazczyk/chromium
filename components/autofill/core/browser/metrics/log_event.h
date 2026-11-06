@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form log event definitions
+// summary: Defines structs and enums describing field and form log events for autofill, together with helpers that collapse redundant events.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_LOG_EVENT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_LOG_EVENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address data cleaner metrics header
+// summary: Declares logging functions for address dedupe and disuse-deletion metrics in the autofill_metrics namespace.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_ADDRESS_DATA_CLEANER_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_ADDRESS_DATA_CLEANER_METRICS_H_
 

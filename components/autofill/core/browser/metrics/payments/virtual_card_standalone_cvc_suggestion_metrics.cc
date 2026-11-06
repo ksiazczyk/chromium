@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card standalone CVC suggestion metrics implementation
+// summary: Logs standalone CVC suggestion form events for virtual cards to the Autofill.VirtualCard.StandaloneCvc.FormEvents histogram.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/virtual_card_standalone_cvc_suggestion_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

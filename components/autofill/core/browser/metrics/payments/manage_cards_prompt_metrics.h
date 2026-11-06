@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage cards prompt metrics header
+// summary: Declares the ManageCardsPromptMetric enum and logging function for the manage cards prompt shown after saving a local card.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_MANAGE_CARDS_PROMPT_METRICS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_PAYMENTS_MANAGE_CARDS_PROMPT_METRICS_H_
 

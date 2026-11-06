@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet usage data metrics implementation
+// summary: Implements UMA logging for virtual card usage data, recording the number of stored usage data entries and whether synced usage data is valid.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/wallet_usage_data_metrics.h"
 
 #include <stddef.h>

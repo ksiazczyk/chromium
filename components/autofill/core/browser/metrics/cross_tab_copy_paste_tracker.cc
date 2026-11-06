@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-tab copy-paste tracker implementation
+// summary: Tracks clipboard copy and paste across tabs and logs UKM clipboard copy-paste events.
+// ---
+
 #include "components/autofill/core/browser/metrics/cross_tab_copy_paste_tracker.h"
 
 #include "base/feature_list.h"

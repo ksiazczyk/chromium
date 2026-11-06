@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask flow metrics implementation
+// summary: Implements UMA histogram logging for server card unmask attempts, results, form submissions, and CVC filling flows.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/card_unmask_flow_metrics.h"
 
 #include <string_view>

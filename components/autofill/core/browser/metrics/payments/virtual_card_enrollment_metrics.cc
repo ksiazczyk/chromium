@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment metrics implementation
+// summary: Implements histogram logging for virtual card enrollment bubbles, enrollment requests, and strike database events.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/virtual_card_enrollment_metrics.h"
 
 #include <string>

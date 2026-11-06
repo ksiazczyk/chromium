@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password manager autofill BUILD.gn
+summary: Defines the static library and unit test targets for the password manager autofill integrator component.

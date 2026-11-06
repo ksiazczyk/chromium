@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager autofill helper implementation
+// summary: Implements the helper that checks whether a field was autofilled with a one-time password via the autofill manager.
+// ---
+
 #include "components/autofill/core/browser/integrators/password_manager/password_manager_autofill_helper.h"
 
 #include "components/autofill/core/browser/autofill_field.h"

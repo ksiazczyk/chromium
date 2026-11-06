@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill metrics test base implementation
+// summary: Implements shared mocks and fixture setup used by autofill metrics unit tests.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_metrics_test_base.h"
 
 #include <memory>

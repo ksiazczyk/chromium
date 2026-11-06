@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-tab copy-paste tracker interface
+// summary: Declares a keyed service that correlates cross-tab copy-paste events for UKM logging.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_CROSS_TAB_COPY_PASTE_TRACKER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_METRICS_CROSS_TAB_COPY_PASTE_TRACKER_H_
 

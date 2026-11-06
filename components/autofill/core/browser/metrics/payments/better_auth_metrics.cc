@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Better auth metrics implementation
+// summary: Logs card unmasking durations, WebAuthn preflight calls, user-perceived latency, verifiability checks, and opt-in promo metrics for FIDO-based card authentication.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/better_auth_metrics.h"
 
 #include <string>

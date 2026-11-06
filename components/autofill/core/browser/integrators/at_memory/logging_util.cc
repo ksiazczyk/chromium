@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory logging utilities implementation
+// summary: Implements human-readable logging of fetch plans, filters, sources, and memory search results for autofill internals.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/logging_util.h"
 
 #include <string>

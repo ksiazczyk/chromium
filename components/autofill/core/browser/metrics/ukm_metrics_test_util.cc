@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM metrics test utility implementation
+// summary: Implements helpers that extract recorded UKM events and convert metric hashes into readable names so autofill metrics tests can match expected events.
+// ---
+
 #include "components/autofill/core/browser/metrics/ukm_metrics_test_util.h"
 
 #include "base/check_deref.h"

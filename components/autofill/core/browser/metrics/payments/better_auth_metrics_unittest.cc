@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Better auth metrics unit tests
+// summary: Parameterized tests verifying better auth metric logging for credit card unmasking preflight calls across local card, server card, and FIDO eligibility combinations.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "components/autofill/core/browser/metrics/autofill_metrics_test_base.h"
 #include "components/autofill/core/browser/payments/credit_card_access_manager_test_api.h"

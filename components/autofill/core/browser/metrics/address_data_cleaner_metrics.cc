@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address data cleaner metrics implementation
+// summary: Logs UMA histograms about the number of profiles considered and removed during dedupe and addresses deleted for disuse.
+// ---
+
 #include "components/autofill/core/browser/metrics/address_data_cleaner_metrics.h"
 
 #include <stddef.h>

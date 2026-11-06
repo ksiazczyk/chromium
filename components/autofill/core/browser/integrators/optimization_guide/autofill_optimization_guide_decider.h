@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillOptimizationGuideDecider class declaration
+// summary: Declares a per-profile keyed service that registers optimization guide types and decides whether autofill suggestions or benefit labels are blocked per URL.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_OPTIMIZATION_GUIDE_AUTOFILL_OPTIMIZATION_GUIDE_DECIDER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_OPTIMIZATION_GUIDE_AUTOFILL_OPTIMIZATION_GUIDE_DECIDER_H_
 

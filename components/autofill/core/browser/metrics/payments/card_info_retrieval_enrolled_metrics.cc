@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card info retrieval enrolled metrics implementation
+// summary: Implements histogram logging of form events and unmask results for credit cards enrolled in card info retrieval.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/card_info_retrieval_enrolled_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

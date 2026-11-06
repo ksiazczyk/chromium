@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubLogManager class header
+// summary: Declares StubLogManager, a no-op LogManager implementation to be used in tests only.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_STUB_LOG_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_STUB_LOG_MANAGER_H_
 

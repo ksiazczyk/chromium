@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filled card information bubble metrics implementation
+// summary: Logs histograms for showing, closing, and field clicks in the filled card information bubble shown after unmasking and filling a virtual card.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/filled_card_information_bubble_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

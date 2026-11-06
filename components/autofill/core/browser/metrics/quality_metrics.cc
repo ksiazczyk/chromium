@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill quality metrics implementation
+// summary: Implements logging of autofill quality metrics for submitted forms, including perfect filling, duration, and prediction-related histograms.
+// ---
+
 #include "components/autofill/core/browser/metrics/quality_metrics.h"
 
 #include <stddef.h>

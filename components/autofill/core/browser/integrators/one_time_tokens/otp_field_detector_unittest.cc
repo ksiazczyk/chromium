@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OtpFieldDetector unit tests
+// summary: Unit tests covering the OTP field detection callbacks, form eligibility rules, and transitions between zero and multiple OTP forms.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_field_detector.h"
 
 #include <optional>

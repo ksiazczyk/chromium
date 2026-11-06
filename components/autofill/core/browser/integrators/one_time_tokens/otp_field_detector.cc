@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP field detector implementation
+// summary: Implements detection of one-time-code fields and forms in Autofill, notifying observers when OTP fields appear or are submitted.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_field_detector.h"
 
 #include <memory>

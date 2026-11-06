@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card form event logger unit tests
+// summary: Unit tests for the credit card form event logger covering suggestion metrics, BNPL events, UKM logging and payments-related autofill form events.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/credit_card_form_event_logger.h"
 
 #include "base/test/gmock_callback_support.h"

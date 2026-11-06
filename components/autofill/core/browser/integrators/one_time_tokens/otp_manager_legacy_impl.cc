@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtpManagerLegacyImpl implementation
+// summary: Implements the legacy OTP manager that retrieves SMS one-time tokens and delivers them as autofill suggestions for eligible OTP fields.
+// ---
+
 #include "components/autofill/core/browser/integrators/one_time_tokens/otp_manager_legacy_impl.h"
 
 #include <string>

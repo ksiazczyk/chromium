@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card form event logger implementation
+// summary: Implements metrics logging for loyalty card autofill form events, including affiliation category buckets, suggestion filling and readiness tracking.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_events/loyalty_card_form_event_logger.h"
 
 #include <optional>

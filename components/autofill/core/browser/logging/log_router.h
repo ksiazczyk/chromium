@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogRouter class declaration
+// summary: Declares the LogRouter keyed service that connects LogManager instances to LogReceiver instances and notifies managers when logging becomes possible.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_LOG_ROUTER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_LOG_ROUTER_H_
 

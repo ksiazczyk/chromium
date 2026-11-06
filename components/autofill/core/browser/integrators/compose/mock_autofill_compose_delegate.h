@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAutofillComposeDelegate gmock header
+// summary: Declares a gmock-based MockAutofillComposeDelegate implementing all AutofillComposeDelegate methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_COMPOSE_MOCK_AUTOFILL_COMPOSE_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_COMPOSE_MOCK_AUTOFILL_COMPOSE_DELEGATE_H_
 

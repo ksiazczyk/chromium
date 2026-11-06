@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordFormClassification struct
+// summary: Defines the PasswordFormClassification struct describing Password Manager form parsing predictions such as login, signup, change, and reset password forms.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_PASSWORD_FORM_CLASSIFICATION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_PASSWORD_FORM_CLASSIFICATION_H_
 

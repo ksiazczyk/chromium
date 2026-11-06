@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet usage data metrics unit tests
+// summary: Unit tests verifying that the stored virtual card usage data count is correctly logged to the Autofill.VirtualCardUsageData.StoredUsageDataCount histogram.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/wallet_usage_data_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

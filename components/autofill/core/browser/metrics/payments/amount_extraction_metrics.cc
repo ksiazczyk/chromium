@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amount extraction metrics implementation
+// summary: Logs heuristic regex component installation results and amount extraction results with latency to UMA histograms and UKM.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/amount_extraction_metrics.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AtMemoryQueryService declaration
+// summary: Declares a gmock-based mock of AtMemoryQueryService that stubs the Query method for testing.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_AT_MEMORY_MOCK_AT_MEMORY_QUERY_SERVICE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_AT_MEMORY_MOCK_AT_MEMORY_QUERY_SERVICE_H_
 

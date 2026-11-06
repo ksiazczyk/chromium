@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogBufferSubmitter class declaration
+// summary: Declares a LogBuffer container that submits its contents to a LogManager on destruction, enabling stream-style autofill logging statements.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_LOG_BUFFER_SUBMITTER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_LOGGING_LOG_BUFFER_SUBMITTER_H_
 

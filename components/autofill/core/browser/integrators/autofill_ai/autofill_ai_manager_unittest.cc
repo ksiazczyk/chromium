@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Autofill AI manager
+// summary: Extensive unit tests for the Autofill AI manager covering suggestions, import prompts, metrics and wallet reminder behavior.
+// ---
+
 #include "components/autofill/core/browser/integrators/autofill_ai/autofill_ai_manager.h"
 
 #include "base/containers/flat_set.h"

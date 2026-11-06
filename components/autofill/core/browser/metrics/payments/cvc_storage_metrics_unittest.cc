@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CVC storage metrics unit tests
+// summary: Parameterized unit tests verifying CVC storage histograms for normal credit card forms and standalone CVC forms with local and masked server cards.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/cvc_storage_metrics.h"
 
 #include "base/test/gmock_callback_support.h"

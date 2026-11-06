@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogManager implementation
+// summary: Implements routing and buffering log managers that forward autofill log entries to a LogRouter or buffer them for later flushing to another manager.
+// ---
+
 #include "components/autofill/core/browser/logging/log_manager.h"
 
 #include <memory>

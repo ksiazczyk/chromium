@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form interactions UKM logger implementation
+// summary: Implements sampled UKM logging of autofill form interactions such as shown suggestions and filled fields.
+// ---
+
 #include "components/autofill/core/browser/metrics/form_interactions_ukm_logger.h"
 
 #include <stddef.h>

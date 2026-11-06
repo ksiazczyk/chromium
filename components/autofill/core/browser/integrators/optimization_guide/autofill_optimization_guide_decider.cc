@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill optimization guide decider implementation
+// summary: Implements per-origin autofill decisions such as blocking card suggestions and mapping cards to optimization types like VCN opt-out and card benefits.
+// ---
+
 #include "components/autofill/core/browser/integrators/optimization_guide/autofill_optimization_guide_decider.h"
 
 #include <algorithm>

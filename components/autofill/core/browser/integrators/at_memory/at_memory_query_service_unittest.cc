@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the AtMemory query service
+// summary: Tests the AtMemory query service, covering result merging, filtering, ranking, and eligibility metrics logging.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/at_memory_query_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card metadata metrics unit tests
+// summary: Parameterized unit tests verifying card metadata and benefit metrics across issuers, networks and card art configurations.
+// ---
+
 #include "components/autofill/core/browser/metrics/payments/card_metadata_metrics.h"
 
 #include "base/strings/strcat.h"

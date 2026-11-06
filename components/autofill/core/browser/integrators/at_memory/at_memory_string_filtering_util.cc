@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory string filtering utilities implementation
+// summary: Implements fuzzy token matching with Levenshtein distance and raw-value query matching used to filter memory entries.
+// ---
+
 #include "components/autofill/core/browser/integrators/at_memory/at_memory_string_filtering_util.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools test addresses metrics implementation
+// summary: Logs UMA histograms for DevTools test address suggestions being shown and for which country's test address was accepted.
+// ---
+
 #include "components/autofill/core/browser/metrics/autofill_in_devtools_metrics.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile import metrics unit tests
+// summary: Unit tests verifying that address profile import status and requirement histograms are logged correctly on form submission.
+// ---
+
 #include "components/autofill/core/browser/metrics/profile_import_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

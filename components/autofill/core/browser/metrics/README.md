@@ -1,3 +1,12 @@
+---
+type: readme
+title: Autofill metrics guidelines for new features
+summary: Explains how to add metrics for new Autofill features using per-feature files in the autofill_metrics namespace instead of the monolithic autofill_metrics files.
+relations:
+  - references /components/autofill/core/browser/metrics/autofill_metrics.h
+  - references /components/autofill/core/browser/metrics/autofill_metrics.cc
+---
+
 ## Adding metrics for a new feature?
 
 Please do **not** add your metrics in `autofill_metrics.*`! Instead, help

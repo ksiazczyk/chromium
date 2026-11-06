@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory eligibility metrics tracker class declaration
+// summary: Declares the AtMemoryEligibilityMetricsTracker class that records non-eligibility UMA metrics for personal context and subscription changes.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_AT_MEMORY_AT_MEMORY_ELIGIBILITY_METRICS_TRACKER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_INTEGRATORS_AT_MEMORY_AT_MEMORY_ELIGIBILITY_METRICS_TRACKER_H_
 
