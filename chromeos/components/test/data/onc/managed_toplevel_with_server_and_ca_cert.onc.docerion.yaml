@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_server_and_ca_cert.onc.
+type: test
+title: Managed toplevel ONC with server and CA certificates
+summary: Test fixture of a managed unencrypted ONC configuration containing web authority, server, and client certificate entries.

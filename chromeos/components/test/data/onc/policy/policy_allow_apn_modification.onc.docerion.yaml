@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_apn_modification.onc.
+type: test
+title: ONC policy fixture for AllowAPNModification
+summary: ONC policy fixture setting GlobalNetworkConfiguration AllowAPNModification to false for a managed cellular network.

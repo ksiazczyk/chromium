@@ -1,0 +1,4 @@
+# Docerion header of openvpn_clientcert_with_cert_pems.onc.
+type: test
+title: OpenVPN configuration with client certificate PEM pattern
+summary: Test fixture of an OpenVPN configuration with a client certificate pattern using issuer PEMs, subject fields, and an enrollment URI.

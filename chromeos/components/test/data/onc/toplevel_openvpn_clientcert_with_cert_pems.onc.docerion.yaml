@@ -1,0 +1,4 @@
+# Docerion header of toplevel_openvpn_clientcert_with_cert_pems.onc.
+type: test
+title: toplevel_openvpn_clientcert_with_cert_pems
+summary: ONC test configuration with an OpenVPN VPN network plus client PKCS12 and authority certificates, used to test certificate-based VPN import.

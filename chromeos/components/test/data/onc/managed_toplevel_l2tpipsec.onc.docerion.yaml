@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_l2tpipsec.onc.
+type: test
+title: Managed toplevel L2TP-IPsec ONC test configuration
+summary: Test ONC configuration defining an L2TP-IPsec VPN with certificate-based IPsec authentication and recommended username and password fields.

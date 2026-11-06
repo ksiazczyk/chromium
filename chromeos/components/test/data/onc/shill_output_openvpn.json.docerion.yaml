@@ -1,0 +1,4 @@
+# Docerion header of shill_output_openvpn.json.
+type: test
+title: Shill OpenVPN VPN config
+summary: Shill VPN service configuration for a full OpenVPN setup including TLS auth key, certificate verification and challenge settings, used as test data.

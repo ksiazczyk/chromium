@@ -1,0 +1,4 @@
+# Docerion header of shill_openvpn_compression_algorithm_lzo.json.
+type: test
+title: Shill OpenVPN config with LZO compression
+summary: Sample shill VPN service configuration for an OpenVPN network using the LZO compression algorithm, stored as test data.

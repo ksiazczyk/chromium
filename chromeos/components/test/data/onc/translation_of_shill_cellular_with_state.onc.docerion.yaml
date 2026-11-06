@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_cellular_with_state.onc.
+type: test
+title: Shill cellular translation test with full cellular state
+summary: Test fixture of a shill cellular network with activation, APN, SIM lock, and roaming details used to verify translation into ONC.

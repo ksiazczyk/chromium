@@ -1,0 +1,4 @@
+# Docerion header of settings_with_normalization.json.
+type: test
+title: ONC settings normalization test cases
+summary: Paired network settings and their normalized forms used to test ONC settings normalization.

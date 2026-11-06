@@ -1,0 +1,4 @@
+# Docerion header of wifi_wep_8021x_clientcert_with_cert_pems.onc.
+type: test
+title: WiFi WEP-8021X network with client certificate PEM pattern
+summary: ONC test configuration for a WEP-8021X WiFi network using EAP-TLS with a client certificate pattern based on issuer CA PEMs and an enrollment URI.

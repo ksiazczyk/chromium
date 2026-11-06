@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_wep_proxy.onc.
+type: test
+title: 'ONC test config: WEP WiFi with manual proxy'
+summary: Test fixture for an unencrypted ONC configuration with a WEP-PSK WiFi network and manual proxy settings including exclusions.

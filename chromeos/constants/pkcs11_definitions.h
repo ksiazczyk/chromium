@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKCS#11 standard types and constants
+// summary: Defines PKCS#11 v2.20 types, constants, and attribute values with a PKCS11_ prefix to avoid collisions with NSS.
+// ---
+
 #ifndef CHROMEOS_CONSTANTS_PKCS11_DEFINITIONS_H_
 #define CHROMEOS_CONSTANTS_PKCS11_DEFINITIONS_H_
 

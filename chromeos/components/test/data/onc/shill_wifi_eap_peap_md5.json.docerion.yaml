@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_eap_peap_md5.json.
+type: test
+title: Shill WiFi EAP PEAP MD5 config
+summary: Test fixture with a shill WiFi PEAP configuration that uses MD5 inner authentication and system CAs.

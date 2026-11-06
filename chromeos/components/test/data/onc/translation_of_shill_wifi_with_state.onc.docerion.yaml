@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_with_state.onc.
+type: test
+title: Shill WiFi with connection state translation test data
+summary: Test ONC fixture of a WPA-PSK WiFi network including state fields such as BSSID, signal strength and connection state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS command-line switch declarations
+// summary: Declares command-line switches shared between ash-chrome and lacros-chrome.
+// ---
+
 #ifndef CHROMEOS_CONSTANTS_CHROMEOS_SWITCHES_H_
 #define CHROMEOS_CONSTANTS_CHROMEOS_SWITCHES_H_
 

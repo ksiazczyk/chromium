@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_openvpn.onc.
+type: test
+title: Expected ONC for Shill OpenVPN configuration
+summary: Expected ONC translation of a Shill OpenVPN configuration with TLS auth key, server CA PEMs and verify options, used in tests.

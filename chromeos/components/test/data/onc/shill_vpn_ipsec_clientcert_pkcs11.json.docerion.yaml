@@ -1,0 +1,4 @@
+# Docerion header of shill_vpn_ipsec_clientcert_pkcs11.json.
+type: test
+title: Shill IPsec VPN with PKCS#11 client certificate
+summary: Shill fixture for an L2TP/IPsec VPN using a PKCS#11 client certificate slot, PIN and proxy configuration, used in ONC translation tests.

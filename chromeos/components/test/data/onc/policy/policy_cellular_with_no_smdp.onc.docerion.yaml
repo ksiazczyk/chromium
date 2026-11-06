@@ -1,0 +1,4 @@
+# Docerion header of policy_cellular_with_no_smdp.onc.
+type: test
+title: ONC policy for a cellular network without SM-DP address
+summary: Test fixture ONC policy defining a managed cellular network that lacks an SM-DP address.

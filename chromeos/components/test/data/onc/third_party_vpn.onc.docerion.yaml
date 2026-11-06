@@ -1,0 +1,4 @@
+# Docerion header of third_party_vpn.onc.
+type: test
+title: Third-party VPN ONC test data
+summary: ONC test fixture describing a third-party VPN network that references a browser extension ID.

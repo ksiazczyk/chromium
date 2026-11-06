@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS command-line switch definitions
+// summary: Defines shared command-line switches and a helper for the Gemini app preinstall activation time threshold and Mahi restrictions.
+// ---
+
 #include "chromeos/constants/chromeos_switches.h"
 
 #include "base/command_line.h"

@@ -1,0 +1,4 @@
+# Docerion header of certificate-web-authority.onc.
+type: test
+title: ONC test config with a web-trusted certificate authority
+summary: Test ONC configuration containing an unencrypted certificate authority with Web trust bits and no network configurations.

@@ -1,0 +1,4 @@
+# Docerion header of policy_vpn_ipsec_ui.json.
+type: test
+title: L2TP-IPsec VPN UI test configuration
+summary: JSON fixture describing the UI-facing values of the L2TP-IPsec VPN policy, including an updated PSK and a ClientCertType that should be ignored.

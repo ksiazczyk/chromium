@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wireguard.onc.
+type: test
+title: Shill WireGuard VPN translation test data
+summary: Test ONC fixture of a WireGuard VPN configuration with peer endpoint, keys and static DNS, used in shill translation tests.

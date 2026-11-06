@@ -1,0 +1,4 @@
+# Docerion header of cert_with_valid_scope.onc.
+type: test
+title: Certificate ONC with valid extension scope
+summary: Test ONC certificate entry for an authority certificate scoped to a specific extension ID.

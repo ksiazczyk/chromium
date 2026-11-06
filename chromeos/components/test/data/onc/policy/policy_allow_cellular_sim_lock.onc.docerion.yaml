@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_cellular_sim_lock.onc.
+type: test
+title: ONC policy fixture for AllowCellularSimLock
+summary: ONC policy fixture setting GlobalNetworkConfiguration AllowCellularSimLock to false for a managed cellular network.

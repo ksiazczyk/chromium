@@ -1,0 +1,4 @@
+# Docerion header of policy_empty_global_network_configuration.onc.
+type: test
+title: ONC policy with empty global network configuration
+summary: Test fixture ONC policy with an empty network list and an empty GlobalNetworkConfiguration object.

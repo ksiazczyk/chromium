@@ -1,0 +1,4 @@
+# Docerion header of repaired_toplevel_partially_invalid.onc.
+type: test
+title: Repaired partially invalid ONC configuration
+summary: Test ONC configuration with a partially invalid setup covering VPN, WiFi and certificates for repair handling.

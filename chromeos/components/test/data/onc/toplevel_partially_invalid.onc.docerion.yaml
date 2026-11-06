@@ -1,0 +1,4 @@
+# Docerion header of toplevel_partially_invalid.onc.
+type: test
+title: toplevel_partially_invalid
+summary: ONC test configuration containing unknown fields and malformed certificates alongside valid VPN, WiFi and Ethernet entries, for testing partial validation and error handling.

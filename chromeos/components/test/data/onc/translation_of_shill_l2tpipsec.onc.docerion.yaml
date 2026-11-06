@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_l2tpipsec.onc.
+type: test
+title: Expected ONC for Shill L2TP-IPsec VPN with pre-shared key
+summary: Expected ONC translation of a Shill L2TP-IPsec VPN configuration with PSK, XAUTH and L2TP credentials, used in tests.

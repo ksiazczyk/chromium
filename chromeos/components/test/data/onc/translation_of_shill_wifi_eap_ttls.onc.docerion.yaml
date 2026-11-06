@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_eap_ttls.onc.
+type: test
+title: Translation of Shill WiFi EAP TTLS
+summary: ONC test fixture of a WPA-EAP WiFi network using EAP-TTLS with MSCHAPv2 inner authentication translated from a Shill dictionary.

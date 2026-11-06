@@ -1,0 +1,4 @@
+# Docerion header of wifi_clientcert_with_cert_pems.onc.
+type: test
+title: WiFi client certificate with CA PEMs test configuration
+summary: ONC test fixture of an EAP-TLS WiFi network using issuer CA PEMs, an enrollment URI, and a PAC proxy.

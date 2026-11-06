@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_eap_tls_ServerCAPEMs.json.
+type: test
+title: Shill WiFi EAP TLS config with server CA PEMs
+summary: Test fixture with a shill WiFi EAP-TLS configuration that includes dummy server CA certificate PEM strings.

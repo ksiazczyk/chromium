@@ -1,0 +1,4 @@
+# Docerion header of broken-encrypted-iterations.onc.
+type: test
+title: Broken encrypted ONC with negative iterations
+summary: Encrypted ONC test file with an invalid negative PBKDF2 iteration count used to exercise decryption failure handling.

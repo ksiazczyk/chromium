@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_with_state.json.
+type: test
+title: Shill WiFi with state test data
+summary: Shill WiFi test fixture that includes connection state fields such as BSSID, signal strength and profile information.

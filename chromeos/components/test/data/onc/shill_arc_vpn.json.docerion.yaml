@@ -1,0 +1,4 @@
+# Docerion header of shill_arc_vpn.json.
+type: test
+title: Shill ARC VPN service test configuration
+summary: Shill service configuration for an ARC VPN with static IP, routes and DNS settings.

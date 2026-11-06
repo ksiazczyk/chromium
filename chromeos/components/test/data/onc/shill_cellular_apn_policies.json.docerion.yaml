@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular_apn_policies.json.
+type: test
+title: Shill cellular APN policies test configuration
+summary: Shill cellular service configuration with an admin-sourced custom APN list.

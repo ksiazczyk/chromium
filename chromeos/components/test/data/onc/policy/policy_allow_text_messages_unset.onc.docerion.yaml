@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_text_messages_unset.onc.
+type: test
+title: ONC policy setting AllowTextMessages to Unset
+summary: Test fixture ONC policy with an empty network list and AllowTextMessages set to Unset in the global network configuration.

@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_ikev2_eap.onc.
+type: test
+title: Expected ONC for Shill IKEv2 VPN with EAP authentication
+summary: Expected ONC translation of a Shill IKEv2 IPsec VPN configuration using EAP MSCHAPv2 authentication, used in tests.

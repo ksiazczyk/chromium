@@ -1,0 +1,4 @@
+# Docerion header of policy_wifi1.onc.
+type: test
+title: Managed WiFi policy test configuration
+summary: ONC policy fixture defining a managed WPA-PSK WiFi network with a passphrase and recommended settings for Chrome OS network policy tests.

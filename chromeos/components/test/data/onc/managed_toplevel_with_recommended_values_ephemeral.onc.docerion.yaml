@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_recommended_values_ephemeral.onc.
+type: test
+title: Managed top level ONC with ephemeral recommended values
+summary: ONC test configuration marking recommended global network values as ephemeral with a managed Ethernet entry.

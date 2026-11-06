@@ -1,0 +1,4 @@
+# Docerion header of toplevel_ca_partially_invalid.onc.
+type: test
+title: Top-level ONC config with partially invalid CA
+summary: ONC top-level test configuration with VPN, WiFi and Ethernet networks plus certificate entries, including a partially invalid authority certificate.

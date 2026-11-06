@@ -1,0 +1,4 @@
+# Docerion header of shill_managed_vpn.json.
+type: test
+title: Shill entry for managed OpenVPN
+summary: Shill profile entry for a managed OpenVPN connection sourced from user policy, with the password omitted because Shill does not report it to Chrome.

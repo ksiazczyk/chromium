@@ -1,0 +1,4 @@
+# Docerion header of valid_openvpn_with_cert_pems.onc.
+type: test
+title: Valid OpenVPN ONC with server CA PEMs
+summary: Test fixture with a valid ONC OpenVPN configuration that supplies server CA PEMs and OTP settings.

@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_disabled_technologies.onc.
+type: test
+title: Managed toplevel with disabled technologies ONC test configuration
+summary: Test ONC configuration that disables cellular, Ethernet and WiFi network types globally alongside an Ethernet network entry.

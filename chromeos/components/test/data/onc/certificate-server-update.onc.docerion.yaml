@@ -1,0 +1,4 @@
+# Docerion header of certificate-server-update.onc.
+type: test
+title: ONC server certificate update
+summary: Test ONC configuration with a server certificate whose trust bits include an unknown flag, checking that such certificates are still imported.

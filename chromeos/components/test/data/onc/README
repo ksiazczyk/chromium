@@ -1,2 +1,8 @@
+---
+type: readme
+title: ONC test data directory README
+summary: Explains that this directory contains test data for ChromeOS-specific network configuration tests.
+---
+
 This directory contains test data for ChromeOS-specific network configuration
 tests.

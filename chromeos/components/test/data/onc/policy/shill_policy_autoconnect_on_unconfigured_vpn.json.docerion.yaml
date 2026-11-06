@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_autoconnect_on_unconfigured_vpn.json.
+type: test
+title: Shill entry with policy autoconnect on unconfigured VPN
+summary: Shill entry showing policy autoconnect applied to an unconfigured OpenVPN network, including managed credentials and provider details.

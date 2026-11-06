@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_eap_peap_md5.onc.
+type: test
+title: Translation of Shill WiFi EAP PEAP MD5
+summary: ONC test fixture of a WPA-EAP WiFi network using PEAP with MD5 inner authentication translated from a Shill dictionary.

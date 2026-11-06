@@ -1,0 +1,4 @@
+# Docerion header of policy_wifi1_with_redundant_fields.onc.
+type: test
+title: Policy WiFi1 with redundant fields ONC test configuration
+summary: ONC policy configuration for managed wifi1 that adds redundant EAP fields on top of the WPA-PSK settings, likely to test field handling.

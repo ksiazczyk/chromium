@@ -1,0 +1,4 @@
+# Docerion header of wifi_dhcp.onc.
+type: test
+title: WiFi DHCP test configuration
+summary: ONC test fixture of a WPA-PSK WiFi network configured to obtain its IP address via DHCP.

@@ -1,0 +1,4 @@
+# Docerion header of valid_cellular_with_admin_apns.onc.
+type: test
+title: Valid cellular ONC with admin APN list
+summary: Test fixture with a valid ONC cellular configuration containing an admin-managed APN list.

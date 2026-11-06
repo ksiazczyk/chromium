@@ -1,0 +1,4 @@
+# Docerion header of broken-encrypted-zero-iterations.onc.
+type: test
+title: Broken encrypted ONC with zero iterations
+summary: Encrypted ONC test file with a zero PBKDF2 iteration count used to exercise decryption failure handling.

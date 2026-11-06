@@ -1,0 +1,4 @@
+# Docerion header of shill_output_openvpn_compression_algorithm_lz4_v2.json.
+type: test
+title: Shill OpenVPN config with lz4-v2 compression
+summary: Shill VPN service configuration for an OpenVPN network using the lz4-v2 compression algorithm, used as test data.

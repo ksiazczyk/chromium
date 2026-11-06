@@ -1,0 +1,4 @@
+# Docerion header of shill_cellular_with_state.json.
+type: test
+title: Shill cellular fixture with full service state
+summary: Shill cellular service test fixture with activation, roaming, APN, and device properties such as home provider and SIM lock status.

@@ -1,0 +1,4 @@
+# Docerion header of toplevel_empty.onc.
+type: test
+title: toplevel_empty
+summary: Minimal ONC test file containing only the UnencryptedConfiguration type and no networks or certificates.

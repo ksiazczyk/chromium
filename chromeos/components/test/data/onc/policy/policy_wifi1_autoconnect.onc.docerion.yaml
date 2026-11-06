@@ -1,0 +1,4 @@
+# Docerion header of policy_wifi1_autoconnect.onc.
+type: test
+title: WiFi policy test configuration with auto-connect
+summary: ONC policy fixture defining a managed WPA-PSK WiFi network with auto-connect enabled for Chrome OS network policy tests.

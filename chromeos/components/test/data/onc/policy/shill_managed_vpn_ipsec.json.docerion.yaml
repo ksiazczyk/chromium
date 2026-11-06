@@ -1,0 +1,4 @@
+# Docerion header of shill_managed_vpn_ipsec.json.
+type: test
+title: Shill entry for managed L2TP/IPsec VPN
+summary: Shill profile entry for a managed L2TP/IPsec VPN connection with user policy source and empty static IP configuration.

@@ -1,0 +1,4 @@
+# Docerion header of valid_cellular_no_recommended.onc.
+type: test
+title: Valid cellular ONC without recommended fields
+summary: Test fixture with a valid ONC cellular network configuration that omits recommended fields.

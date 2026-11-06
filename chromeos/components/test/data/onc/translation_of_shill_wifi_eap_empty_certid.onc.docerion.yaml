@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_eap_empty_certid.onc.
+type: test
+title: Translation of Shill WiFi EAP with empty certificate ID
+summary: ONC test fixture of an EAP-TLS WiFi network translated from a Shill dictionary, exercising subject and subject alternative name matching without a client certificate ID.

@@ -1,0 +1,4 @@
+# Docerion header of policy_vpn_no_auth.onc.
+type: test
+title: OpenVPN policy test configuration without authentication
+summary: ONC policy fixture defining an OpenVPN network with ClientCertType None and no username or password, for Chrome OS network policy tests.

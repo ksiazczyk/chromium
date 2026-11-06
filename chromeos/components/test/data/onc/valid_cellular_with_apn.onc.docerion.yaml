@@ -1,0 +1,4 @@
+# Docerion header of valid_cellular_with_apn.onc.
+type: test
+title: Valid cellular ONC with APN configuration
+summary: Test fixture with a valid ONC cellular configuration that includes APN and SMDP settings.

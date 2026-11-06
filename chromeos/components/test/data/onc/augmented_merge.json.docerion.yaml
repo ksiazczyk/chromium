@@ -1,0 +1,4 @@
+# Docerion header of augmented_merge.json.
+type: test
+title: Augmented merge VPN test data
+summary: Test JSON with device policy, user policy and user setting fields for an OpenVPN network used in augmented merge tests.

@@ -1,0 +1,4 @@
+# Docerion header of shill_output_openvpn_with_errors.json.
+type: test
+title: Shill OpenVPN output with deliberate errors
+summary: Shill VPN output fixture for an OpenVPN network containing intentional errors such as a missing GUID and wrong value types, used to test error handling.

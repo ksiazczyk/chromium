@@ -1,0 +1,4 @@
+# Docerion header of invalid_settings_with_repairs.json.
+type: test
+title: Invalid ONC settings with repaired variants
+summary: Test JSON with invalid ONC settings cases and their expected repaired forms, covering duplicate GUIDs, unknown fields, and out-of-range values.

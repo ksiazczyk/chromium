@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_eap_tls.onc.
+type: test
+title: Translation of Shill WiFi EAP TLS
+summary: ONC test fixture of a WPA-EAP WiFi network with EAP-TLS, a PKCS#11 client certificate and subject matching translated from a Shill dictionary.

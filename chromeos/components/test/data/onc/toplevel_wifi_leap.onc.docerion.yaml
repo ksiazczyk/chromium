@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_leap.onc.
+type: test
+title: toplevel_wifi_leap
+summary: ONC test configuration with a WPA-EAP WiFi network using LEAP authentication, including identity placeholders and a password.

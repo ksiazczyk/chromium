@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_text_messages_allow.onc.
+type: test
+title: ONC policy fixture allowing text messages
+summary: ONC policy fixture setting GlobalNetworkConfiguration AllowTextMessages to Allow with an empty network configuration list.

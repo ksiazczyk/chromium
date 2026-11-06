@@ -1,0 +1,4 @@
+# Docerion header of policy_vpn.onc.
+type: test
+title: OpenVPN policy test configuration
+summary: ONC policy fixture defining an OpenVPN network with password authentication, OTP, and a LOGIN_EMAIL placeholder for Chrome OS network policy tests.

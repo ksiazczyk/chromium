@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_ethernet.onc.
+type: test
+title: Shill Ethernet translation test with static IP
+summary: Test fixture of a shill Ethernet network with static IP, gateway, and name server settings used to verify translation into ONC.

@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_on_unconfigured_wifi1.json.
+type: test
+title: Shill policy entry for unconfigured WiFi network
+summary: Test fixture of a shill profile entry applying a user policy to an unconfigured PSK WiFi network with hex SSID wifi1.

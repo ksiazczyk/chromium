@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_open.onc.
+type: test
+title: toplevel_wifi_open
+summary: ONC test file for importing an open, unsecured WiFi network with DHCP addressing.

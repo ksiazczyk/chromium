@@ -1,0 +1,4 @@
+# Docerion header of vpn_ipsec_clientcert_pkcs11.onc.
+type: test
+title: IPsec VPN with PKCS#11 client certificate test configuration
+summary: ONC test fixture of an L2TP over IPsec VPN that authenticates with a PKCS#11 client certificate ID.

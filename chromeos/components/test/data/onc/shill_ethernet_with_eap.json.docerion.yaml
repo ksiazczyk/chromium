@@ -1,0 +1,4 @@
+# Docerion header of shill_ethernet_with_eap.json.
+type: test
+title: Shill ethernet EAP fixture without CA certificates
+summary: Shill ethernet EAP test fixture using TLS with an empty CA certificate list and system CAs enabled.

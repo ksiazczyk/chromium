@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_wep_8021x_clientcert.json.
+type: test
+title: Shill WiFi WEP 802.1X client cert test data
+summary: Shill WiFi test fixture combining WEP security with 802.1X EAP-TLS settings and a PAC proxy configuration.

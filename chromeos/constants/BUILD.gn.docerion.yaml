@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the chromeos constants component
+summary: Defines the GN build targets for the chromeos constants component and its devicetype unit tests.

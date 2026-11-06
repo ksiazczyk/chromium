@@ -1,0 +1,4 @@
+# Docerion header of managed_wireguard.onc.
+type: test
+title: Managed WireGuard VPN ONC policy
+summary: Test fixture of a managed WireGuard VPN policy with a private key and peer configuration.

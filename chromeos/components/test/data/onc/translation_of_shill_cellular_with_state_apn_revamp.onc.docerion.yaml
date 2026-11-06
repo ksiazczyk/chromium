@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_cellular_with_state_apn_revamp.onc.
+type: test
+title: Shill cellular translation test with APN revamp state
+summary: Test fixture of a shill cellular network with revamped APN properties such as ApnTypes, Source, and IpType used to verify translation into ONC.

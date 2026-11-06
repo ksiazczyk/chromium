@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_only_managed_cellular.onc.
+type: test
+title: Managed top level ONC with only managed cellular networks
+summary: ONC test configuration allowing only policy cellular networks, paired with a managed Ethernet entry.

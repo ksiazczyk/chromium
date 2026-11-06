@@ -1,0 +1,4 @@
+# Docerion header of certificate-client-update.onc.
+type: test
+title: ONC client certificate update
+summary: Test ONC configuration with a client certificate provided as a PKCS12 blob, apparently a variant for certificate update scenarios.

@@ -1,0 +1,4 @@
+# Docerion header of managed_cellular_no_recommended_allow_apn_modification_false.onc.
+type: test
+title: Managed cellular ONC with APN modification disallowed
+summary: Test ONC configuration with global settings that disallow APN modification for a managed cellular network.

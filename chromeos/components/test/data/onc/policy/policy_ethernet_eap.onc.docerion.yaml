@@ -1,0 +1,4 @@
+# Docerion header of policy_ethernet_eap.onc.
+type: test
+title: ONC policy for Ethernet with 802.1X EAP
+summary: Test fixture ONC policy defining an Ethernet network using 802.1X EAP-TLS authentication with a client certificate pattern.

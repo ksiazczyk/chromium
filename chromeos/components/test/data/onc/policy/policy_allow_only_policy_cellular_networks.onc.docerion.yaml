@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_only_policy_cellular_networks.onc.
+type: test
+title: ONC policy fixture for AllowOnlyPolicyCellularNetworks
+summary: ONC policy fixture setting AllowOnlyPolicyCellularNetworks to true alongside a managed cellular network configuration.

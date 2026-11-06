@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_cellular_text_messages.onc.
+type: test
+title: Managed toplevel with cellular text messages ONC test configuration
+summary: Test ONC configuration that sets AllowTextMessages to Allow in the global network configuration alongside an Ethernet network.

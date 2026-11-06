@@ -1,0 +1,4 @@
+# Docerion header of toplevel_only_global_config.onc.
+type: test
+title: toplevel_only_global_config
+summary: ONC test file holding only an empty GlobalNetworkConfiguration section to exercise parsing of global settings without networks.

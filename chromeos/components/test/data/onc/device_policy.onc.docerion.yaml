@@ -1,0 +1,4 @@
+# Docerion header of device_policy.onc.
+type: test
+title: ONC device policy with OpenVPN and recommended fields
+summary: Test ONC device policy defining an OpenVPN configuration with static IP and recommended properties to verify policy defaults.

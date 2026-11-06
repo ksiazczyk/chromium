@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_wpa_psk.onc.
+type: test
+title: 'ONC test config: WPA-PSK WiFi with CA certificate and proxy'
+summary: Test fixture for an unencrypted ONC configuration with a WPA-PSK WiFi network, an authority certificate, and manual proxy settings.

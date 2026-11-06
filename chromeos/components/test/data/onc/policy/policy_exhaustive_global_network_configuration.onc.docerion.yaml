@@ -1,0 +1,4 @@
+# Docerion header of policy_exhaustive_global_network_configuration.onc.
+type: test
+title: ONC policy with exhaustive global network configuration
+summary: Test fixture ONC policy exercising all global network settings, including policy-only restrictions, blocked SSIDs, and disabled VPN.

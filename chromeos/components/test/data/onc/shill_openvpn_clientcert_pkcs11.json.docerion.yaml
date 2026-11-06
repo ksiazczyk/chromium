@@ -1,0 +1,4 @@
+# Docerion header of shill_openvpn_clientcert_pkcs11.json.
+type: test
+title: Shill OpenVPN PKCS#11 client certificate test data
+summary: Shill-format OpenVPN configuration using a PKCS#11 client certificate ID and PIN, used as test data.

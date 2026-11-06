@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_with_slaac_ip_config.onc.
+type: test
+title: Shill WiFi SLAAC IP configuration translation test data
+summary: Test ONC fixture of a WiFi network carrying IPv4 and IPv6 SLAAC IP configurations with gateways and name servers.

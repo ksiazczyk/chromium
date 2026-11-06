@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_output_third_party_vpn.onc.
+type: test
+title: Translation of Shill third-party VPN
+summary: ONC test fixture representing a third-party VPN network translated from a Shill dictionary, referencing a browser extension ID.

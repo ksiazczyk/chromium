@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_on_unconfigured_cellular.json.
+type: test
+title: Shill policy entry for unconfigured cellular network
+summary: Test fixture of a shill profile entry applying a device policy to an unconfigured cellular network identified by ICCID and EID.

@@ -1,0 +1,4 @@
+# Docerion header of shill_managed_wifi1.json.
+type: test
+title: Shill entry for managed 802.1X WiFi
+summary: Shill profile entry for a managed 802.1X WiFi network using EAP-TLS with a user-supplied passphrase and user policy source.

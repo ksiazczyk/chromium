@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_on_managed_vpn_ipsec_plus_ui.json.
+type: test
+title: Shill entry with policy on managed L2TP/IPsec VPN plus UI data
+summary: Shill entry showing user policy applied to a managed L2TP/IPsec VPN, including updated PSK, credentials, and embedded UI settings data.

@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_eap_tls_ServerCAPEMs.onc.
+type: test
+title: Translation of Shill WiFi EAP TLS with server CA PEMs
+summary: ONC test fixture of an EAP-TLS WiFi network like the plain TLS case but additionally carrying ServerCAPEMs, translated from a Shill dictionary.

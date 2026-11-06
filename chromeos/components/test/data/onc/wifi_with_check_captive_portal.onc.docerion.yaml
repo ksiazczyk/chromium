@@ -1,0 +1,4 @@
+# Docerion header of wifi_with_check_captive_portal.onc.
+type: test
+title: WiFi network with captive portal check disabled
+summary: ONC test configuration for a WPA-PSK WiFi network with the CheckCaptivePortal field set to false.

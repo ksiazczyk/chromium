@@ -1,0 +1,4 @@
+# Docerion header of shill_ikev2_eap.json.
+type: test
+title: Shill IKEv2 VPN with EAP authentication test data
+summary: Shill-format network configuration for an IKEv2 VPN using EAP with MSCHAPv2, used as test data for Chrome OS network configuration handling.

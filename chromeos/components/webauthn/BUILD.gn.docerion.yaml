@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS WebAuthn component build file
+summary: GN build configuration defining the chromeos_webauthn component with its sources and base dependency, restricted to ChromeOS builds.

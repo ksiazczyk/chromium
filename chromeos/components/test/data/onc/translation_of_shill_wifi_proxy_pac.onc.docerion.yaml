@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_proxy_pac.onc.
+type: test
+title: Shill WiFi PAC proxy translation test data
+summary: Test ONC fixture of an open WiFi network using a PAC URL for proxy configuration, used in shill translation tests.

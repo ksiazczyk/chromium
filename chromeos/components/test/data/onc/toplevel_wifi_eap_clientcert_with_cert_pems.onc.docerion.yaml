@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_eap_clientcert_with_cert_pems.onc.
+type: test
+title: toplevel_wifi_eap_clientcert_with_cert_pems
+summary: ONC test configuration with a WPA-EAP WiFi network using a client certificate pattern and ServerCAPEMs, plus client and authority certificates.

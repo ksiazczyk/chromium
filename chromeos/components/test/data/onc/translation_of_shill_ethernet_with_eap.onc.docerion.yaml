@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_ethernet_with_eap.onc.
+type: test
+title: Shill Ethernet translation test with EAP
+summary: Test fixture of a shill Ethernet network using 802.1X EAP-TLS authentication used to verify translation into ONC.

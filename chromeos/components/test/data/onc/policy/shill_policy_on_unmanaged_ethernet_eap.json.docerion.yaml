@@ -1,0 +1,4 @@
+# Docerion header of shill_policy_on_unmanaged_ethernet_eap.json.
+type: test
+title: Shill policy entry for unmanaged Ethernet EAP
+summary: Test fixture of a shill profile entry applying a user policy to an unmanaged Ethernet EAP network using TLS.

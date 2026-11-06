@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel1_with_cert_pems.onc.
+type: test
+title: Managed toplevel1 with certificate PEMs ONC test configuration
+summary: Variant of the toplevel1 ONC test configuration that references issuer CA certificates by PEM in the OpenVPN client certificate pattern.

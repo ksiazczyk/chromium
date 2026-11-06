@@ -1,0 +1,4 @@
+# Docerion header of openvpn_clientcert_pkcs11.onc.
+type: test
+title: OpenVPN configuration with PKCS#11 client certificate
+summary: Test fixture of an OpenVPN configuration using a PKCS#11 client certificate ID with saved credentials.

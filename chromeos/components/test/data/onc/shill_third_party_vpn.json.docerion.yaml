@@ -1,0 +1,4 @@
+# Docerion header of shill_third_party_vpn.json.
+type: test
+title: Shill third-party VPN fixture
+summary: Shill fixture describing a third-party VPN with flattened provider properties, used in ONC translation tests.

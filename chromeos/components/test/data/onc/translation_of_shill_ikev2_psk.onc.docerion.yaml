@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_ikev2_psk.onc.
+type: test
+title: Expected ONC for Shill IKEv2 VPN with pre-shared key
+summary: Expected ONC translation of a Shill IKEv2 IPsec VPN configuration using a pre-shared key, used in tests.

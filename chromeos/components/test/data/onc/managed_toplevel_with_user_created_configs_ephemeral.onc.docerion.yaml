@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_user_created_configs_ephemeral.onc.
+type: test
+title: Managed toplevel ONC with ephemeral user-created configurations
+summary: Test fixture of a managed ONC toplevel that marks user-created network configurations as ephemeral and includes an Ethernet entry.

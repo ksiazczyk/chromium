@@ -1,0 +1,4 @@
+# Docerion header of shill_ethernet_with_ipconfig.json.
+type: test
+title: Shill ethernet fixture with multiple IP configs
+summary: Shill ethernet test fixture with IPv4 and IPv6 IP configs plus saved and static IP configuration entries.

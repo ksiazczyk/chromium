@@ -1,0 +1,4 @@
+# Docerion header of proxy_config.json.
+type: test
+title: ONC proxy settings to ProxyConfig translation test cases
+summary: Test cases mapping ONC proxy settings to ProxyConfig entries for manual, PAC, WPAD and direct modes.

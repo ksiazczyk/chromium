@@ -1,0 +1,4 @@
+# Docerion header of arc_vpn.onc.
+type: test
+title: ARC VPN ONC test configuration
+summary: Test ONC file describing an ARC VPN network with static IP configuration, routes, DNS servers and MTU.

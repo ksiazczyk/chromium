@@ -1,0 +1,4 @@
+# Docerion header of valid_wifi_psk.onc.
+type: test
+title: Valid WPA-PSK WiFi ONC with manual proxy
+summary: Test fixture with a valid ONC WPA-PSK WiFi configuration and manually configured proxies.

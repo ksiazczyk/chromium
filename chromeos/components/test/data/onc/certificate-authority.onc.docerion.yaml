@@ -1,0 +1,4 @@
+# Docerion header of certificate-authority.onc.
+type: test
+title: ONC with certificate authority
+summary: Test ONC configuration containing a single authority certificate and no network configurations.

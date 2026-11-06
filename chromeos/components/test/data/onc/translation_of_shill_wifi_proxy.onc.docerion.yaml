@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_wifi_proxy.onc.
+type: test
+title: Shill WiFi manual proxy translation test data
+summary: Test ONC fixture of an open WiFi network with manual HTTP, HTTPS, FTP and SOCKS proxy settings, used in shill translation tests.

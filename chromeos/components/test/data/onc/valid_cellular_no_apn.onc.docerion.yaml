@@ -1,0 +1,4 @@
+# Docerion header of valid_cellular_no_apn.onc.
+type: test
+title: Valid cellular network without APN test data
+summary: Valid ONC test fixture of a cellular network configuration without APN settings, including global policy flags and an SM-DP address.

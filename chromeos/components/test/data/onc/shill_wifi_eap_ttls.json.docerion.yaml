@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_eap_ttls.json.
+type: test
+title: Shill WiFi EAP TTLS config
+summary: Test fixture with a shill WiFi EAP-TTLS configuration using MSCHAPv2 inner authentication.

@@ -1,0 +1,4 @@
+# Docerion header of wifi_eap_ttls.onc.
+type: test
+title: WiFi EAP-TTLS test configuration
+summary: ONC test fixture of an EAP-TTLS WiFi network with MSCHAPv2 inner authentication and a referenced client certificate.

@@ -1,0 +1,4 @@
+# Docerion header of translation_of_shill_openvpn_clientcert.onc.
+type: test
+title: Expected ONC for Shill OpenVPN with client certificate
+summary: Expected ONC translation of a Shill OpenVPN configuration using a PKCS#11 client certificate, used in tests.

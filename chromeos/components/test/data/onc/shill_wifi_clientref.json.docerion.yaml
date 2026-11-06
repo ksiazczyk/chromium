@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_clientref.json.
+type: test
+title: Shill WiFi with client certificate reference
+summary: Shill fixture for an 802.1x EAP-TLS WiFi network referencing a client certificate, with proxy configuration and hex-encoded SSID, used in ONC translation tests.

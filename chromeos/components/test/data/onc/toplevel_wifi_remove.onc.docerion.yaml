@@ -1,0 +1,4 @@
+# Docerion header of toplevel_wifi_remove.onc.
+type: test
+title: toplevel_wifi_remove
+summary: ONC test configuration marking a WiFi network for removal via the Remove flag, used to test network deletion on import.

@@ -1,0 +1,4 @@
+# Docerion header of shill_ikev2_cert.json.
+type: test
+title: Shill IKEv2 VPN fixture with certificate auth
+summary: Shill VPN test fixture for an IKEv2 connection authenticated by certificate, with client cert ID, slot, and identities.

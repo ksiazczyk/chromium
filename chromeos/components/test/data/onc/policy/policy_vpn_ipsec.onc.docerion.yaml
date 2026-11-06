@@ -1,0 +1,4 @@
+# Docerion header of policy_vpn_ipsec.onc.
+type: test
+title: L2TP-IPsec VPN policy test configuration
+summary: ONC policy fixture defining an L2TP-IPsec VPN with a pre-shared key and recommended username and password fields for Chrome OS network policy tests.

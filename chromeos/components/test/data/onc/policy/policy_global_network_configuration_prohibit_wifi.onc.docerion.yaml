@@ -1,0 +1,4 @@
+# Docerion header of policy_global_network_configuration_prohibit_wifi.onc.
+type: test
+title: ONC policy disabling WiFi network type
+summary: Test fixture ONC policy that disables the WiFi network type via the DisableNetworkTypes global setting.

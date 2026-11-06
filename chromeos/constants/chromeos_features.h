@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS feature flag declarations
+// summary: Declares exported ChromeOS feature flags and helper functions to query whether each feature is enabled.
+// ---
+
 #ifndef CHROMEOS_CONSTANTS_CHROMEOS_FEATURES_H_
 #define CHROMEOS_CONSTANTS_CHROMEOS_FEATURES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of policy_allow_text_messages_suppress.onc.
+type: test
+title: ONC policy fixture suppressing text messages
+summary: ONC policy fixture setting GlobalNetworkConfiguration AllowTextMessages to Suppress with an empty network configuration list.

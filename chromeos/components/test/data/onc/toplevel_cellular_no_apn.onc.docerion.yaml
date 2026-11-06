@@ -1,0 +1,4 @@
+# Docerion header of toplevel_cellular_no_apn.onc.
+type: test
+title: toplevel_cellular_no_apn
+summary: ONC test configuration with global network settings and a cellular network that defines no APN, for testing cellular import without APN data.

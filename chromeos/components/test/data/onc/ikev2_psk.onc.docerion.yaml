@@ -1,0 +1,4 @@
+# Docerion header of ikev2_psk.onc.
+type: test
+title: IKEv2 VPN ONC with pre-shared key authentication
+summary: Test ONC configuration for an IKEv2 IPsec VPN that authenticates with a pre-shared key.

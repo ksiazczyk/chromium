@@ -1,0 +1,4 @@
+# Docerion header of shill_output_l2tpipsec.json.
+type: test
+title: Shill L2TP/IPsec VPN config
+summary: Shill VPN service configuration for an L2TP/IPsec network with username, password and Xauth credentials, used as test data.

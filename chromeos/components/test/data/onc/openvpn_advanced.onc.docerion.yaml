@@ -1,0 +1,4 @@
+# Docerion header of openvpn_advanced.onc.
+type: test
+title: OpenVPN configuration with advanced options
+summary: Test fixture of an OpenVPN network configuration exercising auth, cipher, compression, and TLS auth key settings.

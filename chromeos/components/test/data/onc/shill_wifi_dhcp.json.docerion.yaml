@@ -1,0 +1,4 @@
+# Docerion header of shill_wifi_dhcp.json.
+type: test
+title: Shill WiFi with DHCP and PSK
+summary: Shill fixture for a PSK-secured WiFi network using DHCP with auto-connect and a hex-encoded SSID, used in ONC translation tests.

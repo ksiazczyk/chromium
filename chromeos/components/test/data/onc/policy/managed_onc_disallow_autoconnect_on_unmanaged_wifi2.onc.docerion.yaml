@@ -1,0 +1,4 @@
+# Docerion header of managed_onc_disallow_autoconnect_on_unmanaged_wifi2.onc.
+type: test
+title: Managed ONC disallow autoconnect on unmanaged wifi2
+summary: Managed ONC configuration for the unmanaged wifi2 network with user-policy autoconnect disabled, used as test data.

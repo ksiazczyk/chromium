@@ -1,0 +1,4 @@
+# Docerion header of managed_toplevel_with_invalid_psim_admin_assigned_apn_id_list.onc.
+type: test
+title: Managed top level ONC with invalid PSIM admin assigned APN ID list
+summary: ONC test configuration whose PSIM admin assigned APN IDs reference an entry missing from the admin APN list.

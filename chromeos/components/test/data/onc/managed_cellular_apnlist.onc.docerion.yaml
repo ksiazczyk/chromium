@@ -1,0 +1,4 @@
+# Docerion header of managed_cellular_apnlist.onc.
+type: test
+title: Managed cellular ONC with APN list
+summary: Test ONC configuration of a managed cellular network providing an APN list and a custom APN list.
