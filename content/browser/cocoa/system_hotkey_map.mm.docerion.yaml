@@ -1,0 +1,4 @@
+# Docerion header of system_hotkey_map.mm.
+type: source
+title: SystemHotkeyMap implementation
+summary: Parses com.apple.symbolichotkeys.plist, adding default hotkeys and skipping undocumented shifted Spaces entries, to build the reserved hotkey map.

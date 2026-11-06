@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageScheduler implementation
+// summary: Implements queued execution of cache storage operations with exclusive and shared modes, priority ordering, and a parallel operations feature parameter.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_scheduler.h"
 
 #include <string>

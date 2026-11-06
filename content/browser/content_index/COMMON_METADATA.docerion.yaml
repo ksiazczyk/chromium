@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the content_index folder
+summary: Declares the monorail component, team email and Buganizer component used for issues in this directory.

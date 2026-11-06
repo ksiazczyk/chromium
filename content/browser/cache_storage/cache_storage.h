@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorage class declaration
+// summary: Declares CacheStorage, which owns and serially manages the set of caches for a storage bucket on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_H_
 

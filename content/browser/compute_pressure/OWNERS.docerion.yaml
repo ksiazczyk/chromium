@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compute pressure directory owners
+summary: Delegates reviewer ownership for the compute pressure directory to the OWNERS file in services/device/compute_pressure.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsProvider interface
+// summary: Defines the abstract ContactsProvider interface that launches the contacts picker dialog and returns selected contacts via a callback.
+// ---
+
 #ifndef CONTENT_BROWSER_CONTACTS_CONTACTS_PROVIDER_H_
 #define CONTENT_BROWSER_CONTACTS_CONTACTS_PROVIDER_H_
 

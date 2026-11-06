@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cache Storage Build Configuration
+summary: GN build file defining the cache_storage_proto protobuf library target for the cache storage component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pressure service base class declaration
+// summary: Declares PressureServiceBase, the common base for frame and worker compute pressure services serving WebPressureManager mojo requests.
+// ---
+
 #ifndef CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_BASE_H_
 #define CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cache Storage blob browser tests
+// summary: Browser tests that store and read large fetched blob responses in Cache Storage under configured quota settings.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/run_loop.h"
 #include "base/strings/string_number_conversions.h"

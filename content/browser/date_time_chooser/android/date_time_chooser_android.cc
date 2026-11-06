@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateTimeChooserAndroid implementation
+// summary: Implements the Android date-time chooser, sanitizing suggestion strings and opening the platform dialog through JNI-backed Java objects.
+// ---
+
 #include "content/browser/date_time_chooser/android/date_time_chooser_android.h"
 
 #include <stddef.h>

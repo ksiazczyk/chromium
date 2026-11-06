@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorageBlobToDiskCache unit tests
+// summary: Unit tests for streaming blobs into disk cache entries, including a variant that delays blob reads.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_blob_to_disk_cache.h"
 
 #include <memory>

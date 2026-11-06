@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple LRU cache unit tests
+// summary: Unit tests for SimpleLruCache covering empty state, put and get behavior, entry updates, and eviction, run with and without the in-memory code cache feature.
+// ---
+
 #include "content/browser/code_cache/simple_lru_cache.h"
 
 #include "base/containers/span.h"

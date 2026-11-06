@@ -1,0 +1,4 @@
+# Docerion header of system_hotkey_helper_mac.mm.
+type: source
+title: System hotkey helper implementation
+summary: Loads the macOS symbolic hotkeys plist from the user library and exposes a singleton SystemHotkeyMap via GetSystemHotkeyMap.

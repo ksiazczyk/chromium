@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Contacts Picker component metadata
+summary: Declares the Blink>Contacts monorail component, team email and Buganizer component for this directory.

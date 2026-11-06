@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin Storage types implementation
+// summary: Implements validation of lowercase hex hashes and construction of access specs from Mojo origin unions.
+// ---
+
 #include "content/browser/cross_origin_storage/cross_origin_storage_types.h"
 
 #include <algorithm>

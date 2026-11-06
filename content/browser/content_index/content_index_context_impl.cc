@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index context implementation
+// summary: Implements the per-storage-partition Content Index context, forwarding icon, entry and deletion requests to the database.
+// ---
+
 #include "content/browser/content_index/content_index_context_impl.h"
 
 #include "base/functional/bind.h"

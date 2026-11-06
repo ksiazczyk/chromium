@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorageContextImpl unit tests
+// summary: Unit tests for CacheStorageContextImpl covering initialization, receiver binding, and quota manager interactions.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/memory/scoped_refptr.h"
 #include "base/run_loop.h"

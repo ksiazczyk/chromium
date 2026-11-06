@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Closewatcher OWNERS file
+summary: Points to the Blink closewatcher OWNERS file, delegating ownership of the browser-side close watcher code to the same reviewers.

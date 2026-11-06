@@ -1,0 +1,4 @@
+# Docerion header of date_time_chooser_util.mm.
+type: source
+title: Date time chooser utility implementation
+summary: Implements month-to-date conversions in UTC following the HTML month and date input specifications.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date time chooser mediator
+// summary: Declares the mediator that implements the delegate protocol and communicates with content::DateTimeChooserIOS.
+// ---
+
 #ifndef CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_MEDIATOR_H_
 #define CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_MEDIATOR_H_
 

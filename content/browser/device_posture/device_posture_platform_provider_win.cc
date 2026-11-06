@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device posture platform provider
+// summary: Implements the provider on Windows by observing the registry watcher and forwarding posture and hinge bounds updates.
+// ---
+
 #include "content/browser/device_posture/device_posture_platform_provider_win.h"
 
 #include "content/browser/device_posture/device_posture_registry_watcher_win.h"

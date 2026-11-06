@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device sensor browser tests
+// summary: Browser tests that exercise device sensor APIs using a fake sensor provider, mock certificates and an HTTPS embedded test server.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

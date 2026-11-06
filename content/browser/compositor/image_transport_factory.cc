@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageTransportFactory implementation
+// summary: Implements the process-wide ImageTransportFactory singleton with functions to set, terminate, and retrieve the global factory instance.
+// ---
+
 #include "content/browser/compositor/image_transport_factory.h"
 
 #include "base/check.h"

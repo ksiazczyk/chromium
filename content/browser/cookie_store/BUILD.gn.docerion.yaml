@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cookie store BUILD.gn build definition
+summary: Defines the GN build target that compiles the cookie change subscriptions protobuf into a proto library.

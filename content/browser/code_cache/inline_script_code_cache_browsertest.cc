@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline script code cache browser tests
+// summary: Browser tests verifying inline script code cache behavior by checking V8 compile cache histograms with and without the persistent cache feature.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

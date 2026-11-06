@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Client Hints Throttle Implementation
+// summary: Implements a URLLoaderThrottle that restarts navigations when Critical-CH requires hints missing from the initial request, logging usage metrics.
+// ---
+
 #include "content/browser/client_hints/critical_client_hints_throttle.h"
 
 #include "base/feature_list.h"

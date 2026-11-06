@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU performance unit tests
+// summary: Unit tests verifying tier assignment from core counts and CPU model splitting for manufacturers such as Intel, AMD and Apple.
+// ---
+
 #include "content/browser/cpu_performance/cpu_performance.h"
 
 #include <optional>

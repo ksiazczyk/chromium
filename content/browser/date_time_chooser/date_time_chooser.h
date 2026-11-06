@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateTimeChooser class header for date/time chooser dialogs
+// summary: Declares the DateTimeChooser class, a WebContentsUserData implementing blink's DateTimeChooser Mojo interface with virtual hooks for platform-specific dialog opening and closing.
+// ---
+
 #ifndef CONTENT_BROWSER_DATE_TIME_CHOOSER_DATE_TIME_CHOOSER_H_
 #define CONTENT_BROWSER_DATE_TIME_CHOOSER_DATE_TIME_CHOOSER_H_
 

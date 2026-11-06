@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateTimeChooserViewController interface for the iOS date/time chooser
+// summary: Declares the UIKit view controller that hosts a UIDatePicker, with a delegate property for reporting its status and an initializer taking dialog configuration values.
+// ---
+
 #ifndef CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_VIEW_CONTROLLER_H_
 #define CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_VIEW_CONTROLLER_H_
 

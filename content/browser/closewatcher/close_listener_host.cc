@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseListenerHost implementation
+// summary: Implements the per-document browser-side host that binds a renderer CloseListener over Mojo and forwards close signals such as Android back presses.
+// ---
+
 #include "content/browser/closewatcher/close_listener_host.h"
 
 #include "content/browser/closewatcher/close_listener_manager.h"

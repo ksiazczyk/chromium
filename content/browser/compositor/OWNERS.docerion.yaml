@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the compositor directory
+summary: Lists the code owners for the compositor directory and delegates ownership of viz-related files to the components/viz OWNERS.

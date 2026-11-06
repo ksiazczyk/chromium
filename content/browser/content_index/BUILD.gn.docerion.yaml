@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for content_index
+summary: Defines the GN build target that compiles content_index.proto into a proto library.

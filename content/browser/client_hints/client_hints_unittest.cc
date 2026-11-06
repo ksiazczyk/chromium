@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client Hints Unit Tests
+// summary: Unit tests covering client hint eligibility, critical hint handling, and the critical client hints throttle behavior.
+// ---
+
 #include "content/browser/client_hints/client_hints.h"
 
 #include <algorithm>

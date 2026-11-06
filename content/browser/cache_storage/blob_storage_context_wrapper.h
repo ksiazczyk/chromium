@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob Storage Context Wrapper Header
+// summary: Declares BlobStorageContextWrapper, a refcounted wrapper for sharing the BlobStorageContext Mojo remote across sequences.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_BLOB_STORAGE_CONTEXT_WRAPPER_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_BLOB_STORAGE_CONTEXT_WRAPPER_H_
 

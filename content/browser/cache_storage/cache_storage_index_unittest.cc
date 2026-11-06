@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorageIndex unit tests
+// summary: Unit tests covering default construction, cache size, padding, dooming, and deletion behavior of CacheStorageIndex.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_index.h"
 
 #include <list>

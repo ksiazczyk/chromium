@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android contacts provider implementation
+// summary: Implements ContactsProvider on Android by showing the native contacts picker dialog via JNI and converting selected contacts back to C++.
+// ---
+
 #include "content/browser/contacts/contacts_provider_android.h"
 
 #include <memory>

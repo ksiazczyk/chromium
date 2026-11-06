@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsPressureManagerProxy implementation
+// summary: Implements a per-WebContents proxy to the device pressure manager, including DevTools virtual pressure sources and observer notifications.
+// ---
+
 #include "content/browser/compute_pressure/web_contents_pressure_manager_proxy.h"
 
 #include <optional>

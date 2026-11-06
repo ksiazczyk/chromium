@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Client Hints Directory Metadata
+summary: Points to the shared COMMON_METADATA of the client hints components directory for this folder's metadata.

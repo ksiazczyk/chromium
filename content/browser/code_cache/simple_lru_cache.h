@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple LRU cache header
+// summary: Declares the SimpleLruCache class and its GetResult and Value types for a simple LRU cache used to evaluate memory-backed code caching.
+// ---
+
 #ifndef CONTENT_BROWSER_CODE_CACHE_SIMPLE_LRU_CACHE_H_
 #define CONTENT_BROWSER_CODE_CACHE_SIMPLE_LRU_CACHE_H_
 

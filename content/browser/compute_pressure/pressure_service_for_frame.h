@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PressureServiceForFrame class header
+// summary: Declares PressureServiceForFrame, a per-document compute pressure service attached to RenderFrameHost via DocumentUserData.
+// ---
+
 #ifndef CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_FOR_FRAME_H_
 #define CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_FOR_FRAME_H_
 

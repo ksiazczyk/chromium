@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Device directory metadata
+summary: Metadata for the device directory that inherits mixins from the services/device COMMON_METADATA file.

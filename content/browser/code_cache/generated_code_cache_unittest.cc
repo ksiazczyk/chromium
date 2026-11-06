@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated code cache unit tests
+// summary: Unit tests for GeneratedCodeCache covering writes, reads, pending backend operations and cache statistics across in-memory and disk-backed modes.
+// ---
+
 #include "content/browser/code_cache/generated_code_cache.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageDispatcherHost implementation
+// summary: Implements the per-child-process host handling Cache Storage Mojo messages, validating batch operations and binding cache receivers.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_dispatcher_host.h"
 
 #include <optional>

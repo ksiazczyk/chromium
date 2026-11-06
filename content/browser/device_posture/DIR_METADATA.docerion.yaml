@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata include
+summary: Points DIR_METADATA at the shared COMMON_METADATA file so the folder inherits its component and team settings.

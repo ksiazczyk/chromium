@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows registry watcher unit tests
+// summary: Unit tests for parsing Windows foldable registry posture states and viewport segment rectangles, covering valid and invalid inputs.
+// ---
+
 #include "content/browser/device_posture/device_posture_registry_watcher_win.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dedicated task runner for resource unit tests
+// summary: Unit tests covering runner reuse per path, distinct runners for different paths, release on scope exit, and move semantics of the handle.
+// ---
+
 #include "content/browser/code_cache/dedicated_task_runner_for_resource.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorageManager unit tests
+// summary: Extensive unit tests for CacheStorageManager covering disk and memory backends, storage keys, buckets, and quota behavior.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_manager.h"
 
 #include <stddef.h>

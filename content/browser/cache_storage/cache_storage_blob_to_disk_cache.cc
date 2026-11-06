@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageBlobToDiskCache implementation
+// summary: Implements streaming a blob's data through a Mojo data pipe into a Cache Storage disk cache entry.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_blob_to_disk_cache.h"
 
 #include <algorithm>

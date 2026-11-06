@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseListenerManager header
+// summary: Declares CloseListenerManager, which tracks active CloseWatchers in the focused frame so embedders like Android can intercept back gestures.
+// ---
+
 #ifndef CONTENT_BROWSER_CLOSEWATCHER_CLOSE_LISTENER_MANAGER_H_
 #define CONTENT_BROWSER_CLOSEWATCHER_CLOSE_LISTENER_MANAGER_H_
 

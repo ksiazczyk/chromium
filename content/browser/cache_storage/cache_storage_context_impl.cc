@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageContextImpl implementation
+// summary: Implements the browser-side CacheStorageControl, initializing the cache manager, dispatcher host, and quota clients per StoragePartition.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_context_impl.h"
 
 #include "base/feature_list.h"

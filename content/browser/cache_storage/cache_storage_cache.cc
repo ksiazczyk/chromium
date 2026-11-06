@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageCache implementation
+// summary: Implements ServiceWorker Cache operations such as put, match, and query on top of the disk cache, including padding logic.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_cache.h"
 
 #include <stddef.h>

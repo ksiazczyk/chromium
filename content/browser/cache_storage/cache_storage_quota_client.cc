@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageQuotaClient implementation
+// summary: Implements the QuotaClient interface so the quota system can query cache storage usage, list storage keys, and delete bucket data via CacheStorageManager.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_quota_client.h"
 
 #include "components/services/storage/public/cpp/buckets/bucket_locator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PressureServiceForFrame unit tests
+// summary: Unit tests for the frame-level compute pressure service, using a fake pressure client to verify pressure update delivery.
+// ---
+
 #include "content/browser/compute_pressure/pressure_service_for_frame.h"
 
 #include <vector>

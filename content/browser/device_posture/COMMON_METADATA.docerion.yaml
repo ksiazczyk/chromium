@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Device posture folder metadata
+summary: Sets the Blink>FoldableAPIs component, team email and Buganizer component for the device_posture directory.

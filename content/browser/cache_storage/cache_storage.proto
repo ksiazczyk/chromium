@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache Storage index and metadata protobuf definitions
+// summary: Defines protobuf messages for the persisted cache index and the request and response metadata stored for cache entries.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

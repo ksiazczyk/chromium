@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorage trace value helpers implementation
+// summary: Converts cache storage mojo requests, responses, query options, and batch operations into TracedValue objects for use with trace events.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_trace_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

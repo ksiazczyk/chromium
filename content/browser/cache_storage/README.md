@@ -1,3 +1,11 @@
+---
+type: readme
+title: Cache Storage Architecture (as of July 29th 2016)
+summary: Describes the browser-process Cache Storage implementation, covering major classes, ownership, disk cache layout, threads, scheduling and size obfuscation.
+relations:
+  - documents /content/browser/cache_storage/cache_storage.cc
+---
+
 # Architecture (as of July 29th 2016)
 This document describes the browser-process implementation of the [Cache
 Storage specification](

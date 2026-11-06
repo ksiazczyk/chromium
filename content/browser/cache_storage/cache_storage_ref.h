@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageRef template header
+// summary: Defines a templated reference wrapper that tracks high-level DOM-facing references to CacheStorage and CacheStorageCache via AddHandleRef and DropHandleRef.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_REF_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_REF_H_
 

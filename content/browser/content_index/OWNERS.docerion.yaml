@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for content_index
+summary: Lists peter@chromium.org as the owner who reviews changes in this directory.

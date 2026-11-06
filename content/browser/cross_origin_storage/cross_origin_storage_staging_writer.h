@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin Storage staging writer header
+// summary: Declares CrossOriginStorageStagingWriter, which streams ingested bytes into a staging file while computing their digest for later commit.
+// ---
+
 #ifndef CONTENT_BROWSER_CROSS_ORIGIN_STORAGE_CROSS_ORIGIN_STORAGE_STAGING_WRITER_H_
 #define CONTENT_BROWSER_CROSS_ORIGIN_STORAGE_CROSS_ORIGIN_STORAGE_STAGING_WRITER_H_
 

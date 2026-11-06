@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated task runner for resource class declaration
+// summary: Declares a helper that keeps a dedicated single-thread task runner associated with a file path alive for its lifetime, unlike pooled sequenced task runners.
+// ---
+
 #ifndef CONTENT_BROWSER_CODE_CACHE_DEDICATED_TASK_RUNNER_FOR_RESOURCE_H_
 #define CONTENT_BROWSER_CODE_CACHE_DEDICATED_TASK_RUNNER_FOR_RESOURCE_H_
 

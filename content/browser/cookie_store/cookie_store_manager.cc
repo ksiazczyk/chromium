@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie store manager implementation
+// summary: Implements the per-StoragePartition CookieStoreManager that manages cookie change subscriptions through the service worker context.
+// ---
+
 #include "content/browser/cookie_store/cookie_store_manager.h"
 
 #include <algorithm>

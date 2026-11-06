@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Index service unit tests
+// summary: Unit tests for ContentIndexServiceImpl verifying that invalid icons and invalid or cross-origin launch URLs are rejected and trigger bad message reports.
+// ---
+
 #include "content/browser/content_index/content_index_service_impl.h"
 
 #include "base/run_loop.h"

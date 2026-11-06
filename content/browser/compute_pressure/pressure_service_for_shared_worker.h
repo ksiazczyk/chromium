@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PressureServiceForSharedWorker class header
+// summary: Declares PressureServiceForSharedWorker, a PressureServiceBase subclass owned by SharedWorkerHost for shared worker pressure clients.
+// ---
+
 #ifndef CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_FOR_SHARED_WORKER_H_
 #define CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_FOR_SHARED_WORKER_H_
 

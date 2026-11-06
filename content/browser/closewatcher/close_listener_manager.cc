@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseListenerManager implementation
+// summary: Implements per-WebContents tracking of whether the focused frame has an active CloseWatcher and notifies the delegate when the intercept status changes.
+// ---
+
 #include "content/browser/closewatcher/close_listener_manager.h"
 
 #include "content/browser/closewatcher/close_listener_host.h"

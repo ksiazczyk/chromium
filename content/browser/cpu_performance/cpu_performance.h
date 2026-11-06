@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU performance header
+// summary: 'Declares the cpu_performance namespace API: tier conversion from integers, the manufacturer enum, CPU model splitting and tier lookup functions.'
+// ---
+
 #ifndef CONTENT_BROWSER_CPU_PERFORMANCE_CPU_PERFORMANCE_H_
 #define CONTENT_BROWSER_CPU_PERFORMANCE_CPU_PERFORMANCE_H_
 

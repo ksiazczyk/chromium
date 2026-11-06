@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index service header
+// summary: Header declaring ContentIndexServiceImpl, the Mojo ContentIndexService implementation created lazily for render frames and service workers.
+// ---
+
 #ifndef CONTENT_BROWSER_CONTENT_INDEX_CONTENT_INDEX_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_CONTENT_INDEX_CONTENT_INDEX_SERVICE_IMPL_H_
 

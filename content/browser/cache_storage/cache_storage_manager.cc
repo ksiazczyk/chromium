@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache storage manager implementation
+// summary: Implements CacheStorageManager, which maps buckets to CacheStorage instances and supports quota client and index validation operations.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_manager.h"
 
 #include <stdint.h>

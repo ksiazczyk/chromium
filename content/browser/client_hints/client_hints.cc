@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-Side Client Hints Implementation
+// summary: Implements browser-side client hints logic, including hint eligibility, permissions policy checks, and privacy noise for network quality metrics.
+// ---
+
 #include "content/browser/client_hints/client_hints.h"
 
 #include <algorithm>

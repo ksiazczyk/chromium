@@ -1,0 +1,4 @@
+# Docerion header of system_hotkey_map_unittest.mm.
+type: test
+title: SystemHotkeyMap unit tests
+summary: Unit tests for SystemHotkeyMap covering plist parsing, nil input, mouse entries, and reserved hotkey checks using test data files.

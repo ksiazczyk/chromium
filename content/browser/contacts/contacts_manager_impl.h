@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsManagerImpl class header
+// summary: Declares the ContactsManagerImpl DocumentService that binds the ContactsManager Mojo interface per render frame host.
+// ---
+
 #ifndef CONTENT_BROWSER_CONTACTS_CONTACTS_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_CONTACTS_CONTACTS_MANAGER_IMPL_H_
 

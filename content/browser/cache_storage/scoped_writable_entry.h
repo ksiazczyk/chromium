@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped writable entry helper for CacheStorage disk cache writes
+// summary: Defines a unique_ptr wrapper with a custom deleter that dooms a disk cache entry on close unless writing was explicitly completed, used for CacheStorage writes.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_SCOPED_WRITABLE_ENTRY_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_SCOPED_WRITABLE_ENTRY_H_
 

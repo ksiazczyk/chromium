@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin Storage staging writer implementation
+// summary: Implements streaming writes to a quarantined staging file with in-flight digest computation, quota checks, and rehashing after seeks or truncation.
+// ---
+
 #include "content/browser/cross_origin_storage/cross_origin_storage_staging_writer.h"
 
 #include <algorithm>

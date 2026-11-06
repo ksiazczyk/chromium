@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pressure client class declaration
+// summary: Declares PressureClientImpl, the mojo client bridging device service pressure updates to the Blink-side web pressure client.
+// ---
+
 #ifndef CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_CLIENT_IMPL_H_
 #define CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_CLIENT_IMPL_H_
 

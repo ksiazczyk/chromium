@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated code cache context class declaration
+// summary: Declares the ref-counted context owning GeneratedCodeCache instances, with task posting helpers and persistent cache sharing for renderers.
+// ---
+
 #ifndef CONTENT_BROWSER_CODE_CACHE_GENERATED_CODE_CACHE_CONTEXT_H_
 #define CONTENT_BROWSER_CODE_CACHE_GENERATED_CODE_CACHE_CONTEXT_H_
 

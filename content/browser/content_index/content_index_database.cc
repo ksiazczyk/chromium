@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index database implementation
+// summary: Implements storage of Content Index entries and icons in the Service Worker database, including serialization and validation.
+// ---
+
 #include "content/browser/content_index/content_index_database.h"
 
 #include <optional>

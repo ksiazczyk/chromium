@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie store host class declaration
+// summary: Declares CookieStoreHost, which stores per-connection state for CookieStore Mojo bindings on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_COOKIE_STORE_COOKIE_STORE_HOST_H_
 #define CONTENT_BROWSER_COOKIE_STORE_COOKIE_STORE_HOST_H_
 

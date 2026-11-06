@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache storage cache entry handler implementation
+// summary: Implements blob data item readers and net streams backed by Cache Storage disk cache entries.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_cache_entry_handler.h"
 
 #include <optional>

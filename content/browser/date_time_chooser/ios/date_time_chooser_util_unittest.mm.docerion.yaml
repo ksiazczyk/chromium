@@ -1,0 +1,4 @@
+# Docerion header of date_time_chooser_util_unittest.mm.
+type: test
+title: Date time chooser utility unit tests
+summary: Tests round-trip conversion between dates and month counts for dates before and after 1970.

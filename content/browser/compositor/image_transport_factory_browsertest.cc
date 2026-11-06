@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image transport factory browser test
+// summary: Browser test that verifies context lost observers are notified when the GPU raster context is lost, with the test disabled on flaky platforms.
+// ---
+
 #include "content/browser/compositor/image_transport_factory.h"
 
 #include "base/run_loop.h"

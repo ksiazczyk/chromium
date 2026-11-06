@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface utilities implementation
+// summary: Implements helpers to allocate frame sink IDs, obtain the HostFrameSinkManager, and convert viz copy output results, with Android-specific paths.
+// ---
+
 #include "content/browser/compositor/surface_utils.h"
 
 #include "build/build_config.h"

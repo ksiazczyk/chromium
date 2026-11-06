@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DateTimeChooser browser tests
+// summary: Browser tests for the Android date-time chooser covering callback reset on Mojo disconnection and behavior when system UI popups are disallowed.
+// ---
+
 #include "content/browser/date_time_chooser/date_time_chooser.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker pressure service unit tests
+// summary: Unit tests for compute pressure services of dedicated and shared workers, using fake clients and a scoped pressure manager overrider.
+// ---
+
 #include <vector>
 
 #include "base/barrier_closure.h"

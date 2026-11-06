@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Cache Storage Component Metadata
+summary: Declares the monorail component, team email and Buganizer component used for issues in the cache storage directory.

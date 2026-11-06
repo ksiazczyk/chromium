@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageControlWrapper implementation
+// summary: Implements the browser-side wrapper that registers cache storage and background fetch quota clients and forwards Mojo calls to the storage service.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_control_wrapper.h"
 
 #include "base/task/sequenced_task_runner.h"

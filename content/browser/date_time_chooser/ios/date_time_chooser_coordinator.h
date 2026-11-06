@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date time chooser coordinator for iOS
+// summary: Declares the coordinator that pairs the date/time dialog view controller with its mediator to link UI and Mojo implementations.
+// ---
+
 #ifndef CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_COORDINATOR_H_
 #define CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_COORDINATOR_H_
 

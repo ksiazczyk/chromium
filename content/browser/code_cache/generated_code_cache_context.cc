@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated code cache context implementation
+// summary: Implements the per-storage-partition context that initializes, owns and shuts down code cache instances on a dedicated code cache thread.
+// ---
+
 #include "content/browser/code_cache/generated_code_cache_context.h"
 
 #include <stdint.h>
