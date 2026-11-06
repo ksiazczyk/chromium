@@ -1,0 +1,4 @@
+# Docerion header of rendering_desktop.json.
+type: data
+title: Rendering desktop story archive mapping
+summary: JSON mapping of desktop rendering benchmark stories to the WPR archive files that record their web content.

@@ -1,0 +1,4 @@
+# Docerion header of crossbench_android_loading.json.
+type: data
+title: Crossbench Android loading WPR archive metadata
+summary: Maps the stories of the crossbench Android loading benchmark to their Web Page Replay archives.

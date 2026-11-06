@@ -1,0 +1,4 @@
+# Docerion header of long_running_idle_gmail_page.json.
+type: data
+title: Gmail long-running idle WPR archive config
+summary: Maps the Gmail mail URL to its Web Page Replay archive long_running_idle_gmail_page_000.wprgo for the perf story set.

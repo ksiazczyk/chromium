@@ -1,0 +1,4 @@
+# Docerion header of crossbench_android_embedder.json.
+type: data
+title: Crossbench Android embedder WPR archive map
+summary: Maps the Web Page Replay archive used by the crossbench Android embedder benchmark and marks the setup as platform specific.

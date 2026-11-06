@@ -1,0 +1,4 @@
+# Docerion header of rendering_mobile.json.
+type: data
+title: rendering_mobile.json
+summary: Maps mobile rendering benchmark story names to their Web Page Replay archive files for the rendering mobile page set.

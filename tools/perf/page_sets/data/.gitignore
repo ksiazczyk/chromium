@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for credentials files
+# summary: Keeps credentials JSON files out of version control in the page sets data directory.
+# ---
+
 *credentials.json

@@ -2,4 +2,10 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Companion test sites list
+# summary: Defines an empty SITES list of companion test sites for use by page sets.
+# ---
+
 SITES = []
