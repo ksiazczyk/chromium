@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI attribute type model
+// summary: Java model describing an Autofill AI attribute type, including its name, input data type and related field type, created from native code via JNI.
+// ---
+
 package org.chromium.components.autofill.autofill_ai;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_zh-CN.xtb.
+type: data
+title: Simplified Chinese autofill strings translation bundle
+summary: Simplified Chinese translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.

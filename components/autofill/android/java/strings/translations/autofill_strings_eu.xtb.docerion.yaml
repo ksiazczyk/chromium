@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_eu.xtb.
+type: data
+title: Basque autofill string translations
+summary: Basque translation bundle for Android autofill strings, covering the autofill pop-up notification and the use-a-passkey prompt.

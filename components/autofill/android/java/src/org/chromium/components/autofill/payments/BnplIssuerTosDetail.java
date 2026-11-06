@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BnplIssuerTosDetail
+// summary: Java model carrying detailed BNPL issuer terms-of-service data, including issuer identity and legal message lines, for the ToS bottom sheet.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import org.jni_zero.CalledByNative;

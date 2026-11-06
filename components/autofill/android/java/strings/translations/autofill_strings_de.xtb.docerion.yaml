@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_de.xtb.
+type: data
+title: German autofill string translations
+summary: German translation bundle for Android autofill strings, covering the autofill pop-up notification and the use-a-passkey prompt.

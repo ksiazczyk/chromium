@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Android autofill
+summary: GN build file defining the keyboard suppressor library, its unit test target, autofill string resources and Android payment card image resources.

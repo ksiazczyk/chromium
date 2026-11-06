@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_fa.xtb.
+type: data
+title: Persian autofill strings translation bundle
+summary: XML translation bundle with Persian localized strings for the Android autofill UI, covering the autofill popup message and the use passkey prompt.

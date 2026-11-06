@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LegalMessage unit tests
+// summary: Robolectric unit tests verifying LegalMessage construction, field setup, empty line handling and null-parameter checks.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.hamcrest.MatcherAssert.assertThat;

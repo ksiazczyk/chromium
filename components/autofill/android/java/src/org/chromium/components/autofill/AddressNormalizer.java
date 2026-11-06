@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressNormalizer
+// summary: Java bridge that requests address normalization through native code and reports success or failure to a delegate, with a configurable request timeout.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

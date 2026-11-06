@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillKeyboardSuppressor implementation
+// summary: Implements suppression of the Android IME while a Touch To Fill surface is shown or intended, observing autofill driver factories and managers.
+// ---
+
 #include "components/autofill/android/touch_to_fill_keyboard_suppressor.h"
 
 #include "base/check_op.h"

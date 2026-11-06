@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entity instance model
+// summary: Java representation of an Autofill AI entity instance with attributes, nickname, record type and metadata, including a builder and JNI bindings.
+// ---
+
 package org.chromium.components.autofill.autofill_ai;
 
 import org.jni_zero.CalledByNative;

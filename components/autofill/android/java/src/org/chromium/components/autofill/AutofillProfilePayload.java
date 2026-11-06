@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProfilePayload
+// summary: Autofill suggestion payload that identifies a saved profile by its GUID and implements equality and hashing.
+// ---
+
 package org.chromium.components.autofill;
 
 import androidx.annotation.VisibleForTesting;

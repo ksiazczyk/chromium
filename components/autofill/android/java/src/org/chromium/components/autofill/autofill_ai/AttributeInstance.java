@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI attribute instance model
+// summary: Java model for an Autofill AI attribute instance, holding either a string value or a parsed date value and bridged to native code via JNI.
+// ---
+
 package org.chromium.components.autofill.autofill_ai;
 
 import android.text.TextUtils;

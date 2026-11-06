@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillDropdownAdapter
+// summary: Array adapter that builds the rows of the autofill suggestion dropdown, handling labels, secondary labels, dividers, headers and enabled state.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

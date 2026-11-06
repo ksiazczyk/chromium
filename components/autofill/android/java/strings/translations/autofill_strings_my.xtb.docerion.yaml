@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_my.xtb.
+type: data
+title: Autofill strings translation bundle (Burmese)
+summary: XML translation bundle with Burmese localized Android autofill strings, covering the autofill popup notification and the passkey prompt message.

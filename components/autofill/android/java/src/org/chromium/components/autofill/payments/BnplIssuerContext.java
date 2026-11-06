@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BnplIssuerContext
+// summary: Java model holding BNPL issuer context such as issuer ID, display name, selection text, linked and eligibility flags, populated from native code.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentInstrument unit tests
+// summary: Robolectric unit tests covering the PaymentInstrument builder, required-field validation, payment rail support and equality behavior.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static com.google.common.truth.Truth.assertThat;

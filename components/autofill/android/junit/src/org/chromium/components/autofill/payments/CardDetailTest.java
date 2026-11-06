@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CardDetail
+// summary: Robolectric test verifying that the CardDetail constructor stores the issuer icon drawable id, label and sublabel.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.hamcrest.MatcherAssert.assertThat;

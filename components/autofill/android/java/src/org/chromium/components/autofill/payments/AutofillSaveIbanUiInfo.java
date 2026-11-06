@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveIbanUiInfo
+// summary: Java model providing UI strings, IBAN value, logo icon and legal messages for the Android save IBAN bottom sheet, built through JNI from native code.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

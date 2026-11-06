@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Autofill Android build flags
+summary: GN build file declaring the autofill_use_internal_android_resources argument, which enables downstream clank drawables only for branded Android builds.

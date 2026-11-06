@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BnplIssuerForSettings
+// summary: Robolectric test verifying that the BnplIssuerForSettings constructor stores the issuer id, instrument id and display name.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static com.google.common.truth.Truth.assertThat;

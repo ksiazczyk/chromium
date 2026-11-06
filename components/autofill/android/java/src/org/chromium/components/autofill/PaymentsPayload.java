@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsPayload
+// summary: Payload for the TouchToFillPaymentMethod bottom sheet carrying accessibility text, terms display flag, payment method GUID and an optional extracted amount.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

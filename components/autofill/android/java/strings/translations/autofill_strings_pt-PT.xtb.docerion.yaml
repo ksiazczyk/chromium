@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_pt-PT.xtb.
+type: data
+title: Autofill strings translation bundle (European Portuguese)
+summary: XML translation bundle with European Portuguese localized Android autofill strings, covering the autofill popup notification and the passkey prompt message.

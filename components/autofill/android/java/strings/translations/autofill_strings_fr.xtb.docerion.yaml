@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_fr.xtb.
+type: data
+title: French autofill strings translation bundle
+summary: XML translation bundle with French localized strings for the Android autofill UI, covering the autofill popup message and the use passkey prompt.

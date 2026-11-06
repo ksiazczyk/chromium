@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: ic_offer_tag
+summary: Offer tag vector icon tinted with the secondary icon color, used to mark card offers in the Android payments autofill UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="32dp"
     android:height="20dp"

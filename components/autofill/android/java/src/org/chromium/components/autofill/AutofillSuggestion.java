@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSuggestion
+// summary: Container for a single entry in the Autofill UI such as the keyboard accessory, holding labels, icons, suggestion type, acceptability, payload and child suggestions.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.text.TextUtils;

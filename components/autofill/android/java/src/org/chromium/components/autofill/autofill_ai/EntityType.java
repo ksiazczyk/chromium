@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI entity type model
+// summary: Java model of an Autofill AI entity type with display strings, flags and supported attribute types, used to build the management page UI.
+// ---
+
 package org.chromium.components.autofill.autofill_ai;
 
 import org.jni_zero.CalledByNative;

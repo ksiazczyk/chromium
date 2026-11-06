@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_zu.xtb.
+type: data
+title: Zulu autofill strings translation bundle
+summary: Zulu translations of Android autofill UI strings, covering autofill suggestion labels and passkey usage prompts.

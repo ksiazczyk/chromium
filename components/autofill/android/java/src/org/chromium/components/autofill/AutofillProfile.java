@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProfile
+// summary: Model of an autofill address profile with typed fields, verification statuses, record type and language code, constructed through a builder.
+// ---
+
 package org.chromium.components.autofill;
 
 import androidx.annotation.VisibleForTesting;

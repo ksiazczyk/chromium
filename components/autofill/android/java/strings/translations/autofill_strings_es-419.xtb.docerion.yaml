@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_es-419.xtb.
+type: data
+title: Latin American Spanish autofill string translations
+summary: Latin American Spanish translation bundle for Android autofill strings, covering the autofill pop-up notification and the use-a-passkey prompt.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Iban equals and hashCode
+// summary: Robolectric tests checking equals and hashCode consistency for local and server IBANs and inequality between local and server instances.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static com.google.common.truth.Truth.assertThat;

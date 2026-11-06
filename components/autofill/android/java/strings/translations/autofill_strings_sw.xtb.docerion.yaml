@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_sw.xtb.
+type: data
+title: Swahili autofill strings translation bundle
+summary: XML translation bundle with Swahili Android autofill strings, including the autofill popup notification and passkey prompt messages.

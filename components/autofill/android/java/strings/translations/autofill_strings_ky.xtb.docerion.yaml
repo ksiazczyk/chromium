@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ky.xtb.
+type: data
+title: Kyrgyz autofill strings translation bundle
+summary: Kyrgyz XTB translation bundle with localized Android autofill strings, including the autofill popup notice and the passkey usage prompt.

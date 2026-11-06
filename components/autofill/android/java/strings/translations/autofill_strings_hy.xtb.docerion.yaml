@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_hy.xtb.
+type: data
+title: Armenian autofill strings translation bundle
+summary: Armenian XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

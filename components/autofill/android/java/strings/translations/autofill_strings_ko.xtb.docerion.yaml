@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ko.xtb.
+type: data
+title: Korean autofill strings translation bundle
+summary: Korean XTB translation bundle with localized Android autofill strings, including the autofill popup notice and the passkey usage prompt.

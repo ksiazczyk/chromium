@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Ewallet
+// summary: Robolectric tests verifying Ewallet construction via builder and create factory, plus equals behavior for differing payment instruments.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static com.google.common.truth.Truth.assertThat;

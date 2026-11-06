@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillDisplayOptions
+// summary: Options model for the Touch To Fill surface that controls whether the scan credit card action and Google Pay logo are displayed.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import org.jni_zero.CalledByNative;

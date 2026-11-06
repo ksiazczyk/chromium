@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_mk.xtb.
+type: data
+title: Macedonian autofill strings translation bundle
+summary: Macedonian XTB translation bundle with localized Android autofill strings, including the autofill popup notice and the passkey usage prompt.

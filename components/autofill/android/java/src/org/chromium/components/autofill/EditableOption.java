@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditableOption
+// summary: Base class for user-selectable options such as shipping addresses or payment methods, tracking identifier, labels, icon, validity and completeness.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.graphics.drawable.Drawable;

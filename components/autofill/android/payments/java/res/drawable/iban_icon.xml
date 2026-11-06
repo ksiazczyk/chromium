@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: iban_icon
+summary: Vector drawable showing a card outline with the text IBAN, used as an icon for IBAN payment methods in the Android autofill UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
     android:viewportWidth="40"
     android:viewportHeight="24"

@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_uk.xtb.
+type: data
+title: Ukrainian autofill strings translation bundle
+summary: Ukrainian translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.

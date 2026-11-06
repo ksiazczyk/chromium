@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ewallet
+// summary: Java data model for eWallet accounts used in facilitated payments, extending PaymentInstrument and built from C++ via JNI with a builder.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

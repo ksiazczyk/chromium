@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPopup
+// summary: Dropdown popup that shows autofill suggestions for a form field and forwards item clicks, dismissal and accessibility focus changes to its delegate.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.annotation.SuppressLint;

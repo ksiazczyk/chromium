@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ka.xtb.
+type: data
+title: Georgian autofill strings translation bundle
+summary: Georgian XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

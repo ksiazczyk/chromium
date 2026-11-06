@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legal message line JNI type conversions for Android autofill payments
+// summary: Header defining jni_zero template specializations that convert autofill LegalMessageLine objects and their links into Java JNI types for Android.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_ANDROID_PAYMENTS_LEGAL_MESSAGE_LINE_ANDROID_H_
 #define COMPONENTS_AUTOFILL_ANDROID_PAYMENTS_LEGAL_MESSAGE_LINE_ANDROID_H_
 

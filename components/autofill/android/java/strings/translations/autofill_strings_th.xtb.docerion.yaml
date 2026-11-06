@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_th.xtb.
+type: data
+title: Thai autofill strings translation bundle
+summary: Thai translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.
