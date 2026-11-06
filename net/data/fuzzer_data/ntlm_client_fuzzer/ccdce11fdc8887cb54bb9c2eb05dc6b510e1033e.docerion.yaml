@@ -1,0 +1,4 @@
+# Docerion header of ccdce11fdc8887cb54bb9c2eb05dc6b510e1033e.
+type: data
+title: NTLM client fuzzer input ccdce11f
+summary: Fuzzer corpus input for the NTLM client fuzzer consisting entirely of backslash characters.

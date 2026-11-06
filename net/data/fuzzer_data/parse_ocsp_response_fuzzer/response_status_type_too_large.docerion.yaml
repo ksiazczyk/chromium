@@ -1,0 +1,4 @@
+# Docerion header of response_status_type_too_large.
+type: data
+title: OCSP response status too large fuzzer input
+summary: Fuzzer seed data encoding a DER OCSP response status with an oversized multi-byte enumerated value, used as input for parse_ocsp_response_fuzzer.

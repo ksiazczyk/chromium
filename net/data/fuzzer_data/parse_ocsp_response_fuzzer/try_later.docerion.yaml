@@ -1,0 +1,4 @@
+# Docerion header of try_later.
+type: data
+title: OCSP tryLater response status fuzzer input
+summary: Fuzzer seed data encoding an OCSP response with the tryLater response status, used as input for parse_ocsp_response_fuzzer.

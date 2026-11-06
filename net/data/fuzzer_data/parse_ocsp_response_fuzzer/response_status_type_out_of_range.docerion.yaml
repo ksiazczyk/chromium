@@ -1,0 +1,4 @@
+# Docerion header of response_status_type_out_of_range.
+type: data
+title: OCSP response status out of range fuzzer input
+summary: Fuzzer seed data encoding a DER OCSP response status with an out-of-range enumerated value, exercising parse_ocsp_response_fuzzer error handling.

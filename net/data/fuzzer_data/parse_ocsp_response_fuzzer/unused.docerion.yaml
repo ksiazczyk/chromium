@@ -1,0 +1,4 @@
+# Docerion header of unused.
+type: data
+title: OCSP unused response status fuzzer input
+summary: Fuzzer seed data encoding an OCSP response with the unused response status value, used as input for parse_ocsp_response_fuzzer.

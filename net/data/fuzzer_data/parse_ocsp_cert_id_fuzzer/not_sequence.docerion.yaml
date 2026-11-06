@@ -1,0 +1,4 @@
+# Docerion header of not_sequence.
+type: data
+title: not_sequence fuzzer corpus input
+summary: Fuzzer corpus input for ParseOCSPCertId containing a DER-encoded INTEGER where a SEQUENCE is expected, exercising the parser's rejection path.
