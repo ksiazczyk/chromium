@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage accounts mediator interface
+// summary: Declares the mediator that supplies account data and mutations to the accounts UI using account manager, authentication and identity services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_COORDINATOR_MANAGE_ACCOUNTS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_COORDINATOR_MANAGE_ACCOUNTS_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of bar_button_activity_indicator.mm.
+type: source
+title: Bar button activity indicator view implementation
+summary: Implements the bar button activity indicator view that centers and animates a spinner during authentication.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_table_view_controller.mm.
+type: source
+title: Autofill profile table view controller implementation
+summary: Implements the autofill settings table view that lists saved addresses and autofill AI entities with add, edit and delete actions.

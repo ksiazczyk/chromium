@@ -1,0 +1,4 @@
+# Docerion header of dataplan_usage_table_view_controller_unittest.mm.
+type: test
+title: Dataplan usage settings controller unit tests
+summary: Unit tests checking the three-option model and that checkmarks move correctly when the setting is updated.

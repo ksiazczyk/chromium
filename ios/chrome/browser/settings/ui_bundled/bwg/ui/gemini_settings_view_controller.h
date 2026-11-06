@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini settings view controller header
+// summary: Declares GeminiSettingsViewController, the main Gemini settings table view controller, along with dismissal and presentation delegate protocols.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_SETTINGS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_SETTINGS_VIEW_CONTROLLER_H_
 

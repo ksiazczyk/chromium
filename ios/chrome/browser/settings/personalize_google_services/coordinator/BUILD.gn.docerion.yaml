@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Personalize Google Services coordinator
+summary: Defines the coordinator source_set and its dependencies for the Personalize Google Services settings page.

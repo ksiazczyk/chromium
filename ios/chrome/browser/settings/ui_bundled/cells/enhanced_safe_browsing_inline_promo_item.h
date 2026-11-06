@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing inline promo item header
+// summary: Declares the Enhanced Safe Browsing inline promo table view item and cell, including a delegate for forwarding promo events to the Settings page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_ENHANCED_SAFE_BROWSING_INLINE_PROMO_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_ENHANCED_SAFE_BROWSING_INLINE_PROMO_ITEM_H_
 

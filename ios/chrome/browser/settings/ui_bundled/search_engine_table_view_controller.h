@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine settings table view controller
+// summary: Declares the table view controller that shows the search engine settings screen for a profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SEARCH_ENGINE_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SEARCH_ENGINE_TABLE_VIEW_CONTROLLER_H_
 

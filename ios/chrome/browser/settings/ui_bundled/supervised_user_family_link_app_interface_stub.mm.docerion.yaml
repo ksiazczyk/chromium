@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_family_link_app_interface_stub.mm.
+type: test
+title: Supervised user Family Link app interface Earl Grey stub
+summary: Registers a stub of the Family Link app interface in the app main queue for Earl Grey test builds.

@@ -1,0 +1,4 @@
+# Docerion header of settings_root_table_view_controller+toolbar_settings.mm.
+type: source
+title: Toolbar settings button category implementation
+summary: Implements creation of the Settings toolbar button with a localized title and accessibility identifier.

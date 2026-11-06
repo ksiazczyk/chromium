@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock sync error infobar delegate header
+// summary: Declares MockSyncErrorInfoBarDelegate, a Google Mock subclass of SyncErrorInfoBarDelegate with mocked accept, dismiss, text, label, tint, and icon methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MODEL_SYNC_UTILS_TEST_MOCK_SYNC_ERROR_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MODEL_SYNC_UTILS_TEST_MOCK_SYNC_ERROR_INFOBAR_DELEGATE_H_
 

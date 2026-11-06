@@ -1,0 +1,4 @@
+# Docerion header of settings_navigation_controller_constants.mm.
+type: source
+title: Settings navigation controller constants implementation
+summary: Defines the settings navigation bar accessibility identifier string used by tests and UI automation.

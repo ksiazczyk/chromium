@@ -1,0 +1,4 @@
+# Docerion header of settings_root_table_view_controller.mm.
+type: source
+title: Settings root table view controller implementation
+summary: Implements SettingsRootTableViewController behavior for editing state, toolbar and navigation buttons, and preventing user interactions in the settings UI.

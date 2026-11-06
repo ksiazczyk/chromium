@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing header item and view interface
+// summary: Declares a header/footer item and view that display an image with multi-line title or attributed text for Safe Browsing settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SAFE_BROWSING_HEADER_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SAFE_BROWSING_HEADER_ITEM_H_
 

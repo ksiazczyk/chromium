@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_table_view_controller.mm.
+type: source
+title: Credit card settings table view controller implementation
+summary: Implements the credit card list page with autofill switch, reauth, CVC storage and pay-over-time options.

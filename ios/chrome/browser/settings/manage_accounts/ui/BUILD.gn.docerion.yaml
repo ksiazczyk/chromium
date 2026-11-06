@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manage accounts UI build configuration
+summary: Defines source sets and dependencies for the manage accounts UI, data, protocols and unit test targets.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_view_controller.mm.
+type: source
+title: Gemini settings view controller implementation
+summary: Implements the main Gemini settings screen with sections for location, camera, page content sharing, suggestions, preferences and microphone, including footers and link handling.

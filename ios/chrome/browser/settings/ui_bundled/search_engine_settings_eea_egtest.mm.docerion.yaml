@@ -1,0 +1,4 @@
+# Docerion header of search_engine_settings_eea_egtest.mm.
+type: test
+title: EEA search engine settings Earl Grey tests
+summary: Earl Grey UI tests verifying search engine settings behavior for EEA countries, such as switching the default search engine.

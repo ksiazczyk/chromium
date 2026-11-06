@@ -1,0 +1,4 @@
+# Docerion header of address_bar_options_item.mm.
+type: source
+title: Address bar options item and cell implementation
+summary: Implements the address bar options cell with top and bottom option views, selection state handling, and haptic feedback on selection change.

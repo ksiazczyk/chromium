@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Personalize Google Services UI
+summary: Defines the ui and unit_tests source sets with their sources and dependencies for the Personalize Google Services settings UI.

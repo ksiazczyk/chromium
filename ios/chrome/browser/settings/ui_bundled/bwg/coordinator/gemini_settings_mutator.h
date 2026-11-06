@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini settings mutator protocol
+// summary: Defines the protocol the Gemini settings view controller uses to update preferences and request navigation through the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_COORDINATOR_GEMINI_SETTINGS_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_COORDINATOR_GEMINI_SETTINGS_MUTATOR_H_
 

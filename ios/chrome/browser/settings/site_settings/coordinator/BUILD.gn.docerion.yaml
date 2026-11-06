@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site Settings coordinator BUILD.gn build file
+summary: Defines the coordinator source set and unit test target with their sources and dependencies for the iOS Site Settings feature.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar options item and cell header
+// summary: Declares the AddressBarOptionsItem table view item and AddressBarOptionsCell that present the top and bottom address bar preference options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_CELLS_ADDRESS_BAR_OPTIONS_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_CELLS_ADDRESS_BAR_OPTIONS_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main settings table view controller header
+// summary: Declares SettingsTableViewController, the main application settings table view, with its browser-based initializer and payment walkthrough IPH property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_TABLE_VIEW_CONTROLLER_H_
 

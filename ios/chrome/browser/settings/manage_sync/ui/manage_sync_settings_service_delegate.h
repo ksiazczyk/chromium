@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage sync settings service delegate protocol
+// summary: Declares the protocol that handles user selection actions coming from the manage sync settings view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_UI_MANAGE_SYNC_SETTINGS_SERVICE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_UI_MANAGE_SYNC_SETTINGS_SERVICE_DELEGATE_H_
 

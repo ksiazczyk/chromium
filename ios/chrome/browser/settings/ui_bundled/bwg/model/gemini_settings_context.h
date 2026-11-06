@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiSettingsContext enum header
+// summary: Defines the GeminiSettingsContext enum covering Gemini Apps Activity, Personalization, Extensions, Usage Limits and unknown settings contexts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_MODEL_GEMINI_SETTINGS_CONTEXT_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_MODEL_GEMINI_SETTINGS_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of enhanced_safe_browsing_inline_promo_item.mm.
+type: source
+title: Enhanced Safe Browsing inline promo item implementation
+summary: Implements the Enhanced Safe Browsing inline promo cell UI with a shield image, close button, description label, and a button leading to Safe Browsing settings.

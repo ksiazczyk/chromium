@@ -1,0 +1,4 @@
+# Docerion header of address_bar_preference_mediator.mm.
+type: source
+title: Address bar preference mediator implementation
+summary: Writes the omnibox bottom position local state preference through PrefBackedBoolean and notifies the consumer of changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings category detail consumer protocol
+// summary: Declares the consumer protocol for updating the default setting and the allowed and not allowed site exception lists on the category detail screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CATEGORY_DETAIL_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CATEGORY_DETAIL_CONSUMER_H_
 

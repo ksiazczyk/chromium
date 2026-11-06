@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync utils test BUILD.gn build file
+summary: Defines a test-only source_set for the mock sync error infobar delegate and lists its dependencies on sync utils, profile, gmock, and UI base.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the address bar preference settings
+summary: Defines GN source sets for the address bar preference coordinator, mediator, UI and Earl Grey tests together with their dependencies.

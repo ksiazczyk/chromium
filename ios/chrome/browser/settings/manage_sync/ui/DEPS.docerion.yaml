@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Manage sync settings UI include rules
+summary: Specifies the allowed include rules for dependencies of the manage sync settings UI directory.

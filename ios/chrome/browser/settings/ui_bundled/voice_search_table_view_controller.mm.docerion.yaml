@@ -1,0 +1,4 @@
+# Docerion header of voice_search_table_view_controller.mm.
+type: source
+title: Voice search settings table view controller implementation
+summary: Implements the voice search settings screen with a TTS switch and language selection backed by preferences.

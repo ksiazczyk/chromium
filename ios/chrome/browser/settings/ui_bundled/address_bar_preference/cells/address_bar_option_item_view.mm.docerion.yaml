@@ -1,0 +1,4 @@
+# Docerion header of address_bar_option_item_view.mm.
+type: source
+title: Address bar option view implementation
+summary: Implements AddressBarOptionView, laying out the label, phone symbol image, and checkbox and updating colors for selected and unselected states.

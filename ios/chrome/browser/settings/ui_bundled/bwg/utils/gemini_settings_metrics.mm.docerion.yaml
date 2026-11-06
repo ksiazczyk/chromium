@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_metrics.mm.
+type: source
+title: Gemini settings metrics implementation
+summary: Implements the Gemini settings metrics functions, logging user actions and histogram values for settings, camera and suggestions interactions.

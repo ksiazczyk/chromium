@@ -1,0 +1,4 @@
+# Docerion header of passphrase_error_item_unittest.mm.
+type: test
+title: Passphrase error item unit tests
+summary: Unit tests checking that the passphrase error cell's text label is set correctly after a call to configureCell.

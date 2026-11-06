@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Personalize Google Services coordinator
+summary: Lists the headers and directories that the Personalize Google Services coordinator is allowed to include.

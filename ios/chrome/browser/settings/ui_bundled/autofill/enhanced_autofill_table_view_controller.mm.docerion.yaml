@@ -1,0 +1,4 @@
+# Docerion header of enhanced_autofill_table_view_controller.mm.
+type: source
+title: Enhanced Autofill settings table view controller implementation
+summary: Implements the Enhanced Autofill settings screen with an opt-in switch, preference observation and informational sections.

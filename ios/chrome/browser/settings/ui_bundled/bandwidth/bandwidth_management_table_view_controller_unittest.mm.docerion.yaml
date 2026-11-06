@@ -1,0 +1,4 @@
+# Docerion header of bandwidth_management_table_view_controller_unittest.mm.
+type: test
+title: Bandwidth management settings controller unit tests
+summary: Unit tests verifying the controller's model, single section, preload item labels, and footer presence.

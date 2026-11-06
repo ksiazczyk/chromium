@@ -1,0 +1,4 @@
+# Docerion header of settings_check_item.mm.
+type: source
+title: Settings check item implementation
+summary: Implements SettingsCheckItem cell configuration using content configurations for leading icons, trailing images, activity indicators, and info buttons.

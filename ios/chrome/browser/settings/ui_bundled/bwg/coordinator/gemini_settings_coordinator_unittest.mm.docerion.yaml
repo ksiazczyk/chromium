@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_coordinator_unittest.mm.
+type: test
+title: Gemini settings coordinator unit tests
+summary: Unit tests for the Gemini settings and suggestions coordinators, covering dismissal and sync settings behavior with mocked services.

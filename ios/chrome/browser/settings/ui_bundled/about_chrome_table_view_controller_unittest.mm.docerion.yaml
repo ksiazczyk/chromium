@@ -1,0 +1,4 @@
+# Docerion header of about_chrome_table_view_controller_unittest.mm.
+type: test
+title: About Chrome settings view controller unit tests
+summary: Unit tests verifying the About Chrome table view model has one section with license, terms, and privacy items.

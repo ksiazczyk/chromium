@@ -1,0 +1,4 @@
+# Docerion header of family_link_settings_app_interface.mm.
+type: test
+title: Family Link settings test app interface implementation
+summary: Implements the supervised user settings test app interface, setting URL filters, fake permission creators, and counting interstitials.

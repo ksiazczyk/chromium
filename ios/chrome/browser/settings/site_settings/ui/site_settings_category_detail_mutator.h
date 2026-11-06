@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings category detail mutator protocol
+// summary: Declares the mutator protocol handling user actions such as changing the default setting and deleting site permission exceptions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CATEGORY_DETAIL_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CATEGORY_DETAIL_MUTATOR_H_
 

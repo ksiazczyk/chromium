@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bandwidth management settings controller header
+// summary: Declares the table view controller for settings that affect bandwidth usage, such as prefetching and the data reduction proxy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BANDWIDTH_BANDWIDTH_MANAGEMENT_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BANDWIDTH_BANDWIDTH_MANAGEMENT_TABLE_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar option view header
+// summary: Declares AddressBarOptionView, a custom button that displays an address bar preference option with a label, symbol image, and checkbox.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_CELLS_ADDRESS_BAR_OPTION_ITEM_VIEW_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_CELLS_ADDRESS_BAR_OPTION_ITEM_VIEW_H_
 

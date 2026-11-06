@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings category detail view controller header
+// summary: Declares the view controller showing details for a site settings category, with its delegate, mutator and favicon data source properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CATEGORY_DETAIL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CATEGORY_DETAIL_VIEW_CONTROLLER_H_
 

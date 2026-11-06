@@ -1,0 +1,4 @@
+# Docerion header of search_engine_settings_test_case_base.mm.
+type: test
+title: Search engine settings test case base implementation
+summary: Implements shared helpers for search engine settings tests, serving fake search and OpenSearch responses from an embedded test server.

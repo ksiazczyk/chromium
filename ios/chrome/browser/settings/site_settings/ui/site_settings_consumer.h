@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site settings consumer protocol
+// summary: Declares the consumer protocol for the Site Settings root screen to update category availability and default content settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_UI_SITE_SETTINGS_CONSUMER_H_
 

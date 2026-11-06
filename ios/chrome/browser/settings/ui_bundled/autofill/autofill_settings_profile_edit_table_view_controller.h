@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings profile edit table view controller header
+// summary: Declares the table view controller used to edit autofill profiles in iOS Chrome settings, with delegate, handler and snackbar properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_AUTOFILL_AUTOFILL_SETTINGS_PROFILE_EDIT_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_AUTOFILL_AUTOFILL_SETTINGS_PROFILE_EDIT_TABLE_VIEW_CONTROLLER_H_
 

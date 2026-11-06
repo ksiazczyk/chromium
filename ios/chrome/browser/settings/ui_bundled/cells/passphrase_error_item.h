@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passphrase error item and cell interface
+// summary: Declares a table view item and cell that display a red error message when the passphrase is incorrect.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_PASSPHRASE_ERROR_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_PASSPHRASE_ERROR_ITEM_H_
 

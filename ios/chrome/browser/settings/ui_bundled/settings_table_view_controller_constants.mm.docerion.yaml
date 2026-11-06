@@ -1,0 +1,4 @@
+# Docerion header of settings_table_view_controller_constants.mm.
+type: source
+title: Settings table view controller constants implementation
+summary: Defines the NSString accessibility identifier constants for settings cells, table views and child view controllers.

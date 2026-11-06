@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini camera settings view controller header
+// summary: Declares GeminiCameraViewController, a settings table view controller for the Gemini camera permission with a mutator property and camera enabled state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_CAMERA_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_CAMERA_VIEW_CONTROLLER_H_
 

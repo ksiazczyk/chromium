@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Gemini settings coordinator
+summary: Defines GN source sets for the Gemini settings coordinator, its mutator protocol, and unit tests, listing their sources and dependencies.

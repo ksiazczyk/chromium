@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage accounts coordinator interface
+// summary: Declares the coordinator that presents the accounts table view controller in iOS Chrome settings, with sign-out and navigation options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_COORDINATOR_MANAGE_ACCOUNTS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_COORDINATOR_MANAGE_ACCOUNTS_COORDINATOR_H_
 

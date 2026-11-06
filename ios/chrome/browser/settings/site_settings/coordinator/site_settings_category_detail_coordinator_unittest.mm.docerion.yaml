@@ -1,0 +1,4 @@
+# Docerion header of site_settings_category_detail_coordinator_unittest.mm.
+type: test
+title: Site Settings category detail coordinator unit tests
+summary: Verifies that starting the coordinator pushes the category detail view controller and that removal notifies the delegate.

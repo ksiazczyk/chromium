@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar preference service delegate protocol
+// summary: Declares the AddressBarPreferenceServiceDelegate protocol with methods to record selection of the top or bottom address bar position.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_CELLS_ADDRESS_BAR_PREFERENCE_SERVICE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_CELLS_ADDRESS_BAR_PREFERENCE_SERVICE_DELEGATE_H_
 

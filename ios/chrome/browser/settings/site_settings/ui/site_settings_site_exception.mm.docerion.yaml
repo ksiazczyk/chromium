@@ -1,0 +1,4 @@
+# Docerion header of site_settings_site_exception.mm.
+type: source
+title: Site settings site exception implementation
+summary: Implements the SiteSettingsSiteException model class declared in the corresponding header.

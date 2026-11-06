@@ -1,0 +1,4 @@
+# Docerion header of settings_app_interface_stub.mm.
+type: test
+title: Earl Grey stub for the settings test app interface
+summary: Registers a stub of SettingsAppInterface that runs in the app main queue so Earl Grey tests can invoke its helpers in the app process.

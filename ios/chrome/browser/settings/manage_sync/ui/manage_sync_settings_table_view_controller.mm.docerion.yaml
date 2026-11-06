@@ -1,0 +1,4 @@
+# Docerion header of manage_sync_settings_table_view_controller.mm.
+type: source
+title: Manage sync settings table view controller implementation
+summary: Implements the manage sync settings table view controller, covering table data source behavior, section layouts and consumer update methods.

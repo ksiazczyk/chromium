@@ -1,0 +1,4 @@
+# Docerion header of version_item_unittest.mm.
+type: test
+title: Version item unit test
+summary: Unit tests for the VersionItem settings cell, checking that configuring the item sets the VersionFooter text label's text.

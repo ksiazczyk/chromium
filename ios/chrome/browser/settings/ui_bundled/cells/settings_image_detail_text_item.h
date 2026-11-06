@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsImageDetailTextItem header
+// summary: Declares the SettingsImageDetailTextItem model for table view cells that display an image, title and optional detail text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SETTINGS_IMAGE_DETAIL_TEXT_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SETTINGS_IMAGE_DETAIL_TEXT_ITEM_H_
 

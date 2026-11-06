@@ -1,0 +1,4 @@
+# Docerion header of search_engine_table_view_controller_eea_unittest.mm.
+type: test
+title: EEA search engine settings controller unit tests
+summary: Unit tests for the search engine settings controller configured for an EEA country, checking sections, items and default engine selection.

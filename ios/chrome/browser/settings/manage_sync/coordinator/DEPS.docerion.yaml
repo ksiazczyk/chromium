@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Manage Sync Settings Coordinator Dependency Rules
+summary: Declares the allowed include dependencies for the manage sync settings coordinator directory.

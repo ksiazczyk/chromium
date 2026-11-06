@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage Sync Settings Coordinator Interface
+// summary: Declares the coordinator that presents the Manage Sync settings view controller and its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_COORDINATOR_MANAGE_SYNC_SETTINGS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_COORDINATOR_MANAGE_SYNC_SETTINGS_COORDINATOR_H_
 

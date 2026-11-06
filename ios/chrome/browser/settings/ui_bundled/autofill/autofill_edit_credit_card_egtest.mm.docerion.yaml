@@ -1,0 +1,4 @@
+# Docerion header of autofill_edit_credit_card_egtest.mm.
+type: test
+title: Autofill edit credit card Earl Grey tests
+summary: Earl Grey UI tests for the edit credit card screen in Chrome iOS autofill settings, covering nickname, expiry year and CVC fields.

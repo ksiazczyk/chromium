@@ -1,0 +1,4 @@
+# Docerion header of settings_root_table_constants.mm.
+type: source
+title: Settings root table constants implementation
+summary: Defines the accessibility identifier strings for the settings root table toolbar buttons.

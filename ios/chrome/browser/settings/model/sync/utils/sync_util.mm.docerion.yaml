@@ -1,0 +1,4 @@
+# Docerion header of sync_util.mm.
+type: source
+title: Sync error infobar utility implementation
+summary: Implements the sync error helpers, mapping user-actionable sync errors to infobar types, showing error infobars, and logging display and dismissal histograms.

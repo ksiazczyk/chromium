@@ -1,0 +1,4 @@
+# Docerion header of inline_promo_item.mm.
+type: source
+title: InlinePromoItem implementation
+summary: Implements InlinePromoItem, configuring InlinePromoCell with the promo image, text, badge and close button visibility, enabled state, and layout choice.

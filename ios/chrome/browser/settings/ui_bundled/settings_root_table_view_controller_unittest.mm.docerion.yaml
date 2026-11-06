@@ -1,0 +1,4 @@
+# Docerion header of settings_root_table_view_controller_unittest.mm.
+type: test
+title: Settings root table view controller unit tests
+summary: Unit tests verifying edit state UI updates, toolbar visibility and dismissal callbacks of SettingsRootTableViewController using OCMock.

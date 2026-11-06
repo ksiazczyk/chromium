@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_action_unittest.mm.
+type: test
+title: GeminiSettingsAction unit tests
+summary: Unit tests verifying that GeminiSettingsAction initialization accepts valid URL, view controller and unknown configurations and rejects invalid ones.

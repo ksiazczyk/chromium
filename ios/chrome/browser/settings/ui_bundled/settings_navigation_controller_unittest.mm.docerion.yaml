@@ -1,0 +1,4 @@
+# Docerion header of settings_navigation_controller_unittest.mm.
+type: test
+title: Settings navigation controller unit tests
+summary: Unit tests for the settings navigation controller using test profiles, fake command dispatchers, and OCMock to verify behavior and user metrics.

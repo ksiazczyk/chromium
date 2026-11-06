@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityViewData interface
+// summary: Declares a data item carrying identity details such as email, name, GAIA ID, avatar and managed state between mediator and view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_IDENTITY_VIEW_DATA_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_IDENTITY_VIEW_DATA_H_
 

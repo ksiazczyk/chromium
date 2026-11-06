@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar preference consumer protocol
+// summary: Declares the AddressBarPreferenceConsumer protocol for receiving updates of the omnibox at bottom preference value.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_ADDRESS_BAR_PREFERENCE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_ADDRESS_BAR_PREFERENCE_CONSUMER_H_
 

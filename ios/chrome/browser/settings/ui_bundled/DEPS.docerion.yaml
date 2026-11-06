@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the settings UI directory
+summary: Specifies the allowed include dependencies for files in the settings UI directory, with extra rules for specific test and catalog files.

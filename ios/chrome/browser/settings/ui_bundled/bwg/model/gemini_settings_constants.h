@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini settings accessibility identifier constants header
+// summary: Declares external NSString constants for accessibility identifiers of Gemini settings items such as Apps Activity, Personalization, Extensions and Usage Limits.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_MODEL_GEMINI_SETTINGS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_MODEL_GEMINI_SETTINGS_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of voice_search_table_view_controller_unittest.mm.
+type: test
+title: Voice search table view controller unit tests
+summary: Unit tests for the voice search settings controller covering sections, items, and TTS switch behavior.

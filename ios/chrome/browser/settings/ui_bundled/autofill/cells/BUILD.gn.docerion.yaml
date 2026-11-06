@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for autofill cells
+summary: Defines GN source_set targets for the autofill settings cells and their unit tests, listing sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of passphrase_error_item.mm.
+type: source
+title: Passphrase error item and cell implementation
+summary: Implements the passphrase error item and cell, laying out a red error label alongside an error circle symbol icon.

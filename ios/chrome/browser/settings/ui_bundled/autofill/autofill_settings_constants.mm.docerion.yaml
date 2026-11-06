@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_constants.mm.
+type: source
+title: Autofill settings accessibility constants implementation
+summary: Defines the accessibility identifier string constants used by the autofill settings UI and its tests.

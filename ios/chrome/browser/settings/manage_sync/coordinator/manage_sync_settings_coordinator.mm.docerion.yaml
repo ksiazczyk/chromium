@@ -1,0 +1,4 @@
+# Docerion header of manage_sync_settings_coordinator.mm.
+type: source
+title: Manage Sync Settings Coordinator Implementation
+summary: Implements the coordinator that presents manage sync settings and handles sign-out, dialogs and nested coordinators.

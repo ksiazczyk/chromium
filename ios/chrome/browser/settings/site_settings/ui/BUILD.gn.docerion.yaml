@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site settings UI build configuration
+summary: Defines the source_set targets and dependencies for the site settings UI sources and their unit tests.

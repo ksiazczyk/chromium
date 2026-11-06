@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_mediator.mm.
+type: source
+title: Gemini settings mediator implementation
+summary: Implements the mediator that binds Gemini preferences such as location, camera, and suggestions to pref-backed accessors and updates consumers.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Gemini settings UI directory
+summary: Grants the Gemini settings UI directory access to the bwg metrics include path.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for manage accounts UI
+summary: Restricts the headers that files in the manage accounts UI directory are allowed to include.

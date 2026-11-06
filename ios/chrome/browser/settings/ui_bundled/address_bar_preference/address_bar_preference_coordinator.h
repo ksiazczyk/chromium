@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar preference coordinator interface
+// summary: Declares the coordinator that presents the address bar preference settings page and its delegate for view controller removal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_ADDRESS_BAR_PREFERENCE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_ADDRESS_BAR_PREFERENCE_ADDRESS_BAR_PREFERENCE_COORDINATOR_H_
 

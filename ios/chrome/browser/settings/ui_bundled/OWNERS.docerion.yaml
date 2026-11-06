@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the settings UI directory
+summary: Lists the code owners responsible for reviewing changes in the settings UI directory, with a per-file owner for signin files.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for manage accounts Earl Grey tests
+summary: Defines the eg2_tests source_set that builds the manage accounts table Earl Grey tests and lists its test support dependencies.

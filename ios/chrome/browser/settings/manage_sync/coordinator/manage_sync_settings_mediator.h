@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage Sync Settings Mediator Interface
+// summary: Declares the mediator that bridges sync, identity and preference services with the manage sync settings UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_COORDINATOR_MANAGE_SYNC_SETTINGS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_COORDINATOR_MANAGE_SYNC_SETTINGS_MEDIATOR_H_
 

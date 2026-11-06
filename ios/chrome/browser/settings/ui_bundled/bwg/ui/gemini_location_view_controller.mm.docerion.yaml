@@ -1,0 +1,4 @@
+# Docerion header of gemini_location_view_controller.mm.
+type: source
+title: Gemini location settings view controller implementation
+summary: Implements the Gemini location settings screen with a precise location switch that updates the preference and records user actions.

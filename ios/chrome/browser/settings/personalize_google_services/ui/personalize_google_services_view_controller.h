@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalize Google Services view controller header
+// summary: Declares the Personalize Google Services settings view controller with its presentation delegate and command handler properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_PERSONALIZE_GOOGLE_SERVICES_UI_PERSONALIZE_GOOGLE_SERVICES_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_PERSONALIZE_GOOGLE_SERVICES_UI_PERSONALIZE_GOOGLE_SERVICES_VIEW_CONTROLLER_H_
 

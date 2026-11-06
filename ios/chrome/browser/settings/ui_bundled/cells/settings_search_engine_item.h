@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsSearchEngineItem header
+// summary: Declares the model item and cell for displaying search engine entries with favicon, title and subtitle.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SETTINGS_SEARCH_ENGINE_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SETTINGS_SEARCH_ENGINE_ITEM_H_
 

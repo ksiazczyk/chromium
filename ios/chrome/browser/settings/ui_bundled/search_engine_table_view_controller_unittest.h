@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared unit test fixture for search engine settings tests
+// summary: Declares the shared test fixture and helper methods for search engine settings controller unit tests, including adding prepopulated and custom engines and checking items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SEARCH_ENGINE_TABLE_VIEW_CONTROLLER_UNITTEST_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SEARCH_ENGINE_TABLE_VIEW_CONTROLLER_UNITTEST_H_
 
