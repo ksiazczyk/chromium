@@ -5,6 +5,12 @@
 // This service worker is used by the CrossSiteDocumentBlockingServiceWorkerTest
 // browser test - please see the comments there for more details.
 
+// ---docerion
+// type: test
+// title: Service worker for cross-site document blocking browser test
+// summary: Service worker that serves nosniff HTML responses and rejects fetches for the CrossSiteDocumentBlockingServiceWorkerTest browser test while passing other requests to the network.
+// ---
+
 function createHtmlNoSniffResponse() {
   var headers = new Headers();
   headers.append('Content-Type', 'text/html');

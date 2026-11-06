@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 3
+-- summary: SQL fixture for database version 3 that adds WebAuthn assertion timestamp columns to the bounces table and seeds the same test sites.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

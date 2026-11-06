@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test helpers for blob storage tests
+// summary: JavaScript helper providing debug, pass/fail reporting and shouldBe-style assertion functions modeled on Blink's js-test.js for the blob storage browser tests.
+// ---
+
 function debug(message) {
   var span = document.createElement("span");
   span.appendChild(document.createTextNode(message));

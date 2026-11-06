@@ -1,0 +1,4 @@
+# Docerion header of inner1.html.
+type: test
+title: Inner iframe page one for navigation test
+summary: Support page loaded in the iframe-navigation test, containing a button and a link to inner2.html.

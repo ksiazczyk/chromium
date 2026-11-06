@@ -1,0 +1,4 @@
+# Docerion header of webshare-separator.html.
+type: test
+title: Web Share separator filename test page
+summary: Test page that shares a file whose name is the path separator '/' via navigator.share to test filename sanitization behavior.

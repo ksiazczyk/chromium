@@ -1,0 +1,4 @@
+# Docerion header of missing-parent-expected-blink.txt.
+type: test
+title: Missing parent expected Blink accessibility tree
+summary: Expected accessibility tree snapshot with a generic container and image node for the missing-parent regression test.

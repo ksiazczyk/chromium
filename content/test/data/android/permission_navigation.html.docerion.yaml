@@ -1,0 +1,4 @@
+# Docerion header of permission_navigation.html.
+type: test
+title: Permission navigation test page
+summary: Test page that requests geolocation and notification permissions and can navigate to about:blank.

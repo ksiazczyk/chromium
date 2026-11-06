@@ -1,0 +1,4 @@
+# Docerion header of register_sync_from_sw.html.
+type: test
+title: Background Sync Registration From Service Worker Test Page
+summary: Test page that loads the script which registers background sync from within a service worker.

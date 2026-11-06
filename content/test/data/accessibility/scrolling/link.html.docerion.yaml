@@ -1,0 +1,4 @@
+# Docerion header of link.html.
+type: test
+title: Link scrolling test page
+summary: HTML fixture containing a Chromium link offset by large vertical margins, used as test data for accessibility scrolling to links.

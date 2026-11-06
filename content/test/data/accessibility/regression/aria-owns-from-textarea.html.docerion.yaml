@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-from-textarea.html.
+type: test
+title: aria-owns from textarea accessibility regression test
+summary: HTML test page checking that a textarea's aria-owns reference to a hidden element is handled correctly when the owned content is revealed.

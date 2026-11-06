@@ -1,0 +1,4 @@
+# Docerion header of relations-preserve-author-order-expected-win.txt.
+type: test
+title: Relations preserve author order expected Windows output
+summary: Expected accessibility tree output on Windows for the test that aria-details relations preserve author order.

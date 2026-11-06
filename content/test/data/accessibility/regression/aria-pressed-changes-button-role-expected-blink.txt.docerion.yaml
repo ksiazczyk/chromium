@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changes-button-role-expected-blink.txt.
+type: test
+title: Expected accessibility tree for the aria-pressed button role test
+summary: Expected Blink accessibility tree snapshots showing a button becoming a toggle button when aria-pressed is added and reverting when it is removed.

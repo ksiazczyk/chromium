@@ -1,0 +1,4 @@
+# Docerion header of option-accessible-name-is-select-expected-blink.txt.
+type: test
+title: Option accessible name is select expected Blink tree
+summary: Expected accessibility tree snapshot for a required select element and its menu list options, checking option accessible names.

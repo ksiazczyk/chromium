@@ -1,0 +1,4 @@
+# Docerion header of clear-children-while-computing-name-expected-blink.txt.
+type: test
+title: Expected accessibility tree for clear-children-while-computing-name
+summary: Expected Blink accessibility tree snapshot for the regression test that clears children during accessible name computation.

@@ -1,0 +1,4 @@
+# Docerion header of ignore-duplicate-relation-ids-expected-auralinux.txt.
+type: test
+title: Ignore duplicate relation IDs expected AuraLinux output
+summary: Expected accessibility tree output on AuraLinux for the test that duplicate aria-details relation IDs are ignored.

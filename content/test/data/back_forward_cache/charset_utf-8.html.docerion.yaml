@@ -1,0 +1,4 @@
+# Docerion header of charset_utf-8.html.
+type: test
+title: UTF-8 charset test page
+summary: Back-forward cache test page that declares a UTF-8 charset via a meta tag and has an empty body.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 1
+-- summary: SQL fixture that creates the version 1 bounces table with site storage, user interaction and stateful/stateless bounce timestamps, seeding five test sites.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 
 BEGIN TRANSACTION;

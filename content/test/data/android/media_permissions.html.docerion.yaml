@@ -1,0 +1,4 @@
+# Docerion header of media_permissions.html.
+type: test
+title: Media Permissions
+summary: Test page that requests microphone, camera or combined getUserMedia access on click and reports counts or denial in the document title.

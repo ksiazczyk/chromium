@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Content Index API test page
+summary: Test page that registers the service worker and adds entries to the Content Index API, reporting success or a formatted error.

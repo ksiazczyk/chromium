@@ -1,0 +1,4 @@
+# Docerion header of content-visibility-with-pseudo-element-expected-blink.txt.
+type: test
+title: Expected accessibility tree for content-visibility pseudo-element test
+summary: Expected Blink accessibility tree dump verifying the content-visibility pseudo-element test renders without crashing.

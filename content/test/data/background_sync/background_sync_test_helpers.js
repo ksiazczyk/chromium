@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync Test Helpers
+// summary: Shared helper functions for background sync browser tests to register service workers and one-shot or periodic sync from pages, iframes, and service workers.
+// ---
+
 'use strict';
 
 const resultQueue = new ResultQueue();

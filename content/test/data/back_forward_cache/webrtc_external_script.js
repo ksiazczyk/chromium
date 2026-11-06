@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC peer connection test helper
+// summary: Test helper script that opens and closes RTCPeerConnection instances so back/forward cache tests can exercise pages with active WebRTC connections.
+// ---
+
 let pcA;
 let pcB;
 

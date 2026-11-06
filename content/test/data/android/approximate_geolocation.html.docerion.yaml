@@ -1,0 +1,4 @@
+# Docerion header of approximate_geolocation.html.
+type: test
+title: Approximate Geolocation
+summary: Test page that requests geolocation and reports whether the returned position accuracy is approximate or precise.

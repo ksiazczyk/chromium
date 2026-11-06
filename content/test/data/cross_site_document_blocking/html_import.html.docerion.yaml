@@ -1,0 +1,4 @@
+# Docerion header of html_import.html.
+type: test
+title: HTML import test page injecting a script
+summary: Test page that injects a script into the imported document so the nosniff.json request initiator is the module's origin rather than the importer's.

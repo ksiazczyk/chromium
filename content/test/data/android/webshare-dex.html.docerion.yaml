@@ -1,0 +1,4 @@
+# Docerion header of webshare-dex.html.
+type: test
+title: Web Share DEX file test page
+summary: Test page that initiates navigator.share with a sample.dex file using a text/plain MIME type and reports success or failure via the document title.

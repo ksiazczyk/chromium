@@ -10,6 +10,12 @@
 //           Send a postMessage of "completeDelayedRegistration" to finish the
 //           event.
 
+// ---docerion
+// type: test
+// title: Background Sync test service worker
+// summary: Service worker for background sync tests that registers one-shot and periodic sync, checks tags, counts periodic sync events and supports delayed sync events.
+// ---
+
 'use strict';
 
 let resolveCallback = null;

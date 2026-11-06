@@ -1,0 +1,4 @@
+# Docerion header of autocapitalize.html.
+type: test
+title: Autocapitalize test page
+summary: Test page with inputs, a form and a contenteditable using autocapitalize values, logging key, composition, selection and mutation events for Android keyboard tests.

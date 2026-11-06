@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Cache Storage Test
+summary: Minimal HTML test page titled Cache Storage Test, used as a fixture in the test data directory for cache storage testing.

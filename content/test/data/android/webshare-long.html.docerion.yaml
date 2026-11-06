@@ -1,0 +1,4 @@
+# Docerion header of webshare-long.html.
+type: test
+title: Web Share long text test page
+summary: Test page that shares text one character beyond the 120 KB maximum length via navigator.share to test oversized text handling.

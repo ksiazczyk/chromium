@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker storage access test script
+// summary: Worker script with functions to set and check file system access, IndexedDB and cache storage data from workers in browsing data tests.
+// ---
+
 async function hasFileSystemAccess() {
   try {
     let dir = await navigator.storage.getDirectory();

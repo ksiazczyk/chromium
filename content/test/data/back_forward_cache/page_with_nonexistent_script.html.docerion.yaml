@@ -1,0 +1,4 @@
+# Docerion header of page_with_nonexistent_script.html.
+type: test
+title: Test page with a nonexistent script
+summary: Back/forward cache test page that loads a script which does not exist.

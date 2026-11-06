@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty test page
+summary: Completely empty HTML page serving as a minimal fixture for back-forward cache tests.

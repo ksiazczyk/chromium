@@ -1,0 +1,4 @@
+# Docerion header of webshare-ogg.html.
+type: test
+title: Web Share OGG file test page
+summary: Test page that shares a sample.ogg file with a video/ogg MIME type via navigator.share and signals the result through the document title.

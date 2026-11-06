@@ -1,0 +1,4 @@
+# Docerion header of remove-aria-owner-expected-auralinux.txt.
+type: test
+title: Remove ARIA owner expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the remove-aria-owner test, showing nested sections, a push button and quoted static text.

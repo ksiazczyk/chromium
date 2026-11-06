@@ -1,0 +1,4 @@
+# Docerion header of permission_element.html.
+type: test
+title: Permission element test page
+summary: Test page using custom geolocation, usermedia, camera and microphone elements with permission queries to report permission states and capture results.

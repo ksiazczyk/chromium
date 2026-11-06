@@ -1,0 +1,4 @@
+# Docerion header of iaccessibletextselectioncontainer-selections-expected.txt.
+type: test
+title: IAccessibleTextSelectionContainer selections expected results
+summary: Expected output for the Windows IA2 accessibility test that reads the selections of a focused input with a range from offset 3 to 5.

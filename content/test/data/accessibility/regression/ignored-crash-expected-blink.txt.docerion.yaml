@@ -1,0 +1,4 @@
+# Docerion header of ignored-crash-expected-blink.txt.
+type: test
+title: Ignored crash expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot showing ignored generic containers for the ignored-crash regression test.

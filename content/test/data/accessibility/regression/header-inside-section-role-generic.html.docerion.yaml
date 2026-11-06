@@ -1,0 +1,4 @@
+# Docerion header of header-inside-section-role-generic.html.
+type: test
+title: Header inside section role generic regression test
+summary: HTML test checking how header elements are exposed inside sections with presentational and generic roles.

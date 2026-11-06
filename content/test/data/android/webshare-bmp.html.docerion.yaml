@@ -1,0 +1,4 @@
+# Docerion header of webshare-bmp.html.
+type: test
+title: Web Share BMP file test page
+summary: Test page that shares two BMP files with image/bmp and image/x-ms-bmp MIME types via navigator.share.

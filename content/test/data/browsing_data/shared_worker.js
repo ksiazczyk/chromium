@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker for cross-tab value storage
+// summary: Shared worker script that stores and retrieves a value across tabs for browsing data tests.
+// ---
+
 let clients = new Array();
 let value = null;
 

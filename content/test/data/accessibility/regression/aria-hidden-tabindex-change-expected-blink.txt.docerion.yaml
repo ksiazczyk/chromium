@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-tabindex-change-expected-blink.txt.
+type: test
+title: Expected accessibility tree for aria-hidden tabindex change
+summary: Expected Blink accessibility tree snapshot for the aria-hidden tabindex change regression test.

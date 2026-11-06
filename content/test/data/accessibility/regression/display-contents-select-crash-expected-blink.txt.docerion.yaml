@@ -1,0 +1,4 @@
+# Docerion header of display-contents-select-crash-expected-blink.txt.
+type: test
+title: Expected accessibility tree for display-contents select crash test
+summary: Expected Blink accessibility tree output for a select with a display:contents optgroup, guarding against a crash.

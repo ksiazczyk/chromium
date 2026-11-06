@@ -1,0 +1,4 @@
+# Docerion header of relation-points-to-invalid-nodes-crash-expected-blink.txt.
+type: test
+title: Relation points to invalid nodes crash expected output
+summary: Expected Blink accessibility tree output for the relation-points-to-invalid-nodes crash regression test, containing a nearly empty tree.

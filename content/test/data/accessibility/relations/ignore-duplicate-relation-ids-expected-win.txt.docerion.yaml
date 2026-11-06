@@ -1,0 +1,4 @@
+# Docerion header of ignore-duplicate-relation-ids-expected-win.txt.
+type: test
+title: Ignore duplicate relation IDs expected Windows output
+summary: Expected accessibility tree output on Windows for the test that duplicate aria-details relation IDs are ignored.

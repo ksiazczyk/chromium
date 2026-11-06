@@ -1,0 +1,4 @@
+# Docerion header of hidden-table.html.
+type: test
+title: Hidden table accessibility regression test
+summary: Test page that adds rows to a hidden table body to verify the accessibility tree does not re-serialize nodes excluded from the tree.

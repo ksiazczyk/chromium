@@ -1,0 +1,4 @@
+# Docerion header of reused-map-change-usemap-expected-blink.txt.
+type: test
+title: Expected Blink tree for reused map usemap change test
+summary: Expected Blink accessibility tree snapshot for the test where usemap attributes are changed to different or nonexistent maps.

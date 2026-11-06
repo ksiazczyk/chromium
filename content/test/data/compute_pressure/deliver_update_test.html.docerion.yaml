@@ -1,0 +1,4 @@
+# Docerion header of deliver_update_test.html.
+type: test
+title: Compute Pressure browser test page
+summary: HTML test page that tracks CPU pressure updates from the main frame, a dedicated worker, a shared worker, and media capture for Compute Pressure browser tests.

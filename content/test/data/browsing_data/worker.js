@@ -4,6 +4,12 @@
 
 // Service worker used in ClearSiteDataThrottleBrowserTest.
 
+// ---docerion
+// type: test
+// title: Service worker for Clear-Site-Data tests
+// summary: Service worker for ClearSiteDataThrottleBrowserTest that serves responses with Clear-Site-Data headers and fetches test resources across origins.
+// ---
+
 // Handle all resource requests.
 self.addEventListener('fetch', function(event) {
   var url = new URL(event.request.url);

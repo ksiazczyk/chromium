@@ -1,0 +1,4 @@
+# Docerion header of input_mode.html.
+type: test
+title: Inputmode test page
+summary: Test page with contenteditable elements and a password input using inputMode values, logging key, composition, selection and mutation events for Android keyboard tests.

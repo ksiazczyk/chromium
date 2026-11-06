@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-section-role-generic.html.
+type: test
+title: Footer inside section role generic regression test
+summary: HTML test checking how footer elements are exposed inside sections with presentational and generic roles.

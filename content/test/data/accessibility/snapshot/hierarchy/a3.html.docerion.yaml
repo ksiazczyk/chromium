@@ -1,0 +1,4 @@
+# Docerion header of a3.html.
+type: test
+title: A3 hierarchy fixture
+summary: Simple test fixture page labeled A3 used as a node in accessibility snapshot hierarchy tests.

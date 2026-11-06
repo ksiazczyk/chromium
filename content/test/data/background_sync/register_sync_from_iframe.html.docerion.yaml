@@ -1,0 +1,4 @@
+# Docerion header of register_sync_from_iframe.html.
+type: test
+title: Background Sync Registration From IFrame Test Page
+summary: Test page that loads the script which registers one-shot background sync from an iframe.

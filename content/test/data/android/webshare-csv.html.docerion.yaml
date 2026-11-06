@@ -1,0 +1,4 @@
+# Docerion header of webshare-csv.html.
+type: test
+title: Web Share CSV file test page
+summary: Test page that shares two CSV files with text/csv and text/comma-separated-values MIME types via navigator.share.

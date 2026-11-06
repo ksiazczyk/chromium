@@ -1,0 +1,4 @@
+# Docerion header of site_data.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for site_data.html
+summary: Mock HTTP response headers served for site_data.html, declaring fenced-frame loading mode support.

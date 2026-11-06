@@ -1,0 +1,4 @@
+# Docerion header of remove-aria-owner-expected-blink.txt.
+type: test
+title: Remove ARIA owner expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the remove-aria-owner test, showing buttons, static text and inline text boxes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dedicated worker PressureObserver helper
+// summary: Dedicated worker script that starts observing CPU pressure on command and posts pressure records back to the main thread.
+// ---
+
 'use strict';
 
 function pressureChange(data) {

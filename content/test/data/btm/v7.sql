@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 7
+-- summary: SQL fixture for database version 7 with the same bounces, popups and config schema as version 6, declaring version 6 as last compatible.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

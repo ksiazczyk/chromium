@@ -1,0 +1,4 @@
+# Docerion header of headers-test.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for headers-test.json
+summary: Mock response headers adding CORS, cookies, test pragma values, and nosniff directives for the headers-test.json resource.

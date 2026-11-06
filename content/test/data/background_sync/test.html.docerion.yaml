@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Background Sync API test page
+summary: HTML test page for the Background Sync API that loads the format error, result queue and background sync test helper scripts.

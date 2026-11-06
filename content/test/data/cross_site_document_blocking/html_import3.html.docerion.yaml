@@ -1,0 +1,4 @@
+# Docerion header of html_import3.html.
+type: test
+title: HTML import test page fetching nosniff.json
+summary: Test page that fetches nosniff.json with the importer's origin as request initiator and reports the body or error via domAutomationController.

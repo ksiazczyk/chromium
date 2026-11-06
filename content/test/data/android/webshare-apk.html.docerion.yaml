@@ -1,0 +1,4 @@
+# Docerion header of webshare-apk.html.
+type: test
+title: Web Share APK file test page
+summary: Test page that shares a sample.apk file with a video/ogg MIME type via navigator.share and reports success or failure in the title.

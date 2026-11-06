@@ -1,0 +1,4 @@
+# Docerion header of aria_owns_in_aria_hidden_crash.html.
+type: test
+title: Repro page for aria-owns crash in aria-hidden subtree
+summary: Test page reproducing a renderer crash where a focused combobox with aria-owns ends up inside an aria-hidden subtree after a modal cookie-consent dialog opens.

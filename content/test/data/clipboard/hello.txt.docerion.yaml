@@ -1,0 +1,4 @@
+# Docerion header of hello.txt.
+type: test
+title: hello.txt
+summary: Six-byte test fixture containing the word hello, used as sample data in the clipboard test directory.

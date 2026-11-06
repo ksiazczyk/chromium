@@ -1,0 +1,4 @@
+# Docerion header of add-display-none-children-expected-blink.txt.
+type: test
+title: Expected accessibility tree for add-display-none-children
+summary: Expected Blink accessibility tree snapshot for the add-display-none-children regression test.

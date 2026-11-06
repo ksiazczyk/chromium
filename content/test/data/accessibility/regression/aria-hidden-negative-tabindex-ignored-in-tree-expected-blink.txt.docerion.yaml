@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-negative-tabindex-ignored-in-tree-expected-blink.txt.
+type: test
+title: Expected accessibility tree for aria-hidden negative tabindex test
+summary: Expected Blink accessibility tree snapshot for the aria-hidden negative tabindex regression test.

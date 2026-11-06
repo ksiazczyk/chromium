@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 4
+-- summary: SQL fixture for database version 4 that introduces a popups table linking opener and popup sites while keeping the version 3 bounces schema.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

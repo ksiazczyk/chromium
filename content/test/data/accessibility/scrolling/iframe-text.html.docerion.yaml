@@ -1,0 +1,4 @@
+# Docerion header of iframe-text.html.
+type: test
+title: Iframe text scrolling test page
+summary: HTML fixture embedding text.html in a labeled iframe, used as test data for accessibility scrolling inside iframes.

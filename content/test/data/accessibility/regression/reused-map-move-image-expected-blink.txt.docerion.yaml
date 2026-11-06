@@ -1,0 +1,4 @@
+# Docerion header of reused-map-move-image-expected-blink.txt.
+type: test
+title: Expected Blink tree for reused map image move test
+summary: Expected Blink accessibility tree snapshot before and after moving an image in the reused map test.

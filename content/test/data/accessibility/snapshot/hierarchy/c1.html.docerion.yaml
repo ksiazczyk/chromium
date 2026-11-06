@@ -1,0 +1,4 @@
+# Docerion header of c1.html.
+type: test
+title: C1 hierarchy fixture
+summary: Simple test fixture page labeled C1 used as a leaf node in accessibility snapshot hierarchy tests.

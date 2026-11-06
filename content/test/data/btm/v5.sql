@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 5
+-- summary: SQL fixture for database version 5 that adds an is_current_interaction flag to the popups table while retaining the existing bounces schema.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

@@ -1,0 +1,4 @@
+# Docerion header of reused-map-move-image-expected-auralinux.txt.
+type: test
+title: Expected Auralinux tree for reused map image move test
+summary: Expected Auralinux accessibility tree snapshot before and after moving an image, covering the continuation of the reused map test.

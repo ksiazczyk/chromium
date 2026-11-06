@@ -1,0 +1,4 @@
+# Docerion header of ignore-reflexive-relations-expected-win.txt.
+type: test
+title: Ignore reflexive relations expected Windows output
+summary: Expected accessibility tree output on Windows for the test that reflexive aria-details relations are ignored.

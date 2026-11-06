@@ -1,0 +1,4 @@
+# Docerion header of redirect_and_set_cookie.html.
+type: test
+title: Redirect landing page
+summary: Simple landing page shown after the redirect in the redirect-and-set-cookie test.

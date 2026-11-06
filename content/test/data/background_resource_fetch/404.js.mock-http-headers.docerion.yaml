@@ -1,0 +1,4 @@
+# Docerion header of 404.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for 404.js
+summary: Mock HTTP header file that makes the test server respond with HTTP 404 Not Found for the 404.js resource.

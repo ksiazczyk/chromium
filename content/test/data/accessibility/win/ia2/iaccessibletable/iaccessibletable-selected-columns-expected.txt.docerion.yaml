@@ -1,0 +1,4 @@
+# Docerion header of iaccessibletable-selected-columns-expected.txt.
+type: test
+title: IAccessibleTable selected columns expected output
+summary: Expected output for the IAccessibleTable selected columns accessibility test, recording the selected column indices returned for the grid.

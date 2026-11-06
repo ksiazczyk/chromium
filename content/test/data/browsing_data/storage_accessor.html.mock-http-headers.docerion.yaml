@@ -1,0 +1,4 @@
+# Docerion header of storage_accessor.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the storage accessor page
+summary: Mock HTTP response headers served with the storage accessor test page, declaring HTML content type and fenced frame loading support.

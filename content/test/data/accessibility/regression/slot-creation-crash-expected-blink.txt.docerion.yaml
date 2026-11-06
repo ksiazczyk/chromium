@@ -1,0 +1,4 @@
+# Docerion header of slot-creation-crash-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for slot creation crash test
+summary: Expected Blink accessibility tree snapshot with ignored generic containers and a paragraph, used to verify the slot creation crash regression test output.

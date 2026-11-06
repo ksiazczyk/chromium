@@ -1,0 +1,4 @@
+# Docerion header of charset_windows-1250.html.
+type: test
+title: Windows-1250 charset test page
+summary: Back-forward cache test page that declares a windows-1250 charset via a meta tag and has an empty body.

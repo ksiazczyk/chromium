@@ -1,0 +1,4 @@
+# Docerion header of webshare.html.
+type: test
+title: Web Share basic test page
+summary: Test page that shares a title, text and URL via navigator.share on click and updates the document title to indicate success or failure.

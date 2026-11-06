@@ -1,0 +1,4 @@
+# Docerion header of hidden-table-expected-blink.txt.
+type: test
+title: Expected accessibility tree for hidden table test
+summary: Expected Blink accessibility tree output for a table with hidden row groups, column headers and static text.
