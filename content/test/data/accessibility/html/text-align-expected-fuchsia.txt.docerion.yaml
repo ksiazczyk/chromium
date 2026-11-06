@@ -1,0 +1,4 @@
+# Docerion header of text-align-expected-fuchsia.txt.
+type: test
+title: text-align expected Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the text-align HTML test with static text labels per alignment variant.

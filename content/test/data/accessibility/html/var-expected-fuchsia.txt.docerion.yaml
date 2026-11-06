@@ -1,0 +1,4 @@
+# Docerion header of var-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia output for var accessibility test
+summary: Expected Fuchsia accessibility tree output with static text labeled Variable for the var test page.

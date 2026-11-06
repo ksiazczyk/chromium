@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-mac.txt.
+type: test
+title: wbr expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the wbr HTML test listing static text values for each word segment.

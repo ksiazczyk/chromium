@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-win.txt.
+type: test
+title: Read-only textarea expected Win output
+summary: Expected Windows IA2 accessibility tree output for the read-only textarea test.

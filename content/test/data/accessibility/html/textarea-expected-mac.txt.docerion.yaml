@@ -1,0 +1,4 @@
+# Docerion header of textarea-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for textarea test
+summary: Expected macOS accessibility tree snapshot for the HTML textarea element, describing the AXTextArea role and its value.

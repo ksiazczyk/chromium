@@ -1,0 +1,4 @@
+# Docerion header of time-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for the time element test
+summary: Expected UIA Windows accessibility tree snapshot for the time.html test page with time localized control types.

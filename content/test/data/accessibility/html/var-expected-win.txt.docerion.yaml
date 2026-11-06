@@ -1,0 +1,4 @@
+# Docerion header of var-expected-win.txt.
+type: test
+title: Expected Windows output for var test
+summary: Expected Windows accessibility output for the var test page, marked as skipped because the element has no accessible.

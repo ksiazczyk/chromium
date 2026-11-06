@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-mac.txt.
+type: test
+title: Read-only textarea expected Mac output
+summary: Expected macOS accessibility tree output for the read-only textarea test.

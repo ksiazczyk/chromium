@@ -1,0 +1,4 @@
+# Docerion header of video-text-only.html.
+type: test
+title: Video text-only test page
+summary: HTML test page with an empty video element and one containing text, used to verify accessibility tree output for text-only video elements.

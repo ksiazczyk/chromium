@@ -1,0 +1,4 @@
+# Docerion header of visible_text.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for visible_text.html
+summary: Mock HTTP response headers served with visible_text.html, declaring fenced-frame support via Supports-Loading-Mode.

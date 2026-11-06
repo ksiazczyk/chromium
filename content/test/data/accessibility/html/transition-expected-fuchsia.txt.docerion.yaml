@@ -1,0 +1,4 @@
+# Docerion header of transition-expected-fuchsia.txt.
+type: test
+title: Transition test expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the transition test page with a GrowButton button and Done static text.

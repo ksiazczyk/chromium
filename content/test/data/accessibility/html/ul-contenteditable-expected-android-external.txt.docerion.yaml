@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility dump for ul-contenteditable
+summary: Expected Android external accessibility dump for a contenteditable list, describing the focused multiline editable text field and its available actions.

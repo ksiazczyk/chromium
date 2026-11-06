@@ -1,0 +1,4 @@
+# Docerion header of ul-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for ul list test
+summary: Expected UIA Windows accessibility tree snapshot for the ul list test with list items and their text elements.

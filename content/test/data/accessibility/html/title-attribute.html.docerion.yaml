@@ -1,0 +1,4 @@
+# Docerion header of title-attribute.html.
+type: test
+title: HTML test page for title attribute name and description mapping
+summary: HTML test fixture checking how the title attribute maps to name or description depending on role, including redundant and name-prohibited cases.

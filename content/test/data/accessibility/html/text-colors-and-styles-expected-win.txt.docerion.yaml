@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-win.txt.
+type: test
+title: Expected Win accessibility tree for text colors and styles
+summary: Expected Windows IA2 and MSAA accessibility tree for the text colors and styles test page with paragraph, heading and statictext roles.

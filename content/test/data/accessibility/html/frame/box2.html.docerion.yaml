@@ -1,0 +1,4 @@
+# Docerion header of box2.html.
+type: test
+title: Accessibility test fixture with a duplicate styled image box
+summary: Duplicate test fixture for accessibility frame tests rendering the same styled role img box as box.html.

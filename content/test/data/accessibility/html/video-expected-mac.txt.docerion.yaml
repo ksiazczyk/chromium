@@ -1,0 +1,4 @@
+# Docerion header of video-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for video element
+summary: Expected macOS AX accessibility tree snapshot for a page containing a video element.

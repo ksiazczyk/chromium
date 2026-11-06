@@ -1,0 +1,4 @@
+# Docerion header of textarea-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for textarea test
+summary: Expected Windows IA2 accessibility tree snapshot for the HTML textarea element, describing document, section and multi-line editable text roles.

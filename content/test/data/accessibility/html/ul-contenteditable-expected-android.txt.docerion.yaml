@@ -1,0 +1,4 @@
+# Docerion header of ul-contenteditable-expected-android.txt.
+type: test
+title: Expected Android accessibility dump for ul-contenteditable
+summary: Expected Android accessibility dump for a contenteditable list, describing the focused WebView and its multiline EditText bulleted value.

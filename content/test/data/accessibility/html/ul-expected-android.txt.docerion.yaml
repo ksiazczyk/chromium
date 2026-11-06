@@ -1,0 +1,4 @@
+# Docerion header of ul-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for ul list test
+summary: Expected Android accessibility tree snapshot for the ul list test, listing a ListView with three items and bullet markers.

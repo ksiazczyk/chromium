@@ -1,0 +1,4 @@
+# Docerion header of textarea-with-selection-expected-auralinux.txt.
+type: test
+title: Expected Aura/Linux accessibility tree for textarea-with-selection
+summary: Expected accessibility tree snapshot for the textarea-with-selection test on Aura/Linux, showing caret and selection state of a focused multi-line entry.

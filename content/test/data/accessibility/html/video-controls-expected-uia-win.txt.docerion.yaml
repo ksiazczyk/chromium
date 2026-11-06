@@ -1,0 +1,4 @@
+# Docerion header of video-controls-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for video controls
+summary: Expected Windows UIA accessibility tree snapshot of the video controls test page.

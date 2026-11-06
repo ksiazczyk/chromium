@@ -1,0 +1,4 @@
+# Docerion header of title-expected-win.txt.
+type: test
+title: Title test expected MSAA tree for Windows
+summary: Expected Windows accessibility output describing the document role, name and states for the title test page.

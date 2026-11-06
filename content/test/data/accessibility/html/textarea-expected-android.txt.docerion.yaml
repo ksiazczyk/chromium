@@ -1,0 +1,4 @@
+# Docerion header of textarea-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for textarea test
+summary: Expected Android accessibility tree dump for the HTML textarea element, including a skip note referencing crbug.com/425485.

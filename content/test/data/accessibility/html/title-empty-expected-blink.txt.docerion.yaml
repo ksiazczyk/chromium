@@ -1,0 +1,4 @@
+# Docerion header of title-empty-expected-blink.txt.
+type: test
+title: Blink expected tree for empty document title
+summary: Expected Blink accessibility tree for a page whose title element is empty.

@@ -1,0 +1,4 @@
+# Docerion header of wbr-expected-fuchsia.txt.
+type: test
+title: wbr expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the wbr HTML test with static text labels for each word segment.

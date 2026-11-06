@@ -1,0 +1,4 @@
+# Docerion header of transition-expected-mac.txt.
+type: test
+title: Transition test expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the transition test page with an AXButton and static text.

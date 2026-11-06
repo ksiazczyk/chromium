@@ -1,0 +1,4 @@
+# Docerion header of textarea-expected-android-external.txt.
+type: test
+title: Expected Android external output for textarea accessibility test
+summary: Expected Android external accessibility tree snapshot for the HTML textarea element, describing focus, actions and editable text field properties.

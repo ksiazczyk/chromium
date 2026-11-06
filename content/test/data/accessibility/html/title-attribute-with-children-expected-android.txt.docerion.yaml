@@ -1,0 +1,4 @@
+# Docerion header of title-attribute-with-children-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the title attribute with children test
+summary: Expected Android accessibility tree snapshot for a test where a title attribute names a group that contains child text elements.

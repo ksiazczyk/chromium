@@ -1,0 +1,4 @@
+# Docerion header of video-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for video element
+summary: Expected Android accessibility tree snapshot for a page containing a video element.

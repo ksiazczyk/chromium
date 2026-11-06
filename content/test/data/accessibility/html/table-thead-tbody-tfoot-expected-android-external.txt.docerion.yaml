@@ -1,0 +1,4 @@
+# Docerion header of table-thead-tbody-tfoot-expected-android-external.txt.
+type: test
+title: table-thead-tbody-tfoot expected Android external description
+summary: Expected Android external accessibility description for the thead, tbody and tfoot table test with collection item info.

@@ -1,0 +1,4 @@
+# Docerion header of whitespace-dynamic-expected-blink.txt.
+type: test
+title: whitespace-dynamic expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the whitespace-dynamic test showing a generic container named Done.

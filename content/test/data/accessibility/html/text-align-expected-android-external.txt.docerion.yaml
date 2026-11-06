@@ -1,0 +1,4 @@
+# Docerion header of text-align-expected-android-external.txt.
+type: test
+title: text-align expected Android external
+summary: Expected Android external accessibility tree snapshot for the text-align HTML test, listing TextViews for each alignment variant.

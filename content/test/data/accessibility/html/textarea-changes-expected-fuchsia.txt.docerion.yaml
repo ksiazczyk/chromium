@@ -1,0 +1,4 @@
+# Docerion header of textarea-changes-expected-fuchsia.txt.
+type: test
+title: Textarea changes expected Fuchsia output
+summary: Expected Fuchsia accessibility tree snapshot showing a text field with value xyz for the textarea-changes test.

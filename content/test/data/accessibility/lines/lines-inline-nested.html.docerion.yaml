@@ -1,0 +1,4 @@
+# Docerion header of lines-inline-nested.html.
+type: test
+title: Nested inline-block line accessibility test
+summary: HTML test fixture checking that a nested inline-block within a single line is properly linked via kNextOnLineId and kPreviousOnLineId.

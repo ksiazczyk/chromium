@@ -1,0 +1,4 @@
+# Docerion header of table-thead-tbody-tfoot-expected-mac.txt.
+type: test
+title: Mac expected accessibility tree for thead, tbody, tfoot table test
+summary: Expected macOS accessibility tree dump for the HTML table test that uses thead, tbody and tfoot sections.

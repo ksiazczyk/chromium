@@ -1,0 +1,4 @@
+# Docerion header of var-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for var test
+summary: Expected Blink accessibility tree output with rootWebArea, generic containers and static text named Variable for the var test page.

@@ -1,0 +1,4 @@
+# Docerion header of var-expected-android-external.txt.
+type: test
+title: Expected Android external output for var accessibility test
+summary: Expected Android external accessibility output listing focusable WebView and TextView nodes for the var test page.

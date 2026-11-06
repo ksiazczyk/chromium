@@ -1,0 +1,4 @@
+# Docerion header of text-indent-expected-fuchsia.txt.
+type: test
+title: Text indent expected Fuchsia output
+summary: Expected Fuchsia accessibility tree snapshot for the text-indent HTML test.

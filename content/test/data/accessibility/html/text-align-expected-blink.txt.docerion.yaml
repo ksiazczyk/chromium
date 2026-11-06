@@ -1,0 +1,4 @@
+# Docerion header of text-align-expected-blink.txt.
+type: test
+title: text-align expected Blink
+summary: Expected Blink accessibility tree snapshot for the text-align HTML test, including static text and inline text boxes.

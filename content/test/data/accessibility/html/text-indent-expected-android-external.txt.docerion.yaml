@@ -1,0 +1,4 @@
+# Docerion header of text-indent-expected-android-external.txt.
+type: test
+title: Text indent expected Android external output
+summary: Expected Android accessibility tree snapshot for the text-indent HTML test in the external WebView format.

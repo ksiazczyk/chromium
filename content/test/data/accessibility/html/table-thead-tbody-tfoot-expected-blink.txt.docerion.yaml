@@ -1,0 +1,4 @@
+# Docerion header of table-thead-tbody-tfoot-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for thead, tbody, tfoot table test
+summary: Expected Blink accessibility tree dump for the HTML table test that uses thead, tbody and tfoot sections.

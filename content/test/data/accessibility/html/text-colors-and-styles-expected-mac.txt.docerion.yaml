@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for text colors and styles
+summary: Expected macOS accessibility tree for the text colors and styles test page with AXHeading, AXGroup and AXStaticText nodes.

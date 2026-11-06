@@ -1,0 +1,4 @@
+# Docerion header of title-attribute-with-children.html.
+type: test
+title: HTML test page for title attribute with children
+summary: HTML test fixture with a titled div containing two paragraphs, used to check how the title attribute names a container with children.

@@ -1,0 +1,4 @@
+# Docerion header of button2.html.
+type: test
+title: Accessibility test fixture with a second button
+summary: Test fixture for accessibility frame tests containing a second button with fixed size and margins.

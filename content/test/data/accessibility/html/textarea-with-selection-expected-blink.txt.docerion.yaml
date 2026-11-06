@@ -1,0 +1,4 @@
+# Docerion header of textarea-with-selection-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for textarea-with-selection
+summary: Expected Blink accessibility tree snapshot for the textarea-with-selection test, listing the multiline text field, static text and inline text boxes with selection ranges.

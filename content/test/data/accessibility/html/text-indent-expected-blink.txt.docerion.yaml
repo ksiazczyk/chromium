@@ -1,0 +1,4 @@
+# Docerion header of text-indent-expected-blink.txt.
+type: test
+title: Text indent expected Blink output
+summary: Expected Blink accessibility tree snapshot with textIndent attributes for the text-indent HTML test.

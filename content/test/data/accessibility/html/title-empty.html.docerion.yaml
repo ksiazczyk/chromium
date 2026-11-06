@@ -1,0 +1,4 @@
+# Docerion header of title-empty.html.
+type: test
+title: HTML test page with empty title element
+summary: HTML test fixture with an empty title element to verify accessibility behavior when no document title is set.

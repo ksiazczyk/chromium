@@ -1,0 +1,4 @@
+# Docerion header of textarea-read-only-expected-android.txt.
+type: test
+title: Read-only textarea expected Android output
+summary: Expected Android accessibility tree output for the read-only textarea test, marked as skipped due to crbug.com/425485.

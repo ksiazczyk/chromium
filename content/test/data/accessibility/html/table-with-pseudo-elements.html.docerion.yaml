@@ -1,0 +1,4 @@
+# Docerion header of table-with-pseudo-elements.html.
+type: test
+title: HTML table test page with CSS pseudo-elements
+summary: HTML test page with a table whose cells contain a text input and submit button plus before and after pseudo-element content.

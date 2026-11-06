@@ -1,0 +1,4 @@
+# Docerion header of table-thead-tbody-tfoot-expected-auralinux.txt.
+type: test
+title: table-thead-tbody-tfoot expected accessibility tree for Linux
+summary: Expected Linux accessibility tree output for the thead, tbody and tfoot table test, showing column headers and table cells.

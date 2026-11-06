@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-android.txt.
+type: test
+title: text-colors-and-styles expected Android
+summary: Expected Android accessibility tree snapshot for the text-colors-and-styles HTML test, covering headings, strong and italic text.

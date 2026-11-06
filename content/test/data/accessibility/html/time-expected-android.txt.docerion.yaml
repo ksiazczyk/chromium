@@ -1,0 +1,4 @@
+# Docerion header of time-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the time element test
+summary: Expected Android accessibility tree snapshot for the time.html test page, covering plain and datetime time elements.

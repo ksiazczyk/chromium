@@ -1,0 +1,4 @@
+# Docerion header of window-crops-items-expected-blink.txt.
+type: test
+title: window-crops-items expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the window-crops-items test showing onscreen, offscreen and clipped buttons.

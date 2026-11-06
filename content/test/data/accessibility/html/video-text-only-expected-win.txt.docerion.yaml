@@ -1,0 +1,4 @@
+# Docerion header of video-text-only-expected-win.txt.
+type: test
+title: Video text-only expected Windows accessibility tree
+summary: Expected MSAA/IA2 accessibility tree for the video text-only test page on Windows, with unavailable groupings named 'Unable to play media.'.

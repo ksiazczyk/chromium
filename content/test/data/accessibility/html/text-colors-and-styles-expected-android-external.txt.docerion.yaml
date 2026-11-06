@@ -1,0 +1,4 @@
+# Docerion header of text-colors-and-styles-expected-android-external.txt.
+type: test
+title: text-colors-and-styles expected Android external
+summary: Expected Android external accessibility tree snapshot for the text-colors-and-styles HTML test with headings and styled text nodes.

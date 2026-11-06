@@ -1,0 +1,4 @@
+# Docerion header of video-controls-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for video controls
+summary: Expected Blink accessibility tree snapshot of the video controls test page.

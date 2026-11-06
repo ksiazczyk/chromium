@@ -1,0 +1,4 @@
+# Docerion header of table-with-pseudo-elements-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for table with pseudo-elements
+summary: Expected Blink accessibility tree dump for the table test that includes CSS before and after pseudo-element content.

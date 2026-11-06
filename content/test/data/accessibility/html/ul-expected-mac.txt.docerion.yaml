@@ -1,0 +1,4 @@
+# Docerion header of ul-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for ul list test
+summary: Expected macOS accessibility tree snapshot for the ul list test with an AXContentList, list markers and static text.

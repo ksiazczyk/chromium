@@ -1,0 +1,4 @@
+# Docerion header of lines.html.
+type: test
+title: Accessibility lines test page
+summary: HTML test fixture with wrapped text spans and a button that rewrites text to exercise accessibility line tracking on a narrow paragraph.

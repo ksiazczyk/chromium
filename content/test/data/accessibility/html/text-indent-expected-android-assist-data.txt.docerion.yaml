@@ -1,0 +1,4 @@
+# Docerion header of text-indent-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for text indent test
+summary: Expected Android assist data snapshot for the text indent test page showing div and TextView nodes with various text-indent values.

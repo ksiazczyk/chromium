@@ -1,0 +1,4 @@
+# Docerion header of textarea-with-selection-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for textarea-with-selection
+summary: Expected Windows IA2 accessibility tree snapshot for the textarea-with-selection test, including caret offset, selections and multi-line editable state.

@@ -1,0 +1,4 @@
+# Docerion header of video-controls-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for video controls
+summary: Expected macOS AX accessibility tree snapshot of the video controls test page.

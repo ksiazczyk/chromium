@@ -1,0 +1,4 @@
+# Docerion header of textarea-with-selection-expected-android.txt.
+type: test
+title: Textarea with selection expected Android output
+summary: Expected Android accessibility tree output for the textarea-with-selection test, marked as skipped due to crbug.com/425485.
