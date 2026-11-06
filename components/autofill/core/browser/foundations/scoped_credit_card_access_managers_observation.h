@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCreditCardAccessManagersObservation helper for CreditCardAccessManager
+// summary: Declares ScopedCreditCardAccessManagersObservation, which allows observing all CreditCardAccessManagers of a tab, analogous to ScopedAutofillManagersObservation for AutofillManagers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_SCOPED_CREDIT_CARD_ACCESS_MANAGERS_OBSERVATION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_SCOPED_CREDIT_CARD_ACCESS_MANAGERS_OBSERVATION_H_
 

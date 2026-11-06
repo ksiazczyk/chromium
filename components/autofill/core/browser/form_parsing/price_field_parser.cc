@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price field parser
+// summary: Implements the parser that recognizes price fields in web forms via the PRICE pattern and classifies them as PRICE.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/price_field_parser.h"
 
 #include <memory>

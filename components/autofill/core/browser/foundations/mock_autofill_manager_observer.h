@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AutofillManagerObserver for AutofillManager events
+// summary: GMock mock of AutofillManager::Observer that stubs all before/after event handlers such as forms seen, field changes, and autofill actions for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_MOCK_AUTOFILL_MANAGER_OBSERVER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_MOCK_AUTOFILL_MANAGER_OBSERVER_H_
 

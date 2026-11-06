@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search field parser implementation
+// summary: Implements SearchFieldParser, which recognizes search term fields and classifies them so autofill does not fill them.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/search_field_parser.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAutofillDriverFactory implementation
+// summary: Implements TestAutofillDriverFactory, which owns test drivers and manages their lifecycle states such as activate, deactivate, reset, and delete for unit tests.
+// ---
+
 #include "components/autofill/core/browser/foundations/test_autofill_driver_factory.h"
 
 #include <algorithm>

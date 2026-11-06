@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone field parser unit tests
+// summary: Unit tests verifying phone field parsing across text, telephone, and number control types, various grammars, and histogram metrics.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/phone_field_parser.h"
 
 #include <stddef.h>

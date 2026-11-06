@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regex type determination implementation
+// summary: Implements DetermineRegexTypes, which classifies form fields using regex patterns and builds RegexPredictions for heuristic field types.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/determine_regex_types.h"
 
 #include <stddef.h>

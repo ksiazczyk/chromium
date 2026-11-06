@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card field parser unit tests
+// summary: Unit tests verifying credit card field parsing heuristics for cardholder, number and expiration fields across varied form layouts.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/credit_card_field_parser.h"
 
 #include <algorithm>

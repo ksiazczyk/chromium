@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillDriverRouter unit tests
+// summary: Unit tests for AutofillDriverRouter that verify routing of autofill events across same-origin and cross-origin frames with varying autofill permission policies.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_driver_router.h"
 
 #include <memory>

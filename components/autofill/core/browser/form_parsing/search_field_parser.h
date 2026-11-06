@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search field parser header
+// summary: Declares SearchFieldParser, which identifies search fields in forms to reduce the number of autofill false positives.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_SEARCH_FIELD_PARSER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_SEARCH_FIELD_PARSER_H_
 

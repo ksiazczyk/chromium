@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedAutofillManagersObservation
+// summary: Unit tests covering single and multi-frame observation, initialization policies, reset behavior, and driver state change notifications of ScopedAutofillManagersObservation.
+// ---
+
 #include "components/autofill/core/browser/foundations/scoped_autofill_managers_observation.h"
 
 #include "base/test/gtest_util.h"

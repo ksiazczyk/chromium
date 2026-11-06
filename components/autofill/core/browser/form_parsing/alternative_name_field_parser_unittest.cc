@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alternative name field parser unit tests
+// summary: Unit tests verifying classification of phonetic family, given and full name fields by AlternativeNameFieldParser.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/alternative_name_field_parser.h"
 
 #include <memory>

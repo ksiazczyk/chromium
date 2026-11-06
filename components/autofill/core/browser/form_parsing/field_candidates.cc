@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldCandidates implementation
+// summary: Implements collection of candidate field types and priority-based selection of the best heuristic classification.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/field_candidates.h"
 
 #include <stddef.h>

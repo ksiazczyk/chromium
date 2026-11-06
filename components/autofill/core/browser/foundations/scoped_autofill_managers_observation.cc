@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAutofillManagersObservation implementation
+// summary: Implements a scoped helper that observes all AutofillManagers of a client via the AutofillDriverFactory and forwards their events to a single observer.
+// ---
+
 #include "components/autofill/core/browser/foundations/scoped_autofill_managers_observation.h"
 
 #include "base/check_op.h"

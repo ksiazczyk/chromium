@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regex patterns unit tests
+// summary: Unit tests validating MatchPatternRef encoding, pattern lookup and regex matching behavior for the available pattern files.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/regex_patterns.h"
 
 // Keep these tests in sync with

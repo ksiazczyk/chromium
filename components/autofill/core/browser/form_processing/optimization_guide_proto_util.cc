@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill form data to optimization guide proto conversion implementation
+// summary: Converts autofill FormData and control types into optimization guide protobuf messages for model requests and extension API data collection.
+// ---
+
 #include "components/autofill/core/browser/form_processing/optimization_guide_proto_util.h"
 
 #include <stddef.h>

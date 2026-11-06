@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card field parser implementation
+// summary: Implements heuristics that recognize credit card fields such as cardholder name, card number and expiration dates in web forms.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/credit_card_field_parser.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAutofillManagersObservation helper for observing AutofillManagers
+// summary: Declares ScopedAutofillManagersObservation, which lets a single AutofillManager::Observer observe all AutofillManagers of a client without implementing the driver factory observer interface.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_SCOPED_AUTOFILL_MANAGERS_OBSERVATION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FOUNDATIONS_SCOPED_AUTOFILL_MANAGERS_OBSERVATION_H_
 

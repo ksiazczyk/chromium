@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillDriverFactory test API implementation
+// summary: Implements the test helper that inserts an observer at a chosen position in the factory's observer list.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_driver_factory_test_api.h"
 
 namespace autofill {

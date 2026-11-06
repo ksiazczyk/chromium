@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regex pattern lookup implementation
+// summary: Implements lookup of autofill regex patterns by name, language code and pattern file, with fallbacks and support for supplementary patterns.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/regex_patterns.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill scanner class declaration
+// summary: Declares AutofillScanner, a helper class for parsing a stream of form fields with lookahead, relevance filtering and saveable positions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_AUTOFILL_SCANNER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_AUTOFILL_SCANNER_H_
 

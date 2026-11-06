@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Travel field parser implementation
+// summary: Implements parsing of travel-related fields such as passport, origin, destination and flight, currently tagging them as unknown types for use as a filter.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/travel_field_parser.h"
 
 #include <memory>

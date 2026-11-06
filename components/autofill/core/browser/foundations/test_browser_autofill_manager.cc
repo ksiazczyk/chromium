@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestBrowserAutofillManager implementation
+// summary: Implements TestBrowserAutofillManager, a BrowserAutofillManager test variant that installs a TestFormFiller and mock payments managers plus a stub card image.
+// ---
+
 #include "components/autofill/core/browser/foundations/test_browser_autofill_manager.h"
 
 #include "components/autofill/core/browser/data_model/payments/credit_card.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search field parser unit tests
+// summary: Unit tests checking that search fields are recognized as SEARCH_TERM while non-search fields are not parsed.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/search_field_parser.h"
 
 #include <memory>

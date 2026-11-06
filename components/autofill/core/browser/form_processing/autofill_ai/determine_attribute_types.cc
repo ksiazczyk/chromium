@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI attribute type determination implementation
+// summary: Implements static and dynamic AttributeType assignment for Autofill AI form fields, including propagation to neighboring fields.
+// ---
+
 #include "components/autofill/core/browser/form_processing/autofill_ai/determine_attribute_types.h"
 
 #include <stddef.h>

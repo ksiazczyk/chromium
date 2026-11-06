@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time code field parser
+// summary: Implements the parser that recognizes one-time code (OTP) form fields and classifies them as ONE_TIME_CODE when the one-time code heuristics feature is enabled.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/one_time_code_field_parser.h"
 
 #include <memory>

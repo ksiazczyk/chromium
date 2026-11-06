@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form field parser test utilities
+// summary: Implements FormFieldParserTestBase, a shared helper that builds form fields with expected types and verifies parser classification results in unit tests.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/parsing_test_util.h"
 
 #include <optional>

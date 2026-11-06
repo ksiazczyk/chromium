@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price field parser header
+// summary: Declares PriceFieldParser, which identifies price fields in web forms so autofill can avoid filling them and reduce false positives.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_PRICE_FIELD_PARSER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PARSING_PRICE_FIELD_PARSER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of transpile_regex_patterns.py.
+type: script
+title: Regex pattern transpiler to C++ constants
+summary: Python script that transpiles JSON5 regex pattern files into C++ constexpr lookup constants mapping pattern names and language codes to matching patterns.

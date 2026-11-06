@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillManager unit tests
+// summary: Unit tests for AutofillManager covering lifecycle, form parsing, server predictions, and observer notifications using mock drivers and clients.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_manager.h"
 
 #include <algorithm>

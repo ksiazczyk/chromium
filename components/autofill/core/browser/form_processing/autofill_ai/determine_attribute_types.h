@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI attribute type determination header
+// summary: Declares the DetermineAttributeTypes overloads and pass key that assign AttributeTypes to form fields per section and entity.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PROCESSING_AUTOFILL_AI_DETERMINE_ATTRIBUTE_TYPES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_PROCESSING_AUTOFILL_AI_DETERMINE_ATTRIBUTE_TYPES_H_
 

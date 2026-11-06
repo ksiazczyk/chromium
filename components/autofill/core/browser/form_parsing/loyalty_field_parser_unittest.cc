@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loyalty card field parser unit tests
+// summary: Unit tests covering recognition of frequent flyer and loyalty number fields and rejection of unrelated fields.
+// ---
+
 #include "components/autofill/core/browser/form_parsing/loyalty_field_parser.h"
 
 #include "components/autofill/core/browser/field_types.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillClient implementation
+// summary: Implements parts of the browser-side AutofillClient interface, such as PopupOpenArgs, used by autofill managers to interact with embedder services.
+// ---
+
 #include "components/autofill/core/browser/foundations/autofill_client.h"
 
 #include <stdint.h>

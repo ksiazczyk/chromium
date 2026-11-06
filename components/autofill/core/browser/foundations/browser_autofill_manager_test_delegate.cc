@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserAutofillManagerTestDelegate implementation
+// summary: Implements a test delegate that observes AutofillManager lifecycle and fill, preview, and suggestion events and forwards them to test callbacks.
+// ---
+
 #include "components/autofill/core/browser/foundations/browser_autofill_manager_test_delegate.h"
 
 #include "components/autofill/core/browser/suggestions/suggestion_hiding_reason.h"
