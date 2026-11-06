@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall parameter restriction helpers for seccomp-BPF policies
+// summary: Declares helper functions returning bpf_dsl result expressions that restrict syscall parameters, such as clone flags, prctl options, mmap flags and fcntl commands.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SYSCALL_PARAMETERS_RESTRICTIONS_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SYSCALL_PARAMETERS_RESTRICTIONS_H_
 

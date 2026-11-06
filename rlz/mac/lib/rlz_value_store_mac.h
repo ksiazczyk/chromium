@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RlzValueStoreMac interface for the Mac RLZ value store
+// summary: Declares RlzValueStoreMac, the macOS RlzValueStore implementation that persists RLZ data in a plist in Application Support.
+// ---
+
 #ifndef RLZ_MAC_LIB_RLZ_VALUE_STORE_MAC_H_
 #define RLZ_MAC_LIB_RLZ_VALUE_STORE_MAC_H_
 

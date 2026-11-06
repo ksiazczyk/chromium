@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credentials class header
+// summary: Declares the Credentials API for manipulating POSIX capabilities, uid/gid maps, and user namespaces of the current process.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_CREDENTIALS_H_
 #define SANDBOX_LINUX_SERVICES_CREDENTIALS_H_
 

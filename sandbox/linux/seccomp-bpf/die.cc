@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Die implementation
+// summary: Implements the Die helpers that log errors and terminate the process with fallback exit strategies when running under a sandbox.
+// ---
+
 #include "sandbox/linux/seccomp-bpf/die.h"
 
 #include <errno.h>

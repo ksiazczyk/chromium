@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: i386 Linux ucontext structure definitions
+// summary: Declares i386 sigcontext, floating-point state and ucontext structures missing from the PNaCl toolchain for the Linux sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_I386_LINUX_UCONTEXT_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_I386_LINUX_UCONTEXT_H_
 

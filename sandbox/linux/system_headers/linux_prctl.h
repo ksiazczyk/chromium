@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux prctl option definitions
+// summary: Defines prctl options including PR_SET_PDEATHSIG, PR_SET_VMA and PR_SET_PTRACER for the Linux sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_PRCTL_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_PRCTL_H_
 

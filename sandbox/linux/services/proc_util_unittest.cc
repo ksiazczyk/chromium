@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcUtil unit tests
+// summary: Tests ProcUtil counting of open file descriptors and detection of open directory file descriptors.
+// ---
+
 #include "sandbox/linux/services/proc_util.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerPermissionList class declaration
+// summary: Declares the file access control list enforced by BrokerHost, with async-signal-safe methods that return safe filenames for allowed operations.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_PERMISSION_LIST_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_PERMISSION_LIST_H_
 

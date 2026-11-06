@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Baseline seccomp-BPF policy implementation
+// summary: Implements the baseline syscall policy that all Chromium sandboxed processes build upon, deciding which syscalls are allowed, denied or watched.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/baseline_policy.h"
 
 #include <errno.h>

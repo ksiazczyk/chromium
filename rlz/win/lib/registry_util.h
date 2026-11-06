@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry access helper interface
+// summary: Declares registry helper functions for reading and writing RLZ values and checking HKEY_CURRENT_USER access rights.
+// ---
+
 #ifndef RLZ_WIN_LIB_REGISTRY_UTIL_H_
 #define RLZ_WIN_LIB_REGISTRY_UTIL_H_
 

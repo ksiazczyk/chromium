@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Init process reaper header
+// summary: Declares CreateInitProcessReaper for turning a forked parent into an init-like child-reaping process.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_INIT_PROCESS_REAPER_H_
 #define SANDBOX_LINUX_SERVICES_INIT_PROCESS_REAPER_H_
 

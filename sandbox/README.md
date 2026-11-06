@@ -1,3 +1,13 @@
+---
+type: readme
+title: Sandbox Library
+summary: Overview of the sandbox library describing platform-specific sandboxing on Mac, Linux, and Windows and the policy component built on top of the core library.
+relations:
+  - references /docs/design/sandbox.md
+  - references /docs/linux/suid_sandbox_development.md
+  - references /sandbox/mac/seatbelt_sandbox_design.md
+---
+
 # Sandbox Library
 
 This directory contains platform-specific sandboxing libraries. Sandboxing is a

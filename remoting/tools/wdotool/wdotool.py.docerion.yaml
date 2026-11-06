@@ -1,0 +1,4 @@
+# Docerion header of wdotool.py.
+type: source
+title: wdotool.py
+summary: Python tool that synthesizes keyboard and mouse input on Wayland desktops via GNOME Remote Desktop D-Bus APIs and libEI bindings.

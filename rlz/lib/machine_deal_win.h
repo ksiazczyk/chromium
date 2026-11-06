@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OEM deal code API
+// summary: Declares functions for storing, reading and updating the OEM Deal Confirmation code (DCC) in the Windows registry for RLZ initialization.
+// ---
+
 #ifndef RLZ_LIB_MACHINE_DEAL_WIN_H_
 #define RLZ_LIB_MACHINE_DEAL_WIN_H_
 

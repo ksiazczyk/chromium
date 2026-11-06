@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LibValues unit tests
+// summary: Unit tests verifying that access point and event names resolve to the correct enum values and that all access points have non-empty names.
+// ---
+
 #include "rlz/lib/lib_values.h"
 
 #include <optional>

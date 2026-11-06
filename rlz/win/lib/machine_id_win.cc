@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows machine identifier retrieval
+// summary: Retrieves the raw machine ID on Windows by reading the computer SID and the system drive volume serial number.
+// ---
+
 #include <windows.h>
 
 #include <Sddl.h>  // For ConvertSidToStringSidW.

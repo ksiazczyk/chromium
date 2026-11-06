@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerSandboxConfig implementation
+// summary: Implements the BrokerSandboxConfig constructor and move operations, building the broker permission list from the given file permissions.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_sandbox_config.h"
 
 #include "sandbox/linux/syscall_broker/broker_file_permission.h"

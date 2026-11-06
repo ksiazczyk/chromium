@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerPermissionList implementation
+// summary: Implements BrokerPermissionList checks that decide whether access, open, stat, connect, bind, and inotify watch requests are allowed by the configured file permissions.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_permission_list.h"
 
 #include <fcntl.h>

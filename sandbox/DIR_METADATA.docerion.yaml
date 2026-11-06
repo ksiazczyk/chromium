@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sandbox
+summary: Directory metadata that mixes in sandbox/COMMON_METADATA to reuse its tracker and team information.

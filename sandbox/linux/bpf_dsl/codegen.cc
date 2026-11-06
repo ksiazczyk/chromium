@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BPF code generator implementation
+// summary: Implements greedy instruction emission, memoization, and jump-range handling that turn a DAG of BPF instructions into a filter program.
+// ---
+
 #include "sandbox/linux/bpf_dsl/codegen.h"
 
 #include <stddef.h>

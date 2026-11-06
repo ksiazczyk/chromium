@@ -1,0 +1,4 @@
+# Docerion header of native_messaging_host_test.py.
+type: test
+title: Interactive native messaging host test
+summary: Interactive script that sends menu-selected messages to the Chromoting native messaging host and prints its replies.

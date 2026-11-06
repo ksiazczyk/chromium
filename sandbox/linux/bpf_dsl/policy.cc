@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy base implementation
+// summary: Implements the Policy interface default InvalidSyscall, returning an ENOSYS error result.
+// ---
+
 #include "sandbox/linux/bpf_dsl/policy.h"
 
 #include <errno.h>

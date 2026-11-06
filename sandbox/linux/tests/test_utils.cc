@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities implementation
+// summary: Implements test helpers that detect unwaited children, handle post-fork exits, and map or protect memory pages for sandbox tests.
+// ---
+
 #include "sandbox/linux/tests/test_utils.h"
 
 #include <errno.h>

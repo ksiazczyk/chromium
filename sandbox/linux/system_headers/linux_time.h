@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux time system header
+// summary: Defines CPU clock and POSIX clock constants that may be missing from older system headers for use by the Linux sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_TIME_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_TIME_H_
 

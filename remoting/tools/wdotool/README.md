@@ -1,3 +1,11 @@
+---
+type: readme
+title: wdotool Overview
+summary: Documents wdotool.py, an xdotool replacement for Wayland that uses GNOME Remote Desktop and libEI, with setup, usage and example commands.
+relations:
+  - documents /remoting/tools/wdotool/wdotool.py
+---
+
 # Overview
 `wdotool.py` is a simple replacement for `xdotool` suitable for Wayland
 desktops. It uses Gnome Remote Desktop and libEI APIs to synthesize keyboard

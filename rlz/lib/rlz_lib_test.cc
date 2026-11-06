@@ -13,6 +13,12 @@
 // The "GGLA" brand is used to test the normal code flow of the code, and the
 // "TEST" brand is used to test the supplementary brand code code flow.
 
+// ---docerion
+// type: source
+// title: RLZ library unit tests
+// summary: Contains gtest-based tests for the RLZ library covering events, access point RLZs and financial pings, using fake ping responses and requiring HKLM and HKCU write access.
+// ---
+
 #include "rlz/lib/rlz_lib.h"
 
 #include <stddef.h>

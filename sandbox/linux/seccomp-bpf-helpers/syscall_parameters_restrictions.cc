@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall parameter restriction helpers implementation
+// summary: Implements bpf_dsl result expressions that restrict parameters of clone, prctl, ioctl, mmap, fcntl, futex, sched and related syscalls for Linux sandbox policies.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/syscall_parameters_restrictions.h"
 
 #include <errno.h>

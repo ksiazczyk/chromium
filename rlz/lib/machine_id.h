@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine ID header
+// summary: Declares GetMachineId and GetRawMachineId, which derive the unique machine identifier included in financial pings.
+// ---
+
 #ifndef RLZ_LIB_MACHINE_ID_H_
 #define RLZ_LIB_MACHINE_ID_H_
 

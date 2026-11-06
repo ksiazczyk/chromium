@@ -5,6 +5,12 @@
 // A library to manage RLZ information for access-points shared
 // across different client applications.
 
+// ---docerion
+// type: source
+// title: Windows RLZ library core implementation
+// summary: Implements Windows-specific RLZ helpers, including DACL access checks and creation of the machine state registry key for shared access points.
+// ---
+
 #include <windows.h>
 
 #include <aclapi.h>

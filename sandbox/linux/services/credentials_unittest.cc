@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credentials unit tests
+// summary: Tests dropping capabilities, moving to new user namespaces, and related credential behaviors of the Credentials class.
+// ---
+
 #include "sandbox/linux/services/credentials.h"
 
 #include <errno.h>

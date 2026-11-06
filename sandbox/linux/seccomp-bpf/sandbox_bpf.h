@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxBPF class header
+// summary: Declares the SandboxBPF class that applies a bpf_dsl syscall policy to the current process and queries kernel seccomp support.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_SANDBOX_BPF_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_SANDBOX_BPF_H_
 

@@ -14,6 +14,12 @@
 // case below, the brand "GOOG" is used because the code wants to use a brand
 // that is neither of the two mentioned above.
 
+// ---docerion
+// type: test
+// title: FinancialPing tests
+// summary: Unit tests for the FinancialPing class, verifying ping request formation and behavior across Windows, ChromeOS and other platforms.
+// ---
+
 #include "rlz/lib/financial_ping.h"
 
 #include <stdint.h>

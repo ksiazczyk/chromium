@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Linux sandbox build targets and test configuration
+summary: GN build file defining the sandbox targets, test utilities, and unit test sources for the Linux sandbox, with platform-conditional dependencies for Linux, ChromeOS, and Android.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sandbox directory owners
+summary: Lists the code owners of the sandbox directory, set to not inherit owners from parent directories.

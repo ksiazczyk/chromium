@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SIGSYS trap handlers for seccomp-BPF sandbox
+// summary: Declares async-signal-safe SIGSYS trap handlers that crash or report failures for denied syscalls such as clone, prctl, ioctl, kill, futex, ptrace, socket and sched calls.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SIGSYS_HANDLERS_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SIGSYS_HANDLERS_H_
 

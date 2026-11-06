@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox feature declarations
+// summary: Declares sandbox::features::IsAppContainerSandboxSupported, which reports whether the current Windows platform supports the App Container sandbox.
+// ---
+
 #ifndef SANDBOX_FEATURES_H_
 #define SANDBOX_FEATURES_H_
 

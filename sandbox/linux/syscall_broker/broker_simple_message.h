@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerSimpleMessage signal-safe messaging header
+// summary: Declares a signal-safe simple messaging class for broker IPC that sends and receives strings, data, ints, and file descriptors over sockets.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_SIMPLE_MESSAGE_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_SIMPLE_MESSAGE_H_
 

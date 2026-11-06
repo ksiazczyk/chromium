@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Yama ptrace restrictions
+// summary: Tests Yama status detection and ptrace restriction behavior, including a workaround check for 32-bit binaries on 3.2 kernels.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <sys/ptrace.h>

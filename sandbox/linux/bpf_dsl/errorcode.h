@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorCode errno range constants
+// summary: Defines the minimum and maximum errno values supported by sandbox policies across architectures.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_ERRORCODE_H__
 #define SANDBOX_LINUX_BPF_DSL_ERRORCODE_H__
 

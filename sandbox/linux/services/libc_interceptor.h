@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libc interceptor header
+// summary: Declares the libc interception API for proxying sandboxed libc calls like localtime to a parent process over IPC.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_LIBC_INTERCEPTOR_H_
 #define SANDBOX_LINUX_SERVICES_LIBC_INTERCEPTOR_H_
 

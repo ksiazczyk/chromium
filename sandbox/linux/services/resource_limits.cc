@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceLimits implementation
+// summary: Implements lowering and adjusting soft and hard resource limits via setrlimit without raising existing limits.
+// ---
+
 #include "sandbox/linux/services/resource_limits.h"
 #include "base/numerics/safe_math.h"
 

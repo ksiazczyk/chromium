@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Sandbox common metadata
+summary: Shared metadata for the sandbox directory, declaring the Internals>Sandbox monorail component, the security-dev team email, and a Buganizer component.

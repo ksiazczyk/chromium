@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for syscall_broker dependencies
+summary: Defines DEPS include rules allowing this directory to depend on sandbox bpf_dsl, services and system_headers code.

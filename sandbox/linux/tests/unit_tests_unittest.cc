@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnitTests infrastructure unit tests
+// summary: Death tests exercising the SANDBOX_DEATH_TEST macros for expected exit codes, signals, messages and noisy test output.
+// ---
+
 #include <signal.h>
 #include <stdlib.h>
 #include <sys/types.h>

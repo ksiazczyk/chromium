@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxBPFTestRunner header
+// summary: Declares the BPFTesterDelegate interface and SandboxBPFTestRunner that run tests inside a seccomp-bpf sandboxed child process.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_SANDBOX_BPF_TEST_RUNNER_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_SANDBOX_BPF_TEST_RUNNER_H_
 

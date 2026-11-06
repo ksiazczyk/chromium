@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux memfd_create flag definitions
+// summary: Defines memfd_create flags such as MFD_CLOEXEC, MFD_ALLOW_SEALING and MFD_NOEXEC_SEAL for the Linux sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_MEMFD_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_MEMFD_H_
 

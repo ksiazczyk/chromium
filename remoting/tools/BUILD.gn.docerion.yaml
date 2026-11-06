@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for remoting tools
+summary: GN build file defining the tools test groups and the Windows remoting_breakpad_tester executable.

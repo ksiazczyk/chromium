@@ -4,6 +4,12 @@
 //
 // Main entry point for all unit tests.
 
+// ---docerion
+// type: test
+// title: RLZ unit test main entry point
+// summary: Provides the main entry point for RLZ unit tests, running the test suite twice with a supplementary brand code and a temporary RLZ store on POSIX.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

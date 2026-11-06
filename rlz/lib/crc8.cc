@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRC-8 implementation
+// summary: Implements Crc8 Generate and Verify using a 256-entry ATM HEC lookup table with polynomial 0x07 and final XOR 0x55.
+// ---
+
 #include "rlz/lib/crc8.h"
 
 namespace {

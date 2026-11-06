@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry-backed RLZ value store implementation
+// summary: Implements the RLZ value store on top of the Windows registry, storing RLZs, product events, stateful events, ping times and the DCC under known key names.
+// ---
+
 #include "rlz/win/lib/rlz_value_store_registry.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerClient implementation
+// summary: Implements the sandboxed-process side of the broker, forwarding syscalls such as access, open, stat and rename over IPC with optional fast local permission checks.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_client.h"
 
 #include <errno.h>

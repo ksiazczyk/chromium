@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ library cross-process mutex interface
+// summary: Declares the LibMutex class, a cross-process Windows mutex that guarantees serialization of RLZ key accesses.
+// ---
+
 #ifndef RLZ_WIN_LIB_LIB_MUTEX_H_
 #define RLZ_WIN_LIB_LIB_MUTEX_H_
 

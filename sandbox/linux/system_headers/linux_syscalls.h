@@ -6,6 +6,12 @@
 // policies even when system headers are old.
 // System call numbers are accessible through __NR_syscall_name.
 
+// ---docerion
+// type: source
+// title: Linux syscall number umbrella header
+// summary: Umbrella header that includes the architecture-specific syscall number headers so syscall policies compile even with old system headers.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_SYSCALLS_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_SYSCALLS_H_
 

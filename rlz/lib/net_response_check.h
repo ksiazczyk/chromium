@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: Ping response validation header
+// summary: Declares the IsPingResponseValid checksum validation function and the maximum ping response length the library will parse.
+// ---
+
 #ifndef RLZ_LIB_NET_RESPONSE_CHECK_H_
 #define RLZ_LIB_NET_RESPONSE_CHECK_H_
 

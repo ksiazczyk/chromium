@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Yama ptrace restriction helpers
+// summary: Implements Yama helpers that query and enable or disable Linux Yama ptrace restrictions via prctl and the /proc/sys/kernel/yama/ptrace_scope file.
+// ---
+
 #include "sandbox/linux/services/yama.h"
 
 #include <errno.h>

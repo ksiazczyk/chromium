@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NamespaceUtils unit tests
+// summary: Tests NamespaceUtils kernel support checks and uid/gid map writing inside a newly created user namespace.
+// ---
+
 #include "sandbox/linux/services/namespace_utils.h"
 
 #include <errno.h>

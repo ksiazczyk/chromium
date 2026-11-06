@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trap class header
+// summary: Declares the Trap singleton, a TrapRegistry implementation that maps handlers to ids and routes SIGSYS signals to user-space callbacks for the BPF sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_TRAP_H__
 #define SANDBOX_LINUX_SECCOMP_BPF_TRAP_H__
 

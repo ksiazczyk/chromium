@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Seccomp-BPF sandbox build feature flag
+summary: Build variable definition that enables the Seccomp-BPF sandbox only on supported Linux, ChromeOS, and Android architectures.

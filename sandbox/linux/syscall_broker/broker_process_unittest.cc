@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerProcess unit tests
+// summary: Unit tests for BrokerProcess covering creation, open, access, permission handling, and other brokered syscall behaviors with fake errno values.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_process.h"
 
 #include <errno.h>

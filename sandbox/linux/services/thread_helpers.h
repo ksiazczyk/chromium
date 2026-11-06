@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadHelpers header
+// summary: Declares ThreadHelpers, a static utility class for checking and asserting that a process is single threaded via /proc file descriptors.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_THREAD_HELPERS_H_
 #define SANDBOX_LINUX_SERVICES_THREAD_HELPERS_H_
 

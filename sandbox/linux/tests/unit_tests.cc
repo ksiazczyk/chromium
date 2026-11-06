@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux sandbox unit test infrastructure implementation
+// summary: Implements UnitTests helpers that run sandbox tests in forked subprocesses with timeouts and death checks for exit codes, signals and messages.
+// ---
+
 #include "sandbox/linux/tests/unit_tests.h"
 
 #include <fcntl.h>

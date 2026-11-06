@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox test runner base class implementation
+// summary: Implements the SandboxTestRunner base class, whose default behavior is to enable leak checking with LSAN.
+// ---
+
 #include "sandbox/linux/tests/sandbox_test_runner.h"
 
 namespace sandbox {

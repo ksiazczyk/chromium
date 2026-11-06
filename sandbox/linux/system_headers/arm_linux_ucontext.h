@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM Linux ucontext structure definitions
+// summary: Declares ARM sigcontext, stack_t and ucontext structures missing from the PNaCl toolchain for use by the Linux sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_ARM_LINUX_UCONTEXT_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_ARM_LINUX_UCONTEXT_H_
 

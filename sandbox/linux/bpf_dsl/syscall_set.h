@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyscallSet header
+// summary: Declares SyscallSet, an iterator over the full system call number range that can yield valid, invalid, or all syscall numbers.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_SYSCALL_SET_H__
 #define SANDBOX_LINUX_BPF_DSL_SYSCALL_SET_H__
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerHost class declaration
+// summary: Declares the BrokerHost class, which runs in an unsandboxed process and honors IPC requests from BrokerClient according to the sandbox policy.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_HOST_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_HOST_H_
 

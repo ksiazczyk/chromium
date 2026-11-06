@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped temporary file unit tests
+// summary: Unit tests verifying that ScopedTemporaryFile supports writing and reading and that the file is removed after destruction.
+// ---
+
 #include "sandbox/linux/tests/scoped_temporary_file.h"
 
 #include <errno.h>

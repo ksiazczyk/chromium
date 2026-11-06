@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeccompStarterAndroid class declaration
+// summary: Declares SeccompStarterAndroid, a helper that starts a Seccomp-BPF sandbox on Android and reports detailed status via an enum used for UMA.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SECCOMP_STARTER_ANDROID_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SECCOMP_STARTER_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: RLZ buildflags BUILD.gn
+summary: GN build file that generates a buildflag header exposing the ENABLE_RLZ flag for the RLZ library.

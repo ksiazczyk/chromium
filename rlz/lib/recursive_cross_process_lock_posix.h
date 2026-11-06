@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recursive cross-process lock header for POSIX
+// summary: Declares the RecursiveCrossProcessLock struct and its initializer macro that emulate a recursive cross-process mutex on POSIX using a non-recursive mutex plus a file lock.
+// ---
+
 #ifndef RLZ_LIB_RECURSIVE_CROSS_PROCESS_LOCK_POSIX_H_
 #define RLZ_LIB_RECURSIVE_CROSS_PROCESS_LOCK_POSIX_H_
 

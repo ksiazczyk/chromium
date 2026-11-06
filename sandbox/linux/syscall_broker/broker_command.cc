@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker command safety check implementations
+// summary: Implements helpers that test whether broker commands like open, access, rename and bind are permitted by the command set and permission list.
+// ---
+
 #include <unistd.h>
 
 #include "sandbox/linux/syscall_broker/broker_command.h"

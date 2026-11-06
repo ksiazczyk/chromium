@@ -11,6 +11,12 @@
 // These tests require write access to HKLM and HKCU, unless
 // rlz_lib::CreateMachineState() has been successfully called.
 
+// ---docerion
+// type: test
+// title: Unit tests for the MachineDealCode class
+// summary: GoogleTest suite covering setting, getting and ping-response parsing of the OEM Deal Confirmation Code, requiring HKLM and HKCU write access.
+// ---
+
 #include "rlz/win/lib/machine_deal.h"
 
 #include "rlz/lib/machine_deal_win.h"

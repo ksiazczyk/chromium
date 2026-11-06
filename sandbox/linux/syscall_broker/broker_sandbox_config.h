@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerSandboxConfig struct declaration
+// summary: Declares BrokerSandboxConfig, which encapsulates the broker policy as an allowed command set plus the allowlisted file permissions.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_SANDBOX_CONFIG_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_SANDBOX_CONFIG_H_
 

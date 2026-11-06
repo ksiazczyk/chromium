@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Die API header
+// summary: Declares the Die class and SANDBOX_DIE macros used for fatal error reporting and guaranteed process termination inside the sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_DIE_H__
 #define SANDBOX_LINUX_SECCOMP_BPF_DIE_H__
 

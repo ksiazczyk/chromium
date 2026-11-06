@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BPF code generator header
+// summary: Declares CodeGen, an assembler that converts a graph of BPF instructions into a well-formed seccomp filter program with forward jumps.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_CODEGEN_H__
 #define SANDBOX_LINUX_BPF_DSL_CODEGEN_H__
 

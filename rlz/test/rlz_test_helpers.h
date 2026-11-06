@@ -4,6 +4,12 @@
 //
 // Helper functions used by the tests.
 
+// ---docerion
+// type: test
+// title: RLZ test helper classes
+// summary: Declares test fixture classes and a helper that construct and tear down platform-dependent machine state, such as registry overrides and fake statistics providers, for RLZ unit tests.
+// ---
+
 #ifndef RLZ_TEST_RLZ_TEST_HELPERS_H_
 #define RLZ_TEST_RLZ_TEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetuidSandboxHost class declaration
+// summary: Declares the helper class used before launching the setuid helper, covering environment setup, wrapper prepending and launch options.
+// ---
+
 #ifndef SANDBOX_LINUX_SUID_CLIENT_SETUID_SANDBOX_HOST_H_
 #define SANDBOX_LINUX_SUID_CLIENT_SETUID_SANDBOX_HOST_H_
 

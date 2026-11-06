@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall wrappers implementation
+// summary: Implements direct Linux system call wrappers for getpid, gettid, clone, seccomp, prlimit64, capabilities, and related calls, bypassing libc.
+// ---
+
 #include "sandbox/linux/services/syscall_wrappers.h"
 
 #include <fcntl.h>

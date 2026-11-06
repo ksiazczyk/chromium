@@ -1,0 +1,4 @@
+# Docerion header of remove_spaces.py.
+type: script
+title: Remove spaces from a string
+summary: Joins its command-line arguments into one string, strips all spaces and prints the result.

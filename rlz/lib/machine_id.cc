@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine ID generation
+// summary: Implements machine ID generation for RLZ tracking, using a random nonce on ChromeOS and a SHA-1 hash of the SID plus volume ID with a CRC8 checksum elsewhere.
+// ---
+
 #include "rlz/lib/machine_id.h"
 
 #include <stddef.h>

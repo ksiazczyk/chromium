@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows RLZ time utility
+// summary: Implements GetSystemTimeAsInt64 on Windows using GetSystemTimeAsFileTime counts relative to January 1, 1601 UTC.
+// ---
+
 #include "rlz/lib/time_util.h"
 
 #include <windows.h>

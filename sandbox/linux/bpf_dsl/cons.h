@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immutable cons list abstraction
+// summary: Provides an immutable cons list data structure with shared tails and range-based iteration, used by the BPF DSL.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_CONS_H_
 #define SANDBOX_LINUX_BPF_DSL_CONS_H_
 

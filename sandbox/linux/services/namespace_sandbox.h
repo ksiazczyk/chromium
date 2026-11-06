@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Namespace sandbox header
+// summary: Declares the NamespaceSandbox class for launching and forking processes in user, PID, and network namespaces.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_NAMESPACE_SANDBOX_H_
 #define SANDBOX_LINUX_SERVICES_NAMESPACE_SANDBOX_H_
 

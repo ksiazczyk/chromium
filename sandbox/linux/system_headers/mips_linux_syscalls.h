@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIPS Linux syscall numbers
+// summary: Defines 32-bit MIPS syscall numbers generated from the Linux kernel's calls.S for building seccomp policies.
+// ---
+
 // Generated from the Linux kernel's calls.S.
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_MIPS_LINUX_SYSCALLS_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_MIPS_LINUX_SYSCALLS_H_

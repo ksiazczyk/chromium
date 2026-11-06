@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine ID unit tests
+// summary: Tests that machine ID generation is stable for a given SID and volume ID, and on ChromeOS that IDs are unique, 50 characters long and NONCE-prefixed.
+// ---
+
 #include "rlz/lib/machine_id.h"
 
 #include <string>

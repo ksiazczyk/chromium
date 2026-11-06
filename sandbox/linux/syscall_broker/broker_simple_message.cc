@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerSimpleMessage IPC implementation
+// summary: Implements BrokerSimpleMessage for building, sending, and receiving messages and file descriptors over Unix domain sockets between broker client and host.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_simple_message.h"
 
 #include <errno.h>

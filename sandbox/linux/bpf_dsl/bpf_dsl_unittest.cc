@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the BPF DSL
+// summary: Tests bpf_dsl policies by compiling them and emulating syscalls against golden file dumps and the verifier.
+// ---
+
 #include "sandbox/linux/bpf_dsl/bpf_dsl.h"
 
 #include <errno.h>

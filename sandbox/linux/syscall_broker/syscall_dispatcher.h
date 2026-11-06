@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyscallDispatcher abstract interface
+// summary: Defines the abstract interface of system calls the broker performs for the sandboxed process, plus helpers to validate and dispatch seccomp arguments.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_SYSCALL_DISPATCHER_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_SYSCALL_DISPATCHER_H_
 

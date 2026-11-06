@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for bpf_dsl
+summary: Defines include rules for the bpf_dsl directory, allowing dependencies on crypto/hash.h and sandbox/linux/system_headers.

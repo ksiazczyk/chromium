@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Baseline policy unit tests
+// summary: BPF tests verifying the behavior of the Linux baseline seccomp-BPF policy for allowed and denied syscalls such as pipes, sockets, fork and fchmod.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/baseline_policy.h"
 
 #include <errno.h>

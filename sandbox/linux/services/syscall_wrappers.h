@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall wrappers header
+// summary: Declares direct system call wrappers for common Linux syscalls that libc may not expose or may cache, such as clone, seccomp, and stat variants.
+// ---
+
 #ifndef SANDBOX_LINUX_SERVICES_SYSCALL_WRAPPERS_H_
 #define SANDBOX_LINUX_SERVICES_SYSCALL_WRAPPERS_H_
 

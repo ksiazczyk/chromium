@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUtils unit test
+// summary: Unit test verifying that TestUtils::HandlePostForkReturn handles the result of a forked child process.
+// ---
+
 #include "sandbox/linux/tests/test_utils.h"
 
 #include <sys/types.h>

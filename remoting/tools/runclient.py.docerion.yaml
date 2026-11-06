@@ -1,0 +1,4 @@
+# Docerion header of runclient.py.
+type: script
+title: Chromoting client launcher
+summary: Launches the chromoting client, reading the username and auth token from ~/.chromotingAuthToken and prompting for the host JID suffix.

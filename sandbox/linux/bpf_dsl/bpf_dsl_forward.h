@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forward declarations for bpf_dsl types
+// summary: Provides forward declarations of ResultExpr and BoolExpr for headers that reference bpf_dsl types without needing full definitions.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_BPF_DSL_FORWARD_H_
 #define SANDBOX_LINUX_BPF_DSL_BPF_DSL_FORWARD_H_
 

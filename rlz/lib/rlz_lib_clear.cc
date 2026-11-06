@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ product state clearing implementation
+// summary: Implements ClearAllProductEvents and ClearProductState, which remove product events, ping times and access point RLZ values from the RLZ value store during uninstallation.
+// ---
+
 #include "rlz/lib/rlz_lib_clear.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerFilePermission implementation
+// summary: Implements path validation and async-signal-safe permission checks for access, open, stat and related operations against an allowlisted path.
+// ---
+
 #include "sandbox/linux/syscall_broker/broker_file_permission.h"
 
 #include <fcntl.h>

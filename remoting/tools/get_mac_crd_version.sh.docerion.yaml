@@ -1,0 +1,4 @@
+# Docerion header of get_mac_crd_version.sh.
+type: script
+title: Print macOS Chrome Remote Desktop host versions
+summary: Shell script that prints installed bundle versions of the me2me host, uninstallers and Keystone on macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall class header
+// summary: Declares a purely static Syscall class that performs system calls with low-level control using templated Call methods and register context helpers.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_SYSCALL_H__
 #define SANDBOX_LINUX_SECCOMP_BPF_SYSCALL_H__
 

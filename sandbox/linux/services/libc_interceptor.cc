@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libc interceptor implementation
+// summary: Implements overrides of libc functions such as localtime and getaddrinfo, proxying or blocking them in sandboxed processes.
+// ---
+
 #include "sandbox/linux/services/libc_interceptor.h"
 
 #include <dlfcn.h>

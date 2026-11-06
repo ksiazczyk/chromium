@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxBPF implementation
+// summary: Implements SandboxBPF, including kernel seccomp support detection, an LG kernel bug workaround and starting the sandbox with a given policy.
+// ---
+
 #include "sandbox/linux/seccomp-bpf/sandbox_bpf.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac machine ID from Ethernet MAC address and serial number
+// summary: Retrieves the primary Ethernet MAC address and system serial number on macOS to build the raw RLZ machine identifier.
+// ---
+
 #include <CoreFoundation/CoreFoundation.h>
 #include <IOKit/IOKitLib.h>
 #include <IOKit/network/IOEthernetController.h>

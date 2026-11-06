@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe environment variables for SUID binaries
+// summary: Header listing environment variables that glibc unsets for SUID binaries and providing a helper to save and restore them under SANDBOX_-prefixed names.
+// ---
+
 // This is C code and has minimal dependencies, so it cannot use C++ safety
 // utilities like base::span or the UNSAFE_TODO macro. As a consequence, this
 // pragma cannot be removed.

@@ -4,6 +4,12 @@
 //
 // Information about the current process.
 
+// ---docerion
+// type: source
+// title: Current process privilege checks
+// summary: Implements ProcessInfo checks that determine whether the process runs as SYSTEM or has admin or high integrity rights, caching the results.
+// ---
+
 #include "rlz/win/lib/process_info.h"
 
 #include <windows.h>

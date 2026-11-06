@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verifier header
+// summary: Declares the Verifier class, which evaluates BPF programs produced by the sandbox compiler for given system call parameters.
+// ---
+
 #ifndef SANDBOX_LINUX_BPF_DSL_VERIFIER_H__
 #define SANDBOX_LINUX_BPF_DSL_VERIFIER_H__
 

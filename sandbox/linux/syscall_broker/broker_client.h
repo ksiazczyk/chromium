@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerClient class header
+// summary: Declares BrokerClient, a SyscallDispatcher that lets a sandboxed process perform system calls in a non-sandboxed broker host, safely usable from SIGSYS trap handlers.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSCALL_BROKER_BROKER_CLIENT_H_
 #define SANDBOX_LINUX_SYSCALL_BROKER_BROKER_CLIENT_H_
 

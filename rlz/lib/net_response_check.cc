@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 //
 
+// ---docerion
+// type: source
+// title: Ping response checksum validation
+// summary: Implements IsPingResponseValid, which validates RLZ ping responses by comparing the CRC-32 checksum line against the message content.
+// ---
+
 #include "rlz/lib/net_response_check.h"
 
 #include "base/strings/string_number_conversions.h"

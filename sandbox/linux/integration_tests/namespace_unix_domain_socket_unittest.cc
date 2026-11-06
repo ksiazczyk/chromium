@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unix domain socket namespace unit tests
+// summary: Tests base UnixDomainSocket messaging under sandboxing, verifying that sender PIDs can be received across namespaces and fork using unprivileged user namespaces when needed.
+// ---
+
 #include <sched.h>
 #include <stddef.h>
 #include <stdio.h>

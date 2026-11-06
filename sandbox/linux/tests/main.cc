@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox Linux unit tests main entry point
+// summary: Entry point for the Linux sandbox unit tests that initializes gtest, runs child process tests, and verifies tests leave no unwaited children or changed working directory.
+// ---
+
 #include <string_view>
 
 #include "base/at_exit.h"

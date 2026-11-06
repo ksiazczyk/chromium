@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamespaceUtils implementation
+// summary: Implements helpers for writing uid/gid map files, detecting kernel support for unprivileged namespaces and denying setgroups in user namespaces.
+// ---
+
 #include "sandbox/linux/services/namespace_utils.h"
 
 #include <fcntl.h>

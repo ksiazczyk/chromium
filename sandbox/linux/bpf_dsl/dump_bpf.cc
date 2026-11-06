@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpBPF implementation
+// summary: Implements human-readable printing of compiled BPF programs, decoding loads, jumps, ALU operations and seccomp return values.
+// ---
+
 #include "sandbox/linux/bpf_dsl/dump_bpf.h"
 
 #include <inttypes.h>

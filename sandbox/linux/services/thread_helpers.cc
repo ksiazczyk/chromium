@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadHelpers implementation
+// summary: Implements ThreadHelpers, which inspects /proc to detect single-threaded processes and watch thread start and stop with exponential back-off.
+// ---
+
 #include "sandbox/linux/services/thread_helpers.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syscall set classification for seccomp-BPF policies
+// summary: Declares the SyscallSets class with predicates classifying system calls into sets such as kill, filesystem, futex and socket operations for sandbox policies.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SYSCALL_SETS_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_HELPERS_SYSCALL_SETS_H_
 

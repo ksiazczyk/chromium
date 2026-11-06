@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android seccomp sandbox starter implementation
+// summary: Implements the Android seccomp sandbox starter, performing runtime support detection and starting the sandbox with the configured policy.
+// ---
+
 #include "sandbox/linux/seccomp-bpf-helpers/seccomp_starter_android.h"
 
 #include <signal.h>

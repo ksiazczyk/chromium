@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SUID sandbox shared constants and exit codes
+// summary: Header defining command-line switches, environment variable names, chroot message bytes, and setuid sandbox helper exit codes shared between Chrome and the Linux SUID sandbox.
+// ---
+
 #ifndef SANDBOX_LINUX_SUID_COMMON_SANDBOX_H_
 #define SANDBOX_LINUX_SUID_COMMON_SANDBOX_H_
 

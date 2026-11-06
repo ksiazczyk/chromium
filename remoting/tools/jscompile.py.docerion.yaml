@@ -1,0 +1,4 @@
+# Docerion header of jscompile.py.
+type: script
+title: Run JavaScript files through jscompile
+summary: Runs the given JavaScript files through jscompile and updates a success stamp file when the check passes.

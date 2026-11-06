@@ -1,0 +1,4 @@
+# Docerion header of webrtc_trace_analyzer.py.
+type: script
+title: WebRTC trace event analyzer
+summary: Parses a Chrome Remote Desktop WebRTC trace event JSON file and prints analyzed events such as video send timings.

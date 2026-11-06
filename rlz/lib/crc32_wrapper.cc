@@ -5,6 +5,12 @@
 // A wrapper around ZLib's CRC functions to put them in the rlz_lib namespace
 // and use our types.
 
+// ---docerion
+// type: source
+// title: CRC32 wrapper implementation
+// summary: Implements the rlz_lib Crc32 helpers around ZLib, validating ASCII input and writing the computed checksum.
+// ---
+
 #include "rlz/lib/assert.h"
 #include "rlz/lib/crc32.h"
 #include "rlz/lib/string_utils.h"

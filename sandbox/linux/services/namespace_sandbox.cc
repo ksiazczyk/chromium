@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Namespace sandbox implementation
+// summary: Implements launching processes inside new user, PID, and network namespaces with signal handling and uid/gid map setup.
+// ---
+
 #include "sandbox/linux/services/namespace_sandbox.h"
 
 #include <sched.h>

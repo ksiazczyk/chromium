@@ -4,6 +4,12 @@
 //
 // A wrapper around ZLib's CRC function.
 
+// ---docerion
+// type: source
+// title: CRC32 wrapper interface
+// summary: Declares rlz_lib Crc32 functions that wrap ZLib's CRC-32 checksum for byte spans and ASCII text.
+// ---
+
 #ifndef RLZ_LIB_CRC32_H_
 #define RLZ_LIB_CRC32_H_
 

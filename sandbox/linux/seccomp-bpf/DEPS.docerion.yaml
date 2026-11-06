@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for seccomp-bpf
+summary: Chromium DEPS configuration listing the include rules that allow headers from bpf_dsl, services and system_headers within the seccomp-bpf directory.

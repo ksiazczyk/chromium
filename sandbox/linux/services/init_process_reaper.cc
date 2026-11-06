@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Init process reaper implementation
+// summary: Implements CreateInitProcessReaper, which forks so the parent reaps children like init(1) while the child continues normally.
+// ---
+
 #include "sandbox/linux/services/init_process_reaper.h"
 
 #include <signal.h>

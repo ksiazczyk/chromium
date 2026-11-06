@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyCompiler implementation
+// summary: Implements compilation of bpf_dsl policies into BPF programs, including architecture checks, syscall dispatch and unsafe trap handling.
+// ---
+
 #include "sandbox/linux/bpf_dsl/policy_compiler.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BPF DSL expression implementations
+// summary: Implements the result and boolean expression classes behind the bpf_dsl policy language, compiling them into PolicyCompiler nodes.
+// ---
+
 #include "sandbox/linux/bpf_dsl/bpf_dsl.h"
 
 #include <stddef.h>

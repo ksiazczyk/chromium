@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceLimits unit tests
+// summary: Tests that lowering RLIMIT_NPROC makes fork fail with EAGAIN, disabled on Android and ASAN builds.
+// ---
+
 #include "sandbox/linux/services/resource_limits.h"
 
 #include <errno.h>

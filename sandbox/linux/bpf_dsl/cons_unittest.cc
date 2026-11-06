@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cons list unit tests
+// summary: Unit tests for the cons::List persistent linked list, verifying construction and traversal of cons cells.
+// ---
+
 #include "sandbox/linux/bpf_dsl/cons.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaselinePolicy class declaration
+// summary: Declares the BaselinePolicy class, the common baseline seccomp-BPF policy used as a base for other Chromium sandbox policies.
+// ---
+
 #ifndef SANDBOX_LINUX_SECCOMP_BPF_HELPERS_BASELINE_POLICY_H_
 #define SANDBOX_LINUX_SECCOMP_BPF_HELPERS_BASELINE_POLICY_H_
 

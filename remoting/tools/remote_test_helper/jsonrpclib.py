@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: jsonrpclib module
+# summary: Python module that adapts xmlrpclib to the JSON-RPC protocol for creating and parsing requests and responses.
+# ---
+
 """Module to implement the JSON-RPC protocol.
 
 This module uses xmlrpclib as the base and only overrides those

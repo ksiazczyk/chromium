@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcUtil implementation
+// summary: Implements counting open file descriptors, detecting open directory descriptors and opening /proc for sandboxed processes.
+// ---
+
 #include "sandbox/linux/services/proc_util.h"
 
 #include <dirent.h>

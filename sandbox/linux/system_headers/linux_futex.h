@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux futex operation constants
+// summary: Defines futex operation constants and flags for the Linux sandbox when system headers do not expose them.
+// ---
+
 #ifndef SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_FUTEX_H_
 #define SANDBOX_LINUX_SYSTEM_HEADERS_LINUX_FUTEX_H_
 
