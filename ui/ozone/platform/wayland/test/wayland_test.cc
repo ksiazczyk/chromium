@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland test base implementation
+// summary: Implements WaylandTestBase, which sets up a test Wayland server, connection, screen, and platform window, and synchronizes client and server for Wayland unit tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/wayland_test.h"
 
 #include <memory>

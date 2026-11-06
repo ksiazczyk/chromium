@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedWlArray implementation
+// summary: Implements ScopedWlArray, an RAII wrapper that initializes, copies, moves and releases Wayland wl_array instances for tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/scoped_wl_array.h"
 
 #include <wayland-server-core.h>

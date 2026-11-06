@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QtUi class header
+// summary: Declares QtUi, the LinuxUi and theme implementation backed by Qt, exposing font, color, printing, input method, and file dialog integration.
+// ---
+
 #ifndef UI_QT_QT_UI_H_
 #define UI_QT_QT_UI_H_
 

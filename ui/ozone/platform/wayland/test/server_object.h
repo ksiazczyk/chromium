@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland test server object header
+// summary: Declares ServerObject and template helpers like GetUserDataAs and CreateResourceWithImpl for building Wayland test resources.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_SERVER_OBJECT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_SERVER_OBJECT_H_
 

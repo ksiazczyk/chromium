@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QtInterface boundary API header
+// summary: Declares the QtInterface abstract API plus shared data types such as String, Buffer, color and font enums, and the exported CreateQtInterface entry point.
+// ---
+
 #ifndef UI_QT_QT_INTERFACE_H_
 #define UI_QT_QT_INTERFACE_H_
 

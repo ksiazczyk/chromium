@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default implementations of PlatformWindowDelegate
+// summary: Implements default PlatformWindowDelegate behavior, including state comparison, coordinate conversion, and size limit helpers.
+// ---
+
 #include "ui/platform_window/platform_window_delegate.h"
 
 #include <sstream>

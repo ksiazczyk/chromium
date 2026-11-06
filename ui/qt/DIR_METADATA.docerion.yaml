@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Qt UI directory
+summary: Points to the shared metadata mixins from ui/gtk that apply to this directory.

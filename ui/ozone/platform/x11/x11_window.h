@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 platform window header
+// summary: Declares X11Window, the X11 PlatformWindow with event dispatching, drag-and-drop, move loops and workspace extension support.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_WINDOW_H_
 #define UI_OZONE_PLATFORM_X11_X11_WINDOW_H_
 

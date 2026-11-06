@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test positioner class declaration
+// summary: Declares TestPositioner, a server object holding popup positioning rules such as anchor rect, size, anchor, gravity and constraint adjustment.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_POSITIONER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_POSITIONER_H_
 

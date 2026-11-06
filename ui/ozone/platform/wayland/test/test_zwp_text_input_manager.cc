@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test zwp text input manager implementations
+// summary: Implements test global zwp_text_input_manager_v1 and v3 objects that create mock text input resources and track them in the mock Wayland compositor.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_zwp_text_input_manager.h"
 
 #include <wayland-server-core.h>

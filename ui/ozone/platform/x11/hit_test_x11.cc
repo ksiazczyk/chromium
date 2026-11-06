@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit-test to X11 move-resize direction conversion
+// summary: Converts Chromium hit-test codes into NET_WM_MOVERESIZE direction constants from the Extended Window Manager Hints standard.
+// ---
+
 #include "ui/ozone/platform/x11/hit_test_x11.h"
 
 #include "ui/base/hit_test.h"

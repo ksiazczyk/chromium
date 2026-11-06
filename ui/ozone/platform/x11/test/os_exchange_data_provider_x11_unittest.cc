@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS exchange data provider X11 unit tests
+// summary: Unit tests for the X11 OS exchange data provider, checking URL, file, and string data handling for drag-and-drop and clipboard exchange.
+// ---
+
 #include "ui/ozone/platform/x11/os_exchange_data_provider_x11.h"
 
 #include <string>

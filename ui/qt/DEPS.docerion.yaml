@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Qt UI directory
+summary: Lists the Chromium directories whose headers code in ui/qt is allowed to include.

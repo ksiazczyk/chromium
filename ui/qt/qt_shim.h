@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QtShim class header
+// summary: Declares QtShim, a QObject implementing QtInterface that receives Qt signals for fonts, palettes, and screens and answers desktop theme queries.
+// ---
+
 #ifndef UI_QT_QT_SHIM_H_
 #define UI_QT_QT_SHIM_H_
 

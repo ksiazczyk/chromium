@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for test zwp text input manager objects
+// summary: Declares TestZwpTextInputManagerV1 and V3 global objects that store and expose their created mock text input instances and handle their destruction.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZWP_TEXT_INPUT_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZWP_TEXT_INPUT_MANAGER_H_
 

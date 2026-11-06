@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test region alias declaration
+// summary: Declares the wl_region interface implementation and aliases TestRegion to SkRegion for Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_REGION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_REGION_H_
 

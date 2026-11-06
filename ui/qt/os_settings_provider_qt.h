@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsSettingsProviderQt header
+// summary: Declares the Qt implementation of ui::OsSettingsProvider that supplies preferred color scheme, accent color, and caret blink interval, with setters fed from the xdg-desktop-portal.
+// ---
+
 #ifndef UI_QT_OS_SETTINGS_PROVIDER_QT_H_
 #define UI_QT_OS_SETTINGS_PROVIDER_QT_H_
 

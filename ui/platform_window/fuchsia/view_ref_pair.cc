@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewRefPair creation implementation
+// summary: Implements ViewRefPair::New, creating control and view reference eventpairs with adjusted rights for the legacy Scenic API.
+// ---
+
 #include "ui/platform_window/fuchsia/view_ref_pair.h"
 
 namespace ui {

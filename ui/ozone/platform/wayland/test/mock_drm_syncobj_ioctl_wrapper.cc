@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DRM syncobj ioctl wrapper implementation
+// summary: Implements a fake DRM syncobj ioctl wrapper that tracks syncobj handles and file descriptors and can be forced to fail for Wayland test scenarios.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_drm_syncobj_ioctl_wrapper.h"
 
 #include "base/posix/eintr_wrapper.h"

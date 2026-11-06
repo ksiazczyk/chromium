@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Vulkan surface class declaration
+// summary: Declares VulkanSurfaceX11, a gpu::VulkanSurface and x11::EventObserver subclass, and undefines Xlib macros that break the build.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_VULKAN_SURFACE_X11_H_
 #define UI_OZONE_PLATFORM_X11_VULKAN_SURFACE_X11_H_
 

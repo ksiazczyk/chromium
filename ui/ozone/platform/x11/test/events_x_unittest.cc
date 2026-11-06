@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 event handling unit tests
+// summary: Unit tests for translating X11 events into ui::Event objects, covering button, key, and touch event types, flags, and timestamps.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

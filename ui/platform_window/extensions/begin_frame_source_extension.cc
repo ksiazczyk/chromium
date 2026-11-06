@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Begin frame source extension implementation
+// summary: Implements the property key, setter and getter that attach a BeginFrameSourceExtension to a PlatformWindow.
+// ---
+
 #include "ui/platform_window/extensions/begin_frame_source_extension.h"
 
 #include "ui/base/class_property.h"

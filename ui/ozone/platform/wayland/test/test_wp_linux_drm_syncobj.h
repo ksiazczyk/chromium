@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wp_linux_drm_syncobj surface, timeline, and manager classes
+// summary: Declares mock syncobj surface, timeline, and manager classes used to track DRM syncobj timelines and acquire or release points in tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_WP_LINUX_DRM_SYNCOBJ_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_WP_LINUX_DRM_SYNCOBJ_H_
 

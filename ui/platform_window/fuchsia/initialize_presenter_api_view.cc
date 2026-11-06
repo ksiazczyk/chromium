@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Fuchsia view presenter API implementation
+// summary: Implements registration and lookup of Scenic and Flatland view presenter callbacks plus a test helper that ignores present calls.
+// ---
+
 #include "ui/platform_window/fuchsia/initialize_presenter_api_view.h"
 
 #include <lib/sys/cpp/component_context.h>

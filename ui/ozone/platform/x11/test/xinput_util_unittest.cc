@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XInput utility unit tests
+// summary: Unit tests for XInput event mask helpers, including bounds checks and regression tests for setting and reading XInput masks.
+// ---
+
 #include "ui/events/devices/x11/xinput_util.h"
 
 #include <vector>

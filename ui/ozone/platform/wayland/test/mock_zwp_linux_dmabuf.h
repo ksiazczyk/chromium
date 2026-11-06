@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock zwp_linux_dmabuf_v1 Wayland global header
+// summary: Declares MockZwpLinuxDmabufV1, a GlobalObject-based gmock wrapper that manages zwp_linux_dmabuf_v1 buffer params in Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_ZWP_LINUX_DMABUF_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_ZWP_LINUX_DMABUF_H_
 

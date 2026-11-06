@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test overlay prioritized surface server object implementation
+// summary: Implements the overlay_prioritized_surface Wayland interface for tests, storing the overlay priority that clients set on a mock surface.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_overlay_prioritized_surface.h"
 
 #include "ui/ozone/platform/wayland/test/mock_surface.h"

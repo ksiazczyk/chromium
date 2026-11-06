@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 EGL readback GL surface
+// summary: Copies pixels from an EGL readback surface into an X11 window using a graphics context and the window visual.
+// ---
+
 #include "ui/ozone/platform/x11/gl_surface_egl_readback_x11.h"
 
 #include "base/logging.h"

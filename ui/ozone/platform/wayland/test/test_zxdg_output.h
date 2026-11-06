@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test zxdg_output server object
+// summary: Declares TestZXdgOutput, the server-side representation of zxdg_output that propagates output metrics to clients during Flush.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZXDG_OUTPUT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZXDG_OUTPUT_H_
 

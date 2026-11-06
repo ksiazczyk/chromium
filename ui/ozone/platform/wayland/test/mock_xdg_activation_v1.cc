@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_activation_v1 implementation
+// summary: Implements mock xdg_activation_v1 and activation token server objects that forward set_surface, commit, and activate requests to test hooks.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_xdg_activation_v1.h"
 
 #include <wayland-server-core.h>

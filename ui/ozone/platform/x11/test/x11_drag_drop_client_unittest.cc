@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 drag and drop client unit tests
+// summary: Unit tests for the X11 drag and drop client, using test move loops and client message collectors to verify drag-and-drop behavior.
+// ---
+
 #include "ui/base/x/x11_drag_drop_client.h"
 
 #include <map>

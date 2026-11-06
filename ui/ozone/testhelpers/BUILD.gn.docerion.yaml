@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the mock gesture properties service
+summary: Defines a testonly static library target that builds the mock gesture properties service header with gmock dependencies.

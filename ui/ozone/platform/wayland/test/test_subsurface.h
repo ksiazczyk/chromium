@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test subsurface declarations
+// summary: Declares the TestSubSurface server object with mockable PlaceAbove, PlaceBelow, and SetPosition handlers for Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SUBSURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SUBSURFACE_H_
 

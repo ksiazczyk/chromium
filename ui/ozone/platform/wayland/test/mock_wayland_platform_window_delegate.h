@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Wayland platform window delegate declaration
+// summary: Declares MockWaylandPlatformWindowDelegate, which creates WaylandWindow instances and exposes callbacks and sequence points for controlling tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_WAYLAND_PLATFORM_WINDOW_DELEGATE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_WAYLAND_PLATFORM_WINDOW_DELEGATE_H_
 

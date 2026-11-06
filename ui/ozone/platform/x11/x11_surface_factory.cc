@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 surface factory implementation
+// summary: Implements GL and Vulkan surface creation and native pixmap import support for the X11 Ozone platform.
+// ---
+
 #include "ui/ozone/platform/x11/x11_surface_factory.h"
 
 #include <memory>

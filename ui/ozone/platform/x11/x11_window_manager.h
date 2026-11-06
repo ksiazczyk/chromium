@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11WindowManager header for the Ozone X11 platform
+// summary: Declares the X11WindowManager singleton that tracks X11 windows, manages event grabs, and reports pointer tracking and pending map state.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_WINDOW_MANAGER_H_
 #define UI_OZONE_PLATFORM_X11_X11_WINDOW_MANAGER_H_
 

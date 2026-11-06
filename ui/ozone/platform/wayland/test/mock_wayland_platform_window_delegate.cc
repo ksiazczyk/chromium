@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Wayland platform window delegate implementation
+// summary: Implements the mock platform window delegate for Wayland, handling scale conversions, WaylandWindow creation, and state update sequencing in tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_wayland_platform_window_delegate.h"
 
 #include "ui/gfx/geometry/rect_conversions.h"

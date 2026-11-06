@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic PlatformWindow interface
+// summary: Declares the generic PlatformWindow interface with virtual methods for showing, bounds, fullscreen, capture, and cursor handling.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_PLATFORM_WINDOW_H_
 #define UI_PLATFORM_WINDOW_PLATFORM_WINDOW_H_
 

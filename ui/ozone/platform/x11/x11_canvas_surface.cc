@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 software canvas surface
+// summary: Implements X11CanvasSurface, presenting software-rendered Skia canvases to X11 windows via X11SoftwareBitmapPresenter.
+// ---
+
 #include "ui/ozone/platform/x11/x11_canvas_surface.h"
 
 #include "base/functional/bind.h"

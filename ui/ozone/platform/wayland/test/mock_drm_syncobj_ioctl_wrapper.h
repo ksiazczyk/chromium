@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock DRM syncobj ioctl wrapper declaration
+// summary: Declares MockDrmSyncobjIoctlWrapper with gmock methods for syncobj operations and static flags used to simulate failure conditions in tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_DRM_SYNCOBJ_IOCTL_WRAPPER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_DRM_SYNCOBJ_IOCTL_WRAPPER_H_
 

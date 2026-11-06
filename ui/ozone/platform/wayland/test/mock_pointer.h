@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPointer class declaration
+// summary: Declares the MockPointer server object with a mocked SetCursor method used to exercise pointer handling in the Wayland platform tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_POINTER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_POINTER_H_
 

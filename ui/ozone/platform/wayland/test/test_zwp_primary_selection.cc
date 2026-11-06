@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test zwp primary selection protocol implementation
+// summary: Implements protocol-specific delegates for zwp primary selection offer, device, source, and device manager so selection tests can run against the test compositor.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_zwp_primary_selection.h"
 
 #include <primary-selection-unstable-v1-server-protocol.h>

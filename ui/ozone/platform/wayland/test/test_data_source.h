@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataSource class for the mock Wayland server
+// summary: Declares TestDataSource, a test wl_data_source that accumulates the DnD actions set by the client.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_SOURCE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_SOURCE_H_
 

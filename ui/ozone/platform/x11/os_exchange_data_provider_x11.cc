@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 OS exchange data provider implementation
+// summary: Implements the X11 drag-and-drop data provider, handling selection request events and cloning providers for outgoing drags.
+// ---
+
 #include "ui/ozone/platform/x11/os_exchange_data_provider_x11.h"
 
 #include <utility>

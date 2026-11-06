@@ -1,0 +1,4 @@
+# Docerion header of qt.gni.
+type: config
+title: Qt build arguments (qt.gni)
+summary: GN build configuration declaring use_qt5 and use_qt6 arguments, moc paths, and the combined use_qt flag for enabling Qt support in Linux builds.

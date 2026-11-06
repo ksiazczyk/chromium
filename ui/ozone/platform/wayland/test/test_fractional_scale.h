@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fractional scale Wayland server object declarations
+// summary: Declares TestFractionalScaleManager and TestFractionalScale used by the test Wayland compositor to emulate the fractional scale protocol.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_FRACTIONAL_SCALE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_FRACTIONAL_SCALE_H_
 

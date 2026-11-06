@@ -1,3 +1,9 @@
+---
+type: readme
+title: Platform window extensions overview
+summary: Explains how PlatformWindow implementations attach extension interfaces as properties so clients can access advanced platform APIs without casting.
+---
+
 This directory provides extensions of platform APIs that PlatformWindow
 implementations can use to add support for more advanced APIs their
 platform provides.

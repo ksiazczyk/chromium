@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformWindowDelegate interface and window state types
+// summary: Declares the PlatformWindowDelegate interface with window state, occlusion, and bounds change types used to notify clients.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_PLATFORM_WINDOW_DELEGATE_H_
 #define UI_PLATFORM_WINDOW_PLATFORM_WINDOW_DELEGATE_H_
 

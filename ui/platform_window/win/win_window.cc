@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinWindow Windows platform window implementation
+// summary: Implements the WinWindow class, a Windows platform window that handles window messages, input method events, bounds, capture, and visibility through the Win32 API.
+// ---
+
 #include "ui/platform_window/win/win_window.h"
 
 #include <windows.h>

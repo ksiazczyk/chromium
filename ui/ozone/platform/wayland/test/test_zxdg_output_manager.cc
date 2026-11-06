@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test zxdg_output_manager global implementation
+// summary: Implements the test global zxdg_output_manager_v1 object whose get_xdg_output request creates a zxdg_output resource attached to a test output.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_zxdg_output_manager.h"
 
 #include <xdg-output-unstable-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland extension implementation
+// summary: Implements property registration and lookup for the WaylandExtension and WaylandToplevelExtension on a PlatformWindow.
+// ---
+
 #include "ui/platform_window/extensions/wayland_extension.h"
 
 #include "ui/base/class_property.h"

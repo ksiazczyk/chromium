@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia view presenter API header
+// summary: Declares callbacks and exported functions that let Ozone platforms present new Scenic and Flatland views.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_FUCHSIA_INITIALIZE_PRESENTER_API_VIEW_H_
 #define UI_PLATFORM_WINDOW_FUCHSIA_INITIALIZE_PRESENTER_API_VIEW_H_
 

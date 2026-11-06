@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataDevice class for the mock Wayland server
+// summary: Declares TestDataDevice, a test wl_data_device supporting drag-and-drop and selection control, with options to emulate specific compositor behavior.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_DEVICE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_DEVICE_H_
 

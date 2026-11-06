@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Ozone test directory
+summary: Defines allowed include dependencies for the Ozone test directory, with extra Mojo embedder includes permitted only for the integration tests main file.

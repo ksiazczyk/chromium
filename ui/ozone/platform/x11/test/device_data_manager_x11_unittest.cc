@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceDataManagerX11 unit tests
+// summary: Unit tests for DeviceDataManagerX11 verifying that observers are notified when input devices are disabled, re-enabled, or updated.
+// ---
+
 #include "ui/events/devices/x11/device_data_manager_x11.h"
 
 #include <vector>

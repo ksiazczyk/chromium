@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock zwp_text_input v1 and v3 server object header
+// summary: Declares MockZwpTextInputV1 and MockZwpTextInputV3 server objects with gmock methods for text input protocol requests in tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_ZWP_TEXT_INPUT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_ZWP_TEXT_INPUT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmMoveResizeHandler interface for host window move and resize
+// summary: Declares the WmMoveResizeHandler interface that dispatches host window drag or resize movement based on a hittest code and pointer location.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_WM_WM_MOVE_RESIZE_HANDLER_H_
 #define UI_PLATFORM_WINDOW_WM_WM_MOVE_RESIZE_HANDLER_H_
 

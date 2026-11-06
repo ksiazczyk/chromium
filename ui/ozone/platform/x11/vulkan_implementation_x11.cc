@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Vulkan implementation
+// summary: Implements Vulkan support for the X11 Ozone platform, initializing the Vulkan instance and creating X11 view surfaces.
+// ---
+
 #include "ui/ozone/platform/x11/vulkan_implementation_x11.h"
 
 #include <optional>

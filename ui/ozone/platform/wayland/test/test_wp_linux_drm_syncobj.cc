@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wp_linux_drm_syncobj server implementation
+// summary: Implements the wp_linux_drm_syncobj_v1 manager, timeline, and surface objects, recording acquire and release sync points on mock surfaces.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_wp_linux_drm_syncobj.h"
 
 #include <linux-drm-syncobj-v1-server-protocol.h>

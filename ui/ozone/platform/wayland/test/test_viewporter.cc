@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestViewporter implementation for the test Wayland server
+// summary: Implements the wp_viewporter global for the test Wayland server, creating viewport resources and posting an error when a surface already has one.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_viewporter.h"
 
 #include <viewporter-server-protocol.h>

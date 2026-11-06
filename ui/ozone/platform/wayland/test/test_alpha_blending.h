@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test alpha blending Wayland object header
+// summary: Declares TestAlphaBlending, a ServerObject wrapping the zcr_blending_v1 interface for a surface in the test Wayland server.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ALPHA_BLENDING_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ALPHA_BLENDING_H_
 

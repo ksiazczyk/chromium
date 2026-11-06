@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workspace extension delegate interface
+// summary: Declares the WorkspaceExtensionDelegate interface that receives notifications when a platform window changes its workspace.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_WORKSPACE_EXTENSION_DELEGATE_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_WORKSPACE_EXTENSION_DELEGATE_H_
 

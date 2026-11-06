@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_shell (xdg_wm_base) implementation
+// summary: Implements the mock xdg_wm_base global that creates positioners and xdg surfaces, posts role errors, and handles ping/pong for Wayland tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_xdg_shell.h"
 
 #include "base/functional/callback_helpers.h"

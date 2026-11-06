@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_toplevel_icon implementation
+// summary: Implements mock xdg_toplevel_icon_manager_v1 and icon objects that create icons and record buffer sizes and scales for Wayland tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_xdg_toplevel_icon.h"
 
 #include <wayland-server-core.h>

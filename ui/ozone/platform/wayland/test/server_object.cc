@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland test server object base class implementation
+// summary: Implements the ServerObject base class that manages the lifecycle of Wayland server-side resources in the test compositor.
+// ---
+
 #include "ui/ozone/platform/wayland/test/server_object.h"
 
 namespace wl {

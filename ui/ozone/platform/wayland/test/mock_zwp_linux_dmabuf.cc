@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock zwp_linux_dmabuf_v1 Wayland global implementation
+// summary: Implements the mock zwp_linux_dmabuf_v1 server object that creates buffer params and tracks TestZwpLinuxBufferParamsV1 instances for Wayland tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_zwp_linux_dmabuf.h"
 
 #include <linux-dmabuf-unstable-v1-server-protocol.h>

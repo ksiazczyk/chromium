@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data device implementation for the mock Wayland server
+// summary: Implements the wl_data_device protocol for the test Wayland server, handling start drag, selection, and data offer events in Ozone Wayland tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_data_device.h"
 
 #include <wayland-server-core.h>

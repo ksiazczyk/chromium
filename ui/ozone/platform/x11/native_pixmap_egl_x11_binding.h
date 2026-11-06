@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapEGLX11Binding header
+// summary: Declares a NativePixmapGLBinding that maintains bindings between native pixmaps and GL textures in the X11 context.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_NATIVE_PIXMAP_EGL_X11_BINDING_H_
 #define UI_OZONE_PLATFORM_X11_NATIVE_PIXMAP_EGL_X11_BINDING_H_
 

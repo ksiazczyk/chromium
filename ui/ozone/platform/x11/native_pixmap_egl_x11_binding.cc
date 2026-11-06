@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native pixmap EGL X11 binding implementation
+// summary: Imports dma-buf native pixmaps as X11 pixmaps via DRI3 and binds them to GL textures for the X11 Ozone platform.
+// ---
+
 #include "ui/ozone/platform/x11/native_pixmap_egl_x11_binding.h"
 
 #include <GL/gl.h>

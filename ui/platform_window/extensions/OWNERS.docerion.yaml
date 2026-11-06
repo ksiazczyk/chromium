@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for platform window extensions
+summary: Defines per-file ownership rules that delegate x11 extension files to the owners of the x11 ozone platform.

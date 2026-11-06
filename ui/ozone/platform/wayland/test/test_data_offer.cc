@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data offer implementation
+// summary: Implements the wl_data_offer protocol for the test Wayland server, forwarding drag-and-drop action events and offers to tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_data_offer.h"
 
 #include <wayland-server-core.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scenic window delegate interface
+// summary: Defines the interface ScenicWindow uses to notify clients about Scenic-specific events such as pixel scale changes.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_FUCHSIA_SCENIC_WINDOW_DELEGATE_H_
 #define UI_PLATFORM_WINDOW_FUCHSIA_SCENIC_WINDOW_DELEGATE_H_
 

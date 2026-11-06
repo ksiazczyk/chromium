@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinWindow export macro header
+// summary: Defines the WIN_WINDOW_EXPORT macro for exporting or importing symbols when building the win_window component.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_WIN_WIN_WINDOW_EXPORT_H_
 #define UI_PLATFORM_WINDOW_WIN_WIN_WINDOW_EXPORT_H_
 

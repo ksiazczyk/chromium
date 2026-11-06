@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the X11 Ozone global shortcut listener
+// summary: Declares X11GlobalShortcutListenerOzone, which adapts the Ozone platform global shortcut listener interface to the X11 shortcut listener implementation.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_GLOBAL_SHORTCUT_LISTENER_OZONE_H_
 #define UI_OZONE_PLATFORM_X11_X11_GLOBAL_SHORTCUT_LISTENER_OZONE_H_
 

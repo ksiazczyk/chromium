@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland drag-and-drop test base implementation
+// summary: Implements the WaylandDragDropTest base class and a test OSExchangeData provider factory that emulate drag-and-drop, pointer, and touch events from the test compositor.
+// ---
+
 #include "ui/ozone/platform/wayland/test/wayland_drag_drop_test.h"
 
 #include <wayland-server-protocol.h>

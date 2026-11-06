@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Wayland region implementation
+// summary: Implements the wl_region interface for tests by applying add and subtract rectangle operations to an SkRegion.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_region.h"
 
 #include <wayland-server-core.h>

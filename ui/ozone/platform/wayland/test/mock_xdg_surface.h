@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_surface and toplevel class declarations
+// summary: Declares MockXdgTopLevel and MockXdgSurface server objects with gmock methods for toplevel state changes, configure acks, and window geometry.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_SURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_SURFACE_H_
 

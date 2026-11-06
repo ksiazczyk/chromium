@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataDeviceManager class for the mock Wayland server
+// summary: Declares TestDataDeviceManager, a GlobalObject that tracks the current test data device and data source for Ozone Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_DEVICE_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_DEVICE_MANAGER_H_
 

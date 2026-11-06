@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlobalObject base class for Wayland test globals
+// summary: Declares the GlobalObject base class that manages the lifecycle of Wayland global objects and tracks the first resource bound by a client during testing.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_GLOBAL_OBJECT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_GLOBAL_OBJECT_H_
 

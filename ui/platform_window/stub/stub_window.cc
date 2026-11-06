@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubWindow implementation
+// summary: Implements StubWindow as a mostly no-op PlatformWindow that tracks bounds, window state and activation and notifies its delegate.
+// ---
+
 #include "ui/platform_window/stub/stub_window.h"
 
 #include "base/memory/scoped_refptr.h"

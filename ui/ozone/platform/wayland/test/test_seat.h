@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test seat class declaration
+// summary: Declares TestSeat, a global wl_seat object that groups and exposes mock pointer, keyboard and touch devices for Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SEAT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SEAT_H_
 

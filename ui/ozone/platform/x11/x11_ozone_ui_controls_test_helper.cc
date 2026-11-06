@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Ozone UI controls test helper
+// summary: Implements the Ozone UI controls test helper for X11, sending synthetic key and mouse events and converting DIP coordinates to pixels for testing.
+// ---
+
 #include "ui/ozone/platform/x11/x11_ozone_ui_controls_test_helper.h"
 
 #include "ui/aura/window_tree_host.h"

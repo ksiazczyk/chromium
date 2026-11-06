@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform window initialization properties
+// summary: Declares PlatformWindowInitProperties with window type, bounds, opacity, and platform-specific fields for Fuchsia and Linux.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_PLATFORM_WINDOW_INIT_PROPERTIES_H_
 #define UI_PLATFORM_WINDOW_PLATFORM_WINDOW_INIT_PROPERTIES_H_
 

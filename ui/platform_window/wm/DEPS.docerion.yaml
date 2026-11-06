@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the wm directory
+summary: Grants the wm directory access to ui/base/class_property.h and ui/platform_window/platform_window.h through include rules.

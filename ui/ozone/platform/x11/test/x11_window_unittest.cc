@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 window unit tests
+// summary: Unit tests for the X11Window platform window, verifying bounds changes, window state transitions, and shaped window masks.
+// ---
+
 #include "ui/ozone/platform/x11/x11_window.h"
 
 #include <algorithm>

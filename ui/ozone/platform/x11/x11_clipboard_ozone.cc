@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Ozone clipboard implementation
+// summary: Implements the X11 Ozone clipboard using XClipboardHelper, covering selection ownership and Linux portal URI list handling.
+// ---
+
 #include "ui/ozone/platform/x11/x11_clipboard_ozone.h"
 
 #include <iterator>

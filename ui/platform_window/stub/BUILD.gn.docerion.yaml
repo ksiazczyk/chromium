@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Stub platform window build definition
+summary: GN build file that defines the stub_window component, listing its sources and dependencies on base, ui and gfx targets.

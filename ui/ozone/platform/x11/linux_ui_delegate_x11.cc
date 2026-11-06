@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUiDelegateX11 implementation
+// summary: Implements the X11 Linux UI delegate, reporting the X11 backend, setting transient child windows, and exporting window handles.
+// ---
+
 #include "ui/ozone/platform/x11/linux_ui_delegate_x11.h"
 
 #include "base/strings/stringprintf.h"

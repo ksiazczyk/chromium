@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock wp_presentation class declaration
+// summary: Declares the MockWpPresentation global object with gmock methods and helpers to queue, drop, and send presentation feedback callbacks in Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_WP_PRESENTATION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_WP_PRESENTATION_H_
 

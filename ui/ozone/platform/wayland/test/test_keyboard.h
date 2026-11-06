@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wl_keyboard server object declaration
+// summary: Declares TestKeyboard and the kTestKeyboardImpl interface used by the test Wayland server to represent a keyboard.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_KEYBOARD_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_KEYBOARD_H_
 

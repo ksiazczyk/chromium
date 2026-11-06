@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmDragHandler interface for starting and managing drag operations
+// summary: Declares the WmDragHandler interface for starting, cancelling, and updating drags on a platform window, including a location delegate and drag callbacks.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_WM_WM_DRAG_HANDLER_H_
 #define UI_PLATFORM_WINDOW_WM_WM_DRAG_HANDLER_H_
 

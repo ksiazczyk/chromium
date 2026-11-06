@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data device manager implementation
+// summary: Implements the wl_data_device_manager global for the test Wayland server, creating test data sources and data devices on client requests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_data_device_manager.h"
 
 #include <wayland-server-core.h>
