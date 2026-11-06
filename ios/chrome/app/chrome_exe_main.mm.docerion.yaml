@@ -1,0 +1,4 @@
+# Docerion header of chrome_exe_main.mm.
+type: source
+title: Executable entry point delegating to ChromeMain
+summary: Minimal main() function that forwards argc and argv to ChromeMain to start the iOS Chrome application.

@@ -1,0 +1,4 @@
+# Docerion header of EncryptionExportCompliance+Info.plist.
+type: config
+title: Encryption export compliance Info.plist additions
+summary: Info.plist fragment declaring the app's non-exempt encryption use and its export compliance code.

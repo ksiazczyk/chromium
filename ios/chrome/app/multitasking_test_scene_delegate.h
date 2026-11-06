@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multitasking test scene delegate
+// summary: Declares a scene delegate that overrides the main scene window with a smaller size in multitasking tests.
+// ---
+
 #ifndef IOS_CHROME_APP_MULTITASKING_TEST_SCENE_DELEGATE_H_
 #define IOS_CHROME_APP_MULTITASKING_TEST_SCENE_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for background task
+summary: Defines GN source sets and dependencies for the background continued processing code, features and unit tests.

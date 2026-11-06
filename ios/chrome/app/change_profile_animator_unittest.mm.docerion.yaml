@@ -1,0 +1,4 @@
+# Docerion header of change_profile_animator_unittest.mm.
+type: test
+title: Change profile animator unit tests
+summary: Tests that the animator stays alive while waiting for profile initialisation and is deallocated before the continuation is invoked.

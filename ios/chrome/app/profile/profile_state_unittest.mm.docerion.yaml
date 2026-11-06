@@ -1,0 +1,4 @@
+# Docerion header of profile_state_unittest.mm.
+type: test
+title: ProfileState unit tests
+summary: Unit tests covering ProfileState initialization, init stage transitions, agent management, and observer notifications.

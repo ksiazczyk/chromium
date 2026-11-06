@@ -1,0 +1,4 @@
+# Docerion header of welcome_back_screen_profile_agent.mm.
+type: source
+title: Welcome Back screen profile agent implementation
+summary: Implements the agent that registers the Welcome Back promo for eligible returning users and records activity and promo registration metrics.

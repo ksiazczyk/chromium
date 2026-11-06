@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome iOS app resources build rules
+summary: GN build file defining resource targets, locale repacking, and grit rules for the iOS Chrome app.

@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Profile app feature definitions
+summary: Defines the profile app feature flags declared in features.h together with their default enabled or disabled states.

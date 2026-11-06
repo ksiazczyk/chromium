@@ -1,0 +1,4 @@
+# Docerion header of DisableLiquidGlassCompatibility+Info.plist.
+type: config
+title: Liquid Glass compatibility Info.plist addition
+summary: Info.plist fragment setting the UIDesignRequiresCompatibility key to true.

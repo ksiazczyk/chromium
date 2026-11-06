@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App startup parameters declaration
+// summary: Declares AppStartupParameters and enums describing URLs, application modes and post-opening actions for launches coming from other apps.
+// ---
+
 #ifndef IOS_CHROME_APP_APP_STARTUP_PARAMETERS_H_
 #define IOS_CHROME_APP_APP_STARTUP_PARAMETERS_H_
 

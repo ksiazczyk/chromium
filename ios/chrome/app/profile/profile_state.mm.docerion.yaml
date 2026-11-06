@@ -1,0 +1,4 @@
+# Docerion header of profile_state.mm.
+type: source
+title: ProfileState implementation
+summary: Implements ProfileState, managing agents, observers, scene connections, blocking UI counting, and queued init stage transitions.

@@ -1,0 +1,4 @@
+# Docerion header of test_profile_state_agent.mm.
+type: test
+title: TestProfileStateAgent implementation
+summary: Implements TestProfileStateAgent by storing the assigned ProfileState so tests can supply a profile state agent.

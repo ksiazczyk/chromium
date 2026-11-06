@@ -1,0 +1,4 @@
+# Docerion header of BaseScene.storyboard.
+type: asset
+title: Base scene storyboard
+summary: Interface Builder storyboard providing the base view controller scene for the iOS Chrome app.

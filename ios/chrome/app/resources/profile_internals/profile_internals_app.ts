@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile Internals app Lit element
+// summary: Lit web component that fetches the profiles list via the browser proxy and renders each profile's state and derived property labels.
+// ---
+
 import 'chrome://resources/js/ios/web_ui.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

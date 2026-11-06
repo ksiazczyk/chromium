@@ -1,0 +1,4 @@
+# Docerion header of ChromeAddition+Info.plist.
+type: config
+title: Chrome app delegate Info.plist addition
+summary: Info.plist fragment setting MainApplicationDelegate as the app's UIApplicationDelegate.

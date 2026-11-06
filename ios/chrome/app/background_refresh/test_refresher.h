@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test refresher header
+// summary: Declares TestRefresher, a test-only AppRefreshProvider for collecting background refresh data, not intended for production use.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_REFRESH_TEST_REFRESHER_H_
 #define IOS_CHROME_APP_BACKGROUND_REFRESH_TEST_REFRESHER_H_
 

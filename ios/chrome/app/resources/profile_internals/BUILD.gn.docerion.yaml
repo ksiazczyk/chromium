@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for profile_internals WebUI
+summary: GN build configuration that assembles the profile_internals WebUI from its HTML, CSS, and TypeScript sources with Lit and WebUI dependencies.

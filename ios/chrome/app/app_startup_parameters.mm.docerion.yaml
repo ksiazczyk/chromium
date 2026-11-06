@@ -1,0 +1,4 @@
+# Docerion header of app_startup_parameters.mm.
+type: source
+title: App startup parameters implementation
+summary: Implements AppStartupParameters, including application mode fetching outcomes, app switcher parameter availability and related histogram logging.

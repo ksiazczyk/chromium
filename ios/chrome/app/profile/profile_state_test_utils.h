@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileState test utilities
+// summary: Declares a helper that sets a ProfileState's init stage for use in tests.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_PROFILE_STATE_TEST_UTILS_H_
 #define IOS_CHROME_APP_PROFILE_PROFILE_STATE_TEST_UTILS_H_
 

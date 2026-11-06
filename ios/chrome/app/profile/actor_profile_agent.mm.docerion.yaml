@@ -1,0 +1,4 @@
+# Docerion header of actor_profile_agent.mm.
+type: source
+title: Actor profile agent implementation
+summary: Implements background task requests and foreground state forwarding for Actor Task background workers.

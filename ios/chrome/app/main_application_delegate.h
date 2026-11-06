@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainApplicationDelegate header
+// summary: Declares MainApplicationDelegate, the application's main UIApplicationDelegate that owns the AppState.
+// ---
+
 #ifndef IOS_CHROME_APP_MAIN_APPLICATION_DELEGATE_H_
 #define IOS_CHROME_APP_MAIN_APPLICATION_DELEGATE_H_
 

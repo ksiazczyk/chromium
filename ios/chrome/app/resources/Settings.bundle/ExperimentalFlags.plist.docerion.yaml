@@ -1,0 +1,4 @@
+# Docerion header of ExperimentalFlags.plist.
+type: config
+title: Freeform experimental flags settings pane
+summary: Child pane with a toggle and text fields for appending up to five freeform command-line flags to Chrome.

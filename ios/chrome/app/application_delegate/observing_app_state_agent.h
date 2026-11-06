@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observing app state agent header
+// summary: Declares app agent base classes that observe AppState and connected scenes and provide foreground and background events.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_OBSERVING_APP_STATE_AGENT_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_OBSERVING_APP_STATE_AGENT_H_
 

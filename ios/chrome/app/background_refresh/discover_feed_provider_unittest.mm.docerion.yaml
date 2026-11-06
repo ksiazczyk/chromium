@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_provider_unittest.mm.
+type: test
+title: Discover feed provider unit tests
+summary: Tests DiscoverFeedProvider scheduling behavior using a fake DiscoverFeedService, test profiles and the background refresh feature flag.

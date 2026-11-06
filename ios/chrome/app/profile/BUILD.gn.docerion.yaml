@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Profile module build configuration
+summary: Defines GN source sets and dependencies for the iOS Chrome profile app module.

@@ -1,0 +1,4 @@
+# Docerion header of task_orchestrator.mm.
+type: source
+title: TaskOrchestrator implementation
+summary: Implements per-scene task queueing and execution tied to lifecycle stages, including profile and account switch handling.

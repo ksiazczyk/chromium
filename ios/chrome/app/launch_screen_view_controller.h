@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch screen view controller header
+// summary: Declares a view controller resembling the launch screen with the Chrome logo and Google branding for smoother startup transitions.
+// ---
+
 #ifndef IOS_CHROME_APP_LAUNCH_SCREEN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_APP_LAUNCH_SCREEN_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of metric_kit_subscriber_unittest.mm.
+type: test
+title: MetricKit subscriber unit tests
+summary: Unit tests for the MetricKit subscriber, using mock metric payloads and a temporary Crashpad report database.

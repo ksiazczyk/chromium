@@ -1,0 +1,4 @@
+# Docerion header of background_refresh_constants.mm.
+type: source
+title: Background app refresh task identifier definition
+summary: Defines the background app refresh task identifier string used by Chrome on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of ExperimentalSyncTypesListDisabled.plist.
+type: config
+title: Sync types disable experimental settings pane
+summary: Child pane with toggles to disable individual sync data types such as bookmarks, passwords, autofill, and tabs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservingProfileAgent base class header
+// summary: Declares a convenience base class for profile agents that also act as profile state observers.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_OBSERVING_PROFILE_AGENT_H_
 #define IOS_CHROME_APP_PROFILE_OBSERVING_PROFILE_AGENT_H_
 

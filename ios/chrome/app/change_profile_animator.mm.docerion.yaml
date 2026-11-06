@@ -1,0 +1,4 @@
+# Docerion header of change_profile_animator.mm.
+type: source
+title: Change profile animator implementation
+summary: Implements blur and unblur overlay animations for profile switches and invokes continuations once the scene reaches the required init stage.

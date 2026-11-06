@@ -1,0 +1,4 @@
+# Docerion header of background_continued_processing_task_context_unittest.mm.
+type: test
+title: Background continued processing task context unit tests
+summary: Unit tests for BackgroundContinuedProcessingTaskContext, mocking BGTaskScheduler and BGContinuedProcessingTask to verify early completion and task outcome reporting.

@@ -1,0 +1,4 @@
+# Docerion header of observing_profile_agent_unittest.mm.
+type: test
+title: ObservingProfileAgent unit tests
+summary: Unit tests verifying that adding an ObservingProfileAgent to a ProfileState sets its profileState property and enables agentFromProfile lookup.

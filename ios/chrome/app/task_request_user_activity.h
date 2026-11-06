@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForUserActivity interface
+// summary: Declares the TaskRequestForUserActivity class and factory method for creating task requests that handle NSUserActivity-based user activities.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_USER_ACTIVITY_H_
 #define IOS_CHROME_APP_TASK_REQUEST_USER_ACTIVITY_H_
 

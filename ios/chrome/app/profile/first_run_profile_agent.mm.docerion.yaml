@@ -1,0 +1,4 @@
+# Docerion header of first_run_profile_agent.mm.
+type: source
+title: First run profile agent implementation
+summary: Implements first run UI presentation, guided tour steps, Safari data import entry points, and post-first-run promo handling during profile initialization.

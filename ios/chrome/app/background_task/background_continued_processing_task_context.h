@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background continued processing task context header
+// summary: Declares the task context handle for updating Live Activity text, tracking progress and signaling task completion or expiration.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_TASK_CONTEXT_H_
 #define IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_TASK_CONTEXT_H_
 

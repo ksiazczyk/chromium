@@ -1,0 +1,4 @@
+# Docerion header of multi_profile_forced_migration_profile_agent.mm.
+type: source
+title: MultiProfileForcedMigrationProfileAgent implementation
+summary: Implements a profile agent that presents the multi-profile forced migration screen when the migration-done pref is set and a signed-in account exists.

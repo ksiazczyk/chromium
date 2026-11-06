@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForShortcutItem interface
+// summary: Declares the TaskRequestForShortcutItem class that handles application shortcut items with a scene state, completion handler and cold start flag.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_SHORTCUT_ITEM_H_
 #define IOS_CHROME_APP_TASK_REQUEST_SHORTCUT_ITEM_H_
 

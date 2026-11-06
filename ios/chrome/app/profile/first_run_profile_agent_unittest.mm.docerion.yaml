@@ -1,0 +1,4 @@
+# Docerion header of first_run_profile_agent_unittest.mm.
+type: test
+title: First run profile agent unit tests
+summary: Unit tests covering the first run profile agent's guided tour, tab grid, and post-first-run behavior using fake command handlers and OCMock.

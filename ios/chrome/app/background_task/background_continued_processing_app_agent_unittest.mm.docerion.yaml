@@ -1,0 +1,4 @@
+# Docerion header of background_continued_processing_app_agent_unittest.mm.
+type: test
+title: Background continued processing app agent unit tests
+summary: Unit tests for the app agent using fake task providers and a mocked app state to verify background task scheduling behavior.

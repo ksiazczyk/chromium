@@ -1,0 +1,4 @@
+# Docerion header of app_metrics_app_state_agent.mm.
+type: source
+title: App metrics app state agent implementation
+summary: Implements the metrics agent that records startup duration, startup memory snapshots and Primes signals when the first scene connects and activates.

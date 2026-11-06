@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_profile_agent.mm.
+type: source
+title: SearchEngineChoiceProfileAgent implementation
+summary: Presents the search engine choice screen at the choice screen init stage, handling UI blocking, portrait orientation, and skip decisions.

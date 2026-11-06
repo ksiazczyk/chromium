@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock MetricKit payload helper header
+// summary: Declares MockMetricPayload, which builds mock MXMetricPayload objects from dictionaries matching MetricKit JSON exports.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_MOCK_METRICKIT_METRIC_PAYLOAD_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_MOCK_METRICKIT_METRIC_PAYLOAD_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tab_opener_unittest.mm.
+type: test
+title: TabOpener unit tests
+summary: Tests URL launch handling in URLOpener using method swizzling and mocked scene, profile and browser objects.

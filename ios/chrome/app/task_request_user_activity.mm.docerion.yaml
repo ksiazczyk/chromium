@@ -1,0 +1,4 @@
+# Docerion header of task_request_user_activity.mm.
+type: source
+title: TaskRequestForUserActivity implementation
+summary: Implements handling of user activities such as Handoff, Spotlight and Chrome intents, dispatching commands and recording launch metrics.

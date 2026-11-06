@@ -1,0 +1,4 @@
+# Docerion header of fake_startup_information.mm.
+type: source
+title: FakeStartupInformation implementation
+summary: Implements FakeStartupInformation with stubbed recorder and Chrome main methods plus launch reason tracking for use in tests.

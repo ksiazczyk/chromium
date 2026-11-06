@@ -1,0 +1,4 @@
+# Docerion header of url_opener_params_unittest.mm.
+type: test
+title: Unit tests for URLOpenerParams
+summary: Unit test verifying that URLOpenerParams correctly extracts the URL and source application from a UIOpenURLContext, enabled only on simulator.

@@ -1,0 +1,4 @@
+# Docerion header of main_controller.mm.
+type: source
+title: MainController implementation
+summary: Implements the main application controller, coordinating startup, profile switching, deferred initialization, scene management, and component updaters.

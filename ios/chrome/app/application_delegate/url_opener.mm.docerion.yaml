@@ -1,0 +1,4 @@
+# Docerion header of url_opener.mm.
+type: source
+title: URLOpener implementation for URL opening at startup
+summary: Implements URLOpener, resolving incognito policy, recording UMA histograms, and opening URLs passed to the application at startup or while active.

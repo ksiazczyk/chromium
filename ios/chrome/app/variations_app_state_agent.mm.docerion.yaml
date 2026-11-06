@@ -1,0 +1,4 @@
+# Docerion header of variations_app_state_agent.mm.
+type: source
+title: Variations app state agent implementation
+summary: Fetches the variations seed on first run, assigns a one-time randomized experiment group, and activates the corresponding client-side field trial.

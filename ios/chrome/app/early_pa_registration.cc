@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early PartitionAlloc registration
+// summary: Registers the PartitionAlloc malloc zone at process start, before dependencies load or threads are created.
+// ---
+
 #include "base/allocator/early_zone_registration_apple.h"
 #include "partition_alloc/buildflags.h"
 

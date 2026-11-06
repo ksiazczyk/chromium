@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForXCallbackURLContext interface
+// summary: Declares the TaskRequest subclass for X-Callback URLs, exposing the app group command dispatch time from shared defaults.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_FOR_XCALLBACK_URL_CONTEXT_H_
 #define IOS_CHROME_APP_TASK_REQUEST_FOR_XCALLBACK_URL_CONTEXT_H_
 

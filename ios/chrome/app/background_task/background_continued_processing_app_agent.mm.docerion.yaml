@@ -1,0 +1,4 @@
+# Docerion header of background_continued_processing_app_agent.mm.
+type: source
+title: Background continued processing app agent implementation
+summary: Implements continued processing task scheduling via BGTaskScheduler, including identifier generation and submission error mapping.

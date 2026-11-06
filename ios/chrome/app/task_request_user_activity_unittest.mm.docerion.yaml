@@ -1,0 +1,4 @@
+# Docerion header of task_request_user_activity_unittest.mm.
+type: test
+title: TaskRequestForUserActivity unit tests
+summary: Unit tests for user activity task requests using a test tab opener and fake scene state to verify tab opening behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainController header
+// summary: Declares MainController, the application's main controller that owns top-level UI controllers and implements AppLifetimeObserver and StartupInformation.
+// ---
+
 #ifndef IOS_CHROME_APP_MAIN_CONTROLLER_H_
 #define IOS_CHROME_APP_MAIN_CONTROLLER_H_
 

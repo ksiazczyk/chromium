@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequest interface and task execution stages
+// summary: Defines the TaskRequest interface and TaskExecutionStage enum for tasks triggered by URL opening, user activities, or home screen shortcuts targeting a scene.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_H_
 #define IOS_CHROME_APP_TASK_REQUEST_H_
 

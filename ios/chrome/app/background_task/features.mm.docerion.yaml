@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Background continued processing feature flag implementation
+summary: Implements the feature check, requiring iOS 26 or later and the background continued processing buildflag in addition to the feature flag.

@@ -1,0 +1,4 @@
+# Docerion header of actor_profile_agent_unittest.mm.
+type: test
+title: Actor profile agent unit tests
+summary: Tests ActorProfileAgent background task behavior against a real actor service and mocked app state.

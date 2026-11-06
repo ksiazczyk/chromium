@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise app agent header
+// summary: Declares EnterpriseAppAgent, an app state agent that blocks initialization while enterprise policy data is loaded.
+// ---
+
 #ifndef IOS_CHROME_APP_ENTERPRISE_APP_AGENT_H_
 #define IOS_CHROME_APP_ENTERPRISE_APP_AGENT_H_
 

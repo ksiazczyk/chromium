@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileStateAgent protocol
+// summary: Declares the protocol for agents owned by the profile state that provide profile-scoped functionality.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_PROFILE_STATE_AGENT_H_
 #define IOS_CHROME_APP_PROFILE_PROFILE_STATE_AGENT_H_
 

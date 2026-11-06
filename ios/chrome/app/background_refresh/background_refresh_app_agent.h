@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background refresh app agent interface
+// summary: Declares the app agent that registers app refresh providers and exposes the background refresh lifecycle audience.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_REFRESH_BACKGROUND_REFRESH_APP_AGENT_H_
 #define IOS_CHROME_APP_BACKGROUND_REFRESH_BACKGROUND_REFRESH_APP_AGENT_H_
 

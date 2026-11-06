@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForStandardURLContext interface
+// summary: Declares the TaskRequest subclass that handles standard http and https URLs, file URLs, and external actions.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_FOR_STANDARD_URL_CONTEXT_H_
 #define IOS_CHROME_APP_TASK_REQUEST_FOR_STANDARD_URL_CONTEXT_H_
 

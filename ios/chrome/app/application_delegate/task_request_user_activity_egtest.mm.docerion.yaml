@@ -1,0 +1,4 @@
+# Docerion header of task_request_user_activity_egtest.mm.
+type: test
+title: Earl Grey tests for user activity intent handling
+summary: Earl Grey tests verifying that user activity intents such as Open In Chrome, Open In Incognito, and Add Bookmark behave correctly during a warm start.

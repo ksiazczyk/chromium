@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_app_state_agent_unittest.mm.
+type: test
+title: Safe mode app state agent unit tests
+summary: Unit tests covering safe mode start, skip, and exit behavior of the safe mode app state agent.

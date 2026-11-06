@@ -1,0 +1,4 @@
+# Docerion header of Root.plist.
+type: config
+title: Root settings pane for Chrome iOS
+summary: Root settings pane displaying the app version and linking to the experimental settings child pane.

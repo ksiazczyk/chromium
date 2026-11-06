@@ -1,0 +1,4 @@
+# Docerion header of background_refresh_app_agent_unittest.mm.
+type: test
+title: Background refresh app agent unit tests
+summary: Tests background refresh task handling, provider execution, cancellation, timeouts, and metrics using OCMock and test stubs.

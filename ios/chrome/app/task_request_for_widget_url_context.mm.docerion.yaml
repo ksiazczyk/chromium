@@ -1,0 +1,4 @@
+# Docerion header of task_request_for_widget_url_context.mm.
+type: source
+title: Task request for widget URL context
+summary: Implements the task request that maps widget interactions to WidgetKit extension actions and records the associated startup metrics.

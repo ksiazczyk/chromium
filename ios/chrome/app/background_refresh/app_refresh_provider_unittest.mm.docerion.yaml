@@ -1,0 +1,4 @@
+# Docerion header of app_refresh_provider_unittest.mm.
+type: test
+title: App refresh provider unit tests
+summary: Verifies the default 30-minute refresh interval and that a never-run provider is reported as due.

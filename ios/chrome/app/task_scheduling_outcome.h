@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task scheduling outcome enum
+// summary: Defines the TaskSchedulingOutcome enum recording whether a task request was scheduled or dropped due to a Gaia ID mismatch, kept in sync with histogram metadata.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_SCHEDULING_OUTCOME_H_
 #define IOS_CHROME_APP_TASK_SCHEDULING_OUTCOME_H_
 

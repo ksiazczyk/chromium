@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocking scene commands protocol
+// summary: Declares the app-level protocol for activating the scene that currently shows blocking UI such as First Run.
+// ---
+
 #ifndef IOS_CHROME_APP_BLOCKING_SCENE_COMMANDS_H_
 #define IOS_CHROME_APP_BLOCKING_SCENE_COMMANDS_H_
 

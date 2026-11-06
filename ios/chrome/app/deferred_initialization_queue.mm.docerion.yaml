@@ -1,0 +1,4 @@
+# Docerion header of deferred_initialization_queue.mm.
+type: source
+title: DeferredInitializationQueue implementation
+summary: Implements timed asynchronous execution of deferred initialization blocks with cancellation support and startup tracing events.

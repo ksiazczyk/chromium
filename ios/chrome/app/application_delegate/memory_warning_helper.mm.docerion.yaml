@@ -1,0 +1,4 @@
+# Docerion header of memory_warning_helper.mm.
+type: source
+title: MemoryWarningHelper implementation
+summary: Notifies critical memory pressure, sets out-of-memory crash flags with a reset delay, and records warning counts in crash keys.

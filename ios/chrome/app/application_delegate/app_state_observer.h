@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AppStateObserver protocol header
+// summary: Declares the AppStateObserver protocol with optional callbacks for scene connections, profile state changes, and app init stage transitions.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_APP_STATE_OBSERVER_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_APP_STATE_OBSERVER_H_
 

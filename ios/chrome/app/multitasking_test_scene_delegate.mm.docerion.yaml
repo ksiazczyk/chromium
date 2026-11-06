@@ -1,0 +1,4 @@
+# Docerion header of multitasking_test_scene_delegate.mm.
+type: test
+title: Multitasking test scene delegate implementation
+summary: Resizes the application window to slide over or split view sizes for iPad multitasking tests.

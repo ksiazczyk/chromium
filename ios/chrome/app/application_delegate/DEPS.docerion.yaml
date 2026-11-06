@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for application_delegate
+summary: Restricts the headers that code in this directory is allowed to include.

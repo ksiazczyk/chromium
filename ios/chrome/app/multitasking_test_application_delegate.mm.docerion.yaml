@@ -1,0 +1,4 @@
+# Docerion header of multitasking_test_application_delegate.mm.
+type: test
+title: Multitasking test application delegate implementation
+summary: Overrides scene configuration so multitasking tests run with a dedicated test scene delegate.

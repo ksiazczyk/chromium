@@ -1,0 +1,4 @@
+# Docerion header of app_refresh_provider.mm.
+type: source
+title: App refresh provider implementation
+summary: Implements refresh handling, last-run tracking in user defaults, due checks, and task execution on a sequenced task runner.

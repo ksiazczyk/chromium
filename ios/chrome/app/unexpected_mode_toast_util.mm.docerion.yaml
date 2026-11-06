@@ -1,0 +1,4 @@
+# Docerion header of unexpected_mode_toast_util.mm.
+type: source
+title: Unexpected mode toast utility implementation
+summary: Shows an error snackbar with a More action that opens the management page when a URL is opened in an unavailable application mode.

@@ -1,0 +1,4 @@
+# Docerion header of otr_profile_destroyer_profile_agent.mm.
+type: source
+title: OTR profile destroyer profile agent implementation
+summary: Implements destruction and recreation of the OTR profile once the last incognito tab closes, tracking incognito sessions and queuing work on the IO thread.

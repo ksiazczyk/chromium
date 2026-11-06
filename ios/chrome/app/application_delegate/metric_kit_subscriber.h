@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricKitSubscriber header
+// summary: Declares a MetricKit subscriber that saves MetricKit reports and manages the extended launch task used for startup metrics.
+// ---
+
 #ifndef IOS_CHROME_APP_APPLICATION_DELEGATE_METRIC_KIT_SUBSCRIBER_H_
 #define IOS_CHROME_APP_APPLICATION_DELEGATE_METRIC_KIT_SUBSCRIBER_H_
 

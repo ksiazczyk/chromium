@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate policy profile agent interface
+// summary: Declares a profile agent that updates certificate policy caches when the app backgrounds.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_CERTIFICATE_POLICY_PROFILE_AGENT_H_
 #define IOS_CHROME_APP_PROFILE_CERTIFICATE_POLICY_PROFILE_AGENT_H_
 

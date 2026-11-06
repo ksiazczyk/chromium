@@ -1,0 +1,4 @@
+# Docerion header of change_profile_continuation.mm.
+type: source
+title: Change profile continuation chaining implementation
+summary: Implements chaining of two change-profile continuations using a sequenced task runner and weak scene state checks.

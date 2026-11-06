@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionMetricsProfileAgent header
+// summary: Declares a profile agent that records the total duration of the current profile session while scenes are in the foreground.
+// ---
+
 #ifndef IOS_CHROME_APP_PROFILE_SESSION_METRICS_PROFILE_AGENT_H_
 #define IOS_CHROME_APP_PROFILE_SESSION_METRICS_PROFILE_AGENT_H_
 

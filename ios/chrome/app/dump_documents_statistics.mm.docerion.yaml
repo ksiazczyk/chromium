@@ -1,0 +1,4 @@
+# Docerion header of dump_documents_statistics.mm.
+type: source
+title: Dump documents statistics implementation
+summary: Collects size and timestamp statistics for the sandbox Documents directory and writes them as JSON files on a background thread.

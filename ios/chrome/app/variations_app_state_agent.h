@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations app state agent interface
+// summary: Declares the agent managing the AppInitStage kVariationsSeed transition and registers the local state prefs it requires.
+// ---
+
 #ifndef IOS_CHROME_APP_VARIATIONS_APP_STATE_AGENT_H_
 #define IOS_CHROME_APP_VARIATIONS_APP_STATE_AGENT_H_
 

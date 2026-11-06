@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise loading screen view controller header
+// summary: Declares a view controller shown during the enterprise stage with a loading spinner and text explaining the browser is managed.
+// ---
+
 #ifndef IOS_CHROME_APP_ENTERPRISE_LOADING_SCREEN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_APP_ENTERPRISE_LOADING_SCREEN_VIEW_CONTROLLER_H_
 

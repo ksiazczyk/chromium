@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_app_state_agent.mm.
+type: source
+title: Safe mode app state agent implementation
+summary: Starts and stops safe mode during app initialization and transitions the app state accordingly.

@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_task.mm.
+type: source
+title: Discover feed task implementation
+summary: Runs Discover feed background refreshes through the service, handles cancellation, and records success or failure outcome metrics.

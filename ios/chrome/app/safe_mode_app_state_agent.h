@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe mode app state agent
+// summary: Declares the app state agent that triggers the safe mode stage when needed at startup.
+// ---
+
 #ifndef IOS_CHROME_APP_SAFE_MODE_APP_STATE_AGENT_H_
 #define IOS_CHROME_APP_SAFE_MODE_APP_STATE_AGENT_H_
 

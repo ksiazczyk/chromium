@@ -1,0 +1,4 @@
+# Docerion header of url_opener_params.mm.
+type: source
+title: URLOpenerParams implementation
+summary: Implements URLOpenerParams initializers for an explicit URL and source application and for the UIWindowSceneDelegate UIOpenURLContext format.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background continued processing task request interface
+// summary: Declares a task request object carrying an identifier, a configuration, and a started handler invoked with the task context after successful submission.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_TASK_REQUEST_H_
 #define IOS_CHROME_APP_BACKGROUND_TASK_BACKGROUND_CONTINUED_PROCESSING_TASK_REQUEST_H_
 

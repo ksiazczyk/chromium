@@ -1,0 +1,4 @@
+# Docerion header of ExperimentalSandboxDump.plist.
+type: config
+title: Sandbox dump experimental settings pane
+summary: Child pane with toggles to dump sandbox contents, file statistics, and environment data to the Documents folder.

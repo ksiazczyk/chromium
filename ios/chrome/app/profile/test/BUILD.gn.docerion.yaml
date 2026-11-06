@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for profile test support
+summary: GN build file defining the testonly test_support source set with the test profile state agent files for the iOS profile app.

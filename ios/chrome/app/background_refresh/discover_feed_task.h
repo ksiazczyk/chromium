@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed task header
+// summary: Declares DiscoverFeedTask, which handles asynchronous execution and cancellation of the Discover feed refresh.
+// ---
+
 #ifndef IOS_CHROME_APP_BACKGROUND_REFRESH_DISCOVER_FEED_TASK_H_
 #define IOS_CHROME_APP_BACKGROUND_REFRESH_DISCOVER_FEED_TASK_H_
 

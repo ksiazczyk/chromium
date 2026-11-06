@@ -1,0 +1,4 @@
+# Docerion header of task_request_for_xcallback_url_context.mm.
+type: source
+title: TaskRequestForXCallbackURLContext implementation
+summary: Implements X-Callback URL handling, reading app group command times from shared defaults and recording startup metrics for app group and open actions.

@@ -1,0 +1,4 @@
+# Docerion header of profile_controller.mm.
+type: source
+title: ProfileController implementation
+summary: Implements the ProfileController that drives profile initialization stages, coordinates profile agents, and handles profile switching in the iOS Chrome app.

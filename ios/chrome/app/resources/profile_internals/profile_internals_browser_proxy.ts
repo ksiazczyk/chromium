@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile Internals browser proxy
+// summary: TypeScript browser proxy defining ProfileState and ProfileAttributes interfaces and the getProfilesList call used to talk to the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface ProfileAttributes {

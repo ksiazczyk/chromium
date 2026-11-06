@@ -1,0 +1,4 @@
+# Docerion header of metric_kit_subscriber.mm.
+type: source
+title: MetricKit subscriber implementation
+summary: Processes MetricKit payloads, logging launch, exit and memory metrics to UMA and exporting diagnostic dumps to Crashpad.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRequestForURLContext private interface
+// summary: Class extension declaring private properties and methods of TaskRequestForURLContext for use by its subclasses.
+// ---
+
 #ifndef IOS_CHROME_APP_TASK_REQUEST_URL_CONTEXT_PRIVATE_H_
 #define IOS_CHROME_APP_TASK_REQUEST_URL_CONTEXT_PRIVATE_H_
 

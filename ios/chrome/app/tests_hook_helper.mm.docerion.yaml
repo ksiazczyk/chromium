@@ -1,0 +1,4 @@
+# Docerion header of tests_hook_helper.mm.
+type: source
+title: Tests hook helper implementation
+summary: Creates unrealized web states via the session restoration service and inserts them into the browser's WebStateList for testing purposes.

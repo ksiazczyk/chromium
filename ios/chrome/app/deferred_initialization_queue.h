@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredInitializationQueue interface
+// summary: Declares a singleton queue that schedules blocks to run asynchronously with configurable delays, plus run, cancel and length APIs.
+// ---
+
 #ifndef IOS_CHROME_APP_DEFERRED_INITIALIZATION_QUEUE_H_
 #define IOS_CHROME_APP_DEFERRED_INITIALIZATION_QUEUE_H_
 

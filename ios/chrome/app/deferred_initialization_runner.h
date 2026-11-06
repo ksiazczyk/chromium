@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredInitializationRunner interface
+// summary: Declares an object that schedules named initialization blocks asynchronously and can force-run or cancel them by name.
+// ---
+
 #ifndef IOS_CHROME_APP_DEFERRED_INITIALIZATION_RUNNER_H_
 #define IOS_CHROME_APP_DEFERRED_INITIALIZATION_RUNNER_H_
 

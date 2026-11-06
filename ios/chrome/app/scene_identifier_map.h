@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneIdentifierMap interface
+// summary: Declares the interface mapping UISceneSession identifiers to SceneState identifiers for the MainController.
+// ---
+
 #ifndef IOS_CHROME_APP_SCENE_IDENTIFIER_MAP_H_
 #define IOS_CHROME_APP_SCENE_IDENTIFIER_MAP_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of scene_observing_profile_agent_unittest.mm.
+type: test
+title: SceneObservingProfileAgent unit tests
+summary: Unit tests verifying that the agent is notified when a scene connects and transitions to an activation level.

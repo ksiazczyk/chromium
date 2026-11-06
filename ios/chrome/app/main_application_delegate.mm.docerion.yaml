@@ -1,0 +1,4 @@
+# Docerion header of main_application_delegate.mm.
+type: source
+title: MainApplicationDelegate implementation
+summary: Implements the UIApplicationDelegate lifecycle, wiring up MainController, AppState, push notification handling, memory warnings, and launch metrics.

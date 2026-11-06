@@ -1,0 +1,4 @@
+# Docerion header of EarlyPAFrameworkInfo.plist.
+type: config
+title: EarlyPA framework Info.plist
+summary: Bundle Info.plist describing the EarlyPA framework's version, identifier, and executable name.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneIdentifierMapImpl class declaration
+// summary: Declares the SceneIdentifierMap implementation that persists the session-to-scene identifier mapping in local state preferences.
+// ---
+
 #ifndef IOS_CHROME_APP_SCENE_IDENTIFIER_MAP_IMPL_H_
 #define IOS_CHROME_APP_SCENE_IDENTIFIER_MAP_IMPL_H_
 
