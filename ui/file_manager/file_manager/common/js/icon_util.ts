@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM type to icon name utilities
+// summary: Maps Chrome OS VM types such as ARCVM, Termina, and Bruschetta to their Files app icon names.
+// ---
+
 import {ICON_TYPES} from '../../foreground/js/constants.js';
 
 

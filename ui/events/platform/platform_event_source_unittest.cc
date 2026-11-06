@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformEventSource unit tests
+// summary: Unit tests covering dispatcher registration, event dispatch ordering, observer notifications and scoped dispatcher overrides for PlatformEventSource.
+// ---
+
 #include "ui/events/platform/platform_event_source.h"
 
 #include <stddef.h>

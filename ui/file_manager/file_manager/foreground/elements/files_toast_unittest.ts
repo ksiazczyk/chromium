@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilesToast unit tests
+// summary: Unit tests verifying files-toast visibility, action callbacks, and queued toast behavior.
+// ---
+
 import './files_toast.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toast/cr_toast.js';

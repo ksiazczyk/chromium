@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base test utility namespace
+// summary: Sets up the window.test namespace with sync and async utility namespaces that other test utility files extend.
+// ---
+
 /**
  * Namespace for test related things.
  */

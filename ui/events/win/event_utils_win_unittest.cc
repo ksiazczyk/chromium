@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows event utils unit tests
+// summary: Unit tests verifying conversion of Windows native messages into event system locations and repeat key flags.
+// ---
+
 #include "ui/events/event_utils.h"
 
 #include <windows.h>

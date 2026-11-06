@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VelocityTrackerState implementation
+// summary: Implements VelocityTrackerState, computing and retrieving per-pointer velocities with unit scaling, clamping and active pointer support.
+// ---
+
 
 #include "ui/events/velocity_tracker/velocity_tracker_state.h"
 

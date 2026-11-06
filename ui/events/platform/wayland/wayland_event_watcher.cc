@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland event watcher base implementation
+// summary: Implements the WaylandEventWatcher base class, including libwayland error logging, crash key recording and a dedicated thread for watching the display file descriptor.
+// ---
+
 #include "ui/events/platform/wayland/wayland_event_watcher.h"
 
 #include <wayland-client-core.h>

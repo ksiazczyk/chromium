@@ -1,0 +1,4 @@
+# Docerion header of presubmit_support_test.py.
+type: test
+title: Unit tests for File Manager presubmit checks
+summary: Unit tests verifying the presubmit checks that flag direct Lit imports in TS/JS files and banned @ts-ignore tags, using mock input and output APIs.

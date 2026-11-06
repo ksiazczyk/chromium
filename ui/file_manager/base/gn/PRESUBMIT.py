@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for file types JSON5 data
+# summary: Presubmit script that validates file_types.json5, checking required fields, optional icon and mime fields, and extension formatting rules.
+# ---
+
 """Presubmit script for //ui/file_manager/base/gn.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

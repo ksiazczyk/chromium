@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Common styles for the Files app UI
+summary: Shared stylesheet providing base element rules, native-looking chrome-menu styling, and button appearance including primary, secondary, and disabled states.
+*/
+
 /* Special attribute to hide elements. */
 [hidden] {
   display: none !important;

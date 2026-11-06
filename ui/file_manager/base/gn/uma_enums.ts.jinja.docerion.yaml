@@ -1,0 +1,4 @@
+# Docerion header of uma_enums.ts.jinja.
+type: source
+title: Jinja template for generated UMA enums TypeScript file
+summary: Template that renders a TypeScript export listing known file extensions with their UMA indices for ViewFileType recording.

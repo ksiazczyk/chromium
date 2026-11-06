@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VelocityTracker implementation
+// summary: Implements velocity tracking strategies such as least-squares and integrating filters, ported from Android, to estimate pointer velocity from motion events.
+// ---
+
 #include "ui/events/velocity_tracker/velocity_tracker.h"
 
 #include <stddef.h>

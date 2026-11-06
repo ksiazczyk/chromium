@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Context menu styles for the Files app
+summary: Styles cr-menu and FilesMenuItem, including shortcut text, sub-menu arrows, item icons, ripple effects, and selection and focus states.
+*/
+
 cr-menu {
   position: fixed;
   white-space: nowrap;

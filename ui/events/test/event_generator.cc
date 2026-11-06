@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventGenerator implementation
+// summary: Implements the test EventGenerator that synthesizes and synchronously dispatches mouse, touch, key and gesture events to the event dispatcher.
+// ---
+
 #include "ui/events/test/event_generator.h"
 
 #include <stddef.h>

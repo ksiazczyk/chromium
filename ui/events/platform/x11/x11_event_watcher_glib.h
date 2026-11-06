@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11EventWatcherGlib class declaration
+// summary: Declares an X11EventWatcher that uses the GLib GSource API to watch for incoming X11 events in the browser process main thread.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_X11_X11_EVENT_WATCHER_GLIB_H_
 #define UI_EVENTS_PLATFORM_X11_X11_EVENT_WATCHER_GLIB_H_
 

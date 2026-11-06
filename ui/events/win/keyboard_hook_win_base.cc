@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows keyboard hook base implementation
+// summary: Registers low-level Windows keyboard hooks and processes key event messages delivered through the hook procedure.
+// ---
+
 #include "ui/events/win/keyboard_hook_win_base.h"
 
 #include "base/logging.h"

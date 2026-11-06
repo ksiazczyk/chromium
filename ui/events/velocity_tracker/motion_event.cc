@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEvent base implementation
+// summary: Implements default and fallback methods of the abstract MotionEvent class, including pointer index lookup, cloning and stream output.
+// ---
+
 #include "ui/events/velocity_tracker/motion_event.h"
 
 #include <ostream>

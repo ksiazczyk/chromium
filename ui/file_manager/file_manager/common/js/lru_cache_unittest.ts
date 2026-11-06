@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LRU cache unit tests
+// summary: Unit tests covering LRU cache eviction order, per-item sizes, and random-input size calculations.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {LruCache} from './lru_cache.js';

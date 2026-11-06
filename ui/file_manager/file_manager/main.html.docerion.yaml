@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: source
+title: Files app main HTML page
+summary: Main HTML entry point of the ChromeOS Files app, loading styles and modules and defining UI commands with keyboard shortcuts.

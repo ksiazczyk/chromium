@@ -22,6 +22,12 @@
  * https://developer.mozilla.org/en-US/docs/Web/API/FileSystemDirectoryReader
  */
 
+// ---docerion
+// type: source
+// title: Files app entry types
+// summary: Defines the FilesAppEntry interface and Entry-like implementations such as EntryList and VolumeEntry to unify entry handling in the Files app UI.
+// ---
+
 import type {VolumeInfo} from '../../background/js/volume_info.js';
 import {ICON_TYPES} from '../../foreground/js/constants.js';
 import {oneDriveFakeRootKey} from '../../state/ducks/volumes.js';

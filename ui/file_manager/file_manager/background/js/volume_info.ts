@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeInfo model for mounted volumes
+// summary: Represents a mounted volume such as Drive, Downloads or USB, holding its display roots, fake entries and mount metadata.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 
 import type {FakeEntry, FilesAppEntry} from '../../common/js/files_app_entry_types.js';

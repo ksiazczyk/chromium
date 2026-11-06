@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilesTooltip unit tests
+// summary: Unit tests covering files-tooltip focus handling, link display, positioning, and visibility behavior.
+// ---
+
 import './files_tooltip.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

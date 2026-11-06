@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the x11 platform events component
+summary: Defines the x11_events_platform component build, listing X11 event sources and dependencies, and selecting the GLib or fdwatch watcher based on build flags.

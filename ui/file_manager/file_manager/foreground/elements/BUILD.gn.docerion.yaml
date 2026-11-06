@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Polymer elements build configuration
+summary: GN build file that converts the folder's HTML element templates into Polymer wrapper targets for the Files app.

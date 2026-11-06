@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wayland event watcher build definition
+summary: Defines the wayland_event_watcher source set and selects GLib or fd-watch sources depending on the build configuration.

@@ -1,0 +1,4 @@
+# Docerion header of xf_button.html.
+type: source
+title: xf-button element template and styles
+summary: HTML template and CSS for the xf-button element, styling cr-button and cr-icon-button variants for dismiss, cancel, extra, expand and collapse actions.

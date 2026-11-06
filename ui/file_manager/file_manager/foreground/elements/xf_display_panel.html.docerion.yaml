@@ -1,0 +1,4 @@
+# Docerion header of xf_display_panel.html.
+type: source
+title: xf-display-panel element template and styles
+summary: HTML template and CSS for the xf-display-panel element, including expand and collapse animations and layout for hosted panel items.

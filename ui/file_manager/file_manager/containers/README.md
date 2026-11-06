@@ -1,3 +1,9 @@
+---
+type: readme
+title: Containers
+summary: 'Explains the container pattern in the Files app: containers listen to widget events and dispatch actions, pass store state to widgets, coordinate child widgets, and may depend on sibling folders.'
+---
+
 # Containers
 
 Containers are used for classes that will control multiple widgets. These

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEvent abstract class
+// summary: Defines the abstract MotionEvent interface, patterned after Android's MotionEvent API, with actions, tool types and pointer accessors for gesture detection.
+// ---
+
 #ifndef UI_EVENTS_VELOCITY_TRACKER_MOTION_EVENT_H_
 #define UI_EVENTS_VELOCITY_TRACKER_MOTION_EVENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search container
+// summary: Controller for the search input widget, building location and recency options from the current directory, dispatching search updates to the store, and handling breadcrumb navigation.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 
 import type {CrInputElement} from 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

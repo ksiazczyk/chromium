@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows stylus handwriting properties
+// summary: Tests setting and reading handwriting properties on touch events, absence of properties and death checks for overflow values.
+// ---
+
 #include "ui/events/win/stylus_handwriting_properties_win.h"
 
 #include <cstdint>

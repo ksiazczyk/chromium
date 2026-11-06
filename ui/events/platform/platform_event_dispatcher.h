@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformEventDispatcher interface header
+// summary: Declares the PlatformEventDispatcher interface and PostDispatchAction flags used to receive and dispatch platform events from a PlatformEventSource.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_PLATFORM_EVENT_DISPATCHER_H_
 #define UI_EVENTS_PLATFORM_PLATFORM_EVENT_DISPATCHER_H_
 

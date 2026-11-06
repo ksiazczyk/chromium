@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the x11 events platform directory
+summary: Lists thomasanderson@chromium.org as the code owner responsible for this directory.

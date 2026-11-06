@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system key state lookup implementation
+// summary: Implements queries for pressed modifier keys and Caps Lock, Num Lock and Scroll Lock states using Win32 GetKeyState.
+// ---
+
 #include "ui/events/win/system_event_state_lookup.h"
 
 #include <windows.h>

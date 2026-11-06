@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Files app
+summary: GN build file that generates the static_resources.grdp bundle listing the Files app's HTML, JS, CSS and image resources.

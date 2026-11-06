@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows event utility implementations
+// summary: Implements conversion of Windows messages into Chromium event data such as event types, flags, locations and key codes.
+// ---
+
 #include "ui/events/win/events_win_utils.h"
 
 #include <stdint.h>

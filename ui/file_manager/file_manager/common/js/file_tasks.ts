@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File task helpers
+// summary: Helpers for file open tasks, including action ID parsing, default task selection and annotating tasks with icons and titles.
+// ---
+
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 import type {TaskHistory} from '../../foreground/js/task_history.js';
 import type {FileData} from '../../state/state.js';

@@ -6,6 +6,12 @@
  * @fileoverview The container of the VolumeInfo for each mounted volume.
  */
 
+// ---docerion
+// type: source
+// title: List of mounted volume info
+// summary: Container of VolumeInfo objects for each mounted volume, supporting add, remove and lookup by volume ID.
+// ---
+
 import {ArrayDataModel} from '../../common/js/array_data_model.js';
 
 import type {VolumeInfo} from './volume_info.js';

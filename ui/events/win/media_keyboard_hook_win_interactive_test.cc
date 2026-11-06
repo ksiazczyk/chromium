@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive test for the Windows media keyboard hook
+// summary: Sends real media key input via SendInput and verifies the hook catches all media keys and delivers events with the correct key code and type.
+// ---
+
 #include <windows.h>
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for file types data generation
+summary: Defines GN targets that generate C++ and JavaScript file types data from file_types.json5 via Jinja templates and a custom helper.

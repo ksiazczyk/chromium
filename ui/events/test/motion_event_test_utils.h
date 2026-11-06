@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMotionEvent test utility declarations
+// summary: Declares MockMotionEvent with constructors and pointer manipulation utilities plus a ToString helper for MotionEvent testing.
+// ---
+
 #ifndef UI_EVENTS_TEST_MOTION_EVENT_TEST_UTILS_H_
 #define UI_EVENTS_TEST_MOTION_EVENT_TEST_UTILS_H_
 

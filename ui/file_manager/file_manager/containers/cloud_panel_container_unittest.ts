@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud panel container unit tests
+// summary: Unit tests for the cloud panel container, checking that bulk pinning progress and item counts reach the panel and that invalid store values are not propagated to the element.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 import {assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';
 

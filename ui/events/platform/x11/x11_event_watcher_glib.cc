@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLib-based X11 event watcher implementation
+// summary: Implements X11EventWatcherGlib using a custom GLib GSource that flushes, polls, and dispatches the X11 connection when the use_glib build flag is set.
+// ---
+
 #include "ui/events/platform/x11/x11_event_watcher_glib.h"
 
 #include <glib.h>

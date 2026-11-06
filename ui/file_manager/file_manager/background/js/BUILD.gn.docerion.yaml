@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Files app background JS
+summary: Defines the optimize_webui GN target that builds the runtime-loaded test utilities for the Files app background JS.

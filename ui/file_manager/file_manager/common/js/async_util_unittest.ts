@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async queue and rate limiter tests
+// summary: Tests verifying task ordering, error resilience, start and end ordering, and rate limiter recursion behavior of async_util queues.
+// ---
+
 import {assertArrayEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {AsyncQueue, RateLimiter, type Task} from './async_util.js';

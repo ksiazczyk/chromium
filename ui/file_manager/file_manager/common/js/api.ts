@@ -6,6 +6,12 @@
  * @fileoverview Helpers for APIs used within Files app.
  */
 
+// ---docerion
+// type: source
+// title: Files app API helpers
+// summary: Promisified async helpers for chrome.fileManagerPrivate APIs used by the Files app, covering windows, quota, holding space, DLP, and dialogs.
+// ---
+
 import type {FilesAppDirEntry, FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 
 import {unwrapEntry} from './entry_utils.js';

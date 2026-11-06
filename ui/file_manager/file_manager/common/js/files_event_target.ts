@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strongly typed FilesEventTarget for custom events
+// summary: Defines a strongly typed EventTarget wrapper that restricts custom event listeners via a generic event map for the Files app.
+// ---
+
 export type CustomEventMap = Record<string, CustomEvent>;
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated cr.ui element helpers
+// summary: Setters and decoration helpers for deprecated cr.ui elements, dispatching property change events and initializing decorated DOM elements.
+// ---
+
 import {dispatchPropertyChange} from 'chrome://resources/ash/common/cr_deprecated.js';
 
 

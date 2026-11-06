@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Volume manager types unit tests
+// summary: Unit tests verifying the bijection between volume types and root types, recent ARC entry detection, and UMA enum index consistency in the Files app.
+// ---
+
 import {assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {MockFileEntry, MockFileSystem} from './mock_entry.js';

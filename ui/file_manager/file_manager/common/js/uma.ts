@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA metrics for volumes and navigation surfaces
+// summary: Records histograms of opened files by volume type and navigation surface, kept in sync with the metrics enums.
+// ---
+
 import type {FileKey} from '../../state/state.js';
 import {DialogType, PropStatus, type State} from '../../state/state.js';
 import {getFileData} from '../../state/store.js';

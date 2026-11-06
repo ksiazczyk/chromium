@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventHandler class
+// summary: Declares a simple EventHandler for tests that counts events per type and can record the sequence of handlers invoked.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_HANDLER_H_
 #define UI_EVENTS_TEST_TEST_EVENT_HANDLER_H_
 

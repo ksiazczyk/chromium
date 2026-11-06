@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry type guards and helpers
+// summary: Type guards and helpers for identifying and unwrapping file system entries, volume roots, and MyFiles or Drive roots in the Files app.
+// ---
+
 import type {EntryLocation} from '../../background/js/entry_location_impl.js';
 import type {VolumeInfo} from '../../background/js/volume_info.js';
 import type {VolumeManager} from '../../background/js/volume_manager.js';

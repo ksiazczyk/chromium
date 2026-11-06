@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped event waiter declarations
+// summary: Declares ScopedEventWaiter, a test helper that blocks until a given event target receives an event of the specified type.
+// ---
+
 #ifndef UI_EVENTS_TEST_SCOPED_EVENT_WAITER_H_
 #define UI_EVENTS_TEST_SCOPED_EVENT_WAITER_H_
 

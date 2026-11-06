@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for xf custom elements
+// summary: Unit tests for the xf-button, xf-circular-progress, xf-display-panel and xf-panel-item elements, covering panel attach/remove, aria-hidden and panel type behaviour.
+// ---
+
 import './xf_button.js';
 import './xf_circular_progress.js';
 import './xf_display_panel.js';

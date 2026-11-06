@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitSet32 unit tests
+// summary: Unit tests covering BitSet32 bit marking, clearing, counting, index lookup and bitwise AND/OR operations.
+// ---
+
 #include "ui/events/velocity_tracker/bitset_32.h"
 
 #include <stddef.h>

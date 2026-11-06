@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped keyboard layout test helper implementation
+// summary: Implements ScopedKeyboardLayout, which temporarily switches the active keyboard layout on Windows, macOS and Ozone for the duration of a test.
+// ---
+
 #include "ui/events/test/keyboard_layout.h"
 
 #include "base/check_op.h"

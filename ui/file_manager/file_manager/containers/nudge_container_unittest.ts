@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nudge container unit tests
+// summary: Unit tests for the nudge container, covering anchor visibility requirements, keyboard dismissal, repositioning counts, and seen/expiry handling between tests.
+// ---
+
 import {assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {waitUntil} from '../common/js/test_error_reporting.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file system and entry classes for testing
+// summary: Provides mock FileSystem, Entry, File, and DirectoryEntry classes that simulate files and directories in Files app tests.
+// ---
+
 import {FileErrorToDomError} from './util.js';
 
 /** Joins paths so that the two paths are connected by only 1 '/'. */

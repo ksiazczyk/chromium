@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Wayland event watcher
+summary: Grants wayland_event_watcher.cc access to the crash key header and the re2 regular expression library.

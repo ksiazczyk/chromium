@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventSource implementation
+// summary: Implements TestEventSource, counting sent and sunk events and forwarding events to the configured sink.
+// ---
+
 #include "ui/events/test/test_event_source.h"
 
 #include "ui/events/event.h"

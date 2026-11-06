@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland event watcher base class header
+// summary: Declares the WaylandEventWatcher base class that integrates Wayland prepare/read/dispatch event handling into Chromium's event loops.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_WAYLAND_WAYLAND_EVENT_WATCHER_H_
 #define UI_EVENTS_PLATFORM_WAYLAND_WAYLAND_EVENT_WATCHER_H_
 

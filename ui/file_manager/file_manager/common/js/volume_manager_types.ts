@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume and root type definitions
+// summary: Defines file system types, navigation root types and UMA enum orderings used by the volume manager.
+// ---
+
 import {assertNotReached, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 
 import {VolumeType} from './shared_types.js';

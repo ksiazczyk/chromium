@@ -1,0 +1,4 @@
+# Docerion header of file_types_data.h.jinja.
+type: source
+title: Jinja template for generated C++ file types data header
+summary: Template that renders the C++ header declaring GetMimeTypeForExtension, GetDocumentMimeTypes and IsDocumentMimeType in the file_types_data namespace.

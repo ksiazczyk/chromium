@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows modifier keyboard hook
+// summary: Unit tests that send modifier key events through the hook and verify event types, repeat states and behavior across keyboard layouts.
+// ---
+
 #include <memory>
 #include <optional>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventTargeter header
+// summary: Declares TestEventTargeter, an EventTargeter for tests that dispatches to a fixed target with bubbling behavior controlled at creation.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_TARGETER_H_
 #define UI_EVENTS_TEST_TEST_EVENT_TARGETER_H_
 

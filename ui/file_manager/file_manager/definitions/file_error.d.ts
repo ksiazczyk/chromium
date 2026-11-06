@@ -11,6 +11,12 @@
  * https://github.com/google/closure-compiler/blob/master/externs/browser/nonstandard_fileapi.js#L197
  */
 
+// ---docerion
+// type: source
+// title: FileError and DOMError type definitions
+// summary: TypeScript definitions for FileError and the deprecated DOMError interface, provided for compatibility with the Closure compiler File API externs.
+// ---
+
 interface FileError extends DOMException {
   NOT_FOUND_ERR: number;
   SECURITY_ERR: number;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilesSpinner custom element
+// summary: Custom element that displays an animated loading spinner and sets progressbar ARIA attributes.
+// ---
+
 import {getTemplate} from './files_spinner.html.js';
 
 export class FilesSpinner extends HTMLElement {

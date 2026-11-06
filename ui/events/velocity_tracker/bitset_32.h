@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitSet32 bit set header
+// summary: Declares BitSet32, a port of Android's 32-bit bit set with mark, clear, count and bitwise operations used for pointer id tracking.
+// ---
+
 #ifndef UI_EVENTS_VELOCITY_TRACKER_BITSET_32_H_
 #define UI_EVENTS_VELOCITY_TRACKER_BITSET_32_H_
 

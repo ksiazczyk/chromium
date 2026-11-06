@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the file_manager component
+// summary: C++ header defining FILE_MANAGER_EXPORT so symbols from the file_manager component can be exported to consumers.
+// ---
+
 #ifndef UI_FILE_MANAGER_FILE_MANAGER_EXPORT_H_
 #define UI_FILE_MANAGER_FILE_MANAGER_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag helpers for the Files app
+// summary: Provides functions that check whether feature flags such as DLP, Guest OS, and DriveFS bulk pinning are enabled via loadTimeData.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 
 function isFlagEnabled(flagName: string) {

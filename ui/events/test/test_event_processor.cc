@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventProcessor implementation
+// summary: Implements TestEventProcessor, dispatching events to a set root target and counting processing start and finish calls.
+// ---
+
 #include "ui/events/test/test_event_processor.h"
 
 #include <utility>

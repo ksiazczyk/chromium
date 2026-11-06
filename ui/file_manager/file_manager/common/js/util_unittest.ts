@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file path extraction
+// summary: Tests extraction of paths from filesystem URLs in both the legacy extension and the System Web App.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {LEGACY_FILES_APP_URL, SWA_FILES_APP_URL} from './url_constants.js';

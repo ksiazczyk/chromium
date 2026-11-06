@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for the Files app
+summary: Base TypeScript compiler options for the Files app, extending Chromium's shared tsconfig with DOM and ES libraries, decorators and trusted-types settings.

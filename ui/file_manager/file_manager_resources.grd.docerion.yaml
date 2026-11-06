@@ -1,0 +1,4 @@
+# Docerion header of file_manager_resources.grd.
+type: config
+title: GRIT resources for the Files app
+summary: GRIT resource definition declaring generated outputs and bundled icons, manifests and image loader assets.

@@ -8,6 +8,12 @@
  * importing files.
  */
 
+// ---docerion
+// type: source
+// title: Shared types and enums for the Files app
+// summary: Defines shared enums and classes such as volume types, dialog types, and FilesAppState that are also used by integration tests.
+// ---
+
 /** Paths that can be handled by the dialog opener in native code. */
 export enum AllowedPaths {
   NATIVE_PATH = 'nativePath',

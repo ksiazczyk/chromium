@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped keyboard layout test helper declarations
+// summary: Declares the KeyboardLayout enum and the ScopedKeyboardLayout helper that changes the active keyboard layout for the scope of a test.
+// ---
+
 #ifndef UI_EVENTS_TEST_KEYBOARD_LAYOUT_H_
 #define UI_EVENTS_TEST_KEYBOARD_LAYOUT_H_
 

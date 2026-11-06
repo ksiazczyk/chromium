@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting properties implementation
+// summary: Implements setting and reading stylus handwriting properties on events and looks up the handwriting stroke id via the Windows Shell Handwriting API.
+// ---
+
 #include "ui/events/win/stylus_handwriting_properties_win.h"
 
 #include <ShellHandwriting.h>

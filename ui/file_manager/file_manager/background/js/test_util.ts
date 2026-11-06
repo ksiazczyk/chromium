@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility functions for Files app tests
+// summary: Defines synchronous and asynchronous test utilities, such as file list retrieval and fake input, that browser tests call remotely.
+// ---
+
 import type {ProgressItemState, ProgressItemType} from '../../common/js/progress_center_common.js';
 import {ProgressCenterItem} from '../../common/js/progress_center_common.js';
 import {ScriptLoader} from '../../common/js/script_loader.js';

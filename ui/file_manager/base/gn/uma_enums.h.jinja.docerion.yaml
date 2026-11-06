@@ -1,0 +1,4 @@
+# Docerion header of uma_enums.h.jinja.
+type: source
+title: Jinja template for generated UMA enums C++ header
+summary: Template that renders the C++ header declaring the ViewFileType enum and GetViewFileType used to record file types in UMA.

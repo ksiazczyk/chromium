@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventType enum for input events
+// summary: Defines the ui::EventType enum covering mouse, key, touch, gesture, scroll, and system event types used throughout the input pipeline.
+// ---
+
 #ifndef UI_EVENTS_TYPES_EVENT_TYPE_H_
 #define UI_EVENTS_TYPES_EVENT_TYPE_H_
 

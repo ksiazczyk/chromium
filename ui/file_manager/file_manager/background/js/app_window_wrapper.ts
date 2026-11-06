@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowWrapper for Files app windows
+// summary: Coordinates creation and launching of new Files app windows, guarding against duplicate opens with a launch lock.
+// ---
+
 import {openWindow} from '../../common/js/api.js';
 import {AsyncQueue} from '../../common/js/async_util.js';
 import type {FilesAppState} from '../../common/js/files_app_state.js';

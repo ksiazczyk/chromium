@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog type predicates
+// summary: Helper functions that identify modal and folder-selection dialog types for the Files app.
+// ---
+
 import {DialogType} from '../../state/state.js';
 
 export function isModal(type: DialogType): boolean {

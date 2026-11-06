@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume manager for the Files app
+// summary: Implements the VolumeManager and VolumeInfo for the ChromeOS Files app, handling volume mounting and unmounting with timeouts, error validation, and localized volume labels.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {getRootType, isComputersRoot, isFakeEntry, isOneDrivePlaceholder, isSameEntry, isSameFileSystem, isTeamDriveRoot} from '../../common/js/entry_utils.js';

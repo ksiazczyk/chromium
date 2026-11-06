@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: xf-circular-progress custom element
+// summary: Defines the CircularProgress custom element that renders a circular progress indicator controlled via radius, progress, label and errormark attributes.
+// ---
+
 import {getTemplate} from './xf_circular_progress.html.js';
 
 const MAX_PROGRESS = 100.0;

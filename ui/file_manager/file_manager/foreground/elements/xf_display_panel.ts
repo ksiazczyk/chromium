@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: xf-display-panel custom element
+// summary: Defines the DisplayPanel custom element that hosts panel items, toggling between collapsed summary and expanded views with aria-hidden handling.
+// ---
+
 import {getPluralString, str, strf} from '../../common/js/translations.js';
 
 import type {PanelButton} from './xf_button.js';

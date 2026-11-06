@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped event waiter unit test
+// summary: Unit test verifying that ScopedEventWaiter unblocks when an asynchronously dispatched key event reaches the observed event target.
+// ---
+
 #include "ui/events/test/scoped_event_waiter.h"
 
 #include "base/memory/raw_ptr.h"

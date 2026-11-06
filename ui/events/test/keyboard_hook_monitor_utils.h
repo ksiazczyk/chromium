@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard hook monitor test utilities
+// summary: Declares functions to simulate keyboard hook registration and unregistration so the behavior can be tested outside //ui/events.
+// ---
+
 #ifndef UI_EVENTS_TEST_KEYBOARD_HOOK_MONITOR_UTILS_H_
 #define UI_EVENTS_TEST_KEYBOARD_HOOK_MONITOR_UTILS_H_
 

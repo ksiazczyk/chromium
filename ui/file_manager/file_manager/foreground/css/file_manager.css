@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Main layout styles for the Files app dialog
+summary: Primary stylesheet defining the file manager dialog layout, including visibility rules per dialog type, directory tree, splitter, and main container styling.
+*/
+
 /* Special attribute used in HTML to hide elements. */
 body:not([type]) [visibleif] {
   display: none;

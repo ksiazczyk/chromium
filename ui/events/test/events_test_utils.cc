@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event test API implementations
+// summary: Implements test APIs that expose event, target and source internals such as timestamps, locations and event dispatch for tests.
+// ---
+
 #include "ui/events/test/events_test_utils.h"
 
 #include "ui/events/event_source.h"

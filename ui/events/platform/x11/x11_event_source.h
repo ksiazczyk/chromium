@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11EventSource and X11EventWatcher class declarations
+// summary: Declares the X11 platform event source that receives X11 events from a watcher and forwards them to platform event dispatchers and x11 event observers.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_X11_X11_EVENT_SOURCE_H_
 #define UI_EVENTS_PLATFORM_X11_X11_EVENT_SOURCE_H_
 

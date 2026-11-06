@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XEventWaiter header
+// summary: Declares XEventWaiter, an X11 event observer that runs a callback once a marker client message event arrives.
+// ---
+
 #ifndef UI_EVENTS_TEST_X11_EVENT_WAITER_H_
 #define UI_EVENTS_TEST_X11_EVENT_WAITER_H_
 

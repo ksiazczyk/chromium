@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEventDispatcher class header
+// summary: Declares ScopedEventDispatcher, a RAII helper that temporarily overrides all dispatchers on a PlatformEventSource and restores the previous one on destruction.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_SCOPED_EVENT_DISPATCHER_H_
 #define UI_EVENTS_PLATFORM_SCOPED_EVENT_DISPATCHER_H_
 

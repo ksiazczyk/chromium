@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translations unit tests
+// summary: Tests byte-size formatting and translated string helpers such as bytesToString and file error labels used by the Files app.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {bytesToString, getEntryLabel, getFileErrorString, str} from './translations.js';

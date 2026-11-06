@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLib-based Wayland event watcher header
+// summary: Declares WaylandEventWatcherGlib, a WaylandEventWatcher variant that polls the Wayland fd through a GLib event source.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_WAYLAND_WAYLAND_EVENT_WATCHER_GLIB_H_
 #define UI_EVENTS_PLATFORM_WAYLAND_WAYLAND_EVENT_WATCHER_GLIB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of xf_panel_item.html.
+type: source
+title: xf-panel-item element template and styles
+summary: HTML template and CSS for the xf-panel-item element, laying out the indicator, text and action buttons for detailed and summary panel variants.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for the Files app directory
+# summary: Presubmit script that runs Python unit tests plus style, semantic color, direct Lit import and banned TypeScript tag checks.
+# ---
+
 import sys
 
 PRESUBMIT_VERSION = '2.0.0'

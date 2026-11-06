@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XEventWaiter implementation
+// summary: Implements XEventWaiter, which sends a marker client message event over X11 and invokes a callback when the marker event is received.
+// ---
+
 #include "ui/events/test/x11_event_waiter.h"
 
 #include "base/task/single_thread_task_runner.h"

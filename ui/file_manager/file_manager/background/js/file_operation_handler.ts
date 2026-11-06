@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File operation progress handler
+// summary: Listens to IO task progress events and updates progress center items, including policy-paused task handling.
+// ---
+
 import {startIOTask} from '../../common/js/api.js';
 import {PolicyErrorType, ProgressCenterItem, ProgressItemState, ProgressItemType} from '../../common/js/progress_center_common.js';
 import {getFileErrorString, str, strf} from '../../common/js/translations.js';

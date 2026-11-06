@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ui/events/platform component
+summary: Defines the GN component target that builds the platform event source, dispatcher, observer and scoped dispatcher sources with the EVENTS_IMPLEMENTATION define.

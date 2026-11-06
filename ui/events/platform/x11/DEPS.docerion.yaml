@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the x11 events platform directory
+summary: Grants include access to ui/base/x and ui/base/ui_base_features.h for code in this directory.

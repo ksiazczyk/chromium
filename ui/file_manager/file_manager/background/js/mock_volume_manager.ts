@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock volume manager for tests
+// summary: Mock VolumeManager with fake Drive and Downloads volumes, mock volume creation, and an installable mock singleton for tests.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {isComputersRoot, isFakeEntry, isSameEntry, isTeamDriveRoot} from '../../common/js/entry_utils.js';

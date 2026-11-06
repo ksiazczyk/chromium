@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeManager singleton factory
+// summary: Provides asynchronous access to a singleton VolumeManager instance, plus debug access and a revoke method for testing.
+// ---
+
 import {VolumeManager} from './volume_manager.js';
 
 

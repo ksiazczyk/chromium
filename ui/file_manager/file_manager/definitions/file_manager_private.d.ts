@@ -11,6 +11,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.fileManagerPrivate API type definitions
+// summary: Generated TypeScript definitions for the chrome.fileManagerPrivate extension API, covering volume types, device events, mounting and transfer states for the Files app.
+// ---
+
 import type {ChromeEvent} from './chrome_event.js';
 
 declare global {

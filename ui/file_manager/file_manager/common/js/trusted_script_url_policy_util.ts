@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedTypes script URL policy utility
+// summary: Creates a TrustedTypes policy allowing only whitelisted script URLs and returns sanitized script URLs for the Files app.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 
 

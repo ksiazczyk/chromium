@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage unit tests
+// summary: Unit tests verifying that local storage changes propagate to onChanged listeners and preserve original value types.
+// ---
+
 import {assertDeepEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {type ChangedValues, storage} from './storage.js';

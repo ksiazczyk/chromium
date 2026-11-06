@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: tslib shim for decorator helpers
+// summary: Exposes tslib's __decorate on globalThis so TypeScript decorators work with the app's build toolchain.
+// ---
+
 import * as tslib from 'chrome://resources/mwc/tslib/tslib.js';
 
 /**

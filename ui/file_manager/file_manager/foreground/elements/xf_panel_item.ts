@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: xf-panel-item custom element
+// summary: Defines the PanelItem custom element and PanelType enum for showing file operation status and progress, with per-type buttons and indicators.
+// ---
+
 import './xf_button.js';
 import './xf_circular_progress.js';
 

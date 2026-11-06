@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows keyboard hook base class
+// summary: Declares the base Windows keyboard hook class with hook registration, key message processing and testing helpers.
+// ---
+
 #ifndef UI_EVENTS_WIN_KEYBOARD_HOOK_WIN_BASE_H_
 #define UI_EVENTS_WIN_KEYBOARD_HOOK_WIN_BASE_H_
 

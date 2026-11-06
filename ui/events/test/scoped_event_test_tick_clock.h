@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test tick clock for UI events
+// summary: Header-only helper that installs a simple test tick clock for UI events on construction and removes it on destruction, with methods to set and advance time.
+// ---
+
 #ifndef UI_EVENTS_TEST_SCOPED_EVENT_TEST_TICK_CLOCK_H_
 #define UI_EVENTS_TEST_SCOPED_EVENT_TEST_TICK_CLOCK_H_
 

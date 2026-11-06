@@ -4,6 +4,12 @@
 
 // Runtime setup before main.js is executed.
 
+// ---docerion
+// type: source
+// title: Runtime global setup before main.js
+// summary: Initializes window.IN_TEST before main.js executes by detecting the test environment through domAutomationController.
+// ---
+
 /**
  * Sets window.IN_TEST if this code is run in the test environment. We
  * detect this by checking for presence of domAutomationController.

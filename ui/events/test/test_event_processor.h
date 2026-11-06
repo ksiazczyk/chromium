@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventProcessor class
+// summary: Declares an EventProcessor subclass for tests with a configurable root target and processing counters.
+// ---
+
 #ifndef UI_EVENTS_TEST_TEST_EVENT_PROCESSOR_H_
 #define UI_EVENTS_TEST_TEST_EVENT_PROCESSOR_H_
 

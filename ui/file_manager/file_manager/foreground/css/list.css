@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: List and grid element styles
+summary: Base styles for the list and grid elements, covering item layout, spacers, hidden items, and overflow behavior during column resize.
+*/
+
 list,
 grid {
   display: block;

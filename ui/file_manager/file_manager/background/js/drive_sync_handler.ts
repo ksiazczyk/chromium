@@ -6,6 +6,12 @@
  * @fileoverview Handles notifications supplied by drivefs.
  */
 
+// ---docerion
+// type: source
+// title: Drive sync notifications handler
+// summary: Handles drivefs notifications, updating sync status metadata and showing progress and error notifications for Drive sync.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import {RateLimiter} from '../../common/js/async_util.js';

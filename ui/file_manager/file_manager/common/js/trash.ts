@@ -19,6 +19,12 @@
  * TrashEntry combines both files for display.
  */
 
+// ---docerion
+// type: source
+// title: Trash support for the Files app
+// summary: Implements trash volumes and entries per the freedesktop trash spec, including per-volume trash configs and 30-day auto-delete.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 
 import type {VolumeManager} from '../../background/js/volume_manager.js';
