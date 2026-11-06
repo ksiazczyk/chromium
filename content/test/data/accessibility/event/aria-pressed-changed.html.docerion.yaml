@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changed.html.
+type: test
+title: HTML test page for aria-pressed change events
+summary: Accessibility test page that changes aria-pressed on two button elements to true and mixed to trigger accessibility events.

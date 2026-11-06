@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-collapse.html.
+type: test
+title: ARIA combobox collapse accessibility event test page
+summary: HTML test page that collapses an ARIA combobox by clearing aria-activedescendant and setting aria-expanded to false to trigger accessibility events.

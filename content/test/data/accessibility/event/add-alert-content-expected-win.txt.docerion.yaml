@@ -1,0 +1,4 @@
+# Docerion header of add-alert-content-expected-win.txt.
+type: test
+title: Expected Windows events for add-alert-content
+summary: Expected Windows accessibility event output for the add-alert-content test, listing live region changed, show, and text inserted events on alert elements.

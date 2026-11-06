@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-descendants-expected-win.txt.
+type: test
+title: aria-hidden-descendants expected output for Windows
+summary: Expected Windows accessibility event output for the aria-hidden-descendants test page.

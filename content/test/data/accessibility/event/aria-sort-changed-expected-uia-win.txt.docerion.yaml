@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for aria-sort change test
+summary: Expected Windows UIA event output listing AriaProperties changed events on column and row headers when aria-sort changes.

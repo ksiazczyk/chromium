@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-element-tree-changes-expected-mac.txt.
+type: test
+title: aria-activedescendant element tree changes expected events for macOS
+summary: Expected macOS AX accessibility events for the aria-activedescendant element tree changes test, listing focus and selected-children changes.

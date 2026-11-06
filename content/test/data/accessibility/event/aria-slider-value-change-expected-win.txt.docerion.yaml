@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-change-expected-win.txt.
+type: test
+title: aria-slider-value-change expected output for Windows
+summary: Expected Windows MSAA/IA2 event output for the aria slider value change test, recording EVENT_OBJECT_VALUECHANGE on the slider element with value 2.

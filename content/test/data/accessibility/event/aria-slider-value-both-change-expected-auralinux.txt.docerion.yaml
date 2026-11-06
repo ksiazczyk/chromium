@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-both-change-expected-auralinux.txt.
+type: test
+title: Expected Linux AT-SPI events for slider value and text change test
+summary: Expected Linux accessibility event log for the test page that changes both aria-valuenow and aria-valuetext on a slider.

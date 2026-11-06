@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-described-by-expected-android.txt.
+type: test
+title: Expected Android events for add-dialog-described-by test
+summary: Expected Android accessibility events, including AlertDialog window state and content changes, for the test that shows a described-by dialog.

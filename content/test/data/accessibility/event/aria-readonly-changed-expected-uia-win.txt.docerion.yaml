@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for aria-readonly change test
+summary: Expected UIA property-change events on Windows when the aria-readonly attribute changes on textarea elements.

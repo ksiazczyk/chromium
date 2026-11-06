@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-changed-expected-android.txt.
+type: test
+title: aria-hidden-changed expected Android accessibility events
+summary: Expected Android accessibility event log for the aria-hidden-changed test, listing window content changed events on the WebView.

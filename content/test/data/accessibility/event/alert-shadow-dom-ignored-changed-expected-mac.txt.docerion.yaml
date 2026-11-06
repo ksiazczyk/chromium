@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-changed-expected-mac.txt.
+type: test
+title: Expected Mac events for alert shadow DOM ignored changed test
+summary: Expected Mac accessibility events, AXLiveRegionChanged and AXLiveRegionCreated, for the alert-in-shadow-DOM test.

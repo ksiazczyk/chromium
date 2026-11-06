@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-new-subtree-expected-mac.txt.
+type: test
+title: aria-selected-changed new subtree expected events for macOS
+summary: Expected macOS accessibility events for the new-subtree variant of the aria-selected-changed test, covering table row, popup button and list changes.

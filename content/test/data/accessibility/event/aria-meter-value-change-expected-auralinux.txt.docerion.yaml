@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-value-change-expected-auralinux.txt.
+type: test
+title: aria-meter-value-change expected output for AuraLinux
+summary: Expected AuraLinux accessibility event output for the aria-meter value change test, showing a value-changed event on the level bar role.

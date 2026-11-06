@@ -1,0 +1,4 @@
+# Docerion header of add-alert-expected-mac.txt.
+type: test
+title: Expected macOS events for add-alert
+summary: Expected macOS accessibility event output for the add-alert test, listing live region changed and created notifications for alerts and an alert dialog.

@@ -1,0 +1,4 @@
+# Docerion header of aria-flow-to-expected-android.txt.
+type: test
+title: aria-flow-to expected Android accessibility events
+summary: Expected Android accessibility event log for the aria-flow-to test, listing window content changed events on WebView and TextView nodes.

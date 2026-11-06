@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-next-expected-mac.txt.
+type: test
+title: aria-combo-box-next expected events on macOS
+summary: Expected macOS AX notification sequence for the aria-combo-box-next test, listing focused element and selected children changes.

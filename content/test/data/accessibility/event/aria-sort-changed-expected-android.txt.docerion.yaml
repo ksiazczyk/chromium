@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-changed-expected-android.txt.
+type: test
+title: Expected Android events for aria-sort change test
+summary: Expected Android accessibility event output listing content changed events for row and column headers when aria-sort changes.

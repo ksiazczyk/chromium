@@ -1,0 +1,4 @@
+# Docerion header of add-alert-with-role-change-expected-win.txt.
+type: test
+title: Add alert with role change expected Windows events
+summary: Expected MSAA EVENT_SYSTEM_ALERT event on the system alert role for the add-alert-with-role-change test.

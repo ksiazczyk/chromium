@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for aria-checked changes
+summary: Expected Android accessibility event log for a test page that toggles aria-checked on checkboxes, radio buttons, and switches.

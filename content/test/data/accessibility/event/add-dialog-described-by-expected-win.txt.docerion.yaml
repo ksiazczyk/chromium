@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-described-by-expected-win.txt.
+type: test
+title: Expected Windows events for add-dialog-described-by test
+summary: Expected Windows MSAA and IA2 accessibility events, including reorder and show, for the test that makes the described-by dialog visible.

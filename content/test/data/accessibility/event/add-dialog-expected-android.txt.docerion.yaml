@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-expected-android.txt.
+type: test
+title: Add dialog expected accessibility events for Android
+summary: Expected Android accessibility event sequence for the add-dialog test, capturing window content and state changes when a dialog appears.

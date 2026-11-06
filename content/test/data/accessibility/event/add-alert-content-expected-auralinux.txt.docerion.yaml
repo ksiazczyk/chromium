@@ -1,0 +1,4 @@
+# Docerion header of add-alert-content-expected-auralinux.txt.
+type: test
+title: Expected ARIA Linux events for add-alert-content
+summary: Expected ARIA Linux accessibility event output for the add-alert-content test, recording children-changed and text-inserted events on alert live regions.

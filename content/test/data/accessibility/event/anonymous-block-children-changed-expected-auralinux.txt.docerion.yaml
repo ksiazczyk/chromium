@@ -1,0 +1,4 @@
+# Docerion header of anonymous-block-children-changed-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for anonymous block children changed test
+summary: Expected AuraLinux accessibility event log for the anonymous-block-children-changed test, recording children-changed add and remove events across passes.

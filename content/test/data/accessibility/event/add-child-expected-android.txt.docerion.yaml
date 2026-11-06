@@ -1,0 +1,4 @@
+# Docerion header of add-child-expected-android.txt.
+type: test
+title: Add child expected Android events
+summary: Expected Android accessibility events showing a ListView content change when a child is added in the add-child test.

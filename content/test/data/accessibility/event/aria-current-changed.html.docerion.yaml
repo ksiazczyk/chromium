@@ -1,0 +1,4 @@
+# Docerion header of aria-current-changed.html.
+type: test
+title: aria-current change accessibility test page
+summary: HTML test page that moves aria-current=page between two navigation links to trigger accessibility events.

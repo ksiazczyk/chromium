@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expand.html.
+type: test
+title: aria-button-expand accessibility event test page
+summary: HTML test page that toggles aria-expanded on a popup button to show or hide menu items and trigger accessibility events.

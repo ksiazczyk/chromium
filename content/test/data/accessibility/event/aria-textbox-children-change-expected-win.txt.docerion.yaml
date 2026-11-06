@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-children-change-expected-win.txt.
+type: test
+title: Expected Windows events for textbox children change
+summary: Expected Windows MSAA and IA2 events when children of ARIA textboxes change, used to verify Chromium's output.

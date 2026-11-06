@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-changed2-expected-uia-win.txt.
+type: test
+title: Expected UIA-Win output for aria-atomic-changed2
+summary: Expected UIA-Win accessibility event output for the aria-atomic-changed2 test page, currently containing only a continuation marker.

@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-reparented-expected-android.txt.
+type: test
+title: Expected Android events for shadow DOM reparented alert test
+summary: Expected Android accessibility event log for the alert-shadow-dom-ignored-reparented test, listing window content and state change events.

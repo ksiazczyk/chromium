@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-changed-expected-auralinux.txt.
+type: test
+title: aria-multiselectable-changed expected output for AuraLinux
+summary: Expected AuraLinux accessibility event output for the aria-multiselectable change test, which is effectively empty.

@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-valuetext-change.html.
+type: test
+title: Spinbutton valuetext change test page
+summary: Test page that changes a spinbutton's aria-valuetext attribute to trigger accessibility events checked against platform expectations.

@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-both-change-expected-mac.txt.
+type: test
+title: Expected macOS events for slider value and text change test
+summary: Expected macOS accessibility event log for the test page that changes both aria-valuenow and aria-valuetext on a slider.

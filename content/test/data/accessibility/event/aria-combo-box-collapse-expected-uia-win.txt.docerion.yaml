@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-collapse-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility events for combobox collapse
+summary: Expected UIA events on Windows for AriaProperties, focus, and expand-collapse state when an ARIA combobox collapses.

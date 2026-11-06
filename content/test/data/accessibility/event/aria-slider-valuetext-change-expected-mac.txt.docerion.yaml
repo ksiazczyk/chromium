@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-valuetext-change-expected-mac.txt.
+type: test
+title: aria-slider-valuetext-change expected output for macOS
+summary: Expected macOS accessibility output for the aria slider valuetext change test, recording an AXValueChanged event on an AXSlider with AXValue=1.

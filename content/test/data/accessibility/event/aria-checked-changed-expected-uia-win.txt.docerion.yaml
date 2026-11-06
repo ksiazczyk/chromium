@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-changed-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility events for aria-checked changes
+summary: Expected UIA event log on Windows covering AriaProperties, toggle state, and selection changes when aria-checked changes.

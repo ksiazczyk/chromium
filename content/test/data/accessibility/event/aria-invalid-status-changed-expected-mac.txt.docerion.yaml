@@ -1,0 +1,4 @@
+# Docerion header of aria-invalid-status-changed-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for aria-invalid change
+summary: Expected macOS AXInvalidStatusChanged event when aria-invalid is set on a labeled text input.

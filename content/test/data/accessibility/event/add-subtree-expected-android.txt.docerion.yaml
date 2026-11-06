@@ -1,0 +1,4 @@
+# Docerion header of add-subtree-expected-android.txt.
+type: test
+title: Expected Android events for add-subtree accessibility test
+summary: Expected Android accessibility events, such as TYPE_WINDOW_CONTENT_CHANGED, when a subtree is added in the add-subtree test page.

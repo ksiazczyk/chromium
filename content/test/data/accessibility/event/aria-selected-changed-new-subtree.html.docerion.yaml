@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-new-subtree.html.
+type: test
+title: aria-selected-changed new subtree test page
+summary: HTML test page that clones and appends newly selected grid cells and options so selection changes come with a new subtree for the accessibility event test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-required-changed-expected-win.txt.
+type: test
+title: aria-required-changed expected results for Windows
+summary: Expected Windows IA2 state-change events when aria-required changes on checkbox, combobox and radio roles in the aria-required-changed test.

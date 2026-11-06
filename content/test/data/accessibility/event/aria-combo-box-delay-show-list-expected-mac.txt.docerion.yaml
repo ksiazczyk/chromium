@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-delay-show-list-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for delayed combobox list display
+summary: Expected macOS accessibility notifications for the test that shows a combobox list after a delay.

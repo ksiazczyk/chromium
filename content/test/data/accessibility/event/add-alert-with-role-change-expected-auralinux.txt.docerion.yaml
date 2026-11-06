@@ -1,0 +1,4 @@
+# Docerion header of add-alert-with-role-change-expected-auralinux.txt.
+type: test
+title: Add alert with role change expected Aura Linux events
+summary: Expected Linux AT-SPI children-changed add and remove events for the notification role in the add-alert-with-role-change test.

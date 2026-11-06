@@ -1,0 +1,4 @@
+# Docerion header of aria-busy-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA-Win output for aria-busy-changed
+summary: Expected UIA-Win AriaProperties and LayoutInvalidated events on headings for the aria-busy-changed test page.

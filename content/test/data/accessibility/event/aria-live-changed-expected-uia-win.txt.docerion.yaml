@@ -1,0 +1,4 @@
+# Docerion header of aria-live-changed-expected-uia-win.txt.
+type: test
+title: aria-live-changed expected UIA events for Windows
+summary: Expected UIA accessibility events for the aria-live-changed test, listing AriaProperties and LiveSetting changes on heading elements.

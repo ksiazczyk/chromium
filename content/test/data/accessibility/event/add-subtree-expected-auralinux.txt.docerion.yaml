@@ -1,0 +1,4 @@
+# Docerion header of add-subtree-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux events for add-subtree accessibility test
+summary: Expected Linux accessibility events, a CHILDREN-CHANGED:ADD on a list item, when a subtree is added in the add-subtree test.

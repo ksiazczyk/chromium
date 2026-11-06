@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Win events for aria-multiselectable changes
+summary: Expected UI Automation events on Windows when the aria-multiselectable attribute changes on grid, listbox, tablist, tree and treegrid roles.

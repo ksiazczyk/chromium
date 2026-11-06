@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-changed-expected-win.txt.
+type: test
+title: Expected Windows IA2 events for aria-disabled change
+summary: Expected Windows accessibility event output for the aria-disabled-changed test, listing state-change events on checkboxes, radios and fieldsets.

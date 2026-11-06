@@ -1,0 +1,4 @@
+# Docerion header of aria-required-changed-expected-android.txt.
+type: test
+title: aria-required-changed expected results for Android
+summary: Expected Android accessibility events when aria-required changes on checkbox, radio and combobox roles in the aria-required-changed test.

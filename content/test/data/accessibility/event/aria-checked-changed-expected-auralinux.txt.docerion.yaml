@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux AT-SPI accessibility events for aria-checked changes
+summary: Expected Linux AT-SPI state-change events for checkboxes, radio buttons, and switches when their aria-checked attribute changes.

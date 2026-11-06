@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-new-subtree-expected-android.txt.
+type: test
+title: aria-selected-changed new subtree expected events for Android
+summary: Expected Android accessibility events for the new-subtree variant of the aria-selected-changed test, containing no events after the initial page load marker.

@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-and-collapsed.html.
+type: test
+title: aria-expanded-and-collapsed test page
+summary: HTML test page that toggles aria-expanded on a link and the visibility of its text to verify accessibility events for expanded and collapsed state changes.

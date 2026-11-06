@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-delay-add-list-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA events for delayed combobox list addition
+summary: Expected Windows UIA accessibility events for the test that adds a combobox list after a delay.

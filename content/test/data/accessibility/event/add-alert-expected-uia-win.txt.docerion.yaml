@@ -1,0 +1,4 @@
+# Docerion header of add-alert-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for add-alert
+summary: Expected UIA Windows accessibility event output for the add-alert test, listing live region changed events for three alert elements.

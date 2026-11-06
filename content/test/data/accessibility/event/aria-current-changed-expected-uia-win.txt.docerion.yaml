@@ -1,0 +1,4 @@
+# Docerion header of aria-current-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for aria-current-changed test
+summary: Expected UIA Windows accessibility output for the aria-current-changed test; the file is empty, indicating no expected events.

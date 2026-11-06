@@ -1,0 +1,4 @@
+# Docerion header of aria-live-changed-expected-mac.txt.
+type: test
+title: aria-live-changed expected Mac events
+summary: Expected macOS accessibility events for the aria-live-changed test, recording an AXLiveRegionCreated notification on a heading.

@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-changed-expected-android.txt.
+type: test
+title: aria-atomic changed expected events for Android
+summary: Expected Android accessibility events for the aria-atomic change test, listing window content-changed notifications on the WebView and text views.

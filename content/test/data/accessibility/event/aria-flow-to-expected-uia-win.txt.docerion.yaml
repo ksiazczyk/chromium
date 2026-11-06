@@ -1,0 +1,4 @@
+# Docerion header of aria-flow-to-expected-uia-win.txt.
+type: test
+title: aria-flow-to expected UIA Windows events
+summary: Expected UIA Windows event log for the aria-flow-to test, listing FlowsTo and FlowsFrom property changes on group elements.

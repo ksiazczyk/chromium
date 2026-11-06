@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-new-subtree-expected-win.txt.
+type: test
+title: aria-selected-changed new subtree expected events for Windows
+summary: Expected Windows accessibility events for the new-subtree variant of the aria-selected-changed test, covering selection, reorder, show and state events.

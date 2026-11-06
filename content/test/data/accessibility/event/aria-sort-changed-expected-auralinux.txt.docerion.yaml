@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux events for aria-sort change test
+summary: Expected Linux AT-SPI event output with column and row reordered events on a table when aria-sort changes.

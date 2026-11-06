@@ -1,0 +1,4 @@
+# Docerion header of aria-required-changed-expected-uia-win.txt.
+type: test
+title: aria-required-changed expected results for UIA on Windows
+summary: Expected UIA on Windows property-change events for AriaProperties and IsRequiredForForm when aria-required changes in the aria-required-changed test.

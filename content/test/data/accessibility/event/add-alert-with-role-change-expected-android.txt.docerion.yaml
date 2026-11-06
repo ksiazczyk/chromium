@@ -1,0 +1,4 @@
+# Docerion header of add-alert-with-role-change-expected-android.txt.
+type: test
+title: Add alert with role change expected Android events
+summary: Expected Android accessibility event log for the add-alert-with-role-change test page, covering window content and state changes after the alert appears.

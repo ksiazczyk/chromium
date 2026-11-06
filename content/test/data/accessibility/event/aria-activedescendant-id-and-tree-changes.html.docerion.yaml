@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-id-and-tree-changes.html.
+type: test
+title: aria-activedescendant ID and tree changes test page
+summary: HTML test page that sets aria-activedescendant by ID before targets exist or gain IDs, and inserts new options to trigger accessibility events.

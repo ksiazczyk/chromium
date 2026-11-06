@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-valuetext-change-expected-uia-win.txt.
+type: test
+title: aria-slider-valuetext-change expected output for Windows UIA
+summary: Expected UIA events on Windows for the aria slider valuetext change test, listing AriaProperties and RangeValueValue changes on the slider role.

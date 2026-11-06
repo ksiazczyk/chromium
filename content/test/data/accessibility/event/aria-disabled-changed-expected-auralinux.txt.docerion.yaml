@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux events for aria-disabled change
+summary: Expected Linux accessibility event output listing enabled, read-only and sensitive state changes for checkboxes, radios and fieldsets.

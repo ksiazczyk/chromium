@@ -1,0 +1,4 @@
+# Docerion header of add-subtree-expected-win.txt.
+type: test
+title: Expected Windows events for add-subtree accessibility test
+summary: Expected Windows accessibility events, such as EVENT_OBJECT_SHOW and IA2_EVENT_TEXT_INSERTED, when a subtree is added in the add-subtree test.

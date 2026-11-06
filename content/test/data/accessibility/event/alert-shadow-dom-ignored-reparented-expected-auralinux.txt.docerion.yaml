@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-reparented-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for shadow DOM reparented alert test
+summary: Expected AuraLinux accessibility event log for the alert-shadow-dom-ignored-reparented test, covering children-changed and text-inserted notification events.

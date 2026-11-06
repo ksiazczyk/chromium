@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-and-collapsed-reparenting-expected-auralinux.txt.
+type: test
+title: Expected Linux events for expanded and collapsed with reparenting
+summary: Expected Linux accessibility event output for expanding and collapsing reparented content via a toggle link.

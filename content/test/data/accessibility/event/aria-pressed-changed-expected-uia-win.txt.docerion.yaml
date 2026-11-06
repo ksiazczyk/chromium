@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Win events for aria-pressed changes
+summary: Expected UI Automation events on Windows when the aria-pressed attribute changes on button elements.

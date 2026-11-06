@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-expand-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for ARIA combo box expand test
+summary: Expected Windows MSAA and IAccessible2 events for the ARIA combo box expand test, covering focus, state and selection changes.

@@ -1,0 +1,4 @@
+# Docerion header of add-hidden-attribute-expected-win.txt.
+type: test
+title: Expected Windows events for add hidden attribute test
+summary: Expected Windows accessibility event output for the test that adds the hidden attribute to a list item.

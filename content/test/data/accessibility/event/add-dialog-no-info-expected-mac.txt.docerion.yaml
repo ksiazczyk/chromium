@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-no-info-expected-mac.txt.
+type: test
+title: Add dialog no-info expected accessibility events for macOS
+summary: Empty expected-output file for the add-dialog-no-info test on macOS, indicating that no accessibility events are expected.

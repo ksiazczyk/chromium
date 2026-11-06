@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-uneditable-expected-win.txt.
+type: test
+title: Expected Windows output for aria-combo-box-uneditable test
+summary: Expected Windows accessibility event output for the uneditable combo box test; the file is effectively empty.

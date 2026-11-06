@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for aria-multiselectable changes
+summary: Expected Windows state-change accessibility events fired when the aria-multiselectable attribute changes on list, outline, pagetablist and table roles.

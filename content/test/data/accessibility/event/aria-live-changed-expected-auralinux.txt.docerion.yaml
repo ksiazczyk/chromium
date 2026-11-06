@@ -1,0 +1,4 @@
+# Docerion header of aria-live-changed-expected-auralinux.txt.
+type: test
+title: aria-live-changed expected Linux events
+summary: Expected output file for the aria-live-changed test on Linux that is empty, indicating no accessibility events are expected.

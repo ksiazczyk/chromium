@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-focus-expected-mac.txt.
+type: test
+title: Expected Mac accessibility events for ARIA combo box focus test
+summary: Expected macOS AX accessibility notifications for the ARIA combo box focus test, covering focus and selection changes.

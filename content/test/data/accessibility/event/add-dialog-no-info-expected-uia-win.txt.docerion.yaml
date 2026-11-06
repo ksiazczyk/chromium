@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-no-info-expected-uia-win.txt.
+type: test
+title: Add dialog no-info expected accessibility events for Windows UIA
+summary: Expected UIA Windows accessibility event output for the add-dialog-no-info test, listing AriaProperties and structure change events.

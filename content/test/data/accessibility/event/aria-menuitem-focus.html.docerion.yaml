@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-focus.html.
+type: test
+title: aria-menuitem-focus test page
+summary: HTML test page with a menubar using aria-activedescendant that moves focus between menu items to test menu item focus events.

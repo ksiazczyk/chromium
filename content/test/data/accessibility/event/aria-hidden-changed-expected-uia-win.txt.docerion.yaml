@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-changed-expected-uia-win.txt.
+type: test
+title: aria-hidden-changed expected output for UIA on Windows
+summary: Expected UIA-Win accessibility event output for the aria-hidden-changed test; the file is empty, indicating no events are expected.

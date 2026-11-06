@@ -1,0 +1,4 @@
+# Docerion header of aria-required-changed-expected-mac.txt.
+type: test
+title: aria-required-changed expected results for macOS
+summary: Expected macOS accessibility output for the aria-required-changed test, which is empty apart from a newline.

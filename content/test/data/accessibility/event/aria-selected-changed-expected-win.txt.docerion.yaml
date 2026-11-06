@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-changed-expected-win.txt.
+type: test
+title: aria-selected-changed expected accessibility events for Windows
+summary: Expected Windows accessibility events for the aria-selected-changed test, covering selection, selection-within and state change events on grids and lists.

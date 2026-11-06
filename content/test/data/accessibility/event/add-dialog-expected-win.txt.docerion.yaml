@@ -1,0 +1,4 @@
+# Docerion header of add-dialog-expected-win.txt.
+type: test
+title: Add dialog expected accessibility events for Windows
+summary: Expected Windows accessibility event output for the add-dialog test, recording reorder, show and text-inserted events for the dialog.

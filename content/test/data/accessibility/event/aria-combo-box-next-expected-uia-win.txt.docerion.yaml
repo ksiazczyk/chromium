@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-next-expected-uia-win.txt.
+type: test
+title: aria-combo-box-next expected UIA events on Windows
+summary: Expected UIA accessibility event sequence for the aria-combo-box-next test, tracking selection changes among combobox options.

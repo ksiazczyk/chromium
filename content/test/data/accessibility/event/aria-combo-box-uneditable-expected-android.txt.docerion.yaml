@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-uneditable-expected-android.txt.
+type: test
+title: aria-combo-box-uneditable expected events on Android
+summary: Expected Android accessibility events for the uneditable combobox test, noting content changes on page load and spinner updates.

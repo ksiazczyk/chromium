@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-value-change-expected-auralinux.txt.
+type: test
+title: aria-slider-value-change expected output for Linux
+summary: Expected Linux accessibility event output for the aria slider value change test, listing a VALUE-CHANGED event on a slider role with value 2.

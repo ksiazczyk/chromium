@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-changed-expected-uia-win.txt.
+type: test
+title: aria-atomic changed expected events for UIA on Windows
+summary: Expected UIA accessibility events for the aria-atomic change test, listing AriaProperties-changed notifications on the live region groups.

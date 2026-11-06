@@ -1,0 +1,4 @@
+# Docerion header of aria-level-changed-expected-uia-win.txt.
+type: test
+title: aria-level-changed expected UIA events for Windows
+summary: Expected UIA accessibility events for the aria-level-changed test, listing AriaProperties and Level changes on heading elements.

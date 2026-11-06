@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-and-collapsed-reparenting.html.
+type: test
+title: aria-expanded-and-collapsed-reparenting test page
+summary: HTML test page that toggles aria-expanded on a link while reparenting its toggle text, used to verify accessibility events for expanded and collapsed state changes.

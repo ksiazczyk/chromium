@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-value-change-expected-android.txt.
+type: test
+title: aria-meter-value-change expected output for Android
+summary: Expected Android accessibility event output for the aria-meter value change test, listing window content and progress bar change events.

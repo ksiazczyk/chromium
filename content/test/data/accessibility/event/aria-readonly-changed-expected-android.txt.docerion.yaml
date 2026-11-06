@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-changed-expected-android.txt.
+type: test
+title: Expected Android events for aria-readonly change test
+summary: Expected Android accessibility events when the aria-readonly attribute changes on textarea elements.

@@ -1,0 +1,4 @@
+# Docerion header of add-child-of-body.html.
+type: test
+title: Add child to body accessibility event test page
+summary: HTML test page whose go() function appends a new div with text to the document body to trigger accessibility events.

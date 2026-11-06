@@ -1,0 +1,4 @@
+# Docerion header of aria-level-changed.html.
+type: test
+title: aria-level-changed test page
+summary: HTML test page that sets, changes and removes aria-level on heading elements to verify which changes fire accessibility events.

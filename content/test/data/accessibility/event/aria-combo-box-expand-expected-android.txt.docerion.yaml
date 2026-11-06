@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-expand-expected-android.txt.
+type: test
+title: Expected Android accessibility events for ARIA combo box expand test
+summary: Expected Android accessibility event output for the ARIA combo box expand test, listing events after the initial page load.

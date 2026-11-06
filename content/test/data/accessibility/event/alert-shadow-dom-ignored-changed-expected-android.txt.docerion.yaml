@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-changed-expected-android.txt.
+type: test
+title: Expected Android events for alert shadow DOM ignored changed test
+summary: Expected Android accessibility events for the alert-in-shadow-DOM test, where a live region change is announced.

@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for aria-pressed changes
+summary: Expected Linux AT-SPI state-change events when the aria-pressed attribute changes on toggle button elements.

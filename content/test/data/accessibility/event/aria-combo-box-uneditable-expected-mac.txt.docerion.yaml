@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-uneditable-expected-mac.txt.
+type: test
+title: Expected Mac output for aria-combo-box-uneditable test
+summary: Expected macOS accessibility event output for the uneditable combo box test; the file is effectively empty.

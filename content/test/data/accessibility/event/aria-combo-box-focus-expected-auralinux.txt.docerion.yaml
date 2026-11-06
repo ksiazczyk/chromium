@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-focus-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility events for ARIA combo box focus test
+summary: Expected AuraLinux AT-SPI accessibility events for the ARIA combo box focus test, covering focus, selection and caret changes.

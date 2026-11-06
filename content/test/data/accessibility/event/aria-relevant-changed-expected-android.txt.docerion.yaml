@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-changed-expected-android.txt.
+type: test
+title: Expected Android events for aria-relevant change test
+summary: Expected Android accessibility events when the aria-relevant attribute changes on div elements.

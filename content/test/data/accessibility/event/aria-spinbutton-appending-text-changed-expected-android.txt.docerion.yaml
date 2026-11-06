@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-appending-text-changed-expected-android.txt.
+type: test
+title: Expected Android events for spinbutton text change test
+summary: Expected Android accessibility event output for text and selection changes when text is appended to a spinbutton value.

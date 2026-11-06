@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-valuetext-change-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for spinbutton valuetext change
+summary: Expected UIA events on Windows when a spinbutton's aria-valuetext changes, used to verify Chromium's UIA output.

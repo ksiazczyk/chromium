@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-collapse-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for combobox collapse
+summary: Expected macOS AX notifications for expanded state, focus, and selection changes when an ARIA combobox collapses.

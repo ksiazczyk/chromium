@@ -1,0 +1,4 @@
+# Docerion header of aria-combo-box-focus-expected-uia-win.txt.
+type: test
+title: aria-combo-box-focus expected UIA events on Windows
+summary: Expected UIA accessibility event sequence for the aria-combo-box-focus test, listing focus and selection changes on combobox options.

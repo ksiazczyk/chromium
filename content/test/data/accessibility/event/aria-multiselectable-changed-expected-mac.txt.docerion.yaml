@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-changed-expected-mac.txt.
+type: test
+title: aria-multiselectable-changed expected output for macOS
+summary: Empty expected macOS accessibility event output for the aria-multiselectable change test.

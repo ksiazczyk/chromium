@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-changed-expected-win.txt.
+type: test
+title: Expected Windows MSAA/IA2 accessibility events for aria-checked changes
+summary: Expected Windows EVENT_OBJECT_STATECHANGE events for checkbox, radio, and switch roles when aria-checked changes.

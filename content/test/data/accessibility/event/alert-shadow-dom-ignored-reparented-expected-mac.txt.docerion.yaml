@@ -1,0 +1,4 @@
+# Docerion header of alert-shadow-dom-ignored-reparented-expected-mac.txt.
+type: test
+title: Expected Mac events for shadow DOM reparented alert test
+summary: Expected macOS accessibility events for the alert-shadow-dom-ignored-reparented test, listing AXLiveRegionChanged and AXLiveRegionCreated notifications.

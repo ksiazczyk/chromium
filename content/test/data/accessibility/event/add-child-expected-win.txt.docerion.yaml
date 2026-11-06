@@ -1,0 +1,4 @@
+# Docerion header of add-child-expected-win.txt.
+type: test
+title: Add child expected Windows events
+summary: Expected Windows accessibility reorder, show, and text-inserted events when a third list item is added in the add-child test.
