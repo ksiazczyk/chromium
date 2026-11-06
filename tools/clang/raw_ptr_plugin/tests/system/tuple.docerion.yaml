@@ -1,0 +1,4 @@
+# Docerion header of tuple.
+type: test
+title: Mock std::tuple system header for plugin tests
+summary: Mock std::tuple header used as a system-header fixture for raw_ptr plugin tests.

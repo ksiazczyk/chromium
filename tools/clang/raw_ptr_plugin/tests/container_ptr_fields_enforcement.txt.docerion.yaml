@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_enforcement.txt.
+type: test
+title: Container ptr fields enforcement expected output
+summary: Empty expected-output file, meaning the enforcement test should compile without any diagnostics.

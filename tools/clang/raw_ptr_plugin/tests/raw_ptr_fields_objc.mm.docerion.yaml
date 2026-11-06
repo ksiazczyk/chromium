@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_objc.mm.
+type: test
+title: Raw ptr fields check for Objective-C synthesized properties
+summary: Tests that the raw ptr plugin excludes Objective-C fields synthesized via @synthesize from the raw pointer field check.

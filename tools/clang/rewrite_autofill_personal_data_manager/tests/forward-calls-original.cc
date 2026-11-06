@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Forward-calls original input test fixture
+// summary: Input fixture for the clang rewriter test containing unrewritten bar() calls on Foo and related classes, used to verify the rewrite matches the expected output.
+// ---
+
 class Foo {
  public:
   void bar(int x) {}

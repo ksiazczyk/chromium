@@ -26,6 +26,12 @@
 // For more details, see the doc here:
 // https://docs.google.com/document/d/1P8wLVS3xueI4p3EAPO4JJP6d1_zVp5SapQB0EW9iHQI/
 
+// ---docerion
+// type: source
+// title: RewriteTemplatedPtrFields Clang Tool Implementation
+// summary: Implements the clang tool that rewrites containers of raw pointer fields into raw_ptr<T> and emits node and edge records consumed by extract_edits.py.
+// ---
+
 #include <assert.h>
 
 #include <algorithm>

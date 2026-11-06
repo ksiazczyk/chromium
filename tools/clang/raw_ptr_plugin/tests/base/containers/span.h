@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test span fixture for raw_ptr plugin
+// summary: Minimal mock base::span and raw_span definitions used as a fixture to test the raw_ptr Clang plugin's handling of container-like types.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_CONTAINERS_SPAN_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_CONTAINERS_SPAN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ptr_exclude_stack_allocated test input
+// summary: Test source verifying pointers and references to stack-allocated types are excluded from field checks.
+// ---
+
 #include <vector>
 
 struct StackAllocatedType {

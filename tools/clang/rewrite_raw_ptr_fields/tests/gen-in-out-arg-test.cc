@@ -12,6 +12,12 @@
 //
 // To run the test use tools/clang/rewrite_raw_ptr_fields/tests/run_all_tests.py
 
+// ---docerion
+// type: test
+// title: In-out argument field filter test input
+// summary: Test input verifying that fields passed via in-out pointer or reference arguments are emitted in the field filter output.
+// ---
+
 namespace my_namespace {
 
 class SomeClass;

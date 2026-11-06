@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Affected expressions in system header test - original input
+// summary: Input for the system-header test that uses dlfcn.h to check expressions on non-Chromium fields are left untouched by the rewriter.
+// ---
+
 #include <stdint.h>
 
 // WARNING: This test uses a platform-specific system header.  This means that

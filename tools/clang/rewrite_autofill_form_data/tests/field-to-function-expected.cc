@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field-to-function expected output fixture
+// summary: Expected result of the field-to-function rewrite test, showing how FormFieldData value reads and writes should be transformed into value() and set_value() calls.
+// ---
+
 #include <string>
 #include <vector>
 

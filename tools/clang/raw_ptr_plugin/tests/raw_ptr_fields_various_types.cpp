@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ptr and raw ref field checks for various types
+// summary: Covers the raw ptr and raw ref field checks across many field types, marking which declarations should produce errors and which are allowed.
+// ---
+
 #include <cstdint>
 #include <string>
 #include <vector>

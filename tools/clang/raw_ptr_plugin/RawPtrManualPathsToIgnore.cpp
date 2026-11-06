@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual ignore paths for raw_ptr field rewriting
+// summary: Defines the list of path patterns manually excluded from raw_ptr<T> field rewriting and appends them to the ignore list via AddManualPathsToIgnore.
+// ---
+
 #include "RawPtrManualPathsToIgnore.h"
 
 namespace raw_ptr_plugin {

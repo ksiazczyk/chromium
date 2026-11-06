@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclude_fields.exclude.
+type: test
+title: Excluded fields list for container_raw_ptr_exclude_fields
+summary: Lists MyClass::excluded_ptr_ctn_field as a field exempt from the raw pointer container check.

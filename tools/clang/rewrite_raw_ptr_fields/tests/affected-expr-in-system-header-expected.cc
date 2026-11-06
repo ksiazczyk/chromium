@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Affected expressions in system header test - expected output
+// summary: Expected result verifying that fields from system headers such as Dl_info::dli_fbase are not rewritten and their expressions stay unchanged.
+// ---
+
 #include <stdint.h>
 
 // WARNING: This test uses a platform-specific system header.  This means that

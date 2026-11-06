@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Separate repository path list
+// summary: Lists directory paths belonging to separate git repositories that are excluded from the raw_ptr plugin's checks.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_SEPARATEREPOSITORYPATHS_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_SEPARATEREPOSITORYPATHS_H_
 

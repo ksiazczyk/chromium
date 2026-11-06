@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclusion.flags.
+type: test
+title: Flags for the container raw_ptr exclusion test
+summary: Clang plugin arguments enabling the container check and pointing to the plugin YAML config for the exclusion test case.

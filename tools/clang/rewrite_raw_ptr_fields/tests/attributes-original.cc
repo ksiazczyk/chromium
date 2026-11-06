@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Attributes test - original input
+// summary: Input for the attributes test with GUARDED_BY-annotated pointer, reference, and span fields that the rewriter must handle correctly.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Container-like classes original input
+// summary: Input fixture with a container-like List class using vector<int*> that should be rewritten to raw_ptr and support range-for loops.
+// ---
+
 #include <vector>
 
 class List {

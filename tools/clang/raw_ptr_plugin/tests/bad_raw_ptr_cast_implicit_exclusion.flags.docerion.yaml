@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_implicit_exclusion.flags.
+type: test
+title: Bad raw_ptr cast implicit exclusion test flags
+summary: Plugin flags configuring the excluded function, constructor, and path allowlists for the implicit cast exclusion test.

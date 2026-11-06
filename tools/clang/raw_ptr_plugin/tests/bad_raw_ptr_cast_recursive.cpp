@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for recursive detection of casting-unsafe types
+// summary: Plugin test source verifying that casts are rejected for types that transitively reach a raw_ptr field through other structs.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 struct A;

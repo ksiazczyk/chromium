@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_in_stack_allocated.txt.
+type: test
+title: Expected output for raw_ptr_in_stack_allocated test
+summary: Empty expected diagnostics file for the raw_ptr_in_stack_allocated test, indicating no errors should be reported.

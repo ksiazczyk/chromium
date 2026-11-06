@@ -1,0 +1,4 @@
+# Docerion header of memory.
+type: test
+title: Faux std::memory system header test fixture
+summary: Faux std::memory header defining shared_ptr and its std::atomic partial specialization for raw_ptr plugin system-header tests.

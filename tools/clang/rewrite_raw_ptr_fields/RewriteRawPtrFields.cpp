@@ -25,6 +25,12 @@
 // For more details, see the doc here:
 // https://docs.google.com/document/d/1chTvr3fSofQNV_PDPEHRyUgcJCQBgTDOOBriW9gIm9M
 
+// ---docerion
+// type: source
+// title: Clang tool to rewrite raw pointer fields into raw_ptr<T>
+// summary: Implements a clang tool that rewrites raw pointer fields into raw_ptr<T> in two passes, emitting fields to exclude and edit/replacement directives.
+// ---
+
 #include <assert.h>
 
 #include <algorithm>

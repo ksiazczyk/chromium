@@ -12,6 +12,12 @@
 //
 // To run the test use tools/clang/rewrite_raw_ptr_fields/tests/run_all_tests.py
 
+// ---docerion
+// type: test
+// title: Test input with overlapping field declaration ranges
+// summary: Test input verifying that pointer and reference fields with overlapping replacement ranges, including non-free-standing struct definitions, become field filter candidates.
+// ---
+
 namespace my_namespace {
 
 class SomeClass {

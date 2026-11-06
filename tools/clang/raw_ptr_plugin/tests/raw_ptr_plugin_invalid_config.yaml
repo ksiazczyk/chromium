@@ -1,1 +1,7 @@
+# ---docerion
+# type: test
+# title: Invalid config fixture for raw ptr plugin tests
+# summary: Deliberately malformed YAML fixture used to verify the plugin handles an invalid configuration file.
+# ---
+
 ThisIsNotAValidMapping

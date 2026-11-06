@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_basic.flags.
+type: test
+title: Flags for container_ptr_fields_basic test
+summary: Plugin flags enabling stack-allocated and container checks with a YAML config path for the container_ptr_fields_basic test.

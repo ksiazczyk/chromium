@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Affected expressions test - expected output
+// summary: Expected result of the affected-expressions test showing rewritten raw_ptr and raw_ref field uses fixed up with .get() and operator* in auto initializations.
+// ---
+
 #include <stdint.h>  // for uintptr_t
 
 #include <string>

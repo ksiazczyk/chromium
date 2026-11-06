@@ -1,0 +1,4 @@
+# Docerion header of span_exclude_fields.exclude.
+type: test
+title: Span exclude fields exclusion list
+summary: Lists MyClass::excluded_span_field as a field to exclude from the plugin's span field checks in the span_exclude_fields test.

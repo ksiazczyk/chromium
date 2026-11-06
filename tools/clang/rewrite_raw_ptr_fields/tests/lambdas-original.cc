@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lambdas test - original input
+// summary: Original source with lambdas and nested structs used to test that only nested struct fields get rewritten.
+// ---
+
 #include "base/containers/span.h"
 
 class MyClass {

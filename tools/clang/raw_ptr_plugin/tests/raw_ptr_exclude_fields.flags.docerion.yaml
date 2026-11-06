@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_fields.flags.
+type: test
+title: Flags for the raw ptr exclude fields test
+summary: Clang plugin arguments enabling raw-ptr and raw-ref field checks and pointing to the field exclusion list.

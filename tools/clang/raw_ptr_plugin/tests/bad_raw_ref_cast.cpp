@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bad raw_ref cast test cases
+// summary: Test source exercising forbidden casts of raw_ref and wrapper types via static, C-style, reinterpret, bit_cast and implicit casts.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 struct RawRefWrapper {

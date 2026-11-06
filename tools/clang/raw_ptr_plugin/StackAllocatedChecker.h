@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackAllocatedChecker declaration
+// summary: Declares StackAllocatedPredicate and StackAllocatedChecker, which verify correct usage of classes annotated with STACK_ALLOCATED().
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_STACKALLOCATEDCHECKER_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_STACKALLOCATEDCHECKER_H_
 

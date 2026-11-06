@@ -1,0 +1,4 @@
+# Docerion header of gen-overlapping-expected.txt.
+type: test
+title: Expected rewriter output for overlapping replacement ranges
+summary: Expected edits and field filter entries for the gen-overlapping test, listing fields with overlapping replacement ranges that should be ignored.

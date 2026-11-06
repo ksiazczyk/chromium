@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast.txt.
+type: test
+title: Bad raw_ptr cast test expected errors
+summary: Expected plugin diagnostics for the bad_raw_ptr_cast test, listing the errors and notes emitted for each disallowed cast of casting-unsafe types.

@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclude_paths.txt.
+type: test
+title: Container raw ptr exclude paths expected output
+summary: Empty expected-output file for the container raw ptr exclude paths plugin test case.

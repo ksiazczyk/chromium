@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Variable declaration rewrite tests, expected output
+// summary: Expected result of rewriting variable declarations that copy, reference or iterate over vector-of-raw-pointer members.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_stack_allocated.txt.
+type: test
+title: Expected diagnostics for the raw_ptr-to-stack-allocated test
+summary: Expected compiler output listing the chromium-raw-ptr-to-stack-allocated errors that the plugin should emit for the matching test source.

@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_basic.flags.
+type: test
+title: Flags for the basic raw pointer fields test
+summary: Compiler and plugin flags enabling raw pointer and raw reference field checks for the basic fields test.

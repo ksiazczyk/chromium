@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Expected output for typedef and type alias rewriting
+// summary: Expected rewriter output for pointer fields declared via typedefs and type aliases, including shallow rewrite cases.
+// ---
+
 #include <optional>
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test cases for bad raw_ptr casts across Clang cast kinds
+// summary: Chromium raw_ptr plugin test source exercising bit casts, lvalue casts, bit_cast, and pointer-integral casts on raw_ptr wrappers.
+// ---
+
 #include <cstdint>
 
 #include "base/memory/raw_ptr.h"

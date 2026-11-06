@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclude_fields.flags.
+type: test
+title: Plugin flags for container_raw_ptr_exclude_fields test
+summary: Compiler flags enabling the exclude-fields list and the plugin config for this test case.

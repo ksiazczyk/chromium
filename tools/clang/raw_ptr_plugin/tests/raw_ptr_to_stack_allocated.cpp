@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test source for the raw_ptr-to-stack-allocated plugin check
+// summary: C++ test input exercising the plugin check that forbids raw_ptr and raw_ref on stack-allocated types in typedefs, fields and variables, including vector-wrapped cases.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

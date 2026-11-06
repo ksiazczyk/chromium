@@ -1,0 +1,4 @@
+# Docerion header of unordered_set.
+type: test
+title: Mock std::unordered_set system header for plugin tests
+summary: Mock std::unordered_set header used as a system-header fixture for raw_ptr plugin tests.

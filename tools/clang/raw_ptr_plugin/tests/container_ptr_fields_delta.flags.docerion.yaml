@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_delta.flags.
+type: test
+title: Container ptr fields delta test plugin flags
+summary: Clang plugin flags for the delta test, passing its container_ptr_fields_delta.yaml config to the raw_ptr_plugin.

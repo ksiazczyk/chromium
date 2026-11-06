@@ -1,0 +1,4 @@
+# Docerion header of rewrite-multiple-platforms.sh.
+type: script
+title: Multi-Platform Rewrite Runner Script
+summary: Builds and tests the rewriter, then runs it over linux, android, chromeos, win, and mac build configurations and applies the generated edits.

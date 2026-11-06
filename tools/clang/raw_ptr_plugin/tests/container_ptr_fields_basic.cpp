@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Container pointer field checks test
+// summary: Test source checking that containers of raw pointers to non-stack-allocated types are flagged while maps and const char* are excluded.
+// ---
+
 #include <deque>
 #include <list>
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclusion.txt.
+type: test
+title: raw_ptr_exclusion expected errors
+summary: Expected diagnostics listing five errors for fields lacking the RAW_PTR_EXCLUSION annotation.

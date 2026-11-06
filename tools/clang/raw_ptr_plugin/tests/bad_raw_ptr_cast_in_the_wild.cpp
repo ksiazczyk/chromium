@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ptr cast in-the-wild examples test
+// summary: Test containing real-world examples of bad raw_ptr casts, such as initialization from buffers and struct reinterpretation, cited from a design document.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 // Real examples of bad casting, cited from here.

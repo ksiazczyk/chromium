@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Input for function declaration rewrite tests
+// summary: Original C++ input covering function declarations, virtual methods and overrides with std::vector<S*> parameters to verify declaration rewrites.
+// ---
+
 #include <vector>
 
 struct S {};

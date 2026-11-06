@@ -1,0 +1,4 @@
+# Docerion header of fields-to-ignore.txt.
+type: test
+title: Fields-to-ignore list for the rewriter test
+summary: Test fixture listing fully namespace-qualified fields to exclude via the --exclude-fields parameter of the rewrite_raw_ptr_fields tool.

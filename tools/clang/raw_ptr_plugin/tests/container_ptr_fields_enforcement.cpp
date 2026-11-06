@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Container ptr fields enforcement test source
+// summary: Test source expecting no diagnostics because MyOtherContainer is not listed in the config's included types.
+// ---
+
 template <typename T>
 struct MyOtherContainer {};
 

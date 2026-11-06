@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test source with the stack-allocated check error disabled
+// summary: C++ test input mirroring the stack-allocated test but run with the check's error reporting disabled, so no diagnostics are expected.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

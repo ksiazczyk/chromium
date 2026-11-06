@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ptr and raw ref field exclusion test input
+// summary: Test input verifying that fields listed in the exclusion file are skipped while other raw pointer and reference fields produce errors.
+// ---
+
 class SomeClass {};
 
 class MyClass {

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build config for the rewrite_autofill_personal_data_manager tool
+# summary: Defines the LLVM and Clang library dependencies and install rule for building the rewrite_autofill_personal_data_manager executable.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

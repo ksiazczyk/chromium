@@ -1,0 +1,4 @@
+# Docerion header of string.
+type: test
+title: Mock std::string system header for plugin tests
+summary: Mock std::basic_string header used as a system-header fixture for raw_ptr plugin tests.

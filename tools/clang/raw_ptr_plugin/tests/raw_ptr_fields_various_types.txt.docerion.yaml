@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_various_types.txt.
+type: test
+title: Expected plugin errors for raw_ptr_fields_various_types
+summary: Lists the expected chromium-rawptr and chromium-rawref diagnostics emitted when the matching test source is compiled.

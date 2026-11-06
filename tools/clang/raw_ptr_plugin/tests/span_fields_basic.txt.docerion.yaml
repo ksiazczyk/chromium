@@ -1,0 +1,4 @@
+# Docerion header of span_fields_basic.txt.
+type: test
+title: Span fields basic expected output
+summary: Expected compiler error output listing 22 raw_span diagnostics for the span_fields_basic test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for rewriting fields of various types
+// summary: Expected rewriter output covering bool, void, template, function-pointer and integer-spelling pointer field cases.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

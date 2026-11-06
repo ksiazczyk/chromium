@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_enforcement.flags.
+type: test
+title: Container ptr fields enforcement test plugin flags
+summary: Plugin flags enabling container checks and pointing the plugin at the shared raw_ptr_plugin_config.yaml.

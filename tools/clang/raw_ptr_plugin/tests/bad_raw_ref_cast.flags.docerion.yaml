@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ref_cast.flags.
+type: test
+title: Flags for bad_raw_ref_cast test
+summary: Compiler and plugin flags used to run the bad_raw_ref_cast test with the bad-raw-ptr-cast check enabled.

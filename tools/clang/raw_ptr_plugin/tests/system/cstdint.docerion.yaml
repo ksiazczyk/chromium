@@ -1,0 +1,4 @@
+# Docerion header of cstdint.
+type: test
+title: Faux cstdint system header test fixture
+summary: Faux cstdint header defining fixed-width integer type aliases such as uintptr_t and uint32_t for raw_ptr plugin system-header tests.

@@ -1,0 +1,4 @@
+# Docerion header of span_exclude_fields.txt.
+type: test
+title: Span exclude fields expected output
+summary: Expected compiler error output for the span_exclude_fields test, reporting one raw_span diagnostic.

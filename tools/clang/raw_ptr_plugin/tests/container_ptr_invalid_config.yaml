@@ -1,3 +1,9 @@
+# ---docerion
+# type: test
+# title: Invalid plugin config for container_ptr_invalid_config test
+# summary: Deliberately invalid plugin config that sets both included_types and excluded_types while override_defaults is enabled.
+# ---
+
 check_raw_ptr_in_container:
   enabled: true
   override_defaults: true # Wipes out default STL containers completely

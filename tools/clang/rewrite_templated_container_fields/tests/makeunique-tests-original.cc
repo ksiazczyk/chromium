@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Input for make_unique rewrite tests
+// summary: Original C++ input exercising std::make_unique construction with std::vector<S*> arguments to verify rewrites against the expected output.
+// ---
+
 #include <memory>
 #include <vector>
 

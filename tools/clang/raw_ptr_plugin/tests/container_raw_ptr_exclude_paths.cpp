@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Container raw pointer test with excluded paths
+// summary: Declares a container field with a raw pointer that should not be flagged because its path is excluded.
+// ---
+
 #include <list>
 
 class SomeClass {};

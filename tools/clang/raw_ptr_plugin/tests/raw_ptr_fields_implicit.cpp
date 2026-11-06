@@ -6,6 +6,12 @@
 // of implicit template instantiations (the error is reported for the
 // template), of classes nested in them, and of lambdas.
 
+// ---docerion
+// type: test
+// title: Implicit template instantiation fields test source
+// summary: C++ test input verifying that fields from implicit template instantiations, nested classes and lambdas are reported once or not at all.
+// ---
+
 class SomeClass;
 
 template <typename T>

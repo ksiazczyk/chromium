@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_implicit_exclusion.txt.
+type: test
+title: Bad raw_ptr cast implicit exclusion expected errors
+summary: Expected diagnostics for the implicit exclusion test, showing the four casts that still produce errors while excluded cases pass silently.

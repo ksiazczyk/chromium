@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Basics original test input for raw_ptr field rewriter
+// summary: Test input with pointer, reference and span fields annotated with the expected raw_ptr, raw_ref and raw_span rewrites.
+// ---
+
 #include <cstdint>
 #include <map>
 #include <optional>

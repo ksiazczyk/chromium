@@ -1,0 +1,4 @@
+# Docerion header of test.py.
+type: test
+title: Raw ptr plugin test harness
+summary: Python test runner that executes the raw-ptr-plugin on test cases with adjusted clang arguments and compares actual against expected results.

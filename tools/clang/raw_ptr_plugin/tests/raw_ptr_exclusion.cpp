@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: raw_ptr_exclusion test input
+// summary: Test source verifying RAW_PTR_EXCLUSION annotated fields are skipped while unannotated fields are flagged.
+// ---
+
 #include "base/memory/raw_ptr_exclusion.h"
 
 #include "base/containers/span.h"

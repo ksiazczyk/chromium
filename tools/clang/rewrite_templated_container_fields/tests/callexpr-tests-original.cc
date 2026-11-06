@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Call expression tests original input
+// summary: Input fixture with call expressions passing vector<S*> members that should propagate rewrites to function parameters.
+// ---
+
 #include <vector>
 
 struct S {};

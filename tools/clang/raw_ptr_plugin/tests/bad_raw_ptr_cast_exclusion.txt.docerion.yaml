@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_exclusion.txt.
+type: test
+title: Bad raw_ptr cast exclusion expected empty output
+summary: Empty expected-output file indicating the cast exclusion test should compile without any plugin diagnostics.

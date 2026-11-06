@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field filter file test input
+// summary: Original test input used with a field filter file to check that blocklisted fields stay unrewritten across namespaces and templates.
+// ---
+
 #include "base/containers/span.h"
 
 class SomeClass;

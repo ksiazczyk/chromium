@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test input exercising pointer arithmetic on fields
+// summary: Test input verifying that fields used in pointer arithmetic operations such as plus, minus, increment, decrement and subscript are emitted as field filter candidates.
+// ---
+
 namespace my_namespace {
 
 struct MyStruct {

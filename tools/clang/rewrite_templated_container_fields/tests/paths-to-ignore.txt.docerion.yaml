@@ -1,0 +1,4 @@
+# Docerion header of paths-to-ignore.txt.
+type: test
+title: Path filter regexes for excluded paths
+summary: Regex list passed via --override-exclude-paths to exercise excluding matching source paths from the rewriting tests.

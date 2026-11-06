@@ -1,0 +1,4 @@
+# Docerion header of unordered_map.
+type: test
+title: Mock std::unordered_map system header for plugin tests
+summary: Mock std::unordered_map header used as a system-header fixture for raw_ptr plugin tests.

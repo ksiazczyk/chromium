@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_in_the_wild.txt.
+type: test
+title: Expected plugin diagnostics for bad_raw_ptr_cast_in_the_wild
+summary: Expected compiler errors and chromium-style plugin notes produced when the bad_raw_ptr_cast_in_the_wild test case is run.

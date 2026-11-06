@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ref_cast.txt.
+type: test
+title: Expected errors for bad_raw_ref_cast test
+summary: Expected plugin diagnostics listing every forbidden cast error emitted when running the bad_raw_ref_cast test.

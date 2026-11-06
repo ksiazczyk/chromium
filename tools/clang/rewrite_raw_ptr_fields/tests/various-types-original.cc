@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Various types test input for raw_ptr field rewriter
+// summary: Test input covering many pointer field kinds (templates, typedefs, integer spellings, function pointers) to verify the raw_ptr field rewriter's expected rewrites.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

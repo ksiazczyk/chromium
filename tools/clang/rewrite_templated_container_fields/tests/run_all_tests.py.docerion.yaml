@@ -1,0 +1,4 @@
+# Docerion header of run_all_tests.py.
+type: test
+title: Test runner for the rewrite_templated_container_fields tool
+summary: Python script that runs the tool's rewriting tests via test_tool.py from the Chromium root after checking build prerequisites.

@@ -1,0 +1,4 @@
+# Docerion header of gen-macros-expected.txt.
+type: test
+title: Expected rewriter output for macro-declared fields
+summary: Expected edits and field filter entries for the gen-macros test, covering pointer and reference fields declared through macros like ElfW and TAILQ_ENTRY.

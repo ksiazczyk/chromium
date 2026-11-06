@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_macro.flags.
+type: test
+title: Flags for the macro fields test
+summary: Compiler flags and macro definitions that configure the raw_ptr plugin and command-line macros for the macro fields test.

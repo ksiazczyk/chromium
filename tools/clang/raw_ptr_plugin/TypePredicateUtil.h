@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type predicate matching utilities
+// summary: Provides the TypePredicate template and MatchResult class for recursively matching Clang types against predicates using induction rules.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_TYPEPREDICATEUTIL_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_TYPEPREDICATEUTIL_H_
 

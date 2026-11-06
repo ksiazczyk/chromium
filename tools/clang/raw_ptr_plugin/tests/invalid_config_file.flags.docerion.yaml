@@ -1,0 +1,4 @@
+# Docerion header of invalid_config_file.flags.
+type: test
+title: Flags for the invalid config file test
+summary: Clang plugin arguments enabling the container check with a path to an invalid YAML config file.

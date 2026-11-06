@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrPlugin class declaration
+// summary: Declares the RawPtrPlugin Clang plugin action class, including AST consumer creation and argument parsing.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRPLUGIN_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRPLUGIN_H_
 

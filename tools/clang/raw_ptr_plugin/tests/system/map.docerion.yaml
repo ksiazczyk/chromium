@@ -1,0 +1,4 @@
+# Docerion header of map.
+type: test
+title: Faux std::map system header test fixture
+summary: Faux std::map and std::less header used as a system-header fixture for raw_ptr plugin tests, declaring minimal container templates.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ptr_cast.h test stub with unsafe raw_ptr cast helpers
+// summary: Test fixture header defining unsafe_raw_ptr static, reinterpret, and bit cast helper functions used to exercise the plugin's cast handling.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_CAST_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_CAST_H_
 

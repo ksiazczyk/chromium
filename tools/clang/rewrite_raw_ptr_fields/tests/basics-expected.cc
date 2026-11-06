@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Basics test - expected output
+// summary: Expected result for the basics test covering rewrites of raw_ptr, raw_ref, and span fields across containers, maps, and optional types.
+// ---
+
 #include <cstdint>
 #include <map>
 #include <optional>

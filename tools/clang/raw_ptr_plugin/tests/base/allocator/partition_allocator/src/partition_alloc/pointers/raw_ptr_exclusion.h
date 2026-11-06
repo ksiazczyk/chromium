@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ptr_exclusion.h test stub defining RAW_PTR_EXCLUSION macro
+// summary: Test fixture header defining the RAW_PTR_EXCLUSION annotation macro that marks fields as excluded from raw_ptr usage enforcement in plugin tests.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_EXCLUSION_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_EXCLUSION_H_
 

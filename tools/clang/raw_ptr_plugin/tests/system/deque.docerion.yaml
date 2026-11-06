@@ -1,0 +1,4 @@
+# Docerion header of deque.
+type: test
+title: Faux std::deque system header test fixture
+summary: Faux std::deque header used as a system-header fixture for raw_ptr plugin tests, declaring a minimal container template.

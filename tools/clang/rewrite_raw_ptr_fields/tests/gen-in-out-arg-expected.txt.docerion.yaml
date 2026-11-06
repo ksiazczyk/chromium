@@ -1,0 +1,4 @@
+# Docerion header of gen-in-out-arg-expected.txt.
+type: test
+title: In-out argument test expected rewriter output
+summary: Expected edits and field filters for the in-out argument test, tagging fields whose addresses or references are passed to functions.

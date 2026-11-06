@@ -1,0 +1,4 @@
+# Docerion header of paths-to-ignore.txt.
+type: test
+title: Paths to ignore regex list for rewrite_raw_ptr_fields tests
+summary: Supplies regex path filters for the --override-exclude-paths option, exercising the rewriter's path exclusion logic in tests.

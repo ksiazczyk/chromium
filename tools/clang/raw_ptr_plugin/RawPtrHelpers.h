@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for raw_ptr plugin filter files and matchers
+// summary: Declares FilterFile and reusable AST matchers for excluding fields, paths, and generated or third-party code.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRHELPERS_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRHELPERS_H_
 

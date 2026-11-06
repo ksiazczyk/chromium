@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_basic.txt.
+type: test
+title: Expected errors for container_ptr_fields_basic test
+summary: Expected diagnostics for the container_ptr_fields_basic test, listing container members that must use raw_ptr instead of raw pointers.

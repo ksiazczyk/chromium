@@ -12,6 +12,12 @@
 //
 // To run the test use tools/clang/rewrite_raw_ptr_fields/tests/run_all_tests.sh
 
+// ---docerion
+// type: test
+// title: Test input with pointer fields in unions
+// summary: Test input verifying that pointer fields inside unions, including nested structs within unions, are emitted as field filter candidates.
+// ---
+
 #include <stdint.h>
 
 namespace my_namespace {

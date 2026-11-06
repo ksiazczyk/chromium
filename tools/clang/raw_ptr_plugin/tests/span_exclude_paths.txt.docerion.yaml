@@ -1,0 +1,4 @@
+# Docerion header of span_exclude_paths.txt.
+type: test
+title: Span exclude paths expected output
+summary: Empty expected output file indicating the span_exclude_paths test should produce no diagnostics.

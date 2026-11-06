@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ptr cast implicit exclusion test
+// summary: Test covering implicit-cast exclusions such as allowlisted functions and constructors, comparisons, template contexts, macro-spelled casts, third-party and filter-file paths.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 struct RawPtrWrapper {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the bad raw_ptr pattern finder entry point
+// summary: Declares the FindBadRawPtrPatterns function that sets up the plugin's cast-detection matchers.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_FINDBADRAWPTRPATTERNS_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_FINDBADRAWPTRPATTERNS_H_
 

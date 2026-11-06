@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic raw pointer and raw reference field test source
+// summary: C++ test input for the raw_ptr plugin that expects errors for raw pointer and raw reference fields in classes, structs and templates.
+// ---
+
 class SomeClass {};
 
 class MyClass {

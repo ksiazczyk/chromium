@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared helpers for raw_ptr plugin matchers
+// summary: Implements FilterFile parsing and shared AST matcher helpers used by the plugin's checks.
+// ---
+
 #include "RawPtrHelpers.h"
 
 #include "StackAllocatedChecker.h"

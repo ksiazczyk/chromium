@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuppressibleDiagnosticBuilder
+// summary: Provides a DiagnosticBuilder wrapper whose destructor can suppress emission of a diagnostic when conditions are not met.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_SUPPRESSIBLEDIAGNOSTICBUILDER_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_SUPPRESSIBLEDIAGNOSTICBUILDER_H_
 

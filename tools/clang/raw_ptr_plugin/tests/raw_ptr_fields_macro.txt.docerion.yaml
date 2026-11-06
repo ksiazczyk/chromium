@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_macro.txt.
+type: test
+title: Expected diagnostics for the macro fields test
+summary: Expected plugin output listing the chromium-rawptr errors expected for macro-spelled fields in the macro test.

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Return statement rewrite tests, expected output
+// summary: Expected result of rewriting return statements that propagate std::vector<const S*> members into raw_ptr-based vectors.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

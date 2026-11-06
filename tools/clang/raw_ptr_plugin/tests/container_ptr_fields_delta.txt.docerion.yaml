@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_delta.txt.
+type: test
+title: Container ptr fields delta expected diagnostics
+summary: Expected compiler errors for the delta test, reporting raw_ptr<T> violations in container template arguments.

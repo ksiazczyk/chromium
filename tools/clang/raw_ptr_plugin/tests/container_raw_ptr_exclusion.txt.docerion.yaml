@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclusion.txt.
+type: test
+title: Expected errors for the container raw_ptr exclusion test
+summary: Expected diagnostics listing the two chromium-containers errors for unexcluded container pointer fields.

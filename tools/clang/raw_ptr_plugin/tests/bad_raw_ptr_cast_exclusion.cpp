@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ptr cast exclusion test for unsafe cast helpers
+// summary: Test verifying that base::unsafe_raw_ptr_static_cast, reinterpret_cast, and bit_cast helpers do not trigger bad-cast errors for casting-unsafe types.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/memory/raw_ptr_cast.h"
 

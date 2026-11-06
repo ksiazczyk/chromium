@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Bad raw_ptr cast pattern matching implementation
+// summary: Implements AST matchers that detect and report casts that can break BackupRefPtr refcounting on raw_ptr and raw_ref types.
+// ---
+
 #include "FindBadRawPtrPatterns.h"
 
 #include <memory>

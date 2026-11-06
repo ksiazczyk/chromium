@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_basic.txt.
+type: test
+title: Expected diagnostics for the basic raw pointer fields test
+summary: Expected plugin output listing the chromium-rawptr and chromium-rawref errors the plugin must emit for the basic fields test.

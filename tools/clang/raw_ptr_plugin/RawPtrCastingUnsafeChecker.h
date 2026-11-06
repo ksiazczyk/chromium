@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Casting-unsafe type predicate for raw_ptr
+// summary: Defines a recursive type predicate that marks types whose casting can break BackupRefPtr refcounting.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRCASTINGUNSAFECHECKER_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRCASTINGUNSAFECHECKER_H_
 

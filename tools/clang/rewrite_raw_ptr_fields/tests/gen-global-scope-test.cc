@@ -12,6 +12,12 @@
 //
 // To run the test use tools/clang/rewrite_raw_ptr_fields/tests/run_all_tests.py
 
+// ---docerion
+// type: test
+// title: Global scope field filter test input
+// summary: Test input verifying the rewriter ignores fields of structs used by global and static variables when generating the field filter output.
+// ---
+
 // Chromium is built with a warning/error that global and static variables
 // may only have trivial destructors.  See also:
 // https://google.github.io/styleguide/cppguide.html#Static_and_Global_Variables

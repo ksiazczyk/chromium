@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_invalid_config.flags.
+type: test
+title: Plugin flags for container_ptr_invalid_config test
+summary: Passes raw-ptr-plugin arguments to check containers using the deliberately invalid config file.

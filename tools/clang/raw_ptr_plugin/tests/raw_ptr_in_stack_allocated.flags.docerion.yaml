@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_in_stack_allocated.flags.
+type: test
+title: Compiler flags for the raw_ptr_in_stack_allocated test
+summary: Provides the plugin flag enabling the raw pointer to stack-allocated check for the matching test.

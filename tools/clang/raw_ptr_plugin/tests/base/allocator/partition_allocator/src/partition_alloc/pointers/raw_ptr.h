@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ptr.h test stub with minimal base::raw_ptr and raw_ref templates
+// summary: Minimal test fixture header providing simplified base::raw_ptr and base::raw_ref class templates used as input for the raw_ptr clang plugin tests.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_stack_allocated.txt.
+type: test
+title: raw_ptr_exclude_stack_allocated expected errors
+summary: Expected diagnostics listing four errors for non-stack-allocated pointer and reference fields.

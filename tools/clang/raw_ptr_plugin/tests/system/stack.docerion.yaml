@@ -1,0 +1,4 @@
+# Docerion header of stack.
+type: test
+title: Mock std::stack system header for plugin tests
+summary: Mock std::stack header used as a system-header fixture for raw_ptr plugin tests.

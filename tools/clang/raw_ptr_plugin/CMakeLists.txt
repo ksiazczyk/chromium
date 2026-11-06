@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build for the raw_ptr clang plugin
+# summary: Compiles the plugin sources directly into clang and registers the plugin's test target.
+# ---
+
 set(plugin_sources
   FindBadRawPtrPatterns.cpp
   RawPtrHelpers.cpp

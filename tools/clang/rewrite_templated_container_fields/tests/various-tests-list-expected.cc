@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Various tests list expected output
+// summary: Expected result of the various tests for std::list containers after the rewrite tool converts element pointers to raw_ptr.
+// ---
+
 #include <algorithm>
 #include <list>
 #include <map>

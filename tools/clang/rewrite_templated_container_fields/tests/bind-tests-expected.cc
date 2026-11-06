@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Bind tests expected output
+// summary: Expected rewriter output for BindOnce and BindRepeating calls passing vector<raw_ptr<int>> members to bound lambdas and methods.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"
