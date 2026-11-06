@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionInfo manifest loading and icon variant parsing implementation
+// summary: Implements loading of extension action information from the manifest, including default icons, titles, popup URLs, default state, and icon variant parsing.
+// ---
+
 #include "extensions/common/api/extension_action/action_info.h"
 
 #include <memory>

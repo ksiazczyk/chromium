@@ -1,0 +1,4 @@
+# Docerion header of sockets_tcp.webidl.
+type: source
+title: chrome.sockets.tcp API WebIDL definitions
+summary: WebIDL definitions for the chrome.sockets.tcp API covering TCP socket creation, properties, TLS version constraints, and receive events.

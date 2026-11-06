@@ -1,0 +1,4 @@
+# Docerion header of mime_handlers.webidl.
+type: reference
+title: mime_types_handler manifest key definition
+summary: WebIDL definition of the mime_types_handler manifest key, mapping MIME types to per-type handler configuration for extensions.

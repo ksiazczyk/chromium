@@ -1,0 +1,4 @@
+# Docerion header of system_display.webidl.
+type: source
+title: system.display API WebIDL definition
+summary: WebIDL definition of the chrome.system.display extension API covering display bounds, modes, layouts, EDID info, and touch calibration.

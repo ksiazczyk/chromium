@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSONFeatureProviderSource class header
+// summary: Declares JSONFeatureProviderSource, which loads and merges JSON dictionaries that define extension features and exposes the parsed dictionary.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_JSON_FEATURE_PROVIDER_SOURCE_H_
 #define EXTENSIONS_COMMON_FEATURES_JSON_FEATURE_PROVIDER_SOURCE_H_
 

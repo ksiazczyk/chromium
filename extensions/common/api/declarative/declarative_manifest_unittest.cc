@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for event rules manifest parsing
+// summary: Unit tests verifying parsing of event_rules manifest entries, covering valid rules and error cases for missing or non-dictionary actions and conditions.
+// ---
+
 #include <utility>
 
 #include "base/test/values_test_util.h"

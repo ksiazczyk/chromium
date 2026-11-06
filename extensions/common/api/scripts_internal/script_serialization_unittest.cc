@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for user script serialization and parsing
+// summary: Unit tests verifying that minimal and maximal serialized user scripts parse into UserScripts with the expected defaults and field values.
+// ---
+
 #include "extensions/common/api/scripts_internal/script_serialization.h"
 
 #include <string_view>

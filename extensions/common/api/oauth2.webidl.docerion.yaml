@@ -1,0 +1,4 @@
+# Docerion header of oauth2.webidl.
+type: source
+title: OAuth2 manifest key definition
+summary: Defines the oauth2 manifest key, specifying client ID and requested scopes for extension OAuth2 authentication.

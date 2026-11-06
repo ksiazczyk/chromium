@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manifest data class declaration
+// summary: Declares BluetoothManifestData, which stores the parsed bluetooth manifest entry, and the BluetoothPermissionRequest struct used for permission checks.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_BLUETOOTH_BLUETOOTH_MANIFEST_DATA_H_
 #define EXTENSIONS_COMMON_API_BLUETOOTH_BLUETOOTH_MANIFEST_DATA_H_
 

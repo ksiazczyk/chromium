@@ -1,0 +1,4 @@
+# Docerion header of printer_provider.webidl.
+type: source
+title: Printer Provider API definition
+summary: Defines the chrome.printerProvider API for extensions that report printers, expose capabilities and handle print job requests.

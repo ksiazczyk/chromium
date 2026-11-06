@@ -1,0 +1,4 @@
+# Docerion header of complex_feature_nocompile.nc.
+type: test
+title: No-compile tests for ComplexFeature descriptors
+summary: No-compile test suite verifying that invalid complex feature descriptors, such as a single child or mismatched children, fail to compile.

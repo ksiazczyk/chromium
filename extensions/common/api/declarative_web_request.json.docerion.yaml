@@ -1,0 +1,4 @@
+# Docerion header of declarative_web_request.json.
+type: source
+title: declarativeWebRequest API schema
+summary: JSON schema for the deprecated chrome.declarativeWebRequest API that intercepts, blocks, or modifies in-flight requests using declarative rules evaluated in the browser.

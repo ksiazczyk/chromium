@@ -1,0 +1,4 @@
+# Docerion header of power.webidl.
+type: source
+title: Power API definition
+summary: Defines the chrome.power API for keeping the system or display awake and reporting user activity on ChromeOS.

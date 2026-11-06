@@ -1,0 +1,4 @@
+# Docerion header of _api_features.override.json.
+type: config
+title: Downstream override file for API features
+summary: Empty customization point that downstream forks can extend to add or modify entries from _api_features.json.

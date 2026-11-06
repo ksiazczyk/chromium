@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_private.webidl.
+type: reference
+title: Private Bluetooth API definitions
+summary: WebIDL definitions for the private chrome.bluetoothPrivate API, covering pairing events and responses, connect results, adapter state and discovery filters.

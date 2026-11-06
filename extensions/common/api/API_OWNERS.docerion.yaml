@@ -1,0 +1,4 @@
+# Docerion header of API_OWNERS.
+type: config
+title: Owners of extension API schema and feature files
+summary: Lists the primary and secondary owners who must review changes to extension API schema and feature files in this directory.

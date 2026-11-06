@@ -1,0 +1,4 @@
+# Docerion header of app_window.webidl.
+type: reference
+title: chrome.app.window API WebIDL definition
+summary: WebIDL definition of the chrome.app.window API describing app window bounds, size constraints, frame options, and window management operations.

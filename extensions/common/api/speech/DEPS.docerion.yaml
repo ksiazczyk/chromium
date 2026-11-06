@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the speech API directory
+summary: Defines include rules for the speech API directory, allowing includes from media/base/limits.h.

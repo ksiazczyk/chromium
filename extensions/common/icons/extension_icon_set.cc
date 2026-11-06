@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionIconSet implementation
+// summary: Implements ExtensionIconSet, which maps icon sizes to file paths and resolves icon lookups with exact, smaller, or bigger size matching plus a size-independent fallback path.
+// ---
+
 #include "extensions/common/icons/extension_icon_set.h"
 
 #include <ostream>

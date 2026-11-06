@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manifest permission class declaration
+// summary: Declares BluetoothManifestPermission, a ManifestPermission holding allowed UUIDs and socket, low-energy and peripheral flags with diff, union and intersect operations.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_BLUETOOTH_BLUETOOTH_MANIFEST_PERMISSION_H_
 #define EXTENSIONS_COMMON_API_BLUETOOTH_BLUETOOTH_MANIFEST_PERMISSION_H_
 

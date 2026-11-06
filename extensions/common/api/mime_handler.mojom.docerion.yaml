@@ -1,0 +1,4 @@
+# Docerion header of mime_handler.mojom.
+type: source
+title: Mime handler Mojo interfaces
+summary: Mojo interface definitions letting mime handler guests read stream information and set PDF plugin attributes and beforeunload behavior.

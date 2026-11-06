@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer manifest data class header
+// summary: Declares UsbPrinterManifestData, the parsed form of the usb_printers manifest entry that stores USB device filters and matches devices against them.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_PRINTER_PROVIDER_USB_PRINTER_MANIFEST_DATA_H_
 #define EXTENSIONS_COMMON_API_PRINTER_PROVIDER_USB_PRINTER_MANIFEST_DATA_H_
 

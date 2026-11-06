@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets manifest permission implementation
+// summary: Implements SocketsManifestPermission, parsing TCP and UDP host patterns from the sockets manifest key and building permission IDs and messages.
+// ---
+
 #include "extensions/common/api/sockets/sockets_manifest_permission.h"
 
 #include <memory>

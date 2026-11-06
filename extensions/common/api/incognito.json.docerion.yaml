@@ -1,0 +1,4 @@
+# Docerion header of incognito.json.
+type: reference
+title: Incognito manifest key API schema
+summary: JSON API schema defining the incognito manifest key, which configures whether and how an extension runs in incognito mode.

@@ -1,0 +1,4 @@
+# Docerion header of audio.webidl.
+type: reference
+title: chrome.audio API WebIDL definition
+summary: WebIDL definition of the chrome.audio API for querying and controlling audio devices, available only in kiosk mode on ChromeOS.

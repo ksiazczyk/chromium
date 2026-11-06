@@ -1,0 +1,4 @@
+# Docerion header of public_suffix.webidl.
+type: source
+title: chrome.publicSuffix API WebIDL definitions
+summary: Defines the chrome.publicSuffix API for querying the browser's Public Suffix List, including domain encoding options and suffix lookup functions.

@@ -1,0 +1,4 @@
+# Docerion header of dom.json.
+type: source
+title: dom API schema
+summary: JSON schema for the chrome.dom API, exposing openOrClosedShadowRoot so extensions can access an element's open or closed shadow root.

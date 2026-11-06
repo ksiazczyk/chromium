@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manifest handler implementation
+// summary: Implements the manifest handler that parses the bluetooth manifest key into BluetoothManifestData and creates the initial required Bluetooth permission.
+// ---
+
 #include "extensions/common/api/bluetooth/bluetooth_manifest_handler.h"
 
 #include "extensions/common/api/bluetooth/bluetooth_manifest_data.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleFeature unit tests
+// summary: Unit tests for SimpleFeature availability logic across channels, contexts, session types, platforms and manifest versions.
+// ---
+
 #include "extensions/common/features/simple_feature.h"
 
 #include <stddef.h>

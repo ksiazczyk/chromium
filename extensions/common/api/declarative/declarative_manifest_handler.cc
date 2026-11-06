@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rules manifest handler implementation
+// summary: Implements the manifest handler that parses the event_rules manifest key and stores the resulting DeclarativeManifestData on the extension.
+// ---
+
 #include "extensions/common/api/declarative/declarative_manifest_handler.h"
 
 #include "extensions/common/api/declarative/declarative_manifest_data.h"

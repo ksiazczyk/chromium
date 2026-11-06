@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionFeature class header
+// summary: Declares PermissionFeature, a SimpleFeature subclass that gates availability on an extension holding the corresponding API permission.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_PERMISSION_FEATURE_H_
 #define EXTENSIONS_COMMON_FEATURES_PERMISSION_FEATURE_H_
 

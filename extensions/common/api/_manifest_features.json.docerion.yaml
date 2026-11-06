@@ -1,0 +1,4 @@
+# Docerion header of _manifest_features.json.
+type: config
+title: Extension manifest key feature definitions
+summary: Defines which manifest keys are available to extension types, with channel, platform and allowlist restrictions.

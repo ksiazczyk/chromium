@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Behavior feature name constants
+// summary: Defines string constants for keys in the _behavior_features.json file, such as zoom_without_bubble and signin_screen.
+// ---
+
 #include "extensions/common/features/behavior_feature.h"
 
 namespace extensions {

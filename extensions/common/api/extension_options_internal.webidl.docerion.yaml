@@ -1,0 +1,4 @@
+# Docerion header of extension_options_internal.webidl.
+type: source
+title: extensionOptionsInternal API definitions
+summary: Internal WebIDL API for the extension options tag, defining load, close, and preferred size change events and their listener types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manifest permission implementation
+// summary: Implements BluetoothManifestPermission, parsing UUIDs plus socket, low-energy and peripheral flags from the manifest and checking Bluetooth permissions.
+// ---
+
 #include "extensions/common/api/bluetooth/bluetooth_manifest_permission.h"
 
 #include <memory>

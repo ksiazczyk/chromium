@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionIconVariant class header
+// summary: Declares the ExtensionIconVariant class representing one icon variant with an any-size path, color schemes, size-to-resource entries, and parse diagnostics.
+// ---
+
 #ifndef EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_VARIANT_H_
 #define EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_VARIANT_H_
 

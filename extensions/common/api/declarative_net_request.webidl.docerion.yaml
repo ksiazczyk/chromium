@@ -1,0 +1,4 @@
+# Docerion header of declarative_net_request.webidl.
+type: source
+title: declarativeNetRequest API type definitions
+summary: WebIDL definitions for the declarativeNetRequest extension API, covering rule, condition, and action types for blocking, redirecting, and modifying network requests.

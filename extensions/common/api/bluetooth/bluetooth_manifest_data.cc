@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manifest data implementation
+// summary: Implements BluetoothManifestData, the parsed form of the bluetooth manifest entry, with static checks for request, socket, low-energy and peripheral permissions.
+// ---
+
 #include "extensions/common/api/bluetooth/bluetooth_manifest_data.h"
 
 #include <memory>

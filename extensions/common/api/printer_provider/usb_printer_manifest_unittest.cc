@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB printer manifest unit tests
+// summary: Unit tests verifying that usb_printers manifest filters parse correctly and that specifying both productId and interfaceClass yields an error.
+// ---
+
 #include "extensions/common/api/printer_provider/usb_printer_manifest_data.h"
 #include "extensions/common/manifest_test.h"
 #include "services/device/public/mojom/usb_enumeration_options.mojom.h"

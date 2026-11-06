@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TTS engine manifest handler
+// summary: Unit tests verifying validation of tts_engine manifest data, covering invalid voices, sample rates, buffer sizes, and valid configurations.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "extensions/common/api/speech/tts_engine_manifest_handler.h"
 #include "extensions/common/manifest_constants.h"

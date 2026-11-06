@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFeature class header
+// summary: Declares SimpleFeature and its static configuration structs, defining immutable feature data such as allowlists, dependencies, extension types, and channels.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_SIMPLE_FEATURE_H_
 #define EXTENSIONS_COMMON_FEATURES_SIMPLE_FEATURE_H_
 

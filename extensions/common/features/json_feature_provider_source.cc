@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON feature provider source implementation
+// summary: Loads JSON feature dictionaries from bundled resources, rejects duplicate keys, and merges the values into the provider's dictionary.
+// ---
+
 #include "extensions/common/features/json_feature_provider_source.h"
 
 #include "base/json/json_reader.h"

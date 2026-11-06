@@ -1,0 +1,4 @@
+# Docerion header of web_request_internal.json.
+type: reference
+title: Web request internal API schema
+summary: JSON schema for the internal webRequestInternal API used to implement webRequest event listeners and to report responses for blocked events.

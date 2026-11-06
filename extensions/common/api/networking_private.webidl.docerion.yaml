@@ -1,0 +1,4 @@
+# Docerion header of networking_private.webidl.
+type: source
+title: Networking Private API type definitions
+summary: Defines enums, managed property dictionaries and APN property types for the networkingPrivate extension API.

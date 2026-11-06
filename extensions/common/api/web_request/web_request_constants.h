@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest shared constants header
+// summary: Declares event name prefixes for webRequest and webview events, context dispatch payload keys, and the header names reserved for extraHeaders listeners.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_WEB_REQUEST_WEB_REQUEST_CONSTANTS_H_
 #define EXTENSIONS_COMMON_API_WEB_REQUEST_WEB_REQUEST_CONSTANTS_H_
 

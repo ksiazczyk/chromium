@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNR manifest handler header
+// summary: Declares the manifest handler that parses and validates the declarativeNetRequest manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_API_DECLARATIVE_NET_REQUEST_DNR_MANIFEST_HANDLER_H_
 #define EXTENSIONS_COMMON_API_DECLARATIVE_NET_REQUEST_DNR_MANIFEST_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionIconVariants class header
+// summary: Declares the ExtensionIconVariants class representing the icon_variants manifest key as a list of icon variants with diagnostics access.
+// ---
+
 #ifndef EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_VARIANTS_H_
 #define EXTENSIONS_COMMON_ICONS_EXTENSION_ICON_VARIANTS_H_
 

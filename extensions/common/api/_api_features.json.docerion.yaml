@@ -1,0 +1,4 @@
+# Docerion header of _api_features.json.
+type: config
+title: Extension API feature definitions
+summary: Defines availability of extension APIs implemented under src/extensions, including contexts, platforms and extension allowlists.

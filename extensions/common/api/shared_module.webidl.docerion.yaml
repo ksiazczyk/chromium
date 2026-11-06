@@ -1,0 +1,4 @@
+# Docerion header of shared_module.webidl.
+type: source
+title: Shared module manifest keys WebIDL definitions
+summary: WebIDL stub namespace defining the import and export manifest keys that extensions use to depend on or provide Shared Modules.

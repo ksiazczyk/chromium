@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionIconVariants implementation
+// summary: Implements parsing of the icon_variants manifest list into individual variants while collecting diagnostics for empty or invalid entries.
+// ---
+
 #include "extensions/common/icons/extension_icon_variants.h"
 
 #include "base/values.h"

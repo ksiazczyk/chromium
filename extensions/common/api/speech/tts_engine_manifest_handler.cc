@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS engine manifest handler implementation
+// summary: Implements parsing and validation of the tts_engine manifest key, covering voice name, language, remote flag, and event types for extension TTS engines.
+// ---
+
 #include "extensions/common/api/speech/tts_engine_manifest_handler.h"
 
 #include <stddef.h>

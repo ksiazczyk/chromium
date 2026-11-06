@@ -1,0 +1,4 @@
+# Docerion header of app_current_window_internal.webidl.
+type: reference
+title: Internal app window API WebIDL definition
+summary: WebIDL definition of the internal current window API used by app windows to manage focus, bounds, fullscreen state, icons, shapes, and related events.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel access interface for the extensions feature system
+// summary: Declares functions to get and set the current release channel seen by the feature system, plus a ScopedCurrentChannel helper for tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_FEATURE_CHANNEL_H_
 #define EXTENSIONS_COMMON_FEATURES_FEATURE_CHANNEL_H_
 

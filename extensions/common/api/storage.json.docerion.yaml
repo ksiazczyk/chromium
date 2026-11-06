@@ -1,0 +1,4 @@
+# Docerion header of storage.json.
+type: source
+title: storage API JSON definition
+summary: JSON schema for the chrome.storage extension API that stores, retrieves, and tracks changes to user data across storage areas.

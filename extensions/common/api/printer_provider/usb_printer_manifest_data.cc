@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer manifest data implementation
+// summary: Implements parsing of the usb_printers manifest entry into USB device filters and checks whether a USB device matches any of them.
+// ---
+
 #include "extensions/common/api/printer_provider/usb_printer_manifest_data.h"
 
 #include <utility>

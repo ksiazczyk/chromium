@@ -1,0 +1,4 @@
+# Docerion header of dns.webidl.
+type: source
+title: dns API definitions
+summary: WebIDL definitions for the chrome.dns API, which resolves a hostname or IP address literal and returns the result code and address.

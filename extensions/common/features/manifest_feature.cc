@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestFeature availability implementation
+// summary: Implements ManifestFeature's context availability check, reporting the feature unavailable when its key is absent from an extension's manifest.
+// ---
+
 #include "extensions/common/features/manifest_feature.h"
 
 #include "base/values.h"

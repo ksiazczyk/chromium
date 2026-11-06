@@ -1,0 +1,4 @@
+# Docerion header of app_runtime.webidl.
+type: reference
+title: chrome.app.runtime API WebIDL definition
+summary: WebIDL definition of the chrome.app.runtime API covering app launch data and sources, kiosk and demo sessions, and AppView embedding requests.

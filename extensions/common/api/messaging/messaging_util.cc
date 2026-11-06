@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization format selection for messaging channels
+// summary: Implements GetSerializationFormat, choosing JSON or structured clone serialization based on channel type and the extension's structured-clone support.
+// ---
+
 #include "extensions/common/api/messaging/messaging_util.h"
 
 #include "base/feature_list.h"

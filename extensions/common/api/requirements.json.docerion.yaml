@@ -1,0 +1,4 @@
+# Docerion header of requirements.json.
+type: source
+title: Requirements manifest key API schema
+summary: JSON schema stub for the 'requirements' manifest key, declaring 3D feature requirements and the deprecated NPAPI plugins option.

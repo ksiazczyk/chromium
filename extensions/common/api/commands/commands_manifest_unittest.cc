@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for parsing the commands manifest key
+// summary: Unit tests verifying that extension manifests with the "commands" key parse correctly, covering browser action, page action and action command shortcuts.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/string_util.h"
 #include "base/strings/utf_string_conversions.h"

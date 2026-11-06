@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for mapping action types to API names and manifest versions
+// summary: Provides test helpers that map action types to JavaScript API names and manifest versions and fetch an extension's ActionInfo of a given type.
+// ---
+
 #include "extensions/common/api/extension_action/action_info_test_util.h"
 
 #include "extensions/common/manifest_constants.h"

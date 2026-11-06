@@ -1,0 +1,4 @@
+# Docerion header of _behavior_features.json.
+type: config
+title: Extension behavior feature definitions
+summary: Defines behavior switches for extensions, mostly allowlists of extension IDs for features such as sign-in screen and zoom.

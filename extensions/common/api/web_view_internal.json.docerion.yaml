@@ -1,0 +1,4 @@
+# Docerion header of web_view_internal.json.
+type: reference
+title: Web view internal API schema
+summary: JSON schema for the internal webViewInternal API backing the webview tag, including zoom modes, browsing data types and capture limits.

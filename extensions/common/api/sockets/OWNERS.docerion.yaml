@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS redirect for the sockets API directory
+summary: Redirects code ownership of the sockets API directory to the OWNERS file of extensions/browser/api/socket.

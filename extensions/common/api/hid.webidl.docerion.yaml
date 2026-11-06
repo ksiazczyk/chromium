@@ -1,0 +1,4 @@
+# Docerion header of hid.webidl.
+type: source
+title: hid extension API definition
+summary: Defines the hid extension API for enumerating HID devices, opening connections, and exchanging input, output, and feature reports.

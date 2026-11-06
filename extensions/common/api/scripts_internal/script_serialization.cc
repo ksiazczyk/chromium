@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script serialization implementation for extensions
+// summary: Implements converting UserScript objects into the scripts_internal API's SerializedUserScript form, covering sources, match patterns, globs, worlds and run locations.
+// ---
+
 #include "extensions/common/api/scripts_internal/script_serialization.h"
 
 #include <optional>

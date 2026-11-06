@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureProvider interface for vending extension features
+// summary: Defines the FeatureProvider interface for looking up features by name, parent and children, plus static accessors for the common provider types.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_FEATURE_PROVIDER_H_
 #define EXTENSIONS_COMMON_FEATURES_FEATURE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNR manifest handler implementation
+// summary: Parses and validates the declarativeNetRequest manifest key, checking permissions, ruleset counts, paths and IDs.
+// ---
+
 #include "extensions/common/api/declarative_net_request/dnr_manifest_handler.h"
 
 #include <set>

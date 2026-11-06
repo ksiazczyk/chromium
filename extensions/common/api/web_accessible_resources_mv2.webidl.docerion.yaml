@@ -1,0 +1,4 @@
+# Docerion header of web_accessible_resources_mv2.webidl.
+type: reference
+title: Web accessible resources MV2 manifest types
+summary: WebIDL stub namespace for the Manifest V2 web_accessible_resources manifest key, listing web accessible paths within the extension package.

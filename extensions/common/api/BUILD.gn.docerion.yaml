@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for extension API code generation
+summary: GN build file defining targets that generate extension API types, JSON strings, mojom bindings and feature files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sockets manifest data implementation
+// summary: Implements SocketsManifestData, the parsed form of the sockets manifest entry, including lookup, request checking, and construction from manifest values.
+// ---
+
 #include "extensions/common/api/sockets/sockets_manifest_data.h"
 
 #include <memory>

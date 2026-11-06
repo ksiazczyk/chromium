@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Externs checker for extension API files
+# summary: Python presubmit checker that flags extension API schema changes whose matching generated Closure extern files were not updated.
+# ---
+
 class ExternsChecker(object):
   _UPDATE_MESSAGE_HDR = 'To update the externs, run:\n'
   _UPDATE_MESSAGE_CMD = (

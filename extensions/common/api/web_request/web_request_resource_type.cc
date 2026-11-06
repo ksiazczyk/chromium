@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest resource type string mapping implementation
+// summary: Implements conversion between WebRequestResourceType enum values and their string names such as main_frame, xmlhttprequest, and websocket.
+// ---
+
 #include "extensions/common/api/web_request/web_request_resource_type.h"
 
 #include <array>

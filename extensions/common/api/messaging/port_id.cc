@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortId implementation for message port identifiers
+// summary: Implements constructors and assignment for PortId, which identifies a port by context token, port number, opener flag, and serialization format.
+// ---
+
 #include "extensions/common/api/messaging/port_id.h"
 
 namespace extensions {

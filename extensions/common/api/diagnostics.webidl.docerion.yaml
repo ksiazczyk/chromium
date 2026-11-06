@@ -1,0 +1,4 @@
+# Docerion header of diagnostics.webidl.
+type: source
+title: diagnostics API definitions
+summary: WebIDL definitions for the chrome.diagnostics API, which sends ICMP packets and reports reply IP and latency for environment diagnostics.

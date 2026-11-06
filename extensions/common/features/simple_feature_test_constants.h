@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleFeature test constants
+// summary: Shared test constants for SimpleFeature tests, providing sample extension IDs and their SHA1 hashes.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURES_SIMPLE_FEATURE_TEST_CONSTANTS_H_
 #define EXTENSIONS_COMMON_FEATURES_SIMPLE_FEATURE_TEST_CONSTANTS_H_
 

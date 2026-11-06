@@ -1,0 +1,4 @@
+# Docerion header of alarms.webidl.
+type: reference
+title: chrome.alarms API WebIDL definition
+summary: WebIDL definition of the chrome.alarms API for scheduling code to run periodically or at a specified time, with alarm creation, lookup, and clearing.

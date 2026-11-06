@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature provider registry implementation
+// summary: Implements the static registry of api, manifest, permission and behavior feature providers, with crash diagnostics for missing lookups.
+// ---
+
 #include "extensions/common/features/feature_provider.h"
 
 #include <functional>

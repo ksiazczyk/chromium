@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.json.
+type: config
+title: Extension API permission features definition
+summary: Defines which extension API permissions are available by release channel, extension type, platform, and extension allowlist for APIs implemented under src/extensions.

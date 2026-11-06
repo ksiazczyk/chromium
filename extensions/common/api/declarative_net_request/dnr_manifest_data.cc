@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNR manifest data implementation
+// summary: Implements storage of and access to static ruleset information parsed from an extension's declarativeNetRequest manifest key.
+// ---
+
 #include "extensions/common/api/declarative_net_request/dnr_manifest_data.h"
 
 #include <utility>

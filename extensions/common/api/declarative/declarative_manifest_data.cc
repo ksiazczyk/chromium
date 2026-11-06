@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rules manifest data implementation
+// summary: Implements DeclarativeManifestData, converting event_rules manifest entries into the internal rule format and mapping the legacy ShowAction instance type.
+// ---
+
 #include "extensions/common/api/declarative/declarative_manifest_data.h"
 
 #include <stddef.h>

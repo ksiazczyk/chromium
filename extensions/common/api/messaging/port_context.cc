@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortContext implementation for frame, worker, and native host ports
+// summary: Implements PortContext factory methods for frame, service worker, and native host contexts, plus scoped crash keys for service worker ports.
+// ---
+
 #include "extensions/common/api/messaging/port_context.h"
 
 #include "base/debug/crash_logging.h"

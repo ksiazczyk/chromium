@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleFeature implementation
+// summary: Implements core SimpleFeature logic for extension features, covering allowlists, channels, platforms, manifest versions, and availability checks with developer-facing error messages.
+// ---
+
 #include "extensions/common/features/simple_feature.h"
 
 #include <algorithm>

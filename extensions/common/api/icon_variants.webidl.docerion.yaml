@@ -1,0 +1,4 @@
+# Docerion header of icon_variants.webidl.
+type: source
+title: icon_variants manifest key definition
+summary: Defines the icon_variants manifest key that lets icon declarations provide dark and light color scheme variants.
