@@ -1,0 +1,4 @@
+# Docerion header of downloadable.js.mock-http-headers.
+type: test
+title: Downloadable.js mock HTTP headers
+summary: Mock HTTP response headers serving downloadable.js as a 200 text/javascript attachment named download-me.exe.

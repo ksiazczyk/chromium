@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie constants header
+// summary: Defines cookie enums for priority, SameSite, effective SameSite, and metrics variants, along with Lax-allow-unsafe time thresholds and sampling constants.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_CONSTANTS_H_
 #define NET_COOKIES_COOKIE_CONSTANTS_H_
 

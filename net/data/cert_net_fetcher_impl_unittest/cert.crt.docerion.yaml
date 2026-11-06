@@ -1,0 +1,4 @@
+# Docerion header of cert.crt.
+type: data
+title: cert.crt
+summary: Mock certificate response body used by CertNetFetcherImpl unit tests.

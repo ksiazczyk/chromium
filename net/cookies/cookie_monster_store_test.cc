@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieMonster store test helpers
+// summary: Implements a mock persistent cookie store and helpers that record store commands for CookieMonster tests.
+// ---
+
 #include "net/cookies/cookie_monster_store_test.h"
 
 #include "base/functional/bind.h"

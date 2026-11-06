@@ -1,0 +1,4 @@
+# Docerion header of root.crl.
+type: test
+title: Root.crl test fixture
+summary: Placeholder certificate revocation list body used by the CertNetFetcherImpl unit tests.

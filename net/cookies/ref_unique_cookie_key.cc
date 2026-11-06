@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefUniqueCookieKey implementation
+// summary: Implements the non-owning RefUniqueCookieKey with Host and Domain factory methods that build a reference-based unique cookie key from partition key, name, domain, path, scheme, and port.
+// ---
+
 #include "net/cookies/ref_unique_cookie_key.h"
 
 #include <compare>

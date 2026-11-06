@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookiePartitionKey fuzzer
+// summary: Fuzz target that checks CookiePartitionKey deserialization and serialization stay consistent for untrusted URL and ancestor chain input.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <string>

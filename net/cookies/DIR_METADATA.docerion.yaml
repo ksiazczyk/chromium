@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for net/cookies
+summary: Directory metadata that mixes in the common metadata file to set tracker components for this folder.

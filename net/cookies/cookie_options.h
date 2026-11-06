@@ -4,6 +4,12 @@
 
 // Brought to you by number 42.
 
+// ---docerion
+// type: source
+// title: CookieOptions
+// summary: Defines CookieOptions controlling cookie access, including SameSite context types, metadata enums and downgrade tracking.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_OPTIONS_H_
 #define NET_COOKIES_COOKIE_OPTIONS_H_
 

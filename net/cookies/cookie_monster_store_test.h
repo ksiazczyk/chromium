@@ -7,6 +7,12 @@
 // that need to test out CookieMonster interactions with the backing store.
 // It should only be included by test code.
 
+// ---docerion
+// type: test
+// title: CookieMonster store test helpers header
+// summary: Declares the mock persistent cookie store, command recording types, and cookie-building helpers for CookieMonster tests.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_MONSTER_STORE_TEST_H_
 #define NET_COOKIES_COOKIE_MONSTER_STORE_TEST_H_
 

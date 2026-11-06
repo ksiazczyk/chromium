@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieStore base implementation
+// summary: Implements default behavior for the CookieStore base class, including access semantics retrieval, deletion helpers, and delegate setup.
+// ---
+
 #include "net/cookies/cookie_store.h"
 
 #include <utility>

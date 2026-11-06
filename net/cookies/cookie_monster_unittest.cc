@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieMonster unit tests
+// summary: Extensive unit tests covering CookieMonster cookie storage, deletion, partitioning, metrics and change notifications.
+// ---
+
 #include "net/cookies/cookie_monster.h"
 
 #include <stdint.h>

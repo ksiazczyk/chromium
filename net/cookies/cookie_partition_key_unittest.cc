@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookiePartitionKey unit tests
+// summary: Unit tests for CookiePartitionKey covering FromStorage, FromUntrustedInput, and partition key behavior across valid and invalid sites.
+// ---
+
 #include "net/cookies/cookie_partition_key.h"
 
 #include <optional>

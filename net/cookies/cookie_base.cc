@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieBase implementation
+// summary: Implements shared cookie logic such as SameSite warning application and inclusion checks used by cookies and cookie-like objects.
+// ---
+
 #include "net/cookies/cookie_base.h"
 
 #include <algorithm>

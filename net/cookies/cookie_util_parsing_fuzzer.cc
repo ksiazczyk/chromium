@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie utility parsing fuzzer
+// summary: LibFuzzer entry point that fuzzes request cookie line parsing and re-serialization through the cookie_util helpers.
+// ---
+
 #include <string>
 
 #include <fuzzer/FuzzedDataProvider.h>

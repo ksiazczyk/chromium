@@ -1,0 +1,4 @@
+# Docerion header of 404.html.
+type: data
+title: 404.html
+summary: Mock HTTP response body served with a 404 status in CertNetFetcherImpl unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookiePartitionKeyCollection unit tests
+// summary: Unit tests for CookiePartitionKeyCollection covering empty, singleton, multi-key, ContainsAll, optional constructor, and Contains behavior.
+// ---
+
 #include "net/cookies/cookie_partition_key_collection.h"
 
 #include "base/run_loop.h"

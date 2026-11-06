@@ -1,0 +1,4 @@
+# Docerion header of CookieSwitches.java.tmpl.
+type: source
+title: CookieSwitches.java.tmpl
+summary: Java template that generates a final class holding constants for the names of cookie switches in Chromium's Android network code.

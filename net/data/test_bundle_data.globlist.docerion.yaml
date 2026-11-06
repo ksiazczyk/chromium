@@ -1,0 +1,4 @@
+# Docerion header of test_bundle_data.globlist.
+type: config
+title: Test bundle data globlist
+summary: Glob patterns defining which net test data files are included when regenerating the test bundle filelist.

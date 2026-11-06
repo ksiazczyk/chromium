@@ -1,0 +1,4 @@
+# Docerion header of redirect_https.
+type: test
+title: Redirect HTTPS test fixture
+summary: Placeholder body returned after the mock HTTPS redirect in the CertNetFetcherImpl unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of certs.p7c.
+type: data
+title: certs.p7c
+summary: Mock PKCS#7 certificate chain response body used by CertNetFetcherImpl unit tests.

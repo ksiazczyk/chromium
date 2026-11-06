@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie change cause gtest printer header
+// summary: Declares the Google Test stream operator used to print CookieChangeCause values in test output.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_CHANGE_DISPATCHER_TEST_HELPERS_H_
 #define NET_COOKIES_COOKIE_CHANGE_DISPATCHER_TEST_HELPERS_H_
 

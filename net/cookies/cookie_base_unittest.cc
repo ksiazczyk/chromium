@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieBase unit tests
+// summary: Unit tests for CookieBase using a TestCookie subclass with a builder to exercise effective SameSite and related behavior.
+// ---
+
 #include "net/cookies/cookie_base.h"
 
 #include <string>

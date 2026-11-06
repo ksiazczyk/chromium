@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieInclusionStatus unit tests
+// summary: Unit tests verifying inclusion status, exclusion and warning reason handling, and third-party phaseout behavior of CookieInclusionStatus.
+// ---
+
 #include "net/cookies/cookie_inclusion_status.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

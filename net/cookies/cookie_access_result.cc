@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessResult implementation
+// summary: Implements constructors, assignment operators, and the destructor for the CookieAccessResult struct.
+// ---
+
 #include "net/cookies/cookie_access_result.h"
 
 #include "net/cookies/cookie_constants.h"

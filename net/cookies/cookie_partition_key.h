@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiePartitionKey
+// summary: Declares the cookie partition key with ancestor chain bit, nonce support, and serialization for persistence and DevTools.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_PARTITION_KEY_H_
 #define NET_COOKIES_COOKIE_PARTITION_KEY_H_
 

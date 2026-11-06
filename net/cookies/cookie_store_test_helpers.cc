@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie store test helpers implementation
+// summary: Implements DelayedCookieMonster and a delayed change dispatcher used to exercise asynchronous cookie store behavior in tests.
+// ---
+
 #include "net/cookies/cookie_store_test_helpers.h"
 
 #include <optional>

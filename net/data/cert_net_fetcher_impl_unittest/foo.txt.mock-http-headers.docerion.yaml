@@ -1,0 +1,4 @@
+# Docerion header of foo.txt.mock-http-headers.
+type: test
+title: Foo.txt mock HTTP headers
+summary: Mock HTTP response headers serving foo.txt as a 200 text/plain response.

@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Hello World test page
+summary: Minimal HTML page included as test data in the net test bundle.

@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: note
+title: Sample valid 2.0 format disk cache test data
+summary: Documents that the sibling data files form a valid 2.0 format disk cache sample and records the test and source patch used to generate them.

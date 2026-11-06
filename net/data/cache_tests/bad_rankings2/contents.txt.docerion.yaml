@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Disk cache bad_rankings2 test fixture description
+summary: Documents the corrupted rankings list in the bad_rankings2 disk cache test data, including the wrong prev pointer and the code used to generate the fixture.

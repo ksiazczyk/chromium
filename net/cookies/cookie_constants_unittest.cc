@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie constants unit tests
+// summary: Unit tests verifying cookie priority and SameSite string conversions, including case insensitivity and handling of unrecognized tokens.
+// ---
+
 #include "net/cookies/cookie_constants.h"
 
 #include <string_view>

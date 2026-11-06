@@ -1,0 +1,4 @@
+# Docerion header of cert.crt.mock-http-headers.
+type: data
+title: cert.crt.mock-http-headers
+summary: Mock HTTP headers returning 200 with application/pkix-cert content type for cert.crt.

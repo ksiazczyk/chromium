@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieMonster performance tests
+// summary: Performance tests measuring parse, add, query, delete, import, key lookup, and garbage collection times for CookieMonster and ParsedCookie operations.
+// ---
+
 #include "net/cookies/cookie_monster.h"
 
 #include <memory>

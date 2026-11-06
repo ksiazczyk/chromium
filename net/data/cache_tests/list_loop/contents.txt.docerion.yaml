@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Disk cache list_loop test data contents
+summary: Text dump describing the index header, entries, and rankings of the list_loop disk cache test fixture, including the code used to generate it.

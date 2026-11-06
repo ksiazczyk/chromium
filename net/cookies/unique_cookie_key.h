@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueCookieKey class declaration
+// summary: Declares the UniqueCookieKey class, whose typed factory methods and default comparisons define unique cookie identity keys with optional partition key, source scheme and port.
+// ---
+
 #ifndef NET_COOKIES_UNIQUE_COOKIE_KEY_H_
 #define NET_COOKIES_UNIQUE_COOKIE_KEY_H_
 

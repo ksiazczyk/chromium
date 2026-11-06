@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie utility unit tests
+// summary: Unit tests covering cookie_util helpers such as request cookie parsing, serialization, and cookie domain computation.
+// ---
+
 #include "net/cookies/cookie_util.h"
 
 #include <algorithm>

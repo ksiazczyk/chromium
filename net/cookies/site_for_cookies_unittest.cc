@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteForCookies unit tests
+// summary: Unit tests verifying SiteForCookies equivalence, first-party matching, representative URLs, and behavior under schemeful and schemeless same-site modes.
+// ---
+
 #include "net/cookies/site_for_cookies.h"
 
 #include <string>

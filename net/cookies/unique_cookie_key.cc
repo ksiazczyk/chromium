@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueCookieKey class implementation
+// summary: Implements the UniqueCookieKey class with Strict, Host, Domain and Legacy factory methods that build cookie identity keys from partition key, name, domain, path, source scheme and port.
+// ---
+
 #include "net/cookies/unique_cookie_key.h"
 
 #include <optional>

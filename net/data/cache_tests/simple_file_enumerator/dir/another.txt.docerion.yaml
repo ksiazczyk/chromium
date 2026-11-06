@@ -1,0 +1,4 @@
+# Docerion header of another.txt.
+type: data
+title: another.txt
+summary: Small plain text fixture containing the word hello, located in the simple file enumerator cache test directory.

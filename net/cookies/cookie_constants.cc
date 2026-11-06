@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie constants implementation
+// summary: Implements conversions between cookie priority and SameSite values and their string forms, plus histogram helpers for SameSite attributes and port ranges.
+// ---
+
 #include "net/cookies/cookie_constants.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiePartitionKeyCollection implementation
+// summary: Implements a collection of cookie partition keys, including containment checks and matching by top-level site.
+// ---
+
 #include "net/cookies/cookie_partition_key_collection.h"
 
 #include <optional>

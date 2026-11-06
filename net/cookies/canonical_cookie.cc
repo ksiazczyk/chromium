@@ -42,6 +42,12 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+// ---docerion
+// type: source
+// title: CanonicalCookie implementation
+// summary: Implements the CanonicalCookie class, including parsing, sanitizing, validation, and comparison of canonical cookies.
+// ---
+
 #include "net/cookies/canonical_cookie.h"
 
 #include <limits>

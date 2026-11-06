@@ -1,0 +1,4 @@
+# Docerion header of test_bundle_data.filelist.
+type: data
+title: Test bundle data filelist
+summary: Generated list of net test data files packaged into the iOS test bundle, maintained by build/ios/update_bundle_filelist.py.

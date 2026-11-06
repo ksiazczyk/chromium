@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieInclusionStatus class header
+// summary: Declares the CookieInclusionStatus class with enums of exclusion, warning, and exemption reasons used for cookie inclusion decisions.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_INCLUSION_STATUS_H_
 #define NET_COOKIES_COOKIE_INCLUSION_STATUS_H_
 

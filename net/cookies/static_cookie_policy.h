@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticCookiePolicy class declaration
+// summary: 'Declares StaticCookiePolicy, a cookie policy with three persisted modes: allow all cookies, block all cookies, or block only third-party cookies.'
+// ---
+
 #ifndef NET_COOKIES_STATIC_COOKIE_POLICY_H_
 #define NET_COOKIES_STATIC_COOKIE_POLICY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of test.txt.
+type: data
+title: Test text fixture
+summary: Plain text fixture containing "hello, world" used by cache tests for the simple file enumerator.

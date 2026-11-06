@@ -1,0 +1,4 @@
+# Docerion header of generate-certs.py.
+type: script
+title: Certificate generator for AIA issuer source unit tests
+summary: Python script that generates root, intermediate, and target test certificates with varying Authority Information Access values for cert issuer source unit tests.

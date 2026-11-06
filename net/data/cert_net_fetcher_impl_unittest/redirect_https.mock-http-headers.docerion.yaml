@@ -1,0 +1,4 @@
+# Docerion header of redirect_https.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect_https test
+summary: Mock HTTP response headers simulating a 302 redirect to an HTTPS location, used as a fixture by the cert net fetcher unit tests.

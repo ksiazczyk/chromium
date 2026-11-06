@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StaticCookiePolicy unit tests
+// summary: Unit tests covering the default, allow-all, block-third-party, and block-all modes of StaticCookiePolicy for first-party and third-party cookie access.
+// ---
+
 #include "net/cookies/static_cookie_policy.h"
 #include "net/base/net_errors.h"
 #include "net/cookies/site_for_cookies.h"

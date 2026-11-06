@@ -1,0 +1,4 @@
+# Docerion header of cacheable_1hr.crt.mock-http-headers.
+type: data
+title: cacheable_1hr.crt.mock-http-headers
+summary: Mock HTTP headers with 200 status, pkix-cert content type and a one-hour Cache-Control for cacheable_1hr.crt.

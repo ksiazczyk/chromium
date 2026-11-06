@@ -1,0 +1,4 @@
+# Docerion header of generate-certs.py.
+type: script
+title: Certificate generator for issuer lookup tests
+summary: Generates a hierarchy of root, intermediate, and end-entity certificates for testing issuer lookup, including intermediates with names equal after normalization or exactly duplicated.

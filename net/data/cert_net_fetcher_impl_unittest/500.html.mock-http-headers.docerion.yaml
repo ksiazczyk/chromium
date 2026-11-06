@@ -1,0 +1,4 @@
+# Docerion header of 500.html.mock-http-headers.
+type: data
+title: 500.html.mock-http-headers
+summary: Mock HTTP headers returning status 500 with text/html content type for the 500.html fixture.

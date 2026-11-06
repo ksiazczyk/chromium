@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieMonsterChangeDispatcher implementation
+// summary: Implements the change dispatcher used by CookieMonster to notify subscribed listeners of cookie changes filtered by URL, name, and partition key.
+// ---
+
 #include "net/cookies/cookie_monster_change_dispatcher.h"
 
 #include <string_view>

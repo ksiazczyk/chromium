@@ -1,0 +1,4 @@
+# Docerion header of test_support_bundle_data.globlist.
+type: config
+title: Test support bundle data globlist
+summary: Glob patterns for QUIC response cache and SSL certificate data used to regenerate the test support bundle filelist.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie deletion info implementation
+// summary: Implements CookieDeletionInfo matching logic that selects cookies for deletion by creation time range, host, name, URL, and domain or IP sets.
+// ---
+
 #include "net/cookies/cookie_deletion_info.h"
 
 #include "net/base/registry_controlled_domains/registry_controlled_domain.h"

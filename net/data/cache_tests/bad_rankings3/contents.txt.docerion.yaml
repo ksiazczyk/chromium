@@ -1,0 +1,4 @@
+# Docerion header of contents.txt.
+type: data
+title: Bad rankings cache test fixture description
+summary: Describes the intentionally corrupted cache index, entries and rankings for the bad_rankings3 disk cache test, including the code sequence that generated the state.

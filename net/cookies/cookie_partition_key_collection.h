@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiePartitionKeyCollection
+// summary: Declares a set of cookie partition keys that can represent a finite key set or match all keys.
+// ---
+
 #ifndef NET_COOKIES_COOKIE_PARTITION_KEY_COLLECTION_H_
 #define NET_COOKIES_COOKIE_PARTITION_KEY_COLLECTION_H_
 

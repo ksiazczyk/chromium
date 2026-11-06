@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parsed cookie unit tests
+// summary: Unit tests verifying ParsedCookie parsing, validity checks, attribute handling, and value string sanitization.
+// ---
+
 #include "net/cookies/parsed_cookie.h"
 
 #include <array>
