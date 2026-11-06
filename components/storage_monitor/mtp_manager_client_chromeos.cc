@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP manager client implementation for ChromeOS
+// summary: Implements MtpManagerClientChromeOS, which tracks attached MTP storages and forwards attach, detach and eject events to StorageMonitor on ChromeOS.
+// ---
+
 #include "components/storage_monitor/mtp_manager_client_chromeos.h"
 
 #include <utility>

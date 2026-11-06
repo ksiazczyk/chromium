@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite Encrypted VFS unit tests
+// summary: Unit tests covering VFS registration, basic database operations, transaction commit and rollback, and reopening databases using the encrypted VFS.
+// ---
+
 #include "components/sqlite_encrypted_vfs/sqlite_encrypted_vfs.h"
 
 #include <string>

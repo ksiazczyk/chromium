@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SSL error classification
+// summary: Tests the classification helpers such as subdomain matching, clock state, and multi-tenant hosting detection using test certificates.
+// ---
+
 #include "components/ssl_errors/error_classification.h"
 
 #include <memory>

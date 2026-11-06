@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media storage utility unit tests
+// summary: Verifies HasDcim detection for mount points with and without a DCIM directory using a test storage monitor.
+// ---
+
 #include <string>
 
 #include "base/files/file_util.h"

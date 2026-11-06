@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge to the Android spell checker session
+// summary: Sends text to the Java-side spell checker via JNI, processes the returned typo results, and forwards them to the renderer on Android.
+// ---
+
 #include "components/spellcheck/browser/spellchecker_session_bridge_android.h"
 
 #include <stddef.h>

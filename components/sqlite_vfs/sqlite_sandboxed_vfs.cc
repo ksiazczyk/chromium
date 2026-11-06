@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqliteSandboxedVfsDelegate implementation
+// summary: Implements the sql::SandboxedVfs delegate that serves registered base::File objects to SQLite in processes that cannot open files directly.
+// ---
+
 #include "components/sqlite_vfs/sqlite_sandboxed_vfs.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiskWriteHelper StrictMode test utility
+// summary: Utility class that performs a disk write in the app data directory to deliberately trigger a StrictMode violation during Android instrumentation tests.
+// ---
+
 package org.chromium.components.strictmode.test.disk_write_helper;
 
 import androidx.core.content.ContextCompat;

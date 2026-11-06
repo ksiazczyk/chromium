@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowsSpellChecker unit tests
+// summary: Unit tests for the WindowsSpellChecker platform implementation, covering spell check requests, per-language suggestions, and retrieval of Windows spellcheck languages.
+// ---
+
 #include "components/spellcheck/browser/windows_spell_checker.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqliteVfsFileSet class header
+// summary: Declares SqliteVfsFileSet, which owns the SandboxedFile files needed by an sql::Database and exposes virtual paths, file handles, and lock abandonment.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_SQLITE_DATABASE_VFS_FILE_SET_H_
 #define COMPONENTS_SQLITE_VFS_SQLITE_DATABASE_VFS_FILE_SET_H_
 

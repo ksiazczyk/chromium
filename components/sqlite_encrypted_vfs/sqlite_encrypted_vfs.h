@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite Encrypted VFS header
+// summary: Declares the SqliteEncryptedVfs singleton class that registers the encrypted VFS with SQLite under the name sqlite_encrypted_vfs.
+// ---
+
 #ifndef COMPONENTS_SQLITE_ENCRYPTED_VFS_SQLITE_ENCRYPTED_VFS_H_
 #define COMPONENTS_SQLITE_ENCRYPTED_VFS_SQLITE_ENCRYPTED_VFS_H_
 

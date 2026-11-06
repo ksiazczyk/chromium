@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SQLite VFS mojom traits
+// summary: Tests serialization round-trips of read-only and read-write PendingFileSet instances across rollback and WAL variants.
+// ---
+
 #include "components/sqlite_vfs/mojom/sqlite_vfs_mojom_traits.h"
 
 #include <ostream>

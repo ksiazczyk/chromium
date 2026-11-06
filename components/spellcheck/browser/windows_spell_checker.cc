@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Windows spell checker implementation
+// summary: Implements the native Windows spell checker using Windows spellcheck APIs, managing per-language checkers on a dedicated COM thread.
+// ---
+
 #include "components/spellcheck/browser/windows_spell_checker.h"
 
 #include <objidl.h>

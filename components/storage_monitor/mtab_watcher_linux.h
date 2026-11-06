@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MtabWatcherLinux header for mtab mount point watching
+// summary: Declares MtabWatcherLinux, which watches the mtab file for mount point changes on Linux and notifies StorageMonitorLinux via a callback.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_MTAB_WATCHER_LINUX_H_
 #define COMPONENTS_STORAGE_MONITOR_MTAB_WATCHER_LINUX_H_
 

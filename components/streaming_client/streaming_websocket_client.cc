@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingWebSocketClient implementation
+// summary: Implements the reusable WebSocket client that keeps a persistent connection and streams binary protobuf messages over Mojo data pipes.
+// ---
+
 #include "components/streaming_client/streaming_websocket_client.h"
 
 #include <limits>

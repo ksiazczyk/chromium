@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform spell checker interface
+// summary: Interface that lets SpellcheckService own a platform-specific spell check object that interacts with native APIs.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_PLATFORM_SPELL_CHECKER_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_PLATFORM_SPELL_CHECKER_H_
 

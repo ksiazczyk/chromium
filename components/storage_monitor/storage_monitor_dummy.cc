@@ -4,6 +4,12 @@
 
 // StorageMonitorDummy implementation.
 
+// ---docerion
+// type: source
+// title: Dummy storage monitor implementation
+// summary: Provides a no-op StorageMonitor implementation for platforms without removable storage monitoring support.
+// ---
+
 #include "components/storage_monitor/storage_monitor.h"
 
 namespace storage_monitor {

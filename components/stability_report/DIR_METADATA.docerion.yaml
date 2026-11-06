@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the stability report component
+summary: Maps the directory to the Internals>CrashReporting monorail component and a Buganizer component ID.

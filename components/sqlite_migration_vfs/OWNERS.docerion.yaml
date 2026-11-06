@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file reusing the sqlite_vfs component owners
+summary: Delegates code ownership review to the components/sqlite_vfs/OWNERS file.

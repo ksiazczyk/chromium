@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for startup_metric_utils
+summary: DIR_METADATA file specifying the Monorail component, team email and Buganizer component used for tracking this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media storage utility implementation
+// summary: Implements helpers for detecting media devices via DCIM directories, filtering attached devices and mapping paths to storage info.
+// ---
+
 #include "components/storage_monitor/media_storage_util.h"
 
 #include <vector>

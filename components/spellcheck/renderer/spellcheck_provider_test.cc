@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck provider test fixtures and fakes
+// summary: Implements fake completion, result, and SpellCheck objects plus a testing provider used by the spellcheck provider unit tests.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_provider_test.h"
 
 #include <memory>

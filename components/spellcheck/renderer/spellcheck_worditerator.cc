@@ -4,6 +4,12 @@
 
 // Implements a custom word iterator used for our spellchecker.
 
+// ---docerion
+// type: source
+// title: Spellcheck word iterator implementation
+// summary: Implements a custom ICU-based word iterator and character attributes that extract spellcheckable words from multi-language text.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_worditerator.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: strictmode DIR_METADATA
+summary: Maps the strictmode directory to the Build monorail component and Buganizer component ID 1456832 for issue tracking.

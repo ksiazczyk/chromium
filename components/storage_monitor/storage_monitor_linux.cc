@@ -4,6 +4,12 @@
 
 // StorageMonitorLinux implementation.
 
+// ---docerion
+// type: source
+// title: Linux storage monitor implementation
+// summary: Implements Linux storage monitoring by reading udev device properties and watching mtab mount points.
+// ---
+
 #include "components/storage_monitor/storage_monitor_linux.h"
 
 #include <mntent.h>

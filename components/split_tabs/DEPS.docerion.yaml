@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Split tabs include dependency rules
+summary: Declares the include rules for the folder, allowing dependencies on components/tab_groups.

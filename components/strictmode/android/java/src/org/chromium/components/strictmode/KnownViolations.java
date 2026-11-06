@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KnownViolations
+// summary: Registers exemptions for known unfixable StrictMode violations across device manufacturers, vendors, and platform versions.
+// ---
+
 package org.chromium.components.strictmode;
 
 import static org.chromium.components.strictmode.Violation.DETECT_DISK_IO;

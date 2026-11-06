@@ -1,0 +1,4 @@
+# Docerion header of storage_monitor_mac.mm.
+type: source
+title: StorageMonitorMac implementation
+summary: Implements the macOS storage monitor using DiskArbitration callbacks to build storage info and track disk attach, remove, and change events.

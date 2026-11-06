@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the stability report component
+summary: Defines the stability report proto, static library, and unit test targets that link into the crashpad handler on Windows, Linux, ChromeOS, and Mac.

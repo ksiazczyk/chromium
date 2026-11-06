@@ -4,6 +4,12 @@
 //
 // TestStorageMonitorWin implementation.
 
+// ---docerion
+// type: test
+// title: TestStorageMonitorWin implementation
+// summary: Implements the Windows test storage monitor that can inject simulated device change events and expose the volume mount watcher for tests.
+// ---
+
 #include "components/storage_monitor/test_storage_monitor_win.h"
 
 #include <utility>

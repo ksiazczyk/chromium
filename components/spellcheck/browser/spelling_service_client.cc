@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client for the remote Google Spelling service
+// summary: Sends text check requests to the Google Spelling service REST endpoint, parses JSON responses, and reports metrics for supported languages.
+// ---
+
 #include "components/spellcheck/browser/spelling_service_client.h"
 
 #include <stddef.h>

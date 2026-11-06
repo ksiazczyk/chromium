@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hunspell spelling engine implementation
+// summary: Implements the Hunspell-based spelling engine that memory-maps a BDict dictionary file and checks spelling and fills suggestion lists.
+// ---
+
 #include "components/spellcheck/renderer/hunspell_engine.h"
 
 #include <stddef.h>

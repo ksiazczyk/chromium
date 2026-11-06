@@ -6,6 +6,12 @@
 // from multi-language text. This class is used for filtering out characters
 // not supported by our spellchecker.
 
+// ---docerion
+// type: source
+// title: Spellcheck word iterator declarations
+// summary: Declares SpellcheckCharAttribute and SpellcheckWordIterator classes that enumerate words supported by the spellchecker.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_WORDITERATOR_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_WORDITERATOR_H_
 

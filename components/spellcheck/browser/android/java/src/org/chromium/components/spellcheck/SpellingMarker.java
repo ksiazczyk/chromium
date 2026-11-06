@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellingMarker value class for spelling and grammar markers
+// summary: Java value object representing a spelling or grammar marker with start and end offsets and a Decoration type constant that mirrors the C++ spellcheck::Decoration enum.
+// ---
+
 package org.chromium.components.spellcheck;
 
 import org.chromium.build.annotations.NullMarked;

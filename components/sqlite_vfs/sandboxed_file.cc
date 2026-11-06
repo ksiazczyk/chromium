@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed file implementation
+// summary: Implements SandboxedFile, wrapping underlying files with access rights, shared locks, single-connection locking, and metrics for the sandboxed VFS.
+// ---
+
 #include "components/sqlite_vfs/sandboxed_file.h"
 
 #include <algorithm>

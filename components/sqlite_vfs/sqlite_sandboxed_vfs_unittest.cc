@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite Sandboxed VFS Unit Tests
+// summary: Unit tests for the sandboxed SQLite VFS, verifying that file access is granted only after registering a VFS file set and revoked after unregistering.
+// ---
+
 #include "components/sqlite_vfs/sqlite_sandboxed_vfs.h"
 
 #include <memory>

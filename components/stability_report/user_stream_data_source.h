@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User stream data source base class declaration
+// summary: Declares the UserStreamDataSource base class that produces serialized StabilityReport data for the crash handler, plus a process entry helper.
+// ---
+
 #ifndef COMPONENTS_STABILITY_REPORT_USER_STREAM_DATA_SOURCE_H_
 #define COMPONENTS_STABILITY_REPORT_USER_STREAM_DATA_SOURCE_H_
 

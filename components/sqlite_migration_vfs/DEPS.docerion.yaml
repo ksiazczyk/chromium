@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the SQLite migration VFS
+summary: Allows this component to include headers from the sql and third_party/sqlite directories.

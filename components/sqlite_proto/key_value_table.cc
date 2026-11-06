@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL helpers for KeyValueTable operations
+// summary: Implements internal helpers that serialize protos and build SQL statements for selecting, replacing and deleting rows in a key-value table.
+// ---
+
 #include "components/sqlite_proto/key_value_table.h"
 
 #include <stdint.h>

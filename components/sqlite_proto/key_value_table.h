@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyValueTable template for single-table database operations
+// summary: Declares a template backend class performing get, update and delete operations on a fixed SQLite table with a text key and proto blob column.
+// ---
+
 #ifndef COMPONENTS_SQLITE_PROTO_KEY_VALUE_TABLE_H_
 #define COMPONENTS_SQLITE_PROTO_KEY_VALUE_TABLE_H_
 

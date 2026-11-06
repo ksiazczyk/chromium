@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits implementation for SQLite VFS file sets
+// summary: Implements mojo StructTraits Read functions that deserialize mojom file sets into sqlite_vfs::PendingFileSet objects.
+// ---
+
 #include "components/sqlite_vfs/mojom/sqlite_vfs_mojom_traits.h"
 
 #include "mojo/public/cpp/base/file_mojom_traits.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the remote Spelling service client
+// summary: Declares SpellingServiceClient, which encapsulates JSON-RPC calls to the remote Spelling service and invokes callbacks with the results.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_SPELLING_SERVICE_CLIENT_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_SPELLING_SERVICE_CLIENT_H_
 

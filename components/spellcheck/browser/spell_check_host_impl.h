@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckHostImpl class declaration
+// summary: Declares a basic SpellCheckHost implementation without Chrome-only features, providing spellcheck support such as on Android WebView.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_SPELL_CHECK_HOST_IMPL_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_SPELL_CHECK_HOST_IMPL_H_
 

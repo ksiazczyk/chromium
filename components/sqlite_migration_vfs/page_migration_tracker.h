@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageMigrationTracker class declaration
+// summary: Declares the 64-page block migration tracker with thread-safe methods for foreground checks and background block migration.
+// ---
+
 #ifndef COMPONENTS_SQLITE_MIGRATION_VFS_PAGE_MIGRATION_TRACKER_H_
 #define COMPONENTS_SQLITE_MIGRATION_VFS_PAGE_MIGRATION_TRACKER_H_
 

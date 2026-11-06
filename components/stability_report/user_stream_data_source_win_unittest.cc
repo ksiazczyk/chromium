@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows user stream data source unit tests
+// summary: Parameterized tests verifying the Windows stream data source captures process memory, handle and OOM exception data in the stability report.
+// ---
+
 #include "components/stability_report/user_stream_data_source_win.h"
 
 #include <memory>

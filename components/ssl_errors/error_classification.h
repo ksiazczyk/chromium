@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error classification header
+// summary: Declares the SSLInterstitialCause, ClockState, and NetworkClockState enums and functions for classifying SSL error causes.
+// ---
+
 #ifndef COMPONENTS_SSL_ERRORS_ERROR_CLASSIFICATION_H_
 #define COMPONENTS_SSL_ERRORS_ERROR_CLASSIFICATION_H_
 

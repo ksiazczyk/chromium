@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for startup_metric_utils
+summary: DEPS file listing allowed include rules, such as privacy sandbox attestations histograms and version_info, for this directory.

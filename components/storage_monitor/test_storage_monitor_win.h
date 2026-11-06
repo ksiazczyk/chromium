@@ -5,6 +5,12 @@
 // This file contains a subclass of StorageMonitorWin to simulate device
 // changed events for testing.
 
+// ---docerion
+// type: test
+// title: TestStorageMonitorWin header
+// summary: Declares a StorageMonitorWin subclass that simulates Windows device change events for testing.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_TEST_STORAGE_MONITOR_WIN_H_
 #define COMPONENTS_STORAGE_MONITOR_TEST_STORAGE_MONITOR_WIN_H_
 

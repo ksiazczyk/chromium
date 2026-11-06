@@ -1,0 +1,4 @@
+# Docerion header of storage_monitor_mac_unittest.mm.
+type: test
+title: StorageMonitorMac unit tests
+summary: Unit tests for the macOS storage monitor covering device add and remove notifications and volume name updates using a mock observer.

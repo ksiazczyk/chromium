@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VFS Utilities Unit Tests
+// summary: Unit tests for the VFS utilities, covering successful file set creation and error cases such as missing directories, in-use files, and non-file paths.
+// ---
+
 #include "components/sqlite_vfs/vfs_utils.h"
 
 #include "base/files/file_util.h"

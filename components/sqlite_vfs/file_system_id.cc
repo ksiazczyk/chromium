@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system ID retrieval implementation
+// summary: Implements GetFileSystemId, obtaining unique on-disk file identifiers via Windows or POSIX APIs and reporting failures to histograms.
+// ---
+
 #include "components/sqlite_vfs/file_system_id.h"
 
 #include "base/containers/span.h"

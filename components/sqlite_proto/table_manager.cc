@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableManager base class implementation
+// summary: Implements the TableManager base class that schedules and executes database tasks on a dedicated sequenced task runner.
+// ---
+
 #include "components/sqlite_proto/table_manager.h"
 
 #include <utility>

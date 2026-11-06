@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageMonitorWin unit tests
+// summary: Unit tests for the Windows storage monitor using a test volume mount watcher with fake attached devices and a mock removable storage observer.
+// ---
+
 #include "components/storage_monitor/storage_monitor_win.h"
 
 #include <windows.h>

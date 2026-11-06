@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spellcheck browser component build targets
+summary: Defines GN build targets and platform-conditional sources for the spellcheck browser code and its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitTabVisualData class and layout enum
+// summary: Declares the SplitTabLayout enum and the SplitTabVisualData class that stores a split view's layout type and content size ratio.
+// ---
+
 #ifndef COMPONENTS_SPLIT_TABS_SPLIT_TAB_VISUAL_DATA_H_
 #define COMPONENTS_SPLIT_TABS_SPLIT_TAB_VISUAL_DATA_H_
 

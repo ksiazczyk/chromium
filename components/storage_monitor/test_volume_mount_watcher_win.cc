@@ -4,6 +4,12 @@
 //
 // TestVolumeMountWatcherWin implementation.
 
+// ---docerion
+// type: test
+// title: TestVolumeMountWatcherWin implementation
+// summary: Implements a test VolumeMountWatcherWin with fake attached devices, forced device details, and hooks to block or release device checks in tests.
+// ---
+
 #include "components/storage_monitor/test_volume_mount_watcher_win.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockMigrationTracker implementation
+// summary: Implements lock-free migration state checks plus try-lock and unlock coordination for a single block of pages.
+// ---
+
 #include "components/sqlite_migration_vfs/block_migration_tracker.h"
 
 namespace sqlite_migration_vfs {

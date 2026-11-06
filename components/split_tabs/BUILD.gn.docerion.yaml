@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Split tabs component build definition
+summary: Defines the split_tabs source_set with its source files and public dependencies on base and components/tab_groups.

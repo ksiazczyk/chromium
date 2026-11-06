@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for streaming_client
+summary: Declares the allowed include directories for the component, covering base, mojo, net, and network services.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckResult declaration
+// summary: Declares the SpellCheckResult struct holding a misspelled range, its decoration, replacements and suggestion menu behavior.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_RESULT_H_
 #define COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_RESULT_H_
 

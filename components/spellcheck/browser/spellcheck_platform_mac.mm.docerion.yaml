@@ -1,0 +1,4 @@
+# Docerion header of spellcheck_platform_mac.mm.
+type: source
+title: macOS integration with the built-in system spellchecker
+summary: Integrates Chromium spellchecking with the macOS built-in NSSpellChecker, including language code conversion and asynchronous text checking.

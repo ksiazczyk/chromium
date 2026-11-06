@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck dictionary interface
+// summary: Abstract base class defining a dictionary for the spellchecker system with a Load method for loading its words.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_SPELLCHECK_DICTIONARY_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_SPELLCHECK_DICTIONARY_H_
 

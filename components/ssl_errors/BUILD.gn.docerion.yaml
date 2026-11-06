@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ssl_errors component
+summary: Defines the ssl_errors static library and its unit_tests source set, listing their sources and dependencies.

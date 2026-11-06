@@ -1,0 +1,4 @@
+# Docerion header of sqlite_vfs.mojom.
+type: source
+title: Mojom definitions for SQLite VFS pending file sets
+summary: Defines mojom structs holding the file and shared-memory handles needed to open a SQLite database read-only or read-write.

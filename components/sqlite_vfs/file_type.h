@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite VFS file type enum
+// summary: Defines the FileType enum classifying SQLite database, journal, WAL, and WAL-index files used by the sandboxed VFS.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_FILE_TYPE_H_
 #define COMPONENTS_SQLITE_VFS_FILE_TYPE_H_
 

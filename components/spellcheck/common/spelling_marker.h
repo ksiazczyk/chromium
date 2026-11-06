@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellingMarker declaration
+// summary: Declares the SpellingMarker struct representing a spelling or grammar marker with start and end offsets.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_COMMON_SPELLING_MARKER_H_
 #define COMPONENTS_SPELLCHECK_COMMON_SPELLING_MARKER_H_
 

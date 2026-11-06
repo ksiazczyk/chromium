@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadStrictModeInterceptorTest
+// summary: Android instrumented tests verifying that ThreadStrictModeInterceptor notifies penalties for unpermitted thread StrictMode violations and skips permitted or out-of-package ones.
+// ---
+
 package org.chromium.components.strictmode;
 
 import static org.junit.Assert.assertEquals;

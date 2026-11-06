@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck host metrics helper class
+// summary: Declares SpellCheckHostMetrics, a helper that encapsulates histogram names and counters for spell-check related UMA metrics.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_SPELLCHECK_HOST_METRICS_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_SPELLCHECK_HOST_METRICS_H_
 

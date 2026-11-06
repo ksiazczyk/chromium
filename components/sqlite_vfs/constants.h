@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite VFS file extension constants
+// summary: Declares inline constants for the database, journal, WAL journal and WAL-index file extensions used by the VFS.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_CONSTANTS_H_
 #define COMPONENTS_SQLITE_VFS_CONSTANTS_H_
 

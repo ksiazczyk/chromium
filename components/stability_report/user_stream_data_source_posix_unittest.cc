@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX user stream data source unit tests
+// summary: Verifies that the POSIX stream data source records the correct number of open file descriptors in the stability report.
+// ---
+
 #include "components/stability_report/user_stream_data_source_posix.h"
 
 #include "base/files/file.h"

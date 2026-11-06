@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite migration metrics implementation
+// summary: Implements histogram name builders and UMA recording functions for SQLite migration status, block migration results, timing, and block counts.
+// ---
+
 #include "components/sqlite_migration_vfs/sqlite_migration_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

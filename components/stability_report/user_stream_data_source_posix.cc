@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX user stream data source implementation
+// summary: Collects open file descriptor counts for the snapshotted process and produces a stability report user extension stream on POSIX systems.
+// ---
+
 #include "components/stability_report/user_stream_data_source_posix.h"
 
 #include "base/process/process_metrics.h"

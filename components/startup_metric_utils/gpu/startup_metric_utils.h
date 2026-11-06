@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU startup metric recorder header
+// summary: Declares the GpuStartupMetricRecorder class and GetGpu accessor used to record when GPU initialization completes for startup metric collection.
+// ---
+
 #ifndef COMPONENTS_STARTUP_METRIC_UTILS_GPU_STARTUP_METRIC_UTILS_H_
 #define COMPONENTS_STARTUP_METRIC_UTILS_GPU_STARTUP_METRIC_UTILS_H_
 

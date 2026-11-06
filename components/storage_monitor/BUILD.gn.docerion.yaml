@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Storage monitor GN build configuration
+summary: Defines sources, dependencies and platform-specific build rules for the storage_monitor component and its test support.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: strictmode OWNERS
+summary: Defines owners for the strictmode directory by inheriting them from build/config/android/OWNERS.

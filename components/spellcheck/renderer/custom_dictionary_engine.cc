@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom dictionary engine implementation
+// summary: Implements the custom spellcheck dictionary that stores user-added words and reports whether a flagged misspelling matches a custom word.
+// ---
+
 #include "components/spellcheck/renderer/custom_dictionary_engine.h"
 
 #include <stddef.h>

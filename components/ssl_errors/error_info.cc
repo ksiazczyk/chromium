@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error info implementation
+// summary: Creates localized details and short descriptions for SSL certificate errors shown on interstitial pages.
+// ---
+
 #include "components/ssl_errors/error_info.h"
 
 #include <stddef.h>

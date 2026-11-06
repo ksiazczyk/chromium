@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadStrictModeInterceptor
+// summary: Interface and builder for installing StrictMode ThreadPolicy whitelists, including a death penalty setup with known violation exemptions.
+// ---
+
 package org.chromium.components.strictmode;
 
 import android.os.Handler;

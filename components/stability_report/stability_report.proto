@@ -6,6 +6,12 @@
 // http://shortn/_Xt58wqlKTk (Google-internal link). All changes must be
 // reflected in the server-side copy there.
 
+// ---docerion
+// type: source
+// title: Stability report protobuf definitions
+// summary: Defines the StabilityReport, ProcessState, and memory and file system state messages recorded at crash time and parsed by the crash server.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

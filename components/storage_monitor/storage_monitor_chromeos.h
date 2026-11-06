@@ -6,6 +6,12 @@
 // about the addition and deletion of media devices. This class lives on the
 // UI thread.
 
+// ---docerion
+// type: source
+// title: ChromeOS storage monitor header
+// summary: Declares StorageMonitorCros, the ChromeOS storage monitor observing DiskMountManager mount events and the MTP manager.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_CHROMEOS_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_CHROMEOS_H_
 

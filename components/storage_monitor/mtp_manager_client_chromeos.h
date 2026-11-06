@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP manager client class declaration for ChromeOS
+// summary: Declares MtpManagerClientChromeOS, a Mojo MtpManagerClient that relays MTP storage attachment and detachment events to StorageMonitor.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_MTP_MANAGER_CLIENT_CHROMEOS_H_
 #define COMPONENTS_STORAGE_MONITOR_MTP_MANAGER_CLIENT_CHROMEOS_H_
 

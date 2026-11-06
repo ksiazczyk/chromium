@@ -1,3 +1,13 @@
+---
+type: readme
+title: SQLite Sandboxed VFS
+summary: Documents the sandboxed SQLite VFS, covering its features, setup and sharing usage, abandonment semantics, caveats and WAL-index implementation details.
+relations:
+  - documents /components/sqlite_vfs/sqlite_database_vfs_file_set.h
+  - documents /components/sqlite_vfs/sqlite_sandboxed_vfs.h
+  - documents /components/sqlite_vfs/vfs_utils.h
+---
+
 # SQLite Sandboxed VFS
 
 `sqlite_vfs` provides a custom SQLite Virtual File System (VFS) for Chromium

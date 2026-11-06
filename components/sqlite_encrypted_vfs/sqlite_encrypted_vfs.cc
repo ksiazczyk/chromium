@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite Encrypted VFS implementation
+// summary: Implements the sqlite_encrypted_vfs VFS that delegates file operations to the default OS VFS while intercepting open, read, and write for transparent encryption.
+// ---
+
 #include "components/sqlite_encrypted_vfs/sqlite_encrypted_vfs.h"
 
 #include <cstring>

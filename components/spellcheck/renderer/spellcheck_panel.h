@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckPanel class header
+// summary: Declares SpellCheckPanel, a render frame observer that binds the SpellCheckPanel Mojo interface and exposes spelling UI state.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_PANEL_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_PANEL_H_
 

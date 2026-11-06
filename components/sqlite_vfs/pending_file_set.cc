@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending file set implementation
+// summary: Implements PendingFileSet helpers for computing the total size of database, journal, and WAL files and detecting newly created databases.
+// ---
+
 #include "components/sqlite_vfs/pending_file_set.h"
 
 #include <stdint.h>

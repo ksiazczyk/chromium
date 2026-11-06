@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for spellcheck common
+summary: Grants the directory permission to include headers from ipc and mojo/public.

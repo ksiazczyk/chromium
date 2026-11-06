@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoTableManager implementation for proto SQLite tables
+// summary: Implements ProtoTableManager, which creates or clears SQLite tables storing string-to-proto entries and handles schema version mismatches.
+// ---
+
 #include "components/sqlite_proto/proto_table_manager.h"
 
 #include "base/strings/stringprintf.h"

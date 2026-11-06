@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageMonitorMac class header
+// summary: Declares StorageMonitorMac, the macOS storage monitor that posts notifications to listeners when disks are attached, removed, or changed via DiskArbitration.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_MAC_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_MAC_H_
 

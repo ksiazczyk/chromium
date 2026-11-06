@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Spellcheck directory metadata
+summary: Directory metadata assigning the spellcheck code to the UI>Browser>Language>Spellcheck monorail component and the language team email.

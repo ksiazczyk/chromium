@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hunspell spelling engine header
+// summary: Declares the HunspellEngine class implementing the SpellingEngine interface with lazy Hunspell dictionary initialization.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_HUNSPELL_ENGINE_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_HUNSPELL_ENGINE_H_
 

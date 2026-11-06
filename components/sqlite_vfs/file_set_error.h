@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSetError enum
+// summary: Defines error categories for file set operations, distinguishing transient, permanent and permanent errors requiring file deletion.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_FILE_SET_ERROR_H_
 #define COMPONENTS_SQLITE_VFS_FILE_SET_ERROR_H_
 

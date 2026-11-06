@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the SQLite migration VFS component
+summary: Defines the sqlite_migration_vfs static library and its unit test source set with their sources and dependencies.

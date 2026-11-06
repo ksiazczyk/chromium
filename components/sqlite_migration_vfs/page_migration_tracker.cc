@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageMigrationTracker implementation
+// summary: Implements block scanning, locking, completion marking, and migration metrics recording across the database's pages.
+// ---
+
 #include "components/sqlite_migration_vfs/page_migration_tracker.h"
 
 #include "base/check.h"

@@ -4,6 +4,12 @@
 //
 // MtpManagerClientChromeOS unit tests.
 
+// ---docerion
+// type: test
+// title: Unit tests for MtpManagerClientChromeOS
+// summary: Unit tests for MtpManagerClientChromeOS covering storage attach, detach and info lookup using fake MTP storage information.
+// ---
+
 #include "components/storage_monitor/mtp_manager_client_chromeos.h"
 
 #include <memory>

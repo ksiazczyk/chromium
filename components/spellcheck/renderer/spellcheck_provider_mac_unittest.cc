@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck provider macOS unit tests
+// summary: Unit tests for SpellCheckProvider text checking on macOS, verifying request roundtrips with spelling markers and completion callbacks.
+// ---
+
 #include <tuple>
 #include <vector>
 

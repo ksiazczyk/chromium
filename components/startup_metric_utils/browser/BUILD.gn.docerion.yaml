@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Startup metric utils browser BUILD.gn
+summary: GN build file defining the browser source set for startup metric utilities, listing its sources, dependencies, and restricted visibility.

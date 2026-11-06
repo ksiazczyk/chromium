@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ssl_errors component
+summary: Declares the include rules restricting which directories the ssl_errors component may depend on.

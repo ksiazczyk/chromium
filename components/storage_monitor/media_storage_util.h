@@ -5,6 +5,12 @@
 // MediaStorageUtil provides information about storage devices attached
 // to the computer.
 
+// ---docerion
+// type: source
+// title: Media storage utility interface
+// summary: Declares MediaStorageUtil static helpers for removable storage device queries and device path lookups.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_MEDIA_STORAGE_UTIL_H_
 #define COMPONENTS_STORAGE_MONITOR_MEDIA_STORAGE_UTIL_H_
 

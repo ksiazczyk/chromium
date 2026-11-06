@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock removable storage observer implementation
+// summary: Implements a test observer that counts and records removable storage attach and detach notifications.
+// ---
+
 #include "components/storage_monitor/mock_removable_storage_observer.h"
 
 namespace storage_monitor {

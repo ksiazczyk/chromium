@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlockMigrationTracker unit tests
+// summary: Tests the initial state, successful migration locking, and retry behavior after a failed migration.
+// ---
+
 #include "components/sqlite_migration_vfs/block_migration_tracker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

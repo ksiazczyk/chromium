@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for spellcheck types
+// summary: Defines mojo EnumTraits and StructTraits that serialize SpellCheckResult and SpellingMarker between processes.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_MOJOM_TRAITS_H_
 #define COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SqliteVfsFileSet unit tests
+// summary: Parameterized unit tests for SqliteVfsFileSet covering file lifetime, deletion while in use, and multiprocess scenarios for single-connection and WAL modes.
+// ---
+
 #include "components/sqlite_vfs/sqlite_database_vfs_file_set.h"
 
 #include <stdlib.h>

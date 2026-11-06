@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS storage monitor unit tests
+// summary: Unit tests for StorageMonitorCros covering mount events, storage info and ejection using mock disk mount managers.
+// ---
+
 #include "components/storage_monitor/storage_monitor_chromeos.h"
 
 #include <stdint.h>

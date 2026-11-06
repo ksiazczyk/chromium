@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test MTP manager fake for ChromeOS
+// summary: Fake MediaTransferProtocolManager for ChromeOS tests that returns empty or error results for MTP storage operations such as enumeration and file access.
+// ---
+
 #include "components/storage_monitor/test_media_transfer_protocol_manager_chromeos.h"
 
 #include <memory>

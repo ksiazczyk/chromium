@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommonStartupMetricRecorder implementation
+// summary: Implements the common startup metric recorder, recording process creation, application start, Chrome main entry, and preread times, and converting wall clock times to TimeTicks for histograms.
+// ---
+
 #include "components/startup_metric_utils/common/startup_metric_utils.h"
 
 #include <stddef.h>

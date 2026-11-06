@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellingEngine interface header
+// summary: Declares the SpellingEngine interface for initialization, synchronous spelling checks, and suggestion list filling.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_SPELLING_ENGINE_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_SPELLING_ENGINE_H_
 

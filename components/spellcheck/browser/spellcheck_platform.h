@@ -5,6 +5,12 @@
 // This file defines the interface that any platform-specific spellchecker
 // needs to implement in order to be used by the browser.
 
+// ---docerion
+// type: source
+// title: Cross-platform spellchecker interface for the browser
+// summary: Defines the interface that every platform-specific spellchecker must implement for the browser, covering languages, spelling panel, and text check functions.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_SPELLCHECK_PLATFORM_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_SPELLCHECK_PLATFORM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stability report minidump stream data source declaration
+// summary: Declares the StabilityReportDataSource class and the stream type constant identifying the stability report stream in minidumps.
+// ---
+
 #ifndef COMPONENTS_STABILITY_REPORT_STABILITY_REPORT_DATA_SOURCE_H_
 #define COMPONENTS_STABILITY_REPORT_STABILITY_REPORT_DATA_SOURCE_H_
 

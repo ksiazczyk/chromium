@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking and team contact
+summary: Maps the directory to the LocalDataEncryption component, team email, and a Buganizer component ID.

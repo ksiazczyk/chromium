@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck JNI registration implementation
+// summary: Registers the SpellCheckerSessionBridge native methods with the Android JNI registrar for the spellcheck component.
+// ---
+
 #include "components/spellcheck/browser/android/component_jni_registrar.h"
 
 #include "base/android/jni_android.h"

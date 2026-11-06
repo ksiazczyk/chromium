@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS metrics utilities implementation
+// summary: Builds SandboxedVfs histogram names by combining file type tags, metric names, and client tags for the sandboxed VFS.
+// ---
+
 #include "components/sqlite_vfs/metrics_util.h"
 
 #include "base/notreached.h"

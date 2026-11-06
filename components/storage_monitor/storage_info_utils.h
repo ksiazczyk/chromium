@@ -5,6 +5,12 @@
 // StorageInfoUtil provides some general functions to get information
 // from device::mojom::MtpStorageInfo needed by storage_monitor::StorageInfo.
 
+// ---docerion
+// type: source
+// title: Storage info utilities header
+// summary: Declares helper functions converting MtpStorageInfo into a device location, unique device id and label for storage_monitor.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_INFO_UTILS_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_INFO_UTILS_H_
 

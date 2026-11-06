@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX user stream data source header
+// summary: Declares UserStreamDataSourcePosix, the POSIX implementation of the crashpad user stream data source for stability reports.
+// ---
+
 #ifndef COMPONENTS_STABILITY_REPORT_USER_STREAM_DATA_SOURCE_POSIX_H_
 #define COMPONENTS_STABILITY_REPORT_USER_STREAM_DATA_SOURCE_POSIX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage info utilities implementation
+// summary: Implements helpers that derive device location, unique device id and device label from MTP storage information.
+// ---
+
 #include "components/storage_monitor/storage_info_utils.h"
 
 #include <string>

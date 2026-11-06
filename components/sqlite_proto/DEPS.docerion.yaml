@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sqlite_proto dependencies
+summary: Declares the allowed include rules, permitting the sql and protobuf directories for code in this component.

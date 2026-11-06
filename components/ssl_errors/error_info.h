@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorInfo class header
+// summary: Defines the ErrorInfo class and ErrorType enum that map network errors to certificate error descriptions.
+// ---
+
 #ifndef COMPONENTS_SSL_ERRORS_ERROR_INFO_H_
 #define COMPONENTS_SSL_ERRORS_ERROR_INFO_H_
 

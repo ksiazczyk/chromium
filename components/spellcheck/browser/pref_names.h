@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck preference name constants
+// summary: Defines constant preference names for spellcheck enablement, dictionaries, forced and blocklisted languages, and the spelling service.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_PREF_NAMES_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_PREF_NAMES_H_
 

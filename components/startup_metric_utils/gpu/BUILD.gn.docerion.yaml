@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the gpu startup metric utils target
+summary: Defines the gpu source_set with its sources, compile definition, dependencies, and visibility restricted to startup_metric_utils targets.

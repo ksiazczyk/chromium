@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedLocks implementation
+// summary: Implements cross-connection SQLite database locks in shared memory, including shared, reserved, pending, and exclusive lock transitions plus WAL lock handling.
+// ---
+
 #include "components/sqlite_vfs/shared_locks.h"
 
 #include <atomic>

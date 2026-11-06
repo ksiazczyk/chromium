@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for crashpad dependency
+summary: Grants this directory include access to the third-party crashpad library.

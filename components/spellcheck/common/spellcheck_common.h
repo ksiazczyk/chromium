@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck common constants and helper declarations
+// summary: Declares spellcheck language helpers and limits for suggestions and custom dictionary word counts shared across the spellcheck component.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_COMMON_H_
 #define COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_COMMON_H_
 

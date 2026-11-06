@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows volume mount watcher header
+// summary: Declares VolumeMountWatcherWin, a singleton that watches volume mount points and notifies StorageMonitor of device attach and detach events on Windows.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_VOLUME_MOUNT_WATCHER_WIN_H_
 #define COMPONENTS_STORAGE_MONITOR_VOLUME_MOUNT_WATCHER_WIN_H_
 

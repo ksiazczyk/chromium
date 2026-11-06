@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU startup metric recorder implementation
+// summary: Implements GpuStartupMetricRecorder, recording GPU initialization ticks and emitting UMA histograms for startup timing from process creation, application start, Chrome main, and file preread.
+// ---
+
 #include "components/startup_metric_utils/gpu/startup_metric_utils.h"
 
 #include <type_traits>

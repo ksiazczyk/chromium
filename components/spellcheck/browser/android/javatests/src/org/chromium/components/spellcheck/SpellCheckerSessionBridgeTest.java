@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric unit tests for SpellCheckerSessionBridge
+// summary: Robolectric unit tests for the Android SpellCheckerSessionBridge that verify request and suggestion histogram recording using mocked native, session, and text services dependencies.
+// ---
+
 package org.chromium.components.spellcheck;
 
 import static org.mockito.ArgumentMatchers.any;

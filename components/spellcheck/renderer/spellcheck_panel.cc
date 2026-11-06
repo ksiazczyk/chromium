@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckPanel implementation
+// summary: Implements the renderer-side spelling panel client that shows or hides the spelling UI and advances to the next misspelling.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_panel.h"
 
 #include "base/functional/bind.h"

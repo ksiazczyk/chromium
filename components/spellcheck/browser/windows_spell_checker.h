@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsSpellChecker class header
+// summary: Declares the WindowsSpellChecker class that wraps Windows COM spell checking APIs and runs them on a background thread for text checks, suggestions, and language support.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_BROWSER_WINDOWS_SPELL_CHECKER_H_
 #define COMPONENTS_SPELLCHECK_BROWSER_WINDOWS_SPELL_CHECKER_H_
 

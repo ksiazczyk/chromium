@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpellCheck class unit tests
+// summary: Unit tests for the renderer SpellCheck class, exercising Hunspell initialization, spelling checks, contractions, and language handling.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Removable device constants declarations
+// summary: Declares shared constants for removable device identification, such as device ID prefixes and the DCIM directory name.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_REMOVABLE_DEVICE_CONSTANTS_H_
 #define COMPONENTS_STORAGE_MONITOR_REMOVABLE_DEVICE_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckProvider implementation
+// summary: Implements the per-frame spellcheck provider that dispatches text checking requests to the browser and applies spelling markers.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_provider.h"
 
 #include <algorithm>
