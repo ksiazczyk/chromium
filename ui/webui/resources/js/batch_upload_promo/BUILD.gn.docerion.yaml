@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Batch upload promo Mojo bindings build rules
+summary: Build configuration that generates Mojo bindings for the batch upload promo from its mojom source for use by the WebUI build.

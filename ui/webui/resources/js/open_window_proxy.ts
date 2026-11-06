@@ -7,6 +7,12 @@
  * the browser.
  */
 
+// ---docerion
+// type: source
+// title: OpenWindowProxy for opening URLs in new tabs
+// summary: Proxy interface and singleton implementation that opens URLs in a new tab via window.open, designed so the instance can be swapped out in tests.
+// ---
+
 export interface OpenWindowProxy {
   /**
    * Opens the specified URL in a new tab.

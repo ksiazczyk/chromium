@@ -1,0 +1,4 @@
+# Docerion header of metrics_reporter.mojom.
+type: source
+title: Metrics reporter Mojo interface definitions
+summary: Defines the PageMetricsHost and PageMetrics Mojo interfaces used to measure latency between the browser and WebUI, including mark and UMA histogram requests.

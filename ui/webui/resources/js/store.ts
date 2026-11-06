@@ -7,6 +7,12 @@
  * state in a redux-like fashion.
  */
 
+// ---docerion
+// type: source
+// title: Redux-like store base class for WebUI state
+// summary: Generic store base class managing WebUI page state with reducers, actions, observers, queued initialization, and batched updates in a redux-like fashion.
+// ---
+
 export interface Action {
   name: string;
 }

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for Mojo WebUI resources
+summary: GN build configuration that lists Mojo-generated TypeScript binding files and defines build targets for the WebUI resources mojo directory.

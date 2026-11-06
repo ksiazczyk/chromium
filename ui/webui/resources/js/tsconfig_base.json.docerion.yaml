@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for WebUI resources
+summary: TypeScript configuration extending Chromium's shared tsconfig base with bundler-style module resolution for the WebUI resources JS folder.

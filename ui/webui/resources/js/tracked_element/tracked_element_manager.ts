@@ -98,6 +98,12 @@
  *     ```
  */
 
+// ---docerion
+// type: source
+// title: TrackedElementManager for WebUI element tracking
+// summary: WebUI-side singleton manager that reports HTML element visibility, bounds, activation, and custom events to the browser and handles highlight, click, focus, and tab selection requests.
+// ---
+
 import type {InsetsF, RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';
 import {InputType, TextEntryMode} from '//resources/mojo/ui/webui/resources/js/tracked_element/tracked_element.mojom-webui.js';
 import type {TrackedElementHandlerInterface, TrackedElementIdentifier} from '//resources/mojo/ui/webui/resources/js/tracked_element/tracked_element.mojom-webui.js';

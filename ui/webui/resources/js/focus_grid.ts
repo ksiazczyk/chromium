@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusGrid keyboard navigation
+// summary: Implements FocusGrid to manage a two-dimensional grid of focusable elements with arrow and page key navigation between rows and columns.
+// ---
+
 // clang-format off
 import {assert} from './assert.js';
 import type {FocusRow, FocusRowDelegate} from './focus_row.js';

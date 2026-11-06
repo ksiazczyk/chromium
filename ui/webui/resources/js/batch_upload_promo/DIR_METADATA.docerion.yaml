@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Declares the Monorail component UI>Browser>Profiles and the public Buganizer component ID used for issues in this directory.

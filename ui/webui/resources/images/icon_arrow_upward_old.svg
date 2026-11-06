@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Legacy upward arrow icon
+summary: Older variant of the upward arrow icon drawn with a white fill on a 16 by 16 viewBox.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16"><path fill="#fff" d="M7 16V3.825l-5.6 5.6L0 8l8-8 8 8-1.4 1.425-5.6-5.6V16H7Z"/></svg>

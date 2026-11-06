@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for Roboto font resources
+summary: Declares issue tracker components (Monorail UI>Browser and Buganizer 1457469) for the Roboto font resources directory.

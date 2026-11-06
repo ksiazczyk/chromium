@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Legacy forward arrow icon
+summary: Older variant of the forward arrow icon drawn with a white fill on a 16 by 16 viewBox.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16"><path fill="#fff" d="M0 7h12.175l-5.6-5.6L8 0l8 8-8 8-1.425-1.4 5.6-5.6H0V7Z"/></svg>

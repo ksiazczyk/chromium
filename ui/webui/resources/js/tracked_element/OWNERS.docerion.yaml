@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for tracked element
+summary: Lists code owners for the directory, inheriting ui/base/interaction owners and requiring IPC security owner review for mojom file changes.

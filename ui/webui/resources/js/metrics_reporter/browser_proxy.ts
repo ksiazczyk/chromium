@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the metrics reporter Mojo interface
+// summary: Implements a singleton browser proxy that forwards mark, clear, and UMA time reporting requests from WebUI to the browser through the PageMetricsHost Mojo interface.
+// ---
+
 import type {TimeDelta} from '//resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 
 import type {PageMetricsHostRemote} from '../metrics_reporter.mojom-webui.js';

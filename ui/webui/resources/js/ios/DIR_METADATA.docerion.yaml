@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for iOS WebUI JavaScript
+summary: Directory metadata configuration that applies the iOS common metadata mixin to this directory of WebUI JavaScript resources.

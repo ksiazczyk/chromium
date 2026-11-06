@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Types policy for static string literals
+// summary: Defines a Trusted Types policy that only accepts static tagged template literals, exposing getTrustedHTML, getTrustedScript, and getTrustedScriptURL.
+// ---
+
 import {assert} from './assert.js';
 
 /**

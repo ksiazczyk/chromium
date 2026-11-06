@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomElement base class
+// summary: Defines a base class for non-Polymer Web Components with shadow DOM templating and typed query helpers for finding elements.
+// ---
+
 import {assert} from './assert.js';
 
 /**

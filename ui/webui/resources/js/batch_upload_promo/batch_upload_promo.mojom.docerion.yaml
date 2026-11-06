@@ -1,0 +1,4 @@
+# Docerion header of batch_upload_promo.mojom.
+type: source
+title: Mojo interfaces for the batch upload promo WebUI
+summary: Defines the PageHandlerFactory, PageHandler, and Page interfaces used to bootstrap bidirectional communication between the browser and the WebUI document, including fetching the local data count and opening the batch upload dialog.

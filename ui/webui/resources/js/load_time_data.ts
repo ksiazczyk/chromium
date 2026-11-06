@@ -14,6 +14,12 @@
  * change if the page is re-opened later.
  */
 
+// ---docerion
+// type: source
+// title: loadTimeData singleton for early page data
+// summary: Singleton providing access to loadTimeData values such as localized strings, with typed getters and $1-$9 substitution helpers available before DOM load.
+// ---
+
 import {assert} from './assert.js';
 
 export interface LoadTimeDataRaw {

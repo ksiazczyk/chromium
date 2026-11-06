@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for browser_command
+summary: Points to the New Tab Page WebUI owners and requires IPC security owners to review changes to .mojom files.

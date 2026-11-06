@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Arrow down icon
+summary: Small gray downward triangle SVG icon used as a dark-theme arrow-down graphic in the web UI.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="12" fill="#9aa0a6"><path d="M0 0h24L12 12z"/></svg>

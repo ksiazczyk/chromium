@@ -16,6 +16,12 @@
  *  resolver.resolve({hello: 'world'});
  */
 
+// ---docerion
+// type: source
+// title: PromiseResolver helper class
+// summary: Helper class that creates a promise whose resolve and reject functions can be called later, tracking whether it has been fulfilled.
+// ---
+
 export class PromiseResolver<T> {
   private resolve_: (arg: T) => void = () => {};
   private reject_: (arg: unknown) => void = () => {};

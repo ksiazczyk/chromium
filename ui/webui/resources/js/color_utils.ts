@@ -6,6 +6,12 @@
  * @fileoverview Helper functions for color manipulations.
  */
 
+// ---docerion
+// type: source
+// title: Color conversion utilities
+// summary: Provides helpers converting between SkColor objects and rgba, hex, and rgb string formats for WebUI color handling.
+// ---
+
 import type {SkColor} from '//resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 /**

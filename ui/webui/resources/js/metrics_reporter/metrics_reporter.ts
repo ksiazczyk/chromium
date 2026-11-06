@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsReporter time measuring utility
+// summary: Implements the MetricsReporter singleton utility for marking timestamps, measuring durations between marks, and reporting them as UMA histograms from both WebUI and C++.
+// ---
+
 import type {TimeDelta} from '//resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 
 import {assert} from '../assert.js';

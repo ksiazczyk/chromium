@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo browser proxy factories for WebUI
+// summary: Defines reusable factory classes that manage singleton WebUI browser proxies, bind Mojo pipes, and create test instances with mock handlers.
+// ---
+
 import type {mojo} from '//resources/mojo/mojo/public/js/bindings.js';
 
 type ReceiverHelper<Remote, PendingReceiver> =

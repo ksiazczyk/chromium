@@ -1,0 +1,4 @@
+# Docerion header of tracked_element.mojom.
+type: source
+title: Tracked element mojo interface definitions
+summary: Defines mojo enums, the TrackedElementIdentifier struct, and the TrackedElementHandler and TrackedElementManager interfaces used for browser-WebUI element tracking and input simulation.

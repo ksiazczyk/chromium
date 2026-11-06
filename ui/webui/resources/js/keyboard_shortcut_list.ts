@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard shortcut parsing and event matching
+// summary: Classes that parse text descriptions of keyboard shortcuts, including modifiers, and match them against keyboard events for command triggering.
+// ---
+
 /** This is used to identify keyboard shortcuts. */
 class KeyboardShortcut {
   private useKeyCode_: boolean = false;

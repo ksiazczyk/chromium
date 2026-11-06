@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.send implementation for iOS WebUI
+// summary: Defines window.chrome.send for iOS WebUI, forwarding messages to the browser through the WebUIMessage handler while guarding against window.webkit overrides.
+// ---
+
 window['chrome'] = window['chrome'] || {};
 
 /**
