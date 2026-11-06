@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux platform sensor and provider unit tests
+// summary: Unit tests for the Linux sensor provider that emulate udev events and sensor files to verify accelerometer, gyroscope, magnetometer, and ambient light readings.
+// ---
+
 #include <algorithm>
 #include <memory>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Core Location provider implementation
+// summary: Implements the macOS location provider that forwards position updates and errors from the system geolocation source to its callback.
+// ---
+
 #include "services/device/geolocation/core_location_provider.h"
 
 #include "base/apple/scoped_cftyperef.h"

@@ -5,6 +5,12 @@
 // Provides wifi scan API binding for suitable for typical linux distributions.
 // Currently, only the NetworkManager API is used, accessed via D-Bus.
 
+// ---docerion
+// type: source
+// title: Linux WiFi data provider
+// summary: Provides WiFi access point data on Linux via the NetworkManager D-Bus API, including frequency-to-channel conversion and polling intervals.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_linux.h"
 
 #include <stddef.h>

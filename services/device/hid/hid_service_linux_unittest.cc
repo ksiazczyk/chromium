@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID service Linux unit tests
+// summary: Tests Linux HID device enumeration with a fake udev loader covering USB, Bluetooth, and hidraw device hierarchies.
+// ---
+
 
 #include "services/device/hid/hid_service_linux.h"
 

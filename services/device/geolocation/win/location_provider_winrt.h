@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WinRT geolocation location provider class declaration
+// summary: Declares LocationProviderWinrt, the Windows geolocation provider built on WinRT platform APIs, with methods for starting, stopping, and reporting geoposition updates.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIN_LOCATION_PROVIDER_WINRT_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIN_LOCATION_PROVIDER_WINRT_H_
 

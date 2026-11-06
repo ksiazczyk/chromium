@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation provider API
+// summary: Declares GeolocationProvider, the main geolocation API for registering location update callbacks, getting cached positions, and overriding location.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_GEOLOCATION_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_GEOLOCATION_PROVIDER_H_
 

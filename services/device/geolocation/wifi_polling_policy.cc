@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global instance management for the WiFi polling policy
+// summary: Implements Initialize, Shutdown, Get and IsInitialized for the global WifiPollingPolicy singleton.
+// ---
+
 #include "services/device/geolocation/wifi_polling_policy.h"
 
 namespace device {

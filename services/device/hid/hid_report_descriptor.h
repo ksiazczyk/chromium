@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID report descriptor class header
+// summary: Declares the HidReportDescriptor class that models HID collections and exposes report size details per the HID specification.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_REPORT_DESCRIPTOR_H_
 #define SERVICES_DEVICE_HID_HID_REPORT_DESCRIPTOR_H_
 

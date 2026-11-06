@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensor base class implementation
+// summary: Implements the PlatformSensor base class that manages client listening configurations, shared buffer readings, and change notifications for platform sensors.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public IP address geolocator
+// summary: Implements a Geolocation Mojo service that serves positions from public IP address lookups, rejects overlapping queries, and records client ID usage metrics.
+// ---
+
 #include "services/device/geolocation/public_ip_address_geolocator.h"
 
 #include "base/functional/bind.h"

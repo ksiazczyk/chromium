@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android location provider
+// summary: Implements the Android system location provider, forwarding platform geopositions and recording time-to-first-position metrics.
+// ---
+
 #include "services/device/geolocation/location_provider_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux platform sensor provider base header
+// summary: Declares the common base class for Linux sensor providers with fusion sensor support and a hook for checking sensor type availability.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_PROVIDER_LINUX_BASE_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_PROVIDER_LINUX_BASE_H_
 

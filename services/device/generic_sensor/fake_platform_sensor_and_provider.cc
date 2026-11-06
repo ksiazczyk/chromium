@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake platform sensor and provider for tests
+// summary: Provides fake platform sensor and provider implementations plus a mock sensor client used by sensor unit tests.
+// ---
+
 #include "services/device/generic_sensor/fake_platform_sensor_and_provider.h"
 
 #include <utility>

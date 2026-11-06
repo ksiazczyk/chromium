@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualPlatformSensorProvider implementation
+// summary: Implements a test sensor provider that overrides sensor types with virtual sensors, stashes pending readings, and creates fusion sensors for Euler angles types.
+// ---
+
 #include "services/device/generic_sensor/virtual_platform_sensor_provider.h"
 
 #include <utility>

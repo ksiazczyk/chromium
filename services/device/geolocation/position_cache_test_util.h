@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Position cache test utilities header
+// summary: Declares test helper functions for creating WiFi data and geoposition instances used by geolocation cache tests.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_POSITION_CACHE_TEST_UTIL_H_
 #define SERVICES_DEVICE_GEOLOCATION_POSITION_CACHE_TEST_UTIL_H_
 

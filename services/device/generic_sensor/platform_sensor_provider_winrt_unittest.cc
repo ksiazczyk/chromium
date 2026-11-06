@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WinRT sensor provider unit tests
+// summary: Tests sensor creation in the WinRT provider using mock sensor readers so the real Windows sensor APIs are never called.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_winrt.h"
 
 #include "base/run_loop.h"

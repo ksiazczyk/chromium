@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service Linux implementation
+// summary: Enumerates HID devices on Linux through udev, reads report descriptors from sysfs, and opens hidraw connections with ChromeOS permission broker support.
+// ---
+
 #include "services/device/hid/hid_service_linux.h"
 
 #include <fcntl.h>

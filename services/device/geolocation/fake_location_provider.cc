@@ -7,6 +7,12 @@
 // TODO(lethalantidote): Convert location_arbitrator_impl to use actual mock
 // instead of FakeLocationProvider.
 
+// ---docerion
+// type: source
+// title: Fake location provider implementation
+// summary: Implements a fake LocationProvider with factory functions that reports positions synchronously for use in arbitrator unit tests.
+// ---
+
 #include "services/device/geolocation/fake_location_provider.h"
 
 #include "base/compiler_specific.h"

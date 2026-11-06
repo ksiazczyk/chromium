@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor Mojo interface header
+// summary: Declares SensorImpl, the Mojo Sensor implementation created by SensorProviderImpl to serve sensor clients.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_SENSOR_IMPL_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_SENSOR_IMPL_H_
 

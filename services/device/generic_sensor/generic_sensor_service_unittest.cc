@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic sensor service unit tests
+// summary: Unit tests for the generic sensor service covering sensor creation, configuration, shared-memory reading delivery and error notification through the Mojo sensor interfaces.
+// ---
+
 #include <algorithm>
 
 #include "base/barrier_closure.h"

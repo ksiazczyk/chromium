@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sensor data structures header
+// summary: Declares the SensorPathsLinux structure describing udev lookup data per sensor type and the SensorInfoLinux structure holding device node, frequency, scaling, offset, and reading files used to create PlatformSensorLinux instances.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_LINUX_SENSOR_DATA_LINUX_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_LINUX_SENSOR_DATA_LINUX_H_
 

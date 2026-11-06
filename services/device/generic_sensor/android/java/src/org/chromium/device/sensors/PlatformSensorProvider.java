@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensorProvider.java
+// summary: Android sensor provider that shares a SensorManager and a dedicated sensor event handler thread among active PlatformSensor instances, with a lifetime controlled by native code.
+// ---
+
 package org.chromium.device.sensors;
 
 import android.content.Context;

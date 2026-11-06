@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PositionCache interface header
+// summary: Declares the PositionCache interface for caching resolved positions keyed by Wi-Fi access point data, with lookup and diagnostics hooks.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_POSITION_CACHE_H_
 #define SERVICES_DEVICE_GEOLOCATION_POSITION_CACHE_H_
 

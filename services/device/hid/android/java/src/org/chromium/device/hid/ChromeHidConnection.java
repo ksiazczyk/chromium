@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeHidConnection Android HID connection wrapper
+// summary: Java wrapper around Android's HidDevice that forwards HID input reports to and sends output reports from the native C++ HidConnectionAndroid via JNI on the UI thread.
+// ---
+
 package org.chromium.device.hid;
 
 import android.os.Build;

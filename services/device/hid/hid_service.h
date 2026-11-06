@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID device service class header
+// summary: Declares the HidService singleton that tracks connected HID devices and provides enumeration, observation and connection APIs.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_SERVICE_H_
 #define SERVICES_DEVICE_HID_HID_SERVICE_H_
 

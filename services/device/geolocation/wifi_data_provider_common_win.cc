@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows NDIS access point conversion
+// summary: Converts Windows NDIS WLAN BSSID list entries into access point data for the geolocation WiFi provider.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_common_win.h"
 
 #include <assert.h>

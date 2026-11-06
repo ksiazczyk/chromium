@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS platform sensor implementation
+// summary: Implements the ChromeOS platform sensor that receives IIO samples over mojo from iioservice, scales them, and turns them into sensor readings.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_chromeos.h"
 
 #include <algorithm>

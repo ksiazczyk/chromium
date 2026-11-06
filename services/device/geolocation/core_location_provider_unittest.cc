@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoreLocationProvider unit tests
+// summary: Tests start/stop behavior, diagnostics states and position or error updates of the macOS Core Location provider using fake system sources.
+// ---
+
 #include "services/device/geolocation/core_location_provider.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockWifiDataProvider implementation
+// summary: Implements a singleton mock WifiDataProvider that serves controllable Wi-Fi data to code under test.
+// ---
+
 #include "services/device/geolocation/mock_wifi_data_provider.h"
 
 namespace device {

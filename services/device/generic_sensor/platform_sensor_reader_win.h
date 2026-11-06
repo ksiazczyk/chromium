@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sensor reader header
+// summary: Declares PlatformSensorReaderWin32, which reads sensor data via ISensor on the COM STA sequence and notifies clients of readings and errors.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_READER_WIN_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_READER_WIN_H_
 

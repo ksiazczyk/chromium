@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS HID connection implementation
+// summary: Implements HidConnection for macOS through IOKit's IOHIDDevice, registering input report callbacks and performing writes and feature reports on a blocking task runner.
+// ---
+
 #include "services/device/hid/hid_connection_mac.h"
 
 #include "base/apple/foundation_util.h"

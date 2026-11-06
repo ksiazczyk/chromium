@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quaternion fusion algorithm using Euler angles
+// summary: Implements the sensor fusion algorithm that converts orientation Euler angles into quaternions, treating a NaN alpha as zero.
+// ---
+
 #include "services/device/generic_sensor/orientation_quaternion_fusion_algorithm_using_euler_angles.h"
 
 #include <cmath>

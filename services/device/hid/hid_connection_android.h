@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HID connection class declaration
+// summary: Declares the Android HidConnection subclass that forwards reports and feature requests through JNI callbacks.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_CONNECTION_ANDROID_H_
 #define SERVICES_DEVICE_HID_HID_CONNECTION_ANDROID_H_
 

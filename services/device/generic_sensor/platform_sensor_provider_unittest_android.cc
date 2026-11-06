@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android platform sensor provider unit tests
+// summary: Unit tests for the Android sensor provider, covering a null sensor manager and sensor error handling during sensor destruction.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/test_future.h"
 #include "base/threading/platform_thread.h"

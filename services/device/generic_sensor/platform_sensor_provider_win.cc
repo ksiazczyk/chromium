@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sensor provider implementation
+// summary: Implements the platform sensor provider for Windows, creating sensor readers and fusion sensors through an ISensorManager confined to a COM STA task runner.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_win.h"
 
 #include <objbase.h>

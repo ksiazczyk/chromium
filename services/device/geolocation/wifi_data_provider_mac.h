@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the macOS WiFi data provider
+// summary: Declares WifiDataProviderMac, the CoreWLAN-based WiFi data provider for macOS built on WifiDataProviderCommon.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_MAC_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_MAC_H_
 

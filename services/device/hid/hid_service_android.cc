@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service Android implementation
+// summary: Implements the Android HID device service via JNI, enumerating devices through ChromeHidManager and opening connections with pending callback tracking.
+// ---
+
 #include "services/device/hid/hid_service_android.h"
 
 #include <utility>

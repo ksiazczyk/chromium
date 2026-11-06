@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensorFusionAlgorithm base implementation
+// summary: Implements the base sensor fusion algorithm, dispatching fused data computation to subclasses and providing no-op reset and frequency handling.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_fusion_algorithm.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor provider Mojo implementation
+// summary: Implements the SensorProvider Mojo interface, creating platform sensors and managing per-WebContents virtual sensor providers.
+// ---
+
 #include "services/device/generic_sensor/sensor_provider_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationProviderManager unit tests
+// summary: Unit tests for LocationProviderManager using fake providers to exercise provider selection, hybrid platform fallback, and position updates.
+// ---
+
 #include "services/device/geolocation/location_provider_manager.h"
 
 #include <algorithm>

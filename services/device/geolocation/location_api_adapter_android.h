@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android location API adapter header
+// summary: Declares LocationApiAdapterAndroid, a singleton JNI adapter that delivers Android location updates to the geolocation thread.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_LOCATION_API_ADAPTER_ANDROID_H_
 #define SERVICES_DEVICE_GEOLOCATION_LOCATION_API_ADAPTER_ANDROID_H_
 

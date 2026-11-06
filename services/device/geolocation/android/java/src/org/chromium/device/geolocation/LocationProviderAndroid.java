@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationProviderAndroid
+// summary: Location provider built on Android's LocationManager APIs that registers for location updates on the UI thread and enforces permission checks for approximate versus precise geolocation.
+// ---
+
 package org.chromium.device.geolocation;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

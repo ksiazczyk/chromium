@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT sensor reader implementations
+// summary: Implements Windows Runtime sensor readers for light, accelerometer, gyrometer, inclinometer, magnetometer and orientation sensors via the Windows.Devices.Sensors API.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_reader_winrt.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidConnection unit tests
+// summary: Tests for HidConnection and HidService that wait for a USB HID test gadget by serial number and exercise connect, read, write and feature report flows.
+// ---
+
 #include "services/device/hid/hid_connection.h"
 
 #include <stddef.h>

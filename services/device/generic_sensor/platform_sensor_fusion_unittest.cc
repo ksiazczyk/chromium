@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformSensorFusion unit tests
+// summary: Unit tests for PlatformSensorFusion using fake sensors and customizable fusion algorithms to verify reading change events, significance checks and sensor creation.
+// ---
+
 
 #include "services/device/generic_sensor/platform_sensor_fusion.h"
 

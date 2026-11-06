@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relative orientation Euler angles fusion using accelerometer and gyroscope
+// summary: Declares the accelerometer-and-gyroscope fusion algorithm class with its state and reset behavior.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_RELATIVE_ORIENTATION_EULER_ANGLES_FUSION_ALGORITHM_USING_ACCELEROMETER_AND_GYROSCOPE_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_RELATIVE_ORIENTATION_EULER_ANGLES_FUSION_ALGORITHM_USING_ACCELEROMETER_AND_GYROSCOPE_H_
 

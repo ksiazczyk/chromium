@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linear acceleration fusion algorithm unit tests
+// summary: Unit tests verifying the linear acceleration fusion algorithm that derives linear acceleration from accelerometer readings using a fake fusion sensor.
+// ---
+
 #include "services/device/generic_sensor/linear_acceleration_fusion_algorithm_using_accelerometer.h"
 
 #include "base/memory/raw_ptr.h"

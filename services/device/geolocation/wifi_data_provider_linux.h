@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux WiFi data provider header
+// summary: Declares WifiDataProviderLinux, which supplies the NetworkManager-based WLAN API and polling policy for Linux.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_LINUX_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_LINUX_H_
 

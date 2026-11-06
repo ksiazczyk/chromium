@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for sensor reading rounding
+// summary: Unit tests covering rounding of positive, negative, zero and extreme values as well as quaternion orientation readings.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_util.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo HID connection implementation
+// summary: Wraps a HidConnection behind the mojom::HidConnection interface, translating Mojo calls and input report notifications.
+// ---
+
 #include "services/device/hid/hid_connection_impl.h"
 
 #include <algorithm>

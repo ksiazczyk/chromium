@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation context class declaration
+// summary: Declares GeolocationContext, the Mojo GeolocationContext interface that manages a set of GeolocationImpl instances for a given context.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_GEOLOCATION_CONTEXT_H_
 #define SERVICES_DEVICE_GEOLOCATION_GEOLOCATION_CONTEXT_H_
 

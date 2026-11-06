@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux platform sensor provider base implementation
+// summary: Implements shared Linux provider logic that recognizes fusion sensor types and creates the matching fusion algorithms for orientation, gravity and linear acceleration sensors.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_linux_base.h"
 
 #include <memory>

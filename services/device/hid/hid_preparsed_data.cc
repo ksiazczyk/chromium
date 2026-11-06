@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID preparsed data implementation
+// summary: Validates and converts Windows _HIDP_PREPARSED_DATA objects into report items for the Windows HID service.
+// ---
+
 #include "services/device/hid/hid_preparsed_data.h"
 
 #include <cstddef>

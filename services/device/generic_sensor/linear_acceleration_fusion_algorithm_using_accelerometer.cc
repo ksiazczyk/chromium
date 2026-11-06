@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear acceleration fusion algorithm implementation
+// summary: Implements the fusion algorithm that isolates gravity with a low-pass filter and subtracts it from accelerometer data to obtain linear acceleration.
+// ---
+
 #include "services/device/generic_sensor/linear_acceleration_fusion_algorithm_using_accelerometer.h"
 
 #include "base/check.h"

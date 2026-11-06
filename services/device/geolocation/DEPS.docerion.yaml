@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Geolocation include rules
+summary: Specifies allowed include directories for the geolocation folder, with a per-file exception for network_location_request.cc.

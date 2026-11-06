@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HID preparsed data declaration
+// summary: Declares inferred packed layouts of the Windows _HIDP_PREPARSED_DATA header and report items used by HidServiceWin.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_PREPARSED_DATA_H_
 #define SERVICES_DEVICE_HID_HID_PREPARSED_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public IP address geolocation provider header
+// summary: Declares the PublicIpAddressGeolocationProvider Mojo implementation that creates IP-based Geolocation instances using a Google API key and URL loader factory.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_PUBLIC_IP_ADDRESS_GEOLOCATION_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_PUBLIC_IP_ADDRESS_GEOLOCATION_PROVIDER_H_
 

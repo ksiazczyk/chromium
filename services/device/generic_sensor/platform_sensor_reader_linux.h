@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sensor reader interface
+// summary: Defines the SensorReader interface for Linux platform sensors, currently supporting a polling strategy for fetching data.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_READER_LINUX_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_PLATFORM_SENSOR_READER_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service macOS header
+// summary: Declares the macOS HidService class with IOKit notification port handling and blocking-thread device opening.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_SERVICE_MAC_H_
 #define SERVICES_DEVICE_HID_HID_SERVICE_MAC_H_
 

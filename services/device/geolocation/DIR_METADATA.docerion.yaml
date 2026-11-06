@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Geolocation directory metadata
+summary: Maps the directory to the Blink>Geolocation Monorail component and a Buganizer component ID for issue tracking.

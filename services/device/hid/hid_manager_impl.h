@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID manager declaration
+// summary: Declares HidManagerImpl, which handles mojo HID communications for clients and observes HidService device events.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_MANAGER_IMPL_H_
 #define SERVICES_DEVICE_HID_HID_MANAGER_IMPL_H_
 

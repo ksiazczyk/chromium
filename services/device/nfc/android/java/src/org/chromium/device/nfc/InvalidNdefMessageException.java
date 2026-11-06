@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalid NDEF message exception
+// summary: Defines the exception thrown when an NDEF message is found to be invalid during conversion to NdefMessage.
+// ---
+
 package org.chromium.device.nfc;
 
 import org.chromium.build.annotations.NullMarked;

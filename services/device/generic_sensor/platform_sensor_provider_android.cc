@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android sensor provider implementation
+// summary: Implements the Android sensor provider, creating sensors through JNI and falling back to fusion algorithms for gravity, linear acceleration and orientation sensors.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_android.h"
 
 #include <utility>

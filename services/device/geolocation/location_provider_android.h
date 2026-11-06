@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android location provider header
+// summary: Declares LocationProviderAndroid, the LocationProvider implementation that uses the Android platform provider over JNI.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_LOCATION_PROVIDER_ANDROID_H_
 #define SERVICES_DEVICE_GEOLOCATION_LOCATION_PROVIDER_ANDROID_H_
 

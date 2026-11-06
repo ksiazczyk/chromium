@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Absolute orientation Euler angles fusion algorithm
+// summary: Implements the fusion algorithm that computes absolute orientation Euler angles from accelerometer and magnetometer readings via a rotation matrix.
+// ---
+
 #include "services/device/generic_sensor/absolute_orientation_euler_angles_fusion_algorithm_using_accelerometer_and_magnetometer.h"
 
 #include <cmath>

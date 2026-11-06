@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensorFusion implementation
+// summary: Implements the PlatformSensorFusion class and its factory, which fetches source sensors from the provider and combines them into a fused virtual platform sensor.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_fusion.h"
 
 #include <algorithm>

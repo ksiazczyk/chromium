@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Orientation utilities header
+// summary: Declares the helper that computes orientation Euler angles in degrees from a rotation matrix.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_ORIENTATION_UTIL_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_ORIENTATION_UTIL_H_
 

@@ -4,6 +4,12 @@
 
 // Provides wifi scan API binding for chromeos, using proprietary APIs.
 
+// ---docerion
+// type: source
+// title: ChromeOS Wi-Fi data provider implementation
+// summary: Implements the ChromeOS Wi-Fi data provider, polling access points via the Ash NetworkHandler with polling intervals and an access point limit.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_chromeos.h"
 
 #include <stdint.h>

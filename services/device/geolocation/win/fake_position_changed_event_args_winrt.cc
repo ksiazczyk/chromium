@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake position changed event args implementation
+// summary: Implements fake IPositionChangedEventArgs that supplies a fake geoposition to position changed handlers.
+// ---
+
 #include "services/device/geolocation/win/fake_position_changed_event_args_winrt.h"
 
 #include "services/device/geolocation/win/fake_geocoordinate_winrt.h"

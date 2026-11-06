@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake status changed event args implementation
+// summary: Implements fake IStatusChangedEventArgs that reports a fixed position status for geolocation tests.
+// ---
+
 #include "services/device/geolocation/win/fake_status_changed_event_args_winrt.h"
 
 namespace device {

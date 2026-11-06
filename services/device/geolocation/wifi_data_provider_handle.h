@@ -12,6 +12,12 @@
 // implementation of WifiDataProvider to abstract across platforms and also to
 // allow mock providers to be used for testing.
 
+// ---docerion
+// type: source
+// title: WiFi data provider handle
+// summary: Declares WifiDataProviderHandle, a handle to the singleton WiFi data provider with a factory function for platform abstraction and testing.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_HANDLE_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_HANDLE_H_
 

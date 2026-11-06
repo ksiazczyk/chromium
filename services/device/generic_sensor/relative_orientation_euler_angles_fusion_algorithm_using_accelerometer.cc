@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relative orientation fusion algorithm using accelerometer
+// summary: Computes relative orientation Euler angles from accelerometer readings using W3C draft angle transformations.
+// ---
+
 #include "services/device/generic_sensor/relative_orientation_euler_angles_fusion_algorithm_using_accelerometer.h"
 
 #include <cmath>

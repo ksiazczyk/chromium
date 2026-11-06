@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Euler angles fusion algorithm using quaternion header
+// summary: Declares the fusion algorithm class that computes orientation Euler angles from orientation quaternion sensor readings.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_ORIENTATION_EULER_ANGLES_FUSION_ALGORITHM_USING_QUATERNION_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_ORIENTATION_EULER_ANGLES_FUSION_ALGORITHM_USING_QUATERNION_H_
 

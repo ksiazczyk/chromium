@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Orientation test data for Euler angles and quaternions
+// summary: Provides paired Euler angle and quaternion test values used by the orientation fusion algorithm unit tests.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_ORIENTATION_TEST_DATA_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_ORIENTATION_TEST_DATA_H_
 

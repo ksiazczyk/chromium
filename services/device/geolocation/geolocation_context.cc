@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation context implementation
+// summary: Implements GeolocationContext, which binds GeolocationImpl clients, forwards permission updates, and applies or clears geoposition overrides.
+// ---
+
 #include "services/device/geolocation/geolocation_context.h"
 
 #include <utility>

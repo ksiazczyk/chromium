@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation provider unit tests
+// summary: Unit tests for GeolocationProviderImpl covering location update callbacks, cached positions, and OS-level geolocation permission handling.
+// ---
+
 #include "services/device/geolocation/geolocation_provider_impl.h"
 
 #include <memory>

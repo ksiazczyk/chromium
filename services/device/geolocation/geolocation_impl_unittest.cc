@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeolocationImpl unit tests
+// summary: Unit tests for GeolocationImpl using a fake GeolocationProvider to cover position queries, permissions, accuracy handling, and overrides.
+// ---
+
 #include "services/device/geolocation/geolocation_impl.h"
 
 #include <memory>

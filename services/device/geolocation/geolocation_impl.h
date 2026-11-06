@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationImpl class declaration
+// summary: Declares GeolocationImpl, the per-client implementation of the Geolocation Mojo interface that subscribes to provider location updates.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_GEOLOCATION_IMPL_H_
 #define SERVICES_DEVICE_GEOLOCATION_GEOLOCATION_IMPL_H_
 

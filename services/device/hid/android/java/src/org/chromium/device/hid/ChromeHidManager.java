@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeHidManager Android HID manager bridge
+// summary: Java bridge exposing Android HidManager to the native HidServiceAndroid, watching HID access permission changes and device added/removed events.
+// ---
+
 package org.chromium.device.hid;
 
 import android.app.AppOpsManager;

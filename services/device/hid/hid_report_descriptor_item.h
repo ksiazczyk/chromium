@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID report descriptor item class header
+// summary: Declares the descriptor item class with HID main, global and local item tags plus the report info bitfield layout.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_REPORT_DESCRIPTOR_ITEM_H_
 #define SERVICES_DEVICE_HID_HID_REPORT_DESCRIPTOR_ITEM_H_
 

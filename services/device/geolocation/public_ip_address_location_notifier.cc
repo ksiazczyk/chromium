@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public IP address location notifier implementation
+// summary: Implements the notifier that serves cached geopositions to clients and issues network location requests after network changes.
+// ---
+
 #include "services/device/geolocation/public_ip_address_location_notifier.h"
 
 #include <memory>

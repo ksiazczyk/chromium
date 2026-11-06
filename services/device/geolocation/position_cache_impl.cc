@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position cache implementation
+// summary: Implements a bounded cache of geopositions keyed by WiFi access point MAC addresses, with time-based eviction, network change handling, and diagnostics for geolocation internals.
+// ---
+
 #include "services/device/geolocation/position_cache_impl.h"
 
 #include <algorithm>

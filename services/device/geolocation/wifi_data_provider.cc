@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi data provider base implementation
+// summary: Implements the WifiDataProvider base class, managing client callbacks and posting update notifications on the client task runner.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider.h"
 
 #include "base/functional/bind.h"

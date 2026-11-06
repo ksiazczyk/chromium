@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gravity fusion algorithm using accelerometer declaration
+// summary: Declares the fusion algorithm that computes gravity values from accelerometer readings with a low-pass filter.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_GRAVITY_FUSION_ALGORITHM_USING_ACCELEROMETER_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_GRAVITY_FUSION_ALGORITHM_USING_ACCELEROMETER_H_
 

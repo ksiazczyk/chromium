@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium Sensor Backend Modernization on Windows
+summary: Documents the Chromium sensor backend on Windows, covering the general backend model, the deprecated ISensor implementation, and the Windows.Devices.Sensors WinRT implementation with class roles and sensor type mappings.
+relations:
+  - references /services/device/generic_sensor/windows/chromium_sensor_backend_windows_isensor.png
+  - references /services/device/generic_sensor/windows/chromium_sensor_backend_windows_isensor_flow.png
+  - documents /services/device/generic_sensor/platform_sensor_provider_win.cc
+---
+
 # Chromium Sensor Backend Modernization on Windows
 
 ## 1. Summary

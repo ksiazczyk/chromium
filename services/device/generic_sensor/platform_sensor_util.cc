@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor reading rounding utilities
+// summary: Implements rounding of sensor readings to fixed multiples to protect user privacy against fingerprinting and gyroscope eavesdropping attacks.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_util.h"
 
 #include <algorithm>

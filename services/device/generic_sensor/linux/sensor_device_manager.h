@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sensor device manager header
+// summary: Declares the SensorDeviceManager class, a UdevWatcher observer that enumerates and monitors sensor udev events, with a Delegate interface for device added and removed notifications and overridable udev wrappers for testing.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_LINUX_SENSOR_DEVICE_MANAGER_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_LINUX_SENSOR_DEVICE_MANAGER_H_
 

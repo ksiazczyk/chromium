@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake platform sensor fusion class declaration
+// summary: Declares FakePlatformSensorFusion, a test double of PlatformSensorFusion that stores per-type source readings for fusion algorithm tests.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_FAKE_PLATFORM_SENSOR_FUSION_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_FAKE_PLATFORM_SENSOR_FUSION_H_
 

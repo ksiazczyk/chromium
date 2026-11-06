@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HID report descriptor parsing
+// summary: gtest suite verifying descriptor parsing of collections, usages, units and report sizes against known device descriptors.
+// ---
+
 #include "services/device/hid/hid_report_descriptor.h"
 
 #include <stddef.h>

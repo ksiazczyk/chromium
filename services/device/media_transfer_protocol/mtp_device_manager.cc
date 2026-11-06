@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTP device manager implementation
+// summary: Implements MtpDeviceManager, which tracks storage info and forwards MTP storage and file operations to the daemon client over D-Bus.
+// ---
+
 #include "services/device/media_transfer_protocol/mtp_device_manager.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NFC blocklist unit tests
+// summary: Unit tests for the NfcBlocklist class verifying that blocked historical bytes, including YubiKey devices and server-provided entries, are correctly matched.
+// ---
+
 package org.chromium.device.nfc;
 
 import static org.junit.Assert.assertFalse;

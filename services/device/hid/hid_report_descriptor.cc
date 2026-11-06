@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID report descriptor parser implementation
+// summary: Implements HidReportDescriptor, parsing raw descriptor bytes into collections and computing maximum input, output and feature report sizes.
+// ---
+
 #include "services/device/hid/hid_report_descriptor.h"
 
 #include <algorithm>

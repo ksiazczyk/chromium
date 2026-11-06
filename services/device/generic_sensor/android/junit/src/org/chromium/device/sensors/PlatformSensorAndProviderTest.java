@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformSensor and PlatformSensorProvider unit tests
+// summary: Robolectric unit tests for the Android PlatformSensor and PlatformSensorProvider classes, using mocked sensors and sensor manager callbacks.
+// ---
+
 package org.chromium.device.sensors;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux platform sensor provider implementation
+// summary: Implements the Linux sensor provider that enumerates udev sensor devices on a blocking task runner and creates platform or fusion sensors for requests.
+// ---
+
 #include "services/device/generic_sensor/platform_sensor_provider_linux.h"
 
 #include <utility>

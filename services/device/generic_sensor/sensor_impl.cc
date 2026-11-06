@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor Mojo interface implementation
+// summary: Implements the Sensor Mojo interface, forwarding configuration, suspend, resume and reading notifications to the platform sensor.
+// ---
+
 #include "services/device/generic_sensor/sensor_impl.h"
 
 #include <utility>

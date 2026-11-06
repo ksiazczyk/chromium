@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gravity and linear acceleration fusion algorithm tests
+// summary: Unit tests for the gravity and linear acceleration fusion algorithms that derive their readings from the accelerometer.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "services/device/generic_sensor/gravity_fusion_algorithm_using_accelerometer.h"
 #include "services/device/generic_sensor/linear_acceleration_fusion_algorithm_using_accelerometer.h"

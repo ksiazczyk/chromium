@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC tag I/O operations handler
+// summary: Utility that provides read, write, make-read-only and overwrite checks for NFC tags through the Ndef and NdefFormatable tag technologies.
+// ---
+
 package org.chromium.device.nfc;
 
 import android.nfc.FormatException;

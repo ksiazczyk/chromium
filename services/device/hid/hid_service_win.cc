@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the HID device service
+// summary: Implements HidService on Windows, enumerating HID devices via the Setup and Device Installation APIs and unpacking preparsed data report items.
+// ---
+
 #include "services/device/hid/hid_service_win.h"
 
 #include <string_view>

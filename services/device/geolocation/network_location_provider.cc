@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkLocationProvider implementation
+// summary: Implements the network location provider that resolves positions from Wi-Fi data via server requests, with caching and diagnostics.
+// ---
+
 #include "services/device/geolocation/network_location_provider.h"
 
 #include <algorithm>

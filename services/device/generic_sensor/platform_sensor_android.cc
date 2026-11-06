@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android platform sensor implementation
+// summary: Implements the Android platform sensor, bridging sensor start, stop, and configuration calls to the Java PlatformSensor object over JNI.
+// ---
+
 
 #include "services/device/generic_sensor/platform_sensor_android.h"
 

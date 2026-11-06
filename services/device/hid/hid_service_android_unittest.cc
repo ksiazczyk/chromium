@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID service Android unit tests
+// summary: Tests the Android HID service device addition, removal of all devices, and physical device ID handling for Bluetooth and USB transports.
+// ---
+
 #include "services/device/hid/hid_service_android.h"
 
 #include <algorithm>

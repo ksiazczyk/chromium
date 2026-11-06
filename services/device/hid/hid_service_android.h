@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID service Android header
+// summary: Declares the Android HidService subclass that receives device add, remove, and connect events from Java through JNI callbacks.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_SERVICE_ANDROID_H_
 #define SERVICES_DEVICE_HID_HID_SERVICE_ANDROID_H_
 

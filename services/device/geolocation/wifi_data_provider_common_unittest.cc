@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common WiFi data provider unit tests
+// summary: Unit tests for WifiDataProviderCommon using a mock WLAN API and polling policy to verify cross-platform polling behavior.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_common.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quaternion from Euler angles algorithm unit tests
+// summary: Unit tests verifying the Euler-angles-to-quaternion conversion, including quaternion normalization and NaN alpha handling.
+// ---
+
 #include <cmath>
 
 #include "base/memory/raw_ptr.h"

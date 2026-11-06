@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidDeviceInfo unit tests
+// summary: Unit tests verifying HidDeviceInfo collection parsing and FindCollectionWithReport lookup across multiple top-level collections.
+// ---
+
 #include "services/device/hid/hid_device_info.h"
 
 #include "base/containers/flat_map.h"

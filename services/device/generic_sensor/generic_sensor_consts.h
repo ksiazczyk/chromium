@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic sensor constants
+// summary: Defines shared constants for the generic sensor code, including an equality epsilon and Gauss-to-microtesla unit conversion factors.
+// ---
+
 #ifndef SERVICES_DEVICE_GENERIC_SENSOR_GENERIC_SENSOR_CONSTS_H_
 #define SERVICES_DEVICE_GENERIC_SENSOR_GENERIC_SENSOR_CONSTS_H_
 

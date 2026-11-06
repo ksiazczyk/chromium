@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NDEF message validation utility
+// summary: Utility class that validates Mojo NdefMessage records, checking data and mediaType fields against the rules for each record type.
+// ---
+
 package org.chromium.device.nfc;
 
 import org.chromium.build.annotations.NullMarked;

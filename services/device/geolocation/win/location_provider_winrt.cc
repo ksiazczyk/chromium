@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WinRT geolocation location provider implementation
+// summary: Implements the Chromium geolocation provider for Windows 8/10 using WinRT Geolocator APIs, handling position and status events, permission checks, and error reporting.
+// ---
+
 #include "services/device/geolocation/win/location_provider_winrt.h"
 
 #include <windows.devices.enumeration.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS WiFi data provider unit tests
+// summary: Unit tests for the ChromeOS WiFi data provider, verifying access point data retrieval through Shill network handler test helpers.
+// ---
+
 #include "services/device/geolocation/wifi_data_provider_chromeos.h"
 
 #include "base/memory/raw_ptr.h"

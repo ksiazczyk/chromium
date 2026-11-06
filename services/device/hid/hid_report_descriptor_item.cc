@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID report descriptor item implementation
+// summary: Implements parsing of individual HID descriptor items, handling short and long item headers and payload sizes.
+// ---
+
 #include "services/device/hid/hid_report_descriptor_item.h"
 
 #include <stdlib.h>

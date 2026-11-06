@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Windows WiFi data provider
+// summary: Declares WifiDataProviderWin, the Windows WiFi data provider built on WifiDataProviderCommon.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_WIN_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_WIN_H_
 

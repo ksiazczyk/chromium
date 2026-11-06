@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows platform sensor and provider unit tests
+// summary: Unit tests for the Windows sensor provider that mock the COM ISensorManager interfaces to verify sensor creation and readings on Windows.
+// ---
+
 #include <SensorsApi.h>
 #include <sensors.h>
 #include <wrl/implements.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerMonitorMessageBroadcaster implementation
+// summary: Implements the broadcaster that observes battery power status, suspend and resume events and forwards them to registered Mojo clients.
+// ---
+
 #include "services/device/power_monitor/power_monitor_message_broadcaster.h"
 
 #include "base/power_monitor/power_monitor.h"

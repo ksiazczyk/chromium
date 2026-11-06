@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi data header
+// summary: Declares the WifiData struct holding a MAC-address-sorted set of Wi-Fi access point data used for geolocation.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for media transfer protocol
+summary: Defines GN proto libraries and the media_transfer_protocol source set that builds the ChromeOS MTP support code.

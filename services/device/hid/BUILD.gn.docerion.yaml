@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the device HID service
+summary: Defines the hid source set with platform-specific sources, JNI generation for Android, and a HID report descriptor fuzzer target.

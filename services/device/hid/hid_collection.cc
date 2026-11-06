@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID collection parsing implementation
+// summary: Builds HID collections from report descriptor items using the state machine described in the HID specification, with depth and size limits.
+// ---
+
 #include "services/device/hid/hid_collection.h"
 
 #include <algorithm>

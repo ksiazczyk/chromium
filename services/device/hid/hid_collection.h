@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidCollection class declaration
+// summary: Declares a HID collection holding its usage, report IDs, and input, output, and feature reports, with conversion to Mojo types.
+// ---
+
 #ifndef SERVICES_DEVICE_HID_HID_COLLECTION_H_
 #define SERVICES_DEVICE_HID_HID_COLLECTION_H_
 

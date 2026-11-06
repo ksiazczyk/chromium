@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows WinRT geolocation provider
+// summary: Tests the WinRT location provider using fake geolocator and geocoordinate objects, covering permission granting, accuracy options, and position update behavior.
+// ---
+
 #include "services/device/geolocation/win/location_provider_winrt.h"
 
 #include <memory>

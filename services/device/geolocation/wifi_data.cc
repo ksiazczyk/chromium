@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi data implementation
+// summary: Implements WifiData comparison logic that decides whether a new set of Wi-Fi access points differs significantly from the previous one.
+// ---
+
 #include "services/device/geolocation/wifi_data.h"
 
 #include <stddef.h>

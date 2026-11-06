@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID report item implementation
+// summary: Implements HidReportItem, building report items from descriptor state and converting them to Mojo structs.
+// ---
+
 #include "services/device/hid/hid_report_item.h"
 
 #include "services/device/public/mojom/hid.mojom.h"

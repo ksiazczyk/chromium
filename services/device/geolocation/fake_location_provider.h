@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake location provider for testing
+// summary: Declares FakeLocationProvider, a fake LocationProvider implementation that simulates position updates and diagnostics for geolocation tests.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_FAKE_LOCATION_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_FAKE_LOCATION_PROVIDER_H_
 

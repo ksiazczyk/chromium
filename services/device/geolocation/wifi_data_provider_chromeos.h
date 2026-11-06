@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Wi-Fi data provider header
+// summary: Declares WifiDataProviderChromeOs, the ChromeOS implementation of WifiDataProvider that schedules Wi-Fi scans under a polling policy.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_CHROMEOS_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIFI_DATA_PROVIDER_CHROMEOS_H_
 

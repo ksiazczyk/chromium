@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake status changed event args declarations
+// summary: Declares FakeStatusChangedEventArgs, a fake Windows Runtime event args class for status changed events.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_STATUS_CHANGED_EVENT_ARGS_WINRT_H_
 #define SERVICES_DEVICE_GEOLOCATION_WIN_FAKE_STATUS_CHANGED_EVENT_ARGS_WINRT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Absolute orientation Euler angles fusion algorithm unit tests
+// summary: Unit tests verifying the absolute orientation Euler angles fusion algorithm using fake accelerometer and magnetometer readings.
+// ---
+
 #include <cmath>
 
 #include "base/memory/raw_ptr.h"

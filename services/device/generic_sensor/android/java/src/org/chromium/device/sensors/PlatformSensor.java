@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformSensor.java
+// summary: Android Sensor Framework implementation of PlatformSensor that maps mojom sensor types to Android sensors, delivers readings to native code via JNI, and manages polling frequency.
+// ---
+
 package org.chromium.device.sensors;
 
 import android.hardware.Sensor;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkLocationProvider header
+// summary: Declares NetworkLocationProvider, which obtains position fixes from a network location service using Wi-Fi access point data.
+// ---
+
 #ifndef SERVICES_DEVICE_GEOLOCATION_NETWORK_LOCATION_PROVIDER_H_
 #define SERVICES_DEVICE_GEOLOCATION_NETWORK_LOCATION_PROVIDER_H_
 

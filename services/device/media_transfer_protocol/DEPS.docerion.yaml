@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media transfer protocol
+summary: Grants include access to D-Bus, ChromeOS Ash D-Bus components, device mojom, and cros_system_api for the MTP code.

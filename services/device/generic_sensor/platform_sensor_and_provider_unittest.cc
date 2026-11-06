@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform sensor and provider unit tests
+// summary: Unit tests for PlatformSensor and its provider using fake implementations, covering resource freeing and the reading significance check behavior.
+// ---
+
 #include <memory>
 #include "services/device/generic_sensor/platform_sensor_provider.h"
 
