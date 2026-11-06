@@ -1,0 +1,4 @@
+# Docerion header of mocked.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for the mocked Web Bundle
+summary: Mock HTTP response headers served with the mocked Web Bundle, marking it as application/webbundle.

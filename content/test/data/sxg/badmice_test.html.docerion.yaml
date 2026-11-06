@@ -1,0 +1,4 @@
+# Docerion header of badmice_test.html.
+type: data
+title: Bad MICE test page
+summary: HTML test page titled "Bad MICE test" filled with dummy padding data to exercise handling of broken MICE chunked content in signed exchanges.

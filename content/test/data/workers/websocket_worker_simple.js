@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket Echo Test Worker Script
+// summary: Worker script that works as a dedicated or shared worker, opens a WebSocket, checks that a greeting is echoed back cleanly, and reports DONE or FAIL.
+// ---
+
 if (!self.postMessage) {
   // This is a shared worker - mimic dedicated worker APIs
   onconnect = function(event) {

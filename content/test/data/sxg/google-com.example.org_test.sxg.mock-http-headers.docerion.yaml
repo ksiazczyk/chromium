@@ -1,0 +1,4 @@
+# Docerion header of google-com.example.org_test.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for google-com.example.org test SXG
+summary: Provides the HTTP response headers, including the signed-exchange content type, served with the google-com.example.org test SXG file.

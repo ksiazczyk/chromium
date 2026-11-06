@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of shared MojoLPM fuzzer environment
+// summary: Implements the fuzzer environment classes, ASAN false-positive reporting and PartitionAlloc setup shared by MojoLPM fuzzers.
+// ---
+
 #include "content/test/fuzzer/mojolpm_fuzzer_support.h"
 
 #include "base/allocator/partition_alloc_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page for sw-scope-navigation-preload
+summary: Minimal HTML test page titled 'Done' serving as test data for the SXG sw-scope-navigation-preload test case.

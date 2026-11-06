@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture host MojoLPM fuzzer
+// summary: LibFuzzer test that fuzzes the VideoCaptureHost Mojo interface using fake capture devices, a media stream manager and proto-defined actions.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

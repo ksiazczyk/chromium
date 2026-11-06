@@ -1,0 +1,4 @@
+# Docerion header of mocked.wbn.
+type: test
+title: Mocked Web Bundle for MockParserFactory tests
+summary: HTML content used with MockParserFactory in web_bundle_browsertest.cc instead of a real Web Bundle, setting the title to the base URI.

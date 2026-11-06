@@ -1,0 +1,4 @@
+# Docerion header of empty_page.html.
+type: test
+title: Empty test page
+summary: Minimal HTML page titled Empty Page used as a blank test target.

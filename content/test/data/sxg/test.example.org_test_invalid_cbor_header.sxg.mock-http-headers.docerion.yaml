@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_test_invalid_cbor_header.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for invalid CBOR header SXG test
+summary: Mock HTTP response headers served with the signed exchange that has an invalid CBOR header, used as a test fixture for SXG parsing.

@@ -1,0 +1,4 @@
+# Docerion header of service-worker.html.
+type: test
+title: Service worker registration test page
+summary: HTML test page that registers service-worker.js in three scopes configured for generated responses, navigation preload, and no respond-with behavior.

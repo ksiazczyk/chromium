@@ -1,0 +1,4 @@
+# Docerion header of send-beacon.html.
+type: test
+title: Send beacon test page
+summary: Test page that sends a beacon with navigator.sendBeacon to /beacon.

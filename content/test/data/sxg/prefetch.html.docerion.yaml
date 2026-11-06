@@ -1,0 +1,4 @@
+# Docerion header of prefetch.html.
+type: test
+title: Test page prefetching an SXG link
+summary: Test page that adds a prefetch link for the SXG URL from the location hash and reports success or failure via the document title.

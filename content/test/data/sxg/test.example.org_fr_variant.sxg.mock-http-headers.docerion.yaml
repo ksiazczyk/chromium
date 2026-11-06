@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_fr_variant.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for test.example.org fr variant SXG
+summary: Mock HTTP response headers serving a signed exchange with the application/signed-exchange content type for the fr variant test case.

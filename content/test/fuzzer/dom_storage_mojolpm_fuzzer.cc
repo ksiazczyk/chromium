@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM Storage MojoLPM fuzzer
+// summary: MojoLPM fuzzer that exercises the browser-process mojo interfaces implementing the DOM Storage web API, including local and session storage areas.
+// ---
+
 #include <stdint.h>
 
 #include <utility>

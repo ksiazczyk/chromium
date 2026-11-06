@@ -1,0 +1,4 @@
+# Docerion header of red_jank_second_pageshow.html.
+type: test
+title: Red jank page with delayed pageshow for view transition tests
+summary: Test page with a red background that blocks the main thread for four seconds on later pageshow events to simulate jank during view transitions.

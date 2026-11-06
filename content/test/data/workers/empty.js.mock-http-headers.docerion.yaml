@@ -1,0 +1,4 @@
+# Docerion header of empty.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for empty.js
+summary: Mock HTTP response headers that serve empty.js as JavaScript with a long cache lifetime and permissive CORS for worker tests.

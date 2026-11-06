@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_vary_cookie.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for Vary cookie SXG test
+summary: Mock HTTP response headers for the Vary cookie signed exchange test fixture.

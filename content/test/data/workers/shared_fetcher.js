@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Shared worker fetch helper
+// summary: Shared worker script that fetches URLs sent over its message port and replies with success or error information.
+// ---
+
 self.addEventListener('connect', (evt) => {
   const port = evt.ports[0];
 

@@ -1,0 +1,4 @@
+# Docerion header of same_origin.har.
+type: test
+title: HAR capture of same-origin web bundle requests
+summary: HAR test data with same-origin request and response entries for a JSON resource and a PNG image used in web bundle tests.

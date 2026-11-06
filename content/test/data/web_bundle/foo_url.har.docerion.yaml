@@ -1,0 +1,4 @@
+# Docerion header of foo_url.har.
+type: test
+title: HAR fixture for foo URL web bundle tests
+summary: HAR fixture recording mock HTTP exchanges, including a request under the foo scheme, used as input for generating web bundle test bundles.

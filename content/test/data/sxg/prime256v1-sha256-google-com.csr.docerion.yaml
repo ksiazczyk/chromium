@@ -1,0 +1,4 @@
+# Docerion header of prime256v1-sha256-google-com.csr.
+type: test
+title: Certificate signing request for google-com.example.org
+summary: Certificate signing request for google-com.example.org using the prime256v1 curve with SHA-256, used to generate SXG test certificates.

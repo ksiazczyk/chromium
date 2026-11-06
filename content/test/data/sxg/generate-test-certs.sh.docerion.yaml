@@ -1,0 +1,4 @@
+# Docerion header of generate-test-certs.sh.
+type: script
+title: Test certificate generation script
+summary: Shell script that uses OpenSSL to generate ECDSA keys, CSRs and a range of test certificates with varying validity and extensions for signed exchange tests.

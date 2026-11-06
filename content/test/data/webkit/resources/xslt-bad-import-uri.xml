@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding="UTF-8" ?>
+<!--docerion
+type: test
+title: XSLT bad import URI test XML document
+summary: XML test document with an empty catalog element that applies the xslt-bad-import-uri stylesheet via an xml-stylesheet processing instruction.
+-->
+
 <?xml-stylesheet type="text/xsl" href="xslt-bad-import-uri.xsl"?>
 <catalog> 
 </catalog> 

@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_web_bundle.html.
+type: test
+title: Test page loading a cross-origin web bundle
+summary: HTML test page that loads cross_origin_b2.wbn as a web bundle with a ./ scope.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controller presentation service delegate fake header
+// summary: Declares the fake ControllerPresentationServiceDelegate for fuzzing, whose NextAction runs callables specified by protobuf Action messages.
+// ---
+
 #ifndef CONTENT_TEST_FUZZER_CONTROLLER_PRESENTATION_SERVICE_DELEGATE_FOR_FUZZING_H_
 #define CONTENT_TEST_FUZZER_CONTROLLER_PRESENTATION_SERVICE_DELEGATE_FOR_FUZZING_H_
 

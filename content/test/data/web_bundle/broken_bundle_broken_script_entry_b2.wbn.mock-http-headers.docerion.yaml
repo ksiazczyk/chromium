@@ -1,0 +1,4 @@
+# Docerion header of broken_bundle_broken_script_entry_b2.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for broken_bundle_broken_script_entry_b2.wbn
+summary: Serves broken_bundle_broken_script_entry_b2.wbn as application/webbundle in browser tests.

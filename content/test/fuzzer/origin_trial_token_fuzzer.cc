@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer for origin trial token parsing
+// summary: Parses fuzzed strings as blink trial tokens with varying versions to test TrialToken::Parse robustness.
+// ---
+
 #include "third_party/blink/public/common/origin_trials/trial_token.h"
 
 #include <stddef.h>

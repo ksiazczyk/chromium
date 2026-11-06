@@ -1,0 +1,4 @@
+# Docerion header of invalid_web_bundle.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for the invalid Web Bundle
+summary: Mock HTTP response headers served with the invalid Web Bundle during tests, declaring the application/webbundle content type.

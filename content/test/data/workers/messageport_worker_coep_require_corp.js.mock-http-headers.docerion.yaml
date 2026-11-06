@@ -1,0 +1,4 @@
+# Docerion header of messageport_worker_coep_require_corp.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for require-corp COEP worker script
+summary: Mock HTTP headers served with the worker script, setting Cross-Origin-Embedder-Policy to require-corp for the test.

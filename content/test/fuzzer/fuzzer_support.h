@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer support adapter for RenderViewTest
+// summary: Declares a RenderViewTest adapter and a static environment struct that content fuzzers use to load HTML in a render view.
+// ---
+
 #ifndef CONTENT_TEST_FUZZER_FUZZER_SUPPORT_H_
 #define CONTENT_TEST_FUZZER_FUZZER_SUPPORT_H_
 

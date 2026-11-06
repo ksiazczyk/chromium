@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_bad_content_type.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for test.example.org bad content type SXG
+summary: Mock HTTP response headers serving a signed exchange with the application/signed-exchange content type for the bad content type test case.

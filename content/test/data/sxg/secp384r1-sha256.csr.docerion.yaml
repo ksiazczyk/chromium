@@ -1,0 +1,4 @@
+# Docerion header of secp384r1-sha256.csr.
+type: test
+title: secp384r1 SHA-256 certificate signing request
+summary: Certificate signing request for test.example.org using the secp384r1 curve and SHA-256, used to generate test certificates for signed exchanges.

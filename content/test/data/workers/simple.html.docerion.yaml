@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: test
+title: Fetch helper test page
+summary: Test page providing helper functions that fetch a URL and return ok, the response status, or the error name.

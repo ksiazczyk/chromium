@@ -1,0 +1,4 @@
+# Docerion header of frame_factory.html.
+type: test
+title: Iframe factory test page
+summary: Test helper page providing a createFrame function that appends a named iframe with the given URL to the document body.

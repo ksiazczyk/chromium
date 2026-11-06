@@ -1,0 +1,4 @@
+# Docerion header of content_mojolpm_fuzzer_test.gni.
+type: config
+title: Content MojoLPM fuzzer test GN template
+summary: GN template that wraps mojolpm_fuzzer_test for content fuzzers, adding the shared test-support dependency and excluding the default main.

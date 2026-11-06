@@ -1,0 +1,4 @@
+# Docerion header of uuid-in-package.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for the uuid-in-package web bundle
+summary: Defines the HTTP response headers served for the uuid-in-package web bundle in tests, marking it as application/webbundle with permissive CORS access.

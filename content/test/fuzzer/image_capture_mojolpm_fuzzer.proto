@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the ImageCapture interface.
 
+// ---docerion
+// type: test
+// title: Proto message format for the ImageCapture MojoLPM fuzzer
+// summary: Defines the actions, sequences and top-level testcase messages interpreted by the ImageCapture MojoLPM fuzzer.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.image_capture.proto;

@@ -4,6 +4,12 @@
 
 // Fuzzer for content/renderer
 
+// ---docerion
+// type: test
+// title: Renderer tree fuzzer
+// summary: LibFuzzer test that builds, serializes and mutates random HTML DOM trees from JSON input and loads them in the content renderer.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdlib.h>

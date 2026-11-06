@@ -1,0 +1,4 @@
+# Docerion header of no-respond-with-service-worker.html.
+type: test
+title: Test page registering a non-responding service worker
+summary: Test page that registers the no-respond-with-service-worker script and signals completion through the document title.

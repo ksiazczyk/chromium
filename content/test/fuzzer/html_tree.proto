@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Protobuf schema of an HTML document tree for fuzzing
+// summary: Defines proto messages describing HTML tags and attributes so fuzzers can generate structured HTML documents.
+// ---
+
 syntax = "proto3";
 
 message Document {

@@ -1,0 +1,4 @@
+# Docerion header of service_worker_setup.html.
+type: test
+title: Service worker registration page
+summary: Test page that registers a service worker script with optional registration options and reports whether a controller is active.

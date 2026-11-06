@@ -5,6 +5,12 @@
 // Message format for the MojoLPM fuzzer for the MediaStreamDispatcherHost
 // interface.
 
+// ---docerion
+// type: test
+// title: Proto message format for the MediaStreamDispatcherHost MojoLPM fuzzer
+// summary: Defines the actions, sequences and top-level testcase messages interpreted by the MediaStreamDispatcherHost MojoLPM fuzzer.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.media_stream_dispatcher_host.proto;

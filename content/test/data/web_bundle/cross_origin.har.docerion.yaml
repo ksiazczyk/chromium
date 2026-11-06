@@ -1,0 +1,4 @@
+# Docerion header of cross_origin.har.
+type: test
+title: HAR fixture for cross-origin web bundle resources
+summary: HAR recording of cross-origin requests for resource.json and resource.png used to build the cross-origin test bundle.

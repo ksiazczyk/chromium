@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared environment classes for MojoLPM fuzzers
+// summary: Declares FuzzerEnvironment, FuzzerEnvironmentWithTaskEnvironment and a RenderViewHostTestHarness adapter for content MojoLPM fuzzers.
+// ---
+
 #ifndef CONTENT_TEST_FUZZER_MOJOLPM_FUZZER_SUPPORT_H_
 #define CONTENT_TEST_FUZZER_MOJOLPM_FUZZER_SUPPORT_H_
 

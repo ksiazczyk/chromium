@@ -1,0 +1,4 @@
+# Docerion header of parent-child-opacity.html.
+type: test
+title: Parent-child opacity view transition test page
+summary: Test page showing a semi-transparent green parent and child element styled via capture-style.css for view transition capture.

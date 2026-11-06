@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COEP require-corp MessagePort worker test script
+// summary: Shared worker script served with require-corp COEP headers to test MessagePort transfer under that embedding policy.
+// ---
+
 onconnect = function(event) {
   var port = event.ports[0];
   port.postMessage("Worker connected.");

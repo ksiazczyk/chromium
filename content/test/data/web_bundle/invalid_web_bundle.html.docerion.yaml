@@ -1,0 +1,4 @@
+# Docerion header of invalid_web_bundle.html.
+type: test
+title: Test page loading an invalid web bundle
+summary: HTML test page that maps a uuid-in-package resource to the invalid_web_bundle.wbn bundle.

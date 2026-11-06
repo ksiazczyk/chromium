@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web bundle test utilities
+// summary: Provides loadScript, success and fail helpers that report test status through the document title.
+// ---
+
 function loadScript(src) {
     var s = document.createElement('script');
     s.src = src;

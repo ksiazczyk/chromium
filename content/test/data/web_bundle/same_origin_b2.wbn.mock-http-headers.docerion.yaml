@@ -1,0 +1,4 @@
+# Docerion header of same_origin_b2.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for the same-origin Web Bundle
+summary: Mock HTTP response headers served with same_origin_b2.wbn, declaring the application/webbundle content type.

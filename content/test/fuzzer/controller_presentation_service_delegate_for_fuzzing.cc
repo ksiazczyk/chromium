@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controller presentation service delegate fake implementation
+// summary: Implements the fake ControllerPresentationServiceDelegate that stores callbacks and observers and runs them according to protobuf actions during fuzzing.
+// ---
+
 #include "content/test/fuzzer/controller_presentation_service_delegate_for_fuzzing.h"
 
 #include <memory>

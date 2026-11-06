@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSS color parser fuzzer
+// summary: libFuzzer entry point that feeds arbitrary input bytes to ParseCssColorString to fuzz CSS color string parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

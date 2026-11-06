@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the PresentationService interface.
 
+// ---docerion
+// type: test
+// title: Presentation service MojoLPM fuzzer proto definitions
+// summary: Protobuf message definitions describing the actions, sequences and testcases the presentation service MojoLPM fuzzer can execute.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.presentation_service.proto;

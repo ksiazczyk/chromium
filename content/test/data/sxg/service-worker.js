@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test script with navigation preload
+// summary: Test service worker that enables navigation preload and answers fetches with generated HTML echoing the Accept header or with the preloaded response.
+// ---
+
 self.addEventListener('activate', (e) => {
   if (location.href.endsWith('?navigation-preload')) {
     e.waitUntil(self.registration.navigationPreload.enable())
