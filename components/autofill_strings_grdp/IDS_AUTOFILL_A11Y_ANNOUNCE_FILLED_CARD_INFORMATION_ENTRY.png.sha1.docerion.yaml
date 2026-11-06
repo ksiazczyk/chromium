@@ -1,0 +1,4 @@
+# Docerion header of IDS_AUTOFILL_A11Y_ANNOUNCE_FILLED_CARD_INFORMATION_ENTRY.png.sha1.
+type: data
+title: SHA1 checksum for the filled card information announcement image
+summary: Stores the SHA1 hash of the PNG image linked to the autofill string announcing that card information has been filled.
