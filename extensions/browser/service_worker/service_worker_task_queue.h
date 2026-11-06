@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker task queue header
+// summary: Declares ServiceWorkerTaskQueue, a LazyContextTaskQueue that registers, starts, stops and dispatches events to extension service workers.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_TASK_QUEUE_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_TASK_QUEUE_H_
 

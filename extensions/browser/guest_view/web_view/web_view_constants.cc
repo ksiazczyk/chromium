@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView API constant definitions
+// summary: Defines string constants for WebView event names, event parameters, permission types and storage partition handling.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_view_constants.h"
 
 namespace webview {

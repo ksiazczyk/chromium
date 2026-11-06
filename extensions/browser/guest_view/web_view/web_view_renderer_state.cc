@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewRendererState implementation
+// summary: Implements the WebViewRendererState singleton that tracks WebView guest processes, storing partition IDs, embedder owner info, and content script IDs in lock-protected maps.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_view_renderer_state.h"
 
 #include "base/memory/singleton.h"

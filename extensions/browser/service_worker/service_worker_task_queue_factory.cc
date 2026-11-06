@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker task queue factory implementation
+// summary: Implements the browser-context keyed service factory that builds ServiceWorkerTaskQueue instances, including incognito split mode activation.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_task_queue_factory.h"
 
 #include <memory>

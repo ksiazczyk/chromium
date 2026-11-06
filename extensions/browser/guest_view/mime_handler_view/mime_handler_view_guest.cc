@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerViewGuest implementation
+// summary: Implements the guest view that displays extension-handled MIME content, wiring streams, delegates, and container managers for embedder frames.
+// ---
+
 #include "extensions/browser/guest_view/mime_handler_view/mime_handler_view_guest.h"
 
 #include <utility>

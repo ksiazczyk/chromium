@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerIdSet header
+// summary: Declares WorkerIdSet, a set of WorkerIds supporting retrieval and removal by extension ID, render process ID and version ID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_WORKER_ID_SET_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_WORKER_ID_SET_H_
 

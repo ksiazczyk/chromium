@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeepAliveImpl unit tests
+// summary: Unit tests verifying lazy keepalive counts and MOJO activities as KeepAlive connections are created, closed, or extensions are unloaded.
+// ---
+
 #include "extensions/browser/mojo/keep_alive_impl.h"
 
 #include <utility>

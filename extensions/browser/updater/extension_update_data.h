@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension update data structures
+// summary: Defines the ExtensionUpdateData struct holding per-extension update information and the ExtensionUpdateCheckParams struct describing an update check request.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_UPDATE_DATA_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_UPDATE_DATA_H_
 

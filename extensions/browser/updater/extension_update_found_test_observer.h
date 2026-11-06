@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer declaration for extension update found
+// summary: Declares a test helper class that lets test code wait until an ExtensionDownloader reports a found extension update.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_UPDATE_FOUND_TEST_OBSERVER_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_UPDATE_FOUND_TEST_OBSERVER_H_
 

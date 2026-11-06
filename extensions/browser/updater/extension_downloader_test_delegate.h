@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionDownloaderTestDelegate for intercepting update checks
+// summary: Declares an abstract delegate class used in tests to intercept extension update checks and download work.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TEST_DELEGATE_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TEST_DELEGATE_H_
 

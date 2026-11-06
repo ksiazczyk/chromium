@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME handler stream delegate defaults
+// summary: Implements safe default behavior for the stream delegate hooks and the response header allowlist that permits CORS-safelisted, Content-Disposition, and Accept-Ranges headers.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_stream_delegate.h"
 
 #include "base/strings/string_util.h"

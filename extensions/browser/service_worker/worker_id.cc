@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerId implementation
+// summary: Implements comparison and stream output operators for the WorkerId struct that identifies a running extension service worker.
+// ---
+
 #include "extensions/browser/service_worker/worker_id.h"
 
 #include <optional>

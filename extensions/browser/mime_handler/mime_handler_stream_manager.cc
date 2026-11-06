@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME handler stream manager implementation
+// summary: Implements the per-WebContents manager that stores stream containers, observes handler frames and navigations, and deletes unclaimed streams to avoid leaks.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_stream_manager.h"
 
 #include <stdint.h>

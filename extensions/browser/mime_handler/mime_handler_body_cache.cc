@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler body cache implementation
+// summary: Implements an in-memory cache that drains a response data pipe, optionally forwards live bytes to a consumer, and replays the buffered body into fresh pipes.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_body_cache.h"
 
 #include <utility>

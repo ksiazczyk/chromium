@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppViewGuest class header
+// summary: Declares the AppViewGuest class providing the browser-side implementation of the <appview> API, created on attachment when a guest WebContents attaches to an embedder.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_APP_VIEW_APP_VIEW_GUEST_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_APP_VIEW_APP_VIEW_GUEST_H_
 

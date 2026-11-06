@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the extension updater
+summary: GN build file defining the updater and test_support source sets with their sources and dependencies.

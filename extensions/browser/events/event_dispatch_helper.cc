@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventDispatchHelper implementation for routing extension events
+// summary: Implements event dispatch logic for the EventRouter, checking incognito boundaries, host permissions, and feature availability before delivering events to lazy and non-lazy listeners.
+// ---
+
 #include "extensions/browser/events/event_dispatch_helper.h"
 
 #include <optional>

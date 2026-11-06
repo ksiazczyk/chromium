@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInstaller CrxInstaller shim declaration
+// summary: Declares ExtensionInstaller, a CrxInstaller shim that maps component update client install requests back to the originating extension update check.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_INSTALLER_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_INSTALLER_H_
 

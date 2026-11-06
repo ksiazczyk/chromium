@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionInstaller unit tests
+// summary: Unit tests for ExtensionInstaller verifying install behavior with valid and invalid unpacked directories and install callback handling.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerState implementation
+// summary: Implements tracking of extension service worker browser, renderer, and registration states, including histograms and observer notifications.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_state.h"
 
 #include "base/debug/alias.h"

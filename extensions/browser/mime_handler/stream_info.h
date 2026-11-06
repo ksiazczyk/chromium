@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamInfo header for MIME handler stream navigation state
+// summary: Declares the StreamInfo class, which stores a stream's StreamContainer and delegate and tracks extension and content frame navigation state for a MIME handler stream navigation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_STREAM_INFO_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_STREAM_INFO_H_
 

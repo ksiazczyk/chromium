@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler fallback URL loader request interceptor declaration
+// summary: Declares a URL loader request interceptor that answers fallback re-navigations from the kept response body and declines all other navigations.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_FALLBACK_URL_LOADER_REQUEST_INTERCEPTOR_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_FALLBACK_URL_LOADER_REQUEST_INTERCEPTOR_H_
 

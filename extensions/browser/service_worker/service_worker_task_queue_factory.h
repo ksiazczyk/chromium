@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker task queue factory header
+// summary: Declares ServiceWorkerTaskQueueFactory, the keyed service factory providing per-browser-context ServiceWorkerTaskQueue instances.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_TASK_QUEUE_FACTORY_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_TASK_QUEUE_FACTORY_H_
 

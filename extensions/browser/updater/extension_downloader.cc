@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension downloader implementation
+// summary: Implements ExtensionDownloader, which fetches extension update manifests and downloads CRX files with backoff, retries and OAuth2 token handling.
+// ---
+
 #include "extensions/browser/updater/extension_downloader.h"
 
 #include <stddef.h>

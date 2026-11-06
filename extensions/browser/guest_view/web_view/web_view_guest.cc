@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewGuest implementation
+// summary: Implements the browser-side <webview> API, managing guest attachment, navigation, zoom, events, permissions, and cleanup.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_view_guest.h"
 
 #include <stddef.h>

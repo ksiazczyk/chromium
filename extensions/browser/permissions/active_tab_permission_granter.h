@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveTabPermissionGranter class declaration
+// summary: Declares ActiveTabPermissionGranter, a per-tab WebContentsUserData that grants or clears tab-specific permissions for extensions with activeTab or tabCapture.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PERMISSIONS_ACTIVE_TAB_PERMISSION_GRANTER_H_
 #define EXTENSIONS_BROWSER_PERMISSIONS_ACTIVE_TAB_PERMISSION_GRANTER_H_
 

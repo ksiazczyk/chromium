@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mime handler stream delegate header
+// summary: Declares a gmock mock of MimeHandlerStreamDelegate with mocked callbacks for post-message setup, frame readiness, stream claiming, and save support.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MOCK_MIME_HANDLER_STREAM_DELEGATE_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MOCK_MIME_HANDLER_STREAM_DELEGATE_H_
 

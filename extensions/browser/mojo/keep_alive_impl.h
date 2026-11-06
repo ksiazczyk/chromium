@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveImpl mojo service header
+// summary: Declares KeepAliveImpl, an RAII mojo service that adds an extension keep alive on construction and removes it on destruction.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MOJO_KEEP_ALIVE_IMPL_H_
 #define EXTENSIONS_BROWSER_MOJO_KEEP_ALIVE_IMPL_H_
 

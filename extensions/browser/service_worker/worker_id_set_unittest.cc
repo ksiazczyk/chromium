@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkerIdSet unit tests
+// summary: Unit tests for WorkerIdSet covering add, remove, contains and lookups by extension, process and version ID against a vector-based reference.
+// ---
+
 #include "extensions/browser/service_worker/worker_id_set.h"
 
 #include <algorithm>

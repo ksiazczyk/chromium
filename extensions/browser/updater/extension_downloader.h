@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension downloader class declaration
+// summary: Declares ExtensionDownloader, which checks a list of extensions for updates and downloads updated CRX files, reporting events through a delegate.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_H_
 

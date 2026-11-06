@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler fallback URL loader request interceptor implementation
+// summary: Implements an interceptor that serves a native-handler fallback re-navigation from the cached response body in memory so the document is not fetched a second time.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_fallback_url_loader_request_interceptor.h"
 
 #include <memory>

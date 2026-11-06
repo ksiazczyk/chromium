@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerState class declaration
+// summary: Declares the ServiceWorkerState class that tracks the worker state of activated extensions with browser, renderer, and registration enums plus observers.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_STATE_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_STATE_H_
 

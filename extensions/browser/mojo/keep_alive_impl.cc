@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveImpl mojo service implementation
+// summary: Implements the KeepAlive mojo service that increments an extension's lazy keepalive count and removes it on disconnect, unload, or shutdown.
+// ---
+
 #include "extensions/browser/mojo/keep_alive_impl.h"
 
 #include <utility>

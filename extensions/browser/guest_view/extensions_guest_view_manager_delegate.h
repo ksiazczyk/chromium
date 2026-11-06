@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsGuestViewManagerDelegate class declaration
+// summary: Declares the delegate class providing GuestViewManager functionality specific to Chromium builds that include the extensions module.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_EXTENSIONS_GUEST_VIEW_MANAGER_DELEGATE_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_EXTENSIONS_GUEST_VIEW_MANAGER_DELEGATE_H_
 

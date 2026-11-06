@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null extension cache declaration
+// summary: Declares NullExtensionCache, a pass-through ExtensionCache implementation that performs no caching.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_NULL_EXTENSION_CACHE_H_
 #define EXTENSIONS_BROWSER_UPDATER_NULL_EXTENSION_CACHE_H_
 

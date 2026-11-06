@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView permission helper implementation
+// summary: Implements <webview> permission request handling, mapping permission types and recording UMA for embedder decisions.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_view_permission_helper.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request queue template implementation
+// summary: Contains the template method implementations for RequestQueue, including scheduling, backoff timing, and heap-based request ordering.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_REQUEST_QUEUE_IMPL_H_
 #define EXTENSIONS_BROWSER_UPDATER_REQUEST_QUEUE_IMPL_H_
 

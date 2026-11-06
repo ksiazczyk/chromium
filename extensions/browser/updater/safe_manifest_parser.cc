@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe update manifest parser implementation
+// summary: Implements parsing of extension update manifest XML in a utility process, extracting update check results and reporting parse failures.
+// ---
+
 #include "extensions/browser/updater/safe_manifest_parser.h"
 
 #include <memory>

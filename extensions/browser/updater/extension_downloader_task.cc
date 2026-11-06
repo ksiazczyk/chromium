@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension downloader task implementation
+// summary: Implements ExtensionDownloaderTask, which describes a pending extension update request with URL, version, priority and request id.
+// ---
+
 #include "extensions/browser/updater/extension_downloader_task.h"
 
 namespace extensions {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyEventDispatchUtil implementation for onInstalled events
+// summary: Implements tracking of extensions installed but not yet loaded via extension prefs, so the runtime.onInstalled event can be dispatched when the extension is later loaded.
+// ---
+
 #include "extensions/browser/events/lazy_event_dispatch_util.h"
 
 #include <optional>

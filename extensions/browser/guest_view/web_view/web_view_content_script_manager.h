@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewContentScriptManager class declaration
+// summary: Declares the manager that adds, removes and queries content scripts registered by WebView guests, keyed by embedder process and view instance ID.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_CONTENT_SCRIPT_MANAGER_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_CONTENT_SCRIPT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsGuestView implementation
+// summary: Implements the extensions-layer guest view handler that creates mojo receivers, builds the manager delegate, and handles mime handler view readiness and content script permission checks.
+// ---
+
 #include "extensions/browser/guest_view/extensions_guest_view.h"
 
 #include <utility>

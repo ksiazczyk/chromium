@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update service header
+// summary: Declares the UpdateService keyed service that starts extension update checks and manages in-progress updates.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_UPDATE_SERVICE_H_
 #define EXTENSIONS_BROWSER_UPDATER_UPDATE_SERVICE_H_
 

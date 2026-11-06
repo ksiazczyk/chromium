@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Path normalization unit tests
+// summary: Unit tests for NormalizePathComponents using cases modeled on Python's os.path.normpath, including Windows separator variants.
+// ---
+
 #include "extensions/browser/content_verifier/content_verifier_utils.h"
 
 #include "base/files/file_path.h"

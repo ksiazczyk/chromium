@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler UI utility implementation
+// summary: Implements lookup of the extension rendering a tab's top-level generic MIME handler, filtering embedded handlers and allowlisted plugin extensions.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_ui_util.h"
 
 #include <optional>

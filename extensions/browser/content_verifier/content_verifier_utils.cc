@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content verifier path canonicalization utilities
+// summary: Implements canonicalization and normalization of extension relative paths, including case folding on case-insensitive platforms.
+// ---
+
 #include "extensions/browser/content_verifier/content_verifier_utils.h"
 
 #include "base/i18n/case_conversion.h"

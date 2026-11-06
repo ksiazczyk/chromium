@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream info implementation
+// summary: Implements StreamInfo, which pairs a stream container with its delegate, assigns unique nonzero instance IDs, and tracks extension navigation state.
+// ---
+
 #include "extensions/browser/mime_handler/stream_info.h"
 
 #include <utility>

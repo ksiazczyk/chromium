@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stream container unit tests
+// summary: Unit tests for StreamContainer body cache behavior, covering the no-cache fallback path and replay of cached bytes through a fresh data pipe.
+// ---
+
 #include "extensions/browser/mime_handler/stream_container.h"
 
 #include <string>

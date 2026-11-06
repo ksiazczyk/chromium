@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsGuestView class declaration
+// summary: Declares the ExtensionsGuestView class that implements both the components and extensions guest view mojo interfaces for a render frame.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_EXTENSIONS_GUEST_VIEW_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_EXTENSIONS_GUEST_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content verifier test utilities
+// summary: Implements test observers and helpers that let tests wait for content verification job results and hash readiness.
+// ---
+
 #include "extensions/browser/content_verifier/test_utils.h"
 
 #include "base/base64url.h"

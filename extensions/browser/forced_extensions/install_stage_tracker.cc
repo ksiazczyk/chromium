@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallStageTracker implementation
+// summary: Implements the InstallStageTracker keyed service that records extension installation stages and failures and formats installation data for reporting.
+// ---
+
 #include "extensions/browser/forced_extensions/install_stage_tracker.h"
 
 #include "base/check_op.h"

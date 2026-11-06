@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME handler stream delegate interface
+// summary: Declares the delegate hooks that customize MIME handler stream handling, such as postMessage setup, frame commit events, saving, header filtering, and process isolation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_STREAM_DELEGATE_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_STREAM_DELEGATE_H_
 

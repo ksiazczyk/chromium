@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler UI utility header
+// summary: Declares GetTopLevelMimeHandlerExtension, which returns the extension acting as a WebContents' top-level MIME handler or nullptr when none applies.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_UI_UTIL_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_UI_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMimeHandlerViewGuest declaration
+// summary: Declares a test subclass of MimeHandlerViewGuest that gives tests control over guest creation timing and attachment.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_MIME_HANDLER_VIEW_TEST_MIME_HANDLER_VIEW_GUEST_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_MIME_HANDLER_VIEW_TEST_MIME_HANDLER_VIEW_GUEST_H_
 

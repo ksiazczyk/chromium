@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentHash implementation
+// summary: Implements ContentHash, which reads or fetches verified_contents.json and computed_hashes.json for extension content verification.
+// ---
+
 #include "extensions/browser/content_verifier/content_hash.h"
 
 #include <optional>

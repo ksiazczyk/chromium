@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventAckData class header for in-flight extension events
+// summary: Declares the EventAckData class that manages in-flight events for extension service workers, including incrementing, decrementing, and clearing unacked event records.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENTS_EVENT_ACK_DATA_H_
 #define EXTENSIONS_BROWSER_EVENTS_EVENT_ACK_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring extension options guest constants
+// summary: Declares the extensionoptions API namespace and extension ID string constants shared by the extension options guest code.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_EXTENSION_OPTIONS_EXTENSION_OPTIONS_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_EXTENSION_OPTIONS_EXTENSION_OPTIONS_CONSTANTS_H_
 

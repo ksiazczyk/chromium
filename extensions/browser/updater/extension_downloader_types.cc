@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadPingData implementation
+// summary: Implements constructors and the destructor for the DownloadPingData struct used in extension update pings.
+// ---
+
 #include "extensions/browser/updater/extension_downloader_types.h"
 
 #include "extensions/browser/disable_reason.h"

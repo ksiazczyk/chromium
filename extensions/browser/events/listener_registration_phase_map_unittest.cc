@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ListenerRegistrationPhaseMap
+// summary: GoogleTest suite verifying commit, abort, and phase replacement behavior of ListenerRegistrationPhaseMap across worker instances and browser contexts.
+// ---
+
 #include "extensions/browser/events/listener_registration_phase_map.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME handler template page builder
+// summary: Declares CreateTemplateMimeHandlerPage, which builds the HTML page that embeds a MIME handler for a given MIME type, with OOPIF iframe or legacy GuestView variants.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_PAGE_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_PAGE_H_
 

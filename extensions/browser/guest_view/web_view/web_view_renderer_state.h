@@ -10,6 +10,12 @@
 // and that you always acquire the locks in the order `web_view_info_map_lock_`
 // -> `web_view_partition_id_map_lock_` (if both are needed in one method).
 
+// ---docerion
+// type: source
+// title: WebViewRendererState class declaration
+// summary: Declares the WebViewRendererState singleton that manages per-guest WebView state such as partition IDs, owner info, and content script IDs, with thread-safe access from UI and IO threads.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_RENDERER_STATE_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_RENDERER_STATE_H_
 

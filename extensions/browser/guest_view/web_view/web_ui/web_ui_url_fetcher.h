@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIURLFetcher class declaration
+// summary: Declares the WebUIURLFetcher class, a URLFetcher that downloads file content for a URL on a WebUI and is tied to a render process and frame pair.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_UI_WEB_UI_URL_FETCHER_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_UI_WEB_UI_URL_FETCHER_H_
 

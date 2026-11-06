@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension cache interface
+// summary: Defines the ExtensionCache interface for caching extension CRX files so they can be shared between users and profiles on a machine.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_CACHE_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_CACHE_H_
 

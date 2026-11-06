@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler stream delegate default tests
+// summary: Verifies that MimeHandlerStreamDelegate defaults are safe, with response header filtering enabled and plugin saving disabled unless overridden.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_stream_delegate.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

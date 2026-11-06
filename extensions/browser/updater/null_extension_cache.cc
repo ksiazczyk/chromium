@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null extension cache implementation
+// summary: Implements a do-nothing extension cache whose methods immediately complete callbacks and report no cached extension.
+// ---
+
 #include "extensions/browser/updater/null_extension_cache.h"
 
 #include "base/functional/callback.h"

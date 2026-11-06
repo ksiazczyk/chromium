@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequencedContextId struct header
+// summary: Defines a struct that uniquely identifies an extension service worker context for a specific activation within a browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_SEQUENCED_CONTEXT_ID_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_SEQUENCED_CONTEXT_ID_H_
 

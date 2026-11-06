@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebView implementation overview and permission request behavior
+summary: Describes the key WebView classes in this directory and walks through how WebView permission requests, including plugin auth, are handled in the browser process.
+relations:
+  - references /docs/mojo_and_services.md
+  - references /extensions/browser/guest_view/web_view/web_view_permission_types.h
+  - references /chrome/browser/chrome_content_browser_client_receiver_bindings.cc
+---
+
 # WebView
 
 This directory contains key classes that are part of the

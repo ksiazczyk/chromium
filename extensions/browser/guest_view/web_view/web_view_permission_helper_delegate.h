@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView permission helper delegate interface
+// summary: Declares a delegate of WebViewPermissionHelper for permission requests that are not part of extensions, such as media and downloads.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_PERMISSION_HELPER_DELEGATE_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_PERMISSION_HELPER_DELEGATE_H_
 

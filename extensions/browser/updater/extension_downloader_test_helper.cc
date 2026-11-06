@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension downloader test helper implementation
+// summary: Implements the extension downloader test helper with a mock delegate, mock extension cache, zero-backoff policy, and update check wiring for tests.
+// ---
+
 #include "extensions/browser/updater/extension_downloader_test_helper.h"
 
 #include "base/run_loop.h"

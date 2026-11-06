@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake extension cache implementation
+// summary: Implements ExtensionCacheFake, an in-memory ExtensionCache that only caches allowed extensions, for use in tests.
+// ---
+
 #include "extensions/browser/updater/extension_cache_fake.h"
 
 #include "base/functional/bind.h"

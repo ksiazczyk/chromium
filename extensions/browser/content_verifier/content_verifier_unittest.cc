@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content verifier unit tests
+// summary: Unit tests for the extension content verifier, covering browser image paths, background manifest types, and file path case variants.
+// ---
+
 #include "extensions/browser/content_verifier/content_verifier.h"
 
 #include <memory>

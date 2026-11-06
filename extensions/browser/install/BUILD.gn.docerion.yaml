@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the extensions install source set
+summary: GN build file defining the install source set with the CRX install error sources and its base and UI dependencies.

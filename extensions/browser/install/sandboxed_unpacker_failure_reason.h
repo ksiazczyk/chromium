@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxedUnpackerFailureReason enum header
+// summary: Declares the SandboxedUnpackerFailureReason enum listing all ways the sandboxed unpacker can fail, kept stable for UMA reporting.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_SANDBOXED_UNPACKER_FAILURE_REASON_H_
 #define EXTENSIONS_BROWSER_INSTALL_SANDBOXED_UNPACKER_FAILURE_REASON_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for mime_handler_view dependencies
+summary: Defines the allowed header include rules for the mime_handler_view directory, granting access to PDF and component resource headers.

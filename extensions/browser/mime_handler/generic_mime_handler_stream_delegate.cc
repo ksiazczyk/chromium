@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic MIME handler stream delegate implementation
+// summary: Implements the stream delegate for generic MIME handler extensions, filtering response headers and registering the transferable URL loader as a subresource override.
+// ---
+
 #include "extensions/browser/mime_handler/generic_mime_handler_stream_delegate.h"
 
 #include <string>

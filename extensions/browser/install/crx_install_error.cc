@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrxInstallError implementation
+// summary: Implements the CrxInstallError class, including helpers that classify failures as CRX verification or manifest expectation errors.
+// ---
+
 #include "extensions/browser/install/crx_install_error.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the forced_extensions source set
+summary: GN build file defining the forced_extensions source set with the install stage tracker sources and its base, keyed service, and extensions dependencies.

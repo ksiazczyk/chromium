@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content verify job unit tests
+// summary: Unit tests for ContentVerifyJob covering ordering of hash and content reads, failure reasons, and verification outcomes.
+// ---
+
 #include "base/containers/span.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

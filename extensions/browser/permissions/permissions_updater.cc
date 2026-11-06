@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions updater implementation
+// summary: Implements updating an extension's active and granted permissions in persistent storage and notifying observers and renderers of permission changes.
+// ---
+
 #include "extensions/browser/permissions/permissions_updater.h"
 
 #include <set>

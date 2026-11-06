@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerHost implementation
+// summary: Implements the browser-side host for extension service worker contexts, binding receivers, dispatching extension functions, and tracking worker lifecycle events.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_host.h"
 
 #include <vector>

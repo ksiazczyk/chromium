@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerIdSet implementation
+// summary: Implements WorkerIdSet, a set of worker IDs with fast lookup by extension and metrics for unexpected multiple workers per extension.
+// ---
+
 #include "extensions/browser/service_worker/worker_id_set.h"
 
 #include <algorithm>

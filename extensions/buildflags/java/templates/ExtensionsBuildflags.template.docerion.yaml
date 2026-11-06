@@ -1,0 +1,4 @@
+# Docerion header of ExtensionsBuildflags.template.
+type: source
+title: ExtensionsBuildflags Java build flags template
+summary: Java template that generates the ExtensionsBuildflags class, defining the ENABLE_EXTENSIONS_CORE boolean constant based on build-time preprocessor defines.

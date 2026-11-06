@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mime handler body cache unit tests
+// summary: Unit tests covering cache creation, replay pipe creation, multiple pipes, empty and large data, and overflow behavior of MimeHandlerBodyCache.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_body_cache.h"
 
 #include <string>

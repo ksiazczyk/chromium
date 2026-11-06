@@ -4,6 +4,12 @@
 
 // Constants used for the WebView API.
 
+// ---docerion
+// type: source
+// title: WebView API constant declarations
+// summary: Declares WebView API constants including event names, permission type strings and bit masks for the clear data API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_WEB_VIEW_CONSTANTS_H_
 

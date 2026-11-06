@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsUpdater class declaration
+// summary: Declares PermissionsUpdater, which grants and revokes optional and runtime host permissions, updates stored permissions, and notifies interested parties.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PERMISSIONS_PERMISSIONS_UPDATER_H_
 #define EXTENSIONS_BROWSER_PERMISSIONS_PERMISSIONS_UPDATER_H_
 

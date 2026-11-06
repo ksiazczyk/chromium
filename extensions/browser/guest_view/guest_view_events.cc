@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest view event histogram value mapping
+// summary: Maps guest view event names for web view, extension options, and base guest views to their corresponding events histogram values.
+// ---
+
 #include "extensions/browser/guest_view/guest_view_events.h"
 
 #include <map>

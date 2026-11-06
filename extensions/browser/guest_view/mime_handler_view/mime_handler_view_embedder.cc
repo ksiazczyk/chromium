@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerViewEmbedder implementation
+// summary: Implements the WebContentsObserver that tracks frame navigations and creates and attaches a MimeHandlerViewGuest once the embed frame is ready.
+// ---
+
 #include "extensions/browser/guest_view/mime_handler_view/mime_handler_view_embedder.h"
 
 #include "base/containers/flat_map.h"

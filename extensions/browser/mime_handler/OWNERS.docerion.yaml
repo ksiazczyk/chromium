@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Mime handler directory owners
+summary: Delegates code review ownership of this directory to the owners listed in the pdf directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall ping sender header
+// summary: Declares a class that observes extension uninstalls and sends uninstall pings through the update service, gated by a filter callback.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_UNINSTALL_PING_SENDER_H_
 #define EXTENSIONS_BROWSER_UPDATER_UNINSTALL_PING_SENDER_H_
 

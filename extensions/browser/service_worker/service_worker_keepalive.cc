@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerKeepalive implementation
+// summary: Implements keepalive requests for extension service workers, incrementing and decrementing keepalive counts through the ProcessManager.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_keepalive.h"
 
 #include "base/check.h"

@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Content verifier path utilities header
+// summary: Declares the canonical relative path type and helpers to canonicalize and normalize extension relative paths for content verification.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_UTILS_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_UTILS_H_
 

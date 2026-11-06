@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ControlledFrameEmbedderURLFetcher implementation
+// summary: Implements a URL fetcher that downloads a file through the Controlled Frame embedder's URL loader factory for the content script injection API.
+// ---
+
 #include "extensions/browser/guest_view/web_view/controlled_frame_embedder_url_fetcher.h"
 
 #include <optional>

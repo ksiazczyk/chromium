@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerStreamManager class declaration
+// summary: Declares the keyed service that tracks streams until claimed by a MimeHandlerViewGuest, mapping streams by ID and by owning extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_MIME_HANDLER_VIEW_MIME_HANDLER_STREAM_MANAGER_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_MIME_HANDLER_VIEW_MIME_HANDLER_STREAM_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler body cache class declaration
+// summary: Declares MimeHandlerBodyCache, which buffers response bodies for replay, forwards them live, and abandons caching above a size cap to bound browser memory use.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_BODY_CACHE_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_BODY_CACHE_H_
 

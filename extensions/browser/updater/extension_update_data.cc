@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension update data implementation
+// summary: Implements constructors and destructors for the ExtensionUpdateData and ExtensionUpdateCheckParams structures used in extension update checks.
+// ---
+
 #include "extensions/browser/updater/extension_update_data.h"
 
 namespace extensions {

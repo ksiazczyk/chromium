@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppViewGuest implementation
+// summary: Implements the browser-side AppViewGuest for the <appview> API, handling pending request completion, guest creation, and validation of guest instance and extension IDs.
+// ---
+
 #include "extensions/browser/guest_view/app_view/app_view_guest.h"
 
 #include <utility>

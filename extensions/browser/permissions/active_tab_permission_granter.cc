@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active tab permission granter implementation
+// summary: Implements granting and revoking tab-specific activeTab and tabCapture permissions for extensions and notifying renderer processes of the changes.
+// ---
+
 #include "extensions/browser/permissions/active_tab_permission_granter.h"
 
 #include <set>

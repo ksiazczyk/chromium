@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer for found extension updates
+// summary: Implements a test helper that registers itself as the ExtensionDownloader test observer and unblocks a wait loop when an extension update is found.
+// ---
+
 #include "extensions/browser/updater/extension_update_found_test_observer.h"
 
 namespace extensions {

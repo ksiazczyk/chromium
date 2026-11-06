@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update data provider header
+// summary: Declares a ref-counted class that supplies extension information to the update client for update checks and installs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_UPDATE_DATA_PROVIDER_H_
 #define EXTENSIONS_BROWSER_UPDATER_UPDATE_DATA_PROVIDER_H_
 

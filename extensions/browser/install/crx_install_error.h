@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrxInstallError header with install error enums
+// summary: Declares the CrxInstallError class plus the CrxInstallErrorType and CrxInstallErrorDetail enums used to report extension install failures.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_CRX_INSTALL_ERROR_H_
 #define EXTENSIONS_BROWSER_INSTALL_CRX_INSTALL_ERROR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler registry unit tests
+// summary: Unit tests for MimeHandlerRegistry covering registration, precedence ordering, enable and embed flags, install-time sorting, and channel-gated handler parsing.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_registry.h"
 
 #include <vector>
