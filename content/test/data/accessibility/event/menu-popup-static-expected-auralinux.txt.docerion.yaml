@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-static-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for static menu popup
+summary: Expected Linux accessibility events for the static menu popup test, containing no events beyond the continuation marker.

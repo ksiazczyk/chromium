@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-aria-owns-expected-win.txt.
+type: test
+title: Expected Windows output for subtree reparented via aria-owns test
+summary: Expected Windows accessibility output for the aria-owns reparenting test, listing reorder events plus text inserted and removed on the group and document.

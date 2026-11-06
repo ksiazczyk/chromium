@@ -1,0 +1,4 @@
+# Docerion header of pressed-state-changed-expected-mac.txt.
+type: test
+title: Pressed state changed expected Mac events
+summary: Expected macOS AXValueChanged notification raised when the button's pressed state changes.

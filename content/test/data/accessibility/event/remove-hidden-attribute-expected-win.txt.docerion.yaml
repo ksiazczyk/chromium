@@ -1,0 +1,4 @@
+# Docerion header of remove-hidden-attribute-expected-win.txt.
+type: test
+title: Expected Windows output for remove-hidden-attribute test
+summary: Expected Windows accessibility events when the hidden attribute is removed from a list item, including reorder, show and text-inserted events.

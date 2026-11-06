@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-static-expected-blink.txt.
+type: test
+title: Expected Blink accessibility events for static menu popup
+summary: Expected Blink accessibility events for the static menu popup test, containing no events beyond the continuation marker.

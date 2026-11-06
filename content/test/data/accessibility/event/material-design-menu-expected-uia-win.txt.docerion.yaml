@@ -1,0 +1,4 @@
+# Docerion header of material-design-menu-expected-uia-win.txt.
+type: test
+title: Material design menu expected UIA Win events
+summary: Expected UIA accessibility events for the Material Web menu event test on Windows.

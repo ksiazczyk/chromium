@@ -1,0 +1,4 @@
+# Docerion header of same-page-link-navigation-expected-win.txt.
+type: test
+title: Expected Windows events for same-page link navigation
+summary: Expected Windows accessibility event log for the same-page link navigation test, recording scrolling-start system events.

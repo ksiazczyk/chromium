@@ -1,0 +1,4 @@
+# Docerion header of menulist-focus-expected-android.txt.
+type: test
+title: Expected Android accessibility events for menulist focus test
+summary: Expected Android accessibility event output for the menulist focus test, listing window content changed events after page load.

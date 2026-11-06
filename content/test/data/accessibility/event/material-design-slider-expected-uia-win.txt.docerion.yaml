@@ -1,0 +1,4 @@
+# Docerion header of material-design-slider-expected-uia-win.txt.
+type: test
+title: Material Web slider expected UIA events on Windows
+summary: Expected UIA change notifications for the Material Web slider's value across the three test passes on Windows.

@@ -1,0 +1,4 @@
+# Docerion header of range-value-value-changed-expected-win.txt.
+type: test
+title: Range value changed expected events for Windows
+summary: Expected Windows accessibility events for the range input value change test, listing EVENT_OBJECT_VALUECHANGE notifications on a slider.

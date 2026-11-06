@@ -1,0 +1,4 @@
+# Docerion header of menulist-expand-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for menulist expand test
+summary: Expected macOS AX notification output for the menulist expand test, covering expansion, focus and menu child changes.

@@ -1,0 +1,4 @@
+# Docerion header of select-selected-add-remove-expected-android.txt.
+type: test
+title: Expected Android accessibility events for select selection add and remove
+summary: Expected Android accessibility event output for the select-selected-add-remove test, listing window content changed and accessibility focus events.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-select-expected-auralinux.txt.
+type: test
+title: Material Web select expected Linux accessibility events
+summary: Expected Linux accessibility tree snapshots and NAME-CHANGED events for the Material Web select event test.

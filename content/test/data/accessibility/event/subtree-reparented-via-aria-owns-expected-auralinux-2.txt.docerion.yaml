@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-aria-owns-expected-auralinux-2.txt.
+type: test
+title: Expected Auralinux output for subtree reparented via aria-owns test 2
+summary: Expected Auralinux accessibility output for the second aria-owns reparenting test, listing a parent-changed event and defunct state changes.

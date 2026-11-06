@@ -1,0 +1,4 @@
+# Docerion header of material-design-text-field-expected-blink.txt.
+type: test
+title: Material design text field expected accessibility tree (Blink)
+summary: Expected Blink accessibility tree snapshots before and after each go() pass of the Material web text field event test, with changed nodes marked.

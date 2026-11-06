@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-focus-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for custom menulist focus
+summary: Expected AT-SPI focus event log on Linux for focusing a custom select element.

@@ -1,0 +1,4 @@
+# Docerion header of navigation-api-expected-auralinux.txt.
+type: test
+title: Navigation API expected Linux accessibility events
+summary: Expected Linux AT-SPI accessibility events for the Navigation API navigation test.

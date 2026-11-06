@@ -1,0 +1,4 @@
+# Docerion header of navigation-api-expected-android.txt.
+type: test
+title: Navigation API expected Android events
+summary: Expected Android accessibility event log for the Navigation API same-document navigation test.

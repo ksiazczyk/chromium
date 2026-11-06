@@ -1,0 +1,4 @@
+# Docerion header of material-design-select-expected-mac.txt.
+type: test
+title: Material Web select expected macOS accessibility events
+summary: Expected macOS AX tree snapshots and AXTitleChanged notifications for the Material Web select event test.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-select-expected-uia-win.txt.
+type: test
+title: Material Web select expected UIA events on Windows
+summary: Expected Windows UI Automation Text_TextChanged events for the Material Web select event test.

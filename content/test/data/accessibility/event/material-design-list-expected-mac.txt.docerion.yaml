@@ -1,0 +1,4 @@
+# Docerion header of material-design-list-expected-mac.txt.
+type: test
+title: Material design list expected Mac events
+summary: Expected macOS accessibility tree and focus change events for the material design list test across its go() passes.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-expected-android.txt.
+type: test
+title: Menulist collapse expected events for Android
+summary: Expected Android accessibility event sequence when a select menu list collapses, serving as the baseline for the menulist-collapse web test.

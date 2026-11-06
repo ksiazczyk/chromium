@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-append-child-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for subtree-reparented-via-append-child
+summary: Expected AT-SPI event output on Linux for the subtree-reparented-via-append-child accessibility test.

@@ -1,0 +1,4 @@
+# Docerion header of select-selected-add-remove-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for select selection add and remove
+summary: Expected Windows accessibility event output for the select-selected-add-remove test, listing selection, state change and value change events.

@@ -1,0 +1,4 @@
+# Docerion header of popover-expanded-changed-expected-mac.txt.
+type: test
+title: Popover expanded changed expected macOS accessibility events
+summary: Expected macOS AXExpandedChanged notifications for popover toggle, show and hide buttons.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-next.html.
+type: test
+title: Menulist collapse-next accessibility test page
+summary: HTML test page that focuses a select and changes its selected index to trigger accessibility events when a menulist collapses to the next item.

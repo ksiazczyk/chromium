@@ -1,0 +1,4 @@
+# Docerion header of remove-child-expected-android.txt.
+type: test
+title: Remove child expected events for Android
+summary: Expected Android accessibility events for the remove child test, listing window content changed notifications on the WebView and a ListView.

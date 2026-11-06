@@ -1,0 +1,4 @@
+# Docerion header of material-design-text-field-expected-mac.txt.
+type: test
+title: Material design text field expected accessibility events (macOS)
+summary: Expected macOS accessibility tree snapshots and AXValueChanged events for the Material web text field event test across three go() passes.

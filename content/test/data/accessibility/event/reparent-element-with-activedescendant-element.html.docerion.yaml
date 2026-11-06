@@ -1,0 +1,4 @@
+# Docerion header of reparent-element-with-activedescendant-element.html.
+type: test
+title: Reparent element with activedescendant element test page
+summary: HTML test page that sets the ariaActiveDescendantElement property across menu items and reparents a wrapper element to exercise accessibility events.

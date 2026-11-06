@@ -1,0 +1,4 @@
+# Docerion header of range-value-maximum-changed-expected-android.txt.
+type: test
+title: Range value maximum changed expected Android events
+summary: Expected Android accessibility events when a range input's maximum value changes.

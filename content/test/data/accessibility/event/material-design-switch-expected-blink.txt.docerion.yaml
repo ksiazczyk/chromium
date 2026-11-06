@@ -1,0 +1,4 @@
+# Docerion header of material-design-switch-expected-blink.txt.
+type: test
+title: Material Web switch expected accessibility tree for Blink
+summary: Expected Blink accessibility tree dumps showing the Material Web switch toggling checked state across three passes.

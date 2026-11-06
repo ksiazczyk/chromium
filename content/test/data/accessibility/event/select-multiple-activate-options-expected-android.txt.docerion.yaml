@@ -1,0 +1,4 @@
+# Docerion header of select-multiple-activate-options-expected-android.txt.
+type: test
+title: Expected Android events for select multiple activate options test
+summary: Empty expected Android accessibility event output for the select multiple activate options test.

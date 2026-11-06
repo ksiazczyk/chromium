@@ -1,0 +1,4 @@
+# Docerion header of material-design-dialog-expected-win.txt.
+type: test
+title: Material design dialog expected Win events
+summary: Expected Windows accessibility events for the material design dialog test, covering focus, show and hide events on the dialog, its divider, status area and OK button.

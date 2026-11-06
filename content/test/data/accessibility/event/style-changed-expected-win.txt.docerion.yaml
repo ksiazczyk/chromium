@@ -1,0 +1,4 @@
+# Docerion header of style-changed-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for style-changed test
+summary: Expected MSAA and IAccessible2 event output on Windows when the style-changed test modifies element styles.

@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-append-child-expected-android.txt.
+type: test
+title: Expected Android accessibility events for subtree-reparented-via-append-child
+summary: Expected Android accessibility event output for the subtree-reparented-via-append-child test.

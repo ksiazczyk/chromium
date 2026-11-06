@@ -1,0 +1,4 @@
+# Docerion header of menu-opened-closed-expected-win.txt.
+type: test
+title: Menu opened and closed expected accessibility events (Windows)
+summary: Expected Windows menu popup start and end events for the menu opened and closed test.

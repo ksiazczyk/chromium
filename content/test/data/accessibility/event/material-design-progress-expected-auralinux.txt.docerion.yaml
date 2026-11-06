@@ -1,0 +1,4 @@
+# Docerion header of material-design-progress-expected-auralinux.txt.
+type: test
+title: Material design progress expected Auralinux events
+summary: Expected Linux accessibility tree dumps and value-change events for the Material Web progress test.

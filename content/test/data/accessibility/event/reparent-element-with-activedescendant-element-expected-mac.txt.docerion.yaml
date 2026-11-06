@@ -1,0 +1,4 @@
+# Docerion header of reparent-element-with-activedescendant-element-expected-mac.txt.
+type: test
+title: Reparent element with activedescendant element expected Mac events
+summary: Expected macOS accessibility notifications for the reparent-element-with-activedescendant-element test, recording menu item focus and selection changes.

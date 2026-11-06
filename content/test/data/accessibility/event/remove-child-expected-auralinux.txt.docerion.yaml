@@ -1,0 +1,4 @@
+# Docerion header of remove-child-expected-auralinux.txt.
+type: test
+title: Remove child expected events for Linux
+summary: Expected Linux accessibility events for the remove child test, listing a CHILDREN-CHANGED remove notification on a list.

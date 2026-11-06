@@ -1,0 +1,4 @@
+# Docerion header of material-design-tabs-expected-mac.txt.
+type: test
+title: Material design tabs expected Mac events
+summary: Expected macOS AX accessibility tree snapshots and selection events for the material design tabs test.

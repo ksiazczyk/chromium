@@ -1,0 +1,4 @@
+# Docerion header of menubar-show-hide-menus-expected-android.txt.
+type: test
+title: Expected Android accessibility events for menubar-show-hide-menus test
+summary: Expected Android accessibility event output for the menubar-show-hide-menus test page, recording window content and state changes as menus open, close and the menubar is hidden and shown.

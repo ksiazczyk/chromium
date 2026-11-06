@@ -1,0 +1,4 @@
+# Docerion header of name-change-indirect-expected-mac.txt.
+type: test
+title: Indirect name change expected events for macOS
+summary: Expected macOS AXTitleChanged notifications when a heading's text content changes indirectly.

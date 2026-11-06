@@ -1,0 +1,4 @@
+# Docerion header of role-changed-expected-auralinux.txt.
+type: test
+title: Role changed expected events for Linux
+summary: Expected AT-SPI accessibility events for the role-changed test, covering children-changed and name-changed events as an element's role changes to a push button.

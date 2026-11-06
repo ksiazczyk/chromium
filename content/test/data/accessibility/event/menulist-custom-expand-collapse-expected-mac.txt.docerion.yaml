@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-expand-collapse-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for custom menulist expand and collapse
+summary: Expected macOS AX notification log for expanding and collapsing a custom select picker.

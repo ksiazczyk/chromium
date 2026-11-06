@@ -1,0 +1,4 @@
+# Docerion header of range-value-step-changed-expected-win.txt.
+type: test
+title: Expected Windows events for range value step change
+summary: Expected Windows accessibility events for the range-value-step-changed test, listing an EVENT_OBJECT_VALUECHANGE notification on a horizontal slider role.

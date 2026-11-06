@@ -1,0 +1,4 @@
+# Docerion header of tabindex-added-on-plain-div-expected-android.txt.
+type: test
+title: Expected Android events for tabindex-added-on-plain-div test
+summary: Expected Android accessibility event log for the tabindex-added-on-plain-div test page, listing window content changed events.

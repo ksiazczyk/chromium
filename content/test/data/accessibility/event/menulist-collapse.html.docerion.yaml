@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse.html.
+type: test
+title: Menulist collapse accessibility test page
+summary: HTML test page that deselects the selected option of a select to trigger accessibility events when a menulist collapses.

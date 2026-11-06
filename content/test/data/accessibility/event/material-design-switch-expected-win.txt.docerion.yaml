@@ -1,0 +1,4 @@
+# Docerion header of material-design-switch-expected-win.txt.
+type: test
+title: Material design switch expected Win events
+summary: Expected Windows MSAA/IA2 accessibility state change events for the material design switch event test.

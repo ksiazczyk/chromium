@@ -1,0 +1,4 @@
+# Docerion header of name-change-expected-mac.txt.
+type: test
+title: name-change expected events for macOS
+summary: Expected macOS AXTitleChanged event for a heading whose accessible name changes in the name-change test.

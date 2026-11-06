@@ -1,0 +1,4 @@
+# Docerion header of range-value-maximum-changed-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for range value maximum change
+summary: Expected UIA on Windows accessibility events for the range-value-maximum-changed test, listing AriaProperties and RangeValueMaximum change notifications on a slider role.

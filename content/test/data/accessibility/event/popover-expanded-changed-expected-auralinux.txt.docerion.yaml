@@ -1,0 +1,4 @@
+# Docerion header of popover-expanded-changed-expected-auralinux.txt.
+type: test
+title: Popover expanded changed expected Linux accessibility events
+summary: Expected Linux AT-SPI events for popover expanded-state changes on toggle, show and hide buttons.

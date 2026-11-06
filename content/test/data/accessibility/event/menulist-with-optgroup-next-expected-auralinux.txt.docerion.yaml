@@ -1,0 +1,4 @@
+# Docerion header of menulist-with-optgroup-next-expected-auralinux.txt.
+type: test
+title: menulist-with-optgroup-next expected events for Linux
+summary: Expected Linux accessibility events for focus and selection changes in a select with optgroups during the menulist-with-optgroup-next test.

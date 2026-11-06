@@ -1,0 +1,4 @@
+# Docerion header of select-selected-add-remove-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility events for select selection add and remove
+summary: Expected UIA event output for the select-selected-add-remove test on Windows, listing selection item property changes and selection events.

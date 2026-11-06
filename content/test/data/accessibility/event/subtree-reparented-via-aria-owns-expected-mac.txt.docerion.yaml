@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-aria-owns-expected-mac.txt.
+type: test
+title: Expected Mac output for subtree reparented via aria-owns test
+summary: Empty expected Mac accessibility output for the aria-owns reparenting test, indicating no platform events are expected.

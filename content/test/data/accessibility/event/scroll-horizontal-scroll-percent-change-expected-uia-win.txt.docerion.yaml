@@ -1,0 +1,4 @@
+# Docerion header of scroll-horizontal-scroll-percent-change-expected-uia-win.txt.
+type: test
+title: Expected UIA events for horizontal scroll percent change test
+summary: Expected UIA accessibility event output for the horizontal scroll percent change test on Windows, listing ScrollHorizontalScrollPercent changes on the document and scroll container.

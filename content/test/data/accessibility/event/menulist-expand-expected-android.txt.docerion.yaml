@@ -1,0 +1,4 @@
+# Docerion header of menulist-expand-expected-android.txt.
+type: test
+title: Expected Android accessibility events for menulist expand test
+summary: Expected Android accessibility event output for the menulist expand test, listing window content changed events after page load.

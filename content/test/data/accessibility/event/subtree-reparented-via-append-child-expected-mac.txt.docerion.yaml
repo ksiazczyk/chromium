@@ -1,0 +1,4 @@
+# Docerion header of subtree-reparented-via-append-child-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for subtree-reparented-via-append-child
+summary: Expected macOS AX event output for the subtree-reparented-via-append-child accessibility test.

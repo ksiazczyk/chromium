@@ -1,0 +1,4 @@
+# Docerion header of report-validity-invalid-field-expected-android-exp.txt.
+type: test
+title: Report validity invalid field expected Android events
+summary: Expected Android accessibility events for the report-validity-invalid-field test, showing content-invalid and pane-appeared events for an invalid field.

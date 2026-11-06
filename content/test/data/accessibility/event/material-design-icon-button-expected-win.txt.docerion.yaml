@@ -1,0 +1,4 @@
+# Docerion header of material-design-icon-button-expected-win.txt.
+type: test
+title: Material design icon button expected Win events
+summary: Expected Windows accessibility events for the material design icon button test, covering show, state change, and text inserted events.

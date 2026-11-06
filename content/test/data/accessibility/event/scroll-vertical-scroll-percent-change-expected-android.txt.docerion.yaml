@@ -1,0 +1,4 @@
+# Docerion header of scroll-vertical-scroll-percent-change-expected-android.txt.
+type: test
+title: Expected Android events for vertical scroll percent change test
+summary: Expected Android accessibility event output for the vertical scroll percent change test, listing window content changed and view scrolled events.

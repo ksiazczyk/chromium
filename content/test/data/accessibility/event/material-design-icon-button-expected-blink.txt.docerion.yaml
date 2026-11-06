@@ -1,0 +1,4 @@
+# Docerion header of material-design-icon-button-expected-blink.txt.
+type: test
+title: Material design icon button expected Blink trees
+summary: Expected Blink accessibility tree dumps for the material design icon button event test, tracking checked state changes of the toggle favorite button.

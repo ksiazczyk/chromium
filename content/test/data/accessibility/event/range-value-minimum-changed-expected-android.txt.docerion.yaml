@@ -1,0 +1,4 @@
+# Docerion header of range-value-minimum-changed-expected-android.txt.
+type: test
+title: Expected Android events for range value minimum change
+summary: Expected Android accessibility events for the range-value-minimum-changed test, listing window content change notifications on the WebView and SeekBar.

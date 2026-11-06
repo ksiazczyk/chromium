@@ -1,0 +1,4 @@
+# Docerion header of text-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for text changes
+summary: Expected AT-SPI accessibility event output on Linux for the text-changed test page.

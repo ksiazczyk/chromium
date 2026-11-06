@@ -1,0 +1,4 @@
+# Docerion header of navigation-api-expected-win.txt.
+type: test
+title: Navigation API expected Windows accessibility events
+summary: Expected Windows accessibility events for the Navigation API navigation test.

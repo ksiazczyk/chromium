@@ -1,0 +1,4 @@
+# Docerion header of material-design-icon-button-expected-uia-win.txt.
+type: test
+title: Material design icon button expected UIA Win events
+summary: Expected UIA accessibility events for the material design icon button test, listing AriaProperties and state changes on the Toggle favorite button.

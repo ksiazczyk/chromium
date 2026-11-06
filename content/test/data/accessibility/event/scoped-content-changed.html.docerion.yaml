@@ -1,0 +1,4 @@
+# Docerion header of scoped-content-changed.html.
+type: test
+title: Scoped content changed accessibility event test page
+summary: HTML test page that changes a target element's aria-label from old_name to new_name to trigger scoped content-changed accessibility events.

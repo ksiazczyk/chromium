@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-next-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for menulist custom next test
+summary: Expected Windows UIA and IA2 accessibility event output for the menulist custom next test on a select combobox.

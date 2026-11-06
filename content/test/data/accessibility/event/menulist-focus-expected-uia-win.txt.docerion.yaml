@@ -1,0 +1,4 @@
+# Docerion header of menulist-focus-expected-uia-win.txt.
+type: test
+title: Menulist focus expected events for Windows UIA
+summary: Expected UIA AutomationFocusChanged event on a combobox when a select menu list receives focus on Windows.

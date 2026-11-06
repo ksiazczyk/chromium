@@ -1,0 +1,4 @@
+# Docerion header of range-value-is-readonly-changed-expected-win.txt.
+type: test
+title: Range value readonly changed expected Windows events
+summary: Expected Windows EVENT_OBJECT_STATECHANGE events for a range input's disabled and readonly changes.

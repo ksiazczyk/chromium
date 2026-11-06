@@ -1,0 +1,4 @@
+# Docerion header of tbody-focus-expected-win.txt.
+type: test
+title: tbody-focus expected events for Windows
+summary: Expected accessibility event file for the tbody-focus test on Windows; it is empty.

@@ -1,0 +1,4 @@
+# Docerion header of native-spinbutton-arrow-up-changed-expected-android.txt.
+type: test
+title: Native spinbutton arrow up expected Android events
+summary: Expected Android accessibility event log for the native spinbutton arrow-up test page.

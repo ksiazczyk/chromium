@@ -1,0 +1,4 @@
+# Docerion header of role-changed-expected-android.txt.
+type: test
+title: Role changed expected events for Android
+summary: Empty expected accessibility event output for the role-changed test on Android.

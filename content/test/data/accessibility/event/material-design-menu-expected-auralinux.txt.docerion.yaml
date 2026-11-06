@@ -1,0 +1,4 @@
+# Docerion header of material-design-menu-expected-auralinux.txt.
+type: test
+title: Material design menu expected Auralinux events
+summary: Expected Linux accessibility tree and state changes for the material design menu test as the menu opens and closes across go() passes.

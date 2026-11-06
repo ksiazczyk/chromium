@@ -1,0 +1,4 @@
+# Docerion header of reparent-element-with-activedescendant-element-expected-win.txt.
+type: test
+title: Reparent element with activedescendant element expected Windows events
+summary: Expected Windows and IA2 accessibility events for the reparent-element-with-activedescendant-element test, including focus and role-change events.

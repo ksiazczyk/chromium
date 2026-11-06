@@ -1,0 +1,4 @@
+# Docerion header of role-changed-expected-uia-win.txt.
+type: test
+title: Role changed expected events for UIA on Windows
+summary: Expected UIA structure-changed events for the role-changed test, marked as skipped because the output needs de-flaking.

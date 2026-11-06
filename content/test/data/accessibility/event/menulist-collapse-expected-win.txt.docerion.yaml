@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-expected-win.txt.
+type: test
+title: Menulist collapse expected events for Windows
+summary: Expected Windows accessibility events when a select menu list collapses, used as the expected output for the menulist-collapse web test.

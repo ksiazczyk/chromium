@@ -1,0 +1,4 @@
+# Docerion header of style-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for style change
+summary: Expected Linux accessibility event output for the style-changed test, listing text attributes changed events on paragraphs and a section.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoker-name-change-expected-auralinux.txt.
+type: test
+title: Menulist invoker name change expected events for Linux
+summary: Expected Linux NAME-CHANGED event when a menulist adopts its invoker button's name.

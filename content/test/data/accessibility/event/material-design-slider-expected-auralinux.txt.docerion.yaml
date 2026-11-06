@@ -1,0 +1,4 @@
+# Docerion header of material-design-slider-expected-auralinux.txt.
+type: test
+title: Material Web slider expected accessibility tree for Linux
+summary: Expected Linux accessibility tree dumps showing slider value changes across the three go() passes of the Material Web slider event test.

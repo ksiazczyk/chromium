@@ -1,0 +1,4 @@
+# Docerion header of native-spinbutton-appending-text-changed-expected-android.txt.
+type: test
+title: Native spinbutton appending text changed expected events for Android
+summary: Expected Android accessibility events when a focused number input's value is changed from 10 to 12.

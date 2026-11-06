@@ -1,0 +1,4 @@
+# Docerion header of range-value-is-readonly-changed-expected-android.txt.
+type: test
+title: Range value readonly changed expected Android events
+summary: Expected Android accessibility events when a range input's disabled and readonly states change.

@@ -1,0 +1,4 @@
+# Docerion header of report-validity-invalid-field-expected-mac.txt.
+type: test
+title: Report validity invalid field expected events for Mac
+summary: Empty expected accessibility event output for the report-validity-invalid-field test on macOS.

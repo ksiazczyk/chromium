@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-next-expected-mac.txt.
+type: test
+title: Expected macOS accessibility events for menulist custom next test
+summary: Expected macOS AX notification output for the menulist custom next test, listing events for expansion, focus and menu item selection.

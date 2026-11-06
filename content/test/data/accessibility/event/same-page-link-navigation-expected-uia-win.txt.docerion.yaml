@@ -1,0 +1,4 @@
+# Docerion header of same-page-link-navigation-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows events for same-page link navigation
+summary: Expected UIA accessibility event log on Windows for the same-page link navigation test, listing ActiveTextPositionChanged and Invoke events.

@@ -1,0 +1,4 @@
+# Docerion header of material-design-tabs-expected-blink.txt.
+type: test
+title: Material design tabs expected Blink tree
+summary: Expected Blink accessibility tree dumps before and after each pass of the material design tabs test.

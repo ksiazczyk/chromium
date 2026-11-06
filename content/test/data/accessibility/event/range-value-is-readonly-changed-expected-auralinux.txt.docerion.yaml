@@ -1,0 +1,4 @@
+# Docerion header of range-value-is-readonly-changed-expected-auralinux.txt.
+type: test
+title: Range value readonly changed expected Linux events
+summary: Expected Linux AT-SPI state-change events for a slider's enabled and read-only state transitions.

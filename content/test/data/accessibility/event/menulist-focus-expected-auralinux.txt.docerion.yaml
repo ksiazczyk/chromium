@@ -1,0 +1,4 @@
+# Docerion header of menulist-focus-expected-auralinux.txt.
+type: test
+title: Menulist focus expected events for Linux
+summary: Expected Linux accessibility focus and state-change events when a select menu list receives focus.

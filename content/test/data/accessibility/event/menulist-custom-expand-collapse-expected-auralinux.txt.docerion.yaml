@@ -1,0 +1,4 @@
+# Docerion header of menulist-custom-expand-collapse-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for custom menulist expand and collapse
+summary: Expected AT-SPI accessibility event log on Linux for expanding and collapsing a custom select picker.

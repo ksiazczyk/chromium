@@ -1,0 +1,4 @@
+# Docerion header of role-changed-expected-win.txt.
+type: test
+title: Role changed expected events for Windows
+summary: Expected Windows accessibility event for the role-changed test, an IA2 role change event on the div that becomes a pushbutton.

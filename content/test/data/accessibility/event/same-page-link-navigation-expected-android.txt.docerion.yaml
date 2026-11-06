@@ -1,0 +1,4 @@
+# Docerion header of same-page-link-navigation-expected-android.txt.
+type: test
+title: Expected Android events for same-page link navigation
+summary: Expected Android accessibility event log for the same-page link navigation test, covering content changes, scrolling, clicks and focus.

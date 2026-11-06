@@ -1,0 +1,4 @@
+# Docerion header of text-align-changed.html.
+type: test
+title: Text-align change accessibility event test page
+summary: HTML test page that changes text-align on editable divs to trigger accessibility text attribute events.

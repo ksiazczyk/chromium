@@ -1,0 +1,4 @@
+# Docerion header of menulist-collapse-expected-uia-win.txt.
+type: test
+title: Menulist collapse expected events for Windows UIA
+summary: Expected UIA accessibility events on Windows when a select menu list collapses, used as the expected output for the menulist-collapse web test.

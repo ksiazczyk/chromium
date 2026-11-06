@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-created-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for menu popup creation
+summary: Expected Windows accessibility events for the menu popup creation test, listing menu popup start and end system events per continuation.

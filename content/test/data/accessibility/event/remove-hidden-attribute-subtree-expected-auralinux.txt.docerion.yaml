@@ -1,0 +1,4 @@
+# Docerion header of remove-hidden-attribute-subtree-expected-auralinux.txt.
+type: test
+title: Expected auralinux output for remove-hidden-attribute-subtree test
+summary: Expected Linux children-changed add event for the list item revealed by removing the hidden attribute in the subtree test page.

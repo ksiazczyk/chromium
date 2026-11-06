@@ -1,0 +1,4 @@
+# Docerion header of material-design-tabs-expected-auralinux.txt.
+type: test
+title: Material design tabs expected Auralinux events
+summary: Expected Linux accessibility tree snapshots and tab selection events for the material design tabs test.

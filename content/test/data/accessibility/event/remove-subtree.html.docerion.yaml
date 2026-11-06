@@ -1,0 +1,4 @@
+# Docerion header of remove-subtree.html.
+type: test
+title: Test page removing a list item subtree
+summary: HTML test page whose go() function removes the third list item from its parent to trigger accessibility subtree removal events.

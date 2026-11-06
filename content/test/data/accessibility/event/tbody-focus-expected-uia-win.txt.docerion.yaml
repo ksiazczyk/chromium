@@ -1,0 +1,4 @@
+# Docerion header of tbody-focus-expected-uia-win.txt.
+type: test
+title: tbody-focus expected events for UIA on Windows
+summary: Expected accessibility event file for the tbody-focus test under UIA on Windows; it is empty.

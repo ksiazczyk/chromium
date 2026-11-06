@@ -1,0 +1,4 @@
+# Docerion header of remove-hidden-attribute.html.
+type: test
+title: Test page removing hidden attribute from an ARIA list item
+summary: HTML test page using role list and listitem where a script removes the hidden attribute from item 3 to trigger accessibility events.

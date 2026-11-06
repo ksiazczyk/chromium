@@ -1,0 +1,4 @@
+# Docerion header of range-value-value-changed-expected-android.txt.
+type: test
+title: Expected Android events for range value value change
+summary: Expected Android accessibility events for the range-value-value-changed test, listing window content change notifications with subtree and state description content types on the WebView and SeekBar.

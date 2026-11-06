@@ -1,0 +1,4 @@
+# Docerion header of material-design-select-expected-win.txt.
+type: test
+title: Material Web select expected Windows IA2 events
+summary: Expected Windows IAccessible2 text inserted and removed events for the Material Web select event test.

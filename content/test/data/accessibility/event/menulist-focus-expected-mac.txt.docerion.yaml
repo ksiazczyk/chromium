@@ -1,0 +1,4 @@
+# Docerion header of menulist-focus-expected-mac.txt.
+type: test
+title: Menulist focus expected events for Mac
+summary: Expected macOS AXFocusedUIElementChanged event when a select menu list receives focus.

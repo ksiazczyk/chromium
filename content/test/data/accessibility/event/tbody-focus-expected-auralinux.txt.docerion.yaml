@@ -1,0 +1,4 @@
+# Docerion header of tbody-focus-expected-auralinux.txt.
+type: test
+title: tbody-focus expected events for Linux
+summary: Expected AT-SPI focus and state-change events when the tbody element receives focus on Linux.

@@ -1,0 +1,4 @@
+# Docerion header of text-align-changed-expected-android.txt.
+type: test
+title: text-align-changed expected events for Android
+summary: Expected Android accessibility events, content changes on the WebView and edit text, when text alignment changes.

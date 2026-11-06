@@ -1,0 +1,4 @@
+# Docerion header of remove-child-expected-win.txt.
+type: test
+title: Remove child expected events for Windows
+summary: Expected Windows accessibility events for the remove child test, listing hide, reorder and text removed notifications on a list.

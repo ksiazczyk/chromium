@@ -1,0 +1,4 @@
+# Docerion header of style-changed-expected-android.txt.
+type: test
+title: Expected Android accessibility events for style change
+summary: Expected Android accessibility event output for the style-changed test, containing only the end of initial page load marker.

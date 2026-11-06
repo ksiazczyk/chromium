@@ -1,0 +1,4 @@
+# Docerion header of material-design-switch-expected-mac.txt.
+type: test
+title: Material Web switch expected accessibility tree for macOS
+summary: Expected macOS accessibility tree dumps showing the Material Web switch toggling checked state across three passes.

@@ -1,0 +1,4 @@
+# Docerion header of text-align-changed-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility events for text-align changes
+summary: Expected AT-SPI accessibility event output on Linux for the text-align-changed test page.

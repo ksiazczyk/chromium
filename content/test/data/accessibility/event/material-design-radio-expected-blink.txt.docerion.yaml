@@ -1,0 +1,4 @@
+# Docerion header of material-design-radio-expected-blink.txt.
+type: test
+title: Material Web radio expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots for the Material Web radio event test, showing radio checked state changes across three passes.

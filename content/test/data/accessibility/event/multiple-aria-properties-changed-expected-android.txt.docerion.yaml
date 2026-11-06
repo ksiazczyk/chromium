@@ -1,0 +1,4 @@
+# Docerion header of multiple-aria-properties-changed-expected-android.txt.
+type: test
+title: multiple-aria-properties-changed expected events for Android
+summary: Expected Android accessibility events when multiple ARIA properties change on checkbox elements in the multiple-aria-properties-changed test.

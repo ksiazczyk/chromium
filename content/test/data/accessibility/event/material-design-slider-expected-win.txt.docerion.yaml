@@ -1,0 +1,4 @@
+# Docerion header of material-design-slider-expected-win.txt.
+type: test
+title: Material Web slider expected accessibility events on Windows
+summary: Expected WinEvents recording slider value changes for the Material Web slider test on Windows.

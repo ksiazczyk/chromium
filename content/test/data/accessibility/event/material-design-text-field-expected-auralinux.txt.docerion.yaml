@@ -1,0 +1,4 @@
+# Docerion header of material-design-text-field-expected-auralinux.txt.
+type: test
+title: Material design text field expected Auralinux events
+summary: Expected Linux accessibility events for text insertion and removal in the material design text field test.

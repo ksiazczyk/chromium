@@ -1,0 +1,4 @@
+# Docerion header of text-changed-contenteditable-expected-win.txt.
+type: test
+title: Expected Windows accessibility events for contenteditable text changes
+summary: Expected IAccessible2 accessibility event output on Windows for the text-changed-contenteditable test page.

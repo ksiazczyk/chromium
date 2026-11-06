@@ -1,0 +1,4 @@
+# Docerion header of menu-opened-closed-expected-mac.txt.
+type: test
+title: Menu opened and closed expected accessibility events (macOS)
+summary: Expected macOS AXMenuOpened and AXMenuClosed events for the menu opened and closed test.

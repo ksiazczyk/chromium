@@ -1,0 +1,4 @@
+# Docerion header of tabindex-added-on-plain-div-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux events for tabindex-added-on-plain-div test
+summary: Expected AuraLinux accessibility event output for the tabindex-added-on-plain-div test page, currently empty.

@@ -1,0 +1,4 @@
+# Docerion header of menu-popup-static-expected-android.txt.
+type: test
+title: Expected Android accessibility events for static menu popup
+summary: Expected Android accessibility events for the static menu popup test, containing only the initial page load content changes.
