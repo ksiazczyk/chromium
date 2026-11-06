@@ -1,0 +1,4 @@
+# Docerion header of directwriting_common.aidl.
+type: source
+title: directwriting_common.aidl
+summary: Declares the Direct Writing service and callback interfaces so the other AIDL files in this directory can compile.

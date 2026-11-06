@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWritingTrigger
+// summary: Manages stylus input events and the start and stop of Direct Writing recognition, forwarding calls to the service binder and updating web contents handlers.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

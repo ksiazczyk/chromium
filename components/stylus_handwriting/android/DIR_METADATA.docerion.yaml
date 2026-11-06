@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Stylus handwriting Android issue tracking metadata
+summary: Maps the directory to the UI>Input>Text monorail component and a Buganizer component for issue tracking on Android.

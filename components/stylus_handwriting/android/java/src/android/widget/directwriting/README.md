@@ -1,3 +1,9 @@
+---
+type: readme
+title: Android Stylus Handwriting - Direct Writing
+summary: Explains that the folder holds AIDL definitions for the Samsung Direct Writing service and how Chrome detects writable fields, connects and commits recognized text.
+---
+
 # Android Stylus Handwriting - Direct Writing
 
 This folder contains files, .aidl service definitions needed for using Stylus handwriting

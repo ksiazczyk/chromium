@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StylusWritingController
+// summary: Chooses between the Direct Writing service, the Android platform Stylus Writing feature, or a disabled handler and attaches the appropriate stylus writing handler to WebContents.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import android.content.Context;

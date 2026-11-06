@@ -1,0 +1,4 @@
+# Docerion header of privacy_sandbox_strings_cy.xtb.
+type: data
+title: Privacy sandbox strings in Welsh
+summary: Welsh translation bundle with Chromium privacy sandbox UI strings covering third-party cookie blocking, allowing, and Incognito mode messages.

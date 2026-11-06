@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidStylusWritingHandler
+// summary: Implements stylus handwriting via the Android T stylus writing APIs, checking settings and IME support before starting handwriting sessions.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static android.view.PointerIcon.TYPE_HANDWRITING;

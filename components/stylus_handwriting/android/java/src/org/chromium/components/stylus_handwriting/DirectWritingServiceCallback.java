@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWritingServiceCallback
+// summary: Implements the Direct Writing service callback stub, handling recognized gestures and caching editable element and text input state on the binder thread.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static org.chromium.build.NullUtil.assertNonNull;

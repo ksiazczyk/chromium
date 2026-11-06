@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWritingConstants
+// summary: Defines Direct Writing constants including the Samsung service package names, certificate fingerprints and service callback message IDs.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import org.chromium.build.annotations.NullMarked;

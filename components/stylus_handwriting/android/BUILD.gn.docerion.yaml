@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Stylus handwriting Android build targets
+summary: Defines GN build targets for the Android stylus handwriting component, including AIDL interfaces, the Java library, and Robolectric JUnit test support and tests.

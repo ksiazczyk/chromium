@@ -1,3 +1,9 @@
+---
+type: readme
+title: Stylus Handwriting to HTML text input
+summary: Explains how the component supports stylus handwriting recognition that commits text to HTML inputs on Android (including Samsung Direct Writing) and Windows via TSF.
+---
+
 # Stylus Handwriting to HTML text input
 
 This directory contains files and classes needed to support the Stylus Handwriting recognition

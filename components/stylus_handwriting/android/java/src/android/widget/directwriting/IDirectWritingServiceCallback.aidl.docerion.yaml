@@ -1,0 +1,4 @@
+# Docerion header of IDirectWritingServiceCallback.aidl.
+type: source
+title: IDirectWritingServiceCallback.aidl callback interface
+summary: AIDL callback interface implemented by Chrome to report edit field state, commit recognized text and handle gestures returned by the Direct Writing service.

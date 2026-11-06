@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Windows stylus handwriting directory
+summary: Lists the code owners responsible for reviewing changes in this directory, inheriting from the parent stylus_handwriting OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stylus handwriting feature flag implementations
+// summary: Implements base::Feature flags and parameter accessors for Windows stylus handwriting, including gesture movement thresholds and proximate bounds collection limits.
+// ---
+
 #include "components/stylus_handwriting/win/features.h"
 
 namespace stylus_handwriting::win {

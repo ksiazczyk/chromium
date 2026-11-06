@@ -1,0 +1,4 @@
+# Docerion header of IDirectWritingService.aidl.
+type: source
+title: IDirectWritingService.aidl service interface
+summary: AIDL interface defining the Samsung Direct Writing service API for stylus handwriting recognition, including bundle keys, configuration values and service methods.

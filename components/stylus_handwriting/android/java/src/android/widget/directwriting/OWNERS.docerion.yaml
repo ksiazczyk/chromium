@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for AIDL files
+summary: Sets per-file review rules so AIDL files in this directory need no parent approval and are owned by the IPC security owners.

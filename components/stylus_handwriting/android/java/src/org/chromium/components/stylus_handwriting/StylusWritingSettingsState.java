@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StylusWritingSettingsState
+// summary: Tracks and observes Android system settings relevant to stylus handwriting, such as direct writing and stylus handwriting enabled flags, and notifies observers of changes.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import android.content.ContentResolver;

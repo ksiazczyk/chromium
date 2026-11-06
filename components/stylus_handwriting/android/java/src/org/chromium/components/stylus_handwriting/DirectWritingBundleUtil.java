@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWritingBundleUtil
+// summary: Utility class that builds Bundles with motion events, edit bounds and service host source for Direct Writing service calls.
+// ---
+
 package org.chromium.components.stylus_handwriting;
 
 import static android.widget.directwriting.IDirectWritingService.KEY_BUNDLE_EDIT_RECT;
