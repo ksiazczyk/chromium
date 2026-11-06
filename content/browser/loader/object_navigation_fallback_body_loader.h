@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectNavigationFallbackBodyLoader class declaration
+// summary: Declares a helper that drains the body of a failed object element navigation to add a resource timing entry and run the fallback steps.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_OBJECT_NAVIGATION_FALLBACK_BODY_LOADER_H_
 #define CONTENT_BROWSER_LOADER_OBJECT_NAVIGATION_FALLBACK_BODY_LOADER_H_
 

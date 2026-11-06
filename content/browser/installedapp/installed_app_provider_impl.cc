@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledAppProviderImpl implementation
+// summary: Implements the InstalledAppProvider mojo service that filters related applications against installed web and Windows apps, honoring feature flags and saved related applications.
+// ---
+
 #include "content/browser/installedapp/installed_app_provider_impl.h"
 
 #include <algorithm>

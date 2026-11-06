@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: HID directory owners
+summary: Delegates ownership approvals for the HID browser directory to the Blink renderer HID module OWNERS file.

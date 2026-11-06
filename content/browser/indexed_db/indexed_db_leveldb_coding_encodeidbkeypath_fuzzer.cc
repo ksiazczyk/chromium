@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EncodeIDBKeyPath fuzzer
+// summary: Fuzz target generating random IndexedDB key paths and verifying encode-decode round trips.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

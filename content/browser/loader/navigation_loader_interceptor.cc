@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationLoaderInterceptor implementation
+// summary: Implements the NavigationLoaderInterceptor base class, providing default response interception behavior and Result move semantics.
+// ---
+
 #include "content/browser/loader/navigation_loader_interceptor.h"
 
 #include "content/browser/navigation_subresource_loader_params.h"

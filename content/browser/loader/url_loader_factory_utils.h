@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory utilities declaration
+// summary: Declares URL loader factory helpers such as testing interceptors, ContentClientParams for WillCreateURLLoaderFactory, and factory option enums.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_URL_LOADER_FACTORY_UTILS_H_
 #define CONTENT_BROWSER_LOADER_URL_LOADER_FACTORY_UTILS_H_
 

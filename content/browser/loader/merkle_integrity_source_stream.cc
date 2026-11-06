@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerkleIntegritySourceStream implementation
+// summary: Implements the filter source stream that decodes and verifies mi-sha256-03 Merkle integrity content encoding record by record.
+// ---
+
 #include "content/browser/loader/merkle_integrity_source_stream.h"
 
 #include <string.h>

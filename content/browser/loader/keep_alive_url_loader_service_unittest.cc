@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeepAliveURLLoaderService unit tests
+// summary: Unit tests for the keepalive loader service covering request creation, redirects, CSP violations, early hints and response forwarding to renderers.
+// ---
+
 #include "content/browser/loader/keep_alive_url_loader_service.h"
 
 #include <memory>

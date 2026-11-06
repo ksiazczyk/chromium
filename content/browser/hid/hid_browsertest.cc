@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebHID browser tests
+// summary: Browser tests for the WebHID API covering device enumeration, chooser requests, and connection behavior with a mocked HID delegate.
+// ---
+
 #include <string>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackingStore interface for IndexedDB data storage
+// summary: Abstracts the IndexedDB data store for a single bucket, defining database, transaction, and cursor interfaces implemented by LevelDB and SQLite backends.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_H_
 

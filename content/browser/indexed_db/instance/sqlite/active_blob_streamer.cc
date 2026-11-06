@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active blob streamer implementation
+// summary: Implements streaming of IndexedDB blob bytes from SQLite into mojo data pipes, including the self-owned SqliteBlobToDataPipe helper that feeds reads to clients.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/active_blob_streamer.h"
 
 #include <limits>

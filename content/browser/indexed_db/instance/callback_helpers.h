@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB transaction callback helpers
+// summary: Provides template helpers that wrap IndexedDB transaction callbacks so they report an abort error when destroyed without being run.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_CALLBACK_HELPERS_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_CALLBACK_HELPERS_H_
 

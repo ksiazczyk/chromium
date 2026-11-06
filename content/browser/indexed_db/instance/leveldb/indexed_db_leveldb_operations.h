@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB LevelDB shared operations header
+// summary: Declares common helper operations for IndexedDB LevelDB transactions and databases, including corruption info handling and typed put/get helpers for ints, bools, and varints.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_INDEXED_DB_LEVELDB_OPERATIONS_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_INDEXED_DB_LEVELDB_OPERATIONS_H_
 

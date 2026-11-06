@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchURLLoader class declaration
+// summary: Declares a URLLoader for prefetch requests such as link rel=prefetch that keeps draining the response data.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_PREFETCH_URL_LOADER_H_
 #define CONTENT_BROWSER_LOADER_PREFETCH_URL_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossOriginReadBlockingChecker implementation
+// summary: Implements Opaque Response Blocking checks for blob-backed responses, reading and sniffing blob data on the IO thread and reporting allow, block, or net error results.
+// ---
+
 #include "content/browser/loader/cross_origin_read_blocking_checker.h"
 
 #include <string_view>

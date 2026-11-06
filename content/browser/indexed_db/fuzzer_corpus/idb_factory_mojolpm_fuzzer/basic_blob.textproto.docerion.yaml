@@ -1,0 +1,4 @@
+# Docerion header of basic_blob.textproto.
+type: data
+title: Basic blob corpus for IDBFactory MojoLPM fuzzer
+summary: Fuzzer corpus input that opens an IndexedDB database, stores a record referencing a blob, and reads the blob back through a data pipe.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB context unit tests
+// summary: Unit tests for IndexedDBContextImpl, verifying default bucket creation when binding IDBFactory remotes and error handling when the database is disabled.
+// ---
+
 #include <memory>
 
 #include "base/barrier_closure.h"

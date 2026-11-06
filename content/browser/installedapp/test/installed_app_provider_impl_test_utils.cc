@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installed app provider test utility implementations
+// summary: Implements test helpers for installed app provider tests, including a fake Windows app fetcher and a fake ContentBrowserClient that reports installed web apps.
+// ---
+
 #include "content/browser/installedapp/test/installed_app_provider_impl_test_utils.h"
 
 #include "third_party/blink/public/mojom/installedapp/related_application.mojom.h"

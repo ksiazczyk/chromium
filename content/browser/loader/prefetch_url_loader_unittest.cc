@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchURLLoader unit tests
+// summary: Unit tests for PrefetchURLLoader covering redirect isolation info updates and invalid prefetch request handling.
+// ---
+
 #include "content/browser/loader/prefetch_url_loader.h"
 
 #include <memory>

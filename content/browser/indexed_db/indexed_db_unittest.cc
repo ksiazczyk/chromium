@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB unit tests
+// summary: Extensive unit tests covering the IndexedDB context, backing store, buckets, and database operations using the shared test base fixture.
+// ---
+
 #include <inttypes.h>
 
 #include <cstdint>

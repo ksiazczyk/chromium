@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB IO error cleanup tests
+// summary: Tests that the LevelDB backing store fails initialization and cleans up its directory when LevelDB reports IO errors.
+// ---
+
 #include <cerrno>
 #include <memory>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HapticsManager implementation using WinRT InputHapticsManager
+// summary: Implements PlayHaptics on Windows via the WinRT InputHapticsManager, mapping haptic effects to supported waveforms with device-type defaults and a test seam for statics.
+// ---
+
 #include "content/browser/haptics/haptics_manager_impl_win.h"
 
 #include <windows.foundation.collections.h>

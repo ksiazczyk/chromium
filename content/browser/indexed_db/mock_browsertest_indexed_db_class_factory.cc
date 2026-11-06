@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock IndexedDB class factory for browser tests
+// summary: Implements a test factory wrapping LevelDB database, transaction, and iterator classes to inject failures and trace calls during browser tests.
+// ---
+
 #include "content/browser/indexed_db/mock_browsertest_indexed_db_class_factory.h"
 
 #include <stddef.h>

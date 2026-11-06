@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchURLLoader implementation
+// summary: Implements the prefetch URLLoader that drains response bodies and sets signed exchange accept headers for prefetch requests.
+// ---
+
 #include "content/browser/loader/prefetch_url_loader.h"
 
 #include "base/feature_list.h"

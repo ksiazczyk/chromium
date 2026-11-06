@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation Early Hints browser tests
+// summary: Browser tests verifying 103 Early Hints handling during navigation, including preloads, preconnects, CORS, iframes and module scripts.
+// ---
+
 #include "base/memory/weak_ptr.h"
 #include "base/run_loop.h"
 #include "base/strings/strcat.h"

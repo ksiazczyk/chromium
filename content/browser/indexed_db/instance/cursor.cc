@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB cursor implementation
+// summary: Implements the Cursor Mojo receiver, handling advance, continue and prefetch operations over a backing store cursor and reporting errors for closed or invalid cursor use.
+// ---
+
 #include "content/browser/indexed_db/instance/cursor.h"
 
 #include <stddef.h>

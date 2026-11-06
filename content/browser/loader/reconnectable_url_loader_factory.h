@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReconnectableURLLoaderFactory class declaration
+// summary: Declares a SharedURLLoaderFactory that caches and reuses a URLLoaderFactory remote, recreating and reconnecting it when disconnected, plus an IO-thread-only variant.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_RECONNECTABLE_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_LOADER_RECONNECTABLE_URL_LOADER_FACTORY_H_
 

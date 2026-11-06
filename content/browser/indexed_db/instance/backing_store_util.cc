@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backing store utility functions
+// summary: Provides helpers that convert database metadata and cursor contents into summarized or hashed values, limiting memory use for diagnostics.
+// ---
+
 #include "content/browser/indexed_db/instance/backing_store_util.h"
 
 #include "base/containers/to_vector.h"

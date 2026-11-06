@@ -1,3 +1,11 @@
+---
+type: reference
+title: LevelDB coding scheme
+summary: Reference describing how IndexedDB backing store keys and values are encoded in LevelDB, including key prefixes, metadata, and data layouts.
+relations:
+  - references /content/browser/indexed_db/indexed_db_leveldb_coding.cc
+---
+
 # LevelDB Coding Scheme
 
 LevelDB stores key/value pairs. Keys and values are strings of bytes,

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database callbacks class declaration
+// summary: Declares DatabaseCallbacks, a thin wrapper around IDBDatabaseCallbacks that no-ops operations invoked after OnForcedClose.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_DATABASE_CALLBACKS_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_DATABASE_CALLBACKS_H_
 

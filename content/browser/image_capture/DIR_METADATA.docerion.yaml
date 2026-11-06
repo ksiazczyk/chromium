@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Image capture directory metadata
+summary: Maps the image capture directory to the Blink>ImageCapture component, the WebRTC team email, and a public Buganizer component.

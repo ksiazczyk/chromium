@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceProxyingURLLoaderService implementation
+// summary: Implements the service that binds URLLoaderFactory receivers so renderers can route subresource and prefetch requests through the proxying loader.
+// ---
+
 #include "content/browser/loader/subresource_proxying_url_loader_service.h"
 
 #include "base/feature_list.h"

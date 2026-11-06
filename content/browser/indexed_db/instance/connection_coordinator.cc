@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection coordinator implementation for IndexedDB
+// summary: Implements ConnectionRequest and its open/delete variants that queue and run IndexedDB database open and delete requests, handling blocked events and version change acknowledgements.
+// ---
+
 #include "content/browser/indexed_db/instance/connection_coordinator.h"
 
 #include <atomic>

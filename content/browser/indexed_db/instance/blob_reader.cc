@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReader implementation
+// summary: Implements BlobReader, which reads IndexedDB blob files from disk and serves their bytes to the renderer through mojo blob interfaces.
+// ---
+
 #include "content/browser/indexed_db/instance/blob_reader.h"
 
 #include <limits>

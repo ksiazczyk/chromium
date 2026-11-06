@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB metrics reporting declarations
+// summary: Declares histogram reporting helpers and persisted enums for backing store error sources, open results, and database connection outcomes.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_REPORTING_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_REPORTING_H_
 

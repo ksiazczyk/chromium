@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows haptics waveforms statics interface declaration
+// summary: Declares a Windows haptics waveforms interface absent from the bundled SDK, letting the production backend and unit-test fakes share one IID and vtable layout.
+// ---
+
 #ifndef CONTENT_BROWSER_HAPTICS_HAPTICS_WAVEFORMS_STATICS3_WIN_H_
 #define CONTENT_BROWSER_HAPTICS_HAPTICS_WAVEFORMS_STATICS3_WIN_H_
 

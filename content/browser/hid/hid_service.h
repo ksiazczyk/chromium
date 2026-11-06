@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidService class declaration
+// summary: Declares HidService, the mojom HidService implementation used by Blink for the WebHID API, including protected report filtering.
+// ---
+
 #ifndef CONTENT_BROWSER_HID_HID_SERVICE_H_
 #define CONTENT_BROWSER_HID_HID_SERVICE_H_
 

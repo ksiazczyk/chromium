@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backing store snapshot and migration utilities
+// summary: Declares helpers that snapshot an IndexedDB database into a base::Value and migrate its full contents from one backing store to another.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_UTIL_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_UTIL_H_
 

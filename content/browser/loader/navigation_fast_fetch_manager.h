@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationFastFetchManager class header
+// summary: Declares NavigationFastFetchManager, which runs a Fast Fetch dry run per main-frame navigation, tracking eligibility reasons and navigation outcomes for metrics.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_NAVIGATION_FAST_FETCH_MANAGER_H_
 #define CONTENT_BROWSER_LOADER_NAVIGATION_FAST_FETCH_MANAGER_H_
 

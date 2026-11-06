@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB record class implementations
+// summary: Implements object store and index record classes that expose key, primary key, and value accessors, including key-only variants that forbid value access.
+// ---
+
 #include "content/browser/indexed_db/instance/record.h"
 
 #include <utility>

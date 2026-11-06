@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backing store cursor implementation
+// summary: Implements cursor navigation over SQLite statements, advancing, seeking to target keys, and updating the current record via the owning DatabaseConnection.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/backing_store_cursor_impl.h"
 
 #include <memory>

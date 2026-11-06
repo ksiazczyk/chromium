@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream reader to data pipe header
+// summary: Declares OpenFileAndReadIntoPipe, which reads a file range into a Mojo data pipe and reports the result and transferred bytes.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_FILE_STREAM_READER_TO_DATA_PIPE_H_
 #define CONTENT_BROWSER_INDEXED_DB_FILE_STREAM_READER_TO_DATA_PIPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackingStore pre-close task queue implementation
+// summary: Implements the queue that runs pre-close tasks after a backing store loses its last connection, with timeout, stop, and metadata-fetch handling.
+// ---
+
 #include "content/browser/indexed_db/instance/backing_store_pre_close_task_queue.h"
 
 #include <list>

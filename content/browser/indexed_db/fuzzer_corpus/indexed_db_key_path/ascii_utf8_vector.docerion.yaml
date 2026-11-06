@@ -1,0 +1,4 @@
+# Docerion header of ascii_utf8_vector.
+type: test
+title: IndexedDB key path fuzzer corpus entry with ASCII and UTF-8 strings
+summary: Seed input for the IndexedDB key path fuzzer, holding a vector of ASCII and UTF-8 strings used to exercise key path encoding.

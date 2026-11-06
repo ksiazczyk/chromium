@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidService unit tests
+// summary: Unit tests for HidService covering creation from render frames, dedicated workers, and service workers, plus permissions and device events.
+// ---
+
 #include "content/browser/hid/hid_service.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CorsOriginPatternSetter unit tests
+// summary: Unit tests for CorsOriginPatternSetter covering the initially empty shared CORS origin access list, pattern cloning, and setting allow patterns.
+// ---
+
 #include "content/public/browser/cors_origin_pattern_setter.h"
 
 #include <string>

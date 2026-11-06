@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IndexedDB Database
+// summary: Unit tests for the Database class covering connection lifecycle and forced close behaviour, parameterized over LevelDB and SQLite backing stores.
+// ---
+
 #include "content/browser/indexed_db/instance/database.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock request data declaration
+// summary: Declares LockRequestData, a SupportsUserData payload that injects client token and scheduling priority metadata into partitioned lock holders.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_LOCK_REQUEST_DATA_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_LOCK_REQUEST_DATA_H_
 

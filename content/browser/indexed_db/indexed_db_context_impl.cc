@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB context implementation
+// summary: Implements the browser-side IndexedDB context that manages per-bucket backing store paths for blobs, LevelDB and SQLite, and coordinates with the quota manager.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_context_impl.h"
 
 #include <algorithm>

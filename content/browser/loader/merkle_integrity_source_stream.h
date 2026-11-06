@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerkleIntegritySourceStream header
+// summary: Declares MerkleIntegritySourceStream, a filter stream that decodes and validates the mi-sha256 content encoding.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_MERKLE_INTEGRITY_SOURCE_STREAM_H_
 #define CONTENT_BROWSER_LOADER_MERKLE_INTEGRITY_SOURCE_STREAM_H_
 

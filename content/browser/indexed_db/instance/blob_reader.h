@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReader class declaration
+// summary: Declares BlobReader, which reads files from the IndexedDB blob store and serves them via the mojom Blob, DataPipeGetter and BlobDataItemReader interfaces.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BLOB_READER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BLOB_READER_H_
 

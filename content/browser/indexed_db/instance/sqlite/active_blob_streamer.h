@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveBlobStreamer class declaration
+// summary: Declares ActiveBlobStreamer, which serves blobs stored in SQLite to connected clients and keeps the DatabaseConnection alive while a blob is active.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_ACTIVE_BLOB_STREAMER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_ACTIVE_BLOB_STREAMER_H_
 

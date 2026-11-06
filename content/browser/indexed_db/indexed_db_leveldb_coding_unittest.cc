@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB LevelDB coding unit tests
+// summary: Unit tests for encoding, decoding, and comparing IndexedDB keys and key paths in the LevelDB coding scheme.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_leveldb_coding.h"
 
 #include <stddef.h>

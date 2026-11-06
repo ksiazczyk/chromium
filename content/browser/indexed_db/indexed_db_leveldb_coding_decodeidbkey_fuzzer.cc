@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecodeIDBKey fuzzer
+// summary: Fuzz target checking that decoded IndexedDB keys re-encode to the original bytes in both the old and sortable coding schemes.
+// ---
+
 #include <cstdint>
 #include <string_view>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationLoaderInterceptor interface header
+// summary: Declares the NavigationLoaderInterceptor interface that lets custom URLLoader implementations intercept navigation requests before the default network loader.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_NAVIGATION_LOADER_INTERCEPTOR_H_
 #define CONTENT_BROWSER_LOADER_NAVIGATION_LOADER_INTERCEPTOR_H_
 

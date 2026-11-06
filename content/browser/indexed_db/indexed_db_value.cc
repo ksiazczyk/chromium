@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDBValue implementation
+// summary: Implements the move-only IndexedDBValue type holding serialized script bits and external objects, including its clone operation.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_value.h"
 
 #include "base/check.h"

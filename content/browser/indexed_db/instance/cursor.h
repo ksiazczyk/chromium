@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB cursor class declaration
+// summary: Declares the Cursor class that wraps a backing store cursor, implements the IDBCursor Mojo interface and exposes key, primary key and value accessors.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_CURSOR_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_CURSOR_H_
 

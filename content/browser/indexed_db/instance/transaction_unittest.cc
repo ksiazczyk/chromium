@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB transaction unit tests
+// summary: Unit tests for the IndexedDB Transaction class covering connection and transaction creation, aborts, and lock behavior.
+// ---
+
 #include "content/browser/indexed_db/instance/transaction.h"
 
 #include <stdint.h>

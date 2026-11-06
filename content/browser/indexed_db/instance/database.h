@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database class declaration
+// summary: Declares the Database class mapping to a single IndexedDB database, with connection scheduling, transaction registration, forced close and deletion APIs.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_DATABASE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_DATABASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite backing store rollout stage unit tests
+// summary: Parametrized unit tests covering how IndexedDB buckets choose between LevelDB and SQLite backing stores across rollout stages, corruption, and directory states.
+// ---
+
 #include <map>
 #include <string_view>
 #include <tuple>

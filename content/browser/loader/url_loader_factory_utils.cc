@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory utilities implementation
+// summary: Implements URL loader factory helpers, including a testing interceptor hook and TerminalParams for building terminal network factories.
+// ---
+
 #include "content/browser/loader/url_loader_factory_utils.h"
 
 #include <variant>

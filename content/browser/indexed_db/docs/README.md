@@ -1,3 +1,11 @@
+---
+type: readme
+title: IndexedDB documentation
+summary: Explains IndexedDB backing store terminology, blob storage states, and blob-related concepts for Chromium's IndexedDB implementation.
+relations:
+  - references /content/browser/indexed_db/docs/BlobStateDiagram.png
+  - references /content/browser/indexed_db/indexed_db_external_object.h
+---
 
 
 # IndexedDB

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveURLLoaderService implementation
+// summary: Implements the per-storage-partition service that binds renderer keepalive loader factories and tracks loaders until their requests complete or fail.
+// ---
+
 #include "content/browser/loader/keep_alive_url_loader_service.h"
 
 #include <map>

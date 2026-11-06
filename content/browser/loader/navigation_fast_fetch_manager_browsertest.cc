@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation Fast Fetch manager browser tests
+// summary: Browser tests verifying Fast Fetch eligibility reasons such as service workers and prerendering via UMA histograms.
+// ---
+
 #include "content/browser/loader/navigation_fast_fetch_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

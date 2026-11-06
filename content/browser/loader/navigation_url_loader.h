@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationURLLoader interface header
+// summary: Declares the NavigationURLLoader interface, the navigation logic's UI thread entry point into the resource loading stack.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_NAVIGATION_URL_LOADER_H_
 #define CONTENT_BROWSER_LOADER_NAVIGATION_URL_LOADER_H_
 

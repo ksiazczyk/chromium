@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceProxyingURLLoaderService declaration
+// summary: Declares a URLLoaderFactory given to renderers to intercept subresource and prefetch requests, along with its BindContext tracking document state.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_SUBRESOURCE_PROXYING_URL_LOADER_SERVICE_H_
 #define CONTENT_BROWSER_LOADER_SUBRESOURCE_PROXYING_URL_LOADER_SERVICE_H_
 

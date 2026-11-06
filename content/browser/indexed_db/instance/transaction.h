@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB transaction class declarations
+// summary: Declares the Transaction class mirroring the IDBTransaction API, with state machine, commit flag handling, abort, and lock priority methods.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_TRANSACTION_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_TRANSACTION_H_
 

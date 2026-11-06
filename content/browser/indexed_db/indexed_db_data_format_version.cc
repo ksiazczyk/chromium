@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB data format version implementation
+// summary: Defines the current IndexedDB wire format version from the V8 value serializer and Blink serialized script value versions.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_data_format_version.h"
 
 #include "third_party/blink/public/web/web_serialized_script_value_version.h"

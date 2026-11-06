@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB test fixture implementation
+// summary: Implements the shared IndexedDB test base with mock quota managers, temporary directories, and helpers for creating buckets and databases.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_test_base.h"
 
 #include <set>

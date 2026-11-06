@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Mojo IndexedDB database callbacks class declaration
+// summary: Declares MockMojoDatabaseCallbacks, a gmock mock of the Mojo IDBDatabaseCallbacks interface used to simulate forced close, version change, abort, and complete callbacks in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_MOCK_MOJO_INDEXED_DB_DATABASE_CALLBACKS_H_
 #define CONTENT_BROWSER_INDEXED_DB_MOCK_MOJO_INDEXED_DB_DATABASE_CALLBACKS_H_
 

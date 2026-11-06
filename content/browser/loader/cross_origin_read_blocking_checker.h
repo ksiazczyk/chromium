@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossOriginReadBlockingChecker class declaration
+// summary: Declares a checker that uses Opaque Response Blocking to decide whether a blob-backed response should be allowed, blocked, or fail with a network error.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_CROSS_ORIGIN_READ_BLOCKING_CHECKER_H_
 #define CONTENT_BROWSER_LOADER_CROSS_ORIGIN_READ_BLOCKING_CHECKER_H_
 

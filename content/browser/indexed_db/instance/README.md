@@ -1,3 +1,11 @@
+---
+type: readme
+title: IndexedDB instance directory overview
+summary: Explains that BucketContext is the root class for each IndexedDB instance, describes the bucket thread, and names BucketContext as the only external entry point.
+relations:
+  - references /content/browser/indexed_db/file_path_util.h
+---
+
 The root node of the class hierarchy for the code in this directory is
 `BucketContext`. Start off by reading that class's documentation.
 

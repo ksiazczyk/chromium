@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File URL loader factory header
+// summary: Declares FileURLLoaderFactory, a self-deleting URLLoaderFactory for file scheme requests used when the network service is enabled, with shared CORS origin access list support.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_FILE_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_LOADER_FILE_URL_LOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite IndexedDB database connection class declaration
+// summary: Declares DatabaseConnection, the sole owner of the SQLite connection backing an IndexedDB database, including its schema, operations, and in-memory metadata.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_DATABASE_CONNECTION_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_DATABASE_CONNECTION_H_
 

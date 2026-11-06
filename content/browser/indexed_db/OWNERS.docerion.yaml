@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: IndexedDB code owners
+summary: Lists code owners for the IndexedDB directory, with special owner rules for mojom files and WebUI internals changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock file system access context implementation
+// summary: Implements a mock FileSystemAccessContext that records serialized transfer token handles and supports cloning for IndexedDB tests.
+// ---
+
 #include "content/browser/indexed_db/instance/mock_file_system_access_context.h"
 
 #include "base/notreached.h"

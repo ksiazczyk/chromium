@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceProxyingURLLoader declaration
+// summary: Declares a URLLoader that intercepts and forwards proxied subresource requests and responses, with an Interceptor interface for modifying headers and redirects.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_SUBRESOURCE_PROXYING_URL_LOADER_H_
 #define CONTENT_BROWSER_LOADER_SUBRESOURCE_PROXYING_URL_LOADER_H_
 

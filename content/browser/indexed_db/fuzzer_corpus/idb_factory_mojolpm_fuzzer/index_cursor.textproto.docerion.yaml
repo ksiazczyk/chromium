@@ -1,0 +1,4 @@
+# Docerion header of index_cursor.textproto.
+type: data
+title: Multi-entry index cursor corpus for IDBFactory MojoLPM fuzzer
+summary: Fuzzer corpus input that populates a multi-entry index with several records and iterates it using cursor operations.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedCorsOriginAccessList implementation
+// summary: Implements creation of the shared CORS origin access list and updates of per-origin allow and block patterns on the UI thread.
+// ---
+
 #include "content/browser/loader/shared_cors_origin_access_list_impl.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Derived origin in fetch browser test
+// summary: Browser test verifying that a fetch initiated from a page with a file scheme origin gets a request initiator derived from that originating origin.
+// ---
+
 #include <optional>
 
 #include "content/public/common/content_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchRelatedWinAppsTask header
+// summary: Declares FetchRelatedWinAppsTask, the Windows-specific task matching related apps against the Windows verified application list.
+// ---
+
 #ifndef CONTENT_BROWSER_INSTALLEDAPP_FETCH_RELATED_WIN_APPS_TASK_H_
 #define CONTENT_BROWSER_INSTALLEDAPP_FETCH_RELATED_WIN_APPS_TASK_H_
 

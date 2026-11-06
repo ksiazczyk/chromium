@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake transaction wrapper for testing
+// summary: Implements FakeTransaction, a wrapper around a backing store transaction that skips commit phase one and returns a fixed phase two result, delegating all other operations.
+// ---
+
 #include "content/browser/indexed_db/instance/fake_transaction.h"
 
 #include <utility>

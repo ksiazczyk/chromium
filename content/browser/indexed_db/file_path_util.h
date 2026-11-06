@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB file path utilities header
+// summary: Declares helpers for deriving IndexedDB blob, LevelDB, and SQLite file paths from bucket locators and database names.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_FILE_PATH_UTIL_H_
 #define CONTENT_BROWSER_INDEXED_DB_FILE_PATH_UTIL_H_
 

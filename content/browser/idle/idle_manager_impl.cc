@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleManagerImpl implementation
+// summary: Implements the browser-side Idle Detection service, managing idle monitors, permission checks and DevTools idle state overrides.
+// ---
+
 #include "content/browser/idle/idle_manager_impl.h"
 
 #include <utility>

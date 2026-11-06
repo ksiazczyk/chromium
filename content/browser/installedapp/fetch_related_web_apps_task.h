@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchRelatedWebAppsTask header
+// summary: Declares FetchRelatedWebAppsTask, which matches a given related apps list against locally installed web apps.
+// ---
+
 #ifndef CONTENT_BROWSER_INSTALLEDAPP_FETCH_RELATED_WEB_APPS_TASK_H_
 #define CONTENT_BROWSER_INSTALLEDAPP_FETCH_RELATED_WEB_APPS_TASK_H_
 

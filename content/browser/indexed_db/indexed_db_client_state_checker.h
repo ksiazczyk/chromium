@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB client state checker
+// summary: Header defining callbacks and scoped keep-active handles used to check whether an IndexedDB client document is active, covering BFCache eviction and freezing.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_CLIENT_STATE_CHECKER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_CLIENT_STATE_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tombstone sweeper unit tests
+// summary: Tests LevelDbTombstoneSweeper tombstone detection and deletion across databases, object stores, and indexes using a mock LevelDB and controlled sweep iteration limits.
+// ---
+
 #include "content/browser/indexed_db/instance/leveldb/tombstone_sweeper.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the installedapp folder
+summary: Lists peter@chromium.org as the owner responsible for reviewing changes in the installedapp folder.

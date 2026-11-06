@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: IndexedDB common directory metadata
+summary: Declares the Chromium issue tracker component, team email, and Buganizer component used for the IndexedDB directory.

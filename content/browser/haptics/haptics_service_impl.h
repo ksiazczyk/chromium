@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HapticsServiceImpl header for the Web Haptics Mojo service
+// summary: Declares the DocumentService-based browser implementation of the Web Haptics API, including a factory hook for injecting a test haptics manager.
+// ---
+
 #ifndef CONTENT_BROWSER_HAPTICS_HAPTICS_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_HAPTICS_HAPTICS_SERVICE_IMPL_H_
 

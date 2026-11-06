@@ -1,0 +1,4 @@
+# Docerion header of migration.textproto.
+type: data
+title: Migration corpus for IDBFactory MojoLPM fuzzer
+summary: Fuzzer corpus input combining database open, blob-backed record storage, and blob reads, apparently aimed at exercising migration paths.

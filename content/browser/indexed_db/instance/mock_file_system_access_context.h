@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock file system access context declaration
+// summary: Declares MockFileSystemAccessContext, a test double that records FileSystemAccess transfer token writes and exposes them for inspection.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_MOCK_FILE_SYSTEM_ACCESS_CONTEXT_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_MOCK_FILE_SYSTEM_ACCESS_CONTEXT_H_
 

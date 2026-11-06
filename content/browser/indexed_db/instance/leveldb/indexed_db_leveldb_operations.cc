@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB LevelDB operations implementation
+// summary: Implements shared LevelDB helpers for IndexedDB, including corruption info handling and sweep and compaction scheduling.
+// ---
+
 #include "content/browser/indexed_db/instance/leveldb/indexed_db_leveldb_operations.h"
 
 #include <atomic>

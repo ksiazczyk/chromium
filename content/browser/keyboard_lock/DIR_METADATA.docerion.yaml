@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Keyboard lock directory metadata
+summary: Directory metadata assigning the keyboard lock folder to the UI>Input>KeyboardShortcuts component and the Chromium dev team for issue tracking.

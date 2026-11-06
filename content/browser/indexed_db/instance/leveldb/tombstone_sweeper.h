@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB tombstone sweeper header
+// summary: Declares the LevelDbTombstoneSweeper pre-close task and a WrappingIterator helper used to sweep index tombstones from the IndexedDB LevelDB store.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_TOMBSTONE_SWEEPER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_TOMBSTONE_SWEEPER_H_
 

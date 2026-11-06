@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWinAppFetcherImpl implementation
+// summary: Implements NativeWinAppFetcher by calling the Windows Launcher FindAppUriHandlersAsync API to find apps validated for a URL and returning them as related applications.
+// ---
+
 #include "content/browser/installedapp/native_win_app_fetcher_impl.h"
 
 #include <windows.foundation.h>

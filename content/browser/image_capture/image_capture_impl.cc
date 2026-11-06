@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image capture Mojo service implementation
+// summary: Implements the browser-side ImageCapture Mojo service, dispatching photo state, options, and capture requests through the media stream manager on the IO thread.
+// ---
+
 #include "content/browser/image_capture/image_capture_impl.h"
 
 #include <utility>

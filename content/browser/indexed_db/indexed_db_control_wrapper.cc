@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB control wrapper implementation
+// summary: Implements the IndexedDBControlWrapper that lazily creates the IndexedDB context and forwards special storage policy updates to it.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_control_wrapper.h"
 
 #include <ostream>

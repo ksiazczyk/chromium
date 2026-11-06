@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SendBeacon browser tests
+// summary: Browser tests for navigator.sendBeacon requests handled by the keep-alive loader service, covering redirects, iframe removal timing, and payload content types.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection coordinator class declaration
+// summary: Declares ConnectionCoordinator, which schedules and executes pending IndexedDB database open and delete requests, cancels pending tasks and tracks active and pending counts.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_CONNECTION_COORDINATOR_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_CONNECTION_COORDINATOR_H_
 

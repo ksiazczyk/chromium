@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database connection class declaration
+// summary: Declares Connection, which maps to an IDB database connection, manages its transactions and runs on a bucket thread.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_CONNECTION_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_CONNECTION_H_
 

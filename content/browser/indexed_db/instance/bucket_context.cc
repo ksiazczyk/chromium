@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketContext implementation
+// summary: Implements BucketContext, which manages per-bucket IndexedDB state including backing stores, connections, quota checks and SQLite rollout stages.
+// ---
+
 #include "content/browser/indexed_db/instance/bucket_context.h"
 
 #include <inttypes.h>

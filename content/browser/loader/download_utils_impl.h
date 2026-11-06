@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download decision utilities header
+// summary: Declares download_utils::IsDownload, which determines whether a response with the given URL, headers, and MIME type results in a download.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_DOWNLOAD_UTILS_IMPL_H_
 #define CONTENT_BROWSER_LOADER_DOWNLOAD_UTILS_IMPL_H_
 

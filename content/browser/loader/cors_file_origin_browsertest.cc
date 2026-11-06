@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS file origin browser tests
+// summary: Browser tests covering end-to-end Origin header and CORS check behavior for file URLs when the allow-file-access-from-files flag is not set.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

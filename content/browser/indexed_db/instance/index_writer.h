@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB index writer declaration
+// summary: Declares the IndexWriter class, its error type, and MakeIndexWriters for verifying and writing index keys during IndexedDB record puts.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_INDEX_WRITER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_INDEX_WRITER_H_
 

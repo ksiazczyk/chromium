@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the idle folder
+summary: Chromium DIR_METADATA entry that includes the common metadata file for the idle browser directory.

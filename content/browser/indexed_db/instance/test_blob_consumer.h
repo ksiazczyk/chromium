@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test blob consumer helper declarations
+// summary: Declares a test helper that reads an entire blob from a mojom Blob via a data pipe, roughly akin to awaiting blob.text() in script.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_TEST_BLOB_CONSUMER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_TEST_BLOB_CONSUMER_H_
 

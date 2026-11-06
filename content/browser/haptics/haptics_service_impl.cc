@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side Web Haptics service implementation
+// summary: Implements the Mojo HapticsService, enforcing fenced frame, permissions policy, intensity, and sticky user activation checks before dispatching to the platform manager.
+// ---
+
 #include "content/browser/haptics/haptics_service_impl.h"
 
 #include <cmath>

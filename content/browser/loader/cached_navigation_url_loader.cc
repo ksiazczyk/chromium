@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached navigation URL loader implementation
+// summary: Implements a navigation loader that replays cached responses for back-forward cache and prerender activations without performing network loading.
+// ---
+
 #include "content/browser/loader/cached_navigation_url_loader.h"
 
 #include "content/browser/loader/navigation_early_hints_manager.h"

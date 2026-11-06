@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB browser tests
+// summary: Content browser tests for IndexedDB, exercising database operations, LevelDB and SQLite backing stores, and storage integration through an embedded test server.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

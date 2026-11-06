@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveURLLoader implementation
+// summary: Implements the browser-side loader that carries fetch keepalive, sendBeacon and fetchLater requests, including fetch retry parameters and traffic annotations.
+// ---
+
 #include "content/browser/loader/keep_alive_url_loader.h"
 
 #include <memory>

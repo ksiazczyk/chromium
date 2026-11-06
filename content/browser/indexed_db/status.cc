@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB Status class implementation
+// summary: Implements the IndexedDB Status class, wrapping LevelDB statuses and SQLite error codes with helpers for error classification, disk-full detection, and histogram logging.
+// ---
+
 #include "content/browser/indexed_db/status.h"
 
 #include <string>

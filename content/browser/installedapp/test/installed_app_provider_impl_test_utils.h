@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installed app provider test utility declarations
+// summary: Declares test helpers for installed app provider tests, including a fake native Windows app fetcher and a fake ContentBrowserClient for querying installed web apps.
+// ---
+
 #ifndef CONTENT_BROWSER_INSTALLEDAPP_TEST_INSTALLED_APP_PROVIDER_IMPL_TEST_UTILS_H_
 #define CONTENT_BROWSER_INSTALLEDAPP_TEST_INSTALLED_APP_PROVIDER_IMPL_TEST_UTILS_H_
 

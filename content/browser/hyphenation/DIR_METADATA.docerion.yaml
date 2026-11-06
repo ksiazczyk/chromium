@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Hyphenation directory tracker and team metadata
+summary: Records the UI>Browser monorail component, the layout-dev team email and the public Buganizer component for the hyphenation directory.

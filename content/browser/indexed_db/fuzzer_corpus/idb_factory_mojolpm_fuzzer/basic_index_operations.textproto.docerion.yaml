@@ -1,0 +1,4 @@
+# Docerion header of basic_index_operations.textproto.
+type: data
+title: Basic index operations corpus for IDBFactory MojoLPM fuzzer
+summary: Fuzzer corpus input covering object store and index creation, record puts, and cursor iteration over the store.

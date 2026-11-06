@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backing store transaction implementation
+// summary: Implements BackingStore::Transaction by forwarding begin, commit, rollback, and object store or record operations to DatabaseConnection.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/backing_store_transaction_impl.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: IndexedDB include rules
+summary: Specifies allowed include rules and per-file dependency exceptions for code in the IndexedDB browser directory.

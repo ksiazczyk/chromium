@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-site document blocking browser tests
+// summary: Extensive browser tests for ORB cross-site document blocking, checking which cross-origin responses should be blocked, sniffed, or allowed.
+// ---
+
 #include <ostream>
 #include <string>
 #include <utility>

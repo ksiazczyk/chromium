@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: HID directory metadata
+summary: Metadata for the HID browser directory that inherits common metadata from the Blink renderer HID module via mixins.

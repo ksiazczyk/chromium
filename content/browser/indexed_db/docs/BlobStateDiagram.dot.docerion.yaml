@@ -1,0 +1,4 @@
+# Docerion header of BlobStateDiagram.dot.
+type: asset
+title: IndexedDB blob state diagram (Graphviz)
+summary: Graphviz DOT source that defines the IndexedDB blob state flow diagram rendered as BlobStateDiagram.png and referenced from the folder README.

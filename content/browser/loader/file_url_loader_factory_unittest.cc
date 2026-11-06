@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File URL loader factory unit tests
+// summary: Unit tests for FileURLLoaderFactory covering CORS origin access exemptions, directory loading, and file access delegation.
+// ---
+
 #include "content/browser/loader/file_url_loader_factory.h"
 
 #include <memory>

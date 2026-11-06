@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database implementation
+// summary: Implements the Database class for a single IndexedDB database, including lock request building, transaction scheduling, connection management, metadata and database deletion.
+// ---
+
 #include "content/browser/indexed_db/instance/database.h"
 
 #include <algorithm>

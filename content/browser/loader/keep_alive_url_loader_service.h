@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveURLLoaderService header
+// summary: Declares KeepAliveURLLoaderService and its FactoryContext, which keep fetch keepalive requests running after the initiating renderer unloads.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_KEEP_ALIVE_URL_LOADER_SERVICE_H_
 #define CONTENT_BROWSER_LOADER_KEEP_ALIVE_URL_LOADER_SERVICE_H_
 

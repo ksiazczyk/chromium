@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReconnectableURLLoaderFactory implementation
+// summary: Implements a reconnectable URLLoaderFactory that lazily creates and caches its underlying factory, plus an IO thread variant.
+// ---
+
 #include "content/browser/loader/reconnectable_url_loader_factory.h"
 
 #include "base/functional/bind.h"

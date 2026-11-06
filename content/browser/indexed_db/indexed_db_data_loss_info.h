@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB data loss info struct
+// summary: Holds an IndexedDB data loss status and message reported when stored data may be lost.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_DATA_LOSS_INFO_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_DATA_LOSS_INFO_H_
 
