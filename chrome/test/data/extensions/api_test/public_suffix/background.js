@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: publicSuffix API test background script
+// summary: Runs browser tests for the chrome.publicSuffix API, covering known suffix lookup, domain extraction, option handling, and invalid hostname errors.
+// ---
+
 chrome.test.runTests([
   function knownSuffix() {
     chrome.test.assertTrue(chrome.publicSuffix.isKnownSuffix('com'));

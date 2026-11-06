@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.runtime.getPlatformInfo API test extension
+summary: Manifest for the test extension, declaring a manifest version 3 background service worker that runs test.js.

@@ -1,0 +1,4 @@
+# Docerion header of data.
+type: data
+title: Raw signing test data
+summary: Contains the string 'hello world' used as the raw input for the signature fixtures in the platformKeys tests.

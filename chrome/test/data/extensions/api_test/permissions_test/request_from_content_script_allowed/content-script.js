@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script permission request tests
+// summary: Runs chrome.test checks that a content script can query and request notifications, geolocation, and camera permissions while microphone remains in the prompt state.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

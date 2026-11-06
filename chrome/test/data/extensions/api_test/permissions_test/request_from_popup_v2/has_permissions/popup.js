@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup tests for granted permissions
+// summary: Runs browser tests asserting notifications and geolocation permissions are granted while camera and microphone stay prompt and getUserMedia requests fail.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions test extension manifest without declared permissions
+summary: Manifest for the no-permissions test extension, declaring a fixed extension key, an options page, and no optional or required permissions.

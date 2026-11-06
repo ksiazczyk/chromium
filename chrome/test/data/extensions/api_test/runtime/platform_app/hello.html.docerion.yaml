@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Platform app test hello page
+summary: HTML page shown in the test platform app's window, loading world.js to signal the test outcome.

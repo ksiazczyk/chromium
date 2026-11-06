@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the proxy extension API test
+summary: Points to the OWNERS file in chrome/browser/extensions/api/proxy so this test directory inherits its listed owners.

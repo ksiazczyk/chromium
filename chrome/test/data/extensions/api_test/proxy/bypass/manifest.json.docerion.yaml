@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.proxy bypass test extension manifest
+summary: Manifest for the end-to-end chrome.proxy API browser test extension, requesting the proxy permission and loading test.js as a service worker.

@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyEventsParseError
 
+// ---docerion
+// type: test
+// title: PAC script parse error browser test
+// summary: Sets an invalid PAC script and asserts onProxyError reports ERR_PAC_SCRIPT_FAILED with the syntax error details.
+// ---
+
 const EXPECTED_ERROR = {
   details: `line: 1: Uncaught SyntaxError: Unexpected token '!'`,
   error: 'net::ERR_PAC_SCRIPT_FAILED',

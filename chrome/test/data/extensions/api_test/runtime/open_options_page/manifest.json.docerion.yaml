@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the openOptionsPage success test
+summary: Test extension manifest declaring the background service worker, options page and tabs permission for the chrome.runtime.openOptionsPage success case.

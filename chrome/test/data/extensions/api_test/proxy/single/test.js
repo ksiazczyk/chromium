@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyFixedSingle
 
+// ---docerion
+// type: test
+// title: Single proxy settings browser test
+// summary: Browser test script that verifies the chrome.proxy API by setting a fixed single-proxy configuration pointing at 127.0.0.1:100 via chrome.proxy.settings.set.
+// ---
+
 chrome.test.runTests([
   // Verify that execution has started to make sure flaky timeouts are not
   // caused by us.

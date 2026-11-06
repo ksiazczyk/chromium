@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: test
+title: Options page of the test extension
+summary: Minimal options page of the test extension that loads options.js when opened.

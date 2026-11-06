@@ -1,0 +1,4 @@
+# Docerion header of local_frame.html.
+type: test
+title: Local frame page for sandboxed pages CSP test
+summary: HTML fixture that loads local_frame.js and serves as the local frame in the sandboxed pages CSP extension API test.

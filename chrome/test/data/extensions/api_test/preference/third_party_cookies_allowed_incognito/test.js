@@ -6,6 +6,12 @@
 // Run with browser_tests
 // --gtest_filter=ExtensionPreferenceApiTest.ThirdPartyCookiesAllowedIncognito
 
+// ---docerion
+// type: test
+// title: Third-party cookies allowed incognito preference API test
+// summary: Browser test verifying that thirdPartyCookiesAllowed cannot be set to true in the incognito scope and that the setting stays blocked in incognito.
+// ---
+
 const pw = chrome.privacy.websites;
 
 const THIRD_PARTY_COOKIES_ALLOWED_INCOGNITO_ERROR_MESSAGE =

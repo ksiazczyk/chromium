@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Queued test extension manifest
+summary: Manifest V3 manifest for the test extension that registers background.js as its service worker for the event queuing API test.

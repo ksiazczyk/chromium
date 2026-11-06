@@ -1,0 +1,4 @@
+# Docerion header of remote_frame.html.
+type: test
+title: Remote frame page for sandboxed pages CSP test
+summary: HTML fixture for the remote frame used in the sandboxed pages CSP extension API test.

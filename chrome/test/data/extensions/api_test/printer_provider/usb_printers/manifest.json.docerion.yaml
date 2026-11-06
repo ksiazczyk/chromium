@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test USB printer provider extension manifest
+summary: Manifest for the test extension exercising chrome.printerProvider USB events, requesting printerProvider and usb permissions and loading test.js as its background script.

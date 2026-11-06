@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for openOptionsPage error test
+summary: Manifest for the chrome.runtime.openOptionsPage error browser test, declaring a manifest V3 extension with a service worker background and no options page.

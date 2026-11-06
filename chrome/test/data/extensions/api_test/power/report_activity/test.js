@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test script for the reportActivity extension
+// summary: Listens for idle state changes and signals test success when the browser transitions from idle back to active during the chrome.power.reportActivity API test.
+// ---
+
 let wasIdle = false;
 chrome.idle.onStateChanged.addListener((newState) => {
   // First state is set to be idle from the Chrome side of the test. We report

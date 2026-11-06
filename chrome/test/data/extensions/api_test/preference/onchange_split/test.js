@@ -5,6 +5,12 @@
 // Content settings API test
 // browser_tests.exe --gtest_filter=ExtensionApiTest.PreferenceOnChangeSplit
 
+// ---docerion
+// type: test
+// title: Preferences API onchange events test for split incognito
+// summary: Browser test verifying that privacy preference onChange events fire with the expected values in regular and split incognito windows.
+// ---
+
 const inIncognitoContext = chrome.extension.inIncognitoContext;
 const pass = chrome.test.callbackPass;
 const sendMessage = chrome.test.sendMessage;

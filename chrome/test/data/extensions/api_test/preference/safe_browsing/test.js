@@ -5,6 +5,12 @@
 // API test for chrome.privacy.services.safeBrowsingEnabled
 // Run with browser_tests --gtest_filter=ExtensionApiTest.SafeBrowsing
 
+// ---docerion
+// type: test
+// title: Safe Browsing preference API test script
+// summary: Service worker that sets, clears, and unsets chrome.privacy.services.safeBrowsingEnabled in sequence for the ExtensionApiTest.SafeBrowsing browser test.
+// ---
+
 function setTrue(callback) {
   chrome.privacy.services.safeBrowsingEnabled.set({value: true}, function() {
     chrome.test.sendMessage('set to true', callback);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission prompt checks for a popup without declared permissions
+// summary: Runs chrome.test checks that notifications, geolocation, camera and microphone permissions remain in the prompt state and that getUserMedia requests fail when no permissions are declared.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

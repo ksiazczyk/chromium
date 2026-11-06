@@ -5,6 +5,12 @@
 // browser_tests
 // --gtest_filter=ProtocolHandlerApiTest.BrowserProcessSecurityLevelExtension
 
+// ---docerion
+// type: test
+// title: Browser process security level test script
+// summary: Runs the ProtocolHandlerApiTest.BrowserProcessSecurityLevelExtension browser test by nesting localhost and extension subframes and passing when the handler replies.
+// ---
+
 chrome.test.getConfig(function(config) {
   // Handle reply from handler.html
   window.addEventListener('message', function() {

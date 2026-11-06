@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the Reading List API test extension
+summary: Manifest version 3 configuration for the test extension, granting the readingList permission and registering background.js as its service worker.

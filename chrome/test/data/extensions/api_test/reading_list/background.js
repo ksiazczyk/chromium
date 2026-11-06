@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the chrome.readingList extension API
+// summary: Service worker that runs chrome.test cases for the readingList API, covering addEntry, removeEntry, updateEntry and query including invalid and unsupported URL errors.
+// ---
+
 const readingList = chrome.readingList;
 chrome.test.runTests([
 

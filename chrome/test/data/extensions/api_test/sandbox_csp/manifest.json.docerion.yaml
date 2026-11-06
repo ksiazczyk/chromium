@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the sandbox CSP executeScript test extension
+summary: Defines the test-executescript-csp-sandbox extension with an activeTab permission and a browser action popup used by the sandbox CSP API test.

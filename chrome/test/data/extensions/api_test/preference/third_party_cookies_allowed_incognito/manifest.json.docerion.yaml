@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for third-party cookies incognito preference test extension
+summary: Manifest for the Preferences API test extension that requests the privacy permission and registers test.js as its service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for cannot-terminate-browser-process test extension
+summary: Manifest version 2 manifest for the test extension, requesting the processes permission and registering bg.js as the background script.

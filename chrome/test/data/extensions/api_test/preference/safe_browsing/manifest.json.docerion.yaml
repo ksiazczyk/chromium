@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Preference API test extension manifest (Safe Browsing)
+summary: Manifest for a test extension that exercises the Safe Browsing behavior via the privacy API, loading test.js as its service worker.

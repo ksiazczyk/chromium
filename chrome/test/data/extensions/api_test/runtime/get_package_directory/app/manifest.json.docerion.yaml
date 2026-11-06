@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getPackageDirectoryEntry test app
+summary: Manifest defining the test app with a background script and fileSystem write permission for chrome.runtime.getPackageDirectoryEntry testing.

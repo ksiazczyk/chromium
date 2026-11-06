@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Sandboxed pages test host page
+summary: Host page for the sandboxed pages extension API test that loads the main test script.

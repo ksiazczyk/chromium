@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.proxy incognito browser test extension
+summary: Manifest for a test extension that runs test.js as a service worker with the proxy permission, supporting the ProxyFixedIndividualIncognitoOnly browser test.

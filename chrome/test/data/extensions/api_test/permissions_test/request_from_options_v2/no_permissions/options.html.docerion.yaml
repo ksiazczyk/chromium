@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: test
+title: Options page for the no-permissions test extension
+summary: Minimal HTML page that serves as the extension options page and loads the test script options.js.

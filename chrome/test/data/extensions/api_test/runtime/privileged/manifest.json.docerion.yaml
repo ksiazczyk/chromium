@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.runtime API test extension manifest
+summary: Manifest for the privileged chrome.runtime API test extension, pinning its extension ID with a key and registering test.js as a service worker background.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.runtime.sendMessage API test cases
+// summary: Runs browser tests covering chrome.runtime.sendMessage with callbacks and promises, including no-response errors and asynchronous replies.
+// ---
+
 chrome.test.runTests([
   function sendMessageWithCallback() {
     chrome.runtime.sendMessage('ping', (response) => {

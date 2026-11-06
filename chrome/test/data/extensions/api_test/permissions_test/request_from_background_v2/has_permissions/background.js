@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background tests for extension permission queries
+// summary: Runs chrome.test checks that notifications and geolocation permissions are granted while camera and microphone requests are expected to fail.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

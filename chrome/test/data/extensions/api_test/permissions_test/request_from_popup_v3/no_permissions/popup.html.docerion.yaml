@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup page of the no-permissions popup test extension
+summary: Minimal popup HTML page for the test extension that loads the popup.js test script.

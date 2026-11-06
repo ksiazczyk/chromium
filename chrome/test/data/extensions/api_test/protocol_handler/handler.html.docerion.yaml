@@ -1,0 +1,4 @@
+# Docerion header of handler.html.
+type: test
+title: Handler page for protocol handler tests
+summary: Loads handler.js and serves as the protocol handler target page opened during the tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Fake key generating extension manifest
+summary: Manifest for the fake key generating extension used in the platformKeys genKey extension API test, declaring version 0.1 and manifest version 3.

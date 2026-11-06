@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions test extension manifest
+summary: Manifest for the no-permissions test extension, declaring a browser action whose default popup is popup.html for the permissions API test.

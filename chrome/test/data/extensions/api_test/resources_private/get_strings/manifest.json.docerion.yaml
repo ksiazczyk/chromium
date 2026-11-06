@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the resourcesPrivate.getStrings test extension
+summary: Manifest v2 extension definition that grants the resourcesPrivate permission and loads background.js for the getStrings API test.

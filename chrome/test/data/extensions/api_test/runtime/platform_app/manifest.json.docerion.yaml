@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform app test manifest
+summary: Manifest for the simple test platform app, which succeeds when its app window is loaded.

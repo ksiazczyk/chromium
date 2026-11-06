@@ -1,0 +1,4 @@
+# Docerion header of sandboxed.html.
+type: test
+title: Sandboxed test page
+summary: Sandboxed page that verifies extension APIs are not injected and posts its secret back to the main window for cross-origin checks.

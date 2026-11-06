@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions test extension manifest
+summary: Manifest for the negative test extension declaring notifications and geolocation permissions and an options page.

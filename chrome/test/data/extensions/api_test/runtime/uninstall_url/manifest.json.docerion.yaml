@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Uninstall URL test extension manifest
+summary: Manifest for the browser test extension that exercises chrome.runtime.setUninstallURL, declaring management and tabs permissions and a test.js service worker.

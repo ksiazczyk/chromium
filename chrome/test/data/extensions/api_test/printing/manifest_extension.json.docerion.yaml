@@ -1,0 +1,4 @@
+# Docerion header of manifest_extension.json.
+type: test
+title: Extension test manifest for chrome.printing
+summary: Manifest V2 extension manifest used by browser tests for the chrome.printing API, with printing and localhost permissions.

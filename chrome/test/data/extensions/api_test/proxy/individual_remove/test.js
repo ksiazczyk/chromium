@@ -6,6 +6,12 @@
 // browser_tests.exe
 //     --gtest_filter=ProxySettingsApiTest.ProxyFixedIndividualRemove
 
+// ---docerion
+// type: test
+// title: chrome.proxy individual proxy remove browser test
+// summary: Runs the ProxyFixedIndividualRemove browser test by setting fixed per-scheme proxy rules via chrome.proxy.settings and then clearing them.
+// ---
+
 const HTTP_PROXY = {
   host: '1.1.1.1',
 };

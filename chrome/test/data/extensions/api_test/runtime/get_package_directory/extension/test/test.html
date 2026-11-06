@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: HTML host page for the getPackageDirectoryEntry extension API test
+summary: Loads test.js and serves as the page context for the runtime.getPackageDirectoryEntry test, since the API is not exposed on service workers.
+-->
+
 <html>
   <!-- This test uses an html page as runtime.getPackageDirectoryEntry() is not
     exposed on service workers so can't be called on the background worker. -->

@@ -5,6 +5,12 @@
 // Content settings API test
 // Run with browser_tests --gtest_filter=ExtensionApiTest.PreferenceClear
 
+// ---docerion
+// type: test
+// title: Preferences API clear test for third-party cookies
+// summary: Browser test that gets, sets, and clears the third-party cookies allowed preference via chrome.privacy.websites and verifies it returns to blocked.
+// ---
+
 const pw = chrome.privacy.websites;
 chrome.test.runTests([
   function getThirdPartyCookiesAllowed() {

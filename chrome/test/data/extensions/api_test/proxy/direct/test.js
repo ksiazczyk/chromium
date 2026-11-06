@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyDirectSettings
 
+// ---docerion
+// type: test
+// title: Direct proxy settings browser test
+// summary: Browser test that sets chrome.proxy settings to direct mode and verifies the resulting configuration for regular and incognito profiles.
+// ---
+
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {
     chrome.test.assertEq(expected, value, message);

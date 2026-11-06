@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer provider capability request test
+// summary: Service worker test that listens for onGetCapabilityRequested and verifies callback behavior across scenarios such as async responses, ignored callbacks, invalid values, empty results, and repeated callback calls.
+// ---
+
 chrome.test.sendMessage('loaded', function(test) {
   chrome.test.runTests([function printTest() {
     if (test === 'NO_LISTENER') {

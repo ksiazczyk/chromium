@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer provider onPrintRequested API test
+// summary: Service worker test script that handles print requests in various scenarios (async response, invalid values, failures, OK) and verifies callback behavior for the printerProvider API.
+// ---
+
 // Reads a blob content.
 // @param {!Blob} blob The blob to read.
 // @param {function(?string)} callback Called with the read blob content.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Uninstall URL Histogram test manifest
+summary: Manifest for the extension API browser test, declaring the test.js service worker used to exercise chrome.runtime.setUninstallURL().

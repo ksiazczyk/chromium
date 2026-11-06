@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Runtime API availability checks in content scripts
+// summary: Content script that asserts which chrome.runtime APIs are available to content scripts, such as id, getManifest and getURL, and reports the test result.
+// ---
+
 const assertFalse = chrome.test.assertFalse;
 const assertTrue = chrome.test.assertTrue;
 

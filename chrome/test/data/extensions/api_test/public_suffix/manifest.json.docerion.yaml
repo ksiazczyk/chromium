@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: publicSuffix test extension manifest
+summary: Manifest for the test extension that declares the publicSuffix permission and registers background.js as its service worker.

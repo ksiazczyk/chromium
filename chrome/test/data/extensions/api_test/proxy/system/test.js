@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxySystem
 
+// ---docerion
+// type: test
+// title: chrome.proxy system proxy mode test
+// summary: Browser test that verifies chrome.proxy.settings.set accepts a proxy configuration with mode set to 'system'.
+// ---
+
 chrome.test.runTests([
   // Verify that execution has started to make sure flaky timeouts are not
   // caused by us.

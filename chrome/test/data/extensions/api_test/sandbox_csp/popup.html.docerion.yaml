@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup page for the sandbox CSP test extension
+summary: Minimal HTML popup that loads popup.js so the test extension can run its executeScript check.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.runtime.getPlatformInfo API test
+// summary: Browser test that asserts getPlatformInfo returns an os, arch, and nacl_arch within the documented value lists, skipping nacl_arch on Android and RISC-V.
+// ---
+
 // These are found here:
 //   https://developer.chrome.com/extensions/runtime#type-PlatformOs
 const platformOsList = ['mac', 'win', 'android', 'cros', 'linux', 'openbsd'];

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for permission prompts from the options page
+// summary: Runs browser tests checking that notifications, geolocation, camera and microphone permissions are in prompt state and can be requested from the options page.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

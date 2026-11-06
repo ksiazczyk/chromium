@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyAutoSettings
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.proxy auto-detect settings
+// summary: Sets proxy settings to auto_detect mode and verifies the stored value and level of control in both regular and incognito contexts.
+// ---
+
 function expect(expected, message) {
   return chrome.test.callbackPass(function(value) {
     chrome.test.assertEq(expected, value, message);

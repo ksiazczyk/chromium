@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the runtime API content script test
+summary: Extension manifest that registers the content script on title1.html and a background service worker for the runtime API test extension.

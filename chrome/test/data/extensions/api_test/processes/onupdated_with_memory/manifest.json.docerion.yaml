@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onUpdatedWithMemory test extension
+summary: Manifest version 2 extension definition that registers background.js and requests the tabs and processes permissions for the API test.

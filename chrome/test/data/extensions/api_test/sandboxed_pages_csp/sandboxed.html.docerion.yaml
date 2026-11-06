@@ -1,0 +1,4 @@
+# Docerion header of sandboxed.html.
+type: test
+title: Sandboxed page for sandboxed pages CSP test
+summary: Sandboxed test page that loads a local and a remote frame and reports success when the remote navigation is blocked by the Content Security Policy.

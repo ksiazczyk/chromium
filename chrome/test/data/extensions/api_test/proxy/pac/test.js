@@ -5,6 +5,12 @@
 // proxy api test
 // browser_tests.exe --gtest_filter=ProxySettingsApiTest.ProxyPacScript
 
+// ---docerion
+// type: test
+// title: chrome.proxy PAC script browser test
+// summary: Browser test that verifies chrome.proxy.settings.set accepts a pac_script mode configuration pointing to a PAC script URL.
+// ---
+
 chrome.test.runTests([
   // Verify that execution has started to make sure flaky timeouts are not
   // caused by us.

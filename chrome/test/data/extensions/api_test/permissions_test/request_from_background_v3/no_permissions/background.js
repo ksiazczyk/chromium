@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension background permission query tests with no permissions
+// summary: Runs chrome.test checks that query navigator permissions for notifications, geolocation, camera, and microphone from a background page when no permissions are granted.
+// ---
+
 chrome.test.runTests([
   function checkNotifications() {
     navigator.permissions.query({name: 'notifications'})

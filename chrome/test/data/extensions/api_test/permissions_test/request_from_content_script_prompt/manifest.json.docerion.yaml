@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the permissions test extension
+summary: Manifest for the test extension that injects the content script into HTTP pages so permission requests from content scripts can be tested.

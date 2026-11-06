@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Sets Uninstall Url test extension
+summary: Manifest version 3 extension manifest that registers bg.js as the background service worker for the uninstall URL API test.

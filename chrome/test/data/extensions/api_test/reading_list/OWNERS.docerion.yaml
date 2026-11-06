@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the reading list API test
+summary: Delegates ownership of the reading list extension API test directory to the OWNERS file of chrome/browser/extensions/api/reading_list.
