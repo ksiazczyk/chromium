@@ -1,0 +1,4 @@
+# Docerion header of automation.idl.
+type: test
+title: automation.idl test schema for the chrome.automation API
+summary: IDL definition of the chrome.automation API exposing the accessibility tree, used as test input for the JSON schema compiler.

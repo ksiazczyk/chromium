@@ -1,0 +1,4 @@
+# Docerion header of defaults.idl.
+type: test
+title: Defaults-only namespace test
+summary: WebIDL test schema defining an empty DefaultsOnlyWebIdl interface that is exposed as an attribute on the Browser partial interface.

@@ -1,0 +1,4 @@
+# Docerion header of app_window.webidl.
+type: test
+title: app_window.webidl converted test schema for the app window API
+summary: WebIDL conversion of the app window API schema used as test input for the JSON schema compiler, expressing IDL static methods as callback members.

@@ -1,0 +1,4 @@
+# Docerion header of all_platforms_on_namespace.idl.
+type: test
+title: All platforms extended attribute test
+summary: WebIDL test schema applying the platforms extended attribute with all supported platform values to an API namespace exposed on the Browser interface.

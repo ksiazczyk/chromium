@@ -1,0 +1,4 @@
+# Docerion header of missing_event_interface.idl.
+type: test
+title: Invalid WebIDL test schema missing event interface
+summary: Invalid WebIDL test schema where an event references an interface not defined in the file, expecting a SchemaCompilerError.

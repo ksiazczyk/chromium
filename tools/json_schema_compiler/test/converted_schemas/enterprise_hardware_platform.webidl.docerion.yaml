@@ -1,0 +1,4 @@
+# Docerion header of enterprise_hardware_platform.webidl.
+type: test
+title: Enterprise hardware platform API WebIDL definition
+summary: WebIDL version of the chrome.enterprise.hardwarePlatform API used as converted test output for the JSON schema compiler.

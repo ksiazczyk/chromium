@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_socket.webidl.
+type: test
+title: Bluetooth Socket API WebIDL schema
+summary: WebIDL conversion of the chrome.bluetoothSocket API schema, used as a test fixture for the JSON schema compiler.

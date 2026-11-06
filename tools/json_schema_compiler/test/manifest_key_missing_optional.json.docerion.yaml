@@ -1,0 +1,4 @@
+# Docerion header of manifest_key_missing_optional.json.
+type: test
+title: Manifest key missing optional test schema
+summary: Test schema fixture expecting an exception because a manifest key is not marked as optional.

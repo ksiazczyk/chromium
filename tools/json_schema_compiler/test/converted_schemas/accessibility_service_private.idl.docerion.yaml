@@ -1,0 +1,4 @@
+# Docerion header of accessibility_service_private.idl.
+type: test
+title: accessibility_service_private.idl
+summary: Original IDL schema of the ChromeOS accessibility service private API, kept as a static baseline for conversion testing.

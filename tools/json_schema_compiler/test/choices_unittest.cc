@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Choices unit tests
+// summary: Unit tests verifying parameter and result creation for generated code covering choice types, including expected failure cases.
+// ---
+
 #include "tools/json_schema_compiler/test/choices.h"
 
 #include <stddef.h>

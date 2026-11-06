@@ -1,0 +1,4 @@
+# Docerion header of language_settings_private.idl.
+type: test
+title: languageSettingsPrivate API IDL definition
+summary: IDL schema for the languageSettingsPrivate API that gets or changes language, spellcheck dictionary and input method settings.

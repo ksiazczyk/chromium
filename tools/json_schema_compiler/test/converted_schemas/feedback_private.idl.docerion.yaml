@@ -1,0 +1,4 @@
+# Docerion header of feedback_private.idl.
+type: test
+title: Feedback private API IDL schema
+summary: IDL definition of the feedbackPrivate API for sending Chrome OS feedback to Google servers, used as a JSON schema compiler test fixture.

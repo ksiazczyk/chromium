@@ -1,0 +1,4 @@
+# Docerion header of long_identifiers.idl.
+type: test
+title: WebIDL test schema for long identifiers and line wrapping
+summary: WebIDL test schema verifying comment extraction with very long identifiers and wrapped definitions.

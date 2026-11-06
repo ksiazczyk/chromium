@@ -1,0 +1,4 @@
+# Docerion header of enterprise_login.webidl.
+type: test
+title: Enterprise login API WebIDL definition
+summary: WebIDL version of the ChromeOS chrome.enterprise.login API used as converted test output for the JSON schema compiler.

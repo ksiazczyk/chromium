@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_isolation.webidl.
+type: test
+title: Cross origin isolation manifest key WebIDL test schema
+summary: WebIDL conversion of the cross origin isolation manifest key schema, paired with the IDL version for compiler tests.

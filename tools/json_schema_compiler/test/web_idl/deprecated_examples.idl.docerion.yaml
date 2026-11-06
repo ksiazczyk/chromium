@@ -1,0 +1,4 @@
+# Docerion header of deprecated_examples.idl.
+type: test
+title: Deprecated extended attribute examples
+summary: WebIDL test schema applying the deprecated extended attribute to enums, dictionaries, members, functions, events, and constants.

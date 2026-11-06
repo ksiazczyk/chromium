@@ -1,0 +1,4 @@
+# Docerion header of oauth2.webidl.
+type: test
+title: oauth2 WebIDL test schema
+summary: Converted WebIDL version of the oauth2 manifest key schema, used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

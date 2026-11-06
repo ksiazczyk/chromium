@@ -1,0 +1,4 @@
+# Docerion header of developer_private.idl.
+type: test
+title: developerPrivate API IDL test schema
+summary: IDL definition of the developerPrivate extension API for developing and debugging apps and extensions, used as a JSON schema compiler test fixture.

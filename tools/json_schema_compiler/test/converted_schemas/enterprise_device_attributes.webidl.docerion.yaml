@@ -1,0 +1,4 @@
+# Docerion header of enterprise_device_attributes.webidl.
+type: test
+title: Enterprise device attributes API WebIDL definition
+summary: WebIDL version of the chrome.enterprise.deviceAttributes API used as converted test output for the JSON schema compiler.

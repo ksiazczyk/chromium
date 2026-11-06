@@ -1,0 +1,4 @@
+# Docerion header of identity.idl.
+type: test
+title: Chrome identity API IDL test schema
+summary: IDL definition of the chrome.identity API used as test input for the JSON schema compiler.

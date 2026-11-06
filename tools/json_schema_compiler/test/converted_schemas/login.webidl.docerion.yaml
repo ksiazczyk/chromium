@@ -1,0 +1,4 @@
+# Docerion header of login.webidl.
+type: test
+title: login API WebIDL definition
+summary: WebIDL conversion of the ChromeOS login API with promise-based session functions and events for external logout requests and completion.

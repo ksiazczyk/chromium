@@ -1,0 +1,4 @@
+# Docerion header of callbacks.json.
+type: test
+title: Callbacks API test schema
+summary: Schema fixture defining a callbacks API with asynchronous returns to test the compiler's handling of callback parameters, enums and result types.

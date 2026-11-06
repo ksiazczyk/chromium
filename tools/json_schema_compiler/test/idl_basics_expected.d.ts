@@ -9,6 +9,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: test
+// title: Expected TypeScript definitions for IDL basics
+// summary: Expected TypeScript declaration output generated from the IDL basics fixture, used to verify the compiler's ts_definitions output.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

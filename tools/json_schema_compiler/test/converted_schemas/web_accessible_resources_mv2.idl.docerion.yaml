@@ -1,0 +1,4 @@
+# Docerion header of web_accessible_resources_mv2.idl.
+type: test
+title: web_accessible_resources_mv2.idl test schema
+summary: IDL stub namespace for the Manifest V2 web_accessible_resources manifest key, used as a test fixture for schema compiler conversion.

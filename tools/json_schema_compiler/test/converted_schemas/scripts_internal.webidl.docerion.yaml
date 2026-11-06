@@ -1,0 +1,4 @@
+# Docerion header of scripts_internal.webidl.
+type: test
+title: scripts_internal.webidl content script schema
+summary: WebIDL conversion of the scripts_internal schema, describing user script sources and injection settings as test data for the schema compiler's WebIDL output.

@@ -1,0 +1,4 @@
+# Docerion header of autotest_private.webidl.
+type: test
+title: autotestPrivate API WebIDL schema
+summary: WebIDL conversion of the autotestPrivate extension API schema, used as a test fixture for the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of preceding_extended_attributes.idl.
+type: test
+title: Preceding extended attributes test schema
+summary: WebIDL test schema checking documentation comments on interfaces and functions whose extended attributes appear on a previous line.

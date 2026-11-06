@@ -1,0 +1,4 @@
+# Docerion header of returns_async.json.
+type: test
+title: Returns async test API schema
+summary: Test API schema exercising the returns_async format with promise-supporting and callback-only functions.

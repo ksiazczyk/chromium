@@ -1,0 +1,4 @@
+# Docerion header of forbidden.json.
+type: test
+title: Forbidden parameter combinations test schema
+summary: Test schema fixture defining a function with multiple-choice parameters that the compiler is meant to reject.

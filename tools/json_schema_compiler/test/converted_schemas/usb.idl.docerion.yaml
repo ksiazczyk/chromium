@@ -1,0 +1,4 @@
+# Docerion header of usb.idl.
+type: test
+title: usb IDL schema
+summary: 'Test fixture for the JSON schema compiler: legacy IDL definition of the chrome.usb API for interacting with connected USB devices.'

@@ -1,0 +1,4 @@
+# Docerion header of experimental_ai_data.webidl.
+type: test
+title: Experimental AI data API WebIDL schema
+summary: WebIDL version of the experimental AI data API with promise-based functions, converted from IDL as a test fixture for the JSON schema compiler.

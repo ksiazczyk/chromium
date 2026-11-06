@@ -1,0 +1,4 @@
+# Docerion header of functions_as_parameters.json.
+type: test
+title: Functions as parameters test schema
+summary: Test schema fixture defining object types with required, optional and serializable function properties.

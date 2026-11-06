@@ -1,0 +1,4 @@
+# Docerion header of login.idl.
+type: test
+title: login API IDL definition
+summary: IDL schema for the ChromeOS login API that launches, exits, locks and unlocks user sessions, including managed guest and SAML sessions.

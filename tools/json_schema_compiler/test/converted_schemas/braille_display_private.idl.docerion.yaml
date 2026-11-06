@@ -1,0 +1,4 @@
+# Docerion header of braille_display_private.idl.
+type: test
+title: Braille display private API IDL definition
+summary: IDL definition of the brailleDisplayPrivate API covering display state, key events and dot writing, used as a JSON schema compiler test fixture.

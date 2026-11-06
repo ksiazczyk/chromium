@@ -1,0 +1,4 @@
+# Docerion header of system_cpu.webidl.
+type: test
+title: system_cpu.webidl converted schema
+summary: WebIDL conversion of the chrome.system.cpu API schema, used as a test fixture for the JSON schema compiler.

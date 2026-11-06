@@ -1,0 +1,4 @@
+# Docerion header of object_types.idl.
+type: test
+title: Object type IDL test schema
+summary: WebIDL test schema covering object and any types, including required, optional, and instanceOf variants in dictionaries and function parameters.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callbacks unit tests
+// summary: Unit tests verifying that generated code for the callbacks API creates the expected result values from C++ objects.
+// ---
+
 #include "tools/json_schema_compiler/test/callbacks.h"
 
 #include <memory>

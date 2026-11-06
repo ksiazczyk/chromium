@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IDL schemas unit tests
+// summary: Unit tests verifying generated C++ bindings for IDL schemas, including manifest key parsing.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

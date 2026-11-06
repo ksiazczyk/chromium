@@ -1,0 +1,4 @@
+# Docerion header of nested_namespace.idl.
+type: test
+title: Nested namespace IDL test schema
+summary: WebIDL test schema verifying that API names with a dot map to nested namespaces such as <Browser>.nested.example.

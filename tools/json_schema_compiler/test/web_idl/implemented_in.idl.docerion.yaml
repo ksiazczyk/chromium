@@ -1,0 +1,4 @@
+# Docerion header of implemented_in.idl.
+type: test
+title: WebIDL test schema for implementedIn extended attribute
+summary: WebIDL test schema exercising the implementedIn extended attribute for an API implemented in an external header.

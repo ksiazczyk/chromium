@@ -1,0 +1,4 @@
+# Docerion header of experimental_actor.webidl.
+type: test
+title: Experimental actor WebIDL schema
+summary: WebIDL version of the experimental actor API with promise-based task and action methods, converted from IDL for schema compiler testing.

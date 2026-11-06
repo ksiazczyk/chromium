@@ -1,0 +1,4 @@
+# Docerion header of enterprise_platform_keys.webidl.
+type: test
+title: Enterprise platformKeys WebIDL schema
+summary: WebIDL version of the enterprise.platformKeys API covering tokens, key algorithms and certificate operations, converted for compiler testing.

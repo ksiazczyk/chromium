@@ -1,0 +1,4 @@
+# Docerion header of enterprise_networking_attributes.idl.
+type: test
+title: Enterprise networkingAttributes IDL schema
+summary: IDL definition of the chrome.enterprise.networkingAttributes API for reading the device's current network details, used as test input for the JSON schema compiler.

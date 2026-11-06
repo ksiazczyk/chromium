@@ -1,0 +1,4 @@
+# Docerion header of function_platform_chromeos.json.
+type: test
+title: ChromeOS-only function test schema
+summary: Test schema fixture declaring a function restricted to ChromeOS for compiler platform tests.

@@ -1,0 +1,4 @@
+# Docerion header of certificate_provider_internal.webidl.
+type: test
+title: Certificate provider internal API WebIDL definition
+summary: WebIDL version of the internal certificate provider API with promise-based report functions, used as a converted schema test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of downloads_internal.webidl.
+type: test
+title: Downloads internal API WebIDL definition
+summary: WebIDL version of the chrome.downloadsInternal API used as converted test output for the JSON schema compiler.

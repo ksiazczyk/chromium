@@ -1,0 +1,4 @@
+# Docerion header of objects_movable.idl.
+type: test
+title: Movable objects test API schema
+summary: IDL test fixture defining a movable-objects API with enums, POD structs and choice types for the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of shared_module.webidl.
+type: test
+title: shared_module.webidl shared module manifest schema
+summary: WebIDL conversion of the shared module schema, defining import and export manifest keys as test data for the schema compiler's WebIDL output.

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy.idl.
+type: test
+title: Bluetooth Low Energy API IDL schema
+summary: IDL definition of the chrome.bluetoothLowEnergy API for GATT communication with Bluetooth Smart devices, used as a schema compiler test fixture.

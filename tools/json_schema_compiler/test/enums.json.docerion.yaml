@@ -1,0 +1,4 @@
+# Docerion header of enums.json.
+type: test
+title: Enums test API schema
+summary: JSON schema fixture defining enums, enum-containing types, and functions that take or return enums to exercise enum code generation.

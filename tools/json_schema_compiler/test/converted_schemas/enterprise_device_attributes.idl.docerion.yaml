@@ -1,0 +1,4 @@
+# Docerion header of enterprise_device_attributes.idl.
+type: test
+title: Enterprise device attributes API IDL definition
+summary: IDL definition of the chrome.enterprise.deviceAttributes API for reading enterprise device attributes, used as a schema compiler test fixture.

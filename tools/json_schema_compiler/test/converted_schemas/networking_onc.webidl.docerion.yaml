@@ -1,0 +1,4 @@
+# Docerion header of networking_onc.webidl.
+type: test
+title: Networking ONC API WebIDL definition
+summary: Converted WebIDL version of the networking.onc API schema with managed property dictionaries and network type enums, used as conversion test data.

@@ -1,0 +1,4 @@
+# Docerion header of invalid_typeref_type.idl.
+type: test
+title: Invalid WebIDL test schema for typeref type errors
+summary: Invalid WebIDL test schema that returns an event interface as a type to trigger a SchemaCompilerError.

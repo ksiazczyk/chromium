@@ -1,0 +1,4 @@
+# Docerion header of file_handlers.idl.
+type: test
+title: File handlers manifest key IDL schema
+summary: IDL definition of the file_handlers manifest key that lets extensions register to handle file types, used as a schema compiler test fixture.

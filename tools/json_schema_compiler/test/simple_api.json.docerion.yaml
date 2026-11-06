@@ -1,0 +1,4 @@
+# Docerion header of simple_api.json.
+type: test
+title: Simple API test schema
+summary: Test API schema covering enums, types, manifest keys and functions with optional parameters for compiler testing.

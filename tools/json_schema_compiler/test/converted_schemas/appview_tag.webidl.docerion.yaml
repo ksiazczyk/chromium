@@ -1,0 +1,4 @@
+# Docerion header of appview_tag.webidl.
+type: test
+title: appview_tag.webidl converted test schema for the appview tag API
+summary: WebIDL conversion of the appview tag schema used as test input for the JSON schema compiler, modeling EmbedRequest as a dictionary with callbacks.

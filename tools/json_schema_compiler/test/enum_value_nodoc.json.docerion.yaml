@@ -1,0 +1,4 @@
+# Docerion header of enum_value_nodoc.json.
+type: test
+title: Enum value nodoc test API schema
+summary: JSON schema fixture with enum values marked nodoc, used to test how the compiler handles undocumented enum entries.

@@ -1,0 +1,4 @@
+# Docerion header of cec_private.webidl.
+type: test
+title: HDMI CEC private API WebIDL definition
+summary: WebIDL version of the cecPrivate API with promise-based functions and a Browser attribute, used as a converted schema test fixture.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check for converted schema files
+# summary: Presubmit check that warns when existing IDL, JSON, or WebIDL schema files in this directory are modified instead of added or deleted.
+# ---
+
 
 def _CheckNoSchemaModifications(input_api, output_api):
   """Ensures that schema files are only added or deleted, never modified."""

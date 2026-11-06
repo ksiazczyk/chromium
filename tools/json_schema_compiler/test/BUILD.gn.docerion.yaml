@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for JSON schema compiler test fixtures
+summary: Defines GN targets that generate C++ types and JSON strings from test API schemas and builds the json_schema_compiler unit tests.

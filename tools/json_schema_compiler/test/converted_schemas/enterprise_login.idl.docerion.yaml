@@ -1,0 +1,4 @@
+# Docerion header of enterprise_login.idl.
+type: test
+title: Enterprise login API IDL definition
+summary: IDL definition of the ChromeOS chrome.enterprise.login API for exiting managed guest sessions, used as a schema compiler test fixture.

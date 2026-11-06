@@ -1,0 +1,4 @@
+# Docerion header of alarms.idl.
+type: test
+title: alarms.idl
+summary: Original IDL schema of the chrome.alarms scheduling API, kept as a static baseline for conversion testing.

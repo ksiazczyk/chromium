@@ -1,0 +1,4 @@
+# Docerion header of dependency_tester.json.
+type: test
+title: Dependency tester test API schema
+summary: JSON schema fixture defining an API that depends on browserAction and fontSettings types, used to test dependency handling in the compiler.

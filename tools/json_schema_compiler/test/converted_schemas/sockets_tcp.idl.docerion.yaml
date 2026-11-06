@@ -1,0 +1,4 @@
+# Docerion header of sockets_tcp.idl.
+type: test
+title: sockets_tcp.idl TCP sockets API schema
+summary: IDL schema for the chrome.sockets.tcp API, defining socket properties, send results, TLS options and callbacks used in compiler tests.

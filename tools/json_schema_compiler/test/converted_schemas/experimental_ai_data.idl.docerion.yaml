@@ -1,0 +1,4 @@
+# Docerion header of experimental_ai_data.idl.
+type: test
+title: Experimental AI data API IDL schema
+summary: IDL definition of an experimental API for collecting browser-process data for AI features, used as a test fixture for the JSON schema compiler.

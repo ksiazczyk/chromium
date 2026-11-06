@@ -1,0 +1,4 @@
+# Docerion header of generate_error_messages.idl.
+type: test
+title: Generate error messages test
+summary: WebIDL test schema exercising the generate_error_messages extended attribute on an API namespace.

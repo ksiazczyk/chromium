@@ -1,0 +1,4 @@
+# Docerion header of user_scripts.webidl.
+type: test
+title: user_scripts WebIDL schema
+summary: 'Test fixture for the JSON schema compiler: converted WebIDL definition of the userScripts API with script sources and injection targets.'

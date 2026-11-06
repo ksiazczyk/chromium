@@ -1,0 +1,4 @@
+# Docerion header of enterprise_hardware_platform.idl.
+type: test
+title: Enterprise hardware platform API IDL definition
+summary: IDL definition of the chrome.enterprise.hardwarePlatform API for reading hardware platform info, used as a schema compiler test fixture.

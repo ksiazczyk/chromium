@@ -1,0 +1,4 @@
+# Docerion header of _test_api_features.override.json.
+type: data
+title: Test API feature override with trunk channel
+summary: Overrides the test API feature to the trunk channel with a privileged extension context for feature generation testing.

@@ -1,0 +1,4 @@
+# Docerion header of permissions.json.
+type: test
+title: Permissions test API schema
+summary: Test API schema modeling permissions with events and functions such as getAll, contains, request and remove for compiler tests.

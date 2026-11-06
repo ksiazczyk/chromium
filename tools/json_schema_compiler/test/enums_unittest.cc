@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enums unit tests for the JSON schema compiler
+// summary: Unit tests covering populate, serialization, params creation, and results creation for generated enum types and enum-as-type APIs.
+// ---
+
 #include "tools/json_schema_compiler/test/enums.h"
 
 #include <utility>

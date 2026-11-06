@@ -1,0 +1,4 @@
+# Docerion header of crash_report_private.webidl.
+type: test
+title: crashReportPrivate API WebIDL test schema
+summary: WebIDL conversion of the crashReportPrivate error reporting API schema, paired with the IDL version for compiler tests.

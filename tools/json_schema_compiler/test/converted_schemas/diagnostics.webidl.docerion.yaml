@@ -1,0 +1,4 @@
+# Docerion header of diagnostics.webidl.
+type: test
+title: Diagnostics API WebIDL test schema
+summary: Converted WebIDL version of the chrome.diagnostics API schema, used as a JSON schema compiler test fixture for IDL-to-WebIDL conversion.

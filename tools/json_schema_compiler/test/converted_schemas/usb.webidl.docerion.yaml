@@ -1,0 +1,4 @@
+# Docerion header of usb.webidl.
+type: test
+title: usb WebIDL schema
+summary: 'Test fixture for the JSON schema compiler: converted WebIDL definition of the chrome.usb API covering devices, descriptors and transfers.'

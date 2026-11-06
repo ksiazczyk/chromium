@@ -1,0 +1,4 @@
+# Docerion header of icon_variants.idl.
+type: test
+title: Icon variants manifest IDL test schema
+summary: IDL definition of the iconVariants manifest keys used as test input for the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of system_storage.webidl.
+type: test
+title: system_storage WebIDL schema
+summary: 'Test fixture for the JSON schema compiler: converted WebIDL definition of the chrome.system.storage API with promise-based functions and events.'

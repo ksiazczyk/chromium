@@ -1,0 +1,4 @@
+# Docerion header of certificate_provider_internal.idl.
+type: test
+title: Certificate provider internal API IDL definition
+summary: IDL definition of the internal API that backs chrome.certificateProvider events by matching request IDs to report calls, used as a test fixture.

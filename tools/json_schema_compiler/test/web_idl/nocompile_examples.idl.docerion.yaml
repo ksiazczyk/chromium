@@ -1,0 +1,4 @@
+# Docerion header of nocompile_examples.idl.
+type: test
+title: Nocompile extended attribute examples
+summary: WebIDL test schema exercising nocompile extended attributes on dictionaries, enums, functions, events, and constants before compilation.

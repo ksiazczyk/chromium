@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Objects unit tests
+// summary: Unit tests verifying params and results creation for object-based APIs and move semantics of generated movable types.
+// ---
+
 #include "tools/json_schema_compiler/test/objects.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of namespace_fakeapi.json.
+type: test
+title: Fakeapi namespace test schema
+summary: Test schema fixture for the fakeapi namespace with functions, events and nodoc-marked elements.

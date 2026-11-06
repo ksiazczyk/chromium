@@ -1,0 +1,4 @@
+# Docerion header of redundant_default_attribute.json.
+type: test
+title: Redundant default attribute invalid schema fixture
+summary: Invalid test schema that marks a returns_async as optional false to verify the compiler rejects redundant attribute values.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_url_overrides.webidl.
+type: test
+title: chrome_url_overrides manifest key WebIDL definition
+summary: WebIDL version of the chrome_url_overrides manifest definition as a partial ExtensionManifest dictionary, used as a converted schema test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_isolation.idl.
+type: test
+title: Cross origin isolation manifest key IDL test schema
+summary: IDL stub for the cross_origin_embedder_policy and cross_origin_opener_policy manifest keys used in compiler tests.

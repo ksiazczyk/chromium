@@ -1,0 +1,4 @@
+# Docerion header of file_system.webidl.
+type: test
+title: Chrome fileSystem API WebIDL test schema
+summary: WebIDL conversion of the chrome.fileSystem API schema used as test data for the schema compiler.

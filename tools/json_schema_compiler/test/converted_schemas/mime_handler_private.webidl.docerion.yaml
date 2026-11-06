@@ -1,0 +1,4 @@
+# Docerion header of mime_handler_private.webidl.
+type: test
+title: Mime handler private API WebIDL definition
+summary: Converted WebIDL version of the mimeHandlerPrivate API schema with event interface definitions, used as conversion test data.

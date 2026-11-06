@@ -1,0 +1,4 @@
+# Docerion header of idl_namespace_specific_implement_chromeos.idl.
+type: test
+title: IDL namespace ChromeOS implementation test fixture
+summary: IDL fixture testing a namespace that has a ChromeOS-specific implemented file.

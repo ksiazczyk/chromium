@@ -1,0 +1,4 @@
+# Docerion header of idl_binary_types.idl.
+type: test
+title: IDL binary types test fixture
+summary: IDL fixture testing binary types such as ArrayBuffer and ArrayBufferView in API definitions.

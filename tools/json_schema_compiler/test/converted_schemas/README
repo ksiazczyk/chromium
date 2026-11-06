@@ -1,3 +1,9 @@
+---
+type: readme
+title: Converted schemas directory README
+summary: Explains that the directory holds old and WebIDL schema pairs as static conversion baselines that must stay unchanged.
+---
+
 This directory contains API schema files which have been converted from an older
 schema format to the more modern WebIDL format. When a conversion is done, the
 original old schema file is moved here and a copy of the new WebIDL file is

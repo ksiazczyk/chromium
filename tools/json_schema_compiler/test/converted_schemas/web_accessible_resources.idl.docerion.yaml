@@ -1,0 +1,4 @@
+# Docerion header of web_accessible_resources.idl.
+type: test
+title: web_accessible_resources.idl test schema
+summary: IDL stub namespace defining dictionaries for the web_accessible_resources manifest key, used as a test fixture for the JSON schema compiler's IDL conversion.

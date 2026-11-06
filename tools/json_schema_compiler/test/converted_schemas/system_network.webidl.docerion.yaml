@@ -1,0 +1,4 @@
+# Docerion header of system_network.webidl.
+type: test
+title: system_network WebIDL schema
+summary: 'Test fixture for the JSON schema compiler: converted WebIDL definition of the chrome.system.network API with promise-based getNetworkInterfaces.'

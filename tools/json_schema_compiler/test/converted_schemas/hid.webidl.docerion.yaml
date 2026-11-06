@@ -1,0 +1,4 @@
+# Docerion header of hid.webidl.
+type: test
+title: Chrome HID API WebIDL test schema
+summary: WebIDL conversion of the chrome.hid API schema used as test data for the schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of feedback_private.webidl.
+type: test
+title: Feedback private API WebIDL schema
+summary: WebIDL version of the feedbackPrivate API, converted from IDL as a test fixture for the JSON schema compiler.

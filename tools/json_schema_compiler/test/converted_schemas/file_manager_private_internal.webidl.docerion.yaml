@@ -1,0 +1,4 @@
+# Docerion header of file_manager_private_internal.webidl.
+type: test
+title: File manager private internal API WebIDL schema
+summary: WebIDL version of the internal fileManagerPrivate API with promise-based functions, converted from IDL as a schema compiler test fixture.

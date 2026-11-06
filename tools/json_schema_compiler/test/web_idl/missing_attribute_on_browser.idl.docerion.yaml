@@ -1,0 +1,4 @@
+# Docerion header of missing_attribute_on_browser.idl.
+type: test
+title: Invalid WebIDL test schema missing Browser attribute
+summary: Invalid WebIDL test schema whose partial Browser interface lacks the required static attribute, expecting a SchemaCompilerError.

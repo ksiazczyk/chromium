@@ -1,0 +1,4 @@
+# Docerion header of platforms_examples.idl.
+type: test
+title: Platforms extended attribute examples
+summary: WebIDL test schema demonstrating the platforms extended attribute restricting a namespace and a function to ChromeOS.

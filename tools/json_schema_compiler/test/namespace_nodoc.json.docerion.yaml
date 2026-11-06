@@ -1,0 +1,4 @@
+# Docerion header of namespace_nodoc.json.
+type: test
+title: Nodoc namespace test schema
+summary: Test schema fixture demonstrating nodoc applied to an entire namespace.

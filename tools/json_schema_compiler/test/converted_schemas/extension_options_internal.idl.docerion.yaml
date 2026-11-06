@@ -1,0 +1,4 @@
+# Docerion header of extension_options_internal.idl.
+type: test
+title: Extension options internal API IDL schema
+summary: IDL definition of the internal API for the extension options tag, used as a test fixture for the JSON schema compiler.

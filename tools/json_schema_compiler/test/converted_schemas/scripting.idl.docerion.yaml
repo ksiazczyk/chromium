@@ -1,0 +1,4 @@
+# Docerion header of scripting.idl.
+type: test
+title: scripting.idl chrome.scripting API test schema
+summary: IDL definition of the chrome.scripting API for injecting scripts and CSS into web pages, used as a schema compiler test fixture.

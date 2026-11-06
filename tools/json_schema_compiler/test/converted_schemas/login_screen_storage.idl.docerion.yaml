@@ -1,0 +1,4 @@
+# Docerion header of login_screen_storage.idl.
+type: test
+title: loginScreenStorage API IDL definition
+summary: IDL schema for the ChromeOS loginScreenStorage API that stores and retrieves persistent data and credentials from the login screen.

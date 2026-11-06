@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for array schema codegen
+// summary: Unit tests verifying population and serialization of generated array types, including enum and reference arrays.
+// ---
+
 #include "tools/json_schema_compiler/test/arrays.h"
 
 #include <stddef.h>

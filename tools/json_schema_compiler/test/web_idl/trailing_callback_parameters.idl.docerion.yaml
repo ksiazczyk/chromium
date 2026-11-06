@@ -1,0 +1,4 @@
+# Docerion header of trailing_callback_parameters.idl.
+type: test
+title: Trailing callback parameters WebIDL test
+summary: WebIDL test schema exercising callbacks as trailing parameters, including the trailingCallbackIsFunctionParameter extended attribute and sync-and-async methods.

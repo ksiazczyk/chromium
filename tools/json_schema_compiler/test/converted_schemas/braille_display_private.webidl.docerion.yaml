@@ -1,0 +1,4 @@
+# Docerion header of braille_display_private.webidl.
+type: test
+title: Braille display private API WebIDL definition
+summary: WebIDL version of the brailleDisplayPrivate API with promise-based functions and event interfaces, used as a converted schema test fixture.

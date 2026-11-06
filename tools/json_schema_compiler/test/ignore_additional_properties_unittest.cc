@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ignore additional properties unit tests
+// summary: Unit tests verifying populate and params behavior for types that ignore additional properties.
+// ---
+
 #include "tools/json_schema_compiler/test/ignore_additional_properties.h"
 
 #include <memory>

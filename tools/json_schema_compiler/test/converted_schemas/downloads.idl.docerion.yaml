@@ -1,0 +1,4 @@
+# Docerion header of downloads.idl.
+type: test
+title: Downloads API IDL test schema
+summary: IDL definition of the chrome.downloads API for initiating, monitoring, manipulating, and searching downloads, used as a schema compiler test fixture.

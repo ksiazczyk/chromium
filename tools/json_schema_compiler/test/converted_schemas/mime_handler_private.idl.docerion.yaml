@@ -1,0 +1,4 @@
+# Docerion header of mime_handler_private.idl.
+type: test
+title: Mime handler private API IDL definition
+summary: IDL schema of the mimeHandlerPrivate API describing stream info, PDF plugin attributes and save events, used as conversion test data.

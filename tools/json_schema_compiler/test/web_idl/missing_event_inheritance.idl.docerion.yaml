@@ -1,0 +1,4 @@
+# Docerion header of missing_event_inheritance.idl.
+type: test
+title: Invalid WebIDL test schema missing event inheritance
+summary: Invalid WebIDL test schema with an event interface not inheriting from ExtensionEvent, expecting a SchemaCompilerError.

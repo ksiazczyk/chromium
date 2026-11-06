@@ -1,0 +1,4 @@
+# Docerion header of login_screen_ui.webidl.
+type: test
+title: Login screen UI API WebIDL definition
+summary: Converted WebIDL version of the chrome.loginScreenUi API schema, serving as test data in the converted_schemas fixture directory.

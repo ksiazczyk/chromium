@@ -1,0 +1,4 @@
+# Docerion header of ignore_additional_properties.json.
+type: test
+title: Ignore additional properties schema fixture
+summary: JSON schema fixture defining a type and function that ignore additional properties.

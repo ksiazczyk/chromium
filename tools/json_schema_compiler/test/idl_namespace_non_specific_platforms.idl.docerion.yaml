@@ -1,0 +1,4 @@
+# Docerion header of idl_namespace_non_specific_platforms.idl.
+type: test
+title: IDL namespace non-specific platforms test fixture
+summary: IDL fixture testing a namespace without any platform-specific annotations.

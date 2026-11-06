@@ -1,0 +1,4 @@
+# Docerion header of documentation_comment_top_of_file.idl.
+type: test
+title: Top-of-file documentation comment error test
+summary: WebIDL test schema that triggers a parse error because its documentation comment lacks a blank line separating it from the copyright header.

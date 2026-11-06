@@ -1,0 +1,4 @@
+# Docerion header of idl_reserved_words.idl.
+type: test
+title: IDL reserved words test fixture
+summary: IDL fixture testing reserved words used as identifiers in enums, dictionaries and functions.

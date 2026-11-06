@@ -1,0 +1,4 @@
+# Docerion header of alarms.webidl.
+type: test
+title: alarms.webidl
+summary: Converted WebIDL schema of the chrome.alarms API, paired with the original IDL for diff testing.

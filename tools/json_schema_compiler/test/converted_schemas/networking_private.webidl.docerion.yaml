@@ -1,0 +1,4 @@
+# Docerion header of networking_private.webidl.
+type: test
+title: networking_private WebIDL test schema
+summary: Converted WebIDL version of the networkingPrivate API schema, used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

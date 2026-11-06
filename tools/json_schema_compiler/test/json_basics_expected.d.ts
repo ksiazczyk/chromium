@@ -9,6 +9,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: test
+// title: Expected TypeScript definitions for the JSON basics schema
+// summary: Expected TypeScript declaration output used to verify ts_definitions generation from the JSON basics schema.
+// ---
+
 
 
 declare namespace chrome {

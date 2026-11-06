@@ -1,0 +1,4 @@
+# Docerion header of enum_and_type_ordering.idl.
+type: test
+title: Enum and type ordering test
+summary: WebIDL test schema with interleaved enum and dictionary definitions to check ordering of type declarations.

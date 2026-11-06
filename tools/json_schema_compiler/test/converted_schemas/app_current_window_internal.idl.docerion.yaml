@@ -1,0 +1,4 @@
+# Docerion header of app_current_window_internal.idl.
+type: test
+title: app_current_window_internal.idl
+summary: Original IDL schema of the internal app window control API, kept as a static baseline for conversion testing.

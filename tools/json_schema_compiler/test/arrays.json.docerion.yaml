@@ -1,0 +1,4 @@
+# Docerion header of arrays.json.
+type: data
+title: Arrays API schema test fixture
+summary: Test API schema covering arrays of enums, primitives, referenced objects and choices in the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of serial.webidl.
+type: test
+title: serial.webidl serial port API schema
+summary: WebIDL conversion of the serial API schema, defining device info, connection options and callbacks used to test the schema compiler's WebIDL output.

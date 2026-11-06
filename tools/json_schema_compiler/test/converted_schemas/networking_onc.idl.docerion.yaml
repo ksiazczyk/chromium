@@ -1,0 +1,4 @@
+# Docerion header of networking_onc.idl.
+type: test
+title: Networking ONC API IDL definition
+summary: IDL schema of the chrome.networking.onc API for configuring network connections per the ONC specification, used as conversion test data.

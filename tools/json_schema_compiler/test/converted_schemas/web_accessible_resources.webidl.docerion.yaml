@@ -1,0 +1,4 @@
+# Docerion header of web_accessible_resources.webidl.
+type: test
+title: web_accessible_resources.webidl test schema
+summary: WebIDL counterpart of the web_accessible_resources.idl stub, defining the manifest key dictionaries for schema compiler conversion tests.

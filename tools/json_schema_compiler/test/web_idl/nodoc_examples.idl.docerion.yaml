@@ -1,0 +1,4 @@
+# Docerion header of nodoc_examples.idl.
+type: test
+title: Nodoc extended attribute examples
+summary: WebIDL test schema exercising nodoc extended attributes on dictionaries, enums, functions, events, and constants.

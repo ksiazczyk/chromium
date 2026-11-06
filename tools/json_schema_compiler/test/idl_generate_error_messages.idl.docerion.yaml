@@ -1,0 +1,4 @@
+# Docerion header of idl_generate_error_messages.idl.
+type: test
+title: IDL generate error messages test fixture
+summary: IDL fixture testing a namespace with error message generation enabled via the generate_error_messages attribute.

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth.idl.
+type: test
+title: Bluetooth API IDL schema
+summary: IDL definition of the chrome.bluetooth API for connecting to Bluetooth devices, used as a test fixture for the JSON schema compiler.

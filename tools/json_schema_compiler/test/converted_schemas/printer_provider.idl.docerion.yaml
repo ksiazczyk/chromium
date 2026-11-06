@@ -1,0 +1,4 @@
+# Docerion header of printer_provider.idl.
+type: test
+title: printer_provider.idl chrome.printerProvider API test schema
+summary: IDL definition of the chrome.printerProvider API that lets extensions supply printers and handle print jobs, used as a schema compiler test fixture.

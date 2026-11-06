@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_private.webidl.
+type: test
+title: Bluetooth Private API WebIDL schema
+summary: WebIDL conversion of the chrome.bluetoothPrivate API schema, used as a test fixture for the JSON schema compiler.

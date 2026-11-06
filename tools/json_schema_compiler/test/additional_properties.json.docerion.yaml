@@ -1,0 +1,4 @@
+# Docerion header of additional_properties.json.
+type: data
+title: additionalProperties API schema test fixture
+summary: Test API schema exercising object types and functions that use additionalProperties in the JSON schema compiler.

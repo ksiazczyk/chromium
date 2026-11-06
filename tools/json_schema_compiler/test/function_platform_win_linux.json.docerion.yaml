@@ -1,0 +1,4 @@
+# Docerion header of function_platform_win_linux.json.
+type: test
+title: Windows and Linux function test schema
+summary: Test schema fixture declaring a function restricted to Windows and Linux for compiler platform tests.

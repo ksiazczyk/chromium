@@ -1,0 +1,4 @@
+# Docerion header of system_display.webidl.
+type: test
+title: system_display.webidl converted schema
+summary: WebIDL conversion of the chrome.system.display API schema, used as a test fixture for the JSON schema compiler.

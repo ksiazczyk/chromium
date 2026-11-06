@@ -1,0 +1,4 @@
+# Docerion header of chrome_url_overrides.idl.
+type: test
+title: chrome_url_overrides manifest key IDL definition
+summary: IDL stub namespace describing the chrome_url_overrides manifest key for overriding newtab, bookmarks and history pages, used as a test fixture.

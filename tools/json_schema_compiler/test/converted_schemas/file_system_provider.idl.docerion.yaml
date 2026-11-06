@@ -1,0 +1,4 @@
+# Docerion header of file_system_provider.idl.
+type: test
+title: Chrome fileSystemProvider API IDL test schema
+summary: IDL definition of the chrome.fileSystemProvider API used as test input for the JSON schema compiler.

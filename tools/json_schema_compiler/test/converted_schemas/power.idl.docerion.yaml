@@ -1,0 +1,4 @@
+# Docerion header of power.idl.
+type: test
+title: power.idl chrome.power API test schema
+summary: IDL definition of the chrome.power API for overriding system power management, used as a test fixture for the JSON schema compiler.
