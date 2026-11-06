@@ -1,0 +1,4 @@
+# Docerion header of aria-required-expected-win.txt.
+type: test
+title: aria-required expected Windows tree
+summary: Expected Windows IAccessible2 accessibility tree for the aria-required radiogroup test page.

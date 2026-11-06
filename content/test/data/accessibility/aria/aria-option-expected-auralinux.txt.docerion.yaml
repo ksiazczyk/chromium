@@ -1,0 +1,4 @@
+# Docerion header of aria-option-expected-auralinux.txt.
+type: test
+title: aria-option expected AuraLinux
+summary: Expected AuraLinux accessibility tree snapshot for the aria-option listbox test page, including list item roles and static text children.

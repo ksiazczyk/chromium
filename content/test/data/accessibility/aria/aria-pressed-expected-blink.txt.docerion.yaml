@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-expected-blink.txt.
+type: test
+title: aria-pressed expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for the aria-pressed test, showing buttons and toggle buttons with checked states.

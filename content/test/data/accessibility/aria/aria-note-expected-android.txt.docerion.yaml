@@ -1,0 +1,4 @@
+# Docerion header of aria-note-expected-android.txt.
+type: test
+title: aria-note expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA note role test page.

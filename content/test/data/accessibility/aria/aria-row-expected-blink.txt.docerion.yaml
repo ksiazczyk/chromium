@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-blink.txt.
+type: test
+title: ARIA row expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the aria-row test, showing a grid with rows of browser and rendering engine names.

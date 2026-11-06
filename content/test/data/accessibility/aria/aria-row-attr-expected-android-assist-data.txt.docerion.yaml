@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-android-assist-data.txt.
+type: test
+title: ARIA row attribute expected Android assist data
+summary: Expected Android assist data snapshot for the aria-row-attr test showing grid, row and header views with aria-rowcount, rowindex and rowspan attributes.

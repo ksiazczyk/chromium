@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-from-display-none-expected-blink.txt.
+type: test
+title: aria-owns-from-display-none expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-owns-from-display-none test, including an invisible group with a multiline text field.

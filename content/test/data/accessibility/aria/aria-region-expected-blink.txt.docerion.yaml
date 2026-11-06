@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-blink.txt.
+type: test
+title: aria-region expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-region test page, showing how named and unnamed regions map to region and generic container nodes.

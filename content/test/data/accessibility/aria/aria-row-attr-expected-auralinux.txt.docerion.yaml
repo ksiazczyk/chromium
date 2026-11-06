@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-auralinux.txt.
+type: test
+title: aria-row-attr expected accessibility tree for Linux
+summary: Expected Linux accessibility tree output for the aria-rowcount, aria-rowindex and aria-rowspan grid test, listing table rows, column headers and cells with their coordinates.

@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-expected-android.txt.
+type: test
+title: ARIA searchbox expected output for Android
+summary: Expected Android accessibility tree snapshot for the ARIA searchbox test, describing the WebView and EditText nodes produced for the searchbox role.

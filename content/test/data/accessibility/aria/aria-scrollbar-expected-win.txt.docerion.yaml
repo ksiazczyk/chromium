@@ -1,0 +1,4 @@
+# Docerion header of aria-scrollbar-expected-win.txt.
+type: test
+title: ARIA scrollbar expected Windows output
+summary: Expected Windows accessibility tree output for the ARIA scrollbar test, showing vertical and horizontal scrollbar roles with value 55.

@@ -1,0 +1,4 @@
+# Docerion header of aria-option-complex-children-expected-android-external.txt.
+type: test
+title: aria-option-complex-children expected Android external tree
+summary: Expected Android external accessibility output for the listbox option with complex children test page.

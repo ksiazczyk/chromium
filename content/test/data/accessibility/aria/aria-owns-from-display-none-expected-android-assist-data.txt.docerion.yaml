@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-from-display-none-expected-android-assist-data.txt.
+type: test
+title: aria-owns-from-display-none expected Android assist data
+summary: Expected Android assist data output for the aria-owns-from-display-none test, showing the WebView and textarea hierarchy.

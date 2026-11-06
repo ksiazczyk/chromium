@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-android.txt.
+type: test
+title: ARIA roledescription expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-roledescription test, listing buttons and text views with their role descriptions.

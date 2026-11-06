@@ -1,0 +1,4 @@
+# Docerion header of aria-radiogroup-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-radiogroup
+summary: Expected Blink accessibility tree for the radiogroup test, showing a radio group with two radio buttons and their checked states.

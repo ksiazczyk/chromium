@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-win.txt.
+type: test
+title: ARIA roledescription expected Windows IAccessible2 tree
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the aria-roledescription test showing localized extended roles for buttons, paragraphs and groups.

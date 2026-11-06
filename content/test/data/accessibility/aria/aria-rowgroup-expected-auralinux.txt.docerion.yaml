@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup-expected-auralinux.txt.
+type: test
+title: ARIA rowgroup expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the aria-rowgroup test, showing a table with two table rows.

@@ -1,0 +1,4 @@
+# Docerion header of aria-search-expected-android-assist-data.txt.
+type: test
+title: ARIA search expected Android assist data
+summary: Expected Android assist data output for the ARIA search role test, describing the WebView and search view hierarchy with its text.

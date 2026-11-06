@@ -1,0 +1,4 @@
+# Docerion header of aria-progressbar-expected-mac.txt.
+type: test
+title: aria-progressbar expected output for Mac
+summary: Expected macOS accessibility tree snapshot for the ARIA progressbar test page, listing AXProgressIndicator values and descriptions.

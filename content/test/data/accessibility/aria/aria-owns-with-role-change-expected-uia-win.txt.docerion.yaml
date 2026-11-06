@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-with-role-change-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for aria-owns with role change
+summary: Expected UIA accessibility tree output for the aria-owns-with-role-change test on Windows, showing a region group with text and a button.

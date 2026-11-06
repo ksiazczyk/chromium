@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-expected-android-external.txt.
+type: test
+title: aria-owns expected Android external output
+summary: Expected Android external accessibility snapshot for the aria-owns test, showing collection info for a list that owns items two and four.

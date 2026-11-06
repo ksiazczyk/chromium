@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-multiline
+summary: Expected Android assist data output for the aria-multiline test, showing EditText nodes with aria-multiline true and false.

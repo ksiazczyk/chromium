@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup-expected-android-assist-data.txt.
+type: test
+title: ARIA rowgroup expected Android assist data tree
+summary: Expected Android assist data accessibility tree for the aria-rowgroup test, showing a grid with a rowgroup containing two rows.

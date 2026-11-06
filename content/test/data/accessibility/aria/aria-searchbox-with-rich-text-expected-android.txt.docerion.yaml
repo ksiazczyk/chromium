@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-rich-text-expected-android.txt.
+type: test
+title: ARIA searchbox with rich text expected output for Android
+summary: Expected Android accessibility tree snapshot for the rich text ARIA searchbox test, describing the resulting EditText node.

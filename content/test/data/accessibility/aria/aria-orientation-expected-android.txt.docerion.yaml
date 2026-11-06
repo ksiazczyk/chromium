@@ -1,0 +1,4 @@
+# Docerion header of aria-orientation-expected-android.txt.
+type: test
+title: aria-orientation expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-orientation test, listing roles such as list, menu, slider and tree with their orientation states.

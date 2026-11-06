@@ -1,0 +1,4 @@
+# Docerion header of aria-orientation-expected-mac.txt.
+type: test
+title: aria-orientation expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the aria-orientation test, recording AXOrientation values for roles such as combo box, slider and toolbar.

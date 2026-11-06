@@ -1,0 +1,4 @@
+# Docerion header of aria-required-expected-blink.txt.
+type: test
+title: aria-required expected Blink tree
+summary: Expected Blink internal accessibility tree for the aria-required radiogroup test page.

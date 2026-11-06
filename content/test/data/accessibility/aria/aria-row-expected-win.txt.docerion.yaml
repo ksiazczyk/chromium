@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-win.txt.
+type: test
+title: ARIA row expected accessibility tree for Windows
+summary: Expected Windows MSAA accessibility tree for the aria-row test with table, row, column header and cell roles.

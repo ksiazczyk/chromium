@@ -1,0 +1,4 @@
+# Docerion header of aria-required-expected-auralinux.txt.
+type: test
+title: aria-required expected Linux tree
+summary: Expected Linux accessibility tree dump showing the required state on an ARIA radiogroup.

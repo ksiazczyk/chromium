@@ -1,0 +1,4 @@
+# Docerion header of aria-scrollbar-expected-mac.txt.
+type: test
+title: aria-scrollbar expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree snapshot for the aria-scrollbar test with two AXScrollBar elements at value 55.

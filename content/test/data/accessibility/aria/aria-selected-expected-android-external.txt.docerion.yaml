@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility tree for aria-selected
+summary: Expected external Android accessibility tree output for the aria-selected listbox test.

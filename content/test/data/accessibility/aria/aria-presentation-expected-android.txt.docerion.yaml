@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-expected-android.txt.
+type: test
+title: aria-presentation Android expected output
+summary: Expected Android accessibility tree snapshot for the aria-role presentation test page.

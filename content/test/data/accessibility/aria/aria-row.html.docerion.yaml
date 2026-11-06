@@ -1,0 +1,4 @@
+# Docerion header of aria-row.html.
+type: test
+title: ARIA row test page with grid, row and gridcell roles
+summary: HTML test page using ARIA grid, row, columnheader and gridcell roles to build a small table of browsers and rendering engines.

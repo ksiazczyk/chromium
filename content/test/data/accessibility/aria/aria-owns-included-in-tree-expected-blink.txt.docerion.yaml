@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-included-in-tree-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-owns included in tree test
+summary: Expected Blink accessibility tree snapshot verifying that aria-owns targets are serialized into the tree even when they would normally be excluded.

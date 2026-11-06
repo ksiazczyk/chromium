@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-rowheader
+summary: Expected Linux accessibility tree snapshot for the aria-rowheader test with row headers, grid cells, and xml-roles annotations.

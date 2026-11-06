@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-aria-labelledby-expected-mac.txt.
+type: test
+title: aria-multiselectable aria-labelledby expected tree for macOS
+summary: Expected macOS accessibility tree for the aria-multiselectable aria-labelledby test, showing lists with static text options.

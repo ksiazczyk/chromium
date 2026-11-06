@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-expected-win.txt.
+type: test
+title: aria-posinset expected Windows accessibility output
+summary: Expected Windows accessibility tree for the aria-posinset and aria-setsize test page.

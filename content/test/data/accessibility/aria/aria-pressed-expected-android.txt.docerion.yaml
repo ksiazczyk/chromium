@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-pressed
+summary: Expected Android accessibility tree snapshot showing buttons and toggle buttons with checked states for aria-pressed.

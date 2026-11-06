@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-uia-win.txt.
+type: test
+title: ARIA roledescription expected Windows UIA accessibility tree
+summary: Expected Windows UIA accessibility tree snapshot for the aria-roledescription test showing LocalizedControlType values for buttons, groups and text.

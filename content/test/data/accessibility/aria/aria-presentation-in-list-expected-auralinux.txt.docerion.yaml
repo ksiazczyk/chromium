@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-in-list-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-presentation-in-list
+summary: Expected accessibility tree snapshot on Linux for the test page applying role presentation inside a list.

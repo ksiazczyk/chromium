@@ -1,0 +1,4 @@
+# Docerion header of aria-paragraph-expected-win.txt.
+type: test
+title: aria-paragraph expected Windows accessibility output
+summary: Expected Windows accessibility tree output for the aria-paragraph role test page.

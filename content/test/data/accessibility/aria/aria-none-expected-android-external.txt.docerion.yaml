@@ -1,0 +1,4 @@
+# Docerion header of aria-none-expected-android-external.txt.
+type: test
+title: aria-none expected Android external output
+summary: Expected Android external accessibility tree output for the aria-role none test.

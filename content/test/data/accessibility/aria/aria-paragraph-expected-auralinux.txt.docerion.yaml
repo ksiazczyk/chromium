@@ -1,0 +1,4 @@
+# Docerion header of aria-paragraph-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-paragraph
+summary: Expected Linux accessibility tree output for the aria-paragraph test, showing a paragraph role element with static text.

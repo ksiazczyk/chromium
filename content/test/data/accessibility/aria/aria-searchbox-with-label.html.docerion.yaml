@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-label.html.
+type: test
+title: ARIA searchbox with label test page
+summary: HTML test page with a contenteditable element using role searchbox and an aria-label, focused via script for accessibility testing.

@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-expected-mac.txt.
+type: test
+title: aria-relevant expected macOS output
+summary: Expected macOS accessibility tree for the aria-relevant test page with AXApplicationLog groups and AXARIARelevant values.

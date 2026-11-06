@@ -1,0 +1,4 @@
+# Docerion header of aria-navigation-expected-android-assist-data.txt.
+type: test
+title: aria-navigation expected Android assist data
+summary: Expected Android assist data accessibility tree snapshot for the aria-navigation landmark test.

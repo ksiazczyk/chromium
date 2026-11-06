@@ -1,0 +1,4 @@
+# Docerion header of aria-navigation-expected-blink.txt.
+type: test
+title: aria-navigation expected Blink output
+summary: Expected Blink accessibility tree output for the aria-navigation landmark test.

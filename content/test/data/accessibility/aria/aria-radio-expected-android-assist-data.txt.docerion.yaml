@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-expected-android-assist-data.txt.
+type: test
+title: aria-radio expected Android assist data
+summary: Expected Android assist-data accessibility output for the ARIA radio test page, showing a RadioButton with its Radio1 label.

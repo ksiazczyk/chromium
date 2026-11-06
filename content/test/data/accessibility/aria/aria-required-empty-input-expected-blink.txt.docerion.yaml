@@ -1,0 +1,4 @@
+# Docerion header of aria-required-empty-input-expected-blink.txt.
+type: test
+title: aria-required-empty-input expected Blink output
+summary: Expected Blink accessibility tree for the empty required input test, showing required text fields without an invalid state.

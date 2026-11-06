@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-expected-blink.txt.
+type: test
+title: ARIA readonly expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the ARIA readonly test page showing readOnly restrictions.

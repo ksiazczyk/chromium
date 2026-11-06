@@ -1,0 +1,4 @@
+# Docerion header of aria-navigation-expected-mac.txt.
+type: test
+title: aria-navigation expected Mac output
+summary: Expected macOS accessibility tree output for the aria-navigation landmark test.

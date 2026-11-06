@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-expected-blink.txt.
+type: test
+title: aria-presentation Blink expected output
+summary: Expected Blink internal accessibility tree snapshot for the aria-role presentation test page.

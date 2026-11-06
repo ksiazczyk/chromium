@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-in-shadow-root-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for radio groups in shadow roots
+summary: Expected macOS AX tree for the shadow-root radio test, listing radio groups, radio buttons, checkboxes and their linked UI elements.

@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-win.txt.
+type: test
+title: aria-multiline expected accessibility tree for Windows
+summary: Expected Windows accessibility tree for the aria-multiline test, showing single-line and multi-line text roles.

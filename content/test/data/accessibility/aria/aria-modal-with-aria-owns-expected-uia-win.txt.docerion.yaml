@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-with-aria-owns-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for aria-modal with aria-owns
+summary: Expected Windows UIA accessibility tree output for the aria-modal with aria-owns test, showing the modal window state.

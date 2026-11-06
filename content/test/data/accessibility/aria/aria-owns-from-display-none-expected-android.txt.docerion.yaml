@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-from-display-none-expected-android.txt.
+type: test
+title: aria-owns-from-display-none expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-owns-from-display-none test, showing a WebView with an editable multiline text field.

@@ -1,0 +1,4 @@
+# Docerion header of aria-search-expected-auralinux.txt.
+type: test
+title: ARIA search expected Linux output
+summary: Expected Linux accessibility tree output for the ARIA search role test, showing a search landmark containing static text.

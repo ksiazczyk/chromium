@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-ignored-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-owns ignored test
+summary: Expected Android accessibility tree snapshot for the aria-owns ignored-nodes test.

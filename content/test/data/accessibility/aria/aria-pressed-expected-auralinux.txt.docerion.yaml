@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-expected-auralinux.txt.
+type: test
+title: aria-pressed expected accessibility tree for Linux
+summary: Expected Linux accessibility tree output for the aria-pressed test, listing push and toggle buttons with pressed and mixed states.

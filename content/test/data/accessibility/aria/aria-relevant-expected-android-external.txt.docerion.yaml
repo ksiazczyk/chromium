@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-expected-android-external.txt.
+type: test
+title: aria-relevant expected Android external output
+summary: Expected Android external accessibility output for the aria-relevant test page, showing live region log views.

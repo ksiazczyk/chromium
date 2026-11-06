@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-selection-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for searchbox with selection
+summary: Expected Windows (IA2) accessibility tree output including selection ranges for the searchbox-with-selection test page.

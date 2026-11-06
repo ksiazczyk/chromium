@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-mac.txt.
+type: test
+title: aria-multiline expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the aria-multiline test, showing AXTextField and AXTextArea roles.

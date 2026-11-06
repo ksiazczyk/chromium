@@ -1,0 +1,4 @@
+# Docerion header of aria-orientation-expected-android-assist-data.txt.
+type: test
+title: aria-orientation expected Android assist data
+summary: Expected Android assist data accessibility snapshot for the aria-orientation test page covering horizontal and vertical variants of ARIA container roles.

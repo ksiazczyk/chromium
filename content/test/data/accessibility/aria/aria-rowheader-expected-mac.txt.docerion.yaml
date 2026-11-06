@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-rowheader
+summary: Expected macOS accessibility tree snapshot for the aria-rowheader test with AXTable rows, columns, and row header references.

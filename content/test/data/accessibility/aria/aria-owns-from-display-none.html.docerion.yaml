@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-from-display-none.html.
+type: test
+title: aria-owns-from-display-none test page
+summary: HTML test page where a role=group element hidden with display:none owns a textarea via aria-owns, used to verify accessibility behavior.

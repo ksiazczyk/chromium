@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-expected-blink.txt.
+type: test
+title: aria-posinset expected Blink accessibility output
+summary: Expected Blink internal accessibility tree for the aria-posinset and aria-setsize test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-expected-blink.txt.
+type: test
+title: aria-radio expected Blink output
+summary: Expected Blink internal accessibility tree snapshot for the ARIA radio test page, showing the radio button and its text.

@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-win.txt.
+type: test
+title: aria-region expected Windows accessibility tree
+summary: Expected Windows (IA2/MSAA) accessibility tree snapshot for the aria-region test page, showing landmark roles and names for region elements.

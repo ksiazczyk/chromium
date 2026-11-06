@@ -1,0 +1,4 @@
+# Docerion header of aria-option-expected-android.txt.
+type: test
+title: aria-option expected Android
+summary: Expected Android accessibility tree snapshot for the aria-option listbox test page with five selectable option items.

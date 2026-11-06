@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-target-id-change-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-owns target id change test
+summary: Expected Blink tree snapshots across continuations as an aria-owns target id is switched, removed, and restored between a paragraph and an article.

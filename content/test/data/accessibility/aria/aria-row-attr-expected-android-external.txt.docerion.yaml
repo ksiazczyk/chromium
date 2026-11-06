@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-android-external.txt.
+type: test
+title: ARIA row attribute expected Android external tree
+summary: Expected Android external accessibility tree snapshot for the aria-row-attr test showing grid collection info and table header items.

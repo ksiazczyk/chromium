@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-mac.txt.
+type: test
+title: aria-row-attr expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree for the aria-row attributes grid test, describing AXTable, AXRow, AXColumn and AXCell nodes with ARIA row count and index values.

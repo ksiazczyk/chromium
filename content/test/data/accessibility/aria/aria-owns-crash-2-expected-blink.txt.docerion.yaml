@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-crash-2-expected-blink.txt.
+type: test
+title: aria-owns crash test 2 expected Blink output
+summary: Expected Blink accessibility tree output for an aria-owns crash regression test, showing a simple tree with a button after the page finishes loading.

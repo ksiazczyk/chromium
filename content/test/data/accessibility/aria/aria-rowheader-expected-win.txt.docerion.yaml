@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-rowheader
+summary: Expected Windows accessibility tree snapshot for the aria-rowheader test with row header and grid cell roles.

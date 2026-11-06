@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-android.txt.
+type: test
+title: Expected Android tree for aria-multiline
+summary: Expected Android accessibility tree output for the aria-multiline test, showing single-line and multiline editable text fields.

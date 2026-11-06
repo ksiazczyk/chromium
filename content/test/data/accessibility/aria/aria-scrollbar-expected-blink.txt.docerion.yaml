@@ -1,0 +1,4 @@
+# Docerion header of aria-scrollbar-expected-blink.txt.
+type: test
+title: aria-scrollbar expected accessibility tree for Blink
+summary: Expected internal Blink accessibility tree snapshot for the aria-scrollbar test with vertical and horizontal scroll bars.

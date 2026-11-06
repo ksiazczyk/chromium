@@ -1,0 +1,4 @@
+# Docerion header of aria-search-expected-mac.txt.
+type: test
+title: ARIA search expected macOS output
+summary: Expected macOS accessibility output for the ARIA search role test, showing a search landmark group and static text.

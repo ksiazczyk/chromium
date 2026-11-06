@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-label-expected-android.txt.
+type: test
+title: ARIA searchbox with label expected output for Android
+summary: Expected Android accessibility tree snapshot for the labelled ARIA searchbox test, including the hint derived from the aria-label.

@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup-expected-mac.txt.
+type: test
+title: ARIA rowgroup expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the aria-rowgroup test, showing a table with two rows and an empty group.

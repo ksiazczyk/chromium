@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup.html.
+type: test
+title: aria-rowgroup test page
+summary: HTML fixture with a grid containing a rowgroup and two rows, used to test the aria-rowgroup role.

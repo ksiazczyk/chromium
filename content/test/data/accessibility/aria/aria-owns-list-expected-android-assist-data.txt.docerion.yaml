@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-list-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-owns list test
+summary: Expected Android assist data snapshot for a page where a list uses aria-owns to own two list items named One and Two.

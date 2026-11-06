@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-expected-auralinux.txt.
+type: test
+title: aria-posinset expected Linux accessibility output
+summary: Expected Linux accessibility tree output for the aria-posinset and aria-setsize test page.

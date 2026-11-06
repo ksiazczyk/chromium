@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-android-external.txt.
+type: test
+title: Expected Android external tree for aria-multiline
+summary: Expected Android accessibility tree from the external action handler for the aria-multiline test, showing single-line and multiline text fields.

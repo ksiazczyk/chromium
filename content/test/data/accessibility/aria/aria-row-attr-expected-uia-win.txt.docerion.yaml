@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-uia-win.txt.
+type: test
+title: aria-row-attr expected accessibility tree for Windows UIA
+summary: Expected UIA accessibility tree for the aria-row attributes grid test on Windows, describing a DataGrid with DataItem rows and cells and their grid coordinates.

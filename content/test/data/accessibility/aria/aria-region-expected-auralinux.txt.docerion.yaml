@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-auralinux.txt.
+type: test
+title: aria-region expected Linux accessibility tree
+summary: Expected Linux (AT-SPI) accessibility tree snapshot for the aria-region test page, showing landmark roles and label relations for region elements.

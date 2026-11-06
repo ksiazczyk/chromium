@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-expected-android-assist-data.txt.
+type: test
+title: aria-relevant expected Android assist data
+summary: Expected Android assist data accessibility tree for the aria-relevant test page, listing log views for each aria-relevant value.

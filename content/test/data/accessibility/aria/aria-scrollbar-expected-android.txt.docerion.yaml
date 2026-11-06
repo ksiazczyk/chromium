@@ -1,0 +1,4 @@
+# Docerion header of aria-scrollbar-expected-android.txt.
+type: test
+title: aria-scrollbar expected Android output
+summary: Expected Android accessibility tree snapshot for the aria-scrollbar test with two scroll bars at value 55 of 100.

@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-auralinux.txt.
+type: test
+title: aria-row expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for the aria-row grid test, describing a table with column headers Browser and Rendering Engine and rows of cells with coordinates.

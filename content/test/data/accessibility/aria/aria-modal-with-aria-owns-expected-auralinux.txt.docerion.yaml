@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-with-aria-owns-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-modal with aria-owns
+summary: Expected Linux accessibility tree output for the aria-modal with aria-owns test, showing the modal dialog and content pulled in via aria-owns.

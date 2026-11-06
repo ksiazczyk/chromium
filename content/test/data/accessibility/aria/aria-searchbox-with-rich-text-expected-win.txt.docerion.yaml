@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-rich-text-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for rich-text searchbox
+summary: Expected Windows (IA2) accessibility tree output for the rich-text searchbox test page.

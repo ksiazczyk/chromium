@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-expected-auralinux.txt.
+type: test
+title: ARIA readonly expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the ARIA readonly test page with editable and checkable states.

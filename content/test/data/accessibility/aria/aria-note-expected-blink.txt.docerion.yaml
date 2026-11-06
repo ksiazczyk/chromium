@@ -1,0 +1,4 @@
+# Docerion header of aria-note-expected-blink.txt.
+type: test
+title: aria-note expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the ARIA note role test page.

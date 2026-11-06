@@ -1,0 +1,4 @@
+# Docerion header of aria-option-expected-android-external.txt.
+type: test
+title: aria-option expected Android external
+summary: Expected Android external accessibility snapshot for the aria-option listbox test page, listing option items with actions and chrome roles.

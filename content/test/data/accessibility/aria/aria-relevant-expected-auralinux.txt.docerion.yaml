@@ -1,0 +1,4 @@
+# Docerion header of aria-relevant-expected-auralinux.txt.
+type: test
+title: aria-relevant expected auralinux output
+summary: Expected Linux accessibility tree for the aria-relevant test page showing relevant and container-relevant values on log elements.

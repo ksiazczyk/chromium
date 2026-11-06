@@ -1,0 +1,4 @@
+# Docerion header of aria-progressbar-expected-android-external.txt.
+type: test
+title: aria-progressbar expected Android external accessibility snapshot
+summary: Expected Android external accessibility snapshot for the aria-progressbar test, showing progress bar ranges and state descriptions.

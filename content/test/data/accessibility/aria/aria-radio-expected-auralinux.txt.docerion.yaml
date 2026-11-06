@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-expected-auralinux.txt.
+type: test
+title: aria-radio expected Linux output
+summary: Expected Linux accessibility tree snapshot for the ARIA radio test page, showing a checkable radio button named Radio1.

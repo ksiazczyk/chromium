@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-android-external.txt.
+type: test
+title: Expected Android external tree for aria-rowheader
+summary: Expected Android external accessibility tree snapshot for the aria-rowheader test with collection and table header information.

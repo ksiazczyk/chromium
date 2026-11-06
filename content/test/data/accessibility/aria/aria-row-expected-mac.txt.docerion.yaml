@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-mac.txt.
+type: test
+title: ARIA row expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree for the aria-row test, listing table rows, columns and cells for browsers and rendering engines.

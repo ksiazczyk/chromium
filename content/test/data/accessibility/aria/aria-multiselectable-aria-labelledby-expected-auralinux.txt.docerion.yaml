@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-aria-labelledby-expected-auralinux.txt.
+type: test
+title: aria-multiselectable aria-labelledby expected tree for auralinux
+summary: Expected Linux accessibility tree for the aria-multiselectable aria-labelledby test, showing labelled multiselectable list boxes.

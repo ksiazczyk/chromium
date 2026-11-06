@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-android.txt.
+type: test
+title: Expected Android tree for aria-rowheader
+summary: Expected Android accessibility tree snapshot for the aria-rowheader test, marking row headers as table headers in a grid.

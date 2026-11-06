@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-android-external.txt.
+type: test
+title: aria-region expected Android external data
+summary: Expected Android external accessibility snapshot for the aria-region test page, listing roles, container titles and actions for region elements.

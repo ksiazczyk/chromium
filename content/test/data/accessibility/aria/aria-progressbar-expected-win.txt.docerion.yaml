@@ -1,0 +1,4 @@
+# Docerion header of aria-progressbar-expected-win.txt.
+type: test
+title: aria-progressbar expected output for Windows
+summary: Expected Windows accessibility tree snapshot for the ARIA progressbar test page, listing progressbar roles, values and ranges.

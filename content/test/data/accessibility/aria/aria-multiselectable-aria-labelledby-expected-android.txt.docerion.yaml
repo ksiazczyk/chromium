@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-aria-labelledby-expected-android.txt.
+type: test
+title: aria-multiselectable aria-labelledby expected tree for Android
+summary: Expected Android accessibility tree for the aria-multiselectable aria-labelledby test with multiselectable listboxes and options.

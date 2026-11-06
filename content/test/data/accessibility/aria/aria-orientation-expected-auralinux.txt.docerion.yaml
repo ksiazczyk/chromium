@@ -1,0 +1,4 @@
+# Docerion header of aria-orientation-expected-auralinux.txt.
+type: test
+title: aria-orientation expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the aria-orientation test, showing combo boxes, menus, sliders and other roles with horizontal or vertical orientation.

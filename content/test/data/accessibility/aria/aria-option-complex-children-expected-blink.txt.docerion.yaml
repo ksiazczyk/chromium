@@ -1,0 +1,4 @@
+# Docerion header of aria-option-complex-children-expected-blink.txt.
+type: test
+title: aria-option-complex-children expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the listbox option with complex children test page.

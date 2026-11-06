@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-illegal-multiple-owner-expected-blink.txt.
+type: test
+title: Expected Blink tree for illegal multiple aria-owns owner test
+summary: Expected Blink accessibility tree snapshots for scenarios where multiple elements illegally own the same node via aria-owns.

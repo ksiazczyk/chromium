@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-mac.txt.
+type: test
+title: aria-region expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the aria-region test page, showing AXLandmarkRegion subroles and descriptions for region elements.

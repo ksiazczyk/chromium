@@ -1,0 +1,4 @@
+# Docerion header of aria-option-expected-mac.txt.
+type: test
+title: aria-option expected Mac
+summary: Expected macOS AX accessibility tree snapshot for the aria-option listbox test page, including strong and emphasis style groups.

@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-expected-win.txt.
+type: test
+title: aria-presentation Windows expected output
+summary: Expected Windows MSAA accessibility tree snapshot for the aria-role presentation test page.

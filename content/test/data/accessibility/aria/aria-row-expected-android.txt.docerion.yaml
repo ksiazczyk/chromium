@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-android.txt.
+type: test
+title: aria-row expected Android accessibility tree
+summary: Expected Android accessibility tree for the aria-row grid test, listing a GridView collection with rows, table headers and collection items with row and column indexes.

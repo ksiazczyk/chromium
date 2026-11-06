@@ -1,0 +1,4 @@
+# Docerion header of aria-progressbar-expected-android-assist-data.txt.
+type: test
+title: aria-progressbar expected Android assist data
+summary: Expected Android assist data snapshot for the aria-progressbar test, showing progress bars with aria value attributes.

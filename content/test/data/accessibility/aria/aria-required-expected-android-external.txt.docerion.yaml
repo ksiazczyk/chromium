@@ -1,0 +1,4 @@
+# Docerion header of aria-required-expected-android-external.txt.
+type: test
+title: aria-required expected Android external tree
+summary: Expected Android accessibility tree in external format for the aria-required radiogroup test page.

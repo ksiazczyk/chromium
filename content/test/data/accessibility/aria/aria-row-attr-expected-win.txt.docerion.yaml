@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-win.txt.
+type: test
+title: aria-row-attr expected accessibility tree for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree for the aria-row attributes grid test, listing table, row, column header and cell roles with row indexes and spans.

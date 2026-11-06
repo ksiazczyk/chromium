@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup-expected-android-external.txt.
+type: test
+title: ARIA rowgroup expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the aria-rowgroup test, showing a grid collection with two row views.

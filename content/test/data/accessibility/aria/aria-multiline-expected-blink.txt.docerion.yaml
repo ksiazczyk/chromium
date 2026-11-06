@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-blink.txt.
+type: test
+title: aria-multiline expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the aria-multiline test, showing text fields with and without the multiline state.

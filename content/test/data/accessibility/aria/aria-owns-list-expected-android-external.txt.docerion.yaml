@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-list-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for aria-owns list test
+summary: Expected Android external accessibility snapshot showing collection info and item positions for a list built via aria-owns.

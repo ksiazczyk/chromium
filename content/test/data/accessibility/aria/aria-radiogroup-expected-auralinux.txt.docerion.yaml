@@ -1,0 +1,4 @@
+# Docerion header of aria-radiogroup-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-radiogroup
+summary: Expected Linux accessibility tree for the radiogroup test, showing a panel named My group with two checkable radio buttons.

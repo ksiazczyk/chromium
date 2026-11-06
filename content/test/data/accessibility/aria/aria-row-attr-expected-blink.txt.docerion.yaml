@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-blink.txt.
+type: test
+title: aria-row-attr expected accessibility tree for Blink
+summary: Expected Blink accessibility tree dump for the aria-row attributes grid test, showing grid, row, columnHeader and gridCell nodes with aria row count and index properties.

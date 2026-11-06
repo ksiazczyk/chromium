@@ -1,0 +1,4 @@
+# Docerion header of aria-note-expected-mac.txt.
+type: test
+title: aria-note expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree output for the ARIA note role test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-android-assist-data.txt.
+type: test
+title: aria-region expected Android assist data
+summary: Expected Android assist data snapshot for the aria-region test page, showing how named and unnamed role=region elements are exposed to assist services.
