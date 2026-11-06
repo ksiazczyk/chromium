@@ -1,0 +1,4 @@
+# Docerion header of Google.url.
+type: test
+title: Google.url
+summary: Internet shortcut fixture pointing to google.com, part of a sample Edge profile favorites used in Chrome tests.

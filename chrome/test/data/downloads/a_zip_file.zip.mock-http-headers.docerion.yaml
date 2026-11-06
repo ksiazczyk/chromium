@@ -1,0 +1,4 @@
+# Docerion header of a_zip_file.zip.mock-http-headers.
+type: test
+title: Mock HTTP headers for a_zip_file.zip
+summary: Serves a_zip_file.zip as application/octet-stream with no-cache and nosniff for download tests.

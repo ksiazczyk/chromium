@@ -1,0 +1,4 @@
+# Docerion header of message.html.
+type: test
+title: Frame messaging test page
+summary: Test page that sets its title when loaded as a main frame or posts a message to the parent window when loaded as an iframe.

@@ -1,0 +1,4 @@
+# Docerion header of dangerous.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for dangerous .crx download
+summary: Mock HTTP response headers served when the test downloads dangerous.crx, labeling it as a Chrome extension.

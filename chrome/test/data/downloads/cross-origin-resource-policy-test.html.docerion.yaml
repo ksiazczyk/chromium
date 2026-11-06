@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-resource-policy-test.html.
+type: test
+title: Cross-origin resource policy download test page
+summary: Page with a cross-site link to the policy-protected resource to exercise download behavior.

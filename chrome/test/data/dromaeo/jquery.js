@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: jQuery 1.2.3 JavaScript library
+// summary: Vendored copy of the jQuery 1.2.3 JavaScript library used by the benchmark pages.
+// ---
+
 (function(){
 /*
  * jQuery 1.2.3 - New Wave Javascript

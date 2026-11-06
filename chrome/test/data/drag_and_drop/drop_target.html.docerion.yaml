@@ -1,0 +1,4 @@
+# Docerion header of drop_target.html.
+type: test
+title: Drop target test page for drag-and-drop
+summary: Test frame providing a drop target div that reports dragover and drop events during drag-and-drop browser tests.

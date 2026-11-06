@@ -1,0 +1,4 @@
+# Docerion header of page-with-frame.html.
+type: test
+title: Page with frame loader test page
+summary: Test page that loads the URL given in the query string into an iframe and relays posted messages into the document title.

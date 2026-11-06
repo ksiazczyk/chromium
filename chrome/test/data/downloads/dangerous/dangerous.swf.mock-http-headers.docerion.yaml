@@ -1,0 +1,4 @@
+# Docerion header of dangerous.swf.mock-http-headers.
+type: test
+title: Mock HTTP headers for dangerous .swf download
+summary: Mock HTTP response headers served when the test downloads the dangerous .swf file as an octet stream.

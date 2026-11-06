@@ -1,3 +1,8 @@
+// ---docerion
+// type: source
+// title: Internet Explorer PNG transparency fix
+// summary: Rewrites PNG image tags with the AlphaImageLoader filter so transparency works in older Internet Explorer versions.
+// ---
 
 var arVersion = navigator.appVersion.split("MSIE")
 var version = parseFloat(arVersion[1])

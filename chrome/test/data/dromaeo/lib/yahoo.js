@@ -61,6 +61,12 @@ version: 2.6.0
  * @default undefined
  */
 
+// ---docerion
+// type: test
+// title: YUI 2.6.0 global YAHOO module
+// summary: YUI 2.6.0 yahoo module defining the global YAHOO object with namespaces, logging and module registration, vendored for Dromaeo tests.
+// ---
+
 if (typeof YAHOO == "undefined" || !YAHOO) {
     /**
      * The YAHOO global namespace object.  If YAHOO is already defined, the

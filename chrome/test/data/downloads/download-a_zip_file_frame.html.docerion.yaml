@@ -1,0 +1,4 @@
+# Docerion header of download-a_zip_file_frame.html.
+type: test
+title: Multiple downloads infobar test frame
+summary: Frame that navigates to a_zip_file.zip once to trigger a single download.

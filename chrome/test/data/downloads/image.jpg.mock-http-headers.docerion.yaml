@@ -1,0 +1,4 @@
+# Docerion header of image.jpg.mock-http-headers.
+type: test
+title: Mock HTTP headers for image.jpg
+summary: Mock HTTP response headers serving image.jpg as image/jpeg with nosniff for download tests.

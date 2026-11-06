@@ -5,6 +5,12 @@ http://developer.yahoo.net/yui/license.txt
 version: 2.6.0
 */
 
+// ---docerion
+// type: source
+// title: YUI Event module 2.6.0
+// summary: Vendored YUI 2.6.0 event library providing CustomEvent and listener subscription utilities, included as test data for the Dromaeo JavaScript benchmarks.
+// ---
+
 /**
  * The CustomEvent class lets you define events for your application
  * that can be subscribed to by one or more independent component.

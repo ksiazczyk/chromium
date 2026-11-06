@@ -1,0 +1,4 @@
+# Docerion header of dangerous.exe.mock-http-headers.
+type: test
+title: Mock HTTP headers for dangerous .exe download
+summary: Mock HTTP response headers served when the test downloads a dangerous .exe file as an octet stream.

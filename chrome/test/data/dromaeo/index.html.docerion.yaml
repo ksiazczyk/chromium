@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Dromaeo performance test suite start page
+summary: Entry page of the Dromaeo suite listing JavaScript, SunSpider, V8, DOM and CSS selector performance tests to run.

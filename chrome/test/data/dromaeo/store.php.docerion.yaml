@@ -1,0 +1,4 @@
+# Docerion header of store.php.
+type: script
+title: PHP backend for storing Dromaeo results
+summary: Server-side PHP endpoint that saves benchmark runs and results into a MySQL database and returns stored runs as JSON.

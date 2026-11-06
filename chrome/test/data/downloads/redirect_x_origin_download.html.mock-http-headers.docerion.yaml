@@ -1,0 +1,4 @@
+# Docerion header of redirect_x_origin_download.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for cross-origin redirect download
+summary: Mock HTTP headers that respond with a 302 redirect to empty.bin when the redirect download page is requested.

@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-resource-policy-resource.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for cross-origin resource policy resource
+summary: Serves the resource as text/plain with a same-origin Cross-Origin-Resource-Policy header.

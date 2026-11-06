@@ -1,0 +1,4 @@
+# Docerion header of crazy_filenames.txt.
+type: test
+title: Crazy filenames list for download tests
+summary: Lists Unicode and special-character filenames created on the fly for download, omnibox and translate tests.

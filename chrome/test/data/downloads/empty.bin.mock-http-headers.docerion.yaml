@@ -1,0 +1,4 @@
+# Docerion header of empty.bin.mock-http-headers.
+type: test
+title: Mock HTTP headers for empty.bin
+summary: Mock HTTP response headers serving empty.bin as application/octet-stream with gzip content encoding for download tests.

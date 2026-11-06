@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.
+type: test
+title: Device trust redirect test page
+summary: Empty HTML fixture in the device trust connector test data directory, presumably used for redirect handling tests.

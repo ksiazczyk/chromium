@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Two-frame test page for drag-and-drop
+summary: Test page hosting left and right frames to exercise drag-and-drop scenarios between frames.

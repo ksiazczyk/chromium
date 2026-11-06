@@ -3,3 +3,9 @@
 # found in the LICENSE file.
 
 # .sh files are considered dangerous on POSIX platforms
+
+# ---docerion
+# type: test
+# title: Dangerous .sh download test script
+# summary: Shell script fixture representing a file type that is considered dangerous on POSIX platforms in download tests.
+# ---

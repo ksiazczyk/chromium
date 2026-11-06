@@ -1,0 +1,4 @@
+# Docerion header of download-dangerous.html.
+type: test
+title: Dangerous download redirect test page
+summary: Test page that redirects to a dangerous file name passed in the query string to trigger a download infobar.
