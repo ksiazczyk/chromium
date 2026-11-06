@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM update service internal proxy header
+// summary: Declares UpdateServiceInternalProxyWinImpl, the Windows COM implementation of the internal proxy for Run and Hello calls on a single sequence.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_WIN_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_INTERNAL_PROXY_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoRunOnOsUpgradeTask header
+// summary: Declares the updater task that runs app commands registered for AutoRunOnOSUpgrade when the operating system is upgraded.
+// ---
+
 #ifndef CHROME_UPDATER_AUTO_RUN_ON_OS_UPGRADE_TASK_H_
 #define CHROME_UPDATER_AUTO_RUN_ON_OS_UPGRADE_TASK_H_
 

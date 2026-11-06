@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater App base class declaration
+// summary: Declares the abstract App class used as the main processing mode for the updater, with runloop, shutdown, and updater scope hooks for concrete apps.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_H_
 #define CHROME_UPDATER_APP_APP_H_
 

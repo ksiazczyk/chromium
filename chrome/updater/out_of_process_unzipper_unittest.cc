@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Out-of-process unzipper unit tests
+// summary: Unit tests verifying DecodeXz failure handling when the input file is missing or the output file cannot be created.
+// ---
+
 #include "chrome/updater/out_of_process_unzipper.h"
 
 #include <utility>

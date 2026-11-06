@@ -1,0 +1,4 @@
+# Docerion header of GoogleCloudManagement.admx.
+type: config
+title: Cloud Management group policy ADMX policy definitions
+summary: Defines Windows machine policies for mandatory cloud management enrollment and the enrollment token under the Google.Policies.CloudManagement namespace.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persisted data unit tests
+// summary: Unit tests covering app registration, version and fingerprint storage, mixed-case app IDs, and shared preference loading in PersistedData.
+// ---
+
 #include "chrome/updater/persisted_data.h"
 
 #include <stddef.h>

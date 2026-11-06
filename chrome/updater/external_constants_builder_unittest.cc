@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External constants builder unit tests
+// summary: Unit tests verifying that ExternalConstantsBuilder writes override values for URLs, delays, and policies that the overrider then reads back.
+// ---
+
 #include "chrome/updater/external_constants_builder.h"
 
 #include <optional>

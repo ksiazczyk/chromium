@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater server app implementation
+// summary: Implements the updater server app, including the mode check that selects between active duty, qualification, version swap, and self-uninstall operation.
+// ---
+
 #include "chrome/updater/app/app_server.h"
 
 #include <stdint.h>

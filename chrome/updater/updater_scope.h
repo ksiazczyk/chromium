@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdaterScope enum for user and system installs
+// summary: Defines the UpdaterScope enum distinguishing user and system scopes with helpers to test and stringify the scope.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATER_SCOPE_H_
 #define CHROME_UPDATER_UPDATER_SCOPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows install completion utilities implementation
+// summary: Implements Windows helpers that compute completion code priority and launch post-install command lines de-elevated for successfully installed apps.
+// ---
+
 #include "chrome/updater/app/app_install_util_win.h"
 
 #include <windows.h>

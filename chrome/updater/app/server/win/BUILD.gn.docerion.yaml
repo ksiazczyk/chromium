@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Windows updater COM server
+summary: Defines GN build targets and templates that generate user and system IDL files and compile them with MIDL for the Windows updater COM server.

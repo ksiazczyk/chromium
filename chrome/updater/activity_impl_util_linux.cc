@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux activity utility implementation
+// summary: Resolves home directory paths and active file locations on Linux, parsing /etc/passwd to enumerate home directories for system scope.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

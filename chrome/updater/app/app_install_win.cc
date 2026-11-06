@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows app install flow implementation
+// summary: Implements the Windows-specific app install flow with UI progress windows, a silent progress observer, and post-install launch actions.
+// ---
+
 #include "chrome/updater/app/app_install.h"
 
 #include <ocidl.h>

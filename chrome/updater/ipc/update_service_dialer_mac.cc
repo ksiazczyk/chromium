@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS update service dialer
+// summary: Starts the macOS update service by running the updater launcher directly for the normal and internal services.
+// ---
+
 #include "chrome/updater/ipc/update_service_dialer.h"
 
 #include <optional>

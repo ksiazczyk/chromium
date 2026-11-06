@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Change owners task POSIX implementation
+// summary: Implements the change owners task on POSIX systems by resetting ownership of registered app existence checker paths to root.
+// ---
+
 #include "chrome/updater/change_owners_task.h"
 
 #include <sys/stat.h>

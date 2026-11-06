@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install progress interface and completion codes
+// summary: Declares completion codes, completion info structs, and the AppInstallProgress observer interface typically implemented by an install progress window.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_INSTALL_PROGRESS_H_
 #define CHROME_UPDATER_APP_APP_INSTALL_PROGRESS_H_
 

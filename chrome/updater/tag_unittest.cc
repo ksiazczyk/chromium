@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tag parsing unit tests
+// summary: Unit tests for the updater tag parser, using builder helpers for TagArgs and AppArgs and covering parsing of tag strings and certificate tags.
+// ---
+
 #include "chrome/updater/tag.h"
 
 #include <stdint.h>

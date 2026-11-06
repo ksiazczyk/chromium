@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall app declarations
+// summary: Declares helpers for listing updater version executables, uninstalling non-current versions, building uninstall command lines, and the app factory.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_UNINSTALL_H_
 #define CHROME_UPDATER_APP_APP_UNINSTALL_H_
 

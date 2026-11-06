@@ -1,0 +1,4 @@
+# Docerion header of google.admx.
+type: config
+title: Google policy namespace ADMX definition
+summary: Defines the Google.Policies namespace and the parent Google category on which the updater and cloud management ADMX files build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the update-all-apps app
+// summary: Declares MakeAppUpdateApps, the factory that creates the app which updates all registered applications.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_UPDATE_APPS_H_
 #define CHROME_UPDATER_APP_APP_UPDATE_APPS_H_
 

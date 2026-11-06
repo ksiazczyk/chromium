@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal update service implementation
+// summary: Implements UpdateServiceInternal by delegating Run to the update service proxy's periodic tasks and providing a Hello wake-up call.
+// ---
+
 #include "chrome/updater/update_service_internal_impl.h"
 
 #include <string>

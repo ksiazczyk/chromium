@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metainstaller tag parsing implementation
+// summary: Parses metainstaller tag attributes such as bundle name, brand code, browser type, and per-app arguments for the updater.
+// ---
+
 #include "chrome/updater/tag.h"
 
 #include <stddef.h>

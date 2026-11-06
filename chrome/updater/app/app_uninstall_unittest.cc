@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the updater uninstall app
+// summary: Tests version executable path collection, uninstalling other versions, and building the uninstall-self command line.
+// ---
+
 #include "chrome/updater/app/app_uninstall.h"
 
 #include <optional>

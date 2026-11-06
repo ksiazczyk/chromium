@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-run on OS upgrade task
+// summary: Task that detects OS version upgrades and runs registered app commands with the previous-to-current version string.
+// ---
+
 #include "chrome/updater/auto_run_on_os_upgrade_task.h"
 
 #include <stddef.h>

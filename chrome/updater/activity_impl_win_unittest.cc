@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows activity bit unit tests
+// summary: Parameterized unit tests for reading and writing the Windows active bit registry value in both string and DWORD formats.
+// ---
+
 #include "chrome/updater/activity_impl.h"
 
 #include <string>

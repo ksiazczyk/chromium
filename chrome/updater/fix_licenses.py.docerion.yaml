@@ -1,0 +1,4 @@
+# Docerion header of fix_licenses.py.
+type: script
+title: Updater LICENSE file fixer script
+summary: Removes licenses of components not shipped in updater binaries from the generated LICENSE file and checks that restrictive licenses are absent.

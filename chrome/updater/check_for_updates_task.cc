@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check for updates task implementation
+// summary: Runs periodic update checks, skipping them when the check delay is zero, the last check was too recent, or policy suppresses updates.
+// ---
+
 #include "chrome/updater/check_for_updates_task.h"
 
 #include <string>

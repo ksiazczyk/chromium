@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update service implementation unit tests
+// summary: Unit tests for the UpdateServiceImplImpl result mapping and component ordering used by the active updater service.
+// ---
+
 #include "chrome/updater/update_service_impl_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash client implementation
+// summary: Implements the CrashClient singleton that manages the Crashpad crash report database, uploads, and platform exception handling.
+// ---
+
 #include "chrome/updater/crash_client.h"
 
 #include <stddef.h>

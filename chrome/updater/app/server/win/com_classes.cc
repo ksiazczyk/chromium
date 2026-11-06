@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM class implementations for the updater
+// summary: Implements the COM classes that expose updater state, completion status, and updater interfaces to COM clients on Windows.
+// ---
+
 #include "chrome/updater/app/server/win/com_classes.h"
 
 #include <wrl/client.h>

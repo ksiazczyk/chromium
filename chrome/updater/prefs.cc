@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater prefs implementation
+// summary: Creates global and local pref services for the updater, with mutex-protected access, retries and file permission handling.
+// ---
+
 #include "chrome/updater/prefs.h"
 
 #include <algorithm>

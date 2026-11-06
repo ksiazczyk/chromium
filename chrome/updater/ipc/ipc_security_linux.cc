@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux IPC security implementation
+// summary: Implements Linux IPC security by trusting connections from the effective user ID and configuring untrusted-process endpoint options.
+// ---
+
 #include "chrome/updater/ipc/ipc_security.h"
 
 #include <sys/types.h>

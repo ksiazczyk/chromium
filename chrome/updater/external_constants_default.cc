@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default external constants implementation
+// summary: Implements the default updater constants such as update and crash upload URLs, CRX verifier format, and timing values.
+// ---
+
 #include "chrome/updater/external_constants_default.h"
 
 #include <stdint.h>

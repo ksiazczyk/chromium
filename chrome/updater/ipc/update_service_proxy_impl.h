@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update service proxy implementation interface
+// summary: Declares the abstract UpdateServiceProxyImpl interface that connects to the active updater instance server and runs its UpdateService methods.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_IMPL_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_IMPL_H_
 

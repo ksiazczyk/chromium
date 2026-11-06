@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater service delegate class declaration
+// summary: Declares UpdaterServiceDelegate, the service delegate whose RunWindowsService function is the main entry point for the updater Windows service.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_WIN_UPDATER_SERVICE_DELEGATE_H_
 #define CHROME_UPDATER_APP_SERVER_WIN_UPDATER_SERVICE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater constants unit tests
+// summary: Verifies that policy manager source strings persisted to event history logs and Mojo responses remain stable.
+// ---
+
 #include "chrome/updater/constants.h"
 
 #include <string>

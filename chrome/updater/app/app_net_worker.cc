@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network worker app implementation
+// summary: Implements the updater network worker app, which serves fetch and download requests over Mojo and forwards progress and completion events to a connected client.
+// ---
+
 #include "chrome/updater/app/app_net_worker.h"
 
 #include <grp.h>

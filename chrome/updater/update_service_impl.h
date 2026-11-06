@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceImpl class declaration
+// summary: Declares UpdateServiceImpl, which wraps the update service delegate and enforces EULA and OEM mode checks for updater operations.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_SERVICE_IMPL_H_
 #define CHROME_UPDATER_UPDATE_SERVICE_IMPL_H_
 

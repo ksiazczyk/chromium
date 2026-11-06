@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Production external constants factory
+// summary: Provides the production CreateExternalConstants factory that returns the default constants provider.
+// ---
+
 #include <memory>
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac health checks for qualifying update service
+// summary: Implements macOS qualification health checks that verify the updater launcher can start the update service in test mode.
+// ---
+
 #include "chrome/updater/update_service_internal_impl_qualifying.h"
 
 #include <optional>

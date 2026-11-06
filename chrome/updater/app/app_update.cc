@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater self-update app implementation
+// summary: Implements the update app that acquires the setup mutex, validates the updater scope, and installs an update candidate before shutting down.
+// ---
+
 #include "chrome/updater/app/app_update.h"
 
 #include <memory>

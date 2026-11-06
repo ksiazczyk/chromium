@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup task class declaration
+// summary: Declares the CleanupTask class that performs periodic and one-time cleanup of obsolete updater files and old versions.
+// ---
+
 #ifndef CHROME_UPDATER_CLEANUP_TASK_H_
 #define CHROME_UPDATER_CLEANUP_TASK_H_
 

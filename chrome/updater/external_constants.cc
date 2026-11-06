@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External constants base class
+// summary: Implements the constructor and destructor of the ExternalConstants chain-of-responsibility base class.
+// ---
+
 #include "chrome/updater/external_constants.h"
 
 #include "base/memory/scoped_refptr.h"

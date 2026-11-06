@@ -1,0 +1,4 @@
+# Docerion header of updater_idl.template.
+type: source
+title: Updater public IDL template
+summary: IDL template defining the updater's public COM interfaces, such as IUpdateState and IUpdaterObserver, with placeholder GUIDs for per-user and per-system builds.

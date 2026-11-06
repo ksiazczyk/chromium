@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM class declarations for the updater
+// summary: Declares COM classes that remote UpdateService state, completion status, and updater interfaces for Windows IPC.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_WIN_COM_CLASSES_H_
 #define CHROME_UPDATER_APP_SERVER_WIN_COM_CLASSES_H_
 

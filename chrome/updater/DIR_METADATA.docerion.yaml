@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Updater directory metadata
+summary: Points the directory metadata for the updater folder to the shared COMMON_METADATA file.

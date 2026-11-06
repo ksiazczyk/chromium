@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater IPC support wrapper declaration
+// summary: Declares ScopedIPCSupportWrapper, which owns the IPC thread and the Mojo scoped IPC support used by the updater.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_IPC_SUPPORT_H_
 #define CHROME_UPDATER_IPC_IPC_SUPPORT_H_
 

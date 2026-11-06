@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration request type alias
+// summary: Aliases the mojom RegistrationRequest type as RegistrationRequest for updater registration data.
+// ---
+
 #ifndef CHROME_UPDATER_REGISTRATION_DATA_H_
 #define CHROME_UPDATER_REGISTRATION_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ping configurator header
+// summary: Declares CreatePingConfigurator, a lightweight Configurator intended solely for standalone pings.
+// ---
+
 #ifndef CHROME_UPDATER_PING_CONFIGURATOR_H_
 #define CHROME_UPDATER_PING_CONFIGURATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HandleInconsistentAppsTask class header
+// summary: Declares a task that reconciles apps inconsistent with updater persisted data by registering legacy apps and pinging overinstalled ones.
+// ---
+
 #ifndef CHROME_UPDATER_HANDLE_INCONSISTENT_APPS_TASK_H_
 #define CHROME_UPDATER_HANDLE_INCONSISTENT_APPS_TASK_H_
 

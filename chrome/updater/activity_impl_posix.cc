@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX activity bit implementation
+// summary: Implements reading and clearing the active bit on POSIX systems by managing per-user active files under home directories.
+// ---
+
 #include "chrome/updater/activity_impl.h"
 
 #include <fcntl.h>

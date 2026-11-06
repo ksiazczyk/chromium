@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External constants overrider unit tests
+// summary: Unit tests covering empty, full, and partial override dictionaries for the external constants overrider.
+// ---
+
 #include "chrome/updater/external_constants_override.h"
 
 #include <utility>

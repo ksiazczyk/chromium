@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy COM class implementations for Google Update compatibility
+// summary: Implements legacy COM classes that preserve backward compatibility with Google Update, including app command web and policy IPC handling.
+// ---
+
 #include "chrome/updater/app/server/win/com_classes_legacy.h"
 
 #include <windows.h>

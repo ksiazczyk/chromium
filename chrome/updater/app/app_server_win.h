@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppServerWin class declaration
+// summary: Declares AppServerWin, which manages the Windows COM server lifetime, class factory registration, RPC task posting, and shutdown handling.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_SERVER_WIN_H_
 #define CHROME_UPDATER_APP_APP_SERVER_WIN_H_
 

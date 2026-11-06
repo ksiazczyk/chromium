@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM implementation of the update service proxy
+// summary: Implements the Windows update service proxy using COM RPC, including an observer that reports update state changes and completion results.
+// ---
+
 #include "chrome/updater/ipc/update_service_proxy_win.h"
 
 #include <windows.h>

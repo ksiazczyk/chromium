@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ unit test for group policy template generation
+// summary: GTest that runs the Python template generation test and verifies the generated ADM, ADMX, and ADML files match the gold test data.
+// ---
+
 #include <string>
 #include <vector>
 

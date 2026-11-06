@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inactive update service unit tests
+// summary: Unit tests verifying that the inactive update service returns inactive or empty results for every UpdateService operation.
+// ---
+
 #include "chrome/updater/update_service_impl_inactive.h"
 
 #include <vector>

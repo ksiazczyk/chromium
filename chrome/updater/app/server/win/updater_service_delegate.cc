@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater service delegate implementation
+// summary: Implements the Windows service delegate that runs the COM server inside the Windows service or launches the wake task for the internal service.
+// ---
+
 #include "chrome/updater/app/server/win/updater_service_delegate.h"
 
 #include "base/command_line.h"

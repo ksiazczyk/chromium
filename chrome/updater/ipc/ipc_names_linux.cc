@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux IPC server name implementation
+// summary: Implements IPC server name lookups on Linux from the active-duty socket paths for the given updater scope.
+// ---
+
 #include "chrome/updater/ipc/ipc_names.h"
 
 #include <optional>

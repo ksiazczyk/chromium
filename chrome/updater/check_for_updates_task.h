@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check for updates task class declaration
+// summary: Declares the CheckForUpdatesTask class that wraps an update checker with skip logic for periodic update checks.
+// ---
+
 #ifndef CHROME_UPDATER_CHECK_FOR_UPDATES_TASK_H_
 #define CHROME_UPDATER_CHECK_FOR_UPDATES_TASK_H_
 

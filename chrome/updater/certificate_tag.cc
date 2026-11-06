@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate tag parsing implementation
+// summary: Implements parsing of PKCS#7 signed data to read and write superfluous certificate tags embedded in Authenticode-signed Windows binaries.
+// ---
+
 #include "chrome/updater/certificate_tag.h"
 
 #include <stddef.h>

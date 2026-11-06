@@ -1,0 +1,4 @@
+# Docerion header of generate_group_policy_template_adm.py.
+type: source
+title: Google Update ADM group policy template generator
+summary: Generates the Google Update ADM group policy template with policy categories, strings, and the CRLF formatting required by gpedit.msc.

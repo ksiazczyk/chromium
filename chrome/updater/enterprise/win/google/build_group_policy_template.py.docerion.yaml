@@ -1,0 +1,4 @@
+# Docerion header of build_group_policy_template.py.
+type: script
+title: Group Policy ADM/ADMX/ADML template build script
+summary: Command-line script that generates the Google Update ADM, ADMX, and ADML group policy template files for the external apps listed in public_apps.

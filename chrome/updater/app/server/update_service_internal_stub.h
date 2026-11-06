@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceInternalStub class declaration
+// summary: Declares the internal IPC stub class that listens for client Mojo connections and delegates their RPCs to an UpdateServiceInternal instance.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_UPDATE_SERVICE_INTERNAL_STUB_H_
 #define CHROME_UPDATER_APP_SERVER_UPDATE_SERVICE_INTERNAL_STUB_H_
 

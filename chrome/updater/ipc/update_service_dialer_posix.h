@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX update service dialer interface
+// summary: Declares functions to dial the update and internal services and to connect to the Mojo server on POSIX platforms.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_DIALER_POSIX_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_DIALER_POSIX_H_
 

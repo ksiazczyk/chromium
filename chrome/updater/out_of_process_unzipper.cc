@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process unzipper implementation
+// summary: Implements unzipping and Xz decoding by launching a helper updater process connected over Mojo IPC.
+// ---
+
 #include "chrome/updater/out_of_process_unzipper.h"
 
 #include <memory>

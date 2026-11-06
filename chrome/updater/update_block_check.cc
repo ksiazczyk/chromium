@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metered network update block check, non-Windows
+// summary: Non-Windows implementation of the metered network check that never blocks updates, since Linux and macOS lack metered connection detection.
+// ---
+
 #include "chrome/updater/update_block_check.h"
 
 #include <utility>

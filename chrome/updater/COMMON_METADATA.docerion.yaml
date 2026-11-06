@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Updater issue tracker metadata
+summary: Sets the Monorail component, team email, and Buganizer component used for bugs and reviews in the updater directory.

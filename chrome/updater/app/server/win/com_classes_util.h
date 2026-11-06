@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM validation helper declarations
+// summary: Declares validation helpers for COM caller access checks and registration parameters used by the Windows updater COM classes.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_WIN_COM_CLASSES_UTIL_H_
 #define CHROME_UPDATER_APP_SERVER_WIN_COM_CLASSES_UTIL_H_
 

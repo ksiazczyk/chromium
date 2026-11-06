@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: IDL generator for user and system interfaces
+# summary: Generates IDL files from templates, producing distinct user and system interface identities from BEGIN_INTERFACE blocks.
+# ---
+
 """A tool for generating IDL files from a template, with distinct user and
 system identities for interfaces that are decorated with `BEGIN_INTERFACE` and
 `END_INTERFACE`.

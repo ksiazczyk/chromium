@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chromium updater overview
+summary: Introduces the desktop updater for Chrome and other client software, its mission, supported platforms, and where code, docs, and discussions live.
+---
+
 An updater for desktop client software using Chromium code and tools.
 
 *   The code lives in //chrome/updater.

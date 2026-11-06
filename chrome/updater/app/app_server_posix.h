@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppServerPosix class declaration
+// summary: Declares the AppServerPosix subclass of AppServer that provides POSIX behavior for the updater server and holds its active duty stubs.
+// ---
+
 #ifndef CHROME_UPDATER_APP_APP_SERVER_POSIX_H_
 #define CHROME_UPDATER_APP_APP_SERVER_POSIX_H_
 

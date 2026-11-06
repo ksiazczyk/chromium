@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater uninstall app
+// summary: Implements the uninstall app that enumerates updater version executables, removes outdated versions, and drives full uninstallation per scope.
+// ---
+
 #include "chrome/updater/app/app_uninstall.h"
 
 #include <optional>

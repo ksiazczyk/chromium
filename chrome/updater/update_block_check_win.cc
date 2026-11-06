@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows metered network update block check
+// summary: Windows implementation that queries the Network List Manager to decide whether background updates should be blocked on metered connections.
+// ---
+
 #include "chrome/updater/update_block_check.h"
 
 #include <netlistmgr.h>

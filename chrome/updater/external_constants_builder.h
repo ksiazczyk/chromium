@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External constants builder header
+// summary: Declares the ExternalConstantsBuilder used to set or clear override values for updater external constants and write them to a file.
+// ---
+
 #ifndef CHROME_UPDATER_EXTERNAL_CONSTANTS_BUILDER_H_
 #define CHROME_UPDATER_EXTERNAL_CONSTANTS_BUILDER_H_
 

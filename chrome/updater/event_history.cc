@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater event history logging implementation
+// summary: Implements the updater history log API, serializing update events to a JSON log file with rotation and platform-specific log permissions.
+// ---
+
 #include "chrome/updater/event_history.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of zip.gni.
+type: config
+title: GN template for zipping artifacts with build stamp
+summary: Defines the artifact_zip GN template that packages input files into a zip archive stamped with the Chrome version, OS, and CPU build information.

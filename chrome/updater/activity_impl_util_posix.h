@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX activity utility header
+// summary: Declares GetHomeDirPaths and GetActiveFile helpers shared by the POSIX activity implementations.
+// ---
+
 #ifndef CHROME_UPDATER_ACTIVITY_IMPL_UTIL_POSIX_H_
 #define CHROME_UPDATER_ACTIVITY_IMPL_UTIL_POSIX_H_
 

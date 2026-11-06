@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for legacy COM app command classes
+// summary: Unit tests for the legacy app command web COM class, covering command execution, timeouts, and ping sender behavior.
+// ---
+
 #include "chrome/updater/app/server/win/com_classes_legacy.h"
 
 #include <windows.h>

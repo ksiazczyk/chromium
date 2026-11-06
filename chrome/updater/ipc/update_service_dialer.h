@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform selector for the update service dialer
+// summary: Includes the Windows or POSIX update service dialer header depending on the target platform.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_DIALER_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_DIALER_H_
 

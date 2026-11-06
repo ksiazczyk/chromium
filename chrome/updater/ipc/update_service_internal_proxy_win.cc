@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM implementation of the update service internal proxy
+// summary: Implements the Windows COM-based internal proxy that connects to the updater server and invokes Run and Hello through IUpdaterInternal with callback support.
+// ---
+
 #include "chrome/updater/ipc/update_service_internal_proxy_win.h"
 
 #include <windows.h>

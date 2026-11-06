@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM update service proxy declaration
+// summary: Declares UpdateServiceProxyWinImpl, the Windows COM RPC implementation of UpdateServiceProxyImpl for talking to the updater service.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_WIN_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_WIN_H_
 

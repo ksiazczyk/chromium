@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install flow implementation
+// summary: Implements the app install flow that sets up the updater and installs an application through the UpdateService, using a controller for UI and RPC interactions.
+// ---
+
 #include "chrome/updater/app/app_install.h"
 
 #include <optional>

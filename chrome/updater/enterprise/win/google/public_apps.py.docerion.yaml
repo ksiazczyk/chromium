@@ -1,0 +1,4 @@
+# Docerion header of public_apps.py.
+type: source
+title: Publicly announced apps list for updater Group Policy templates
+summary: Defines the EXTERNAL_APPS list of publicly announced apps with IDs and policy text used to generate app-specific entries in the updater ADMX and ADML Group Policy template files.

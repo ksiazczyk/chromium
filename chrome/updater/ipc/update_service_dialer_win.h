@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows update service dialer interface
+// summary: Declares connection functions, error classification, and pipe selection helpers for connecting to the Windows update service.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_DIALER_WIN_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_DIALER_WIN_H_
 

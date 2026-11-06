@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater IPC security declarations
+// summary: Declares IPC security helpers for trusting connections and creating secured named Mojo server endpoint options, including Windows integrity-level checks.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_IPC_SECURITY_H_
 #define CHROME_UPDATER_IPC_IPC_SECURITY_H_
 

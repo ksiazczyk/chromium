@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppUtils unit tests
+// summary: Unit tests verifying the ShouldUninstall logic for updater and enterprise companion app IDs.
+// ---
+
 #include "chrome/updater/app/app_utils.h"
 
 #include <string>

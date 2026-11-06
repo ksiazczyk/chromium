@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceProxy interface for the updater IPC client
+// summary: Declares UpdateServiceProxy, an UpdateService that connects to the active updater instance server and runs its implementation of update service methods.
+// ---
+
 #ifndef CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_H_
 #define CHROME_UPDATER_IPC_UPDATE_SERVICE_PROXY_H_
 

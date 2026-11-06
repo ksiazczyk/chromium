@@ -1,0 +1,4 @@
+# Docerion header of updater_internal_idl.template.
+type: source
+title: Updater internal IDL template
+summary: IDL template defining the updater's private COM interfaces and type library, including IUpdaterInternal and its per-user and per-system classes.

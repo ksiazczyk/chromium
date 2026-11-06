@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive internal update service implementation
+// summary: Implements an inactive UpdateServiceInternal whose Run and Hello calls simply post their callbacks without doing work.
+// ---
+
 #include "chrome/updater/update_service_internal_impl_inactive.h"
 
 #include "base/functional/callback.h"

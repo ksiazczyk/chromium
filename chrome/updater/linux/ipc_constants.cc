@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater IPC socket path definitions
+// summary: Defines helpers that compute user- and system-scope socket directory and socket paths used for updater IPC on Linux.
+// ---
+
 #include "chrome/updater/linux/ipc_constants.h"
 
 #include "base/files/file_path.h"

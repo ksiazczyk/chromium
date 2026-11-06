@@ -1,0 +1,4 @@
+# Docerion header of apply_updater_branding.gni.
+type: config
+title: Updater branding GN template
+summary: GN template that applies updater branding substitutions to files via process_version, passing browser and company branding variables.

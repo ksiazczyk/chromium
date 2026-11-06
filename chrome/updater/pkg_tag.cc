@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS package tag parsing
+// summary: Implements parsing of macOS .pkg (XAR) archives, including headers, table of contents and package trailers, for updater tagging.
+// ---
+
 #include "chrome/updater/pkg_tag.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installer unit tests
+// summary: Unit tests for the Installer class verifying CRX component creation, persisted metadata, and plist-based lookups.
+// ---
+
 #include "chrome/updater/installer.h"
 
 #include <memory>

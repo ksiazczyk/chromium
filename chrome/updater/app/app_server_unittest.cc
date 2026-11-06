@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the updater app server
+// summary: gtest cases covering self-uninstall, self-promotion, and related AppServer behavior using a mocked AppServer test subclass and test prefs.
+// ---
+
 #include "chrome/updater/app/app_server.h"
 
 #include <optional>

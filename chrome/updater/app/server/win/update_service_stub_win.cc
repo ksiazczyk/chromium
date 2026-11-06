@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceStubWin implementation
+// summary: Implements UpdateServiceStubWin, forwarding UpdateService calls such as updates, installs, and policy fetches to an implementation with task listeners.
+// ---
+
 #include "chrome/updater/app/server/win/update_service_stub_win.h"
 
 #include "base/check.h"

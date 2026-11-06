@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metered network update block check API
+// summary: Declares ShouldBlockUpdateForMeteredNetwork, which reports whether a background update should be blocked because the device is on a metered network.
+// ---
+
 #ifndef CHROME_UPDATER_UPDATE_BLOCK_CHECK_H_
 #define CHROME_UPDATER_UPDATE_BLOCK_CHECK_H_
 

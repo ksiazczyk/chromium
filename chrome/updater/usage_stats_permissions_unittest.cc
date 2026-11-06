@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for usage stats permissions
+// summary: Unit tests covering usage stats and remote event logging permission logic using fake apps and crashpad or registry fixtures on macOS and Windows.
+// ---
+
 #include "chrome/updater/usage_stats_permissions.h"
 
 #include <memory>

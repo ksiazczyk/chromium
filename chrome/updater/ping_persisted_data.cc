@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ping persisted data implementation
+// summary: Implements a lightweight PersistedData subclass whose methods are mostly NOTREACHED and which is intended for standalone update pings.
+// ---
+
 #include "chrome/updater/ping_persisted_data.h"
 
 #include <memory>

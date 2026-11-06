@@ -1,0 +1,4 @@
+# Docerion header of setup_mac.mm.
+type: source
+title: macOS implementation of updater installation
+summary: Installs the updater candidate on macOS after rejecting unsupported macOS versions with an error code.

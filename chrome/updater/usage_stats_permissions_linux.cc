@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux stub for usage stats permissions
+// summary: Linux implementation that always reports usage stats and remote event logging as disabled.
+// ---
+
 #include "chrome/updater/usage_stats_permissions.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceStub class declaration
+// summary: Declares the IPC stub class exposing UpdateService methods to clients over a NamedMojoIpcServer endpoint scoped by updater scope.
+// ---
+
 #ifndef CHROME_UPDATER_APP_SERVER_UPDATE_SERVICE_STUB_H_
 #define CHROME_UPDATER_APP_SERVER_UPDATE_SERVICE_STUB_H_
 

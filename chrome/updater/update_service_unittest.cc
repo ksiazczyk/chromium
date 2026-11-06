@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update service state unit tests
+// summary: Unit tests for UpdateService::UpdateState equality, version handling, and stream output formatting.
+// ---
+
 #include "chrome/updater/update_service.h"
 
 #include <sstream>

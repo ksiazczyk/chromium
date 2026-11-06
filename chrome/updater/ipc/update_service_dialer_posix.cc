@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX Mojo connection for the update service
+// summary: Connects to the named Mojo IPC server on POSIX platforms, dialing the service and retrying with backoff until a deadline.
+// ---
+
 #include "chrome/updater/ipc/update_service_dialer.h"
 
 #include <optional>

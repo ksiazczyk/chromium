@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process patcher implementation
+// summary: Implements update patching by launching a helper updater process connected over Mojo IPC and running Zucchini or puffin patch operations.
+// ---
+
 #include "chrome/updater/out_of_process_patcher.h"
 
 #include <memory>

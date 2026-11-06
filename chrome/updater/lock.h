@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater scoped lock header
+// summary: Declares CreateScopedLock, which returns a named system lock that no other process on the machine can acquire while held.
+// ---
+
 #ifndef CHROME_UPDATER_LOCK_H_
 #define CHROME_UPDATER_LOCK_H_
 

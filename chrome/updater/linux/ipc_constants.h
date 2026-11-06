@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater IPC socket path declarations
+// summary: Declares functions returning active duty, internal, and activation socket paths for user- and system-scope updater IPC.
+// ---
+
 #ifndef CHROME_UPDATER_LINUX_IPC_CONSTANTS_H_
 #define CHROME_UPDATER_LINUX_IPC_CONSTANTS_H_
 
