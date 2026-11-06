@@ -1,0 +1,4 @@
+# Docerion header of IDS_PAGE_INFO_COOKIES_HEADER.png.sha1.
+type: data
+title: Page info cookies header screenshot SHA1
+summary: Stores the SHA1 checksum of the page info cookies header PNG so the reference screenshot can be fetched for UI tests.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_X509_SUBJECT_KEYID.png.sha1.
+type: data
+title: IDS_CERT_X509_SUBJECT_KEYID SHA1 hash
+summary: Stores the SHA1 hash of the PNG image associated with the IDS_CERT_X509_SUBJECT_KEYID page info string.

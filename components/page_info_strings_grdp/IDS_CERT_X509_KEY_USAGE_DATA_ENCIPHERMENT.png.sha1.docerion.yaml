@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_X509_KEY_USAGE_DATA_ENCIPHERMENT.png.sha1.
+type: asset
+title: SHA-1 checksum for key usage data encipherment image
+summary: Stores the SHA-1 checksum used to verify the PNG image for the key usage data encipherment string in the page info resources.
