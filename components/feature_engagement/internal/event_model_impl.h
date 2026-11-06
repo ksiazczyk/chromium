@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventModelImpl class declaration
+// summary: Declares EventModelImpl, the default EventModel implementation backed by an event store and a storage validator with an in-memory event map.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_MODEL_IMPL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_MODEL_IMPL_H_
 

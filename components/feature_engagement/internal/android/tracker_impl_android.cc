@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackerImplAndroid JNI bridge implementation
+// summary: Implements the Android JNI bridge for the feature engagement tracker, forwarding Java calls such as NotifyEvent and ShouldTriggerHelpUi to the native C++ Tracker.
+// ---
+
 #include "components/feature_engagement/internal/android/tracker_impl_android.h"
 
 #include <memory>

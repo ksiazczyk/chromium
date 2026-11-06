@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlockedIphFeatures unit tests
+// summary: Unit tests for BlockedIphFeatures covering default values, scoped blocking with exceptions and command line propagation of allowed features.
+// ---
+
 #include "components/feature_engagement/internal/blocked_iph_features.h"
 
 #include "base/base_switches.h"

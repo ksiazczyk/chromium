@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the persistent event store
+// summary: Unit tests for PersistentEventStore that verify initialization, loading, and event handling using a fake ProtoDatabase along with histogram assertions.
+// ---
+
 #include "components/feature_engagement/internal/persistent_event_store.h"
 
 #include <map>

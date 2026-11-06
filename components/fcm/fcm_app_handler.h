@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM app handler interface
+// summary: Declares the FcmAppHandler interface through which features receive FCM messages, message deletion events and installation ID updates.
+// ---
+
 #ifndef COMPONENTS_FCM_FCM_APP_HANDLER_H_
 #define COMPONENTS_FCM_FCM_APP_HANDLER_H_
 

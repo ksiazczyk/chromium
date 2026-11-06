@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NeverAvailabilityModel implementation
+// summary: Implements an availability model that becomes ready after initialization but never reports availability data for any feature.
+// ---
+
 #include "components/feature_engagement/internal/never_availability_model.h"
 
 #include <optional>

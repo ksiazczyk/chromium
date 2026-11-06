@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the initialization-aware event model
+// summary: Tests InitAwareEventModel against a mocked EventModel, covering pass-through behavior, queued increments, and initialization handling.
+// ---
+
 #include "components/feature_engagement/internal/init_aware_event_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent availability store class declaration
+// summary: Declares PersistentAvailabilityStore, which loads and updates the availability day for registered features in a proto database.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_PERSISTENT_AVAILABILITY_STORE_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_PERSISTENT_AVAILABILITY_STORE_H_
 

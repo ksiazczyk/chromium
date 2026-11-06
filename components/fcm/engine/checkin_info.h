@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckinInfo class declaration
+// summary: Declares CheckinInfo, which stores the device android_id, secret security token, and a legacy accounts_set flag used for check-in.
+// ---
+
 #ifndef COMPONENTS_FCM_ENGINE_CHECKIN_INFO_H_
 #define COMPONENTS_FCM_ENGINE_CHECKIN_INFO_H_
 

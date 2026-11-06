@@ -4,6 +4,12 @@
 //
 // feature_engagement::AvailabilityModel content.
 
+// ---docerion
+// type: source
+// title: Availability proto for feature engagement
+// summary: Protobuf definition of the Availability message, which stores a feature name and the day the feature became available for the AvailabilityModel.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

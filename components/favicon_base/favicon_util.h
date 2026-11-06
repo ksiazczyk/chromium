@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility
+// summary: Declares favicon helpers for the scales favicons should be fetched at, building images from PNG frames, and resizing bitmap results to an exact pixel size.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_FAVICON_UTIL_H_
 #define COMPONENTS_FAVICON_BASE_FAVICON_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display lock controller implementation unit tests
+// summary: Unit tests verifying display locking behavior with no locks, a single lock, and multiple outstanding lock handles.
+// ---
+
 #include "components/feature_engagement/internal/display_lock_controller_impl.h"
 
 #include <memory>

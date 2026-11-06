@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the fcm component
+summary: Sets include rules for the directory, allowing dependencies such as keyed_service and gcm while forbidding the legacy gcm_driver component.

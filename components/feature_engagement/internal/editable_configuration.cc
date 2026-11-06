@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editable configuration implementation
+// summary: Implements a manually editable in-product help configuration store for features, groups and allowed event prefixes.
+// ---
+
 #include "components/feature_engagement/internal/editable_configuration.h"
 
 #include <map>

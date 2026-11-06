@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NeverAvailabilityModel class declaration
+// summary: Declares an AvailabilityModel subclass that never holds availability data and becomes ready once initialized.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_NEVER_AVAILABILITY_MODEL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_NEVER_AVAILABILITY_MODEL_H_
 

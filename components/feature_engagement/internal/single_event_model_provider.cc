@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single event model provider implementation
+// summary: Implements SingleEventModelProvider, the default EventModelProvider that delegates initialization and reader or writer access to a single underlying event model.
+// ---
+
 #include "components/feature_engagement/internal/single_event_model_provider.h"
 
 #include "base/functional/bind.h"

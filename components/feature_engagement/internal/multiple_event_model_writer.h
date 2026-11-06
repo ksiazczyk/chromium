@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event model writer for profile and device models
+// summary: Declares MultipleEventModelWriter, an EventModelWriter that applies write operations to both a profile and a device event model.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_MULTIPLE_EVENT_MODEL_WRITER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_MULTIPLE_EVENT_MODEL_WRITER_H_
 

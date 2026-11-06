@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestingClockTimeProvider class declaration
+// summary: Declares TestingClockTimeProvider, a test-only TimeProvider backed by a base::Clock with a fixed initial time.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TESTING_CLOCK_TIME_PROVIDER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TESTING_CLOCK_TIME_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the multiple event model provider
+// summary: Tests MultipleEventModelProvider with mocked profile and device event models, covering successful and failed initialization scenarios.
+// ---
+
 #include "components/feature_engagement/internal/multiple_event_model_provider.h"
 
 #include "base/files/scoped_temp_dir.h"

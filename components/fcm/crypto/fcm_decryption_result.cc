@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM decryption result to string mapping
+// summary: Implements ToFcmDecryptionResultDetailsString, which maps each FcmDecryptionResult enum value to a human-readable message describing the outcome of decrypting an FCM push message.
+// ---
+
 #include "components/fcm/crypto/fcm_decryption_result.h"
 
 #include "base/notreached.h"

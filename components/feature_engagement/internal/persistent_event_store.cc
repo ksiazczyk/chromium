@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent event store implementation
+// summary: Implements a persistent event store backed by a LevelDB proto database that loads, writes, and deletes feature engagement events.
+// ---
+
 #include "components/feature_engagement/internal/persistent_event_store.h"
 
 #include <vector>

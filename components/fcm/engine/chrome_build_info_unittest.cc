@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBuildInfo unit tests
+// summary: Unit tests for converting ChromeBuildInfo to the checkin protobuf, including unspecified platforms defaulting to Linux.
+// ---
+
 #include "components/fcm/engine/chrome_build_info.h"
 
 #include "google_apis/gcm/protocol/android_checkin.pb.h"

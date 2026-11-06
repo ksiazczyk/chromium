@@ -1,3 +1,12 @@
+---
+type: readme
+title: Feature Engagement
+summary: Explains the In-Product Help backend, how to develop and configure IPH features, the configuration format, demo mode, grouping, and testing.
+relations:
+  - references /chrome/browser/feature_engagement/non_iph_promo.h
+  - references /components/user_education/README.md
+---
+
 # Feature Engagement
 
 The Feature Engagement component provides a client-side backend for displaying

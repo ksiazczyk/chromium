@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'FcmBridge: JNI bridge between native FCM driver and Android FCM services'
+// summary: Java bridge for FcmDriverAndroid that manages JNI communication between C++ and Android FCM/Firebase services, performing disk and network operations on background threads and replying asynchronously.
+// ---
+
 package org.chromium.components.fcm;
 
 import androidx.annotation.WorkerThread;

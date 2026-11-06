@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureConfigEventStorageValidator implementation
+// summary: Implements storage rules derived from feature and group configurations, determining which event names and prefixes to store and how long to keep them.
+// ---
+
 #include "components/feature_engagement/internal/feature_config_event_storage_validator.h"
 
 #include <unordered_map>

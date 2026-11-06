@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedIphFeatures implementation
+// summary: Implements the per-process singleton that tracks globally blocked IPH features, allow-listed exceptions and command line propagation.
+// ---
+
 #include "components/feature_engagement/internal/blocked_iph_features.h"
 
 #include <vector>

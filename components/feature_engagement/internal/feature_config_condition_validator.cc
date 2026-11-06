@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureConfigConditionValidator implementation
+// summary: Implements condition evaluation for showing in-product help, checking event models, session rates, availability, display locks, snooze state, and priority notifications.
+// ---
+
 #include "components/feature_engagement/internal/feature_config_condition_validator.h"
 
 #include <algorithm>

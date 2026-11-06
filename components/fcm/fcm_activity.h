@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM activity record definitions
+// summary: Defines structs describing FCM events such as checkins, connections, registrations, message receiving and sending, and decryption failures.
+// ---
+
 #ifndef COMPONENTS_FCM_FCM_ACTIVITY_H_
 #define COMPONENTS_FCM_FCM_ACTIVITY_H_
 

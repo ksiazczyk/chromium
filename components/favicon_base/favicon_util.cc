@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility implementation
+// summary: Implements favicon helpers that build gfx::Image objects from PNG favicon frames at requested sizes and scale factors and resize bitmap results.
+// ---
+
 #include "components/favicon_base/favicon_util.h"
 
 #include <stddef.h>

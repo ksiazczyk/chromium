@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackerImpl class declaration
+// summary: Declares TrackerImpl, the internal Tracker implementation coordinating event models, availability, configuration and display locking.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TRACKER_IMPL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TRACKER_IMPL_H_
 

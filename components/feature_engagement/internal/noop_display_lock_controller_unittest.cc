@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the noop display lock controller
+// summary: Verifies that the noop display lock controller never lets callers acquire a lock and never reports the display as locked.
+// ---
+
 #include "components/feature_engagement/internal/noop_display_lock_controller.h"
 
 #include "components/feature_engagement/public/tracker.h"

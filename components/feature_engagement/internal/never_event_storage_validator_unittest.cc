@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NeverEventStorageValidator
+// summary: Unit tests verifying that the never event storage validator rejects storing and keeping events regardless of the day values.
+// ---
+
 #include "components/feature_engagement/internal/never_event_storage_validator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

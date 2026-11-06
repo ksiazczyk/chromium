@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event storage migration implementation
+// summary: Implements migration of event storage from the profile database to the device database, updating the device event model and recording status histograms.
+// ---
+
 #include "components/feature_engagement/internal/event_storage_migration.h"
 
 #include "base/barrier_closure.h"

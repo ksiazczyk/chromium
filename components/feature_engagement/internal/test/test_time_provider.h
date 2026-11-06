@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test time provider class declaration
+// summary: Declares TestTimeProvider, a TimeProvider override that lets tests set the current day and time.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TEST_TEST_TIME_PROVIDER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TEST_TEST_TIME_PROVIDER_H_
 

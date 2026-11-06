@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcmInternalsBuilder class declaration
+// summary: Declares a virtual helper that builds FCM/GCM engine internals so unit tests can inject fake versions.
+// ---
+
 #ifndef COMPONENTS_FCM_ENGINE_FCM_INTERNALS_BUILDER_H_
 #define COMPONENTS_FCM_ENGINE_FCM_INTERNALS_BUILDER_H_
 

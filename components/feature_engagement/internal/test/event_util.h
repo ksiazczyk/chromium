@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event test utility declarations
+// summary: Declares helpers for setting event and snooze counts and for verifying and comparing events in feature engagement tests.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TEST_EVENT_UTIL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_TEST_EVENT_UTIL_H_
 

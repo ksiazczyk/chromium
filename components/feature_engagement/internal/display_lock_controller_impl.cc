@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display lock controller implementation
+// summary: Implements acquisition, release and tracking of display locks so in-product help is blocked while locks are outstanding.
+// ---
+
 #include "components/feature_engagement/internal/display_lock_controller_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvailabilityModelImpl implementation
+// summary: Implements AvailabilityModel by loading feature availability data from a persistent availability store and reporting readiness.
+// ---
+
 #include "components/feature_engagement/internal/availability_model_impl.h"
 
 #include <memory>

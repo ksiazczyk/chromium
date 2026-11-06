@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureConfigEventStorageValidator class declaration
+// summary: Declares an event storage validator driven by feature and group configurations, tracking allowed event names, prefixes, and longest storage times.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_FEATURE_CONFIG_EVENT_STORAGE_VALIDATOR_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_FEATURE_CONFIG_EVENT_STORAGE_VALIDATOR_H_
 

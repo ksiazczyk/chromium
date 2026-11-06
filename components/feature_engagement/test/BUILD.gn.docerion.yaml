@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature engagement test support build definition
+summary: GN build file defining the test_support source set that bundles the mock tracker, test tracker, and scoped IPH feature list helpers with their dependencies.

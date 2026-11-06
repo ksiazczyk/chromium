@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventStorageValidator interface
+// summary: Interface that checks storage conditions for events, deciding whether new events should be stored and old ones kept during database load.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_STORAGE_VALIDATOR_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_STORAGE_VALIDATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent availability store implementation
+// summary: Implements loading and updating of feature availability days in a LevelDB proto database, adding newly enabled features and deleting stale or disabled entries.
+// ---
+
 #include "components/feature_engagement/internal/persistent_availability_store.h"
 
 #include <memory>

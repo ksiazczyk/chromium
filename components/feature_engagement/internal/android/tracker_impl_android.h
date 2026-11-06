@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackerImplAndroid and DisplayLockHandleAndroid JNI bridge declarations
+// summary: Declares the JNI bridge classes that connect Java TrackerImpl and DisplayLockHandle objects to the native C++ feature engagement tracker implementation.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_ANDROID_TRACKER_IMPL_ANDROID_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_ANDROID_TRACKER_IMPL_ANDROID_H_
 

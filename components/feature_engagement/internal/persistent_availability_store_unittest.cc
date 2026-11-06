@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the persistent availability store
+// summary: Tests loading and updating of the availability store using a fake database, covering init failures, load failures, and feature filtering.
+// ---
+
 #include "components/feature_engagement/internal/persistent_availability_store.h"
 
 #include <stdint.h>

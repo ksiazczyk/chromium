@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackerImpl unit tests
+// summary: Extensive unit tests covering TrackerImpl behavior for triggering, dismissing, snoozing, event tracking and initialization.
+// ---
+
 #include "components/feature_engagement/internal/tracker_impl.h"
 
 #include <map>

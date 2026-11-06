@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test tracker factory declarations
+// summary: Declares CreateTestTracker, which provides a Tracker with all non-relevant conditions true for testing per-feature configurations, optionally with an event exporter.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_TEST_TEST_TRACKER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_TEST_TEST_TRACKER_H_
 

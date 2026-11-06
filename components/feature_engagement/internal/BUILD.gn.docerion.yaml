@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the feature engagement internal library
+summary: Defines the GN static library and unit test targets, listing sources and dependencies for the feature engagement internal component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventModel interface
+// summary: Declares the EventModel interface that combines the event model reader and writer and adds model initialization with a completion callback.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_MODEL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition validator result implementation
+// summary: Implements the ConditionValidator Result struct that aggregates whether all in-product help display conditions are met.
+// ---
+
 #include "components/feature_engagement/internal/condition_validator.h"
 
 #include <ostream>

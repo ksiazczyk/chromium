@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback icon style declarations
+// summary: Declares the FallbackIconStyle struct for letter-tile fallback icons and a helper that sets the background from a bitmap's dominant color.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_FALLBACK_ICON_STYLE_H_
 #define COMPONENTS_FAVICON_BASE_FALLBACK_ICON_STYLE_H_
 

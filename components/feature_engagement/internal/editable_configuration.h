@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editable configuration header
+// summary: Declares EditableConfiguration, a Configuration populated via SetConfiguration calls, suited for simple setup and tests.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EDITABLE_CONFIGURATION_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EDITABLE_CONFIGURATION_H_
 

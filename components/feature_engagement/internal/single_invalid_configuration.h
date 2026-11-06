@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single invalid configuration class declaration
+// summary: Declares SingleInvalidConfiguration, a Configuration subclass that returns the same invalid feature and group configs for any lookup.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_SINGLE_INVALID_CONFIGURATION_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_SINGLE_INVALID_CONFIGURATION_H_
 

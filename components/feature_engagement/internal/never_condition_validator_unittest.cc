@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NeverConditionValidator
+// summary: Unit tests verifying that the never condition validator never reports a feature as meeting its conditions and holds no pending priority notification.
+// ---
+
 #include "components/feature_engagement/internal/never_condition_validator.h"
 
 #include <string>

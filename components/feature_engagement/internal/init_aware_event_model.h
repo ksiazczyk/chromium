@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initialization-aware event model wrapper
+// summary: Declares InitAwareEventModel, an EventModel wrapper that buffers event increments until the underlying model has been initialized.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_INIT_AWARE_EVENT_MODEL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_INIT_AWARE_EVENT_MODEL_H_
 

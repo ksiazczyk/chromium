@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NeverConditionValidator implementation
+// summary: Implements a condition validator whose MeetsConditions always fails and whose notification and priority methods are no-ops.
+// ---
+
 #include "components/feature_engagement/internal/never_condition_validator.h"
 
 #include <optional>

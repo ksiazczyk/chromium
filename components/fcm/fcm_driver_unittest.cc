@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FCM driver unit tests
+// summary: Unit test exercising adding and removing an FCM app handler on FcmDriver, currently serving mainly as a build check.
+// ---
+
 #include "components/fcm/fcm_driver.h"
 
 #include <memory>

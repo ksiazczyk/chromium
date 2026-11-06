@@ -4,6 +4,12 @@
 //
 // feature_engagement::EventModel content.
 
+// ---docerion
+// type: source
+// title: Feature event proto for feature engagement
+// summary: Protobuf definition of the Event message, which records per-day event counts and snooze state for the feature engagement EventModel.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

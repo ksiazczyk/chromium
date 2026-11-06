@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon callback typedefs
+// summary: Defines once-callback typedefs for favicon image, raw bitmap, large icon, and Google favicon server request results.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_FAVICON_CALLBACK_H_
 #define COMPONENTS_FAVICON_BASE_FAVICON_CALLBACK_H_
 

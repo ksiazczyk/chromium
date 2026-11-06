@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the single invalid configuration
+// summary: Unit tests verifying that SingleInvalidConfiguration reports invalid configurations for arbitrary features and groups.
+// ---
+
 #include "components/feature_engagement/internal/single_invalid_configuration.h"
 
 #include "base/feature_list.h"

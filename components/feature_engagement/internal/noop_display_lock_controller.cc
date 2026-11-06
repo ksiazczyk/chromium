@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noop display lock controller implementation
+// summary: Implements a display lock controller that never grants display locks and always reports the display as unlocked.
+// ---
+
 #include "components/feature_engagement/internal/noop_display_lock_controller.h"
 
 #include "components/feature_engagement/public/tracker.h"

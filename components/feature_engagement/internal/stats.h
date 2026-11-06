@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement metrics helpers and enums
+// summary: Declares stats helpers for feature engagement metrics, including the TriggerHelpUIResult enum, store type suffixes, and recording functions for UI triggers and database events.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_STATS_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_STATS_H_
 

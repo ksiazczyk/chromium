@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedIphFeatures class declaration
+// summary: Declares a thread-safe singleton recording which in-product help features are blocked or allow-listed, primarily used by tests.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_BLOCKED_IPH_FEATURES_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_BLOCKED_IPH_FEATURES_H_
 

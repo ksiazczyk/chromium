@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon frame selection
+// summary: Declares CreateFaviconImageSkia and SelectFaviconFrameIndices, which choose the best favicon bitmaps for a desired size and report a match score.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_SELECT_FAVICON_FRAMES_H_
 #define COMPONENTS_FAVICON_BASE_SELECT_FAVICON_FRAMES_H_
 

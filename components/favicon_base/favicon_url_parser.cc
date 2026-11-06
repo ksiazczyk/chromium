@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon URL path parser implementation
+// summary: Implements parsing of favicon request paths, supporting legacy and newer formats to extract page or icon URLs, sizes in DIP, and device scale factors.
+// ---
+
 #include "components/favicon_base/favicon_url_parser.h"
 
 #include <string_view>

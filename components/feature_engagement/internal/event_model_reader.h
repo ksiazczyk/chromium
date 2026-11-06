@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventModelReader interface
+// summary: Declares the EventModelReader interface for querying model readiness, event counts within a day window, and snooze state.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_MODEL_READER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_MODEL_READER_H_
 

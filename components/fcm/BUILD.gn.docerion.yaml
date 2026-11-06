@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the fcm component
+summary: Defines the fcm static library with its sources and dependencies, plus a unit_tests source set that adds Android-specific tests on Android.

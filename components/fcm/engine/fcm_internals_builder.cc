@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcmInternalsBuilder implementation
+// summary: Creates the clock, MCS client, and connection factory instances that the FCM engine needs to operate.
+// ---
+
 #include "components/fcm/engine/fcm_internals_builder.h"
 
 #include <utility>

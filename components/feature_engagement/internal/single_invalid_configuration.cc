@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single invalid configuration implementation
+// summary: Implements SingleInvalidConfiguration, a Configuration that always returns a single invalid feature and group configuration with empty registered config maps.
+// ---
+
 #include "components/feature_engagement/internal/single_invalid_configuration.h"
 
 #include "build/build_config.h"

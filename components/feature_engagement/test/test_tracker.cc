@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test tracker factory implementation
+// summary: Builds a Tracker wired with in-memory event storage and permissive defaults so tests can exercise feature-specific engagement configurations.
+// ---
+
 #include "components/feature_engagement/test/test_tracker.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: FCM Android build targets
+summary: Defines JNI header generation, the fcm_java Android library with its Firebase and base dependencies, and Robolectric JUnit tests for the FCM component.

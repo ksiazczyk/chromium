@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FcmDecryptionResult enum for incoming message decryption
+// summary: Defines the FcmDecryptionResult enum of decryption outcomes recorded via UMA and declares the function converting results to detail strings.
+// ---
+
 #ifndef COMPONENTS_FCM_CRYPTO_FCM_DECRYPTION_RESULT_H_
 #define COMPONENTS_FCM_CRYPTO_FCM_DECRYPTION_RESULT_H_
 

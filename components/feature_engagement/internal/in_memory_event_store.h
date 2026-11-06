@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory event store for feature engagement
+// summary: Declares InMemoryEventStore, an EventStore implementation that keeps all events in memory, loads them once, and ignores subsequent write calls.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_IN_MEMORY_EVENT_STORE_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_IN_MEMORY_EVENT_STORE_H_
 

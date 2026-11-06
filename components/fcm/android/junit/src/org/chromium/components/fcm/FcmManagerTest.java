@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FcmManagerTest
+// summary: Robolectric unit tests covering FcmManager lazy initialization, thread assertions, reuse of an existing Firebase app, and installation ID fetch and delete behavior.
+// ---
+
 package org.chromium.components.fcm;
 
 import static org.junit.Assert.assertEquals;

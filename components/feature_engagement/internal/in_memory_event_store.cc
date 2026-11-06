@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryEventStore implementation
+// summary: Implements a non-persistent in-memory event store that reports readiness on load while intentionally ignoring all writes and deletes.
+// ---
+
 #include "components/feature_engagement/internal/in_memory_event_store.h"
 
 #include <memory>

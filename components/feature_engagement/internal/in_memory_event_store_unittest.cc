@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the in-memory event store
+// summary: Verifies that InMemoryEventStore delivers its preloaded events through a posted callback and reports readiness after loading.
+// ---
+
 #include "components/feature_engagement/internal/in_memory_event_store.h"
 
 #include <memory>

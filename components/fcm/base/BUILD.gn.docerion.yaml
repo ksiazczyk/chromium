@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the FCM base static library
+summary: Defines the FCM base static library target, listing the backoff policy sources and its dependencies on //net and //base.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the favicon_base component
+summary: GN build file defining the favicon_base static library, its unit tests, and the favicon URL parser fuzzer target with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconUsageData declaration
+// summary: Declares the FaviconUsageData struct, which correlates a favicon URL and its PNG data with the set of page URLs that use it, such as imported bookmarks.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_FAVICON_USAGE_DATA_H_
 #define COMPONENTS_FAVICON_BASE_FAVICON_USAGE_DATA_H_
 

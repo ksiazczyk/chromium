@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'FcmManager: Firebase SDK initialization and Installation ID management'
+// summary: Singleton that manages Firebase SDK initialization and Firebase Installation ID operations for the FCM component, with lazy initialization on background worker threads to avoid blocking the UI thread.
+// ---
+
 package org.chromium.components.fcm;
 
 import android.content.Context;

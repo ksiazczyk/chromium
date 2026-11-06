@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Condition validator interface
+// summary: Defines the ConditionValidator interface that checks whether all conditions for showing in-product help are met.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_CONDITION_VALIDATOR_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_CONDITION_VALIDATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTimeProvider class declaration
+// summary: Declares SystemTimeProvider, a TimeProvider that supplies the current time and day count from the system clock.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_SYSTEM_TIME_PROVIDER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_SYSTEM_TIME_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple event model provider for profile and device storage
+// summary: Declares MultipleEventModelProvider, an EventModelProvider combining a profile and a device event model, routing readers per feature storage type.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_MULTIPLE_EVENT_MODEL_PROVIDER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_MULTIPLE_EVENT_MODEL_PROVIDER_H_
 

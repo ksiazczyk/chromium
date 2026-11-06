@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventModelImpl unit tests
+// summary: Unit tests for EventModelImpl using a test in-memory event store and storage validator to verify event counting, snoozing, and store operations.
+// ---
+
 #include "components/feature_engagement/internal/event_model_impl.h"
 
 #include <memory>
