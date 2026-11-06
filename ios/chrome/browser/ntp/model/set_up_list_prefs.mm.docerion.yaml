@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_prefs.mm.
+type: source
+title: Set Up List preferences implementation
+summary: Implements registration and management of Set Up List preferences, including item states, completion tracking, and last interaction time.

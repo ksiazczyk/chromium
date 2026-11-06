@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine logo container view interface
+// summary: Declares the container view that displays the Google logo or doodle, with state, image setters and a delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SEARCH_ENGINE_LOGO_UI_SEARCH_ENGINE_LOGO_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_NTP_SEARCH_ENGINE_LOGO_UI_SEARCH_ENGINE_LOGO_CONTAINER_VIEW_H_
 

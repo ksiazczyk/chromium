@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_constants.mm.
+type: source
+title: New tab page constants implementation
+summary: Defines the string accessibility identifiers and numeric layout constants used across the iOS new tab page UI.

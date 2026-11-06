@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page color palette utilities header
+// summary: Declares helpers to build a color palette from a seed color, render palette preview images and resolve default NTP and card background colors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_COLOR_PALETTE_UTIL_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_COLOR_PALETTE_UTIL_H_
 

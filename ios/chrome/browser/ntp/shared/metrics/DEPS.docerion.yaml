@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for NTP shared metrics
+summary: Restricts which headers files in this directory may include, with a specific exception for feed_metrics_recorder.mm.

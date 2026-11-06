@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page constants header
+// summary: Declares accessibility identifiers and layout constants for the iOS new tab page, including feed header, fake omnibox and quick action identifiers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_CONSTANTS_H_
 

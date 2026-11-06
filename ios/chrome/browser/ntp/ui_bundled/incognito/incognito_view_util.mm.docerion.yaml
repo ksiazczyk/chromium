@@ -1,0 +1,4 @@
+# Docerion header of incognito_view_util.mm.
+type: source
+title: Incognito view utility implementation
+summary: Returns the Chrome incognito learn more support URL with the application locale parameter appended.

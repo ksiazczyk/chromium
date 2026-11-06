@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_mediator_unittest.mm.
+type: test
+title: New Tab Page mediator unit tests
+summary: Unit tests for the NTP mediator, using test factories and mocks to verify metrics, feed visibility, and service interactions.

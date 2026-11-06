@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: NTP UI bundled resources build file
+summary: GN build configuration that bundles the NTP asset catalog images and the MIA Lottie animation files into the iOS Chrome app.

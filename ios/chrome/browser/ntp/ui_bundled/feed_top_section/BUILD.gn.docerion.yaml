@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed top section GN build targets
+summary: Defines GN source sets for the feed top section UI, promo constants, notifications promo view and unit tests, with their dependencies.

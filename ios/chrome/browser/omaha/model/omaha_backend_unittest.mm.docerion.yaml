@@ -1,0 +1,4 @@
+# Docerion header of omaha_backend_unittest.mm.
+type: source
+title: omaha_backend_unittest.mm
+summary: Unit tests for OmahaBackend using fake Omaha server responses to verify ping scheduling, timers and upgrade recommendation handling.

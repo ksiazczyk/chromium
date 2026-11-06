@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omaha ping event declarations
+// summary: Declares the OmahaPingEvent enum, OmahaPingData struct, and FormatOmahaPingEvent function used to build Omaha ping requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_PING_H_
 #define IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_PING_H_
 

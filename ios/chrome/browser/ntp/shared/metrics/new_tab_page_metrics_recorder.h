@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page metrics recorder interface
+// summary: Declares the NewTabPageMetricsRecorder class and related enums for logging NTP impressions, time spent, overscroll actions, and UI element interactions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SHARED_METRICS_NEW_TAB_PAGE_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_NTP_SHARED_METRICS_NEW_TAB_PAGE_METRICS_RECORDER_H_
 

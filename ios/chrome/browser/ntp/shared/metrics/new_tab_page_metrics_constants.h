@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page metrics constant declarations
+// summary: Declares the names of user actions and UMA histograms used for new tab page and Start surface metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SHARED_METRICS_NEW_TAB_PAGE_METRICS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_NTP_SHARED_METRICS_NEW_TAB_PAGE_METRICS_CONSTANTS_H_
 

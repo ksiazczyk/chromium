@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home background customization promo display handler header
+// summary: Declares the HomeBackgroundCustomizationPromoDisplayHandler interface that the Promos Manager calls when the user becomes eligible for the promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_COORDINATOR_HOME_BACKGROUND_CUSTOMIZATION_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_NTP_COORDINATOR_HOME_BACKGROUND_CUSTOMIZATION_PROMO_DISPLAY_HANDLER_H_
 

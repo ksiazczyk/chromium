@@ -1,0 +1,4 @@
+# Docerion header of tab_resumption_prefs.mm.
+type: source
+title: Tab resumption preferences implementation
+summary: Implements tab resumption preference registration, impression tracking, disablement handling, and last opened tab URL storage and comparison.

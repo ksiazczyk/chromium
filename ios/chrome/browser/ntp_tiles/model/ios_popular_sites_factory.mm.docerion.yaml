@@ -1,0 +1,4 @@
+# Docerion header of ios_popular_sites_factory.mm.
+type: source
+title: IOS popular sites factory implementation
+summary: Creates a PopularSitesImpl using profile prefs, template URL service, variations service and a shared URL loader factory.

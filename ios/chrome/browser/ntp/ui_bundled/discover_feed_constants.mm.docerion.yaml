@@ -1,0 +1,4 @@
+# Docerion header of discover_feed_constants.mm.
+type: source
+title: Discover feed constants definitions
+summary: Defines the default Discover feed referrer URL and the 430-point maximum feed content width.

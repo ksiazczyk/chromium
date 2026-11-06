@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed metrics constants and enums header
+// summary: Declares thresholds, preference keys, enums and histogram name declarations used to record Discover feed metrics on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SHARED_METRICS_FEED_METRICS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_NTP_SHARED_METRICS_FEED_METRICS_CONSTANTS_H_
 

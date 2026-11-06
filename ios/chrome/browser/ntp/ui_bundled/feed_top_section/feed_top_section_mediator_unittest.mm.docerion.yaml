@@ -1,0 +1,4 @@
+# Docerion header of feed_top_section_mediator_unittest.mm.
+type: test
+title: Feed top section mediator unit tests
+summary: Unit tests for the feed top section mediator covering promo visibility, histogram metrics and sign-in behavior with fake services.

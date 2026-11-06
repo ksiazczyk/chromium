@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_header_view.mm.
+type: source
+title: New tab page header view implementation
+summary: Implements the new tab page header view, laying out the toolbar, fake omnibox, identity disc, and search engine logo with scroll-driven animations and badge handling.

@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_metrics_constants.mm.
+type: source
+title: New tab page metrics constant definitions
+summary: Defines the string constants for NTP user actions and histogram names such as IOS.NTP.Click, IOS.Start.Impression, and Magic Stack customization histograms.

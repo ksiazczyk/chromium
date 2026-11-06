@@ -1,0 +1,4 @@
+# Docerion header of fake_location_bar_view.mm.
+type: source
+title: Fake location bar view implementation
+summary: Implements the fake omnibox button with gradient, blur, and highlight views, resolving dynamic colors based on feature flags and accessibility settings.

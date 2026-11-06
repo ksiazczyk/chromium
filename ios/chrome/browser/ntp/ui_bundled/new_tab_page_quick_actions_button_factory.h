@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick actions button factory header
+// summary: Declares a factory that creates and updates quick action buttons for the NTP Quick Actions row, including AI Mode and incognito search variants.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_QUICK_ACTIONS_BUTTON_FACTORY_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_QUICK_ACTIONS_BUTTON_FACTORY_H_
 

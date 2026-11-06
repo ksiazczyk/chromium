@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_trait_unittest.mm.
+type: test
+title: New tab page trait unit tests
+summary: Tests setting and retrieving the new tab page trait and the card background colors it produces with and without a palette.

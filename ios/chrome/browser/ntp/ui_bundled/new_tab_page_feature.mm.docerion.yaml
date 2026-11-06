@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_feature.mm.
+type: source
+title: New tab page feature flags and parameters
+summary: Declares base::Feature flags and field trial parameters for the iOS new tab page, covering feed settings, UI cleanup, and ephemeral theme experiments, plus helper enablement checks.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the NTP tiles model folder
+summary: Points the directory to the shared common metadata mixins defined in components/ntp_tiles.

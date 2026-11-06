@@ -1,0 +1,4 @@
+# Docerion header of set_up_list.mm.
+type: source
+title: Set Up List model implementation
+summary: Implements SetUpList item construction and completion detection based on prefs, sign-in state, notifications, and default browser status.

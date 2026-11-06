@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Incognito NTP build targets
+summary: GN build file defining the incognito and util source sets with their sources and dependencies for the incognito new tab page UI.

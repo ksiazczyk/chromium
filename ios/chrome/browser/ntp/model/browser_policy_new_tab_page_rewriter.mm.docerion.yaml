@@ -1,0 +1,4 @@
+# Docerion header of browser_policy_new_tab_page_rewriter.mm.
+type: source
+title: Browser policy new tab page URL rewriter implementation
+summary: Implements policy-driven new tab page URL rewriting, replacing the default new tab URL with the location override preference when it is valid and the profile is not in incognito mode.

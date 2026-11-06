@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the NTP UI
+summary: GN build file defining source sets and dependencies for the iOS new tab page UI, including theme, constants, logo, and component factory targets.

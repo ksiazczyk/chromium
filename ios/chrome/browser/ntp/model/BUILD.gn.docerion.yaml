@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the new tab page model
+summary: Defines GN source sets for the new tab page model, utilities, set-up list, promo agent, and unit tests together with their dependencies.

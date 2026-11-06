@@ -1,0 +1,4 @@
+# Docerion header of omaha_response_unittest.mm.
+type: test
+title: Omaha response parsing unit tests
+summary: Tests ParseOmahaResponse against empty, malformed, invalid, up-to-date, and valid update responses.

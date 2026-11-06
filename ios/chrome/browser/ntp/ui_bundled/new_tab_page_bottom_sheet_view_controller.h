@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page bottom sheet view controller interface
+// summary: Declares the bottom sheet view controller for the NTP redesign, managing the feed, Magic Stack, Most Visited tiles, and sheet snapping states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

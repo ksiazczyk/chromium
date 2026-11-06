@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_egtest.mm.
+type: test
+title: New tab page Earl Grey tests
+summary: Earl Grey integration tests for the new tab page, covering omnibox behavior, sign-in promos, quick actions, incognito, and feed visibility.

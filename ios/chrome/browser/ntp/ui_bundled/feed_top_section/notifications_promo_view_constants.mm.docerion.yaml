@@ -1,0 +1,4 @@
+# Docerion header of notifications_promo_view_constants.mm.
+type: source
+title: Notifications promo view constants implementation
+summary: Defines notification promo button identifiers and the shown, dismissed, and cooldown limit constants.

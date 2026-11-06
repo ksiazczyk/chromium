@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omaha model build targets (BUILD.gn)
+summary: Defines GN source_sets for the Omaha model, backend and unit tests with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed top section coordinator interface
+// summary: Declares the FeedTopSectionCoordinator, the top-level owner of the NTP feed top section, exposing visibility and NTP delegate hooks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_FEED_TOP_SECTION_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_FEED_TOP_SECTION_COORDINATOR_H_
 

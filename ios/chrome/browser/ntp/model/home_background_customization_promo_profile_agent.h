@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the home background customization promo profile agent
+// summary: Declares a profile agent that registers the home background customization promo with the promos manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_HOME_BACKGROUND_CUSTOMIZATION_PROMO_PROFILE_AGENT_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_HOME_BACKGROUND_CUSTOMIZATION_PROMO_PROFILE_AGENT_H_
 

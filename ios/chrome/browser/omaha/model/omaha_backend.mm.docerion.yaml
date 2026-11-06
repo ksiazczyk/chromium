@@ -1,0 +1,4 @@
+# Docerion header of omaha_backend.mm.
+type: source
+title: omaha_backend.mm
+summary: Implements OmahaBackend ping scheduling, exponential backoff, server requests, response handling and debug information.

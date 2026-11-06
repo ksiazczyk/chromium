@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discover feed preview delegate protocol
+// summary: Declares a protocol for creating a view controller that previews a URL and handling taps on the Discover feed preview.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_DISCOVER_FEED_PREVIEW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_DISCOVER_FEED_PREVIEW_DELEGATE_H_
 

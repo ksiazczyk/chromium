@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resumption preferences header
+// summary: Declares preference names and helper functions for the iOS tab resumption tile, covering registration, enablement, and last opened URL tracking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_TILES_MODEL_TAB_RESUMPTION_TAB_RESUMPTION_PREFS_H_
 #define IOS_CHROME_BROWSER_NTP_TILES_MODEL_TAB_RESUMPTION_TAB_RESUMPTION_PREFS_H_
 

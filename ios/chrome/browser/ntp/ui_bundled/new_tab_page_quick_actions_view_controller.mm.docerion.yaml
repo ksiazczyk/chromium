@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_quick_actions_view_controller.mm.
+type: source
+title: Quick actions view controller implementation
+summary: Implements the quick actions row UI, laying out AI Mode and incognito search buttons according to the AIM button refactor arm.

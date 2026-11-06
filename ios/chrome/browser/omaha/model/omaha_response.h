@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omaha response parsing declarations
+// summary: Declares the OmahaResponse struct, parsing error codes, and the ParseOmahaResponse function for interpreting Omaha server replies.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_RESPONSE_H_
 #define IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_RESPONSE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications promo view header
+// summary: Declares the notifications promo view shown at the top of the feed on the iOS new tab page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_NOTIFICATIONS_PROMO_VIEW_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_NOTIFICATIONS_PROMO_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of incognito_view_controller.mm.
+type: source
+title: IncognitoViewController implementation
+summary: Sets up the incognito view in dark interface style with background color and accessibility identifier when the view loads.

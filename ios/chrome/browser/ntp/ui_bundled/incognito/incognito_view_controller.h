@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoViewController header
+// summary: Declares the view controller that hosts the incognito new tab page view and exposes a URL loader delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_INCOGNITO_INCOGNITO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_INCOGNITO_INCOGNITO_VIEW_CONTROLLER_H_
 

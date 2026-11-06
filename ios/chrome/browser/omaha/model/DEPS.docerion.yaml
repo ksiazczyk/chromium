@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Omaha model directory
+summary: Declares allowed include rules for the directory, permitting ios/chrome/browser/upgrade/model.

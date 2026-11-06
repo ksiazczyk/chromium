@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_image_background_trait.mm.
+type: source
+title: New tab page image background trait implementation
+summary: Implements the NewTabPageImageBackgroundTrait default value and type-safe accessor methods on CustomUITraitAccessor and UITraitCollection.

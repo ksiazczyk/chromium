@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logo animation controller protocols
+// summary: Defines protocols and logo states for owning and transferring logo animation controllers between new tab page objects.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_LOGO_ANIMATION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_LOGO_ANIMATION_CONTROLLER_H_
 

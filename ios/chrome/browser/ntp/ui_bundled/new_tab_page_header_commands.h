@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page header commands protocol
+// summary: Defines the NewTabPageHeaderCommands protocol the header view uses to notify the coordinator layer about fakebox taps, menu entry points, and header size changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_HEADER_COMMANDS_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_HEADER_COMMANDS_H_
 

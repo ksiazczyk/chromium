@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for feed top section resources
+summary: GN build file that bundles the Assets.xcassets catalog, including the notifications promo icon image set, for the feed top section.

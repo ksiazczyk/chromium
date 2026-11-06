@@ -1,0 +1,4 @@
+# Docerion header of home_metrics_unittest.mm.
+type: test
+title: Unit tests for home metrics
+summary: Unit tests verifying that Magic Stack module impression counts are incremented only when a freshness signal exists, across several module types.

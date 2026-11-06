@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the new tab page model directory
+summary: Lists the include paths that code in the new tab page model directory is allowed to depend on.

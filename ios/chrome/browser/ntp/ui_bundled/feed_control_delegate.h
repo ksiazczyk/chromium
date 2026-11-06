@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed control delegate protocol
+// summary: Declares a protocol for controlling the presented feed, exposing the last visible feed card index and updates when the default search engine changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_CONTROL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_CONTROL_DELEGATE_H_
 

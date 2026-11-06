@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed top section consumer protocol
+// summary: Declares the FeedTopSectionConsumer protocol used to update the feed top section view with promo type, configuration and visibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_FEED_TOP_SECTION_CONSUMER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_FEED_TOP_SECTION_CONSUMER_H_
 

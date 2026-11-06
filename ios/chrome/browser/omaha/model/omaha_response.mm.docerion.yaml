@@ -1,0 +1,4 @@
+# Docerion header of omaha_response.mm.
+type: source
+title: Omaha server response parser
+summary: Parses Omaha server XML responses with NSXMLParser, extracting the server date and any upgrade recommendation details.

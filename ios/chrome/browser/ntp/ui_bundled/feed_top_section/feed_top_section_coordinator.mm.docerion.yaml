@@ -1,0 +1,4 @@
+# Docerion header of feed_top_section_coordinator.mm.
+type: source
+title: Feed top section coordinator implementation
+summary: Implements the feed top section coordinator, wiring the mediator and view controller and handling sign-in promos and notification alerts.

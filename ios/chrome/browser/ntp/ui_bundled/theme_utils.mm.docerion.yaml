@@ -1,0 +1,4 @@
+# Docerion header of theme_utils.mm.
+type: source
+title: Theme scheme variant conversion utilities
+summary: Converts between sync proto browser color variants and Chromium color provider scheme variants used for NTP theming.

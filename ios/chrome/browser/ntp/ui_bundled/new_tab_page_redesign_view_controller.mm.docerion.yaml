@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_redesign_view_controller.mm.
+type: source
+title: New Tab Page redesign view controller implementation
+summary: Implements the redesigned NTP UI, including header buttons, bottom sheet feed layout, background customization, and scroll handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page redesign view controller header
+// summary: Declares the view controller shell for the New Tab Page redesign, conforming to consumer, delegate, and snapshot provider protocols.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_REDESIGN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_REDESIGN_VIEW_CONTROLLER_H_
 

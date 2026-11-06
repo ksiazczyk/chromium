@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for promos manager dependencies
+summary: Grants this directory include access to the promos manager coordinator and model directories.

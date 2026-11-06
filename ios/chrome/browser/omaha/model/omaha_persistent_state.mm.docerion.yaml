@@ -1,0 +1,4 @@
+# Docerion header of omaha_persistent_state.mm.
+type: source
+title: omaha_persistent_state.mm
+summary: Implements serialization of OmahaPersistentState fields to and from NSUserDefaults using typed serializer helpers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Up List preferences header
+// summary: Declares Set Up List preferences, the item state enum, and helpers for reading, writing, and completing list items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_PREFS_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_PREFS_H_
 

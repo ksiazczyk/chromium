@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll delegate proxy header
+// summary: Declares a proxy class that intercepts and forwards UIScrollViewDelegate callbacks to an intercepting target such as the bottom sheet and the original scroll delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_SCROLL_DELEGATE_PROXY_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_SCROLL_DELEGATE_PROXY_H_
 

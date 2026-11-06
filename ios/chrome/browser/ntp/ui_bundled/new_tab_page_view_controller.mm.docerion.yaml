@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_view_controller.mm.
+type: source
+title: New tab page view controller implementation
+summary: Implements the iOS Chrome new tab page view controller, managing the feed container, quick actions, overscroll actions, background image animations and omnibox focus behavior.

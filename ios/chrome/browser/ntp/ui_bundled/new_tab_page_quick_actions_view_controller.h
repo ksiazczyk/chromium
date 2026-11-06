@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick actions view controller header
+// summary: Declares the view controller that displays the quick actions row just below the NTP omnibox, with handlers for shortcuts and AI Mode settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_QUICK_ACTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_QUICK_ACTIONS_VIEW_CONTROLLER_H_
 
