@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeakyBucket implementation
+// summary: Implements the LeakyBucket rate limiter, handling refill or spill of drops, rate updates, level drainage, and computation of the time when the bucket empties.
+// ---
+
 #include "remoting/base/leaky_bucket.h"
 
 namespace remoting {

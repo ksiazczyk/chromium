@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TypedBuffer unit tests
+// summary: Unit tests covering TypedBuffer allocation, accessors, const usage, ownership transfer and swapping behaviour.
+// ---
+
 #include "remoting/base/typed_buffer.h"
 
 #include <utility>

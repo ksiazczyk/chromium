@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP status mapping
+// summary: Maps HTTP status codes and net errors to gRPC-style status codes for the remoting HTTP client.
+// ---
+
 #include "remoting/base/http_status.h"
 
 #include "base/no_destructor.h"

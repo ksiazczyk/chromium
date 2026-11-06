@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for retrieving Compute Engine instance identity tokens
+// summary: Defines the InstanceIdentityTokenGetter interface used to retrieve instance identity tokens for Compute Engine service requests.
+// ---
+
 #ifndef REMOTING_BASE_INSTANCE_IDENTITY_TOKEN_GETTER_H_
 #define REMOTING_BASE_INSTANCE_IDENTITY_TOKEN_GETTER_H_
 

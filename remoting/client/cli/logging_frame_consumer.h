@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging frame consumer header
+// summary: Declares LoggingFrameConsumer, a protocol::FrameConsumer implementation that allocates memory and logs frame info to the console.
+// ---
+
 #ifndef REMOTING_CLIENT_CLI_LOGGING_FRAME_CONSUMER_H_
 #define REMOTING_CLIENT_CLI_LOGGING_FRAME_CONSUMER_H_
 

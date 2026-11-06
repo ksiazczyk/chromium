@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux chromoting file path utilities
+// summary: Computes the host hash and the var-lib, global config and per-user config directories for Chrome Remote Desktop on Linux.
+// ---
+
 #include "remoting/base/file_path_util_linux.h"
 
 #include "base/files/file_path.h"

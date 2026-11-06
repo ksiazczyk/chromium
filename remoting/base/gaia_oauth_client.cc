@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia OAuth client implementation
+// summary: Implements a Gaia OAuth client wrapper that redeems authorization codes for tokens and queues concurrent requests.
+// ---
+
 #include "remoting/base/gaia_oauth_client.h"
 
 #include <utility>

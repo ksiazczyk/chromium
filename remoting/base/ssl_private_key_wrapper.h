@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key Mojo wrapper header
+// summary: Declares SSLPrivateKeyWrapper, which exposes a net::SSLPrivateKey signing capability over the network::mojom::SSLPrivateKey Mojo interface.
+// ---
+
 #ifndef REMOTING_BASE_SSL_PRIVATE_KEY_WRAPPER_H_
 #define REMOTING_BASE_SSL_PRIVATE_KEY_WRAPPER_H_
 

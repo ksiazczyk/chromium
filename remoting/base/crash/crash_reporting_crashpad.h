@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad reporting API
+// summary: Declares functions to initialize Crashpad crash reporting and Linux helpers for sharing the handler socket with worker processes.
+// ---
+
 #ifndef REMOTING_BASE_CRASH_CRASH_REPORTING_CRASHPAD_H_
 #define REMOTING_BASE_CRASH_CRASH_REPORTING_CRASHPAD_H_
 

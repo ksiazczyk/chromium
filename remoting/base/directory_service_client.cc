@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryServiceClient implementation
+// summary: Implements the client for the Chrome Remote Desktop directory service, covering host registration, deletion, heartbeats, and host list retrieval.
+// ---
+
 #include "remoting/base/directory_service_client.h"
 
 #include "base/functional/bind.h"

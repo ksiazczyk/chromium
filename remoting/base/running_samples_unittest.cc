@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RunningSamples
+// summary: Tests the average and maximum calculations of RunningSamples for window sizes of one, two, and larger than the number of recorded elements.
+// ---
+
 #include "remoting/base/running_samples.h"
 
 #include <stddef.h>

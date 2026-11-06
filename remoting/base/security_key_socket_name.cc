@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key socket name implementation
+// summary: Returns the default Chrome Remote Desktop SSH auth socket path under XDG_RUNTIME_DIR and supports a test-only override.
+// ---
+
 #include "remoting/base/security_key_socket_name.h"
 
 #include <stdlib.h>

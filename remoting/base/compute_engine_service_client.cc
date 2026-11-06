@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compute Engine service client implementation
+// summary: Implements a client that fetches instance identity and service account OAuth tokens from the GCE metadata server for Chrome Remote Desktop hosts.
+// ---
+
 #include "remoting/base/compute_engine_service_client.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of version.h.in.
+type: source
+title: Version header template
+summary: Template expanded by the build to generate version.h with remoting version macros from major, minor, build, and patch placeholders.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock OAuth token getter
+// summary: GMock-based mock of OAuthTokenGetter stubbing CallWithToken, InvalidateCache, and GetWeakPtr for tests.
+// ---
+
 #ifndef REMOTING_BASE_MOCK_OAUTH_TOKEN_GETTER_H_
 #define REMOTING_BASE_MOCK_OAUTH_TOKEN_GETTER_H_
 

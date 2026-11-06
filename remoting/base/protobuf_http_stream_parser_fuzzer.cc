@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtobufHttpStreamParser fuzzer
+// summary: Fuzz target that feeds random input to the protobuf HTTP stream parser to detect crashes and hangs during stream parsing.
+// ---
+
 #include "remoting/base/protobuf_http_stream_parser.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

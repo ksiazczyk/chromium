@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QueuedTaskPoster unit tests
+// summary: Unit tests verifying that QueuedTaskPoster preserves task order and prevents unrelated tasks from interleaving with posted sequences.
+// ---
+
 #include "remoting/base/queued_task_poster.h"
 
 #include <memory>

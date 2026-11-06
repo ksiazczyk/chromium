@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VlogNetLog implementation
+// summary: Implements a NetLog observer that logs networking events as JSON to VLOG(4) when verbose logging level 4 is enabled.
+// ---
+
 #include "remoting/base/vlog_net_log.h"
 
 #include <memory>

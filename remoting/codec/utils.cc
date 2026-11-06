@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Codec utility implementation
+// summary: Implements GetBoundingRect, which computes the bounding rectangle of a desktop region.
+// ---
+
 #include "remoting/codec/utils.h"
 
 namespace remoting {

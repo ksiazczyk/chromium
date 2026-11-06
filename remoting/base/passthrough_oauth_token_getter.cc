@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough OAuth token getter implementation
+// summary: Implements PassthroughOAuthTokenGetter, which posts the stored token info as a successful token callback.
+// ---
+
 #include "remoting/base/passthrough_oauth_token_getter.h"
 
 #include "base/functional/bind.h"

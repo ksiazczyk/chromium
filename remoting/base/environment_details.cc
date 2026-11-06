@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Environment details implementation
+// summary: Provides the build version and standardized operating system name and version strings for the current build target.
+// ---
+
 #include "remoting/base/environment_details.h"
 
 #include "base/strings/stringize_macros.h"

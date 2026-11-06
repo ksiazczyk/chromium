@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main entry point for the remoting CLI client
+// summary: Entry point that validates support access code, access token and user email switches, configures logging and timeouts, and runs the remoting client.
+// ---
+
 #include <optional>
 #include <string_view>
 

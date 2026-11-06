@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU utility functions header
+// summary: Declares helpers that check whether the CPU meets minimum hardware requirements and provide the SIMD memory alignment for the processor.
+// ---
+
 #ifndef REMOTING_BASE_CPU_UTILS_H_
 #define REMOTING_BASE_CPU_UTILS_H_
 

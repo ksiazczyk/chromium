@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting utility declarations
+// summary: Declares rectangle alignment, containment, and line-ending conversion utility functions for remoting.
+// ---
+
 #ifndef REMOTING_BASE_UTIL_H_
 #define REMOTING_BASE_UTIL_H_
 

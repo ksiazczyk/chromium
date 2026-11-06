@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad reporting initialization
+// summary: Implements entry points that initialize Crashpad crash reporting on Windows and Linux, including client setup via a handler socket.
+// ---
+
 #include "remoting/base/crash/crash_reporting_crashpad.h"
 
 #if BUILDFLAG(IS_WIN)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request context getter implementation
+// summary: Implements URLRequestContextGetter, building a net::URLRequestContext with system proxy config, certificate verification and a disabled HTTP cache.
+// ---
+
 #include "remoting/base/url_request_context_getter.h"
 
 #include <utility>

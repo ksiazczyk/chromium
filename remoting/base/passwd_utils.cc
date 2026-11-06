@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwd utils implementation
+// summary: Looks up POSIX passwd and group data for a username, returning uid, gid, home directory, shell and supplementary groups.
+// ---
+
 #include "remoting/base/passwd_utils.h"
 
 #include <grp.h>

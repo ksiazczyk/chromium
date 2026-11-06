@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting export macro header
+// summary: Defines the REMOTING_EXPORT macro controlling symbol visibility and DLL import or export behavior across supported platforms.
+// ---
+
 #ifndef REMOTING_BASE_REMOTING_EXPORT_H_
 #define REMOTING_BASE_REMOTING_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RsaKeyPair
+// summary: Tests key generation, base64 serialization round-trips, certificate creation, and signature verification including failure cases for wrong data, keys, or corrupted signatures.
+// ---
+
 #include "remoting/base/rsa_key_pair.h"
 
 #include <optional>

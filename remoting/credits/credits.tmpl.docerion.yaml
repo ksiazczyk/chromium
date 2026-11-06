@@ -1,0 +1,4 @@
+# Docerion header of credits.tmpl.
+type: asset
+title: Credits page HTML template
+summary: HTML template for the credits page that links the credits CSS and JS files and provides a placeholder for the license entries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Crashpad initialization
+// summary: Initializes Crashpad crash handling on Linux, including secure setup of the crashpad database directory for root daemons and handler startup with upload annotations.
+// ---
+
 #include "remoting/base/crash/crashpad_linux.h"
 
 #include <fcntl.h>

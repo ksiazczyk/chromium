@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec utility declaration
+// summary: Declares GetBoundingRect, a helper returning the bounding rectangle of a provided desktop region.
+// ---
+
 #ifndef REMOTING_CODEC_UTILS_H_
 #define REMOTING_CODEC_UTILS_H_
 

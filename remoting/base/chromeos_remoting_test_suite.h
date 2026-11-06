@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS remoting test suite header
+// summary: Declares a ChromeOS Ash-based test suite subclass that adds remoting locale resources for tests needing localized strings.
+// ---
+
 #ifndef REMOTING_BASE_CHROMEOS_REMOTING_TEST_SUITE_H_
 #define REMOTING_BASE_CHROMEOS_REMOTING_TEST_SUITE_H_
 

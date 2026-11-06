@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud session authorization service client factory implementation
+// summary: Implements the SessionAuthzServiceClient for Cloud hosts, using OAuth and instance identity tokens to generate, verify and reauthorize session tokens via the session authz service.
+// ---
+
 #include "remoting/base/cloud_session_authz_service_client_factory.h"
 
 #include <limits.h>

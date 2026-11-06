@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capabilities helper unit tests
+// summary: Unit tests for HasCapability and IntersectCapabilities covering empty sets, membership and intersection across permutations of capability lists.
+// ---
+
 #include "remoting/base/capabilities.h"
 
 #include <stddef.h>

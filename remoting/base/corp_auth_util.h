@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp auth utility header
+// summary: Declares CreateCorpTokenGetter for creating OAuth token getters suited to corp API authentication, which differs from regular API auth.
+// ---
+
 #ifndef REMOTING_BASE_CORP_AUTH_UTIL_H_
 #define REMOTING_BASE_CORP_AUTH_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoThread unit tests
+// summary: Unit tests covering AutoThread creation, task processing, thread dependencies and Windows COM apartment initialization.
+// ---
+
 #include "remoting/base/auto_thread.h"
 
 #include "base/files/file_path.h"

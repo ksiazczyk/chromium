@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionPolicies struct header
+// summary: Declares the SessionPolicies struct holding Chrome Remote Desktop host policies like clipboard size, firewall traversal, file transfer, and session duration.
+// ---
+
 #ifndef REMOTING_BASE_SESSION_POLICIES_H_
 #define REMOTING_BASE_SESSION_POLICIES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host logging macros and initialization
+// summary: Declares HOST_LOG/HOST_DLOG macros, a Windows log provider GUID, and InitHostLogging for the remoting host.
+// ---
+
 #ifndef REMOTING_BASE_LOGGING_H_
 #define REMOTING_BASE_LOGGING_H_
 

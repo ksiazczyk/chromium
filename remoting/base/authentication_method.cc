@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authentication method string conversion
+// summary: Converts authentication method enums to and from their wire-format strings for SPAKE2-based authentication modes.
+// ---
+
 #include "remoting/base/authentication_method.h"
 
 #include "remoting/base/name_value_map.h"

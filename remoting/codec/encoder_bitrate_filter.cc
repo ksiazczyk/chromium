@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoder bitrate filter implementation
+// summary: Implements EncoderBitrateFilter, which smooths bandwidth estimates and updates the encoder target bitrate only on significant changes.
+// ---
+
 #include "remoting/codec/encoder_bitrate_filter.h"
 
 #include <algorithm>

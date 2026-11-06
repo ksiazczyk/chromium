@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting branding constants and config directory declarations
+// summary: Declares the Windows chromoting service and event name constants plus the GetConfigDir function returning the platform-specific config directory.
+// ---
+
 #ifndef REMOTING_BASE_BRANDING_H_
 #define REMOTING_BASE_BRANDING_H_
 

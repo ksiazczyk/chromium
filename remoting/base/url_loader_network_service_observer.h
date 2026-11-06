@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader network service observer header
+// summary: Declares UrlLoaderNetworkServiceObserver, a helper for providing client certificates and handling network service events for HTTPS requests.
+// ---
+
 #ifndef REMOTING_BASE_URL_LOADER_NETWORK_SERVICE_OBSERVER_H_
 #define REMOTING_BASE_URL_LOADER_NETWORK_SERVICE_OBSERVER_H_
 

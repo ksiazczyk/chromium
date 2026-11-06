@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux file path utility declarations
+// summary: Declares helpers for the host hash and chromoting config and persistent state directories on Linux.
+// ---
+
 #ifndef REMOTING_BASE_FILE_PATH_UTIL_LINUX_H_
 #define REMOTING_BASE_FILE_PATH_UTIL_LINUX_H_
 

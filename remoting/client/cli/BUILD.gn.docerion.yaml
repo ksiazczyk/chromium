@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the remoting_client_main executable
+summary: Defines the Linux-only remoting_client_main executable, listing its sources and dependencies such as base, net, mojo and remoting protocol.

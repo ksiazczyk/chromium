@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpxCodecDeleter implementation
+// summary: Implements the deleter that destroys libvpx codec contexts used by ScopedVpxCodec.
+// ---
+
 #include "remoting/codec/scoped_vpx_codec.h"
 
 #include <ostream>

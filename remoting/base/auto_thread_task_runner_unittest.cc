@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutoThreadTaskRunner unit tests
+// summary: Unit test verifying that AutoThreadTaskRunner executes posted tasks and runs its stop task when the last reference is dropped.
+// ---
+
 #include "remoting/base/auto_thread_task_runner.h"
 
 #include "base/functional/bind.h"

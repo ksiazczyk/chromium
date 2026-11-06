@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDH key exchange implementation
+// summary: Implements ECDH P-384 key exchange that derives AES-256-GCM crypters via HKDF for encrypting and decrypting remoting communication.
+// ---
+
 #include "remoting/base/ecdh_key_exchange.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token getter proxy implementation
+// summary: Implements OAuthTokenGetterProxy, forwarding token requests to an underlying getter on its task runner and posting replies back to the caller.
+// ---
+
 #include "remoting/base/oauth_token_getter_proxy.h"
 
 #include "base/functional/bind.h"

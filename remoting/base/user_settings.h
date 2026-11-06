@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User settings interface
+// summary: Declares the UserSettings interface for reading and writing per-user settings as string values.
+// ---
+
 #ifndef REMOTING_BASE_USER_SETTINGS_H_
 #define REMOTING_BASE_USER_SETTINGS_H_
 

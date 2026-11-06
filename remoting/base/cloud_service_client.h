@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud service client header
+// summary: Declares CloudServiceClient for the Remoting Cloud directory API with factory methods for robot account, GCP project API key and GCE default service account credentials.
+// ---
+
 #ifndef REMOTING_BASE_CLOUD_SERVICE_CLIENT_H_
 #define REMOTING_BASE_CLOUD_SERVICE_CLIENT_H_
 

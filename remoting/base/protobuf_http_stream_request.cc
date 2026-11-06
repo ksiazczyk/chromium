@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtobufHttpStreamRequest implementation
+// summary: Implements the server-streaming protobuf HTTP request, wiring stream ready, message and closed callbacks through the URL loader.
+// ---
+
 #include "remoting/base/protobuf_http_stream_request.h"
 
 #include "base/functional/bind.h"

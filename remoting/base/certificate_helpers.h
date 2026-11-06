@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate selection helpers header
+// summary: Declares helpers for reading certificate issuer fields, validating certificates against an issuer and time window, picking the best match, and creating a platform client cert store.
+// ---
+
 #ifndef REMOTING_BASE_CERTIFICATE_HELPERS_H_
 #define REMOTING_BASE_CERTIFICATE_HELPERS_H_
 

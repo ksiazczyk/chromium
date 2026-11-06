@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry utility implementation
+// summary: Implements Windows registry helpers that write default string values and delete keys, optionally across both WOW64 registry views.
+// ---
+
 #include "remoting/base/registry_util_win.h"
 
 #include <windows.h>

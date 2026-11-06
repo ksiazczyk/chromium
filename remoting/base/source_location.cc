@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SourceLocation implementation
+// summary: Implements the SourceLocation class, including backing store management, conversion from base::Location, comparison, and string formatting.
+// ---
+
 #include "remoting/base/source_location.h"
 
 #include <memory>

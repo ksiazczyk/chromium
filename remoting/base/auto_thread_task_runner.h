@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoThreadTaskRunner wrapper for automatic thread lifetime
+// summary: Declares a SingleThreadTaskRunner wrapper that posts a caller-supplied stop task when no more references remain, enabling automatic thread lifetime management.
+// ---
+
 #ifndef REMOTING_BASE_AUTO_THREAD_TASK_RUNNER_H_
 #define REMOTING_BASE_AUTO_THREAD_TASK_RUNNER_H_
 

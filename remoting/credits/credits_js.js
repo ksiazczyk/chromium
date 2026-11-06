@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credits page script
+// summary: JavaScript for the credits page that toggles the visibility of a selected product's license when clicked.
+// ---
+
 (function() {
 
 'use strict';

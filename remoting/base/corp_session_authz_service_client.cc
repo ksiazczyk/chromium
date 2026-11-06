@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpSessionAuthzServiceClient implementation
+// summary: Implements the Corp API client for the SessionAuthz service, handling host token generation, session token verification, and host reauthorization requests.
+// ---
+
 #include "remoting/base/corp_session_authz_service_client.h"
 
 #include <memory>

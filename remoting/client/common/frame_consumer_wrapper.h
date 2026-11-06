@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame consumer wrapper for WebRTC video rendering
+// summary: Declares a VideoRenderer wrapper that exposes an existing FrameConsumer, used with WebRTC which decodes frames internally before delivery.
+// ---
+
 #ifndef REMOTING_CLIENT_COMMON_FRAME_CONSUMER_WRAPPER_H_
 #define REMOTING_CLIENT_COMMON_FRAME_CONSUMER_WRAPPER_H_
 

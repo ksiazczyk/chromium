@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashpadDatabaseManager unit tests
+// summary: Unit tests covering database initialization with custom paths, upload enabling, and logging and cleanup of completed and pending crash reports.
+// ---
+
 #include "remoting/base/crash/crashpad_database_manager.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for crash reporting
+summary: Defines source sets for Breakpad and Crashpad crash reporting, selecting Crashpad on Linux and Windows and Breakpad on Windows.

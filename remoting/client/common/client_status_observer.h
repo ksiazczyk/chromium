@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client status observer interface
+// summary: Declares a checked observer interface with callbacks for host connection events such as connect, disconnect, failure, and client destruction.
+// ---
+
 #ifndef REMOTING_CLIENT_COMMON_CLIENT_STATUS_OBSERVER_H_
 #define REMOTING_CLIENT_COMMON_CLIENT_STATUS_OBSERVER_H_
 

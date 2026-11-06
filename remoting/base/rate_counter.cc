@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RateCounter implementation
+// summary: Implements RateCounter, which computes the average per-second rate of recorded values over a sliding time window.
+// ---
+
 #include "remoting/base/rate_counter.h"
 
 #include "base/check_op.h"

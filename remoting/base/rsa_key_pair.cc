@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RsaKeyPair implementation
+// summary: Implements RsaKeyPair methods for generating and loading RSA-2048 keys, signing data with RSA-PSS SHA-256, and creating self-signed certificates.
+// ---
+
 #include "remoting/base/rsa_key_pair.h"
 
 #include <stdint.h>

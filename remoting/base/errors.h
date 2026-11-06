@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting error code enum definitions
+// summary: Defines the stable ErrorCode enum for remoting sessions and declares helpers to parse, stringify, and convert codes to protobuf.
+// ---
+
 #ifndef REMOTING_BASE_ERRORS_H_
 #define REMOTING_BASE_ERRORS_H_
 

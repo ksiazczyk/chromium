@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpSessionAuthzServiceClient header
+// summary: Declares the Corp API implementation of SessionAuthzServiceClient used to authorize Chrome Remote Desktop connections for corp users.
+// ---
+
 #ifndef REMOTING_BASE_CORP_SESSION_AUTHZ_SERVICE_CLIENT_H_
 #define REMOTING_BASE_CORP_SESSION_AUTHZ_SERVICE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoEncoder interface
+// summary: Defines the asynchronous video encoder interface with frame params, stats, encoded frame, and encode result types.
+// ---
+
 #ifndef REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_H_
 #define REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_H_
 

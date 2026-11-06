@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Breakpad exception handler
+// summary: Implements BreakpadWin, setting up in-process or out-of-process Breakpad exception handling and window procedure crash handling on Windows.
+// ---
+
 #include "remoting/base/crash/breakpad_win.h"
 
 #include <windows.h>

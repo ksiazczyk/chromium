@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock OAuth client
+// summary: Fake OAuthClient that returns a fixed user email and refresh token, for use in tests.
+// ---
+
 #ifndef REMOTING_BASE_MOCK_OAUTH_CLIENT_H_
 #define REMOTING_BASE_MOCK_OAUTH_CLIENT_H_
 

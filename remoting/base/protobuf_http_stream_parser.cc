@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtobufHttpStreamParser implementation
+// summary: Implements incremental parsing of streamed StreamBody protobuf messages, dispatching decoded messages and buffering partial data until it can be fully decoded.
+// ---
+
 #include "remoting/base/protobuf_http_stream_parser.h"
 
 #include "base/containers/span.h"

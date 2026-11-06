@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test entry point for remoting base
+// summary: Main function that sets up the test environment, including a temporary security key socket path and Mojo IPC support, then launches the remoting base unit tests.
+// ---
+
 #include "base/base_switches.h"
 #include "base/compiler_specific.h"
 #include "base/files/scoped_temp_dir.h"

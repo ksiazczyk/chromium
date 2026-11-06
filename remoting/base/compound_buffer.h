@@ -15,6 +15,12 @@
 // Mutations to the buffer are not thread-safe. Immutability can be ensured
 // with the Lock() method.
 
+// ---docerion
+// type: source
+// title: Compound buffer header
+// summary: Declares CompoundBuffer for assembling data packets from multiple IOBuffer chunks and a protobuf ZeroCopyInputStream wrapper for decoding data stored in the buffer.
+// ---
+
 #ifndef REMOTING_BASE_COMPOUND_BUFFER_H_
 #define REMOTING_BASE_COMPOUND_BUFFER_H_
 

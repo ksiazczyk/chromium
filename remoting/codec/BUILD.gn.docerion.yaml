@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the remoting codec
+summary: Defines GN build targets for the encoder source set, VPX codec wrapper, encoder benchmark executable, and unit tests.

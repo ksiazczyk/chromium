@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compound buffer implementation
+// summary: Implements CompoundBuffer, a multi-chunk refcounted IOBuffer container with append, prepend, crop, lock and copy operations used to minimize copying in the video pipeline.
+// ---
+
 #include "remoting/base/compound_buffer.h"
 
 #include <algorithm>

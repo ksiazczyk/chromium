@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame consumer wrapper implementation
+// summary: Implements the FrameConsumerWrapper that forwards an existing FrameConsumer and stubs out video renderer methods unused with WebRTC.
+// ---
+
 #include "remoting/client/common/frame_consumer_wrapper.h"
 
 #include "base/notreached.h"

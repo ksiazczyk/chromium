@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueuedTaskPoster header
+// summary: Declares QueuedTaskPoster, a helper that queues tasks and runs them together on a target task runner to keep task sequences uninterrupted.
+// ---
+
 #ifndef REMOTING_BASE_QUEUED_TASK_POSTER_H_
 #define REMOTING_BASE_QUEUED_TASK_POSTER_H_
 

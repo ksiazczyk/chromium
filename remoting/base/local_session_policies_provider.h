@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalSessionPoliciesProvider class header
+// summary: Declares LocalSessionPoliciesProvider, which provides local SessionPolicies and supports change-notification callbacks that can be suppressed.
+// ---
+
 #ifndef REMOTING_BASE_LOCAL_SESSION_POLICIES_PROVIDER_H_
 #define REMOTING_BASE_LOCAL_SESSION_POLICIES_PROVIDER_H_
 

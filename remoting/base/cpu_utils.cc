@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU utility functions implementation
+// summary: Implements CPU capability checks and returns the SIMD memory alignment required for efficient SSE3, AVX2, or NEON instructions in remoting.
+// ---
+
 #include "remoting/base/cpu_utils.h"
 
 #include "build/build_config.h"

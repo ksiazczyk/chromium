@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loggable error type header
+// summary: Declares Loggable, an error type for base::expected that carries a message plus context entries and can be printed or logged.
+// ---
+
 #ifndef REMOTING_BASE_LOGGABLE_H_
 #define REMOTING_BASE_LOGGABLE_H_
 

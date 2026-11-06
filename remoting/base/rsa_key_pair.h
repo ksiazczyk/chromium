@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RsaKeyPair class interface
+// summary: Declares the RsaKeyPair class for generating, serializing, and using RSA key pairs to sign data and generate self-signed certificates.
+// ---
+
 #ifndef REMOTING_BASE_RSA_KEY_PAIR_H_
 #define REMOTING_BASE_RSA_KEY_PAIR_H_
 

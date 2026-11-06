@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test RSA key pair constant
+// summary: Defines an RSA key pair constant used by remoting unittests.
+// ---
+
 #ifndef REMOTING_BASE_TEST_RSA_KEY_PAIR_H_
 #define REMOTING_BASE_TEST_RSA_KEY_PAIR_H_
 

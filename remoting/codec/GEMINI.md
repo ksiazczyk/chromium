@@ -1,3 +1,13 @@
+---
+type: guide
+title: Remoting codec instructions
+summary: Instructions and architecture overview for working in remoting/codec, covering WebRTC video encoders, Opus audio, and utilities.
+relations:
+  - documents /remoting/codec/webrtc_video_encoder.h
+  - documents /remoting/codec/webrtc_video_encoder_vpx.h
+  - documents /remoting/codec/scoped_vpx_codec.h
+---
+
 # Remoting Codec Instructions
 
 Instructions for working in `//remoting/codec`.

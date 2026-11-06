@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionPolicies unit tests
+// summary: Unit tests checking equality and inequality behavior of the SessionPolicies struct across various policy fields.
+// ---
+
 #include "remoting/base/session_policies.h"
 
 #include "base/time/time.h"

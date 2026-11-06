@@ -4,6 +4,12 @@
 //
 // Helper functions that allow to map enum values to strings.
 
+// ---docerion
+// type: source
+// title: Enum value to name mapping helpers
+// summary: Header with template helpers that map enum values to their string names and back, asserting validity on lookup.
+// ---
+
 #ifndef REMOTING_BASE_NAME_VALUE_MAP_H_
 #define REMOTING_BASE_NAME_VALUE_MAP_H_
 

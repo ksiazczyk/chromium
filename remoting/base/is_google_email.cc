@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper for detecting Google email addresses
+// summary: Provides IsGoogleEmail, which checks whether an email address ends with the @google.com domain case-insensitively.
+// ---
+
 #include "remoting/base/is_google_email.h"
 
 #include "base/strings/string_util.h"

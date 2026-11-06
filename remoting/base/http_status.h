@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP status class
+// summary: Defines a status type with gRPC-compatible codes, error messages, and optional response bodies for HTTP requests.
+// ---
+
 #ifndef REMOTING_BASE_HTTP_STATUS_H_
 #define REMOTING_BASE_HTTP_STATUS_H_
 

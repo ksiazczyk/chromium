@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fully qualified domain name helper
+// summary: Returns the machine's FQDN using Windows APIs or the host name on other platforms.
+// ---
+
 #include "remoting/base/fqdn.h"
 
 #include "build/build_config.h"

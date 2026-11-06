@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the instance identity token getter implementation
+// summary: Tests token retrieval, caching, and metadata server host overrides using mocked URL loader factories and sample JWTs.
+// ---
+
 #include "remoting/base/instance_identity_token_getter_impl.h"
 
 #include <memory>

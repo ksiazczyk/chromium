@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key socket name API
+// summary: Declares functions to get the default security key socket name and to override it for testing.
+// ---
+
 #ifndef REMOTING_BASE_SECURITY_KEY_SOCKET_NAME_H_
 #define REMOTING_BASE_SECURITY_KEY_SOCKET_NAME_H_
 

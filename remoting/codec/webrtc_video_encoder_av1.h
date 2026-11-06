@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 video encoder header
+// summary: Declares the AV1 encoder class with lossless color, encoder speed, and active map controls.
+// ---
+
 #ifndef REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_AV1_H_
 #define REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_AV1_H_
 

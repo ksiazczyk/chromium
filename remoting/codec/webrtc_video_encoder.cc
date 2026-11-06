@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoEncoder base implementation
+// summary: Implements frame stats, encoded frame plumbing, and encoder thread count selection shared by the video encoders.
+// ---
+
 #include "remoting/codec/webrtc_video_encoder.h"
 
 #include "base/system/sys_info.h"

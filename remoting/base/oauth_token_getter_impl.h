@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token getter implementation header
+// summary: Declares OAuthTokenGetterImpl, a Gaia-backed OAuthTokenGetter that exchanges and caches access tokens with optional automatic refreshing.
+// ---
+
 #ifndef REMOTING_BASE_OAUTH_TOKEN_GETTER_IMPL_H_
 #define REMOTING_BASE_OAUTH_TOKEN_GETTER_IMPL_H_
 

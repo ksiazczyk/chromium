@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the remoting client common source set
+summary: Defines the common source set for the remoting client, listing its source files and dependencies on base, protocol, signaling, and protobuf targets.

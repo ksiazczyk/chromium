@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows service handle traits for ScopedScHandle
+// summary: Defines ScHandleTraits and the ScopedScHandle type that automatically closes Windows service control manager handles.
+// ---
+
 #ifndef REMOTING_BASE_SCOPED_SC_HANDLE_WIN_H_
 #define REMOTING_BASE_SCOPED_SC_HANDLE_WIN_H_
 

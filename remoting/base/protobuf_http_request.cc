@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP unary request implementation
+// summary: Implements ProtobufHttpRequest, a unary protobuf HTTP request that downloads the response body, parses it and invokes the response callback with the resulting status.
+// ---
+
 #include "remoting/base/protobuf_http_request.h"
 
 #include <optional>

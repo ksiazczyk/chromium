@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capability string helpers declarations
+// summary: Declares helpers for checking membership in a space-separated capability string and intersecting client and host capability sets.
+// ---
+
 #ifndef REMOTING_BASE_CAPABILITIES_H_
 #define REMOTING_BASE_CAPABILITIES_H_
 

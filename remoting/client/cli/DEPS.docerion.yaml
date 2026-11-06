@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the CLI client
+summary: Specifies the allowed include rules for mojo core embedder, net, remoting/protocol and network services in this directory.

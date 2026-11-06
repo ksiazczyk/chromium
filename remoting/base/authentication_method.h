@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authentication method enum and helpers
+// summary: Defines the AuthenticationMethod enum covering shared-secret, paired, and SessionAuthz SPAKE2 modes with parsing helpers.
+// ---
+
 #ifndef REMOTING_BASE_AUTHENTICATION_METHOD_H_
 #define REMOTING_BASE_AUTHENTICATION_METHOD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email display utilities header
+// summary: Declares ElideEmail and FormatEmailForDisplay, which elide and sanitize email addresses for safe display in UI surfaces.
+// ---
+
 #ifndef REMOTING_BASE_EMAIL_UTILS_H_
 #define REMOTING_BASE_EMAIL_UTILS_H_
 

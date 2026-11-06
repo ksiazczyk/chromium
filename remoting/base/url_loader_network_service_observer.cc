@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader network service observer implementation
+// summary: Implements the URLLoaderNetworkServiceObserver Mojo interface, handling client certificate selection and SSL-related events for remoting URL loads.
+// ---
+
 #include "remoting/base/url_loader_network_service_observer.h"
 
 #include "base/functional/bind.h"

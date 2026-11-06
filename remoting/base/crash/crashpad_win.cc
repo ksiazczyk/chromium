@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Crashpad initialization
+// summary: Initializes Crashpad crash handling on Windows, starting the crashpad handler with upload annotations and logging and cleaning up the crash report database.
+// ---
+
 #include "remoting/base/crash/crashpad_win.h"
 
 #include "base/base_paths.h"

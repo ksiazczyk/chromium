@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email elision utilities implementation
+// summary: Implements email elision that preserves the username prefix and domain suffix, with helpers for safe UTF-16 truncation and middle elision.
+// ---
+
 #include "remoting/base/email_utils.h"
 
 #include <algorithm>

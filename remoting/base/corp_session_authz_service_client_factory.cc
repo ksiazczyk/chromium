@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpSessionAuthzServiceClientFactory implementation
+// summary: Implements the factory that creates Corp SessionAuthz service clients, wiring up OAuth token getters and reporting the corp session authz authentication method.
+// ---
+
 #include "remoting/base/corp_session_authz_service_client_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtobufHttpStreamRequest header
+// summary: Declares the server-streaming protobuf HTTP request class with typed message callbacks and a stream-ready timeout.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_STREAM_REQUEST_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_STREAM_REQUEST_H_
 

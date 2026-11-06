@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpSessionAuthzServiceClientFactory header
+// summary: Declares the SessionAuthzServiceClientFactory implementation that creates Corp SessionAuthz service clients for service accounts or support sessions.
+// ---
+
 #ifndef REMOTING_BASE_CORP_SESSION_AUTHZ_SERVICE_CLIENT_FACTORY_H_
 #define REMOTING_BASE_CORP_SESSION_AUTHZ_SERVICE_CLIENT_FACTORY_H_
 

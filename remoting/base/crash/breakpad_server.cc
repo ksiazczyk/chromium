@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breakpad out-of-process crash server
+// summary: Implements the Windows Breakpad crash generation server that serves a secured named pipe and writes metadata for client minidumps.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

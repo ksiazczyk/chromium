@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host logging initialization
+// summary: Defines InitHostLoggingCommon, which enables verbose WebRTC logging through the vmodule switch when built with verbose logging enabled.
+// ---
+
 #include "remoting/base/logging.h"
 
 #include "base/command_line.h"

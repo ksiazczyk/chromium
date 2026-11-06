@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Environment details header
+// summary: Declares functions returning the build version and the operating system name and version in a consistent format.
+// ---
+
 #ifndef REMOTING_BASE_ENVIRONMENT_DETAILS_H_
 #define REMOTING_BASE_ENVIRONMENT_DETAILS_H_
 

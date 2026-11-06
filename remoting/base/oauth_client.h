@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth client interface
+// summary: Interface for redeeming an OAuth authorization code to obtain a refresh token and, optionally, the user's email address.
+// ---
+
 #ifndef REMOTING_BASE_OAUTH_CLIENT_H_
 #define REMOTING_BASE_OAUTH_CLIENT_H_
 

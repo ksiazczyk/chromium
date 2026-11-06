@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token getter interface
+// summary: Interface for a class that caches OAuth access tokens, refreshes them as needed, and reports success, network or auth errors to callers.
+// ---
+
 #ifndef REMOTING_BASE_OAUTH_TOKEN_GETTER_H_
 #define REMOTING_BASE_OAUTH_TOKEN_GETTER_H_
 

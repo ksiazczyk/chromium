@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunningSamples implementation
+// summary: Implements RunningSamples methods to record samples and compute the average and maximum over a sliding window of the most recent values.
+// ---
+
 #include "remoting/base/running_samples.h"
 
 #include <algorithm>

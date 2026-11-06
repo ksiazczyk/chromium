@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token getter credentials implementation
+// summary: Implements the OAuthAuthorizationCredentials and OAuthIntermediateCredentials structs that carry refresh tokens and authorization codes.
+// ---
+
 #include "remoting/base/oauth_token_getter_impl.h"
 
 #include <utility>

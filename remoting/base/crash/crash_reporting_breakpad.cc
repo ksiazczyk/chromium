@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breakpad reporting initialization
+// summary: Implements entry points that initialize Breakpad crash reporting and out-of-process crash clients on Windows.
+// ---
+
 #include "remoting/base/crash/crash_reporting_breakpad.h"
 
 #if BUILDFLAG(IS_WIN)

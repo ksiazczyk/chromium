@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client logging macros bypassing spam checks
+// summary: Defines CLIENT_LOG and CLIENT_DLOG macros so Chromoting client code can log info messages without tripping the CheckSpamLogging presubmit check.
+// ---
+
 #ifndef REMOTING_CLIENT_COMMON_LOGGING_H_
 #define REMOTING_CLIENT_COMMON_LOGGING_H_
 

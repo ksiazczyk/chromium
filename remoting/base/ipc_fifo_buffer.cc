@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo data pipe backed FIFO buffer writer and reader implementation
+// summary: Implements FIFO buffer reading and writing over Mojo data pipe handles, handling wait, peer-closed, and error results.
+// ---
+
 #include "remoting/base/ipc_fifo_buffer.h"
 
 #include <limits>

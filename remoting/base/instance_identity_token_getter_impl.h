@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the caching instance identity token getter implementation
+// summary: Declares InstanceIdentityTokenGetterImpl, which caches and refreshes instance identity tokens for Compute Engine service requests.
+// ---
+
 #ifndef REMOTING_BASE_INSTANCE_IDENTITY_TOKEN_GETTER_IMPL_H_
 #define REMOTING_BASE_INSTANCE_IDENTITY_TOKEN_GETTER_IMPL_H_
 

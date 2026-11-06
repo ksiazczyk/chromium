@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoThread implementation
+// summary: Implements self-joining threads that stay alive while their AutoThreadTaskRunner is referenced and clean up automatically.
+// ---
+
 #include "remoting/base/auto_thread.h"
 
 #include <memory>

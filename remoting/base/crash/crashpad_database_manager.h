@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashpadDatabaseManager class header
+// summary: Declares the CrashpadDatabaseManager class and GetCrashpadDatabasePath helper for initializing the database, enabling uploads, and logging or cleaning up crash reports.
+// ---
+
 #ifndef REMOTING_BASE_CRASH_CRASHPAD_DATABASE_MANAGER_H_
 #define REMOTING_BASE_CRASH_CRASHPAD_DATABASE_MANAGER_H_
 

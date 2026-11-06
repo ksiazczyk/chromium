@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task runner callback utilities
+// summary: Header providing WrapCallbackToCurrentSequence and PostWithCallback helpers that run callbacks on the sequence from which a task was posted.
+// ---
+
 #ifndef REMOTING_BASE_TASK_UTIL_H_
 #define REMOTING_BASE_TASK_UTIL_H_
 

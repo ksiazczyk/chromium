@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsGoogleEmail declaration header
+// summary: Declares the IsGoogleEmail function that reports whether an email address is a Google email.
+// ---
+
 #ifndef REMOTING_BASE_IS_GOOGLE_EMAIL_H_
 #define REMOTING_BASE_IS_GOOGLE_EMAIL_H_
 
