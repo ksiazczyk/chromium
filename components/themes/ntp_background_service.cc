@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the NTP background service
+// summary: Implements network fetches of wallpaper collections, collection images, and next images from the Backdrop backends, with configurable base URLs and traffic annotations.
+// ---
+
 #include "components/themes/ntp_background_service.h"
 
 #include <optional>

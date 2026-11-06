@@ -1,0 +1,4 @@
+# Docerion header of ecdh.json.
+type: data
+title: ECDH key derivation test vectors
+summary: JSON test vectors for WebCrypto ECDH key derivation, combining public and private keys and listing expected derived bytes for various bit lengths.

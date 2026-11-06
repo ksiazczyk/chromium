@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchContext class declaration
+// summary: Declares the class encapsulating a Contextual Search context with surrounding text, selection offsets, base page URL, and resolve properties.
+// ---
+
 #ifndef COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_CONTEXT_H_
 #define COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_CONTEXT_H_
 

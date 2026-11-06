@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the ThinWebView class
+// summary: Declares ThinWebView, a WebContentsObserver and native counterpart of ThinWebViewImpl.java that manages WebContents attachment and sizing.
+// ---
+
 #ifndef COMPONENTS_THIN_WEBVIEW_INTERNAL_THIN_WEBVIEW_H_
 #define COMPONENTS_THIN_WEBVIEW_INTERNAL_THIN_WEBVIEW_H_
 

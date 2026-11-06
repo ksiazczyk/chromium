@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing scenarios config header
+// summary: Declares tracing feature flags, their parameters and functions for parsing and retrieving tracing scenario configurations.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_TRACING_SCENARIOS_CONFIG_H_
 #define COMPONENTS_TRACING_COMMON_TRACING_SCENARIOS_CONFIG_H_
 

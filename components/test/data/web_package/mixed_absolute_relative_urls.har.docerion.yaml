@@ -1,0 +1,4 @@
+# Docerion header of mixed_absolute_relative_urls.har.
+type: data
+title: HAR archive with mixed absolute and relative URLs
+summary: HAR archive with one absolute and two relative URL entries used to test web bundle URL handling.

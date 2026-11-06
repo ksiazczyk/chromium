@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW system data source implementation for Windows
+// summary: Implements the Perfetto EtwSystemDataSource that starts a Windows ETW system trace session, maps provider keywords to ETW flags, and writes system events into Perfetto traces.
+// ---
+
 #include "components/tracing/common/etw_system_data_source_win.h"
 
 #include <windows.h>

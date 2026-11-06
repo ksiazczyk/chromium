@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW track event export declaration
+// summary: Declares EnableETWExport(), which enables exporting of Perfetto track events to ETW in the current process on Windows.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_ETW_EXPORT_WIN_H_
 #define COMPONENTS_TRACING_COMMON_ETW_EXPORT_WIN_H_
 

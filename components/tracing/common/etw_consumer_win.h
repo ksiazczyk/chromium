@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW consumer class for Windows
+// summary: Declares the EtwConsumer class, which consumes Windows ETW events on behalf of a client process and emits corresponding Perfetto trace events.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_ETW_CONSUMER_WIN_H_
 #define COMPONENTS_TRACING_COMMON_ETW_CONSUMER_WIN_H_
 

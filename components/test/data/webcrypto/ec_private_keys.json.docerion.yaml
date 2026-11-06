@@ -1,0 +1,4 @@
+# Docerion header of ec_private_keys.json.
+type: data
+title: EC private key test fixtures
+summary: JSON fixture of valid EC private keys for the P-256, P-384 and P-521 curves given in both JWK and hex-encoded PKCS8 representations.

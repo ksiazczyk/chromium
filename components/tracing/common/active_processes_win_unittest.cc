@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActiveProcesses on Windows
+// summary: Unit tests verifying process and thread categorization, image tracking, and client detection behavior of ActiveProcesses.
+// ---
+
 #include "components/tracing/common/active_processes_win.h"
 
 #include <windows.h>

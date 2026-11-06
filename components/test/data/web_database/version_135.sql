@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test data, schema version 135
+-- summary: SQL dump of a web database at schema version 135, adding a card_info_retrieval_enrollment_state column to masked credit cards, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

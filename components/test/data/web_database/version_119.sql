@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 119 test fixture
+-- summary: SQL dump creating a web database at schema version 119 with tables for keywords, autofill, cards, offers and contact info, used as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

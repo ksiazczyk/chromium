@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW stack sampling debug ID collection
+// summary: Collects paths and debug IDs for images of interest and adds them to the trace data source config to support symbolization of ETW stack sampling.
+// ---
+
 #include "components/tracing/common/etw_stack_sampling_win.h"
 
 #include <windows.h>

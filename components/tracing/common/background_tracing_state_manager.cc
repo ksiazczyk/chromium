@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tracing state manager implementation
+// summary: Implements persistence of background tracing state, including enabled scenario hashes and the privacy filter setting, in local state prefs.
+// ---
+
 #include "components/tracing/common/background_tracing_state_manager.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser theme color policy handler declaration
+// summary: Declares ThemeColorPolicyHandler, a TypeCheckingPolicyHandler that validates and applies the BrowserThemeColor policy.
+// ---
+
 #ifndef COMPONENTS_THEMES_THEME_COLOR_POLICY_HANDLER_H_
 #define COMPONENTS_THEMES_THEME_COLOR_POLICY_HANDLER_H_
 

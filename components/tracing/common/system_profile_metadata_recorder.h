@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System profile metadata recorder header
+// summary: Declares functions that record system profile metadata and fill Chrome metadata packets in Perfetto traces.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_SYSTEM_PROFILE_METADATA_RECORDER_H_
 #define COMPONENTS_TRACING_COMMON_SYSTEM_PROFILE_METADATA_RECORDER_H_
 

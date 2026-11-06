@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewActionModeCallback
+// summary: ActionMode callback for ThinWebView that delegates selection popup menu handling to the ActionModeCallbackHelper of the WebContents.
+// ---
+
 package org.chromium.components.thinwebview.internal;
 
 import android.graphics.Rect;

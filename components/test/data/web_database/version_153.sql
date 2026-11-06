@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database schema version 153
+-- summary: SQL dump of the web database schema at version 153, adding an is_user_confirmed column to credit_cards, used as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

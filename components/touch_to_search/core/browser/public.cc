@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search public constants implementation
+// summary: Defines the public constants for the Contextual Search field trial name and the Contextual Cards integration version codes and mixin values.
+// ---
+
 #include "components/touch_to_search/core/browser/public.h"
 
 namespace contextual_search {

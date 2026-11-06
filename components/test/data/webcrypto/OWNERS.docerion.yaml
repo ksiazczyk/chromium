@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebCrypto test data OWNERS
+summary: Ownership file for the webcrypto test data directory that delegates to the webcrypto component owners and lets anyone update the bundle data filelist.

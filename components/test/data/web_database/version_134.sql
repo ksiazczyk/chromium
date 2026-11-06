@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test data, schema version 134
+-- summary: SQL dump of a web database at schema version 134, replacing local_addresses with a unified addresses table and adding masked bank account tables, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

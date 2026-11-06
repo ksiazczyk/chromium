@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ETW consumer unit tests for Windows
+// summary: Tests the Windows ETW consumer using a fake trace writer and hand-encoded ETW event records to verify event handling and conversion.
+// ---
+
 #include "components/tracing/common/etw_consumer_win.h"
 
 #include <windows.h>

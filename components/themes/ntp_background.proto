@@ -5,6 +5,12 @@
 // Protocol buffer messages to get image information from the Backdrop
 // service, including collection names, image urls and descriptions.
 
+// ---docerion
+// type: source
+// title: Protobuf messages for NTP background collections
+// summary: Defines proto2 messages for the Backdrop service covering image attribution, collections, and requests and responses for fetching collections and images.
+// ---
+
 syntax = "proto2";
 
 package ntp.background;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image URL options implementation for themes
+// summary: Implements platform-specific image URL option strings and helpers to add or remove resizing options from thumbnail and background image URLs.
+// ---
+
 #include "components/themes/common/image_url_options.h"
 
 #include "build/build_config.h"

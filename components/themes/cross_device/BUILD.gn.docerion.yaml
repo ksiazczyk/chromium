@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for cross-device theme components
+summary: GN build file defining the features, cross_device, and unit_tests source sets with their dependencies for the cross-device theme component.

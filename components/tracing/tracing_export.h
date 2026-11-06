@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing export macro header
+// summary: Declares the TRACING_EXPORT macro that controls symbol export and import for the tracing component on Windows and component builds.
+// ---
+
 #ifndef COMPONENTS_TRACING_TRACING_EXPORT_H_
 #define COMPONENTS_TRACING_TRACING_EXPORT_H_
 

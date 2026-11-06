@@ -4,6 +4,12 @@
 
 // Provides public definitions.
 
+// ---docerion
+// type: source
+// title: Contextual Search public constants header
+// summary: Declares the public constants for the Contextual Search field trial and the Contextual Cards API integration codes, including entity, quick action, URL, definitions, translations, diagnostic, and mixin values.
+// ---
+
 #ifndef COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_PUBLIC_H_
 #define COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_PUBLIC_H_
 

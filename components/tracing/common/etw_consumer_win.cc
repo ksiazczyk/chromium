@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW consumer implementation for Windows
+// summary: Implements a consumer of Windows ETW events that converts them into Perfetto trace events, including privacy-preserving pointer hashing and QPC timestamp conversion.
+// ---
+
 #include "components/tracing/common/etw_consumer_win.h"
 
 #include <windows.h>

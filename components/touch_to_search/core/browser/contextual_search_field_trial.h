@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchFieldTrial class declaration
+// summary: Declares the class managing Contextual Search field trial parameters with cached values for resolver URL and surrounding sizes.
+// ---
+
 #ifndef COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_FIELD_TRIAL_H_
 #define COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_FIELD_TRIAL_H_
 

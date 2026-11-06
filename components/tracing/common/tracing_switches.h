@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing command-line switches header
+// summary: Declares the exported constants for tracing-related command-line switches used across the tracing component.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_TRACING_SWITCHES_H_
 #define COMPONENTS_TRACING_COMMON_TRACING_SWITCHES_H_
 

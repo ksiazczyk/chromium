@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS test directory
+summary: Declares the allowed include dependencies for the directory, granting access to the third_party/ocmock library.

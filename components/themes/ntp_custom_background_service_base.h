@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP custom background service base class header
+// summary: Declares NtpCustomBackgroundServiceBase, a KeyedService base class managing custom NTP background preferences and interactions with NtpBackgroundService.
+// ---
+
 #ifndef COMPONENTS_THEMES_NTP_CUSTOM_BACKGROUND_SERVICE_BASE_H_
 #define COMPONENTS_THEMES_NTP_CUSTOM_BACKGROUND_SERVICE_BASE_H_
 

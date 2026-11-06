@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTracingMetricsProvider class declaration
+// summary: Declares a metrics provider that supplies background tracing trace logs to UMA as independent metrics, with hooks for embedder processing.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 #define COMPONENTS_TRACING_COMMON_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 

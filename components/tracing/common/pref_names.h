@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing preference names header
+// summary: Declares the background tracing session state preference name constant and the preference registration function for the tracing component.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_PREF_NAMES_H_
 #define COMPONENTS_TRACING_COMMON_PREF_NAMES_H_
 

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 112 SQL test fixture
+-- summary: SQL dump of a web database at schema version 112 with autofill, credit card, IBAN, and keyword tables including an enforced_by_policy column, used for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

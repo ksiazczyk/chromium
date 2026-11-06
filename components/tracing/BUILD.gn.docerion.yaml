@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the tracing component
+summary: Defines GN build targets for the Chromium tracing component, including graphics provider, tracing config, Windows ETW, metrics, background tracing utils and unit tests.

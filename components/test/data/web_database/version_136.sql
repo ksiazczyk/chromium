@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database test dump for schema version 136
+-- summary: SQL dump of the autofill web database at schema version 136, creating tables for credit cards, addresses, IBANs, offers and related metadata for migration testing.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

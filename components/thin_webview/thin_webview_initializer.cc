@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewInitializer implementation
+// summary: Implements global instance storage for ThinWebViewInitializer with SetInstance and GetInstance.
+// ---
+
 #include "components/thin_webview/thin_webview_initializer.h"
 
 namespace thin_webview {

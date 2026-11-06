@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextualSearchDelegateImpl unit tests
+// summary: Unit tests for the native delegate covering surrounding text sampling, discourse context headers, and search term response decoding.
+// ---
+
 #include "components/touch_to_search/core/browser/contextual_search_delegate_impl.h"
 
 #include <stddef.h>

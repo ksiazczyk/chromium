@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data structures for NTP background collections
+// summary: Declares the ErrorType enum and structs describing background collections, collection images, errors, and custom new tab page backgrounds.
+// ---
+
 #ifndef COMPONENTS_THEMES_NTP_BACKGROUND_DATA_H_
 #define COMPONENTS_THEMES_NTP_BACKGROUND_DATA_H_
 

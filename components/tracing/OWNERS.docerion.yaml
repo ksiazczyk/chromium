@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tracing component
+summary: Sets ownership for the tracing directory by inheriting the owners file of base/trace_event.

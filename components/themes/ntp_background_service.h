@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the NTP background service
+// summary: Declares the KeyedService that fetches background image collection information from backends and notifies observers, along with the NtpImageType enum.
+// ---
+
 #ifndef COMPONENTS_THEMES_NTP_BACKGROUND_SERVICE_H_
 #define COMPONENTS_THEMES_NTP_BACKGROUND_SERVICE_H_
 

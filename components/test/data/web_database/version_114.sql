@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 114 SQL test fixture
+-- summary: SQL dump of a web database at schema version 114, adding masked and unmasked credit card, server address, sync metadata, and offer data tables for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

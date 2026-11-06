@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of NTP background data structures
+// summary: Implements the CollectionInfo, CollectionImage, ErrorInfo, and CustomBackground structures, including proto conversion and the per-platform filtering label.
+// ---
+
 #include "components/themes/ntp_background_data.h"
 
 #include "build/build_config.h"

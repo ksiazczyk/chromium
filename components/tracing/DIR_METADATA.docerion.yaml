@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking and team contact
+summary: Maps the tracing directory to the Speed>Tracing monorail component, the tracing@chromium.org team email and a Buganizer component ID.

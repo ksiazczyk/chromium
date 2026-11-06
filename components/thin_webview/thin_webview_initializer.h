@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewInitializer interface header
+// summary: Declares a helper interface for setting up theming, attaching tab helpers, and adding context menus to WebContents.
+// ---
+
 #ifndef COMPONENTS_THIN_WEBVIEW_THIN_WEBVIEW_INITIALIZER_H_
 #define COMPONENTS_THIN_WEBVIEW_THIN_WEBVIEW_INITIALIZER_H_
 

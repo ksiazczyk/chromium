@@ -1,0 +1,4 @@
+# Docerion header of test_utils_unittest.mm.
+type: test
+title: Unit tests for OCMock test helper macros
+summary: Unit tests verifying the OCMock helper macros for comparing, assigning, and copying C++ and NSObject arguments captured from mocked method calls.

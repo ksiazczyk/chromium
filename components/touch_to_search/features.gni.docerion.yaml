@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Touch To Search feature build arguments
+summary: GN arguments file declaring the build_contextual_search flag, which defaults to enabled on Android.

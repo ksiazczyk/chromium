@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing command-line switches implementation
+// summary: Defines command-line switches for startup, background and Perfetto tracing, including config files, durations, output and buffer handles.
+// ---
+
 #include "components/tracing/common/tracing_switches.h"
 
 namespace switches {

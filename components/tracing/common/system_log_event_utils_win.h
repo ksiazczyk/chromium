@@ -5,6 +5,12 @@
 // This file contains various helper functions for parsing data from buffers
 // holding encoded data from the Windows system trace provider.
 
+// ---docerion
+// type: source
+// title: Windows system trace event parsing helpers header
+// summary: Declares helper functions for parsing strings, wide strings and SIDs from buffers of encoded Windows system trace provider data.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_SYSTEM_LOG_EVENT_UTILS_WIN_H_
 #define COMPONENTS_TRACING_COMMON_SYSTEM_LOG_EVENT_UTILS_WIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Touch To Search component metadata
+summary: Declares the monorail component, team email and Buganizer component used for issues in the Touch To Search directory.

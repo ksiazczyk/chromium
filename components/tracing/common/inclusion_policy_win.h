@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InclusionPolicy class declaration
+// summary: Declares InclusionPolicy, which uses ActiveProcesses thread categories to decide which ETW tracing events should be included or recorded.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_INCLUSION_POLICY_WIN_H_
 #define COMPONENTS_TRACING_COMMON_INCLUSION_POLICY_WIN_H_
 

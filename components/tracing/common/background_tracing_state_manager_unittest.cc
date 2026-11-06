@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BackgroundTracingStateManager
+// summary: Unit tests verifying loading, saving, and updating of background tracing session state, including the privacy filter and enabled scenarios.
+// ---
+
 #include "components/tracing/common/background_tracing_state_manager.h"
 
 #include "base/json/json_writer.h"

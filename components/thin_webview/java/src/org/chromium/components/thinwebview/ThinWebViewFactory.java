@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewFactory for creating ThinWebView instances
+// summary: Factory that creates ThinWebView implementations, with a WindowAndroid-based variant and a test instance override hook.
+// ---
+
 package org.chromium.components.thinwebview;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of sha.json.
+type: data
+title: SHA digest test vectors
+summary: JSON test vectors with inputs and expected hex digests for SHA-1, SHA-256, SHA-384 and SHA-512, generated with the sha sum utilities.

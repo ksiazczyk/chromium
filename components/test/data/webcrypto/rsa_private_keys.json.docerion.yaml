@@ -1,0 +1,4 @@
+# Docerion header of rsa_private_keys.json.
+type: data
+title: RSA private key test fixtures
+summary: JSON fixture of RSA private keys from 512 to 4096 bits with matching JWK and hex-encoded PKCS8 representations for WebCrypto tests.

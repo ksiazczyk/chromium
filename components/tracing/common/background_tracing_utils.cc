@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tracing setup utilities
+// summary: Implements helpers that enable background tracing from proto config files, command line switches, or field trials, and write traces to output files.
+// ---
+
 #include "components/tracing/common/background_tracing_utils.h"
 
 #include <memory>

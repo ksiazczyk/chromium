@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchDelegateImpl implementation
+// summary: Implements server communication for Contextual Search, building the discourse context, sending resolve requests, and parsing JSON responses.
+// ---
+
 #include "components/touch_to_search/core/browser/contextual_search_delegate_impl.h"
 
 #include <algorithm>

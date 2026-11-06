@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active process tracking implementation for Windows
+// summary: Implements ActiveProcesses, which tracks and categorizes processes, threads, and loaded images from ETW events on behalf of the Windows tracing service.
+// ---
+
 #include "components/tracing/common/active_processes_win.h"
 
 #include <algorithm>

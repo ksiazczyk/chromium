@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for thin_webview
+summary: Declares the issue tracker component, OS, and buganizer component ID for the thin_webview directory.

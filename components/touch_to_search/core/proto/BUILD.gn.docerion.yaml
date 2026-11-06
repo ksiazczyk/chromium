@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the client discourse context proto
+summary: Defines the proto_library build target that compiles client_discourse_context.proto using the protobuf GN rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default preset tracing configuration
+// summary: Provides base64-encoded default AlwaysOn tracing configuration strings, with separate presets for Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_TRACING_COMMON_PRESET_TRACING_CONFIG_H_
 #define COMPONENTS_TRACING_COMMON_PRESET_TRACING_CONFIG_H_
 

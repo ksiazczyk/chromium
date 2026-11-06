@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the theme color policy handler
+// summary: Unit tests for ThemeColorPolicyHandler verifying valid and invalid hex color values, error reporting, and application of the theme color preference.
+// ---
+
 #include "components/themes/theme_color_policy_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

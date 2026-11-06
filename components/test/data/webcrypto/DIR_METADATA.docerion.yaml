@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebCrypto test data DIR_METADATA
+summary: Chromium metadata file that mixes in the common metadata from components/webcrypto for the webcrypto test data directory.

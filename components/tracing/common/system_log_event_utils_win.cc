@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system trace event parsing helpers implementation
+// summary: Implements helpers that copy null-terminated strings, wide strings and SIDs from buffers holding encoded Windows system trace provider data.
+// ---
+
 #include "components/tracing/common/system_log_event_utils_win.h"
 
 #include <windows.h>

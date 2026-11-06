@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewImpl
+// summary: FrameLayout implementation of the ThinWebView interface that displays live WebContents on a Surface-backed compositor view, managing window, dialogs, and context menus.
+// ---
+
 package org.chromium.components.thinwebview.internal;
 
 import android.content.Context;

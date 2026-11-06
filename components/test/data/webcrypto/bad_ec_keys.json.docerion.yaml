@@ -1,0 +1,4 @@
+# Docerion header of bad_ec_keys.json.
+type: data
+title: Bad EC keys for WebCrypto import tests
+summary: JSON fixture of malformed EC keys in JWK, PKCS8 and SPKI formats, each paired with the error expected when WebCrypto import rejects it.

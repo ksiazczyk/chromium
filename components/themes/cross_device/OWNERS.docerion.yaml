@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the cross-device theme directory
+summary: Points to the OWNERS file of the cross_device_pref_tracker component to reuse its list of reviewers.

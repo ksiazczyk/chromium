@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tracing component
+summary: Lists the allowed include rules for the tracing component, with extra content test permissions for browser and unit test files.

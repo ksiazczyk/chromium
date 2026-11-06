@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the thin_webview internal component
+summary: Defines the native static library, Java library, Robolectric test, and JNI header generation targets for the thin_webview internal code.

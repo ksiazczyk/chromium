@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Glob list of web package test data for unit test bundles
+summary: Generated glob patterns selecting web package test data files for iOS unit test bundles and not meant for manual edits.

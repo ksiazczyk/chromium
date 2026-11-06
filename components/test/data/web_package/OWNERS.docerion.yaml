@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for web package test data
+summary: Per-file OWNERS rule allowing anyone to update the unit test bundle data filelist.

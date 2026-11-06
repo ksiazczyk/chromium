@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS test utilities
+summary: Defines GN source_set targets for the iOS test helper header and its unit tests, with dependencies on OCMock and Google Test.

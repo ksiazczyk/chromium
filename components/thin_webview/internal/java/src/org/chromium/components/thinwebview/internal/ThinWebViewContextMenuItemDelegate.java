@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThinWebViewContextMenuItemDelegate
+// summary: Context menu item delegate for ThinWebView handling actions such as opening links in new tabs, incognito, windows, ephemeral tabs, and read later.
+// ---
+
 package org.chromium.components.thinwebview.internal;
 
 import android.content.Context;

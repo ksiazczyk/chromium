@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Web database version 123 test fixture
+-- summary: SQL dump creating a web database at schema version 123 with card, address and contact info tables including product terms metadata, used as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

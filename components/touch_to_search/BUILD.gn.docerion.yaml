@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch To Search build flags build target
+summary: GN build file defining a buildflag header that exposes the BUILD_CONTEXTUAL_SEARCH flag to the rest of the build.

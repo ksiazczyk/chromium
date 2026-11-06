@@ -1,3 +1,12 @@
+---
+type: readme
+title: Generating signed web bundles for testing
+summary: Explains how signed web bundles for tests are generated, covering the wbn-sign CLI tools and deterministic C++ signing needed for byte-wise comparison tests.
+relations:
+  - documents /components/web_package/test_support/signed_web_bundles/web_bundle_signer.h
+  - references /components/web_package/test_support/signed_web_bundles/web_bundle_signer.cc
+---
+
 # Generating signed web bundles for testing
 ## In general
 - [wbn-sign CLI tools](https://github.com/WICG/webpackage/tree/main/js/sign#cli) provide functionalities for signing the web bundles and inferring the signed web bundle ID from the key.

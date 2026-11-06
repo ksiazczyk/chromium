@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace event performance tests
+// summary: GTest benchmarks measuring trace event submission, flush time, and TracedValue creation for base trace_event using the perf stopwatch helpers.
+// ---
+
 #include "base/trace_event/trace_event.h"
 
 #include <memory>

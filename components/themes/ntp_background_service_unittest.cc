@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the NTP background service
+// summary: Unit tests for NtpBackgroundService covering collection info and image fetches, network success and error responses, observer notifications, and histogram metrics.
+// ---
+
 #include "components/themes/ntp_background_service.h"
 
 #include <utility>

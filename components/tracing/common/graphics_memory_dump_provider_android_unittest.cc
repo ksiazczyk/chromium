@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android graphics memory dump provider
+// summary: Tests parsing of memtrack_helper responses into memory allocator dumps, including handling of truncated input.
+// ---
+
 #include "components/tracing/common/graphics_memory_dump_provider_android.h"
 #include "base/trace_event/memory_allocator_dump.h"
 #include "base/trace_event/process_memory_dump.h"

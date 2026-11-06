@@ -1,0 +1,4 @@
+# Docerion header of 24_responses.har.
+type: data
+title: HAR archive with 24 test responses
+summary: HAR archive recording 24 HTTP request and response entries used as input data for web bundle tests.

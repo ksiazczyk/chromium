@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchDelegateImpl class declaration
+// summary: Declares the delegate implementation handling surrounding text gathering and search term resolution through the network URL loader factory.
+// ---
+
 #ifndef COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_DELEGATE_IMPL_H_
 #define COMPONENTS_TOUCH_TO_SEARCH_CORE_BROWSER_CONTEXTUAL_SEARCH_DELEGATE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme specifics comparer helpers
+// summary: Provides field-by-field equality helpers for theme protocol messages, specialized per platform to avoid unstable serialization-based comparisons.
+// ---
+
 #ifndef COMPONENTS_THEMES_CROSS_DEVICE_THEME_COMPARER_H_
 #define COMPONENTS_THEMES_CROSS_DEVICE_THEME_COMPARER_H_
 
