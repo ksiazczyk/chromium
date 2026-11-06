@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Strike database unit tests
+// summary: Unit tests for the StrikeDatabase class exercising add, get and clear of proto strike entries against a real ProtoDatabase.
+// ---
+
 #include "components/strike_database/strike_database.h"
 
 #include <utility>

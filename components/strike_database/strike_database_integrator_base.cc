@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database integrator base implementation
+// summary: Implements per-project strike integrator logic that decides whether to block a feature based on strike limits and required delays.
+// ---
+
 #include "components/strike_database/strike_database_integrator_base.h"
 
 #include <algorithm>

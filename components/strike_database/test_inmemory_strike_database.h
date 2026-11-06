@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory test strike database header
+// summary: Declares TestInMemoryStrikeDatabase, a simplified in-memory StrikeDatabaseBase implementation for testing purposes.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_TEST_INMEMORY_STRIKE_DATABASE_H_
 #define COMPONENTS_STRIKE_DATABASE_TEST_INMEMORY_STRIKE_DATABASE_H_
 

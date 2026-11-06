@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database integrator base declaration
+// summary: Declares StrikeDatabaseIntegratorBase, the base class projects extend to record strikes and decide whether features are blocked.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_INTEGRATOR_BASE_H_
 #define COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_INTEGRATOR_BASE_H_
 

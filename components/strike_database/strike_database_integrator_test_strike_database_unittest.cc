@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Strike database integrator test strike database unit tests
+// summary: Unit tests for StrikeDatabaseIntegratorTestStrikeDatabase covering strike limits, histograms and the disable-strike-system flag.
+// ---
+
 #include "components/strike_database/strike_database_integrator_test_strike_database.h"
 
 #include <utility>

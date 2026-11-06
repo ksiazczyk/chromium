@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clearable strike database unit tests
+// summary: Unit tests verifying that strikes are removed by origin, and by origin within a time window, when browsing history is deleted.
+// ---
+
 #include "components/strike_database/history_clearable_strike_database.h"
 
 #include <optional>

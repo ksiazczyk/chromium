@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple strike database
+// summary: Header defining a templated strike database configured through traits, reducing boilerplate for simple strike counting without special logic.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_SIMPLE_STRIKE_DATABASE_H_
 #define COMPONENTS_STRIKE_DATABASE_SIMPLE_STRIKE_DATABASE_H_
 

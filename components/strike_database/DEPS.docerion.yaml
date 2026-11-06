@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the strike database
+summary: Chromium dependency rules allowing includes from the history, keyed service and leveldb_proto components.

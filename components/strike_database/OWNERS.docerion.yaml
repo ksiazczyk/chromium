@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the strike database folder
+summary: Owners file delegating code ownership of this directory to the Autofill component owners.

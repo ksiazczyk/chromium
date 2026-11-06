@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike data protobuf definition
+// summary: Protobuf definition of the StrikeData message storing the number of strikes and the timestamp of the last strike update for an entry.
+// ---
+
 syntax = "proto2";
 
 package strike_database;

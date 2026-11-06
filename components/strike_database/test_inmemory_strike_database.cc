@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory test strike database implementation
+// summary: Implements a cache-only StrikeDatabaseBase variant that stores strikes in memory for use in tests.
+// ---
+
 #include "components/strike_database/test_inmemory_strike_database.h"
 
 #include <algorithm>
