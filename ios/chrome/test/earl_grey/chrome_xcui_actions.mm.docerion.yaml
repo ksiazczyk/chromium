@@ -1,0 +1,4 @@
+# Docerion header of chrome_xcui_actions.mm.
+type: test
+title: XCUI test action implementations
+summary: Implements XCUITest helpers that locate elements in windows and perform long-press drags, taps and splitter resizing.

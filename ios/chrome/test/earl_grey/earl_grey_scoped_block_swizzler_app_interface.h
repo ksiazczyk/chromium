@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped block swizzler app interface
+// summary: Declares the app-side interface for creating and deleting scoped block swizzlers identified by unique ids.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_EARL_GREY_SCOPED_BLOCK_SWIZZLER_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_EARL_GREY_EARL_GREY_SCOPED_BLOCK_SWIZZLER_APP_INTERFACE_H_
 

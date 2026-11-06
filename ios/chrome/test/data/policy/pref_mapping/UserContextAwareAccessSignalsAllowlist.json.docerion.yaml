@@ -1,0 +1,4 @@
+# Docerion header of UserContextAwareAccessSignalsAllowlist.json.
+type: test
+title: UserContextAwareAccessSignalsAllowlist policy pref mapping test data
+summary: Test data mapping the UserContextAwareAccessSignalsAllowlist policy to the enterprise_connectors.device_trust_user.origins preference on iOS.

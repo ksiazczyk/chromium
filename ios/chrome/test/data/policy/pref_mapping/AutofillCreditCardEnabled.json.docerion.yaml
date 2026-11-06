@@ -1,0 +1,4 @@
+# Docerion header of AutofillCreditCardEnabled.json.
+type: test
+title: AutofillCreditCardEnabled policy pref mapping test data
+summary: Test data verifying the AutofillCreditCardEnabled policy maps to the autofill.credit_card_enabled preference, covering the default and an explicitly set value.

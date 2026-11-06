@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for iOS Chrome test app
+summary: Delegates per-file review of signin and sync test utilities to the corresponding component owner files.

@@ -1,0 +1,4 @@
+# Docerion header of sync_test_util.mm.
+type: test
+title: Sync test utility implementation
+summary: Implements fake sync server setup, entity injection, persistence, and sync state verification helpers for iOS Chrome tests.

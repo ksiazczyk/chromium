@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App interface for ScopedTraitOverrider
+// summary: Declares app-side helpers that read and write view controller trait overrides in the app process so UIKit sees the app's trait classes.
+// ---
+
 #ifndef IOS_CHROME_TEST_SCOPED_EG_TRAITS_OVERRIDER_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_SCOPED_EG_TRAITS_OVERRIDER_APP_INTERFACE_H_
 

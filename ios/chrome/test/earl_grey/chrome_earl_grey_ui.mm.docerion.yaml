@@ -1,0 +1,4 @@
+# Docerion header of chrome_earl_grey_ui.mm.
+type: test
+title: chrome_earl_grey_ui
+summary: Implementation of the ChromeEarlGreyUI helpers that perform UI actions like opening menus, scrolling and tapping settings buttons during Earl Grey tests.

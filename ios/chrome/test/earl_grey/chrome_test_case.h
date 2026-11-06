@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTestCase base class for Earl Grey tests
+// summary: Declares ChromeTestCase, the base class providing teardown helpers, mock authentication, and an embedded test server for Chrome Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_TEST_CASE_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_TEST_CASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of scoped_eg_synchronization_disabler.mm.
+type: test
+title: EarlGrey synchronization disabler implementation
+summary: Implements the scoped helper that toggles the shared GREYConfiguration synchronization setting for tests.

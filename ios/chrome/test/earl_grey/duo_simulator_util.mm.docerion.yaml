@@ -1,0 +1,4 @@
+# Docerion header of duo_simulator_util.mm.
+type: test
+title: Duo simulator utility implementation
+summary: Simulates hinge and orientation controls on the iPhone Duo simulator by sending vendor-defined IOHID events consumed by locationd.

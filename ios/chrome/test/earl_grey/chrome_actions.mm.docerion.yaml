@@ -1,0 +1,4 @@
+# Docerion header of chrome_actions.mm.
+type: test
+title: Chrome actions implementation
+summary: Implements the Chrome test action helpers by delegating each call to the ChromeActionsAppInterface class.

@@ -1,0 +1,4 @@
+# Docerion header of web_view_interaction_test_util.mm.
+type: test
+title: Web view interaction test utility implementations
+summary: Implements web view interaction helpers by delegating to web::test functions operating on the current WebState.

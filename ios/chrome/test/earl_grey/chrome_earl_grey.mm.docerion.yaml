@@ -1,0 +1,4 @@
+# Docerion header of chrome_earl_grey.mm.
+type: test
+title: chrome_earl_grey
+summary: Implementation of ChromeEarlGrey test helpers giving iOS Chrome Earl Grey tests shared utilities such as page load waiting, history checks and UI synchronization control.

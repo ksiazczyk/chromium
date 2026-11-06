@@ -1,0 +1,4 @@
+# Docerion header of PolicyAtomicGroupsEnabled.json.
+type: test
+title: PolicyAtomicGroupsEnabled pref mapping test data
+summary: Test data explaining that no pref mapping test exists for the PolicyAtomicGroupsEnabled policy because it has no pref and is read directly by the policy system.

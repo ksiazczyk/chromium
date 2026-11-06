@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped block popups pref
+// summary: Declares a scoper that changes the block-popups content setting for the original profile and restores the previous value on destruction.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_SCOPED_BLOCK_POPUPS_PREF_H_
 #define IOS_CHROME_TEST_EARL_GREY_SCOPED_BLOCK_POPUPS_PREF_H_
 

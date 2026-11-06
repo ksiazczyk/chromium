@@ -1,0 +1,4 @@
+# Docerion header of ManagedClientCertificateForBrowserConfig.json.
+type: test
+title: ManagedClientCertificateForBrowserConfig policy pref mapping test
+summary: Test data checking how the ManagedClientCertificateForBrowserConfig policy sets the managed browser client certificate pref in local state on iOS.

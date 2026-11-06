@@ -1,0 +1,4 @@
+# Docerion header of earl_grey_scoped_block_swizzler_app_interface_stub.mm.
+type: test
+title: Earl Grey scoped block swizzler app interface stub
+summary: Stub implementation of the scoped block swizzler app interface that registers the class as a stub in the app main queue for Earl Grey tests.

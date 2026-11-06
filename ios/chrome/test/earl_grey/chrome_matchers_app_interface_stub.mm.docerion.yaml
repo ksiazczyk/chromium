@@ -1,0 +1,4 @@
+# Docerion header of chrome_matchers_app_interface_stub.mm.
+type: test
+title: Chrome matchers app interface stub
+summary: Registers a stub ChromeMatchersAppInterface for test builds that do not link the full matcher implementation.

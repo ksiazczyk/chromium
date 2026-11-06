@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderEnabled.json.
+type: test
+title: DefaultSearchProviderEnabled policy pref mapping test data
+summary: Placeholder noting that no simple pref mapping test exists for the DefaultSearchProviderEnabled policy because its mapping is complex.

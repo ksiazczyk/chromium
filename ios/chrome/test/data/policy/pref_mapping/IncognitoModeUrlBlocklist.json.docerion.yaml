@@ -1,0 +1,4 @@
+# Docerion header of IncognitoModeUrlBlocklist.json.
+type: test
+title: IncognitoModeUrlBlocklist policy pref mapping test data
+summary: Test data verifying the simple mapping of the IncognitoModeUrlBlocklist policy to the incognito_mode_url_blocklist preference on iOS.

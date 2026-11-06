@@ -1,0 +1,4 @@
+# Docerion header of chrome_coordinator_app_interface.mm.
+type: test
+title: Chrome coordinator app interface implementation
+summary: Implements isolated startup and teardown of Chrome coordinators such as bookmarks, history, NTP and omnibox for testing.

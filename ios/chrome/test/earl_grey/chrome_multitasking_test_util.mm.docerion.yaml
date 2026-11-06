@@ -1,0 +1,4 @@
+# Docerion header of chrome_multitasking_test_util.mm.
+type: test
+title: Multitasking test utilities implementation
+summary: Implements multitasking utilities using XCTest coordinate gestures to enter windowed mode and resize windows between compact, regular, and fullscreen.

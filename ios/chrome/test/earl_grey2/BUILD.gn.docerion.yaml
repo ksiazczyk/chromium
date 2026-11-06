@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: EarlGrey 2 test build targets
+summary: Aggregates the iOS Chrome EarlGrey 2 (EG2) test modules and defines the app host targets used to run them.

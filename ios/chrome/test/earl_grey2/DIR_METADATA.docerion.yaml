@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for EarlGrey 2 tests
+summary: Points issues for this directory to the public Buganizer component 1457429.

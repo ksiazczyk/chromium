@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Earl Grey scoped block swizzler helper
+// summary: Declares a C++ helper that wraps ScopedBlockSwizzler for use in EG1 and EG2 Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_EARL_GREY_SCOPED_BLOCK_SWIZZLER_H_
 #define IOS_CHROME_TEST_EARL_GREY_EARL_GREY_SCOPED_BLOCK_SWIZZLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recording command dispatcher
+// summary: Declares a CommandDispatcher subclass that records dispatched selectors and lets tests attach actions to specific selectors.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_RECORDING_COMMAND_DISPATCHER_H_
 #define IOS_CHROME_TEST_EARL_GREY_RECORDING_COMMAND_DISPATCHER_H_
 

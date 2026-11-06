@@ -1,0 +1,4 @@
+# Docerion header of window_test_util.mm.
+type: test
+title: Window test utility implementations
+summary: Implements per-window helpers that resolve scene state, count main and incognito tabs, and open new tabs in iOS Chrome.

@@ -1,0 +1,4 @@
+# Docerion header of IdleTimeout.json.
+type: test
+title: IdleTimeout policy pref mapping test data
+summary: Test data verifying that the IdleTimeout policy sets the idle_timeout preference to the expected values on iOS.

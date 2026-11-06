@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Duo simulator utility declarations
+// summary: Declares helpers to detect the iPhone Duo simulator and simulate hinge angle and device orientation events for foldable testing.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_DUO_SIMULATOR_UTIL_H_
 #define IOS_CHROME_TEST_EARL_GREY_DUO_SIMULATOR_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: EGOpenExtension Info.plist
+summary: Bundle configuration for the EGOpenExtension share extension, declaring its URL-based activation rule, principal class, and extension point.

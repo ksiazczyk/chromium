@@ -1,0 +1,4 @@
+# Docerion header of fake_contained_presenter.mm.
+type: test
+title: Fake contained presenter implementation
+summary: Implements the fake contained presenter, embedding and removing the presented view controller and notifying its delegate on dismissal.

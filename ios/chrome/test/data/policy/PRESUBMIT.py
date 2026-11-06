@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for iOS policy test data
+# summary: Runs presubmit checks for the iOS policy test data directory, validating the test bundle data and policy test case platforms.
+# ---
+
 """Presubmit checks for //ios/chrome/test/data/policy
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

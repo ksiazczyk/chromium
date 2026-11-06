@@ -1,0 +1,4 @@
+# Docerion header of ManagedBookmarks.json.
+type: test
+title: ManagedBookmarks policy pref mapping test
+summary: Test data verifying that the ManagedBookmarks policy populates the managed bookmarks pref and its folder name on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of fake_enterprise_commands_handler.mm.
+type: test
+title: Fake enterprise commands handler implementation
+summary: Implements the fake enterprise commands handler, recording dialog type and organization domain and running the stored callback with false on dismissal.

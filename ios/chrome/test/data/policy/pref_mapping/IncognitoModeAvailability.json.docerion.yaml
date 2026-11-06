@@ -1,0 +1,4 @@
+# Docerion header of IncognitoModeAvailability.json.
+type: test
+title: IncognitoModeAvailability policy pref mapping test data
+summary: Test data verifying that the IncognitoModeAvailability policy maps to the incognito.mode_availability preference on iOS.

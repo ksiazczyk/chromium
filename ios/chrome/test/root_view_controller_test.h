@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RootViewControllerTest fixture declaration
+// summary: Declares a base test fixture that sets the key window's root view controller and restores the original one at teardown.
+// ---
+
 #ifndef IOS_CHROME_TEST_ROOT_VIEW_CONTROLLER_TEST_H_
 #define IOS_CHROME_TEST_ROOT_VIEW_CONTROLLER_TEST_H_
 

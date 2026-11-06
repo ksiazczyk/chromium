@@ -1,0 +1,4 @@
+# Docerion header of scoped_block_popups_pref.mm.
+type: test
+title: Scoped block popups pref implementation
+summary: Sets the popup blocking preference through ChromeEarlGrey and restores the original setting when the scoper goes out of scope.

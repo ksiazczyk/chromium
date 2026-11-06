@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderName.json.
+type: test
+title: DefaultSearchProviderName policy pref mapping test data
+summary: Declares no simple pref mapping test for the DefaultSearchProviderName policy, referring to PolicyTest.DefaultSearchProvider for full browser test coverage.

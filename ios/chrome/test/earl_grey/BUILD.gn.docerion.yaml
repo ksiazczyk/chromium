@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Earl Grey tests and support
+summary: Defines GN build targets for iOS Chrome Earl Grey test bundles, test hooks, and app-side Earl Grey test support sources.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_unit_test_suite.mm.
+type: test
+title: IOSChromeUnitTestSuite implementation
+summary: Implements the iOS Chrome unit test suite, initializing resources, en-US locale, testing application context, KeyedService factories, and per-test setup and teardown.

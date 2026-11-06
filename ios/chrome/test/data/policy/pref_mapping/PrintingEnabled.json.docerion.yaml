@@ -1,0 +1,4 @@
+# Docerion header of PrintingEnabled.json.
+type: test
+title: PrintingEnabled policy pref mapping test data
+summary: Test data mapping the PrintingEnabled policy to the printing.enabled preference with true and false test values on iOS.

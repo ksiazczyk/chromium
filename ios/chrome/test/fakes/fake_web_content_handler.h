@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake web content command handler for tests
+// summary: Declares a test fake for WebContentCommands that records method arguments such as App Store parameters and PassKit passes for tests to examine.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_WEB_CONTENT_HANDLER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_WEB_CONTENT_HANDLER_H_
 

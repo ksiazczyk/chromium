@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_test_util.mm.
+type: test
+title: browsing_data_test_util.mm
+summary: Implements browsing data clearing helpers using BrowsingDataRemover and WKWebsiteDataStore with waits for completion in iOS Chrome tests.

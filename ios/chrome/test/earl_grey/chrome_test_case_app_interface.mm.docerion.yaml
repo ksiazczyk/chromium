@@ -1,0 +1,4 @@
+# Docerion header of chrome_test_case_app_interface.mm.
+type: test
+title: Chrome test case app interface implementation
+summary: App-side helpers for Earl Grey tests covering mock authentication, info bar removal, signin IPH blocking and completion UUID tracking.

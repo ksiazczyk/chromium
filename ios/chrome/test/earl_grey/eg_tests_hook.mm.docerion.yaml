@@ -1,0 +1,4 @@
+# Docerion header of eg_tests_hook.mm.
+type: test
+title: Earl Grey tests hook
+summary: Implements the app tests hook for Earl Grey runs, wiring fake and mock services such as signin, sync, saved tab groups and commerce based on test command-line switches.

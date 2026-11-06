@@ -1,0 +1,4 @@
+# Docerion header of AIModeSettings.json.
+type: test
+title: AIModeSettings policy pref mapping test data
+summary: Test data verifying the AIModeSettings policy maps to the omnibox.ai_mode_settings preference on iOS, including its enterprise default.

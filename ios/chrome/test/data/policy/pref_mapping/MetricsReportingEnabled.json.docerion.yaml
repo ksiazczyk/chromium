@@ -1,0 +1,4 @@
+# Docerion header of MetricsReportingEnabled.json.
+type: test
+title: MetricsReportingEnabled policy pref mapping test
+summary: Test data verifying that the MetricsReportingEnabled policy controls the metrics reporting pref, including its recommended-only handling on iOS.

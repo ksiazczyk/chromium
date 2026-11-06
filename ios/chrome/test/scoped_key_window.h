@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedKeyWindow test utility header
+// summary: Declares ScopedKeyWindow, which sets a temporary key window for tests and restores the original key window on destruction.
+// ---
+
 #ifndef IOS_CHROME_TEST_SCOPED_KEY_WINDOW_H_
 #define IOS_CHROME_TEST_SCOPED_KEY_WINDOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome actions for Earl Grey tests
+// summary: Declares Chrome-specific Earl Grey actions such as tapping, long-pressing and scrolling web elements and table view cells.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_ACTIONS_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_ACTIONS_H_
 

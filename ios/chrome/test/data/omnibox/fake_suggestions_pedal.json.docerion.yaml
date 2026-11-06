@@ -1,0 +1,4 @@
+# Docerion header of fake_suggestions_pedal.json.
+type: test
+title: Fake omnibox pedal suggestions test data
+summary: JSON fixture defining fake omnibox suggestions for pedal-related queries such as incognito tab, passwords, and clear browsing data in iOS Chrome tests.

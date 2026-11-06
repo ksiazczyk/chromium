@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped allow crash on startup
+// summary: Declares a scoped helper that swizzles crash and error handlers so an app crash on startup does not immediately fail an Earl Grey test.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_SCOPED_ALLOW_CRASH_ON_STARTUP_H_
 #define IOS_CHROME_TEST_EARL_GREY_SCOPED_ALLOW_CRASH_ON_STARTUP_H_
 

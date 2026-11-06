@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EarlGrey test command-line switches
+// summary: Declares switches that configure EarlGrey test runs, covering fake services, identities, IPH, family status, and startup pause options.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_TEST_SWITCHES_H_
 #define IOS_CHROME_TEST_EARL_GREY_TEST_SWITCHES_H_
 

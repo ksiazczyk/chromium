@@ -1,0 +1,4 @@
+# Docerion header of UrlKeyedAnonymizedDataCollectionEnabled.json.
+type: test
+title: UrlKeyedAnonymizedDataCollectionEnabled policy pref mapping test data
+summary: Test data verifying that the UrlKeyedAnonymizedDataCollectionEnabled policy sets the url_keyed_anonymized_data_collection.enabled preference on iOS.

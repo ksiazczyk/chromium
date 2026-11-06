@@ -1,0 +1,4 @@
+# Docerion header of background_launch_app_interface.mm.
+type: test
+title: Implementation of background launch simulation
+summary: Implements background launch simulations for Earl Grey tests, including a minimal BGTask stand-in and scene foregrounding transitions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for iOS extension unit tests
+summary: GN build file defining the run_all_unittests source set and the ios_credential_provider_extension_unittests test target with its dependencies.

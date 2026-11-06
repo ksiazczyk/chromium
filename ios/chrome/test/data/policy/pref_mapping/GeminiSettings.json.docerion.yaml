@@ -1,0 +1,4 @@
+# Docerion header of GeminiSettings.json.
+type: test
+title: GeminiSettings policy pref mapping test data
+summary: Test data verifying the GeminiSettings policy maps to the ios.gemini_enabled_by_policy preference on iOS.

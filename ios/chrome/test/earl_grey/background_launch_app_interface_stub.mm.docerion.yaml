@@ -1,0 +1,4 @@
+# Docerion header of background_launch_app_interface_stub.mm.
+type: test
+title: Background launch app interface stub
+summary: Stub registration of BackgroundLaunchAppInterface for Earl Grey test builds that do not include the real implementation.

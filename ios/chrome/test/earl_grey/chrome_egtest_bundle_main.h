@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome_egtest_bundle_main
+// summary: Header for ChromeEGTestBundleMain, the NSPrincipalClass for EG2 test bundles that performs startup-related tasks.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_EGTEST_BUNDLE_MAIN_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_EGTEST_BUNDLE_MAIN_H_
 

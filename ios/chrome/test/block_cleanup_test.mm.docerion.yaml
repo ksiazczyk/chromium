@@ -1,0 +1,4 @@
+# Docerion header of block_cleanup_test.mm.
+type: test
+title: BlockCleanupTest fixture implementation
+summary: Implements run loop spinning and autorelease pool draining to release block-copied items after tests.

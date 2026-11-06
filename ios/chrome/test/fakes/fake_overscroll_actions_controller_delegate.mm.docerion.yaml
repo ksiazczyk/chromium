@@ -1,0 +1,4 @@
+# Docerion header of fake_overscroll_actions_controller_delegate.mm.
+type: test
+title: Fake overscroll actions controller delegate implementation
+summary: Implements the fake overscroll actions delegate, recording triggered actions such as new tab, close tab and refresh, and returning stub header values.

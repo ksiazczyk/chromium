@@ -1,0 +1,4 @@
+# Docerion header of ProvisionManagedClientCertificateForBrowser.json.
+type: test
+title: ProvisionManagedClientCertificateForBrowser policy pref mapping test data
+summary: Test data mapping the managed client certificate provisioning for browser policy to its local state preference with values 0 and 1 on iOS.

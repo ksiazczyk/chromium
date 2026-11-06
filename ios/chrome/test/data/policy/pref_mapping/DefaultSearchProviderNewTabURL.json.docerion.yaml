@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderNewTabURL.json.
+type: test
+title: DefaultSearchProviderNewTabURL policy pref mapping test data
+summary: Declares no simple pref mapping test for the DefaultSearchProviderNewTabURL policy, referring to PolicyTest.DefaultSearchProvider for full browser test coverage.

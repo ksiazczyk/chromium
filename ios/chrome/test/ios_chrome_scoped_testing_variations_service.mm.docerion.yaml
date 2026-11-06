@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_scoped_testing_variations_service.mm.
+type: test
+title: Scoped testing variations service for iOS Chrome tests
+summary: Implements IOSChromeScopedTestingVariationsService, which installs and tears down a test VariationsService in the testing application context for iOS Chrome unit tests.

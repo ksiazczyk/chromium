@@ -1,0 +1,4 @@
+# Docerion header of DownloadManagerSaveToDriveSettings.json.
+type: test
+title: DownloadManagerSaveToDriveSettings policy pref mapping test data
+summary: Test data verifying the DownloadManagerSaveToDriveSettings policy maps to the ios.save_to_drive.download_manager_policy preference on iOS.

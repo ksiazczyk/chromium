@@ -1,0 +1,4 @@
+# Docerion header of CloudPolicyOverridesPlatformPolicy.json.
+type: test
+title: CloudPolicyOverridesPlatformPolicy missing test placeholder
+summary: Placeholder explaining that CloudPolicyOverridesPlatformPolicy has no pref because it is read directly by the policy system.

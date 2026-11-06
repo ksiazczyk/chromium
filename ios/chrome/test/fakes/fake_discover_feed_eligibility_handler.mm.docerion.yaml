@@ -1,0 +1,4 @@
+# Docerion header of fake_discover_feed_eligibility_handler.mm.
+type: test
+title: Fake Discover feed eligibility handler implementation
+summary: Implements the fake Discover feed eligibility handler with configurable eligibility, observer counting and shutdown tracking.

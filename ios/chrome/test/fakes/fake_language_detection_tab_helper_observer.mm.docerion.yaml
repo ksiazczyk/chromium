@@ -1,0 +1,4 @@
+# Docerion header of fake_language_detection_tab_helper_observer.mm.
+type: test
+title: Fake language detection tab helper observer implementation
+summary: Implements the fake language detection observer, storing, retrieving and resetting language detection details received from the tab helper.

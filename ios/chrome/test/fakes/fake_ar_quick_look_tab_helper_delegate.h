@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AR Quick Look tab helper delegate header
+// summary: Declares a test fake of ARQuickLookTabHelperDelegate that records presented file URLs plus the latest canonical web page URL and content scaling flag.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_AR_QUICK_LOOK_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_AR_QUICK_LOOK_TAB_HELPER_DELEGATE_H_
 

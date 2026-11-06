@@ -1,0 +1,4 @@
+# Docerion header of UrlKeyedMetricsAllowed.json.
+type: test
+title: UrlKeyedMetricsAllowed policy pref mapping test data
+summary: Test data verifying how UrlKeyedMetricsAllowed interacts with UrlKeyedAnonymizedDataCollectionEnabled for the url_keyed_anonymized_data_collection.enabled preference on iOS.

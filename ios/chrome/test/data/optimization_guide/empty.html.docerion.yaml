@@ -1,0 +1,4 @@
+# Docerion header of empty.html.
+type: test
+title: Empty HTML test page
+summary: Empty HTML fixture serving as a blank page for optimization guide browser tests.

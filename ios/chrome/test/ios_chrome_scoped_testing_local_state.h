@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped testing local state helper header
+// summary: Declares a helper that temporarily installs a testing local state in the global TestingApplicationContext.
+// ---
+
 #ifndef IOS_CHROME_TEST_IOS_CHROME_SCOPED_TESTING_LOCAL_STATE_H_
 #define IOS_CHROME_TEST_IOS_CHROME_SCOPED_TESTING_LOCAL_STATE_H_
 

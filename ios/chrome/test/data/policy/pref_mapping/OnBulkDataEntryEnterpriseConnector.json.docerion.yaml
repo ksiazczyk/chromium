@@ -1,0 +1,4 @@
+# Docerion header of OnBulkDataEntryEnterpriseConnector.json.
+type: test
+title: OnBulkDataEntryEnterpriseConnector policy pref mapping test
+summary: Test data verifying that the OnBulkDataEntryEnterpriseConnector policy maps to the enterprise connectors bulk data entry pref on iOS.

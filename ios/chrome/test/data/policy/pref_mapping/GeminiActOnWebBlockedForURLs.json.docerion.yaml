@@ -1,0 +1,4 @@
+# Docerion header of GeminiActOnWebBlockedForURLs.json.
+type: test
+title: GeminiActOnWebBlockedForURLs policy pref mapping test data
+summary: Test data verifying the GeminiActOnWebBlockedForURLs policy maps to the ios.actuation_on_web_blocked_for_urls URL list preference on iOS.

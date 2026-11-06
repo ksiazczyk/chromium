@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome_test_util.h
+// summary: Declares helpers to access the main controller, scenes, browsers, and profiles, dismiss UI, set preferences, and check metrics and crash reporting state.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_CHROME_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_CHROME_TEST_UTIL_H_
 

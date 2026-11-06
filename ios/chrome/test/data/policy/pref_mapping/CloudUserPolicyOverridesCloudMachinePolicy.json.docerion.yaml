@@ -1,0 +1,4 @@
+# Docerion header of CloudUserPolicyOverridesCloudMachinePolicy.json.
+type: test
+title: CloudUserPolicyOverridesCloudMachinePolicy missing test placeholder
+summary: Placeholder explaining that CloudUserPolicyOverridesCloudMachinePolicy has no pref because it is read directly by the policy system.

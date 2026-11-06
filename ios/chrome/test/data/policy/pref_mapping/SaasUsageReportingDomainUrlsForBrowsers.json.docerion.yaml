@@ -1,0 +1,4 @@
+# Docerion header of SaasUsageReportingDomainUrlsForBrowsers.json.
+type: test
+title: SaasUsageReportingDomainUrlsForBrowsers policy pref mapping test data
+summary: Test data verifying the SaaS usage reporting browser domain URLs policy maps to the enterprise reporting preference in local state.

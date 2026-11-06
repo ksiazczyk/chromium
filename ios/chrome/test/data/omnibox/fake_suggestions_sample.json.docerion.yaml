@@ -1,0 +1,4 @@
+# Docerion header of fake_suggestions_sample.json.
+type: test
+title: Fake omnibox suggestions sample test data
+summary: Minimal JSON fixture with a single fake omnibox suggestion used as sample input for iOS Chrome omnibox tests.

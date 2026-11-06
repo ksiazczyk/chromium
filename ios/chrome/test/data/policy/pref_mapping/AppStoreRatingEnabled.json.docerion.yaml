@@ -1,0 +1,4 @@
+# Docerion header of AppStoreRatingEnabled.json.
+type: test
+title: AppStoreRatingEnabled policy pref mapping test data
+summary: Test data verifying the AppStoreRatingEnabled policy maps to the ios.app_store_rating_enabled preference stored in local state.

@@ -1,0 +1,4 @@
+# Docerion header of BrowserContextAwareAccessSignalsAllowlist.json.
+type: test
+title: BrowserContextAwareAccessSignalsAllowlist policy test data
+summary: Test data verifying the BrowserContextAwareAccessSignalsAllowlist policy maps origin patterns to the device trust browser origins preference.

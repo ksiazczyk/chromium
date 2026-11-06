@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake UIViewController for tests
+// summary: Declares FakeUIViewController, a test fake that records the view controller to present instead of actually presenting it.
+// ---
+
 #ifndef IOS_CHROME_TEST_FAKES_FAKE_UI_VIEW_CONTROLLER_H_
 #define IOS_CHROME_TEST_FAKES_FAKE_UI_VIEW_CONTROLLER_H_
 

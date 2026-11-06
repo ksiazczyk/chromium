@@ -1,0 +1,4 @@
+# Docerion header of TabGroupSharingSettings.json.
+type: test
+title: TabGroupSharingSettings policy pref mapping test data
+summary: Test data mapping the TabGroupSharingSettings policy to the shared_tab_groups.managed_account_setting preference on iOS.

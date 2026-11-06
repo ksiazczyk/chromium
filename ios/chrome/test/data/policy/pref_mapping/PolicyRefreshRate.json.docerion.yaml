@@ -1,0 +1,4 @@
+# Docerion header of PolicyRefreshRate.json.
+type: test
+title: PolicyRefreshRate pref mapping test data
+summary: Defines the iOS pref mapping test for the PolicyRefreshRate policy against the local_state preference policy.user_refresh_rate with a 300000 millisecond test value.

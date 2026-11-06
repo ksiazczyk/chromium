@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for Earl Grey test sources
+summary: Grants specific files in this directory permission to include additional Chromium component headers needed for Earl Grey test support.

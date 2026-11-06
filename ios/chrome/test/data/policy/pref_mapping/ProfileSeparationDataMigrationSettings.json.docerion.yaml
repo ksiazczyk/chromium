@@ -1,0 +1,4 @@
+# Docerion header of ProfileSeparationDataMigrationSettings.json.
+type: test
+title: ProfileSeparationDataMigrationSettings policy pref mapping test data
+summary: Test data mapping the profile separation data migration settings policy to its user profile preference with values 1 to 3 on iOS.

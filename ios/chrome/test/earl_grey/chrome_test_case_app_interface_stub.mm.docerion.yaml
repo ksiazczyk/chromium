@@ -1,0 +1,4 @@
+# Docerion header of chrome_test_case_app_interface_stub.mm.
+type: test
+title: Chrome test case app interface stub
+summary: Stub registration of ChromeTestCaseAppInterface for test builds that run without the full app-side implementation.

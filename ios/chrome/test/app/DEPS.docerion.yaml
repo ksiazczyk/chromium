@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS Chrome test app
+summary: Grants specific test utility files extra include permissions for Chromium components such as sync, signin, GCM, and metrics proto.

@@ -1,0 +1,4 @@
+# Docerion header of perf_egtest.mm.
+type: test
+title: PerfTestCase Earl Grey tests for startup and Speedometer benchmarks
+summary: Earl Grey test case measuring cold startup latency and Speedometer benchmark performance across relaunches, recording samples for later analysis.

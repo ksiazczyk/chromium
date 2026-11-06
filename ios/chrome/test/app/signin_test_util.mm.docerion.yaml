@@ -1,0 +1,4 @@
+# Docerion header of signin_test_util.mm.
+type: test
+title: Sign-in test utility implementation
+summary: Implements fake identity services, sign-in and sign-out flows, identity cleanup, and profile separation policy stubs for sign-in tests.

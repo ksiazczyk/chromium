@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_test_with_web_state.mm.
+type: test
+title: IOSChromeTestWithWebState test fixture implementation
+summary: Implements the WebState test fixture, setting up a fake or Chrome web client with a test profile and providing page loading and frame waiting helpers.

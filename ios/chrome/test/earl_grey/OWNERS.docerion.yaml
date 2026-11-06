@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Earl Grey test directory
+summary: Lists the default owner for reviews and allows any owner to approve BUILD.gn changes such as adding or renaming files.

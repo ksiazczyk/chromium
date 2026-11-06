@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseRealTimeUrlCheckMode.json.
+type: test
+title: EnterpriseRealTimeUrlCheckMode policy pref mapping test data
+summary: Test data verifying EnterpriseRealTimeUrlCheckMode policy values 0 and 1 map to the safebrowsing.enterprise_real_time_url_check_mode preference on iOS.

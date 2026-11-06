@@ -1,0 +1,4 @@
+# Docerion header of CloudManagementEnrollmentToken.json.
+type: test
+title: CloudManagementEnrollmentToken missing test placeholder
+summary: Placeholder recording that a pref mapping test for CloudManagementEnrollmentToken is still missing, tracked by a Chromium bug.

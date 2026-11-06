@@ -1,0 +1,4 @@
+# Docerion header of earl_grey_scoped_block_swizzler_app_interface.mm.
+type: test
+title: Earl Grey scoped block swizzler app interface
+summary: App interface implementation that creates ScopedBlockSwizzler instances for target class and selector, tracking them by unique ID for later removal in Earl Grey tests.

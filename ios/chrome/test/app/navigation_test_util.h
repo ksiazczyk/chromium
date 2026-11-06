@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation test utility header
+// summary: Declares helpers to load URLs in the current WebState or a numbered window and to check whether the current page is loading.
+// ---
+
 #ifndef IOS_CHROME_TEST_APP_NAVIGATION_TEST_UTIL_H_
 #define IOS_CHROME_TEST_APP_NAVIGATION_TEST_UTIL_H_
 

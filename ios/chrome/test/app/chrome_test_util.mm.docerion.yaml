@@ -1,0 +1,4 @@
+# Docerion header of chrome_test_util.mm.
+type: test
+title: chrome_test_util.mm
+summary: Implements general Chrome app test helpers for profile and browser access, pref changes, metrics checks, URL handling fakes, and presented-state cleanup.

@@ -1,0 +1,4 @@
+# Docerion header of PolicyTestPageEnabled.json.
+type: test
+title: PolicyTestPageEnabled pref mapping test data
+summary: Defines the iOS pref mapping test for the PolicyTestPageEnabled policy against the policy_test_page_enabled preference with true and false values.

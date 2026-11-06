@@ -1,0 +1,4 @@
+# Docerion header of eg_open_extension.appex.entitlements.
+type: config
+title: eg_open_extension appex entitlements
+summary: Entitlements template that assigns the app extension an application identifier based on the app bundle ID prefix.

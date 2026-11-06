@@ -1,0 +1,4 @@
+# Docerion header of LensOverlaySettings.json.
+type: test
+title: LensOverlaySettings policy pref mapping test data
+summary: Test data verifying the simple mapping of the LensOverlaySettings policy to the lens.policy.lens_overlay_settings preference on iOS.

@@ -1,0 +1,4 @@
+# Docerion header of CALayer+EGResetInfiniteDuration.mm.
+type: test
+title: CALayer swizzle to reset infinite animation durations
+summary: Swizzles CALayer animation addition so infinite-duration animations get zero duration, preventing Earl Grey from tracking them indefinitely.

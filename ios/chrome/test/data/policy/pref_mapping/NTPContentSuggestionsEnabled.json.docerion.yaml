@@ -1,0 +1,4 @@
+# Docerion header of NTPContentSuggestionsEnabled.json.
+type: test
+title: NTPContentSuggestionsEnabled policy pref mapping test
+summary: Test data checking that the NTPContentSuggestionsEnabled policy toggles the iOS new tab page content suggestions pref.

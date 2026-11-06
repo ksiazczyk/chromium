@@ -1,0 +1,4 @@
+# Docerion header of scoped_eg_traits_overrider.mm.
+type: test
+title: ScopedTraitOverrider implementation
+summary: Implements ScopedTraitOverrider, recording and restoring the content size category override of the top view controller via the app interface.

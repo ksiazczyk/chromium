@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App interface for simulating background launches
+// summary: Declares an Earl Grey app interface that simulates background refresh, URL session events, silent notifications, and foregrounding after background launch.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_BACKGROUND_LAUNCH_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_EARL_GREY_BACKGROUND_LAUNCH_APP_INTERFACE_H_
 

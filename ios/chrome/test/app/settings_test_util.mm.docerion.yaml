@@ -1,0 +1,4 @@
+# Docerion header of settings_test_util.mm.
+type: test
+title: Settings test utility implementation
+summary: Implements the popup content setting helper using the original profile's HostContentSettingsMap.

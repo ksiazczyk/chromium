@@ -1,0 +1,4 @@
+# Docerion header of chrome_test_case.mm.
+type: test
+title: ChromeTestCase base class implementation
+summary: Implements ChromeTestCase behavior including teardown handling, mock authentication, startup test configuration, and multitasking test lists.

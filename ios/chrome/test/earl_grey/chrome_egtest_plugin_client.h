@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome_egtest_plugin_client
+// summary: Header declaring the gRPC test plugin client that reports test case lifecycle events to a host plugin server during Earl Grey test runs.
+// ---
+
 #ifndef IOS_CHROME_TEST_EARL_GREY_CHROME_EGTEST_PLUGIN_CLIENT_H_
 #define IOS_CHROME_TEST_EARL_GREY_CHROME_EGTEST_PLUGIN_CLIENT_H_
 

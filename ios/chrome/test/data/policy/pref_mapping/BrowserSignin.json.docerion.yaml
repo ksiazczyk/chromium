@@ -1,0 +1,4 @@
+# Docerion header of BrowserSignin.json.
+type: test
+title: BrowserSignin policy pref mapping test data
+summary: Maps BrowserSignin policy values 0 through 2 to the signin.browser_signin_policy preference in local state for iOS policy tests.

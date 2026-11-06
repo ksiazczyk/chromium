@@ -1,0 +1,4 @@
+# Docerion header of chrome_earl_grey_app_interface_stub.mm.
+type: test
+title: chrome_earl_grey_app_interface_stub
+summary: Registers a stub for ChromeEarlGreyAppInterface in the app main queue so Earl Grey tests can run without the full app-side implementation.

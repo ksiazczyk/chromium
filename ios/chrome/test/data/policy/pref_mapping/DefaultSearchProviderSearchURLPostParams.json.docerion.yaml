@@ -1,0 +1,4 @@
+# Docerion header of DefaultSearchProviderSearchURLPostParams.json.
+type: test
+title: DefaultSearchProviderSearchURLPostParams policy pref mapping test data
+summary: Declares no simple pref mapping test for the DefaultSearchProviderSearchURLPostParams policy, referring to PolicyTest.DefaultSearchProvider for full browser test coverage.

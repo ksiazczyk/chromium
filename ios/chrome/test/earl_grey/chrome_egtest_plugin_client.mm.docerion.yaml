@@ -1,0 +1,4 @@
+# Docerion header of chrome_egtest_plugin_client.mm.
+type: test
+title: chrome_egtest_plugin_client
+summary: Implementation of the gRPC test plugin client that sends test case start, fail, finish and bundle completion notifications to the plugin server.

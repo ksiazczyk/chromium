@@ -1,0 +1,4 @@
+# Docerion header of chrome_matchers.mm.
+type: test
+title: Chrome matchers implementation for Earl Grey tests
+summary: Implements the Chrome matcher helpers by delegating to ChromeMatchersAppInterface so matchers are built in the app process.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS Chrome test app test support
+summary: Defines the test_support source set that bundles the iOS Chrome app test utility sources together with their build dependencies.

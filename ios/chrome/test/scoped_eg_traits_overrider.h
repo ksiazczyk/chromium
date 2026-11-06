@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTraitOverrider header for EarlGrey test trait overrides
+// summary: Declares ScopedTraitOverrider, which overrides view controller traits such as content size category for EarlGrey tests and reverts the overrides on destruction.
+// ---
+
 #ifndef IOS_CHROME_TEST_SCOPED_EG_TRAITS_OVERRIDER_H_
 #define IOS_CHROME_TEST_SCOPED_EG_TRAITS_OVERRIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ManagedClientCertificateForUserConfig.json.
+type: test
+title: ManagedClientCertificateForUserConfig policy pref mapping test
+summary: Test data checking how the ManagedClientCertificateForUserConfig policy sets the managed user client certificate pref in the user profile on iOS.

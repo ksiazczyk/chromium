@@ -1,0 +1,4 @@
+# Docerion header of fake_download_manager_tab_helper_delegate.mm.
+type: test
+title: Fake download manager tab helper delegate implementation
+summary: Fake DownloadManagerTabHelperDelegate that records download task states, policy decisions and state-change call counts for iOS Chrome tests.

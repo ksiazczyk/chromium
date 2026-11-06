@@ -1,0 +1,4 @@
+# Docerion header of chrome_coordinator_app_interface_stub.mm.
+type: test
+title: Chrome coordinator app interface stub
+summary: Stub registration of ChromeCoordinatorAppInterface for Earl Grey test builds without the real implementation.
