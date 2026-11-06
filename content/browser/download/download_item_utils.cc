@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadItemUtils implementation
+// summary: Attaches user data to download items so callers can retrieve the browser context, web contents and render frame host associated with a download.
+// ---
+
 #include "content/public/browser/download_item_utils.h"
 
 #include "base/memory/raw_ptr.h"

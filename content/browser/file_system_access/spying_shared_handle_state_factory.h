@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spying shared handle state factory class declaration
+// summary: Declares a factory creating shared handle states with spying mock permission grants for tests.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_SPYING_SHARED_HANDLE_STATE_FACTORY_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_SPYING_SHARED_HANDLE_STATE_FACTORY_H_
 

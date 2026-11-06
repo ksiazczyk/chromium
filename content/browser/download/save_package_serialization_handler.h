@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePackageSerializationHandler class declaration
+// summary: Declares SavePackageSerializationHandler, which forwards HTML serialization data chunks and completion notifications from the renderer to provided callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_DOWNLOAD_SAVE_PACKAGE_SERIALIZATION_HANDLER_H_
 #define CONTENT_BROWSER_DOWNLOAD_SAVE_PACKAGE_SERIALIZATION_HANDLER_H_
 

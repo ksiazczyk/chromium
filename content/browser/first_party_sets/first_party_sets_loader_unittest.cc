@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstPartySetsLoader unit tests
+// summary: Unit tests for FirstPartySetsLoader covering invalid files, invalid versions, and parsing of multiple First-Party Set declarations.
+// ---
+
 #include "content/browser/first_party_sets/first_party_sets_loader.h"
 
 #include <optional>

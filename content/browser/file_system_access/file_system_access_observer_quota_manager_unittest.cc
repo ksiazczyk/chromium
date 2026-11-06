@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access observer quota manager unit tests
+// summary: Unit tests verifying observer quota manager usage tracking, quota exhaustion, and the UMA and UKM histograms recorded on destruction.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_observer_quota_manager.h"
 
 #include "base/files/file_path.h"

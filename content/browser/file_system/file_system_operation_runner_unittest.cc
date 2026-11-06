@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemOperationRunner unit tests
+// summary: Unit tests for the storage FileSystemOperationRunner, checking asynchronous operations, error statuses such as NOT_FOUND and invalid URLs, and cancellation behavior.
+// ---
+
 #include "storage/browser/file_system/file_system_operation_runner.h"
 
 #include <optional>

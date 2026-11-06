@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to storage file system owners
+summary: Delegates code ownership for this directory to the OWNERS file in storage/browser/file_system.

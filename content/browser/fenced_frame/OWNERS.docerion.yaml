@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Fenced frame directory OWNERS file
+summary: Lists code owners for the fenced frame browser directory and routes mojom traits files to IPC security owners.

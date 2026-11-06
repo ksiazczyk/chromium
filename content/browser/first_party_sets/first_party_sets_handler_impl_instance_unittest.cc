@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First-Party Sets handler instance unit tests
+// summary: Tests the handler instance for enabled and disabled First-Party Sets, including delayed queries and related histograms.
+// ---
+
 #include "content/browser/first_party_sets/first_party_sets_handler_impl_instance.h"
 
 #include <optional>

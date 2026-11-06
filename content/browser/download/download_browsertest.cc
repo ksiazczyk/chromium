@@ -5,6 +5,12 @@
 // This file contains download browser tests that are known to be runnable
 // in a pure content context.  Over time tests should be migrated here.
 
+// ---docerion
+// type: test
+// title: Download browser tests in a pure content context
+// summary: Contains browser tests for download functionality that run in a pure content context, exercising the download manager and related APIs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

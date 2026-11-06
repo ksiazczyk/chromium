@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FontAccessManager unit tests
+// summary: Unit tests for FontAccessManager covering permission, visibility, origin and user activation requirements for local font enumeration.
+// ---
+
 #include "content/browser/font_access/font_access_manager.h"
 
 #include <memory>

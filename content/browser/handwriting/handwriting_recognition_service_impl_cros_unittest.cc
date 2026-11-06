@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS handwriting recognition service unit tests
+// summary: Unit tests for the ChromeOS handwriting recognition service using a fake machine learning service connection to verify recognizer creation and predictions.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognition_service_impl_cros.h"
 
 #include <optional>

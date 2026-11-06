@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access file writer unit tests
+// summary: Unit tests for FileSystemAccessFileWriterImpl covering write, truncate, close, abort, and quarantine behavior with mock quota and permission contexts.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_writer_impl.h"
 
 #include <algorithm>

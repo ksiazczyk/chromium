@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First-Party Set parser value fuzzer
+// summary: Fuzzes the First-Party Set parser by converting protobuf-generated Related Website Sets inputs into JSON fed to ParseSetsFromStream.
+// ---
+
 #include <stdlib.h>
 
 #include <iostream>

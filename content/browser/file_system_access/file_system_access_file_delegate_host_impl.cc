@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access file delegate host implementation
+// summary: Implements browser-side read, write, and length operations for access handles in incognito mode via the FileSystemAccessFileDelegateHost mojom interface.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_delegate_host_impl.h"
 
 #include <cstdint>

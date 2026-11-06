@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU feature checker header
+// summary: Declares GpuFeatureCheckerImpl, a GpuFeatureChecker and GpuDataManagerObserver that checks GPU feature availability.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_GPU_FEATURE_CHECKER_IMPL_H_
 #define CONTENT_BROWSER_GPU_GPU_FEATURE_CHECKER_IMPL_H_
 

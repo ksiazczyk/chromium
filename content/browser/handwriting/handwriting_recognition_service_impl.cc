@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting recognition service default implementation
+// summary: Implements the default handwriting recognition service, which bootstraps the Mojo connection and reports no recognizer support.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognition_service_impl.h"
 
 #include "base/memory/ptr_util.h"

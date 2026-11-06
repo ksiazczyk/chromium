@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FSEvents change tracker implementation
+// summary: Implements the FSEvents change tracker that dispatches, coalesces and reports FSEvents events as ChangeInfo callbacks for watched paths.
+// ---
+
 #include "content/browser/file_system_access/file_path_watcher/file_path_watcher_fsevents_change_tracker.h"
 
 #include <sys/stat.h>

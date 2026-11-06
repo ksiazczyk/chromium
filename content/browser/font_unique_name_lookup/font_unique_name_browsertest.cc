@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font unique name lookup browser test
+// summary: Browser test that verifies local font matching by unique font names across platforms using the DevTools protocol.
+// ---
+
 #include <array>
 #include <memory>
 

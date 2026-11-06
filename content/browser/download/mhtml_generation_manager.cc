@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML generation manager implementation
+// summary: Implements the MHTMLGenerationManager singleton, coordinating renderer MHTML serialization and secure writing of the resulting file, including Windows access restrictions.
+// ---
+
 #include "content/browser/download/mhtml_generation_manager.h"
 
 #include <set>

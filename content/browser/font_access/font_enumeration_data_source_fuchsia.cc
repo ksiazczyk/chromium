@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Font Enumeration Data Source
+// summary: Fuchsia data source that returns a hardcoded list of Roboto and Material Icons fonts until a FIDL-based enumeration API is available.
+// ---
+
 #include "content/browser/font_access/font_enumeration_data_source_fuchsia.h"
 
 #include "base/notimplemented.h"

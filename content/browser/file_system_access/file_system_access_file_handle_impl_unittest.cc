@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access file handle implementation unit tests
+// summary: Unit tests for the browser-side FileSystemAccessFileHandleImpl, covering read, write, permission, and platform-specific behavior.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_handle_impl.h"
 
 #include <limits>

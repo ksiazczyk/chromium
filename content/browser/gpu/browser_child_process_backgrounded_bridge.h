@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserChildProcessBackgroundedBridge class declaration
+// summary: Declares a macOS bridge that mirrors the browser process foreground and background priority onto a child process.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_BROWSER_CHILD_PROCESS_BACKGROUNDED_BRIDGE_H_
 #define CONTENT_BROWSER_GPU_BROWSER_CHILD_PROCESS_BACKGROUNDED_BRIDGE_H_
 

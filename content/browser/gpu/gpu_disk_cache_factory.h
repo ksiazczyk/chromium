@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache factory header
+// summary: Declares functions to initialize, retrieve, replace for testing, and tear down the GpuDiskCacheFactory singleton.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_GPU_DISK_CACHE_FACTORY_H_
 #define CONTENT_BROWSER_GPU_GPU_DISK_CACHE_FACTORY_H_
 

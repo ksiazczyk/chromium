@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access observer browser tests
+// summary: Browser tests for FileSystemObserver covering bucket and local file system observation, symbolic link handling, and back/forward cache behavior.
+// ---
+
 #include <memory>
 
 #include "base/base_paths.h"

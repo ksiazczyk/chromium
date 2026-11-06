@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU data manager implementation
+// summary: Implements the GpuDataManagerImpl singleton, forwarding GPU info, feature status, and observer calls to its private implementation under a lock.
+// ---
+
 #include "content/browser/gpu/gpu_data_manager_impl.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font unique name lookup Mojo service declaration
+// summary: Declares the FontUniqueNameLookupService class implementing the blink Mojo FontUniqueNameLookup interface.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_UNIQUE_NAME_LOOKUP_FONT_UNIQUE_NAME_LOOKUP_SERVICE_H_
 #define CONTENT_BROWSER_FONT_UNIQUE_NAME_LOOKUP_FONT_UNIQUE_NAME_LOOKUP_SERVICE_H_
 

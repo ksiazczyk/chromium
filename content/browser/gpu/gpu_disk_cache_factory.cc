@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache factory implementation
+// summary: Creates and manages the GpuDiskCacheFactory singleton, mapping reserved cache handles to shader, Gr, and Graphite Dawn disk cache directories.
+// ---
+
 #include "content/browser/gpu/gpu_disk_cache_factory.h"
 
 #include "base/command_line.h"

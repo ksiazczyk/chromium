@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserGpuClientDelegate declaration
+// summary: Declares the content-side GpuClientDelegate that provides the browser's GPU host.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_BROWSER_GPU_CLIENT_DELEGATE_H_
 #define CONTENT_BROWSER_GPU_BROWSER_GPU_CLIENT_DELEGATE_H_
 

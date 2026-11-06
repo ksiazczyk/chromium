@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fenced frame reporter implementation
+// summary: Implements sending of fenced frame reporting beacons, such as reportEvent and automatic beacons, to preregistered destination URLs.
+// ---
+
 #include "content/browser/fenced_frame/fenced_frame_reporter.h"
 
 #include <iterator>

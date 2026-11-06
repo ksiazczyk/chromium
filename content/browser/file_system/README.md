@@ -1,3 +1,11 @@
+---
+type: readme
+title: FileSystem API
+summary: Describes the browser-side FileSystem API implementation in this directory and links to related storage, renderer and mojom directories.
+relations:
+  - references /content/browser/file_system/file_system_manager_impl.h
+---
+
 # FileSystem API
 
 This directory contains part of the browser side implementation of various

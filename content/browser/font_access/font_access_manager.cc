@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontAccessManager implementation
+// summary: Implements the browser-side Font Access mojo handler that checks permission, page visibility and user activation before returning local font data.
+// ---
+
 #include "content/browser/font_access/font_access_manager.h"
 
 #include <limits>

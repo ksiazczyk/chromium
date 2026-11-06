@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font Access test permission manager declaration
+// summary: Declares TestFontAccessPermissionManager with callbacks to control permission results in font access tests.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_ACCESS_FONT_ACCESS_TEST_UTILS_H_
 #define CONTENT_BROWSER_FONT_ACCESS_FONT_ACCESS_TEST_UTILS_H_
 

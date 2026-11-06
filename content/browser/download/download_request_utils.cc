@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadRequestUtils implementation
+// summary: Implements helpers that create download URL parameters for a web contents main frame and check whether a renderer may request a URL.
+// ---
+
 #include "content/public/browser/download_request_utils.h"
 
 #include <memory>

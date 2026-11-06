@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock File System Access permission grant implementation
+// summary: Implements the mock permission grant with defaults that forward calls to a wrapped real grant.
+// ---
+
 #include "content/browser/file_system_access/mock_file_system_access_permission_grant.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peak GPU memory tracker browser test
+// summary: Browser test for PeakGpuMemoryTrackerImpl that uses a stub GPU service to verify peak GPU memory monitoring and its reporting behavior.
+// ---
+
 #include "content/browser/gpu/peak_gpu_memory_tracker_impl.h"
 
 #include "base/clang_profiling_buildflags.h"

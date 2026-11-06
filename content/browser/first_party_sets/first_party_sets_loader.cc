@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets loader implementation
+// summary: Reads the component-provided sets file on a background thread and parses it into the global First-Party Sets data.
+// ---
+
 #include "content/browser/first_party_sets/first_party_sets_loader.h"
 
 #include <sstream>

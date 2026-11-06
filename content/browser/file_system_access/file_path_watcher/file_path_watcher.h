@@ -4,6 +4,12 @@
 
 // This module provides a way to monitor a file or directory for changes.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher class declaration
+// summary: Declares the FilePathWatcher class that monitors files or directories for changes, including ChangeInfo, ChangeType and FilePathType definitions.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_PATH_WATCHER_FILE_PATH_WATCHER_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_PATH_WATCHER_FILE_PATH_WATCHER_H_
 

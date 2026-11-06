@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU internals WebUI implementation
+// summary: Implements the browser-side WebUI controller and data source that serve the GPU internals debug page, exposing GPU info, feature status, driver and version details.
+// ---
+
 #include "content/browser/gpu/gpu_internals_ui.h"
 
 #include <stddef.h>

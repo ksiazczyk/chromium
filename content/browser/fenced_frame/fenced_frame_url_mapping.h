@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fenced frame URN to URL mapping header
+// summary: Declares FencedFrameURLMapping, which keeps URN:UUID to URL mappings for fenced frames and notifies observers when pending mapping decisions complete.
+// ---
+
 #ifndef CONTENT_BROWSER_FENCED_FRAME_FENCED_FRAME_URL_MAPPING_H_
 #define CONTENT_BROWSER_FENCED_FRAME_FENCED_FRAME_URL_MAPPING_H_
 

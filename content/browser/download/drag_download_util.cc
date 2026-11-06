@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag download utilities implementation
+// summary: Implements CreateFileForDrop, which creates uniquely named files for drag-out downloads, and PromiseFileFinalizer, which cleans up the downloader when a download completes or aborts.
+// ---
+
 #include "content/browser/download/drag_download_util.h"
 
 #include <stddef.h>

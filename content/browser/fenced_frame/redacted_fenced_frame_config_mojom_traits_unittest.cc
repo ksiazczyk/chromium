@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redacted fenced frame config mojom traits tests
+// summary: Tests that redacted fenced frame configs and properties are redacted per entity and survive Mojo serialization and deserialization correctly.
+// ---
+
 #include "third_party/blink/public/common/fenced_frame/redacted_fenced_frame_config_mojom_traits.h"
 
 #include <algorithm>

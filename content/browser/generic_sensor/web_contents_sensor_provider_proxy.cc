@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsSensorProviderProxy implementation
+// summary: Implements the per-WebContents sensor provider proxy, including virtual sensor creation and management for DevTools.
+// ---
+
 #include "content/browser/generic_sensor/web_contents_sensor_provider_proxy.h"
 
 #include <algorithm>

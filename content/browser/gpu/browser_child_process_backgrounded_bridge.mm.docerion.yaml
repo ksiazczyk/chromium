@@ -1,0 +1,4 @@
+# Docerion header of browser_child_process_backgrounded_bridge.mm.
+type: source
+title: BrowserChildProcessBackgroundedBridge implementation
+summary: Implements the macOS bridge using AppKit active-state notifications and task ports to adjust child process priority.

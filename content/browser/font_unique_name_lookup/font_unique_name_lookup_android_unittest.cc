@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android font unique name lookup unit tests
+// summary: Unit tests covering lookup table building, persistence, cache loading, failure handling, and font name matching.
+// ---
+
 #include "content/browser/font_unique_name_lookup/font_unique_name_lookup_android.h"
 
 #include <functional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CATransaction GPU coordinator implementation
+// summary: Implements the macOS coordinator that synchronizes Core Animation transaction commits between the browser and GPU processes.
+// ---
+
 #include "content/browser/gpu/ca_transaction_gpu_coordinator.h"
 
 #include "base/cancelable_callback.h"

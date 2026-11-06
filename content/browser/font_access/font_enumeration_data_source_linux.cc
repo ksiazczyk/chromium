@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Font Enumeration Data Source
+// summary: Linux and ChromeOS data source that enumerates installed TrueType and CFF fonts through fontconfig, skipping incomplete or duplicate entries.
+// ---
+
 #include "content/browser/font_access/font_enumeration_data_source_linux.h"
 
 #include <fontconfig/fontconfig.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor utility functions declaration
+// summary: Declares compositor helpers for zero-copy uploads, partial raster, GPU rasterization MSAA, raster thread counts, and GPU feature status reporting.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_COMPOSITOR_UTIL_H_
 #define CONTENT_BROWSER_GPU_COMPOSITOR_UTIL_H_
 

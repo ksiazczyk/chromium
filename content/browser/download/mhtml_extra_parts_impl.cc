@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MHTML extra parts implementation
+// summary: Implements MHTMLExtraPartsImpl, which stores extra MHTML parts as WebContents user data so they can be written into generated MHTML files.
+// ---
+
 #include "content/browser/download/mhtml_extra_parts_impl.h"
 
 namespace {

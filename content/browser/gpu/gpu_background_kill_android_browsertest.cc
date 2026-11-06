@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android GPU background kill browser test
+// summary: Browser test verifying the GPU channel is killed during low-end background cleanup on Android; the simple case is currently disabled as flaky.
+// ---
+
 #include "build/build_config.h"
 
 #include "base/run_loop.h"

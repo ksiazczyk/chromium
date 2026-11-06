@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU client factory implementation
+// summary: Implements CreateGpuClient, which builds a viz::GpuClient with a browser-side delegate and unique client identifiers for GPU IPC.
+// ---
+
 #include "content/public/browser/gpu_client.h"
 
 #include "content/browser/child_process_host_impl.h"

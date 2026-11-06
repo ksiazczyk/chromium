@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemChooser implementation
+// summary: Implements the native file chooser dialog listener that grants renderer access to selected files, including window size suppression checks, extension handling, and metrics.
+// ---
+
 #include "content/browser/file_system_access/file_system_chooser.h"
 
 #include <memory>

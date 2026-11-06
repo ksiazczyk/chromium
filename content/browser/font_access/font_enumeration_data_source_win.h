@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font enumeration data source header
+// summary: Declares FontEnumerationDataSourceWin, the Windows DirectWrite-based implementation of FontEnumerationDataSource for Windows 7 KB2670838 and newer.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_DATA_SOURCE_WIN_H_
 #define CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_DATA_SOURCE_WIN_H_
 

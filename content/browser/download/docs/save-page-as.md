@@ -1,3 +1,9 @@
+---
+type: reference
+title: High-level overview of Save-Page-As code
+summary: Describes the classes and processing flow behind Save-Page-As in //content/browser/download, covering Complete HTML, MHTML, and HTML-only save formats.
+---
+
 # High-level overview of Save-Page-As code
 
 This document describes code under `//content/browser/download`

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access local path watcher implementation
+// summary: Implements a change source that uses FilePathWatcher to watch local file or directory paths and report changes to observers.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_local_path_watcher.h"
 
 #include "base/files/file_path.h"

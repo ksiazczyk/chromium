@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process host
+// summary: Declares the GpuProcessHost class that launches and manages the GPU process and exposes its Mojo interfaces to the browser.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_GPU_PROCESS_HOST_H_
 #define CONTENT_BROWSER_GPU_GPU_PROCESS_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fenced frame config implementation
+// summary: Implements fenced frame config objects, including URN UUID generation and redaction of sensitive properties per receiving entity.
+// ---
+
 #include "content/browser/fenced_frame/fenced_frame_config.h"
 
 #include "base/functional/callback.h"

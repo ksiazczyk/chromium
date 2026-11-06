@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access file modification host implementation
+// summary: Browser-side implementation of the FileSystemAccessFileModificationHost mojom interface that manages file capacity reservations through the quota manager.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_modification_host_impl.h"
 
 #include "base/memory/weak_ptr.h"

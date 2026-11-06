@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Fenced Frame: Guidelines for Feature Behavior'
+summary: Guides how new web platform features should behave inside fenced frames, with a decision chart and test-writing advice.
+---
+
 # Fenced Frame: Guidelines for Feature Behavior
 
 Fenced frames are a new HTML element that allows a page to be embedded in

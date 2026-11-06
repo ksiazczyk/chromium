@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuDataManagerImplPrivate header
+// summary: Declares the private implementation of the browser GPU data manager, covering GPU info updates, feature status, blocklisting, and hardware acceleration controls.
+// ---
+
 #ifndef CONTENT_BROWSER_GPU_GPU_DATA_MANAGER_IMPL_PRIVATE_H_
 #define CONTENT_BROWSER_GPU_GPU_DATA_MANAGER_IMPL_PRIVATE_H_
 

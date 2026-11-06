@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Set parser implementation
+// summary: Implements parsing and validation of newline-delimited JSON First-Party Sets records, including site canonicalization and error reporting.
+// ---
+
 #include "content/browser/first_party_sets/first_party_set_parser.h"
 
 #include <algorithm>

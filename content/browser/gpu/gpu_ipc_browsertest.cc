@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU IPC browser tests
+// summary: Browser tests for GPU IPC contexts, covering context loss handling, GPU channel establishment, and shared GPU context tests in the browser.
+// ---
+
 #include "base/command_line.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor utility functions implementation
+// summary: Implements compositor helpers that report GPU feature status, problems, and driver bug workarounds, and read raster and antialiasing flags.
+// ---
+
 #include "content/browser/gpu/compositor_util.h"
 
 #include <stddef.h>

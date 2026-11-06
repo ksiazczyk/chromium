@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuDataManagerImplPrivate unit tests
+// summary: Unit tests for GpuDataManagerImplPrivate covering GPU info updates, GPU-side blocklisting, domain blocking, and feature status behavior.
+// ---
+
 
 #include "content/browser/gpu/gpu_data_manager_impl_private.h"
 

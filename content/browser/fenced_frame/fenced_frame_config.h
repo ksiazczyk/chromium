@@ -66,6 +66,12 @@
 // because the top-level fenced frame is the embedder with respect to any nested
 // fenced frames.
 
+// ---docerion
+// type: source
+// title: Fenced frame config header
+// summary: Defines fenced frame configs with per-entity field visibility so sensitive values are redacted before being sent to renderer processes.
+// ---
+
 #ifndef CONTENT_BROWSER_FENCED_FRAME_FENCED_FRAME_CONFIG_H_
 #define CONTENT_BROWSER_FENCED_FRAME_FENCED_FRAME_CONFIG_H_
 

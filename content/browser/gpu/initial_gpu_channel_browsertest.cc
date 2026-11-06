@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initial GPU channel browser tests
+// summary: Browser tests verifying that renderers use the early-established GPU channel for frame submission when the SendGPUChannelEarly feature is enabled.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationServiceImpl implementation
+// summary: Implements the browser-side geolocation Mojo service, using a GeolocationProxy to forward renderer requests to the device geolocation service while tracking permissions and activity counts.
+// ---
+
 #include "content/browser/geolocation/geolocation_service_impl.h"
 
 #include <utility>

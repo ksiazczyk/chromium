@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access safe move helper class declaration
+// summary: Declares the helper that moves files with safe browsing checks and quarantine annotation, skipping checks for temporary file systems and same-extension moves.
+// ---
+
 #ifndef CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_SAFE_MOVE_HELPER_H_
 #define CONTENT_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_SAFE_MOVE_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peak GPU memory tracker implementation
+// summary: Implements the peak GPU memory tracker that starts and reports GPU service peak memory monitoring for UMA histograms.
+// ---
+
 #include "content/browser/gpu/peak_gpu_memory_tracker_impl.h"
 
 #include <memory>

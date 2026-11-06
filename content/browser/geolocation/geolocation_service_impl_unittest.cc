@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeolocationServiceImpl unit tests
+// summary: Unit tests for GeolocationServiceImpl covering permission requests, geolocation creation, and position queries using mock permission managers and a scoped geolocation overrider.
+// ---
+
 #include "content/browser/geolocation/geolocation_service_impl.h"
 
 #include <memory>

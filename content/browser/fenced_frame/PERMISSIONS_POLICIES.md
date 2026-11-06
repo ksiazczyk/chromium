@@ -1,3 +1,12 @@
+---
+type: reference
+title: 'Fenced frame: Permissions Policies'
+summary: Audits every permissions-backed feature for infiltration, exfiltration, and fingerprinting risks before enabling it in fenced frames.
+relations:
+  - references /third_party/blink/renderer/core/html/fenced_frame/OWNERS
+  - references /services/network/public/cpp/permissions_policy/fenced_frame_permissions_policies.h
+---
+
 # Fenced frame: Permissions Policies
 
 ## How to use this document

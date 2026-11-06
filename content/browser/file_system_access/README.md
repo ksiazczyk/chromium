@@ -1,3 +1,9 @@
+---
+type: readme
+title: File System Access API
+summary: Describes the browser side implementation of the File System Access API and links to the related specifications and directories.
+---
+
 # File System Access API
 
 This directory contains part of the browser side implementation of the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access file modification host unit tests
+// summary: Unit tests for FileSystemAccessFileModificationHostImpl's RequestCapacityChange behavior using mock quota managers and file system contexts.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_file_modification_host_impl.h"
 
 #include "base/files/file_path.h"

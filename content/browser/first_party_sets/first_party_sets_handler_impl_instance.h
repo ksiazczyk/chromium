@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets handler singleton declaration
+// summary: Declares the singleton handler that accepts embedder-provided sets, tracks initialization and answers First-Party Set queries.
+// ---
+
 #ifndef CONTENT_BROWSER_FIRST_PARTY_SETS_FIRST_PARTY_SETS_HANDLER_IMPL_INSTANCE_H_
 #define CONTENT_BROWSER_FIRST_PARTY_SETS_FIRST_PARTY_SETS_HANDLER_IMPL_INSTANCE_H_
 

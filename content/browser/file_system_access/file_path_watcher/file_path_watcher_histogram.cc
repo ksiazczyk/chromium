@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePathWatcher UMA histogram recording
+// summary: Records UMA histograms for watch results, callback errors and inotify watch counts for the file system access path watcher.
+// ---
+
 #include "file_path_watcher_histogram.h"
 
 #include "base/metrics/histogram_functions.h"

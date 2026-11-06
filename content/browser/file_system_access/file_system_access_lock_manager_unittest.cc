@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access lock manager unit tests
+// summary: Unit tests for the lock manager covering lock taking, contention, ancestor lock behavior, and eviction of locks held by inactive pages.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_lock_manager.h"
 
 #include <cstdlib>

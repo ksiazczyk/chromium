@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser GPU channel host factory implementation
+// summary: Implements establishing and managing the browser's GPU channel, including timeouts, sync establishment and Android timeout handling.
+// ---
+
 #include "content/browser/gpu/browser_gpu_channel_host_factory.h"
 
 #include <utility>

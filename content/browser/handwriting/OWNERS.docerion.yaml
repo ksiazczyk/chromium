@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the browser handwriting directory
+summary: Lists the code owners for the browser-side handwriting recognition directory, inheriting reviewers from the blink handwriting module.

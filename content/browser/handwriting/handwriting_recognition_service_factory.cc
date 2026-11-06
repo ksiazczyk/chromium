@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting recognition service factory
+// summary: Implements the Mojo service binder that creates the platform-appropriate handwriting recognition service, using the ChromeOS backend or a no-op default.
+// ---
+
 #include "content/browser/handwriting/handwriting_recognition_service_factory.h"
 
 #include <utility>

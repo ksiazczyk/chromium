@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting recognition service factory header
+// summary: Declares CreateHandwritingRecognitionService, the browser interface broker entry point exposing a uniform service creation interface across platforms.
+// ---
+
 #ifndef CONTENT_BROWSER_HANDWRITING_HANDWRITING_RECOGNITION_SERVICE_FACTORY_H_
 #define CONTENT_BROWSER_HANDWRITING_HANDWRITING_RECOGNITION_SERVICE_FACTORY_H_
 

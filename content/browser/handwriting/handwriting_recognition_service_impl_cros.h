@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS handwriting recognition service implementation header
+// summary: Declares CrOSHandwritingRecognitionServiceImpl, the ChromeOS-specific subclass of the default handwriting recognition service.
+// ---
+
 #ifndef CONTENT_BROWSER_HANDWRITING_HANDWRITING_RECOGNITION_SERVICE_IMPL_CROS_H_
 #define CONTENT_BROWSER_HANDWRITING_HANDWRITING_RECOGNITION_SERVICE_IMPL_CROS_H_
 

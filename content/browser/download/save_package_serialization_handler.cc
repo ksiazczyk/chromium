@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePackageSerializationHandler implementation
+// summary: Implements SavePackageSerializationHandler, which forwards serialized DOM data to a callback and signals completion of renderer serialization.
+// ---
+
 #include "content/browser/download/save_package_serialization_handler.h"
 
 #include <utility>

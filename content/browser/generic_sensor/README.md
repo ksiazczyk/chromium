@@ -1,3 +1,13 @@
+---
+type: readme
+title: Generic Sensors, //content part
+summary: Explains the //content part of the Generic Sensors implementation, its main classes and workflow, and virtual sensor support for tests and DevTools.
+relations:
+  - references /content/browser/device_sensors/device_sensor_browsertest.cc
+  - references /content/browser/devtools/protocol/emulation_handler.h
+  - references /services/device/generic_sensor/README.md
+---
+
 # Generic Sensors, //content part
 
 [TOC]

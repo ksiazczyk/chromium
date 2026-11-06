@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Font Enumeration Data Source Header
+// summary: Declares the Fuchsia implementation of FontEnumerationDataSource, which currently provides a static font list.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_DATA_SOURCE_FUCHSIA_H_
 #define CONTENT_BROWSER_FONT_ACCESS_FONT_ENUMERATION_DATA_SOURCE_FUCHSIA_H_
 

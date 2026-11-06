@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access handle base implementation
+// summary: Shared base class for file system access handle implementations, providing permission checks, usage tracking, and common handle logic.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_handle_base.h"
 
 #include <memory>

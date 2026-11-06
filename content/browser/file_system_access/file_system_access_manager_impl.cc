@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access manager implementation
+// summary: Main browser-side implementation of the File System Access API, creating handles, locks, watchers, transfer tokens, and file chooser flows.
+// ---
+
 #include "content/browser/file_system_access/file_system_access_manager_impl.h"
 
 #include <algorithm>

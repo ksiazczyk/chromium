@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU data manager private implementation
+// summary: Implements the internal GPU data manager logic, including GPU info collection, blocklists, fallback modes, command-line assembly, and platform-specific handling.
+// ---
+
 
 #include "content/browser/gpu/gpu_data_manager_impl_private.h"
 

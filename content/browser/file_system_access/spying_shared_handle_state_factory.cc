@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spying shared handle state factory implementation
+// summary: Builds shared handle states that wrap permission grants in spying mocks for tests.
+// ---
+
 #include "content/browser/file_system_access/spying_shared_handle_state_factory.h"
 
 #include "base/memory/scoped_refptr.h"

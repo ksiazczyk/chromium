@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemManagerImpl implementation
+// summary: Implements the browser-side FileSystemManager mojom entry point, dispatching renderer calls to storage FileSystemContext operations.
+// ---
+
 #include "content/browser/file_system/file_system_manager_impl.h"
 
 #include <string>

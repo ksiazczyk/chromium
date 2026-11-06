@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveFileCreateInfo implementation
+// summary: Implements the SaveFileCreateInfo constructors that populate path, URL, save item and package IDs, renderer IDs, and source details for save item jobs.
+// ---
+
 #include "content/browser/download/save_types.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed File System Access permission grant implementation
+// summary: Implements a permission grant that always reports a fixed status and aborts permission requests.
+// ---
+
 #include "content/browser/file_system_access/fixed_file_system_access_permission_grant.h"
 
 namespace content {

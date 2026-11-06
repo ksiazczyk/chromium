@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font enumeration data source implementation
+// summary: Implements the Windows font enumeration data source using DirectWrite APIs to collect system font family and PostScript names for the Font Access API.
+// ---
+
 #include "content/browser/font_access/font_enumeration_data_source_win.h"
 
 #include <dwrite.h>
