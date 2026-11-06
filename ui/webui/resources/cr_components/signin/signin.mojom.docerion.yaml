@@ -1,0 +1,4 @@
+# Docerion header of signin.mojom.
+type: source
+title: Mojom interfaces for the signin WebUI component
+summary: Defines the ChromeSigninAccessPoint enum plus the SigninPageHandler and its factory, the browser-side Mojo interface that starts sign-in and records promo metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme color element
+// summary: Lit element cr-theme-color that renders a selectable theme color swatch with background, foreground, and base colors and a checked state.
+// ---
+
 import './check_mark_wrapper.js';
 
 import {skColorToRgba} from '//resources/js/color_utils.js';

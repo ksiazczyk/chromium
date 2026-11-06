@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop file handler
+// summary: Class that tracks drag enter and leave events and forwards dropped files to a DragAndDropHost while updating the glow animation state.
+// ---
+
 import {GlowAnimationState} from './constants.js';
 import type {DragAndDropHost} from './drag_drop_host.js';
 

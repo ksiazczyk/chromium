@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the signin WebUI component
+summary: Defines the Mojo bindings and WebUI build targets for the signin component, wiring signin.mojom and signin.ts into the generated resource bundle.

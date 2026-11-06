@@ -10,6 +10,12 @@
  * #include=cr-icons-lit searchbox-dropdown-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox dropdown styles
+summary: Lit CSS styles for the searchbox dropdown, covering content layout, group headers, match colors, forced colors and the secondary side.
+*/
+
 :host {
   user-select: none;
 }

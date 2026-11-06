@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-backed plural string proxy
+// summary: Implements PluralStringProxy over the PluralStringProvider Mojo interface so searchbox and composebox components can fetch pluralized strings without chrome.send.
+// ---
+
 import type {PluralStringProxy} from '//resources/js/plural_string_proxy.js';
 
 import {PluralStringProvider} from './plural_string_provider.mojom-webui.js';

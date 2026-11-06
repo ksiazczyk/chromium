@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the audio wave eclipse SVG
+// summary: Provides the Lit HTML template for the audio wave element, building the eclipse SVG with masks, blur filters, clipped glow paths and a blurred rectangle image.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {blurredRectUrl} from './audio_wave.js';

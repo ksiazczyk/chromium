@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop host interface
+// summary: Interface that parent components implement to receive dropped files and expose dragging state and animation state to the drag and drop handler.
+// ---
+
 // Shared interface that connects parent element to the drag and drop handler.
 export interface DragAndDropHost {
   isDraggingFile: boolean;

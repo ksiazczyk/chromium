@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox match HTML template
+// summary: Lit HTML template for cr-searchbox-match rendering suggestion text, keyword chips, per-match actions, and the remove button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import {KeywordType} from '//resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox match element
+// summary: Lit element cr-searchbox-match that displays a single autocomplete match with actions, keyword chips, selection state, and accessibility support.
+// ---
+
 import './searchbox_icon.js';
 import './searchbox_action.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

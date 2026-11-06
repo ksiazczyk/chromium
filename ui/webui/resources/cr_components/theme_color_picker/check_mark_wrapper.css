@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Check mark wrapper styles
+summary: Styles the check mark overlay shown on selected theme color swatches, including color variables and RTL support.
+*/
+
 :host {
   --cr-theme-color-check-mark-wrapper-background: var(
       --color-theme-color-picker-checkmark-background,

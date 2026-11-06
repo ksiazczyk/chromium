@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the search components directory
+summary: Points to the search and omnibox component owners and requires security owner review for changes to mojom files in this directory.

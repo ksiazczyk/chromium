@@ -1,0 +1,4 @@
+# Docerion header of theme_color_picker.mojom.
+type: source
+title: Theme color picker Mojo interface
+summary: Mojo definitions for theme and Chrome color structs plus the handler and client interfaces used for browser and WebUI color picker communication.

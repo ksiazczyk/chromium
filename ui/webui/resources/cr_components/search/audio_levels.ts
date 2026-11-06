@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech band audio level processor for visualization
+// summary: Implements AudioLevelsProcessor, which computes smoothed, noise-normalized speech levels from frequency band data to drive audio visualizations.
+// ---
+
 // Size of the history buffer for smoothing.
 const HISTORY_SIZE = 20;
 // Number of previous values to average with the current value for smoothing.

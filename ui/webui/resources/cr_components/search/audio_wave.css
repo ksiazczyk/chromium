@@ -7,6 +7,12 @@
 * #scheme=relative
 * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the audio wave eclipse animation
+summary: Defines the Lit styles for the audio wave element, animating the eclipse SVG and rotating blurred glow rectangles during expand and collapse transitions.
+*/
+
 :host {
   --expand-ease-in-duration: 200ms;
   --expand-ease-out-duration: 700ms;

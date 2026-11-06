@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit element driving search animated glow animations
+// summary: Implements the SearchAnimatedGlowElement Lit component that drives expanding, submitting, voice and drag-and-drop glow animations based on the animation state passed by parent elements.
+// ---
+
 import './audio_wave.js';
 import './recording_wave.js';
 

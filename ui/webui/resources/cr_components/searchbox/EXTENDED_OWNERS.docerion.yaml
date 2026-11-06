@@ -1,0 +1,4 @@
+# Docerion header of EXTENDED_OWNERS.
+type: config
+title: Extended owners for omnibox and search files
+summary: Delegates extended ownership of CSS, icon and element files to the omnibox and search component owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox dropdown element
+// summary: Lit element that displays autocomplete matches in the dropdown and provides a selection API for the embedder searchbox component.
+// ---
+
 import './searchbox_match.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox thumbnail HTML template
+// summary: Lit HTML template for cr-searchbox-thumbnail rendering the thumbnail image with an optional remove button overlay.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SearchboxThumbnailElement} from './searchbox_thumbnail.js';

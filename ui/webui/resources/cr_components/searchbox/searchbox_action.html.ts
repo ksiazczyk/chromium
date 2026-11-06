@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the searchbox action chip
+// summary: Lit HTML template that renders the overlay, icon and hint text of the cr-searchbox-action element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SearchboxActionElement} from './searchbox_action.js';

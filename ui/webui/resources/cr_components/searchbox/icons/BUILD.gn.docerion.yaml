@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Searchbox icons GN build file
+summary: GN build rules that bundle the searchbox SVG icons into GRD resource packs, with separate targets for non-branded and Chrome-branded icon sets.

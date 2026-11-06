@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check mark wrapper Lit template
+// summary: Lit template rendering the SVG check mark circle and a content slot for the check mark wrapper element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CheckMarkWrapperElement} from './check_mark_wrapper.js';

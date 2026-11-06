@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for search WebUI components
+summary: Defines the GN build targets for the search WebUI components, including mojo bindings for the plural string provider and the webui build listing TypeScript, CSS and static image sources.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the searchbox component
+summary: Lists code owners for the shared searchbox component with per-file ownership rules, including security owners for Mojo files.

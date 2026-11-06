@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox input HTML template
+// summary: Lit HTML template for the cr-searchbox-input element, rendering the icon, keyword chip, single- or multi-line input, and slots for actions and thumbnails.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SearchboxInputElement} from './searchbox_input.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for simulated audio bumps and syllable counting
+// summary: Provides utilities for simulated audio visualization, including a syllable counting heuristic, cubic Bezier easing and volume bump generation for speech-like motion.
+// ---
+
 export interface Bump {
   startTime: number;
   duration: number;

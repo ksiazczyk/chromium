@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox dropdown HTML template
+// summary: Lit HTML template that renders dropdown group headers and autocomplete matches for each side type of the searchbox dropdown.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SearchboxDropdownElement} from './searchbox_dropdown.js';

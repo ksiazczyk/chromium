@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for theme color picker
+summary: Declares directory metadata for the theme color picker folder, mixing in the customize chrome common metadata.

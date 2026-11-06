@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme color swatch Lit template
+// summary: Lit template rendering the SVG swatch with foreground, background, and base color areas inside the check mark wrapper.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ThemeColorElement} from './theme_color.js';
