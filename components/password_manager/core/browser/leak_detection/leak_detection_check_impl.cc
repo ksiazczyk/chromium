@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection check implementation
+// summary: Implements the per-credential leak check, coordinating access token fetching, payload hashing, and the network lookup for Chrome users.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/leak_detection_check_impl.h"
 
 #include <memory>

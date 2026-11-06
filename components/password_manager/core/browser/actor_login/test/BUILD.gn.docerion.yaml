@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor login test support build target
+summary: Defines the testonly test_support source set with the actor login fake and mock sources, visibility and dependencies.

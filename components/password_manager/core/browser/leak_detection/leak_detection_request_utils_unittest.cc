@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leak detection request utils unit tests
+// summary: Unit tests covering preparation of single leak request data, response analysis outcomes, and cancellation of leak detection requests.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/leak_detection_request_utils.h"
 
 #include "base/task/cancelable_task_tracker.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock of the actor login quality logger interface
+// summary: Google Mock of ActorLoginQualityLoggerInterface that stubs quality logging calls such as SetDomainAndLanguage and AddAttemptLoginDetails for tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_TEST_MOCK_ACTOR_LOGIN_QUALITY_LOGGER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_TEST_MOCK_ACTOR_LOGIN_QUALITY_LOGGER_H_
 

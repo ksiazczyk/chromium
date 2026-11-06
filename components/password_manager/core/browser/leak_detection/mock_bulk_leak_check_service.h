@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bulk leak check service mock
+// summary: Declares a GoogleMock fake of the bulk leak check service interface for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_MOCK_BULK_LEAK_CHECK_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_MOCK_BULK_LEAK_CHECK_SERVICE_H_
 

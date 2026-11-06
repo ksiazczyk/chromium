@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasswordStoreConsumer declaration
+// summary: Declares a GMock PasswordStoreConsumer that receives password store results or backend errors in tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_MOCK_PASSWORD_STORE_CONSUMER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_MOCK_PASSWORD_STORE_CONSUMER_H_
 

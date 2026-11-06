@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey on-device encryption state tracker unit tests
+// summary: Parameterized unit tests verifying that the passkey state tracker derives the correct on-device encryption state across account, sync, and passkey model conditions.
+// ---
+
 #include "components/password_manager/core/browser/ode/passkey_on_device_encryption_state_tracker.h"
 
 #include <string>

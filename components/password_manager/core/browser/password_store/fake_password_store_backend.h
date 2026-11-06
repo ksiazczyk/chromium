@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake password store backend for tests
+// summary: Declares a fake PasswordStoreBackend implementation used in tests, with options for account stores, upsert behavior and error injection.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_FAKE_PASSWORD_STORE_BACKEND_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_FAKE_PASSWORD_STORE_BACKEND_H_
 

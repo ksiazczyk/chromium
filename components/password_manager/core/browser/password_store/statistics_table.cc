@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Statistics table implementation
+// summary: Implements the stats SQLite table storing password prompt dismissal counts per origin domain and username, with migration and deletion support.
+// ---
+
 #include "components/password_manager/core/browser/password_store/statistics_table.h"
 
 #include <stdint.h>

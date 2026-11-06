@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login database interface
+// summary: Declares the LoginDatabase class, the interface to database storage of login information used by PasswordStore, with methods for adding, updating and removing credentials.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_LOGIN_DATABASE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_LOGIN_DATABASE_H_
 

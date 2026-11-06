@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption utilities implementation
+// summary: Implements username canonicalization, salted SHA256 hashing, hash-prefix bucketization, scrypt credential hashing and elliptic-curve encryption for leak detection requests.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/encryption_utils.h"
 
 #include <climits>

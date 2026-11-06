@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password CSV writer unit tests
+// summary: Unit tests verifying CSV serialization of zero, single, and multiple passwords and the resulting column output.
+// ---
+
 #include "components/password_manager/core/browser/export/password_csv_writer.h"
 
 #include <memory>

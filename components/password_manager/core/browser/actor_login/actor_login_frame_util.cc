@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of actor login frame and origin validation
+// summary: Implements checks for whether a form origin is supported and whether a frame is safe and eligible for credential filling based on origin and frame hierarchy.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/actor_login_frame_util.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements spec printer header
+// summary: Declares ostream operator<< overloads that print PasswordRequirementsSpec and its character classes for debugging.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_GENERATION_PASSWORD_REQUIREMENTS_SPEC_PRINTER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_GENERATION_PASSWORD_REQUIREMENTS_SPEC_PRINTER_H_
 

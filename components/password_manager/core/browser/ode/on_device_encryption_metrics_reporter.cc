@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODE metrics reporter implementation
+// summary: Implements the keyed service that registers reporting preferences and owns the passkey and password on-device encryption metrics reporters.
+// ---
+
 #include "components/password_manager/core/browser/ode/on_device_encryption_metrics_reporter.h"
 
 #include <memory>

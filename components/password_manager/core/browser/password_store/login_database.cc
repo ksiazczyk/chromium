@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login database implementation
+// summary: Core implementation of LoginDatabase, the SQLite storage for saved passwords, including schema versioning, credential CRUD operations, encryption and sync metadata handling.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include <stddef.h>

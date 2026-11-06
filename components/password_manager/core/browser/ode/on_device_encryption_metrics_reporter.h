@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODE metrics reporter header
+// summary: Declares the KeyedService that manages on-device encryption metrics reporters and defines the passkey and password histogram names.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_ON_DEVICE_ENCRYPTION_METRICS_REPORTER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_ON_DEVICE_ENCRYPTION_METRICS_REPORTER_H_
 

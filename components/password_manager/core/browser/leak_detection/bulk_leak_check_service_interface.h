@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk leak check service interface
+// summary: Declares BulkLeakCheckServiceInterface, a KeyedService for checking many username-password pairs against leaked credentials, with a state enum and observer notifications.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_BULK_LEAK_CHECK_SERVICE_INTERFACE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_BULK_LEAK_CHECK_SERVICE_INTERFACE_H_
 

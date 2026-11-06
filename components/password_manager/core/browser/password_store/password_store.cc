@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStore implementation
+// summary: Implements the cross-platform PasswordStore that forwards credential operations to a pluggable backend and notifies consumers of changes.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store.h"
 
 #include <algorithm>

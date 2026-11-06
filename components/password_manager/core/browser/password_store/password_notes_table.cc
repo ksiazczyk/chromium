@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password notes database table
+// summary: Implements the password_notes SQL table of the login database, including migrations, note encryption, and insert, remove, and query operations.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_notes_table.h"
 
 #include <string>

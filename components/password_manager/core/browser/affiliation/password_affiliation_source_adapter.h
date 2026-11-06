@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAffiliationSourceAdapter class declaration
+// summary: Declares the PasswordAffiliationSourceAdapter class, an affiliation source that reads facets from the password store and observes login changes for observers.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_AFFILIATION_PASSWORD_AFFILIATION_SOURCE_ADAPTER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_AFFILIATION_PASSWORD_AFFILIATION_SOURCE_ADAPTER_H_
 

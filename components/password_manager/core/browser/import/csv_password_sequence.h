@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSVPasswordSequence class header
+// summary: Declares CSVPasswordSequence, which turns a CSV string of credentials into an iterable sequence of parsed passwords with a parse status.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_CSV_PASSWORD_SEQUENCE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_CSV_PASSWORD_SEQUENCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor Login duplicate permission cleaner unit tests
+// summary: Unit tests verifying duplicate permission cleaning for password and federated credentials using mock stores and affiliation services.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_duplicate_permission_cleaner.h"
 
 #include <memory>

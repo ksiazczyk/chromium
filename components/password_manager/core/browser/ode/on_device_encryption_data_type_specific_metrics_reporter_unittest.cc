@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ODE data type specific metrics reporter unit tests
+// summary: Unit tests verifying delayed initial reporting, handling of state changes before observation starts, and periodic recording of on-device encryption readiness metrics.
+// ---
+
 #include "components/password_manager/core/browser/ode/on_device_encryption_data_type_specific_metrics_reporter.h"
 
 #include <memory>

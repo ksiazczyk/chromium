@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements spec printer implementation
+// summary: Implements stream output operators that print PasswordRequirementsSpec and character class contents for logging and debugging.
+// ---
+
 #include "components/password_manager/core/browser/generation/password_requirements_spec_printer.h"
 
 namespace autofill {

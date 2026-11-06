@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAffiliatedMatchHelper implementation
+// summary: Implements a gmock-based mock of AffiliatedMatchHelper that lets tests stub affiliated realm and branding results.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/mock_affiliated_match_helper.h"
 
 #include <utility>

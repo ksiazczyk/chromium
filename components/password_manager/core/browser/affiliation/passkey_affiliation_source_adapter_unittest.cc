@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasskeyAffiliationSourceAdapter unit tests
+// summary: Unit tests for PasskeyAffiliationSourceAdapter verifying facet retrieval, change notifications, and skipping of invalid passkey relying party IDs.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/passkey_affiliation_source_adapter.h"
 
 #include <memory>

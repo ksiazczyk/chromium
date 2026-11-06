@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Login form finder implementation
+// summary: Finds eligible login form managers for an origin, checks field visibility, and collects parsed form details for Actor Login.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_form_finder.h"
 
 #include <map>

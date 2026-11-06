@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for password account storage utilities
+// summary: Unit tests verifying IsAccountStorageActive across signed-out, error, and syncing states using a test sync service.
+// ---
+
 #include "components/password_manager/core/browser/features/password_manager_features_util.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for password requirements spec fetcher
+// summary: GTest unit tests covering spec fetching for various origins, hash prefixes, generations, timeouts and error responses using a test URL loader.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/bind.h"
 #include "base/test/task_environment.h"

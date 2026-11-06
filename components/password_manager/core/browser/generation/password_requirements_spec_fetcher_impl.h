@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements spec fetcher implementation header
+// summary: Declares PasswordRequirementsSpecFetcherImpl with result codes, in-flight lookup bookkeeping and timeout handling for network requests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_GENERATION_PASSWORD_REQUIREMENTS_SPEC_FETCHER_IMPL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_GENERATION_PASSWORD_REQUIREMENTS_SPEC_FETCHER_IMPL_H_
 

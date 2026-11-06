@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreResultsObserver implementation
+// summary: Implements a helper consumer that stores GetLogins results and quits a run loop when they arrive so callers can wait for them.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_results_observer.h"
 
 #include <utility>

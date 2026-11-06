@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure credentials table declarations
+// summary: Declares the InsecureCredential struct describing compromised credentials and the InsecureCredentialsTable class managing the corresponding login database table.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_INSECURE_CREDENTIALS_TABLE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_INSECURE_CREDENTIALS_TABLE_H_
 

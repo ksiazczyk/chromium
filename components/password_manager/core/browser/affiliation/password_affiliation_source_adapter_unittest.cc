@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordAffiliationSourceAdapter unit tests
+// summary: Unit tests verifying that the adapter returns the expected facet URIs from the password store and reports added and removed facets on login changes.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/password_affiliation_source_adapter.h"
 
 #include <memory>

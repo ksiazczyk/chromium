@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CSV field parser
+// summary: Tests positive and negative CSV field parsing cases, including quoting, escaping, Unicode content and the maximum field limit.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_field_parser.h"
 
 #include <array>

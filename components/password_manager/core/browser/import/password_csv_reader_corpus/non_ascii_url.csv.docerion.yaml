@@ -1,0 +1,4 @@
+# Docerion header of non_ascii_url.csv.
+type: test
+title: Non-ASCII URL CSV corpus
+summary: Test corpus CSV containing non-ASCII characters in URLs and fields for the password CSV reader.

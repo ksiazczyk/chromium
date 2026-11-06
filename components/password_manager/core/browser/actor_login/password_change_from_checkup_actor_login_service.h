@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change from checkup actor login service header
+// summary: Declares the ActorLoginService implementation that supplies credentials and attempts login for the automated password change flow.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_PASSWORD_CHANGE_FROM_CHECKUP_ACTOR_LOGIN_SERVICE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_PASSWORD_CHANGE_FROM_CHECKUP_ACTOR_LOGIN_SERVICE_H_
 

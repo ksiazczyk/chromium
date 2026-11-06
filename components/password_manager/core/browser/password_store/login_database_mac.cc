@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDatabase encryption for Mac
+// summary: Implements LoginDatabase's string encryption and decryption helpers on macOS using the os_crypt Async encryptor.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV password iterator implementation
+// summary: Implements CSVPasswordIterator, which walks CSV text row by row, and the shared ConsumeCSVLine helper that respects quoted line breaks.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_password_iterator.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliatedMatchHelper header
+// summary: Declares AffiliatedMatchHelper, which supplies affiliated and grouped realms plus branding information to the PasswordStore on behalf of the AffiliationService.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_AFFILIATION_AFFILIATED_MATCH_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_AFFILIATION_AFFILIATED_MATCH_HELPER_H_
 

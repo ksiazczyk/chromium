@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorLoginQualityLogger unit tests
+// summary: Tests the quality logger's upload behavior, including that no log is uploaded without metadata and that credentials and login details are recorded correctly.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/actor_login_quality_logger.h"
 
 #include <memory>

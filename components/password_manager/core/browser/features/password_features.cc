@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager feature flag definitions
+// summary: Defines base::Feature flags for password manager browser features, with platform-specific default states for desktop, Android, and iOS.
+// ---
+
 #include "components/password_manager/core/browser/features/password_features.h"
 
 #include "base/feature_list.h"

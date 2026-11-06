@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for os_crypt
+summary: Grants this directory permission to include headers from components/os_crypt.

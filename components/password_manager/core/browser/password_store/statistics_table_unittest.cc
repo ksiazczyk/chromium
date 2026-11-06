@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Statistics table unit tests
+// summary: Unit tests covering add, remove, query, and time-filtered deletion of rows in the password statistics table.
+// ---
+
 #include "components/password_manager/core/browser/password_store/statistics_table.h"
 
 #include <functional>

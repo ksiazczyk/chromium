@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSVPasswordSequence implementation
+// summary: Parses CSV credential files by mapping header column names to origin, username, password and note labels and exposes the rows as a sequence of passwords.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_password_sequence.h"
 
 #include <set>

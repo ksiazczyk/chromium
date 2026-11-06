@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption and decryption interface
+// summary: Declares the EncryptDecryptInterface with encryption result codes for encrypting and decrypting stored passwords.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_ENCRYPT_DECRYPT_INTERFACE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_ENCRYPT_DECRYPT_INTERFACE_H_
 

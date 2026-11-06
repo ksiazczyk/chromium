@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FormDataParser
+// summary: Exercises password form parsing in filling and saving modes across many field configurations, server hints and autocomplete attributes.
+// ---
+
 #include "components/password_manager/core/browser/form_parsing/form_data_parser.h"
 
 #include <stddef.h>

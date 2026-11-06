@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login types implementation
+// summary: Implements Credential and FederationDetail types and maps actor login outcome and permission enums to their Optimization Guide proto equivalents.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/actor_login_types.h"
 
 #include "base/notreached.h"

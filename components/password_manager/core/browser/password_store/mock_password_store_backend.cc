@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasswordStoreBackend implementation
+// summary: Provides the mock PasswordStoreBackend implementation used as a test double in password store unit tests.
+// ---
+
 #include "components/password_manager/core/browser/password_store/mock_password_store_backend.h"
 
 namespace password_manager {

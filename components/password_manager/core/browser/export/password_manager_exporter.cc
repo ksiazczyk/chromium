@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager exporter implementation
+// summary: Implements asynchronous password export to a destination file, including serialization, writing, permissions, and progress reporting.
+// ---
+
 #include "components/password_manager/core/browser/export/password_manager_exporter.h"
 
 #include <string_view>

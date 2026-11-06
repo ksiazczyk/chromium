@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSmartBubbleStatsStore header
+// summary: Declares a gmock mock of SmartBubbleStatsStore with mocked site stats methods for use in password manager tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_MOCK_SMART_BUBBLE_STATS_STORE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_MOCK_SMART_BUBBLE_STATS_STORE_H_
 

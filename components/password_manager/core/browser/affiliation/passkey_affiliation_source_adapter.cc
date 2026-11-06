@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyAffiliationSourceAdapter implementation
+// summary: Implements an affiliation source adapter that derives facet URIs from passkeys in the PasskeyModel and reports passkey changes to observers.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/passkey_affiliation_source_adapter.h"
 
 #include <optional>

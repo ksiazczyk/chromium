@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leak detection check factory implementation unit tests
+// summary: Tests creation of leak checks and bulk leak checks for signed-out, signed-in and syncing users, verifying error reporting when no account is available.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/leak_detection_check_factory_impl.h"
 
 #include "base/test/task_environment.h"

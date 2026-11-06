@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protobuf-based libFuzzer entry point for FormDataParser
+// summary: Implements a binary protobuf fuzzer that builds FormData from the Form proto message and runs it through FormDataParser.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

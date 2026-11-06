@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODE data type specific metrics reporter implementation
+// summary: Implements the reporter that maps on-device encryption states to histogram buckets and records readiness metrics on state changes and periodically.
+// ---
+
 #include "components/password_manager/core/browser/ode/on_device_encryption_data_type_specific_metrics_reporter.h"
 
 #include <optional>

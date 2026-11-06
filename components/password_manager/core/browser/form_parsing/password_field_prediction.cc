@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password field prediction conversion implementation
+// summary: Converts autofill server predictions into password-focused form predictions, prioritising payment-related and credential field types.
+// ---
+
 #include "components/password_manager/core/browser/form_parsing/password_field_prediction.h"
 
 #include "base/containers/flat_map.h"

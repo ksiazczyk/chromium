@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordManagerExporter unit tests
+// summary: Unit tests for the password manager exporter, verifying CSV export progress, file writing, deletion, permissions and cancellation via mocked callbacks.
+// ---
+
 #include "components/password_manager/core/browser/export/password_manager_exporter.h"
 
 #include <memory>

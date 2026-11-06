@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for actor_login source sets
+summary: Defines GN source sets and dependencies for the actor_login common code, frame utilities, permissions manager, service implementation and unit tests.

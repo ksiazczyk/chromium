@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataParser implementation for password forms
+// summary: Implements parsing of web form data into PasswordForm objects, including autocomplete attribute handling, username detection and field interactability tracking.
+// ---
+
 #include "components/password_manager/core/browser/form_parsing/form_data_parser.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionableError enum for password manager errors
+// summary: Defines an enum classifying password manager errors that users can act on, such as sign-in needed, keychain errors or a required passphrase.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_ACTIONABLE_ERROR_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_ACTIONABLE_ERROR_H_
 

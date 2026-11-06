@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bulk leak check delegate mock implementation
+// summary: Implements the mocked bulk leak check delegate used by unit tests on non-Android platforms.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/mock_leak_detection_delegate.h"
 
 #include "build/build_config.h"

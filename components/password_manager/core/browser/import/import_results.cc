@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportResults implementation
+// summary: Defines default constructors, destructors and assignment operators for the ImportEntry and ImportResults structures.
+// ---
+
 #include "components/password_manager/core/browser/import/import_results.h"
 
 namespace password_manager {

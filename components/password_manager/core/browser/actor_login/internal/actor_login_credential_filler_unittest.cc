@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for actor login credential filler
+// summary: Unit tests covering credential filling behavior, including form matching, device reauthentication, feature flags and metrics logging with mocks and fakes.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_credential_filler.h"
 
 #include "base/functional/callback_helpers.h"

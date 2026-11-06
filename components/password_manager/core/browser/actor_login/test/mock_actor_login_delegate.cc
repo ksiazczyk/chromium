@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock actor login delegate implementation
+// summary: Implements the mock delegate by forwarding AttemptLogin calls to the gmock overload used in unit tests.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/test/mock_actor_login_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for actor login delegate implementation
+// summary: Unit tests for the delegate implementation covering credential retrieval, login attempts, permissions and metrics using mock and stub dependencies.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_delegate_impl.h"
 
 #include "base/functional/callback_helpers.h"

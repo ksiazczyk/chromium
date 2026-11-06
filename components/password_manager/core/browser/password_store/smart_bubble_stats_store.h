@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart bubble stats store interface
+// summary: Interface for storing and retrieving per-origin interaction statistics used by the smart bubble behaviour of password save and update prompts.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_SMART_BUBBLE_STATS_STORE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_SMART_BUBBLE_STATS_STORE_H_
 

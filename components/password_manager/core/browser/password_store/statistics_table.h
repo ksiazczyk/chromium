@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Statistics table declarations
+// summary: Declares StatisticsTable, the stats table of the login database, with methods to add, remove, query, and migrate interaction statistics.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_STATISTICS_TABLE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_STATISTICS_TABLE_H_
 

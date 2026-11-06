@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure credentials table implementation
+// summary: Implements the insecure_credentials SQLite table that stores compromised credential records, including insert-or-replace, removal and row retrieval for the login database.
+// ---
+
 #include "components/password_manager/core/browser/password_store/insecure_credentials_table.h"
 
 #include "base/functional/bind.h"

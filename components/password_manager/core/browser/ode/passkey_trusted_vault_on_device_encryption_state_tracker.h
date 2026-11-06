@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey trusted vault on-device encryption state tracker class
+// summary: Declares a state tracker that monitors SyncService and TrustedVaultClient for the hw_protected security domain to track passkey encryption state on Android.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_PASSKEY_TRUSTED_VAULT_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_PASSKEY_TRUSTED_VAULT_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 

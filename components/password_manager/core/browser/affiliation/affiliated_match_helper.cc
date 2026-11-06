@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliatedMatchHelper implementation
+// summary: Implements the helper that queries the AffiliationService for Android and web realms affiliated with an observed web credential.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/affiliated_match_helper.h"
 
 #include <algorithm>

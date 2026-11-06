@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements spec fetcher implementation
+// summary: Implements network fetching of password requirement shards from gstatic, hashing origin eTLD+1 into MD5-based file prefixes with timeouts and metrics.
+// ---
+
 #include "components/password_manager/core/browser/generation/password_requirements_spec_fetcher_impl.h"
 
 #include <optional>

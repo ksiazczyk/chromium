@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definitions for form data fuzzer input
+// summary: Defines proto3 Form and FormField messages mirroring the autofill form data members relevant for fuzzing the password form parser.
+// ---
+
 syntax = "proto3";
 package form_data_fuzzer;
 

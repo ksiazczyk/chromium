@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store utility functions
+// summary: Implements helpers for joining password store change lists, converting backend errors to actionable errors, and checking whether saving passwords is allowed.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_util.h"
 
 #include <algorithm>

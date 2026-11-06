@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleLookupResponse struct definition
+// summary: Defines a struct holding encrypted leak match prefixes and a re-encrypted lookup hash to determine whether a credential was leaked.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_SINGLE_LOOKUP_RESPONSE_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_LEAK_DETECTION_SINGLE_LOOKUP_RESPONSE_H_
 

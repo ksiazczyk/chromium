@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generator implementation
+// summary: Implements password generation that maximizes entropy while satisfying per-site requirements, with default character sets, length limits and readability checks.
+// ---
+
 #include "components/password_manager/core/browser/generation/password_generator.h"
 
 #include <algorithm>

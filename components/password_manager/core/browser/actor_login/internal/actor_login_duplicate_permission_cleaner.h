@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Login duplicate permission cleaner header
+// summary: Declares ActorLoginDuplicatePermissionCleaner, which clears duplicate permissions across profile and account password stores.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_INTERNAL_ACTOR_LOGIN_DUPLICATE_PERMISSION_CLEANER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_INTERNAL_ACTOR_LOGIN_DUPLICATE_PERMISSION_CLEANER_H_
 

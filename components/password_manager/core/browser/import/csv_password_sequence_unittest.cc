@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSVPasswordSequence unit tests
+// summary: Tests construction, move semantics, iteration, empty line skipping and note column name handling of CSVPasswordSequence.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_password_sequence.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Login get credentials helper implementation
+// summary: Runs multiple credential fetchers in parallel, merges their results, and reports credentials or errors for the Actor Login feature.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_get_credentials_helper.h"
 
 #include <algorithm>

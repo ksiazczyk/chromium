@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the password Trusted Vault on-device encryption state tracker
+// summary: Parameterized unit tests verifying that the password state tracker derives the correct on-device encryption state across account, sync engine, passphrase and Trusted Vault key combinations.
+// ---
+
 #include "components/password_manager/core/browser/ode/password_trusted_vault_on_device_encryption_state_tracker.h"
 
 #include <string>

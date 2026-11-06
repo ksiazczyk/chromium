@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for actor login frame util
+// summary: Tests IsFormOriginSupported and IsValidFrameAndOriginToFill across main frames, direct children, nested frames, fenced frames and cross-origin ancestors.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/actor_login_frame_util.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversion of form protobuf messages into FormData
+// summary: Converts a parsed form_data_fuzzer::Form protobuf message into an autofill FormData object, capping fields near the parser's maximum.
+// ---
+
 #include "components/password_manager/core/browser/form_parsing/fuzzer/form_data_proto_producer.h"
 
 #include "base/numerics/safe_conversions.h"

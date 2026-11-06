@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the form_parsing component
+summary: Defines the form_parsing static library, its unit test source set and fuzzer group together with their Chromium build dependencies.

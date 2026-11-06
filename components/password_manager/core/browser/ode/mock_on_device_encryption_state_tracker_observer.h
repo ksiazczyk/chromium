@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock ODE state tracker observer header
+// summary: Declares a gmock mock of the on-device encryption state tracker observer for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_MOCK_ON_DEVICE_ENCRYPTION_STATE_TRACKER_OBSERVER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_MOCK_ON_DEVICE_ENCRYPTION_STATE_TRACKER_OBSERVER_H_
 

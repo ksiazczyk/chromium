@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for on-device encryption
+summary: Defines the ode source set with its sources and dependencies, plus the unit_tests target covering the on-device encryption code.

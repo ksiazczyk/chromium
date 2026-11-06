@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordImporter implementation
+// summary: Implements password import from CSV files, covering file reading, size limits, parsing via a utility process, conflict resolution and metrics.
+// ---
+
 #include "components/password_manager/core/browser/import/password_importer.h"
 
 #include <optional>

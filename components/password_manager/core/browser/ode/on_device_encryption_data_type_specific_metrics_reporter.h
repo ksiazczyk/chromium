@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODE data type specific metrics reporter header
+// summary: Declares the per-data-type reporter that observes the ODE state tracker and publishes UMA readiness metrics with delayed initial and daily periodic reporting.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_ON_DEVICE_ENCRYPTION_DATA_TYPE_SPECIFIC_METRICS_REPORTER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_ON_DEVICE_ENCRYPTION_DATA_TYPE_SPECIFIC_METRICS_REPORTER_H_
 

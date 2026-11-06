@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bulk leak check service unit tests
+// summary: Unit tests for BulkLeakCheckService covering credential checks, observer notifications, error states and histograms using mock factories and an identity test environment.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/bulk_leak_check_service.h"
 
 #include <algorithm>

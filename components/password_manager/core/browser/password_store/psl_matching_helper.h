@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSL matching helper declarations
+// summary: Declares the MatchResult enum and functions for public suffix, federated, and registry-controlled-domain matching of stored password credentials.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_PSL_MATCHING_HELPER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_PSL_MATCHING_HELPER_H_
 

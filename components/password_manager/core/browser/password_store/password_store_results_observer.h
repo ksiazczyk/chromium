@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreResultsObserver declaration
+// summary: Declares a PasswordStoreConsumer subclass that synchronously waits until the password store handles a GetLogins request and returns the results.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_PASSWORD_STORE_RESULTS_OBSERVER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_PASSWORD_STORE_RESULTS_OBSERVER_H_
 

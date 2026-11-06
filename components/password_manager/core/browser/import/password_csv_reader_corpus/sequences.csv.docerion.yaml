@@ -1,0 +1,4 @@
+# Docerion header of sequences.csv.
+type: test
+title: Sequences CSV corpus
+summary: Test corpus CSV with alphabet, number and filler sequences for the password CSV reader.

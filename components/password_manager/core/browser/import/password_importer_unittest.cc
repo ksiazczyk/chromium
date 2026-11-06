@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password importer unit tests
+// summary: Unit tests for PasswordImporter that verify CSV password import into profile and account stores, import results, metrics, and temp file deletion using fake services and password stores.
+// ---
+
 #include "components/password_manager/core/browser/import/password_importer.h"
 
 #include "base/files/file_util.h"
