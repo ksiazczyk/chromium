@@ -1,0 +1,4 @@
+# Docerion header of register_service_worker.html.
+type: test
+title: Service worker registration test page
+summary: Test page whose script registers a service worker and reports DONE or the resulting error message.

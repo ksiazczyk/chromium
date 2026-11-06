@@ -1,0 +1,4 @@
+# Docerion header of single_face_corp.jpg.mock-http-headers.
+type: test
+title: Mock HTTP headers for single_face_corp.jpg
+summary: Supplies HTTP response headers for the single_face_corp.jpg test image, including a Cross-Origin-Resource-Policy of cross-origin.

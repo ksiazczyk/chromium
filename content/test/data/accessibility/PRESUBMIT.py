@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for accessibility test data
+# summary: Presubmit script enforcing pairing and naming rules between accessibility test HTML files, platform expectation files, and their backing test sources.
+# ---
+
 """Presubmit script for Chromium accessibility-related test code.
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts/

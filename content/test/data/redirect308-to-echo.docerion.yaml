@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-echo.
+type: test
+title: 308 redirect to echo target page
+summary: Minimal page body served for the redirect308-to-echo test path that issues a 308 redirect to /echo.

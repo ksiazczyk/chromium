@@ -1,0 +1,4 @@
+# Docerion header of stale-script.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for stale-script.js
+summary: Provides HTTP response headers for stale-script.js with a Cache-Control policy using stale-while-revalidate of 60 seconds.

@@ -1,0 +1,4 @@
+# Docerion header of redirect308-to-echo.mock-http-headers.
+type: test
+title: Mock HTTP headers for 308 redirect to echo
+summary: Mock HTTP headers that respond with a 308 status and redirect the request to /echo.

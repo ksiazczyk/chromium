@@ -1,0 +1,4 @@
+# Docerion header of x-frame-options-deny.html.
+type: test
+title: X-Frame-Options deny test page
+summary: HTML page that must not load in a frame because its X-Frame-Options is set to DENY, used in frame blocking tests.

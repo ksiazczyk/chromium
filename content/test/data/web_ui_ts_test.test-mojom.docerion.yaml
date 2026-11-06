@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ts_test.test-mojom.
+type: test
+title: WebUI TypeScript Mojo test interface definitions
+summary: Mojo structs, enums, unions and interfaces exercising WebUI TypeScript bindings, including maps, typemaps and associated interfaces.

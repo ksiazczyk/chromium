@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for accessibility presubmit checks
+summary: Unit tests verifying the accessibility presubmit checks using mock input and output APIs to simulate affected files and changelists.

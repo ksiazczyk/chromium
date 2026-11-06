@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mojo TS test mapped dict converter
+// summary: Implements a converter between a Mojo mapped dict data view and a TypeScript Map for the WebUI Mojo TS tests.
+// ---
+
 import {MappedDictType} from './web_ui_mojo_ts_test_other_mapped_types.js';
 import {MappedDictDataView, MappedDictTypeMapper} from './web_ui_ts_test_other_types.test-mojom-converters.js';
 

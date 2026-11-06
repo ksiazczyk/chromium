@@ -1,0 +1,4 @@
+# Docerion header of web_ui_managed_interface_test.test-mojom.
+type: test
+title: WebUI managed interface test Mojom interfaces
+summary: Defines the Foo, Bar, Baz and TestWebUIJsBridge Mojom interfaces used by the WebUI managed interface test.

@@ -1,0 +1,4 @@
+# Docerion header of sync_xmlhttprequest_cancelled.html.
+type: test
+title: Cancelled synchronous XMLHttpRequest test page
+summary: Test page that sends a synchronous XMLHttpRequest to a hung endpoint and records the error code when the request is cancelled.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for accessibility test data
+summary: Chromium DIR_METADATA entry that mixes in the COMMON_METADATA from ui/accessibility for this test data folder.

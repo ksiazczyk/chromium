@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-https.mock-http-headers.
+type: test
+title: redirect307-to-https.mock-http-headers
+summary: Mock HTTP headers fixture that responds with a 307 temporary redirect to an HTTPS target for content tests.

@@ -1,0 +1,4 @@
+# Docerion header of sandboxed_main_frame_script.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for sandboxed_main_frame_script.html
+summary: Mock HTTP response headers that apply a sandboxing Content-Security-Policy when serving the sandboxed main frame script test page.

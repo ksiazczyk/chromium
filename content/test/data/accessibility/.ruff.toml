@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for accessibility test data
+# summary: Extends the repository root Ruff configuration and sets an indent width of 4 for Python files in this directory.
+# ---
+
 extend = "../../../.ruff.toml"
 indent-width = 4

@@ -1,0 +1,4 @@
+# Docerion header of set_document_cookie.html.
+type: test
+title: Test page setting document.cookie from the query string
+summary: Test page that assigns the query string to document.cookie so tests can set cookies via the document.cookie API.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mojo conformance test runner
+// summary: Runs Mojo message validation conformance test cases in the browser and tracks known failing cases.
+// ---
+
 import {mojo} from '//resources/mojo/mojo/public/js/bindings.js';
 
 import {ConformanceTestInterfaceCallbackRouter, PageHandlerFactory} from './validation_test_interfaces.test-mojom-webui.js';

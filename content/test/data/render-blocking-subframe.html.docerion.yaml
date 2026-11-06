@@ -1,0 +1,4 @@
+# Docerion header of render-blocking-subframe.html.
+type: test
+title: Render-blocking subframe test page
+summary: Test page that loads a slow stylesheet and sets the background red or blue from a query parameter for render-blocking subframe tests.

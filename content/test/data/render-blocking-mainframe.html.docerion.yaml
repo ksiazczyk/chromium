@@ -1,0 +1,4 @@
+# Docerion header of render-blocking-mainframe.html.
+type: test
+title: Render-blocking mainframe test page
+summary: HTML test page styling a full-viewport iframe, used for render-blocking main frame tests.

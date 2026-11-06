@@ -1,0 +1,4 @@
+# Docerion header of send-beacon-in-iframe.html.
+type: test
+title: Test page sending navigator.sendBeacon() from an iframe
+summary: Test page that appends an iframe calling navigator.sendBeacon() with a URL and payload from query parameters, supporting string, ArrayBuffer, form and blob payloads.
