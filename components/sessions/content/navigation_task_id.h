@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationTaskId class declaration
+// summary: Declares user data storing task, parent, and root task IDs on NavigationEntries to track navigation relationships for task clustering.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_NAVIGATION_TASK_ID_H_
 #define COMPONENTS_SESSIONS_CONTENT_NAVIGATION_TASK_ID_H_
 

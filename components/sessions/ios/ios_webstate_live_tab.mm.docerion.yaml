@@ -1,0 +1,4 @@
+# Docerion header of ios_webstate_live_tab.mm.
+type: source
+title: iOS WebState LiveTab implementation
+summary: Implements IOSWebStateLiveTab, exposing WebState navigation manager entries as serialized navigation entries for iOS sessions.

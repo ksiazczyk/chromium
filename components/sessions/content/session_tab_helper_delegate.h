@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionTabHelperDelegate interface header
+// summary: Declares the delegate interface SessionTabHelper uses to record navigation entry changes, user agent overrides, and pruning for later restore.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_SESSION_TAB_HELPER_DELEGATE_H_
 #define COMPONENTS_SESSIONS_CONTENT_SESSION_TAB_HELPER_DELEGATE_H_
 

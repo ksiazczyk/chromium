@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command storage backend implementation
+// summary: Implements writing and reading session command files with versioning, optional encryption, timestamped file names and UMA metrics.
+// ---
+
 #include "components/sessions/core/command_storage_backend.h"
 
 #include <stdint.h>

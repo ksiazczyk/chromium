@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared highlighting parsing utilities header
+// summary: Declares helpers to validate dictionary values, parse rects and URLs, and convert web view rects to browser coordinates.
+// ---
+
 #ifndef COMPONENTS_SHARED_HIGHLIGHTING_IOS_PARSING_UTILS_H_
 #define COMPONENTS_SHARED_HIGHLIGHTING_IOS_PARSING_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message handler interface
+// summary: Defines the SharingMessageHandler interface with an OnMessage method for processing incoming sharing messages and invoking a done callback with a response.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_HANDLER_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_HANDLER_H_
 

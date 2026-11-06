@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSharingService implementation
+// summary: Implements MockSharingService with a fake device registration and null dependencies for use in sharing tests.
+// ---
+
 #include "components/sharing_message/mock_sharing_service.h"
 
 #include "components/sharing_message/sharing_channel_sender.h"

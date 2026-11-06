@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command storage manager implementation
+// summary: Implements scheduling of session command saves and coordination between cleartext and encrypted backends, including comparison metrics.
+// ---
+
 #include "components/sessions/core/command_storage_manager.h"
 
 #include <algorithm>

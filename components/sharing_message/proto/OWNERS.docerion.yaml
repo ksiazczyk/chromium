@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for sharing message proto directory
+summary: Declares per-file code owners for the actuator downstream and Glic experimental triggering proto definitions.

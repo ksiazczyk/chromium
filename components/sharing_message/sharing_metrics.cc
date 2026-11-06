@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing metrics implementation
+// summary: Implements UMA logging helpers for sharing features, mapping channel types, device platforms, pulse intervals, and send results to histogram suffix strings.
+// ---
+
 #include "components/sharing_message/sharing_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

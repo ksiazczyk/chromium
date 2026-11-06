@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message data type controller header
+// summary: Declares SharingMessageDataTypeController, which controls syncing of the SHARING_MESSAGE data type and overrides Stop to always clear sync metadata.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_DATA_TYPE_CONTROLLER_H_
 

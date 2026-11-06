@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sessions content component
+summary: Defines the allowed include dependencies for components/sessions/content, covering content public APIs, Blink common headers, and network service types.

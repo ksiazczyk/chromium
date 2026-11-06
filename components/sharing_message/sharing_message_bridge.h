@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingMessageBridge interface
+// summary: Declares a KeyedService interface for sending sharing messages through the Sync server, with a commit-finished callback and a sync data type controller delegate.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_BRIDGE_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_BRIDGE_H_
 

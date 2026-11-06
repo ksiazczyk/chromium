@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session types
+// summary: Defines the SessionTab, SessionTabGroup, SessionSplitTab and SessionWindow structures that describe restored session state.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSION_TYPES_H_
 #define COMPONENTS_SESSIONS_CORE_SESSION_TYPES_H_
 

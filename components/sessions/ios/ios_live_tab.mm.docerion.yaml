@@ -1,0 +1,4 @@
+# Docerion header of ios_live_tab.mm.
+type: source
+title: IOSLiveTab implementation
+summary: Implements the IOSLiveTab destructor for the iOS live tab class.

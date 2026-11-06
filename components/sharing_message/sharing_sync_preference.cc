@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingSyncPreference implementation
+// summary: Implements storage and retrieval of Sharing sync preferences, including FCM registration data and local sharing info with target info serialization.
+// ---
+
 #include "components/sharing_message/sharing_sync_preference.h"
 
 #include "base/base64.h"

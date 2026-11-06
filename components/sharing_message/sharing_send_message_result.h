@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing send message result enum
+// summary: Defines the SharingSendMessageResult enum of outcomes for sending sharing messages, kept in sync with enums.xml and histograms.xml for UMA logging.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_SEND_MESSAGE_RESULT_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_SEND_MESSAGE_RESULT_H_
 

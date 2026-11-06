@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSharingMessageSender mock header
+// summary: Gmock mock of SharingMessageSender mocking message sending to devices, server targets and iOS push, plus ack handling.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_MOCK_SHARING_MESSAGE_SENDER_H_
 #define COMPONENTS_SHARING_MESSAGE_MOCK_SHARING_MESSAGE_SENDER_H_
 

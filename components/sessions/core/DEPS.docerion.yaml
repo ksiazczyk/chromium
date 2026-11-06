@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sessions core component
+summary: Defines the directories whose headers the sessions core component is allowed to include, such as prefs, tab_groups and os_crypt.

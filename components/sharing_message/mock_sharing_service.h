@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSharingService header
+// summary: Declares MockSharingService, a gmock-based mock of SharingService used to stub sharing behavior in tests.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_MOCK_SHARING_SERVICE_H_
 #define COMPONENTS_SHARING_MESSAGE_MOCK_SHARING_SERVICE_H_
 

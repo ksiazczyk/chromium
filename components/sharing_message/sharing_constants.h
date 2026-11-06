@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing feature constants
+// summary: Declares constants and enums for the Sharing feature, including FCM IDs, message TTLs, retry backoff policy, and device platform types.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_CONSTANTS_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_CONSTANTS_H_
 

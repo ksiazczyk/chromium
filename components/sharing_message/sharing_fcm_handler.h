@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingFCMHandler class declaration
+// summary: Declares SharingFCMHandler, a GCMAppHandler responsible for receiving SharingMessage payloads via GCMDriver, delegating them to payload-specific handlers and acknowledging the original sender.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_FCM_HANDLER_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_FCM_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore service implementation header
+// summary: Declares TabRestoreServiceImpl, the TabRestoreService implementation that persists tab restore data to disk via a CommandStorageManager.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_TAB_RESTORE_SERVICE_IMPL_H_
 #define COMPONENTS_SESSIONS_CORE_TAB_RESTORE_SERVICE_IMPL_H_
 

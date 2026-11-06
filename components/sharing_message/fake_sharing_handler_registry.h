@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSharingHandlerRegistry test fake header
+// summary: Declares a fake SharingHandlerRegistry that stores and returns sharing message handlers per payload case for use in tests.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_FAKE_SHARING_HANDLER_REGISTRY_H_
 #define COMPONENTS_SHARING_MESSAGE_FAKE_SHARING_HANDLER_REGISTRY_H_
 

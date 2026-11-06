@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS push notification utility header
+// summary: Declares GetIosPushMessageTypeIdForChannel, which returns the Chime type ID for a given notification message type and release channel.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_IOS_PUSH_IOS_PUSH_NOTIFICATION_UTIL_H_
 #define COMPONENTS_SHARING_MESSAGE_IOS_PUSH_IOS_PUSH_NOTIFICATION_UTIL_H_
 

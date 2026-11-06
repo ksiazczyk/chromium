@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialized navigation entry implementation
+// summary: Implements pickling and unpickling of navigation entry data for session and tab restore, including size limits, field ordering, and referrer policy handling.
+// ---
+
 #include "components/sessions/core/serialized_navigation_entry.h"
 
 #include <stddef.h>

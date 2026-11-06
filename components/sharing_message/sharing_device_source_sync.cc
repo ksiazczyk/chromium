@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync-based sharing device source implementation
+// summary: Implements SharingDeviceSourceSync, which supplies sharing device candidates from sync device info and filters out stale devices.
+// ---
+
 #include "components/sharing_message/sharing_device_source_sync.h"
 
 #include <vector>

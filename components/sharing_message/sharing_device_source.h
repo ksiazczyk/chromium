@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing device source interface
+// summary: Declares the SharingDeviceSource interface for looking up sharing devices by GUID, listing candidates, and managing ready callbacks.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_DEVICE_SOURCE_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_DEVICE_SOURCE_H_
 

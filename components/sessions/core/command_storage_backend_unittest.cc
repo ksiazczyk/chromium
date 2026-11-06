@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the command storage backend
+// summary: Tests writing, reading, encryption and error handling of session command files across session types and encryption configurations.
+// ---
+
 #include "components/sessions/core/command_storage_backend.h"
 
 #include <stddef.h>

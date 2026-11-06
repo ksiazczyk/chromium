@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreIOSLiveTab interface
+// summary: Declares a LiveTab implementation backed by web::proto::NavigationStorage for restoring tabs from a crashed session.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_IOS_IOS_RESTORE_LIVE_TAB_H_
 #define COMPONENTS_SESSIONS_IOS_IOS_RESTORE_LIVE_TAB_H_
 

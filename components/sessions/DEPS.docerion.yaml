@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sessions include dependency rules
+summary: Specifies the include directories allowed for code in the sessions component.

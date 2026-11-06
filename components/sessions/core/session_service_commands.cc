@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service commands implementation
+// summary: Implements session service commands, defining command identifiers and routines that encode and decode session state such as windows, tabs, navigation, and tab groups.
+// ---
+
 #include "components/sessions/core/session_service_commands.h"
 
 #include <stdint.h>

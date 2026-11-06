@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionCommand unit tests
+// summary: Unit tests for SessionCommand covering constructors, contents access, serialization size handling, and encrypted versus cleartext output.
+// ---
+
 #include "components/sessions/core/session_command.h"
 
 #include <memory>

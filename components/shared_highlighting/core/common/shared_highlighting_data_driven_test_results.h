@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared highlighting data-driven test results struct
+// summary: Defines a struct holding generation and highlighting success flags for Shared Highlighting data-driven test results.
+// ---
+
 #ifndef COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_SHARED_HIGHLIGHTING_DATA_DRIVEN_TEST_RESULTS_H_
 #define COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_SHARED_HIGHLIGHTING_DATA_DRIVEN_TEST_RESULTS_H_
 

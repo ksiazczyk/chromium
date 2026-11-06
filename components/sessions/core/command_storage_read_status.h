@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandStorageReadStatus enum
+// summary: Defines read status codes for session file reads and a helper to identify read errors, with values persisted to logs.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_READ_STATUS_H_
 #define COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_READ_STATUS_H_
 

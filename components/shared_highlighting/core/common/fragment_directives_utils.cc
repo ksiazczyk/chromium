@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fragment directives utilities implementation
+// summary: Implements parsing, extraction, removal, and appending of text fragment directives in URLs according to the scroll-to-text-fragment behavior.
+// ---
+
 #include "components/shared_highlighting/core/common/fragment_directives_utils.h"
 
 #include <string.h>

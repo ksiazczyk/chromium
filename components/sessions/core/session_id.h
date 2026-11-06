@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionID class declaration
+// summary: Declares SessionID, a pass-by-value type that uniquely identifies tabs and windows for the duration of a session.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSION_ID_H_
 #define COMPONENTS_SESSIONS_CORE_SESSION_ID_H_
 

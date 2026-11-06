@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationTaskId implementation
+// summary: Implements access to NavigationTaskId user data on NavigationEntries, creating and cloning task ID data as needed.
+// ---
+
 #include "components/sessions/content/navigation_task_id.h"
 
 #include <memory>

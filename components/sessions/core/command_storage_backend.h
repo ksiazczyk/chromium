@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandStorageBackend class declaration
+// summary: Declares the backend that persists session commands to disk and reads them back, including read results and error handling semantics.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_BACKEND_H_
 #define COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_BACKEND_H_
 

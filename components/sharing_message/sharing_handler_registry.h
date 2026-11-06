@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingHandlerRegistry interface
+// summary: Declares the abstract registry interface for registering, unregistering and retrieving SharingMessageHandler instances for each SharingMessage payload case.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_HANDLER_REGISTRY_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_HANDLER_REGISTRY_H_
 

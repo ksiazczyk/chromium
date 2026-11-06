@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialized user agent override implementation
+// summary: Implements constructors and memory usage estimation for the serialized user agent override struct used in session restore.
+// ---
+
 #include "components/sessions/core/serialized_user_agent_override.h"
 
 #include "base/trace_event/memory_usage_estimator.h"

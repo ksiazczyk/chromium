@@ -1,0 +1,4 @@
+# Docerion header of ios_restore_live_tab.mm.
+type: source
+title: RestoreIOSLiveTab implementation
+summary: Implements LiveTab methods over NavigationStorage, building serialized navigation entries for crashed-session restore.

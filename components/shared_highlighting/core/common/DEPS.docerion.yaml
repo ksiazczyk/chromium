@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Shared highlighting common include rules (DEPS)
+summary: Declares the allowed include rules for the shared highlighting common directory, covering metrics, search engines, UKM, net, re2, and url dependencies.

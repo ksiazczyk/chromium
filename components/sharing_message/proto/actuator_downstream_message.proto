@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: actuator_downstream_message.proto
+// summary: Defines protobuf messages carrying server-to-client actuator downstream payloads, with a routing type that directs each payload to the right Chrome feature handler.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

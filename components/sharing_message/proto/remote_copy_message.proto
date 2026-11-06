@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: remote_copy_message.proto
+// summary: Defines a protobuf message passing plain text or an image URL as content for the remote copy clipboard feature.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionIdGenerator implementation
+// summary: Implements the singleton generator that produces unique session IDs, persisting the last value in local state prefs with padding to survive ungraceful shutdowns.
+// ---
+
 #include "components/sessions/core/session_id_generator.h"
 
 #include <ostream>

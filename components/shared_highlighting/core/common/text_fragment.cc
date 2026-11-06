@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text fragment implementation
+// summary: Implements the TextFragment class, parsing and escaping text fragment strings with prefix, text start, text end, and suffix parts for use in URLs.
+// ---
+
 #include "components/shared_highlighting/core/common/text_fragment.h"
 
 #include <sstream>

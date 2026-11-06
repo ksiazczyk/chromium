@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSSerializedNavigationDriver implementation
+// summary: Implements the iOS serialized navigation driver singleton, including referrer policy handling and sanitization of navigation entries.
+// ---
+
 #include "components/sessions/ios/ios_serialized_navigation_driver.h"
 
 #include "base/memory/singleton.h"

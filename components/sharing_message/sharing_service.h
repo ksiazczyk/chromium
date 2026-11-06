@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingService class declaration
+// summary: Declares the SharingService keyed service that manages the sharing feature lifecycle, tracks device registration state, and sends sharing messages to remote devices.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_SERVICE_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_SERVICE_H_
 

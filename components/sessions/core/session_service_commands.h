@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service commands declarations
+// summary: Declares factory functions for session commands and helpers to restore a session by replaying recorded commands.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSION_SERVICE_COMMANDS_H_
 #define COMPONENTS_SESSIONS_CORE_SESSION_SERVICE_COMMANDS_H_
 

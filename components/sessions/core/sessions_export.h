@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sessions export macros
+// summary: Defines the SESSIONS_EXPORT macro controlling symbol visibility for the sessions component in component builds.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSIONS_EXPORT_H_
 #define COMPONENTS_SESSIONS_CORE_SESSIONS_EXPORT_H_
 

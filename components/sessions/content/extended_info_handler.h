@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtendedInfoHandler interface
+// summary: Declares the interface for storing and restoring arbitrary key/value extended info on NavigationEntries during session serialization.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_EXTENDED_INFO_HANDLER_H_
 #define COMPONENTS_SESSIONS_CONTENT_EXTENDED_INFO_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingTargetDeviceInfo class declaration
+// summary: Declares a value type holding properties of a sharing target device, including GUID, client name, platform, pulse interval, and form factor.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_TARGET_DEVICE_INFO_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_TARGET_DEVICE_INFO_H_
 

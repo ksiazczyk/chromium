@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing service implementation
+// summary: Implements SharingService, coordinating device registration, FCM listening, sync state observation, and sending sharing messages to candidate devices.
+// ---
+
 #include "components/sharing_message/sharing_service.h"
 
 #include "base/feature_list.h"

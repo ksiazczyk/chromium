@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text fragment class header
+// summary: Declares the TextFragment class representing a text fragment, with parsing from escaped strings or values and serialization back to URL parameter format.
+// ---
+
 #ifndef COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_TEXT_FRAGMENT_H_
 #define COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_TEXT_FRAGMENT_H_
 

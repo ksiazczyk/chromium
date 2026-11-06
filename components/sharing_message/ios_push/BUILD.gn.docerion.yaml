@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the ios_push source set
+summary: Defines the ios_push GN source set, listing ios_push_notification_util sources and dependencies on base, sharing_message proto, and version_info channel.

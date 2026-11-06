@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation password state helper declarations
+// summary: Declares functions for getting and setting the password state of a content NavigationEntry used during session serialization.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_CONTENT_RECORD_PASSWORD_STATE_H_
 #define COMPONENTS_SESSIONS_CONTENT_CONTENT_RECORD_PASSWORD_STATE_H_
 

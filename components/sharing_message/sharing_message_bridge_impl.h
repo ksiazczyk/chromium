@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingMessageBridgeImpl class declaration
+// summary: Declares the sync bridge that sends sharing messages through the sync service without persistent storage, including timed commit callbacks and pending commit bookkeeping.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_BRIDGE_IMPL_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_BRIDGE_IMPL_H_
 

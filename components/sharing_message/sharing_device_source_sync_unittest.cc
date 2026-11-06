@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharingDeviceSourceSync unit tests
+// summary: Unit tests for SharingDeviceSourceSync covering readiness callbacks, device candidate filtering, and device lookup by GUID.
+// ---
+
 #include "components/sharing_message/sharing_device_source_sync.h"
 
 #include <memory>

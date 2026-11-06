@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing utility functions declaration
+// summary: Declares helpers for sync availability checks, FCM channel configuration lookup, and device platform mapping used by the sharing feature.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_UTILS_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service commands unit tests
+// summary: Unit tests verifying the replay result of restoring a session from session commands, including empty, successful and pruned cases.
+// ---
+
 #include "components/sessions/core/session_service_commands.h"
 
 #include <memory>

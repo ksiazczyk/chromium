@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serialized navigation entry unit tests
+// summary: Unit tests verifying default field initialization and the pickle write/read round-trip behavior of SerializedNavigationEntry.
+// ---
+
 #include "components/sessions/core/serialized_navigation_entry.h"
 
 #include <stdint.h>

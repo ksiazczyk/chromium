@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandStorageManager header for session command persistence
+// summary: Declares the manager that queues and writes SessionCommands to disk for saving and restoring browser session state.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_MANAGER_H_
 #define COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_MANAGER_H_
 

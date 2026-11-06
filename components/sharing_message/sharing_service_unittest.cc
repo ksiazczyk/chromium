@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharingService unit tests
+// summary: Unit tests for SharingService covering device candidates, message sending, handler registry, and sync state behavior using mocks and fakes.
+// ---
+
 #include "components/sharing_message/sharing_service.h"
 
 #include <memory>

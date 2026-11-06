@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationTaskId unit tests
+// summary: Unit tests verifying that task, parent, and root task IDs are set, retrieved, and cloned correctly on a NavigationEntry.
+// ---
+
 #include "components/sessions/content/navigation_task_id.h"
 
 #include "components/sessions/core/serialized_navigation_entry_test_helper.h"

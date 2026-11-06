@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared highlighting constants header
+// summary: Declares the learn-more URL constant for the shared highlighting feature.
+// ---
+
 #ifndef COMPONENTS_SHARED_HIGHLIGHTING_IOS_SHARED_HIGHLIGHTING_CONSTANTS_H_
 #define COMPONENTS_SHARED_HIGHLIGHTING_IOS_SHARED_HIGHLIGHTING_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialized user agent override
+// summary: Struct recording user-agent string and client hint overrides for session and tab restore, as a dependency-breaking alternative to blink::UserAgentOverride.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SERIALIZED_USER_AGENT_OVERRIDE_H_
 #define COMPONENTS_SESSIONS_CORE_SERIALIZED_USER_AGENT_OVERRIDE_H_
 

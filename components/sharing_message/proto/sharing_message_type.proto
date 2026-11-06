@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sharing_message_type.proto
+// summary: Defines the MessageType enum used to identify sharing message kinds in logs, kept in sync with SharingMessageType in enums.xml.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

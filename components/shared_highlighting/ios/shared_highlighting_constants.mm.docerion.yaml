@@ -1,0 +1,4 @@
+# Docerion header of shared_highlighting_constants.mm.
+type: source
+title: Shared highlighting constants implementation
+summary: Defines the learn-more URL pointing to the Chrome help article about shared highlighting.

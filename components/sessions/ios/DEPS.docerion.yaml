@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the iOS sessions component
+summary: Defines the allowed include directories (ios/web/common and ios/web/public) for code in components/sessions/ios.

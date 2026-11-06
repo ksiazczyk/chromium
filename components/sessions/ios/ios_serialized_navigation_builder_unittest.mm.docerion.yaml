@@ -1,0 +1,4 @@
+# Docerion header of ios_serialized_navigation_builder_unittest.mm.
+type: test
+title: IOSSerializedNavigationBuilder unit tests
+summary: Unit tests verifying that navigation entries and iOS NavigationItems convert correctly and preserve expected fields.

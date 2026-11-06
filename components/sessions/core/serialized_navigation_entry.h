@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialized navigation entry
+// summary: Declares the freeze-dried navigation entry holding the data needed to restore a navigation during session and tab restore, with pickle support.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SERIALIZED_NAVIGATION_ENTRY_H_
 #define COMPONENTS_SESSIONS_CORE_SERIALIZED_NAVIGATION_ENTRY_H_
 

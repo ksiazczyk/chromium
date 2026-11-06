@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionCommand class declaration
+// summary: Declares the SessionCommand class, which stores an identifier and data chunk used by TabRestoreService and SessionService to persist and restore sessions.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSION_COMMAND_H_
 #define COMPONENTS_SESSIONS_CORE_SESSION_COMMAND_H_
 

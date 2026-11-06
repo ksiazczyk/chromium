@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sharing message component overview
+summary: Describes cross-platform sharing features like click-to-call, shared clipboard, and send-tab-to-self backed by FCM, Chime, or VAPID.
+---
+
 This directory contains components shared across platforms for
 features for sharing data between one user's Chrome instances:
 click-to-call, shared clipboard, send-tab-to-self push notifications

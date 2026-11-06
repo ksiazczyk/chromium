@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSLiveTab interface
+// summary: Declares the sessions::IOSLiveTab interface extending LiveTab with access to the backing iOS WebState.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_IOS_IOS_LIVE_TAB_H_
 #define COMPONENTS_SESSIONS_IOS_IOS_LIVE_TAB_H_
 

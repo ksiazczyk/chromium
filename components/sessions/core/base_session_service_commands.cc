@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base session service command helpers implementation
+// summary: Implements creation and parsing of common session commands for tab navigations, extension IDs, user agent overrides and window names using pickles.
+// ---
+
 #include "components/sessions/core/base_session_service_commands.h"
 
 #include <stddef.h>

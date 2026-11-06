@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the iOS sessions directory
+summary: Specifies the Monorail and Buganizer components used for issues filed against this directory.

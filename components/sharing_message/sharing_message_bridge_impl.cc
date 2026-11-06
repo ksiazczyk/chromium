@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingMessageBridgeImpl implementation
+// summary: Implements sending sharing messages via the Sync service, handling commit timeouts, offline and sync-disabled errors, message IDs and commit result metrics.
+// ---
+
 #include "components/sharing_message/sharing_message_bridge_impl.h"
 
 #include "base/metrics/histogram_functions.h"

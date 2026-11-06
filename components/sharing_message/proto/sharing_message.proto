@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sharing_message.proto
+// summary: Defines the top-level SharingMessage envelope with its oneof payloads, acknowledgement and channel configuration messages exchanged between devices in Sharing.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared highlighting data-driven test implementation
+// summary: Implements the base class for Shared Highlighting data-driven tests, reading JSON test parameters and generating results for link generation and navigation cases.
+// ---
+
 #include "components/shared_highlighting/core/common/shared_highlighting_data_driven_test.h"
 
 #include "base/files/file_enumerator.h"

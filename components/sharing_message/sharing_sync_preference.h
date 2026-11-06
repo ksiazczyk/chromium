@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingSyncPreference class declaration
+// summary: Declares SharingSyncPreference, which manages Sharing-related synced preferences such as the device list, FCM registration, and Vapid keys.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_SYNC_PREFERENCE_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_SYNC_PREFERENCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandStorageManager unit tests
+// summary: Parametrized unit tests covering command storage, encryption rollout stages, and session file handling.
+// ---
+
 #include "components/sessions/core/command_storage_manager.h"
 
 #include <memory>

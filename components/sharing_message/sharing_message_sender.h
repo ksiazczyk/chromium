@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message sender header
+// summary: Declares SharingMessageSender, which sends sharing messages to device or server targets and manages response callbacks, timeouts, and pending message metadata.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_SENDER_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_MESSAGE_SENDER_H_
 

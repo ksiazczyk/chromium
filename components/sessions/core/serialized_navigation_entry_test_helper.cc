@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serialized navigation entry test helper implementation
+// summary: Defines test constants and helper functions that create fully populated SerializedNavigationEntry instances and compare them in unit tests.
+// ---
+
 #include "components/sessions/core/serialized_navigation_entry_test_helper.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ack message handler implementation
+// summary: Handles incoming ack messages and forwards the original message ID and optional response to the sharing message sender.
+// ---
+
 #include "components/sharing_message/ack_message_handler.h"
 
 #include "base/memory/ptr_util.h"

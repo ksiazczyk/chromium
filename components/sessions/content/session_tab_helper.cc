@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionTabHelper implementation
+// summary: Implements a WebContents user data helper that tracks session and window IDs and forwards navigation events to the session service delegate.
+// ---
+
 #include "components/sessions/content/session_tab_helper.h"
 
 #include "base/memory/ptr_util.h"

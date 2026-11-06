@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingFCMHandler implementation
+// summary: Implements the FCM app handler that receives sharing messages from GCMDriver, parses them, delegates payloads to registered handlers and sends ack messages back to the sender.
+// ---
+
 #include "components/sharing_message/sharing_fcm_handler.h"
 
 #include "base/functional/callback_helpers.h"

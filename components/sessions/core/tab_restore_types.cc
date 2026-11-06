@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore entry types implementation
+// summary: Implements the tab restore entry types tab, split, group and window, including constructors and memory usage estimation.
+// ---
+
 #include "components/sessions/core/tab_restore_types.h"
 
 #include "base/trace_event/memory_usage_estimator.h"

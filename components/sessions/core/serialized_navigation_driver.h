@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialized navigation driver interface
+// summary: Defines the platform-provided singleton interface that supplies referrer policy defaults and page state sanitization to SerializedNavigationEntry.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SERIALIZED_NAVIGATION_DRIVER_H_
 #define COMPONENTS_SESSIONS_CORE_SERIALIZED_NAVIGATION_DRIVER_H_
 

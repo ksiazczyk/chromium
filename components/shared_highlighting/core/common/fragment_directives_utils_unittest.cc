@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fragment directives utils unit tests
+// summary: Unit tests covering splitting URLs with fragment directives, parsing and extracting text fragments, and removing or appending directives.
+// ---
+
 #include "components/shared_highlighting/core/common/fragment_directives_utils.h"
 
 #include "components/shared_highlighting/core/common/fragment_directives_constants.h"

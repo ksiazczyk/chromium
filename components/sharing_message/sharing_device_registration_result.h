@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing device registration result enum
+// summary: Defines the SharingDeviceRegistrationResult enum of device registration outcomes that is logged to UMA histograms.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_DEVICE_REGISTRATION_RESULT_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_DEVICE_REGISTRATION_RESULT_H_
 

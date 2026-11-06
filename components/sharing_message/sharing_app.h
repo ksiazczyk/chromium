@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingApp header
+// summary: Declares SharingApp, a struct holding vector icon, image, name and identifier for external apps in sharing dialogs.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_APP_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_APP_H_
 

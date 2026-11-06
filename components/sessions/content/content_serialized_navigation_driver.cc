@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSerializedNavigationDriver implementation
+// summary: Implements the content-backed navigation driver that sanitizes PageState for pickling, strips referrers, and registers extended info handlers.
+// ---
+
 #include "components/sessions/content/content_serialized_navigation_driver.h"
 
 #include <utility>
