@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_PASSKEY_DOES_NOT_WORK.png.sha1.
+type: data
+title: Passkey does not work message screenshot hash
+summary: SHA-1 checksum of the context screenshot for the passkey-does-not-work message string, used to give translators visual context in the iOS strings pipeline.
