@@ -1,0 +1,4 @@
+# Docerion header of 66ff8ee9c7520c24a81b5ba20d4e19464338af8b.
+type: data
+title: 'Fuzzer cookie data: nexagesd'
+summary: Fuzzer input containing a nexagesd cookie string with expiry and path attributes.

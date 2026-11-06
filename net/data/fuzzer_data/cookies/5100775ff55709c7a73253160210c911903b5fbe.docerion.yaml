@@ -1,0 +1,4 @@
+# Docerion header of 5100775ff55709c7a73253160210c911903b5fbe.
+type: data
+title: Fuzzer cookie input setting PUBMDCID for pubmatic.com
+summary: Cookie string used as fuzzer input, setting PUBMDCID to 1 for pubmatic.com with domain, expiry and path attributes.

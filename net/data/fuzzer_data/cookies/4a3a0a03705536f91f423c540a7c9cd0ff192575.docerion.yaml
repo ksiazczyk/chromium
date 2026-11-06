@@ -1,0 +1,4 @@
+# Docerion header of 4a3a0a03705536f91f423c540a7c9cd0ff192575.
+type: test
+title: 'Cookie fuzzer input: et-a1 cookie for et.nytimes.com'
+summary: Fuzzer corpus entry with a long Set-Cookie string holding a URL-encoded JSON payload for et.nytimes.com with Domain, Path and Expires attributes.

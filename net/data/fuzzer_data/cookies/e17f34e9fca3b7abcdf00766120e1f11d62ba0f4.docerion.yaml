@@ -1,0 +1,4 @@
+# Docerion header of e17f34e9fca3b7abcdf00766120e1f11d62ba0f4.
+type: data
+title: 'Fuzzer cookie data: KCCH cookie expired at Unix epoch'
+summary: Cookie string expiring KCCH on ads.pubmatic.com at the Unix epoch, effectively clearing the cookie.

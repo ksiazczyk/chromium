@@ -1,0 +1,4 @@
+# Docerion header of 7df362478575dcf2483209b8f57bba31d0964319.
+type: data
+title: 'Cookie fuzzer data: reddit.com rabt cookie'
+summary: Fuzzer input with an empty rabt cookie string for the .reddit.com domain with path and expiry attributes.

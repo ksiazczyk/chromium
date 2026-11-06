@@ -1,0 +1,4 @@
+# Docerion header of 4b3fb438a10e86dbf70b15ab144eb3fde2472220.
+type: test
+title: 'Cookie fuzzer input: _rxuuid cookie for .1rx.io'
+summary: Fuzzer corpus entry with a Set-Cookie string carrying a URL-encoded JSON value for .1rx.io, marked httponly with a 2020 expiry.

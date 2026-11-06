@@ -1,0 +1,4 @@
+# Docerion header of 8549e6688c60c294b832f113e941158ea7c50d29.
+type: data
+title: 'Fuzzer cookie data: et-a1 cookie for et.nytimes.com'
+summary: Fuzzer input containing a Set-Cookie style et-a1 cookie with URL-encoded agent session data for et.nytimes.com.

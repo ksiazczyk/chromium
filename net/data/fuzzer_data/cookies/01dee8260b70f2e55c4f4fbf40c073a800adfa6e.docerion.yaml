@@ -1,0 +1,4 @@
+# Docerion header of 01dee8260b70f2e55c4f4fbf40c073a800adfa6e.
+type: test
+title: 'Fuzzer cookie data: w-units cookie with invalid expiry date'
+summary: Short cookie string setting a w-units value with an invalid expires attribute on .cnn.com, exercising malformed date handling.

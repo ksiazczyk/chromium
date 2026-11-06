@@ -1,0 +1,4 @@
+# Docerion header of 0d4451b8d57c4c24c91e0c758837b89e2bf01f43.
+type: data
+title: 'Cookie fuzzer input: aax-vsid'
+summary: Fuzzer corpus entry containing a Set-Cookie header for .aaxads.com with an expiry date and path attribute.

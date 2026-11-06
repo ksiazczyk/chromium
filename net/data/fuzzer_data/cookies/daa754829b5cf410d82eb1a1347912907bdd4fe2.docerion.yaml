@@ -1,0 +1,4 @@
+# Docerion header of daa754829b5cf410d82eb1a1347912907bdd4fe2.
+type: data
+title: 'Fuzzer cookie input: V for contextweb.com'
+summary: Fuzzer data file containing a V cookie for .contextweb.com with Path, Domain, Expires and Max-Age attributes, used as cookie parsing test input.

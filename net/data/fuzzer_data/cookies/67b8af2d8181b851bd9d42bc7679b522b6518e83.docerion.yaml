@@ -1,0 +1,4 @@
+# Docerion header of 67b8af2d8181b851bd9d42bc7679b522b6518e83.
+type: data
+title: Cookie fuzzer data with percent-encoded values
+summary: Fuzzer input for cookie parsing, defining percent-encoded cookie name-value pairs together with expiry, path and domain attributes.

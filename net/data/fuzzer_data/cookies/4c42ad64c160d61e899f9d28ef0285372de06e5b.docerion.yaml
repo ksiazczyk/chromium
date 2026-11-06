@@ -1,0 +1,4 @@
+# Docerion header of 4c42ad64c160d61e899f9d28ef0285372de06e5b.
+type: data
+title: Fuzzer cookie input for media.net data attribute
+summary: Cookie string used as fuzzer input, setting a data attribute filled with many empty pipe-separated fields plus expiry, path and domain for media.net.

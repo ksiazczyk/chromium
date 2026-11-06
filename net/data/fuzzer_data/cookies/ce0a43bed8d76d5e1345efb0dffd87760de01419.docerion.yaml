@@ -1,0 +1,4 @@
+# Docerion header of ce0a43bed8d76d5e1345efb0dffd87760de01419.
+type: test
+title: Cookie fuzzer seed input with expiry and domain attributes
+summary: Sample cookie header string used as fuzzer input for testing cookie parsing in the network stack.

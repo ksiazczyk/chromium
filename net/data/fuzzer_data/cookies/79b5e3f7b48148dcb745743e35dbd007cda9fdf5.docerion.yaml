@@ -1,0 +1,4 @@
+# Docerion header of 79b5e3f7b48148dcb745743e35dbd007cda9fdf5.
+type: data
+title: 'Cookie fuzzer data: amazon.com skin cookie'
+summary: Fuzzer input with a short skin=noskin cookie string scoped to the .amazon.com domain.

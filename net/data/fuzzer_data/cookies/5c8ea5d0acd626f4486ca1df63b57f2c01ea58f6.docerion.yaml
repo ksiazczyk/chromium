@@ -1,0 +1,4 @@
+# Docerion header of 5c8ea5d0acd626f4486ca1df63b57f2c01ea58f6.
+type: data
+title: 'Fuzzer cookie data: _sp_v1_csv cookie with expiry'
+summary: Fuzzer input containing a _sp_v1_csv cookie string with path and expiry attributes.

@@ -1,0 +1,4 @@
+# Docerion header of b63679548be871f443ae0c77ffd1c1f03e301a76.
+type: data
+title: Fuzzer cookie input for __Secure- prefixed cookie
+summary: Cookie string using the __Secure- prefix with a Secure attribute, stored as fuzzer input for cookie parsing.

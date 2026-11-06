@@ -1,0 +1,4 @@
+# Docerion header of ipv4_5.txt.
+type: test
+title: 'Fuzzer input: bare integer IPv4 form'
+summary: Fuzzer input with a bare integer as a minimal IPv4-like hostname.

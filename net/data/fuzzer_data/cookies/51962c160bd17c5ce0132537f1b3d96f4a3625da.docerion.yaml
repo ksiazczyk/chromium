@@ -1,0 +1,4 @@
+# Docerion header of 51962c160bd17c5ce0132537f1b3d96f4a3625da.
+type: data
+title: 'Fuzzer cookie data: sailthru_visitor expiry cookie'
+summary: Fuzzer input containing a sailthru_visitor cookie string with a path attribute and a 1970 expiry, used as cookie parsing test data.

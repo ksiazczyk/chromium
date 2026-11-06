@@ -1,0 +1,4 @@
+# Docerion header of 49e4dcb225a3ee35420bfb250fed17651fc132fb.
+type: test
+title: 'Cookie fuzzer input: aasd cookie with URL-encoded value'
+summary: Fuzzer corpus entry with a short Set-Cookie string whose aasd value contains a URL-encoded pipe character.

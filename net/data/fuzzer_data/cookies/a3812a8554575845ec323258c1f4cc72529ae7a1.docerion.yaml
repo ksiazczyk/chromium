@@ -1,0 +1,4 @@
+# Docerion header of a3812a8554575845ec323258c1f4cc72529ae7a1.
+type: data
+title: Fuzzer cookie input for quantserve.com
+summary: Cookie string for a quantserve.com cookie with expiry and path attributes, kept as fuzzer test data.

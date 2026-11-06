@@ -1,0 +1,4 @@
+# Docerion header of b059f387b1c09a7eceeaa81b25081bcc66063f47.
+type: data
+title: Fuzzer cookie input for pubmatic.com pi cookie
+summary: Cookie string for pubmatic.com with expires, path and domain attributes, stored as fuzzer input for cookie parsing.

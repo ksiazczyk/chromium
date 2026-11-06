@@ -1,0 +1,4 @@
+# Docerion header of f3dbe871488d7e3c71dc0a9c6dc6efecc669fff4.
+type: data
+title: csm-hit cookie fuzzer sample
+summary: Fuzzer input with a csm-hit cookie containing timing values and an expiry attribute.

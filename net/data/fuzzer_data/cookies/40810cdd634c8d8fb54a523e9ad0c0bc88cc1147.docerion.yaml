@@ -1,0 +1,4 @@
+# Docerion header of 40810cdd634c8d8fb54a523e9ad0c0bc88cc1147.
+type: data
+title: 'Fuzzer cookie data: _cc_cc SameSite cookie'
+summary: _cc_cc cookie string with path, domain and SameSite=None attributes, used as fuzzer input data.

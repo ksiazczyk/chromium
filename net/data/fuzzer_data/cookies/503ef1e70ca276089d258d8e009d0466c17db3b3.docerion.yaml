@@ -1,0 +1,4 @@
+# Docerion header of 503ef1e70ca276089d258d8e009d0466c17db3b3.
+type: data
+title: Fuzzer cookie input with a compressed _sp_v1_ss state
+summary: Cookie string used as fuzzer input, setting the _sp_v1_ss cookie to a compressed state value with path and expiry attributes.

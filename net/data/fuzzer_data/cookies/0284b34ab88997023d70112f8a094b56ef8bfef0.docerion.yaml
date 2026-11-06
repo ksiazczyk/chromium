@@ -1,0 +1,4 @@
+# Docerion header of 0284b34ab88997023d70112f8a094b56ef8bfef0.
+type: test
+title: 'Fuzzer cookie data: s_sq analytics cookie for cnn.com'
+summary: Cookie string setting an s_sq analytics value with path and .cnn.com domain attributes.

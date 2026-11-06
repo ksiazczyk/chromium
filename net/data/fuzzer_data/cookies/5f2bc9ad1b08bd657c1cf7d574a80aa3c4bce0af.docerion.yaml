@@ -1,0 +1,4 @@
+# Docerion header of 5f2bc9ad1b08bd657c1cf7d574a80aa3c4bce0af.
+type: data
+title: 'Fuzzer cookie data: __aaxsc cookie with path'
+summary: Fuzzer input containing a short __aaxsc=0 cookie string limited to the root path.

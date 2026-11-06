@@ -1,0 +1,4 @@
+# Docerion header of 60d5bdd3be81fb3223919e405ec217b51658573a.
+type: data
+title: Cookie fuzzer data with expiry and domain attributes
+summary: Fuzzer input for cookie parsing, defining a cookie with an empty value, an expiry date and domain and path attributes.

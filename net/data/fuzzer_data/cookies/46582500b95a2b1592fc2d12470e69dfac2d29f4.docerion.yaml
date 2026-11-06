@@ -1,0 +1,4 @@
+# Docerion header of 46582500b95a2b1592fc2d12470e69dfac2d29f4.
+type: test
+title: 'Cookie fuzzer input: cookies.js_dtest for wcvb.com'
+summary: Fuzzer corpus entry with a Set-Cookie string setting the cookies.js_dtest cookie for wcvb.com with a root path.

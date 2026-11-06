@@ -1,0 +1,4 @@
+# Docerion header of a006c363ccdbc4121f0734bd7f93898bf0101c5e.
+type: data
+title: 'Fuzzer cookie data: GoogleAdServingTest'
+summary: Fuzzer input cookie string setting GoogleAdServingTest to Good without additional attributes.

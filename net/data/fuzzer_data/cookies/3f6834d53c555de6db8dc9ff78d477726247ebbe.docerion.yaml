@@ -1,0 +1,4 @@
+# Docerion header of 3f6834d53c555de6db8dc9ff78d477726247ebbe.
+type: data
+title: 'Fuzzer cookie data: TapAd_TS SameSite cookie'
+summary: TapAd_TS cookie string with expiry, path, domain and SameSite=None attributes, used as fuzzer input data.

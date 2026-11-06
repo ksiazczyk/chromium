@@ -1,0 +1,4 @@
+# Docerion header of e60d6d7872d1d70859c8d26ee4050c47a2eaf011.
+type: data
+title: 'Fuzzer cookie input: BlueKai bkdc cookie'
+summary: Fuzzer data file with a bkdc cookie string for .bluekai.com including expiry and path attributes.

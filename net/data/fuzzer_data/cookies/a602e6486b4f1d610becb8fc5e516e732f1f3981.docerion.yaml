@@ -1,0 +1,4 @@
+# Docerion header of a602e6486b4f1d610becb8fc5e516e732f1f3981.
+type: data
+title: Fuzzer cookie input for gpt_av cookie
+summary: Cookie string setting gpt_av=2 with an expiry date and path attribute, kept as fuzzer test data.

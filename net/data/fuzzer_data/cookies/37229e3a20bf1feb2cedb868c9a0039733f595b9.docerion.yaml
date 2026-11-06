@@ -1,0 +1,4 @@
+# Docerion header of 37229e3a20bf1feb2cedb868c9a0039733f595b9.
+type: data
+title: 'Fuzzer cookie data: _ga analytics cookie'
+summary: Google Analytics _ga cookie string with path, expiry and domain attributes, used as fuzzer input data.

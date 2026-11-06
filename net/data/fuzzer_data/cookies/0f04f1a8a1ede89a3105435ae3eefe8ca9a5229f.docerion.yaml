@@ -1,0 +1,4 @@
+# Docerion header of 0f04f1a8a1ede89a3105435ae3eefe8ca9a5229f.
+type: data
+title: 'Cookie fuzzer input: edgebucket'
+summary: Fuzzer corpus entry with a reddit.com cookie using Max-Age, Path and secure attributes.

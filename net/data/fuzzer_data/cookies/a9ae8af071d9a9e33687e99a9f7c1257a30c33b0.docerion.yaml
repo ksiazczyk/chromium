@@ -1,0 +1,4 @@
+# Docerion header of a9ae8af071d9a9e33687e99a9f7c1257a30c33b0.
+type: data
+title: Fuzzer cookie input for crwdcntrl.net
+summary: Cookie string for a crwdcntrl.net _cc_id cookie including SameSite=None and expiry attributes, kept as fuzzer test data.

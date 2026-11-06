@@ -1,0 +1,4 @@
+# Docerion header of 53b88bd8b0f4d9912e466e583a2085ff984e6240.
+type: data
+title: 'Fuzzer cookie data: Yahoo B cookie with domain and expiry'
+summary: Fuzzer input containing a Yahoo B cookie string with Path, Domain and Expires attributes.

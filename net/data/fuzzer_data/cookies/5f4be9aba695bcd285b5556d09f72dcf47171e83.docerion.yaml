@@ -1,0 +1,4 @@
+# Docerion header of 5f4be9aba695bcd285b5556d09f72dcf47171e83.
+type: data
+title: 'Fuzzer cookie data: rpx cookie for pixel.rubiconproject.com'
+summary: Fuzzer input containing a URL-encoded rpx cookie string with domain, expiry and path attributes.

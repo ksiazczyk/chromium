@@ -1,0 +1,4 @@
+# Docerion header of e7e83533a247e20817f9aecdbabee3b8c0c8a0e4.
+type: data
+title: 'Fuzzer cookie input: __qca cookie'
+summary: Fuzzer data file with a __qca cookie string for redditmedia.com including expiry, path and domain attributes.

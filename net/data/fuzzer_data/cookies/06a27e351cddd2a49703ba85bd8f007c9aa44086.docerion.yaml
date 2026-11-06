@@ -1,0 +1,4 @@
+# Docerion header of 06a27e351cddd2a49703ba85bd8f007c9aa44086.
+type: test
+title: 'Fuzzer cookie data: optimizelyPPID cookie with null value'
+summary: Cookie string setting optimizelyPPID to null with a bare .com domain, path and 1970 expiry attributes.

@@ -1,0 +1,4 @@
+# Docerion header of google.txt.
+type: test
+title: Google company overview text for filter unit tests
+summary: Google company overview text serving as test input data for the filter unit tests.

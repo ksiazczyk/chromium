@@ -1,0 +1,4 @@
+# Docerion header of 7e57c07b2c66a4d13931f5c7b6cf089355d6a322.
+type: data
+title: 'Cookie fuzzer data: nyt-check3pc cookie'
+summary: Fuzzer input with a nyt-check3pc=true cookie string carrying expiry and path but no domain attribute.

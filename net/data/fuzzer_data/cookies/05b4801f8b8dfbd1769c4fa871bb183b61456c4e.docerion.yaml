@@ -1,0 +1,4 @@
+# Docerion header of 05b4801f8b8dfbd1769c4fa871bb183b61456c4e.
+type: test
+title: 'Fuzzer cookie data: _dbefe cookie with URL value'
+summary: Cookie string storing a host and port URL in _dbefe with a Path attribute.

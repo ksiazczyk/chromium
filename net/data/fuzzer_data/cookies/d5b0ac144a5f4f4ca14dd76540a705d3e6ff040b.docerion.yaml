@@ -1,0 +1,4 @@
+# Docerion header of d5b0ac144a5f4f4ca14dd76540a705d3e6ff040b.
+type: data
+title: 'Fuzzer cookie input: gatewayHit for nytimes.com'
+summary: Fuzzer data file containing a gatewayHit=false cookie for .nytimes.com with path and domain attributes, used as cookie parsing test input.

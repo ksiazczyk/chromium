@@ -1,0 +1,4 @@
+# Docerion header of 6f7ac6743f97cc2ac23e0a02f48c25b9f47a4df7.
+type: test
+title: Fuzzer cookie data for krxd.net _kuid_ cookie
+summary: Cookie string setting a _kuid_ cookie on .krxd.net with Max-Age and expiry, used as fuzzer input data.

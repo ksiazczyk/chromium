@@ -1,0 +1,4 @@
+# Docerion header of fcf781ba904f4a8ce53c00a5f1071f5bcee8a21d.
+type: data
+title: OptanonConsent cookie fuzzer sample
+summary: Fuzzer input with a URL-encoded OptanonConsent cookie for cnn.com containing consent landing data.

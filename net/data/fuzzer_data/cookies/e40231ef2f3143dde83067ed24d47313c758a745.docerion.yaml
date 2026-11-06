@@ -1,0 +1,4 @@
+# Docerion header of e40231ef2f3143dde83067ed24d47313c758a745.
+type: data
+title: 'Fuzzer cookie data: _cb_ls cookie'
+summary: Cookie string setting _cb_ls to 1 with expiry and path attributes, used as fuzzer input.

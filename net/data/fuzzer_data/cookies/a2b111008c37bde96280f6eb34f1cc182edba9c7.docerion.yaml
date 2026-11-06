@@ -1,0 +1,4 @@
+# Docerion header of a2b111008c37bde96280f6eb34f1cc182edba9c7.
+type: data
+title: 'Fuzzer cookie data: gpt_origref'
+summary: Fuzzer input cookie string clearing the gpt_origref cookie with an expiry date and path attribute.

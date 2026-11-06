@@ -1,0 +1,4 @@
+# Docerion header of b1a43c3e4b8555d4852d6753d9f4591585d56f12.
+type: data
+title: Fuzzer cookie input for cnnWebPushSessionCount cookie
+summary: Cookie string for a CNN web push session counter with a far-future expiry, stored as fuzzer input for cookie parsing.

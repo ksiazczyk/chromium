@@ -1,0 +1,4 @@
+# Docerion header of 06f1e5d8c336b82473abed2c49fb41ad6834e079.
+type: data
+title: 'Fuzzer cookie input: gig_hasGmid cookie for cnn.com'
+summary: Cookie string setting the gig_hasGmid cookie for cnn.com, stored as fuzzer input for cookie parsing.

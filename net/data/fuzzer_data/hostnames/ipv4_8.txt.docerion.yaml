@@ -1,0 +1,4 @@
+# Docerion header of ipv4_8.txt.
+type: test
+title: 'Fuzzer input: IPv4 address with trailing dot'
+summary: Fuzzer input with an IPv4 address followed by a trailing dot.

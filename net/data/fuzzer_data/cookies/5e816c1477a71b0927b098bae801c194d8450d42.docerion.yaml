@@ -1,0 +1,4 @@
+# Docerion header of 5e816c1477a71b0927b098bae801c194d8450d42.
+type: data
+title: 'Fuzzer cookie data: ta-octane.id cookie for cnn.com'
+summary: Fuzzer input containing a ta-octane.id cookie string for cnn.com with expiry, path and domain attributes.

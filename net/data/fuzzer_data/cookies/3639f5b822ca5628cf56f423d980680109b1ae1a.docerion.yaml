@@ -1,0 +1,4 @@
+# Docerion header of 3639f5b822ca5628cf56f423d980680109b1ae1a.
+type: data
+title: 'Fuzzer cookie data: GoogleAdServingTest'
+summary: Cookie header string for GoogleAdServingTest with an expiry date, stored as fuzzer input data for cookie handling.

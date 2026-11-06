@@ -1,0 +1,4 @@
+# Docerion header of abd345c64fcdda7d228a16452d1b0fd0fdf87c92.
+type: data
+title: Fuzzer cookie input for yahoo.com
+summary: Cookie string for a yahoo.com GUCS cookie with Max-Age, domain, path and Secure attributes, kept as fuzzer test data.

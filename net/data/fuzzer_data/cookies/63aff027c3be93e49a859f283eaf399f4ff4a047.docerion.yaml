@@ -1,0 +1,4 @@
+# Docerion header of 63aff027c3be93e49a859f283eaf399f4ff4a047.
+type: data
+title: 'Fuzzer cookie data: nyt-geo for .nytimes.com'
+summary: Fuzzer input containing a nyt-geo cookie string for .nytimes.com with expiry, path and domain attributes.

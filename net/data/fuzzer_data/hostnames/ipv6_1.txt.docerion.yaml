@@ -1,0 +1,4 @@
+# Docerion header of ipv6_1.txt.
+type: test
+title: 'Fuzzer input: bracketed full-form IPv6 address'
+summary: Fuzzer input with a full-form IPv6 address wrapped in square brackets.

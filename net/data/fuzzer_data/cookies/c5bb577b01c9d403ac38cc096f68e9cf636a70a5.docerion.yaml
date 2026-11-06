@@ -1,0 +1,4 @@
+# Docerion header of c5bb577b01c9d403ac38cc096f68e9cf636a70a5.
+type: test
+title: Fuzzer cookie input for a minimal _GFT cookie
+summary: Cookie fuzzer test input containing a minimal name-value cookie string terminated by a semicolon.

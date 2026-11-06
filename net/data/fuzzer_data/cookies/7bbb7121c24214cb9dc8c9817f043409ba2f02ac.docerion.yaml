@@ -1,0 +1,4 @@
+# Docerion header of 7bbb7121c24214cb9dc8c9817f043409ba2f02ac.
+type: data
+title: 'Cookie fuzzer data: google.com NID cookie'
+summary: Fuzzer input with a long NID cookie string for .google.com marked HttpOnly with an expiry date and path.

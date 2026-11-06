@@ -1,0 +1,4 @@
+# Docerion header of 3974ec234f5e0fcad2da5b443841741d0d004d8e.
+type: data
+title: 'Fuzzer cookie data: KCCH pubmatic cookie'
+summary: KCCH cookie string with expiry, path and domain attributes, used as fuzzer input data.

@@ -1,0 +1,4 @@
+# Docerion header of 4a6ee003c0a2081d0ea0a3dd5121fb807992749a.
+type: test
+title: 'Cookie fuzzer input: put_2307 cookie for .rubiconproject.com'
+summary: Fuzzer corpus entry with a Set-Cookie string setting a UUID-valued cookie on .rubiconproject.com with expiry and path.

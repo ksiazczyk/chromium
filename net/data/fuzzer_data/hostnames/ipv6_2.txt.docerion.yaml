@@ -1,0 +1,4 @@
+# Docerion header of ipv6_2.txt.
+type: data
+title: 'Fuzzer hostname input: IPv4-mapped IPv6 address'
+summary: Fuzzer input data containing a bracketed IPv4-mapped IPv6 address used to exercise hostname parsing.

@@ -1,0 +1,4 @@
+# Docerion header of 08aa1ae92143a6d4e4aa3df3157497d250b0d04b.
+type: data
+title: 'Fuzzer cookie input: ad-privacy cookie for amazon-adsystem.com'
+summary: Cookie string setting the HttpOnly ad-privacy cookie for .amazon-adsystem.com, stored as fuzzer input for cookie parsing.

@@ -1,0 +1,4 @@
+# Docerion header of 28012f4d7aaca4f5d608d2facbfd5ad2929932ae.
+type: data
+title: 'Fuzzer cookie input: ugs=1 cookie'
+summary: Cookie string used as fuzzer input, setting ugs=1 with only expiry and path attributes and no domain.

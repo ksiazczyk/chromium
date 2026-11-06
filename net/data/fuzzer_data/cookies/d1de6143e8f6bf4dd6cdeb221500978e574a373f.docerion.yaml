@@ -1,0 +1,4 @@
+# Docerion header of d1de6143e8f6bf4dd6cdeb221500978e574a373f.
+type: data
+title: 'Fuzzer cookie input: TDCPM for adsrvr.org'
+summary: Fuzzer data file with a TDCPM cookie string for the .adsrvr.org domain, including base64-style value and expiry attributes, for cookie parsing tests.

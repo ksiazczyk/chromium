@@ -1,0 +1,4 @@
+# Docerion header of 0a911b70d892516fe5baa26d9fcb74df857491c4.
+type: data
+title: 'Fuzzer cookie input: _gat cookie for wcvb.com'
+summary: Cookie string setting the _gat cookie for wcvb.com, stored as fuzzer input for cookie parsing.

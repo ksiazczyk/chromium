@@ -1,0 +1,4 @@
+# Docerion header of f8c25cdbb8d4bae5fd2eff6e35874494b52574c2.
+type: data
+title: OpenX i cookie fuzzer sample
+summary: Fuzzer input with a Version 1 cookie for openx.net using Expires and Max-Age attributes.

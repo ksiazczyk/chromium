@@ -1,0 +1,4 @@
+# Docerion header of c6cd3f070eae98856c1e258950fcc289b683a19b.
+type: test
+title: Fuzzer cookie input with PubMatic domain attribute
+summary: Cookie fuzzer test input with a long advertising cookie value plus domain, expiry and path attributes.

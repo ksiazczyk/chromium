@@ -1,0 +1,4 @@
+# Docerion header of ee241f6d0a53870859df56ac74c603a5b5264ad4.
+type: data
+title: 'Fuzzer cookie input: bidswitch c cookie'
+summary: Fuzzer data file with a numeric c cookie string for .bidswitch.net including expiry, path and domain attributes.

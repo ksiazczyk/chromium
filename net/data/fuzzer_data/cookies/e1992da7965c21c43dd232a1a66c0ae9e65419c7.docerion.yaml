@@ -1,0 +1,4 @@
+# Docerion header of e1992da7965c21c43dd232a1a66c0ae9e65419c7.
+type: data
+title: 'Fuzzer cookie data: _sp_v1_lt cookie'
+summary: Cookie string setting _sp_v1_lt with path and expiry attributes, used as fuzzer input.

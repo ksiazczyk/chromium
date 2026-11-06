@@ -1,0 +1,4 @@
+# Docerion header of c1e5431d0d29b6c1bf7e43195001edd6ddc16930.
+type: data
+title: 'Fuzzer cookie sample: _sp_v1_opt'
+summary: Cookie string setting _sp_v1_opt with Path and Expires attributes, used as fuzzer input for cookie parsing.

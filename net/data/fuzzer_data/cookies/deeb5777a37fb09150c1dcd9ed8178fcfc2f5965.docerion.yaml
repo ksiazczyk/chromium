@@ -1,0 +1,4 @@
+# Docerion header of deeb5777a37fb09150c1dcd9ed8178fcfc2f5965.
+type: data
+title: 'Fuzzer cookie data: gig3pctest cookie with expiry'
+summary: Cookie string setting gig3pctest to true with an expiry timestamp, used as fuzzer input.

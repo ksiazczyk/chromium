@@ -1,0 +1,4 @@
+# Docerion header of e04f62817d06ed80ce6f156e5a6bc77bb5639af1.
+type: data
+title: 'Fuzzer cookie data: cto_writeable cookie'
+summary: Cookie string setting cto_writeable to 1 with expiry, domain and path attributes, used as fuzzer input.

@@ -1,0 +1,4 @@
+# Docerion header of ca44506cddacce4558ccd4e988e9097d23b62c4b.
+type: test
+title: Fuzzer cookie input with Turn domain attribute
+summary: Cookie fuzzer test input setting a user ID cookie with domain, expiry and path attributes.

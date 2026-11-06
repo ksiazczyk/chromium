@@ -1,0 +1,4 @@
+# Docerion header of f0300c33bb43d4036e0c892ca67c959ed3a6c063.
+type: data
+title: 'Fuzzer cookie input: __tld__ cookie'
+summary: Fuzzer data file with a __tld__ cookie string for .cnn.com including domain and expiry attributes.

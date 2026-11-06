@@ -1,0 +1,4 @@
+# Docerion header of de98b6c77ee3b3568754214cdc77dfd1d1cc1fb7.
+type: data
+title: 'Fuzzer cookie data: countryCode cookie for .cnn.com'
+summary: Cookie string setting countryCode to US with domain and path attributes, used as fuzzer input.

@@ -1,0 +1,4 @@
+# Docerion header of b61ce67a71cdca8adde870205457ddc1b34726cf.
+type: data
+title: Fuzzer cookie input for nytimes.com IDE cookie
+summary: Long Google IDE cookie string for .nytimes.com with Expires, Path and Domain attributes, stored as fuzzer input for cookie parsing.

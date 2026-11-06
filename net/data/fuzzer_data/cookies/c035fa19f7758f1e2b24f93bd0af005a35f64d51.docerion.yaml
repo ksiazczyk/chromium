@@ -1,0 +1,4 @@
+# Docerion header of c035fa19f7758f1e2b24f93bd0af005a35f64d51.
+type: data
+title: Cookie header fuzzer sample
+summary: Fuzzer input sample of a cookie header with name-value pairs plus expiry, path and domain attributes.

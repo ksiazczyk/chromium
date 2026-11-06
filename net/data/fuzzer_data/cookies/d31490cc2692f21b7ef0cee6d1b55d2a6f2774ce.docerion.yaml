@@ -1,0 +1,4 @@
+# Docerion header of d31490cc2692f21b7ef0cee6d1b55d2a6f2774ce.
+type: data
+title: 'Fuzzer cookie input: nyt-a for nytimes.com'
+summary: Fuzzer data file holding a nyt-a cookie string for nytimes.com with Path, Domain, Expires and Max-Age attributes, used as cookie parsing test input.

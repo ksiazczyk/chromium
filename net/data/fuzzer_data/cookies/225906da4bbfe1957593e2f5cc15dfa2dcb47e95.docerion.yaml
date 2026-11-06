@@ -1,0 +1,4 @@
+# Docerion header of 225906da4bbfe1957593e2f5cc15dfa2dcb47e95.
+type: data
+title: 'Fuzzer cookie sample: __gads (nytimes.com)'
+summary: Fuzzer input with a nytimes.com __gads advertising cookie string containing an ID value plus expiry, path and domain attributes.

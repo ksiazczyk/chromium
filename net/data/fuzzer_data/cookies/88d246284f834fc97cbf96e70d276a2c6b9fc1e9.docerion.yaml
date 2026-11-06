@@ -1,0 +1,4 @@
+# Docerion header of 88d246284f834fc97cbf96e70d276a2c6b9fc1e9.
+type: data
+title: 'Fuzzer cookie data: empty nnls cookie for pippio.com'
+summary: Fuzzer input setting an empty nnls cookie on pippio.com with path and expiry attributes.

@@ -1,0 +1,4 @@
+# Docerion header of ipv4_2.txt.
+type: test
+title: 'Fuzzer input: five-part dotted IPv4-like string'
+summary: Fuzzer input with a five-part dotted string that resembles but exceeds a normal IPv4 address.

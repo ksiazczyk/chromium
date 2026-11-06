@@ -1,0 +1,4 @@
+# Docerion header of 9f686fa12180f8aae8c8a696eb3525ff18620fea.
+type: data
+title: 'Fuzzer cookie data: flash_enabled'
+summary: Fuzzer input cookie string setting flash_enabled to 0 with an expiry date attribute.

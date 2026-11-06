@@ -1,0 +1,4 @@
+# Docerion header of 87c7756c358d3e07c3905fd5b8e8422554312417.
+type: data
+title: 'Fuzzer cookie data: f5_cspm cookie'
+summary: Fuzzer input with a minimal f5_cspm=1234 cookie string and no path, domain or expiry attributes.

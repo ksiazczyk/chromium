@@ -1,0 +1,4 @@
+# Docerion header of c16921c200c10c04d94f858c0061b6807b52b9d6.
+type: data
+title: 'Fuzzer cookie sample: token for .reddit.com'
+summary: Cookie string setting a redacted token with expires, path, domain, secure, and httponly attributes for .reddit.com, used as fuzzer input.

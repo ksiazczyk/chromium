@@ -1,0 +1,4 @@
+# Docerion header of 15ddba174a983013fce407cc4bb1f3e0ee428ae3.
+type: data
+title: 'Fuzzer cookie sample: KRTBCOOKIE_377 (pubmatic.com)'
+summary: Fuzzer input with a PubMatic KRTBCOOKIE_377 cookie string containing multiple identifier segments plus domain, expiry and path attributes.

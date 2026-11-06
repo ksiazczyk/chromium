@@ -1,0 +1,4 @@
+# Docerion header of ea08a08df36906fea11d1bd082cfd9945c72869a.
+type: data
+title: 'Fuzzer cookie input: cto_writeable cookie'
+summary: Fuzzer data file with an empty cto_writeable cookie string for domain .com including expiry and path attributes.

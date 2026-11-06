@@ -1,0 +1,4 @@
+# Docerion header of de5f6cb9286f0faa29e22afae207e842f7203f68.
+type: data
+title: 'Fuzzer cookie data: ATN cookie with HttpOnly attribute'
+summary: Cookie string for an ATN cookie on .atdmt.com with expiry, path, domain and HttpOnly attributes.

@@ -1,0 +1,4 @@
+# Docerion header of 8a1ebe0170c6f65078913460be67226aa57e99ef.
+type: data
+title: 'Fuzzer cookie data: cd=false cookie'
+summary: Fuzzer input with a short cd=false cookie scoped to the root path.

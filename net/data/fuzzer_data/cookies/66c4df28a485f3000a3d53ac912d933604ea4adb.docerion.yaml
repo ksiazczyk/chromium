@@ -1,0 +1,4 @@
+# Docerion header of 66c4df28a485f3000a3d53ac912d933604ea4adb.
+type: data
+title: 'Fuzzer cookie data: _kuid_ for .amazon.com'
+summary: Fuzzer input containing _kuid_ and domskin cookie strings for .amazon.com with path and domain attributes.

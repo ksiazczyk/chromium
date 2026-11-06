@@ -1,0 +1,4 @@
+# Docerion header of 980a052dcd298c300b8a85eea0f48ab95ebda001.
+type: data
+title: 'Fuzzer cookie data: _cb'
+summary: Fuzzer input cookie string setting the _cb cookie with an expiry date and path attribute.

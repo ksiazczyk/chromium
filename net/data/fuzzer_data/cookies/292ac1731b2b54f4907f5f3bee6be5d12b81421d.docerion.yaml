@@ -1,0 +1,4 @@
+# Docerion header of 292ac1731b2b54f4907f5f3bee6be5d12b81421d.
+type: data
+title: 'Fuzzer cookie input: cookies.js=undefined'
+summary: Cookie string used as fuzzer input, setting cookies.js to undefined with path and expiry attributes.

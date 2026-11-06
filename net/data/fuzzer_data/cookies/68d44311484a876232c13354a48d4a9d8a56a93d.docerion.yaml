@@ -1,0 +1,4 @@
+# Docerion header of 68d44311484a876232c13354a48d4a9d8a56a93d.
+type: data
+title: 'Fuzzer cookie data: nyt-a for .nytimes.com'
+summary: Fuzzer input containing a nyt-a cookie string for .nytimes.com with domain, path and expiry attributes.

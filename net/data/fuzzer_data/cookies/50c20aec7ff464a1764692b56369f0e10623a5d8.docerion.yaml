@@ -1,0 +1,4 @@
+# Docerion header of 50c20aec7ff464a1764692b56369f0e10623a5d8.
+type: data
+title: Fuzzer cookie input with base64-encoded test variants
+summary: Cookie string used as fuzzer input, setting the _t_tests cookie to a long base64-encoded value listing chosen variants with expiry and path.

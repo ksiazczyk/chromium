@@ -1,0 +1,4 @@
+# Docerion header of 1520d489150e0d97a8cc44becf4bb69897a08605.
+type: data
+title: 'Fuzzer cookie sample: s_vi (cnn.com)'
+summary: Fuzzer input with a Set-Cookie style string for the s_vi tracking cookie on cnn.com, including expiry, path and SameSite=None attributes.

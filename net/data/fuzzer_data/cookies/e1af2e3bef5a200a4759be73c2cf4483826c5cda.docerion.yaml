@@ -1,0 +1,4 @@
+# Docerion header of e1af2e3bef5a200a4759be73c2cf4483826c5cda.
+type: data
+title: 'Fuzzer cookie data: iter_id cookie for .nytimes.com'
+summary: Cookie string with a redacted JWT iter_id value plus path, expiry and domain attributes, used as fuzzer input.

@@ -1,0 +1,4 @@
+# Docerion header of 799e1331771bae0c65ba8ebf1a9217fdd3c7d6e1.
+type: data
+title: 'Cookie fuzzer data: agkn.com ab cookie'
+summary: Fuzzer input with a percent-encoded ab cookie string scoped to the .agkn.com domain with expiry and path.

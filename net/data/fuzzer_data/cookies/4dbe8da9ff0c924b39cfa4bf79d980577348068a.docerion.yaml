@@ -1,0 +1,4 @@
+# Docerion header of 4dbe8da9ff0c924b39cfa4bf79d980577348068a.
+type: data
+title: Fuzzer cookie input for media.net data-r value
+summary: Cookie string used as fuzzer input, setting a data-r value for media.net with an expiry date, path and domain attributes.

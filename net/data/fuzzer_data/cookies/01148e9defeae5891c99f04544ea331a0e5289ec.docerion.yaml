@@ -1,0 +1,4 @@
+# Docerion header of 01148e9defeae5891c99f04544ea331a0e5289ec.
+type: test
+title: 'Fuzzer cookie data: OptanonConsent consent cookie for cnn.com'
+summary: Cookie string with a URL-encoded OptanonConsent consent value plus expiry, path and .cnn.com domain attributes, used as fuzzer input for cookie parsing.

@@ -1,0 +1,4 @@
+# Docerion header of da71635721b412900255c668d89658436ae893c0.
+type: data
+title: 'Fuzzer cookie input: khaos for rubiconproject.com'
+summary: Fuzzer data file holding a khaos cookie for .rubiconproject.com with Max-Age, Expires, Path and Domain attributes, used as cookie parsing test input.

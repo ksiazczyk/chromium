@@ -1,0 +1,4 @@
+# Docerion header of 24474bec6890334ccb6eb7b49d915c22ceb6846e.
+type: data
+title: 'Fuzzer cookie input: KTPCACOOKIE=YES for pubmatic.com'
+summary: Cookie string used as fuzzer input, setting KTPCACOOKIE=YES on pubmatic.com with expiry, path and domain attributes.

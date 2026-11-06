@@ -1,0 +1,4 @@
+# Docerion header of 6deb439d6eaa004c80c84b949dd24cd6620be600.
+type: test
+title: Fuzzer cookie data for amazon.com session-token cookie
+summary: Redacted session-token cookie string for .amazon.com with a long expiry, stored as fuzzer input data.

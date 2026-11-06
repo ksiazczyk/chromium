@@ -1,0 +1,4 @@
+# Docerion header of 6ee1ce43df2be4847406862ff4d71586bb0f224d.
+type: test
+title: Fuzzer cookie data for cnn.com OptanonConsent cookie
+summary: Empty OptanonConsent cookie string for .cnn.com with a past expiry, stored as fuzzer input data.

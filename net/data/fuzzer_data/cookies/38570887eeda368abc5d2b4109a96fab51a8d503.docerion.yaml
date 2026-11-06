@@ -1,0 +1,4 @@
+# Docerion header of 38570887eeda368abc5d2b4109a96fab51a8d503.
+type: data
+title: 'Fuzzer cookie data: __Host-a secure cookie'
+summary: __Host-prefixed cookie string with Secure and Path attributes, used as fuzzer input data.

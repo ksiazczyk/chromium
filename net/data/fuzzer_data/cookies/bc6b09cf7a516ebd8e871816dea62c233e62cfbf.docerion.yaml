@@ -1,0 +1,4 @@
+# Docerion header of bc6b09cf7a516ebd8e871816dea62c233e62cfbf.
+type: data
+title: 'Fuzzer cookie sample: s_cc for .cnn.com'
+summary: Cookie string setting s_cc=true with path and domain attributes for .cnn.com, used as fuzzer input.

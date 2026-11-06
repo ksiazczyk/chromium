@@ -1,0 +1,4 @@
+# Docerion header of eb242a1d0caeb6024c7384542e8475ab301d942a.
+type: data
+title: 'Fuzzer cookie input: _uid cookie'
+summary: Fuzzer data file with a quoted _uid cookie string for .fwmrm.net including expiry, domain and path attributes.

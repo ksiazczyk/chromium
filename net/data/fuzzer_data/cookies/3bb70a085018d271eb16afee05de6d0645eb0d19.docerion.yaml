@@ -1,0 +1,4 @@
+# Docerion header of 3bb70a085018d271eb16afee05de6d0645eb0d19.
+type: data
+title: 'Fuzzer cookie data: expired ab._gd cookie'
+summary: Expired ab._gd cookie string for wcvb.com with a 1970 expiry date, used as fuzzer input data.

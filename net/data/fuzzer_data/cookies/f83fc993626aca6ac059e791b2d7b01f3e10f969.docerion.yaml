@@ -1,0 +1,4 @@
+# Docerion header of f83fc993626aca6ac059e791b2d7b01f3e10f969.
+type: data
+title: sailthru_content cookie fuzzer sample
+summary: Fuzzer input with a sailthru_content cookie expiring at the Unix epoch of 1970.

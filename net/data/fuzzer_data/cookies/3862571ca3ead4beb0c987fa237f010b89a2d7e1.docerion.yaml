@@ -1,0 +1,4 @@
+# Docerion header of 3862571ca3ead4beb0c987fa237f010b89a2d7e1.
+type: data
+title: 'Fuzzer cookie data: icts linksynergy cookie'
+summary: icts cookie string with Expires, Domain and Path attributes, used as fuzzer input data.

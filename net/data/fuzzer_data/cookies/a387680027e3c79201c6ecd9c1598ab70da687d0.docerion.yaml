@@ -1,0 +1,4 @@
+# Docerion header of a387680027e3c79201c6ecd9c1598ab70da687d0.
+type: data
+title: Fuzzer cookie input for cnn.com
+summary: Cookie string for a cnn.com tryThing01 cookie with domain, path and expiry attributes, kept as fuzzer test data.

@@ -1,0 +1,4 @@
+# Docerion header of 883d2f0ea7240fe7aa628c68f07f64602fbed739.
+type: data
+title: 'Fuzzer cookie data: _parsely_visitor cookie for wcvb.com'
+summary: Fuzzer input with a _parsely_visitor cookie holding a JSON-encoded visitor ID for the wcvb.com domain.

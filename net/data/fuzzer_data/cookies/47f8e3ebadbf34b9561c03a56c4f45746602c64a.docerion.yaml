@@ -1,0 +1,4 @@
+# Docerion header of 47f8e3ebadbf34b9561c03a56c4f45746602c64a.
+type: test
+title: 'Cookie fuzzer input: univ_id cookie for .openx.net'
+summary: Fuzzer corpus entry with a Set-Cookie string combining Version, Expires, Max-Age, Domain and Path attributes for an openx.net cookie.

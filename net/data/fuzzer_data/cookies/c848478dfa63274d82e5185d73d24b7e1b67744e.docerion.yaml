@@ -1,0 +1,4 @@
+# Docerion header of c848478dfa63274d82e5185d73d24b7e1b67744e.
+type: test
+title: Fuzzer cookie input with Reddit domain attribute
+summary: Cookie fuzzer test input setting a boolean cookie with path, expiry date and Reddit domain attributes.
