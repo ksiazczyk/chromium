@@ -1,0 +1,4 @@
+# Docerion header of IDS_ALWAYS.png.sha1.
+type: data
+title: SHA-1 checksum for IDS_ALWAYS
+summary: Stores the SHA-1 hash of the translated PNG for the Always string, used to track translation updates.
