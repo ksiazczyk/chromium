@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_DEFAULT_BROWSER_VIDEO_PROMO_TITLE_TEXT.png.sha1.
+type: data
+title: Default browser video promo title image SHA1
+summary: Stores the SHA1 hash of the PNG image for the default browser video promo title message in the iOS Chromium strings.
