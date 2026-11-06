@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message reader interface
+// summary: Defines the SecurityKeyMessageReader interface for listening for security key messages and notifying listeners when one is received.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_MESSAGE_READER_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_MESSAGE_READER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of com.google.chrome.remote_desktop-firefox.json.jinja2.
+type: config
+title: Firefox native messaging manifest template for the remote desktop host
+summary: Jinja2 template for the Firefox native messaging manifest that lets the remotedesktop Firefox extension launch the me2me host.

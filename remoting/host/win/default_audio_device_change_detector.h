@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default audio device change detector header
+// summary: Declares a COM runtime class that registers with an IMMDeviceEnumerator to detect default audio output device changes.
+// ---
+
 #ifndef REMOTING_HOST_WIN_DEFAULT_AUDIO_DEVICE_CHANGE_DETECTOR_H_
 #define REMOTING_HOST_WIN_DEFAULT_AUDIO_DEVICE_CHANGE_DETECTOR_H_
 

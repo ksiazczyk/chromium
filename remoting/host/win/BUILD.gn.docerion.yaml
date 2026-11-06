@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Windows host build configuration (BUILD.gn)
+summary: Defines GN targets, manifest bundles, and source sets for building the Windows Chrome Remote Desktop host binaries.

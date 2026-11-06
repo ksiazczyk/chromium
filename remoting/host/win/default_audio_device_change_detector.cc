@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default audio device change detector
+// summary: Implements an IMMNotificationClient that records when the system default audio output device changes.
+// ---
+
 #include "remoting/host/win/default_audio_device_change_detector.h"
 
 #include "base/check.h"

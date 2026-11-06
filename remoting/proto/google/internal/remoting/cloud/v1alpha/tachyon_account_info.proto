@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon account info proto for messaging remote desktop endpoints
+// summary: Defines the TachyonAccountInfo message holding the account ID and registration ID needed to send messages to a Chrome Remote Desktop endpoint via the Tachyon service.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux URL forwarder configurator header
+// summary: Declares UrlForwarderConfiguratorLinux, the Linux implementation of the UrlForwarderConfigurator interface.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_URL_FORWARDER_CONFIGURATOR_LINUX_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_URL_FORWARDER_CONFIGURATOR_LINUX_H_
 

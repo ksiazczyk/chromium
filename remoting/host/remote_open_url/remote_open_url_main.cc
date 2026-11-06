@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote open URL main implementation
+// summary: Implements the remote_open_url binary, opening a given URL on the host or launching a fallback browser when called without arguments.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_main.h"
 
 #include "base/at_exit.h"

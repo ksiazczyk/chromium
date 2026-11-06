@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote open URL main header
+// summary: Declares the RemoteOpenUrlMain entry point exported from the remoting core library.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_REMOTE_OPEN_URL_MAIN_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_REMOTE_OPEN_URL_MAIN_H_
 

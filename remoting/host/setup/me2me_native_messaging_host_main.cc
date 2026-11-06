@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me native messaging host main implementation
+// summary: Implements the main routine that initializes base services, crash reporting and platform-specific delegates, then runs the Me2Me native messaging host.
+// ---
+
 #include "remoting/host/setup/me2me_native_messaging_host_main.h"
 
 #include <cstdint>

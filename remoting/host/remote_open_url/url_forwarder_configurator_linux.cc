@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux URL forwarder configurator
+// summary: Linux implementation that runs the configure-url-forwarder script to check and set up the URL forwarder as the default browser.
+// ---
+
 #include "remoting/host/remote_open_url/url_forwarder_configurator_linux.h"
 
 #include <memory>

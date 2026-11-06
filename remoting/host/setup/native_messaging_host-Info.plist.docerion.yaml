@@ -1,0 +1,4 @@
+# Docerion header of native_messaging_host-Info.plist.
+type: config
+title: Native messaging host macOS Info.plist
+summary: macOS bundle property list defining the native messaging host's identifiers, versions, minimum system version and Breakpad crash reporting settings.

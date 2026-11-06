@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the remoting host setup module
+summary: Defines GN source sets and build flags for the host setup code, including platform-specific daemon controller delegates and host starter targets.

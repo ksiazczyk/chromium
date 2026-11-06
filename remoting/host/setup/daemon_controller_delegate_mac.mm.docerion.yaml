@@ -1,0 +1,4 @@
+# Docerion header of daemon_controller_delegate_mac.mm.
+type: source
+title: Mac daemon controller delegate implementation
+summary: Implements the macOS DaemonController delegate, running the host helper as root via macOS authorization services and managing the launchd-based daemon.

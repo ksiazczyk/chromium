@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning service protobuf messages for remoting cloud v1
+// summary: Proto3 definition of messages for provisioning GCE remote access host instances, including the request, response, and service account info.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

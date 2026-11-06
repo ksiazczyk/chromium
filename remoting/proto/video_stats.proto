@@ -5,6 +5,12 @@
 // Internal message types that should not be seen outside the protocol
 // directory.
 
+// ---docerion
+// type: source
+// title: Video frame statistics protocol messages
+// summary: Defines the FrameStatsMessage protobuf carrying per-frame capture, encoding, network, and quality statistics for video streaming.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

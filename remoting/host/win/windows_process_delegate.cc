@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsProcessDelegate implementation
+// summary: Implements WindowsProcessDelegate, which watches a worker process handle and reports its exit code to the launcher when the process exits.
+// ---
+
 #include "remoting/host/win/windows_process_delegate.h"
 
 #include <Windows.h>

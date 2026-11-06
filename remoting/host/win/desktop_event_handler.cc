@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop event handler implementation
+// summary: Implements handling of Windows events from the input desktop on a dedicated worker thread that is recreated whenever the input desktop changes, such as at the login screen or UAC prompt.
+// ---
+
 #include "remoting/host/win/desktop_event_handler.h"
 
 #include <windows.h>

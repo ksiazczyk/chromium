@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory service host management protos
+// summary: Defines request and response messages for the Directory API covering host registration, deletion, lookups, and heartbeat updates.
+// ---
+
 syntax = "proto2";
 
 option java_multiple_files = true;

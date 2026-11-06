@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-process Linux daemon controller delegate interface
+// summary: Declares the DaemonController delegate for the single-process Linux host, which manages the host daemon through the chrome-remote-desktop script.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_LINUX_SINGLE_PROCESS_H_
 #define REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_LINUX_SINGLE_PROCESS_H_
 

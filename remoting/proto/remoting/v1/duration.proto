@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duration message proto
+// summary: Defines a lightweight Duration message copied from protobuf because the full protobuf duration library cannot be used with the lite runtime.
+// ---
+
 syntax = "proto2";
 
 package remoting.apis.v1;

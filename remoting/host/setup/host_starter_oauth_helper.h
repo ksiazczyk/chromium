@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStarterOAuthHelper interface
+// summary: Declares a Gaia OAuth client delegate that fetches tokens from an authorization code and reports success or OAuth and network errors through callbacks.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_HOST_STARTER_OAUTH_HELPER_H_
 #define REMOTING_HOST_SETUP_HOST_STARTER_OAUTH_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch process with token header
+// summary: Declares CreateSessionToken and LaunchProcessWithToken for launching a binary under a user token, optionally inside an AppContainer sandbox.
+// ---
+
 #ifndef REMOTING_HOST_WIN_LAUNCH_PROCESS_WITH_TOKEN_H_
 #define REMOTING_HOST_WIN_LAUNCH_PROCESS_WITH_TOKEN_H_
 

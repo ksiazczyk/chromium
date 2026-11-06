@@ -4,6 +4,12 @@
 //
 // Protocol for control messages.
 
+// ---docerion
+// type: source
+// title: Control message protocol definitions
+// summary: Defines protobuf messages for session control, including client resolution, video and audio controls, cursor shape, capabilities, pairing, and extension messages.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

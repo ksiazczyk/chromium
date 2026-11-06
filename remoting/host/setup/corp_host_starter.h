@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp host starter header
+// summary: Declares the ProvisionCorpMachine factory that creates a HostStarter for provisioning corporate remote desktop hosts.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_CORP_HOST_STARTER_H_
 #define REMOTING_HOST_SETUP_CORP_HOST_STARTER_H_
 

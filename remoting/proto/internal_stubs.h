@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal proto and function stub declarations
+// summary: Declares do-nothing proto aliases and helper function stubs so internal-only services can be built in Chromium without official internal code.
+// ---
+
 #ifndef REMOTING_PROTO_INTERNAL_STUBS_H_
 #define REMOTING_PROTO_INTERNAL_STUBS_H_
 

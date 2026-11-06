@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStarterOAuthHelper implementation
+// summary: Exchanges OAuth authorization codes for access and refresh tokens via the Gaia OAuth client and verifies the token's user email matches the expected account.
+// ---
+
 #include "remoting/host/setup/host_starter_oauth_helper.h"
 
 #include <memory>

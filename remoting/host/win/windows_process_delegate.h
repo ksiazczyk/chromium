@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsProcessDelegate header
+// summary: Declares a base class for Windows WorkerProcessLauncher delegates that owns the process watcher and handles worker process exit events.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WINDOWS_PROCESS_DELEGATE_H_
 #define REMOTING_HOST_WIN_WINDOWS_PROCESS_DELEGATE_H_
 

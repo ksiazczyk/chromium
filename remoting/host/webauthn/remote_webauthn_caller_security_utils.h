@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted caller security check declarations
+// summary: Declares IsLaunchedByTrustedProcess and IsLaunchedByTrustedExtension, which validate the launch chain of the native messaging host.
+// ---
+
 #ifndef REMOTING_HOST_WEBAUTHN_REMOTE_WEBAUTHN_CALLER_SECURITY_UTILS_H_
 #define REMOTING_HOST_WEBAUTHN_REMOTE_WEBAUTHN_CALLER_SECURITY_UTILS_H_
 

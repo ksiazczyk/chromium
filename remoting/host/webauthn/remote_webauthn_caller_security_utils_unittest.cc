@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for trusted caller security checks
+// summary: Parameterized tests verifying that allowed extension origins are accepted and spoofed or unknown origins are rejected by IsLaunchedByTrustedExtension.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_caller_security_utils.h"
 
 #include <string>

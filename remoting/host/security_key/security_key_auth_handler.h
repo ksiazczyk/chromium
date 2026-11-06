@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityKeyAuthHandler interface
+// summary: Declares the SecurityKeyAuthHandler interface that proxies security key authentication data between a local security key agent and the remote client.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_AUTH_HANDLER_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_AUTH_HANDLER_H_
 

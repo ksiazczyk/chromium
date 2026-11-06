@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurityKeyAuthHandlerPosix unit tests
+// summary: Unit tests for SecurityKeyAuthHandlerPosix that exercise socket creation, client connections, and request and response handling over a temporary Unix socket.
+// ---
+
 #include "remoting/host/security_key/security_key_auth_handler_posix.h"
 
 #include <stddef.h>

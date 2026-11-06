@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key IPC client class declaration
+// summary: Declares SecurityKeyIpcClient, which manages the client end of the IPC channel for exchanging security key messages with the Chromoting host.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_IPC_CLIENT_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_IPC_CLIENT_H_
 

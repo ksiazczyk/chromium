@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-process Linux daemon controller delegate implementation
+// summary: Implements the DaemonController delegate for the multi-process Linux host, running systemctl commands and writing privileged and unprivileged host config files with restricted permissions.
+// ---
+
 #include "remoting/host/setup/daemon_controller_delegate_linux_multi_process.h"
 
 #include <unistd.h>

@@ -1,0 +1,4 @@
+# Docerion header of version.rc.jinja2.
+type: source
+title: Windows version resource template
+summary: Jinja2 template that generates the Windows VERSIONINFO resource with version fields and localized product strings for remoting host binaries.

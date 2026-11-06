@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud host starter implementation
+// summary: Implements CloudHostStarter, which provisions a Google Compute Engine instance and registers it as a Chrome Remote Desktop host.
+// ---
+
 #include "remoting/host/setup/cloud_host_starter.h"
 
 #include <memory>

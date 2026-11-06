@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for remoting cloud v1alpha protos
+summary: GN build file defining the proto_library target that compiles the v1alpha remoting proto sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsEventLogger implementation
+// summary: Implements registration of a Windows event source and reporting of event log messages with string insertion values.
+// ---
+
 #include "remoting/host/win/windows_event_logger.h"
 
 #include <string>

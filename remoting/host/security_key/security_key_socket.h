@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityKeySocket class header
+// summary: Declares the SecurityKeySocket class that manages reading security key requests and sending responses over a stream socket, with request size checks and activity timeouts.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_SOCKET_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_SOCKET_H_
 

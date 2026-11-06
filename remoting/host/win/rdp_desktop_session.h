@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RdpDesktopSession class header
+// summary: Declares the RdpDesktopSession COM component that hosts RdpClient objects and forwards RDP connection events to its event handler.
+// ---
+
 #ifndef REMOTING_HOST_WIN_RDP_DESKTOP_SESSION_H_
 #define REMOTING_HOST_WIN_RDP_DESKTOP_SESSION_H_
 

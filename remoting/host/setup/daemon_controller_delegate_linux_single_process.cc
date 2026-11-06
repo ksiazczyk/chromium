@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-process Linux daemon controller delegate implementation
+// summary: Implements the DaemonController delegate for the single-process Linux host by running the chrome-remote-desktop script to start, stop, and query the host daemon.
+// ---
+
 #include "remoting/host/setup/daemon_controller_delegate_linux_single_process.h"
 
 #include <unistd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 3D display mode evaluation declarations
+// summary: Declares functions that evaluate the stereoscopic 3D capability in a separate child process and report whether the mode is enabled.
+// ---
+
 #ifndef REMOTING_HOST_WIN_EVALUATE_3D_DISPLAY_MODE_H_
 #define REMOTING_HOST_WIN_EVALUATE_3D_DISPLAY_MODE_H_
 

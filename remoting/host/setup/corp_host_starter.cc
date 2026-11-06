@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp host starter implementation
+// summary: Implements CorpHostStarter, which provisions a corporate machine through the corp service and registers it as a Chrome Remote Desktop host.
+// ---
+
 #include "remoting/host/setup/corp_host_starter.h"
 
 #include <memory>

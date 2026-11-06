@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn main implementation
+// summary: Sets up logging, crash reporting, Mojo IPC and the native messaging pipe after verifying the process was launched by a trusted process and extension.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_main.h"
 
 #include "base/at_exit.h"

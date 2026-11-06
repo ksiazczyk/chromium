@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUrlForwarderConfigurator
+// summary: Declares FakeUrlForwarderConfigurator, a test fake of UrlForwarderConfigurator that always responds with false or FAILED.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_FAKE_URL_FORWARDER_CONFIGURATOR_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_FAKE_URL_FORWARDER_CONFIGURATOR_H_
 

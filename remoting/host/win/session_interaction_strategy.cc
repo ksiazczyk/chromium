@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session interaction strategy implementation
+// summary: Implements the interaction strategy and its factory that create Windows-session-compatible action executors and input injectors.
+// ---
+
 #include "remoting/host/win/session_interaction_strategy.h"
 
 #include <memory>

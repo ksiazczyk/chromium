@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostStarterOAuthHelper unit tests
+// summary: Unit tests for HostStarterOAuthHelper that simulate token and user email responses plus error cases using a test URL loader factory.
+// ---
+
 #include "remoting/host/setup/host_starter_oauth_helper.h"
 
 #include "base/run_loop.h"

@@ -1,0 +1,4 @@
+# Docerion header of enable_uiaccess.manifest.
+type: config
+title: UIAccess enabled manifest
+summary: Windows manifest requesting the asInvoker execution level with UIAccess enabled.

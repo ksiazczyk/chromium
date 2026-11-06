@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio volume filter header
+// summary: Declares AudioVolumeFilterWin, which activates IAudioEndpointVolume on an IMMDevice to report the current audio level.
+// ---
+
 #ifndef REMOTING_HOST_WIN_AUDIO_VOLUME_FILTER_WIN_H_
 #define REMOTING_HOST_WIN_AUDIO_VOLUME_FILTER_WIN_H_
 

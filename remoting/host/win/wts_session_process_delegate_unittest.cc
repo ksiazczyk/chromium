@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WTS session process delegate unit tests
+// summary: Unit tests verifying that the delegate's Core outlives job object notifications and is released only after the I/O thread delivers the final events.
+// ---
+
 #include "remoting/host/win/wts_session_process_delegate.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL forwarder control protocol messages
+// summary: Defines protobuf messages exchanged over the url-forwarder-control data channel to query configuration state and set up the URL forwarder between client and host.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

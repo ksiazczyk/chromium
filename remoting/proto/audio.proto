@@ -4,6 +4,12 @@
 
 // Protocol for audio messages.
 
+// ---docerion
+// type: source
+// title: Audio packet protocol messages
+// summary: Defines the AudioPacket protobuf carrying audio data with encoding, sampling rate, bytes per sample, and channel layout fields.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

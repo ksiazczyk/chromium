@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default audio device change detector unit tests
+// summary: Unit tests using a fake IMMDeviceEnumerator to verify callback registration, change detection, and object lifetime of the audio device change detector.
+// ---
+
 #include "remoting/host/win/default_audio_device_change_detector.h"
 
 #include <mmdeviceapi.h>

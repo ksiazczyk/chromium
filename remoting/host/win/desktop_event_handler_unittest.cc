@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop event handler unit tests
+// summary: Unit tests verifying DesktopEventHandler worker thread startup, cleanup on destruction, and support for two concurrent handlers.
+// ---
+
 #include "remoting/host/win/desktop_event_handler.h"
 
 #include <windows.h>

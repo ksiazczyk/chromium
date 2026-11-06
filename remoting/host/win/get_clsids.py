@@ -9,6 +9,12 @@
 # The IDs are not random to avoid rebuilding host when it's not
 # necessary.
 
+# ---docerion
+# type: script
+# title: CLSID generation script
+# summary: Python helper that computes version-salted COM class IDs from a GUID and version string and prints them as a GN list.
+# ---
+
 from __future__ import print_function
 
 import uuid

@@ -4,6 +4,12 @@
 
 // Protocol for test only.
 
+// ---docerion
+// type: test
+// title: DataChannelManager test protocol
+// summary: Defines a test-only protobuf message used by DataChannelManager test cases.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

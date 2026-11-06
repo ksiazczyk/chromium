@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session action executor header
+// summary: Declares SessionActionExecutor, which dispatches action requests like SAS injection and workstation locking.
+// ---
+
 #ifndef REMOTING_HOST_WIN_SESSION_ACTION_EXECUTOR_H_
 #define REMOTING_HOST_WIN_SESSION_ACTION_EXECUTOR_H_
 

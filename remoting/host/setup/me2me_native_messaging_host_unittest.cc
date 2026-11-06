@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Me2Me native messaging host unit tests
+// summary: Unit tests that drive the native messaging host over a pipe and verify its JSON responses such as hello, host name, PIN hash and daemon operations.
+// ---
+
 #include "remoting/host/setup/me2me_native_messaging_host.h"
 
 #include <stddef.h>

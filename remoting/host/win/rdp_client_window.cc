@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RdpClientWindow implementation
+// summary: Implements the GUI window that hosts the Microsoft RDP ActiveX control, handling connection events, keyboard state, audio modes, and resolution reapplication.
+// ---
+
 #include "remoting/host/win/rdp_client_window.h"
 
 #include <wtsdefs.h>

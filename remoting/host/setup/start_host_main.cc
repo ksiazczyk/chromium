@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: start_host main implementation
+// summary: Implements the remoting_start_host command-line tool, parsing flags for PIN, OAuth code, and host registration flows.
+// ---
+
 #include "remoting/host/setup/start_host_main.h"
 
 #include <stddef.h>

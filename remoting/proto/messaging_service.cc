@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging service struct implementation
+// summary: Implements default constructors, copy operations, and destructors for the MessagingService request and response structs.
+// ---
+
 #include "remoting/proto/messaging_service.h"
 
 namespace remoting::internal {

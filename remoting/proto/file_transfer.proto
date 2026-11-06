@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File transfer protocol definitions
+// summary: Defines protobuf messages for file transfers over data channels, covering metadata, data chunks, completion, success, requests, and errors.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

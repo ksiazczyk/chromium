@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message writer implementation
+// summary: Implements SecurityKeyMessageWriter by writing the message header, type and optional payload bytes to an output file stream.
+// ---
+
 #include "remoting/host/security_key/security_key_message_writer_impl.h"
 
 #include <cstdint>

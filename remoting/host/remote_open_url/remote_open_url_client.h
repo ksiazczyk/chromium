@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteOpenUrlClient
+// summary: Declares RemoteOpenUrlClient, a helper letting the standalone open-URL binary open URLs remotely and handle local fallback.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_REMOTE_OPEN_URL_CLIENT_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_REMOTE_OPEN_URL_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security key message writer implementation unit tests
+// summary: Unit tests for SecurityKeyMessageWriterImpl that verify messages and payloads are written correctly to a pipe, including large messages.
+// ---
+
 #include "remoting/host/security_key/security_key_message_writer_impl.h"
 
 #include <cstdint>

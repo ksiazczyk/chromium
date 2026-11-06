@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn native messaging host implementation
+// summary: Implements the native messaging host that parses JSON messages from the Chrome extension and forwards WebAuthn requests to the remote host services.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_native_messaging_host.h"
 
 #include <algorithm>

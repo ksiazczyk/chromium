@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM security initialization header
+// summary: Declares InitializeComSecurity and SDDL ACE helper macros for configuring process-wide COM security.
+// ---
+
 #ifndef REMOTING_HOST_WIN_COM_SECURITY_H_
 #define REMOTING_HOST_WIN_COM_SECURITY_H_
 

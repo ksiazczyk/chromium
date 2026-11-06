@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key IPC constants header
+// summary: Declares the kSecurityKeyConnectionError constant that signals an error during a security key forwarding session.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_IPC_CONSTANTS_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_IPC_CONSTANTS_H_
 

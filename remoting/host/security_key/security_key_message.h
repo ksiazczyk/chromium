@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message format and types
+// summary: Defines the security key wire message format and the SecurityKeyMessageType enum for messages exchanged with the remote_security_key process.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_MESSAGE_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_MESSAGE_H_
 

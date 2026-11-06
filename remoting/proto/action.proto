@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Action request and response protocol messages
+// summary: Defines protobuf messages for remote actions such as sending the attention sequence or locking the workstation, with request IDs and error reporting.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

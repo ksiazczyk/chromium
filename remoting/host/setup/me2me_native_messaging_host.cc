@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me native messaging host implementation
+// summary: Implements the me2me native messaging host, handling JSON requests for daemon config and state, pairing clients, PIN hashes, key pairs, and OAuth operations.
+// ---
+
 #include "remoting/host/setup/me2me_native_messaging_host.h"
 
 #include <cstdint>

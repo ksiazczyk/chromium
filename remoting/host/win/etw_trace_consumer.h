@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW trace consumer header
+// summary: Declares the EtwTraceConsumer interface with a factory for listening to host ETW events, allowing only one active instance at a time.
+// ---
+
 #ifndef REMOTING_HOST_WIN_ETW_TRACE_CONSUMER_H_
 #define REMOTING_HOST_WIN_ETW_TRACE_CONSUMER_H_
 

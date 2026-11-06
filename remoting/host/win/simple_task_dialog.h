@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleTaskDialog header
+// summary: Declares a helper class for showing a top-level Windows task dialog with configurable title, message, buttons, and timeout.
+// ---
+
 #ifndef REMOTING_HOST_WIN_SIMPLE_TASK_DIALOG_H_
 #define REMOTING_HOST_WIN_SIMPLE_TASK_DIALOG_H_
 

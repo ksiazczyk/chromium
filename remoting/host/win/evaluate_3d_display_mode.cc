@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 3D display mode capability evaluator
+// summary: Checks whether stereoscopic 3D display mode is enabled via DXGI so the host can fall back to the GDI screen capturer.
+// ---
+
 #include "remoting/host/win/evaluate_3d_display_mode.h"
 
 #include <D3DCommon.h>

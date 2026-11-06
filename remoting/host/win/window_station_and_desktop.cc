@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowStationAndDesktop implementation
+// summary: Implements a scoper that owns Windows window station and desktop handles and closes them when replaced or destroyed.
+// ---
+
 #include "remoting/host/win/window_station_and_desktop.h"
 
 #include <algorithm>

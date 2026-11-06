@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security key message handler unit tests
+// summary: Unit tests for SecurityKeyMessageHandler that use fake IPC client, message reader and writer components to verify security key message handling.
+// ---
+
 #include "remoting/host/security_key/security_key_message_handler.h"
 
 #include <memory>

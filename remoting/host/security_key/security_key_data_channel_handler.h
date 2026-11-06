@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityKeyDataChannelHandler class header
+// summary: Declares SecurityKeyDataChannelHandler, which binds a WebRTC named message pipe to the SecurityKeyAuthHandler for security key traffic.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_DATA_CHANNEL_HANDLER_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_DATA_CHANNEL_HANDLER_H_
 

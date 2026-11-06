@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseCursorMonitorWin class header
+// summary: Declares the event-driven Windows mouse cursor monitor that reports cursor shape and fractional position through the protocol callback interface.
+// ---
+
 #ifndef REMOTING_HOST_WIN_MOUSE_CURSOR_MONITOR_WIN_H_
 #define REMOTING_HOST_WIN_MOUSE_CURSOR_MONITOR_WIN_H_
 

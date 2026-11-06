@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common service struct definitions
+// summary: Declares shared structs for Tachyon account information and operating system details used by the remoting service structs.
+// ---
+
 #ifndef REMOTING_PROTO_SERVICE_COMMON_H_
 #define REMOTING_PROTO_SERVICE_COMMON_H_
 

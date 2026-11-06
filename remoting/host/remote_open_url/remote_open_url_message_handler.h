@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote open URL message handler header
+// summary: Declares the message handler that forwards remote open URL requests over a named message pipe and tracks pending callbacks.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_REMOTE_OPEN_URL_MESSAGE_HANDLER_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_REMOTE_OPEN_URL_MESSAGE_HANDLER_H_
 

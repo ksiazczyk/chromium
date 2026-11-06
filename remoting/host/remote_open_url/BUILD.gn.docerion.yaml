@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: Defines GN build targets for the remote_open_url common sources, main executable, test support fakes and unit tests.

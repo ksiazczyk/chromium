@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility for creating pipes
+// summary: Provides a cross-platform MakePipe helper that creates an anonymous unidirectional pipe for use in tests.
+// ---
+
 #include "remoting/host/setup/test_util.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal proto stub implementations
+// summary: Implements stub helper functions that return empty requests and paths for internal-only protos in unofficial builds.
+// ---
+
 #include "remoting/proto/internal_stubs.h"
 
 #include <memory>

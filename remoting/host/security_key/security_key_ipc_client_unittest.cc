@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security key IPC client unit tests
+// summary: Tests for SecurityKeyIpcClient covering IPC connection establishment, request forwarding, and error handling using a fake SecurityKeyForwarder receiver.
+// ---
+
 #include "remoting/host/security_key/security_key_ipc_client.h"
 
 #include <memory>

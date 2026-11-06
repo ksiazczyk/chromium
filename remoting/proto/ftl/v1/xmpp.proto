@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XMPP and Jingle signaling stanza definitions
+// summary: Defines protobuf messages for XMPP IQ stanzas and Jingle session negotiation, including Jabber IDs, error conditions, attachments, and transport info.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

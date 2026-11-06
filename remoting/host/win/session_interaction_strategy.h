@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session interaction strategy header
+// summary: Declares SessionInteractionStrategy and its factory for creating executors and injectors compatible with Windows sessions.
+// ---
+
 #ifndef REMOTING_HOST_WIN_SESSION_INTERACTION_STRATEGY_H_
 #define REMOTING_HOST_WIN_SESSION_INTERACTION_STRATEGY_H_
 

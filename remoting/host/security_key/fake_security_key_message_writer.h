@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake security key message writer test double header
+// summary: Declares a test double for SecurityKeyMessageWriter that tracks the last written message and a configurable success result.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_FAKE_SECURITY_KEY_MESSAGE_WRITER_H_
 #define REMOTING_HOST_SECURITY_KEY_FAKE_SECURITY_KEY_MESSAGE_WRITER_H_
 

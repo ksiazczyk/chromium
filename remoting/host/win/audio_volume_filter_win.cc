@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio volume filter implementation
+// summary: Reads mute state and master volume level via IAudioEndpointVolume to support the host audio silence filter.
+// ---
+
 #include "remoting/host/win/audio_volume_filter_win.h"
 
 #include "base/check.h"

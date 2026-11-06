@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated state change notifier class header
+// summary: Declares RemoteWebAuthnDelegatedStateChangeNotifier, a notifier that invokes a supplied callback when state changes.
+// ---
+
 #ifndef REMOTING_HOST_WEBAUTHN_REMOTE_WEBAUTHN_DELEGATED_STATE_CHANGE_NOTIFIER_H_
 #define REMOTING_HOST_WEBAUTHN_REMOTE_WEBAUTHN_DELEGATED_STATE_CHANGE_NOTIFIER_H_
 

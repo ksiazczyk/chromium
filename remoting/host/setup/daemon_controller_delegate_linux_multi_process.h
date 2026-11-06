@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-process Linux daemon controller delegate interface
+// summary: Declares the DaemonController delegate for the multi-process Linux host, including static paths for the privileged and unprivileged host configuration files.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_LINUX_MULTI_PROCESS_H_
 #define REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_LINUX_MULTI_PROCESS_H_
 

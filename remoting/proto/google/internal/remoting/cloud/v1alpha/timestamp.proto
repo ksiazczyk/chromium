@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timestamp proto copied for Chrome lite runtime use
+// summary: Defines a small Timestamp message with seconds and nanos fields, copied from protobuf's timestamp.proto because the full protobuf source cannot be included in Chrome.
+// ---
+
 syntax = "proto3";
 
 package google.internal.remoting.cloud.v1alpha;

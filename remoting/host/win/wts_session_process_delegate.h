@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WtsSessionProcessDelegate header
+// summary: Declares the delegate that launches and monitors worker processes in a different Windows session, with a test API for job object and PID handling.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WTS_SESSION_PROCESS_DELEGATE_H_
 #define REMOTING_HOST_WIN_WTS_SESSION_PROCESS_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chromoting_lib.templ.
+type: source
+title: Chromoting COM type library IDL template
+summary: IDL template defining the IRdpDesktopSession interfaces and RdpDesktopSession coclass for the Chromoting type library.

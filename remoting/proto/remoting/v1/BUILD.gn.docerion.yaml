@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn proto library targets for remoting v1
+summary: Defines GN proto_library targets for the v1 remoting protos, including an Android Java proto library for directory messages.

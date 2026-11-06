@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting COM module implementation
+// summary: Implements the out-of-process COM module that registers the RDP desktop session class factory, lowers integrity level, and runs the message loop.
+// ---
+
 #include "remoting/host/win/chromoting_module.h"
 
 #include <wrl/client.h>

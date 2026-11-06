@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message reader implementation header
+// summary: Declares SecurityKeyMessageReaderImpl, a pipe-based SecurityKeyMessageReader that reads messages on a background thread and posts callbacks to the main thread.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_MESSAGE_READER_IMPL_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_MESSAGE_READER_IMPL_H_
 

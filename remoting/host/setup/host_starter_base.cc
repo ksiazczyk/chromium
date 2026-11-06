@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStarterBase implementation
+// summary: 'Implements the shared host registration flow: checking for an existing host, registering the new instance, exchanging tokens, writing the config, and starting the daemon.'
+// ---
+
 #include "remoting/host/setup/host_starter_base.h"
 
 #include <memory>

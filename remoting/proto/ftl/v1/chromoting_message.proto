@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting signaling message definitions
+// summary: Defines protobuf messages for Chromoting signaling, including XMPP stanzas, host status changes, session reconnection, and echo reachability checks.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session authorization service struct definitions
+// summary: Declares structs for the SessionAuthzService covering host token generation, session token verification and host reauthorization.
+// ---
+
 #ifndef REMOTING_PROTO_SESSION_AUTHZ_SERVICE_H_
 #define REMOTING_PROTO_SESSION_AUTHZ_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D capability evaluation declarations
+// summary: Declares functions to evaluate D3D capabilities in an isolated child process and to check whether D3D is available.
+// ---
+
 #ifndef REMOTING_HOST_WIN_EVALUATE_D3D_H_
 #define REMOTING_HOST_WIN_EVALUATE_D3D_H_
 

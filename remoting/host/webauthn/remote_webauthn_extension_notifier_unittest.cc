@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote WebAuthn extension notifier unit tests
+// summary: Unit tests verifying that the notifier writes wakeup files only in existing directories and rewrites them on repeated state change notifications.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_extension_notifier.h"
 
 #include <memory>

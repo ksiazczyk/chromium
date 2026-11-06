@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows URL forwarder configurator entry point
+// summary: Implements the Windows configurator process that checks the default browser and shows a dialog guiding the user to set up the URL forwarder.
+// ---
+
 #include <objbase.h>
 
 #include <shobjidl.h>

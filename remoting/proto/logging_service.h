@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging service struct declarations
+// summary: Declares the ReportSessionDisconnectedRequestStruct holding identifiers, error codes, and session policies for reporting disconnected sessions.
+// ---
+
 #ifndef REMOTING_PROTO_LOGGING_SERVICE_H_
 #define REMOTING_PROTO_LOGGING_SERVICE_H_
 

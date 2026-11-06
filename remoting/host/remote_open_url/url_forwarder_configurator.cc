@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL forwarder configurator base implementation
+// summary: Implements the UrlForwarderConfigurator base class and returns null on platforms other than Linux and Windows.
+// ---
+
 #include "remoting/host/remote_open_url/url_forwarder_configurator.h"
 
 #include "base/notimplemented.h"

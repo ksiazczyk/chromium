@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event trace data structure
+// summary: Defines a structure holding event type, severity, process and thread IDs, timestamp, file, line and message fields from an ETW event.
+// ---
+
 #ifndef REMOTING_HOST_WIN_EVENT_TRACE_DATA_H_
 #define REMOTING_HOST_WIN_EVENT_TRACE_DATA_H_
 

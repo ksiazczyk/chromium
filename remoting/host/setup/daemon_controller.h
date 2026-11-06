@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon controller interface
+// summary: Defines the DaemonController API for querying daemon state and configuring or starting the remote desktop host service, plus its platform delegate interface.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_DAEMON_CONTROLLER_H_
 #define REMOTING_HOST_SETUP_DAEMON_CONTROLLER_H_
 

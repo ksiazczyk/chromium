@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Injected input signature helpers
+// summary: Defines the CRD0 signature stamped into SendInput events and a helper that distinguishes Chrome Remote Desktop injected input from local software-injected input in RAWINPUT.
+// ---
+
 #ifndef REMOTING_HOST_WIN_INPUT_EXTRA_INFO_H_
 #define REMOTING_HOST_WIN_INPUT_EXTRA_INFO_H_
 

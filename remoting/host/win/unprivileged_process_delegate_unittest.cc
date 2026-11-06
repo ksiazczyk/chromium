@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnprivilegedProcessDelegate unit tests
+// summary: Unit tests for UnprivilegedProcessDelegate covering process launch, kill lifecycle, and AppContainer creation.
+// ---
+
 #include "remoting/host/win/unprivileged_process_delegate.h"
 
 #include <windows.h>

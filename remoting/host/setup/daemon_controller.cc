@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon controller implementation
+// summary: Implements DaemonController, which queues and dispatches daemon start, stop and config operations to a platform delegate on a background thread.
+// ---
+
 #include "remoting/host/setup/daemon_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopEventHandler class header
+// summary: Declares the DesktopEventHandler class and its delegate interface for receiving Windows events from the input desktop, with a worker thread recreated on desktop changes.
+// ---
+
 #ifndef REMOTING_HOST_WIN_DESKTOP_EVENT_HANDLER_H_
 #define REMOTING_HOST_WIN_DESKTOP_EVENT_HANDLER_H_
 

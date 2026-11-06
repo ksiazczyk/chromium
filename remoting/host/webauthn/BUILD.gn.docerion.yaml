@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for remote WebAuthn host binaries and tests
+summary: Defines GN source sets and the remote_webauthn executable that build the remote WebAuthn native messaging host and its unit tests.

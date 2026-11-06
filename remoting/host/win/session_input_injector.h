@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session input injector header
+// summary: Declares SessionInputInjectorWin, which passes input events to a nested executor and handles SAS and Win+L key combinations.
+// ---
+
 #ifndef REMOTING_HOST_WIN_SESSION_INPUT_INJECTOR_H_
 #define REMOTING_HOST_WIN_SESSION_INPUT_INJECTOR_H_
 

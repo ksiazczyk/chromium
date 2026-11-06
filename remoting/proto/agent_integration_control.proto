@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent integration control channel messages
+// summary: Defines protobuf messages for querying and toggling agent integration state over the agent-integration-control data channel.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

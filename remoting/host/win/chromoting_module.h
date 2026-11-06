@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting COM module header
+// summary: Declares ChromotingModule, which registers COM classes and runs a message loop until the last COM object is released.
+// ---
+
 #ifndef REMOTING_HOST_WIN_CHROMOTING_MODULE_H_
 #define REMOTING_HOST_WIN_CHROMOTING_MODULE_H_
 

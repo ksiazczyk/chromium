@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WTS terminal monitor unit tests
+// summary: Unit tests for virtual terminal ID generation and validation of malformed IDs, and for mapping between the console session and terminal ID.
+// ---
+
 #include "remoting/host/win/wts_terminal_monitor.h"
 
 #include <windows.h>

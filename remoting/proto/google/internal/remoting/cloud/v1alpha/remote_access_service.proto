@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote access service request protos
+// summary: Defines heartbeat and host update request messages used to maintain remote access host entries in the directory.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

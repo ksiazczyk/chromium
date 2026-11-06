@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event file logger
+// summary: Writes host event trace data to timestamped log files and maintains a latest.log symbolic link in the executable directory.
+// ---
+
 #include "remoting/host/win/host_event_file_logger.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WTS terminal monitor implementation
+// summary: Maps WTS session IDs to terminal IDs and back, using the console fast path and virtual UUID terminal IDs assigned by RdpClient.
+// ---
+
 #include "remoting/host/win/wts_terminal_monitor.h"
 
 #include <windows.h>

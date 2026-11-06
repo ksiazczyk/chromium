@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostStarterBase unit tests
+// summary: Unit tests for HostStarterBase using a fake daemon controller delegate and spoofed Gaia responses to verify registration, config generation, and error handling.
+// ---
+
 #include "remoting/host/setup/host_starter_base.h"
 
 #include <optional>

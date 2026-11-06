@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Remote support host registration and lookup protos
+// summary: Defines request and response messages for registering and querying remote support hosts, including managed Chrome OS devices with enterprise options.
+// ---
+
 syntax = "proto2";
 
 package remoting.apis.v1;

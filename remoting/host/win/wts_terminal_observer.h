@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WTS terminal observer interface
+// summary: Declares the WtsTerminalObserver interface with callbacks for session attach and detach events on a Windows WTS terminal in the remoting host.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WTS_TERMINAL_OBSERVER_H_
 #define REMOTING_HOST_WIN_WTS_TERMINAL_OBSERVER_H_
 

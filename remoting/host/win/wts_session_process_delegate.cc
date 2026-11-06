@@ -5,6 +5,12 @@
 // This file implements the Windows service controlling Me2Me host processes
 // running within user sessions.
 
+// ---docerion
+// type: source
+// title: WTS session process delegate implementation
+// summary: Implements the Windows service logic for launching and monitoring Me2Me host worker processes in user sessions, including IPC channels and job object handling.
+// ---
+
 #include "remoting/host/win/wts_session_process_delegate.h"
 
 #include <atomic>

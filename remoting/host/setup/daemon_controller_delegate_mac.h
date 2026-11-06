@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac daemon controller delegate interface
+// summary: Declares the DaemonController delegate for macOS, which controls the host daemon and uses a permission wizard for elevated operations.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_MAC_H_
 #define REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_MAC_H_
 
