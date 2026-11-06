@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV password record implementation
+// summary: Implements CSVPassword, which parses one CSV row into URL, username, password and note fields and tracks syntax or semantic errors.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_password.h"
 
 #include <string_view>

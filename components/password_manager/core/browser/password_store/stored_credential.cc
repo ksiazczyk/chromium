@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stored credential implementation
+// summary: Implements StoredCredential methods for password notes, password change backup notes, and unique key equality comparison.
+// ---
+
 #include "components/password_manager/core/browser/password_store/stored_credential.h"
 
 #include <algorithm>

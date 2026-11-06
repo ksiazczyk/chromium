@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login metrics helper implementation
+// summary: Records Actor.Login UKM and histogram metrics such as accounts shown, selection, credential fetch latency and federated login results during the actor login flow.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_metrics_helper.h"
 
 #include "base/metrics/histogram_functions.h"

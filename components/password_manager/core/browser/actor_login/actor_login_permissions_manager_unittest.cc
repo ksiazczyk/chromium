@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorLoginPermissionsManager unit tests
+// summary: Unit tests for the actor login permissions manager, verifying permission computation from profile and account password stores using fake affiliation, sync, and permission services.
+// ---
+
 #include "base/containers/to_vector.h"
 #include "base/functional/callback_helpers.h"
 #include "base/memory/scoped_refptr.h"

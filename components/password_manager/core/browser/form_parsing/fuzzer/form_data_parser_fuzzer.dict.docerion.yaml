@@ -1,0 +1,4 @@
+# Docerion header of form_data_parser_fuzzer.dict.
+type: config
+title: Fuzzer dictionary of form parsing keywords
+summary: Supplies a libFuzzer dictionary with URL and autocomplete tokens such as password and current-password to guide parser fuzzing.

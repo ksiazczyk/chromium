@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordAffiliationSourceAdapter implementation
+// summary: Implements the password affiliation source adapter, supplying facet URIs from stored logins and notifying observers of facets added or removed via password store changes.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/password_affiliation_source_adapter.h"
 
 #include "components/affiliations/core/browser/affiliation_utils.h"

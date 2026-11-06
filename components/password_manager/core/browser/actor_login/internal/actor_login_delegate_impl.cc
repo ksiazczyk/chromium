@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login delegate implementation
+// summary: Implements the per-tab actor login delegate, coordinating credential fetching, login attempts and permission handling as user data on the client.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_delegate_impl.h"
 
 #include <utility>

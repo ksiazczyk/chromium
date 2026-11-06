@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection check factory implementation
+// summary: Implements the factory that creates LeakDetectionCheckImpl and BulkLeakCheckImpl instances, selecting API keys for signed-out users and reporting sign-in errors.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/leak_detection_check_factory_impl.h"
 
 #include <utility>

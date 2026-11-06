@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store backend metrics recorder implementation
+// summary: Implements recording of request status, latency, success and error code histograms for password store backend operations.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_backend_metrics_recorder.h"
 
 #include <utility>

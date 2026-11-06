@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password store built-in backend unit tests
+// summary: Unit tests for the built-in password store backend, covering credential add, update, remove and retrieval across web and Android realms.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_built_in_backend.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasswordStoreConsumer implementation
+// summary: Implements the mock PasswordStoreConsumer, including cancellation of outstanding requests for tests.
+// ---
+
 #include "components/password_manager/core/browser/password_store/mock_password_store_consumer.h"
 
 #include "components/password_manager/core/browser/password_form.h"

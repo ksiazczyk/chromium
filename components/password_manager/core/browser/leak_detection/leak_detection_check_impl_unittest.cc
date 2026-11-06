@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LeakDetectionCheckImpl unit tests
+// summary: Unit tests for LeakDetectionCheckImpl covering signed-in and signed-out leak checks, payload preparation, and response analysis.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/leak_detection_check_impl.h"
 
 #include <string>

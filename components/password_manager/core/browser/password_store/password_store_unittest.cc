@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password store unit tests
+// summary: Unit tests for the password store, exercising credential storage, retrieval and change notifications against a fake backend with mock consumers.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store.h"
 
 #include <stddef.h>

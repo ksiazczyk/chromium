@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV writer implementation
+// summary: Implements WriteCSV, formatting tabular data into RFC 4180 CSV with escaping and platform-specific line endings.
+// ---
+
 #include "components/password_manager/core/browser/export/csv_writer.h"
 
 #include "base/check.h"

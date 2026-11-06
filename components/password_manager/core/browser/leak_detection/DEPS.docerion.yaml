@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for leak detection
+summary: DEPS allowlist permitting includes from signin, version_info and the private-join-and-compute third-party library in this directory.

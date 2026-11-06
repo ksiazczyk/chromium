@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake password store backend implementation
+// summary: Implements a fake PasswordStoreBackend for tests, supporting error injection, affiliation setup and configurable update behavior.
+// ---
+
 #include "components/password_manager/core/browser/password_store/fake_password_store_backend.h"
 
 #include <algorithm>

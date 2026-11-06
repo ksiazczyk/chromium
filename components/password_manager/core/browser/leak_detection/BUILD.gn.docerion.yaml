@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the leak detection component
+summary: Defines GN targets for the leak detection code, including the proto library, interface headers, implementation source set, test support mocks, unit tests and fuzzers.

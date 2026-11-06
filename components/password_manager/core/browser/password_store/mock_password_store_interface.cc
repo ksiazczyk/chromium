@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasswordStoreInterface implementation
+// summary: Implements the mock PasswordStoreInterface, providing a test double for the password store API.
+// ---
+
 #include "components/password_manager/core/browser/password_store/mock_password_store_interface.h"
 
 namespace password_manager {

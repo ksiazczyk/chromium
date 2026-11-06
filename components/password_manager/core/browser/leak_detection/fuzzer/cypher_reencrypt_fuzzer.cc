@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for re-encrypting payloads
+// summary: libFuzzer harness that exercises CipherEncrypt on arbitrary input payloads for the re-encryption fuzzer target.
+// ---
+
 
 #include <stdint.h>
 

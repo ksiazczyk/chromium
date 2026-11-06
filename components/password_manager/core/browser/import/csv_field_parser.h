@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV field parser class declaration
+// summary: Declares CSVFieldParser, a stack-allocated parser that iteratively returns fields of a comma-separated row with a documented state machine.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_CSV_FIELD_PARSER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_CSV_FIELD_PARSER_H_
 

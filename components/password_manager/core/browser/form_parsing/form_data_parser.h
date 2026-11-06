@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormDataParser interface and parsing result types
+// summary: Declares the FormDataParser API plus enums and structs for autocomplete flags, field interactability, username detection methods and parsing results.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_PARSING_FORM_DATA_PARSER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_PARSING_FORM_DATA_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Login metrics implementation
+// summary: Records histograms for Actor Login get credentials and attempt login results.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

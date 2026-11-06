@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake actor login delegate client implementation
+// summary: Implements a test double of ActorLoginDelegateClient that serves fake federated credentials and wires in a fake Sign-in with Google controller.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/test/fake_actor_login_delegate_client.h"
 
 #include <utility>

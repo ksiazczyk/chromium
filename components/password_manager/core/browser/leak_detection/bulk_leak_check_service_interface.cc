@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk leak check service interface definitions
+// summary: Provides the constructor and destructor definitions for the BulkLeakCheckServiceInterface base class.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/bulk_leak_check_service_interface.h"
 
 namespace password_manager {

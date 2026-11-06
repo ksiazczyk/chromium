@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device encryption state tracker unit tests
+// summary: Unit tests covering observer notifications, duplicate state handling, observer removal, and shutdown behavior of the on-device encryption state tracker.
+// ---
+
 #include "components/password_manager/core/browser/ode/on_device_encryption_state_tracker.h"
 
 #include "components/password_manager/core/browser/ode/mock_on_device_encryption_state_tracker_observer.h"

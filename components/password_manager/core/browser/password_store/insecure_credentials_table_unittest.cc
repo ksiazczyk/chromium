@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Insecure credentials table unit tests
+// summary: Unit tests for the insecure credentials table, covering insertion, retrieval, removal and database reload behavior of compromised credential records.
+// ---
+
 #include "components/password_manager/core/browser/password_store/insecure_credentials_table.h"
 
 #include <memory>

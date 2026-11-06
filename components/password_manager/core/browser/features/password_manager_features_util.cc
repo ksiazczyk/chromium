@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password account storage sync-state utilities
+// summary: Implements helpers that determine whether account-scoped password storage is active and derive the user's sync and account storage state from the sync service.
+// ---
+
 #include "components/password_manager/core/browser/features/password_manager_features_util.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto fuzzer for password generation
+// summary: LibFuzzer proto fuzzer that feeds mutated PasswordRequirementsSpec messages into GeneratePassword to check robustness.
+// ---
+
 #include "components/autofill/core/browser/proto/password_requirements.pb.h"
 #include "components/autofill/core/browser/proto/password_requirements_fuzzable.pb.h"
 #include "components/password_manager/core/browser/generation/password_generator.h"

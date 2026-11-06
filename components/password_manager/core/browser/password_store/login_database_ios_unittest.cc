@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS login database unit tests
+// summary: Unit tests for the iOS LoginDatabase, verifying Keychain-based password encryption, decryption and credential storage operations.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include <CoreFoundation/CoreFoundation.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Leak detection fuzzer build targets
+summary: GN build file defining libFuzzer test targets for the leak detection encryption fuzzers and their dependencies.

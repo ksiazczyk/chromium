@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leak detection network request implementation
+// summary: Implements the network request to the identity leak lookup endpoint, including authentication headers, QoS criticality, and response handling.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/leak_detection_request.h"
 
 #include <iterator>

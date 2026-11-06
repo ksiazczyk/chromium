@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV writer header
+// summary: Declares WriteCSV, which serializes column names and records into UTF-8 CSV output following RFC 4180.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_EXPORT_CSV_WRITER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_EXPORT_CSV_WRITER_H_
 

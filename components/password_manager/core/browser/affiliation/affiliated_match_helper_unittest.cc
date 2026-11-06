@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliatedMatchHelper unit tests
+// summary: Unit tests for AffiliatedMatchHelper covering affiliated and grouped realm lookups and affiliation and branding injection with a mock AffiliationService.
+// ---
+
 #include "components/password_manager/core/browser/affiliation/affiliated_match_helper.h"
 
 #include <stddef.h>

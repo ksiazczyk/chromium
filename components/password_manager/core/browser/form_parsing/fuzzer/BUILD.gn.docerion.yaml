@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password manager form parsing fuzzer build definitions
+summary: Defines GN targets for the fuzzer support libraries, the parser and proto fuzzers, and the form data essentials proto library.

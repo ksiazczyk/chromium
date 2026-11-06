@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logins retrieval with affiliations handler
+// summary: Declares a helper that obtains PasswordForms for a login and its affiliated logins in parallel, invoking a callback when finished.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_GET_LOGINS_WITH_AFFILIATIONS_REQUEST_HANDLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_GET_LOGINS_WITH_AFFILIATIONS_REQUEST_HANDLER_H_
 

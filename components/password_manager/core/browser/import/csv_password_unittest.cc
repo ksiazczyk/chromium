@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSVPassword unit tests
+// summary: Parameterized tests verifying that CSV rows parse into credentials with correct origin, username, password and note, including error cases.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_password.h"
 
 #include <string>

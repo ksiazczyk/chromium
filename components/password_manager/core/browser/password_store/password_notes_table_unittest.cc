@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password notes table unit tests
+// summary: Unit tests covering insertion, replacement, removal, and persistence of password notes in the login database.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_notes_table.h"
 
 #include <memory>

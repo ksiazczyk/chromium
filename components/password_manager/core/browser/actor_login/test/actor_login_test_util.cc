@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor login test utilities implementation
+// summary: Implements helpers that build expected quality-logging protos, test credentials, saved password forms and sign-in form data for actor login tests.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/test/actor_login_test_util.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorLoginPermissionServiceImpl unit tests
+// summary: Unit tests for the actor login permission service implementation, verifying list, delete, and update requests sent to the Google permissions API endpoints.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_permission_service_impl.h"
 
 #include "base/memory/scoped_refptr.h"

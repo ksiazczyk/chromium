@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake actor login SIWG controller implementation
+// summary: Implements a fake Sign-in with Google controller that simulates federated login results and button-click outcomes in unit tests.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/test/fake_actor_login_siwg_controller.h"
 
 #include <utility>

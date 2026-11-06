@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for CipherEncryptWithKey
+// summary: libFuzzer harness that reads a key from the fuzz input, validates it with ECCommutativeCipher, and calls CipherEncryptWithKey.
+// ---
+
 #include <optional>
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoredCredential and PasswordForm converters
+// summary: Converts StoredCredential objects to PasswordForm and back, copying or moving all credential fields.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_form_converters.h"
 
 #include <utility>

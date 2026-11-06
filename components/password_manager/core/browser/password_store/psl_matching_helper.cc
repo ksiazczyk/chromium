@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSL matching helper implementation
+// summary: Implements public suffix and federated credential matching for password forms, including match result classification and Google domain exceptions.
+// ---
+
 #include "components/password_manager/core/browser/password_store/psl_matching_helper.h"
 
 #include <memory>

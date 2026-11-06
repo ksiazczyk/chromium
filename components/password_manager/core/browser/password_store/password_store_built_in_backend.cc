@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreBuiltInBackend implementation
+// summary: Implements the built-in password store backend that delegates credential storage to LoginDatabase and observes sync state.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_built_in_backend.h"
 
 #include "base/functional/bind.h"

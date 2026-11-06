@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device encryption state tracker implementation
+// summary: Implements the base state tracker that stores the on-device encryption state and notifies registered observers on changes and shutdown.
+// ---
+
 #include "components/password_manager/core/browser/ode/on_device_encryption_state_tracker.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey on-device encryption state tracker class
+// summary: Declares a state tracker subclass that observes SyncService and PasskeyModel to monitor the on-device encryption state for passkeys.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_PASSKEY_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_PASSKEY_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for proto-based FormData generation
+// summary: Declares GenerateWithProto, which builds a FormData object from a parsed form protobuf message for the proto fuzzer.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_PARSING_FUZZER_FORM_DATA_PROTO_PRODUCER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_PARSING_FUZZER_FORM_DATA_PROTO_PRODUCER_H_
 

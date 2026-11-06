@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated permission implementation
+// summary: Implements FederatedPermission, matching federated credentials against the chosen account ID and requesting origin.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/federated_permission.h"
 
 namespace actor_login {

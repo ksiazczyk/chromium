@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for password generator
+// summary: GTest unit tests verifying that generated passwords meet requirements for length and character class constraints.
+// ---
+
 #include "components/password_manager/core/browser/generation/password_generator.h"
 
 #include <algorithm>

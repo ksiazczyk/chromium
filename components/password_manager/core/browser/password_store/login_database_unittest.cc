@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginDatabase unit tests
+// summary: Unit tests covering LoginDatabase password storage, encryption, sync metadata, and credential retrieval behaviour across platforms.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include <stddef.h>

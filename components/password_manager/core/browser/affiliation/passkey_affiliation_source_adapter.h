@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyAffiliationSourceAdapter header
+// summary: Declares PasskeyAffiliationSourceAdapter, an AffiliationSource that observes the PasskeyModel to provide passkey facets for affiliation updates.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_AFFILIATION_PASSKEY_AFFILIATION_SOURCE_ADAPTER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_AFFILIATION_PASSKEY_AFFILIATION_SOURCE_ADAPTER_H_
 

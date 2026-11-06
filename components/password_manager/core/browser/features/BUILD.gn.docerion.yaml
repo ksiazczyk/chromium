@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for password manager features
+summary: GN build file defining the password_features, utils, and unit_tests source sets with their dependencies for the password manager features directory.

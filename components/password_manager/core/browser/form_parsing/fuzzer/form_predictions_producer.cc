@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generation of fuzzed server field predictions
+// summary: Generates fuzzed FormPredictions from FuzzedDataProvider, including password-related field types and predictions for non-existing fields.
+// ---
+
 #include "components/password_manager/core/browser/form_parsing/fuzzer/form_predictions_producer.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

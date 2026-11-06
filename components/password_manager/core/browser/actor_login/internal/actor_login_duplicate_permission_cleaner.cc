@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Login duplicate permission cleaner implementation
+// summary: Implements removal of redundant Actor Login permissions from saved password and federated credentials after a new permission is granted.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_duplicate_permission_cleaner.h"
 
 #include <utility>

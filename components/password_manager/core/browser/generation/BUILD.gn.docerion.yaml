@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for password generation
+summary: Defines GN build targets for the password generation component, including core sources, the spec fetcher set, unit tests and a proto fuzzer.

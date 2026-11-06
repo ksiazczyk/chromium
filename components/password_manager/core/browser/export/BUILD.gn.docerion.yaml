@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password export build configuration
+summary: GN build file defining the export source set and its unit tests together with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake actor login delegate client header
+// summary: Declares a test double of ActorLoginDelegateClient with accessors to inspect delegate state and trigger test events in unit tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_TEST_FAKE_ACTOR_LOGIN_DELEGATE_CLIENT_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_TEST_FAKE_ACTOR_LOGIN_DELEGATE_CLIENT_H_
 

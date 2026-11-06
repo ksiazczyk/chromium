@@ -1,0 +1,4 @@
+# Docerion header of many_lines.csv.
+type: test
+title: Many lines CSV corpus
+summary: Test corpus CSV consisting of many empty comma rows to exercise the password CSV reader on large inputs.

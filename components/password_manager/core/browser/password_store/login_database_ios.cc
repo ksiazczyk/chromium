@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS login database encryption
+// summary: iOS-specific LoginDatabase implementation that encrypts and decrypts passwords via the iOS Keychain, storing a UUID identifier alongside each saved password.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include <CoreFoundation/CoreFoundation.h>

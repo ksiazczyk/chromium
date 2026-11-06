@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk leak check service implementation
+// summary: Implements the BulkLeakCheckService, including a MetricsReporter that records UMA histograms about bulk check duration, checked credentials and leaks found.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/bulk_leak_check_service.h"
 
 #include "base/logging.h"

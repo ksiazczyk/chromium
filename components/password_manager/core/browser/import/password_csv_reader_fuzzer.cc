@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSV password reader fuzzer
+// summary: Fuzzer harness that feeds arbitrary input to CSVPasswordSequence and checks parsing statuses and memory safety of parsed credentials.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleLookupResponse class implementation
+// summary: Implements constructors, assignment operators and destructor for the SingleLookupResponse struct used in password leak detection.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/single_lookup_response.h"
 
 namespace password_manager {

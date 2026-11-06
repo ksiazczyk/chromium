@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password store utility unit tests
+// summary: Unit tests for JoinPasswordStoreChanges and actionable error helpers, covering change joining, error propagation, and store error reporting.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_util.h"
 
 #include "base/test/gmock_expected_support.h"

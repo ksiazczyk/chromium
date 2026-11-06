@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV field parser implementation
+// summary: Implements the CSVFieldParser state machine that splits a CSV row into individual fields, handling quoted blocks and syntax errors.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_field_parser.h"
 
 #include <string_view>

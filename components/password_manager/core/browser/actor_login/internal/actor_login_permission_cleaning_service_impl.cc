@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission cleaning service implementation
+// summary: Implements the permission cleaning service by creating and tracking one-off duplicate permission cleaners for each clearing request.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_permission_cleaning_service_impl.h"
 
 #include <utility>

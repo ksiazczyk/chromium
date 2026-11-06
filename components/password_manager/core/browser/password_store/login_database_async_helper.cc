@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login database async helper implementation
+// summary: Implements LoginDatabaseAsyncHelper, which runs LoginDatabase operations on a background sequence, initializes the password sync bridge and reports metrics.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database_async_helper.h"
 
 #include <memory>

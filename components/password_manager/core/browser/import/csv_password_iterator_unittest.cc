@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CSV password iterator
+// summary: Tests iterator copy, assignment, equality and increment behavior plus skipping of empty rows and end-of-input handling.
+// ---
+
 #include "components/password_manager/core/browser/import/csv_password_iterator.h"
 
 #include <string>

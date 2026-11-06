@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automated password change credential filler header
+// summary: Declares the ActorLoginCredentialFiller subclass used only by automated password change flows to fill a stored credential.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_AUTOMATED_PASSWORD_CHANGE_CREDENTIAL_FILLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_AUTOMATED_PASSWORD_CHANGE_CREDENTIAL_FILLER_H_
 

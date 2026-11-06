@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login credential filler implementation
+// summary: Implements filling a saved credential into a matching sign-in form, including affiliation checks, device reauthentication and save-password progress logging.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_credential_filler.h"
 
 #include <algorithm>

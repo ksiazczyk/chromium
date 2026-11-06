@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDatabase encryption for POSIX and ChromeOS
+// summary: Implements LoginDatabase encryption and decryption for POSIX platforms, including ChromeOS handling of legacy plain-text and obfuscated passwords with UMA logging.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include <string>

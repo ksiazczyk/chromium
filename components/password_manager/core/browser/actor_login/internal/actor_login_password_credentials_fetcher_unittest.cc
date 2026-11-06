@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor login password credentials fetcher unit tests
+// summary: Unit tests for the actor login password credentials fetcher, covering credential retrieval, form finding and quality logging behavior.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_password_credentials_fetcher.h"
 
 #include <memory>

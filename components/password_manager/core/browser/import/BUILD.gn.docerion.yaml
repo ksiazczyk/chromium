@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the password import module
+summary: GN build file defining source sets for the password importer, CSV parsing, unit tests and a CSV reader fuzzer.

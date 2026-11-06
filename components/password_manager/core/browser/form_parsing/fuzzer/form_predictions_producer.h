@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for fuzzed form predictions generation
+// summary: Declares GenerateFormPredictions, which produces fuzzed server predictions for given form data using FuzzedDataProvider.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_PARSING_FUZZER_FORM_PREDICTIONS_PRODUCER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_FORM_PARSING_FUZZER_FORM_PREDICTIONS_PRODUCER_H_
 

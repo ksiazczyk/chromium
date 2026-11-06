@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logins retrieval with affiliations handler implementation
+// summary: Implements fetching logins for a form digest, marking exact and PSL matches and injecting affiliation and branding information.
+// ---
+
 #include "components/password_manager/core/browser/password_store/get_logins_with_affiliations_request_handler.h"
 
 #include <vector>

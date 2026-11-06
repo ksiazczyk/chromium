@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PSL matching helper unit tests
+// summary: Tests exact, public suffix, and federated matching of password forms and credentials across varied origins, schemes, and ports.
+// ---
+
 #include "components/password_manager/core/browser/password_store/psl_matching_helper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login password credentials fetcher implementation
+// summary: Implements fetching of password credentials for actor login, converting stored password forms into credentials and logging quality details.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_password_credentials_fetcher.h"
 
 #include <algorithm>

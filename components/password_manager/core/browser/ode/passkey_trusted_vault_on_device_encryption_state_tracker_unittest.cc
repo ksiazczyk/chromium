@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey trusted vault on-device encryption state tracker unit tests
+// summary: Parameterized unit tests verifying state derivation for the trusted vault passkey tracker across account, sync type, and key availability conditions.
+// ---
+
 #include "components/password_manager/core/browser/ode/passkey_trusted_vault_on_device_encryption_state_tracker.h"
 
 #include <cstdint>

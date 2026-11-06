@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordStoreBackendMetricsRecorder unit tests
+// summary: Unit tests verifying that the metrics recorder emits correct request status, latency, success and error histograms.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_backend_metrics_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

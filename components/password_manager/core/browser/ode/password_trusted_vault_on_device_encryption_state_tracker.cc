@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Trusted Vault on-device encryption state tracker implementation
+// summary: Implements the password on-device encryption state tracker, deriving the state from sync sign-in, password sync selection, passphrase type and Trusted Vault key availability.
+// ---
+
 #include "components/password_manager/core/browser/ode/password_trusted_vault_on_device_encryption_state_tracker.h"
 
 #include "components/sync/base/data_type.h"

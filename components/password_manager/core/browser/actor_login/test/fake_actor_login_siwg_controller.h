@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake actor login SIWG controller header
+// summary: Declares a fake Sign-in with Google controller used to simulate the federated login flow in actor login unit tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_TEST_FAKE_ACTOR_LOGIN_SIWG_CONTROLLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_TEST_FAKE_ACTOR_LOGIN_SIWG_CONTROLLER_H_
 

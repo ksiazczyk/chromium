@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportEntry and ImportResults declarations
+// summary: Declares data structures and status enums describing the outcome of password imports and per-credential entry errors.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_IMPORT_RESULTS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_IMPORT_RESULTS_H_
 

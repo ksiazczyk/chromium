@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encryption utilities unit tests
+// summary: Tests username canonicalization, hashing, bucketization, scrypt hashing and encrypt-decrypt round trips against expected values shared with the server-side implementation.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/encryption_utils.h"
 
 #include <vector>

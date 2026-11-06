@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android password sync data type controller delegate
+// summary: Implements the sync data type controller delegate for passwords on Android, skipping the built-in sync engine and relying on GMS Core instead.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_data_type_controller_delegate_android.h"
 
 #include "base/notreached.h"

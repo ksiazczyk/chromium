@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated permission struct header
+// summary: Declares the FederatedPermission struct representing permission to use a federated FedCM credential, with IdP, requester and account details.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_FEDERATED_PERMISSION_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ACTOR_LOGIN_FEDERATED_PERMISSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the ODE directory
+summary: Lists the owners responsible for reviewing changes to the on-device encryption directory.

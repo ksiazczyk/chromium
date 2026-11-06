@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginQualityLogger implementation
+// summary: Implements the actor login quality logger, filling model quality log entries with domain, language, credentials, login attempt, and permission details for upload.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/actor_login_quality_logger.h"
 
 #include <memory>

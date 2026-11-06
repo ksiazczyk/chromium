@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactions stats struct
+// summary: Defines the InteractionsStats struct holding per-site user interaction statistics such as origin domain, username, bubble dismissal count and update time.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_INTERACTIONS_STATS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_INTERACTIONS_STATS_H_
 

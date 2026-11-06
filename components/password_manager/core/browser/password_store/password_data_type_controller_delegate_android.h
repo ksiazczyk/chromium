@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android password sync data type controller delegate header
+// summary: Declares PasswordDataTypeControllerDelegateAndroid, which disables the built-in password sync machinery in favor of Android GMS functionality.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_PASSWORD_DATA_TYPE_CONTROLLER_DELEGATE_ANDROID_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_PASSWORD_DATA_TYPE_CONTROLLER_DELEGATE_ANDROID_H_
 

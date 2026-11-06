@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change from checkup actor login service implementation
+// summary: Implements the ActorLoginService for the automated password change flow, locating eligible login forms and filling the stored credential.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/password_change_from_checkup_actor_login_service.h"
 
 #include <utility>

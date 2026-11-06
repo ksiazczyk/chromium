@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDatabase encryption for Windows
+// summary: Implements LoginDatabase encryption and decryption on Windows, with special handling of empty ciphertext so test database entries stay platform-independent.
+// ---
+
 #include "components/password_manager/core/browser/password_store/login_database.h"
 
 #include <string>

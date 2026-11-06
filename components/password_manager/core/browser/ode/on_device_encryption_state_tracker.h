@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device encryption state tracker base class and state enum
+// summary: Defines the OnDeviceEncryptionState enum and the base state tracker class that monitors on-device encryption state per data type and notifies observers.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_ODE_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 

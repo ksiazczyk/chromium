@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor Login get credentials helper unit tests
+// summary: Unit tests covering credential merging, empty results, and error handling of the get credentials helper with fake fetchers.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/internal/actor_login_get_credentials_helper.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for actor_login
+summary: Lists allowed include dependencies for the actor_login directory, covering affiliations, password store, translate, optimization guide and actor mojom.

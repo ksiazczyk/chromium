@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for CipherEncrypt
+// summary: libFuzzer harness that calls CipherEncrypt on arbitrary input payloads to test the leak detection encryption code.
+// ---
+
 
 #include <stddef.h>
 #include <stdint.h>

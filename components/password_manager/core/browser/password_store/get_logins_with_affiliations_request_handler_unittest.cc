@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the affiliations request handler
+// summary: Unit tests verifying login retrieval with exact, PSL, extended PSL and affiliated matches using a fake backend and mock affiliation service.
+// ---
+
 #include "components/password_manager/core/browser/password_store/get_logins_with_affiliations_request_handler.h"
 
 #include <string_view>

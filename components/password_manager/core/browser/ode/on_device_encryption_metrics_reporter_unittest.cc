@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device encryption metrics reporter unit tests
+// summary: Unit tests verifying that the on-device encryption metrics reporter records initial and transition histogram samples for passkey and password states after a delay.
+// ---
+
 #include "components/password_manager/core/browser/ode/on_device_encryption_metrics_reporter.h"
 
 #include <memory>

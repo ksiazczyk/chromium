@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for password_store
+summary: Defines GN source sets and dependencies for the password store, including platform-specific login database sources and a test support library.

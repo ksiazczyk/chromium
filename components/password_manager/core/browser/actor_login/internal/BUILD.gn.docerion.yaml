@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for actor login internal sources and unit tests
+summary: Defines GN source sets for the actor login delegate, permission service and permission cleaner, plus unit test targets with their visibility and dependencies.

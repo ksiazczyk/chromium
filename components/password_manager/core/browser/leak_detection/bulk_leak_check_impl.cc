@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk leak check implementation
+// summary: Implements the bulk check pipeline that prepares encrypted payloads, fetches access tokens, sends network requests and decrypts responses for each credential.
+// ---
+
 #include "components/password_manager/core/browser/leak_detection/bulk_leak_check_impl.h"
 
 #include <algorithm>

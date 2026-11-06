@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android backend error types
+// summary: Defines the AndroidBackendErrorType enum and AndroidBackendError struct describing errors returned by the Android password store backend via GMS Core.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_ANDROID_BACKEND_ERROR_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_PASSWORD_STORE_ANDROID_BACKEND_ERROR_H_
 

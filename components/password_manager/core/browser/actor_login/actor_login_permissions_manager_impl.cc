@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the actor login permissions manager
+// summary: Implements merging of password and federated permissions, observer notifications, permission revocation and deferred handling before password store initialization.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/actor_login_permissions_manager_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for password field predictions
+// summary: Verifies ConvertToFormPredictions mapping of server predictions, including additional types, CVC, IBAN and credit card overrides.
+// ---
+
 #include "components/password_manager/core/browser/form_parsing/password_field_prediction.h"
 
 #include <array>

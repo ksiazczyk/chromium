@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password form converters unit tests
+// summary: Unit tests verifying conversion between fully populated StoredCredential and PasswordForm objects.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_form_converters.h"
 
 #include "base/strings/utf_string_conversions.h"

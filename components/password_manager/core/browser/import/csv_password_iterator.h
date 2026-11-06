@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSV password iterator declaration
+// summary: Declares CSVPasswordIterator, a forward iterator yielding a CSVPassword per CSV row, and the ConsumeCSVLine line-splitting utility.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_CSV_PASSWORD_ITERATOR_H_
 #define COMPONENTS_PASSWORD_MANAGER_CORE_BROWSER_IMPORT_CSV_PASSWORD_ITERATOR_H_
 

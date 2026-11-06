@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreChange implementation
+// summary: Implements the PasswordStoreChange class that describes a single add, update or remove change to a stored credential, including equality checks.
+// ---
+
 #include "components/password_manager/core/browser/password_store/password_store_change.h"
 
 #include "components/password_manager/core/browser/password_store/password_form_converters.h"

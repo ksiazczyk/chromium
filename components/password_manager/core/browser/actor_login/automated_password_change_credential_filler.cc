@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automated password change credential filler implementation
+// summary: Implements the credential filler for automated password change flows, returning a fixed stored credential and skipping reauthentication before filling.
+// ---
+
 #include "components/password_manager/core/browser/actor_login/automated_password_change_credential_filler.h"
 
 #include <utility>
