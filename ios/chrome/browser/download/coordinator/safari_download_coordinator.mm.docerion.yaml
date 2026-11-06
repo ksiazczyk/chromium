@@ -1,0 +1,4 @@
+# Docerion header of safari_download_coordinator.mm.
+type: source
+title: Safari download coordinator implementation
+summary: Implements the coordinator that presents SFSafariViewController for calendar, mobileconfig and Apple Wallet order downloads, showing warning alerts and logging UMA metrics.

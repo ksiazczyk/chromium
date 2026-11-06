@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_tab_helper.mm.
+type: source
+title: PassKitTabHelper implementation
+summary: Implements PassKitTabHelper download handling, mapping HTTP and MIME type outcomes to UMA results and presenting downloaded passes via the web content handler.

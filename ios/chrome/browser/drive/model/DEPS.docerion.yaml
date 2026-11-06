@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Drive model include rules
+summary: Restricts which headers the Drive model directory may include through DEPS include_rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDriveFileDownloader declaration
+// summary: Declares a test double for DriveFileDownloader that simulates Drive file downloads with controllable completion and quit closures.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_FILE_DOWNLOADER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_FILE_DOWNLOADER_H_
 

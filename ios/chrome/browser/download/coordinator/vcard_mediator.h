@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: vCard mediator header
+// summary: Declares VcardMediator, which monitors the active WebState and instructs VcardCoordinator to dismiss presented vCard UI on navigation or tab switches.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_VCARD_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_VCARD_MEDIATOR_H_
 

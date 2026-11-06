@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_histograms.mm.
+type: source
+title: Auto-deletion histogram name definitions
+summary: Defines the UMA histogram name constants for auto-deletion service actions and file removal failures.

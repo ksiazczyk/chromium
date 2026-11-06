@@ -1,0 +1,4 @@
+# Docerion header of download_list_coordinator.mm.
+type: source
+title: Download list coordinator
+summary: Implements the download list UI coordinator, wiring the mediator, table view controller, file preview, and share actions to download record commands.

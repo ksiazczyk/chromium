@@ -1,0 +1,4 @@
+# Docerion header of upload_task_observer.mm.
+type: source
+title: Upload task observer implementation
+summary: Implements the UploadTaskObserver base class, whose destructor checks removal from observer lists and whose OnUploadUpdated hook is a no-op default.

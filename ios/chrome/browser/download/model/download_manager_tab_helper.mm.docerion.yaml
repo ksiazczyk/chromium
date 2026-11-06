@@ -1,0 +1,4 @@
+# Docerion header of download_manager_tab_helper.mm.
+type: source
+title: DownloadManagerTabHelper implementation
+summary: Implements the download manager tab helper, handling download task creation, policy decisions, cleanup, and integration with Drive and content scanning.

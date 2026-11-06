@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafariDownloadTabHelper header
+// summary: Declares SafariDownloadTabHelper, which forwards mobileconfig, calendar, and Apple Wallet order download URLs to SFSafariViewController and defers alerts for hidden tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_SAFARI_DOWNLOAD_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_SAFARI_DOWNLOAD_TAB_HELPER_H_
 

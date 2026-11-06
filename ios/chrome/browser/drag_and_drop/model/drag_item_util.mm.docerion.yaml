@@ -1,0 +1,4 @@
+# Docerion header of drag_item_util.mm.
+type: source
+title: Drag item utility implementation
+summary: Implements creation of UIDragItems for tabs, URLs and tab groups, registering window activities and local objects for synchronous drops.

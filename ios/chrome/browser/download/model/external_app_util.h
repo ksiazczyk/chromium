@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External app utility header
+// summary: Declares helpers to detect installed Google Drive and Maps apps and to build a URL opening Chrome's download directory in the Files app.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_EXTERNAL_APP_UTIL_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_EXTERNAL_APP_UTIL_H_
 

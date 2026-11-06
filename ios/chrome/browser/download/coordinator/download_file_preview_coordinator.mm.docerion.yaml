@@ -1,0 +1,4 @@
+# Docerion header of download_file_preview_coordinator.mm.
+type: source
+title: Download file preview coordinator
+summary: Implements a coordinator that presents QuickLook previews of downloaded files and dismisses the preview controller on stop or user dismissal.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for download activity resources
+summary: GN build file that bundles the Assets.xcassets catalog, including download activity service images, as resources for the iOS download coordinator.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download list resources build definition
+summary: Declares the asset catalog sources bundled as resources for the iOS download list UI.

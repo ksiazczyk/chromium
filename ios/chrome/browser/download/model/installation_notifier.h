@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallationNotifier header
+// summary: Declares the InstallationNotifier singleton that registers observers for URL schemes and polls to notify them when an app that can open a scheme is installed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_INSTALLATION_NOTIFIER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_INSTALLATION_NOTIFIER_H_
 

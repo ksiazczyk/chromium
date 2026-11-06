@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUploadTaskObserver fake header
+// summary: Header declaring a testing UploadTaskObserver that records the most recently updated and destroyed upload tasks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_UPLOAD_TASK_OBSERVER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_UPLOAD_TASK_OBSERVER_H_
 

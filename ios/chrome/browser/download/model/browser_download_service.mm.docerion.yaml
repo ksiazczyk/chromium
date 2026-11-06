@@ -1,0 +1,4 @@
+# Docerion header of browser_download_service.mm.
+type: source
+title: Browser download service implementation
+summary: Implements download routing by MIME type, URL scheme and feature flags to specialized tab helpers or the standard manager.

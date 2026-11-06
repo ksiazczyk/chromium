@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-deletion histogram names and enums
+// summary: Declares UMA histogram names and enums for logging auto-deletion service actions and file removal failures.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_AUTO_DELETION_HISTOGRAMS_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_AUTO_DELETION_HISTOGRAMS_H_
 

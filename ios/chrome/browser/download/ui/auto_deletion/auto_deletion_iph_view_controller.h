@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-deletion IPH view controller header
+// summary: Declares the view controller that manages the Auto-deletion in-product help view with a mutator property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_AUTO_DELETION_AUTO_DELETION_IPH_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_AUTO_DELETION_AUTO_DELETION_IPH_VIEW_CONTROLLER_H_
 

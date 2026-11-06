@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_iph_view_controller.mm.
+type: source
+title: Auto-deletion IPH view controller implementation
+summary: Implements the in-product help screen as a confirmation alert with a trash icon that prompts users to enable auto-deletion.

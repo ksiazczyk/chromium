@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file downloader interface
+// summary: Declares the DriveFileDownloader interface for downloading Drive items with progress and completion callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_FILE_DOWNLOADER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_FILE_DOWNLOADER_H_
 

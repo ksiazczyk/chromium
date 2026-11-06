@@ -1,0 +1,4 @@
+# Docerion header of url_drag_drop_handler.mm.
+type: source
+title: View URL drag and drop handler implementation
+summary: Implements UIDragInteraction and UIDropInteraction delegate methods for single URL drags and drops, including previews and cancellation animation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveService interface
+// summary: Declares the keyed service providing access to the Drive API, with factories for uploader, downloader and list objects.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_SERVICE_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_SERVICE_H_
 

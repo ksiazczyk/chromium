@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download MIME type enum and conversion header
+// summary: Declares the DownloadMimeTypeResult enum backing the Download.IOSDownloadMimeType UMA histogram and the conversion function from MIME type strings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_MIMETYPE_UTIL_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_MIMETYPE_UTIL_H_
 

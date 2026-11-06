@@ -1,0 +1,4 @@
+# Docerion header of browser_download_service_factory_unittest.mm.
+type: test
+title: Browser download service factory unit tests
+summary: Verifies that the factory creates a BrowserDownloadService and sets it as the download controller delegate for a test profile.

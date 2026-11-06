@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive availability checks header
+// summary: Declares functions that determine whether the Save to Drive and Choose from Drive entry points can be presented.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_AVAILABILITY_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_AVAILABILITY_H_
 

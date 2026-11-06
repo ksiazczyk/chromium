@@ -1,0 +1,4 @@
+# Docerion header of download_list_table_view_controller.mm.
+type: source
+title: Download list table view controller implementation
+summary: Implements the download list table view controller with a diffable data source, search, filtering, periodic updates and an illustrated empty view.

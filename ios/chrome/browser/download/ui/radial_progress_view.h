@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radial progress view header
+// summary: Declares a view that draws progress as a clockwise circular arc with configurable line width and tint colors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_RADIAL_PROGRESS_VIEW_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_RADIAL_PROGRESS_VIEW_H_
 

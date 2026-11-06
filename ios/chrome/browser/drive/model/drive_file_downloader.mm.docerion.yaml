@@ -1,0 +1,4 @@
+# Docerion header of drive_file_downloader.mm.
+type: source
+title: Drive file downloader implementation
+summary: Implements the DriveFileDownloader constructor and destructor.

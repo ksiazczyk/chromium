@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadTaskObserver header
+// summary: Header defining the UploadTaskObserver interface for receiving upload update and destruction callbacks on the UI thread.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_UPLOAD_TASK_OBSERVER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_UPLOAD_TASK_OBSERVER_H_
 

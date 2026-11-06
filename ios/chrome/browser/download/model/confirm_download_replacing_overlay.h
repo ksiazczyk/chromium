@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm download replacing overlay request
+// summary: Declares the overlay request configuration for the dialog asking whether to replace an existing download, plus the related UMA action names.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_CONFIRM_DOWNLOAD_REPLACING_OVERLAY_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_CONFIRM_DOWNLOAD_REPLACING_OVERLAY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_mediator.mm.
+type: source
+title: AutoDeletionMediator implementation
+summary: Enables the download auto-deletion pref and refreshes the action sheet through the AutoDeletionCommands handler.

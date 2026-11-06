@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Download feature kill switch definitions
+summary: Defines the disabled-by-default kill switch features for Calendar, VCard, AR and PassKit download support.

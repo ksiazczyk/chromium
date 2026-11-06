@@ -1,0 +1,4 @@
+# Docerion header of vcard_mediator.mm.
+type: source
+title: vCard mediator implementation
+summary: Implements VcardMediator, observing WebStateList and WebState navigation events to dismiss vCard UI when the active tab navigates cross-document or changes.

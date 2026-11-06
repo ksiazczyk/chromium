@@ -1,0 +1,4 @@
+# Docerion header of safari_download_egtest.mm.
+type: test
+title: Safari download Earl Grey tests
+summary: Earl Grey tests verifying warning alerts and SFSafariViewController presentation when downloading mobileconfig, calendar, and Apple Wallet files.

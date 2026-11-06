@@ -1,0 +1,4 @@
+# Docerion header of download_record_database.mm.
+type: source
+title: DownloadRecordDatabase implementation
+summary: Implements the SQLite download records database, including schema creation and upgrade, keyset pagination, case-insensitive search, and error handling.

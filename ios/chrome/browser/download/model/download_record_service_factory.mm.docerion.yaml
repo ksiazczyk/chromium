@@ -1,0 +1,4 @@
+# Docerion header of download_record_service_factory.mm.
+type: source
+title: Download record service factory implementation
+summary: Builds a DownloadRecordServiceImpl per profile when the download list feature is enabled.

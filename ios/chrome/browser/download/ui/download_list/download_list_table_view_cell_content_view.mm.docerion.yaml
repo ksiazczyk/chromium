@@ -1,0 +1,4 @@
+# Docerion header of download_list_table_view_cell_content_view.mm.
+type: source
+title: Download list cell content view implementation
+summary: Implements the download list cell content view with layout constraints and configuration updates for the embedded progress view.

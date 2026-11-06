@@ -1,0 +1,4 @@
+# Docerion header of download_egtest_util.mm.
+type: test
+title: Download Earl Grey test utilities implementation
+summary: Implements download button matchers, test server responses for content disposition downloads, and helpers that wait for UI buttons.

@@ -1,0 +1,4 @@
+# Docerion header of download_manager_constants.mm.
+type: source
+title: Download manager UI constant definitions
+summary: Defines the accessibility identifier strings and the 0.2 second animation duration used by the download manager UI.

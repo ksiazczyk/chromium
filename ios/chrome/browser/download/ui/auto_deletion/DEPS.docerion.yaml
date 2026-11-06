@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Auto-deletion include rules
+summary: Declares allowed header includes for the directory, permitting the feature engagement tracker factory header.

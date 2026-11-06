@@ -1,0 +1,4 @@
+# Docerion header of table_view_url_drag_drop_handler.mm.
+type: source
+title: Table view URL drag and drop handler implementation
+summary: Implements UITableView drag and drop delegate methods that create URL drag items and deliver dropped URLs to the drop delegate.

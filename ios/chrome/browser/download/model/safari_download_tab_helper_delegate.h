@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari download tab helper delegate protocol
+// summary: Declares the delegate protocol for SafariDownloadTabHelper with methods to present download alerts for mobileconfig, calendar, and Apple Wallet order files.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_SAFARI_DOWNLOAD_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_SAFARI_DOWNLOAD_TAB_HELPER_DELEGATE_H_
 

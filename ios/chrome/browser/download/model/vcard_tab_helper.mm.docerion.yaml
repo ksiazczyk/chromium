@@ -1,0 +1,4 @@
+# Docerion header of vcard_tab_helper.mm.
+type: source
+title: Vcard tab helper implementation
+summary: Implements vCard download handling, deferring presentation while the tab is hidden and dropping pending vCards on cross-document navigation.

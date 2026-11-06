@@ -1,0 +1,4 @@
+# Docerion header of download_manager_mediator_unittest.mm.
+type: source
+title: Download manager mediator unit tests
+summary: Unit tests for DownloadManagerMediator using fake download tasks, consumers, and web states to verify download state and consumer updates.

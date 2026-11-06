@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenDownloadsFolderActivity header
+// summary: Declares a UIActivity subclass with a browser handler property used to trigger the showDownloadsFolder command.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_ACTIVITIES_OPEN_DOWNLOADS_FOLDER_ACTIVITY_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_ACTIVITIES_OPEN_DOWNLOADS_FOLDER_ACTIVITY_H_
 

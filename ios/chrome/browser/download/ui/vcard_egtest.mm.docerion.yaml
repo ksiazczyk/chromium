@@ -1,0 +1,4 @@
+# Docerion header of vcard_egtest.mm.
+type: test
+title: vCard download Earl Grey tests
+summary: Earl Grey tests verifying vCard download presentation, dismissal on navigation, and deferred presentation when opened in a background tab.

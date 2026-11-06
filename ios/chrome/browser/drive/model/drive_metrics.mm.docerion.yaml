@@ -1,0 +1,4 @@
+# Docerion header of drive_metrics.mm.
+type: source
+title: Drive metrics histogram definitions
+summary: Defines the Save to Drive histogram name constants declared in drive_metrics for iOS Chrome metrics reporting.

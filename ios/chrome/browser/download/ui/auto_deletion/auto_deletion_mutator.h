@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-deletion mutator protocol
+// summary: Protocol exposing an action to enable the auto-deletion feature on the user's device.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_AUTO_DELETION_AUTO_DELETION_MUTATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_AUTO_DELETION_AUTO_DELETION_MUTATOR_H_
 

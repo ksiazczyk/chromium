@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for download model
+summary: Specifies allowed include rules and per-file exceptions for dependencies in the download model directory.

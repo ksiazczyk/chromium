@@ -1,0 +1,4 @@
+# Docerion header of unopened_downloads_tracker.mm.
+type: source
+title: Unopened downloads tracker implementation
+summary: Implements tracking of unopened download tasks and records histograms for download results, backgrounding, and Google Drive availability.

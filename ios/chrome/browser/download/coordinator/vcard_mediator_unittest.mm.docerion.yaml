@@ -1,0 +1,4 @@
+# Docerion header of vcard_mediator_unittest.mm.
+type: test
+title: vCard mediator unit tests
+summary: Unit tests for VcardMediator verifying vCard dismissal on cross-document navigation, tab activation changes and WebState destruction using OCMock delegates.

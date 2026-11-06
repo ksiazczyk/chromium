@@ -1,0 +1,4 @@
+# Docerion header of drive_file_uploader.mm.
+type: source
+title: Drive file uploader implementation
+summary: Implements the DriveFileUploader constructor and destructor.

@@ -1,0 +1,4 @@
+# Docerion header of drive_availability.mm.
+type: source
+title: Drive availability checks implementation
+summary: Implements availability checks for Drive entry points, considering policy, incognito, sign-in, and service support while logging histograms.

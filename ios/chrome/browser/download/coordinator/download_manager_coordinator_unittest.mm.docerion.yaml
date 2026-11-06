@@ -1,0 +1,4 @@
+# Docerion header of download_manager_coordinator_unittest.mm.
+type: test
+title: Download manager coordinator unit tests
+summary: Unit tests for the download manager coordinator, exercising download UI behavior, metrics, and download task handling with fake tasks and web states.

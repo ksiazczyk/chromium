@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download manager coordinator header
+// summary: Declares DownloadManagerCoordinator, which presents download manager UI for a single download task with optional animation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_MANAGER_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_MANAGER_COORDINATOR_H_
 

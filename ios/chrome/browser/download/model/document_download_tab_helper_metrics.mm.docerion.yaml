@@ -1,0 +1,4 @@
+# Docerion header of document_download_tab_helper_metrics.mm.
+type: source
+title: Document download tab helper metrics
+summary: Defines histogram names for document downloads and maps web download task states to document download states.

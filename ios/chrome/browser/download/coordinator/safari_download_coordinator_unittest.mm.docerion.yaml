@@ -1,0 +1,4 @@
+# Docerion header of safari_download_coordinator_unittest.mm.
+type: test
+title: Safari download coordinator unit tests
+summary: Unit tests for SafariDownloadCoordinator verifying download flows for mobileconfig, calendar and Apple Wallet order files, including histogram logging behavior.

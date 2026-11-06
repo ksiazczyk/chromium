@@ -1,0 +1,4 @@
+# Docerion header of external_app_util.mm.
+type: source
+title: External app utility implementation
+summary: Implements Google Drive and Maps app installation checks via URL schemes and builds the shareddocuments URL for Chrome's download directory.

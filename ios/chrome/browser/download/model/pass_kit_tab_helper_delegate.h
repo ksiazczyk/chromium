@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassKitTabHelper delegate protocol
+// summary: Declares the PassKitTabHelperDelegate protocol used to present the Add pkpass dialog, with a nil pass when download or parsing failed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_PASS_KIT_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_PASS_KIT_TAB_HELPER_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of test_drive_file_downloader.mm.
+type: test
+title: TestDriveFileDownloader implementation
+summary: Implements the fake DriveFileDownloader that posts delayed successful download results and runs quit closures for tests.

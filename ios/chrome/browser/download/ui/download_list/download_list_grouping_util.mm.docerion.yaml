@@ -1,0 +1,4 @@
+# Docerion header of download_list_grouping_util.mm.
+type: source
+title: Download list grouping utility implementation
+summary: Sorts download items newest first and groups them into sections sharing the same local midnight date.

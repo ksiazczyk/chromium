@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveServiceConfiguration struct
+// summary: Declares the configuration struct holding SSO service, preferences, identity manager and account manager for DriveService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_SERVICE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_SERVICE_CONFIGURATION_H_
 

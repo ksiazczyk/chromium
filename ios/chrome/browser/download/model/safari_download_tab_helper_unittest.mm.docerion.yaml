@@ -1,0 +1,4 @@
+# Docerion header of safari_download_tab_helper_unittest.mm.
+type: test
+title: Safari download tab helper unit tests
+summary: Unit tests verifying that deferred calendar alerts are dropped on cross-document navigation and that download alerts are dismissed on navigation events.

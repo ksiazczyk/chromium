@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_mediator.mm.
+type: source
+title: AR Quick Look mediator implementation
+summary: Observes WebStateList and active WebState events to request USDZ preview dismissal on navigation, tab changes, or WebState destruction.

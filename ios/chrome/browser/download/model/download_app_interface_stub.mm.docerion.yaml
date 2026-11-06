@@ -1,0 +1,4 @@
+# Docerion header of download_app_interface_stub.mm.
+type: source
+title: Download app interface stub
+summary: Registers a stub of the download app interface in the app main queue for Earl Grey testing.

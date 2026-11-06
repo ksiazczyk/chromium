@@ -1,0 +1,4 @@
+# Docerion header of browser_download_service_factory.mm.
+type: source
+title: Browser download service factory implementation
+summary: Factory that builds a BrowserDownloadService per profile and wires it up as the web download controller delegate.

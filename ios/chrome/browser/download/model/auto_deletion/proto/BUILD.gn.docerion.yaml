@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for auto-deletion proto
+summary: GN build file defining a proto_library target that compiles scheduled_file.proto with C++ generation and no Python output.

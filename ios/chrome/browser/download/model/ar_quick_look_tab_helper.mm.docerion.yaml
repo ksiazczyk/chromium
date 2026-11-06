@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_tab_helper.mm.
+type: source
+title: AR Quick Look tab helper implementation
+summary: Implements USDZ download and AR Quick Look preview handling, including content scaling options and UMA metrics.

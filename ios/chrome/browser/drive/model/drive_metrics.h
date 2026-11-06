@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive metrics histogram names and enums
+// summary: Declares Save to Drive histogram name constants and related enums for upload, UI and sign-in metrics in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_METRICS_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_METRICS_H_
 

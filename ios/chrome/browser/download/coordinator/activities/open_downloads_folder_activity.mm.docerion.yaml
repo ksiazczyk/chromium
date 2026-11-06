@@ -1,0 +1,4 @@
+# Docerion header of open_downloads_folder_activity.mm.
+type: source
+title: OpenDownloadsFolderActivity implementation
+summary: Implements the UIActivity that opens the downloads folder, supplying its title, symbol image, and user metrics recording.

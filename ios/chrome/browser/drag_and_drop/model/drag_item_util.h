@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag item utility interfaces
+// summary: Declares TabInfo, URLInfo and TabGroupInfo wrappers plus functions that create drag items for tabs, URLs and tab groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRAG_AND_DROP_MODEL_DRAG_ITEM_UTIL_H_
 #define IOS_CHROME_BROWSER_DRAG_AND_DROP_MODEL_DRAG_ITEM_UTIL_H_
 

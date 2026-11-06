@@ -1,0 +1,4 @@
+# Docerion header of scheduler.mm.
+type: source
+title: Scheduler implementation for download auto-deletion
+summary: Implements Scheduler, persisting scheduled files in local state preferences and flagging downloads older than 30 days as ready for deletion.

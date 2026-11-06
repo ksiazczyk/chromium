@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDriveList fake header
+// summary: Header declaring the testing implementation of DriveList used to fake Drive file listings with configurable results and quit closures in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_LIST_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_LIST_H_
 

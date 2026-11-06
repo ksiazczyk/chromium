@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_service.mm.
+type: source
+title: AutoDeletionService implementation
+summary: Implements scheduling of enrolled downloads for auto-deletion and removing scheduled files from the device with failure metrics.

@@ -1,0 +1,4 @@
+# Docerion header of download_app_interface.mm.
+type: source
+title: Download app interface implementation
+summary: Implements downloads directory operations such as deleting, creating and counting files for the test app interface.

@@ -1,0 +1,4 @@
+# Docerion header of download_manager_coordinator.mm.
+type: source
+title: Download manager coordinator
+summary: Implements the download manager coordinator handling download task presentation, metrics, confirmation overlays, and commands such as save to Drive and opening the downloads folder.

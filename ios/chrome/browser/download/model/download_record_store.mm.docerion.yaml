@@ -1,0 +1,4 @@
+# Docerion header of download_record_store.mm.
+type: source
+title: DownloadRecordStore implementation
+summary: Implements the download record store's database operations, in-memory cache, pagination queries, name filtering, and incognito record handling.

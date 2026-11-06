@@ -1,0 +1,4 @@
+# Docerion header of download_list_mediator.mm.
+type: source
+title: Download list mediator
+summary: Implements the mediator that observes download record changes, applies filters and search, and pushes updates to the download list consumer.

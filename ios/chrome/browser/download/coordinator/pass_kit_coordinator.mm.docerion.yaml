@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_coordinator.mm.
+type: source
+title: PassKit coordinator implementation
+summary: Implements PassKitCoordinator to present PKAddPassesViewController for downloaded passes, show error infobars, and log presentation outcomes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file name normalization utility implementation
+// summary: Implements NormalizeFileName, which NFD-decomposes, strips combining marks, and case-folds file names for search matching.
+// ---
+
 #include "ios/chrome/browser/download/model/download_filename_util.h"
 
 #include "base/i18n/icubridge/icu_bridge.h"

@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_coordinator_unittest.mm.
+type: test
+title: AR Quick Look coordinator unit tests
+summary: Tests that the coordinator installs itself as ARQuickLookTabHelper delegate for web states and presents USDZ previews with correct histogram results.

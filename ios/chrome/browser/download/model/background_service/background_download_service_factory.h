@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background download service factory declaration
+// summary: Declares the profile-keyed service factory that associates BackgroundDownloadService instances with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_BACKGROUND_SERVICE_BACKGROUND_DOWNLOAD_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_BACKGROUND_SERVICE_BACKGROUND_DOWNLOAD_SERVICE_FACTORY_H_
 

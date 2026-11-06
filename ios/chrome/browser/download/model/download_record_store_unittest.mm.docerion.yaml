@@ -1,0 +1,4 @@
+# Docerion header of download_record_store_unittest.mm.
+type: test
+title: DownloadRecordStore unit tests
+summary: Unit tests exercising the download record store through SequenceBound, verifying SQLite I/O, legacy and pagination startup paths, and queries.

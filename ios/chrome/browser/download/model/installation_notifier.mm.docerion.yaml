@@ -1,0 +1,4 @@
+# Docerion header of installation_notifier.mm.
+type: source
+title: InstallationNotifier implementation
+summary: Implements InstallationNotifier, polling for installed apps with exponential backoff and notifying registered observers per URL scheme.

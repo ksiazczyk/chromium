@@ -1,0 +1,4 @@
+# Docerion header of download_list_table_view_cell_content_configuration.mm.
+type: source
+title: Download list cell content configuration implementation
+summary: Implements the download list cell content configuration, building title, subtitle, icon, progress and cancel settings from a download list item.

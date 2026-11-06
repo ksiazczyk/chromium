@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for drag and drop model
+summary: Declares the allowed dependency include rules for the drag and drop model directory.

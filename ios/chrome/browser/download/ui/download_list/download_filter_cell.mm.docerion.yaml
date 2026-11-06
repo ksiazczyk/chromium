@@ -1,0 +1,4 @@
+# Docerion header of download_filter_cell.mm.
+type: source
+title: Download filter cell implementation
+summary: Implements DownloadFilterCell layout, selection styling, localized filter text, and SF Symbol icons for each filter type.

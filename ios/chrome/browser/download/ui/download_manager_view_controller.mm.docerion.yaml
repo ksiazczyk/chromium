@@ -1,0 +1,4 @@
+# Docerion header of download_manager_view_controller.mm.
+type: source
+title: Download manager view controller implementation
+summary: Implements the download bottom bar UI with action buttons, progress display, destination icons and fullscreen handling.

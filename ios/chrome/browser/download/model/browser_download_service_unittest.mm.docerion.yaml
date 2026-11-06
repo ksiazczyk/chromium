@@ -1,0 +1,4 @@
+# Docerion header of browser_download_service_unittest.mm.
+type: test
+title: Browser download service unit tests
+summary: Tests BrowserDownloadService download handling across tab helpers, policies, and download task states using stub helpers and fake tasks.

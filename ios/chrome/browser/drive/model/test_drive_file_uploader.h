@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDriveFileUploader declaration
+// summary: Declares a configurable test double for DriveFileUploader that returns scripted folder, upload, and quota results and records method calls.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_FILE_UPLOADER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_FILE_UPLOADER_H_
 

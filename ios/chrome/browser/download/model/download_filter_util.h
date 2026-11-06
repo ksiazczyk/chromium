@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download filter type enum and matching declaration
+// summary: Defines the DownloadFilterType enum and declares the helper that checks whether a MIME type matches a filter category.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_FILTER_UTIL_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_FILTER_UTIL_H_
 
