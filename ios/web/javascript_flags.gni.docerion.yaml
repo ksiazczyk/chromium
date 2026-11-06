@@ -1,0 +1,4 @@
+# Docerion header of javascript_flags.gni.
+type: config
+title: JavaScript flags build argument
+summary: GN import declaring the ios_enable_javascript_flags build argument, disabled by default.

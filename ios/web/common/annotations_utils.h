@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text annotation utilities header
+// summary: Declares web namespace helpers for detecting email links and converting text matches into annotations that can be passed to JavaScript.
+// ---
+
 #ifndef IOS_WEB_COMMON_ANNOTATIONS_UTILS_H_
 #define IOS_WEB_COMMON_ANNOTATIONS_UTILS_H_
 

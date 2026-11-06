@@ -1,0 +1,4 @@
+# Docerion header of download_task_impl_unittest.mm.
+type: test
+title: DownloadTaskImpl unit tests
+summary: Unit tests covering DownloadTaskImpl default state, initialization, file naming, redirects and download completion behaviour.

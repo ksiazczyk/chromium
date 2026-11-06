@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find in Page Core Script
+// summary: TypeScript helpers for the iOS find-in-page feature that compute body dimensions and determine element visibility when highlighting matches.
+// ---
+
 import {CSS_CLASS_NAME_SELECT}
     from '//ios/web/find_in_page/resources/find_in_page_constants.js';
 

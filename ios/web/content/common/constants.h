@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of web content file path constants
+// summary: Declares kCookieFilename and kNetworkDataDirname and can only be included when the USE_BLINK build flag is enabled.
+// ---
+
 #ifndef IOS_WEB_CONTENT_COMMON_CONSTANTS_H_
 #define IOS_WEB_CONTENT_COMMON_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of content_web_frames_manager.mm.
+type: source
+title: ContentWebFramesManager implementation
+summary: Implements frame tracking and script message handling, registering a feature that reroutes window.webkit.messageHandlers calls to the js_injection message host.

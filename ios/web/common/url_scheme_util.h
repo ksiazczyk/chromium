@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme utility declarations
+// summary: Declares UrlHasWebScheme helpers for GURL and NSURL plus the marketplace-kit scheme constant used to detect web content URLs.
+// ---
+
 #ifndef IOS_WEB_COMMON_URL_SCHEME_UTIL_H_
 #define IOS_WEB_COMMON_URL_SCHEME_UTIL_H_
 

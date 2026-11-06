@@ -1,0 +1,4 @@
+# Docerion header of user_agent_unittest.mm.
+type: test
+title: User agent unit tests
+summary: Unit tests covering user agent type description conversions and desktop and mobile user agent string construction.

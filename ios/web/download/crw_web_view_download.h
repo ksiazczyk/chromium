@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWWebViewDownload header
+// summary: Declares the CRWWebViewDownload interface, download result enum, and histogram names for WKWebView-based downloads.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_CRW_WEB_VIEW_DOWNLOAD_H_
 #define IOS_WEB_DOWNLOAD_CRW_WEB_VIEW_DOWNLOAD_H_
 

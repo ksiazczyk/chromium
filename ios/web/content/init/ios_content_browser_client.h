@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the iOS content browser client
+// summary: Declares IOSContentBrowserClient, the content::ContentBrowserClient implementation for iOS web content.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_CONTENT_BROWSER_CLIENT_H_
 #define IOS_WEB_CONTENT_INIT_IOS_CONTENT_BROWSER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadResult class interface
+// summary: Declares the DownloadResult class that carries a download's error code and whether a failed download can be retried.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_DOWNLOAD_RESULT_H_
 #define IOS_WEB_DOWNLOAD_DOWNLOAD_RESULT_H_
 

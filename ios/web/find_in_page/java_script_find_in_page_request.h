@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptFindInPageRequest header
+// summary: Declares a class tracking the state of a JavaScript-based find request, including per-frame match counts, the selected match and pending frame responses.
+// ---
+
 #ifndef IOS_WEB_FIND_IN_PAGE_JAVA_SCRIPT_FIND_IN_PAGE_REQUEST_H_
 #define IOS_WEB_FIND_IN_PAGE_JAVA_SCRIPT_FIND_IN_PAGE_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkContextOwner implementation
+// summary: Implements the owner that creates a network::NetworkContext on the IO thread from a URLRequestContextGetter and tears it down when the context shuts down.
+// ---
+
 #include "ios/web/public/init/network_context_owner.h"
 
 #include <memory>

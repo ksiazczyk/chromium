@@ -1,0 +1,4 @@
+# Docerion header of extension_controller_impl_inttest.mm.
+type: test
+title: ExtensionControllerImpl integration tests
+summary: Integration tests verifying the GPC extension sets navigator.globalPrivacyControl and adds Sec-GPC headers in WebStates.

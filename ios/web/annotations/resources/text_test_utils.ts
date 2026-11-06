@@ -6,6 +6,12 @@
  * @fileoverview Javascript test harness.
  */
 
+// ---docerion
+// type: test
+// title: JavaScript test harness for annotation tests
+// summary: Shared test utilities offering a FakeTaskTimer, a TestSuite base class with lifecycle hooks, and assertion helpers like expectEq.
+// ---
+
 import type {TaskTimer} from '//ios/web/annotations/resources/text_tasks.js';
 
 // TODO(crbug.com/40936184): move to general ts utilities.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserURLRewriterImpl class header
+// summary: Declares the singleton BrowserURLRewriterImpl that stores and applies registered URL rewriters.
+// ---
+
 #ifndef IOS_WEB_BROWSER_URL_REWRITER_IMPL_H_
 #define IOS_WEB_BROWSER_URL_REWRITER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserContext class header
+// summary: Declares ContentBrowserContext, which wraps a web::BrowserState as a content::BrowserContext for Blink builds.
+// ---
+
 #ifndef IOS_WEB_CONTENT_CONTENT_BROWSER_CONTEXT_H_
 #define IOS_WEB_CONTENT_CONTENT_BROWSER_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the iOS web favicon component
+summary: GN build configuration defining the favicon source set, TypeScript compilation, JS optimization targets and the unit and integration test targets.

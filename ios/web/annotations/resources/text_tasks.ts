@@ -6,6 +6,12 @@
  * @fileoverview Tasks and Idle state related utilities.
  */
 
+// ---docerion
+// type: source
+// title: Idle task scheduling utilities for text annotations
+// summary: Provides TaskTimer interfaces and an IdleTaskTracker that schedules deferred tasks when the page is idle, postponing them on user activity.
+// ---
+
 // Interface for all real time operations. Can be mocked easily.
 export interface TaskTimer {
   clear(id: number): void;

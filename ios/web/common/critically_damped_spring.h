@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critically damped spring header
+// summary: Declares a function evaluating the unit step response of a critically damped spring calibrated to match UIKit spring animations.
+// ---
+
 #ifndef IOS_WEB_COMMON_CRITICALLY_DAMPED_SPRING_H_
 #define IOS_WEB_COMMON_CRITICALLY_DAMPED_SPRING_H_
 

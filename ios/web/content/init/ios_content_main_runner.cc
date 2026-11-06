@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the iOS content main runner
+// summary: Implements IOSContentMainRunner startup and shutdown using content::ContentMainRunner together with an IOSMainDelegate.
+// ---
+
 #import "ios/web/content/init/ios_content_main_runner.h"
 
 #import "base/types/fixed_array.h"

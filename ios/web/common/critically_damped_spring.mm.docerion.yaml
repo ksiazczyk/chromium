@@ -1,0 +1,4 @@
+# Docerion header of critically_damped_spring.mm.
+type: source
+title: Critically damped spring implementation
+summary: Implements the critically damped spring progress calculation using an empirically derived factor relating UIKit spring duration to angular frequency.

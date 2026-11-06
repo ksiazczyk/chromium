@@ -1,0 +1,4 @@
+# Docerion header of content_java_script_feature_manager.mm.
+type: source
+title: ContentJavaScriptFeatureManager implementation
+summary: Implements feature script injection gated by the kContentEnableInjectedFeatureScripts flag, including main-frame-only wrapping, dependent features, and script message routing.

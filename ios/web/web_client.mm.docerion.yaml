@@ -1,0 +1,4 @@
+# Docerion header of web_client.mm.
+type: source
+title: WebClient base implementation
+summary: Implements the WebClient interface defaults, global client registration, error page preparation, user agent selection, and feature toggles.

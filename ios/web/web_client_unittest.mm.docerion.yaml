@@ -1,0 +1,4 @@
+# Docerion header of web_client_unittest.mm.
+type: test
+title: WebClient unit tests
+summary: Unit test verifying that WebClient::PrepareErrorPage invokes its callback with the localized error description.

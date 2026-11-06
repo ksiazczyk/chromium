@@ -1,0 +1,4 @@
+# Docerion header of crc_web_view_proxy_impl.mm.
+type: source
+title: CRCWebViewProxyImpl implementation
+summary: Implements the web view proxy, managing scroll view insets, content offsets, and limited access to the underlying content view.

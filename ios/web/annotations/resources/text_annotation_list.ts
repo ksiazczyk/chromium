@@ -7,6 +7,12 @@
  * `TextViewportAnnotation`.
  */
 
+// ---docerion
+// type: source
+// title: Text annotation list
+// summary: Provides the TextAnnotationList class to iterate, sort, clip, and track successes and failures of viewport annotations.
+// ---
+
 // Matches an annotation returned by the browser side.
 export interface TextViewportAnnotation {
   //  Character index to start of annotation.

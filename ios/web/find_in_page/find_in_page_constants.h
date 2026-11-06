@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find in page JavaScript constants header
+// summary: Declares constants for the find in page JavaScript function names and the dictionary keys used in their responses.
+// ---
+
 #ifndef IOS_WEB_FIND_IN_PAGE_FIND_IN_PAGE_CONSTANTS_H_
 #define IOS_WEB_FIND_IN_PAGE_FIND_IN_PAGE_CONSTANTS_H_
 

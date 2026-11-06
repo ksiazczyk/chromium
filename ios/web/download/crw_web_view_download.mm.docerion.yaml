@@ -1,0 +1,4 @@
+# Docerion header of crw_web_view_download.mm.
+type: source
+title: CRWWebViewDownload implementation
+summary: Implements WKWebView downloads via WKDownloadDelegate, handling local file copies, cancellation, and result metrics.

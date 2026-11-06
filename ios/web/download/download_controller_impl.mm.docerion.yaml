@@ -1,0 +1,4 @@
+# Docerion header of download_controller_impl.mm.
+type: source
+title: DownloadControllerImpl implementation
+summary: Implements the download controller, creating native and web state download tasks and notifying the delegate.

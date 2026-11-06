@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL ref removal utility declarations
+// summary: 'Declares GURLByRemovingRefFromGURL, a helper that removes the # fragment from a URL.'
+// ---
+
 #ifndef IOS_WEB_COMMON_URL_UTIL_H_
 #define IOS_WEB_COMMON_URL_UTIL_H_
 

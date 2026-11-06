@@ -1,0 +1,4 @@
+# Docerion header of favicon_callbacks_inttest.mm.
+type: test
+title: Integration tests for favicon URL callbacks
+summary: Integration tests verifying that favicon candidates from shortcut icon, icon and apple-touch-icon links are reported through the WebStateObserver FaviconUrlUpdated callback.

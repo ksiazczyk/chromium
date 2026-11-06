@@ -1,0 +1,4 @@
+# Docerion header of favicon_util_unittest.mm.
+type: test
+title: Unit tests for ExtractFaviconURL
+summary: Unit tests for ExtractFaviconURL covering multiple favicons, missing or invalid rel attributes, sizes parsing and malformed entries.

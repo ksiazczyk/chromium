@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL ref removal utility implementation
+// summary: Implements GURLByRemovingRefFromGURL, which strips the fragment and everything after it from a GURL.
+// ---
+
 #include "ios/web/common/url_util.h"
 
 namespace web {

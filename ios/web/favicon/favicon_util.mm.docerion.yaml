@@ -1,0 +1,4 @@
+# Docerion header of favicon_util.mm.
+type: source
+title: Favicon URL extraction utility implementation
+summary: Parses favicon dictionaries, validates allowed favicon URLs per page type, parses sizes attributes and falls back to /favicon.ico at the site root.

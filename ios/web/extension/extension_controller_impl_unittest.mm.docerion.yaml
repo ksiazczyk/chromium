@@ -1,0 +1,4 @@
+# Docerion header of extension_controller_impl_unittest.mm.
+type: test
+title: ExtensionControllerImpl unit tests
+summary: Unit tests for initial controller state, loading and unloading built-in extensions, and the GPCWebExtension singleton.

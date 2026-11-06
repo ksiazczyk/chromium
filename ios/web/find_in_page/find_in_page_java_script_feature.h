@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPageJavaScriptFeature class header
+// summary: Declares the FindInPageJavaScriptFeature class that searches for, highlights and navigates text matches in web frames.
+// ---
+
 #ifndef IOS_WEB_FIND_IN_PAGE_FIND_IN_PAGE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_FIND_IN_PAGE_FIND_IN_PAGE_JAVA_SCRIPT_FEATURE_H_
 

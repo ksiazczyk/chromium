@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations text manager implementation interface
+// summary: Declares AnnotationsTextManagerImpl, a WebStateUserData that manages observers, supported types, and JS callbacks for text annotations.
+// ---
+
 #ifndef IOS_WEB_ANNOTATIONS_ANNOTATIONS_TEXT_MANAGER_IMPL_H_
 #define IOS_WEB_ANNOTATIONS_ANNOTATIONS_TEXT_MANAGER_IMPL_H_
 

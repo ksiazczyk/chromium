@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations constants
+// summary: Defines shared constants for the iOS text annotations code, including HTML tags to skip, tags not to decorate, and the delay before triggering annotation events.
+// ---
+
 // Tags that should not be visited.
 export const NON_TEXT_NODE_NAMES = new Set([
   'A',

@@ -1,0 +1,4 @@
+# Docerion header of web_main_runner_factory.mm.
+type: source
+title: WebMainRunner factory selecting Blink or default runner
+summary: Implements WebMainRunner::Create, which returns a Blink-based content runner or the default runner depending on the build configuration.

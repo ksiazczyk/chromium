@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_constants.mm.
+type: source
+title: Find in page JavaScript constants definitions
+summary: Defines the string values of the find in page JavaScript function names and response dictionary keys.

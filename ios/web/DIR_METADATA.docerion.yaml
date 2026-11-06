@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the ios/web directory to its Monorail component and public Buganizer component for issue routing.

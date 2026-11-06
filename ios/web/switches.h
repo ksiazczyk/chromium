@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web layer switch declarations
+// summary: Declares the command-line switch constants controlling script and JavaScriptFeature injection for the iOS web layer.
+// ---
+
 #ifndef IOS_WEB_SWITCHES_H_
 #define IOS_WEB_SWITCHES_H_
 

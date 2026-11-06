@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Referrer utility unit tests
+// summary: Tests referrer sanitization and the behavior of each referrer policy when computing navigation header values.
+// ---
+
 #include "ios/web/common/referrer_util.h"
 
 #include <array>

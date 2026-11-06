@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadControllerImpl header
+// summary: Declares DownloadControllerImpl, which creates and tracks download tasks per BrowserState and observes task destruction.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_DOWNLOAD_CONTROLLER_IMPL_H_
 #define IOS_WEB_DOWNLOAD_DOWNLOAD_CONTROLLER_IMPL_H_
 

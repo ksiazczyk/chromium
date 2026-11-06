@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_dom_observer.ts.
  */
 
+// ---docerion
+// type: test
+// title: Tests for the text DOM observer
+// summary: Test suite verifying that TextDomObserver observes and unobserves text nodes on DOM changes and reports corrupted annotation decorations.
+// ---
+
 import {replacementNodeDecorationId} from '//ios/web/annotations/resources/text_decoration.js';
 import type {CountedIntersectionObserver} from '//ios/web/annotations/resources/text_dom_observer.js';
 import {TextDomObserver} from '//ios/web/annotations/resources/text_dom_observer.js';

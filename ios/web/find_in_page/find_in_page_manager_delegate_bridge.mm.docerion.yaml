@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_manager_delegate_bridge.mm.
+type: source
+title: Find in page manager delegate bridge implementation
+summary: Bridges C++ FindInPageManager delegate callbacks for match highlighting, match selection and navigator dismissal to the Objective-C CRWFindInPageManagerDelegate protocol.

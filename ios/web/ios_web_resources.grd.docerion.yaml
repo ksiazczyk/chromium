@@ -1,0 +1,4 @@
+# Docerion header of ios_web_resources.grd.
+type: config
+title: iOS web grit resource list
+summary: Grit resource definition bundling Mojo JS bindings and WebUI mojom scripts into ios_web_resources.pak.

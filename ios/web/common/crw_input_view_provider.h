@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRWInputViewProvider protocol header
+// summary: Defines protocols for objects that supply custom input views and input accessory views mirroring UIResponder APIs.
+// ---
+
 #ifndef IOS_WEB_COMMON_CRW_INPUT_VIEW_PROVIDER_H_
 #define IOS_WEB_COMMON_CRW_INPUT_VIEW_PROVIDER_H_
 

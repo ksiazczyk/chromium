@@ -1,0 +1,4 @@
+# Docerion header of gpc_web_extension_unittest.mm.
+type: test
+title: GPC web extension unit tests
+summary: Verifies that the bundled GPC web extension loads, exposes its URL, and carries injected content and content modification rules.

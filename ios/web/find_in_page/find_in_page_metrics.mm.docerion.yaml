@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_metrics.mm.
+type: source
+title: Find in page metrics implementation
+summary: Records the IOS.FindInPage.SearchStarted, FindNext and FindPrevious user actions through base user metrics.

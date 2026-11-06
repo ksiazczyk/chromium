@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPCWebExtension singleton class declaration
+// summary: Declares the web::GPCWebExtension singleton that manages the bundled Global Privacy Control WKWebExtension instance on iOS.
+// ---
+
 #ifndef IOS_WEB_EXTENSION_GPC_WEB_EXTENSION_GPC_WEB_EXTENSION_H_
 #define IOS_WEB_EXTENSION_GPC_WEB_EXTENSION_GPC_WEB_EXTENSION_H_
 

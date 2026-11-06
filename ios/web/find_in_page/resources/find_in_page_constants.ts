@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find in Page Constants
+// summary: Exports shared constants for the find-in-page feature, including CSS class names, ignored node names, match limits, timeout value, and a regex escaper.
+// ---
+
 /**
  * Class name of CSS element that highlights matches with yellow.
  */

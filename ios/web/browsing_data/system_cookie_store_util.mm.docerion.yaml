@@ -1,0 +1,4 @@
+# Docerion header of system_cookie_store_util.mm.
+type: source
+title: System cookie store creation utility
+summary: Implements CreateSystemCookieStore, which builds a SystemCookieStore backed by WKHTTPCookieStore and keeps it in sync with the browser state's website data store.

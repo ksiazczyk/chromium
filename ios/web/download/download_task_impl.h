@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadTaskImpl shared base class header
+// summary: Declares the shared partial implementation of the DownloadTask interface that concrete iOS web download task subclasses build on.
+// ---
+
 #ifndef IOS_WEB_DOWNLOAD_DOWNLOAD_TASK_IMPL_H_
 #define IOS_WEB_DOWNLOAD_DOWNLOAD_TASK_IMPL_H_
 

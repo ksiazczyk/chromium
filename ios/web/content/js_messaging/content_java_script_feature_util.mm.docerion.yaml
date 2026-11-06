@@ -1,0 +1,4 @@
+# Docerion header of content_java_script_feature_util.mm.
+type: source
+title: Content JavaScript feature utility implementation
+summary: Returns the built-in JavaScript features for ios/web/content, including base, context menu, error page, find in page, WebUI messaging, and annotations features.

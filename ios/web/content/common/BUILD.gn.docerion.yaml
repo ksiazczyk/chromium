@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the non_code_constants static library
+summary: GN build file that defines the non_code_constants static library from constants.cc and constants.h with dependencies on base and blink buildflags.

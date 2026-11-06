@@ -1,0 +1,4 @@
+# Docerion header of ios_global_state.mm.
+type: source
+title: iOS global state creation and teardown helpers
+summary: Implements ios_global_state functions that create the at-exit manager, task executor, network change notifier, and thread pool for the iOS web layer.

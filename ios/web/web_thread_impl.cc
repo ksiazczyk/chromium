@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebThread implementation
+// summary: 'Implements WebThread internals: thread state tracking, task posting helpers, and the SingleThreadTaskRunner used by WebThread identifiers.'
+// ---
+
 #include "ios/web/web_thread_impl.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the iOS content client
+// summary: Declares IOSContentClient, the content::ContentClient implementation providing resources and origin trial policy for iOS.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_CONTENT_CLIENT_H_
 #define IOS_WEB_CONTENT_INIT_IOS_CONTENT_CLIENT_H_
 

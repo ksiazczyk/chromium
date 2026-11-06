@@ -1,0 +1,4 @@
+# Docerion header of uikit_ui_util.mm.
+type: source
+title: UIKit UI utility implementation
+summary: Implements key window lookup across connected scenes and interface orientation retrieval with iOS version checks.

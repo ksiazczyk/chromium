@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ios/web/extension targets
+summary: Defines GN source sets and dependencies for the extension controller, built-in web extension, and their unit and integration tests.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for ios/web
+# summary: Runs the shared iOS NotFatalUntil linter on changes at upload and commit time via the presubmit hook.
+# ---
+
 import sys
 
 def CheckChangeOnUpload(input_api, output_api):

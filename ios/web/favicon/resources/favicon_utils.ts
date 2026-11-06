@@ -7,6 +7,12 @@
  * details from the current document
  */
 
+// ---docerion
+// type: source
+// title: Favicon collection utilities
+// summary: Utility that collects favicon link elements from the document and sends them to the native side via the FaviconUrlsHandler WebKit message.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 declare interface FaviconData {

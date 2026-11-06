@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSubThread class declaration
+// summary: Declares WebSubThread, a base::Thread subclass that registers itself as a WebThread for a given UI or IO thread identifier.
+// ---
+
 #ifndef IOS_WEB_WEB_SUB_THREAD_H_
 #define IOS_WEB_WEB_SUB_THREAD_H_
 

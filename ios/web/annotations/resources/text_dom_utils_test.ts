@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_dom_utils.ts.
  */
 
+// ---docerion
+// type: test
+// title: Tests for the text DOM utilities
+// summary: Test suite covering leaf node navigation, node validity checks and meta tag based detection opt-outs in text_dom_utils.
+// ---
+
 import {hasNoIntentDetection, isValidNode, nextLeaf, noFormatDetectionTypes, previousLeaf} from '//ios/web/annotations/resources/text_dom_utils.js';
 import {expectEq, load, loadHead, TestSuite} from '//ios/web/annotations/resources/text_test_utils.js';
 

@@ -6,6 +6,12 @@
  * @fileoverview Handles one node decoration on the web page.
  */
 
+// ---docerion
+// type: source
+// title: Text decoration
+// summary: Implements TextDecoration to replace a text node with annotation elements and restore it, tagging nodes with symbol ids.
+// ---
+
 import type {HTMLElementWithSymbolIndex, NodeWithSymbolIndex, TextWithSymbolIndex} from '//ios/web/annotations/resources/text_dom_utils.js';
 
 // Tags for on an `Element` part of an applied `TextDecoration`.

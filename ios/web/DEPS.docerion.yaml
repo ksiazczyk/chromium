@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency include rules for ios/web
+summary: Lists the directories and headers that code in ios/web may include, with additional rules for tests.

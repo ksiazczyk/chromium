@@ -6,6 +6,12 @@
  * @fileoverview Entry point for all tests.
  */
 
+// ---docerion
+// type: test
+// title: Test entry point for text annotation suites
+// summary: Runs all text annotation test suites and exposes the aggregated results through a registered gCrWeb API function.
+// ---
+
 import {TestTextAnnotationList} from '//ios/web/annotations/resources/text_annotation_list_test.js';
 import {TestTextClick} from '//ios/web/annotations/resources/text_click_test.js';
 import {TestTextDecoration} from '//ios/web/annotations/resources/text_decoration_test.js';

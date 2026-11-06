@@ -7,6 +7,12 @@
  * the user's Universal Opt-Out preference.
  */
 
+// ---docerion
+// type: source
+// title: GPC JavaScript feature exposing navigator.globalPrivacyControl
+// summary: Injects a globalPrivacyControl getter returning true onto Navigator, WorkerNavigator, and navigator so pages see the user's universal opt-out preference.
+// ---
+
 // Define globalPrivacyControl on Navigator.prototype according to the
 // Global Privacy Control preference.
 if (typeof Navigator !== 'undefined' && Navigator.prototype) {

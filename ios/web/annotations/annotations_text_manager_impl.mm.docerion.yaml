@@ -1,0 +1,4 @@
+# Docerion header of annotations_text_manager_impl.mm.
+type: source
+title: Annotations text manager implementation
+summary: Implements the annotations text manager, starting text extraction on page load and forwarding JS callbacks to registered observers.

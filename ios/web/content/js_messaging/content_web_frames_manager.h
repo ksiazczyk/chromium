@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentWebFramesManager header
+// summary: Declares ContentWebFramesManager, a WebFramesManager and WebContentsObserver that tracks frame creation and deletion and maps content frame IDs to web frame IDs.
+// ---
+
 #ifndef IOS_WEB_CONTENT_JS_MESSAGING_CONTENT_WEB_FRAMES_MANAGER_H_
 #define IOS_WEB_CONTENT_JS_MESSAGING_CONTENT_WEB_FRAMES_MANAGER_H_
 

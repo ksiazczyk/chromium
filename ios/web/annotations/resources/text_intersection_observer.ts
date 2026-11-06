@@ -7,6 +7,12 @@
  * the annotations manager.
  */
 
+// ---docerion
+// type: source
+// title: Text intersection observer
+// summary: Monitors viewport intersection of elements to track visible text nodes and visits them for text extraction on behalf of the annotations manager.
+// ---
+
 import type {CountedIntersectionObserver} from '//ios/web/annotations/resources/text_dom_observer.js';
 import type {ElementWithSymbolIndex, HTMLElementWithSymbolIndex, NodeWithSymbolIndex} from '//ios/web/annotations/resources/text_dom_utils.js';
 import {isValidNode} from '//ios/web/annotations/resources/text_dom_utils.js';

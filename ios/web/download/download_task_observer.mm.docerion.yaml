@@ -1,0 +1,4 @@
+# Docerion header of download_task_observer.mm.
+type: source
+title: DownloadTaskObserver destructor safety check
+summary: Implements the DownloadTaskObserver destructor that verifies observers are removed from the download task observer list before destruction.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the iOS browser main parts adapter
+// summary: Declares IOSBrowserMainParts, a content::BrowserMainParts subclass that forwards browser lifecycle hooks to web::WebMainParts.
+// ---
+
 #ifndef IOS_WEB_CONTENT_INIT_IOS_BROWSER_MAIN_PARTS_H_
 #define IOS_WEB_CONTENT_INIT_IOS_BROWSER_MAIN_PARTS_H_
 

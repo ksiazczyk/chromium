@@ -1,0 +1,4 @@
+# Docerion header of crw_find_interaction.mm.
+type: source
+title: CRWFindInteraction implementation
+summary: Implements CRWFindInteraction as a wrapper around UIFindInteraction for presenting, dismissing and inspecting the find navigator.

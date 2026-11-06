@@ -1,0 +1,4 @@
+# Docerion header of web_view_creation_util.mm.
+type: source
+title: WKWebView creation utility implementation
+summary: Implements helpers that build WKWebView instances for a BrowserState, using the shared web view configuration provider and mobile user agent settings.

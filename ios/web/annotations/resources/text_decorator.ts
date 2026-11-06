@@ -6,6 +6,12 @@
  * @fileoverview Handles multiple decorations on the web page.
  */
 
+// ---docerion
+// type: source
+// title: Text decorator
+// summary: Coordinates decorating text nodes with annotations across chunks, handling overlaps, detached nodes, and DOM mutations.
+// ---
+
 import type {TextAnnotationList} from '//ios/web/annotations/resources/text_annotation_list.js';
 import {createChromeAnnotation, createSpace, originalNodeDecorationId, replacementNodeDecorationId, TextDecoration} from '//ios/web/annotations/resources/text_decoration.js';
 import type {NodeWithSymbolIndex, TextWithSymbolIndex} from '//ios/web/annotations/resources/text_dom_utils.js';

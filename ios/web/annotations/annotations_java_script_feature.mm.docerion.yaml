@@ -1,0 +1,4 @@
+# Docerion header of annotations_java_script_feature.mm.
+type: source
+title: Annotations JavaScript feature implementation
+summary: Implements the annotations JavaScript feature, injecting the text_main script and invoking annotations JS functions for extraction, decoration, and removal.

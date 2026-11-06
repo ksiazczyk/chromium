@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ios/web init source sets
+summary: Defines the init and global_state source sets with their sources, dependencies, and linked frameworks for the iOS web layer.

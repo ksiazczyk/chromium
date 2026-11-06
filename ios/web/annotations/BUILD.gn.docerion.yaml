@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for iOS web annotations
+summary: Defines GN targets for the annotations source set, TypeScript compilation of text annotation scripts, and integration test builds.

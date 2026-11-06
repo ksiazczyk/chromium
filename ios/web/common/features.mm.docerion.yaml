@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: iOS web feature flag definitions
+summary: Defines the feature flags declared in features.h with their default states and helper functions like IsCobaltEnabled.

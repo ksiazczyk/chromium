@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentJavaScriptFeatureManager header
+// summary: Declares ContentJavaScriptFeatureManager, which injects document start and end scripts for JavaScript features and routes script messages to their handling features.
+// ---
+
 #ifndef IOS_WEB_CONTENT_JS_MESSAGING_CONTENT_JAVA_SCRIPT_FEATURE_MANAGER_H_
 #define IOS_WEB_CONTENT_JS_MESSAGING_CONTENT_JAVA_SCRIPT_FEATURE_MANAGER_H_
 

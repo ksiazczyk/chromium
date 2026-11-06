@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentWebState header for the WebContents-based WebState
+// summary: Declares ContentWebState, the WebState implementation backed by content WebContents, including navigation, visibility, and session serialization APIs.
+// ---
+
 #ifndef IOS_WEB_CONTENT_WEB_STATE_CONTENT_WEB_STATE_H_
 #define IOS_WEB_CONTENT_WEB_STATE_CONTENT_WEB_STATE_H_
 

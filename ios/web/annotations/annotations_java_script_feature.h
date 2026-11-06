@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations JavaScript feature interface
+// summary: Declares the AnnotationsJavaScriptFeature class that handles JS communication for text extraction, decoration, and decoration removal.
+// ---
+
 #ifndef IOS_WEB_ANNOTATIONS_ANNOTATIONS_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_ANNOTATIONS_ANNOTATIONS_JAVA_SCRIPT_FEATURE_H_
 

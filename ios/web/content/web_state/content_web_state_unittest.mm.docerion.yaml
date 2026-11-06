@@ -1,0 +1,4 @@
+# Docerion header of content_web_state_unittest.mm.
+type: source
+title: ContentWebState unit tests
+summary: Tests ContentWebState visibility notifications, user agent override validation, and opener behavior using fake browser state and observers.

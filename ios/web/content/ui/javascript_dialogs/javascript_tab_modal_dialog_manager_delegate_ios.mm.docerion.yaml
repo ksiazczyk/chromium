@@ -1,0 +1,4 @@
+# Docerion header of javascript_tab_modal_dialog_manager_delegate_ios.mm.
+type: source
+title: JavaScript tab modal dialog manager delegate implementation for iOS
+summary: Implements the iOS tab modal dialog manager delegate, creating TabModalDialogViewIOS instances and answering queries about web contents visibility, app status, and modal UI support.

@@ -1,0 +1,4 @@
+# Docerion header of browser_state_utils.mm.
+type: source
+title: BrowserState utility helpers
+summary: Provides helpers to get the WKWebsiteDataStore for a BrowserState, delete data storage by identifier and toggle universal opt-out.

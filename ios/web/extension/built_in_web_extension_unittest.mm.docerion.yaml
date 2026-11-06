@@ -1,0 +1,4 @@
+# Docerion header of built_in_web_extension_unittest.mm.
+type: test
+title: BuiltInWebExtension unit tests
+summary: Unit tests covering successful loading, concurrent creation calls, caching, and failure handling of BuiltInWebExtension.

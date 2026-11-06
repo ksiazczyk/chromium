@@ -1,0 +1,4 @@
+# Docerion header of url_loader_inttest.mm.
+type: test
+title: URLLoader integration test
+summary: Integration test that fetches a URL through the browser state's loader factory via an embedded test server, including a CORS-exempt header case.

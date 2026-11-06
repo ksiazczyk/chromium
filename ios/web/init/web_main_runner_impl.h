@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMainRunnerImpl class header
+// summary: Declares the WebMainRunnerImpl class that implements the WebMainRunner interface with initialization, startup, and shutdown state.
+// ---
+
 #ifndef IOS_WEB_INIT_WEB_MAIN_RUNNER_IMPL_H_
 #define IOS_WEB_INIT_WEB_MAIN_RUNNER_IMPL_H_
 

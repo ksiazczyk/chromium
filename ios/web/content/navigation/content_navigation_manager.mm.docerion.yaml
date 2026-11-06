@@ -1,0 +1,4 @@
+# Docerion header of content_navigation_manager.mm.
+type: source
+title: ContentNavigationManager implementation
+summary: Implements ContentNavigationManager, translating web load params, referrer policies and headers into content NavigationController calls.

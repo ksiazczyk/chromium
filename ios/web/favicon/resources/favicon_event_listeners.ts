@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon hashchange event listener
+// summary: Listens for hashchange events and re-sends favicon URLs, since hash changes do not re-trigger script injection.
+// ---
+
 import {sendFaviconUrls} from '//ios/web/favicon/resources/favicon_utils.js';
 
 window.addEventListener('hashchange', () => {

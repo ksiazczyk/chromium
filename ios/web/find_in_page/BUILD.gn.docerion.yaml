@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Find in page BUILD.gn build targets
+summary: Defines the GN build targets for the find in page source set, its TypeScript scripts and its unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of content_browser_context.mm.
+type: source
+title: ContentBrowserContext implementation
+summary: Implements ContentBrowserContext, tying a content::BrowserContext to a web::BrowserState with mostly stub service delegates.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSContentRendererClient implementation
+// summary: Implements the iOS content renderer client, attaching JS communication to each render frame, running injected scripts at document start and end, and preparing simple error pages.
+// ---
+
 #import "ios/web/content/init/ios_content_renderer_client.h"
 
 #import "components/js_injection/renderer/js_communication.h"

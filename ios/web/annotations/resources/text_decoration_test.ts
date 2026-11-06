@@ -6,6 +6,12 @@
  * @fileoverview Tests for text_decoration.ts.
  */
 
+// ---docerion
+// type: test
+// title: Text decoration tests
+// summary: Tests applying and restoring decorations with single and multiple replacement nodes.
+// ---
+
 import {createChromeAnnotation, isDecorationNode, originalNodeDecorationId, replacementNodeDecorationId, TextDecoration} from '//ios/web/annotations/resources/text_decoration.js';
 import type {HTMLElementWithSymbolIndex, TextWithSymbolIndex} from '//ios/web/annotations/resources/text_dom_utils.js';
 import {expectEq, load, TestSuite} from '//ios/web/annotations/resources/text_test_utils.js';

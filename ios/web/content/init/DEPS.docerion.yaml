@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS web content init dependencies
+summary: Specifies the directories that code in the iOS web content init directory is allowed to include from.

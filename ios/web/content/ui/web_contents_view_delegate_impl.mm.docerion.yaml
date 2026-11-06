@@ -1,0 +1,4 @@
+# Docerion header of web_contents_view_delegate_impl.mm.
+type: source
+title: Web contents view delegate implementation
+summary: Implements the iOS WebContents view delegate, attaching the tab modal dialog manager and forwarding context menu display to ContentContextMenuController.

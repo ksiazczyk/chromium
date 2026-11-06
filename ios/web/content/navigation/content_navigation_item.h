@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentNavigationItem interface
+// summary: Declares ContentNavigationItem, a NavigationItem implementation wrapping a content::NavigationEntry with lazily populated referrer, headers, favicon and SSL state.
+// ---
+
 #ifndef IOS_WEB_CONTENT_NAVIGATION_CONTENT_NAVIGATION_ITEM_H_
 #define IOS_WEB_CONTENT_NAVIGATION_CONTENT_NAVIGATION_ITEM_H_
 

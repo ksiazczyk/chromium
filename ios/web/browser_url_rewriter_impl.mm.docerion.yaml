@@ -1,0 +1,4 @@
+# Docerion header of browser_url_rewriter_impl.mm.
+type: source
+title: BrowserURLRewriterImpl implementation
+summary: Implements URL rewriting for the iOS web layer, including stripping the view-source scheme from synced tabs.

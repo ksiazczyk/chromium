@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentWebState session storage builder header
+// summary: Declares helper functions to extract and serialize ContentWebState session storage with the content navigation controller.
+// ---
+
 #ifndef IOS_WEB_CONTENT_WEB_STATE_CONTENT_WEB_STATE_BUILDER_H_
 #define IOS_WEB_CONTENT_WEB_STATE_CONTENT_WEB_STATE_BUILDER_H_
 

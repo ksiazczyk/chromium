@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentThreadImpl implementation
+// summary: Implements WebThread static methods by mapping web thread IDs and task traits onto content::BrowserThread.
+// ---
+
 #include "ios/web/content/content_thread_impl.h"
 
 // DCHECK_CURRENTLY_ON will be redefined in the content/ browser_thread.h

@@ -1,0 +1,4 @@
+# Docerion header of download_native_task_bridge.mm.
+type: source
+title: DownloadNativeTaskBridge implementation
+summary: Implements the WKDownload delegate bridge, tracking download state, progress, cancellation, and resume data for native iOS downloads.

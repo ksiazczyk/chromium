@@ -1,0 +1,4 @@
+# Docerion header of crw_find_session.mm.
+type: source
+title: CRWFindSession implementation
+summary: Implements CRWFindSession as a wrapper around UIFindSession exposing result counts, highlighting and search invalidation.

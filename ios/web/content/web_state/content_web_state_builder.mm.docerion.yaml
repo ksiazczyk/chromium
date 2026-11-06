@@ -1,0 +1,4 @@
+# Docerion header of content_web_state_builder.mm.
+type: source
+title: ContentWebState session storage builder implementation
+summary: Converts between serialized session protos and content navigation entries for restoring and saving ContentWebState sessions.

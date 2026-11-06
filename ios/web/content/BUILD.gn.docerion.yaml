@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for ios/web/content
+summary: Defines source sets, dependencies, and unit test targets for the Blink-based ios/web/content implementation.

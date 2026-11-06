@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BuiltInWebExtension class header
+// summary: Declares BuiltInWebExtension, which asynchronously loads and caches a built-in WKWebExtension instance on iOS 18.4+.
+// ---
+
 #ifndef IOS_WEB_EXTENSION_BUILT_IN_WEB_EXTENSION_H_
 #define IOS_WEB_EXTENSION_BUILT_IN_WEB_EXTENSION_H_
 

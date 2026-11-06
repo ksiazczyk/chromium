@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript tab modal dialog manager delegate for iOS
+// summary: Declares JavaScriptTabModalDialogManagerDelegateIOS, the iOS implementation of the tab modal dialog manager delegate that creates JavaScript dialog views and reports dialog and visibility state.
+// ---
+
 #ifndef IOS_WEB_CONTENT_UI_JAVASCRIPT_DIALOGS_JAVASCRIPT_TAB_MODAL_DIALOG_MANAGER_DELEGATE_IOS_H_
 #define IOS_WEB_CONTENT_UI_JAVASCRIPT_DIALOGS_JAVASCRIPT_TAB_MODAL_DIALOG_MANAGER_DELEGATE_IOS_H_
 

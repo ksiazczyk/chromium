@@ -1,0 +1,4 @@
+# Docerion header of user_agent.mm.
+type: source
+title: User agent builder implementation
+summary: Builds Safari-compatible desktop and mobile user agent strings and maps UserAgentType values to and from description strings.
