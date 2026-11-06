@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BytesFormatting
+// summary: Java mirror of bytes_formatting.h that formats byte counts as human-readable speed strings via JNI.
+// ---
+
 package org.chromium.ui.base;
 
 import org.jni_zero.JNINamespace;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySwitches
+// summary: Defines command-line switches for display behavior such as forced device scale factor and automotive or XR UI scaling.
+// ---
+
 package org.chromium.ui.display;
 
 import org.chromium.build.annotations.NullMarked;

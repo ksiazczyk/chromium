@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawableFadeInAnimatorFactory for drawable fade-in
+// summary: Factory that builds a value animator fading a drawable's alpha in from 0 to 255.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.animation.Animator;

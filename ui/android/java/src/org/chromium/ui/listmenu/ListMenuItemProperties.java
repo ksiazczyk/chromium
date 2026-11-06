@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuItemProperties
+// summary: Property keys describing the state of list menu items, such as title, icons, group and menu item IDs and event listeners.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntegerValueTransition
+// summary: Android Transition that animates between two integer values and notifies a callback on each update, filtering out repeated values.
+// ---
+
 package org.chromium.ui.animation.transition;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DynamicResource interface for frame-changing resources
+// summary: Defines the contract for resources whose contents change per frame and report readiness via callbacks.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import org.chromium.base.Callback;

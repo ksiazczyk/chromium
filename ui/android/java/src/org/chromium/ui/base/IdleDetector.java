@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleDetector
+// summary: Broadcast receiver that gives C++ code access to Android idle detection, tracking screen lock state and elapsed idle time.
+// ---
+
 package org.chromium.ui.base;
 
 import android.app.KeyguardManager;

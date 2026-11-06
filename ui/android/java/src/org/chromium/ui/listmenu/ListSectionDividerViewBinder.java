@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListSectionDividerViewBinder
+// summary: Binds list section divider properties, applying left and right padding and the divider color to the divider view in the list menu.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

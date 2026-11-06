@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource.java
+// summary: Interface that all assets must implement to expose bitmaps, draw sizes and native resource pointers to the CC layer as UIResourceIds.
+// ---
+
 package org.chromium.ui.resources;
 
 import android.graphics.Bitmap;

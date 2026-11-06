@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuSubmenuItemProperties
+// summary: Defines the property keys controlling submenu-type items in context menus, including the submenu provider and expanded state.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.chromium.ui.listmenu.ListMenuItemProperties.CLICK_LISTENER;

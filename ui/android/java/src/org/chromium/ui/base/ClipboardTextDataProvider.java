@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardTextDataProvider
+// summary: Content provider that serves oversized clipboard text, HTML and Chromium web custom data payloads via a capability-token content URI with in-memory pipe streaming.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.chromium.ui.base.ClipboardImpl.CHROME_WEB_CUSTOM_DATA_MIME_TYPE;

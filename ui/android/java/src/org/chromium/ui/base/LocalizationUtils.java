@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalizationUtils
+// summary: Java locale utilities for the native library, providing RTL layout direction checks, strong character direction, native UI locale, and Android split language mapping.
+// ---
+
 package org.chromium.ui.base;
 
 import android.view.View;

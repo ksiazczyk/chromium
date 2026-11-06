@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueUtils
+// summary: Helper that reads a float dimension value from Android resources for API levels below 29.
+// ---
+
 package org.chromium.ui.util;
 
 import android.content.res.Resources;

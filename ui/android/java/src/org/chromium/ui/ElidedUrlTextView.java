@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElidedUrlTextView
+// summary: Custom TextView that truncates a URL while always keeping the origin visible and expands the full URL when clicked.
+// ---
+
 package org.chromium.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

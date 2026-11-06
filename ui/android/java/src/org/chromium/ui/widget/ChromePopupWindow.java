@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromePopupWindow
+// summary: PopupWindow subclass that allows custom layout configurations, such as overlapping the caption bar or window decorations in desktop mode via inset handling.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

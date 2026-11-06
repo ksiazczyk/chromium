@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DownloadableFontTextAppearanceSpan
+// summary: Robolectric unit tests verifying that DownloadableFontTextAppearanceSpan applies the downloadable typeface during measurement and skips invalid appearances.
+// ---
+
 package org.chromium.ui.text;
 
 import static org.mockito.Mockito.doReturn;

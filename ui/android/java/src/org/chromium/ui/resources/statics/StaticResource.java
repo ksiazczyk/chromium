@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticResource
+// summary: Represents a static Android resource as a Bitmap with optional NinePatchData, loading it by resource ID and creating the native resource for drawing.
+// ---
+
 package org.chromium.ui.resources.statics;
 
 import android.content.res.Resources;

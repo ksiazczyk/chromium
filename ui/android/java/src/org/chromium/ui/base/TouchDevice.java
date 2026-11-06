@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchDevice
+// summary: Queries input device capabilities such as maximum touch points and pointer and hover types on behalf of native C++ code.
+// ---
+
 package org.chromium.ui.base;
 
 import android.content.pm.PackageManager;

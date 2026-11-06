@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragAndDropDelegateImpl
+// summary: Implementation of the drag and drop delegate that builds clip data, wraps View.startDragAndDrop calls and records drag target histograms.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

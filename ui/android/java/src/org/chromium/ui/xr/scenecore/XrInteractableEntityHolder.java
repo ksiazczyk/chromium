@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrInteractableEntityHolder interface exposing interaction support
+// summary: Interface for XR entity holders that expose an associated XrInteractableComponent for interaction support.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

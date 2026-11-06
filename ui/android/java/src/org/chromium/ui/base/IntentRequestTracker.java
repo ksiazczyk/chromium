@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentRequestTracker
+// summary: Interface for a helper that tracks activity intent requests, dispatching results to callbacks and saving pending intent errors across pauses.
+// ---
+
 package org.chromium.ui.base;
 
 import android.app.Activity;

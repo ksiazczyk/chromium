@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RectProvider for observable screen-space rectangles
+// summary: Provides a Rect representing a position in screen space and notifies registered observers when the rect changes or becomes hidden.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Rect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslationAnimatorFactory for translation animations
+// summary: Factory that builds ValueAnimator-based animations easing a drawable or other non-view element from a maximum 2-D displacement back to its untranslated position.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.animation.Animator;

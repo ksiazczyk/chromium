@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiAndroidFeatureList
+// summary: Defines the mutable and cached feature flags and parameters used by UI Android features.
+// ---
+
 package org.chromium.ui.base;
 
 import org.chromium.base.MutableBooleanParamWithSafeDefault;

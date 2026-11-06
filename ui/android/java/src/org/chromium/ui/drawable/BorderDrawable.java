@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BorderDrawable
+// summary: Custom Android drawable that renders a rounded rectangular border with configurable width, color, corner radius and insets inside its bounds.
+// ---
+
 package org.chromium.ui.drawable;
 
 import android.graphics.Canvas;

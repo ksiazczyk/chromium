@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListModelChangeProcessor for binding list models to views
+// summary: Model change processor that forwards list model insert, remove and change events to a view binder for views other than RecyclerView.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Applies spans to HTML-like tagged strings
+// summary: Utility that applies spans to strings containing custom start and end tags, producing a SpannableString and rejecting missing, nested, duplicate or overlapping tags.
+// ---
+
 package org.chromium.ui.text;
 
 import android.text.SpannableString;

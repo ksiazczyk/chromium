@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextViewWithLeading
+// summary: An AppCompatTextView that supports the leading property, delegating the implementation to TextViewLeadingUtils for reuse with EditText.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

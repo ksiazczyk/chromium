@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewRectUpdater
+// summary: Default ViewRectUpdateStrategy that computes a view's window rect from its position and size, applying insets, margins, padding, and center-point options.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Rect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StateListDrawableBuilder
+// summary: Builder helper that simplifies creating StateListDrawable and AnimatedStateListDrawable in Java, adding states and transition animations with fallback on older APIs.
+// ---
+
 package org.chromium.ui.drawable;
 
 import android.content.Context;

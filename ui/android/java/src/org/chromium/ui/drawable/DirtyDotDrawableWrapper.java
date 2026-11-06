@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirtyDotDrawableWrapper
+// summary: Drawable wrapper that overlays an oval dirty-dot indicator in the top-right corner of a base drawable, keeping visibility and alpha in sync.
+// ---
+
 package org.chromium.ui.drawable;
 
 import android.graphics.Canvas;

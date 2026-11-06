@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeResourceWrapperProvider interface
+// summary: Interface for classes owning a ThemeResourceWrapper, allowing observers to attach and detach, with a helper to find a provider by walking the context chain.
+// ---
+
 package org.chromium.ui.theme;
 
 import android.content.Context;

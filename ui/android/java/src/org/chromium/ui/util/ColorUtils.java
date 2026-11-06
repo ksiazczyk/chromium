@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color manipulation and theme helpers
+// summary: Offers helpers for color work including night mode checks, HSL lightness, WCAG contrast, color overlaying and blending, and status bar darkening.
+// ---
+
 package org.chromium.ui.util;
 
 import android.content.Context;

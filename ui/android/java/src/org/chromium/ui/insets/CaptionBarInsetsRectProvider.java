@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionBarInsetsRectProvider
+// summary: Provides caption bar window insets on Android R+ and adjusts status and navigation bar insets when caption bar insets are consumed to avoid overlapping regions.
+// ---
+
 package org.chromium.ui.insets;
 
 import android.graphics.Rect;

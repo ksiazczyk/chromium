@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InsetsRectProvider
+// summary: Base class that reads and consumes a specific window insets type and computes the widest unoccluded rect within the insets region on Android R+.
+// ---
+
 package org.chromium.ui.insets;
 
 import android.graphics.Rect;

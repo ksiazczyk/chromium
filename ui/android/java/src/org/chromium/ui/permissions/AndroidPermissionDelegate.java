@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission delegate interface
+// summary: Defines the interface for interacting with the Android permissions system, covering permission checks, requests, and result handling.
+// ---
+
 package org.chromium.ui.permissions;
 
 import org.chromium.build.annotations.NullMarked;

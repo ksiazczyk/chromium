@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuItemViewBinder
+// summary: Binds ListMenuItem property models to Android views, handling titles, subtitles, icons, shortcuts and accessibility for context menu items.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.content.res.Resources;

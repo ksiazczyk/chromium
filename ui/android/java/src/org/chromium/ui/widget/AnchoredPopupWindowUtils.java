@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchoredPopupWindowUtils
+// summary: Static utility methods that compute ideal content size, maximum content dimensions, and popup x/y coordinates for AnchoredPopupWindow positioning calculations.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Rect;

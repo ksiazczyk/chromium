@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HandleViewResources.java
+// summary: Helper class for retrieving selection handle drawables and bitmaps from Android themed resources, with fallbacks when themed lookup fails.
+// ---
+
 package org.chromium.ui.resources;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared preference helpers for permission state
+// summary: Helper methods storing permission request info in shared preferences, such as denied permissions and notification request timestamps.
+// ---
+
 package org.chromium.ui.permissions;
 
 import android.Manifest;

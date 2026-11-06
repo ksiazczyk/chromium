@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StyleUtils
+// summary: Helpers for applying TextAppearance style attributes such as font family, text size and color to a TextPaint.
+// ---
+
 package org.chromium.ui.util;
 
 import android.content.Context;

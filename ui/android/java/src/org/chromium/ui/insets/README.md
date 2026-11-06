@@ -1,3 +1,11 @@
+---
+type: readme
+title: org.chromium.ui.insets package README
+summary: Documents the package's classes for managing and observing Android window insets, including consumer prioritization and guidance on reading insets.
+relations:
+  - documents /ui/android/java/src/org/chromium/ui/insets/InsetObserver.java
+---
+
 # org.chromium.ui.insets
 
 ##### Update Jun 9th, 2025

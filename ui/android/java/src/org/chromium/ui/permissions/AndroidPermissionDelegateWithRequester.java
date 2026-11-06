@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract permission delegate with request handling
+// summary: Abstract Android permission delegate implementing most permission request logic, leaving basic checking and requesting methods to subclasses.
+// ---
+
 package org.chromium.ui.permissions;
 
 import android.content.pm.PackageManager;

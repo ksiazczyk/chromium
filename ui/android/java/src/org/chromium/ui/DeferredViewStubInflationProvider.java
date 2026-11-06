@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredViewStubInflationProvider
+// summary: View provider that inflates a standard ViewStub and fulfills a promise with the inflated view for deferred access.
+// ---
+
 package org.chromium.ui;
 
 import android.view.View;

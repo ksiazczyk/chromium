@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationViewportInsetTracker
+// summary: Centralizes management of UI insets such as the keyboard and keyboard accessory over the application viewport.
+// ---
+
 package org.chromium.ui.base;
 
 import org.chromium.base.Callback;

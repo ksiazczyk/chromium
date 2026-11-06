@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchoredPopupWindow
+// summary: Android UI component that shows a PopupWindow positioned relative to an anchor rect from a RectProvider, with configurable vertical and horizontal orientation and layout observers.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.annotation.SuppressLint;

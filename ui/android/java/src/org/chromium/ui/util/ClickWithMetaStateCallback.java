@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback interface for clicks with meta state
+// summary: Defines a functional interface that delivers the meta key and mouse button state captured at the time of a click.
+// ---
+
 package org.chromium.ui.util;
 
 import org.chromium.build.annotations.NullMarked;

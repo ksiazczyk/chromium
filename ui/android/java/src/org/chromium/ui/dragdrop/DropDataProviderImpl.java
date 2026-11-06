@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropDataProviderImpl
+// summary: Core implementation of the drag-and-drop data provider that caches image bytes and answers content provider calls for drop targets.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

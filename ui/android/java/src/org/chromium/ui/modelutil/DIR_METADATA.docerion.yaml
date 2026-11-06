@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracking metadata for the modelutil directory
+summary: Defines the Monorail and Buganizer components used for issues in the ui modelutil directory.

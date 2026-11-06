@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogProperties
+// summary: Defines the PropertyModel keys, button types and styles, and the Controller interface for configuring and handling modal dialog behavior.
+// ---
+
 package org.chromium.ui.modaldialog;
 
 import android.graphics.Rect;

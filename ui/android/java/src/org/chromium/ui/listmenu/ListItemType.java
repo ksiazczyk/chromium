@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListItemType annotation
+// summary: IntDef annotation enumerating list menu item types such as divider, menu item, checkbox, radio button and submenu header.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownPopupWindowImpl implementation
+// summary: Implements the dropdown popup window using an AnchoredPopupWindow anchored to a view to display a list of options on modern Android.
+// ---
+
 package org.chromium.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

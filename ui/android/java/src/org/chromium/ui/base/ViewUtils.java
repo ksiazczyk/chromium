@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewUtils
+// summary: Provides helper methods for Android views such as focus handling, recursive invalidation, and system UI controls.
+// ---
+
 package org.chromium.ui.base;
 
 import static android.view.View.MeasureSpec.EXACTLY;

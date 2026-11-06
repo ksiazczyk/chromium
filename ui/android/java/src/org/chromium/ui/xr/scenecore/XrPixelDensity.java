@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPixelDensity interface for pixel density unit conversions
+// summary: Interface representing XR pixel density, converting lengths between pixels, density-independent pixels, and meters.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

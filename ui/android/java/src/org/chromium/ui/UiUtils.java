@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiUtils
+// summary: Utility class with static helpers for common Android UI tasks, including window metrics caching, inset handling, ligature disabling and input method interactions.
+// ---
+
 package org.chromium.ui;
 
 import static android.view.WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS;

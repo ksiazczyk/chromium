@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityResultTracker
+// summary: Interface for tracking activity results so pending results survive Activity destruction and recreation.
+// ---
+
 package org.chromium.ui.base;
 
 import android.content.Intent;

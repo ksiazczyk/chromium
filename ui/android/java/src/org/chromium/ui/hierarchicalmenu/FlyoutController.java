@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlyoutController
+// summary: Controller that shows and dismisses nested flyout submenus on hover and tracks the highlighted menu path for list-based hierarchical menus.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import android.graphics.Rect;

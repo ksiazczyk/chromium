@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowInsetsUtils
+// summary: Utility helpers for working with window insets and rects, including computing unoccluded regions and correcting bounding rects for expanded windows.
+// ---
+
 package org.chromium.ui.insets;
 
 import android.app.Activity;

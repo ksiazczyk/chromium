@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextViewWithClickableSpans click and focus handling
+// summary: A TextView that activates a single clickable span or shows a disambiguation popup when the view itself is clicked, with keyboard and accessibility support.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

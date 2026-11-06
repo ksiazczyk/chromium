@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragAndDropBrowserDelegate
+// summary: Interface for browser-related drag and drop functions such as drop support checks, permissions, URL intent creation and clip data building.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.content.ClipData;

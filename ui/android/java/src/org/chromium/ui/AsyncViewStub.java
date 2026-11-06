@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncViewStub
+// summary: ViewStub implementation that inflates its layout on a background thread while calling listeners on the UI thread, with documented thread-safety caveats.
+// ---
+
 package org.chromium.ui;
 
 import android.annotation.SuppressLint;

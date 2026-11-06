@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayUtil
+// summary: Helper functions for working with displays, including automotive and XR UI scaling and display compatibility checks.
+// ---
+
 package org.chromium.ui.display;
 
 import android.content.Context;

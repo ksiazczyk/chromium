@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleRecyclerViewAdapter for ModelList data
+// summary: RecyclerView adapter that binds a ModelList to views, registering view builders and binders per view type so list changes are immediately reflected in the UI.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

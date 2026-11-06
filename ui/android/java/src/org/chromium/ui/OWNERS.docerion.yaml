@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file assigning per-file review ownership of ModalDialogWrapper.java to a specific reviewer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiWidgetFactory
+// summary: Factory for creating UI widgets such as popup windows, alert dialogs, and toasts, allowing widget implementations to be swapped at runtime.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.annotation.SuppressLint;

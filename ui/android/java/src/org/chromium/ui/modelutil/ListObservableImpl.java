@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListObservableImpl base for list observable implementations
+// summary: Abstract helper base class managing observers and providing convenience methods to notify them of list changes.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.base.ObserverList;

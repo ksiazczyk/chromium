@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunOnNextLayout interface for deferred layout runnables
+// summary: Interface that lets custom views queue runnables to execute on the next layout pass, avoiding jank when animating newly added views.
+// ---
+
 package org.chromium.ui.animation;
 
 import org.chromium.build.annotations.NullMarked;

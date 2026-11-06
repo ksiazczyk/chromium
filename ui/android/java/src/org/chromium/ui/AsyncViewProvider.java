@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncViewProvider
+// summary: View provider that encapsulates a view inside a hierarchy being inflated by an AsyncViewStub, resolving it once inflation completes.
+// ---
+
 package org.chromium.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchData
+// summary: Helper class that decodes 9-patch chunk data from an Android Bitmap and exposes its padding and aperture stretch regions.
+// ---
+
 package org.chromium.ui.resources.statics;
 
 import android.graphics.Bitmap;

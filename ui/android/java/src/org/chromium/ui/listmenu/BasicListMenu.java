@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicListMenu list menu implementation
+// summary: Default ListMenu implementation that builds list menu items and dividers using standard menu and item layouts.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static android.view.View.GONE;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast
+// summary: Wrapper around Android Toast that disables hardware acceleration on low-end devices, supports VR, and integrates priority-based showing via ToastManager.
+// ---
+
 package org.chromium.ui.widget;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

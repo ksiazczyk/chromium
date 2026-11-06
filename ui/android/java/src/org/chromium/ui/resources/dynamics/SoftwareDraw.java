@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareDraw software bitmap capture mechanism
+// summary: Captures view contents synchronously into a cached bitmap using View.draw as the capture mechanism.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import android.graphics.Bitmap;

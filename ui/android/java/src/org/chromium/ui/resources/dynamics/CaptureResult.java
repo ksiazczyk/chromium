@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureResult container for screenshot results
+// summary: Holds a screenshot result as a Bitmap or HardwareBuffer for passing between Java and C++ components.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragEventDispatchHelper
+// summary: Helper that forwards drag events from a source view to a destination view with corrected coordinate offsets.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.util.SparseBooleanArray;

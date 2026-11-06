@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RippleBackgroundHelper for ripple backgrounds
+// summary: Creates and maintains background drawables with customizable background color, ripple color, corner radius, insets and border styles for views.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.res.ColorStateList;

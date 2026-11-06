@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSurfaceEntityShape annotation for XR surface shapes
+// summary: IntDef annotation enumerating XR surface entity shapes such as quad, sphere, hemisphere, custom, seamless sphere, and rounded quad, with helper utilities.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import androidx.annotation.IntDef;

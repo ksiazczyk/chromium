@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Motion event time and button helpers
+// summary: Provides helpers for MotionEvent including nanosecond event times via reflection on older Android versions and a constant for no pressed button.
+// ---
+
 package org.chromium.ui.util;
 
 import android.os.Build;

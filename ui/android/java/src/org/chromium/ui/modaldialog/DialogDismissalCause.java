@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogDismissalCause dismissal reason annotation
+// summary: IntDef annotation enumerating the possible causes for dismissing a modal dialog, such as button clicks, navigation, tab changes or destroyed contents.
+// ---
+
 package org.chromium.ui.modaldialog;
 
 import androidx.annotation.IntDef;

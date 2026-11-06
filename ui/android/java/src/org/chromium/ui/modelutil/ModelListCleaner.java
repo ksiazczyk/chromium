@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelListCleaner
+// summary: Utility that destroys Destroyable properties on each row and then clears all rows of a given ModelList.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.base.lifetime.Destroyable;

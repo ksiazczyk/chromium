@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropDataProviderUtils
+// summary: Helpers that wrap ContentResolver calls to cache drag-and-drop image data and clear the cache when dragging ends.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.chromium.ui.dragdrop.DropDataProviderImpl.CACHE_METHOD_NAME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyAnimationListener no-op animation listener interface
+// summary: Default interface with no-op animation callbacks so subclasses only implement the methods they need.
+// ---
+
 package org.chromium.ui.animation;
 
 import android.view.animation.Animation;

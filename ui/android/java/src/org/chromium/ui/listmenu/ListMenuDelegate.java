@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListMenuDelegate
+// summary: Delegate interface used to populate a list menu and supply its anchor rectangle and submenu contents.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.view.View;

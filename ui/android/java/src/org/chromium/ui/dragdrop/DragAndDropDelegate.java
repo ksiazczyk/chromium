@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragAndDropDelegate
+// summary: Interface that facilitates drag and drop operations by routing calls to startDragAndDrop and managing the browser delegate.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.content.Context;

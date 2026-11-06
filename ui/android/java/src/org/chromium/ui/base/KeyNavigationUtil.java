@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyNavigationUtil
+// summary: Static helper that classifies key events as directional, tab or RTL-aware navigation actions for DPAD, numpad and tab keys.
+// ---
+
 package org.chromium.ui.base;
 
 import android.view.KeyEvent;

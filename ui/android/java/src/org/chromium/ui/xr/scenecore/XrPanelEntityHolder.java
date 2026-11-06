@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPanelEntityHolder interface for XR panel entities
+// summary: Interface for XR panel entity holders managing pixel size and corner radius for panels displaying 2D content in XR scenes.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import android.util.Size;

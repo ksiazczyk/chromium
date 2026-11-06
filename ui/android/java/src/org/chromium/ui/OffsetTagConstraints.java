@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffsetTagConstraints
+// summary: Value object holding minimum and maximum X and Y offset constraints, serving as the Java counterpart to the native viz::OffsetTagConstraints.
+// ---
+
 package org.chromium.ui;
 
 import com.google.errorprone.annotations.DoNotMock;

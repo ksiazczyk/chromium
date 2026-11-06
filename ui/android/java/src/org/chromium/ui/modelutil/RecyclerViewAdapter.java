@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclerViewAdapter base class with delegate support
+// summary: Base RecyclerView adapter that delegates item count, view type and binding logic to composable Delegate implementations, supporting partial updates via payloads.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import android.view.ViewGroup;

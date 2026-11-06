@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyObservable
+// summary: Abstract base class for property-holding models that manages property observers and notifies them of property changes.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import org.chromium.base.ObserverList;

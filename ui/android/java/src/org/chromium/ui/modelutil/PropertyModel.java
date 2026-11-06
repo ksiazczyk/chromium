@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyModel
+// summary: Generic property model with typed read-only and writable property keys providing an extensible and efficient MVC model implementation.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

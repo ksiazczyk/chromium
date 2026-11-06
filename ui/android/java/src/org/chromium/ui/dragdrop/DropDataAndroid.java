@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropDataAndroid
+// summary: Java wrapper of the native DropData carrying text, URL, image content and custom data for drag and drop operations.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import android.text.TextUtils;

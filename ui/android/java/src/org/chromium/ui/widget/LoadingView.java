@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadingView with Material Design show and hide policy
+// summary: A ProgressBar subclass that implements the Material Design policy for showing and hiding loading UI, with delayed animations and observer notifications.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.animation.Animator;

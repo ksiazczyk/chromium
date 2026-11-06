@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrEntityHolder base interface for XR entity manipulation
+// summary: Base interface for XR entity holders providing pose, scale, alpha, visibility, parent-child hierarchy and disposal lifecycle management.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

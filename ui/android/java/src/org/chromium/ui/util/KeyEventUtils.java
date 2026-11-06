@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key event helper methods
+// summary: Contains helpers to check ctrl, shift, and alt meta states and to detect whether a key event came from an alphabetic keyboard, with test overrides.
+// ---
+
 package org.chromium.ui.util;
 
 import android.view.InputDevice;

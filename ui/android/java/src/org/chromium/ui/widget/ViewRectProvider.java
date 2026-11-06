@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewRectProvider
+// summary: RectProvider that tracks a view's bounds within its window and notifies observers on changes, with configurable insets, margins, padding, and center point.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Rect;

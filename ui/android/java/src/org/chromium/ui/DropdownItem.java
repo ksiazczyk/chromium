@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownItem
+// summary: Interface exposing the label, sublabel, icon, enabled state, and styling information needed to display a dropdown item.
+// ---
+
 package org.chromium.ui;
 
 import org.chromium.build.annotations.NullMarked;

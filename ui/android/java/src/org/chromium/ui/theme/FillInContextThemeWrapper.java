@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillInContextThemeWrapper
+// summary: Android ContextThemeWrapper subclass that fills in missing theme attributes from a provided theme without overriding attributes already present in the base context's theme.
+// ---
+
 package org.chromium.ui.theme;
 
 import android.content.Context;

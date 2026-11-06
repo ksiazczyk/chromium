@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InsetObserver
+// summary: Core class that stores and dispatches Android system window insets such as the keyboard, status bar, navigation bar, and display cutout to registered consumers and observers.
+// ---
+
 package org.chromium.ui.insets;
 
 import static androidx.core.view.WindowInsetsCompat.Type.displayCutout;

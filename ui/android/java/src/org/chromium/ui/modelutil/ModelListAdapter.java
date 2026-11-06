@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelListAdapter
+// summary: ListView adapter that registers view builders and binders per view type and keeps views in sync with changes in a ModelList of PropertyModels.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

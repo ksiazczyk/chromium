@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditTextWithLeading
+// summary: AppCompatEditText that supports a leading property, the distance between baselines of successive text lines, with logic shared through TextViewLeadingUtils.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.content.Context;

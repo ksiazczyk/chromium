@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManager.java
+// summary: Java component of the resource manager that registers static, dynamic and system resource loaders and passes loaded resources to the native CC layer.
+// ---
+
 package org.chromium.ui.resources;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

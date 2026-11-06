@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogWrapper
+// summary: JNI wrapper that lets native code create and configure modal dialogs through the Android ModalDialogManager, including titles, buttons, icons, and link callbacks.
+// ---
+
 package org.chromium.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

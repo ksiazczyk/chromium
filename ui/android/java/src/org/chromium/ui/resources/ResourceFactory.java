@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceFactory.java
+// summary: Utility class for creating native bitmap and nine-patch bitmap resources through JNI calls.
+// ---
+
 package org.chromium.ui.resources;
 
 import android.graphics.Rect;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapDynamicResource implementation for updatable bitmaps
+// summary: Implements DynamicResource to serve updatable bitmaps as resources and notify ready callbacks on request.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import android.graphics.Bitmap;

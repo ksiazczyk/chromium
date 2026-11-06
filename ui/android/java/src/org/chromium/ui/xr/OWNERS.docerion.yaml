@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: XR UI OWNERS file
+summary: Redirects code ownership of the XR UI directory to the owners listed in the Chrome Android XR module's OWNERS file.

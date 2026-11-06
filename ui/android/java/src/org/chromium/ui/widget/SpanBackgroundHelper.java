@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpanBackgroundHelper for focused clickable spans
+// summary: Draws backgrounds behind focused ClickableSpans in spanned text, handling single-line and multi-line highlights in both LTR and RTL layouts.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.graphics.Canvas;

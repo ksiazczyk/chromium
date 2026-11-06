@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrCurvedSurfaceEntityHolder interface for curved XR surface entities
+// summary: Interface extending XrSurfaceEntityHolder with methods to set and get the radius of a curved XR surface entity in meters.
+// ---
+
 package org.chromium.ui.xr.scenecore;
 
 import org.chromium.build.annotations.NullMarked;

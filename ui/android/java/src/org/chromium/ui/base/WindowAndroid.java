@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAndroid
+// summary: Base window class providing minimal functionality including permissions, intents, display observation, and occlusion handling.
+// ---
+
 package org.chromium.ui.base;
 
 import static androidx.annotation.VisibleForTesting.PRIVATE;

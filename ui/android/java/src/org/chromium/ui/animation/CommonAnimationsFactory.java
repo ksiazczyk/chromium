@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommonAnimationsFactory for fade and arc animations
+// summary: Factory that builds common view animations, including alpha fade in and out and movement of a view along an arc path.
+// ---
+
 package org.chromium.ui.animation;
 
 import static android.view.View.GONE;

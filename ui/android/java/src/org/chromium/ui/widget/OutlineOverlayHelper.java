@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutlineOverlayHelper for view focus outlines
+// summary: Helper that attaches to a host view and draws a focus outline via a ViewOverlay, showing it when the view gains focus and hiding it otherwise.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.chromium.build.NullUtil.assertNonNull;

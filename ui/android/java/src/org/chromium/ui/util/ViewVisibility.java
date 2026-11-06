@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewVisibility
+// summary: IntDef annotation restricting annotated integers to Android View visibility values like visible, invisible and gone.
+// ---
+
 package org.chromium.ui.util;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAndroidDelegate
+// summary: Acquires, positions, and removes anchor views on the implementing View and handles container view updates and drag-and-drop.
+// ---
+
 package org.chromium.ui.base;
 
 import android.app.jank.AppJankStats;
