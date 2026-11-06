@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandInputDelegate implementation
+// summary: Implements WaylandInputDelegate, managing observer registration and broadcasting input timestamps to observers before destruction.
+// ---
+
 #include "components/exo/wayland/wayland_input_delegate.h"
 
 namespace exo {

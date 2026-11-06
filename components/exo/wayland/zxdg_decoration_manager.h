@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland xdg decoration manager header
+// summary: Declares the bind function that exposes the zxdg_decoration_manager_v1 Wayland global to clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZXDG_DECORATION_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_ZXDG_DECORATION_MANAGER_H_
 

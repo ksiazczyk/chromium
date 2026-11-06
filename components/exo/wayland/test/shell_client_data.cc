@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell client data implementation for Wayland tests
+// summary: Implements ShellClientData, including xdg toplevel and remote surface callbacks plus pointer, touch, and data device event handling for Wayland tests.
+// ---
+
 #include "components/exo/wayland/test/shell_client_data.h"
 
 #include <memory>

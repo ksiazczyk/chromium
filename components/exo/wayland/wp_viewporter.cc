@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland viewporter protocol implementation
+// summary: Implements the wp_viewporter Wayland protocol, applying source crop and destination scaling to Exo surfaces.
+// ---
+
 #include "components/exo/wayland/wp_viewporter.h"
 
 #include <viewporter-server-protocol.h>

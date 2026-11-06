@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: zaura shell protocol declarations
+// summary: Declares the AuraSurface class and bind_aura_shell function that expose Aura windowing features to Wayland clients on ChromeOS.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZAURA_SHELL_H_
 #define COMPONENTS_EXO_WAYLAND_ZAURA_SHELL_H_
 

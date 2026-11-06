@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YUV buffer demo client
+// summary: Demo client that fills GBM buffer planes with solid YUV colors converted from RGB and presents them on a Wayland surface with scale and transform applied.
+// ---
+
 #include <drm_fourcc.h>
 #include <fcntl.h>
 #include <gbm.h>

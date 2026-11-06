@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zcr_ui_controls.h: UiControls class for the ui-controls protocol'
+// summary: Declares the UiControls class, which tracks button, mouse, and pending request state for the ui-controls test protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_UI_CONTROLS_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_UI_CONTROLS_H_
 

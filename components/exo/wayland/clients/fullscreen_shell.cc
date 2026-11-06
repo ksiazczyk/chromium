@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen shell test client implementation
+// summary: Implements FullscreenClient, which animates a moving square on a fullscreen surface via the fullscreen shell protocol with touch support.
+// ---
+
 #include "components/exo/wayland/clients/fullscreen_shell.h"
 
 #include "base/command_line.h"

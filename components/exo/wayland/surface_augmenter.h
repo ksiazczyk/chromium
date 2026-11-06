@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface augmenter protocol header
+// summary: Declares the surface-augmenter protocol version and the bind function for the Wayland surface augmenter interface.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_SURFACE_AUGMENTER_H_
 #define COMPONENTS_EXO_WAYLAND_SURFACE_AUGMENTER_H_
 

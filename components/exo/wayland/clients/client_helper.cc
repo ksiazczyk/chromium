@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client helper implementation
+// summary: Defines default deleters for Wayland and Exo protocol object types so they can be managed with std::unique_ptr.
+// ---
+
 #include "components/exo/wayland/clients/client_helper.h"
 
 #include <content-type-v1-client-protocol.h>

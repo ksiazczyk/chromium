@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland cursor shapes protocol implementation
+// summary: Implements the zcr cursor shapes Wayland protocol, mapping Wayland cursor shape enums to Chrome cursor types and applying them to pointers.
+// ---
+
 #include "components/exo/wayland/zcr_cursor_shapes.h"
 
 #include <cursor-shapes-unstable-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple Wayland client implementation
+// summary: Implements the Simple Wayland demo client that draws frames and measures presentation latency via wp_presentation feedback, with optional vsync timing logging and single-pixel buffer support.
+// ---
+
 
 #include "components/exo/wayland/clients/simple.h"
 

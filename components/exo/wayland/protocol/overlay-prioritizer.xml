@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: reference
+title: Overlay prioritizer Wayland protocol
+summary: Wayland protocol specification letting clients attach overlay prioritization hints, such as low latency canvas, to their surfaces.
+-->
+
 <protocol name="overlay_prioritizer">
 
   <copyright>

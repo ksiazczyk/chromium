@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland Linux DMA-BUF protocol header
+// summary: Declares the bind function that registers the Linux DMA-BUF protocol with Wayland clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZWP_LINUX_DMABUF_H_
 #define COMPONENTS_EXO_WAYLAND_ZWP_LINUX_DMABUF_H_
 

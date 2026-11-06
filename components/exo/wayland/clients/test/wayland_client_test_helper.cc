@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper implementation for Wayland client tests
+// summary: Sets up an Ash test environment and an in-process Exo Wayland server on the UI thread, or skips setup when an external server is used.
+// ---
+
 #include "components/exo/wayland/clients/test/wayland_client_test_helper.h"
 
 #include <stdlib.h>

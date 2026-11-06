@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the external intents component
+summary: Lists the Chromium developers responsible for reviewing changes to the external intents component.

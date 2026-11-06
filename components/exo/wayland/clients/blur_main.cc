@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blur client entry point
+// summary: Entry point that parses the sigma-x, sigma-y and max-sigma command line switches and runs the Blur Wayland client.
+// ---
+
 #include "components/exo/wayland/clients/blur.h"
 
 #include <limits>

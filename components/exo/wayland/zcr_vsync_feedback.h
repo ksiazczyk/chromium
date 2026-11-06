@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zcr_vsync_feedback.h: vsync feedback protocol binding header'
+// summary: Declares bind_vsync_feedback, the entry point for binding the vsync-feedback Wayland protocol in the exo wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_VSYNC_FEEDBACK_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_VSYNC_FEEDBACK_H_
 

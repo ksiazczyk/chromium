@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subsurface demo client
+// summary: Demo client that exercises Exo subsurface behavior by animating a parent surface, a child surface, and the child's position across staged frame ranges.
+// ---
+
 #include <array>
 
 #include "base/at_exit.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zcr_vsync_feedback.cc: vsync-feedback protocol implementation'
+// summary: Implements the vsync-feedback-unstable-v1 Wayland protocol, observing the VSync timing manager and sending VSync timebase and interval updates to clients.
+// ---
+
 #include "components/exo/wayland/zcr_vsync_feedback.h"
 
 #include <vsync-feedback-unstable-v1-server-protocol.h>

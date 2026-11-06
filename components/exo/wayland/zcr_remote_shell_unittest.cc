@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zcr remote shell unit tests
+// summary: Unit tests for the work area inset calculation used by the zcr remote shell Wayland protocol across displays and fullscreen states.
+// ---
+
 #include "components/exo/wayland/zcr_remote_shell.h"
 
 #include "components/exo/test/exo_test_base.h"

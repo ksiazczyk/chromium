@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_compositor and wl_surface Wayland interface implementation
+// summary: Implements the wl_compositor and wl_surface Wayland interfaces, handling buffer attach, damage, opaque and input regions, and frame callbacks.
+// ---
+
 #include "components/exo/wayland/wl_compositor.h"
 
 #include <memory>

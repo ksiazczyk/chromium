@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for externalauth Android
+summary: GN build file defining the externalauth Android Java library and its Robolectric JUnit test target with their dependencies and sources.

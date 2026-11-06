@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalIntentsFeatures
+// summary: Java accessor exposing feature flags registered in native external_intents_features.cc, such as ExternalNavigationDebugLogs, via JNI.
+// ---
+
 package org.chromium.components.external_intents;
 
 import org.jni_zero.JNINamespace;

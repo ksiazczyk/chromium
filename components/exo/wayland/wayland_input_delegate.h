@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandInputDelegate class header
+// summary: Declares the WaylandInputDelegate base class with observer registration and timestamp notification shared by Wayland input delegates in Exo.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_INPUT_DELEGATE_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_INPUT_DELEGATE_H_
 

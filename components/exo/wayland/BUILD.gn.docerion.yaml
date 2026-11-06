@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the exo wayland server
+summary: Defines the GN source_set and dependencies for the exo wayland server, listing all Wayland protocol handler sources and test targets.

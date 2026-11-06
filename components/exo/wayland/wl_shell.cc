@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_shell surface interface implementation
+// summary: Implements the wl_shell and wl_shell_surface protocol interfaces for toplevel, transient, fullscreen, maximized, and popup shell surfaces.
+// ---
+
 #include "components/exo/wayland/wl_shell.h"
 
 #include <wayland-server-core.h>

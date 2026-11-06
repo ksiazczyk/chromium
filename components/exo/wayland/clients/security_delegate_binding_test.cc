@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security delegate binding test
+// summary: Server test verifying that shell, xdg and remote surfaces created by clients are bound to the server security delegate.
+// ---
+
 #include <remote-shell-unstable-v1-client-protocol.h>
 #include <remote-shell-unstable-v2-client-protocol.h>
 #include <wayland-client.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: zxdg output manager use-after-free security test
+// summary: Regression test that replays a hostile duplicate get_xdg_output request sequence to verify the server does not hit a use-after-free when a protocol error tears the client down.
+// ---
+
 #include <wayland-client-core.h>
 #include <wayland-client-protocol.h>
 #include <xdg-output-unstable-v1-client-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test suite server for Wayland client tests
+// summary: Implements a test suite that runs Wayland client tests on a client thread, optionally against an external Wayland server.
+// ---
+
 #include "components/exo/wayland/clients/test/wayland_client_test_server.h"
 #include "base/command_line.h"
 #include "base/debug/debugger.h"

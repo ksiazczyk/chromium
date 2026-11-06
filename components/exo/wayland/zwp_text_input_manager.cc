@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland text input manager implementation
+// summary: Implements the zwp_text_input_v1 and text-input extension Wayland server protocols, binding text input resources and forwarding IME state, keymaps, and events to Exo's TextInput.
+// ---
+
 #include "components/exo/wayland/zwp_text_input_manager.h"
 
 #include <sys/mman.h>

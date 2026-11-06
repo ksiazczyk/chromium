@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_subcompositor interface implementation
+// summary: Implements the wl_subcompositor and wl_subsurface protocol interfaces for creating, positioning, and stacking sub-surfaces.
+// ---
+
 #include "components/exo/wayland/wl_subcompositor.h"
 
 #include <wayland-server-protocol-core.h>

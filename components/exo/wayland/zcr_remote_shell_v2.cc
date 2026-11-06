@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zcr remote shell v2 protocol implementation
+// summary: Implements the zcr_remote_shell_v2 Wayland protocol, mapping remote surface and shell events and requests to Exo and Ash behavior.
+// ---
+
 #include <aura-shell-server-protocol.h>
 
 #include "ash/wm/desks/desks_util.h"

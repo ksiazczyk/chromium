@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote shell v1 and v2 event mapping tables
+// summary: Defines function-pointer structs that map remote shell v1 and v2 protocol events so shared implementation code can send either protocol version.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_EVENT_MAPPING_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_EVENT_MAPPING_H_
 

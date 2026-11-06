@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote shell v1 and v2 protocol implementation
+// summary: Implements the remote shell v1 and v2 Wayland protocols, managing shell surfaces, outputs, display metrics, and window state for clients.
+// ---
+
 #include "components/exo/wayland/zcr_remote_shell_impl.h"
 
 #include "ash/public/cpp/arc_resize_lock_type.h"

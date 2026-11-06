@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server utility functions implementation
+// summary: Implements Wayland server helpers that map surfaces and data offers to resources, convert timestamps, and associate displays with security delegates.
+// ---
+
 #include "components/exo/wayland/server_util.h"
 
 #include <wayland-server-core.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland touch delegate implementation
+// summary: Forwards exo touch events such as down, motion, shape, frame, and cancel to the matching Wayland client using serials from the serial tracker.
+// ---
+
 #include "components/exo/wayland/wayland_touch_delegate.h"
 
 #include <wayland-server-core.h>

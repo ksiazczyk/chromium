@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zcr remote shell v2 binding header
+// summary: Declares the Wayland binder for the zcr_remote_shell_v2 protocol and its supported protocol version.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_V2_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_V2_H_
 

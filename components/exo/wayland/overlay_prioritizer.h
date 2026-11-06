@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay prioritizer Wayland protocol binding header
+// summary: Declares the bind function and protocol version for the overlay prioritizer Wayland protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_OVERLAY_PRIORITIZER_H_
 #define COMPONENTS_EXO_WAYLAND_OVERLAY_PRIORITIZER_H_
 

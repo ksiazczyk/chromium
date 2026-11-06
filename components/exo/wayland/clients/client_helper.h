@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client helper header
+// summary: Declares default deleters for Wayland protocol objects and includes the client protocol headers used by the test clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_CLIENT_HELPER_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_CLIENT_HELPER_H_
 

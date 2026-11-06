@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland xdg shell protocol implementation
+// summary: Implements the xdg_shell Wayland protocol, including the positioner, toplevel, and popup interfaces for Exo shell surfaces.
+// ---
+
 #include "components/exo/wayland/xdg_shell.h"
 
 #include <wayland-server-core.h>

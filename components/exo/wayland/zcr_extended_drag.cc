@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland extended drag protocol implementation
+// summary: Implements the zcr extended drag Wayland protocol, wiring extended drag source and offer delegates to Exo data drag handling.
+// ---
+
 #include "components/exo/wayland/zcr_extended_drag.h"
 
 #include <extended-drag-unstable-v1-server-protocol.h>

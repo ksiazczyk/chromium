@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland viewporter binding header
+// summary: Declares the bind_viewporter entry point that exposes the viewporter protocol in Exo's Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WP_VIEWPORTER_H_
 #define COMPONENTS_EXO_WAYLAND_WP_VIEWPORTER_H_
 

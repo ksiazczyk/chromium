@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura output manager v2 class declaration
+// summary: Declares AuraOutputManagerV2, responsible for propagating display configuration state changes atomically to participating Wayland clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZAURA_OUTPUT_MANAGER_V2_H_
 #define COMPONENTS_EXO_WAYLAND_ZAURA_OUTPUT_MANAGER_V2_H_
 

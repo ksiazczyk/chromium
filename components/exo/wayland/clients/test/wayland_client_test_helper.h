@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper header for Wayland client tests
+// summary: Declares the helper that owns the Ash test helper, display, and Wayland server used by client tests.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_TEST_WAYLAND_CLIENT_TEST_HELPER_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_TEST_WAYLAND_CLIENT_TEST_HELPER_H_
 

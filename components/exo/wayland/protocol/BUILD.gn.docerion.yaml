@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Exo Wayland protocol build definitions
+summary: GN build file defining wayland_protocol targets that generate code from the four Aura and Exo protocol XML files.

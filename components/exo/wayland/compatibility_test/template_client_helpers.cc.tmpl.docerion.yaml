@@ -1,0 +1,4 @@
+# Docerion header of template_client_helpers.cc.tmpl.
+type: source
+title: Template for generated client helper implementations
+summary: Jinja template generating C++ definitions for std::default_delete specializations and Wayland global interface descriptors per protocol.

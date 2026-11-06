@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland alpha compositing header
+// summary: Declares bind_alpha_compositing, the entry point for binding the zcr alpha compositing protocol in the Exo Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_ALPHA_COMPOSITING_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_ALPHA_COMPOSITING_H_
 

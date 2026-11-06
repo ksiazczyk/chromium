@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer constraints protocol implementation
+// summary: Implements the zwp_pointer_constraints protocol, supporting locked and confined pointers through a PointerConstraintDelegate in Exo.
+// ---
+
 #include "components/exo/wayland/zwp_pointer_constraints.h"
 
 #include <pointer-constraints-unstable-v1-server-protocol.h>

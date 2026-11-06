@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland text input manager header
+// summary: Declares the WaylandTextInputManager struct holding the XkbTracker and SerialTracker, plus bind functions for the text input manager and extension Wayland interfaces.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZWP_TEXT_INPUT_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_ZWP_TEXT_INPUT_MANAGER_H_
 

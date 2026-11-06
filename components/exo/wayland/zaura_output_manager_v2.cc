@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura output manager v2 implementation
+// summary: Implements AuraOutputManagerV2, which propagates display configuration changes atomically to bound Wayland clients and sends done events.
+// ---
+
 #include "components/exo/wayland/zaura_output_manager_v2.h"
 
 #include <aura-output-management-server-protocol.h>

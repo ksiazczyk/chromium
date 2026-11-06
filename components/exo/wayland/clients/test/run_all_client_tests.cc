@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main for the Exo Wayland client test suite
+// summary: Entry point that creates the Exo client test suite server and launches all Wayland client tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/task/single_thread_task_runner.h"
 #include "components/exo/wayland/clients/test/wayland_client_test.h"

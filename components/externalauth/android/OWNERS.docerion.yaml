@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for externalauth Android
+summary: Lists peconn@chromium.org as the code owner for the externalauth Android directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for wayland client test dependencies
+summary: Grants extra include permissions for the wayland client test server sources, such as Ash test, Viz GPU service, and Mojo embedder headers.

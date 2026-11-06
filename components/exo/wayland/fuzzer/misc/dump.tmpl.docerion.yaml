@@ -1,0 +1,4 @@
+# Docerion header of dump.tmpl.
+type: source
+title: Wayland protocol dump template
+summary: Jinja template that dumps wayland protocol names, interfaces, messages, and arguments as plain text lines for inspection.

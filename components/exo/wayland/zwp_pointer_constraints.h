@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer constraints protocol header
+// summary: Declares the bind function that exposes the pointer constraints protocol to Wayland clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZWP_POINTER_CONSTRAINTS_H_
 #define COMPONENTS_EXO_WAYLAND_ZWP_POINTER_CONSTRAINTS_H_
 

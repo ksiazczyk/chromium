@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native test observer for child frame navigations
+// summary: Test support that observes child frame navigation start and finish events in native code and notifies a Java test observer through JNI.
+// ---
+
 #include "components/external_intents/android/test_child_frame_navigation_observer.h"
 
 #include "base/android/jni_android.h"

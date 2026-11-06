@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_data_device_manager Wayland interface implementation
+// summary: Implements the wl_data_device_manager protocol, bridging exo data sources, offers, and devices for clipboard and drag-and-drop support.
+// ---
+
 #include "components/exo/wayland/wl_data_device_manager.h"
 
 #include <algorithm>

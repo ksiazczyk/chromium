@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote shell Wayland protocol binding header
+// summary: Declares remote shell binding data, the bind function, and helpers that compute work area insets and stable work areas for the remote shell protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_H_
 

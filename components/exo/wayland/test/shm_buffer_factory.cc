@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory buffer factory for Wayland tests
+// summary: Implements ShmBufferFactory, which creates a wl_shm_pool from shared memory and produces TestBuffer instances for Wayland tests.
+// ---
+
 #include "components/exo/wayland/test/shm_buffer_factory.h"
 
 #include "base/memory/platform_shared_memory_handle.h"

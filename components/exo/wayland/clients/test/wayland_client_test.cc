@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base test fixture implementation for Wayland client tests
+// summary: Implements the WaylandClientTest fixture, delegating setup, teardown, and server access to the test helper.
+// ---
+
 #include "components/exo/wayland/clients/test/wayland_client_test.h"
 #include "base/task/single_thread_task_runner.h"
 

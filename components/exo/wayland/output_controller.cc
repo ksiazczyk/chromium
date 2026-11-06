@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputController implementation for Wayland outputs
+// summary: Implements the controller that keeps Wayland output state consistent with system display changes and notifies connected clients.
+// ---
+
 #include "components/exo/wayland/output_controller.h"
 
 #include <aura-output-management-server-protocol.h>

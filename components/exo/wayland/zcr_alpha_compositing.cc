@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland alpha compositing protocol implementation
+// summary: Implements the zcr alpha compositing Wayland protocol, providing a blending interface that sets blend mode and alpha on Exo surfaces.
+// ---
+
 #include "components/exo/wayland/zcr_alpha_compositing.h"
 
 #include <alpha-compositing-unstable-v1-server-protocol.h>

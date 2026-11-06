@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland fractional scale manager binding header
+// summary: Declares the fractional scale manager bind function and the constant for its supported protocol version in Exo's Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WP_FRACTIONAL_SCALE_H_
 #define COMPONENTS_EXO_WAYLAND_WP_FRACTIONAL_SCALE_H_
 

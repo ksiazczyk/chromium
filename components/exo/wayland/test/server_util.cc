@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland server resource lookup utility
+// summary: Implements LookUpResource, which iterates over all clients of a Wayland server to find the wl_resource matching a ResourceKey.
+// ---
+
 #include "components/exo/wayland/test/server_util.h"
 
 #include <wayland-util.h>

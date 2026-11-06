@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Templatizer based on Wayland protocol specifications
+# summary: Instantiates template files from Wayland XML protocol specifications using Jinja2 and formats the generated output with clang-format.
+# ---
+
 """Templatize a file based on wayland specifications.
 
 The templating engine takes an input template and one or more wayland

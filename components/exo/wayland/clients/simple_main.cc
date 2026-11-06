@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point for the simple Wayland client
+// summary: Command-line entry point that initializes the base environment, parses switches such as log-vsync-timing-updates and single-pixel-buffer, and runs the Simple client.
+// ---
+
 #include "components/exo/wayland/clients/simple.h"
 
 #include <limits>

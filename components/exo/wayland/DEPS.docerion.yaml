@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the exo wayland directory
+summary: Specifies allowed include rules for the wayland directory, with per-file exceptions for particular unittest and source files.

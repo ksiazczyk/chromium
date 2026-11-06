@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandPositioner class header
+// summary: Declares WaylandPositioner, which stores size, anchor rect, anchor, gravity, adjustment, and offset state and calculates popup bounds within a work area.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_POSITIONER_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_POSITIONER_H_
 

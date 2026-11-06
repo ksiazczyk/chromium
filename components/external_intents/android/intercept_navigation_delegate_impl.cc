@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intercept navigation delegate JNI implementation
+// summary: Associates Java intercept navigation delegates with WebContents and forwards subframe async action events to the native navigation interception layer.
+// ---
+
 #include "components/navigation_interception/intercept_navigation_delegate.h"
 #include "content/public/browser/browser_thread.h"
 #include "content/public/browser/web_contents.h"

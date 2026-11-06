@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura output manager v2 unit tests
+// summary: Unit tests for AuraOutputManagerV2 that verify atomic display configuration change propagation using mock listeners and test clients.
+// ---
+
 #include "components/exo/wayland/zaura_output_manager_v2.h"
 
 #include "base/bit_cast.h"

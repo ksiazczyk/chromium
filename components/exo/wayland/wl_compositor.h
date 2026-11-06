@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_compositor binding header
+// summary: Declares the compositor version constant and the bind function that creates wl_compositor resources for clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WL_COMPOSITOR_H_
 #define COMPONENTS_EXO_WAYLAND_WL_COMPOSITOR_H_
 

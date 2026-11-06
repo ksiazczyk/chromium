@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientCompatibilityTest class declaration
+// summary: Declares the ClientCompatibilityTest fixture, a WaylandClientTest subclass that serves as the base class for compatibility test fixtures.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_CLIENT_COMPATIBILITY_TEST_H_
 #define COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_CLIENT_COMPATIBILITY_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote shell security unit tests
+// summary: Verifies that the remote shell protocol is advertised or hidden depending on the security delegate's access setting.
+// ---
+
 #include <remote-shell-unstable-v1-client-protocol.h>
 #include <remote-shell-unstable-v2-client-protocol.h>
 #include <wayland-client-protocol.h>

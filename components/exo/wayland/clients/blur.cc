@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blur test client implementation
+// summary: Implements the Blur Wayland client that draws an animated grid with rotating rectangles and applies Skia blur filters to measure blur effect cost across devices.
+// ---
+
 
 #include "components/exo/wayland/clients/blur.h"
 

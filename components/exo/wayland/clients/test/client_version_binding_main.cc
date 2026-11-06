@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main entry point for the client version binding test
+// summary: Runs the client version test across all Wayland protocols and version validity cases, logging each protocol as it is tested.
+// ---
+
 #include <limits>
 
 #include "base/logging.h"

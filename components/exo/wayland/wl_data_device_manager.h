@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_data_device_manager binding header
+// summary: Declares the data device manager version constant, its bind function, and a struct holding the display and serial tracker.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WL_DATA_DEVICE_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_WL_DATA_DEVICE_MANAGER_H_
 

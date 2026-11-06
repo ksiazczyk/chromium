@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland client event receiver version fixture overrides
+// summary: Provides manual overrides for generated test fixtures, mainly ShouldSkip rules that disable tests for unsupported Wayland interface versions.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_WAYLAND_CLIENT_EVENT_RECEIVER_VERSION_FIXTURES_H_
 #define COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_WAYLAND_CLIENT_EVENT_RECEIVER_VERSION_FIXTURES_H_
 

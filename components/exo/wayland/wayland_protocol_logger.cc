@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland protocol logger implementation
+// summary: Implements logging of Wayland protocol messages, formatting message arguments and emitting them as Perfetto trace events when exo tracing is enabled.
+// ---
+
 #include "components/exo/wayland/wayland_protocol_logger.h"
 
 #include "base/compiler_specific.h"

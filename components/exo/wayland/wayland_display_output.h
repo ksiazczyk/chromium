@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDisplayOutput class header
+// summary: Declares WaylandDisplayOutput, which ties a Wayland output global to a display ID, tracks client-bound wl_output resources, and self-destructs after display removal.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_DISPLAY_OUTPUT_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_DISPLAY_OUTPUT_H_
 

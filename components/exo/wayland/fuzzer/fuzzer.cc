@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland fuzzer entry point
+// summary: Defines the libprotobuf-mutator text-proto fuzzer that parses fuzzed action sequences and runs them through the harness.
+// ---
+
 #include "base/at_exit.h"
 #include "base/no_destructor.h"
 #include "components/exo/wayland/fuzzer/actions.pb.h"

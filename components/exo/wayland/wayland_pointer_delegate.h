@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandPointerDelegate class header
+// summary: Declares the WaylandPointerDelegate that forwards Exo pointer events to a wl_pointer resource for surfaces owned by the same Wayland client.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_POINTER_DELEGATE_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_POINTER_DELEGATE_H_
 

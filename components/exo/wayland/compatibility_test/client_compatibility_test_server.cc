@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compatibility test suite server entry point
+// summary: Defines the CompatibilityTestSuiteServer class and the main entry point for running the server side of the Wayland client compatibility tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/task/single_thread_task_runner.h"
 #include "components/exo/wayland/clients/test/wayland_client_test_server.h"

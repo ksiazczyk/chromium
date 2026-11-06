@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wayland compatibility test BUILD.gn
+summary: GN build file listing server Wayland protocols and defining codegen targets for generated client helpers plus the testonly compatibility_test source set.

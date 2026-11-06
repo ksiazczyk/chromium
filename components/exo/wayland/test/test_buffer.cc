@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test buffer wrapper for Wayland buffers
+// summary: Implements TestBuffer, which wraps a wl_buffer resource and forwards release events to a BufferListener.
+// ---
+
 #include "components/exo/wayland/test/test_buffer.h"
 
 #include "base/check_op.h"

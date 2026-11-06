@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland fractional scale protocol implementation
+// summary: Implements the wp_fractional_scale_v1 Wayland protocol, notifying clients of preferred fractional scale factors for Exo surfaces.
+// ---
+
 #include "components/exo/wayland/wp_fractional_scale.h"
 
 #include "base/memory/raw_ptr.h"

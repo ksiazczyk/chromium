@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended keyboard Wayland protocol implementation
+// summary: Implements the zcr extended keyboard Wayland interface, peeking key events to clients and handling key acknowledgements for the Exo keyboard.
+// ---
+
 #include "components/exo/wayland/zcr_keyboard_extension.h"
 
 #include <keyboard-extension-unstable-v1-server-protocol.h>

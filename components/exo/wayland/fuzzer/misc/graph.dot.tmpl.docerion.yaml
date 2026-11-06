@@ -1,0 +1,4 @@
+# Docerion header of graph.dot.tmpl.
+type: source
+title: Wayland protocol Graphviz DOT template
+summary: Jinja template that generates a Graphviz DOT graph of wayland interfaces, requests, events, and their object relationships.

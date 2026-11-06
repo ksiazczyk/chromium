@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland subcompositor binding header
+// summary: Declares the bind_subcompositor entry point that exposes the Wayland subcompositor protocol in Exo's Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WL_SUBCOMPOSITOR_H_
 #define COMPONENTS_EXO_WAYLAND_WL_SUBCOMPOSITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland extended drag header
+// summary: Declares bind_extended_drag, the entry point for binding the zcr extended drag protocol in the Exo Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_EXTENDED_DRAG_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_EXTENDED_DRAG_H_
 

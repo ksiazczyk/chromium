@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zwp_idle_inhibit_manager.cc: idle-inhibit protocol implementation'
+// summary: Implements the idle-inhibit-unstable-v1 Wayland protocol, creating power save blockers that prevent display sleep while a client holds an idle inhibitor.
+// ---
+
 #include "components/exo/wayland/zwp_idle_inhibit_manager.h"
 
 #include <idle-inhibit-unstable-v1-server-protocol.h>

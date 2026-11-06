@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland positioner implementation
+// summary: Implements xdg_positioner semantics, decomposing anchor and gravity values and applying flip, slide, and resize adjustments to compute popup window bounds.
+// ---
+
 #include "components/exo/wayland/wayland_positioner.h"
 
 #include <numeric>

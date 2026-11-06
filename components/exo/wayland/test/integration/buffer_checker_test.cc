@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland buffer format and usage integration test
+// summary: Integration test client that determines which gfx::BufferUsages support given DRM buffer formats by creating buffers over a Wayland connection and logging the supported combinations.
+// ---
+
 #include <drm_fourcc.h>
 #include <gbm.h>
 #include <sys/mman.h>

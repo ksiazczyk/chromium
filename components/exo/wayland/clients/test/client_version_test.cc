@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the Wayland client version test
+// summary: Implements protocol binding and version skew checks for Exo Wayland clients across many Chrome OS Wayland protocol interfaces.
+// ---
+
 #include "components/exo/wayland/clients/test/client_version_test.h"
 
 #include <alpha-compositing-unstable-v1-client-protocol.h>

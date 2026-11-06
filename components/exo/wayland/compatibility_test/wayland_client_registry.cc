@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client registry implementation
+// summary: Implements WaylandClientRegistry, which tracks Wayland globals advertised by the server and binds them at requested client versions for the compatibility test client.
+// ---
+
 //#include <wayland-client-core.h>
 #include <wayland-client-protocol.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for zcr_ui_controls
+summary: Declares per-file code ownership, assigning max@igalia.com as owner of the zcr_ui_controls files.

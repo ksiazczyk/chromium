@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterceptNavigationDelegateClient
+// summary: Interface via which the embedder provides tab, activity, and windowing context that InterceptNavigationDelegateImpl needs to intercept navigations.
+// ---
+
 package org.chromium.components.external_intents;
 
 import android.app.Activity;

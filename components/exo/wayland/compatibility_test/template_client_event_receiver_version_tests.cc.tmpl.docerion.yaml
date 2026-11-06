@@ -1,0 +1,4 @@
+# Docerion header of template_client_event_receiver_version_tests.cc.tmpl.
+type: test
+title: Template for generated event receiver version tests
+summary: Jinja template that generates test fixtures verifying Wayland client event reception across interface versions for each protocol interface.

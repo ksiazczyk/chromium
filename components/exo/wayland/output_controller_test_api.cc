@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for OutputController
+// summary: Provides test-only access to OutputController internals such as the output map and dispatched activated display id.
+// ---
+
 #include "components/exo/wayland/output_controller_test_api.h"
 #include "ash/shell.h"
 

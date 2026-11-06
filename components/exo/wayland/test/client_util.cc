@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland client resource key utility
+// summary: Implements GetResourceKey, which builds a ResourceKey from a Wayland client-side resource's proxy id and class name.
+// ---
+
 #include "components/exo/wayland/test/client_util.h"
 
 #include <wayland-client-core.h>

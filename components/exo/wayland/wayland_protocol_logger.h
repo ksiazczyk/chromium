@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland protocol logger class header
+// summary: Declares a class that manages the lifetime of a wl_protocol_logger and formats Wayland requests and events into human-readable strings.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_PROTOCOL_LOGGER_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_PROTOCOL_LOGGER_H_
 

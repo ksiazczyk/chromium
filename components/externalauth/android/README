@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for externalauth Android component
+summary: Explains that the component provides utilities for external authentication such as Google-signed build checks and Google Play Services availability, with ExternalAuthUtils as the main class.
+---
+
 The externalauth component provides utilities for external authentication, such
 as whether the current Chrome build is Google-signed, or whether Google Play
 Services is available. ExternalAuthUtils is the main class of the component, and

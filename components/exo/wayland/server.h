@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server class declaration
+// summary: Declares the Server class, a thin wrapper around a Wayland display server dispatching into the Exo display.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_SERVER_H_
 #define COMPONENTS_EXO_WAYLAND_SERVER_H_
 

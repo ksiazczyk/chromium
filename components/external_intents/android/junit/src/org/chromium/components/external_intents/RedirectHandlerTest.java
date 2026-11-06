@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RedirectHandler unit tests
+// summary: Robolectric unit tests verifying RedirectHandler behavior for intent redirects, navigation chains, and resolver changes in the external_intents component.
+// ---
+
 package org.chromium.components.external_intents;
 
 import android.content.Intent;

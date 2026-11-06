@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client registry header
+// summary: Declares WaylandClientRegistry with template helpers that check availability of and bind typed Wayland globals by interface and client version.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_WAYLAND_CLIENT_REGISTRY_H_
 #define COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_WAYLAND_CLIENT_REGISTRY_H_
 

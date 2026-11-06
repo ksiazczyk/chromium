@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland gaming input header
+// summary: Declares bind_gaming_input, the entry point for binding the zcr gaming input protocol in the Exo Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_GAMING_INPUT_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_GAMING_INPUT_H_
 

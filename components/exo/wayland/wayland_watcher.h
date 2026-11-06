@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server file descriptor watcher header
+// summary: Declares a file descriptor watcher that dispatches the Wayland server from the UI thread message pump.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_WATCHER_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_WATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland xdg shell bindings header
+// summary: Declares WaylandXdgShell, WaylandXdgSurface, and ShellSurfaceData structures plus bind and lookup functions for the xdg_shell protocol in Exo.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_XDG_SHELL_H_
 #define COMPONENTS_EXO_WAYLAND_XDG_SHELL_H_
 

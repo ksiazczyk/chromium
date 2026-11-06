@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for externalauth Android
+summary: Declares allowed directory dependencies for the component, permitting includes from embedder_support/android and content/public/android.

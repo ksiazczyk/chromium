@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface augmenter protocol implementation
+// summary: Implements the surface-augmenter Wayland protocol, applying rounded corners, destination size, background color, clip rects, and frame trace IDs to surfaces.
+// ---
+
 #include "components/exo/wayland/surface_augmenter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalNavigationDelegate
+// summary: Interface through which the embedder supplies context and behavior to ExternalNavigationHandler, such as intent handling, window IDs, and referrer metadata.
+// ---
+
 package org.chromium.components.external_intents;
 
 import android.content.Context;

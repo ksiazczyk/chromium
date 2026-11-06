@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland positioner unit tests
+// summary: Unit tests covering unconstrained placement and the flip, slide, and resize constraint adjustment behavior of the positioner bounds calculation.
+// ---
+
 #include "components/exo/wayland/wayland_positioner.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

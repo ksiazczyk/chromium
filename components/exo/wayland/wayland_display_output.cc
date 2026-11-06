@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDisplayOutput implementation
+// summary: Implements WaylandDisplayOutput, which manages wl_output globals for a display and delays self-destruction until clients release their bound output resources.
+// ---
+
 #include "components/exo/wayland/wayland_display_output.h"
 
 #include <wayland-server-core.h>

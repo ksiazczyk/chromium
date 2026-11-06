@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External intents feature flags implementation
+// summary: Defines base::Feature flags for external intent handling, such as debug logging and WebAPK navigation launch, and exposes them to Java through a JNI bridge.
+// ---
+
 #include "components/external_intents/android/external_intents_features.h"
 
 #include <jni.h>

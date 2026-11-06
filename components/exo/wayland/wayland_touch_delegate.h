@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland touch delegate header
+// summary: Declares a touch delegate that accepts touch events for surfaces owned by the same Wayland client as the touch resource.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_TOUCH_DELEGATE_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_TOUCH_DELEGATE_H_
 

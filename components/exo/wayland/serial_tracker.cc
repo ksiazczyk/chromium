@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland serial tracker implementation
+// summary: Tracks event types for Wayland serial numbers in a circular buffer and issues key serials.
+// ---
+
 #include "components/exo/wayland/serial_tracker.h"
 
 #include <sstream>
