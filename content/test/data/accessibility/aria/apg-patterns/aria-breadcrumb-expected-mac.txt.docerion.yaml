@@ -1,0 +1,4 @@
+# Docerion header of aria-breadcrumb-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the breadcrumb pattern
+summary: Expected macOS AX accessibility tree snapshot for the breadcrumb test page, describing the navigation landmark, list and links.

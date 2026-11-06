@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-color-viewer.html.
+type: test
+title: ARIA color viewer slider APG pattern test fixture
+summary: HTML test fixture based on the W3C ARIA slider color viewer example, used to verify accessibility tree output.

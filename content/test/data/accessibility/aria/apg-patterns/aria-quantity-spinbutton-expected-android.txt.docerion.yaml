@@ -1,0 +1,4 @@
+# Docerion header of aria-quantity-spinbutton-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for quantity spinbutton
+summary: Expected Android accessibility tree for the ARIA quantity spinbutton test page, describing the guests group, spin button range of 1 to 8, and status live region.

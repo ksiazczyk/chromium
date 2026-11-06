@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-rating-expected-mac.txt.
+type: test
+title: Rating slider expected macOS tree
+summary: Expected macOS accessibility tree snapshot for the rating slider ARIA APG pattern test page.

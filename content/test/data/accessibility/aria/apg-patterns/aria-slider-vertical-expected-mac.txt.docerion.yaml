@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-vertical-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for vertical slider
+summary: Expected macOS accessibility tree snapshot for the vertical temperature slider test page.

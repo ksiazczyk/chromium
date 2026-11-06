@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-2.html.
+type: test
+title: ARIA-hidden frame fixture 2
+summary: Test fixture page with a body marked aria-hidden containing the text 2, used in accessibility tests for hidden frames.

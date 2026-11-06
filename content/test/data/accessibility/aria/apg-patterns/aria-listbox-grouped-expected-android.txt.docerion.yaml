@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-grouped-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for grouped ARIA listbox
+summary: Expected Android accessibility tree for the grouped ARIA listbox test page, describing a list view with grouped collection items for Land and Water categories.

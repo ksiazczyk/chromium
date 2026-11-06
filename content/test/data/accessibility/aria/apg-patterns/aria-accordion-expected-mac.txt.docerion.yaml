@@ -1,0 +1,4 @@
+# Docerion header of aria-accordion-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for accordion APG pattern
+summary: Expected macOS AX accessibility tree snapshot for the accordion ARIA APG pattern test page, used to verify rendered roles and titles.

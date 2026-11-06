@@ -1,0 +1,4 @@
+# Docerion header of inner.html.
+type: test
+title: Inner button frame fixture
+summary: Test fixture page containing a single button labeled Inner, used as frame content in accessibility tests.

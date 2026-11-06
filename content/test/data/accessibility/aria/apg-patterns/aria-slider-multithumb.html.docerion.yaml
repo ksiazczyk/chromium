@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-multithumb.html.
+type: test
+title: Multithumb slider ARIA APG pattern test page
+summary: HTML test page based on the W3C ARIA multithumb slider pattern showing a hotel price range with two slider thumbs.

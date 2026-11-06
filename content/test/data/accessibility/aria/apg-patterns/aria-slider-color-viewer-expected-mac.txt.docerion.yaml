@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-color-viewer-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for ARIA color viewer slider test
+summary: Expected macOS AX accessibility tree snapshot for the ARIA color viewer slider pattern test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-grouped-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for grouped ARIA listbox
+summary: Expected Blink accessibility tree for the grouped ARIA listbox test page, including ignored nodes, inline text boxes, and listBoxOption entries for each animal.

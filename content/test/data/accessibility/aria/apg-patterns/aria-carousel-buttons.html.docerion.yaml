@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-buttons.html.
+type: test
+title: ARIA carousel buttons pattern test page
+summary: HTML test page based on the W3C ARIA carousel pattern with pause, previous and next slide buttons, used for accessibility tree tests.

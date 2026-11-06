@@ -1,0 +1,4 @@
+# Docerion header of treeview-1b-expected-android.txt.
+type: test
+title: Treeview 1B expected accessibility tree for Android
+summary: Expected Android accessibility tree snapshot for the declared-properties file directory treeview example, used as a test expectation.

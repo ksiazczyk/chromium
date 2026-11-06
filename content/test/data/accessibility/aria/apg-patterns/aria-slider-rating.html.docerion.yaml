@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-rating.html.
+type: test
+title: ARIA rating slider APG pattern test page
+summary: HTML test page implementing the W3C ARIA slider pattern rating example with a slider role and SVG rating choices for accessibility testing.

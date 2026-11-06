@@ -1,0 +1,4 @@
+# Docerion header of aria-treeview-file-directory-declared-properties-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for treeview declared properties
+summary: Expected Windows IA2 accessibility tree snapshot for the treeview file directory example using declared ARIA properties.

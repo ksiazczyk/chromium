@@ -1,0 +1,4 @@
+# Docerion header of aria-treeview-file-directory-computed-properties-expected-win.txt.
+type: test
+title: Windows expected accessibility tree for treeview file directory pattern
+summary: Expected Windows IA2 accessibility tree output for the treeview file directory ARIA pattern test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-quantity-spinbutton-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for quantity spinbutton
+summary: Expected Android accessibility tree in the external format for the ARIA quantity spinbutton test page, covering add and remove buttons, range values, and a status live region.

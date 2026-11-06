@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-tabs-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the carousel tabs pattern
+summary: Expected Blink accessibility tree snapshot for the ARIA carousel tabs test page, covering the tab list and slide panels.

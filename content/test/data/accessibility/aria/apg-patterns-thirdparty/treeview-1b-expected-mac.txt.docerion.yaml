@@ -1,0 +1,4 @@
+# Docerion header of treeview-1b-expected-mac.txt.
+type: test
+title: Treeview 1B expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree snapshot for the declared-properties file directory treeview example, used as a test expectation.

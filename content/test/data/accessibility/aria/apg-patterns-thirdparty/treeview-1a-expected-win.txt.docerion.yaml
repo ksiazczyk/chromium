@@ -1,0 +1,4 @@
+# Docerion header of treeview-1a-expected-win.txt.
+type: test
+title: Treeview 1A expected accessibility tree for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the computed-properties file directory treeview example, used as a test expectation.

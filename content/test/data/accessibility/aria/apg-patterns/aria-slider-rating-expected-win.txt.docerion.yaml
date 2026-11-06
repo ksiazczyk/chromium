@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-rating-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ARIA rating slider
+summary: Expected Windows accessibility tree snapshot for the ARIA rating slider test page, listing roles, names, values and states.

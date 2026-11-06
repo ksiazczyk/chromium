@@ -1,0 +1,4 @@
+# Docerion header of aria-accordion.html.
+type: test
+title: Accordion APG pattern accessibility test page
+summary: HTML test page containing the W3C ARIA APG accordion example snippet, used as input for accessibility tree expectation tests.

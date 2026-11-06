@@ -1,0 +1,4 @@
+# Docerion header of aria-breadcrumb-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the breadcrumb pattern
+summary: Expected Windows IAccessible2 tree snapshot for the breadcrumb test page, describing landmark, list, list item and link roles.

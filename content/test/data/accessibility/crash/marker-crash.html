@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Marker pseudo-element crash regression test
+summary: Regression test page that avoids a crash from adding pseudo-element content in two places, using CSS column-count on a list-item group (AXNodeObject::CanAddLayoutChild).
+-->
+
 <!-- Avoid a crash caused by adding pseudo element content in two places.
      See AXNodeObject::CanAddLayoutChild(). https://crbug.com/1172038 -->
 <style>

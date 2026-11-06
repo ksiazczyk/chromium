@@ -1,0 +1,4 @@
+# Docerion header of treeview-navigation-expected-win.txt.
+type: test
+title: Treeview navigation expected accessibility tree for Windows
+summary: Expected Windows accessibility tree dump for the ARIA treeview navigation example, used as test data to verify rendered accessibility output.

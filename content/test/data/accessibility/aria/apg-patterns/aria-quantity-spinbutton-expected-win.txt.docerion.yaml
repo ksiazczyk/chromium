@@ -1,0 +1,4 @@
+# Docerion header of aria-quantity-spinbutton-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ARIA quantity spinbutton test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the ARIA quantity spinbutton pattern test page.

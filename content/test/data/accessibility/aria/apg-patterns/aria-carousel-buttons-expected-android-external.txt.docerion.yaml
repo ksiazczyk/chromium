@@ -1,0 +1,4 @@
+# Docerion header of aria-carousel-buttons-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for the carousel buttons pattern
+summary: Expected Android accessibility tree in external format, with actions and bundles, for the ARIA carousel buttons test page.

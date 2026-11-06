@@ -1,0 +1,4 @@
+# Docerion header of treeview-navigation-expected-mac.txt.
+type: test
+title: Treeview navigation expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree snapshot for the navigation treeview example, used as a test expectation.

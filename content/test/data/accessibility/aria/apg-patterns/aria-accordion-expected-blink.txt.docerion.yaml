@@ -1,0 +1,4 @@
+# Docerion header of aria-accordion-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for accordion APG pattern
+summary: Expected Blink accessibility tree snapshot for the accordion ARIA APG pattern test page, used to verify rendered roles, names and states.

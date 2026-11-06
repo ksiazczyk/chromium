@@ -1,0 +1,4 @@
+# Docerion header of aria-slider-rating-expected-android-external.txt.
+type: test
+title: Rating slider expected Android external tree
+summary: Expected external Android accessibility tree snapshot for the rating slider ARIA APG pattern test page.

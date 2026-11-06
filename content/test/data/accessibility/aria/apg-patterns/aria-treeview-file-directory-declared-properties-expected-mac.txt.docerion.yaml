@@ -1,0 +1,4 @@
+# Docerion header of aria-treeview-file-directory-declared-properties-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for treeview declared properties
+summary: Expected macOS accessibility tree snapshot for the treeview file directory example using declared ARIA properties.

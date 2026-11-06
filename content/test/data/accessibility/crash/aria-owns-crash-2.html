@@ -2,6 +2,12 @@
 @WAIT-FOR:done
 -->
 
+<!--docerion
+type: test
+title: aria-owns id change crash test
+summary: Test page where a button and div use aria-owns and an element id is changed after a delay to trigger an accessibility crash scenario.
+-->
+
 <button id="3" aria-owns="4" tabindex="0"></button>
 <div aria-owns="3"></div>
 
