@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-mac.txt.
+type: test
+title: aria-log expected Mac
+summary: Expected macOS accessibility tree for the aria-log test, showing an AXGroup with the AXApplicationLog subrole.

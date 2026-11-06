@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-android-assist-data.txt.
+type: test
+title: aria-label-augment-inner-text expected Android assist data
+summary: Expected Android assist data output for the aria-label-augment-inner-text test, showing aria-label overriding inner text on links and buttons.

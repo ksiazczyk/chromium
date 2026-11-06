@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for ARIA listbox test
+summary: Expected Android accessibility tree for the aria-listbox test, showing a ListView with four selectable items and a splitter.

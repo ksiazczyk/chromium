@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-aria-selected-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-selected listbox
+summary: Expected Android accessibility tree snapshot for a multiselectable listbox with aria-selected options.

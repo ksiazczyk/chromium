@@ -1,0 +1,4 @@
+# Docerion header of aria-list-labeled-expected-android-external.txt.
+type: test
+title: aria-list-labeled expected Android external snapshot
+summary: Expected Android external accessibility tree output for the labeled ARIA list test page, showing list, list item, marker and static text roles.

@@ -1,0 +1,4 @@
+# Docerion header of aria-live-with-content-expected-android-external.txt.
+type: test
+title: aria-live with content expected Android external tree
+summary: Expected Android external accessibility snapshot for the aria-live with content test, listing marquee views with their live region types.

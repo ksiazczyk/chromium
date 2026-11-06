@@ -1,0 +1,4 @@
+# Docerion header of aria-img-expected-android-assist-data.txt.
+type: test
+title: aria-img expected Android assist data
+summary: Expected Android assist data snapshot for the aria-img test, covering composite image parts under img and image roles.

@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for menuitemcheckbox
+summary: Expected Windows/IA2 accessibility tree output for a page with three menuitemcheckbox elements in unchecked, checked and mixed states.

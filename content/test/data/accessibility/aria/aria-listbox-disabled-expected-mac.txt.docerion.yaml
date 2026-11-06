@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for disabled ARIA listbox test
+summary: Expected macOS AX accessibility tree for the aria-listbox-disabled test, showing a heading, list items including the selected Striped item, and end-of-test text.

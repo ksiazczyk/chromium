@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-expected-android-external.txt.
+type: test
+title: aria-modal expected Android external tree output
+summary: Expected Android accessibility tree snapshot for the aria-modal test, showing the modal dialog and its contents in the external output format.

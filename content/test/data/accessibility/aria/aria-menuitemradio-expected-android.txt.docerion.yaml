@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemradio-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for menuitemradio
+summary: Expected Android accessibility tree for a page with three menuitemradio elements in unchecked, checked and mixed states.

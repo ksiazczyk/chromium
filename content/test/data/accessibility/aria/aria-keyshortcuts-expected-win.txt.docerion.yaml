@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-win.txt.
+type: test
+title: aria-keyshortcuts expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the aria-keyshortcuts test, listing Cut, Copy and Paste buttons with their keyboard shortcuts.

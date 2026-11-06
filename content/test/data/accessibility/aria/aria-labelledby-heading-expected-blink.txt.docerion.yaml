@@ -1,0 +1,4 @@
+# Docerion header of aria-labelledby-heading-expected-blink.txt.
+type: test
+title: aria-labelledby-heading expected Blink output
+summary: Expected Blink accessibility tree snapshot for the aria-labelledby heading test.

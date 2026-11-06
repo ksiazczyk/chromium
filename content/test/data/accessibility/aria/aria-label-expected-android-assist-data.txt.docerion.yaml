@@ -1,0 +1,4 @@
+# Docerion header of aria-label-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-label test
+summary: Expected Android assist data accessibility tree for the aria-label test, describing a checkbox with the aria label 'aria label'.

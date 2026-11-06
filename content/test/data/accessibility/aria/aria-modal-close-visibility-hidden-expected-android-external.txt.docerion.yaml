@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-close-visibility-hidden-expected-android-external.txt.
+type: test
+title: aria-modal-close-visibility-hidden expected Android external output
+summary: Expected Android external accessibility tree snapshot for the aria-modal-close-visibility-hidden test, showing only the background button remains exposed.

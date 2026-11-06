@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-blink.txt.
+type: test
+title: aria-insertion-deletion expected Blink tree
+summary: Expected Blink internal accessibility tree for the aria-insertion-deletion test with contentDeletion and contentInsertion nodes.

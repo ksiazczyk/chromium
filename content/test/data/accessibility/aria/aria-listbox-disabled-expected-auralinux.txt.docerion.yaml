@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for disabled ARIA listbox test
+summary: Expected Linux accessibility tree output for the aria-listbox-disabled test, showing a list box with disabled options and the Striped item selected.

@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-android-assist-data.txt.
+type: test
+title: aria-menuitemcheckbox expected Android assist data
+summary: Expected Android assist data snapshot for the ARIA menuitemcheckbox test, showing checked states true and mixed.

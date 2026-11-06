@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemradio-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for menuitemradio
+summary: Expected Windows/IA2 accessibility tree for a page with three menuitemradio elements in unchecked, checked and mixed states.

@@ -1,0 +1,4 @@
+# Docerion header of aria-mismatched-table-attr.html.
+type: test
+title: aria-mismatched-table-attr test page
+summary: HTML test page with a grid whose aria-rowcount and aria-colcount mismatch the actual cell indices, used to verify accessibility tree output across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of aria-label-expected-win.txt.
+type: test
+title: Expected Windows output for the aria-label test
+summary: Expected Windows accessibility tree for the aria-label test, describing a check button named 'aria label'.

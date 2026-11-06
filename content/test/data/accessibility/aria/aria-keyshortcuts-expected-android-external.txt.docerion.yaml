@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-android-external.txt.
+type: test
+title: aria-keyshortcuts expected Android external tree
+summary: Expected Android external tree for the aria-keyshortcuts test, listing Cut, Copy and Paste buttons with their actions.

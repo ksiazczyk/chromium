@@ -1,0 +1,4 @@
+# Docerion header of aria-img-expected-mac.txt.
+type: test
+title: aria-img expected accessibility tree for macOS
+summary: Expected macOS AX tree for the aria-img test with AXImage nodes under the web area.

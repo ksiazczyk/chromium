@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-android-assist-data.txt.
+type: test
+title: aria-main expected Android assist data
+summary: Expected Android assist accessibility data for the aria-main test, describing the WebView and a view with the main role.

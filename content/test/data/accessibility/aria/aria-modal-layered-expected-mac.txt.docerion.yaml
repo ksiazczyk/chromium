@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-layered-expected-mac.txt.
+type: test
+title: aria-modal layered expected macOS accessibility output
+summary: Expected macOS accessibility tree snapshot for the layered aria-modal test, showing the nested modal dialog and its button after tree pruning.

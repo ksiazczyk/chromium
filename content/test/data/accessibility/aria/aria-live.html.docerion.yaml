@@ -1,0 +1,4 @@
+# Docerion header of aria-live.html.
+type: test
+title: aria-live HTML test page
+summary: HTML test page with marquee roles using off, polite, and assertive aria-live values plus an alert with implicit assertive live status.

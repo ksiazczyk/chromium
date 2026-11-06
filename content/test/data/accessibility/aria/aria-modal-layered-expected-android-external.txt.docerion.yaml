@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-layered-expected-android-external.txt.
+type: test
+title: aria-modal layered expected Android external tree output
+summary: Expected Android accessibility tree snapshot for the layered aria-modal test, showing only the innermost modal dialog and its button in external format.

@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion.html.
+type: test
+title: aria-insertion-deletion test page
+summary: HTML test page using span roles deletion and insertion to verify how insertion and deletion markup is exposed to accessibility trees.

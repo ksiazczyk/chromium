@@ -1,0 +1,4 @@
+# Docerion header of aria-img-child-expected-android.txt.
+type: test
+title: aria-img-child expected Android output
+summary: Expected Android accessibility tree snapshot showing a WebView containing an image for the aria-img-child test.

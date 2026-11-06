@@ -1,0 +1,4 @@
+# Docerion header of aria-math-expected-win.txt.
+type: test
+title: ARIA math expected results for Windows
+summary: Expected Windows accessibility tree output for the ARIA role math test page.

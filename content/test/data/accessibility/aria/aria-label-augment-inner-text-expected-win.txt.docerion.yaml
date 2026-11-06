@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-win.txt.
+type: test
+title: aria-label-augment-inner-text expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the aria-label-augment-inner-text test, with links and push buttons named by aria-label.

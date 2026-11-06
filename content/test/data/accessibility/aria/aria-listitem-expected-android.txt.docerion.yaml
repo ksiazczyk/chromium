@@ -1,0 +1,4 @@
+# Docerion header of aria-listitem-expected-android.txt.
+type: test
+title: ARIA listitem expected Android accessibility tree
+summary: Expected Android accessibility tree for the ARIA listitem test page, showing a two-row collection of list items.

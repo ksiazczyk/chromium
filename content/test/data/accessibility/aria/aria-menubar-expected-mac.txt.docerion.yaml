@@ -1,0 +1,4 @@
+# Docerion header of aria-menubar-expected-mac.txt.
+type: test
+title: aria-menubar expected Mac data
+summary: Expected macOS accessibility tree output for the aria-menubar test page, showing an AXMenuBar with three AXMenuItem entries.

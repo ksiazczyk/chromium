@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-mac.txt.
+type: test
+title: aria-insertion-deletion expected Mac accessibility tree
+summary: Expected macOS accessibility tree dump for the aria insertion and deletion test, showing deletion and insertion subroles around static text.

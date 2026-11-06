@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemradio-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for menuitemradio
+summary: Expected Aura Linux accessibility tree for a page with three menuitemradio elements in unchecked, checked and mixed states.

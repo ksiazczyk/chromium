@@ -1,0 +1,4 @@
+# Docerion header of aria-img-expected-win.txt.
+type: test
+title: aria-img expected accessibility tree for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree for the aria-img test with ROLE_SYSTEM_GRAPHIC nodes.

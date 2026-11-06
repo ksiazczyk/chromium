@@ -1,0 +1,4 @@
+# Docerion header of aria-menubar-expected-auralinux.txt.
+type: test
+title: aria-menubar expected Linux data
+summary: Expected Linux accessibility tree output for the aria-menubar test page, showing a horizontal menu bar with three menu items.

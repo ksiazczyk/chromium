@@ -1,0 +1,4 @@
+# Docerion header of aria-list-labeled-expected-blink.txt.
+type: test
+title: aria-list-labeled expected Blink snapshot
+summary: Expected Blink accessibility tree output for the labeled ARIA list test page, including list, list item, list marker and static text nodes.

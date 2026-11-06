@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-android-assist-data.txt.
+type: test
+title: aria-log expected Android assist data
+summary: Expected Android assist accessibility data for the aria-log test, describing the WebView and a view with the log role.

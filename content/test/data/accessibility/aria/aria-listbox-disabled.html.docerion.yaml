@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled.html.
+type: test
+title: ARIA disabled listbox accessibility test page
+summary: HTML test page with an aria-disabled listbox containing four options, used to verify accessibility tree output across platforms.

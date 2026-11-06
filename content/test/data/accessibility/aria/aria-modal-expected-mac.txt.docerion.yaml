@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-expected-mac.txt.
+type: test
+title: aria-modal expected macOS accessibility output
+summary: Expected macOS accessibility tree snapshot for the aria-modal test, showing the application dialog subrole and its child nodes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-list-expected-android-assist-data.txt.
+type: test
+title: ARIA list expected Android assist data
+summary: Expected Android assist data snapshot for the aria-list test page, showing a list with three list items labeled 1 to 3.

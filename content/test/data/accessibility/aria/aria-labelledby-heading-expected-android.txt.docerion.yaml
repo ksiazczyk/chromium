@@ -1,0 +1,4 @@
+# Docerion header of aria-labelledby-heading-expected-android.txt.
+type: test
+title: aria-labelledby-heading expected Android output
+summary: Expected Android accessibility tree snapshot for the aria-labelledby heading test.

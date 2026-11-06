@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-android-external.txt.
+type: test
+title: aria-insertion-deletion expected Android external tree
+summary: Expected external Android accessibility tree for the aria-insertion-deletion test with contentDeletion and contentInsertion nodes.

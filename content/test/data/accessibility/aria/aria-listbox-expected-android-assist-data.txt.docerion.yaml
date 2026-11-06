@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for ARIA listbox test
+summary: Expected Android assist data accessibility output for the aria-listbox test, showing a ListView with option items and a separator.

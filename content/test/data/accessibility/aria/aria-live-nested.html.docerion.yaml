@@ -1,0 +1,4 @@
+# Docerion header of aria-live-nested.html.
+type: test
+title: aria-live nested HTML test page
+summary: HTML test page with nested aria-live regions in off, polite, and assertive states used to verify live region inheritance in accessibility trees.

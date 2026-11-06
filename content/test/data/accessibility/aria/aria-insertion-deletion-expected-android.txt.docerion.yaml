@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-android.txt.
+type: test
+title: aria-insertion-deletion expected Android tree
+summary: Expected Android accessibility tree for the aria-insertion-deletion test showing deletion and insertion role descriptions.

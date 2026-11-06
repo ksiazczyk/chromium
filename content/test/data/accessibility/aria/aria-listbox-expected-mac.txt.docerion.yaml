@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-expected-mac.txt.
+type: test
+title: ARIA listbox expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree for the ARIA listbox test page, listing AXList, splitter and static text roles.

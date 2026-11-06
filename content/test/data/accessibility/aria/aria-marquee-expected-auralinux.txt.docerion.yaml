@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-auralinux.txt.
+type: test
+title: aria-marquee expected auralinux accessibility tree
+summary: Expected Linux accessibility tree for the aria-marquee test page, detailing container-live and live states for each marquee element.

@@ -1,0 +1,4 @@
+# Docerion header of aria-labelledby-updates-expected-blink.txt.
+type: test
+title: Expected Blink output for aria-labelledby updates test
+summary: Expected Blink accessibility tree for the test of aria-labelledby name updates after the label text changes.

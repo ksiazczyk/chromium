@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-expected-win.txt.
+type: test
+title: aria-modal expected Windows accessibility output
+summary: Expected Windows accessibility tree snapshot for the aria-modal test, including roles, the modal state, and xml-roles annotations.

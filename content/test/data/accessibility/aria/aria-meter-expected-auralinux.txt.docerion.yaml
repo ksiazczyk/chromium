@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for the aria-meter test
+summary: Expected Linux accessibility tree output for the aria-meter test page, showing level bars with current, minimum and maximum values.

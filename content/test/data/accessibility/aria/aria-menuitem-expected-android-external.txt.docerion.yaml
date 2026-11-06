@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-expected-android-external.txt.
+type: test
+title: aria-menuitem expected Android external data
+summary: Expected Android external-format accessibility tree snapshot for the aria-menuitem test page, covering simple and complex menu items with actions and focus details.

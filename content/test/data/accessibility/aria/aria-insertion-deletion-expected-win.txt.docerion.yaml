@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-win.txt.
+type: test
+title: aria-insertion-deletion expected Windows accessibility tree
+summary: Expected Windows IAccessible2 tree for the aria insertion and deletion test, listing content deletion and insertion roles.

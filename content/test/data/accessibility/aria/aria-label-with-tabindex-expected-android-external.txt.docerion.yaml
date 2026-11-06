@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-tabindex-expected-android-external.txt.
+type: test
+title: Expected Android external output for the aria-label with tabindex test
+summary: Expected Android external accessibility tree for the aria-label with tabindex test, covering labelled regions with headings and paragraphs.

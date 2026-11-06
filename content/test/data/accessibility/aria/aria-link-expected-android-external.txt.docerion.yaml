@@ -1,0 +1,4 @@
+# Docerion header of aria-link-expected-android-external.txt.
+type: test
+title: aria-link-expected-android-external
+summary: Expected Android accessibility tree snapshot in external format for the aria-link test, describing a clickable link named ARIA Link.

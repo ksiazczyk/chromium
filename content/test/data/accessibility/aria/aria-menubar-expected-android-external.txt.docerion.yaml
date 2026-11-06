@@ -1,0 +1,4 @@
+# Docerion header of aria-menubar-expected-android-external.txt.
+type: test
+title: aria-menubar expected Android external data
+summary: Expected Android external-format accessibility tree snapshot for the aria-menubar test page, describing the menu bar and its clickable menu items.

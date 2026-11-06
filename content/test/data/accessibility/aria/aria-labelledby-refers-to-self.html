@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: aria-labelledby refers-to-self test page
+summary: HTML test page covering name computation when aria-labelledby points to the element itself, including a range slider case.
+-->
+
 <!-- A value does not contribute to a name when the value comes from an element pointed to by its own aria-labelledby,
 because ACCNAME 2e says "for *another* control". However, 2c applies when the embedded control rule in 2e does not (which causes the aria-label to be accumulated into the name) -->
 <span id="label">The Label</span>

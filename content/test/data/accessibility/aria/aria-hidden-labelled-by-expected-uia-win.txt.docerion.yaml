@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-labelled-by-expected-uia-win.txt.
+type: test
+title: aria-hidden labelled-by expected UIA Windows tree
+summary: Expected UIA accessibility tree snapshot on Windows for the aria-hidden with aria-labelledby test case.

@@ -1,0 +1,4 @@
+# Docerion header of aria-listitem-expected-win.txt.
+type: test
+title: aria-listitem expected Windows output
+summary: Expected Windows MSAA/IA2 accessibility tree dump for the aria-listitem test page with list and listitem roles.

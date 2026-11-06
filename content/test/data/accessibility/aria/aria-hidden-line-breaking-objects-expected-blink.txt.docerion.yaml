@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-line-breaking-objects-expected-blink.txt.
+type: test
+title: aria-hidden line-breaking objects expected Blink tree
+summary: Expected Blink accessibility tree snapshot for the aria-hidden line-breaking objects test case.

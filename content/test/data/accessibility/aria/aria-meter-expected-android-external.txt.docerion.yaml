@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-expected-android-external.txt.
+type: test
+title: Expected Android external output for the aria-meter test
+summary: Expected Android external accessibility tree output for the aria-meter test page, listing meter nodes with range info, descriptions and actions.

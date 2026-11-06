@@ -1,0 +1,4 @@
+# Docerion header of aria-math-expected-mac.txt.
+type: test
+title: aria-math expected macOS accessibility tree
+summary: Expected macOS AX tree snapshot for the ARIA math role test.

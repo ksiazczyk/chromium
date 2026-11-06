@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-android-external.txt.
+type: test
+title: aria-marquee expected Android external dump
+summary: Expected Android external accessibility dump for the aria-marquee test page, including focus actions, live region modes and role descriptions.

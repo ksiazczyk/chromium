@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-android-assist-data.txt.
+type: test
+title: aria-keyshortcuts expected Android assist data tree
+summary: Expected Android assist data tree for the aria-keyshortcuts test, showing buttons with Ctrl+X, Ctrl+C and Ctrl+V shortcuts.

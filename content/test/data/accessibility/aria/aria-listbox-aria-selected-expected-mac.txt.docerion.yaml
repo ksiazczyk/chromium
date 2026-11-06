@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-aria-selected-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-selected listbox
+summary: Expected macOS accessibility tree snapshot for a multiselectable listbox with aria-selected options.

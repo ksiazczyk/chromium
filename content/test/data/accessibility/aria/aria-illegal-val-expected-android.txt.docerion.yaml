@@ -1,0 +1,4 @@
+# Docerion header of aria-illegal-val-expected-android.txt.
+type: test
+title: aria-illegal-val expected Android snapshot
+summary: Expected Android accessibility snapshot for the aria-illegal-val test showing how illegal ARIA attribute values are exposed.

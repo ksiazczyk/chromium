@@ -1,0 +1,4 @@
+# Docerion header of aria-img-expected-auralinux.txt.
+type: test
+title: aria-img expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for the aria-img test, listing image nodes under the document web.

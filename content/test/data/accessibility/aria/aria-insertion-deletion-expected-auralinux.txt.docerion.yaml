@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-auralinux.txt.
+type: test
+title: aria-insertion-deletion expected Linux tree
+summary: Expected Linux accessibility tree for the aria-insertion-deletion test with content deletion and insertion nodes.

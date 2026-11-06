@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-android-assist-data.txt.
+type: test
+title: aria-marquee expected Android assist data
+summary: Expected Android assist data dump for the aria-marquee test page, showing marquee divs with off, polite and assertive aria-live values.

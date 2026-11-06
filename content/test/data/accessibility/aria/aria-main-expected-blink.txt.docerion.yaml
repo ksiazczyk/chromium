@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-blink.txt.
+type: test
+title: aria-main expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the aria-main role test page, from the root web area down to the main node.

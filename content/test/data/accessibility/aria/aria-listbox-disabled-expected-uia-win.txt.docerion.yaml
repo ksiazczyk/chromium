@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for disabled ARIA listbox test
+summary: Expected Windows UIA accessibility tree for the aria-listbox-disabled test, showing a disabled list with four list items and the Striped item selected.

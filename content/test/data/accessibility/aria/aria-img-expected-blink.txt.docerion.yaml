@@ -1,0 +1,4 @@
+# Docerion header of aria-img-expected-blink.txt.
+type: test
+title: aria-img expected accessibility tree for Blink
+summary: Expected Blink internal accessibility tree for the aria-img test, showing ignored containers and nested image nodes.

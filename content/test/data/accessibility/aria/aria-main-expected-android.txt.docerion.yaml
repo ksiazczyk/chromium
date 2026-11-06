@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-android.txt.
+type: test
+title: aria-main expected Android accessibility tree
+summary: Expected Android accessibility tree dump for the aria-main role test page, showing the WebView with a main landmark.

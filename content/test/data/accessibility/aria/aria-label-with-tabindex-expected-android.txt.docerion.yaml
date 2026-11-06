@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-tabindex-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-label with tabindex
+summary: Expected Android accessibility tree snapshot for the aria-label-with-tabindex test page, showing how a section with a negative tabindex is exposed.

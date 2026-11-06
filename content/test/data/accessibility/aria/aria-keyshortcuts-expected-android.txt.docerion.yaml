@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-android.txt.
+type: test
+title: aria-keyshortcuts expected Android accessibility tree
+summary: Expected Android accessibility tree for the aria-keyshortcuts test with Cut, Copy and Paste buttons.

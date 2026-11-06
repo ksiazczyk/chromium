@@ -1,0 +1,4 @@
+# Docerion header of aria-menubar-expected-android.txt.
+type: test
+title: aria-menubar expected Android data
+summary: Expected Android accessibility tree output for the aria-menubar test page, showing the menu bar and its File, Edit and View menu items.

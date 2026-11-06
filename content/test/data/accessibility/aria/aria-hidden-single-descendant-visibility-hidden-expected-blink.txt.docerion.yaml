@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-single-descendant-visibility-hidden-expected-blink.txt.
+type: test
+title: aria-hidden single descendant visibility hidden expected Blink output
+summary: Expected Blink accessibility tree snapshot for a page where aria-hidden descendants are toggled inside a visibility:hidden container.

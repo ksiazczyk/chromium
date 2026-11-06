@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-auralinux.txt.
+type: test
+title: aria-menuitemcheckbox expected Linux tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the ARIA menuitemcheckbox test with three check menu items.

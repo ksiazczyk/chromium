@@ -1,0 +1,4 @@
+# Docerion header of aria-link-expected-auralinux.txt.
+type: test
+title: aria-link-expected-auralinux
+summary: Expected Linux accessibility tree snapshot for the aria-link test, describing a link named ARIA Link with its static text.

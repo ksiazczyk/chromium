@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-mac.txt.
+type: test
+title: aria-main expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the aria-main role test page, with the AXWebArea and a main group subrole.

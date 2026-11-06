@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-blink.txt.
+type: test
+title: aria-menuitemcheckbox expected Blink tree
+summary: Expected Blink internal accessibility tree snapshot for the ARIA menuitemcheckbox test with mixed checked states.

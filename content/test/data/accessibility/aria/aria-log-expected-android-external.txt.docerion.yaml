@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-android-external.txt.
+type: test
+title: aria-log expected Android external
+summary: Expected Android external accessibility output for the aria-log test, showing the log live region with focus actions.

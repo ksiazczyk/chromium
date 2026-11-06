@@ -1,0 +1,4 @@
+# Docerion header of aria-listitem-expected-android-external.txt.
+type: test
+title: ARIA listitem expected Android external tree
+summary: Expected Android external accessibility tree for the ARIA listitem test page with collection info, actions and chrome roles.

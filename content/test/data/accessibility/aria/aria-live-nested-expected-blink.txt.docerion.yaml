@@ -1,0 +1,4 @@
+# Docerion header of aria-live-nested-expected-blink.txt.
+type: test
+title: aria-live nested expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the nested aria-live test, showing how live and container live statuses are inherited across nested groups.

@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-win.txt.
+type: test
+title: aria-marquee expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the marquee role test, including live and container property values.

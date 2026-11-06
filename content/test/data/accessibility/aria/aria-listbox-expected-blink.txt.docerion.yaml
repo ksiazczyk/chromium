@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-expected-blink.txt.
+type: test
+title: ARIA listbox expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the ARIA listbox test page, showing list box options with set size, position and selection state.

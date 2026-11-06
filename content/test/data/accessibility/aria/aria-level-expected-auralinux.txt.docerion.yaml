@@ -1,0 +1,4 @@
+# Docerion header of aria-level-expected-auralinux.txt.
+type: test
+title: aria-level-expected-auralinux
+summary: Expected Linux accessibility tree snapshot for the aria-level test, listing headings, tree items, table cells and list items with their computed levels.

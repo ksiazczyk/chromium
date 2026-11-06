@@ -1,0 +1,4 @@
+# Docerion header of aria-img-child-expected-blink.txt.
+type: test
+title: aria-img-child expected Blink output
+summary: Expected Blink accessibility tree snapshot for the aria-img-child test, including the ignored containers and static text inside the image role.

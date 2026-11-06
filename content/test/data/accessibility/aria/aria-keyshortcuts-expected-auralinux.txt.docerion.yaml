@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-auralinux.txt.
+type: test
+title: aria-keyshortcuts expected Aura Linux accessibility tree
+summary: Expected Aura Linux accessibility tree for the aria-keyshortcuts test, showing push buttons with keyshortcuts values.

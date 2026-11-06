@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-unhidden-expected-mac.txt.
+type: test
+title: Expected Mac output for aria-modal-unhidden
+summary: Expected macOS accessibility tree output for the web test where a hidden modal alertdialog is revealed.

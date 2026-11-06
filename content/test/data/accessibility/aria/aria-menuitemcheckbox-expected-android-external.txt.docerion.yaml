@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-android-external.txt.
+type: test
+title: aria-menuitemcheckbox expected Android external tree
+summary: Expected Android external-format accessibility snapshot for the ARIA menuitemcheckbox test with checkable menu items.
