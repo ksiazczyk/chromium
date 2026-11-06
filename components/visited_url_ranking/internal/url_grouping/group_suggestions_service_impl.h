@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions service header
+// summary: Declares GroupSuggestionsServiceImpl, the GroupSuggestionsService implementation that owns the suggestions manager and tab event tracker.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_GROUP_SUGGESTIONS_SERVICE_IMPL_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_GROUP_SUGGESTIONS_SERVICE_IMPL_H_
 

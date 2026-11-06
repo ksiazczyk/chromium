@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Viz top-level presubmit script
+# summary: Runs all viz presubmit checks on changed C++ files under components/viz when changes are uploaded.
+# ---
+
 """Top-level presubmit script for components/viz."""
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientResourceProvider header
+// summary: Declares ClientResourceProvider, which names transferable resources for compositor frames and invokes release callbacks once the display compositor no longer uses them.
+// ---
+
 #ifndef COMPONENTS_VIZ_CLIENT_CLIENT_RESOURCE_PROVIDER_H_
 #define COMPONENTS_VIZ_CLIENT_CLIENT_RESOURCE_PROVIDER_H_
 

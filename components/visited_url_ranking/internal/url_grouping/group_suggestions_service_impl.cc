@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions service implementation
+// summary: Implements GroupSuggestionsServiceImpl, wiring the tab event tracker and visit transformer to the group suggestions manager.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/group_suggestions_service_impl.h"
 
 #include "base/functional/bind.h"

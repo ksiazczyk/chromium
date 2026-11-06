@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientResourceProvider implementation
+// summary: Implements the provider that assigns resource IDs to GPU and software resources for the viz display compositor and reports evicted locked resource memory usage.
+// ---
+
 #include "components/viz/client/client_resource_provider.h"
 
 #include <algorithm>

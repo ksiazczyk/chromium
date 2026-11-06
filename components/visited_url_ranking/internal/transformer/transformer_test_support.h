@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL visit aggregates transformer test support declaration
+// summary: Declares a base test fixture for running URL visit aggregates transformers and collecting results.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_TRANSFORMER_TEST_SUPPORT_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_TRANSFORMER_TEST_SUPPORT_H_
 

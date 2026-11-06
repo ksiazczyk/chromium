@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL visit aggregates segmentation metrics transformer implementation
+// summary: Implements a transformer that populates URLVisitAggregate objects with segmentation platform user interaction metrics such as seen, activated, and dismissed counts over day ranges.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/url_visit_aggregates_segmentation_metrics_transformer.h"
 
 #include <memory>

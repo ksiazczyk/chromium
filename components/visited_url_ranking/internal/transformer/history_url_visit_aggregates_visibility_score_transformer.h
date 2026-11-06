@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL visit aggregates visibility score transformer declaration
+// summary: Declares a transformer that removes history visit aggregates below a visibility score threshold.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_HISTORY_URL_VISIT_AGGREGATES_VISIBILITY_SCORE_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_HISTORY_URL_VISIT_AGGREGATES_VISIBILITY_SCORE_TRANSFORMER_H_
 

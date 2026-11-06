@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameEvictionManager implementation
+// summary: Implements the singleton manager that culls saved compositor frames for offscreen renderers, scaling the frame limit by device memory.
+// ---
+
 #include "components/viz/client/frame_eviction_manager.h"
 
 #include <algorithm>

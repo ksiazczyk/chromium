@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLinkReader implementation
+// summary: Implements the renderer-side visited link reader that maps the shared-memory hash table, handles partitioned and unpartitioned table updates, and computes partitioned fingerprints using per-origin salts.
+// ---
+
 #include "components/visitedlink/renderer/visitedlink_reader.h"
 
 #include <stddef.h>

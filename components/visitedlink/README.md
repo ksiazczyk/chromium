@@ -1,3 +1,9 @@
+---
+type: readme
+title: Welcome to components/visitedlink
+summary: Explains how :visited links work in Chromium, covering the in-memory hashtable, partitioned versus unpartitioned code paths, and design tradeoffs.
+---
+
 # Welcome to components/visitedlink
 
 This module contains the code that supports the in-memory hashtable storing

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partitioned visited link writer implementation
+// summary: Implements the partitioned :visited links hashtable writer, building tables from the history database with per-origin salts and storing results in shared memory.
+// ---
+
 #include "components/visitedlink/browser/partitioned_visitedlink_writer.h"
 
 #include <algorithm>

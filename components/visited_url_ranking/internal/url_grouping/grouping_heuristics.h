@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupingHeuristics class interface for tab grouping suggestions
+// summary: Declares the GroupingHeuristics class and its Heuristic interface, which run tab grouping heuristics over URL visit candidates and return group suggestions via a callback.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_GROUPING_HEURISTICS_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_GROUPING_HEURISTICS_H_
 

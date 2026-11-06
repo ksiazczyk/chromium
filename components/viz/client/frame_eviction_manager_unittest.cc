@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameEvictionManager unit tests
+// summary: Unit tests for FrameEvictionManager covering pause, locking, culling, and the scalable frame eviction feature.
+// ---
+
 #include "components/viz/client/frame_eviction_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL visit aggregates segmentation metrics transformer header
+// summary: Declares URLVisitAggregatesSegmentationMetricsTransformer, which adds user interaction metrics for 1, 7, and 30 day ranges to URL visit aggregates via the segmentation platform service.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_URL_VISIT_AGGREGATES_SEGMENTATION_METRICS_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_URL_VISIT_AGGREGATES_SEGMENTATION_METRICS_TRANSFORMER_H_
 

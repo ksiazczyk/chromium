@@ -1,3 +1,12 @@
+---
+type: readme
+title: Visited URL Ranking Component
+summary: Describes the component that fetches and ranks aggregated user URL visit data from sources such as Tab Model, Session, and History, and links its fetcher interfaces and services.
+relations:
+  - documents /components/visited_url_ranking/internal/history_url_visit_data_fetcher.h
+  - documents /components/visited_url_ranking/internal/session_url_visit_data_fetcher.h
+---
+
 # Visited URL Ranking Component
 
 Component that facilitates fetching and ranking of aggregated user URL visit

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Viz code owners by topic
+summary: Lists topic-specific and general code owners for patches touching viz areas such as renderers, frame sinks, GPU, hit testing, and scheduling.

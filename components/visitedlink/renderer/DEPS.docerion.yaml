@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the visitedlink renderer
+summary: Grants the renderer directory access to content public renderer and Blink public common, platform, and web headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLink struct declaration
+// summary: Declares the VisitedLink struct representing the triple-partition key of link URL, top-level site, and frame origin, with helper functions.
+// ---
+
 #ifndef COMPONENTS_VISITEDLINK_CORE_VISITED_LINK_H_
 #define COMPONENTS_VISITEDLINK_CORE_VISITED_LINK_H_
 

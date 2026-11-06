@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recency filter transformer unit tests
+// summary: Unit tests covering recency-based filtering, sorting, and aggregate count limit behavior.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/recency_filter_transformer.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameEvictionManager header
+// summary: Declares FrameEvictionManager, which keeps a bounded LRU cache of compositor frames for offscreen tabs with locking to protect visible or captured frames.
+// ---
+
 #ifndef COMPONENTS_VIZ_CLIENT_FRAME_EVICTION_MANAGER_H_
 #define COMPONENTS_VIZ_CLIENT_FRAME_EVICTION_MANAGER_H_
 

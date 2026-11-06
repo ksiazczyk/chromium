@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions tracker header
+// summary: Declares GroupSuggestionsTracker, which records shown suggestions, decides whether to show new ones and caches computed suggestions.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_GROUP_SUGGESTIONS_TRACKER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_URL_GROUPING_GROUP_SUGGESTIONS_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visited link unit tests
+// summary: Unit tests for the visitedlink component covering writers, readers, delegates, table rebuilds, event listeners, and partitioned visited links.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL visit aggregates browser type transformer header
+// summary: Declares a transformer that removes URL visit aggregates with an auth tab browser type annotation.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_HISTORY_URL_VISIT_AGGREGATES_BROWSER_TYPE_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_HISTORY_URL_VISIT_AGGREGATES_BROWSER_TYPE_TRANSFORMER_H_
 

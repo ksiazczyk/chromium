@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partitioned visited link writer class declaration
+// summary: Declares PartitionedVisitedLinkWriter, which constructs and writes the partitioned visited links hashtable in shared memory, relying on the history service for persistence.
+// ---
+
 #ifndef COMPONENTS_VISITEDLINK_BROWSER_PARTITIONED_VISITEDLINK_WRITER_H_
 #define COMPONENTS_VISITEDLINK_BROWSER_PARTITIONED_VISITEDLINK_WRITER_H_
 

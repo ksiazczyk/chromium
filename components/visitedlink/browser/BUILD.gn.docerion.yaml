@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the visitedlink browser component
+summary: Defines the static library target listing the visitedlink browser sources and their dependencies on base, content, url and the visitedlink common and core components.

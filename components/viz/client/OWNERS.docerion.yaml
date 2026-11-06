@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Sets per-file owners for hit_test_data_provider files, delegating review to the viz common hit test owners.

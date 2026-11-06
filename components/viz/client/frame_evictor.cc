@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameEvictor implementation
+// summary: Implements FrameEvictor, which tracks surface visibility and registers or unregisters frames with the eviction manager, evicting frames on hide when requested.
+// ---
+
 #include "components/viz/client/frame_evictor.h"
 
 #include <algorithm>

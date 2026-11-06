@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited link writer class declaration
+// summary: Declares VisitedLinkWriter, the single controller of the link coloring database that handles table writes and defers file operations to a background thread.
+// ---
+
 #ifndef COMPONENTS_VISITEDLINK_BROWSER_VISITEDLINK_WRITER_H_
 #define COMPONENTS_VISITEDLINK_BROWSER_VISITEDLINK_WRITER_H_
 

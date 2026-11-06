@@ -1,0 +1,4 @@
+# Docerion header of visitedlink.mojom.
+type: source
+title: VisitedLinkNotificationSink Mojom interface
+summary: Defines the Mojom interface notifying renderer processes about visited link table replacements, added links, resets, and per-origin salts.

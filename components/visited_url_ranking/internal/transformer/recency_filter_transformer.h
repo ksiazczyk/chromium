@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recency filter transformer declaration
+// summary: Declares a transformer that removes old entries and trims long tails of URL visit aggregates.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_RECENCY_FILTER_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_RECENCY_FILTER_TRANSFORMER_H_
 

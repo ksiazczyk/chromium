@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test delegate for the group suggestions service
+// summary: Test delegate that registers itself with the Java group suggestions service and counts notifications for the native unit tests in group_suggestions_service_android_unittest.cc.
+// ---
+
 package org.chromium.components.visited_url_ranking.url_grouping;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the visitedlink core static library
+summary: Defines the core static library target for the visitedlink component, listing the visited_link sources and dependencies on //net and //url.

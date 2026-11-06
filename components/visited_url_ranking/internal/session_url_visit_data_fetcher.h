@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session URL visit data fetcher class declaration
+// summary: Declares SessionURLVisitDataFetcher, which fetches aggregated URL visit data from the session sync service.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_SESSION_URL_VISIT_DATA_FETCHER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_SESSION_URL_VISIT_DATA_FETCHER_H_
 

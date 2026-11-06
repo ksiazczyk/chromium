@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recency filter transformer implementation
+// summary: Discards visits outside age limits, sorts aggregates by last visit time, and trims to the configured count limit.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/recency_filter_transformer.h"
 
 #include <algorithm>

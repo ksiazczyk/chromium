@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for visitedlink common Mojom files
+summary: Sets per-file ownership so Mojom changes in this directory require approval from the IPC security owners.

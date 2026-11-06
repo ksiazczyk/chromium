@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Visitedlink test DEPS include rules
+summary: DEPS file granting the test directory include access to content/public and third_party/blink/public/common headers.

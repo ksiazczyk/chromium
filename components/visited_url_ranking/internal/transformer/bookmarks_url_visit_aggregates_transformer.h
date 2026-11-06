@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks URL visit aggregates transformer header
+// summary: Declares a transformer that sets bookmark-related fields on URL visit aggregates using a bookmark model.
+// ---
+
 #ifndef COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_BOOKMARKS_URL_VISIT_AGGREGATES_TRANSFORMER_H_
 #define COMPONENTS_VISITED_URL_RANKING_INTERNAL_TRANSFORMER_BOOKMARKS_URL_VISIT_AGGREGATES_TRANSFORMER_H_
 

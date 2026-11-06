@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History URL visit aggregates browser type transformer unit tests
+// summary: Parameterized tests checking that auth tab visits are removed while other browser types are kept.
+// ---
+
 #include "components/visited_url_ranking/internal/transformer/history_url_visit_aggregates_browser_type_transformer.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab events visit transformer implementation
+// summary: Implements TabEventsVisitTransformer, which copies each tab's recent foreground selection count from the tab event tracker into the visit aggregates.
+// ---
+
 #include "components/visited_url_ranking/internal/url_grouping/tab_events_visit_transformer.h"
 
 namespace visited_url_ranking {

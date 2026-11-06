@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for the visitedlink core directory
+summary: Explains that this directory holds visitedlink types without //content dependencies so they can be used in iOS codepaths such as HistoryService without layering errors.
+---
+
 This directory exists for "core" types within visitedlink, which do not include
 any dependencies on //content. As a result, classes in this directory can be
 accessed in codepaths used in ios-builds, i.e. HistoryService, without

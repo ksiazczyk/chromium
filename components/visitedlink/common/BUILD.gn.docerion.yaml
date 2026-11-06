@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Visited link common GN build rules
+summary: GN build file defining the visitedlink common static library and the Mojom interface target with their sources and dependencies.

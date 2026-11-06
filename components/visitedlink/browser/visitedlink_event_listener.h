@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited link event listener class declaration
+// summary: Declares VisitedLinkEventListener, which broadcasts link coloring database updates to all render processes and coalesces them to avoid excessive messaging.
+// ---
+
 #ifndef COMPONENTS_VISITEDLINK_BROWSER_VISITEDLINK_EVENT_LISTENER_H_
 #define COMPONENTS_VISITEDLINK_BROWSER_VISITEDLINK_EVENT_LISTENER_H_
 

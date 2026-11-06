@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session URL visit data fetcher implementation
+// summary: Implements fetching and aggregating URL visit data from the synced sessions service, merging tab data per URL merge key with deduplication support.
+// ---
+
 #include "components/visited_url_ranking/internal/session_url_visit_data_fetcher.h"
 
 #include <algorithm>

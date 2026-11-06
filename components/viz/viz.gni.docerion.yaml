@@ -1,0 +1,4 @@
+# Docerion header of viz.gni.
+type: config
+title: Viz GN templates and build flags
+summary: Provides GN templates for viz source sets, components, static libraries, and tests, plus flags controlling GL, Vulkan, and Skia Graphite test backends.

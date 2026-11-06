@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLinkCommon implementation
+// summary: Implements visited-link lookups and MD5-based fingerprint computation over the shared hash table, including pseudo-partitioned and partitioned variants.
+// ---
+
 #include "components/visitedlink/common/visitedlink_common.h"
 
 #include <string.h>  // for memset()

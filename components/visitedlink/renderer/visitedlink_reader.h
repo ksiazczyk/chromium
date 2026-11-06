@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisitedLinkReader class declaration
+// summary: Declares the VisitedLinkReader class, which reads the visited link database from shared memory, manages per-origin salts, and implements the VisitedLinkNotificationSink Mojo interface.
+// ---
+
 #ifndef COMPONENTS_VISITEDLINK_RENDERER_VISITEDLINK_READER_H_
 #define COMPONENTS_VISITEDLINK_RENDERER_VISITEDLINK_READER_H_
 
