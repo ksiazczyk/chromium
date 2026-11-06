@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for tab strip types
+summary: Defines the source_set for tab strip API types and a separate testonly source_set for their unit tests, with dependencies on base, split_tabs, tab_groups and tabs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAdapter interface for browser API access
+// summary: Abstract interface that exposes a subset of browser APIs, such as creating tab strip model adapters and adding tabs, to ease dependency control in testing.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_BROWSER_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_BROWSER_ADAPTER_H_
 

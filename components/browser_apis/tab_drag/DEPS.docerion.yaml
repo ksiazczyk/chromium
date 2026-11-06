@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the tab drag component
+summary: DEPS file allowing includes from components/browser_apis/tab_strip within the tab drag directory.

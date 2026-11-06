@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock and callback transport handler implementations
+// summary: Implements MockTransportHandler and a CallbackTransportHandler that runs a closure for each received message.
+// ---
+
 #include "components/browser_actuator/test_support/mock_transport_handler.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripApiObserver dispatch unit test
+// summary: Unit test verifying that each batched tab event type dispatches to the correct observer method.
+// ---
+
 #include "components/browser_apis/tab_strip/observation/tab_strip_api_observer.h"
 
 #include "components/browser_apis/tab_strip/tab_strip_api.mojom.h"

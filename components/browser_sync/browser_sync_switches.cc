@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature switches for sync user migration
+// summary: Defines base::Feature flags and parameters controlling migration of syncing users to signed-in state, with platform-specific defaults.
+// ---
+
 #include "components/browser_sync/browser_sync_switches.h"
 
 #include "base/feature_list.h"

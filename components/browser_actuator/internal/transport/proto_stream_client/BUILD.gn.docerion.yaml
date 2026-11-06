@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the proto stream client transport
+summary: Defines GN targets for the C++ stream client, the Rust-backed framer, the pure-Rust parser crate, the cxx bridge and the unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab drag sessions build targets (BUILD.gn)
+summary: Defines GN source sets for the tab drag sessions headers, implementations, and unit tests with their dependencies.

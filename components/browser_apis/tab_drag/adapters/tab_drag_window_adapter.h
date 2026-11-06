@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragWindowAdapter interface header
+// summary: Declares an abstract browser window adapter for the TabDragAPI covering window queries, activation, detaching tabs to new windows, and native move loops.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_ADAPTERS_TAB_DRAG_WINDOW_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_ADAPTERS_TAB_DRAG_WINDOW_ADAPTER_H_
 

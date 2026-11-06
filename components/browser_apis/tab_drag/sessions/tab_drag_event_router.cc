@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag event router implementation
+// summary: Implements routing of tab drag session events to registered drop targets through the DropTargetRegistry.
+// ---
+
 #include "components/browser_apis/tab_drag/sessions/tab_drag_event_router.h"
 
 #include <utility>

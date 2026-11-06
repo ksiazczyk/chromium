@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyTabDragSessionInputAdapter and injector header
+// summary: Declares a toy TabDragSessionInputAdapter for synthetic drag events and a ToyTabDragSessionInjector that wires the test adapters together.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_TAB_DRAG_SESSION_INPUT_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TESTING_TOY_TAB_DRAG_SESSION_INPUT_ADAPTER_H_
 

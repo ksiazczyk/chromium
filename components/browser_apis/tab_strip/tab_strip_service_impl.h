@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripServiceImpl class header
+// summary: Declares TabStripServiceImpl with tab creation, retrieval, closing, activation, selection, moving, updating, and observer management methods.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TAB_STRIP_SERVICE_IMPL_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TAB_STRIP_SERVICE_IMPL_H_
 

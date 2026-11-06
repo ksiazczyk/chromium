@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab context menu adapter implementation
+// summary: Implements ShowTabContextMenu as an unimplemented error for the toy tab strip testing environment.
+// ---
+
 #include "components/browser_apis/tab_strip/testing/toy_tab_context_menu_adapter.h"
 
 #include "mojo/public/mojom/base/error.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTransportHandlerFactory gmock class
+// summary: GMock transport handler factory with configurable supported payload types, factory ID and a mocked OnNewSession.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_TRANSPORT_HANDLER_FACTORY_H_
 #define COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_TRANSPORT_HANDLER_FACTORY_H_
 

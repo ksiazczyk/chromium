@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslationAdapter interface for mojo encoding
+// summary: Abstract interface for encoding tabs and collections into their mojo representations, returning errors on failure.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_TRANSLATION_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_TRANSLATION_ADAPTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the tab drag adapters source set
+summary: Defines the adapters source_set listing the two adapter headers and their public and private dependencies.

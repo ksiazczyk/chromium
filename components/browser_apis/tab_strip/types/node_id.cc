@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node ID implementation
+// summary: Implements NodeId equality and conversions between NodeId and tab handles, tab collection handles and window IDs.
+// ---
+
 #include "components/browser_apis/tab_strip/types/node_id.h"
 
 #include "base/strings/string_number_conversions.h"

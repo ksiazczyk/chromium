@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport handler factory registry implementation
+// summary: Implements the transport handler factory registry, mapping payload types to registered factories, detecting duplicate IDs and notifying observers on unregistration.
+// ---
+
 #include "components/browser_actuator/internal/transport_handler_factory_registry_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser actuator proto build targets
+summary: GN build file defining the proto_library and proto_extras targets for transport_messages.proto with restricted visibility.

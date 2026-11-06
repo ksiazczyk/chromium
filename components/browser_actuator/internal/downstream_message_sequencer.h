@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downstream message sequencer header
+// summary: Declares DownstreamMessageSequencer, which reorders session messages by sequence number with a bounded buffer and duplicate dropping.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_DOWNSTREAM_MESSAGE_SEQUENCER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_DOWNSTREAM_MESSAGE_SEQUENCER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock stream framer implementation
+// summary: Provides constructor and destructor definitions for the mock stream framer.
+// ---
+
 #include "components/browser_actuator/internal/transport/test_support/mock_stream_framer.h"
 
 namespace browser_actuator {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path type for tab strip API
+// summary: Declares the tabs_api::Path class, an absolute sequence of NodeIds from the root to a node's immediate parent.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_PATH_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_PATH_H_
 

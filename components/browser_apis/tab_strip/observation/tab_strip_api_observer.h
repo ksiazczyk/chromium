@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripApiObserver interface
+// summary: Declares an observer with event-specific virtual methods for tab strip API events such as creation, closing and moves.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_OBSERVATION_TAB_STRIP_API_OBSERVER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_OBSERVATION_TAB_STRIP_API_OBSERVER_H_
 

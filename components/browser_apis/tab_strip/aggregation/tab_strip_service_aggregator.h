@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripServiceAggregator class declaration
+// summary: Declares the aggregator that observes all TabStripService instances and unifies their event streams into a single callback.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_AGGREGATION_TAB_STRIP_SERVICE_AGGREGATOR_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_AGGREGATION_TAB_STRIP_SERVICE_AGGREGATOR_H_
 

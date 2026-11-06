@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Test support build definition
+summary: GN build file defining the testonly source_set that bundles the browser actuator mocks and their dependencies.

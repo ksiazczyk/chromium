@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActiveDevicesProviderImpl
+// summary: Unit tests covering filtering of inactive devices and calculation of invalidation info using a fake device info tracker and test clock.
+// ---
+
 #include "components/browser_sync/active_devices_provider_impl.h"
 
 #include <memory>

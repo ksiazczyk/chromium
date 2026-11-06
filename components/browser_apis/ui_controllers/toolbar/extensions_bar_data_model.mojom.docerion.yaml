@@ -1,0 +1,4 @@
+# Docerion header of extensions_bar_data_model.mojom.
+type: source
+title: Extensions bar data model Mojo structs
+summary: Defines the ExtensionActionInfo struct describing toolbar button data for extensions, including visibility, icon, and IPH anchor flags.

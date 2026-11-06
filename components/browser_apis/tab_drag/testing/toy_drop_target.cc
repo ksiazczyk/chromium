@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToyDropTarget implementation
+// summary: Implements ToyDropTarget, a fake mojom::DropTarget that records drag entered, move, leave, drop and cancelled events for test assertions.
+// ---
+
 #include "components/browser_apis/tab_drag/testing/toy_drop_target.h"
 
 #include <utility>

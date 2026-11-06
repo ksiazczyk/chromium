@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event filter implementations for tab strip events
+// summary: Implements functions that filter a list of tab strip events by type, such as tabs created, nodes closed, node moved, data changed, and collection created.
+// ---
+
 #include "components/browser_apis/tab_strip/utilities/event_filters.h"
 
 namespace tabs_api::events {

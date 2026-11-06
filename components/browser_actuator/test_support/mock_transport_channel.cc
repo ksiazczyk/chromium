@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock transport channel implementation
+// summary: Implements MockTransportChannel construction, destruction and its weak pointer accessor.
+// ---
+
 #include "components/browser_actuator/test_support/mock_transport_channel.h"
 
 namespace browser_actuator {

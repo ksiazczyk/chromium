@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the bookmarks browser API component
+summary: Defines GN targets for the bookmarks Mojo bindings, core sources, implementation, test support and unit tests.

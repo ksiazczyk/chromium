@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Browser APIs owners and Mojom review rules
+summary: OWNERS file listing the component's owners and requiring security-owner review for all .mojom files via per-file rules.

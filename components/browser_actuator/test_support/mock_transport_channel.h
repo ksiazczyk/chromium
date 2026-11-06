@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTransportChannel gmock class
+// summary: GMock mock of TransportChannel stubbing registry access and upstream message sending, with weak pointer support.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_TRANSPORT_CHANNEL_H_
 #define COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_TRANSPORT_CHANNEL_H_
 

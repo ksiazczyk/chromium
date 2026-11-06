@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag session parameter types
+// summary: Defines the TabDragSessionParams struct holding the source window, tab ids, start point, and mouse geometry for a drag session.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TAB_DRAG_TYPES_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TAB_DRAG_TYPES_H_
 

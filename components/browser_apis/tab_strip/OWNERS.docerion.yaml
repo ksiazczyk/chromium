@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tab strip API component
+summary: Specifies the code owners for the directory and routes mojom file reviews to the IPC security owners.

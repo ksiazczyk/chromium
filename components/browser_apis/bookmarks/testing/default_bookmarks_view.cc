@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultBookmarksView implementation
+// summary: Implements DefaultBookmarksView, forwarding bookmark view operations such as lookups, edits and UUID mapping directly to BookmarkModel for use in tests.
+// ---
+
 #include "components/browser_apis/bookmarks/testing/default_bookmarks_view.h"
 
 #include "base/check.h"

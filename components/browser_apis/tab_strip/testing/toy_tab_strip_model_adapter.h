@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip model adapter header
+// summary: Declares ToyTabStripModelAdapter, which adapts the toy tab strip to the TabStripModelAdapter interface for testing.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_MODEL_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_MODEL_ADAPTER_H_
 

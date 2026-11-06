@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downstream message sequencer implementation
+// summary: Orders downstream session messages by sequence number, buffering out-of-order messages and flushing gaps on demand.
+// ---
+
 #include "components/browser_actuator/internal/downstream_message_sequencer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksService Mojo interface header
+// summary: Declares the BookmarksService interface in the bookmarks_api namespace, which accepts Mojo receivers to expose the browser bookmarks API.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARKS_SERVICE_H_
 #define COMPONENTS_BROWSER_APIS_BOOKMARKS_BOOKMARKS_SERVICE_H_
 

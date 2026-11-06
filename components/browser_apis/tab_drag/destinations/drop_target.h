@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTarget class declaration
+// summary: Declares the DropTarget class that wraps a native view and Mojo remote to forward tab drag events with coordinate conversion and cached bounds.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_H_
 

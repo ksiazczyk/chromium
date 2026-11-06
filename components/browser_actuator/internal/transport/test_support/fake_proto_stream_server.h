@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake protobuf stream server test double
+// summary: Declares a fake server-streaming protobuf endpoint backed by TestURLLoaderFactory that pushes messages, keep-alives, trailers, and network errors to test clients.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_FAKE_PROTO_STREAM_SERVER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_FAKE_PROTO_STREAM_SERVER_H_
 

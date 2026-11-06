@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock stream connection delegate
+// summary: Declares a gmock mock of StreamConnectionDelegate for stubbing message dispatch, connection establishment, and request preparation in tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_MOCK_STREAM_CONNECTION_DELEGATE_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_MOCK_STREAM_CONNECTION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetId type alias
+// summary: Defines DropTargetId as a 64-bit base::IdType64 identifier for drop targets in the tabs_api namespace.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_ID_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_DESTINATIONS_DROP_TARGET_ID_H_
 

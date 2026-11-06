@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser actuator internal feature flags
+// summary: Defines internal feature flags and parameters for the browser actuator transport, including reconnection timing, stall timeout, and endpoint URL builders.
+// ---
+
 #include "components/browser_actuator/internal/features.h"
 
 #include <string>

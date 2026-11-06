@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the OAuth transport target
+summary: Defines the oauth source_set and its unit_tests target, wiring dependencies on signin, google_apis, net, and network services.

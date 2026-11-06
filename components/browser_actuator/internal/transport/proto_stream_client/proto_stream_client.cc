@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoStreamClient implementation
+// summary: Implements the OnePlatform alt=proto server-streaming client with reconnect and backoff, stall watchdog, deferred teardown and observer fan-out.
+// ---
+
 #include "components/browser_actuator/internal/transport/proto_stream_client/proto_stream_client.h"
 
 #include <algorithm>

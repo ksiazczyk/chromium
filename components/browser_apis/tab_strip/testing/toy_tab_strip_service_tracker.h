@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip service tracker header
+// summary: Declares ToyTabStripServiceTracker, a test helper for adding and removing tab strip services with notification callbacks.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_SERVICE_TRACKER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_SERVICE_TRACKER_H_
 

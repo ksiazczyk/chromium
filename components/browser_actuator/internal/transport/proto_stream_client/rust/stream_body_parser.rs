@@ -35,6 +35,12 @@
 //! state (reported via [`FeedResult::failed`]); the owner is expected to
 //! drop the connection.
 
+// ---docerion
+// type: source
+// title: Incremental StreamBody protobuf stream framing parser
+// summary: Pure, unsafe-free incremental parser for OnePlatform/ESF StreamBody framing that turns fed byte chunks into message, status, and keep-alive deliveries with size and malformed-input hardening.
+// ---
+
 #![forbid(unsafe_code)]
 
 /// Maximum size of a single length-delimited field, applied to unknown

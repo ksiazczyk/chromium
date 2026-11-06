@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab drag event router unit tests
+// summary: Unit tests verifying that tab drag events are routed to drop targets within and across multiple windows.
+// ---
+
 #include "components/browser_apis/tab_drag/sessions/tab_drag_event_router.h"
 
 #include <memory>

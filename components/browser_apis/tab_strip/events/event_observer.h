@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event observer interface
+// summary: Declares an observer interface for tab strip API events, meant to be implemented by the tab strip service while adapters translate external events.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_EVENTS_EVENT_OBSERVER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_EVENTS_EVENT_OBSERVER_H_
 

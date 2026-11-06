@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session stream recorder implementation
+// summary: Implements recording of canonical session protobuf messages and conversion of recorded entries into diagnostic event and session snapshots.
+// ---
+
 #include "components/browser_actuator/internal/session_stream_recorder.h"
 
 #include <algorithm>

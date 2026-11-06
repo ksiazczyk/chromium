@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth stream connection delegate header
+// summary: Declares a StreamConnectionDelegate decorator that authenticates stream connections as the profile's primary GAIA account and documents its retry flow.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_OAUTH_OAUTH_STREAM_CONNECTION_DELEGATE_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_OAUTH_OAUTH_STREAM_CONNECTION_DELEGATE_H_
 

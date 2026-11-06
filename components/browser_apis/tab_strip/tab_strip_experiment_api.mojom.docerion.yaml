@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_experiment_api.mojom.
+type: source
+title: TabStripExperimentService Mojo API
+summary: Defines the TabStripExperimentService Mojo interface, a staging API for prototyping experimental tab operations such as replacing a tab in split view.

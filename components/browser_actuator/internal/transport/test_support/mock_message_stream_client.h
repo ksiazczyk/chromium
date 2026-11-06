@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock message stream client and observer
+// summary: Declares gmock mocks for MessageStreamClient and its observer to stub connect, disconnect, and stream callback behavior in tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_MOCK_MESSAGE_STREAM_CLIENT_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_MOCK_MESSAGE_STREAM_CLIENT_H_
 

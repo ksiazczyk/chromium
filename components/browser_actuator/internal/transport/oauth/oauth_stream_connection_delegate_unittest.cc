@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth stream connection delegate unit tests
+// summary: Tests bearer token attachment, forwarding to the inner delegate, 401 retry behavior, and access token cache invalidation using an identity test environment.
+// ---
+
 #include "components/browser_actuator/internal/transport/oauth/oauth_stream_connection_delegate.h"
 
 #include <memory>

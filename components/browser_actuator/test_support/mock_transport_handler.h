@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock and callback transport handler classes
+// summary: Declares a gmock TransportHandler and a variant that forwards incoming messages to a provided callback.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_TRANSPORT_HANDLER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_TRANSPORT_HANDLER_H_
 

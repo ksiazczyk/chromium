@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripServiceAggregator unit tests
+// summary: Unit tests verifying that the aggregator observes registered services and delivers their tab events to a batched observer delegate.
+// ---
+
 #include "components/browser_apis/tab_strip/aggregation/tab_strip_service_aggregator.h"
 
 #include <memory>

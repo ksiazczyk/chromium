@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBrowserActuatorService gmock class
+// summary: GMock mock of BrowserActuatorService stubbing initialization, channel, session and stream recorder factory access.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_BROWSER_ACTUATOR_SERVICE_H_
 #define COMPONENTS_BROWSER_ACTUATOR_TEST_SUPPORT_MOCK_BROWSER_ACTUATOR_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of icon_handle.mojom.
+type: source
+title: IconHandle Mojo definitions
+summary: Defines the IconHandle struct, IconType enum, and IconUpdate struct for icon references and icon binding updates sent from C++ to WebUI.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Browser Actuator include rules
+summary: Specifies allowed include dependencies for the component, with extra rules for unit and integration test files.

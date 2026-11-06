@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripObservation client for tab strip events
+// summary: TypeScript class that binds the TabsObserver Mojo message pipe and dispatches queued tab strip events such as tab creation, closure and data changes to a TabStripObserver.
+// ---
+
 import {assertNotReachedCase} from '//resources/js/assert.js';
 
 import type {TabsEvent, TabsObserverInterface, TabsObserverPendingReceiverEndpoint} from './tab_strip_api.mojom-webui.js';

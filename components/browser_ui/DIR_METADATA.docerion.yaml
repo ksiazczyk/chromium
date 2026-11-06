@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Browser UI directory metadata
+summary: Directory metadata for browser_ui, mapping the component to the UI>Browser>Mobile monorail component, the clank-app-team mailing list, Android OS, and a Buganizer component.

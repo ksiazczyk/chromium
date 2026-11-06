@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group visual data Mojo traits implementation
+// summary: Implements Mojo struct traits that convert tab group title, color and collapsed state between native and Mojom representations.
+// ---
+
 #include "components/browser_apis/tab_strip/types/tab_group_visual_data_mojom_traits.h"
 
 #include "base/strings/utf_string_conversions.h"

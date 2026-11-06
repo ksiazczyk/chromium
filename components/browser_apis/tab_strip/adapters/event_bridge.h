@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventBridge interface for tab strip event observation
+// summary: Abstract bridge that forwards observation between the underlying model and the tab strip service, translating platform events to events::Event.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_EVENT_BRIDGE_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_EVENT_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UpstreamMessageClient
+// summary: Tests successful upstream message sending, verifying request construction, payload contents, response handling, and recorded metrics.
+// ---
+
 #include "components/browser_actuator/internal/transport/upstream_message_client/upstream_message_client.h"
 
 #include <memory>

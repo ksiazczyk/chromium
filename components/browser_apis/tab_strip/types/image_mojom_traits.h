@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits declaration for native images
+// summary: Declares the StructTraits mapping between gfx::ImageSkia native images and the Mojo image data view used by the tab strip API.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_IMAGE_MOJOM_TRAITS_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_IMAGE_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NodeId
+// summary: Tests NodeId comparison semantics and conversions to tab handles, collection handles and window IDs, including invalid type and id cases.
+// ---
+
 #include "components/browser_apis/tab_strip/types/node_id.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

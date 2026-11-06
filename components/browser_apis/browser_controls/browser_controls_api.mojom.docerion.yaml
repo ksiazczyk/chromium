@@ -1,0 +1,4 @@
+# Docerion header of browser_controls_api.mojom.
+type: source
+title: BrowserControlsService Mojo API
+summary: Mojo interface for browser control actions called from WebUI, covering stop load, reload, back, forward, home, split view, and URL navigation.

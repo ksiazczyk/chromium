@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Path unit tests
+// summary: Unit tests verifying equality comparison of tabs_api::Path objects built from different NodeId components.
+// ---
+
 #include "components/browser_apis/tab_strip/types/path.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport handler factory registry unit tests
+// summary: Unit tests covering registration, duplicate handling, unregistration, lookup ordering, clearing and emptiness of the transport handler factory registry.
+// ---
+
 #include "components/browser_actuator/internal/transport_handler_factory_registry_impl.h"
 
 #include <memory>

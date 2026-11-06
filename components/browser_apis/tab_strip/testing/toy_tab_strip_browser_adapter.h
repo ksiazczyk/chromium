@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip browser adapter declaration
+// summary: Declares a BrowserAdapter backed by ToyTabStrip that creates toy model adapters for tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_BROWSER_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_BROWSER_ADAPTER_H_
 

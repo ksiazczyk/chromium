@@ -11,6 +11,12 @@
 //! `allow_unsafe` (for the FFI machinery underpinning `cxx`); keep it that
 //! way so the parser itself stays free of unsafe code.
 
+// ---docerion
+// type: source
+// title: cxx FFI bridge for the StreamBody parser
+// summary: cxx FFI glue exposing the pure stream_body_parser crate to C++ as RustStreamFramer, converting between parser types and cxx-compatible shared structs without parsing logic.
+// ---
+
 chromium::import! {
     "//components/browser_actuator/internal/transport/proto_stream_client:stream_body_parser";
 }

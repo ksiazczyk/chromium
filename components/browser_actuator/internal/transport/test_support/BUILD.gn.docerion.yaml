@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Transport test support build definition
+summary: Defines the testonly test_support source set for browser_actuator transport fakes and mocks, with dependencies on base, network test support, Mojo, protobuf, and gmock.

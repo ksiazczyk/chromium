@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip experiment service unit tests
+// summary: Unit tests for the experimental tab strip service covering split-view tab replacement error handling and profile-wide tab retrieval.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/test/bind.h"

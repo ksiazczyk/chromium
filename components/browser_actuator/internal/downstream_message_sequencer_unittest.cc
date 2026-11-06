@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downstream message sequencer unit tests
+// summary: Unit tests verifying that the downstream message sequencer delivers messages in sequence order and buffers early messages until gaps fill.
+// ---
+
 #include "components/browser_actuator/internal/downstream_message_sequencer.h"
 
 #include <cstdint>

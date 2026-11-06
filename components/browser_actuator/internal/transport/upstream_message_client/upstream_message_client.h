@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpstreamMessageClient class declaration
+// summary: Declares the client that encapsulates network logic for sending upstream actuator messages to OnePlatform via HTTPS POST requests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_UPSTREAM_MESSAGE_CLIENT_UPSTREAM_MESSAGE_CLIENT_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_UPSTREAM_MESSAGE_CLIENT_UPSTREAM_MESSAGE_CLIENT_H_
 

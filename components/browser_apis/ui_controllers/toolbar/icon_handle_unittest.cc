@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IconHandle unit tests
+// summary: Unit tests verifying IconHandle equality semantics, null handle behavior, and handle ID getters.
+// ---
+
 #include "components/browser_apis/ui_controllers/toolbar/icon_handle.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

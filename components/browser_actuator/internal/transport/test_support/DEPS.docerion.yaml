@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Transport test support dependency allowlist
+summary: Allows the test support code to include Mojo bindings, net base and HTTP, and network public, mojom, and test headers.

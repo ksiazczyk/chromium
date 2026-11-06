@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position Mojo traits implementation
+// summary: Implements serialization and deserialization between the Mojom Position view and the native tabs_api::Position.
+// ---
+
 #include "components/browser_apis/tab_strip/types/position_mojom_traits.h"
 
 const tabs_api::Path&

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path implementation for node ID sequences
+// summary: Implements the tabs_api Path class that holds an ordered list of NodeId components with copy, move and equality support.
+// ---
+
 #include "components/browser_apis/tab_strip/types/path.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tab strip resources
+summary: Delegates code ownership for this resources directory to the tab strip API OWNERS file in chrome/browser/ui/tabs.

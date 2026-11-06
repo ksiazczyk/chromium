@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip translation adapter header
+// summary: Declares ToyTabStripTranslationAdapter, which converts toy tab strip handles into Mojo tab and tab group data for tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_TRANSLATION_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_TRANSLATION_ADAPTER_H_
 

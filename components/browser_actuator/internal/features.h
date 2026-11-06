@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser actuator internal feature declarations
+// summary: Declares internal kill-switch features, transport tuning parameters, and endpoint URL helper functions for the browser actuator component.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_FEATURES_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_FEATURES_H_
 

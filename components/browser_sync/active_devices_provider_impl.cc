@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active devices provider implementation for sync invalidations
+// summary: Implements ActiveDevicesProviderImpl, which computes sync invalidation info from active devices' FCM registration tokens and interested data types.
+// ---
+
 #include "components/browser_sync/active_devices_provider_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the upstream message client
+summary: Defines the upstream_message_client source set and its unit test target together with their public and private build dependencies.

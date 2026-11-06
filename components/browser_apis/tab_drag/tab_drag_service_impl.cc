@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragService implementation
+// summary: Implements the TabDragService Mojo interface, forwarding drag starts and drop target registrations to the session manager and registry.
+// ---
+
 #include "components/browser_apis/tab_drag/tab_drag_service_impl.h"
 
 #include "base/check.h"

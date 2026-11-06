@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event broadcaster header for tab strip observers
+// summary: Declares the EventBroadcaster class that fans tab strip events out to multiple registered observers.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_EVENT_BROADCASTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_EVENT_BROADCASTER_H_
 

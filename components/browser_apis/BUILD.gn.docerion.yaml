@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser APIs unit tests build file
+summary: GN build file that aggregates the unit_tests targets of the browser_apis subcomponents such as bookmarks, browser_controls, tab_drag, tab_strip and toolbar.

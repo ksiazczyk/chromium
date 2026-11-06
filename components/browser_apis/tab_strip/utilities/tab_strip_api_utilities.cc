@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helper implementations for the TabStripService API
+// summary: Implements helpers to extract node IDs from mojom Data variants, resolve tab group IDs via the model adapter, and merge tab group visual data according to an update mask.
+// ---
+
 #include "components/browser_apis/tab_strip/utilities/tab_strip_api_utilities.h"
 
 #include <string_view>

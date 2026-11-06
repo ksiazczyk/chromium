@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip translation adapter implementation
+// summary: Implements conversion of toy tab strip tabs and collections into Mojo Tab and TabGroup data, returning errors when handles are not found.
+// ---
+
 #include "components/browser_apis/tab_strip/testing/toy_tab_strip_translation_adapter.h"
 
 #include "base/strings/string_number_conversions.h"

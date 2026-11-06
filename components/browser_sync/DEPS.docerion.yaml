@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_sync
+summary: Chromium DEPS file listing the include rules that allow browser_sync sources to depend on other components and directories.

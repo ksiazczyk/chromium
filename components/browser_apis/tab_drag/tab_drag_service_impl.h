@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragServiceImpl class declaration
+// summary: Declares the TabDragServiceImpl class that implements the TabDragService Mojo interface using a session manager and window adapter.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_TAB_DRAG_SERVICE_IMPL_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_TAB_DRAG_SERVICE_IMPL_H_
 

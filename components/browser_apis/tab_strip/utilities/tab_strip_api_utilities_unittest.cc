@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for tab strip API utilities
+// summary: Tests node ID extraction from all mojom Data variants and tab group ID resolution using a toy tab strip adapter, covering not found and wrong type error cases.
+// ---
+
 #include "components/browser_apis/tab_strip/utilities/tab_strip_api_utilities.h"
 
 #include "base/strings/string_number_conversions.h"

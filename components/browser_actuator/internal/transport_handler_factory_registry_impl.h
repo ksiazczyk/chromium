@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport handler factory registry class declaration
+// summary: Declares TransportHandlerFactoryRegistryImpl, the per-channel registry that manages transport handler factory lifecycles keyed by payload type.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_HANDLER_FACTORY_REGISTRY_IMPL_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_HANDLER_FACTORY_REGISTRY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamConnectionDelegate implementation
+// summary: Provides the default no-retry and no-upload-body behavior of StreamConnectionDelegate and a pass-through DefaultStreamConnectionDelegate.
+// ---
+
 #include "components/browser_actuator/internal/transport/stream_connection_delegate.h"
 
 #include <utility>

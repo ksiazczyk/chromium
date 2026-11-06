@@ -1,0 +1,4 @@
+# Docerion header of tab_drag_api.mojom.
+type: source
+title: TabDragService Mojo interface definitions
+summary: Defines Mojo interfaces for starting global tab drag sessions and registering drop targets that receive drag update callbacks.

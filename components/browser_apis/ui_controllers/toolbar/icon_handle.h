@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconHandle class declaration
+// summary: Declares the IconHandle class and IconHandleId type used to pass icon references to WebUI over Mojo.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_UI_CONTROLLERS_TOOLBAR_ICON_HANDLE_H_
 #define COMPONENTS_BROWSER_APIS_UI_CONTROLLERS_TOOLBAR_ICON_HANDLE_H_
 

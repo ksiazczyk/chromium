@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits declaration for node IDs
+// summary: Declares the Mojo enum and struct traits used to serialize the native tabs_api NodeId for the tab strip API.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_NODE_ID_MOJOM_TRAITS_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_NODE_ID_MOJOM_TRAITS_H_
 

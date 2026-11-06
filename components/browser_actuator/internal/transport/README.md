@@ -1,3 +1,13 @@
+---
+type: readme
+title: browser_actuator transport
+summary: 'Describes the server-to-client push transport: the OnePlatform proto stream wire format and the architecture with Rust framing and composable connection delegates.'
+relations:
+  - references /docs/security/rule-of-2.md
+  - documents /components/browser_actuator/internal/transport/message_stream_client.h
+  - documents /components/browser_actuator/internal/transport/stream_connection_delegate.h
+---
+
 # browser_actuator transport
 
 Server→client push transport for browser actuation, receiving a stream of

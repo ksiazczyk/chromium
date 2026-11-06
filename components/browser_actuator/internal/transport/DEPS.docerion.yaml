@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for transport
+summary: Chromium DEPS file permitting includes from services/network and, for the Rust stream framer unittest, fuzztest headers.

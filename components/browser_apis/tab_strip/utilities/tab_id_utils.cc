@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node ID validation and conversion utilities
+// summary: Implements checks for absolute paths and node ID types and converts content or collection node IDs to native tab IDs, returning Mojo errors on failure.
+// ---
+
 #include "components/browser_apis/tab_strip/utilities/tab_id_utils.h"
 
 #include "base/strings/string_number_conversions.h"

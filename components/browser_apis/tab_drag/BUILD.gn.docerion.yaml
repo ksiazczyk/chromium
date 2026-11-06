@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the tab drag component
+summary: GN build file defining the Mojom bindings, a types source set, the tab drag service implementation target, and a unit tests group.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip service implementation unit tests
+// summary: Tests the tab strip service implementation for tab creation, retrieval, closing, and activation using a toy tab strip test harness.
+// ---
+
 #include "components/browser_apis/tab_strip/tab_strip_service_impl.h"
 
 #include "base/run_loop.h"

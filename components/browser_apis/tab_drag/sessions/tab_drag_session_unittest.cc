@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab drag session unit tests
+// summary: Unit tests for TabDragSession covering start, capture release, cancellation and drop handling using toy test adapters and registries.
+// ---
+
 #include "components/browser_apis/tab_drag/sessions/tab_drag_session.h"
 
 #include <functional>

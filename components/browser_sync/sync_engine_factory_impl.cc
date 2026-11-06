@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine factory implementation
+// summary: Implements SyncEngineFactoryImpl, which creates sync engines and manages transport data prefs plus legacy directory cleanup when sync is disabled.
+// ---
+
 #include "components/browser_sync/sync_engine_factory_impl.h"
 
 #include <utility>

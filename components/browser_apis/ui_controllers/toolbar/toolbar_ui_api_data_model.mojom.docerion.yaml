@@ -1,0 +1,4 @@
+# Docerion header of toolbar_ui_api_data_model.mojom.
+type: source
+title: Toolbar UI API data model Mojo definitions
+summary: Defines the data model types for the toolbar UI API, including context menu type enums, back/forward and toolbar button states, omnibox focus and text input structs, and related shared structures.

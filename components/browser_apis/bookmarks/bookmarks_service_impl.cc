@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarksServiceImpl implementation
+// summary: Implements the bookmarks Mojo service with CRUD operations on bookmark nodes, argument validation, error handling, and event broadcasting to observers.
+// ---
+
 #include "components/browser_apis/bookmarks/bookmarks_service_impl.h"
 
 #include <memory>

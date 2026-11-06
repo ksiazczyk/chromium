@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport session implementation unit tests
+// summary: Unit tests for TransportSessionImpl covering session lookup, upstream sending, sequence number handling, payload dispatch and session teardown behavior.
+// ---
+
 #include "components/browser_actuator/internal/transport_session_impl.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformAdaptersProvider interface aggregating adapters
+// summary: Abstract provider that supplies the browser, tab strip model, translation, and event bridge adapters needed to configure the tab strip service.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_PLATFORM_ADAPTERS_PROVIDER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_PLATFORM_ADAPTERS_PROVIDER_H_
 

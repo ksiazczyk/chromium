@@ -1,3 +1,11 @@
+---
+type: readme
+title: Browser APIs component overview and Mojom guidelines
+summary: Explains that the component exposes reusable WebUI APIs as Mojom definitions without implementation code, and sets out Mojom API guidelines such as result-based error reporting and stateless services.
+relations:
+  - references /chrome/browser/ui/webui_browser/webui_browser_ui.cc
+---
+
 # Browser APIS
 
 This component exposes a set of WebUI APIs for the browser functionality. These

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark event translator implementation
+// summary: Converts bookmark model nodes and model changes into Mojo bookmark events such as added, removed, moved and changed.
+// ---
+
 #include "components/browser_apis/bookmarks/bookmark_event_translator.h"
 
 #include <algorithm>

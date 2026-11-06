@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StreamConnectionDelegate unit tests
+// summary: Checks that DefaultStreamConnectionDelegate passes requests through unchanged and that HTTP failures are not retried by default.
+// ---
+
 #include "components/browser_actuator/internal/transport/stream_connection_delegate.h"
 
 #include <memory>

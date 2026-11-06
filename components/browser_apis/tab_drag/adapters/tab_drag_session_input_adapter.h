@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragSessionInputAdapter interface header
+// summary: Declares an abstract interface for capturing, suspending, and releasing platform input during tab drag sessions, plus the TabDragInputEvent struct.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_DRAG_ADAPTERS_TAB_DRAG_SESSION_INPUT_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_DRAG_ADAPTERS_TAB_DRAG_SESSION_INPUT_ADAPTER_H_
 

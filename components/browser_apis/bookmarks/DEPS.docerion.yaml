@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for bookmarks browser API dependencies
+summary: Restricts includes to components/bookmarks, mojo/public and url, with skia allowed only in unit tests.

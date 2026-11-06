@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark event translator unit tests
+// summary: Verifies that bookmark additions, removals, moves and changes emit the expected Mojo events through a default view.
+// ---
+
 #include <memory>
 #include <optional>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip event recorder unit tests
+// summary: Unit tests verifying event notification, suppression during recording, and immediate playback when notification is re-enabled.
+// ---
+
 #include "components/browser_apis/tab_strip/events/tab_strip_event_recorder.h"
 
 #include "base/test/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of extensions_bar.mojom.
+type: source
+title: Extensions bar Mojo interfaces
+summary: Defines Mojo interfaces for bidirectional WebUI-browser communication in the extensions toolbar, covering handler creation, user actions, and action updates.

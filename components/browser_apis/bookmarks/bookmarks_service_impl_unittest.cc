@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarksServiceImpl unit tests
+// summary: Unit tests for BookmarksServiceImpl covering bookmark retrieval, creation, updates, moves, deletions, and event streaming through Mojo.
+// ---
+
 #include "components/browser_apis/bookmarks/bookmarks_service_impl.h"
 
 #include "base/memory/raw_ptr.h"

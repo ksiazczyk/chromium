@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripService interface header
+// summary: Declares the TabStripService interface for retrieving tabs, registering observers, and accepting core and experimental Mojo clients.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TAB_STRIP_SERVICE_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TAB_STRIP_SERVICE_H_
 

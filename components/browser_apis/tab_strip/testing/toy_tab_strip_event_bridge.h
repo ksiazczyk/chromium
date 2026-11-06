@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab strip event bridge header
+// summary: Declares ToyTabStripEventBridge, an EventBridge implementation that dispatches toy tab strip events to observers in tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_EVENT_BRIDGE_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_STRIP_EVENT_BRIDGE_H_
 

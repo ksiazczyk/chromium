@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync internals message handler header
+// summary: Declares the SyncInternalsMessageHandler class and its Delegate interface, providing common logic for the sync-internals debug page that desktop and iOS embedders can reuse.
+// ---
+
 #ifndef COMPONENTS_BROWSER_SYNC_SYNC_INTERNALS_MESSAGE_HANDLER_H_
 #define COMPONENTS_BROWSER_SYNC_SYNC_INTERNALS_MESSAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync to signed-in migration implementation
+// summary: Implements migration of signed-in users from the syncing state to the signed-in non-syncing state at browser startup, including decision logging, forced migration, and undo support.
+// ---
+
 #include "components/browser_sync/sync_to_signin_migration.h"
 
 #include <string>

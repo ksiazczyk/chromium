@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser actuator metrics utilities
+// summary: Header mapping payload types to histogram suffixes, defining downstream payload drop reasons, and recording upstream request telemetry.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_METRICS_UTILS_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_METRICS_UTILS_H_
 

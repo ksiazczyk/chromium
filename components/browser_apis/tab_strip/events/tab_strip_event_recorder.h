@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip event recorder header
+// summary: Declares TabStripEventRecorder, which converts external events to native Event objects and can suppress notifications to record and replay them later.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_EVENTS_TAB_STRIP_EVENT_RECORDER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_EVENTS_TAB_STRIP_EVENT_RECORDER_H_
 

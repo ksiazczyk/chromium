@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab strip API build targets and visibility rules
+summary: Defines GN build targets for the tab strip API, including mojom bindings with restricted visibility and the service source set.

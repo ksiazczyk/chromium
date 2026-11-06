@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toy tab context menu adapter declaration
+// summary: Declares a ContextMenuAdapter stub that reports tab context menus as unimplemented in tests.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_CONTEXT_MENU_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TESTING_TOY_TAB_CONTEXT_MENU_ADAPTER_H_
 

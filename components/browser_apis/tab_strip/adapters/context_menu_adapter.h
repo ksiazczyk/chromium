@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuAdapter interface for tab context menus
+// summary: Abstract interface for showing a tab's context menu at a given location, returning a mojo error on failure.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_CONTEXT_MENU_ADAPTER_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_ADAPTERS_CONTEXT_MENU_ADAPTER_H_
 

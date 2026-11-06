@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position Mojo traits header
+// summary: Defines StructTraits mapping the Mojom Position struct to the native tabs_api::Position C++ type.
+// ---
+
 #ifndef COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_POSITION_MOJOM_TRAITS_H_
 #define COMPONENTS_BROWSER_APIS_TAB_STRIP_TYPES_POSITION_MOJOM_TRAITS_H_
 

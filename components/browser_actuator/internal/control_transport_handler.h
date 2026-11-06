@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Control transport handler declarations
+// summary: Declares ControlTransportHandler and its factory for handling control payload commands such as closing channels and sessions.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_CONTROL_TRANSPORT_HANDLER_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_CONTROL_TRANSPORT_HANDLER_H_
 

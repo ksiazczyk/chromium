@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_api_events.mojom.
+type: reference
+title: Tab strip event Mojo definitions
+summary: Defines the Mojo event structs notifying clients about created tabs, closed nodes, moved nodes, collection creation and data changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Position implementation
+// summary: Implements the tabs_api::Position constructors and equality operator for index and path pairs.
+// ---
+
 #include "components/browser_apis/tab_strip/types/position.h"
 
 namespace tabs_api {

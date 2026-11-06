@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag window registry implementation
+// summary: Implements the registry that assigns unique IDs to tab drag windows and looks them up by ID or native window handle.
+// ---
+
 #include "components/browser_apis/tab_drag/sessions/tab_drag_window_registry.h"
 
 #include "base/check.h"

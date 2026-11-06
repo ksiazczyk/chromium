@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tab strip API WebUI resources
+summary: GN build configuration that compiles the tab strip API TypeScript files and generated Mojo bindings into WebUI resources served under the tab_strip_api prefix.

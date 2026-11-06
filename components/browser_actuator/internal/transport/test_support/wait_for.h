@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitFor condition helper header
+// summary: Declares WaitFor, a test helper that polls a condition after every main-thread task and bounds the wait, explaining why base::test::RunUntil is unsuitable under MOCK_TIME.
+// ---
+
 #ifndef COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_WAIT_FOR_H_
 #define COMPONENTS_BROWSER_ACTUATOR_INTERNAL_TRANSPORT_TEST_SUPPORT_WAIT_FOR_H_
 
