@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings select tests
+// summary: Tests the settings select element, including display of custom media names and updating settings when options are selected.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewModelElement, PrintPreviewSettingsSelectElement, SelectOption} from 'chrome://print/print_preview.js';

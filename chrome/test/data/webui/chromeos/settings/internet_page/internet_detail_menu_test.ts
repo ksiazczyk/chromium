@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet detail menu WebUI tests
+// summary: WebUI tests for the settings-internet-detail-menu element, covering deep linking, focus behavior, and menu actions for cellular and eSIM networks with fake services.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CrActionMenuElement, SettingsInternetDetailMenuElement} from 'chrome://os-settings/os_settings.js';

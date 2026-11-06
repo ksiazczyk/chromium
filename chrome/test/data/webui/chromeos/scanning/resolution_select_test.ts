@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resolution select tests
+// summary: WebUI tests verifying the resolution select dropdown initializes, sorts resolutions in descending order, and picks the correct default option.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/resolution_select.js';
 

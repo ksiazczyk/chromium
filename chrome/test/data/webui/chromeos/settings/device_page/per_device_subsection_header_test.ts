@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device subsection header tests
+// summary: WebUI tests for the per-device subsection header, covering device name visibility, battery info display and device icon fallback behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import {PerDeviceSubsectionHeaderElement} from 'chrome://os-settings/lazy_load.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for ChromeOS settings tests
+summary: Points the directory metadata to the shared ChromeOS settings COMMON_METADATA mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS shared paths settings WebUI tests
+// summary: WebUI tests for the guest OS shared paths settings element, covering path removal, failure retry dialogs and empty list states.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsGuestOsSharedPathsElement} from 'chrome://os-settings/lazy_load.js';

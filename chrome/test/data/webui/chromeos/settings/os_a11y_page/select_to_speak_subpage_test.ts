@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak subpage tests
+// summary: WebUI tests for the Select-to-Speak accessibility subpage, checking voice dropdown and pref synchronization and highlight settings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsSelectToSpeakSubpageElement} from 'chrome://os-settings/lazy_load.js';

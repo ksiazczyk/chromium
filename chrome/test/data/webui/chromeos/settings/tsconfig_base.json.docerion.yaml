@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript config for ChromeOS settings WebUI tests
+summary: Extends the shared tsconfig and enables test-related type definitions such as chai, mocha, and trusted-types for the settings test code.

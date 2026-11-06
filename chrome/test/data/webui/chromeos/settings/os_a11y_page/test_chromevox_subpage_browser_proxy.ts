@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox subpage browser proxy test double
+// summary: Test double for the ChromeVox subpage browser proxy that simulates TTS voice data and braille display listener methods for tests.
+// ---
+
 import type {ChromeVoxSubpageBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

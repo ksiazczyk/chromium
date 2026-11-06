@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake canvas context
+// summary: Fake canvas rendering context that records clearRect and fillRect calls so tests can verify drawing operations.
+// ---
+
 export class FakeCanvasContext implements Partial<CanvasRenderingContext2D> {
   private clearRectCalls_: number[][] = [];
   private fillRectCalls_: number[][] = [];

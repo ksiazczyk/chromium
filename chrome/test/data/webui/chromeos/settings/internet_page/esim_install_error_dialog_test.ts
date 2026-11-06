@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM install error dialog tests
+// summary: WebUI test suite for the eSIM install error dialog, covering confirmation code entry, successful and failed profile installs, and generic error handling with a fake eSIM manager.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {EsimInstallErrorDialogElement} from 'chrome://os-settings/lazy_load.js';

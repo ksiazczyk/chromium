@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanner select tests
+// summary: WebUI tests for the scanner select dropdown, covering initialization, alphabetical sorting, and selecting the last used scanner.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/scanner_select.js';
 

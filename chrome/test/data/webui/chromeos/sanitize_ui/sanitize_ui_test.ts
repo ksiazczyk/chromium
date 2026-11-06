@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocha tests for the sanitize UI elements
+// summary: TypeScript Mocha suite verifying the sanitize done screen's title, accordions, and that its buttons open the expected Chrome and ChromeOS settings links.
+// ---
+
 
 
 import type {CrExpandButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';

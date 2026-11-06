@@ -7,6 +7,12 @@
  * ash.settings.mojom.UserActionRecorderRemote for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake user action recorder for ChromeOS Settings tests
+// summary: Fake implementation of the user action recorder mojo interface that counts page focus, blur, clicks, navigation, search, and setting change events in tests.
+// ---
+
 import type {userActionRecorderMojom} from 'chrome://os-settings/os_settings.js';
 
 /**

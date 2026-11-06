@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advanced settings item tests
+// summary: Tests rendering and updating of individual advanced settings items for select, input, and checkbox vendor capabilities.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewAdvancedSettingsItemElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

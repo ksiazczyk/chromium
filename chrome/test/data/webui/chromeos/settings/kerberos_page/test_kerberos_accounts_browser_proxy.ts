@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Kerberos accounts browser proxy mock
+// summary: Test double for the Kerberos accounts browser proxy that provides fake accounts and simulated results for getAccounts, addAccount, removeAccount, validateConfig, and setAsActiveAccount.
+// ---
+
 import type {KerberosAccount, KerberosAccountsBrowserProxy, ValidateKerberosConfigResult} from 'chrome://os-settings/lazy_load.js';
 import {KerberosConfigErrorCode, KerberosErrorType} from 'chrome://os-settings/lazy_load.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

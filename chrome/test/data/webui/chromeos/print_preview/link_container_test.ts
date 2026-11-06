@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview link container tests
+// summary: Tests the system dialog link in the print preview link container, covering kiosk mode hiding, click events, and disabled states.
+// ---
+
 import type {PrintPreviewLinkContainerElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin} from 'chrome://print/print_preview.js';
 import {isWindows} from 'chrome://resources/js/platform.js';

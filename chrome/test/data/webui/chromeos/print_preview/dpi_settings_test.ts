@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DPI settings test
+// summary: WebUI test suite verifying the DPI settings select element, including labeled options, updates from settings, unsupported values, and destination policy disabling.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {LabelledDpiCapability, PrintPreviewDpiSettingsElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

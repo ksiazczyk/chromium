@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview browser test harness for ChromeOS
+// summary: Browser test harness that runs the ChromeOS print preview WebUI mocha test suites, mapping each test case to its corresponding JavaScript test file.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"
 #include "chrome/common/webui_url_constants.h"

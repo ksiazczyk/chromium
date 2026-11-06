@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseRowMixin unit tests
+// summary: WebUI tests verifying label, sublabel, icon, learn-more URL and ARIA property handling of the settings BaseRowMixin.
+// ---
+
 import {BaseRowMixin} from 'chrome://os-settings/os_settings.js';
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {assertEquals, assertNull} from 'chrome://webui-test/chai_assert.js';

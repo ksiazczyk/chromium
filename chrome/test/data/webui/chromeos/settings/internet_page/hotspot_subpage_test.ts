@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot subpage tests
+// summary: WebUI test suite for the settings hotspot subpage, testing the enable toggle, auto-disable setting, configure button, and accessibility announcements with a fake hotspot config.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 import 'chrome://os-settings/lazy_load.js';
 

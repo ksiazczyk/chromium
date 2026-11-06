@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Change dictation locale dialog tests
+// summary: WebUI test suite for the dictation locale change dialog, covering cancel behavior, recommended and full locale lists, and saving the selected locale pref.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {ChangeDictationLocaleDialog, DictationLocaleOption} from 'chrome://os-settings/lazy_load.js';

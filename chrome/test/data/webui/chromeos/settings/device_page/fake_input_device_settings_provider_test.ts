@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake input device settings provider tests
+// summary: Tests the fake input device settings provider for keyboards, mice, touchpads, pointing sticks, styluses, and graphics tablets.
+// ---
+
 import type {Keyboard, SixPackKeyInfo} from 'chrome://os-settings/os_settings.js';
 import {fakeGraphicsTabletButtonActions, fakeGraphicsTablets, FakeInputDeviceSettingsProvider, fakeKeyboards, fakeMice, fakeMouseButtonActions, fakePointingSticks, fakeStyluses, fakeTouchpads, MetaKey, ModifierKey, SixPackShortcutModifier} from 'chrome://os-settings/os_settings.js';
 import {assertDeepEquals, assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

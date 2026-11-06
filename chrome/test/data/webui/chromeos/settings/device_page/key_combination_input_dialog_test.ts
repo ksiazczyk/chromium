@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key combination input dialog tests
+// summary: Web UI tests for the key combination input dialog, covering initialization, save button event firing, and handling of shortcut input events.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://resources/polymer/v3_0/iron-test-helpers/mock-interactions.js';
 

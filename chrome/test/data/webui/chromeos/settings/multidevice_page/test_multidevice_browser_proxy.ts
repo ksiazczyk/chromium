@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test multidevice browser proxy
+// summary: Test double implementing MultiDeviceBrowserProxy with fake page content data to support multidevice settings page tests.
+// ---
+
 import type {MultiDeviceBrowserProxy, MultiDeviceFeature, MultiDeviceFeatureState, MultiDevicePageContentData, PhoneHubFeatureAccessStatus, PhoneHubPermissionsSetupAction, PhoneHubPermissionsSetupFeatureCombination, PhoneHubPermissionsSetupFlowScreens} from 'chrome://os-settings/os_settings.js';
 import {MultiDeviceSettingsMode} from 'chrome://os-settings/os_settings.js';
 import {webUIListenerCallback} from 'chrome://resources/ash/common/cr.m.js';

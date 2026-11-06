@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handling item element tests
+// summary: WebUI test suite verifying the app management file handling item renders and shows an unchecked toggle row for a PWA.
+// ---
+
 import type {AppManagementFileHandlingItemElement, AppManagementToggleRowElement} from 'chrome://os-settings/os_settings.js';
 import {AppManagementStore, updateSelectedAppId} from 'chrome://os-settings/os_settings.js';
 import {AppType} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

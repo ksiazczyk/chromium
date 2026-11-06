@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview header test
+// summary: WebUI test suite verifying the print preview header sheet and page summary messages across printer types, states, and sheet counts.
+// ---
+
 import type {PrintPreviewHeaderElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, GooglePromotedDestinationId, PrintPreviewPluralStringProxyImpl, State} from 'chrome://print/print_preview.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

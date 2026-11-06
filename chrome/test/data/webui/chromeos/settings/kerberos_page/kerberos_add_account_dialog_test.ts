@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kerberos add account dialog tests
+// summary: WebUI tests for the Kerberos add account dialog, verifying account creation, error handling, password remembering, and advanced Kerberos config validation.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {KerberosAccount, KerberosAddAccountDialogElement} from 'chrome://os-settings/lazy_load.js';

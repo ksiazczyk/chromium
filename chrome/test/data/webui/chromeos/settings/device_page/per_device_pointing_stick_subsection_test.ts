@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device pointing stick subsection tests
+// summary: WebUI tests for the per-device pointing stick subsection, checking that button swap, acceleration and speed settings update the fake input device provider.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPerDevicePointingStickSubsectionElement} from 'chrome://os-settings/lazy_load.js';

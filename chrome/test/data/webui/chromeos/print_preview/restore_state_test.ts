@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sticky settings restore tests
+// summary: Tests that print preview restores sticky settings such as DPI, media size, margins, scaling and other options from serialized app state.
+// ---
+
 import type {NativeInitialSettings, PrintPreviewAppElement, SerializedSettings, Settings, SettingsMixinInterface} from 'chrome://print/print_preview.js';
 import {getInstance, MarginsType, NativeLayerImpl, PluginProxyImpl, ScalingType} from 'chrome://print/print_preview.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

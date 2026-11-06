@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview key event tests
+// summary: Tests that Enter and numpad Enter key events trigger printing in the print preview app, including behavior for inputs and dropdowns.
+// ---
+
 import type {PrintPreviewAppElement} from 'chrome://print/print_preview.js';
 import {NativeLayerImpl, PluginProxyImpl} from 'chrome://print/print_preview.js';
 import {isChromeOS, isMac, isWindows} from 'chrome://resources/js/platform.js';

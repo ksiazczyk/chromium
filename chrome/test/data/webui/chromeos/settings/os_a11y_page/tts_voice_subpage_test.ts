@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTS voice subpage WebUI tests
+// summary: WebUI test suite for the ChromeOS settings TTS voice subpage covering deep links, voice preview, and voice selection behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsTtsVoiceSubpageElement} from 'chrome://os-settings/lazy_load.js';

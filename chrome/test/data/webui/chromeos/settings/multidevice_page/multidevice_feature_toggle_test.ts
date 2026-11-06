@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice feature toggle tests
+// summary: WebUI tests for the settings-multidevice-feature-toggle element, verifying toggle state across feature, Better Together suite and Phone Hub state changes.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceFeatureToggleElement} from 'chrome://os-settings/lazy_load.js';

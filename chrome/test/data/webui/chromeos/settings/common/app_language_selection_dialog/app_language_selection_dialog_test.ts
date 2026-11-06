@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App language selection dialog WebUI tests
+// summary: WebUI test suite for the ChromeOS settings app language selection dialog, covering suggested and filtered language lists, search, and the confirm button using a fake page handler.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppLanguageSelectionDialogElement, AppLanguageSelectionItemElement} from 'chrome://os-settings/lazy_load.js';

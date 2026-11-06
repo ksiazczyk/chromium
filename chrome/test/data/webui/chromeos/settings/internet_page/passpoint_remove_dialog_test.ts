@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passpoint remove dialog WebUI tests
+// summary: WebUI tests for the Passpoint removal dialog, checking the go-to-subscription button label, dialog cancellation, and the confirm event.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {PasspointRemoveDialogElement} from 'chrome://os-settings/lazy_load.js';

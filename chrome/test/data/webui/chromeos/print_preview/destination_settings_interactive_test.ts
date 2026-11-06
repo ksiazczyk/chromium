@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination settings interactive test
+// summary: Interactive WebUI test suite covering destination settings behavior such as opening the destination dialog, selecting destinations, and restoring focus after changes.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {LocalDestinationInfo, PrintPreviewDestinationDialogCrosElement, PrintPreviewDestinationListItemElement, PrintPreviewDestinationSettingsElement, RecentDestination} from 'chrome://print/print_preview.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timezone subpage tests
+// summary: WebUI test suite for the timezone subpage, checking the timezone radio group, geolocation-based auto-detect toggling, and deep linking for logged-in users.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsRadioGroupElement, TimezoneSubpageElement} from 'chrome://os-settings/lazy_load.js';

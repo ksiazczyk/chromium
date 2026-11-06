@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of MediaDevices for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake media devices
+// summary: Fake MediaDevices implementation that simulates enumerating, adding and removing media devices for settings tests.
+// ---
+
 export class FakeMediaDevices implements MediaDevices {
   private devices_: MediaDeviceInfo[] = [];
   private deviceChangeListeners_: EventListener[] = [];

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FaceGaze actions card tests
+// summary: WebUI test suite for the FaceGaze actions card, verifying adding and removing gesture-to-action and gesture-to-key-combination command pairs.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import {getDeepActiveElement} from '//resources/js/util.js';

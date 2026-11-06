@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync browser proxy test double
+// summary: Test double for the sync browser proxy that fakes sync status, stored accounts, profile avatar and sync actions for OS Settings tests.
+// ---
+
 import type {ChromeSigninAccessPoint, ChromeSigninUserChoiceInfo, StoredAccount, SyncBrowserProxy, SyncPrefs, SyncStatus, UserSelectableType} from 'chrome://os-settings/os_settings.js';
 import {ChromeSigninUserChoice, PageStatus, SignedInState, StatusAction} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

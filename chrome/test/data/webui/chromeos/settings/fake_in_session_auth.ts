@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of InSessionAuth for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake in-session auth
+// summary: Fake InSessionAuth implementation that returns a stub token reply for in-session authentication tests.
+// ---
+
 import type {RequestTokenReply} from 'chrome://resources/mojo/chromeos/components/in_session_auth/mojom/in_session_auth.mojom-webui.js';
 
 /**

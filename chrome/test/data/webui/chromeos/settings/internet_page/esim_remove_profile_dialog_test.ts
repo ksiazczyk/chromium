@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM remove profile dialog tests
+// summary: WebUI test suite for the eSIM remove profile dialog, verifying profile lookup by ICCID and removal flows against fake eSIM manager and network config remotes.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {EsimRemoveProfileDialogElement} from 'chrome://os-settings/os_settings.js';

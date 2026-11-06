@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for ChromeOS settings WebUI tests
+// summary: Shared helpers for settings WebUI tests, including retry and async assertion functions, shadow DOM query selection, and clearing the document body.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 const RETRY_INTERVAL_MILLISECONDS = 0.2 * 1000;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy for the ChromeOS settings device page
+// summary: Fake DevicePageBrowserProxy implementation that simulates power, battery, keyboard, mouse, touchpad, stylus, and note-taking app behavior for ChromeOS settings device page WebUI tests.
+// ---
+
 import type {BatteryStatus, DevicePageBrowserProxy, IdleBehavior, LidClosedBehavior, NoteAppInfo, OptimizedChargingStrategy} from 'chrome://os-settings/os_settings.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

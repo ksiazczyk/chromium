@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled button WebUI tests
+// summary: Tests the controlled-button element, verifying that extension- or policy-controlled prefs disable the button and show a policy indicator while uncontrolled prefs leave it enabled.
+// ---
+
 // clang-format off
 import 'chrome://os-settings/os_settings.js';
 

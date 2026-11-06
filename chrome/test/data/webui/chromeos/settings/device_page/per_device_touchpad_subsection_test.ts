@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device touchpad subsection tests
+// summary: WebUI tests for the per-device touchpad subsection, checking tap-to-click, tap-dragging, acceleration, sensitivity and right-click simulation settings.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsPerDeviceTouchpadSubsectionElement} from 'chrome://os-settings/lazy_load.js';

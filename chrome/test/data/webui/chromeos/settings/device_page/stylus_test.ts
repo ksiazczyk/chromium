@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus settings tests
+// summary: WebUI tests for the stylus settings page, covering stylus tools prefs, note-taking app selection and deep link focus behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsStylusElement} from 'chrome://os-settings/lazy_load.js';

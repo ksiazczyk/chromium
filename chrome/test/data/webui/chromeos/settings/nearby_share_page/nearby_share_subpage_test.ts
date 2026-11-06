@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share settings subpage tests
+// summary: WebUI tests for the settings Nearby Share subpage, covering the feature toggle, device name validation, visibility, contacts, and onboarding behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsNearbyShareSubpageElement} from 'chrome://os-settings/lazy_load.js';

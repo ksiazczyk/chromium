@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter keys settings tests
+// summary: WebUI tests for slow keys and bounce keys toggles and delay sliders on the ChromeOS keyboard and text input accessibility settings page.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsKeyboardAndTextInputPageElement} from 'chrome://os-settings/lazy_load.js';

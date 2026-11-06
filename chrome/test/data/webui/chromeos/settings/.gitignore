@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated tsconfig.json
+# summary: Ignores the tsconfig.json generated from the personalization app gen_tsconfig.py tool in the ChromeOS settings test directory.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

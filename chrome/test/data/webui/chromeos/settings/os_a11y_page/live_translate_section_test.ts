@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Translate section tests
+// summary: WebUI tests for the Live Translate settings section, verifying the enable toggle updates the live translate preference.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsLiveTranslateElement} from 'chrome://os-settings/lazy_load.js';

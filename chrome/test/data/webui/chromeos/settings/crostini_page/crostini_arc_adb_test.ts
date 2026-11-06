@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini ARC ADB sideloading WebUI tests
+// summary: WebUI tests for the Crostini ARC ADB settings element, verifying visibility and deep-link focus of the enable adb debugging button.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CrostiniPortSetting, SettingsCrostiniArcAdbElement} from 'chrome://os-settings/lazy_load.js';

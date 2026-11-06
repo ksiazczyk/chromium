@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed print options tests
+// summary: Tests that managed print job option policies apply defaults and restrictions to print preview settings such as color, duplex, media size, and DPI.
+// ---
+
 import type {ColorOption, DuplexOption, PrintPreviewModelElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin} from 'chrome://print/print_preview.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

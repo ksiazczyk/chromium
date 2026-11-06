@@ -7,6 +7,12 @@
  * methods that are called during testing have been implemented.
  */
 
+// ---docerion
+// type: test
+// title: Fake input method private API
+// summary: Fake of the chrome.inputMethodsPrivate API that stubs input method queries and events for settings tests.
+// ---
+
 export class FakeInputMethodPrivate {
   getCurrentInputMethod(): Promise<null> {
     return Promise.resolve(null);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consumer auto-update toggle dialog tests
+// summary: WebUI tests verifying that the consumer auto-update toggle dialog fires enable and disable events when its turn off and keep updates buttons are clicked.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsConsumerAutoUpdateToggleDialogElement} from 'chrome://os-settings/lazy_load.js';

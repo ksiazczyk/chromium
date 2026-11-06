@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print server store tests
+// summary: Tests the print preview print server store, covering server selection by name and handling of print servers config updates.
+// ---
+
 import {PrintServerStore, PrintServerStoreEventType} from 'chrome://print/print_preview.js';
 import type {WebUiListener} from 'chrome://resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener, webUIListenerCallback} from 'chrome://resources/js/cr.js';

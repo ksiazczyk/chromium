@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice permissions setup dialog tests
+// summary: WebUI tests for the permissions setup dialog, simulating notification, apps and combined access setup status changes and asserting dialog flow states.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsMultidevicePermissionsSetupDialogElement} from 'chrome://os-settings/os_settings.js';

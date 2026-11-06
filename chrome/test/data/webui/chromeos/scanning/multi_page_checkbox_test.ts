@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-page checkbox tests
+// summary: Tests that clicking the checkbox or its text label toggles the multi-page scan setting.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/multi_page_checkbox.js';
 

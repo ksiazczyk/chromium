@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Source select tests
+// summary: WebUI tests for the source select dropdown, verifying initialization, alphabetical sorting, and default flatbed selection.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/source_select.js';
 

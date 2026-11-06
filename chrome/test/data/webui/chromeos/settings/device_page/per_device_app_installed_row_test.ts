@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Per-device app installed row tests
+// summary: Web UI tests checking that the per-device app installed row displays the correct open app label for installed companion apps.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import {PerDeviceAppInstalledRowElement} from 'chrome://os-settings/lazy_load.js';

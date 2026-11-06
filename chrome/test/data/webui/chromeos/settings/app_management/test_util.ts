@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management test utilities
+// summary: Shared helpers for app management tests, including fake handler setup, store replacement, body replacement, and permission toggle DOM lookups.
+// ---
+
 import type {AppManagementToggleRowElement, CrToggleElement} from 'chrome://os-settings/os_settings.js';
 import {appManagementBrowserProxyFactory} from 'chrome://os-settings/os_settings.js';
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

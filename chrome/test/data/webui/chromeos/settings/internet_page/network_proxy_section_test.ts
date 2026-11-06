@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network proxy section WebUI tests
+// summary: WebUI tests for the network proxy section in ChromeOS settings, covering the allow shared proxies toggle visibility, disabled UI state, and extension proxy configuration.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {NetworkProxySectionElement} from 'chrome://os-settings/lazy_load.js';

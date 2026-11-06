@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scan done section tests
+// summary: WebUI tests for the scan done section, covering initialization, file saved text updates, and opening the scanned file location.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://scanning/scan_done_section.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination dialog interactive tests
+// summary: Interactive WebUI tests for the print preview destination dialog, verifying search input focus and escape key close behavior using a native layer stub.
+// ---
+
 import type {PrintPreviewDestinationDialogElement} from 'chrome://print/print_preview.js';
 import {NativeLayerImpl, State} from 'chrome://print/print_preview.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

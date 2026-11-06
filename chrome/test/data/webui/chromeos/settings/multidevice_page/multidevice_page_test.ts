@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice page tests
+// summary: WebUI tests for the settings-multidevice-page element, covering host setup modes, feature states, screen lock status and Nearby Share integration.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://os-settings/os_settings.js';
 

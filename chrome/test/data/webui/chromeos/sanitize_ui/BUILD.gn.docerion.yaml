@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sanitize UI WebUI test build definition
+summary: GN build file that defines the WebUI Mocha test target for the sanitize UI tests, wiring up the C++ and TypeScript test sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsDropdownRowElement unit tests
+// summary: WebUI tests checking that the dropdown row forwards label, icon and other properties to its internal row and handles pref enforcement.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {SettingsDropdownV2Element, SettingsRowElement, UserActionSettingPrefChangeEvent} from 'chrome://os-settings/os_settings.js';

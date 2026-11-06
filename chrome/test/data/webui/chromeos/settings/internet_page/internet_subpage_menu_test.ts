@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet subpage menu WebUI tests
+// summary: WebUI tests for the settings-internet-subpage-menu element, verifying the menu appears only for cellular devices and opens the device info dialog from the menu item.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsInternetSubpageMenuElement} from 'chrome://os-settings/lazy_load.js';

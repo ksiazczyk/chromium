@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Set time dialog browser test
+// summary: Runs the WebUI mocha test suite for the ChromeOS set time dialog by loading its host page and executing the set_time_dialog_test.js tests.
+// ---
+
 #include "ash/constants/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

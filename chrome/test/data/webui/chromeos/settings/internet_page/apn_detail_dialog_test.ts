@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APN detail dialog tests
+// summary: WebUI test suite for the os-settings APN detail dialog, covering create and edit modes, input validation, and advanced settings behavior using a fake network config Mojo service.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {ApnDetailDialog, CrCheckboxElement, CrDialogElement, CrInputElement} from 'chrome://os-settings/os_settings.js';

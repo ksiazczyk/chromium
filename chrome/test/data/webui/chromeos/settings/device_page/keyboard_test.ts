@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard settings page tests
+// summary: Web UI tests for the settings-keyboard page, checking optional key visibility, deep link focusing, and keyboard preference behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsKeyboardElement} from 'chrome://os-settings/lazy_load.js';

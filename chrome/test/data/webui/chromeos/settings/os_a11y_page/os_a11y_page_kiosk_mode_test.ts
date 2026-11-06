@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility page kiosk mode tests
+// summary: WebUI tests verifying the ChromeOS accessibility settings page loads and hides options correctly in kiosk mode.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {OsSettingsA11yPageElement} from 'chrome://os-settings/os_settings.js';

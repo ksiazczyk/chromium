@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard six pack key row tests
+// summary: Web UI tests verifying that the six pack key row shows correct labels and dropdown menu options for Delete, Home, End, Insert, Page Up, and Page Down keys.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://resources/polymer/v3_0/iron-test-helpers/mock-interactions.js';
 

@@ -7,6 +7,12 @@
  * for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake usersPrivate API for ChromeOS Settings tests
+// summary: Fake of the chrome.usersPrivate API that manages a test user list and login status for ChromeOS Settings tests.
+// ---
+
 type User = chrome.usersPrivate.User;
 type LoginStatusDict = chrome.usersPrivate.LoginStatusDict;
 type UsersPrivateInterface = typeof chrome.usersPrivate;

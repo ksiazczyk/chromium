@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APN subpage tests
+// summary: WebUI test suite for the APN settings subpage, verifying the APN list rendering, router navigation, and page closing behavior while cellular device or network state updates.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {ApnSubpageElement} from 'chrome://os-settings/lazy_load.js';

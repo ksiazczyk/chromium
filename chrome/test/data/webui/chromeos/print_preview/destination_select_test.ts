@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination select dropdown icon test
+// summary: WebUI test suite checking that the destination select dropdown shows the correct background icon for regular and enterprise printers.
+// ---
+
 import type {PrintPreviewDestinationSelectElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, getSelectDropdownBackground, IconsetMap} from 'chrome://print/print_preview.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

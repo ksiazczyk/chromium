@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page displayer element test suite
+// summary: WebUI test suite verifying that the <page-displayer> element is only displayed when its active property is set.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {PageDisplayerElement} from 'chrome://os-settings/os_settings.js';

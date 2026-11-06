@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular roaming toggle button tests
+// summary: WebUI test suite for the cellular roaming toggle button, checking policy enforcement cases that combine device policy, managed properties, and roaming preference values.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://webui-test/chromeos/network/cr_policy_strings.js';
 

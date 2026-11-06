@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize button row tests
+// summary: Tests the customize button row element for mice and graphics tablets, checking remapping display, dropdown selection values and updates when remapping data changes.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 import 'chrome://resources/polymer/v3_0/iron-test-helpers/mock-interactions.js';
 

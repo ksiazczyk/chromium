@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot summary item WebUI tests
+// summary: WebUI tests for the hotspot-summary-item element in ChromeOS settings, covering routing to the hotspot subpage, enable toggle behavior, state sublabels, and policy indicators.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {CrPolicyIndicatorElement, CrToggleElement, HotspotSummaryItemElement, LocalizedLinkElement} from 'chrome://os-settings/os_settings.js';

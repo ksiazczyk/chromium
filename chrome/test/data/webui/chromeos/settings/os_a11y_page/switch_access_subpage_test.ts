@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch access subpage WebUI tests
+// summary: WebUI test suite verifying the ChromeOS settings switch access subpage, including switch key assignment display and preference handling.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsSwitchAccessSubpageElement} from 'chrome://os-settings/lazy_load.js';

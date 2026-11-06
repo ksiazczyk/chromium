@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet page WebUI tests
+// summary: WebUI tests for the settings-internet-page element, covering network lists, subpage navigation, cellular setup, eSIM dialogs, hotspot, and VPN preferences.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 import 'chrome://os-settings/lazy_load.js';
 

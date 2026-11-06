@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test scanning browser proxy
+// summary: Test double of the ScanningBrowserProxy that records method calls and returns canned paths, settings, and plural strings for tests.
+// ---
+
 import {sanitizeInnerHtml} from 'chrome://resources/js/parse_html_subset.js';
 import type {ScanningBrowserProxy, SelectedPath} from 'chrome://scanning/scanning_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/chromeos/test_browser_proxy.js';

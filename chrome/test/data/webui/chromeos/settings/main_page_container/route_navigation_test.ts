@@ -8,6 +8,12 @@
  * <main-page-container> is the primary element.
  */
 
+// ---docerion
+// type: test
+// title: Route navigation test suite for MainPageMixin
+// summary: WebUI test suite for the route navigation logic of MainPageMixin, asserting which settings page is visible, active and focused for a given section.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import {AccountManagerBrowserProxyImpl} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen subpage deep link tests
+// summary: WebUI test suite verifying that deep linking to the lock screen settings page focuses the lock screen toggle.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsLockScreenElement} from 'chrome://os-settings/lazy_load.js';

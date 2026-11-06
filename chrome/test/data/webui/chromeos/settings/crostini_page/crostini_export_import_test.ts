@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini export and import WebUI tests
+// summary: WebUI tests for the Crostini export and import settings page, covering container info, deep links and backup operation status.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {ContainerInfo, CrostiniPortSetting, SettingsCrostiniExportImportElement} from 'chrome://os-settings/lazy_load.js';

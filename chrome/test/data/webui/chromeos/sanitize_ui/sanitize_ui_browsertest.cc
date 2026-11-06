@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sanitize UI browser test
+// summary: Browser test suite for the ChromeOS sanitize WebUI that sets user preferences and verifies the safety reset behavior across a two-part test run.
+// ---
+
 #include "ash/webui/sanitize_ui/sanitize_ui.h"
 
 #include <string>

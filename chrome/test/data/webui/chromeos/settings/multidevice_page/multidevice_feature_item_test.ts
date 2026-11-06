@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice feature item tests
+// summary: WebUI tests for the settings-multidevice-feature-item element, checking feature summaries, toggle behavior and click navigation for multi-device features.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceFeatureItemElement, SettingsMultideviceFeatureToggleElement} from 'chrome://os-settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot config dialog tests
+// summary: WebUI test suite for the hotspot configuration dialog, covering SSID and passphrase validation, security mode and band selection, and saving config through a fake hotspot service.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {HotspotConfigDialogElement} from 'chrome://os-settings/os_settings.js';

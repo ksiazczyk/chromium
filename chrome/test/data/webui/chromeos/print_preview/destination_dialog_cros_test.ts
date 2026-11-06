@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OS destination dialog tests
+// summary: WebUI tests for the Chrome OS print preview destination dialog, covering destination loading, printer lists, loading timers, and printer setup info messaging.
+// ---
+
 import type {Destination, DestinationStore, LocalDestinationInfo, PrintPreviewDestinationDialogCrosElement, RecentDestination} from 'chrome://print/print_preview.js';
 import {DESTINATION_DIALOG_CROS_LOADING_TIMER_IN_MS, makeRecentDestination, NativeLayerImpl, PrinterSetupInfoMessageType, PrintPreviewPrinterSetupInfoCrosElement} from 'chrome://print/print_preview.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

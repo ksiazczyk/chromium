@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the scanning tests
+summary: Points this test directory's metadata to the shared ChromeOS Scanning COMMON_METADATA mixins.

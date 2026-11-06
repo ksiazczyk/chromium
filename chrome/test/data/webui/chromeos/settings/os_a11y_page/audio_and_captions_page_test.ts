@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio and captions page tests
+// summary: WebUI test suite for the ChromeOS audio and captions accessibility settings page, covering deep links, kiosk mode, flash notifications, and related toggles.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsAudioAndCaptionsPageElement} from 'chrome://os-settings/lazy_load.js';

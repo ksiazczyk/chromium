@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular networks list tests
+// summary: WebUI test suite for the cellular-networks-list element, exercising device state, global policy, managed network properties, and eSIM manager interactions via test fakes.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CellularNetworksListElement, NetworkListElement} from 'chrome://os-settings/lazy_load.js';

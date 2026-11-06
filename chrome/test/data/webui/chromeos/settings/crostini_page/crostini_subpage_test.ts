@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini subpage WebUI tests
+// summary: WebUI tests for the Crostini settings subpage, covering shared paths, USB devices, export and import, disk resize, mic permission and ARC ADB rows.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CrostiniPortSetting, SettingsCrostiniDiskResizeDialogElement, SettingsCrostiniSubpageElement} from 'chrome://os-settings/lazy_load.js';

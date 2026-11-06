@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display page tests
+// summary: WebUI tests for the ChromeOS settings display page, covering display modes, layouts, Night Light, and brightness behavior.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {DisplayLayoutElement, SettingsDisplayElement} from 'chrome://os-settings/lazy_load.js';

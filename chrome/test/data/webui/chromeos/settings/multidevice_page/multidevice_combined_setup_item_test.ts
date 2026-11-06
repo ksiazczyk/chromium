@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice combined setup item tests
+// summary: WebUI tests for the settings-multidevice-combined-setup-item element, covering setup button state and Phone Hub setup strings for camera roll, notifications and apps.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceCombinedSetupItemElement} from 'chrome://os-settings/lazy_load.js';

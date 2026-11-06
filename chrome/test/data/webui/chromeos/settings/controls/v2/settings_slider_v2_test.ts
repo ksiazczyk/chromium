@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsSliderV2Element unit tests
+// summary: WebUI tests for the v2 slider covering ticks, markers, keyboard and pointer interaction, and pref-bound value updates.
+// ---
+
 import 'chrome://os-settings/os_settings.js';
 
 import type {CrSliderElement, UserActionSettingPrefChangeEvent} from 'chrome://os-settings/os_settings.js';

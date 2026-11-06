@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel switcher dialog tests
+// summary: WebUI tests for the ChromeOS settings channel switcher dialog, covering channel pre-selection, warnings, and switching to more or less stable channels with and without powerwash.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsChannelSwitcherDialogElement} from 'chrome://os-settings/lazy_load.js';

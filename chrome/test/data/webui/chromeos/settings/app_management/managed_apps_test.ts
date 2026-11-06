@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed apps policy tests
+// summary: WebUI test suite checking that policy-managed apps disable permission toggles, pin to shelf, and uninstall controls in the PWA detail view.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {AppManagementPwaDetailViewElement} from 'chrome://os-settings/lazy_load.js';

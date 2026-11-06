@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview model tests
+// summary: Tests the print preview model, including sticky setting persistence, recent destinations, and print ticket generation.
+// ---
+
 import type {ColorOption, DpiOption, DuplexOption, PrintPreviewModelElement, PrintTicket, RecentDestination, Settings} from 'chrome://print/print_preview.js';
 import {ColorModeRestriction, Destination, DestinationOrigin, DuplexMode, DuplexModeRestriction, GooglePromotedDestinationId, makeRecentDestination, MarginsType, PinModeRestriction, PrinterStatusReason, PrinterType, ScalingType, Size} from 'chrome://print/print_preview.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

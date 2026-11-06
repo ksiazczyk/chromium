@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet detail subpage WebUI tests
+// summary: WebUI tests for the settings-internet-detail-subpage element, covering network properties, APN, proxy, VPN, SIM lock, and Passpoint settings using fake Mojo services.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CellularRoamingToggleButtonElement, NetworkProxySectionElement, PasspointRemoveDialogElement, SettingsInternetDetailPageElement} from 'chrome://os-settings/lazy_load.js';

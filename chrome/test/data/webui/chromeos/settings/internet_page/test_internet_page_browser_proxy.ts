@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test double for the internet page browser proxy
+// summary: Test double browser proxy for the internet settings page that records calls such as portal sign-in, cellular setup, and third-party VPN configuration.
+// ---
+
 import type {InternetPageBrowserProxy} from 'chrome://os-settings/os_settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

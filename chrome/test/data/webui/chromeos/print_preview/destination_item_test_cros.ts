@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OS destination list item tests
+// summary: WebUI tests for the Chrome OS print preview destination list item, covering printer status icon updates and color scheme media query handling.
+// ---
+
 import type {PrintPreviewDestinationListItemElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, getTrustedHTML, NativeLayerCrosImpl, PrinterStatusReason, PrinterStatusSeverity} from 'chrome://print/print_preview.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

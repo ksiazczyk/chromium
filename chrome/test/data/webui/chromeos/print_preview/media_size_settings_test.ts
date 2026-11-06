@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview media size settings tests
+// summary: Tests the media size settings select and borderless checkbox, including handling of sizes unsupported by the printer.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {MediaSizeCapability, PrintPreviewMediaSizeSettingsElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

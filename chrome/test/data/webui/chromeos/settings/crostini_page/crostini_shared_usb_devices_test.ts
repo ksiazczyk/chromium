@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini shared USB devices WebUI tests
+// summary: WebUI tests for the Crostini shared USB devices settings page, covering USB notification toggles and permissive passthrough preferences.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {CrostiniSharedUsbDevicesElement} from 'chrome://os-settings/lazy_load.js';

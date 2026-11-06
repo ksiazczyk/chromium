@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pin settings tests
+// summary: WebUI tests for the print preview PIN settings section, covering checkbox and PIN input behavior, validity handling, and a regression case when PIN printing is unavailable.
+// ---
+
 import type {PrintPreviewModelElement, PrintPreviewPinSettingsElement} from 'chrome://print/print_preview.js';
 import {State} from 'chrome://print/print_preview.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cursor and touchpad page tests
+// summary: WebUI test suite for the cursor and touchpad accessibility settings page, covering navigation, device availability, cursor colors, and touchpad options.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsCursorAndTouchpadPageElement} from 'chrome://os-settings/lazy_load.js';

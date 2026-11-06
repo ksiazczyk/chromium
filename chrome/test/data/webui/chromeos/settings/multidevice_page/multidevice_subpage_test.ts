@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multidevice subpage tests
+// summary: WebUI tests for the settings-multidevice-subpage element, verifying feature item visibility and behavior across supported features and host modes.
+// ---
+
 import 'chrome://os-settings/lazy_load.js';
 
 import type {SettingsMultideviceFeatureItemElement, SettingsMultideviceSubpageElement} from 'chrome://os-settings/lazy_load.js';
