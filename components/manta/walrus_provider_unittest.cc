@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WalrusProvider unit tests
+// summary: Unit tests for the Manta WalrusProvider, using fake providers and mocked endpoint responses to verify HTTP status and network error handling, image downscaling, and Filter callback behavior.
+// ---
+
 #include "components/manta/walrus_provider.h"
 
 #include <memory>

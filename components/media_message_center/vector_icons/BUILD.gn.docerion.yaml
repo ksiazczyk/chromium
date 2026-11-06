@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media message center vector icons build file
+summary: GN build file that aggregates the media message center .icon files into the media_vector_icons target and exposes them as a vector_icons source set.

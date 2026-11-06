@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for media_control
+summary: Lists the code owner of the media_control component, assigning review responsibility to the listed email address.

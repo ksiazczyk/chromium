@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta status codes and status struct
+// summary: Defines the MantaStatusCode enum and MantaStatus struct used to report success, errors, and optional messages across the Manta service.
+// ---
+
 #ifndef COMPONENTS_MANTA_MANTA_STATUS_H_
 #define COMPONENTS_MANTA_MANTA_STATUS_H_
 

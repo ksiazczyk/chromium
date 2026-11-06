@@ -1,0 +1,4 @@
+# Docerion header of media_playback_options.mojom.
+type: source
+title: MediaPlaybackOptions Mojom interface
+summary: Defines the Mojo interface for controlling media playback options per RenderFrame, including blocking media loading, enabling background video playback, and setting the renderer type.

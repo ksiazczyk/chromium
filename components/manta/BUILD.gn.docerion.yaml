@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manta component build targets
+summary: GN build file defining the manta component sources and dependencies, plus a unit_tests source set with provider test files.

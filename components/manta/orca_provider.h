@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Orca provider class declaration
+// summary: Declares the OrcaProvider class, which calls the Google service endpoint for text rewriting while handling OAuth or API key authentication.
+// ---
+
 #ifndef COMPONENTS_MANTA_ORCA_PROVIDER_H_
 #define COMPONENTS_MANTA_ORCA_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Orca provider implementation
+// summary: Implements the Orca provider, composing text rewrite requests with tones such as shorten, rephrase, and proofread, and processing server responses.
+// ---
+
 #include "components/manta/orca_provider.h"
 
 #include <memory>

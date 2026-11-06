@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationContainer interface
+// summary: Declares the MediaNotificationContainer interface through which containers receive events such as expansion, session metadata, artwork, color, and action changes from MediaNotificationView.
+// ---
+
 #ifndef COMPONENTS_MEDIA_MESSAGE_CENTER_MEDIA_NOTIFICATION_CONTAINER_H_
 #define COMPONENTS_MEDIA_MESSAGE_CENTER_MEDIA_NOTIFICATION_CONTAINER_H_
 

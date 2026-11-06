@@ -1,3 +1,9 @@
+---
+type: readme
+title: MediaDeviceSalt Component
+summary: Explains how Chromium generates per-origin media device IDs from a persistent salt and how the service lets clients read and reset that salt.
+---
+
 # MediaDeviceSalt Component
 
 Some Web and Extension APIs expose media devices (i.e., microphones and cameras) to applications using IDs. The [Media Capture and Streams](https://w3c.github.io/mediacapture-main/#dom-devicepermissiondescriptor-deviceid) spec says device IDs must be persistent and unique for top-level documents of the same origin. The reason they must be unique per origin is to avoid cross-origin tracking.

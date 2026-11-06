@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalrusProvider implementation
+// summary: Implements the Walrus provider, sending text prompts and images for trust and safety verdicts, decoding and downscaling images, and reporting blocked outputs.
+// ---
+
 #include "components/manta/walrus_provider.h"
 
 #include <algorithm>

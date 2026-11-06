@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service request and response proto definitions
+// summary: Main manta protobuf defining feature names, client info, request and response messages for ChromeOS AI features.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped MediaDeviceInfo test override implementation
+// summary: Implements the ScopedMediaDeviceInfo helper that overrides the MediaDeviceInfo instance with a testing instance for the lifetime of the object.
+// ---
+
 #include "components/media_effects/test/scoped_media_device_info.h"
 
 namespace media_effects {

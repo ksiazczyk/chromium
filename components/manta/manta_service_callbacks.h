@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service callback declarations
+// summary: Declares callback types and the MantaMetricType enum used by Manta providers to return parsed responses, errors, and UMA metrics.
+// ---
+
 #ifndef COMPONENTS_MANTA_MANTA_SERVICE_CALLBACKS_H_
 #define COMPONENTS_MANTA_MANTA_SERVICE_CALLBACKS_H_
 

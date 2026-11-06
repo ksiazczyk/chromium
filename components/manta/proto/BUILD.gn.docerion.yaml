@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manta proto library build definition (BUILD.gn)
+summary: GN build file defining the proto_library target that compiles the manta proto sources, with an internal anchovy source gated behind a flag.

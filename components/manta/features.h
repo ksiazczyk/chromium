@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta feature flag declarations
+// summary: Declares Manta feature flags and helper functions that control whether Anchovy, Orca, SeaPen, Mahi, Scanner, and Walrus use production servers.
+// ---
+
 #ifndef COMPONENTS_MANTA_FEATURES_H_
 #define COMPONENTS_MANTA_FEATURES_H_
 

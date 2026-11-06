@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media notification item declaration
+// summary: Declares a gmock mock of MediaNotificationItem with mocked actions such as seek, dismiss, volume, mute, and source accessors for use in tests.
+// ---
+
 #ifndef COMPONENTS_MEDIA_MESSAGE_CENTER_MOCK_MEDIA_NOTIFICATION_ITEM_H_
 #define COMPONENTS_MEDIA_MESSAGE_CENTER_MOCK_MEDIA_NOTIFICATION_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture service implementation
+// summary: Implements a fake video capture service that simulates camera devices and overrides the video capture service for testing.
+// ---
+
 #include "components/media_effects/test/fake_video_capture_service.h"
 
 #include "base/test/test_future.h"

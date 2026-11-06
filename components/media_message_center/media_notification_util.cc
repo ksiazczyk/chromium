@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification utility implementations
+// summary: Implements helpers that format url origins for display and record UMA histograms counting concurrent media and Cast notifications.
+// ---
+
 #include "components/media_message_center/media_notification_util.h"
 
 #include "base/metrics/histogram_macros.h"

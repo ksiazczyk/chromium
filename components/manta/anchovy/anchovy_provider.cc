@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchovyProvider implementation
+// summary: Implements the Anchovy provider's GetImageDescription method, which sends composed requests to the Manta endpoint and forwards responses to the proto helper.
+// ---
+
 #include "components/manta/anchovy/anchovy_provider.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the renderer directory
+summary: Chromium DEPS file listing the allowed include rules for dependencies such as content, mojo, service manager, and blink common.

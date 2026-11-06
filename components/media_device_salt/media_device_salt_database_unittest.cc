@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDeviceSaltDatabase unit tests
+// summary: Parameterized GoogleTest suite covering salt insertion, retrieval and deletion for both in-memory and persistent database modes.
+// ---
+
 #include "components/media_device_salt/media_device_salt_database.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchovyProtoHelper class declaration
+// summary: Declares the AnchovyProtoHelper class with static methods for composing image description requests and handling their responses.
+// ---
+
 #include "components/manta/anchovy/anchovy_requests.h"
 #include "components/manta/manta_service_callbacks.h"
 #include "components/manta/manta_status.h"

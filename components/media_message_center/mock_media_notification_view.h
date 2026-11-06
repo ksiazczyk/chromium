@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media notification view declaration
+// summary: Declares a gmock mock of MediaNotificationView that stubs all expansion, update, and device selector methods for tests.
+// ---
+
 #ifndef COMPONENTS_MEDIA_MESSAGE_CENTER_MOCK_MEDIA_NOTIFICATION_VIEW_H_
 #define COMPONENTS_MEDIA_MESSAGE_CENTER_MOCK_MEDIA_NOTIFICATION_VIEW_H_
 

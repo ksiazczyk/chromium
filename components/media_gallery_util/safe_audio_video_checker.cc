@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe audio video checker implementation
+// summary: Implements checking an audio or video file by decoding it in the utility process with a time limit and reporting a security result.
+// ---
+
 #include "components/media_gallery_util/safe_audio_video_checker.h"
 
 #include <utility>

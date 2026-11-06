@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media parser provider implementation
+// summary: Implements launching the media gallery utility service process and binding the remote MediaParser factory and parser interfaces.
+// ---
+
 #include "components/media_gallery_util/media_parser_provider.h"
 
 #include "base/functional/bind.h"

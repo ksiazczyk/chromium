@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeAudioVideoChecker class header
+// summary: Declares SafeAudioVideoChecker, which validates a media file in a utility process and reports the result through a callback.
+// ---
+
 #ifndef COMPONENTS_MEDIA_GALLERY_UTIL_SAFE_AUDIO_VIDEO_CHECKER_H_
 #define COMPONENTS_MEDIA_GALLERY_UTIL_SAFE_AUDIO_VIDEO_CHECKER_H_
 

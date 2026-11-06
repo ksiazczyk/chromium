@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Manta include rules
+summary: Defines allowed include paths for the manta directory, with extra rules for unit tests and the base provider test helper.

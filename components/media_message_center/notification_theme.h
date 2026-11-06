@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media color theme declaration
+// summary: Defines the MediaColorTheme struct holding color IDs for media notification text, play and pause buttons, progress, device selector, error, and focus ring UI elements.
+// ---
+
 #ifndef COMPONENTS_MEDIA_MESSAGE_CENTER_NOTIFICATION_THEME_H_
 #define COMPONENTS_MEDIA_MESSAGE_CENTER_NOTIFICATION_THEME_H_
 

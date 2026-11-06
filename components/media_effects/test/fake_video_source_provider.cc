@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video source provider implementation
+// summary: Implements a fake video source provider that manages fake camera devices and serves video sources for media effects tests.
+// ---
+
 #include "components/media_effects/test/fake_video_source_provider.h"
 
 #include "base/system/system_monitor.h"

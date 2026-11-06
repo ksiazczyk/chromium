@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: media_router DIR_METADATA
+summary: Metadata for the media_router component setting the Cast monorail component, the media-dev team email, and a public Buganizer component ID.

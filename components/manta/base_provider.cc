@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseProvider implementation
+// summary: Implements BaseProvider request handling, adding Chrome client info to request protos and fetching responses from prod or autopush endpoints.
+// ---
+
 #include "components/manta/base_provider.h"
 
 #include "base/containers/fixed_flat_map.h"

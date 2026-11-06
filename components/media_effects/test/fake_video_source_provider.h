@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake VideoSourceProvider mojo implementation for tests
+// summary: Fake implementation of the VideoSourceProvider mojo interface that simulates adding and removing camera devices for testing interaction with the video capture service.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_VIDEO_SOURCE_PROVIDER_H_
 #define COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_VIDEO_SOURCE_PROVIDER_H_
 

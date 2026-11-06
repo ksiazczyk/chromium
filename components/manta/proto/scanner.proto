@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner proto message definitions
+// summary: Protobuf definitions for the ChromeOS scanner feature, describing screen-region input, detected objects, and actions like new events or contacts.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for media_effects
+summary: Defines the media_effects source set and its unit test target with their dependencies for the GN build.

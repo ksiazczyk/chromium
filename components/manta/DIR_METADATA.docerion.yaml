@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Manta directory metadata
+summary: Maps the manta directory to a Monorail component and a Buganizer component ID for issue tracking.

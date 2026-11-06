@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltDatabase class declaration
+// summary: Declares the database helper that stores media device salts per storage key and supports deletion by time range and matcher.
+// ---
+
 #ifndef COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_SALT_DATABASE_H_
 #define COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_SALT_DATABASE_H_
 

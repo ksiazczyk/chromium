@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseProvider class declaration
+// summary: Declares the BaseProvider class that abstracts endpoint fetching and authorization shared by Manta providers.
+// ---
+
 #ifndef COMPONENTS_MANTA_BASE_PROVIDER_H_
 #define COMPONENTS_MANTA_BASE_PROVIDER_H_
 

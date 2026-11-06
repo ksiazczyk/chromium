@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBaseProvider and BaseProviderTest declarations
+// summary: Declares the FakeBaseProvider and BaseProviderTest fixture used to build unit tests for individual Manta providers.
+// ---
+
 #ifndef COMPONENTS_MANTA_BASE_PROVIDER_TEST_HELPER_H_
 #define COMPONENTS_MANTA_BASE_PROVIDER_TEST_HELPER_H_
 

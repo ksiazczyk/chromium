@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio system info implementation
+// summary: Implements a fake SystemInfo Mojo interface that manages fake input devices and answers device enumeration queries for tests.
+// ---
+
 #include "components/media_effects/test/fake_audio_system_info.h"
 
 #include <optional>

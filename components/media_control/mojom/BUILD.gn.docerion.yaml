@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for media control mojom
+summary: GN build file defining the mojom target that compiles media_playback_options.mojom with a dependency on the renderer type target.
