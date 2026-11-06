@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_view_controller.mm.
+type: source
+title: Location bar badge view controller implementation
+summary: Implements badge layout, show/hide behavior and expand/collapse animations for the location bar badge.

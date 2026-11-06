@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkToTextJavaScriptFeature interface
+// summary: Declares the JavaScript feature that invokes link generation in web frames and delivers LinkToTextResponse results through callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_LINK_TO_TEXT_MODEL_LINK_TO_TEXT_JAVA_SCRIPT_FEATURE_H_
 

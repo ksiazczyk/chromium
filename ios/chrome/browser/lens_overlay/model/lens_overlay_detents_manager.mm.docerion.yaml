@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_detents_manager.mm.
+type: source
+title: Lens overlay detents manager implementation
+summary: Implements the Lens overlay detents manager, defining custom detent identifiers, heights and presentation strategies for the bottom sheet.

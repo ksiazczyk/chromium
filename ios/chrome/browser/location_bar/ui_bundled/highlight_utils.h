@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPH highlight styling utilities
+// summary: Declares helpers to create an IPH gradient view and to apply or remove highlight styling on image views and buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_HIGHLIGHT_UTILS_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_HIGHLIGHT_UTILS_H_
 

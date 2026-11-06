@@ -1,0 +1,4 @@
+# Docerion header of level_up_egtest.mm.
+type: test
+title: Level Up EarlGrey tests
+summary: EarlGrey UI tests for the Level Up feature, verifying that the Incognito task completion snackbar is not shown in other windows on iPad multiwindow.

@@ -1,0 +1,4 @@
+# Docerion header of level_up_welcome_header_view.mm.
+type: source
+title: Level Up welcome header view implementation
+summary: Implements the welcome header cell with a rounded avatar image view and an attributed user name label.

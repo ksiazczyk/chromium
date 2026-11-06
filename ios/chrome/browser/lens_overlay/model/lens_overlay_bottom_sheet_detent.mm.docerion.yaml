@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_bottom_sheet_detent.mm.
+type: source
+title: Lens Overlay bottom sheet detent implementation
+summary: Implements LensOverlayBottomSheetDetent, resolving the detent value through a stored resolver block.

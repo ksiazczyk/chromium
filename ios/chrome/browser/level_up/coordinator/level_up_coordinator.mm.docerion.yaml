@@ -1,0 +1,4 @@
+# Docerion header of level_up_coordinator.mm.
+type: source
+title: LevelUpCoordinator implementation
+summary: Implements the Level Up sheet coordinator, including presentation, opt-out confirmation, sign-in flows, and usage metrics.

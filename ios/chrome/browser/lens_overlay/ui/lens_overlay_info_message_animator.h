@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens Overlay info message animator interface
+// summary: Declares an animator that handles the fading show and hide transitions of informational message views in the Lens overlay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_INFO_MESSAGE_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_INFO_MESSAGE_ANIMATOR_H_
 

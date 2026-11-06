@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_info_message_animator.mm.
+type: source
+title: Lens overlay info message animator implementation
+summary: Implements fade-in and fade-out navigation transitions between the Lens results page and informational message view controllers.

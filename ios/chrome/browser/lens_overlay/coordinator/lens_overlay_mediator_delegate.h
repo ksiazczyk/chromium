@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay mediator delegate protocol
+// summary: Defines the delegate protocol for LensOverlayMediator events such as opening the overlay menu, opening URLs in new tabs and failed text detection for translation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_OVERLAY_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_OVERLAY_MEDIATOR_DELEGATE_H_
 

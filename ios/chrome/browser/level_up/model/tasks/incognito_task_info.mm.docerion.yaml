@@ -1,0 +1,4 @@
+# Docerion header of incognito_task_info.mm.
+type: source
+title: Incognito task info
+summary: Implements the incognito Level Up task that opens the tab grid and shows the swipe-to-incognito in-product help.

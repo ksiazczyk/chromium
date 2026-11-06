@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar steady view mediator interface
+// summary: Declares the mediator that updates LocationBarSteadyView state, such as location and security icon, from the LocationBarModel and the active web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_STEADY_VIEW_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_STEADY_VIEW_MEDIATOR_H_
 

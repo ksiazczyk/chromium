@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Level Up EarlGrey test build definition
+summary: Declares the eg2_tests source set for the Level Up feature's EarlGrey tests, listing its sources, dependencies, and frameworks.

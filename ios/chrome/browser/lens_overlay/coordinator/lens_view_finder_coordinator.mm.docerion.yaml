@@ -1,0 +1,4 @@
+# Docerion header of lens_view_finder_coordinator.mm.
+type: source
+title: Lens view finder coordinator implementation
+summary: Implements the Lens View Finder coordinator, handling presentation styles and transitions, Lens commands, feature engagement, intents donation and view finder metrics.

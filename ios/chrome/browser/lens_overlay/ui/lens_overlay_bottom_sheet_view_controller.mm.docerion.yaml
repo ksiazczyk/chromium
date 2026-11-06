@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_bottom_sheet_view_controller.mm.
+type: source
+title: Lens overlay bottom sheet view controller implementation
+summary: Implements the custom Lens Overlay bottom sheet, handling pan gestures, detents, keyboard adjustments, and rubber-band motion.

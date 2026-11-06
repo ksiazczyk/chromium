@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_url_utils.mm.
+type: source
+title: Lens overlay URL utilities implementation
+summary: Implements checks for Lens overlay, multimodal and AIM search result pages plus URL processing for history.

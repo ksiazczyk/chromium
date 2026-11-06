@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up promo profile agent interface
+// summary: Declares a profile agent that registers the Level Up promo with the Promos Manager once the required active days are reached.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_PROMO_PROFILE_AGENT_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_PROMO_PROFILE_AGENT_H_
 

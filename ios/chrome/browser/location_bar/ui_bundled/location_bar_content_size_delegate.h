@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar content size delegate protocol
+// summary: Protocol notifying embedders when location bar content changes in ways that alter the width the location bar needs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_CONTENT_SIZE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_CONTENT_SIZE_DELEGATE_H_
 

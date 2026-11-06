@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_mediator_unittest.mm.
+type: test
+title: Link to text mediator unit tests
+summary: Unit tests for the mediator using a fake JavaScript feature, OCMock mocks, and a UKM test recorder to verify link generation outcomes.

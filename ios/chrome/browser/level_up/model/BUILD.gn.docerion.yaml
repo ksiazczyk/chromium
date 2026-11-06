@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Level Up model BUILD.gn build file
+summary: Defines GN source sets for task info, the Level Up model, promo handlers, and unit tests with their dependencies.

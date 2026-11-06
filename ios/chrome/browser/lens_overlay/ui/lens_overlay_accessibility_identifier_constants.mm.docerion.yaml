@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_accessibility_identifier_constants.mm.
+type: source
+title: Lens overlay accessibility identifier constants implementation
+summary: Defines the accessibility identifier string values for the Lens container view and its close button.

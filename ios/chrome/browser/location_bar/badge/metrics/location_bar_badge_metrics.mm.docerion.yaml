@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_metrics.mm.
+type: source
+title: LocationBarBadgeMetrics implementation
+summary: Implements histogram logging for contextual panel entrypoint regular and loud display, first tap, and dismiss metrics in the iOS location bar badge.

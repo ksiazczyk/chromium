@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensOmniboxClientDelegate protocol
+// summary: Declares the delegate protocol notified when the Lens overlay omnibox accepts a suggestion or removes a thumbnail.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_OMNIBOX_CLIENT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_OMNIBOX_CLIENT_DELEGATE_H_
 

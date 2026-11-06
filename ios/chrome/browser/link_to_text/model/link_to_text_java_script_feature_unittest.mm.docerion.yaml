@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_java_script_feature_unittest.mm.
+type: test
+title: LinkToTextJavaScriptFeature unit tests
+summary: Tests link generation through the JavaScript feature using fake web frames, web states, and a disarmed JS invocation subclass.

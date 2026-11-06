@@ -1,0 +1,4 @@
+# Docerion header of level_up_service.mm.
+type: source
+title: Level Up service implementation
+summary: Implements Level Up task tracking, level calculation, stat preferences, and observers for tab groups, passwords, and session restoration.

@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_snapshot_controller.mm.
+type: source
+title: Lens overlay snapshot controller implementation
+summary: Implements the snapshot capture flow, including fullscreen animation, dominant and average color computation, and edge infill image processing.

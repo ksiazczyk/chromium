@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_bottom_sheet_detent_proxy.mm.
+type: source
+title: Lens Overlay bottom sheet detent proxy implementation
+summary: Implements the detent proxy, exposing the identifier of the wrapped system or Lens Overlay detent.

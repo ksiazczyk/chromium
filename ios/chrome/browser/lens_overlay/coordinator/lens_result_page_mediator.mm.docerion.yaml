@@ -1,0 +1,4 @@
+# Docerion header of lens_result_page_mediator.mm.
+type: source
+title: Lens result page mediator implementation
+summary: Implements LensResultPageMediator, managing the Lens result page web state with navigation policy decisions, URL rewriting for Google surfaces, and new tab or snackbar handling.

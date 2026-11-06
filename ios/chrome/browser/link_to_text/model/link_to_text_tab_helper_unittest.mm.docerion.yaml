@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_tab_helper_unittest.mm.
+type: test
+title: LinkToTextTabHelper unit tests
+summary: Tests the IsOnlyBoundaryChars selection check of the tab helper across alphabets, punctuation and whitespace edge cases.

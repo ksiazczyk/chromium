@@ -1,0 +1,4 @@
+# Docerion header of level_up_progress_bar.mm.
+type: source
+title: Level Up progress bar implementation
+summary: Builds the segmented progress bar, drawing a continuous gradient across completed task segments.

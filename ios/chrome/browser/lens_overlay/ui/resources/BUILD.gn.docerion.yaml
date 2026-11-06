@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Lens overlay UI resources
+summary: Defines bundle_data targets that package the Lens overlay animation JSON and asset catalog images into the iOS app bundle.

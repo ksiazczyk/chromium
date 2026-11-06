@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarBadgeConfiguration interface header
+// summary: Declares the LocationBarBadgeConfiguration Objective-C class holding badge type, image, accessibility strings, chip text, and related state properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_MODEL_LOCATION_BAR_BADGE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_MODEL_LOCATION_BAR_BADGE_CONFIGURATION_H_
 

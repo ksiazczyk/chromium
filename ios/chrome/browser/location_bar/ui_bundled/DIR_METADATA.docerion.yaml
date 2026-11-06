@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the location bar UI
+summary: Maps the directory to the UI>Browser>Omnibox monorail component and a Buganizer component for issue routing.

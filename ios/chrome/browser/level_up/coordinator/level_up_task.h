@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelUpTask model header
+// summary: Declares the LevelUpTask model wrapping a C++ TaskInfo with task ID, title, description, icon, completion state, and category.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_COORDINATOR_LEVEL_UP_TASK_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_COORDINATOR_LEVEL_UP_TASK_H_
 

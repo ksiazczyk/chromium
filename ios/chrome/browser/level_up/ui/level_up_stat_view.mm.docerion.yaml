@@ -1,0 +1,4 @@
+# Docerion header of level_up_stat_view.mm.
+type: source
+title: Level Up stat view implementation
+summary: Implements the stat card cell with title, subtitle and Lottie illustration, including card corner radius and shadow styling.

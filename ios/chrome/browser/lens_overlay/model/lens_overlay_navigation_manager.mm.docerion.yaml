@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_navigation_manager.mm.
+type: source
+title: Lens overlay navigation manager implementation
+summary: Implements the Lens overlay navigation manager, tracking Lens results, sub-navigations and omnibox navigation with back-list handling.

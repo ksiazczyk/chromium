@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLocationBarSteadyViewConsumer test fake header
+// summary: Declares FakeLocationBarSteadyViewConsumer, a test fake of the LocationBarSteadyViewConsumer protocol that records location text, icon, status, and shareable state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_TEST_FAKE_LOCATION_BAR_STEADY_VIEW_CONSUMER_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_TEST_FAKE_LOCATION_BAR_STEADY_VIEW_CONSUMER_H_
 

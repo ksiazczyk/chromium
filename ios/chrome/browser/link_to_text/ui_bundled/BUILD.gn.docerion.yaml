@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Link to text UI build targets
+summary: Defines GN source sets for the link-to-text UI mediator plus its unit and Earl Grey test targets and their dependencies.

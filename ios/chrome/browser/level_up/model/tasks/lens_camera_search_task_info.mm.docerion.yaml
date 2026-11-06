@@ -1,0 +1,4 @@
+# Docerion header of lens_camera_search_task_info.mm.
+type: source
+title: Lens camera search task info
+summary: Implements the Lens camera search Level Up task that presents the Lens icon bubble from the new tab page commands.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for badge metrics
+summary: Sets include rules allowing this directory to depend on the contextual panel model and utils.

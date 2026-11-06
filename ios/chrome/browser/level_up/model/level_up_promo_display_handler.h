@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up promo display handler interface
+// summary: Declares the handler the Promos Manager calls to display the Level Up promo when the user has not seen it from the overflow menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_PROMO_DISPLAY_HANDLER_H_
 

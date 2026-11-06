@@ -1,0 +1,4 @@
+# Docerion header of snapshot_cover_view_controller.mm.
+type: source
+title: Snapshot cover view controller implementation
+summary: Implements the snapshot cover view controller that fills its view with an image and runs a first-appear action.

@@ -1,0 +1,4 @@
+# Docerion header of fake_chrome_lens_overlay_result.mm.
+type: source
+title: Fake ChromeLensOverlayResult implementation
+summary: Implements FakeChromeLensOverlayResult with no-op web view loading and swipe callbacks for tests.

@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_pan_tracker.mm.
+type: source
+title: Lens overlay pan tracker implementation
+summary: Implements pan gesture tracking on a view using a UIPanGestureRecognizer, reporting gesture events and velocity to the delegate.

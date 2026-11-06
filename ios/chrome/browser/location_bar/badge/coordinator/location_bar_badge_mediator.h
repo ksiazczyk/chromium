@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar badge mediator header
+// summary: Declares the LocationBarBadgeMediator interface that drives badge state from web state, prefs, feature engagement, and Gemini services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_COORDINATOR_LOCATION_BAR_BADGE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_COORDINATOR_LOCATION_BAR_BADGE_MEDIATOR_H_
 

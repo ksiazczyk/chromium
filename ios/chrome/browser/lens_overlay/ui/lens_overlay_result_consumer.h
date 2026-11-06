@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay result consumer protocol
+// summary: Defines a consumer protocol for the Lens Overlay results UI covering search start, errors, slow requests and loading results URLs with cached headers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_RESULT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_RESULT_CONSUMER_H_
 

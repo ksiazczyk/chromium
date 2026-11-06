@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Level Up coordinator BUILD.gn
+summary: GN build file defining the view_models and coordinator source sets and their dependencies for the iOS Level Up feature.

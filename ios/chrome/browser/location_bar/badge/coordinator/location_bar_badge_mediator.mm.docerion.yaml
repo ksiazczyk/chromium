@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_mediator.mm.
+type: source
+title: Location bar badge mediator implementation
+summary: Implements the location bar badge mediator, handling badge transitions, contextual panel entrypoints, infobar badges, and promo timers.

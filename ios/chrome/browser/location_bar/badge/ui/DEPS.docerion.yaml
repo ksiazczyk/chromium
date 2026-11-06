@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Location bar badge UI include rules
+summary: Restricts which Chromium directories this folder is allowed to include headers from.

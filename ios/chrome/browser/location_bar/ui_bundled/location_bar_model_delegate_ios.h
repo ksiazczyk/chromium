@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS location bar model delegate
+// summary: Declares the iOS location bar model delegate that supplies URL, security state and icons from the active WebState to the omnibox model.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_MODEL_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_UI_BUNDLED_LOCATION_BAR_MODEL_DELEGATE_IOS_H_
 

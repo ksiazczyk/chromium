@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_bottom_sheet_detents_interactor.mm.
+type: source
+title: Lens Overlay bottom sheet detents interactor implementation
+summary: Implements the detents interactor, dispatching detent operations to the system presentation controller or the custom bottom sheet.

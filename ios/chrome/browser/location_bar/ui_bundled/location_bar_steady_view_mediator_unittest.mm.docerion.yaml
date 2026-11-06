@@ -1,0 +1,4 @@
+# Docerion header of location_bar_steady_view_mediator_unittest.mm.
+type: test
+title: Location bar steady view mediator unit tests
+summary: Unit tests for LocationBarSteadyViewMediator covering share button state during overlay presentation, HTTP auth dialogs, and location updates.

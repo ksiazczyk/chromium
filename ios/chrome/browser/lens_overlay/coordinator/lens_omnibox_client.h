@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensOmniboxClient interface
+// summary: Declares LensOmniboxClient, an OmniboxClientIOS that connects the omnibox inside the Lens overlay to profile and web state data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_OMNIBOX_CLIENT_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_OMNIBOX_CLIENT_H_
 

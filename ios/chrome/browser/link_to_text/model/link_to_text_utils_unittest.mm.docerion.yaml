@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_utils_unittest.mm.
+type: test
+title: Link-to-text utility unit tests
+summary: Tests the ParseStatus and IsLinkGenerationTimeout utility functions with valid, invalid and boundary inputs.

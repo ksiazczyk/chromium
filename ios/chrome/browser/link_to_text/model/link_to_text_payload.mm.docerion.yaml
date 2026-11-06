@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_payload.mm.
+type: source
+title: LinkToTextPayload implementation
+summary: Implements the LinkToTextPayload designated initializer that stores the URL, title, selected text, source view, and rect.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay consent view controller header
+// summary: Declares the promo-style view controller that shows Lens terms of service and prompts the user for acceptance.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_CONSENT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_CONSENT_VIEW_CONTROLLER_H_
 

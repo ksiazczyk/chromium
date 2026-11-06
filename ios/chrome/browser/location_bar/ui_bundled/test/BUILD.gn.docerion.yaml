@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for location bar test fakes
+summary: Defines a test-only GN source_set that builds the fake location bar steady view consumer for the location bar UI tests.

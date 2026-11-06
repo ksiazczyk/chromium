@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: All Tasks view controller interface
+// summary: Declares the view controller that displays all level-up tasks grouped by category cards, with a delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_ALL_TASKS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_UI_LEVEL_UP_ALL_TASKS_VIEW_CONTROLLER_H_
 

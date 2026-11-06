@@ -1,0 +1,4 @@
+# Docerion header of level_up_category.mm.
+type: source
+title: LevelUpCategory model implementation
+summary: Implements LevelUpCategory, filtering its task list into active and completed tasks.

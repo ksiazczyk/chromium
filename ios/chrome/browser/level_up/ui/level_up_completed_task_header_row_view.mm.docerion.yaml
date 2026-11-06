@@ -1,0 +1,4 @@
+# Docerion header of level_up_completed_task_header_row_view.mm.
+type: source
+title: Completed task header row view implementation
+summary: Implements the completed tasks header row with localized plural text, chevron, and separator handling.

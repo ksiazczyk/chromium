@@ -1,0 +1,4 @@
+# Docerion header of location_bar_steady_view_unittest.mm.
+type: test
+title: Location bar steady view unit tests
+summary: Unit tests verifying that LocationBarSteadyView reuses or rebuilds container constraints when location text, placeholder, or image changes.

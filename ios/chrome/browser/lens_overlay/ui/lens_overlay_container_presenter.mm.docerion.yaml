@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_container_presenter.mm.
+type: source
+title: Lens Overlay container presenter implementation
+summary: Implements presentation and dismissal of the Lens overlay container, including forced portrait orientation and selection UI fade animations.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens view finder metrics recorder
+// summary: Declares a recorder for Lens view finder metrics such as opening, dismissal, camera URL opens and image selection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_VIEW_FINDER_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_VIEW_FINDER_METRICS_RECORDER_H_
 

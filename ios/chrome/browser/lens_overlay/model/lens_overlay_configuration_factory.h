@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens Overlay configuration factory
+// summary: Declares a factory that creates LensConfiguration objects for a given entrypoint and profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_CONFIGURATION_FACTORY_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_CONFIGURATION_FACTORY_H_
 

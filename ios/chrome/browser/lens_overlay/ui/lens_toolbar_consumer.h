@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens toolbar consumer protocol
+// summary: Declares the LensToolbarConsumer protocol for updating omnibox focus state, back button availability and omnibox tap enablement.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_TOOLBAR_CONSUMER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_TOOLBAR_CONSUMER_H_
 

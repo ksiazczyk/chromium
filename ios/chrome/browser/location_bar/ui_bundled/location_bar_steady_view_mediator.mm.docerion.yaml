@@ -1,0 +1,4 @@
+# Docerion header of location_bar_steady_view_mediator.mm.
+type: source
+title: Location bar steady view mediator implementation
+summary: Implements the steady view mediator, observing web state, web state list, and overlay presenter changes to notify the consumer of location and security icon updates.

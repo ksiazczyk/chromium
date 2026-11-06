@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_java_script_feature.mm.
+type: source
+title: LinkToTextJavaScriptFeature implementation
+summary: Implements the Link-to-Text JavaScript feature, running generation scripts on the main frame, parsing responses, and handling AMP cache frames.

@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_panel.mm.
+type: source
+title: Lens overlay panel implementation
+summary: Implements the Lens Overlay panel, embedding content view controllers inside a rounded border outline with configurable insets and compact size class.

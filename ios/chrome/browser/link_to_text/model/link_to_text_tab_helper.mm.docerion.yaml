@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_tab_helper.mm.
+type: source
+title: LinkToTextTabHelper implementation
+summary: Implements selection checks, blocklist handling and ShouldOffer metrics for offering and generating link-to-text links.

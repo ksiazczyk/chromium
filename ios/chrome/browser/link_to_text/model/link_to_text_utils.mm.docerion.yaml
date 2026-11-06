@@ -1,0 +1,4 @@
+# Docerion header of link_to_text_utils.mm.
+type: source
+title: Link-to-text utility functions implementation
+summary: Implements status parsing, outcome-to-error mapping and the link generation timeout check for the link-to-text feature.

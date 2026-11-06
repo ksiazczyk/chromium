@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar badge mediator delegate protocol
+// summary: Declares the delegate protocol for LocationBarBadgeMediator covering chip visibility, fullscreen control, omnibox state, and Gemini entry flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_COORDINATOR_LOCATION_BAR_BADGE_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_BADGE_COORDINATOR_LOCATION_BAR_BADGE_MEDIATOR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_mediator_unittest.mm.
+type: test
+title: Location bar badge mediator unit tests
+summary: Unit tests for LocationBarBadgeMediator covering badge behavior, feature engagement, signin, and Gemini integration.

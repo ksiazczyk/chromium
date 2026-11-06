@@ -1,0 +1,4 @@
+# Docerion header of lens_result_page_mediator_unittest.mm.
+type: test
+title: Lens result page mediator unit tests
+summary: Unit tests for LensResultPageMediator using fake delegates, fake web states and OCMock to verify web state attachment, navigation and open-in-new-tab behavior.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location bar badge coordinator GN build definition
+summary: Defines the GN source_set targets, sources, and dependencies for the location bar badge coordinator and its unit tests.

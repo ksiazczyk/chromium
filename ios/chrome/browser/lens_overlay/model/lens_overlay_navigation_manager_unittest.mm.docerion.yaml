@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_navigation_manager_unittest.mm.
+type: test
+title: Lens overlay navigation manager unit tests
+summary: Unit tests for the Lens overlay navigation manager, covering result generation, reloads, omnibox navigation and back navigation behavior.

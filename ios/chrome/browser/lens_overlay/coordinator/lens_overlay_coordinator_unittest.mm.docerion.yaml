@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_coordinator_unittest.mm.
+type: test
+title: Lens overlay coordinator unit tests
+summary: Unit tests for LensOverlayCoordinator covering presentation, commands, metrics and tab behavior using fake profiles, scene state and test services.

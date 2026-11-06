@@ -1,0 +1,4 @@
+# Docerion header of level_up_task_icon_view.mm.
+type: source
+title: Level Up task icon view implementation
+summary: Implements the task icon view with category-colored backgrounds, a completion checkmark state and multicolor icon support.

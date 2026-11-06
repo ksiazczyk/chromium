@@ -1,0 +1,4 @@
+# Docerion header of level_up_stat.mm.
+type: source
+title: LevelUpStat model implementation
+summary: Implements the LevelUpStat initializer for completed task stat cards.

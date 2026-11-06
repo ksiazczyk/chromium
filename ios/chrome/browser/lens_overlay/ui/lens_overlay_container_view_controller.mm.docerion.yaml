@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_container_view_controller.mm.
+type: source
+title: Lens Overlay container view controller implementation
+summary: Implements the container view controller with close button, pan-tracked bottom sheet, side panel presentation, and keyboard command handling.

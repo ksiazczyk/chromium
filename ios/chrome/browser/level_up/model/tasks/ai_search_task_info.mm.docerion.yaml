@@ -1,0 +1,4 @@
+# Docerion header of ai_search_task_info.mm.
+type: source
+title: AI search task info
+summary: Implements the AI search Level Up task, providing title, icon, trigger action, and navigation to the AI mode bubble.

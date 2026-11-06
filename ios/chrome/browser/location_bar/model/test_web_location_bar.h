@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebLocationBar test fake header
+// summary: Declares TestWebLocationBar, a test double of WebLocationBar that stores a WebState and LocationBarModel and no-ops navigation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_TEST_WEB_LOCATION_BAR_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_TEST_WEB_LOCATION_BAR_H_
 

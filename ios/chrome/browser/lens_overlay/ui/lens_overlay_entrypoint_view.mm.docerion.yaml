@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_entrypoint_view.mm.
+type: source
+title: Lens Overlay entrypoint button implementation
+summary: Implements the entrypoint button with a camera lens symbol, visibility indicator, accessibility labels, and trait-based enablement.

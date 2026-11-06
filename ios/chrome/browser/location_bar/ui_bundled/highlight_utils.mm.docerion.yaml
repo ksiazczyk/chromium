@@ -1,0 +1,4 @@
+# Docerion header of highlight_utils.mm.
+type: source
+title: IPH highlight styling implementation
+summary: Implements gradient creation plus tint and shadow styling used for IPH highlights on location bar images and buttons.

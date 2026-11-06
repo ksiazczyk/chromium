@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_mediator_unittest.mm.
+type: test
+title: Lens overlay mediator unit tests
+summary: Unit tests for LensOverlayMediator using fake result consumers, web providers and OCMock to verify result loading and command handling.

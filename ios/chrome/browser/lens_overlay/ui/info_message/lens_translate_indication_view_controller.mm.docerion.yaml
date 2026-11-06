@@ -1,0 +1,4 @@
+# Docerion header of lens_translate_indication_view_controller.mm.
+type: source
+title: LensTranslateIndicationViewController implementation
+summary: Implements the translate indication message UI as a single localized title label with padding and preferred content size for the Lens overlay.

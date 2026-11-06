@@ -1,0 +1,4 @@
+# Docerion header of lens_result_page_view_controller.mm.
+type: source
+title: Lens result page view controller implementation
+summary: Implements the lens result page UI, including the omnibox container, back and cancel buttons, progress bar and bottom sheet grabber.

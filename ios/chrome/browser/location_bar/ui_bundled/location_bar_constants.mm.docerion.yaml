@@ -1,0 +1,4 @@
+# Docerion header of location_bar_constants.mm.
+type: source
+title: Location bar constants
+summary: Defines shared constants for the iOS location bar such as placeholder color brightness, fullscreen threshold, and accessibility identifiers.

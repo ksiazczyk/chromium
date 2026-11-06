@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Link to text UI owners
+summary: Designates directory ownership by referencing the OWNERS file of the link-to-text model directory.

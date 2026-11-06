@@ -1,0 +1,4 @@
+# Docerion header of location_bar_badge_egtest.mm.
+type: test
+title: Location bar badge Earl Grey tests
+summary: End-to-end Earl Grey tests verifying badge and chip behavior, including the Ask Gemini chip entrypoint.

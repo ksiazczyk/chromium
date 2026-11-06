@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay navigation manager interface
+// summary: Declares LensOverlayNavigationManager, which maintains the back list of Lens overlay results and decides which result to load or discard.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_NAVIGATION_MANAGER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_NAVIGATION_MANAGER_H_
 

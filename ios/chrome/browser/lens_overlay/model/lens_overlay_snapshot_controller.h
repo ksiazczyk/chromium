@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay snapshot controller header
+// summary: Declares a controller that manages capturing fullscreen snapshots of the base window for the Lens overlay, with cancellation and inset handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_SNAPSHOT_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_MODEL_LENS_OVERLAY_SNAPSHOT_CONTROLLER_H_
 

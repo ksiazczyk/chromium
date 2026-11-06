@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Level Up scene agent interface
+// summary: Declares the scene agent that starts and stops listening to user actions to mark Level Up tasks as completed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_LEVEL_UP_MODEL_LEVEL_UP_SCENE_AGENT_H_
 

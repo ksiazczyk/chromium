@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay accessibility identifier constants header
+// summary: Declares external accessibility identifier strings for the Lens container view and its close button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_ACCESSIBILITY_IDENTIFIER_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_UI_LENS_OVERLAY_ACCESSIBILITY_IDENTIFIER_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of lens_view_finder_transition_manager.mm.
+type: source
+title: Lens view finder transition manager implementation
+summary: Implements animated presentation and dismissal transitions for the lens view finder, using view snapshots and ease-out animation curves.

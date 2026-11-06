@@ -1,0 +1,4 @@
+# Docerion header of task_types.mm.
+type: source
+title: TaskType string conversion helpers
+summary: Implements TaskTypeToString and StringToTaskType mappings between Level Up task enum values and their string names.

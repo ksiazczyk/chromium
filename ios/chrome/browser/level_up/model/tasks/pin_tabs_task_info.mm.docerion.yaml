@@ -1,0 +1,4 @@
+# Docerion header of pin_tabs_task_info.mm.
+type: source
+title: Level Up pin tabs task info
+summary: Defines the PinTabsTaskInfo class describing the pin tabs Level Up task, which opens the tab grid and presents the pin tab bubble when triggered.

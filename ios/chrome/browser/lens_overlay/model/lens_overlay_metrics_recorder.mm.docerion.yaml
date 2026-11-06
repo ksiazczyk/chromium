@@ -1,0 +1,4 @@
+# Docerion header of lens_overlay_metrics_recorder.mm.
+type: source
+title: Lens overlay metrics recorder implementation
+summary: Implements Lens overlay metrics recording, tracking invocation source, foreground duration, first interactions and search request elapsed time.

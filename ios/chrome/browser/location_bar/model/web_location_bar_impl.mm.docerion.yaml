@@ -1,0 +1,4 @@
+# Docerion header of web_location_bar_impl.mm.
+type: source
+title: WebLocationBarImpl implementation
+summary: Implements WebLocationBarImpl, forwarding navigations to the URL loader and recording omnibox home metrics on new tab pages.

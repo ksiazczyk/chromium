@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebLocationBar interface
+// summary: Defines the WebLocationBar interface exposing the active WebState, navigation events, and the location bar model.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_WEB_LOCATION_BAR_H_
 #define IOS_CHROME_BROWSER_LOCATION_BAR_MODEL_WEB_LOCATION_BAR_H_
 

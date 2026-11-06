@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ChromeLensOverlay test double
+// summary: Declares FakeChromeLensOverlay, a test double simulating ChromeLensOverlay behavior and result generation for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_FAKE_CHROME_LENS_OVERLAY_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_FAKE_CHROME_LENS_OVERLAY_H_
 

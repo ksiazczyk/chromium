@@ -1,0 +1,4 @@
+# Docerion header of fake_location_bar_steady_view_consumer.mm.
+type: test
+title: FakeLocationBarSteadyViewConsumer test fake implementation
+summary: Implements the fake consumer by storing updated location text, icon, and shareable state and invoking the location shareable callback.

@@ -1,0 +1,4 @@
+# Docerion header of level_up_view_controller.mm.
+type: source
+title: Level Up view controller implementation
+summary: Implements the Level Up dashboard as a collection view with welcome, progress, stats and task checklist sections.

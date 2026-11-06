@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Level Up UI build configuration (BUILD.gn)
+summary: Defines the source sets, dependencies, and Lottie animation resource bundling for the Level Up UI.

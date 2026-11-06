@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens result page mediator delegate protocol
+// summary: Declares the LensResultPageMediatorDelegate protocol with callbacks for web state shown, destroyed, swipes, active web state changes, and new tab or open-in-new-tab requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_RESULT_PAGE_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_LENS_OVERLAY_COORDINATOR_LENS_RESULT_PAGE_MEDIATOR_DELEGATE_H_
 
