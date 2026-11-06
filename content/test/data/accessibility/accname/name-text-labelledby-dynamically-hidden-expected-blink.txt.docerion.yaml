@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-dynamically-hidden-expected-blink.txt.
+type: test
+title: Blink expected result for dynamically hidden labelledby test
+summary: Expected result noting the test node is not found after it is hidden, covering cached accessibility tree corner cases on Blink.

@@ -1,0 +1,4 @@
+# Docerion header of name-text-input-in-own-label-expected-blink.txt.
+type: test
+title: Expected Blink output for input-in-own-label name test
+summary: Expected accessibility tree output on Blink for the name-text-input-in-own-label test, showing a text field named 'color'.

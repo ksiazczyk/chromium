@@ -1,0 +1,4 @@
+# Docerion header of name-text-select-in-label-expected-mac.txt.
+type: test
+title: Expected Mac result for name-text-select-in-label
+summary: Expected macOS accessibility output for a text field whose label contains a select element, asserting the AXTitle 'silly' and value 'baz'.

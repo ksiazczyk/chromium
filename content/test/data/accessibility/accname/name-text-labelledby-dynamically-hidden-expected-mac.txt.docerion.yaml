@@ -1,0 +1,4 @@
+# Docerion header of name-text-labelledby-dynamically-hidden-expected-mac.txt.
+type: test
+title: Mac expected result for dynamically hidden labelledby test
+summary: Empty expected result file for the dynamically hidden labelledby test on macOS.

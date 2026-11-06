@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-expected-blink.txt.
+type: test
+title: Blink expected result for name-text-label accname test
+summary: Expected Blink accessibility tree output for the name-text-label test, showing a text field whose name comes from a related label element.

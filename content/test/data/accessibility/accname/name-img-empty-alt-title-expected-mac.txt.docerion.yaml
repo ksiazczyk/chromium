@@ -1,0 +1,4 @@
+# Docerion header of name-img-empty-alt-title-expected-mac.txt.
+type: test
+title: Expected Mac output for name-img-empty-alt-title
+summary: Empty expected output file for the macOS result of the image with empty alt text and title test.

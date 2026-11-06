@@ -1,0 +1,4 @@
+# Docerion header of name-radio-title-expected-mac.txt.
+type: test
+title: Expected Mac result for radio name from title
+summary: Expected AX API accessible name result for a radio input named via its title attribute on macOS.

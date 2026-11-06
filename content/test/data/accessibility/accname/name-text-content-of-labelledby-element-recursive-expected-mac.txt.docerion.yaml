@@ -1,0 +1,4 @@
+# Docerion header of name-text-content-of-labelledby-element-recursive-expected-mac.txt.
+type: test
+title: Mac expected result for recursive labelledby name test
+summary: Expected Mac accessibility output for the recursive aria-labelledby name test, recording the text field title.

@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-expected-mac.txt.
+type: test
+title: Mac expected result for name-text-label accname test
+summary: Expected macOS accessibility output for the name-text-label test, showing an AXTextField with title 'foo'.

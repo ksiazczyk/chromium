@@ -1,0 +1,4 @@
+# Docerion header of name-text-content-of-labelledby-element-recursive-expected-blink.txt.
+type: test
+title: Blink expected result for recursive labelledby name test
+summary: Expected Blink output for the recursive aria-labelledby name test, recording the text field name and its name-from source.

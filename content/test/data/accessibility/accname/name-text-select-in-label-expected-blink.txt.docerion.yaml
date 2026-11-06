@@ -1,0 +1,4 @@
+# Docerion header of name-text-select-in-label-expected-blink.txt.
+type: test
+title: Expected Blink result for name-text-select-in-label
+summary: Expected accessible name output on the Blink engine for a text field whose label contains a select element, asserting the name 'silly'.

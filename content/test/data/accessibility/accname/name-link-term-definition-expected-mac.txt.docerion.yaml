@@ -1,0 +1,4 @@
+# Docerion header of name-link-term-definition-expected-mac.txt.
+type: test
+title: Mac expected name for link with term definition content
+summary: Expected Mac AXLink description and title for a link whose contents are a definition list.

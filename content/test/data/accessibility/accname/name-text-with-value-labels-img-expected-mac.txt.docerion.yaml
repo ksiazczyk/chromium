@@ -1,0 +1,4 @@
+# Docerion header of name-text-with-value-labels-img-expected-mac.txt.
+type: test
+title: Expected Mac name for image labelled by text input value
+summary: Expected accname test result for macOS showing an AXTextField with value 'peanuts'.

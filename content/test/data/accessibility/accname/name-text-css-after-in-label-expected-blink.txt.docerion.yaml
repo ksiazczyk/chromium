@@ -1,0 +1,4 @@
+# Docerion header of name-text-css-after-in-label-expected-blink.txt.
+type: test
+title: Blink expected result for CSS after content in label test
+summary: Expected Blink output for the label CSS after-content name test, recording the text field name and its name-from source.

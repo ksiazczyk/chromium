@@ -1,0 +1,4 @@
+# Docerion header of name-radio-label-embedded-combobox-expected-blink.txt.
+type: test
+title: Expected accessible name for radio with embedded combobox on Blink
+summary: Expected accessible name result for the radio label embedded combobox test on the Blink accessibility platform.

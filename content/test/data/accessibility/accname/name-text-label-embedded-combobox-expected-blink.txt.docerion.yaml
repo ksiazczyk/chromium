@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-embedded-combobox-expected-blink.txt.
+type: test
+title: Expected Blink name for text label with embedded combobox
+summary: Expected Blink accessibility output for a text input whose label embeds a combobox role widget.

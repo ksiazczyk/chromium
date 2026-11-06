@@ -1,0 +1,4 @@
+# Docerion header of name-text-input-labelledby-div-expected-mac.txt.
+type: test
+title: Expected Mac name for text input labelled by div
+summary: Expected macOS accessibility output for a text input whose name comes from a labelling div, showing AXTextField with title 'color'.

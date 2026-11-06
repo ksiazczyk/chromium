@@ -1,0 +1,4 @@
+# Docerion header of name-text-spinbutton-valuetext-in-label-expected-blink.txt.
+type: test
+title: Expected Blink result for name-text-spinbutton-valuetext-in-label
+summary: Expected Blink output asserting the text field's name is 'silly Monday' derived from the spinbutton's aria-valuetext in the related label.

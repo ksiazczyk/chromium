@@ -1,0 +1,4 @@
+# Docerion header of name-text-dynamic-labelledby-expected-mac.txt.
+type: test
+title: Expected Mac output for dynamic labelledby name test
+summary: Expected macOS accessibility output for the name-text-dynamic-labelledby test, showing an AXTextField titled 'foo'.

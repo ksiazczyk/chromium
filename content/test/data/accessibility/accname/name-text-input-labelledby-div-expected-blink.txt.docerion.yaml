@@ -1,0 +1,4 @@
+# Docerion header of name-text-input-labelledby-div-expected-blink.txt.
+type: test
+title: Expected Blink output for labelledby-div name test
+summary: Expected accessibility tree output on Blink for the name-text-input-labelledby-div test, showing a text field named 'color'.

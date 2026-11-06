@@ -1,0 +1,4 @@
+# Docerion header of name-link-term-definition.html.
+type: test
+title: Link with term definition list accname test page
+summary: HTML test page with a link containing a definition list of terms and values, used to check accessible name computation.

@@ -1,0 +1,4 @@
+# Docerion header of name-text-css-before-in-label-expected-mac.txt.
+type: test
+title: Mac expected result for CSS before content in label test
+summary: Expected Mac accessibility output for the label CSS before-content name test, recording the text field title.

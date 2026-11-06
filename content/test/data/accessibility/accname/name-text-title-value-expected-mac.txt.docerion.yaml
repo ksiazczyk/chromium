@@ -1,0 +1,4 @@
+# Docerion header of name-text-title-value-expected-mac.txt.
+type: test
+title: Expected Mac result for name-text-title-value
+summary: Expected macOS accessibility output asserting a text field's description and title are 'silly' with value 'baz'.

@@ -1,0 +1,4 @@
+# Docerion header of name-radio-css-before-in-label-expected-mac.txt.
+type: test
+title: Expected Mac output for radio name with CSS before content in label
+summary: Expected macOS accessibility output for a radio button whose accessible name combines label text with CSS :before generated content.

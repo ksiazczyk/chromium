@@ -1,0 +1,4 @@
+# Docerion header of name-text-input-in-label-expected-mac.txt.
+type: test
+title: Expected Mac output for input-in-label name test
+summary: Expected macOS accessibility output for the name-text-input-in-label test, showing an AXTextField titled 'foo David'.

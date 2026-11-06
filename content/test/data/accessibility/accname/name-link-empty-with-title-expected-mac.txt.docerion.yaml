@@ -1,0 +1,4 @@
+# Docerion header of name-link-empty-with-title-expected-mac.txt.
+type: test
+title: Expected Mac output for empty link named by title
+summary: Expected macOS accessibility output for a link with no content whose accessible name comes from its title attribute.

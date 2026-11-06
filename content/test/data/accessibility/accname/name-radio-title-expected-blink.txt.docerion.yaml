@@ -1,0 +1,4 @@
+# Docerion header of name-radio-title-expected-blink.txt.
+type: test
+title: Expected Blink result for radio name from title
+summary: Expected accessible name result for a radio input named via its title attribute on the Blink platform.

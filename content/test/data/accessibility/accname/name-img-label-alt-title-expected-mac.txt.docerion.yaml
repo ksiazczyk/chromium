@@ -1,0 +1,4 @@
+# Docerion header of name-img-label-alt-title-expected-mac.txt.
+type: test
+title: Expected Mac output for image name from aria-label, alt and title
+summary: Expected macOS accessibility output for an image whose name comes from aria-label, alt and title attributes.

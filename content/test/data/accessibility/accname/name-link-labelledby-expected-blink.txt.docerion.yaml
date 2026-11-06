@@ -1,0 +1,4 @@
+# Docerion header of name-link-labelledby-expected-blink.txt.
+type: test
+title: Expected Blink output for link named by labelledby
+summary: Expected Blink accessibility output for a link whose name comes from an aria-labelledby related element.

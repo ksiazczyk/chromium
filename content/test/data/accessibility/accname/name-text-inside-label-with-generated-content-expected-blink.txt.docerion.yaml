@@ -1,0 +1,4 @@
+# Docerion header of name-text-inside-label-with-generated-content-expected-blink.txt.
+type: test
+title: Expected Blink name for text inside label with generated content
+summary: Expected Blink accessibility output for a text input inside a label with CSS generated content, including a comment noting a known bug in the expectation.

@@ -1,0 +1,4 @@
+# Docerion header of name-text-label-embedded-combobox-expected-mac.txt.
+type: test
+title: Expected Mac name for text label with embedded combobox
+summary: Expected macOS accessibility output for a text input whose label embeds a combobox role widget.

@@ -1,0 +1,4 @@
+# Docerion header of name-link-content-only-expected-mac.txt.
+type: test
+title: Expected Mac output for link name from content only
+summary: Expected macOS accessibility output for a link whose accessible name comes from its text content.

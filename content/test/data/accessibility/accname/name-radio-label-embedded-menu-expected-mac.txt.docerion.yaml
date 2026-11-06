@@ -1,0 +1,4 @@
+# Docerion header of name-radio-label-embedded-menu-expected-mac.txt.
+type: test
+title: Expected accessible name for radio with embedded menu on Mac
+summary: Expected AXRadioButton title result for the radio label embedded menu test on macOS.

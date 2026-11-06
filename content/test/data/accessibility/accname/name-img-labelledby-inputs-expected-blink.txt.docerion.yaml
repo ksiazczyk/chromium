@@ -1,0 +1,4 @@
+# Docerion header of name-img-labelledby-inputs-expected-blink.txt.
+type: test
+title: Expected Blink output for image labelled by inputs
+summary: Expected Blink accessibility output for an image labelled by the values of three text inputs.

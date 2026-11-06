@@ -1,0 +1,4 @@
+# Docerion header of name-radio-label-embedded-slider-expected-mac.txt.
+type: test
+title: Mac expected output for radio label with embedded slider
+summary: Expected macOS accessibility output for a radio button named by a label containing an embedded slider element.

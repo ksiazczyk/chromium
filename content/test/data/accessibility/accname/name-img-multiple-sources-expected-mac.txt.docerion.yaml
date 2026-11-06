@@ -1,0 +1,4 @@
+# Docerion header of name-img-multiple-sources-expected-mac.txt.
+type: test
+title: Expected Mac name for img with multiple name sources
+summary: Expected AXImage title on macOS for an image whose name is combined from several related elements.

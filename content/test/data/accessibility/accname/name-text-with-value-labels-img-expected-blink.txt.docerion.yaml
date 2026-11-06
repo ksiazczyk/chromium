@@ -1,0 +1,4 @@
+# Docerion header of name-text-with-value-labels-img-expected-blink.txt.
+type: test
+title: Expected Blink name for image labelled by text input value
+summary: Expected accname test result for Blink for the image labelled by a text input's value.

@@ -1,0 +1,4 @@
+# Docerion header of name-link-labelledby-self-and-paragraph-expected-blink.txt.
+type: test
+title: Expected Blink name for link labelled by self and paragraph
+summary: Expected Blink accessibility output asserting the link name is 'Tag foo' when the link is labelled by itself and a paragraph.

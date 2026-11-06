@@ -1,0 +1,4 @@
+# Docerion header of name-text-inside-label-with-generated-content-expected-mac.txt.
+type: test
+title: Expected Mac name for text inside label with generated content
+summary: Expected macOS accessibility output for a text input inside a label that uses CSS generated content.

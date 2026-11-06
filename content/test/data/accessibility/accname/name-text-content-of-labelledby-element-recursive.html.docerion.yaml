@@ -1,0 +1,4 @@
+# Docerion header of name-text-content-of-labelledby-element-recursive.html.
+type: test
+title: Recursive labelledby accessible name test page
+summary: HTML test page checking that a role=status element contributes its text when computing a name via aria-labelledby.

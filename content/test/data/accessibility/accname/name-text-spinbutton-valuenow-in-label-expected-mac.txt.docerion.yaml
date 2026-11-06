@@ -1,0 +1,4 @@
+# Docerion header of name-text-spinbutton-valuenow-in-label-expected-mac.txt.
+type: test
+title: Expected Mac result for name-text-spinbutton-valuenow-in-label
+summary: Expected macOS accessibility output asserting a text field is named 'silly 4' when its label contains a spinbutton with aria-valuenow 4.

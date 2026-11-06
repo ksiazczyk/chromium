@@ -1,0 +1,4 @@
+# Docerion header of name-link-multiple-sources-expected-blink.txt.
+type: test
+title: Expected Blink name for link with multiple label sources
+summary: Expected Blink output asserting the link name 'bar' comes from the related element when both aria-label and aria-labelledby are set.
