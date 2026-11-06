@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_suggestion_group_impl.mm.
+type: source
+title: AutocompleteSuggestionGroupImpl implementation
+summary: Implements the AutocompleteSuggestionGroupImpl class holding a title, suggestions, display style and type for grouped omnibox suggestions.

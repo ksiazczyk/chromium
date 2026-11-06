@@ -1,0 +1,4 @@
+# Docerion header of omnibox_mediator_unittest.mm.
+type: test
+title: OmniboxMediator unit tests
+summary: Unit tests verifying when OmniboxMediator reloads or clears omnibox suggestions on app foregrounding using OCMock mocks.

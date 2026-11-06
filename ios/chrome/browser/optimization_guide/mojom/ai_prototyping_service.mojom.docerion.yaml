@@ -1,0 +1,4 @@
+# Docerion header of ai_prototyping_service.mojom.
+type: source
+title: AIPrototypingService mojom interface
+summary: Defines the mojo interface for executing server and on-device AI prototyping queries, returning output plus logging data for ModelQualityLogEntry uploads.

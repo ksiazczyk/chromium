@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake optimization guide service interface
+// summary: Declares a fake OptimizationGuideService for tests that mocks ExecuteModel with configurable responses and errors per feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_FAKE_OPTIMIZATION_GUIDE_SERVICE_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_FAKE_OPTIMIZATION_GUIDE_SERVICE_H_
 

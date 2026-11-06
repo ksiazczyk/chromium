@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox input assistant items interface
+// summary: Declares functions that build the leading and trailing bar button groups for the omnibox input assistant.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_KEYBOARD_ASSIST_OMNIBOX_INPUT_ASSISTANT_ITEMS_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_KEYBOARD_ASSIST_OMNIBOX_INPUT_ASSISTANT_ITEMS_H_
 

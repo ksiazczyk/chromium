@@ -1,0 +1,4 @@
+# Docerion header of omnibox_remote_suggestion_event_view_controller.mm.
+type: source
+title: Remote suggestion event view controller implementation
+summary: Builds the event display UI with copy buttons for the request URL and response and pretty-prints JSON request and response bodies.

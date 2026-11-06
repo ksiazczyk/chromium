@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestion event view controller header
+// summary: Declares OmniboxRemoteSuggestionEventViewController, which displays a remote suggestion service update event.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_REMOTE_SUGGESTION_EVENT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_REMOTE_SUGGESTION_EVENT_VIEW_CONTROLLER_H_
 

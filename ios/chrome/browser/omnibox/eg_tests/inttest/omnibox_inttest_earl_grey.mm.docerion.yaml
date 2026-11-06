@@ -1,0 +1,4 @@
+# Docerion header of omnibox_inttest_earl_grey.mm.
+type: source
+title: Implementation of the omnibox Earl Grey helpers
+summary: Implements Earl Grey helper actions and assertions for focusing the omnibox and waiting for URL or search loads.

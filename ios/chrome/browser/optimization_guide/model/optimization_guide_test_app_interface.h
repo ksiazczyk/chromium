@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide test app interface header
+// summary: Declares the Earl Grey app interface for setting hints URLs, registering optimization types, and adding test hints in EG2 tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_OPTIMIZATION_GUIDE_TEST_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_OPTIMIZATION_GUIDE_TEST_APP_INTERFACE_H_
 

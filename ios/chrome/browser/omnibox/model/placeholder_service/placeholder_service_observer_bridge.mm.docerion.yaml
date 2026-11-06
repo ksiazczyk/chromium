@@ -1,0 +1,4 @@
+# Docerion header of placeholder_service_observer_bridge.mm.
+type: source
+title: PlaceholderServiceObserverBridge implementation
+summary: Implements the observer bridge, forwarding placeholder text, image, and shutdown callbacks to the Objective-C owner.

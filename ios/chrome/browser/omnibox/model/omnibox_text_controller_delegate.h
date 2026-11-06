@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxTextControllerDelegate protocol
+// summary: Defines the delegate protocol that informs about autocomplete suggestions being previewed by the omnibox text controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_TEXT_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_TEXT_CONTROLLER_DELEGATE_H_
 

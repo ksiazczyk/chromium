@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_service.mm.
+type: source
+title: Optimization guide service implementation
+summary: Implements the iOS Chrome OptimizationGuideService, wiring hints, model execution, navigation data, and profile-scoped dependencies.

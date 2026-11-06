@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_service.mojom.
+type: source
+title: EnhancedCalendarService mojom interface
+summary: Defines request parameters, a response result union, and the mojo interface for executing server-side enhanced calendar feature requests on iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPedalData Swift class
+// summary: Swift model for omnibox pedal data with title, subtitle, image, colors and action, conforming to the OmniboxPedal and OmniboxIcon protocols.
+// ---
+
 import Foundation
 import SwiftUI
 import UIKit

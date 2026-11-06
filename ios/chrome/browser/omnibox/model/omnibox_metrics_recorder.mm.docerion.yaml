@@ -1,0 +1,4 @@
+# Docerion header of omnibox_metrics_recorder.mm.
+type: source
+title: OmniboxMetricsRecorder implementation
+summary: Implements omnibox metrics recording, emitting histograms and user actions for opened suggestions, navigation timing, fuzzy provider matches and paste behavior.

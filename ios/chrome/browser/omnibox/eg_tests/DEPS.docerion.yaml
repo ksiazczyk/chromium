@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for omnibox eg_tests directory
+summary: Restricts includes in the omnibox eg_tests directory to allowed autocomplete, history, search engine and toolbar paths.

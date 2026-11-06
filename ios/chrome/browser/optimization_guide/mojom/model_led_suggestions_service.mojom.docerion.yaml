@@ -1,0 +1,4 @@
+# Docerion header of model_led_suggestions_service.mojom.
+type: source
+title: ModelLedSuggestionsService mojom interface
+summary: Defines the mojo interface for fetching model-led contextual suggestions for the current page, returning either a suggestions proto or an error string.

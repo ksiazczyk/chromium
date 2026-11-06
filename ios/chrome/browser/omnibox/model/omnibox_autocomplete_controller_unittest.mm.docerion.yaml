@@ -1,0 +1,4 @@
+# Docerion header of omnibox_autocomplete_controller_unittest.mm.
+type: test
+title: Omnibox autocomplete controller unit tests
+summary: Unit tests for the omnibox autocomplete controller that use mocked autocomplete controllers and clients to verify suggestion and metrics behavior.

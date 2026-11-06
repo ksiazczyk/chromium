@@ -1,0 +1,4 @@
+# Docerion header of remote_suggestions_service_observer_bridge.mm.
+type: source
+title: Remote suggestions service observer bridge implementation
+summary: Implements the observer bridge, converting request lifecycle events and response bodies into Objective-C calls on the registered observer.

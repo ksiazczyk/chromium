@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup mediator testing category
+// summary: Testing category that exposes private suggestion group properties of OmniboxPopupMediator for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_POPUP_OMNIBOX_POPUP_MEDIATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_POPUP_OMNIBOX_POPUP_MEDIATOR_TESTING_H_
 

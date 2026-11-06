@@ -1,0 +1,4 @@
+# Docerion header of tab_url_provider_impl_unittest.mm.
+type: test
+title: Tab URL provider unit tests
+summary: Unit tests covering TabUrlProviderImpl behavior for incognito exclusion, pruning of expired URLs and returning active tab URLs.

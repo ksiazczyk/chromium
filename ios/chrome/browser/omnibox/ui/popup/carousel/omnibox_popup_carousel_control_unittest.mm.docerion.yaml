@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_carousel_control_unittest.mm.
+type: test
+title: Omnibox popup carousel control unit tests
+summary: Unit tests for OmniboxPopupCarouselControl verifying control width, accessibility label, selection delegate callbacks and cell background color on size class trait changes.

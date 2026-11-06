@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_model.mm.
+type: source
+title: OmniboxTextModel implementation
+summary: Implements omnibox text state management including focus changes, user text updates, paste tracking and computation of state changes.

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_inttest_app_interface.mm.
+type: source
+title: Implementation of the omnibox integration test app interface
+summary: Implements the app-side helper that returns the last URL loaded through the integration test coordinator.

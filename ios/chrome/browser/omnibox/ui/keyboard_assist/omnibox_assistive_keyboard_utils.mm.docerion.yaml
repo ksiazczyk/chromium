@@ -1,0 +1,4 @@
+# Docerion header of omnibox_assistive_keyboard_utils.mm.
+type: source
+title: Assistive keyboard key utilities implementation
+summary: Maps assistive key strings such as colon, dash, slash and .com to their metric enum values and returns the displayable key list.

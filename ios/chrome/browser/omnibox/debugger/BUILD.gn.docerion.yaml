@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox debugger GN build configuration
+summary: Defines the debugger and ui source sets with their sources and dependencies for the iOS omnibox debugger.

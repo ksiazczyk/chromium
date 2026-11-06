@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup consumer protocol
+// summary: Declares the OmniboxPopupConsumer protocol for updating popup matches, text alignment and bottom omnibox display in the popup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_OMNIBOX_POPUP_CONSUMER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_OMNIBOX_POPUP_CONSUMER_H_
 

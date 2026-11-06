@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestions service delegate bridge header
+// summary: Declares the RemoteSuggestionsServiceDelegate Objective-C protocol and the C++ bridge class that forwards remote suggestions service request completion callbacks to it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_REMOTE_SUGGESTIONS_SERVICE_DELEGATE_BRIDGE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_REMOTE_SUGGESTIONS_SERVICE_DELEGATE_BRIDGE_H_
 

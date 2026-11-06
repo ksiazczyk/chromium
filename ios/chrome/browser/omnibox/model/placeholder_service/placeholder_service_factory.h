@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaceholderServiceFactory header
+// summary: Declares the profile-keyed service factory that owns and vends PlaceholderService instances for iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_PLACEHOLDER_SERVICE_PLACEHOLDER_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_PLACEHOLDER_SERVICE_PLACEHOLDER_SERVICE_FACTORY_H_
 

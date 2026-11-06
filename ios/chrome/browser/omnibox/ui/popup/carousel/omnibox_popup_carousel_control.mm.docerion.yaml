@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_carousel_control.mm.
+type: source
+title: Omnibox popup carousel control implementation
+summary: Implements the omnibox popup carousel control, building the squircle background, favicon view, label and selection gradient for carousel items.

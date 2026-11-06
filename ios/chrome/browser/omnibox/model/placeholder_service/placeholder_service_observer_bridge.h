@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaceholderServiceObserverBridge header
+// summary: Declares an Objective-C observer protocol and a C++ bridge that forwards PlaceholderService events to Objective-C owners.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_PLACEHOLDER_SERVICE_PLACEHOLDER_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_PLACEHOLDER_SERVICE_PLACEHOLDER_SERVICE_OBSERVER_BRIDGE_H_
 

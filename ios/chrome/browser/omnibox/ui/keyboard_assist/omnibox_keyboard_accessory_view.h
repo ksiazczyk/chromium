@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox keyboard accessory view interface
+// summary: Declares the keyboard accessory view that shows shortcut keys and voice, camera and paste search buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_KEYBOARD_ASSIST_OMNIBOX_KEYBOARD_ACCESSORY_VIEW_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_KEYBOARD_ASSIST_OMNIBOX_KEYBOARD_ACCESSORY_VIEW_H_
 

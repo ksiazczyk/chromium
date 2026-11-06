@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_field_paste_delegate.mm.
+type: source
+title: OmniboxTextFieldPasteDelegate implementation
+summary: Implements paste handling for the omnibox text field, sanitizing pasted URLs and text and applying font and color attributes.

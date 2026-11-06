@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox popup coordinator build targets
+summary: Defines the popup source set and unit test targets with their sources and dependencies for the iOS omnibox popup coordinator.

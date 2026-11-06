@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_model_unittest.mm.
+type: test
+title: OmniboxTextModel unit tests
+summary: Unit tests verifying OmniboxTextModel state change detection for deleted text, insertion, replacement and selection handling.

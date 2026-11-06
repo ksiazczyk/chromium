@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the omnibox UI directory
+summary: Lists the include directories allowed for the omnibox UI folder in Chromium dependency checks.

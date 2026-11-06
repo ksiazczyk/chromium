@@ -1,0 +1,4 @@
+# Docerion header of prediction_model_download_client.mm.
+type: source
+title: Prediction model download client implementation
+summary: Implements the download client that forwards download service state, successes and failures to the prediction model download manager.

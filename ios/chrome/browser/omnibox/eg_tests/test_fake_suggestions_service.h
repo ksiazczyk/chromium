@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fake suggestions service interface
+// summary: Declares a singleton test fake that observes the remote suggestions service and serves fake omnibox suggestions from a database during Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_TEST_FAKE_SUGGESTIONS_SERVICE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_TEST_FAKE_SUGGESTIONS_SERVICE_H_
 

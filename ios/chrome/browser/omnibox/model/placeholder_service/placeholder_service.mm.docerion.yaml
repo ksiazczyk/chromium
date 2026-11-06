@@ -1,0 +1,4 @@
+# Docerion header of placeholder_service.mm.
+type: source
+title: PlaceholderService implementation
+summary: Implements placeholder text generation plus fetching, caching, and bundling of default search engine icons at multiple sizes.

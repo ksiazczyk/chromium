@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox event protocol and event types
+// summary: Defines the EventType enum and the OmniboxEvent protocol describing events arriving at the omnibox popup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_EVENT_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_EVENT_H_
 

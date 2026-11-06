@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_match_formatter.mm.
+type: source
+title: AutocompleteMatchFormatter implementation
+summary: Implements formatting of suggestion text, detail text, colors and icons derived from an autocomplete match.

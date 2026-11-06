@@ -1,0 +1,4 @@
+# Docerion header of omnibox_assistive_keyboard_mediator.mm.
+type: source
+title: Omnibox assistive keyboard mediator implementation
+summary: Implements handling of voice search, camera search, Lens, debugger and assistive key taps, recording UMA metrics and user actions.

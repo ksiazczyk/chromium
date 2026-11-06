@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_util.mm.
+type: source
+title: Omnibox popup utility implementation
+summary: Implements the popout layout checks, returning true when the size class is regular by regular via the shared UI utility.

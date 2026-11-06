@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestion event model header
+// summary: Declares OmniboxRemoteSuggestionEvent, which captures the request URL, body, response body, and response code of a remote suggestions service event.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_REMOTE_SUGGESTION_EVENT_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_OMNIBOX_REMOTE_SUGGESTION_EVENT_H_
 

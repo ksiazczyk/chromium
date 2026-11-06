@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_annotator.mm.
+type: source
+title: OmniboxPedalAnnotator implementation
+summary: Implements pedal creation per autocomplete match, mapping pedal IDs to localized labels, symbols and command actions such as opening URLs or settings.

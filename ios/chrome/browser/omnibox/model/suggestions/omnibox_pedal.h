@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPedal protocol header
+// summary: Defines the OmniboxPedal protocol representing an actionable omnibox pedal with title, subtitle, action and an integer pedal type for Swift interop.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_OMNIBOX_PEDAL_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_OMNIBOX_PEDAL_H_
 

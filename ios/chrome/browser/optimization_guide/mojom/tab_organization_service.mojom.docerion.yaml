@@ -1,0 +1,4 @@
+# Docerion header of tab_organization_service.mojom.
+type: source
+title: TabOrganizationService mojom interface
+summary: Defines the mojo interface for executing tab grouping requests with a specific tab organization model.

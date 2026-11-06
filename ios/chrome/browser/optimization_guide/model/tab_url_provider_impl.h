@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab URL provider implementation header
+// summary: Declares TabUrlProviderImpl, the iOS optimization guide TabUrlProvider that supplies URLs of recently active tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_TAB_URL_PROVIDER_IMPL_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_TAB_URL_PROVIDER_IMPL_H_
 

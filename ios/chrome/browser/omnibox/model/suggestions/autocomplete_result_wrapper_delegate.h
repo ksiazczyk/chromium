@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteResultWrapperDelegate protocol
+// summary: Declares the delegate protocol that is informed when pedals are invalidated by the result wrapper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_AUTOCOMPLETE_RESULT_WRAPPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_AUTOCOMPLETE_RESULT_WRAPPER_DELEGATE_H_
 

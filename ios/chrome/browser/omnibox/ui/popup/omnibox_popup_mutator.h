@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup mutator protocol
+// summary: Declares the OmniboxPopupMutator protocol handling suggestion selection, deletion, preview, prerendering and result requests from the popup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_OMNIBOX_POPUP_MUTATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_OMNIBOX_POPUP_MUTATOR_H_
 

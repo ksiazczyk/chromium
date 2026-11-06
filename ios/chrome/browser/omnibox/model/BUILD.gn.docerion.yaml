@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS omnibox model
+summary: Defines the model, client and test_support source_set targets with their sources and dependencies for the omnibox model directory.

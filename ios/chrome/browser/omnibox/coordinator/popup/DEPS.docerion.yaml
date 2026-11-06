@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Omnibox popup include rules
+summary: Specifies the allowed include directories for code in the omnibox popup coordinator directory.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox directory OWNERS file
+summary: Lists code owners for the iOS omnibox directory and delegates refactorings and simple mechanical changes to the shared omnibox owners.

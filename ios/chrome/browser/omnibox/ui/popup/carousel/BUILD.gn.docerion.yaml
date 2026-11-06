@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the omnibox popup carousel
+summary: Defines the GN source sets for the omnibox popup carousel UI and its unit tests, listing their sources and dependencies.

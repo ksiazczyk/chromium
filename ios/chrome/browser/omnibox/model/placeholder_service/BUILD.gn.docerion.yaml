@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the placeholder service
+summary: Defines the GN source_set targets and dependencies for the placeholder service sources and its unit tests.

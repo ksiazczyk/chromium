@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxFocusBrowserAgent header
+// summary: Declares OmniboxFocusBrowserAgent, a browser user data class that tracks whether the browser's omnibox is focused via a state provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_FOCUS_OMNIBOX_FOCUS_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_FOCUS_OMNIBOX_FOCUS_BROWSER_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_ui_bar_button_item.mm.
+type: source
+title: Omnibox UI bar button item implementation
+summary: "Implements OmniboxUIBarButtonItem, forwarding presses to the delegate's keyPressed: callback."

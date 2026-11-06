@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_tab_helper.mm.
+type: source
+title: Optimization guide tab helper implementation
+summary: Implements navigation start, redirect, and finish notifications from WebState to the optimization guide service.

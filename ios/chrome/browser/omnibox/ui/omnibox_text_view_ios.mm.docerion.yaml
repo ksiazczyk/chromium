@@ -1,0 +1,4 @@
+# Docerion header of omnibox_text_view_ios.mm.
+type: source
+title: OmniboxTextViewIOS implementation
+summary: Implements the omnibox text view, managing placeholder display, pre-edit state, inline autocomplete, additional text, and newline handling.

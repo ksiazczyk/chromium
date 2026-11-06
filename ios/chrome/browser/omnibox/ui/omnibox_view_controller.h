@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox view controller interface
+// summary: Declares OmniboxViewController, the view controller hosting the omnibox text field, exposing mutator, metrics, search-only mode, leading images, and Scribble support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_VIEW_CONTROLLER_H_
 

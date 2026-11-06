@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_view_controller_unittest.mm.
+type: test
+title: Omnibox popup view controller unit tests
+summary: Unit tests for the popup view controller using OCMock, covering suggestion display, keyboard-driven highlight movement and mutator interaction expectations.

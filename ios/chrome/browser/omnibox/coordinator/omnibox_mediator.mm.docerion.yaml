@@ -1,0 +1,4 @@
+# Docerion header of omnibox_mediator.mm.
+type: source
+title: OmniboxMediator implementation
+summary: Implements OmniboxMediator, observing search engine, placeholder, and clipboard state to update the omnibox consumer.

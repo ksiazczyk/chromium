@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_test_utils.mm.
+type: test
+title: Optimization guide test utils implementation
+summary: Implements the histogram retry helper used by optimization guide tests to wait for expected histogram samples during test runs.

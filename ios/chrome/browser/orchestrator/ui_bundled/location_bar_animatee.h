@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarAnimatee protocol
+// summary: Declares a protocol to trigger non-animating location bar changes for omnibox focus transitions, including text field offsets, view fading, and fakebox button snapshots.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_LOCATION_BAR_ANIMATEE_H_
 #define IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_LOCATION_BAR_ANIMATEE_H_
 

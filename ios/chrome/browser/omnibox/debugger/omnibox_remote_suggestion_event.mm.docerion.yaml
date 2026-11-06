@@ -1,0 +1,4 @@
+# Docerion header of omnibox_remote_suggestion_event.mm.
+type: source
+title: Remote suggestion event model implementation
+summary: Implements OmniboxRemoteSuggestionEvent, reporting the remote suggestion update type and a status-based title such as Created, Started, or Completed.

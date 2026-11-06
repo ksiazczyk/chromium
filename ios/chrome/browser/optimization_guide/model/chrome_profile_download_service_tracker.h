@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome profile download service tracker interface
+// summary: Declares the iOS tracker that observes profile lifecycle changes and supplies the background download service used for optimization guide model downloads.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_CHROME_PROFILE_DOWNLOAD_SERVICE_TRACKER_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_CHROME_PROFILE_DOWNLOAD_SERVICE_TRACKER_H_
 

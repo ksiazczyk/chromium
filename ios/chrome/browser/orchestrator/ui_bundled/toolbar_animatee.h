@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarAnimatee protocol
+// summary: Declares a protocol to trigger non-animating toolbar changes during omnibox focus transitions, such as expanding the location bar and toggling cancel and control buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_TOOLBAR_ANIMATEE_H_
 #define IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_TOOLBAR_ANIMATEE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide tab helper header
+// summary: Declares a WebState tab helper that tracks navigation redirect chains and forwards navigation events to the optimization guide service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_OPTIMIZATION_GUIDE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_OPTIMIZATION_GUIDE_TAB_HELPER_H_
 

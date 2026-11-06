@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for omnibox popup
+summary: Restricts allowed directory includes for the omnibox popup code to favicon, menu, sharing and toolbar button UI directories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSuggestionsDatabase implementation
+// summary: Implements loading fake suggestions from a JSON file and serving them by extracted search terms for tests.
+// ---
+
 #include "ios/chrome/browser/omnibox/eg_tests/fake_suggestions_database.h"
 
 #include "base/files/file_path.h"

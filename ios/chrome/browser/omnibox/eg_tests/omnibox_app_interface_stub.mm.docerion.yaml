@@ -1,0 +1,4 @@
+# Docerion header of omnibox_app_interface_stub.mm.
+type: source
+title: OmniboxAppInterface Earl Grey stub registration
+summary: Registers OmniboxAppInterface as an Earl Grey stub class in the app main queue.

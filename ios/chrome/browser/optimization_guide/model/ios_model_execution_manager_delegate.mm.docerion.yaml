@@ -1,0 +1,4 @@
+# Docerion header of ios_model_execution_manager_delegate.mm.
+type: source
+title: IOSModelExecutionManagerDelegate implementation
+summary: Creates the private AI model execution fetcher from the PrivateAiService client when the build includes model execution support.

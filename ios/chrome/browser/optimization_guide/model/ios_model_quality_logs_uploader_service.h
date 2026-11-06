@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSModelQualityLogsUploaderService header
+// summary: Declares the iOS model quality logs uploader that gates uploads on metrics consent, per-feature logging and enterprise policy via the features controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_IOS_MODEL_QUALITY_LOGS_UPLOADER_SERVICE_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_IOS_MODEL_QUALITY_LOGS_UPLOADER_SERVICE_H_
 

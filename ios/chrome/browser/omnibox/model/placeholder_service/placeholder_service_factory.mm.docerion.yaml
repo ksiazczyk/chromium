@@ -1,0 +1,4 @@
+# Docerion header of placeholder_service_factory.mm.
+type: source
+title: PlaceholderServiceFactory implementation
+summary: Builds PlaceholderService instances per profile, depending on the TemplateURLService and FaviconLoader factories.

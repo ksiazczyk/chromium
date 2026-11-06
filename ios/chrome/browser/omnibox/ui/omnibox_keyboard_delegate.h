@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox keyboard delegate protocol
+// summary: Declares the OmniboxKeyboardDelegate protocol and arrow and return key actions forwarded between the omnibox text input and the popup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_KEYBOARD_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_KEYBOARD_DELEGATE_H_
 

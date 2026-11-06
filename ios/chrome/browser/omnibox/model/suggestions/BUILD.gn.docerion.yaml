@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for omnibox suggestions
+summary: Defines GN source sets, a Swift source set and unit test targets for the omnibox suggestions model code.

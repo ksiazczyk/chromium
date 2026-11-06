@@ -1,0 +1,4 @@
+# Docerion header of omnibox_focus_orchestrator.mm.
+type: source
+title: OmniboxFocusOrchestrator implementation
+summary: Implements the omnibox focus and unfocus animations, coordinating toolbar expansion and location bar offsets while handling overlapping or interrupted transitions.

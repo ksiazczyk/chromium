@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_pedal_egtest.mm.
+type: test
+title: Omnibox pedal Earl Grey tests
+summary: Earl Grey tests for omnibox pedal suggestions, verifying pedals such as the dino game and open incognito tab appear and function.

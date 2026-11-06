@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteSuggestionGroupImpl interface
+// summary: Declares a basic implementation of the AutocompleteSuggestionGroup protocol with title, suggestions and display style.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_AUTOCOMPLETE_SUGGESTION_GROUP_IMPL_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_AUTOCOMPLETE_SUGGESTION_GROUP_IMPL_H_
 

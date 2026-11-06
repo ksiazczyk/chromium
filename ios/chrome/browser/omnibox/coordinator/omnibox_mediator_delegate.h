@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxMediatorDelegate protocol header
+// summary: Declares the OmniboxMediatorDelegate protocol notified when the omnibox text field begins editing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_OMNIBOX_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_COORDINATOR_OMNIBOX_MEDIATOR_DELEGATE_H_
 

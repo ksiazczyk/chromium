@@ -1,0 +1,4 @@
+# Docerion header of chrome_profile_download_service_tracker_unittest.mm.
+type: test
+title: Chrome profile download service tracker unit tests
+summary: Unit tests verifying download service selection across personal and managed profiles, including profile deletion scenarios.

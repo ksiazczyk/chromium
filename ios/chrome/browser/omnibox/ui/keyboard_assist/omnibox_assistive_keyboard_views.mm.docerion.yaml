@@ -1,0 +1,4 @@
+# Docerion header of omnibox_assistive_keyboard_views.mm.
+type: source
+title: Assistive keyboard view configuration implementation
+summary: Sets up a keyboard accessory view on iPhone and input assistant bar button groups on iPad, honoring feature flags and Lens availability.

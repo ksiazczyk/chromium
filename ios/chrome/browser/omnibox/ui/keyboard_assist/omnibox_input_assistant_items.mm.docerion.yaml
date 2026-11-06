@@ -1,0 +1,4 @@
+# Docerion header of omnibox_input_assistant_items.mm.
+type: source
+title: Omnibox input assistant items implementation
+summary: Builds leading and trailing bar button groups with voice search, camera, QR and Lens buttons for the omnibox input assistant.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteControllerObserver bridge header
+// summary: Declares an Objective-C observer protocol and a C++ bridge class that forwards AutocompleteController events to it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_AUTOCOMPLETE_CONTROLLER_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_AUTOCOMPLETE_CONTROLLER_OBSERVER_BRIDGE_H_
 

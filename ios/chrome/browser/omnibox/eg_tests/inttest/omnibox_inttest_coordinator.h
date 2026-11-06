@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator presenting omnibox UI for integration tests
+// summary: Declares a Chrome coordinator that hosts omnibox UI, simulates an NTP page, and tracks the last URL loaded.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_INTTEST_OMNIBOX_INTTEST_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_INTTEST_OMNIBOX_INTTEST_COORDINATOR_H_
 

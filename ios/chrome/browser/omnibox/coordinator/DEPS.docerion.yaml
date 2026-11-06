@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Omnibox coordinator include rules
+summary: DEPS file restricting which directories and headers the omnibox coordinator code may include.

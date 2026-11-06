@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_test_app_interface.mm.
+type: test
+title: Optimization guide test app interface implementation
+summary: Implements test helpers that override the hints server URL, add component update hints, and invoke optimization checks for testing.

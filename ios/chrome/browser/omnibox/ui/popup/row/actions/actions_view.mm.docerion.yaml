@@ -1,0 +1,4 @@
+# Docerion header of actions_view.mm.
+type: source
+title: ActionsView implementation
+summary: Implements the scrollable actions row with a horizontal button stack, layout constants, and RTL-aware scrolling to highlighted actions.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the suggestions folder
+summary: Declares the allowed include directories for code in the omnibox suggestions model folder.

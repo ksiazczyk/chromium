@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup row trailing button interface
+// summary: Declares the TrailingIconType enum and the trailing button view used in omnibox popup rows, with highlight and presentation context properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_OMNIBOX_POPUP_ROW_TRAILING_BUTTON_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_OMNIBOX_POPUP_ROW_TRAILING_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxTextFieldIOS header
+// summary: Declares OmniboxTextFieldIOS, a UITextField subclass for the iOS omnibox supporting pre-edit state, inline autocomplete, and additional text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_TEXT_FIELD_IOS_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_TEXT_FIELD_IOS_H_
 

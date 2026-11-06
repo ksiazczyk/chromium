@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_actions_row_content_view.mm.
+type: source
+title: OmniboxPopupActionsRowContentView implementation
+summary: Implements the actions row view layout with text labels, leading icon, trailing button, selection gradient, and usage metrics.

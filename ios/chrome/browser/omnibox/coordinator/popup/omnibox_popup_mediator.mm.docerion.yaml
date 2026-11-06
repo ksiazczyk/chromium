@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_mediator.mm.
+type: source
+title: Omnibox popup mediator implementation
+summary: Implements suggestion group handling, metrics, sharing, and popup actions for the omnibox popup mediator.

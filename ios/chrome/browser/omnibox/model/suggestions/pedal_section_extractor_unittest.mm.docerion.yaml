@@ -1,0 +1,4 @@
+# Docerion header of pedal_section_extractor_unittest.mm.
+type: test
+title: Pedal section extractor unit tests
+summary: Unit tests for PedalSectionExtractor covering pedal extraction into a group, empty results, and debounce-based pedal removal.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox container view interface
+// summary: Declares OmniboxContainerView, the edit-state view holding the omnibox text input with leading image, clear and thumbnail buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_CONTAINER_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of omnibox_view_controller.mm.
+type: source
+title: Omnibox view controller implementation
+summary: Implements the omnibox view controller, handling placeholder text, clipboard state, the clear button, image search and Lens menu options, and user interaction metrics.

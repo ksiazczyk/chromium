@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_annotator_unittest.mm.
+type: test
+title: OmniboxPedalAnnotator unit tests
+summary: Unit test verifying that the annotator creates a pedal for an autocomplete match carrying a pedal action.

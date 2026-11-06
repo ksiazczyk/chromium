@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Lens delegate protocol
+// summary: Declares a delegate protocol for Lens interactions, deciding whether to use Lens for copied images and searching them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_LENS_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_OMNIBOX_LENS_DELEGATE_H_
 

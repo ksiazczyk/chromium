@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeHintsManager class header
+// summary: Declares the iOS-specific HintsManager subclass that wires identity, prefs, hint store, top host and tab URL providers, and URL loader factory for Chrome on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_IOS_CHROME_HINTS_MANAGER_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_IOS_CHROME_HINTS_MANAGER_H_
 

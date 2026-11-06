@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxClientIOS implementation
+// summary: Implements the OmniboxClientIOS base methods with default or empty values for page information, services, icons, and Lens inputs.
+// ---
+
 #include "ios/chrome/browser/omnibox/model/omnibox_client_ios.h"
 
 #include <memory>

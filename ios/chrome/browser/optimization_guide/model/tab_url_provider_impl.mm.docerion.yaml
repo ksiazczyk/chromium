@@ -1,0 +1,4 @@
+# Docerion header of tab_url_provider_impl.mm.
+type: source
+title: Tab URL provider implementation
+summary: Collects URLs from active regular tabs shown within a given duration, excluding incognito tabs, for use by optimization guide hints.

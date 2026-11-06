@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxFocusOrchestrator interface
+// summary: Declares the OmniboxFocusOrchestrator class and OmniboxFocusTrigger enum that coordinate toolbar, location bar, and edit view updates when the omnibox focus state changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_OMNIBOX_FOCUS_ORCHESTRATOR_H_
 #define IOS_CHROME_BROWSER_ORCHESTRATOR_UI_BUNDLED_OMNIBOX_FOCUS_ORCHESTRATOR_H_
 

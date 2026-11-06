@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the omnibox popup UI
+summary: Defines GN source sets for the omnibox popup utility, presenter, view controller, icon view, protocols and unit tests with their dependencies.

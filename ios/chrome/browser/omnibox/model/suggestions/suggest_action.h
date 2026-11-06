@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest action interface
+// summary: Declares SuggestAction, a UIKit wrapper for OmniboxActionInSuggest exposing URI, title, type, icon, and accessibility identifier helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_SUGGEST_ACTION_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_SUGGEST_ACTION_H_
 

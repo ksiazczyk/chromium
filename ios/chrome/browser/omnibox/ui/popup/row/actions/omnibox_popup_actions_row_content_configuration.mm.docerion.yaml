@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_actions_row_content_configuration.mm.
+type: source
+title: OmniboxPopupActionsRowContentConfiguration implementation
+summary: Implements the actions row configuration, including keyboard-driven highlighting of actions and UIContentConfiguration copying for cells.

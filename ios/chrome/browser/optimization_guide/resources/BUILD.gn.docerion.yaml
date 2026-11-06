@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: On-device LLM build flags and bundle data targets
+summary: GN build file defining the on-device LLM buildflag header and bundling model files into iOS Chrome when they are provided.

@@ -1,0 +1,4 @@
+# Docerion header of pedal_section_extractor.mm.
+type: source
+title: Pedal section extractor implementation
+summary: Implements pedal extraction from omnibox suggestions, using a debounce timer to keep previously shown pedals and avoid flickering in the popup.

@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_match_cell.mm.
+type: source
+title: Autocomplete match cell implementation
+summary: Implements the AutocompleteMatchCell layout with labels for match type, provider, text, relevance, description, URL and additional info.

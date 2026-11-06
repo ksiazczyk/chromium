@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSModelExecutionManagerDelegate header
+// summary: Declares a delegate for ModelExecutionManager that provides iOS-specific implementations, creating fetchers backed by the Private AI service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_IOS_MODEL_EXECUTION_MANAGER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OPTIMIZATION_GUIDE_MODEL_IOS_MODEL_EXECUTION_MANAGER_DELEGATE_H_
 

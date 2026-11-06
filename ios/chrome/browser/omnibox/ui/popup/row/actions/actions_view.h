@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionsView interface
+// summary: Declares ActionsView, a scroll view that displays a list of omnibox suggestion action buttons and updates from a row configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_ACTIONS_VIEW_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_ACTIONS_VIEW_H_
 

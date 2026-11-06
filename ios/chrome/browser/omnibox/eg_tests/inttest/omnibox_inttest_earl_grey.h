@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Earl Grey helpers for the omnibox integration test
+// summary: Declares helper methods to focus the omnibox, type text, and assert loaded URLs or search terms.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_INTTEST_OMNIBOX_INTTEST_EARL_GREY_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_INTTEST_OMNIBOX_INTTEST_EARL_GREY_H_
 

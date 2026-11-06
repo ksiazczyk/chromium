@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox test utility interface
+// summary: Declares shared utilities for omnibox tests, including test page helpers, autocomplete provider disabling, and embedded test server responses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_EG_TESTS_OMNIBOX_TEST_UTIL_H_
 

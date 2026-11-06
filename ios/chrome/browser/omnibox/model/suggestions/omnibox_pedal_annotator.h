@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPedalAnnotator header
+// summary: Declares OmniboxPedalAnnotator, which creates pedal data for autocomplete matches and holds weak handlers for scene, settings, browser and quick delete commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_OMNIBOX_PEDAL_ANNOTATOR_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_MODEL_SUGGESTIONS_OMNIBOX_PEDAL_ANNOTATOR_H_
 

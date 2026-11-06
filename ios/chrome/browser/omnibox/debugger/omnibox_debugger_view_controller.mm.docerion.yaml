@@ -1,0 +1,4 @@
+# Docerion header of omnibox_debugger_view_controller.mm.
+type: source
+title: Omnibox debugger view controller implementation
+summary: Implements the omnibox debug UI with a suggestions detail table, variation ID forcing controls, and navigation to autocomplete and remote suggestion event views.

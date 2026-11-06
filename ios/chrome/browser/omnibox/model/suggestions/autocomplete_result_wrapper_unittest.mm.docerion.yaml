@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_result_wrapper_unittest.mm.
+type: test
+title: AutocompleteResultWrapper unit tests
+summary: Unit tests covering wrapping of autocomplete results into suggestion groups, including starred and pedal matches.

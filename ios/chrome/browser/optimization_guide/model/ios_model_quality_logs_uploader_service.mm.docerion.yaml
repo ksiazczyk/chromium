@@ -1,0 +1,4 @@
+# Docerion header of ios_model_quality_logs_uploader_service.mm.
+type: source
+title: IOSModelQualityLogsUploaderService implementation
+summary: Implements upload eligibility checks and fills the system profile metadata while clearing client identifiers for privacy.

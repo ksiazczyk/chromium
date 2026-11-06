@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup_row_trailing_button.mm.
+type: source
+title: Omnibox popup row trailing button implementation
+summary: Implements the trailing button, updating its symbol icon, tint color, visibility, and accessibility identifiers based on icon type and content size category.

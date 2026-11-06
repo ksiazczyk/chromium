@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxPopupActionsRowContentConfiguration interface
+// summary: Declares the content configuration for the omnibox popup actions row, exposing the available suggest actions and highlighted action index.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_OMNIBOX_POPUP_ACTIONS_ROW_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_POPUP_ROW_ACTIONS_OMNIBOX_POPUP_ACTIONS_ROW_CONTENT_CONFIGURATION_H_
 

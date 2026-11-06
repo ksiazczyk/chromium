@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the omnibox UI
+summary: Defines GN source_set targets, sources and dependencies for the iOS omnibox UI, including a testonly unit_tests target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxTextFieldPasteDelegate header
+// summary: Declares OmniboxTextFieldPasteDelegate, a UITextPasteDelegate used to work around crbug 755620 when pasting into the omnibox.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_TEXT_FIELD_PASTE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_UI_OMNIBOX_TEXT_FIELD_PASTE_DELEGATE_H_
 

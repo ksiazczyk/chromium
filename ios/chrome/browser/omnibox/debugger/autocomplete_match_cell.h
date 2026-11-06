@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete match cell header
+// summary: Declares AutocompleteMatchCell, a table view cell that displays an autocomplete match in the omnibox debugger.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_AUTOCOMPLETE_MATCH_CELL_H_
 #define IOS_CHROME_BROWSER_OMNIBOX_DEBUGGER_AUTOCOMPLETE_MATCH_CELL_H_
 

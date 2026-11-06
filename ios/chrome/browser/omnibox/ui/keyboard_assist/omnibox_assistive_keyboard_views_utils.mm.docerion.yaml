@@ -1,0 +1,4 @@
+# Docerion header of omnibox_assistive_keyboard_views_utils.mm.
+type: source
+title: Omnibox assistive keyboard views utilities implementation
+summary: Implements helpers that style voice search and Lens buttons and build leading controls for the omnibox keyboard accessory.

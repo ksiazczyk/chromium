@@ -1,0 +1,4 @@
+# Docerion header of omnibox_icon_formatter.mm.
+type: source
+title: OmniboxIconFormatter implementation
+summary: Implements icon selection for autocomplete matches, choosing between suggestion icons, web images and favicons based on match properties.

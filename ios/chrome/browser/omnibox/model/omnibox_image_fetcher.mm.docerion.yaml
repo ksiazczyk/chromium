@@ -1,0 +1,4 @@
+# Docerion header of omnibox_image_fetcher.mm.
+type: source
+title: Omnibox image fetcher implementation
+summary: Implements fetching and in-memory caching of omnibox images and favicons, with support for clearing the cache.

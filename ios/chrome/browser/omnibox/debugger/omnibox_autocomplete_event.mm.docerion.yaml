@@ -1,0 +1,4 @@
+# Docerion header of omnibox_autocomplete_event.mm.
+type: source
+title: Omnibox autocomplete event implementation
+summary: Implements OmniboxAutocompleteEvent by extracting result and shortcuts provider matches into groups for debugging.
