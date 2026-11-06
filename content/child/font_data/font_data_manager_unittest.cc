@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FontDataManager unit tests
+// summary: Unit tests for FontDataManager using a fake FontDataService mojo implementation to simulate family matching and track call counts.
+// ---
+
 #include "content/child/font_data/font_data_manager.h"
 
 #include <memory>

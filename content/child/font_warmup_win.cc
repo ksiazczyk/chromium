@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font warmup and GDI patching
+// summary: Implements pre-sandbox font warmup on Windows, emulating GDI font objects and patching service manager and LPC calls to block font cache service access.
+// ---
+
 #include "content/child/font_warmup_win.h"
 
 #include <dwrite.h>

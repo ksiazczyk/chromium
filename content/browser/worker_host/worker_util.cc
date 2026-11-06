@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker utility implementations for storage keys and origins
+// summary: "Implements content-layer helpers that compute a worker's StorageKey and renderer origin, including opaque origins for data: URL workers, and decides whether a creator allows file URL access."
+// ---
+
 #include "content/browser/worker_host/worker_util.h"
 
 #include "base/command_line.h"

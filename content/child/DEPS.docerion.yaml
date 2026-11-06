@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content/child
+summary: Specifies allowed include rules for the content/child directory, permitting specific component, service, device, and V8 headers.

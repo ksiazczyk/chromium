@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR internals handler implementation
+// summary: Implements the WebXrInternalsHandler Mojo interface, supplying OS and GPU device information, active XR runtime details, and event subscriptions to the WebXR internals debug page.
+// ---
+
 #include "content/browser/xr/webxr_internals/webxr_internals_handler_impl.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font integration initialization
+// summary: Initializes font integration in child processes, choosing between the Windows DWrite font proxy and the font data service depending on platform and flags.
+// ---
+
 #include "content/public/child/font_integration_init.h"
 
 #include "base/command_line.h"

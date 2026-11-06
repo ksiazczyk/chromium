@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXrLoggerManager class declaration
+// summary: Declares WebXrLoggerManager, which stores XR session records and dispatches frame statistics and console logs to subscribed listeners.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_WEBXR_INTERNALS_WEBXR_LOGGER_MANAGER_H_
 #define CONTENT_BROWSER_XR_WEBXR_INTERNALS_WEBXR_LOGGER_MANAGER_H_
 

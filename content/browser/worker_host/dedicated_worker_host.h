@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker host class declaration
+// summary: Declares the DedicatedWorkerHost class, which hosts one dedicated worker and deletes itself on mojo disconnection or worker destruction.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_DEDICATED_WORKER_HOST_H_
 #define CONTENT_BROWSER_WORKER_HOST_DEDICATED_WORKER_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionTimer class header
+// summary: Declares a timer that monitors the time between StartSession and StopSession and reports the duration on stop or destruction.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_METRICS_SESSION_TIMER_H_
 #define CONTENT_BROWSER_XR_METRICS_SESSION_TIMER_H_
 

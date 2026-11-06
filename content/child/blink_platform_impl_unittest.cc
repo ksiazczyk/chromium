@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BlinkPlatformImpl
+// summary: Unit tests verifying that WebSecurityOrigin casts produce correctly normalized url::Origin values across many URL forms.
+// ---
+
 #include "content/child/blink_platform_impl.h"
 
 #include <stdint.h>

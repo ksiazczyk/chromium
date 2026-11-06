@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host receiver batcher implementation
+// summary: Implements HostReceiverBatcher, which coalesces pending Mojo receiver bind requests and flushes them to the browser as a single batched IPC.
+// ---
+
 #include "content/child/host_receiver_batcher.h"
 
 #include <utility>

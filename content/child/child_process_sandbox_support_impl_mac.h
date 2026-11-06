@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac sandbox support header
+// summary: Declares WebSandboxSupportMac, which upcalls to the browser for system color data that sandboxed processes cannot access directly.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_PROCESS_SANDBOX_SUPPORT_IMPL_MAC_H_
 #define CONTENT_CHILD_CHILD_PROCESS_SANDBOX_SUPPORT_IMPL_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host receiver batcher unit tests
+// summary: Tests that receiver bursts coalesce into one batch, separate task turns flush separately, and Clear drops pending receivers without sending.
+// ---
+
 #include "content/child/host_receiver_batcher.h"
 
 #include <memory>

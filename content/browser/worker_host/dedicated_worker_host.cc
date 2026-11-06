@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker host implementation
+// summary: Implements the browser-side host for a single dedicated worker, covering mojo connections, security state, service worker clients, DevTools and back/forward cache behavior.
+// ---
+
 #include "content/browser/worker_host/dedicated_worker_host.h"
 
 #include <memory>

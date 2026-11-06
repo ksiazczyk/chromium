@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for font_data
+summary: Delegates code ownership of the font_data directory to the font_data service OWNERS file.

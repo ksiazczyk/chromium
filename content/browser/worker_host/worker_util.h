@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Worker utility header for storage key and origin helpers
+// summary: 'Declares the exported worker helper functions for calculating worker StorageKeys, renderer origins, and file URL support, with documentation on data: URL opaque origins and partitioning.'
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_WORKER_UTIL_H_
 #define CONTENT_BROWSER_WORKER_HOST_WORKER_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child performance coordinator implementation
+// summary: Implements ChildPerformanceCoordinator, binding the child process coordination unit and storing performance scenario shared memory regions.
+// ---
+
 #include "content/child/child_performance_coordinator.h"
 
 #include <optional>

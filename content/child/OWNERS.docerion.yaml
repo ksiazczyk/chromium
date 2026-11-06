@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content/child
+summary: Lists code owners for content/child and per-file owner rules for browser-exposed interfaces and runtime feature changes.

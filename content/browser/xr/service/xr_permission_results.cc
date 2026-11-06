@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPermissionResults implementation
+// summary: Implements the XrPermissionResults helper that maps granted permission types to statuses and checks whether XR session modes and features have the required permissions.
+// ---
+
 #include "content/browser/xr/service/xr_permission_results.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DWrite font proxy unit tests
+// summary: Unit tests for DWriteFontCollectionProxy using a fake font collection to verify family counting, lookup, and loading behavior.
+// ---
+
 #include "content/child/dwrite_font_proxy/dwrite_font_proxy_win.h"
 
 #include <dwrite.h>

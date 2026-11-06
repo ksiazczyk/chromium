@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildThreadImpl class declaration
+// summary: Declares the base class for child process main threads, covering IPC listening, metrics recording, host receiver binding and field trial group handling.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_THREAD_IMPL_H_
 #define CONTENT_CHILD_CHILD_THREAD_IMPL_H_
 

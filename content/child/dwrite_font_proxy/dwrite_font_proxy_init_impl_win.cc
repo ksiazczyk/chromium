@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWrite font proxy initialization for Windows
+// summary: Implements initialization and uninitialization of the DirectWrite font proxy in the renderer, creating the font collection, fallback, and Skia font manager before sandbox lockdown.
+// ---
+
 #include "content/child/dwrite_font_proxy/dwrite_font_proxy_init_impl_win.h"
 
 #include <dwrite.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side worker main script fetching
+// summary: Implements browser-side fetching of web worker main scripts with DevTools instrumentation, throttles and loader factory setup.
+// ---
+
 #include "content/browser/worker_host/worker_script_fetcher.h"
 
 #include <variant>

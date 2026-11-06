@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserXRRuntimeImpl implementation
+// summary: Implements the browser-side wrapper for a physical XR device runtime, validating XR views and transforms and managing session requests and presentation state.
+// ---
+
 #include "content/browser/xr/service/browser_xr_runtime_impl.h"
 
 #include <algorithm>

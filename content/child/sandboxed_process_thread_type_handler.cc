@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed process thread type handler implementation
+// summary: Implements the process-wide ThreadTypeDelegate that coalesces thread type changes and flushes them to the browser as one batched IPC.
+// ---
+
 #include "content/child/sandboxed_process_thread_type_handler.h"
 
 #include <utility>

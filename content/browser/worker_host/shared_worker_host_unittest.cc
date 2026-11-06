@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker host unit tests
+// summary: Unit tests for SharedWorkerHost covering worker creation, message ports, termination, metrics and content setting behavior using mock render processes.
+// ---
+
 #include "content/browser/worker_host/shared_worker_host.h"
 
 #include <memory>

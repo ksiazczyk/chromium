@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker connector implementation
+// summary: Implements SharedWorkerConnectorImpl, connecting renderer frames to the shared worker service with an optional storage key override.
+// ---
+
 #include "content/browser/worker_host/shared_worker_connector_impl.h"
 
 #include "base/memory/ptr_util.h"

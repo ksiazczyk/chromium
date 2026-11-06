@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionMetricsHelper class header
+// summary: Declares the main-thread helper that tracks metrics such as durations and session start data for VR browsing and WebXR sessions.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_METRICS_SESSION_METRICS_HELPER_H_
 #define CONTENT_BROWSER_XR_METRICS_SESSION_METRICS_HELPER_H_
 

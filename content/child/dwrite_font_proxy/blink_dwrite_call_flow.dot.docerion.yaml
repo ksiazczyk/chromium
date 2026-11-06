@@ -1,0 +1,4 @@
+# Docerion header of blink_dwrite_call_flow.dot.
+type: data
+title: Blink DirectWrite call flow graph
+summary: Graphviz DOT source describing the DirectWrite font call flow between the renderer, Skia, and the browser process, with hotspots marked.

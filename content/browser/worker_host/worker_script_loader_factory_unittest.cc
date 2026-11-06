@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker script loader factory unit tests
+// summary: Unit tests for WorkerScriptLoaderFactory covering worker main script loads with service worker interception.
+// ---
+
 #include "content/browser/worker_host/worker_script_loader_factory.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker service implementation
+// summary: Implements SharedWorkerServiceImpl, the per-StoragePartition browser service that creates, connects, enumerates and terminates shared workers.
+// ---
+
 #include "content/browser/worker_host/shared_worker_service_impl.h"
 
 #include <stddef.h>

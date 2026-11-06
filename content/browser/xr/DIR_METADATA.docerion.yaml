@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for XR issue tracking
+summary: Declares the Monorail component Internals>XR, the xr-dev@chromium.org team email, and the public Buganizer component for this directory.

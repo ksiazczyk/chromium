@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionTracker unit test
+// summary: Unit test checking that GetRoundedDurationInSeconds rounds session durations down to seconds, minutes, ten-minute, or hour buckets.
+// ---
+
 #include "content/browser/xr/metrics/session_tracker.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

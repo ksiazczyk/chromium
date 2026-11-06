@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for font_data
+summary: Points the font_data directory metadata to the shared font_data service COMMON_METADATA mixins.

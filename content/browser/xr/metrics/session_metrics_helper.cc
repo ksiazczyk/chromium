@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionMetricsHelper implementation
+// summary: Implements the WebContents-attached helper that starts and stops inline and immersive XR session trackers and records their UKM metrics.
+// ---
+
 #include "content/browser/xr/metrics/session_metrics_helper.h"
 
 #include <memory>

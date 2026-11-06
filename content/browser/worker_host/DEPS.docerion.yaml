@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for worker_host dependencies
+summary: Defines the include_rules for the worker_host directory, allowing the Blink web feature metrics mojom header.

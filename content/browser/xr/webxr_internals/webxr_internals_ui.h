@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR internals WebUI controller header
+// summary: Declares the WebXrInternalsUI controller and its internal WebUI configuration for the WebXR internals debug page, including Mojo interface binding.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_WEBXR_INTERNALS_WEBXR_INTERNALS_UI_H_
 #define CONTENT_BROWSER_XR_WEBXR_INTERNALS_WEBXR_INTERNALS_UI_H_
 

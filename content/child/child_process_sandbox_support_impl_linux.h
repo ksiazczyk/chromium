@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox support header
+// summary: Declares WebSandboxSupportLinux, the Blink sandbox support for Linux with caching of fallback font lookups to avoid repeated browser round trips.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_PROCESS_SANDBOX_SUPPORT_IMPL_LINUX_H_
 #define CONTENT_CHILD_CHILD_PROCESS_SANDBOX_SUPPORT_IMPL_LINUX_H_
 

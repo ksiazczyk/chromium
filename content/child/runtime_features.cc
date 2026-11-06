@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink runtime feature defaults from Chromium features
+// summary: Maps Chromium base::Feature states, command-line switches, and field trials onto Blink runtime feature defaults for child processes.
+// ---
+
 #include "content/child/runtime_features.h"
 
 #include <string>

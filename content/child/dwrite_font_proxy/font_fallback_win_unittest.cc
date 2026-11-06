@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FontFallback unit tests
+// summary: Unit tests for FontFallback character mapping using a fake font collection, verifying mapped results and that cached fallbacks avoid repeated IPC.
+// ---
+
 #include "content/child/dwrite_font_proxy/font_fallback_win.h"
 
 #include <dwrite.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker host factory class declaration
+// summary: Declares DedicatedWorkerHostFactoryImpl, a DocumentService factory on the UI thread that creates at most one dedicated worker host per document.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_DEDICATED_WORKER_HOST_FACTORY_IMPL_H_
 #define CONTENT_BROWSER_WORKER_HOST_DEDICATED_WORKER_HOST_FACTORY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of browser-exposed child interfaces
+// summary: Declares ExposeChildInterfacesToBrowser, which populates a binder map with interfaces offered by all child processes to the browser.
+// ---
+
 #ifndef CONTENT_CHILD_BROWSER_EXPOSED_CHILD_INTERFACES_H_
 #define CONTENT_CHILD_BROWSER_EXPOSED_CHILD_INTERFACES_H_
 

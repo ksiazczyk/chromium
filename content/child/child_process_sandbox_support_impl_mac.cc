@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac sandbox support implementation
+// summary: Implements WebSandboxSupportMac, retrieving macOS system colors for light and dark color schemes from the browser via shared memory.
+// ---
+
 #include "content/child/child_process_sandbox_support_impl_mac.h"
 
 #include <string>

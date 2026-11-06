@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXrLoggerManager implementation
+// summary: Implements the WebXrLoggerManager that records XR session and runtime events and forwards them, including historical records, to subscribed WebXR internals listeners.
+// ---
+
 #include "content/browser/xr/webxr_internals/webxr_logger_manager.h"
 
 #include "base/time/time.h"

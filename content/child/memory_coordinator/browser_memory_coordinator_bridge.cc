@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser memory coordinator bridge implementation
+// summary: Implements the policy bridge that registers child memory consumers with the browser process, batching registrations and forwarding consumer updates and memory limit overrides.
+// ---
+
 #include "content/child/memory_coordinator/browser_memory_coordinator_bridge.h"
 
 #include <utility>

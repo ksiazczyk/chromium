@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XRRuntimeManager unit tests
+// summary: Unit tests for XRRuntimeManagerImpl that use fake VR device providers and services to verify initialization, runtime lookup, and service connection behavior.
+// ---
+
 #include "content/public/browser/xr_runtime_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker service class declaration
+// summary: Declares SharedWorkerServiceImpl, created per StoragePartition, which manages shared worker hosts, observers and connections to existing workers.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_SHARED_WORKER_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_WORKER_HOST_SHARED_WORKER_SERVICE_IMPL_H_
 

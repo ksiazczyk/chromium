@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR integration client lookup implementation
+// summary: Implements GetXrIntegrationClient, which safely retrieves the XrIntegrationClient from the content browser client, returning nullptr when unavailable.
+// ---
+
 #include "content/browser/xr/xr_utils.h"
 
 #include "content/public/browser/content_browser_client.h"

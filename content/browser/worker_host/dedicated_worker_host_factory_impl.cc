@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker host factory implementation
+// summary: Implements the factory that creates DedicatedWorkerHost instances, scoped to the ancestor render frame's current document and carrying creator security and policy state.
+// ---
+
 #include "content/browser/worker_host/dedicated_worker_host_factory_impl.h"
 
 #include <memory>

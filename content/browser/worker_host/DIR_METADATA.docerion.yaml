@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracking metadata for the worker_host directory
+summary: Maps the directory to the Blink>Workers monorail component, the worker-dev team email and a Buganizer component.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: DWriteFontProxy
+summary: Explains the Windows DirectWrite proxy classes running in the renderer process and links to a call flow diagram of the mojo calls to the browser process.
+relations:
+  - references /content/child/dwrite_font_proxy/blink_dwrite_call_flow.dot.png
+---
+
 # DWriteFontProxy #
 
 This directory contains Windows DirectWrite classes

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host receiver batcher header
+// summary: Declares the thread-safe HostReceiverBatcher that buffers GenericPendingReceiver bind requests and flushes them via a send callback.
+// ---
+
 #ifndef CONTENT_CHILD_HOST_RECEIVER_BATCHER_H_
 #define CONTENT_CHILD_HOST_RECEIVER_BATCHER_H_
 

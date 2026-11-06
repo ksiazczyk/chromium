@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating to WebXR owners
+summary: Points to the OWNERS file of components/webxr so the same reviewers own the content/browser/xr directory.

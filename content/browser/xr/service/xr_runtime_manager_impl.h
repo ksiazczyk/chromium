@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XRRuntimeManagerImpl class declaration
+// summary: Declares the XRRuntimeManagerImpl singleton that provides the platform's XR runtimes to VRServiceImpl instances and tracks immersive session state.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_SERVICE_XR_RUNTIME_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_XR_SERVICE_XR_RUNTIME_MANAGER_IMPL_H_
 

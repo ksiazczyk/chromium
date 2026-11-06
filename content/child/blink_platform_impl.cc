@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink platform implementation for child processes
+// summary: Implements the blink::Platform interface for child processes, providing data resources, localized strings, WebCrypto, and a browser interface broker.
+// ---
+
 #include "content/child/blink_platform_impl.h"
 
 #include <math.h>

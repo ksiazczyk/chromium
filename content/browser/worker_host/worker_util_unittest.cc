@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for worker file URL support helper
+// summary: gtest suite verifying DoesCreatorAllowFileUrlSupport across non-file and file origins, WebPreferences flags, inherited worker support, and the allow-file-access-from-files switch.
+// ---
+
 #include "content/browser/worker_host/worker_util.h"
 
 #include "base/command_line.h"

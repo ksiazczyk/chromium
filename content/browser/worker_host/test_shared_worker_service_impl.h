@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSharedWorkerServiceImpl test helper
+// summary: Declares a test subclass of the shared worker service that lets tests terminate all workers and wait for their disconnection.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_TEST_SHARED_WORKER_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_WORKER_HOST_TEST_SHARED_WORKER_SERVICE_IMPL_H_
 

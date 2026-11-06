@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test shared worker service implementation
+// summary: Implements TestSharedWorkerServiceImpl, a SharedWorkerServiceImpl subclass that lets tests terminate all workers and wait for remote disconnection.
+// ---
+
 #include "content/browser/worker_host/test_shared_worker_service_impl.h"
 
 #include <utility>

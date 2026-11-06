@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network restrictions worker throttle implementation
+// summary: Applies connection allowlist network restrictions to worker subresource loads based on script response headers or creator policies.
+// ---
+
 #include "content/browser/worker_host/network_restrictions_worker_throttle.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlinkPlatformImpl class declaration
+// summary: Declares BlinkPlatformImpl, the content implementation of blink::Platform that supplies resources, crypto, task runners, and interface broker access.
+// ---
+
 #ifndef CONTENT_CHILD_BLINK_PLATFORM_IMPL_H_
 #define CONTENT_CHILD_BLINK_PLATFORM_IMPL_H_
 

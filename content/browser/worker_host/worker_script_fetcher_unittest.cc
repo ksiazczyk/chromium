@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker script fetcher unit tests
+// summary: Unit tests for final response URL determination and policy container policy computation in WorkerScriptFetcher.
+// ---
+
 #include "content/browser/worker_host/worker_script_fetcher.h"
 
 #include <vector>

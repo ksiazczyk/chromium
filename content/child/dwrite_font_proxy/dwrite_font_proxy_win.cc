@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWriteFontCollectionProxy implementation
+// summary: Implements the DirectWrite font collection and family proxies that enumerate and load fonts via mojo IPC to the browser process, including a family name limit experiment.
+// ---
+
 #include "content/child/dwrite_font_proxy/dwrite_font_proxy_win.h"
 
 #include <stddef.h>

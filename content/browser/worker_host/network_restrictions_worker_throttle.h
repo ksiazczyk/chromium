@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network restrictions worker throttle header
+// summary: Declares NetworkRestrictionsWorkerThrottle, a URLLoaderThrottle that defers worker responses until network restrictions are applied.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_NETWORK_RESTRICTIONS_WORKER_THROTTLE_H_
 #define CONTENT_BROWSER_WORKER_HOST_NETWORK_RESTRICTIONS_WORKER_THROTTLE_H_
 

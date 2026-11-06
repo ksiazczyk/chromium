@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content/browser/xr
+summary: Defines the allowed include dependencies for the XR browser directory, permitting device base, orientation VR, Android Cardboard, and test headers.
