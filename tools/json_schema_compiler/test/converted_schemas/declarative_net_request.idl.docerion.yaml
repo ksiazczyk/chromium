@@ -1,0 +1,4 @@
+# Docerion header of declarative_net_request.idl.
+type: test
+title: declarativeNetRequest API IDL test schema
+summary: IDL definition of the declarativeNetRequest API for blocking and modifying network requests via declarative rules, used as a compiler test fixture.

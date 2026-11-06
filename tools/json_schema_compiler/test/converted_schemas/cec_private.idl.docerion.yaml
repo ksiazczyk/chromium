@@ -1,0 +1,4 @@
+# Docerion header of cec_private.idl.
+type: test
+title: HDMI CEC private API IDL definition
+summary: ChromeOS IDL definition of the cecPrivate API for HDMI CEC standby, wake-up and display power state queries, used as a schema compiler test fixture.

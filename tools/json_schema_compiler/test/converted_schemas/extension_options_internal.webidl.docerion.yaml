@@ -1,0 +1,4 @@
+# Docerion header of extension_options_internal.webidl.
+type: test
+title: Extension options internal API WebIDL schema
+summary: WebIDL version of the internal extension options API with event interfaces, converted from IDL as a JSON schema compiler test fixture.

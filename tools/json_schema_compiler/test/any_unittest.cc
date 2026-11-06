@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for any type generated code
+// summary: Unit tests verifying populate, clone and optional any parameter handling in generated code for the any schema.
+// ---
+
 #include "tools/json_schema_compiler/test/any.h"
 
 #include <utility>

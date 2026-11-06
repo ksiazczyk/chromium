@@ -1,0 +1,4 @@
+# Docerion header of invalid_platform_namespace.idl.
+type: test
+title: Invalid platform namespace test IDL
+summary: IDL fixture testing a namespace declared with an invalid platform.

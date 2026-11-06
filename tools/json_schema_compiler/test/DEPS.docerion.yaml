@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for JSON schema compiler tests
+summary: Grants the test directory include access to extensions buildflags, client, features and mojom headers for feature generation testing.

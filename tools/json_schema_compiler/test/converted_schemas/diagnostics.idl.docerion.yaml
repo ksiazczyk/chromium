@@ -1,0 +1,4 @@
+# Docerion header of diagnostics.idl.
+type: test
+title: Diagnostics API IDL test schema
+summary: IDL definition of the chrome.diagnostics API for querying environment properties such as sending diagnostic packets, used as a schema compiler test fixture.

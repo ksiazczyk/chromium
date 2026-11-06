@@ -1,0 +1,4 @@
+# Docerion header of dns.idl.
+type: test
+title: DNS API IDL test schema
+summary: IDL definition of the chrome.dns API for resolving hostnames and IP address literals, used as a schema compiler test fixture.

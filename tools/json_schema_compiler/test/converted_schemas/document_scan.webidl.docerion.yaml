@@ -1,0 +1,4 @@
+# Docerion header of document_scan.webidl.
+type: test
+title: Document Scan API WebIDL test schema
+summary: Converted WebIDL version of the chrome.documentScan API schema, used as a JSON schema compiler test fixture for IDL-to-WebIDL conversion.

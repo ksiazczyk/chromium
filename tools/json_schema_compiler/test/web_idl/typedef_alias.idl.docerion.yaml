@@ -1,0 +1,4 @@
+# Docerion header of typedef_alias.idl.
+type: test
+title: Typedef alias WebIDL test
+summary: WebIDL test schema exercising typedef aliases, including an object alias with the instanceOf extended attribute, passed to interface functions.

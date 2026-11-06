@@ -1,0 +1,4 @@
+# Docerion header of content_scripts.idl.
+type: test
+title: Content scripts manifest key IDL test schema
+summary: IDL stub describing the content_scripts manifest key and its ContentScript dictionary for schema compiler tests.

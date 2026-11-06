@@ -1,0 +1,4 @@
+# Docerion header of downloads.webidl.
+type: test
+title: Downloads API WebIDL test schema
+summary: Converted WebIDL version of the chrome.downloads API schema, used as a JSON schema compiler test fixture for IDL-to-WebIDL conversion.

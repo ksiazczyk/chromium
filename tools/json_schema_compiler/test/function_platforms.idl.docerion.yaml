@@ -1,0 +1,4 @@
+# Docerion header of function_platforms.idl.
+type: test
+title: IDL function platform restriction test schema
+summary: IDL test schema verifying that function platform availability restrictions are handled by the compiler.

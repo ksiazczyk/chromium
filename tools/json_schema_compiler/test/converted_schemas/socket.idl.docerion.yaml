@@ -1,0 +1,4 @@
+# Docerion header of socket.idl.
+type: test
+title: socket.idl TCP and UDP socket API schema
+summary: IDL schema for the deprecated chrome.socket API, defining TCP and UDP socket types, options, callbacks and TLS constraints for compiler tests.

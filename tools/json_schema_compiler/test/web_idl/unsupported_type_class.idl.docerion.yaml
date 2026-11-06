@@ -1,0 +1,4 @@
+# Docerion header of unsupported_type_class.idl.
+type: test
+title: Unsupported type class WebIDL test
+summary: Invalid WebIDL test schema that uses the unsupported FrozenArray type class to verify the schema compiler rejects unsupported type classes.

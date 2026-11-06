@@ -1,0 +1,4 @@
+# Docerion header of idl_namespace_specific_implement.idl.
+type: test
+title: IDL namespace specific implement test fixture
+summary: IDL fixture testing a namespace that declares an implemented_in attribute pointing to its implementation file.

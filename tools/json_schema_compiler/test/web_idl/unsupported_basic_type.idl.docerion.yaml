@@ -1,0 +1,4 @@
+# Docerion header of unsupported_basic_type.idl.
+type: test
+title: Unsupported basic type WebIDL test
+summary: Invalid WebIDL test schema that uses the unsupported float basic type to verify the schema compiler rejects unsupported basic types.

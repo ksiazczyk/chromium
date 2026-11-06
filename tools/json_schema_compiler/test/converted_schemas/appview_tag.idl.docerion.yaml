@@ -1,0 +1,4 @@
+# Docerion header of appview_tag.idl.
+type: test
+title: appview_tag.idl test schema for the appview tag API
+summary: IDL definition of the appview tag API for embedding other Chrome Apps, used as test input for the JSON schema compiler.

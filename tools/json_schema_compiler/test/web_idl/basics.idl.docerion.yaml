@@ -1,0 +1,4 @@
+# Docerion header of basics.idl.
+type: test
+title: Basics WebIDL test schema
+summary: WebIDL test schema exercising core API definition features such as return types, arguments, constants, events, promises, and comment-to-description processing.

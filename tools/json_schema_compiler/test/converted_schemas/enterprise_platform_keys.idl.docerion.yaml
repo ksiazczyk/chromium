@@ -1,0 +1,4 @@
+# Docerion header of enterprise_platform_keys.idl.
+type: test
+title: Enterprise platformKeys IDL schema
+summary: IDL definition of the chrome.enterprise.platformKeys API for generating keys and managing certificates, used as test input for schema conversion.

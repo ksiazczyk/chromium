@@ -1,0 +1,4 @@
+# Docerion header of user_scripts.idl.
+type: test
+title: user_scripts IDL schema
+summary: 'Test fixture for the JSON schema compiler: legacy IDL definition of the userScripts API for registering and injecting user scripts.'

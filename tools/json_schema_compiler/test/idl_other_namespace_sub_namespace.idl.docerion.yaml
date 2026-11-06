@@ -1,0 +1,4 @@
+# Docerion header of idl_other_namespace_sub_namespace.idl.
+type: test
+title: IDL other namespace sub-namespace test fixture
+summary: IDL fixture providing enum types in a sub-namespace for scoped type tests.

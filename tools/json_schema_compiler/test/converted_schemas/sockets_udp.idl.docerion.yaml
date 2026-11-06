@@ -1,0 +1,4 @@
+# Docerion header of sockets_udp.idl.
+type: test
+title: sockets_udp.idl converted schema
+summary: Converted IDL schema for the chrome.sockets.udp API, used as a test fixture for the JSON schema compiler.

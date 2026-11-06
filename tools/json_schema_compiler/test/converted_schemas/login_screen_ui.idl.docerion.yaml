@@ -1,0 +1,4 @@
+# Docerion header of login_screen_ui.idl.
+type: test
+title: Login screen UI API IDL definition
+summary: IDL schema for the chrome.loginScreenUi ChromeOS API to show and hide custom login UI, used as test data for the JSON schema compiler.

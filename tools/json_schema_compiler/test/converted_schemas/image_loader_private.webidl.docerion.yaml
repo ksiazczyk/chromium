@@ -1,0 +1,4 @@
+# Docerion header of image_loader_private.webidl.
+type: test
+title: imageLoaderPrivate API WebIDL definition
+summary: WebIDL conversion of the imageLoaderPrivate API defining thumbnail retrieval functions and the browser attribute for the ChromeOS FilesApp ImageLoader extension.

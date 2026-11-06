@@ -1,0 +1,4 @@
+# Docerion header of file_handlers.webidl.
+type: test
+title: File handlers manifest key WebIDL schema
+summary: WebIDL version of the file_handlers manifest key definition, converted from IDL as a test fixture for the JSON schema compiler.

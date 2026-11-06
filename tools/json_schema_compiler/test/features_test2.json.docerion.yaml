@@ -1,0 +1,4 @@
+# Docerion header of features_test2.json.
+type: test
+title: Second features test fixture
+summary: Small feature fixture defining an omega feature for web page contexts, used as additional input for features compiler tests.

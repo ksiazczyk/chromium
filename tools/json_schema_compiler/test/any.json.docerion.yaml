@@ -1,0 +1,4 @@
+# Docerion header of any.json.
+type: data
+title: any type API schema test fixture
+summary: Test API schema covering any-typed properties, optional parameters, results and events in the JSON schema compiler.

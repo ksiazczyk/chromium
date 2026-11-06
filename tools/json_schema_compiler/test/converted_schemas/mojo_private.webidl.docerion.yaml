@@ -1,0 +1,4 @@
+# Docerion header of mojo_private.webidl.
+type: test
+title: Mojo private API WebIDL definition
+summary: Converted WebIDL version of the mojoPrivate API schema, used as test data for the JSON schema compiler conversion.

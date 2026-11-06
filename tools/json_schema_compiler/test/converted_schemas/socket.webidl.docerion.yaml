@@ -1,0 +1,4 @@
+# Docerion header of socket.webidl.
+type: test
+title: socket.webidl TCP and UDP socket API schema
+summary: WebIDL conversion of the socket API schema, defining TCP and UDP socket types, options and callbacks used to test the schema compiler's WebIDL output.

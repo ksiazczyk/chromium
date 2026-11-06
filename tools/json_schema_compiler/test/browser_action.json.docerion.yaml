@@ -1,0 +1,4 @@
+# Docerion header of browser_action.json.
+type: test
+title: Browser action API test schema
+summary: Schema fixture for the browserAction API used to exercise the JSON schema compiler, defining types and functions such as setTitle, getTitle, setIcon and setPopup.

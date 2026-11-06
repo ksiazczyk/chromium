@@ -1,0 +1,4 @@
+# Docerion header of nodoc_specified_as_string.json.
+type: test
+title: Nodoc specified as string test schema
+summary: Test schema fixture expecting an exception when nodoc is specified as a string instead of a boolean.

@@ -1,0 +1,4 @@
+# Docerion header of system_network.idl.
+type: test
+title: system_network IDL schema
+summary: 'Test fixture for the JSON schema compiler: legacy IDL definition of the chrome.system.network API describing network interface information.'

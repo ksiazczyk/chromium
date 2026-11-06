@@ -1,0 +1,4 @@
+# Docerion header of compiler_test.json.
+type: test
+title: Compiler nocompile flag test schema
+summary: Schema fixture with namespaces, functions and types marked nocompile to test the compiler's code generation toggles at different nesting levels.

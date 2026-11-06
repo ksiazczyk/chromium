@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for additionalProperties generated types
+// summary: Unit tests verifying population, parameter creation and result creation for generated additionalProperties code.
+// ---
+
 #include "tools/json_schema_compiler/test/additional_properties.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of app_window.idl.
+type: test
+title: app_window.idl test schema for the chrome.app.window API
+summary: IDL definition of the chrome.app.window API used as test input for the JSON schema compiler, covering window bounds, frame options and size constraints.

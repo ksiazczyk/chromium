@@ -1,0 +1,4 @@
+# Docerion header of enterprise_platform_keys_internal.idl.
+type: test
+title: Enterprise platformKeysInternal IDL schema
+summary: IDL definition of the internal enterprise.platformKeysInternal API for token listing and key generation, used as a schema compiler test fixture.

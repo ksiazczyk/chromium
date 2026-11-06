@@ -1,0 +1,4 @@
+# Docerion header of functions_on_types.json.
+type: test
+title: Functions on types test schema
+summary: Test schema fixture defining functions on types such as StorageArea and ChromeSetting.

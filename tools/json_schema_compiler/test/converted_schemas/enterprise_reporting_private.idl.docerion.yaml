@@ -1,0 +1,4 @@
+# Docerion header of enterprise_reporting_private.idl.
+type: test
+title: Enterprise reportingPrivate IDL schema
+summary: IDL definition of the private enterprise.reportingPrivate API for reporting device and browser status to the admin console, used in compiler tests.

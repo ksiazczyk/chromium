@@ -1,0 +1,4 @@
+# Docerion header of stub_extension_manifest.idl.
+type: test
+title: Stub extension manifest definition
+summary: Stub WebIDL ExtensionManifest definition providing manifest key dictionaries without a Browser interface or other API pieces.

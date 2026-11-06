@@ -1,0 +1,4 @@
+# Docerion header of app_runtime.idl.
+type: test
+title: app_runtime.idl
+summary: Original IDL schema of the chrome.app.runtime lifecycle API, kept as a static baseline for conversion testing.

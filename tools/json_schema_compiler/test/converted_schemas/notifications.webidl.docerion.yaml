@@ -1,0 +1,4 @@
+# Docerion header of notifications.webidl.
+type: test
+title: notifications WebIDL test schema
+summary: Converted WebIDL version of the notifications API schema, used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

@@ -1,0 +1,4 @@
+# Docerion header of login_screen_storage.webidl.
+type: test
+title: loginScreenStorage API WebIDL definition
+summary: WebIDL conversion of the loginScreenStorage API providing promise-based storage and retrieval of persistent login screen data and credentials.

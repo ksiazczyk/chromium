@@ -1,0 +1,4 @@
+# Docerion header of multi_nested_namespace.idl.
+type: test
+title: Multi nested namespace IDL test schema
+summary: WebIDL test schema verifying that API names with two dots map to triple nested namespaces such as <Browser>.multi.nested.example.

@@ -1,0 +1,4 @@
+# Docerion header of printer_provider.webidl.
+type: test
+title: printer_provider.webidl chrome.printerProvider API test schema
+summary: WebIDL conversion of the chrome.printerProvider API definition with event interfaces, serving as test data for the JSON schema compiler.

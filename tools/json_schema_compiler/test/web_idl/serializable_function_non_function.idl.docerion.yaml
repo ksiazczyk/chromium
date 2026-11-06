@@ -1,0 +1,4 @@
+# Docerion header of serializable_function_non_function.idl.
+type: test
+title: Serializable function on non-function error case
+summary: Invalid WebIDL schema used to test that applying the serializableFunction extended attribute to a non-function dictionary member raises an error.

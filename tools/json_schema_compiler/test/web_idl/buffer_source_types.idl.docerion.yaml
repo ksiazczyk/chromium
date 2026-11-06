@@ -1,0 +1,4 @@
+# Docerion header of buffer_source_types.idl.
+type: test
+title: Buffer source types test schema
+summary: WebIDL test schema covering ArrayBuffer and Uint8Array usage as required and optional parameters and dictionary members.

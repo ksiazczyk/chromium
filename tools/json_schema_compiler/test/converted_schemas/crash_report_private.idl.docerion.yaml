@@ -1,0 +1,4 @@
+# Docerion header of crash_report_private.idl.
+type: test
+title: crashReportPrivate API IDL test schema
+summary: IDL definition of the ChromeOS crashReportPrivate API for reporting and uploading errors, used as a compiler test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of declarative_net_request.webidl.
+type: test
+title: declarativeNetRequest API WebIDL test schema
+summary: WebIDL conversion of the declarativeNetRequest API schema, paired with the IDL version as a schema compiler test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of automation.webidl.
+type: test
+title: automation.webidl converted test schema for the chrome.automation API
+summary: WebIDL conversion of the chrome.automation schema used as test input for the JSON schema compiler, with string-valued enums and event interfaces.

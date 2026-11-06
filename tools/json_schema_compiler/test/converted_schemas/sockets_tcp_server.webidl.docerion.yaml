@@ -1,0 +1,4 @@
+# Docerion header of sockets_tcp_server.webidl.
+type: test
+title: sockets_tcp_server.webidl converted schema
+summary: WebIDL conversion of the chrome.sockets.tcpServer API schema, used as a test fixture for the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of shared_module.idl.
+type: test
+title: shared_module.idl shared module manifest schema
+summary: IDL schema stub namespace for the import and export manifest keys of shared modules, used as test input for the JSON schema compiler.

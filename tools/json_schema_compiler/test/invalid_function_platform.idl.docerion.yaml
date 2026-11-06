@@ -1,0 +1,4 @@
+# Docerion header of invalid_function_platform.idl.
+type: test
+title: Invalid function platform test IDL
+summary: IDL fixture testing a function declared with an invalid platform value.

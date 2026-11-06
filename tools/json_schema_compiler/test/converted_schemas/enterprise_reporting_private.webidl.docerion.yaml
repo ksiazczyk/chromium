@@ -1,0 +1,4 @@
+# Docerion header of enterprise_reporting_private.webidl.
+type: test
+title: Enterprise reportingPrivate WebIDL schema
+summary: WebIDL version of the enterprise.reportingPrivate API defining device info, context info and event reporting structures, converted for testing.

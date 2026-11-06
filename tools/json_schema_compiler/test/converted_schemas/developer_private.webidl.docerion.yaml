@@ -1,0 +1,4 @@
+# Docerion header of developer_private.webidl.
+type: test
+title: developerPrivate API WebIDL test schema
+summary: Converted WebIDL version of the developerPrivate API schema, used as a JSON schema compiler test fixture for IDL-to-WebIDL conversion.

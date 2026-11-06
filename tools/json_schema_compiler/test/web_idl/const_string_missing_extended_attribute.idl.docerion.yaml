@@ -1,0 +1,4 @@
+# Docerion header of const_string_missing_extended_attribute.idl.
+type: test
+title: Missing StringValue extended attribute test
+summary: Invalid WebIDL test schema where a string constant lacks the required StringValue extended attribute, intended to trigger a compiler error.

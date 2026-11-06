@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_socket.idl.
+type: test
+title: Bluetooth Socket API IDL schema
+summary: IDL definition of the chrome.bluetoothSocket API for RFCOMM and L2CAP data transfer, used as a schema compiler test fixture.

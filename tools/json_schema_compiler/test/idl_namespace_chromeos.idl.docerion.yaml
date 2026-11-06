@@ -1,0 +1,4 @@
+# Docerion header of idl_namespace_chromeos.idl.
+type: test
+title: IDL namespace ChromeOS test fixture
+summary: IDL fixture testing a namespace restricted to the ChromeOS platform.

@@ -1,0 +1,4 @@
+# Docerion header of image_writer_private.idl.
+type: test
+title: imageWriterPrivate API IDL definition
+summary: IDL schema for the imageWriterPrivate API that writes images to removable media, with write stages, progress info and removable storage device listing.

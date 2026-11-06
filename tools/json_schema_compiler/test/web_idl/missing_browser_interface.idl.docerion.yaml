@@ -1,0 +1,4 @@
+# Docerion header of missing_browser_interface.idl.
+type: test
+title: Invalid WebIDL test schema missing Browser interface
+summary: Invalid WebIDL test schema lacking the required partial Browser interface for exposing the API.

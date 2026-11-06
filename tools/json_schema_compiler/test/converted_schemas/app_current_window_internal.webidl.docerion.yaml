@@ -1,0 +1,4 @@
+# Docerion header of app_current_window_internal.webidl.
+type: test
+title: app_current_window_internal.webidl
+summary: Converted WebIDL schema of the internal app window control API, paired with the original IDL for diff testing.

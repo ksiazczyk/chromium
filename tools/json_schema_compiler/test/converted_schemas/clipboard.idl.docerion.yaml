@@ -1,0 +1,4 @@
+# Docerion header of clipboard.idl.
+type: test
+title: Clipboard API IDL test schema
+summary: IDL definition of the chrome.clipboard API for ChromeOS, used as a test fixture for the JSON schema compiler.

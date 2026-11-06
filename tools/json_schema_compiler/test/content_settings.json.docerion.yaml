@@ -1,0 +1,4 @@
+# Docerion header of content_settings.json.
+type: test
+title: Content settings API test schema
+summary: Schema fixture for the contentSettings API used to test generation of type functions and complex API definitions with events and object types.

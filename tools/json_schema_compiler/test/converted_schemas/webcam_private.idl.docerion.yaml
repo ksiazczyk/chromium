@@ -1,0 +1,4 @@
+# Docerion header of webcam_private.idl.
+type: test
+title: webcam_private.idl test schema
+summary: IDL definition of the Webcam Private API covering pan, tilt, zoom, focus and preset controls, used as a test fixture for schema compiler conversion.

@@ -1,0 +1,4 @@
+# Docerion header of autotest_private.idl.
+type: test
+title: autotestPrivate API IDL schema
+summary: IDL definition of the ChromeOS autotestPrivate extension API for integration testing, used as a test fixture for the JSON schema compiler.

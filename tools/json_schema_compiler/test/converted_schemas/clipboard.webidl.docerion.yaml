@@ -1,0 +1,4 @@
+# Docerion header of clipboard.webidl.
+type: test
+title: Clipboard API WebIDL test schema
+summary: WebIDL conversion of the chrome.clipboard API schema, paired with the IDL version as a schema compiler test fixture.

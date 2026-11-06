@@ -1,0 +1,4 @@
+# Docerion header of printer_provider_internal.idl.
+type: test
+title: printer_provider_internal.idl internal API test schema
+summary: IDL definition of the internal printerProviderInternal API used to run callbacks for chrome.printerProvider API events.

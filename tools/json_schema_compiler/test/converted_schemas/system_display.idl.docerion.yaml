@@ -1,0 +1,4 @@
+# Docerion header of system_display.idl.
+type: test
+title: system_display.idl converted schema
+summary: Converted IDL schema for the chrome.system.display API, used as a test fixture for the JSON schema compiler.

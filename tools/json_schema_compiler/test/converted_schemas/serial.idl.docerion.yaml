@@ -1,0 +1,4 @@
+# Docerion header of serial.idl.
+type: test
+title: serial.idl serial port API schema
+summary: IDL schema for the chrome.serial API, defining device info, connection options and callbacks for reading and writing to serial ports in compiler tests.

@@ -1,0 +1,4 @@
+# Docerion header of json_basics.json.
+type: test
+title: JSON basics test schema
+summary: Test schema fixture covering enums, objects, arrays, choices, inline objects, functions and callbacks.

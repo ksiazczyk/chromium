@@ -1,0 +1,4 @@
+# Docerion header of app_runtime.webidl.
+type: test
+title: app_runtime.webidl
+summary: Converted WebIDL schema of the chrome.app.runtime API, paired with the original IDL for diff testing.

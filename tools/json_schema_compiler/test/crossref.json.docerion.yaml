@@ -1,0 +1,4 @@
+# Docerion header of crossref.json.
+type: test
+title: Cross-reference test schema
+summary: Schema fixture testing cross-namespace references to types and enums from the simple_api dependency in properties, parameters and results.

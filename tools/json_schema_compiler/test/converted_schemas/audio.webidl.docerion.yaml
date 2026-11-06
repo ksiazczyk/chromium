@@ -1,0 +1,4 @@
+# Docerion header of audio.webidl.
+type: test
+title: audio.webidl converted test schema for the chrome.audio API
+summary: WebIDL conversion of the chrome.audio schema used as test input for the JSON schema compiler, using event interfaces and sequence types.

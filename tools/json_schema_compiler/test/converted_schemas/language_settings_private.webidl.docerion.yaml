@@ -1,0 +1,4 @@
+# Docerion header of language_settings_private.webidl.
+type: test
+title: languageSettingsPrivate API WebIDL definition
+summary: WebIDL conversion of the languageSettingsPrivate API with language, input method and spellcheck dictionary types and related change events.

@@ -1,0 +1,4 @@
+# Docerion header of scripting.webidl.
+type: test
+title: scripting.webidl chrome.scripting API test schema
+summary: WebIDL conversion of the chrome.scripting API definition covering script and CSS injection, serving as test data for the JSON schema compiler.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated schemas unit test
+// summary: Unit test verifying that generated API schemas exclude manifest_keys entries from the emitted JSON schema.
+// ---
+
 #include "tools/json_schema_compiler/test/generated_schemas.h"
 
 #include <optional>

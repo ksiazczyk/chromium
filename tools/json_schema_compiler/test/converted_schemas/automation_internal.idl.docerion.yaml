@@ -1,0 +1,4 @@
+# Docerion header of automation_internal.idl.
+type: test
+title: automation_internal.idl test schema for the automationInternal API
+summary: IDL definition of the internal automation API layer that translates accessibility tree updates, used as test input for the JSON schema compiler.

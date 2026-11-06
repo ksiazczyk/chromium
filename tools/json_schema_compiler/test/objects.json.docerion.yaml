@@ -1,0 +1,4 @@
+# Docerion header of objects.json.
+type: test
+title: Objects test schema
+summary: Test schema fixture exercising object parameters, object returns and events with enum states.

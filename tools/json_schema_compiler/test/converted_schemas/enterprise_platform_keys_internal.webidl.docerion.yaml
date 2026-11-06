@@ -1,0 +1,4 @@
+# Docerion header of enterprise_platform_keys_internal.webidl.
+type: test
+title: Enterprise platformKeysInternal WebIDL schema
+summary: WebIDL version of the internal platformKeysInternal API with promise-based getTokens and generateKey, converted for compiler testing.

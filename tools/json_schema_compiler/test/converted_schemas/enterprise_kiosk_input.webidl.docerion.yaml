@@ -1,0 +1,4 @@
+# Docerion header of enterprise_kiosk_input.webidl.
+type: test
+title: Enterprise kiosk input API WebIDL definition
+summary: WebIDL version of the ChromeOS chrome.enterprise.kioskInput API used as converted test output for the JSON schema compiler.

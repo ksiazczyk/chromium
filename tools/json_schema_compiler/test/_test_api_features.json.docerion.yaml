@@ -1,0 +1,4 @@
+# Docerion header of _test_api_features.json.
+type: data
+title: Test API feature definition with beta channel
+summary: Defines a test API feature restricted to the beta channel and privileged extension context for feature generation testing.

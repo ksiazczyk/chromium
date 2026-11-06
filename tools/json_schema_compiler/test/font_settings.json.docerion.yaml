@@ -1,0 +1,4 @@
+# Docerion header of font_settings.json.
+type: test
+title: Font settings API test schema
+summary: Test schema fixture for the fontSettings API used to exercise the JSON schema compiler with types, enums and functions.

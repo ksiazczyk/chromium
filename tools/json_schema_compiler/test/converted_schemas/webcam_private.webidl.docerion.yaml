@@ -1,0 +1,4 @@
+# Docerion header of webcam_private.webidl.
+type: test
+title: webcam_private.webidl test schema
+summary: WebIDL counterpart of webcam_private.idl describing the Webcam Private API with promise-based functions for schema compiler conversion tests.

@@ -1,0 +1,4 @@
+# Docerion header of function_platform_all.json.
+type: test
+title: All-platform function test schema
+summary: Test schema fixture declaring a function available on all listed platforms for compiler platform tests.

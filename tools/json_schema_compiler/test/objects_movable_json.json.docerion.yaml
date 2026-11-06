@@ -1,0 +1,4 @@
+# Docerion header of objects_movable_json.json.
+type: test
+title: Movable objects JSON test schema
+summary: JSON test fixture defining a movable-objects API with additional properties to exercise the compiler's movable type support.

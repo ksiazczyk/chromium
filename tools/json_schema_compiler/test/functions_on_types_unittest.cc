@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Functions on types unit tests
+// summary: Unit tests for generated parameter and result creation for functions defined on types.
+// ---
+
 #include "tools/json_schema_compiler/test/functions_on_types.h"
 
 #include <utility>

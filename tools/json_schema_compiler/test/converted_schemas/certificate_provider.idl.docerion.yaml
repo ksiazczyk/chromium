@@ -1,0 +1,4 @@
+# Docerion header of certificate_provider.idl.
+type: test
+title: Certificate provider API IDL definition
+summary: IDL definition of the certificateProvider API for exposing client certificates and signature algorithms to the platform, used as a test fixture.

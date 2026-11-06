@@ -1,0 +1,4 @@
+# Docerion header of system_storage.idl.
+type: test
+title: system_storage IDL schema
+summary: 'Test fixture for the JSON schema compiler: legacy IDL definition of the chrome.system.storage API for querying and ejecting storage devices.'

@@ -1,0 +1,4 @@
+# Docerion header of enterprise_networking_attributes.webidl.
+type: test
+title: Enterprise networkingAttributes WebIDL schema
+summary: WebIDL version of the enterprise.networkingAttributes API schema, converted from IDL for schema compiler testing.

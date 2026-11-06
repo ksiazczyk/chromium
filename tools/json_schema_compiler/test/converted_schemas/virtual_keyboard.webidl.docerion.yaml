@@ -1,0 +1,4 @@
+# Docerion header of virtual_keyboard.webidl.
+type: test
+title: virtual_keyboard WebIDL schema
+summary: 'Test fixture for the JSON schema compiler: converted WebIDL definition of the chrome.virtualKeyboard API with promise-based restrictFeatures.'

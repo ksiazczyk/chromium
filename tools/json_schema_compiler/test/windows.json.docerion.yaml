@@ -1,0 +1,4 @@
+# Docerion header of windows.json.
+type: test
+title: Windows API schema test fixture
+summary: JSON schema fixture describing the chrome.windows API, used to exercise the JSON schema compiler in tests.

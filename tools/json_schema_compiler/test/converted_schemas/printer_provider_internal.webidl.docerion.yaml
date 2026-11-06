@@ -1,0 +1,4 @@
+# Docerion header of printer_provider_internal.webidl.
+type: test
+title: printer_provider_internal.webidl internal API test schema
+summary: WebIDL conversion of the printerProviderInternal API that reports results for chrome.printerProvider event callbacks.

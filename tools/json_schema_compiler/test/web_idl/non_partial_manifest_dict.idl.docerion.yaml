@@ -1,0 +1,4 @@
+# Docerion header of non_partial_manifest_dict.idl.
+type: test
+title: Non-partial manifest dictionary error case
+summary: Invalid WebIDL schema used to test that an ExtensionManifest dictionary which is not partial raises an error.

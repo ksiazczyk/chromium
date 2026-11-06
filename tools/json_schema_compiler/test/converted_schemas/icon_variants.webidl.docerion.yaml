@@ -1,0 +1,4 @@
+# Docerion header of icon_variants.webidl.
+type: test
+title: Icon variants manifest WebIDL test schema
+summary: WebIDL conversion of the iconVariants manifest schema used as test data for the schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of system_memory.webidl.
+type: test
+title: system_memory.webidl converted schema
+summary: WebIDL conversion of the chrome.system.memory API schema, used as a test fixture for the JSON schema compiler.

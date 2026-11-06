@@ -1,0 +1,4 @@
+# Docerion header of uses_shared_types.idl.
+type: test
+title: Shared types usage WebIDL test
+summary: WebIDL test schema that uses a local type and a type shared from the basics schema via ExternalExtensionType to test cross-file type references.

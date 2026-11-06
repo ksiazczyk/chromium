@@ -1,0 +1,4 @@
+# Docerion header of returns_async_missing_parameters_key.json.
+type: test
+title: Returns async missing parameters key invalid schema fixture
+summary: Invalid test schema whose returns_async omits the parameters key to verify the compiler detects the error.

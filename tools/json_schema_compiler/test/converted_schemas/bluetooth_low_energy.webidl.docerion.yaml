@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy.webidl.
+type: test
+title: Bluetooth Low Energy API WebIDL schema
+summary: WebIDL conversion of the chrome.bluetoothLowEnergy API schema, used as a test fixture for the JSON schema compiler.

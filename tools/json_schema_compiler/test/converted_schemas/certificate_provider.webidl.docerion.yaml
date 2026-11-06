@@ -1,0 +1,4 @@
+# Docerion header of certificate_provider.webidl.
+type: test
+title: Certificate provider API WebIDL definition
+summary: WebIDL version of the certificateProvider API defining algorithms, certificate info and signature request types, used as a converted schema test fixture.

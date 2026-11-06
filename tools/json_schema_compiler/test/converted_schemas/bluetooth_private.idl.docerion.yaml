@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_private.idl.
+type: test
+title: Bluetooth Private API IDL schema
+summary: IDL definition of the chrome.bluetoothPrivate API for adapter control and device pairing, used as a schema compiler test fixture.

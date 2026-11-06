@@ -1,0 +1,4 @@
+# Docerion header of system_memory.idl.
+type: test
+title: system_memory.idl converted schema
+summary: Converted IDL schema for the chrome.system.memory API, used as a test fixture for the JSON schema compiler.

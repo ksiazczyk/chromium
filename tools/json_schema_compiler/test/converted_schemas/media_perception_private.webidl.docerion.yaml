@@ -1,0 +1,4 @@
+# Docerion header of media_perception_private.webidl.
+type: test
+title: Media perception private API WebIDL definition
+summary: Converted WebIDL version of the mediaPerceptionPrivate API schema with string-valued enums and process management definitions, used as conversion test data.

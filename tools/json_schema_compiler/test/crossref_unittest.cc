@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crossref unit tests for the JSON schema compiler
+// summary: Unit tests verifying that compiled types and functions referencing types from another test API populate, convert, and create params correctly.
+// ---
+
 #include "tools/json_schema_compiler/test/crossref.h"
 
 #include <memory>

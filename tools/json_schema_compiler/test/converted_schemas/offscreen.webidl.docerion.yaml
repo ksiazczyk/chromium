@@ -1,0 +1,4 @@
+# Docerion header of offscreen.webidl.
+type: test
+title: offscreen WebIDL test schema
+summary: Converted WebIDL version of the offscreen API schema, used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

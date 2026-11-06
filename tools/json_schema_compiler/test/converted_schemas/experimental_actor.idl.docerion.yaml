@@ -1,0 +1,4 @@
+# Docerion header of experimental_actor.idl.
+type: test
+title: Experimental actor IDL schema
+summary: IDL definition of the experimental actor API for creating tasks, performing actions and requesting tab observations, used as a compiler test fixture.

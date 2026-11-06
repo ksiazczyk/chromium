@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple API unit tests
+// summary: Unit tests for the simple_api generated code, covering params and results creation, optional handling and manifest key parsing errors.
+// ---
+
 #include "tools/json_schema_compiler/test/simple_api.h"
 
 #include <memory>

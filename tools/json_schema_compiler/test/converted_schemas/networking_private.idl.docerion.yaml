@@ -1,0 +1,4 @@
+# Docerion header of networking_private.idl.
+type: test
+title: networking_private IDL test schema
+summary: Original IDL definition of the chrome.networkingPrivate API, used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

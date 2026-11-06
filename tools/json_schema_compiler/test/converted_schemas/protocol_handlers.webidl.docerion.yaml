@@ -1,0 +1,4 @@
+# Docerion header of protocol_handlers.webidl.
+type: test
+title: protocol_handlers.webidl manifest key test schema
+summary: WebIDL version of the protocol_handlers manifest key definition converted from the IDL source as schema compiler test data.

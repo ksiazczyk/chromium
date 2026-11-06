@@ -1,0 +1,4 @@
+# Docerion header of sockets_tcp.webidl.
+type: test
+title: sockets_tcp.webidl TCP sockets API schema
+summary: WebIDL conversion of the sockets.tcp API schema, defining socket properties, receive events and TLS options used to test the schema compiler's WebIDL output.

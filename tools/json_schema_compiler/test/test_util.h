@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility declarations for schema compiler tests
+// summary: Declares helper functions and templates for building JSON values and vectors in schema compiler tests.
+// ---
+
 #ifndef TOOLS_JSON_SCHEMA_COMPILER_TEST_TEST_UTIL_H_
 #define TOOLS_JSON_SCHEMA_COMPILER_TEST_TEST_UTIL_H_
 

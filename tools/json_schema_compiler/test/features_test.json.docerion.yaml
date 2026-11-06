@@ -1,0 +1,4 @@
+# Docerion header of features_test.json.
+type: test
+title: Features test fixture
+summary: Feature definitions with channels, contexts, allowlists, aliases, and parent relationships used as input for features compiler tests.

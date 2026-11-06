@@ -1,0 +1,4 @@
+# Docerion header of idl_properties.idl.
+type: test
+title: IDL properties test fixture
+summary: IDL fixture testing parsing of the Properties interface with valued and unvalued properties.

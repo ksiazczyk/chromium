@@ -1,0 +1,4 @@
+# Docerion header of virtual_keyboard.idl.
+type: test
+title: virtual_keyboard IDL schema
+summary: 'Test fixture for the JSON schema compiler: legacy IDL definition of the ChromeOS-only chrome.virtualKeyboard API for restricting keyboard features.'

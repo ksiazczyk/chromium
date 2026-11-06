@@ -1,0 +1,4 @@
+# Docerion header of power.webidl.
+type: test
+title: power.webidl chrome.power API test schema
+summary: WebIDL version of the chrome.power API converted from the IDL source, used as test data for the JSON schema compiler.

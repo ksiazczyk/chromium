@@ -1,0 +1,4 @@
+# Docerion header of file_manager_private_internal.idl.
+type: test
+title: File manager private internal API IDL schema
+summary: IDL definition of the internal fileManagerPrivate API used by its custom bindings on ChromeOS, a JSON schema compiler test fixture.

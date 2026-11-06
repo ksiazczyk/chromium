@@ -1,0 +1,4 @@
+# Docerion header of protocol_handlers.idl.
+type: test
+title: protocol_handlers.idl manifest key test schema
+summary: IDL definition of the protocol_handlers manifest key that lets extensions register custom handlers for unknown URL schemes.

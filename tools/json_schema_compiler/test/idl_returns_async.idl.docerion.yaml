@@ -1,0 +1,4 @@
+# Docerion header of idl_returns_async.idl.
+type: test
+title: IDL returns async test fixture
+summary: IDL fixture testing the doesNotSupportPromises extended attribute on callback functions.

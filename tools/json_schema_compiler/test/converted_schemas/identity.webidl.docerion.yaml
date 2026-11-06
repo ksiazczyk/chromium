@@ -1,0 +1,4 @@
+# Docerion header of identity.webidl.
+type: test
+title: Chrome identity API WebIDL test schema
+summary: WebIDL conversion of the chrome.identity API schema used as test data for the schema compiler.

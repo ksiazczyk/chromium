@@ -1,0 +1,4 @@
+# Docerion header of image_loader_private.idl.
+type: test
+title: imageLoaderPrivate API IDL definition
+summary: IDL schema for the ChromeOS imageLoaderPrivate API used by the FilesApp ImageLoader extension to retrieve Drive, PDF and ARC DocumentsProvider thumbnails.

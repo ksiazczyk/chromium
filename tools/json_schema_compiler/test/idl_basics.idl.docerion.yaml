@@ -1,0 +1,4 @@
+# Docerion header of idl_basics.idl.
+type: test
+title: IDL basics test fixture
+summary: IDL fixture exercising basic API definition features such as enums, dictionaries, unions, callbacks, functions, and cross-namespace types.

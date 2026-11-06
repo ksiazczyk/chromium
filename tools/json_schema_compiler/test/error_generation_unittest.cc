@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error generation unit tests
+// summary: Unit tests asserting the exact error messages produced when populating types or creating function params from invalid values.
+// ---
+
 #include "tools/json_schema_compiler/test/error_generation.h"
 
 #include <memory>

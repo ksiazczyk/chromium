@@ -1,0 +1,4 @@
+# Docerion header of idl_namespace_all_platforms.idl.
+type: test
+title: IDL namespace all platforms test fixture
+summary: IDL fixture testing a namespace annotated with a platforms attribute listing multiple supported platforms.

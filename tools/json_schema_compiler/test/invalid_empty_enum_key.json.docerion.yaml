@@ -1,0 +1,4 @@
+# Docerion header of invalid_empty_enum_key.json.
+type: test
+title: Invalid empty enum key test schema
+summary: Test schema fixture with an empty enum value to verify that empty enum keys are disallowed.

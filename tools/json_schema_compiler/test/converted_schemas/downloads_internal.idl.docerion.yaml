@@ -1,0 +1,4 @@
+# Docerion header of downloads_internal.idl.
+type: test
+title: Downloads internal API IDL definition
+summary: IDL definition of the chrome.downloadsInternal API used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

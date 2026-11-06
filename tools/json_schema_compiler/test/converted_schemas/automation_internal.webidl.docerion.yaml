@@ -1,0 +1,4 @@
+# Docerion header of automation_internal.webidl.
+type: test
+title: automation_internal.webidl converted test schema for automationInternal
+summary: WebIDL conversion of the internal automation schema used as test input for the JSON schema compiler, with listener callbacks and event interfaces.

@@ -1,0 +1,4 @@
+# Docerion header of media_perception_private.idl.
+type: test
+title: Media perception private API IDL definition
+summary: IDL schema of the ChromeOS mediaPerceptionPrivate API covering analytics process states, errors, features and components, used as conversion test data.

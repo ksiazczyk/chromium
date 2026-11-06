@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Features generation unit tests
+// summary: Unit tests verifying that feature data compiled from the features test JSON files matches expected descriptors and defaults.
+// ---
+
 #include <array>
 #include <optional>
 #include <string>

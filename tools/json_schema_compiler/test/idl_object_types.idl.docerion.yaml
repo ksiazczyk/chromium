@@ -1,0 +1,4 @@
+# Docerion header of idl_object_types.idl.
+type: test
+title: IDL object types test fixture
+summary: IDL fixture exercising object, any, and union types in dictionaries and functions.

@@ -1,0 +1,4 @@
+# Docerion header of choices.json.
+type: test
+title: Choices API test schema
+summary: Schema fixture defining the choices API to test the compiler's handling of choice types, including nested choices and choices between object types.

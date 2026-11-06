@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility implementations for schema compiler tests
+// summary: Implements helpers that parse JSON strings and build list and dictionary values for schema compiler tests.
+// ---
+
 #include "tools/json_schema_compiler/test/test_util.h"
 
 #include <string>

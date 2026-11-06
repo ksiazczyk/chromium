@@ -1,0 +1,4 @@
+# Docerion header of stub_extension_manifest_missing_namespace.idl.
+type: test
+title: Stub extension manifest missing namespace WebIDL test
+summary: Invalid WebIDL stub ExtensionManifest definition that omits the Namespace extended attribute, used to test schema compiler error handling.

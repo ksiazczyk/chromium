@@ -1,0 +1,4 @@
+# Docerion header of audio.idl.
+type: test
+title: audio.idl test schema for the chrome.audio API
+summary: IDL definition of the chrome.audio API for listing and controlling audio devices, used as test input for the JSON schema compiler.

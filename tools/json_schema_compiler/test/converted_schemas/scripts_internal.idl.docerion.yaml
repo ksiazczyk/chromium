@@ -1,0 +1,4 @@
+# Docerion header of scripts_internal.idl.
+type: test
+title: scripts_internal.idl content script schema
+summary: IDL schema for the internal content scripts namespace, defining serialized user script sources and injection options as test input for the JSON schema compiler.

@@ -1,0 +1,4 @@
+# Docerion header of error_generation.json.
+type: test
+title: Error generation test API schema
+summary: JSON schema fixture with generate_error_messages enabled, covering types, choices, enums, and binary data for error message tests.

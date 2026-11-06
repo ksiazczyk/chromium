@@ -1,0 +1,4 @@
+# Docerion header of custom_type_not_found.idl.
+type: test
+title: Undefined custom type test
+summary: Invalid WebIDL test schema referencing a type not defined in the file, expected to raise a SchemaCompilerError.

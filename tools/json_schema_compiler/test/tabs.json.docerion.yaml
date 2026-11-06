@@ -1,0 +1,4 @@
+# Docerion header of tabs.json.
+type: test
+title: Tabs API schema test fixture
+summary: JSON schema fixture describing the chrome.tabs API, used to exercise the JSON schema compiler in tests.

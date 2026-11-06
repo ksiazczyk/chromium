@@ -1,0 +1,4 @@
+# Docerion header of missing_event_has_listener.idl.
+type: test
+title: Invalid WebIDL test schema missing event hasListener
+summary: Invalid WebIDL test schema with an event interface lacking the required hasListener operation, expecting a SchemaCompilerError.

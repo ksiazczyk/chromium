@@ -1,0 +1,4 @@
+# Docerion header of void_unsupported.idl.
+type: test
+title: Void type unsupported WebIDL test
+summary: Invalid WebIDL test schema that uses the deprecated void type to verify the schema compiler rejects it in favor of undefined.

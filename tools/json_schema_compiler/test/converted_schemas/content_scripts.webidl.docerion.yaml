@@ -1,0 +1,4 @@
+# Docerion header of content_scripts.webidl.
+type: test
+title: Content scripts manifest key WebIDL test schema
+summary: WebIDL conversion of the content_scripts manifest key schema, paired with the IDL version for compiler tests.

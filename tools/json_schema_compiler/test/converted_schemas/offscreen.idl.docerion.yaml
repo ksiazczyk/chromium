@@ -1,0 +1,4 @@
+# Docerion header of offscreen.idl.
+type: test
+title: offscreen IDL test schema
+summary: Original IDL definition of the offscreen document API, used as a test fixture for the JSON schema compiler's IDL to WebIDL conversion.

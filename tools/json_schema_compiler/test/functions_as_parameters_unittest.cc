@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Functions as parameters unit tests
+// summary: Unit tests for generated structs handling required, optional and serializable function properties.
+// ---
+
 #include "tools/json_schema_compiler/test/functions_as_parameters.h"
 
 #include <memory>
