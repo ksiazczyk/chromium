@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android test root certificates implementation
+// summary: Android-specific TestRootCerts implementation that adds and clears test root certificates via the Android network library.
+// ---
+
 #include "net/cert/test_root_certs.h"
 
 #include "base/location.h"

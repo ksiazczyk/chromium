@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifyProc base implementation
+// summary: Implements the shared CertVerifyProc logic for certificate chain verification, including public key size histograms and platform-specific verifier selection.
+// ---
+
 #include "net/cert/cert_verify_proc.h"
 
 #include <stdint.h>

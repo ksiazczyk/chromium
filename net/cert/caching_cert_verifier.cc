@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caching certificate verifier implementation
+// summary: Implements a CertVerifier wrapper that caches verification results in an expiring cache and records cache hit metrics.
+// ---
+
 #include "net/cert/caching_cert_verifier.h"
 
 #include <algorithm>

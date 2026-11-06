@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net Task Priority Implementation
+// summary: Implements conversion of net task priorities to tracing proto and thread types and builds the priority settings for the network thread's SequenceManager.
+// ---
+
 #include "net/base/scheduler/net_task_priority.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X.509 certificate utility implementation
+// summary: Implements x509_util helpers for X.509 processing, including signature algorithm encoding, digest mapping, OID parsing, and certificate utilities built on BoringSSL.
+// ---
+
 #include "net/cert/x509_util.h"
 
 #include <string.h>

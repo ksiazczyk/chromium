@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory listing API declarations
+// summary: Declares net functions that return UTF-8 HTML snippets for directory listing headers, file entries, and parent directory links.
+// ---
+
 #ifndef NET_BASE_MODULE_DIRECTORY_LISTING_H_
 #define NET_BASE_MODULE_DIRECTORY_LISTING_H_
 

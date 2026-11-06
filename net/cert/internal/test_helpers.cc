@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate test helpers implementation
+// summary: Implements helpers that read certificate chains and single certificates from PEM files and read test data files for net certificate tests.
+// ---
+
 #include "net/cert/internal/test_helpers.h"
 
 #include "base/base_paths.h"

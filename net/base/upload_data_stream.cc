@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadDataStream implementation
+// summary: Implements the upload data stream that supplies request body data, supporting chunked and non-chunked uploads with net-log events and callback handling.
+// ---
+
 #include "net/base/upload_data_stream.h"
 
 #include "base/check_op.h"

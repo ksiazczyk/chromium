@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net Task Scheduler Unit Tests
+// summary: Parameterized unit tests checking task ordering and default runner setup with the per-priority task queues feature enabled and disabled.
+// ---
+
 #include "net/base/scheduler/net_task_scheduler.h"
 
 #include <utility>

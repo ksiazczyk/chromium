@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store compiled data declarations
+// summary: Declares structs and accessors for compiled-in Chrome Root Store certificates, constraints, EV root metadata, and signer set data.
+// ---
+
 #ifndef NET_CERT_INTERNAL_CHROME_ROOT_STORE_DATA_H_
 #define NET_CERT_INTERNAL_CHROME_ROOT_STORE_DATA_H_
 

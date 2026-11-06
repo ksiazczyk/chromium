@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X.509 certificate types unit tests
+// summary: Unit tests verifying CertPrincipal distinguished name parsing against real certificate data from VeriSign, StartCom, UserTrust, TurkTrust, A-Trust, and Entrust.
+// ---
+
 #include "net/cert/x509_cert_types.h"
 
 #include "net/test/test_certificate_data.h"

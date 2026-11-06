@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Certificate Transparency policy enforcer
+// summary: Implements a default CT policy enforcer that reports builds as not timely and disables CT enforcement.
+// ---
+
 #include "net/cert/ct_policy_enforcer.h"
 
 #include "net/cert/ct_policy_status.h"

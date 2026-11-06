@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed tree head implementation
+// summary: Implements the certificate transparency signed tree head struct with equality and debug printing.
+// ---
+
 #include "net/cert/signed_tree_head.h"
 
 #include <algorithm>

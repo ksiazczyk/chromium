@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CT policy status to-string helpers
+// summary: Converts CT policy compliance and requirements status enums into human-readable strings.
+// ---
+
 #include "net/cert/ct_policy_status.h"
 
 #include "base/notreached.h"

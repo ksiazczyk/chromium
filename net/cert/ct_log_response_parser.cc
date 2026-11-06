@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CT log JSON response parser implementation
+// summary: Parses JSON responses from Certificate Transparency logs into signed tree heads and consistency proofs, validating base64 fields and structure.
+// ---
+
 #include "net/cert/ct_log_response_parser.h"
 
 #include <memory>

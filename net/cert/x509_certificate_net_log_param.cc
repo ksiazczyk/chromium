@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509Certificate NetLog parameter implementation
+// summary: Implements NetLogX509CertificateList, which builds a NetLog parameter value containing the PEM-encoded chain of an X509Certificate.
+// ---
+
 #include "net/cert/x509_certificate_net_log_param.h"
 
 #include <memory>

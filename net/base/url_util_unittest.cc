@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL utility unit tests
+// summary: Unit tests for net URL helpers such as AppendQueryParameter and AppendOrReplaceQueryParameter, covering query parameter appending, replacing, removal, and escaping.
+// ---
+
 #include "net/base/url_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QWAC OIDs and parsing declarations
+// summary: Declares QC statement parsing functions and CA/Browser Forum and ETSI object identifier constants used for QWAC certificate handling.
+// ---
+
 #ifndef NET_CERT_QWAC_H_
 #define NET_CERT_QWAC_H_
 

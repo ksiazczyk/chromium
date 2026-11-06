@@ -1,0 +1,4 @@
+# Docerion header of effective_tld_names_unittest4.gperf.
+type: test
+title: Test gperf list 4 for three-byte offset handling
+summary: Large test gperf list with long domain names that exercise three-byte offsets in the generated lookup code.

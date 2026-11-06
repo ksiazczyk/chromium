@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT verification status flags
+// summary: Defines the SCTVerifyStatus enum of Signed Certificate Timestamp verification statuses used in histograms, plus the IsValidSCTStatus helper.
+// ---
+
 #ifndef NET_CERT_SCT_STATUS_FLAGS_H_
 #define NET_CERT_SCT_STATUS_FLAGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NSS X.509 utility conversions
+// summary: Tests NSS helper functions such as certificate identity comparison, creation of CERTCertificate handles from bytes, and certificate list conversions.
+// ---
+
 #include "net/cert/x509_util_nss.h"
 
 #include <string_view>

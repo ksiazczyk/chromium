@@ -1,0 +1,4 @@
+# Docerion header of url_conversions.mm.
+type: source
+title: Implementation of GURL and NSURL conversions
+summary: 'Implements GURL to NSURL conversion with RFC-required escaping and NSURL to GURL conversion including an about: scheme workaround.'

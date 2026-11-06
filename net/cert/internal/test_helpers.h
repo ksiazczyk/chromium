@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate test helper declarations
+// summary: Declares helpers for reading certificate chains, single certificates, and test data files used by net certificate unit tests.
+// ---
+
 #ifndef NET_CERT_INTERNAL_TEST_HELPERS_H_
 #define NET_CERT_INTERNAL_TEST_HELPERS_H_
 

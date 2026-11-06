@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS keychain trust store declarations
+// summary: Declares TrustStoreMac, a thread-safe bssl::TrustStore that uses the macOS keychain to find trust anchors for a given policy OID.
+// ---
+
 #ifndef NET_CERT_INTERNAL_TRUST_STORE_MAC_H_
 #define NET_CERT_INTERNAL_TRUST_STORE_MAC_H_
 

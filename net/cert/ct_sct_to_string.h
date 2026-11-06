@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT attribute to-string interface
+// summary: Declares functions converting SCT algorithms, origins, and verification statuses to strings.
+// ---
+
 #ifndef NET_CERT_CT_SCT_TO_STRING_H_
 #define NET_CERT_CT_SCT_TO_STRING_H_
 

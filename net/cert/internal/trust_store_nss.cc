@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS trust store implementation
+// summary: Implements TrustStoreNSS, which determines certificate trust from NSS certificate databases and slots, distinguishing builtin roots from user-added certificates.
+// ---
+
 #include "net/cert/internal/trust_store_nss.h"
 
 #include <cert.h>

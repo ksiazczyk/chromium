@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIA certificate issuer source header
+// summary: Declares CertIssuerSourceAia, which retrieves certificate issuers using AuthorityInfoAccess URIs through a CertNetFetcher.
+// ---
+
 #ifndef NET_CERT_INTERNAL_CERT_ISSUER_SOURCE_AIA_H_
 #define NET_CERT_INTERNAL_CERT_ISSUER_SOURCE_AIA_H_
 

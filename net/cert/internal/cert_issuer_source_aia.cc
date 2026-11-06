@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIA certificate issuer source implementation
+// summary: Fetches certificate issuers via Authority Information Access URIs and parses the retrieved DER, PKCS#7/CMS, or PEM responses into parsed certificates.
+// ---
+
 #include "net/cert/internal/cert_issuer_source_aia.h"
 
 #include <string_view>

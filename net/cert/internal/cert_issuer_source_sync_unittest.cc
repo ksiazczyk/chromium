@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync cert issuer source test instantiation
+// summary: Instantiates the shared parameterized sync cert issuer source test suites, allowed to remain uninstantiated except when NSS is used.
+// ---
+
 #include "net/cert/internal/cert_issuer_source_sync_unittest.h"
 
 namespace net {

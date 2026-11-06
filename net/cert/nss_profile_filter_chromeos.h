@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSSProfileFilterChromeOS class header
+// summary: Declares a thread-safe filter that checks whether NSS slots and certificates belong to a given ChromeOS user profile.
+// ---
+
 #ifndef NET_CERT_NSS_PROFILE_FILTER_CHROMEOS_H_
 #define NET_CERT_NSS_PROFILE_FILTER_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignedCertificateTimestamp implementation
+// summary: Implements SignedCertificateTimestamp persistence to and from base::Pickle, ordering comparison, and SignedEntryData and DigitallySigned helpers.
+// ---
+
 #include "net/cert/signed_certificate_timestamp.h"
 
 #include "base/pickle.h"

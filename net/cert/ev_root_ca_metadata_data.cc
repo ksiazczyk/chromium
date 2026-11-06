@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EV root CA metadata from Chrome Root Store
+// summary: Exposes EV root CA metadata taken from the generated Chrome Root Store EV roots include file via GetEvRootCaMetadata.
+// ---
+
 #include "net/cert/internal/chrome_root_store_data.h"
 
 namespace net {

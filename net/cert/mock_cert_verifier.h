@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate verifier
+// summary: Declares a CertVerifier test double with configurable default, per-certificate, and per-host results plus observer simulation.
+// ---
+
 #ifndef NET_CERT_MOCK_CERT_VERIFIER_H_
 #define NET_CERT_MOCK_CERT_VERIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS certificate verification procedure
+// summary: Implements certificate path construction and validation using iOS Security.framework, mapping OSStatus and CFError results to net certificate status flags.
+// ---
+
 #include "net/cert/cert_verify_proc_ios.h"
 
 #include <CommonCrypto/CommonDigest.h>

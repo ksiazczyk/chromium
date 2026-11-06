@@ -1,0 +1,4 @@
+# Docerion header of http_response_headers_util_unittest.mm.
+type: test
+title: Unit tests for HTTP response headers utilities
+summary: Verifies that HttpResponseHeaders built from an NSHTTPURLResponse preserve the status code and all header names and values.

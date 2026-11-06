@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time conversion helper declarations
+// summary: Declares helpers to encode base::Time as DER GeneralizedTime and convert GeneralizedTime back to base::Time.
+// ---
+
 #ifndef NET_CERT_TIME_CONVERSIONS_H_
 #define NET_CERT_TIME_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-threaded certificate verifier unit tests
+// summary: Unit tests for MultiThreadedCertVerifier using mock verify procs, covering request cancellation, results, and verify proc swapping.
+// ---
+
 #include "net/cert/multi_threaded_cert_verifier.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadFileElementReader header
+// summary: Declares the file-based upload element reader, including range offset and length, expected modification time, and test-only content-length overrides.
+// ---
+
 #ifndef NET_BASE_UPLOAD_FILE_ELEMENT_READER_H_
 #define NET_BASE_UPLOAD_FILE_ELEMENT_READER_H_
 

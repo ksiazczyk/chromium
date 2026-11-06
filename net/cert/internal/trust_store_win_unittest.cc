@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustStoreWin unit tests
+// summary: Unit tests for TrustStoreWin that exercise trust and issuer lookup behavior using in-memory Windows certificate stores and imported test certificates.
+// ---
+
 #include "net/cert/internal/trust_store_win.h"
 
 #include <windows.h>

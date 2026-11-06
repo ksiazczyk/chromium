@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed certificate timestamp and status struct
+// summary: Defines a struct pairing a signed certificate timestamp with its SCT verification status.
+// ---
+
 #ifndef NET_CERT_SIGNED_CERTIFICATE_TIMESTAMP_AND_STATUS_H_
 #define NET_CERT_SIGNED_CERTIFICATE_TIMESTAMP_AND_STATUS_H_
 

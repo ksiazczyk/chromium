@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence manager configurator implementation
+// summary: Implements configuration of a thread's sequence manager settings for the net task scheduler, applying net task priorities and tracking whether the current thread is configured.
+// ---
+
 #include "net/base/scheduler/sequence_manager_configurator.h"
 
 #include "base/task/sequence_manager/sequence_manager.h"

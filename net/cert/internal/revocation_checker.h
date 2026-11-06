@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Revocation checking policy and constants
+// summary: Declares the RevocationPolicy struct and maximum revocation information age constants used when checking OCSP/CRL revocation status of certificate chains.
+// ---
+
 #ifndef NET_CERT_INTERNAL_REVOCATION_CHECKER_H_
 #define NET_CERT_INTERNAL_REVOCATION_CHECKER_H_
 

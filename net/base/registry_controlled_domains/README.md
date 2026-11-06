@@ -1,3 +1,9 @@
+---
+type: readme
+title: Registry-Controlled Domain Service
+summary: Explains that this directory holds Chromium's copy of the Public Suffix List and utilities for determining eTLD+1.
+---
+
 # Registry-Controlled Domain Service
 
 This directory contains Chromium's copy of the

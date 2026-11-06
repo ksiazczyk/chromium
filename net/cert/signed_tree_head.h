@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed tree head structure
+// summary: Declares the RFC 6962 signed tree head structure used by certificate transparency logs.
+// ---
+
 #ifndef NET_CERT_SIGNED_TREE_HEAD_H_
 #define NET_CERT_SIGNED_TREE_HEAD_H_
 

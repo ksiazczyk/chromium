@@ -1,3 +1,12 @@
+---
+type: readme
+title: Net Task Scheduler
+summary: Describes the network stack task scheduler, its design goal of prioritizing navigation-critical tasks, and links to the detailed design document.
+relations:
+  - documents /net/base/scheduler/net_task_scheduler.cc
+  - documents /net/base/scheduler/net_task_scheduler.h
+---
+
 # Net Task Scheduler
 
 This directory contains the implementation for a task scheduler on Chromium's

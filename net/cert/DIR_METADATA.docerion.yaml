@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata
+summary: Maps the directory to the Internals>Network>Certificate monorail component and a Buganizer component ID.

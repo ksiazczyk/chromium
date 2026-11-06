@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows CERT_CONTEXT conversion helpers for X.509 certificates
+// summary: Implements Windows-specific helpers that convert between X509Certificate objects and CryptoAPI CERT_CONTEXT handles, including chain building and SHA-256 fingerprint calculation.
+// ---
+
 #include "net/cert/x509_util_win.h"
 
 #include <string_view>

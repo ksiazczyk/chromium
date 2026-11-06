@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 2-QWAC certificate binding declarations
+// summary: Declares types for parsing and verifying JAdES-signed 2-QWAC TLS certificate bindings, including supported JWS algorithms.
+// ---
+
 #ifndef NET_CERT_TWO_QWAC_H_
 #define NET_CERT_TWO_QWAC_H_
 

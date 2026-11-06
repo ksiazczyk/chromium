@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransportInfo declaration
+// summary: Declares the TransportType enum and TransportInfo struct describing how a resource load was transported, including endpoint and protocol details.
+// ---
+
 #ifndef NET_BASE_TRANSPORT_INFO_H_
 #define NET_BASE_TRANSPORT_INFO_H_
 

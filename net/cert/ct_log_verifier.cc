@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CT log verifier implementation
+// summary: Implements verification of SCTs, signed tree heads, and Merkle audit and consistency proofs for a Certificate Transparency log using its public key.
+// ---
+
 #include "net/cert/ct_log_verifier.h"
 
 #include <stdint.h>

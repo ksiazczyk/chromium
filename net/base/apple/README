@@ -1,1 +1,7 @@
+---
+type: readme
+title: README for shared macOS and iOS network code
+summary: Explains that the directory contains code shared between the Chrome ports to macOS and iOS.
+---
+
 This directory contains shared code between the Chrome ports to macOS and iOS.

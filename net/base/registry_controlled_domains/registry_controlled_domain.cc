@@ -43,6 +43,12 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+// ---docerion
+// type: source
+// title: Registry-controlled domain service implementation
+// summary: Implements effective TLD and registry-controlled domain lookups over a DAFSA of public suffix rules, including a small thread-safe lookup cache.
+// ---
+
 #include "net/base/registry_controlled_domains/registry_controlled_domain.h"
 
 #include <cstdint>

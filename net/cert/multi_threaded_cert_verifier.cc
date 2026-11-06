@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-threaded certificate verifier implementation
+// summary: Implements a CertVerifier that runs synchronous certificate verification on worker threads, with timing metrics and QWAC binding support.
+// ---
+
 #include "net/cert/multi_threaded_cert_verifier.h"
 
 #include "base/check_op.h"

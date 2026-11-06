@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows trust store path builder tests
+// summary: Tests certificate path building against the Windows trust store, including async issuer sources and deadline expiration behavior.
+// ---
+
 #include <windows.h>
 
 #include <wincrypt.h>

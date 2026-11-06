@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSSProfileFilterChromeOS implementation
+// summary: Implements filtering of NSS slots and certificates by ChromeOS user profile, allowing profile slots, the system slot, root certs, and read-only internal slots.
+// ---
+
 #include "net/cert/nss_profile_filter_chromeos.h"
 
 #include <memory>

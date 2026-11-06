@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlSearchParams implementation
+// summary: Parses URL query parameters into unescaped key-value pairs and provides sorting and deletion helpers supporting No-Vary-Search URL equivalence.
+// ---
+
 #include "net/base/url_search_params.h"
 
 #include <algorithm>

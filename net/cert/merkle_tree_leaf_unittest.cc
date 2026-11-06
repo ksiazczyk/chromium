@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merkle tree leaf unit tests
+// summary: Unit tests checking Merkle tree leaf creation and hashing for X.509 certificates and precertificates against known hashes.
+// ---
+
 #include "net/cert/merkle_tree_leaf.h"
 
 #include <algorithm>

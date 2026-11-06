@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android certificate verification header
+// summary: Declares CertVerifyProcAndroid, which performs certificate verification by calling the Android platform TrustManager.
+// ---
+
 #ifndef NET_CERT_CERT_VERIFY_PROC_ANDROID_H_
 #define NET_CERT_CERT_VERIFY_PROC_ANDROID_H_
 

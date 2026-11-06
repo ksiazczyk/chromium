@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Built-in certificate verification
+// summary: Implements CertVerifyProcBuiltin, performing path building and verification with BoringSSL, revocation checking, CT policy and Chrome Root Store support.
+// ---
+
 #include "net/cert/cert_verify_proc_builtin.h"
 
 #include <cstdint>

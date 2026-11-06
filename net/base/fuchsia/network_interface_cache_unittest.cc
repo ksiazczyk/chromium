@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkInterfaceCache unit tests
+// summary: Unit tests verifying add, change, and remove behavior of NetworkInterfaceCache, including change bits, online interface lists, and connection types.
+// ---
+
 #include "net/base/fuchsia/network_interface_cache.h"
 
 #include <fuchsia/net/interfaces/cpp/fidl.h>

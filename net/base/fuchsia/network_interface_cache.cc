@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkInterfaceCache implementation
+// summary: Implements the Fuchsia network interface cache, tracking added, changed, and removed interfaces and deriving connection type for the network change notifier.
+// ---
+
 #include "net/base/fuchsia/network_interface_cache.h"
 
 #include <fuchsia/net/interfaces/cpp/fidl.h>

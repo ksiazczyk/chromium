@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate verifier interface
+// summary: Declares the ClientCertVerifier interface for verifying a certificate in its role as a client certificate.
+// ---
+
 #ifndef NET_CERT_CLIENT_CERT_VERIFIER_H_
 #define NET_CERT_CLIENT_CERT_VERIFIER_H_
 

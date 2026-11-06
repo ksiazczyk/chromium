@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlUnescapeIterator unit tests
+// summary: Unit tests for UrlUnescapeIterator covering ASCII decoding, bad percent encoding, UTF-8 validation, replacement characters, and fuzz-based checks.
+// ---
+
 #include "net/base/url_unescape_iterator.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoNothingCTVerifier implementation
+// summary: Implements a CTVerifier whose Verify method clears the output list without validating any SCTs.
+// ---
+
 #include "net/cert/do_nothing_ct_verifier.h"
 
 #include <string_view>

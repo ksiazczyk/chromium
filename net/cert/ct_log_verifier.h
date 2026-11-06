@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTLogVerifier class header
+// summary: Declares CTLogVerifier, an immutable verifier of SCT and signed tree head signatures for a single Certificate Transparency log identified by its public key.
+// ---
+
 #ifndef NET_CERT_CT_LOG_VERIFIER_H_
 #define NET_CERT_CT_LOG_VERIFIER_H_
 

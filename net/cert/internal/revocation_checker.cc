@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate revocation checking implementation
+// summary: Checks certificate revocation status using stapled OCSP responses, OCSP URIs, and CRLs according to a revocation policy.
+// ---
+
 #include "net/cert/internal/revocation_checker.h"
 
 #include <optional>

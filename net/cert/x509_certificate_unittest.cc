@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X509Certificate unit tests
+// summary: Extensive unit tests for the X509Certificate class covering parsing, fingerprints, validity dates, subject and issuer fields, and chain handling with test certificates.
+// ---
+
 #include "net/cert/x509_certificate.h"
 
 #include <stdint.h>

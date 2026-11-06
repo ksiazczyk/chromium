@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate status flag definitions
+// summary: Defines the CertStatus bitmask type, expands the status flag list and declares the helper that maps status to network errors.
+// ---
+
 #ifndef NET_CERT_CERT_STATUS_FLAGS_H_
 #define NET_CERT_CERT_STATUS_FLAGS_H_
 

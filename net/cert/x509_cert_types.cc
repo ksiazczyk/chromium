@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X.509 certificate types implementation
+// summary: Implements CertPrincipal, which parses BER-encoded X.509 distinguished names into common name, locality, country, and organization attributes and provides a display name.
+// ---
+
 #include "net/cert/x509_cert_types.h"
 
 #include "third_party/boringssl/src/pki/input.h"

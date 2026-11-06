@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifyResult implementation
+// summary: Implements the CertVerifyResult class, including resetting fields and building NetLog parameters describing a verification result.
+// ---
+
 #include "net/cert/cert_verify_result.h"
 
 #include <tuple>

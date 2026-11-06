@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Winsock utility helpers
+// summary: Declares Winsock helpers including ResetEventIfSignaled, the Bluetooth address size constant, and templates for filling OVERLAPPED structures.
+// ---
+
 #ifndef NET_BASE_WINSOCK_UTIL_H_
 #define NET_BASE_WINSOCK_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle tree leaf construction and hashing
+// summary: Builds a Certificate Transparency Merkle tree leaf from a certificate and SCT and computes its SHA-256 leaf hash per RFC 6962.
+// ---
+
 #include "net/cert/merkle_tree_leaf.h"
 
 #include "crypto/sha2.h"

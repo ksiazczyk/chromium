@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifyProc interface
+// summary: Declares the CertVerifyProc base class with verification flags and shared implementation parameters for certificate path building and verification.
+// ---
+
 #ifndef NET_CERT_CERT_VERIFY_PROC_H_
 #define NET_CERT_CERT_VERIFY_PROC_H_
 

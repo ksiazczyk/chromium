@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for X.509 utility certificate creation and parsing
+// summary: Tests X.509 utility functions including self-signed and unusable certificate creation, name parsing, and certificate signing behavior.
+// ---
+
 #include "net/cert/x509_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate Transparency policy enforcer interface
+// summary: Defines the interface for checking certificate compliance with CT policies plus a default implementation.
+// ---
+
 #ifndef NET_CERT_CT_POLICY_ENFORCER_H_
 #define NET_CERT_CT_POLICY_ENFORCER_H_
 

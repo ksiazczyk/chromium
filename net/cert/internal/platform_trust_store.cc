@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform trust store implementation
+// summary: Implements the constructors, destructors, and assignment operators of the PlatformTrustStore CertWithTrust struct.
+// ---
+
 #include "net/cert/internal/platform_trust_store.h"
 
 namespace net {

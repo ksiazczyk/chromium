@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net Task Scheduler Interface
+// summary: Declares NetTaskScheduler, which manages network thread task scheduling, provides priority task runners and integrates with net task runner globals.
+// ---
+
 #ifndef NET_BASE_SCHEDULER_NET_TASK_SCHEDULER_H_
 #define NET_BASE_SCHEDULER_NET_TASK_SCHEDULER_H_
 

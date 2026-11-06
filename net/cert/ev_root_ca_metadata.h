@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EV root CA metadata class declaration
+// summary: Declares the EVRootCAMetadata singleton that maps root CA fingerprints to extended-validation policy OIDs for EV certificate checks.
+// ---
+
 #ifndef NET_CERT_EV_ROOT_CA_METADATA_H_
 #define NET_CERT_EV_ROOT_CA_METADATA_H_
 

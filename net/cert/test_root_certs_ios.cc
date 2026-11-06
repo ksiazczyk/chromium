@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS TestRootCerts implementation
+// summary: Adds and clears temporary trusted root certificates through the iOS Security framework and fixes up SecTrustRef for test verification.
+// ---
+
 #include "net/cert/test_root_certs.h"
 
 #include <Security/Security.h>

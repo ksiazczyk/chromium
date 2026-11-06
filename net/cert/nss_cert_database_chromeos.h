@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSSCertDatabaseChromeOS class header
+// summary: Declares a ChromeOS-specific NSS certificate database that filters listed certificates by user profile and supports a system TPM slot.
+// ---
+
 #ifndef NET_CERT_NSS_CERT_DATABASE_CHROMEOS_H_
 #define NET_CERT_NSS_CERT_DATABASE_CHROMEOS_H_
 

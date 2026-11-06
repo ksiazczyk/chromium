@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransportInfo implementation
+// summary: Implements TransportType string conversion plus TransportInfo construction, equality comparison and debug output.
+// ---
+
 #include "net/base/transport_info.h"
 
 #include <ostream>

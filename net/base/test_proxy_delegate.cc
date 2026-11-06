@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test proxy delegate implementation
+// summary: Implements a test ProxyDelegate that records proxy resolution callbacks and can fail or defer tunnel request and header events.
+// ---
+
 #include "net/base/test_proxy_delegate.h"
 
 #include <optional>

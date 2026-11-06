@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRL set parsing implementation
+// summary: Implements parsing of the CRLSet revocation format, including its length-prefixed JSON header, blocked SPKIs, and revoked serial lists.
+// ---
+
 #include "net/cert/crl_set.h"
 
 #include <algorithm>

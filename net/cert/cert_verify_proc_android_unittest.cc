@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android certificate verification tests
+// summary: Unit tests for CertVerifyProcAndroid covering AIA fetching behavior using mock certificate net fetchers and generated certificate chains.
+// ---
+
 #include "net/cert/cert_verify_proc_android.h"
 
 #include <memory>

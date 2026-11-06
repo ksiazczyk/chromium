@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for //net/base/task
+summary: Lists hayato@chromium.org as the code owner responsible for the //net/base/task directory.

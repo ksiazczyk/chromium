@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT auditing delegate interface
+// summary: Declares the SCTAuditingDelegate interface for controlling Signed Certificate Timestamp auditing, with a method to enqueue reports for validated chains.
+// ---
+
 #ifndef NET_CERT_SCT_AUDITING_DELEGATE_H_
 #define NET_CERT_SCT_AUDITING_DELEGATE_H_
 

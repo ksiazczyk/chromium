@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate Transparency serialization unit tests
+// summary: Unit tests verifying encoding and decoding of DigitallySigned values, signed entries, SCT signed data and related CT structures.
+// ---
+
 #include "net/cert/ct_serialization.h"
 
 #include <array>

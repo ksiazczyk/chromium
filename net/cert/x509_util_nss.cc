@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS certificate conversion and nickname helpers for X.509
+// summary: Implements NSS-specific helpers for creating CERTCertificate handles from DER data, computing fingerprints, and generating certificate nicknames in the NSS certificate database.
+// ---
+
 #include "net/cert/x509_util_nss.h"
 
 #include <cert.h>  // Must be included before certdb.h

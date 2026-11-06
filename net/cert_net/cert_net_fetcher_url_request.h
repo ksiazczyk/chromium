@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertNetFetcherURLRequest class declaration
+// summary: Declares CertNetFetcherURLRequest, a CertNetFetcher that issues fetches through a URLRequestContext with a blocking interface used from a caller thread.
+// ---
+
 #ifndef NET_CERT_NET_CERT_NET_FETCHER_URL_REQUEST_H_
 #define NET_CERT_NET_CERT_NET_FETCHER_URL_REQUEST_H_
 

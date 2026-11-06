@@ -1,0 +1,4 @@
+# Docerion header of http_response_headers_util.mm.
+type: source
+title: Implementation of HTTP response headers utilities for Apple platforms
+summary: Implements conversion of NSHTTPURLResponse header fields into net::HttpResponseHeaders, repairing latin1 mis-decoded header values.

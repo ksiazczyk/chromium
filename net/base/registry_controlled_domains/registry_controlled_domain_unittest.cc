@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Registry-controlled domain service unit tests
+// summary: Unit tests verifying domain and registry extraction, same-domain checks, and canonicalization using six embedded test suffix datasets.
+// ---
+
 #include "net/base/registry_controlled_domains/registry_controlled_domain.h"
 
 #include <cstdint>

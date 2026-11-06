@@ -5,6 +5,12 @@
 // Winsock initialization must happen before any Winsock calls are made.  The
 // EnsureWinsockInit method will make sure that WSAStartup has been called.
 
+// ---docerion
+// type: source
+// title: Winsock initialization header
+// summary: Declares EnsureWinsockInit, which guarantees that WSAStartup has been called before Winsock APIs are used.
+// ---
+
 #ifndef NET_BASE_WINSOCK_INIT_H_
 #define NET_BASE_WINSOCK_INIT_H_
 

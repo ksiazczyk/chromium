@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlSearchParams class declaration
+// summary: Declares the net::UrlSearchParams class that parses, sorts, and filters percent-encoded URL query parameters while owning decoded key-value pairs.
+// ---
+
 #ifndef NET_BASE_URL_SEARCH_PARAMS_H_
 #define NET_BASE_URL_SEARCH_PARAMS_H_
 

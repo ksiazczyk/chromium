@@ -1,0 +1,4 @@
+# Docerion header of cert_verify_proc_blocklist.inc.
+type: source
+title: CertVerifyProc SPKI blocklist include
+summary: Lists SHA-256 hashes of blocked subject public key information for misissued certificates, included by the certificate verification code.

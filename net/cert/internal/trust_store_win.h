@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustStoreWin header for Windows certificate trust store
+// summary: Declares TrustStoreWin, a bssl::TrustStore implementation that uses Windows certificate stores to find user-added trust anchors for path building while ignoring Windows builtin anchors.
+// ---
+
 #ifndef NET_CERT_INTERNAL_TRUST_STORE_WIN_H_
 #define NET_CERT_INTERNAL_TRUST_STORE_WIN_H_
 

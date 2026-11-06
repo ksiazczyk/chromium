@@ -1,3 +1,9 @@
+---
+type: readme
+title: Net Module
+summary: Explains that the directory isolates code depending on embedded application resources so lightweight consumers can exclude it, and that its contents should stay minimal.
+---
+
 # Net Module
 
 This directory contains `NetModule` and functionality that depends on embedding

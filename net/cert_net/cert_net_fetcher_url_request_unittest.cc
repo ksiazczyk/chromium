@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertNetFetcherURLRequest unit tests
+// summary: Unit tests for CertNetFetcherURLRequest verifying fetch success, failures and timeouts using an embedded test server and mock network components.
+// ---
+
 #include "net/cert_net/cert_net_fetcher_url_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRLSet class header for certificate revocation checks
+// summary: Declares the CRLSet class, which lists revoked certificate serial numbers per issuer SPKI hash and supports SPKI, serial, and subject revocation checks.
+// ---
+
 #ifndef NET_CERT_CRL_SET_H_
 #define NET_CERT_CRL_SET_H_
 

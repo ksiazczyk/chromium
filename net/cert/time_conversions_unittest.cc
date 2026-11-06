@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time conversions unit tests
+// summary: Tests encoding and decoding between base::Time and DER GeneralizedTime, including out-of-range and pre-epoch edge cases.
+// ---
+
 #include "net/cert/time_conversions.h"
 
 #include "base/time/time.h"

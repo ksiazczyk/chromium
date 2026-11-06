@@ -56,6 +56,12 @@
 //   * Signals completion of requests through RequestCore's WaitableEvent.
 //   * Attaches requests to Jobs for the purpose of de-duplication
 
+// ---docerion
+// type: source
+// title: CertNetFetcherURLRequest implementation
+// summary: Implements CertNetFetcher on URLRequest, providing blocking fetches for OCSP, CRL and AIA responses with deduplication, timeouts and response size limits.
+// ---
+
 #include "net/cert_net/cert_net_fetcher_url_request.h"
 
 #include <algorithm>

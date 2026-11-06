@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS certificate conversion helpers for X.509
+// summary: Declares NSS-specific helpers for converting between X509Certificate objects and NSS CERTCertificate handles and lists, plus identity comparison and DER access utilities.
+// ---
+
 #ifndef NET_CERT_X509_UTIL_NSS_H_
 #define NET_CERT_X509_UTIL_NSS_H_
 

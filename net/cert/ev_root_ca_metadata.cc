@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EV root CA metadata
+// summary: Implements a singleton mapping EV root CA fingerprints to policy OIDs, with stubs for platforms that do not use Chromium EV metadata.
+// ---
+
 #include "net/cert/ev_root_ca_metadata.h"
 
 #include <string_view>

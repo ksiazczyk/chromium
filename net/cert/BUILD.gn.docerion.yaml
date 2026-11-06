@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Root store protobuf build targets
+summary: GN build file defining full and lite protobuf library targets for the Chrome root store proto sources.

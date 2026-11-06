@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadElementReader interface
+// summary: Declares the interface for reading individual upload data elements, with init, content length, remaining bytes, and read operations.
+// ---
+
 #ifndef NET_BASE_UPLOAD_ELEMENT_READER_H_
 #define NET_BASE_UPLOAD_ELEMENT_READER_H_
 

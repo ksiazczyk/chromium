@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetModule resource provider implementation
+// summary: Implements NetModule by storing the resource provider callback and returning embedded resources through it, or null when no provider is set.
+// ---
+
 #include "net/base/module/net_module.h"
 
 #include "base/memory/ref_counted_memory.h"

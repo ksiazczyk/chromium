@@ -1,0 +1,4 @@
+# Docerion header of effective_tld_names_unittest6.gperf.
+type: test
+title: Test suffix rules for joined suffixes
+summary: Small gperf-style rule set with joined suffix cases used to build a test graph for the registry-controlled domain unit tests.

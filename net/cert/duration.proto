@@ -6,6 +6,12 @@
 // directly imported because it is not in the `protobuf_lite` source.
 // This message needs to be wire compatible with it.
 
+// ---docerion
+// type: source
+// title: Duration protobuf message for the Chrome root store
+// summary: Defines a Duration message wire-compatible with the standard protobuf duration for the chrome_root_store package, which cannot import the original.
+// ---
+
 syntax = "proto3";
 
 package chrome_root_store;

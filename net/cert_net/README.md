@@ -1,3 +1,9 @@
+---
+type: readme
+title: cert_net directory overview
+summary: Explains that cert_net holds certificate functionality that needs network loading (OCSP, CRL, AIA) built on URLRequest, keeping such dependencies out of net/cert.
+---
+
 `cert_net/` contains certificate functionality that depends on network loading
 (OCSP, CRL, AIA fetching).
 

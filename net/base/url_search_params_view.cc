@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlSearchParamsView implementation
+// summary: Implements UrlSearchParamsView, which parses and normalizes URL query parameters without copying values, including minimal escaping for serialization.
+// ---
+
 #include "net/base/url_search_params_view.h"
 
 #include <algorithm>

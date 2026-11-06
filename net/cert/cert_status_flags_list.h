@@ -13,6 +13,12 @@
 // Defines the values using a macro CERT_STATUS_FLAG,
 // so it can be expanded differently in some places
 
+// ---docerion
+// type: source
+// title: CertStatus flag value list
+// summary: Macro list of certificate status flag values, expanded via CERT_STATUS_FLAG to define error and non-error status bits.
+// ---
+
 // The possible status bits for CertStatus.
 // Bits 0 to 15 are for errors.
 CERT_STATUS_FLAG(COMMON_NAME_INVALID, 1 << 0)

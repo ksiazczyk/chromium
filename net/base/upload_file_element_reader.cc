@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadFileElementReader implementation
+// summary: Implements reading upload data from files, handling open, seek, file info, and asynchronous read operations with a state machine.
+// ---
+
 #include "net/base/upload_file_element_reader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence manager configurator header
+// summary: Declares helpers to configure a thread's sequence manager options for the net task scheduler and to check whether that configuration has been applied.
+// ---
+
 #ifndef NET_BASE_SCHEDULER_SEQUENCE_MANAGER_CONFIGURATOR_H_
 #define NET_BASE_SCHEDULER_SEQUENCE_MANAGER_CONFIGURATOR_H_
 

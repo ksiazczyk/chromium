@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System trust store implementation
+// summary: Implements SystemTrustStore, composing platform-specific trust stores and the Chrome Root Store, including a ChromeOS PEM file store for test roots.
+// ---
+
 #include "net/cert/internal/system_trust_store.h"
 
 #include <memory>

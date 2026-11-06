@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CT log response parsing
+// summary: Unit tests verifying parsing of valid, malformed, and edge-case CT log JSON signed tree heads, including missing fields and unusual timestamps.
+// ---
+
 #include "net/cert/ct_log_response_parser.h"
 
 #include <array>

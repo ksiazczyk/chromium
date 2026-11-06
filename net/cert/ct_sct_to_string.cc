@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT attribute to-string helpers
+// summary: Converts SCT hash and signature algorithms, origins, and verification statuses to textual representations.
+// ---
+
 #include "net/cert/ct_sct_to_string.h"
 
 #include "base/logging.h"

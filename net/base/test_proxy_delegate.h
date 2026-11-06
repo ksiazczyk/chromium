@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test proxy delegate declaration
+// summary: Declares TestProxyDelegate, a configurable ProxyDelegate test double for exercising proxy resolution and tunnel behavior in net tests.
+// ---
+
 #ifndef NET_BASE_TEST_PROXY_DELEGATE_H_
 #define NET_BASE_TEST_PROXY_DELEGATE_H_
 

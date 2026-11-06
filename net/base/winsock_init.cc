@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Winsock initialization implementation
+// summary: Initializes Windows Winsock via WSAStartup through a deliberately leaked singleton so Winsock is ready before any Winsock calls.
+// ---
+
 #include "net/base/winsock_init.h"
 
 #include <winsock2.h>

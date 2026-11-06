@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compiled Chrome Root Store data accessors
+// summary: Exposes the compiled-in Chrome Root Store certificate list, EUTL roots, store version, and signer set data through accessor functions.
+// ---
+
 #include "base/containers/fixed_flat_map.h"  // Used by signer-set-inc.cc.
 #include "net/cert/internal/chrome_root_store_data.h"
 

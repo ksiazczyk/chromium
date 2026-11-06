@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple SecCertificate conversion helpers for X.509 certificates
+// summary: Declares Apple-specific helpers for converting between X509Certificate objects and SecCertificate handles, building certificate arrays, and computing SHA-256 fingerprints.
+// ---
+
 #ifndef NET_CERT_X509_UTIL_APPLE_H_
 #define NET_CERT_X509_UTIL_APPLE_H_
 

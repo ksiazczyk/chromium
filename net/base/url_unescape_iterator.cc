@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlUnescapeIterator implementation
+// summary: Implements UrlUnescapeIterator, which lazily decodes percent-encoded and plus-encoded URL characters and validates UTF-8 sequences with replacement characters.
+// ---
+
 #include "net/base/url_unescape_iterator.h"
 
 #include <algorithm>

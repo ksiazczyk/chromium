@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for GetDomainAndRegistry
+// summary: LibFuzzer entry point that calls GetDomainAndRegistry with both private-registry filter options to fuzz the public suffix lookup.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

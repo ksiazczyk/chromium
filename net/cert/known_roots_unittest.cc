@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known roots unit tests
+// summary: Verifies the root cert list is sorted and that SPKI hash lookups return correct histogram IDs.
+// ---
+
 #include "net/cert/known_roots.h"
 
 #include <algorithm>
