@@ -1,0 +1,4 @@
+# Docerion header of permission_prompt_ios_unittest.mm.
+type: test
+title: iOS permission prompt unit tests
+summary: Unit tests covering PermissionPromptIOS construction checks, permission counts, content setting types, requesting origin, and grouped media request message text.

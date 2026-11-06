@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI permission context implementation
+// summary: Implements the MIDI permission context, falling back to the MIDI_SYSEX content setting when the block-MIDI-by-default feature is enabled.
+// ---
+
 #include "components/permissions/contexts/midi_permission_context.h"
 
 #include "components/content_settings/core/browser/host_content_settings_map.h"

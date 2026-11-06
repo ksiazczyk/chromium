@@ -1,0 +1,4 @@
+# Docerion header of permission_dialog.mm.
+type: source
+title: Permission dialog implementation
+summary: Implements PermissionDialog, returning a modal dialog disposition and localized Allow, Block, and Allow this time button strings for iOS permission prompts.

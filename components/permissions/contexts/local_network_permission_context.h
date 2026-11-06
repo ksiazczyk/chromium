@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalNetworkPermissionContext class header
+// summary: Declares the LocalNetworkPermissionContext class for managing local network access permissions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_LOCAL_NETWORK_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_LOCAL_NETWORK_PERMISSION_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionResolver base implementation
+// summary: Implements the base PermissionResolver constructors that map between content settings types and request types.
+// ---
+
 #include "components/permissions/resolvers/permission_resolver.h"
 
 #include "components/permissions/permission_util.h"

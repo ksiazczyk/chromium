@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Permissions vector icons GN build target
+summary: Defines the GN source_set that compiles the generated permissions vector icon sources together with base, skia and ui/gfx dependencies.

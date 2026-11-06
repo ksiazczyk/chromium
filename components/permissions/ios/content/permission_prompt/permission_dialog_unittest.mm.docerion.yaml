@@ -1,0 +1,4 @@
+# Docerion header of permission_dialog_unittest.mm.
+type: test
+title: Permission dialog unit tests
+summary: Unit tests checking PermissionDialog creation, delegate wiring, and localized button text for regular, one-time, and ephemeral permission grants.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation permission context unit tests
+// summary: Unit tests covering geolocation permission decisions, prompts, content settings, and platform-specific behavior of the geolocation permission context.
+// ---
+
 #include "components/permissions/contexts/geolocation_permission_context.h"
 
 #include <stddef.h>

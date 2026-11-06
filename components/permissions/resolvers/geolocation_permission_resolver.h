@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationPermissionResolver class declaration
+// summary: Declares the PermissionResolver for geolocation that supports approximate and precise location requests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_RESOLVERS_GEOLOCATION_PERMISSION_RESOLVER_H_
 #define COMPONENTS_PERMISSIONS_RESOLVERS_GEOLOCATION_PERMISSION_RESOLVER_H_
 

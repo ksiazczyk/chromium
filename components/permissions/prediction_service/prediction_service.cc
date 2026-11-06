@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction service implementation
+// summary: Implements the client that sends permission prediction requests to the Web Permission Predictions Service and handles network responses.
+// ---
+
 #include "components/permissions/prediction_service/prediction_service.h"
 
 #include <cmath>

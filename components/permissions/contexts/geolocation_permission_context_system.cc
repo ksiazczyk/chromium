@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System geolocation permission context implementation
+// summary: Implements a geolocation permission context that combines the site permission with the OS system location permission and notifies observers on changes.
+// ---
+
 #include "components/permissions/contexts/geolocation_permission_context_system.h"
 
 #include "components/content_settings/core/browser/content_settings_observer.h"

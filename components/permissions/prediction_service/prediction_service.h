@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction service class
+// summary: Declares the PredictionService keyed service that obtains permission prompt recommendations from the remote predictions service.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_SERVICE_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PREDICTION_SERVICE_H_
 

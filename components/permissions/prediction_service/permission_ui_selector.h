@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUiSelector interface
+// summary: Defines the interface for deciding which UI to use for permission requests, including the Decision, QuietUiReason, and WarningReason types.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSION_UI_SELECTOR_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSION_UI_SELECTOR_H_
 

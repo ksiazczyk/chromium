@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor permission context header
+// summary: Declares the sensor permission context for the SENSORS content setting type.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_SENSOR_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_SENSOR_PERMISSION_CONTEXT_H_
 

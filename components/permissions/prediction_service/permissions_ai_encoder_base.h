@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AI encoder base header
+// summary: Declares the PermissionsAiEncoderBase template that maps model inputs into TFLite tensors and converts outputs into relevance values.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSIONS_AI_ENCODER_BASE_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSIONS_AI_ENCODER_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionPromptFactory implementation
+// summary: Implements a factory that creates mock permission prompts and records shown request types and origins for testing the permission request manager.
+// ---
+
 #include "components/permissions/test/mock_permission_prompt_factory.h"
 
 #include <algorithm>

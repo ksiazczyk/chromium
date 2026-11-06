@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS permission prompt base class header
+// summary: Declares PermissionPromptIOS, the base iOS permission prompt implementing PermissionPrompt with accept, deny, button text, and request accessors.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_IOS_CONTENT_PERMISSION_PROMPT_PERMISSION_PROMPT_IOS_H_
 #define COMPONENTS_PERMISSIONS_IOS_CONTENT_PERMISSION_PROMPT_PERMISSION_PROMPT_IOS_H_
 

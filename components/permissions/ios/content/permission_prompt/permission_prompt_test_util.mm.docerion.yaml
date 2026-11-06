@@ -1,0 +1,4 @@
+# Docerion header of permission_prompt_test_util.mm.
+type: test
+title: Permission prompt test utilities implementation
+summary: Implements the stub permission prompt delegate and mock iOS prompt, recording accept, accept-this-time, and deny calls for unit tests.

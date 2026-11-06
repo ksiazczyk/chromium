@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission prompt test utilities
+// summary: Declares a stub permission prompt delegate and a mock iOS permission prompt that unit tests use to simulate and inspect prompt decisions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_IOS_CONTENT_PERMISSION_PROMPT_PERMISSION_PROMPT_TEST_UTIL_H_
 #define COMPONENTS_PERMISSIONS_IOS_CONTENT_PERMISSION_PROMPT_PERMISSION_PROMPT_TEST_UTIL_H_
 

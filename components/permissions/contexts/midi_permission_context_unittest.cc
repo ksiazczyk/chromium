@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIDI permission context unit tests
+// summary: Unit tests checking that Web MIDI permission is denied for insecure origins and asks on secure origins.
+// ---
+
 #include "components/permissions/contexts/midi_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings.h"

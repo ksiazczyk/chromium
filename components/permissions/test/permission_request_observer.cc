@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionRequestObserver implementation
+// summary: Implements a test observer that detects shown permission prompts and can block until a request appears or prompt creation fails.
+// ---
+
 #include "components/permissions/test/permission_request_observer.h"
 
 namespace permissions {

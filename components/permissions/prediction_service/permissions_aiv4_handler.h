@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AIv4 handler class declaration
+// summary: Declares the AIv4 permissions model handler wrapping the Optimization Guide model handler for permission request relevance predictions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSIONS_AIV4_HANDLER_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSIONS_AIV4_HANDLER_H_
 

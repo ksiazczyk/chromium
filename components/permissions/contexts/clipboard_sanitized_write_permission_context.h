@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardSanitizedWritePermissionContext header
+// summary: Declares the permission context that manages Clipboard API user permissions for sanitized write only, with a delegate for embedders.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_CLIPBOARD_SANITIZED_WRITE_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_CLIPBOARD_SANITIZED_WRITE_PERMISSION_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AIvX model handler test utilities header
+// summary: Declares test helpers for AIvX model handler tests, including model file path lookup and bitmap construction with given dimensions and color.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_AIVX_MODELHANDLER_UTILS_H_
 #define COMPONENTS_PERMISSIONS_TEST_AIVX_MODELHANDLER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera pan tilt zoom permission context implementation
+// summary: Implements permission handling for camera pan, tilt and zoom, falling back to a regular camera permission request when no PTZ-capable device exists.
+// ---
+
 #include "components/permissions/contexts/camera_pan_tilt_zoom_permission_context.h"
 
 #include <memory>

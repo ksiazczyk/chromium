@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction signature model executor implementation
+// summary: Implements preprocessing that populates TFLite input tensors with permission action rates for on-device prediction models.
+// ---
+
 #include "components/permissions/prediction_service/prediction_signature_model_executor.h"
 
 #include "components/permissions/prediction_service/prediction_common.h"

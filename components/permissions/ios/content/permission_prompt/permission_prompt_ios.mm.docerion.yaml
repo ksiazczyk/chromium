@@ -1,0 +1,4 @@
+# Docerion header of permission_prompt_ios.mm.
+type: source
+title: iOS permission prompt implementation
+summary: Implements PermissionPromptIOS behavior including tab switching, mic and camera request grouping, annotated message text, and delegate callbacks.

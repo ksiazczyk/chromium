@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model handler implementation
+// summary: Implements the prediction model handler that loads the web permission predictions model and executes it with metadata, choosing the executor via feature flag.
+// ---
+
 #include "components/permissions/prediction_service/prediction_model_handler.h"
 
 #include <memory>

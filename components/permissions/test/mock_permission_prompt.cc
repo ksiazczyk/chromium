@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock permission prompt implementation
+// summary: Implements a mock permission prompt that validates request message text and icons and simulates prompt behavior for permission request manager tests.
+// ---
+
 #include "components/permissions/test/mock_permission_prompt.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC permission context implementation
+// summary: Implements the NFC permission context, blocking non-Android or non-primary-frame access and requiring a user gesture.
+// ---
+
 #include "components/permissions/contexts/nfc_permission_context.h"
 
 #include "build/build_config.h"

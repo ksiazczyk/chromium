@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission test utility header
+// summary: Declares GetPermissionControllerDelegate, which returns a permission controller delegate for use in browser tests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_PERMISSION_TEST_UTIL_H_
 #define COMPONENTS_PERMISSIONS_TEST_PERMISSION_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of permission_dialog_delegate.mm.
+type: source
+title: Permission dialog delegate implementation
+summary: Builds a UIAlertController with Allow, Allow this time, and Block actions, forwards user choices to the prompt, and cleans up after dismissal.

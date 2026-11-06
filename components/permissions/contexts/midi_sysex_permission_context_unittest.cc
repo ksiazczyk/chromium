@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIDI SysEx permission context unit tests
+// summary: Unit tests for MIDI SysEx permission decisions, including denial of requests from insecure origins.
+// ---
+
 #include "components/permissions/contexts/midi_sysex_permission_context.h"
 
 #include <string>

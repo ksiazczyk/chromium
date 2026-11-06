@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AIv4 model executor header
+// summary: Declares the PermissionsAiv4Executor input struct and the executor class that feeds snapshot and embedding inputs to the AIv4 model.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSIONS_AIV4_EXECUTOR_H_
 #define COMPONENTS_PERMISSIONS_PREDICTION_SERVICE_PERMISSIONS_AIV4_EXECUTOR_H_
 

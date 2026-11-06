@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI SysEx permission context implementation
+// summary: Implements the MIDI SysEx permission context, updating page content settings and granting child process SysEx access when allowed.
+// ---
+
 #include "components/permissions/contexts/midi_sysex_permission_context.h"
 
 #include "components/content_settings/browser/page_specific_content_settings.h"

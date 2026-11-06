@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI permission context class declaration
+// summary: Declares MidiPermissionContext, which manages Web MIDI permission status on top of the content setting permission context base.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_MIDI_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_MIDI_PERMISSION_CONTEXT_H_
 

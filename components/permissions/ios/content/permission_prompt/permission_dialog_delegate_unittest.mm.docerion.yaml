@@ -1,0 +1,4 @@
+# Docerion header of permission_dialog_delegate_unittest.mm.
+type: test
+title: Permission dialog delegate unit tests
+summary: Unit tests verifying PermissionDialogDelegate initialization, allow, allow-this-time, block handling, and cleanup behavior using mock prompts and delegates.

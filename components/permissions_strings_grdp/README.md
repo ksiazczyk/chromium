@@ -1,3 +1,9 @@
+---
+type: readme
+title: Permissions strings GRDP README
+summary: Explains that the directory holds image SHA-1 hashes used as context screenshots to improve UI string translations.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

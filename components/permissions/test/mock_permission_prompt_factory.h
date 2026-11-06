@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionPromptFactory header
+// summary: Declares a skeleton prompt factory for unit and browser tests of the permission bubble manager logic, without requiring actual UI.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_PROMPT_FACTORY_H_
 #define COMPONENTS_PERMISSIONS_TEST_MOCK_PERMISSION_PROMPT_FACTORY_H_
 

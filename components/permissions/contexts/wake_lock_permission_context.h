@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wake lock permission context header
+// summary: Declares the WakeLockPermissionContext class that resolves content settings for screen and system wake lock permissions.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_WAKE_LOCK_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_WAKE_LOCK_PERMISSION_CONTEXT_H_
 

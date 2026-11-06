@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSettingPermissionResolver unit tests
+// summary: Parameterized unit tests verifying permission status determination and prompt decision results for cookies, screen capture and notifications settings.
+// ---
+
 #include "components/permissions/resolvers/content_setting_permission_resolver.h"
 
 #include <optional>

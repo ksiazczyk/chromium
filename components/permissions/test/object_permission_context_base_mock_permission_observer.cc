@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPermissionObserver implementation
+// summary: Implements the mock permission observer used with ObjectPermissionContextBase in tests.
+// ---
+
 #include "components/permissions/test/object_permission_context_base_mock_permission_observer.h"
 
 #include "url/origin.h"

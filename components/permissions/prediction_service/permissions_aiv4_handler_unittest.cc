@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions AIv4 handler unit tests
+// summary: Unit tests for the AIv4 handler covering model execution, timeouts, relevance thresholds and metadata using fake executors and test TFLite models.
+// ---
+
 #include "components/permissions/prediction_service/permissions_aiv4_handler.h"
 
 #include "base/path_service.h"

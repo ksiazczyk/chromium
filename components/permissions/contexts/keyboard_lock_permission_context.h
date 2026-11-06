@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLockPermissionContext class header
+// summary: Declares the KeyboardLockPermissionContext class that manages the keyboard lock content setting on top of the base permission context.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_KEYBOARD_LOCK_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_KEYBOARD_LOCK_PERMISSION_CONTEXT_H_
 

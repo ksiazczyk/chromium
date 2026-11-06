@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app installation permission context implementation
+// summary: Implements the permission context for the web app installation content setting tied to the web app installation permissions policy feature.
+// ---
+
 #include "components/permissions/contexts/web_app_installation_permission_context.h"
 
 #include "components/content_settings/core/common/content_settings_types.h"

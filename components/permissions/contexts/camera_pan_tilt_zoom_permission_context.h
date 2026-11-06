@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera pan tilt zoom permission context class declaration
+// summary: Declares the permission context controlling camera movement permissions, with an embedder delegate and content settings observer behavior.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_CAMERA_PAN_TILT_ZOOM_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_CAMERA_PAN_TILT_ZOOM_PERMISSION_CONTEXT_H_
 

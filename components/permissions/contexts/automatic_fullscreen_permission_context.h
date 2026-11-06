@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic fullscreen permission context class declaration
+// summary: Declares the permission context class that manages automatic fullscreen permissions on top of the content setting permission context base.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTEXTS_AUTOMATIC_FULLSCREEN_PERMISSION_CONTEXT_H_
 #define COMPONENTS_PERMISSIONS_CONTEXTS_AUTOMATIC_FULLSCREEN_PERMISSION_CONTEXT_H_
 

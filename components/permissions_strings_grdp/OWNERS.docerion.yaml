@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Permissions strings OWNERS file
+summary: Delegates ownership of this directory to the OWNERS file of components/permissions.

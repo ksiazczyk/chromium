@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission prompt options definitions
+// summary: Defines prompt option types for permission prompts, including geolocation accuracy selection, which are consumed by permission resolvers.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_RESOLVERS_PERMISSION_PROMPT_OPTIONS_H_
 #define COMPONENTS_PERMISSIONS_RESOLVERS_PERMISSION_PROMPT_OPTIONS_H_
 

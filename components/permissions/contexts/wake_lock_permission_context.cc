@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wake lock permission context implementation
+// summary: Implements the permission context for screen and system wake lock, allowing screen wake lock and blocking system wake lock via content settings.
+// ---
+
 #include "components/permissions/contexts/wake_lock_permission_context.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation permission resolver implementation
+// summary: Implements the geolocation permission resolver, handling approximate and precise location requests and computing settings from prompt decisions.
+// ---
+
 #include "components/permissions/resolvers/geolocation_permission_resolver.h"
 
 #include <optional>

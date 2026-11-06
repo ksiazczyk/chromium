@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions AIv4 handler implementation
+// summary: Implements the AIv4 permissions model handler that executes the on-device model with a timeout, guards concurrent executions and tracks model metadata.
+// ---
+
 #include "components/permissions/prediction_service/permissions_aiv4_handler.h"
 
 #include <memory>

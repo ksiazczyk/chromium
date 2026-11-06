@@ -1,3 +1,9 @@
+---
+type: readme
+title: Permissions Prediction Service
+summary: Documents the overview, usage flow, architecture, on-device models, and testing of the engine that predicts user actions on permission prompts.
+---
+
 # Permissions Prediction Service
 
 ## Overview

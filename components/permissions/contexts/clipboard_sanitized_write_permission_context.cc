@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardSanitizedWritePermissionContext implementation
+// summary: Implements the sanitized clipboard write permission context, delegating decisions for extensions and allowing sanitized writes by default otherwise.
+// ---
+
 #include "components/permissions/contexts/clipboard_sanitized_write_permission_context.h"
 
 #include <optional>

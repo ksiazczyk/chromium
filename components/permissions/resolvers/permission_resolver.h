@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionResolver interface declaration
+// summary: Declares the PermissionResolver interface that subclasses implement to mediate between stored permission state and permission requests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_RESOLVERS_PERMISSION_RESOLVER_H_
 #define COMPONENTS_PERMISSIONS_RESOLVERS_PERMISSION_RESOLVER_H_
 
