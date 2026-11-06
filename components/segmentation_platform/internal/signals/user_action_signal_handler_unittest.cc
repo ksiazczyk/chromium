@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User action signal handler unit tests
+// summary: Unit tests for UserActionSignalHandler verifying that relevant user actions are recorded and unrelated or disabled metrics are ignored.
+// ---
+
 #include "components/segmentation_platform/internal/signals/user_action_signal_handler.h"
 
 #include "base/metrics/metrics_hashes.h"

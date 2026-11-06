@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary classifier migration header
+// summary: Declares CreateClientResultForBinaryClassifier for converting old binary classifier segment results into ClientResult objects.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_BINARY_CLASSIFIER_MIGRATION_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_BINARY_CLASSIFIER_MIGRATION_H_
 

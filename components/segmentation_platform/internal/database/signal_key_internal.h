@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal key internal struct declaration
+// summary: Declares the SignalKeyInternal struct with a fixed memory layout for stable persisted binary keys, plus conversion and debug string functions.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SIGNAL_KEY_INTERNAL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SIGNAL_KEY_INTERNAL_H_
 

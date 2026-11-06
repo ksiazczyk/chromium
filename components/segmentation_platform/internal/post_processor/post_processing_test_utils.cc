@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-processing test utilities implementation
+// summary: Implements shared test helpers that build configs, classifier output configurations and client results for binary, binned, multi-class and generic predictors in segmentation platform tests.
+// ---
+
 #include "components/segmentation_platform/internal/post_processor/post_processing_test_utils.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_writer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock model provider declarations
+// summary: Declares MockModelProvider, MockDefaultModelProvider and TestModelProviderFactory used to fake model providers in tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_MOCK_MODEL_PROVIDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_MOCK_MODEL_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedResultProvider class header
+// summary: Declares CachedResultProvider, which reads client results from prefs on startup and caches them for the session.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_CACHED_RESULT_PROVIDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_CACHED_RESULT_PROVIDER_H_
 

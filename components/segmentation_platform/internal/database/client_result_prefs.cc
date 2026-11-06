@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientResultPrefs implementation
+// summary: Implements pref-backed storage that saves and reads client results as a base64-encoded proto map for fast lookup.
+// ---
+
 #include "components/segmentation_platform/internal/database/client_result_prefs.h"
 
 #include "components/prefs/pref_service.h"

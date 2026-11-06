@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalStorageConfig unit tests
+// summary: Unit tests for SignalStorageConfig covering signal collection requirements across models and cleanup behavior using a fake database and test clock.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_storage_config.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureProcessorState implementation
+// summary: Implements the state holder that tracks queued processors, input and output tensors and errors while a segmentation model's features are processed, and reports results via callback.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/feature_processor_state.h"
 
 #include "base/logging.h"

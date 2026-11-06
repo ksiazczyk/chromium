@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution service implementation
+// summary: Implements the ExecutionService that wires feature processing, training data collection and model execution scheduling for the segmentation platform.
+// ---
+
 #include "components/segmentation_platform/internal/scheduler/execution_service.h"
 
 #include "base/memory/raw_ptr.h"

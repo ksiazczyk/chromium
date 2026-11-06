@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefs migrator unit tests
+// summary: Unit tests verifying migration of binary classifier and adaptive toolbar results from old prefs to new ClientResult prefs.
+// ---
+
 #include "components/segmentation_platform/internal/migration/prefs_migrator.h"
 
 #include "components/prefs/pref_registry_simple.h"

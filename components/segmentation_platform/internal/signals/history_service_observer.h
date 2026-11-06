@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History service observer class declaration
+// summary: Declares HistoryServiceObserver, which watches for URL visits and history deletions and manages segment results that depend on history data.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_HISTORY_SERVICE_OBSERVER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_HISTORY_SERVICE_OBSERVER_H_
 

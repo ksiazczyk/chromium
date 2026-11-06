@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmDatabaseBackend implementation
+// summary: Implements the SQL backend for the UKM database, handling URL validation, metric storage, transaction batching, and query execution.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_database_backend.h"
 
 #include <vector>

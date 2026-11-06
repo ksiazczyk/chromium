@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide segmentation model handler implementation
+// summary: Implements the segmentation model handler that wraps the optimization guide ModelHandler, handles model updates and metadata parsing, and records model availability stats.
+// ---
+
 #include "components/segmentation_platform/internal/execution/optimization_guide/optimization_guide_segmentation_model_handler.h"
 
 #include <memory>

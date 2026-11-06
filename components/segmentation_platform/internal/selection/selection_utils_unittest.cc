@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection utilities unit tests
+// summary: Unit tests verifying that result states map to the expected prediction statuses for success, not ready and failed cases.
+// ---
+
 #include "components/segmentation_platform/internal/selection/selection_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

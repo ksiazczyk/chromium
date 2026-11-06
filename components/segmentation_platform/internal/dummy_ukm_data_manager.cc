@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy UKM data manager implementation
+// summary: Implements a no-op UkmDataManager whose methods do nothing and report the UKM engine as disabled.
+// ---
+
 #include "components/segmentation_platform/internal/dummy_ukm_data_manager.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal database implementation unit tests
+// summary: Unit tests for the signal database implementation, exercising sample storage and retrieval with a fake LevelDB database and a test clock.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_database_impl.h"
 
 #include "base/functional/callback_helpers.h"

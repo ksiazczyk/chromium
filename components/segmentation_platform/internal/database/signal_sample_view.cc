@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal sample view implementation
+// summary: Implements SignalSampleView, a filtered iterator view over signal database samples matching type, metric hash, time range and enum values.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_sample_view.h"
 
 #include <algorithm>

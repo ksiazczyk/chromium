@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client result proto definitions
+// summary: Defines ClientResult and ClientResults protobuf messages used to store per-client model prediction results and their timestamps in preferences.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

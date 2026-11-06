@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock UKM database for tests
+// summary: Gmock implementation of UkmDatabase that fakes UKM database operations such as storing entries, updating URLs, and cleanup for use in tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_MOCK_UKM_DATABASE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_MOCK_UKM_DATABASE_H_
 

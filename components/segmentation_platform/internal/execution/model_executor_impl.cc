@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model executor implementation
+// summary: Implements ModelExecutorImpl, which builds input tensors from processed features, runs the model provider and reports results and metrics.
+// ---
+
 #include "components/segmentation_platform/internal/execution/model_executor_impl.h"
 
 #include <memory>

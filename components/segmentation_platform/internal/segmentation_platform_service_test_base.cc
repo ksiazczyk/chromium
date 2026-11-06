@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base for segmentation platform service tests
+// summary: Provides shared initialization and sample segmentation configs used by segmentation platform service tests.
+// ---
+
 #include "components/segmentation_platform/internal/segmentation_platform_service_test_base.h"
 
 #include <string_view>

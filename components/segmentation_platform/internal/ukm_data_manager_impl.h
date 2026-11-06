@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmDataManagerImpl class header
+// summary: Declares the UkmDataManagerImpl class that implements the UkmDataManager interface with database, observer, URL handler and reference counting members.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_UKM_DATA_MANAGER_IMPL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_UKM_DATA_MANAGER_IMPL_H_
 

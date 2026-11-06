@@ -1,0 +1,4 @@
+# Docerion header of user_actions.txt.
+type: data
+title: Segmentation platform user actions golden file
+summary: Golden list of user action names used by segmentation platform models, maintained by the generate_histogram_list.py tool.

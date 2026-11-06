@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync device info observer implementation
+// summary: Implements SyncDeviceInfoObserver, which counts active synced devices by OS type, records UMA histograms, and supplies device counts as model inputs.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/sync_device_info_observer.h"
 
 #include <optional>

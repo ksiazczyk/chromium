@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment score provider unit tests
+// summary: Unit tests for SegmentScoreProvider verifying that scores from the last session are returned and that current-session updates are ignored.
+// ---
+
 #include "components/segmentation_platform/internal/selection/segment_score_provider.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Segmentation platform proto presubmit check
+# summary: Presubmit script that warns developers to update the VERSION field in model_metadata.proto when segmentation platform proto files are changed.
+# ---
+
 """
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts
 for more details on the presubmit API built into depot_tools.

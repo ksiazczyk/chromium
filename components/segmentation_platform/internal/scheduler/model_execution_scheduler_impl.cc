@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution scheduler implementation
+// summary: Implements scheduling of model executions, filtering eligible segments, cancelling outstanding requests and saving execution results.
+// ---
+
 #include "components/segmentation_platform/internal/scheduler/model_execution_scheduler_impl.h"
 
 #include <optional>

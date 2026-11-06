@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History delegate unit tests
+// summary: Unit tests for HistoryDelegateImpl covering URL lookups in history and the fast URL cache check using a mock history service.
+// ---
+
 #include "components/segmentation_platform/internal/signals/history_delegate_impl.h"
 
 #include "base/time/time.h"

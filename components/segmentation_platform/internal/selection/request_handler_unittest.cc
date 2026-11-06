@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request handler unit tests
+// summary: Unit tests for RequestHandler covering prediction result fetching and training data collection using mock result providers and collectors.
+// ---
+
 #include "components/segmentation_platform/internal/selection/request_handler.h"
 
 #include "base/memory/raw_ptr.h"

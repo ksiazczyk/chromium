@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrainingDataCollectorImpl unit tests
+// summary: Unit tests covering TrainingDataCollectorImpl behavior across on-demand and periodic decision types, histogram and user action signals, and UKM reporting.
+// ---
+
 #include "components/segmentation_platform/internal/data_collection/training_data_collector_impl.h"
 
 #include <map>

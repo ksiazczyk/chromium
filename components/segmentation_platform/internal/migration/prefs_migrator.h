@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs migrator header
+// summary: Declares the PrefsMigrator class that migrates model result pref entries from old prefs to new prefs for multi-output models.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_PREFS_MIGRATOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_PREFS_MIGRATOR_H_
 

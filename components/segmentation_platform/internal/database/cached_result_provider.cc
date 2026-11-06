@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedResultProvider implementation
+// summary: Loads client prediction results from prefs at startup, validates them, and serves cached results for the session.
+// ---
+
 #include "components/segmentation_platform/internal/database/cached_result_provider.h"
 
 #include "base/logging.h"

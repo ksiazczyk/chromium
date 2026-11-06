@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal database implementation
+// summary: Implements SignalDatabaseImpl, storing UMA and user action samples in a LevelDB proto database with key-range filtering, caching, and compaction.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_database_impl.h"
 
 #include <cstdint>

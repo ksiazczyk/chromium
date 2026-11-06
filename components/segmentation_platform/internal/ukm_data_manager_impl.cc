@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmDataManagerImpl implementation
+// summary: Implements UkmDataManager, initializing the UKM database and observer, scheduling periodic cleanup tasks, and applying 30-day UKM and 365-day UMA entry retention.
+// ---
+
 #include "components/segmentation_platform/internal/ukm_data_manager_impl.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result refresh manager implementation
+// summary: Implements ResultRefreshManager, which refreshes model results at startup by reading the database or running models and updating stored results after a delay.
+// ---
+
 #include "components/segmentation_platform/internal/selection/result_refresh_manager.h"
 
 #include "base/metrics/field_trial_params.h"

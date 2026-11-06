@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrainingDataCache unit tests
+// summary: Unit tests verifying that TrainingDataCache stores, returns and deletes training data from the cache and falls back to the segment info database.
+// ---
+
 #include "components/segmentation_platform/internal/data_collection/training_data_cache.h"
 
 #include "base/functional/callback_helpers.h"

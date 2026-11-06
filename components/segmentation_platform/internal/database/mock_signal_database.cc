@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSignalDatabase implementation
+// summary: Implements the constructor and destructor of the MockSignalDatabase used in unit tests.
+// ---
+
 #include "components/segmentation_platform/internal/database/mock_signal_database.h"
 
 namespace segmentation_platform {

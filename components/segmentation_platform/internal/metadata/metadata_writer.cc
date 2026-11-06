@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataWriter implementation
+// summary: Implements MetadataWriter methods that populate the model metadata proto with UMA, SQL, and custom input features, default values, and classifier outputs.
+// ---
+
 #include "components/segmentation_platform/internal/metadata/metadata_writer.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmDatabase CustomSqlQuery implementation
+// summary: Implements constructors for UkmDatabase's CustomSqlQuery struct, which pairs a SQL query string with its bind values.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_database.h"
 
 #include <string_view>

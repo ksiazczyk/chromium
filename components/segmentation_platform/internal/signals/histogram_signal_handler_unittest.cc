@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram signal handler unit tests
+// summary: Unit tests verifying that registered histogram samples are recorded in the signal and UKM databases while unrelated histograms are ignored.
+// ---
+
 #include "components/segmentation_platform/internal/signals/histogram_signal_handler.h"
 
 #include "base/metrics/histogram_macros.h"

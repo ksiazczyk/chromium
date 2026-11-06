@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History service observer implementation
+// summary: Observes history service visits and deletions, forwarding URL signals and clearing results for history-based segments when history is deleted.
+// ---
+
 #include "components/segmentation_platform/internal/signals/history_service_observer.h"
 
 #include "base/functional/callback_helpers.h"

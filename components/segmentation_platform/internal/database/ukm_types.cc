@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM types implementation
+// summary: Implements the CleanupItem type, including equality comparison and a check for whether an item refers to UMA signals.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_types.h"
 
 namespace segmentation_platform {

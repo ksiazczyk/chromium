@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomDeviceUtils bridge class header
+// summary: Declares CustomDeviceUtils, a bridge class in segmentation_platform::processing that forwards calls to the Java CustomDeviceUtils class.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_ANDROID_EXECUTION_PROCESSING_CUSTOM_DEVICE_UTILS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_ANDROID_EXECUTION_PROCESSING_CUSTOM_DEVICE_UTILS_H_
 

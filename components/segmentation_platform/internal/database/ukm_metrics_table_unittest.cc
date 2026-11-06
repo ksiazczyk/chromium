@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM metrics table unit tests
+// summary: Unit tests for UkmMetricsTable covering table creation, row insertion, deletion by URL and timestamp-based cleanup.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_metrics_table.h"
 
 #include <memory>

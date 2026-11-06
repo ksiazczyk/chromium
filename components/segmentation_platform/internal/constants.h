@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform constants declarations
+// summary: Declares pref path and switch name constants for segmentation results, metrics collection and testing.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_CONSTANTS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_CONSTANTS_H_
 

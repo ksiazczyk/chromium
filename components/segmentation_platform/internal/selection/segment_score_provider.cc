@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment score provider implementation
+// summary: Implements SegmentScoreProvider, which loads last session's model scores from the segment info database into memory and serves them to clients.
+// ---
+
 #include "components/segmentation_platform/internal/selection/segment_score_provider.h"
 
 #include <map>

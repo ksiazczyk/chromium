@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DatabaseClientImpl unit tests
+// summary: Unit tests for the database client implementation, using mock model manager, feature query processor and UKM data manager to verify feature processing.
+// ---
+
 #include "components/segmentation_platform/internal/database_client_impl.h"
 
 #include "base/containers/flat_map.h"

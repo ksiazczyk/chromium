@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform service Android JNI bridge implementation
+// summary: Implements the C++/Java bridge for SegmentationPlatformService on Android, forwarding segment selection, classification, input keys and training data calls to Java callbacks.
+// ---
+
 #include "components/segmentation_platform/internal/android/segmentation_platform_service_android.h"
 
 #include <memory>

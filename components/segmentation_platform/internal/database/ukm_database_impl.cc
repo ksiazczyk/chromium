@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM database implementation
+// summary: Implements UkmDatabase by dispatching UKM and UMA database operations to UkmDatabaseBackend on a background sequenced task runner.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_database_impl.h"
 
 #include "base/functional/bind.h"

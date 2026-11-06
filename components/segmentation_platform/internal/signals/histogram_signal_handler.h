@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram signal handler class declaration
+// summary: Declares HistogramSignalHandler, which tracks relevant histograms, enables or disables metrics collection, and notifies observers of histogram updates.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_HISTOGRAM_SIGNAL_HANDLER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_HISTOGRAM_SIGNAL_HANDLER_H_
 

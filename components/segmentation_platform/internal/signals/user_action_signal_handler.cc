@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User action signal handler implementation
+// summary: Implements UserActionSignalHandler, which records relevant user action events into the signal and UKM databases and notifies observers.
+// ---
+
 #include "components/segmentation_platform/internal/signals/user_action_signal_handler.h"
 
 #include "base/functional/bind.h"

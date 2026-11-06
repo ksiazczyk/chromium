@@ -1,0 +1,4 @@
+# Docerion header of histograms.txt.
+type: data
+title: Segmentation platform histograms golden file
+summary: Golden list of histogram names used by segmentation platform models, maintained by the generate_histogram_list.py tool.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock user action signal handler header
+// summary: Declares a gmock-based MockUserActionSignalHandler that stubs SetRelevantUserActions and EnableMetrics for testing signal handling.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_MOCK_USER_ACTION_SIGNAL_HANDLER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_MOCK_USER_ACTION_SIGNAL_HANDLER_H_
 

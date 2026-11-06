@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processing utilities implementation
+// summary: Implements ProcessOsVersionString, which parses Android OS version strings into integer version numbers with special-case handling for known version strings.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/processing_utils.h"
 
 #include "base/strings/string_number_conversions.h"

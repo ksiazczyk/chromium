@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureProcessorState class declaration
+// summary: Declares FeatureProcessorState, which stores all necessary state during processing of a model's metadata, including processor queues, tensor results and error handling.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_FEATURE_PROCESSOR_STATE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_FEATURE_PROCESSOR_STATE_H_
 

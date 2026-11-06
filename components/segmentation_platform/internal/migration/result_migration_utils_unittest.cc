@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for segmentation result migration utilities
+// summary: Unit tests verifying that legacy segmentation results convert into ClientResult protos with correct output configs for the adaptive toolbar and binary classifier cases.
+// ---
+
 #include "components/segmentation_platform/internal/migration/result_migration_utils.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_utils.h"

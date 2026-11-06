@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigHolder class header
+// summary: Declares ConfigHolder, which stores all active segmentation configs and maps segment IDs to segmentation keys.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_CONFIG_HOLDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_CONFIG_HOLDER_H_
 

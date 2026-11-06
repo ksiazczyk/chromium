@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL signal handler implementation
+// summary: Implements UrlSignalHandler, which checks URLs against history delegates and updates or removes URL records in the UKM database.
+// ---
+
 #include "components/segmentation_platform/internal/signals/url_signal_handler.h"
 
 #include "base/check.h"

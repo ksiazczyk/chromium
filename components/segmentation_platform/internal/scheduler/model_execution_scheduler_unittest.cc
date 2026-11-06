@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution scheduler unit tests
+// summary: Unit tests for ModelExecutionSchedulerImpl covering model updates, eligibility checks and execution completion using mock dependencies.
+// ---
+
 #include "components/segmentation_platform/internal/scheduler/model_execution_scheduler_impl.h"
 
 #include "base/functional/callback_helpers.h"

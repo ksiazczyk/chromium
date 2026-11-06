@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide segmentation model provider unit tests
+// summary: Unit tests for OptimizationGuideSegmentationModelProvider covering observer registration, model fetching with metadata and model execution using a test model provider.
+// ---
+
 #include "components/segmentation_platform/internal/execution/optimization_guide/optimization_guide_segmentation_model_provider.h"
 
 #include <memory>

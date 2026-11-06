@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Segmentation platform internal proto BUILD.gn
+summary: GN build file that defines the proto_library target compiling the internal segmentation platform proto sources with a dependency on the public proto library.

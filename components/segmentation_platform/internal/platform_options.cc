@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform options implementation
+// summary: Creates default platform options by reading segmentation platform command-line switches.
+// ---
+
 #include "components/segmentation_platform/internal/platform_options.h"
 
 #include "base/command_line.h"

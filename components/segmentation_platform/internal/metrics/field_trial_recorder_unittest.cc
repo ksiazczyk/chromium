@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FieldTrialRecorder unit tests
+// summary: Unit tests verifying that field trials are registered with the correct group for unselected and classified prediction results.
+// ---
+
 #include "components/segmentation_platform/internal/metrics/field_trial_recorder.h"
 
 #include <string_view>

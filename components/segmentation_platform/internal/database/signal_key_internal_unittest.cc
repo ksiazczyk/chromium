@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal key internal unit tests
+// summary: Unit tests verifying binary conversion of SignalKeyInternal keys and prefixes, including failure handling for malformed input.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_key_internal.h"
 
 #include <sstream>

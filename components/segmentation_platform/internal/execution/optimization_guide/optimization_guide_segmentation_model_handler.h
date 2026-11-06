@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide segmentation model handler header
+// summary: Declares OptimizationGuideSegmentationModelHandler, a ModelHandler wrapper for segmentation models that invokes a callback whenever the model file is updated.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_SEGMENTATION_MODEL_HANDLER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_SEGMENTATION_MODEL_HANDLER_H_
 

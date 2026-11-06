@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service proxy implementation unit tests
+// summary: Unit tests for ServiceProxyImpl using mock schedulers, model managers, executors, and a fake segment selector to verify debug and status operations.
+// ---
+
 #include "components/segmentation_platform/internal/service_proxy_impl.h"
 
 #include <memory>

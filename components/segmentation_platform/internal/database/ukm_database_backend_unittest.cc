@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM database backend unit tests
+// summary: Unit tests for UkmDatabaseBackend covering database initialization, URL and metric storage, read-only queries, transactions and cleanup of old entries.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_database_backend.h"
 
 #include "base/files/scoped_temp_dir.h"

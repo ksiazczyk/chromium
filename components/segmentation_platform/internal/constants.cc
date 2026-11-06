@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform constants definitions
+// summary: Defines pref paths and command-line switch name constants used by the segmentation platform.
+// ---
+
 #include "components/segmentation_platform/internal/constants.h"
 
 namespace segmentation_platform {

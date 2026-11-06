@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal handler implementation
+// summary: Implements SignalHandler initialization, creating the user action, histogram, history observer and filter processor handlers and wiring UKM database support.
+// ---
+
 #include "components/segmentation_platform/internal/signals/signal_handler.h"
 
 #include "base/check_is_test.h"

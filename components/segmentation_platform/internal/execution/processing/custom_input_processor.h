@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomInputProcessor class declaration
+// summary: Declares the CustomInputProcessor that transforms custom inputs like timestamps, strings, and device info into valid input tensors.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_CUSTOM_INPUT_PROCESSOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_CUSTOM_INPUT_PROCESSOR_H_
 

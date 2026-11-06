@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segment info database unit tests
+// summary: Unit tests for SegmentInfoDatabase using a fake LevelDB proto database to verify segment info saving, lookup, and training data operations.
+// ---
+
 #include "components/segmentation_platform/internal/database/segment_info_database.h"
 
 #include "base/functional/callback_helpers.h"

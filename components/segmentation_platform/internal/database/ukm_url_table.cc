@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM URL table implementation
+// summary: Implements SQL operations for the UKM URL table, covering table creation and migration, MD5-based URL ID generation, and inserting, updating, and deleting URL entries.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_url_table.h"
 
 #include <utility>

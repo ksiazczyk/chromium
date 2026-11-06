@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History delegate class declaration
+// summary: Declares HistoryDelegateImpl, which provides an API to query the history service for URL existence and caches URLs added or removed during the session.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_HISTORY_DELEGATE_IMPL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_HISTORY_DELEGATE_IMPL_H_
 

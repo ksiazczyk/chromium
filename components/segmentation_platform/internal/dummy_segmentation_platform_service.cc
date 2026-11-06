@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy segmentation platform service implementation
+// summary: Implements a no-op SegmentationPlatformService that posts empty or failed results whenever the segmentation feature is not enabled.
+// ---
+
 #include "components/segmentation_platform/internal/dummy_segmentation_platform_service.h"
 
 #include <string>

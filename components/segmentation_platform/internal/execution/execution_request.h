@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution request and result declarations
+// summary: Declares the ExecutionRequest struct and ModelExecutionResult that carry model execution inputs, scores, status and result callbacks.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_EXECUTION_REQUEST_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_EXECUTION_REQUEST_H_
 

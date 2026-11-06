@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM config implementation
+// summary: Implements UkmConfig methods for merging configs, adding observed UKM events and metrics, and querying observed events.
+// ---
+
 #include "components/segmentation_platform/internal/signals/ukm_config.h"
 
 namespace segmentation_platform {

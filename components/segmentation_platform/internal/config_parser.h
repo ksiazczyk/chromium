@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation config parser header
+// summary: Declares functions to parse a segmentation config from a JSON string and to gather all segment IDs from configs.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_CONFIG_PARSER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_CONFIG_PARSER_H_
 

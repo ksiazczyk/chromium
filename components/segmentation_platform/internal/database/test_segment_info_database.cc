@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSegmentInfoDatabase implementation
+// summary: Implements a fake segment info database with sample entries and helper methods for adding features, results, and training data in tests.
+// ---
+
 #include "components/segmentation_platform/internal/database/test_segment_info_database.h"
 
 #include <optional>

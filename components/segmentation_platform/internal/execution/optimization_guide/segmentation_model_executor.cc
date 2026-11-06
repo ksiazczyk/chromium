@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation model executor implementation
+// summary: Implements preprocessing and postprocessing for segmentation TFLite models, requiring a single float input tensor and producing a single float output tensor.
+// ---
+
 #include "components/segmentation_platform/internal/execution/optimization_guide/segmentation_model_executor.h"
 
 #include <vector>

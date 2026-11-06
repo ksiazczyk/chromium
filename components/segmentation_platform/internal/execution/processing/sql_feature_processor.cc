@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqlFeatureProcessor implementation
+// summary: Implements processing of SQL-based custom input features, validating SQL metadata, preparing bind values and running queries through the custom input processor.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/sql_feature_processor.h"
 #include <utility>
 

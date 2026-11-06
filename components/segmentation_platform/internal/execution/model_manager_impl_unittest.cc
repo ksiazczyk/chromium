@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelManagerImpl unit tests
+// summary: Unit tests for ModelManagerImpl covering model initialization, updates, and segment info handling using mock segment and signal databases plus mock model providers.
+// ---
+
 #include "components/segmentation_platform/internal/execution/model_manager_impl.h"
 
 #include <memory>

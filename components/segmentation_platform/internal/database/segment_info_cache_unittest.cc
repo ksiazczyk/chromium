@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segment info cache unit tests
+// summary: Unit tests covering lookup, update, and deletion behavior of SegmentInfoCache for server and default model sources.
+// ---
+
 #include "components/segmentation_platform/internal/database/segment_info_cache.h"
 
 #include "base/memory/raw_ptr.h"

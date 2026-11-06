@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state helper implementation header
+// summary: Declares LocalStateHelperImpl, the PrefService-backed implementation of the LocalStateHelper interface.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_LOCAL_STATE_HELPER_IMPL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_LOCAL_STATE_HELPER_IMPL_H_
 

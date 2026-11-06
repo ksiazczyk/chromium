@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar migration implementation
+// summary: Converts legacy adaptive toolbar segmentation results into new ClientResult objects with multi-class classifier output configs and model scores.
+// ---
+
 #include "components/segmentation_platform/internal/migration/adaptive_toolbar_migration.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_utils.h"

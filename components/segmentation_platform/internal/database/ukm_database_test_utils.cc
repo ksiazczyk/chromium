@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM database test utilities implementation
+// summary: Implements helpers to query, compare and assert metrics, UMA metrics and URL rows in the UKM database during tests.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_database_test_utils.h"
 
 #include "base/strings/string_number_conversions.h"

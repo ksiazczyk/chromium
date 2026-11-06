@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service proxy implementation
+// summary: Implements ServiceProxyImpl, which exposes segmentation service internals such as status, model execution, and result overrides to observers for debugging.
+// ---
+
 #include "components/segmentation_platform/internal/service_proxy_impl.h"
 
 #include <memory>

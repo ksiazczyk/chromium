@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform stats header
+// summary: Declares functions and enums for recording segmentation platform UMA metrics covering selection, results, model delivery, and database maintenance.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_STATS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_STATS_H_
 

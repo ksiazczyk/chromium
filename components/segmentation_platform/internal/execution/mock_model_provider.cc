@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock model provider implementation
+// summary: Implements mock model providers and a test factory that record model requests and callbacks for segmentation platform tests.
+// ---
+
 #include "components/segmentation_platform/internal/execution/mock_model_provider.h"
 
 #include <utility>

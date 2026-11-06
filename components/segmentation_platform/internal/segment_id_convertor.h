@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment ID convertor header
+// summary: Declares conversion functions between SegmentId and OptimizationTarget for the segmentation platform.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SEGMENT_ID_CONVERTOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SEGMENT_ID_CONVERTOR_H_
 

@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Segmentation platform class file generator
+# summary: Python script that generates C++ header, cc, and unittest files, or default model template files for a segment, for classes in the Chromium segmentation platform.
+# ---
+
 """Script to generate header cc and unittest file for a class in chromium."""
 
 _DOCUMENTATION = r"""Usage:

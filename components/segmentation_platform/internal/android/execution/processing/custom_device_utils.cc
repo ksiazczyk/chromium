@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomDeviceUtils JNI implementation
+// summary: Implements the C++ side of the CustomDeviceUtils JNI bridge, calling the Java class to return the device PPI.
+// ---
+
 #include "components/segmentation_platform/internal/android/execution/processing/custom_device_utils.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

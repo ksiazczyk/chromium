@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigHolder implementation
+// summary: Holds segmentation configs and maps segment IDs to segmentation keys, distinguishing legacy and non-legacy configs.
+// ---
+
 #include "components/segmentation_platform/internal/database/config_holder.h"
 
 #include "components/segmentation_platform/internal/config_parser.h"

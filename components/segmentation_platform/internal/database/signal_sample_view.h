@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal sample view class declaration
+// summary: Declares SignalSampleView, an iterable view for querying signal database samples by signal type, metric hash, time range and enum ids.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SIGNAL_SAMPLE_VIEW_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SIGNAL_SAMPLE_VIEW_H_
 

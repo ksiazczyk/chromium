@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageService implementation
+// summary: Implements StorageService, which creates and initializes the segment info, signal, and signal storage config databases for the segmentation platform.
+// ---
+
 #include "components/segmentation_platform/internal/database/storage_service.h"
 
 #include "base/task/sequenced_task_runner.h"

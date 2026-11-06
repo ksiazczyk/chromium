@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock histogram signal handler declaration
+// summary: Declares a gmock mock of HistogramSignalHandler for use in tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_MOCK_HISTOGRAM_SIGNAL_HANDLER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_MOCK_HISTOGRAM_SIGNAL_HANDLER_H_
 

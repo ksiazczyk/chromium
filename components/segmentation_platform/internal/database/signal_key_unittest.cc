@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal key unit tests
+// summary: Unit tests for SignalKey covering binary round-trip conversion, validity checks, prefix extraction and lexicographic key ordering.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_key.h"
 
 #include <cmath>

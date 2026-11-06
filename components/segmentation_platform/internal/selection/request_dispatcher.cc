@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request dispatcher implementation
+// summary: Implements the RequestDispatcher that queues client API requests until platform initialization and dispatches them to per-client request handlers.
+// ---
+
 #include "components/segmentation_platform/internal/selection/request_dispatcher.h"
 
 #include <set>

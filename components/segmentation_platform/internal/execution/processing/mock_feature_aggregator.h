@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFeatureAggregator class declaration
+// summary: Declares a gmock mock of the FeatureAggregator class, stubbing Process and FilterEnumSamples for use in tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_MOCK_FEATURE_AGGREGATOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_MOCK_FEATURE_AGGREGATOR_H_
 

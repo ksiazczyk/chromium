@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientResultPrefs class header
+// summary: Declares ClientResultPrefs, a persistent caching layer storing client results in a single pref for early lookup.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_CLIENT_RESULT_PREFS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_CLIENT_RESULT_PREFS_H_
 
