@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs pinned tab browser test
+// summary: Browser test that creates, pins, and unpins tabs and verifies tab pinned state and onUpdated event behavior.
+// ---
+
 let firstWindowId;
 
 const SCRIPT_URL = '_test_resources/api_test/tabs/basics/tabs_util.js';

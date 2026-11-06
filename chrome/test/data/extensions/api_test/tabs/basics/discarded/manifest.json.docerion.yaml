@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for chrome.tabs discard tests
+summary: Manifest for the test extension that grants the tabs permission and registers discarded.js as a service worker for the chrome.tabs API browser test.

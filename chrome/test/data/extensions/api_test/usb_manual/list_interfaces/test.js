@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual USB listInterfaces API Test
+// summary: Manual test that requests optional USB device permission, finds the Nexus S device, and verifies chrome.usb.listInterfaces returns an object result.
+// ---
+
 const usb = chrome.usb;
 
 const DEVICE_ID = {

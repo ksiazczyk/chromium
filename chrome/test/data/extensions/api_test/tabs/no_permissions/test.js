@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API no-permissions test script
+// summary: Browser test verifying that tab objects returned by onUpdated, create, and query omit sensitive fields, and that executeScript errors do not leak page URLs.
+// ---
+
 function assertNoSensitiveFields(tab) {
   ['url', 'pendingUrl', 'title', 'favIconUrl'].forEach(function(field) {
     chrome.test.assertEq(

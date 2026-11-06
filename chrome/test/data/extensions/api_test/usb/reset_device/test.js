@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.usb.resetDevice API test
+// summary: Extension test that resets a found USB device, then verifies reset and transfer fail with the expected errors after the device is closed.
+// ---
+
 const usb = chrome.usb;
 
 function resetDevice() {

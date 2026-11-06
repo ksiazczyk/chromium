@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for chrome.tabs.update
+// summary: Runs end-to-end tests for chrome.tabs.update, covering tab setup, updating the default tab via undefined and null tab IDs, returned tab info, and rejected overly long URLs.
+// ---
+
 const tabIds = [];
 
 const SCRIPT_URL = '_test_resources/api_test/tabs/basics/tabs_util.js';

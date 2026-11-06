@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.ttsEngine.updateVoices API browser test
+// summary: Runs chrome.test tests verifying updateVoices behavior, including voice replacement, extension ID mismatch rejection, invalid language rejection, and onVoicesChanged notifications.
+// ---
+
 setup = () => {
   const speakListener = (utterance, options, sendTtsEvent) => {};
   const stopListener = () => {};

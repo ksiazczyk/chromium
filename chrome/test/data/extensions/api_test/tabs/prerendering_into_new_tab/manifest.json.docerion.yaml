@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the chrome.tabs prerendering test extension
+summary: Manifest v2 extension manifest declaring test.js as background script and tabs, webRequest, and host permissions for the browser test.

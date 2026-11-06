@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs test extension manifest
+summary: Manifest for the chrome.tabs API test extension, declaring the tabs permission and crud.js as the background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs test extension manifest
+summary: Manifest for the end-to-end browser test extension that registers pinned.js as a service worker with the tabs permission.

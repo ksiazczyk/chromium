@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tts pause and speak test extension
+summary: Extension manifest that registers the background test script and grants the tts permission for the pause_speak_no_enqueue browser test.

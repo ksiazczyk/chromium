@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for tab opener tests
+summary: Manifest for the foo test extension declaring tabs permission and background.js as service worker to support the tab opener API tests.

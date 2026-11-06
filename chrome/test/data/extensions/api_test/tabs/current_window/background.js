@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the tabs current_window extension API test
+// summary: Runs a browser test that opens a popup window and verifies the active tab query against the current window ID.
+// ---
+
 chrome.test.runTests([
   function getSelectedPopup() {
     chrome.windows.create(

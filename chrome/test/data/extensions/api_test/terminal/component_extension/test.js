@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: terminalPrivate API end-to-end test logic
+// summary: JavaScript test that spawns crosh processes via terminalPrivate, sends shell and cat commands, and verifies interleaved stdout and stderr output against expectations.
+// ---
+
 const shellCommand = 'shell\n';
 const catCommand = 'cat\n';
 const catErrCommand = 'cat 1>&2\n';

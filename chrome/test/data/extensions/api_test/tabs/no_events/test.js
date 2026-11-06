@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs no-events test
+// summary: Test script that listens for chrome.tabs onCreated, onRemoved and onUpdated events and fails if any unexpected events occur.
+// ---
+
 let errors = 0;
 
 function errorListener() {

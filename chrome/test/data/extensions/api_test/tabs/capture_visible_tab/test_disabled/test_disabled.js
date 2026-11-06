@@ -5,6 +5,12 @@
 // API test for chrome.tabs.captureVisibleTab(), screenshot disabling policy.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.CaptureVisibleDisabled
 
+// ---docerion
+// type: test
+// title: Browser test for captureVisibleTab screenshot disabling policy
+// summary: Runs browser tests asserting chrome.tabs.captureVisibleTab fails with the 'Taking screenshots has been disabled' error when screenshots are blocked by policy.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

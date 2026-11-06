@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.ttsEngine language status request test
+summary: Manifest for the test extension used by the chrome.ttsEngine language status request browser test, granting the ttsEngine permission and loading test.js in the background.

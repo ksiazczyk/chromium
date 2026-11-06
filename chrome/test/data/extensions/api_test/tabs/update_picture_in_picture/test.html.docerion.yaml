@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page loading the Picture-in-Picture test script
+summary: Minimal HTML page that includes background.js so the extension API tests run in the browser test environment.

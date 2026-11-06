@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.tts optional args browser test
+summary: Manifest for the browser test extension exercising chrome.tts, requesting the tts permission and loading test.js as a persistent background script.

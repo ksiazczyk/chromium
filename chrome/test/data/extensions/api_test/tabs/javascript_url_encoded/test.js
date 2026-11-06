@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript encoded URL tabs API test
+// summary: 'Extension API test that creates a tab on a.com, updates it to an encoded javascript: URL, and asserts the page title becomes js-url-success.'
+// ---
+
 chrome.test.getConfig(function(config) {
   const javaScriptURL = 'javascript:void(document.title=%22js-url-success%22)';
 

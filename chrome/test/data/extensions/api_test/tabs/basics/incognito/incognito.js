@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs incognito API browser test
+// summary: Runs chrome.tabs.query and chrome.tabs.create tests against a configured window to verify tab behavior in incognito versus regular windows.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/tabs/basics/tabs_util.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

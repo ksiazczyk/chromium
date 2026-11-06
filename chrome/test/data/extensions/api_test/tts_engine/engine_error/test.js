@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.ttsEngine error event handling
+// summary: Browser test that registers TTS engine speak listeners, checks invalid sendTtsEvent calls fail, and verifies a valid error event reaches the chrome.tts.speak callback.
+// ---
+
 chrome.test.runTests([
   function testTtsEngineError() {
     // Register listeners for speech functions, but have speak return an

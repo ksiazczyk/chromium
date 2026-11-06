@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for tab discard behavior in chrome.tabs API
+// summary: Runs browser tests verifying chrome.tabs.onUpdated changes for the discarded and autoDiscardable tab properties, including discard and reload flows.
+// ---
+
 let testTab;
 
 const SCRIPT_URL = '_test_resources/api_test/tabs/basics/tabs_util.js';

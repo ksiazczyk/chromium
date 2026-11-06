@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for browser action trigger test extension
+summary: Manifest version 2 manifest defining the test extension with a persistent background script, tabs and host permissions, and a browser action named 'Make this page red'.

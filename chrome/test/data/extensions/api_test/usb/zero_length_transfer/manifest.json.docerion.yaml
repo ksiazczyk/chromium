@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Zero-Length Transfer test manifest
+summary: Chrome extension manifest for the USB zero-length transfer API test app, declaring the usb permission and test.js as background script.

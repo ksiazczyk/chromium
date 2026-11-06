@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: TTS engine language matching browser test
+// summary: Browser test that registers a TTS engine for lang 'fr' and verifies a speak request with lang 'fr-FR' is routed to it.
+// ---
+
 chrome.test.runTests([
   function testWordCallbacks() {
     // Register listeners for speech functions, enabling this extension

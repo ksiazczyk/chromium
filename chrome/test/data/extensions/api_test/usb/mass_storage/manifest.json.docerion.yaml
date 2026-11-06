@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB mass storage test extension manifest
+summary: Manifest for the chrome.usb mass storage test app, declaring the usb permission and emulated test devices with vendor and product IDs.

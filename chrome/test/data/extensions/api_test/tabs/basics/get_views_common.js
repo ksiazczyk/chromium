@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get views common test helper
+// summary: Shared helper that opens a window with chrome.windows.create and asserts chrome.extension.getViews finds its tabs by window ID, kept common because the tests are slow.
+// ---
+
 // Open a window using chrome.windows.create(options),
 // and see that chrome.extension.getViews() can find all the tabs
 // in the window by searching for views with the window ID of the

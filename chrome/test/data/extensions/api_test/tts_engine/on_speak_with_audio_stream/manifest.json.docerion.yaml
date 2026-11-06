@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: TTS engine audio stream test extension manifest
+summary: Manifest for the browser test extension that registers a Zach en-US voice and permissions for testing chrome.ttsEngine.onSpeakWithAudioStream.

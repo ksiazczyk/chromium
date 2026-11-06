@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs.highlight extension API browser test
+// summary: Browser test script that creates windows with tabs and verifies chrome.tabs.highlight behavior and tabs.onHighlighted events, with Android-specific handling.
+// ---
+
 let testWindowId1;
 let testWindowId2;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API test utilities
+// summary: Shared utilities for the chrome.tabs browser tests, including window creation, waiting for all tabs to load, waiting for tab size, tab queries, and onUpdated expectations.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

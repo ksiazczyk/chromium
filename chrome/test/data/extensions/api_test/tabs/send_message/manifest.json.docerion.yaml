@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs.sendMessage test extension
+summary: Manifest V3 extension manifest registering the worker.js service worker and the echo.js content script for the sendMessage API browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB Invalid-Length Transfer API Test
+// summary: Runs chrome.test cases asserting that bulk, control, interrupt, and isochronous transfers fail with invalid lengths, packet counts, or packet lengths.
+// ---
+
 const usb = chrome.usb;
 
 const genericTransfer = {

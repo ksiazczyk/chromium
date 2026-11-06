@@ -4,6 +4,12 @@
 //
 // Utility functions to help with tabs/windows testing.
 
+// ---docerion
+// type: test
+// title: Tabs and windows test utilities for captureVisibleTab
+// summary: Shared JavaScript helpers for Chromium extension API tests that create windows and tabs, wait for tab loads, and verify captured screenshot pixel colors.
+// ---
+
 // Creates one window with tabs set to the urls in the array |tabUrls|.
 // At least one url must be specified.
 // The |callback| should look like function(windowId, tabIds) {...}.

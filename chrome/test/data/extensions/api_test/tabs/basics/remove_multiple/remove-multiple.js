@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs remove multiple tabs browser test
+// summary: Browser test that creates tabs with and without unload handlers, removes them with chrome.tabs.remove, and verifies unload handlers run and only the first tab remains.
+// ---
+
 let firstTabId;
 let secondTabId;
 let thirdTabId;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Incognito disabled test extension manifest
+summary: Manifest for the extension API test that verifies incognito windows cannot be opened after policy disallows them.

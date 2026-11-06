@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for tabs API no-permissions test extension
+summary: Manifest for a test extension that exercises the tabs API without the tabs permission, registering test.js as its MV3 service worker.

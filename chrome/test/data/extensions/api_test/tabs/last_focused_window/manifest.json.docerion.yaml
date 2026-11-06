@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Last focused window test extension manifest
+summary: Manifest for the tabs/last_focused_window test extension, registering the background service worker and requesting the tabs permission.

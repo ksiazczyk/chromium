@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tts word callbacks test extension manifest
+summary: Manifest for the chrome.tts word callbacks browser test extension, registering test.js as a persistent background script with the tts permission.

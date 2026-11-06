@@ -1,0 +1,4 @@
+# Docerion header of b.html.
+type: test
+title: Test page b.html loading b.js
+summary: HTML fixture page for the back/forward cache test that loads the b.js history-back script.

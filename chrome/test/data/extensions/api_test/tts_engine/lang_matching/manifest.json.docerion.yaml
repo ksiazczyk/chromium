@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: TTS engine language matching test extension manifest
+summary: Manifest for the chrome.ttsEngine language matching browser test extension, registering a French voice and the tts and ttsEngine permissions.

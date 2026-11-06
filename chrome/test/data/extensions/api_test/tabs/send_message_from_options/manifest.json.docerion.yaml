@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the sendMessage from options page test extension
+summary: Manifest v3 extension manifest that registers the options page and echo content script for the chrome.tabs.sendMessage browser test.

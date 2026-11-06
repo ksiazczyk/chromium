@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs test extension manifest
+summary: Manifest for the chrome.tabs reload test extension, registering test.js as the background service worker with the tabs permission.

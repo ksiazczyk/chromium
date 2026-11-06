@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Device Handling test extension manifest
+summary: Manifest for the USB device handling extension API test app, requesting the usb permission with a wildcard device filter and running test.js as the background script.

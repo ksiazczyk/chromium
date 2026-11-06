@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs remove_multiple test extension manifest
+summary: Manifest for the end-to-end chrome.tabs API browser test extension, declaring storage and tabs permissions and the remove-multiple.js service worker.

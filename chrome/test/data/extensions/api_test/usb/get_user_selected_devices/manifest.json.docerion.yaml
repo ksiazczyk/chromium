@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getUserSelectedDevices test app
+summary: Manifest version 2 app manifest for the chrome.usb.getUserSelectedDevices browser test, requesting the usb permission and loading the background test script.

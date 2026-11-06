@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redirect script a.js creating a history entry
+// summary: On load, redirects the tab to b.html on b.com so a history entry exists for the later back navigation.
+// ---
+
 onload = function() {
   if (window.sessionStorage['redirected'] !== 1) {
     window.sessionStorage['redirected'] = 1;

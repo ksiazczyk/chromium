@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs.reload browser test
+// summary: Runs chrome.test cases that create a tab and reload it with various chrome.tabs.reload argument combinations, including bypassCache options.
+// ---
+
 let myTabId;
 
 function pageUrl(letter) {

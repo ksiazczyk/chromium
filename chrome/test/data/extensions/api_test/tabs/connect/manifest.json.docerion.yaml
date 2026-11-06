@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs.connect test extension
+summary: Extension manifest declaring the test service worker, the echo content script, and the tabs permission for the end-to-end browser test.

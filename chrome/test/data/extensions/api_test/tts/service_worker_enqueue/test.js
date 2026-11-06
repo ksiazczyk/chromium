@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tts enqueue test in a service worker
+// summary: Browser test that verifies chrome.tts.speak with enqueue works from an MV3 service worker using both callback-style and promise-style calls.
+// ---
+
 chrome.test.runTests([testEnqueue = async () => {
   let callbacks = 0;
   // Try synchronous callback-style API.

@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: terminalPrivate API test page
+summary: HTML host page for the API test that loads test.js and displays a terminalPrivate test heading.

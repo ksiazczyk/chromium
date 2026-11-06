@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture browser action test background script
+// summary: Background script for a test extension that loads a test video and toggles Picture-in-Picture when the browser action is clicked, reporting pass or fail to the test framework.
+// ---
+
 const video = document.createElement('video');
 
 chrome.test.getConfig(function(config) {

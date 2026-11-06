@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for tabs and windows APIs during browser and renderer crashes
+// summary: Runs chrome.test cases that create or update tabs and windows with crash-inducing URLs and expect the API calls to fail with an error message.
+// ---
+
 const INDUCE_BROWSER_CRASH_URL = 'about:inducebrowsercrashforrealz';
 const INDUCE_RENDERER_CRASH_URL = 'about:crash';
 const ERROR = `I'm sorry. I'm afraid I can't do that.`;

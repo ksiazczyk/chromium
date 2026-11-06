@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Transfer Failure test extension manifest.json
+summary: Manifest for the USB transfer failure API test app, requesting the usb permission and a device filter while loading test.js as the background script.

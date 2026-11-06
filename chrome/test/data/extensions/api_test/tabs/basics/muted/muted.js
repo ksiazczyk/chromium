@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs muted API browser test
+// summary: Service worker test script that creates a tab and verifies mutedInfo behavior, including muting by extension, query filtering, and muted state persisting across window moves.
+// ---
+
 let testTabId;
 
 const SCRIPT_URL = '_test_resources/api_test/tabs/basics/tabs_util.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script sending a message from the options page
+// summary: Runs chrome.test tests that open a tab and verify chrome.tabs.sendMessage returns pong with the options page as sender.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 let testTab = null;

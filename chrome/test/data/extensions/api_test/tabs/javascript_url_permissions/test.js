@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript URL permissions test script
+// summary: Service worker test that navigates tabs to a JavaScript URL, expecting failure on a host without permission and success on an allowed host.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const pass = chrome.test.callbackPass;
 

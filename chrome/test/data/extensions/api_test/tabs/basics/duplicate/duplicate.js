@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs.duplicate API browser test
+// summary: Browser test that creates a window, duplicates its tab via the chrome.tabs API, and asserts the copy sits next to the original with the same URL.
+// ---
+
 let firstTabId;
 let firstWindowId;
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: TTS engine word callbacks test extension manifest
+summary: Manifest for the chrome.ttsEngine browser test extension, declaring a WordCallbackVoice TTS engine with word and end events plus tts permissions.

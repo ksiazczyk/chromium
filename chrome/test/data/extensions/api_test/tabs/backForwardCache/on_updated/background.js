@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker asserting tabs.onUpdated events
+// summary: Listens to chrome.tabs.onUpdated, captures navigation status events, and asserts the expected sequence during a back/forward cache restore.
+// ---
+
 let expectedEventData;
 let capturedEventData;
 let shouldIgnore = true;

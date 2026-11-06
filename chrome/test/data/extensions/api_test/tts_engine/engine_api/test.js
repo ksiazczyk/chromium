@@ -7,6 +7,12 @@
 // of the API.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: TTS engine API browser test
+// summary: Browser test that registers onSpeak and onStop listeners to verify the ttsEngine permission alone is sufficient to use the chrome.ttsEngine API.
+// ---
+
 chrome.test.runTests([
   function testTtsEngineApiSucceeds() {
     const speakListener = function(utterance, options, sendTtsEvent) {

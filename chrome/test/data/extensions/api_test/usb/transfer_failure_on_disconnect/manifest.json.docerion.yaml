@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the USB transfer failure on disconnect test app
+summary: Manifest for the Chrome extension API test app, requesting USB permission for an emulated test device and loading the background test script.

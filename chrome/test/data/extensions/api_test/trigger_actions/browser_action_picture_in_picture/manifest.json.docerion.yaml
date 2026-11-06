@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Picture-in-Picture browser action test extension
+summary: Manifest version 2 extension manifest declaring the background script and browser action used by the Picture-in-Picture trigger actions API test.

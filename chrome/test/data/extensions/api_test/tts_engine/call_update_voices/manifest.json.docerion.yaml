@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.ttsEngine updateVoices test extension
+summary: Manifest for the test extension that registers test.js as a non-persistent background page and declares tts and ttsEngine permissions for the updateVoices browser test.

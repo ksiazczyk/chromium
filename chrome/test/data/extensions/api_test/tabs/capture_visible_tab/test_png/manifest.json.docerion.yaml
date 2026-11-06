@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for captureVisibleTab PNG test extension
+summary: Extension manifest registering the test_png.js service worker with tabs permissions for the captureVisibleTab PNG browser test.

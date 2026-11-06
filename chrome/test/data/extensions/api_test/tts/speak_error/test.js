@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: chrome.tts speak error browser test
+// summary: Browser test that speaks two utterances via chrome.tts.speak and asserts the expected error and end events before reporting success.
+// ---
+
 chrome.test.runTests([
   function testSpeakError() {
     let callbacks = 0;

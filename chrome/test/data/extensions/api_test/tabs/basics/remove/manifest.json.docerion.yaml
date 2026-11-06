@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.tabs remove API test extension
+summary: Manifest for the end-to-end browser test extension that registers remove.js as a service worker with storage and tabs permissions.

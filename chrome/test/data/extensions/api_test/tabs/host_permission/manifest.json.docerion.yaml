@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for tabs host permission API test
+summary: Extension manifest for a browser test that verifies the tabs API returns sensitive data when the host permission is granted.

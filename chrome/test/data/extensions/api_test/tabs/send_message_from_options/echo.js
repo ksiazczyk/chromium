@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Echo content script for the sendMessage test
+// summary: Content script that listens for ping messages and replies with pong, used by the chrome.tabs.sendMessage API test.
+// ---
+
 // A simple onMessage listener that responds to "ping" messages with a "pong"
 // message.
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {

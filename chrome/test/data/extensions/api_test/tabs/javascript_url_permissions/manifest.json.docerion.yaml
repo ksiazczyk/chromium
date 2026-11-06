@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: JavaScript URL permissions test extension manifest
+summary: Manifest for the javascript url permissions test extension, declaring the tabs permission, host access to b.com, and the test.js service worker background.

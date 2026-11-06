@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB mass storage test background script
+// summary: Background script for the chrome.usb extension API test that enumerates devices, checks vendor and product IDs, and reports success or failure via test messages.
+// ---
+
 chrome.usb.getDevices({}, devices => {
   if (devices.length !== 1) {
     console.error('Expected a single device, but got ' + devices.length + '.');

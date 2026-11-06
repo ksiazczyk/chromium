@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: chrome.ttsEngine word callback browser test
+// summary: Registers TTS engine speak and stop listeners and asserts that word and end event callbacks arrive with the expected charIndex values during chrome.tts.speak.
+// ---
+
 chrome.test.runTests([
   function testWordCallbacks() {
     // Register listeners for speech functions, enabling this extension

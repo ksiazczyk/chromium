@@ -4,6 +4,12 @@
 
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: Browser test asserting remote network speech voices
+// summary: Runs the TtsApiTest browser test suite, checking that chrome.tts.getVoices returns at least 19 voices and that all reported voices are remote.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 chrome.test.runTests([

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs move test extension manifest
+summary: Manifest for the end-to-end chrome.tabs API test extension, requesting the tabs permission and registering move.js as the service worker.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs lastAccessed API browser test
+// summary: Browser test verifying that tab lastAccessed timestamps are set on creation and remain unchanged when a tab is moved via the chrome.tabs API.
+// ---
+
 const TEST_URL_1 = 'https://example.com/1';
 const TEST_URL_2 = 'https://example.com/2';
 const TEST_URL_3 = 'https://example.com/3';

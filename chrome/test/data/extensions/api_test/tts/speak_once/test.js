@@ -4,6 +4,12 @@
 
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: chrome.tts speak once browser test
+// summary: Browser test that speaks 'hello world' via chrome.tts and asserts the resulting end event has charIndex 11.
+// ---
+
 chrome.test.runTests([
   function testSpeakOnce() {
     function eventListener(event) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.ttsEngine.updateVoices
+// summary: Runs a test that adds onSpeak and onStop listeners and calls chrome.ttsEngine.updateVoices with two dynamic voices to verify the API can be invoked.
+// ---
+
 function setup() {
   const speakListener = function(utterance, options, sendTtsEvent) {};
   const stopListener = function() {};

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for onSpeakWithAudioStream with audio options
+// summary: Sends a series of audio buffers through onSpeakWithAudioStream and verifies start, word, and end events, the sample rate and buffer size options, and error handling for invalid buffers.
+// ---
+
 chrome.test.runTests([function testSendAudioData() {
   // Sends a series of audio buffers, and verifies we get events for them.
   const expectedEvents = [

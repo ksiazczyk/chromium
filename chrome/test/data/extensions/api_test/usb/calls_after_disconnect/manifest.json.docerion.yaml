@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB calls after disconnect test manifest
+summary: Manifest for the test app that grants usb permissions for an emulated test device and loads the background script used by the disconnect test.

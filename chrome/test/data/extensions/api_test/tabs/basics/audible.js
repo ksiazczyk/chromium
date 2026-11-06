@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audible tab property tests
+// summary: Runs chrome.tabs tests checking the audible property, rejection of audible updates and onUpdated events while audio plays.
+// ---
+
 let testTabId;
 
 console.info('audible start');

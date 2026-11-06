@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API host permission browser test
+// summary: Browser test that verifies the tabs API exposes url, pendingUrl, title and favIconUrl only for hosts covered by host permissions.
+// ---
+
 function assertNoSensitiveFields(tab) {
   ['url', 'pendingUrl', 'title', 'favIconUrl'].forEach(function(field) {
     chrome.test.assertEq(

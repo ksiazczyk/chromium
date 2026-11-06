@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs events browser test
+// summary: Browser test that verifies chrome.tabs events such as onCreated, onUpdated, onMoved, onActivated, onAttached and onDetached for Chrome extensions.
+// ---
+
 let testTabId;
 let otherTabId;
 let firstWindowId;

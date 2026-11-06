@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: TTS engine API test extension manifest
+summary: Manifest for a browser test extension that registers a tts_engine voice and the ttsEngine permission to exercise the chrome.ttsEngine API.

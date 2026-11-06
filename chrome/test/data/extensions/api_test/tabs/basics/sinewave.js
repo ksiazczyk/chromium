@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sinewave audio helper
+// summary: Helper that plays and stops a sine wave tone in a given window using the Web Audio API, recreating the oscillator to switch frequency immediately.
+// ---
+
 window.sinewave = {
   play: function(win, frequency) {
     win.sinewaveData_ = win.sinewaveData_ || {};

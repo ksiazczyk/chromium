@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view tab creation API test background script
+// summary: Browser extension test script that verifies chrome.tabs.create with splitWithTabId creates split views, checking index placement and active-tab behavior across several scenarios.
+// ---
+
 async function createFreshTab(options = {}) {
   return await chrome.tabs.create({url: 'about:blank', ...options});
 }

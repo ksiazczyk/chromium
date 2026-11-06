@@ -1,0 +1,4 @@
+# Docerion header of initiator.html.
+type: test
+title: Initiator page with prerendering speculation rules
+summary: HTML page that uses speculation rules to prerender prerendering.html into a new tab and provides a link to open it.

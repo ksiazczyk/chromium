@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view unsplit API test background script
+// summary: Extension background script running chrome.test cases for chrome.tabs.unsplit, covering valid unsplit, invalid or stale split view IDs, and unsplit behavior for grouped and pinned tabs.
+// ---
+
 async function createFreshTab(options = {}) {
   return await chrome.tabs.create({url: 'about:blank', ...options});
 }

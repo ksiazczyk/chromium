@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the tabs current_window extension API test
+summary: Manifest V3 extension manifest with the tabs permission and a background service worker used by the current_window API test.

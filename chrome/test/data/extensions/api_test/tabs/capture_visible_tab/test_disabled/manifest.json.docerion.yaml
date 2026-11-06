@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for captureVisibleTab disabled-screenshot test extension
+summary: Extension manifest that registers the test_disabled.js service worker and tabs permissions for the captureVisibleTab screenshot-disabling browser test.

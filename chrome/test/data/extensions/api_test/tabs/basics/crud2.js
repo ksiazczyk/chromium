@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs CRUD API browser tests
+// summary: Exercises the tabs and windows APIs across multiple windows, covering getAllInWindow, tab selection, updates and new tab URLs.
+// ---
+
 const newTabUrls = [
   'chrome://newtab/',
   'chrome-native://newtab/',

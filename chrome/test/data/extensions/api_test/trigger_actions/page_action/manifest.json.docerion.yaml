@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Page action test extension manifest
+summary: Manifest for the page action API test extension, declaring the persistent background script, page action name and icon, and tabs and host permissions.

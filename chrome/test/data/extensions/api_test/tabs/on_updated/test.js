@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the tabs.onUpdated extension event
+// summary: JavaScript browser test that verifies the chrome.tabs.onUpdated event reports expected status, URL, title and favicon data across browser- and renderer-initiated navigations, iframe and anchor navigations, and favicon loads.
+// ---
+
 let expectedEventData;
 let capturedEventData;
 let shouldIgnore;

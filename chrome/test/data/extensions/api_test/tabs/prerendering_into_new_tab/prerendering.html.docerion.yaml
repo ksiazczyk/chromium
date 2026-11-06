@@ -1,0 +1,4 @@
+# Docerion header of prerendering.html.
+type: test
+title: Prerendering target page
+summary: Minimal HTML page titled prerendering that is prerendered into a new tab and loads empty.js as an identifiable resource.

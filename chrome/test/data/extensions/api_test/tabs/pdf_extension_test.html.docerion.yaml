@@ -1,0 +1,4 @@
+# Docerion header of pdf_extension_test.html.
+type: test
+title: Tabs PDF extension API test fixture
+summary: HTML fixture for the tabs extension API tests that embeds a base64 PDF containing a link annotation and sets a document title in an onbeforeunload handler.

@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: chrome.tts enqueue browser test
+// summary: Browser test that verifies chrome.tts.speak enqueues utterances and fires end events in the expected order.
+// ---
+
 chrome.test.runTests([function testEnqueue() {
   let callbacks = 0;
   chrome.tts.speak(

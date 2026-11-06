@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB onDeviceAdded test extension manifest
+summary: Manifest for the chrome.usb.onDeviceAdded browser test app, declaring USB permissions for the emulated test device.

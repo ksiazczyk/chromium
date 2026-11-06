@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for chrome.tabs lastAccessed tests
+summary: Manifest V3 extension manifest granting the tabs permission and registering last_accessed.js as the service worker for the chrome.tabs API test.
