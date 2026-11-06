@@ -1,0 +1,4 @@
+# Docerion header of .postinstall.
+type: test
+title: .postinstall script exiting with code 3
+summary: Shell script fixture for the updater setup test that simulates the postinstall step failing with exit code 3.

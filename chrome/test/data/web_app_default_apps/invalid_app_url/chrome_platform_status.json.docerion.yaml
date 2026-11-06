@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome platform status app URL test fixture
+summary: JSON fixture describing a default web app entry with an app URL, launch container and user type, used by web app default apps tests.

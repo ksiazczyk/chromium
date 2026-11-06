@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: SunSpider 1.0 test contents
+// summary: JavaScript fixture embedding the SunSpider 1.0 benchmark test pages as strings, used by Chrome's SunSpider test harness.
+// ---
+
 var testContents = [ "<!DOCTYPE html>\n\
 <head>\n\
 \n\

@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome platform status default app test data
+summary: Test data specifying web app install options such as shortcut creation, tab launch container, and unmanaged user type for a default app with a missing app URL.

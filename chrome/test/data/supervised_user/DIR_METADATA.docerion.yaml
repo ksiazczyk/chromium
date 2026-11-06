@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for supervised user test data
+summary: Declares common metadata mixins from the supervised_user component for this test data directory.

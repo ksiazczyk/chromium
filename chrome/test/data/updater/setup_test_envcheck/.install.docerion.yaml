@@ -1,0 +1,4 @@
+# Docerion header of .install.
+type: test
+title: Updater setup test environment check install script
+summary: Shell script fixture that verifies expected environment variables during updater setup tests and exits with distinct codes on mismatch.

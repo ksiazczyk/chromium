@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web App Notifications Test Manifest
+summary: Web app manifest defining the test app's name, icons, start URL, display mode and colors for notification browser tests.

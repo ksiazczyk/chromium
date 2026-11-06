@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scripted Notification Test Commands
+// summary: JavaScript helpers that request notification permission and show or close persistent notifications through the service worker.
+// ---
+
 // Requests permission to display Web Notifications.
 async function requestPermission() {
   return Notification.requestPermission();

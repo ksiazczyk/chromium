@@ -1,0 +1,4 @@
+# Docerion header of google_search.json.
+type: test
+title: Google Search default app test fixture
+summary: JSON test fixture defining a default web app pointing to google.com with a tab launch container and shortcut creation for unmanaged users.

@@ -1,0 +1,4 @@
+# Docerion header of google_search.json.
+type: test
+title: Google Search web app test fixture
+summary: JSON fixture defining a Google Search web app with tab launch container, shortcut creation, and unmanaged user type for default app tests.

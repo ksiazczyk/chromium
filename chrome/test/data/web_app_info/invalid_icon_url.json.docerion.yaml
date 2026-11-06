@@ -1,0 +1,4 @@
+# Docerion header of invalid_icon_url.json.
+type: test
+title: Invalid icon URL test fixture
+summary: Web app fixture with an icon entry pointing to another domain, used to test rejection of invalid icon URLs.

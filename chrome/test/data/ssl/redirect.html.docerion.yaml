@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.
+type: test
+title: Redirect test page
+summary: HTML test page that redirects the browser to the URL supplied in its query string.

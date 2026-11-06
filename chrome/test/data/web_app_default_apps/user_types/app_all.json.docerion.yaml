@@ -1,0 +1,4 @@
+# Docerion header of app_all.json.
+type: test
+title: Default web app test data for all user types
+summary: JSON fixture defining a default web app opened in a tab with shortcuts for unmanaged, managed, child, supervised, and guest user types in Chrome tests.

@@ -1,0 +1,4 @@
+# Docerion header of CountingMetrics.plist.
+type: test
+title: CountingMetrics.plist
+summary: Property list fixture with per-app metrics such as last active ping dates, rollcall days, and product states used in updater tests.

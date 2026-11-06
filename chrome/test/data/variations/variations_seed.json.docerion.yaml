@@ -1,0 +1,4 @@
+# Docerion header of variations_seed.json.
+type: test
+title: Variations seed test data
+summary: Large JSON fixture with a compressed variations seed and its signature, serving as test data for variations seed processing.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Top sites thumbnails database fixture, version 3
+-- summary: SQL dump that creates a version 3 thumbnail database with thumbnail and favicon rows containing embedded JPEG blobs, used as top sites test data.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY,value LONGVARCHAR);
 INSERT INTO "meta" VALUES('version','3');

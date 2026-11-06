@@ -1,0 +1,4 @@
+# Docerion header of wrong_user_type.json.
+type: test
+title: Wrong user type web app test fixture
+summary: JSON test fixture describing a default web app with launch container window and a deliberately wrong user type for Chrome web app tests.

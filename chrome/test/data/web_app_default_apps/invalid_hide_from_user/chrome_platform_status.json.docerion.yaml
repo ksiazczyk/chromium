@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Invalid hide_from_user default app test data
+summary: Test JSON fixture defining a default app entry with an invalid hide_from_user value for web app default app tests.

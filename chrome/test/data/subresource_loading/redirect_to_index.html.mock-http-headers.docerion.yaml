@@ -1,0 +1,4 @@
+# Docerion header of redirect_to_index.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect to index
+summary: Mock HTTP headers that respond with a 307 temporary redirect to the index test page.

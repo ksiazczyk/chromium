@@ -1,0 +1,4 @@
+# Docerion header of web_speech_test.html.
+type: test
+title: Web Speech recognition pass/fail test page
+summary: Test page that starts continuous SpeechRecognition and signals PASS or FAIL through the document title and exposes results.

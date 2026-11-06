@@ -1,0 +1,4 @@
+# Docerion header of .install.
+type: test
+title: Test .install script that exits successfully
+summary: Shell script fixture for the updater setup test that simulates a successful install step by exiting with code zero.

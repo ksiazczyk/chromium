@@ -1,0 +1,4 @@
+# Docerion header of marker.app.
+type: test
+title: marker.app empty marker file
+summary: Empty marker file used as a fixture in the updater setup preinstall failure test, presumably to stand in for an app bundle.

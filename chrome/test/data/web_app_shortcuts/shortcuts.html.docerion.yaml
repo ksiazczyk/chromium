@@ -1,0 +1,4 @@
+# Docerion header of shortcuts.html.
+type: test
+title: Web app shortcuts test page
+summary: Test page with six sections that registers a service worker and highlights the section matching the URL hash for shortcut testing.

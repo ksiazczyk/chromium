@@ -1,0 +1,4 @@
+# Docerion header of page_displays_insecure_content.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the insecure content test page
+summary: Mock HTTP response headers serving the insecure content test page with a 200 OK status and the fenced-frame loading mode support header.

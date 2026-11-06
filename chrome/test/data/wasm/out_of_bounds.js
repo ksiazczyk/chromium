@@ -4,6 +4,12 @@
 
 // This file contains tests to exercise Wasm's in- and out- of bounds behavior.
 
+// ---docerion
+// type: test
+// title: Wasm memory bounds behavior tests
+// summary: Tests Wasm in- and out-of-bounds memory access and memory growth behavior through peek, poke, and grow functions.
+// ---
+
 const module_bytes = (function createModule() {
   const builder = new WasmModuleBuilder;
 

@@ -1,0 +1,4 @@
+# Docerion header of invalid_urls.json.
+type: test
+title: Invalid URLs test fixture
+summary: Web app fixture mixing relative and absolute URLs, including one from another domain, to test URL validation.

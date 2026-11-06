@@ -1,0 +1,4 @@
+# Docerion header of app_unmanaged.json.
+type: test
+title: Default web app test data for unmanaged users
+summary: JSON fixture defining a default web app opened in a tab with shortcuts, scoped to the unmanaged user type for Chrome default app tests.

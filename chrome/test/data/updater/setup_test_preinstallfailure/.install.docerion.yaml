@@ -1,0 +1,4 @@
+# Docerion header of .install.
+type: test
+title: .install script exiting with code 2
+summary: Shell script fixture for the updater setup test that simulates the install step failing with exit code 2.

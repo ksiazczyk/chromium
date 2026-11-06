@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // Also blank.
+
+// ---docerion
+// type: test
+// title: Blank script for the test page
+// summary: Intentionally blank JavaScript file loaded by the test page's script element.
+// ---

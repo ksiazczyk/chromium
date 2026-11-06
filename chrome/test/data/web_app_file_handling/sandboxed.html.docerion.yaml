@@ -1,0 +1,4 @@
+# Docerion header of sandboxed.html.
+type: test
+title: Sandboxed in-scope test page
+summary: Empty page served with a sandbox CSP to verify that sandboxed in-scope documents never receive file handles minted for the app.

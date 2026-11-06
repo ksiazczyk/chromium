@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test page script for service worker registration and fetch requests
+// summary: Registers the service worker and asks it to fetch URLs over a message channel, returning the result to the page.
+// ---
+
 // Registers an associated service worker.
 async function registerWorker() {
   await navigator.serviceWorker.register('./service_worker.js');

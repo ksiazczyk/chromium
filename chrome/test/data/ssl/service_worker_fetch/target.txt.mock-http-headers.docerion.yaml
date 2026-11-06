@@ -1,0 +1,4 @@
+# Docerion header of target.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for target.txt
+summary: Mock response headers served with target.txt, allowing cross-origin fetches as UTF-8 plain text.

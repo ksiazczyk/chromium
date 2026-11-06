@@ -1,0 +1,4 @@
+# Docerion header of .preinstall.
+type: test
+title: .preinstall test script
+summary: Shell script fixture that exits with status 0 to simulate a successful pre-install step in updater setup tests.

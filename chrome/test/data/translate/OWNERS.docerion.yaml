@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Translate test data owners
+summary: Delegates code ownership of this test data directory to the shared translate component owners file.

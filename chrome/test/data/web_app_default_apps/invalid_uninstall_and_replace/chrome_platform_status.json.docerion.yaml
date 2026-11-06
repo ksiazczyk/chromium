@@ -1,0 +1,4 @@
+# Docerion header of chrome_platform_status.json.
+type: test
+title: Chrome Platform Status default app, invalid uninstall_and_replace string
+summary: Test data JSON describing a chromestatus.com default app whose uninstall_and_replace value is a plain string, exercising invalid default app definitions.

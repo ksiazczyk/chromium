@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification Service Worker
+// summary: Service worker that displays and closes persistent notifications and answers page messages during browser tests.
+// ---
+
 self.addEventListener('install', function() {
   // Activate worker immediately.
   return self.skipWaiting();

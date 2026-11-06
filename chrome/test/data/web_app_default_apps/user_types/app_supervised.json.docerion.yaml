@@ -1,0 +1,4 @@
+# Docerion header of app_supervised.json.
+type: test
+title: Default web app test data for supervised users
+summary: JSON fixture defining a default web app opened in a tab with shortcuts, scoped to the supervised user type for Chrome default app tests.

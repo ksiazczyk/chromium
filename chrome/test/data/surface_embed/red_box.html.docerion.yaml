@@ -1,0 +1,4 @@
+# Docerion header of red_box.html.
+type: test
+title: Red Box Test Page
+summary: Minimal test page rendering a full-viewport red background, used as a visual fixture for surface embedding tests.

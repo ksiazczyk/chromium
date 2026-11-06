@@ -1,0 +1,4 @@
+# Docerion header of full.json.
+type: test
+title: Full web app info test fixture
+summary: Complete web app definition with name, description, launch container, permissions, icons and URLs, used to exercise full parsing in Chrome web app tests.
