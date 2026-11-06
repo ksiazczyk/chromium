@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-keyboard-target-expected-uia-win.txt.
+type: test
+title: aria-actions no-keyboard-target expected UIA Windows output
+summary: Expected UIA accessibility tree for the aria-actions no-keyboard-target test, listing groups with hasactions and buttons on Windows.

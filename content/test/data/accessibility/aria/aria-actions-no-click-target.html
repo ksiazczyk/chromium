@@ -16,6 +16,12 @@
      CL 7850801) passes — these scenarios isolate the click-handler
      check. -->
 
+<!--docerion
+type: test
+title: aria-actions no-click-target test page
+summary: HTML test page verifying that aria-actions targets without a click handler, such as disabled buttons or plain spans, are dropped while has-actions stays set.
+-->
+
 <!-- Mixed: a native button (kept) and an ARIA-role-only button with
      no click listener (dropped). -->
 <div role="group" id="mixed-host" aria-actions="native-button aria-button">

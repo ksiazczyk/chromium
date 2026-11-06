@@ -1,0 +1,4 @@
+# Docerion header of aria-cell-expected-android-assist-data.txt.
+type: test
+title: ARIA cell expected Android assist data
+summary: Expected Android assist data snapshot for the aria-cell test, showing a table with column headers Browser and Rendering Engine and cells Chrome and Blink.

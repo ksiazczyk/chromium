@@ -1,0 +1,4 @@
+# Docerion header of annotation-roles-expected-win.txt.
+type: test
+title: Expected Windows IA2 output for annotation roles test
+summary: Expected Windows IA2 accessibility output for the annotation roles test covering comment, suggestion and mark roles.

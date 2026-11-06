@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-auralinux.txt.
+type: test
+title: Aria code expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the aria code role test with static nodes for code elements.

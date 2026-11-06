@@ -1,0 +1,4 @@
+# Docerion header of aria-blockquote-expected-auralinux.txt.
+type: test
+title: aria-blockquote expected Linux accessibility tree
+summary: Expected Linux accessibility tree output for the aria blockquote test, showing the blockquote role and its text.

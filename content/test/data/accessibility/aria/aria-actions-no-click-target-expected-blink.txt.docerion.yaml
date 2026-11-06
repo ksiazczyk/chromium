@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-click-target-expected-blink.txt.
+type: test
+title: Expected Blink tree for ARIA actions without click target
+summary: Expected Blink accessibility tree snapshot for the no-click-target test, showing which groups gain actions when no clickable child exists.

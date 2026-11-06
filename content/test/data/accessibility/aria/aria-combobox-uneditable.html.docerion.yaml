@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-uneditable.html.
+type: test
+title: Uneditable ARIA combobox test page
+summary: HTML test page with an uneditable combobox acting like a select element, plus platform-specific accessibility directives.

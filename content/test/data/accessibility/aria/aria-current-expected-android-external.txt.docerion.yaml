@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-android-external.txt.
+type: test
+title: Expected Android external output for aria-current
+summary: Expected Android external accessibility output listing actions and bundles for elements with various aria-current values.

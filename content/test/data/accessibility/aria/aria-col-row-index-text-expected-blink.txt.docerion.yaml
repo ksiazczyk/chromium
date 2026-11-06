@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-text-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-col-row-index-text
+summary: Expected Blink accessibility tree snapshot for the aria-col-row-index-text test, including aria cell row and column index text values.

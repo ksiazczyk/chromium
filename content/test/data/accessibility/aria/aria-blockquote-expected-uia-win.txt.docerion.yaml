@@ -1,0 +1,4 @@
+# Docerion header of aria-blockquote-expected-uia-win.txt.
+type: test
+title: aria-blockquote expected UIA Windows accessibility tree
+summary: Expected UIA Windows accessibility tree for the aria blockquote test, showing document, group and text nodes.

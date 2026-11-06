@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-expected-blink.txt.
+type: test
+title: aria-activedescendant expected Blink tree
+summary: Expected Blink accessibility tree for the aria-activedescendant test showing the active menu item checkbox.

@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-controls test
+summary: Expected Windows accessibility tree snapshot for the aria-controls menu test with controllerFor relations on the menu item.

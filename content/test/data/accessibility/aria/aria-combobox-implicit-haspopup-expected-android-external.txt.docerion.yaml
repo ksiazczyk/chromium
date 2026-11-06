@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-android-external.txt.
+type: test
+title: Implicit haspopup combobox expected Android external tree
+summary: Expected Android external accessibility snapshot for the implicit haspopup combobox test with actions and chrome role bundles.

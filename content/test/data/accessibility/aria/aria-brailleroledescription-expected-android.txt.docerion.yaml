@@ -1,0 +1,4 @@
+# Docerion header of aria-brailleroledescription-expected-android.txt.
+type: test
+title: Expected Android tree for aria-brailleroledescription
+summary: Expected Android accessibility tree snapshot for a page testing aria-brailleroledescription on checkbox elements.

@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-click-target-expected-win.txt.
+type: test
+title: aria-actions no-click-target expected Windows IA2 output
+summary: Expected MSAA/IA2 accessibility tree for the aria-actions no-click-target test, showing roles, names and has-actions flags on Windows.

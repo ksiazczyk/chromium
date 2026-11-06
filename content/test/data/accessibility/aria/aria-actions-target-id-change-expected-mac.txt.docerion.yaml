@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-target-id-change-expected-mac.txt.
+type: test
+title: Expected macOS tree for the aria-actions target ID change test
+summary: Expected macOS accessibility tree snapshots across the switch, remove, and restore states of the aria-actions target ID change test.

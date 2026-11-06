@@ -1,0 +1,4 @@
+# Docerion header of aria-cell-expected-android.txt.
+type: test
+title: ARIA cell expected Android output
+summary: Expected Android accessibility tree for the aria-cell test, showing a grid view with table header and cell collection items.

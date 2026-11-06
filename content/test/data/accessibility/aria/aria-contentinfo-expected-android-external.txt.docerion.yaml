@@ -1,0 +1,4 @@
+# Docerion header of aria-contentinfo-expected-android-external.txt.
+type: test
+title: Expected Android external output for the ARIA contentinfo test
+summary: Expected Android external accessibility output listing roles and actions for the ARIA contentinfo role test page.

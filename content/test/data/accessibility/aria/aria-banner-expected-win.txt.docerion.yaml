@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-win.txt.
+type: test
+title: aria-banner expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the aria banner test, showing the landmark role and static text.

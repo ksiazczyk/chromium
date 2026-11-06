@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for aria actions test
+summary: Expected Linux accessibility tree for the aria actions test, listing actions for tabs, buttons and links including a continuation case.

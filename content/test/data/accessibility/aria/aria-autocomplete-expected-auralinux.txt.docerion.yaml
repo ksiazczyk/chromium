@@ -1,0 +1,4 @@
+# Docerion header of aria-autocomplete-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for the aria-autocomplete test
+summary: Expected Linux accessibility tree snapshot showing combo box autocompletion and haspopup states for the aria-autocomplete test page.

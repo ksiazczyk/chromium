@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-reference-target-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-controls reference target test
+summary: Expected Blink accessibility tree snapshot for the aria-controls test using a reference target, matching the standard menu tree.

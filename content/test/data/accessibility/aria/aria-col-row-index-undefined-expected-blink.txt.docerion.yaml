@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-col-row-index-undefined
+summary: Expected Blink accessibility tree snapshot for the aria-col-row-index-undefined test showing computed cell row and column indexes.

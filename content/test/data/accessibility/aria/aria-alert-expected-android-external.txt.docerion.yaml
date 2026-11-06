@@ -1,0 +1,4 @@
+# Docerion header of aria-alert-expected-android-external.txt.
+type: test
+title: Expected Android external output for aria alert
+summary: Expected external Android accessibility view output for a page using the ARIA alert role.

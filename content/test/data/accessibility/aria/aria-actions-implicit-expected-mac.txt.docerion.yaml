@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-implicit-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for implicit ARIA actions
+summary: Expected macOS AX tree snapshot for the implicit actions test, showing custom actions on list, menu and popup button items.

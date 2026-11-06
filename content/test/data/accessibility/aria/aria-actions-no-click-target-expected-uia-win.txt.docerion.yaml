@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-click-target-expected-uia-win.txt.
+type: test
+title: aria-actions no-click-target expected UIA Windows output
+summary: Expected UIA accessibility tree for the aria-actions no-click-target test, listing groups with hasactions, buttons and text as exposed on Windows.

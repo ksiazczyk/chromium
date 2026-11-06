@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-actions
+summary: Expected Blink accessibility tree snapshot for the aria-actions test, showing tabs with actions such as Edit, Open and Close before and after an id change.

@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-reference-target-expected-blink.txt.
+type: test
+title: Expected Blink tree for the aria-actions reference target test
+summary: Expected Blink accessibility tree snapshot for the aria-actions reference target test, showing a text field exposing an Edit action.

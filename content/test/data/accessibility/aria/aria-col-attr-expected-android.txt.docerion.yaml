@@ -1,0 +1,4 @@
+# Docerion header of aria-col-attr-expected-android.txt.
+type: test
+title: aria-col-attr expected Android accessibility tree
+summary: Expected Android accessibility tree output for the ARIA column attribute test, showing grid cells with row and column indices.

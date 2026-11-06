@@ -1,0 +1,4 @@
+# Docerion header of aria-checked-expected-android-external.txt.
+type: test
+title: aria-checked expected Android external tree
+summary: Expected Android external accessibility tree snapshot for the aria-checked test page with checkbox checked states.

@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-controls test
+summary: Expected Linux accessibility tree snapshot showing controller-for and controlled-by relations for the aria-controls test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-button-expected-android.txt.
+type: test
+title: aria-button expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-button test page, verifying button, toggle, and popup button roles.

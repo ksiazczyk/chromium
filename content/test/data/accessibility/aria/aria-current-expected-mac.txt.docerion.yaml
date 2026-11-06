@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-mac.txt.
+type: test
+title: Expected Mac tree for aria-current
+summary: Expected macOS accessibility tree showing AXARIACurrent attributes for links, headings, groups and static text.

@@ -1,0 +1,4 @@
+# Docerion header of aria-application-expected-android-external.txt.
+type: test
+title: aria-application expected Android external output
+summary: Expected Android external accessibility output for the ARIA application role test, including focus actions and chrome role bundle data.

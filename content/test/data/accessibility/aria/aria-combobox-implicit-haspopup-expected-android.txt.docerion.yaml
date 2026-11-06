@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-android.txt.
+type: test
+title: Implicit haspopup combobox expected Android tree
+summary: Expected Android accessibility tree for the implicit haspopup combobox test covering WebView, EditText and Spinner nodes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-blockquote-expected-win.txt.
+type: test
+title: aria-blockquote expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for a page using the blockquote role, showing the blockquote role mapping.

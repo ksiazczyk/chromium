@@ -1,0 +1,4 @@
+# Docerion header of aria-controls-reference-target.html.
+type: test
+title: ARIA controls reference target test page
+summary: HTML test page with a menubar whose aria-controls points at a menu inside a shadow root exposed via shadowrootreferencetarget.

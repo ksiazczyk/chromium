@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-auralinux.txt.
+type: test
+title: aria-banner expected Linux accessibility tree
+summary: Expected Linux accessibility tree output for the aria banner test, listing the banner landmark and its static text.

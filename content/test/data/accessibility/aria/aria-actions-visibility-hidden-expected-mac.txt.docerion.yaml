@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-visibility-hidden-expected-mac.txt.
+type: test
+title: Expected macOS tree for the aria-actions visibility hidden test
+summary: Expected macOS accessibility tree snapshot for the aria-actions visibility hidden test covering visible, hidden, mixed, and ancestor-hidden targets.

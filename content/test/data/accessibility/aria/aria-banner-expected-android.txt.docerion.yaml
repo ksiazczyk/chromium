@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-android.txt.
+type: test
+title: aria-banner expected Android accessibility tree
+summary: Expected Android accessibility tree output for the aria banner test page, showing the banner landmark as exposed in WebView.

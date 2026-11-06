@@ -1,0 +1,4 @@
+# Docerion header of aria-contentinfo-expected-mac.txt.
+type: test
+title: Expected macOS output for the ARIA contentinfo test
+summary: Expected macOS AX accessibility tree output for the ARIA contentinfo role test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-auralinux.txt.
+type: test
+title: Implicit haspopup combobox expected Linux AT-SPI tree
+summary: Expected Linux assistive technology accessibility tree for the implicit haspopup combobox test with combo box, entry and static roles.

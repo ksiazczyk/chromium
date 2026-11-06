@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-keyboard-target-expected-mac.txt.
+type: test
+title: aria-actions no-keyboard-target expected macOS output
+summary: Expected macOS AX tree for the aria-actions no-keyboard-target test, showing groups with custom action names and buttons.

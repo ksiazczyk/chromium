@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for the aria-banner test
+summary: Expected Android external accessibility snapshot for a banner-role element with its actions and role description.

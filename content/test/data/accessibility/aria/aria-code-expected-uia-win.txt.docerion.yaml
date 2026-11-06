@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-uia-win.txt.
+type: test
+title: aria-code expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree output for the aria code role test on Windows, showing code text elements and localized control types.

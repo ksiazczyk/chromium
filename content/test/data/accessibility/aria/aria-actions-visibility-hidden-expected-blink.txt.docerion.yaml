@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-visibility-hidden-expected-blink.txt.
+type: test
+title: Expected Blink tree for the aria-actions visibility hidden test
+summary: Expected Blink accessibility tree snapshot for the aria-actions visibility hidden test covering visible, hidden, mixed, and ancestor-hidden targets.

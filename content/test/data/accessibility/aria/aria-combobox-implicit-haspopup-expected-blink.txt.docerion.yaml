@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-blink.txt.
+type: test
+title: Implicit haspopup combobox expected Blink tree
+summary: Expected Blink accessibility tree for the implicit haspopup combobox test covering grouping, text field and menu button combobox roles.

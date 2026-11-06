@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-mac.txt.
+type: test
+title: aria-braillelabel expected output for macOS
+summary: Expected macOS accessibility tree snapshot showing AXBrailleLabel on a checkbox element.

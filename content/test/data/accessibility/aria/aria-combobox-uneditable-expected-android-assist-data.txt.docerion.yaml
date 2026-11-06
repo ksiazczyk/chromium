@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-uneditable-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for uneditable ARIA combobox
+summary: Expected Android accessibility tree with assist data for the uneditable ARIA combobox test page.

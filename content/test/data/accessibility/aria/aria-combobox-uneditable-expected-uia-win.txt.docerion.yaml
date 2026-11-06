@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-uneditable-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for uneditable ARIA combobox
+summary: Expected Windows UIA accessibility tree for the uneditable ARIA combobox test page.

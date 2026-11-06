@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-expected-win.txt.
+type: test
+title: Expected Windows output for aria-atomic test
+summary: Expected Windows accessibility tree output for the aria-atomic test page with atomic and container-atomic properties.

@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-name-target-expected-uia-win.txt.
+type: test
+title: aria-actions-no-name-target expected output for UIA on Windows
+summary: Expected UIA accessibility tree on Windows for the aria-actions test where action targets lack accessible names, marking hasactions on the host elements.

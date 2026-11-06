@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-prohibited-roles-expected-win.txt.
+type: test
+title: aria-actions-prohibited-roles expected output for Windows IA2
+summary: Expected Windows IA2 accessibility tree for the aria-actions test checking that roles prohibiting actions do not expose them, while allowed hosts do.

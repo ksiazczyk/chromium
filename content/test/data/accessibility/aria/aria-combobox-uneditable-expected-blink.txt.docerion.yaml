@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-uneditable-expected-blink.txt.
+type: test
+title: Expected Blink output for uneditable ARIA combobox
+summary: Expected Blink internal accessibility tree for the uneditable ARIA combobox test page.

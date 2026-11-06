@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-expected-uia-win.txt.
+type: test
+title: Expected UIA tree for aria-col-row-index
+summary: Expected UIA accessibility tree snapshot for the aria-col-row-index test, listing grid row and column positions of table cells on Windows.

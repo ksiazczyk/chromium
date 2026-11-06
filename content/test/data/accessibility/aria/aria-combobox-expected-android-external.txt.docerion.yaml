@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for ARIA combobox
+summary: Expected Android external accessibility node tree for the ARIA combobox test, including actions, collection info and Chrome roles.

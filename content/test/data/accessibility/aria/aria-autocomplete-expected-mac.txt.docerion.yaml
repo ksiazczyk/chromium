@@ -1,0 +1,4 @@
+# Docerion header of aria-autocomplete-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the aria-autocomplete test
+summary: Expected macOS accessibility snapshot showing AXComboBox and AXTextField autocomplete values for the aria-autocomplete test page.

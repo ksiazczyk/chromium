@@ -1,0 +1,4 @@
+# Docerion header of aria-alert-expected-blink.txt.
+type: test
+title: Expected Blink output for aria alert
+summary: Expected Blink accessibility tree output for a page using the ARIA alert role.

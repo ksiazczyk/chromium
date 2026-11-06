@@ -1,0 +1,4 @@
+# Docerion header of aria-col-attr-expected-android-external.txt.
+type: test
+title: aria-col-attr expected Android external accessibility output
+summary: Expected Android external accessibility output for the ARIA column attribute test, showing grid collection item info for cells and headers.

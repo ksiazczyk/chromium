@@ -1,0 +1,4 @@
+# Docerion header of aria-application-expected-auralinux.txt.
+type: test
+title: aria-application expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the ARIA application role test, showing a document web containing an embedded component.

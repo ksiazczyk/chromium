@@ -1,0 +1,4 @@
+# Docerion header of aria-comment-expected-blink.txt.
+type: test
+title: aria-comment expected Blink output
+summary: Expected Blink accessibility tree for the ARIA comment role test, covering element, aria-owns and aria-level hierarchies with set and position values.

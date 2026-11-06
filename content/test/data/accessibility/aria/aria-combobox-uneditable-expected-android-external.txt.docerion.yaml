@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-uneditable-expected-android-external.txt.
+type: test
+title: Expected Android external output for uneditable ARIA combobox
+summary: Expected Android external accessibility output describing views, actions and roles for the uneditable ARIA combobox test page.

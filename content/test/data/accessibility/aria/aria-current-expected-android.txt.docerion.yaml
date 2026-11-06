@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-android.txt.
+type: test
+title: Expected Android tree for aria-current
+summary: Expected Android accessibility tree with state descriptions for aria-current values on links, headings, spans and paragraphs.

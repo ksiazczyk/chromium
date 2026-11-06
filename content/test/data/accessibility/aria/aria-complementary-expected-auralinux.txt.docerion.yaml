@@ -1,0 +1,4 @@
+# Docerion header of aria-complementary-expected-auralinux.txt.
+type: test
+title: aria-complementary expected Linux output
+summary: Expected Linux accessibility tree output for the ARIA complementary role test page.

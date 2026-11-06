@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for ARIA combobox
+summary: Expected Linux accessibility tree snapshot for the ARIA combobox test, covering combo box, list box, table and tree table relations.

@@ -1,0 +1,4 @@
+# Docerion header of aria-atomic-expected-blink.txt.
+type: test
+title: Expected Blink output for aria-atomic test
+summary: Expected Blink accessibility tree output for the aria-atomic test page with liveAtomic and containerLiveAtomic flags.

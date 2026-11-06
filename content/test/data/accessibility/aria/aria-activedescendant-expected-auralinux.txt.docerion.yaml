@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-expected-auralinux.txt.
+type: test
+title: aria-activedescendant expected Auralinux tree
+summary: Expected Auralinux accessibility tree for the aria-activedescendant test with a menu and its menu items.

@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows tree for aria-col-row-index-undefined
+summary: Expected UIA accessibility tree output for the aria-col-row-index-undefined test, listing grid DataItems with row and column spans.

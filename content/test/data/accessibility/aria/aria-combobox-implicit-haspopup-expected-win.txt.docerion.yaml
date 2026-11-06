@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-win.txt.
+type: test
+title: Implicit haspopup combobox expected Windows tree
+summary: Expected Windows accessibility tree for the implicit haspopup combobox test with combobox, text and static text roles.

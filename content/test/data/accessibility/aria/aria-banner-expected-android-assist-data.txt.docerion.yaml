@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-banner test
+summary: Expected Android assist data snapshot for a page element with the banner role containing Chromium Browser text.

@@ -1,0 +1,4 @@
+# Docerion header of aria-autocomplete-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the aria-autocomplete test
+summary: Expected Windows accessibility snapshot with IA2 roles, states and autocompletion properties for inputs with aria-autocomplete values.

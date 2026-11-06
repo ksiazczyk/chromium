@@ -1,0 +1,4 @@
+# Docerion header of aria-contentinfo-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the ARIA contentinfo test
+summary: Expected Android assist data snapshot describing the accessibility node structure produced by the ARIA contentinfo role test page.

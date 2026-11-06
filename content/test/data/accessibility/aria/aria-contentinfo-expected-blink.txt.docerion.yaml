@@ -1,0 +1,4 @@
+# Docerion header of aria-contentinfo-expected-blink.txt.
+type: test
+title: Expected Blink output for the ARIA contentinfo test
+summary: Expected Blink internal accessibility tree output for the ARIA contentinfo role test page.

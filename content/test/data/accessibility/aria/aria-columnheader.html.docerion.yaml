@@ -1,0 +1,4 @@
+# Docerion header of aria-columnheader.html.
+type: test
+title: ARIA columnheader accessibility test page
+summary: HTML test page with a grid using columnheader and gridcell roles to verify column header accessibility output across platforms.

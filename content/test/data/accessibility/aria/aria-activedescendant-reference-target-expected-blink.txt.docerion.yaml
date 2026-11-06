@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-reference-target-expected-blink.txt.
+type: test
+title: aria-activedescendant reference-target expected Blink tree
+summary: Expected Blink accessibility tree for the aria-activedescendant shadow DOM reference-target test.

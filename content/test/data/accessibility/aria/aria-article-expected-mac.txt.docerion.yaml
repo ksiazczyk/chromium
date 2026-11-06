@@ -1,0 +1,4 @@
+# Docerion header of aria-article-expected-mac.txt.
+type: test
+title: ARIA article expected macOS output
+summary: Expected macOS accessibility tree output for the ARIA article role test.

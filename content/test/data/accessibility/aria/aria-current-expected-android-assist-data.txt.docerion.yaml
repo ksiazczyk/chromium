@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-current
+summary: Expected Android assist data tree showing state descriptions for aria-current values on links, headings, spans and paragraphs.

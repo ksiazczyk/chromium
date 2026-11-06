@@ -1,0 +1,4 @@
+# Docerion header of aria-code.html.
+type: test
+title: aria-code accessibility test page
+summary: HTML test page rendering code elements with and without accessible names for cross-platform accessibility tree verification.

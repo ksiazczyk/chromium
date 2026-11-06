@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-implicit-haspopup-expected-android-assist-data.txt.
+type: test
+title: Implicit haspopup combobox expected Android assist data
+summary: Expected Android assist accessibility data for the implicit haspopup combobox test, describing WebView, EditText and Spinner nodes with HTML info.

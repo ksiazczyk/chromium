@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-dynamic.html.
+type: test
+title: Dynamic ARIA combobox test page
+summary: HTML test page that dynamically appends a listbox option to a combobox and signals completion by changing a status element's aria-label.

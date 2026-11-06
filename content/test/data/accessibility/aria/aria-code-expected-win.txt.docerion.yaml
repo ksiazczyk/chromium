@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-win.txt.
+type: test
+title: aria-code expected accessibility tree for Windows IA2
+summary: Expected Windows IA2 accessibility tree output for the aria code role test, showing text frames with the xml-roles code attribute.

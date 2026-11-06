@@ -1,0 +1,4 @@
+# Docerion header of aria-article-expected-android.txt.
+type: test
+title: ARIA article expected Android output
+summary: Expected Android accessibility tree output for the ARIA article role test.

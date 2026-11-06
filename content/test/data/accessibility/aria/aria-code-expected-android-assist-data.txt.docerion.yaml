@@ -1,0 +1,4 @@
+# Docerion header of aria-code-expected-android-assist-data.txt.
+type: test
+title: Aria code expected Android assist data
+summary: Expected Android assist data tree snapshot for the aria code role test, including named and unnamed code elements.

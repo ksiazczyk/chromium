@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-blink.txt.
+type: test
+title: aria-braillelabel expected output for Blink
+summary: Expected Blink internal accessibility tree snapshot for a checkbox with an ariaBrailleLabel attribute.

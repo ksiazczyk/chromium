@@ -1,0 +1,4 @@
+# Docerion header of aria-activedescendant-reference-target-dynamic-expected-blink.txt.
+type: test
+title: aria-activedescendant reference-target dynamic expected Blink tree
+summary: Expected Blink accessibility tree snapshots for the dynamic aria-activedescendant reference-target test across scripted state changes.

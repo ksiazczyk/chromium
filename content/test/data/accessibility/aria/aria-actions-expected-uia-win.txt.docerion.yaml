@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for aria-actions
+summary: Expected Windows UIA tree snapshot for the aria-actions test, describing tab items with accessible actions Edit, Open and Close.

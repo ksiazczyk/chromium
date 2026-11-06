@@ -1,0 +1,4 @@
+# Docerion header of aria-braillelabel-expected-android-assist-data.txt.
+type: test
+title: aria-braillelabel expected output for Android assist data
+summary: Expected Android assist data snapshot for a checkbox using aria-braillelabel, showing the aria-braillelabel attribute in the output.

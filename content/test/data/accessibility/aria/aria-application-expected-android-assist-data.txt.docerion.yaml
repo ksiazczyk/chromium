@@ -1,0 +1,4 @@
+# Docerion header of aria-application-expected-android-assist-data.txt.
+type: test
+title: aria-application expected Android assist data
+summary: Expected Android assist data output for the ARIA application role test, showing the WebView and body view with role application.

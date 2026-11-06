@@ -1,0 +1,4 @@
+# Docerion header of aria-any-unignored-expected-blink.txt.
+type: test
+title: aria-any-unignored expected Blink accessibility tree
+summary: Expected Blink accessibility tree showing that any ARIA attribute causes an otherwise ignored object to be exposed.

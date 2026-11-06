@@ -1,0 +1,4 @@
+# Docerion header of aria-banner-expected-blink.txt.
+type: test
+title: aria-banner expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the aria banner test, including the banner node and static text.

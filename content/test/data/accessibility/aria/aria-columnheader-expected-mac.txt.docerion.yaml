@@ -1,0 +1,4 @@
+# Docerion header of aria-columnheader-expected-mac.txt.
+type: test
+title: Expected macOS tree for aria-columnheader
+summary: Expected macOS accessibility tree for the aria-columnheader test with AXTable, AXColumn and column header relationships.

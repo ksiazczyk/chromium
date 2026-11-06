@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-implicit-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for implicit ARIA actions
+summary: Expected Blink accessibility tree snapshot for the implicit actions test, covering select, listbox and menu items with nested buttons and links.

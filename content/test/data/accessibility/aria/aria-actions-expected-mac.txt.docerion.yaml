@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-actions
+summary: Expected macOS AX tree snapshot for the aria-actions test, listing tab buttons with custom action names like Edit, Open and Delete.

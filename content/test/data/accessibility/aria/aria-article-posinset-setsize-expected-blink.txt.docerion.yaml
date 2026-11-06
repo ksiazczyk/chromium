@@ -1,0 +1,4 @@
+# Docerion header of aria-article-posinset-setsize-expected-blink.txt.
+type: test
+title: ARIA article posinset and setsize expected Blink output
+summary: Expected Blink accessibility tree output for the ARIA article posinset and setsize test.

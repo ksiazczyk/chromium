@@ -1,0 +1,4 @@
+# Docerion header of aria-any-unignored.html.
+type: test
+title: aria-any-unignored test page
+summary: HTML test page verifying that the presence of any ARIA attribute, even a nonsense one, makes an ignored element unignored.

@@ -1,0 +1,4 @@
+# Docerion header of aria-actions-no-keyboard-target-expected-auralinux.txt.
+type: test
+title: aria-actions no-keyboard-target expected Linux output
+summary: Expected AT-SPI accessibility tree for the aria-actions no-keyboard-target test, showing exposed actions for panels, buttons and static text on Linux.

@@ -1,0 +1,4 @@
+# Docerion header of aria-autocomplete-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the aria-autocomplete test
+summary: Expected Blink internal accessibility tree snapshot for inputs with aria-autocomplete values inline, list, both and none.

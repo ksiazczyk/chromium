@@ -1,0 +1,4 @@
+# Docerion header of aria-combobox-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for ARIA combobox test
+summary: Expected Android assist data snapshot for the ARIA combobox test, listing WebView node text, sizes and HTML attributes.

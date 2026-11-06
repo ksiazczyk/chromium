@@ -1,0 +1,4 @@
+# Docerion header of aria-application-expected-mac.txt.
+type: test
+title: aria-application expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the ARIA application role test, showing an AXGroup with AXEmptyGroup subrole and application role description.

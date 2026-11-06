@@ -1,0 +1,4 @@
+# Docerion header of aria-col-row-index-undefined-expected-win.txt.
+type: test
+title: Expected Windows tree for aria-col-row-index-undefined
+summary: Expected Windows MSAA/IA2 accessibility tree output for the aria-col-row-index-undefined test with table cell row and column indexes.
