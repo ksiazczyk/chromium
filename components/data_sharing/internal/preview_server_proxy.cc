@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview server proxy implementation
+// summary: Implements PreviewServerProxy, fetching a preview of shared group data from the Chrome sync shared entities server and parsing the JSON response into shared data outcomes.
+// ---
+
 #include "components/data_sharing/internal/preview_server_proxy.h"
 
 #include <algorithm>

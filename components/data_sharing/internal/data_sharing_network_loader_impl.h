@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing network loader implementation header
+// summary: Declares DataSharingNetworkLoaderImpl, the internal network loader that fetches data sharing URLs via EndpointFetcher with identity and traffic annotations.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_DATA_SHARING_NETWORK_LOADER_IMPL_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_DATA_SHARING_NETWORK_LOADER_IMPL_H_
 

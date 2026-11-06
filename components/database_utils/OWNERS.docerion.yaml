@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for database_utils
+summary: Delegates code ownership of database_utils to the owners listed in components/history/OWNERS.

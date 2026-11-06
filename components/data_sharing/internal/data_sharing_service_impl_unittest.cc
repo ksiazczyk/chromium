@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing service unit tests
+// summary: Parameterized unit tests for DataSharingServiceImpl covering construction and group operations with a fake SDK delegate and in-memory sync store.
+// ---
+
 #include "components/data_sharing/internal/data_sharing_service_impl.h"
 
 #include <memory>

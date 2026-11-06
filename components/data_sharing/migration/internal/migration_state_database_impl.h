@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration state database implementation class declaration
+// summary: Declares MigrationStateDatabaseImpl, a SQLite-backed migration state store with in-memory caching keyed by context id.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_MIGRATION_INTERNAL_MIGRATION_STATE_DATABASE_IMPL_H_
 #define COMPONENTS_DATA_SHARING_MIGRATION_INTERNAL_MIGRATION_STATE_DATABASE_IMPL_H_
 

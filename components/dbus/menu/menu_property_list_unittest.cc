@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for menu item property computation
+// summary: Tests ComputeMenuPropertiesForMenuItem and property change computation using test menu models covering labels, icons, shortcuts, and item types.
+// ---
+
 #include "components/dbus/menu/menu_property_list.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for data sharing internal
+summary: Lists the allowed include dependencies for code in the data sharing internal directory, covering sync, network, image fetching, and SQL components.

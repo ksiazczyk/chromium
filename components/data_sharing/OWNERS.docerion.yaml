@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for data sharing
+summary: Lists the owners of the data sharing directory and refers horizontal WebUI toolchain changes to the platform owners file.

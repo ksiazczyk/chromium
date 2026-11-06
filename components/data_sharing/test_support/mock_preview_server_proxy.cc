@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock preview server proxy implementation
+// summary: Provides the constructor and destructor for the mock PreviewServerProxy test double.
+// ---
+
 #include "components/data_sharing/test_support/mock_preview_server_proxy.h"
 
 #include "services/network/public/cpp/shared_url_loader_factory.h"

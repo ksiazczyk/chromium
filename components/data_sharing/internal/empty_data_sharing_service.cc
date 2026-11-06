@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty data sharing service implementation
+// summary: Implements EmptyDataSharingService with no-op methods and null returns for use when the data sharing feature is disabled.
+// ---
+
 #include "components/data_sharing/internal/empty_data_sharing_service.h"
 
 #include "base/functional/callback.h"

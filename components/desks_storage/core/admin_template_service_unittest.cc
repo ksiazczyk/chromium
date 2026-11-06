@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Admin template service unit tests
+// summary: Unit tests covering parsing of admin template policies and updates to the underlying desk model.
+// ---
+
 #include "components/desks_storage/core/admin_template_service.h"
 
 #include <string_view>

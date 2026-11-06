@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock personal collaboration data service header
+// summary: Declares a gmock mock of PersonalCollaborationDataService stubbing specifics creation, updates, deletion, and observer methods.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_TEST_SUPPORT_MOCK_PERSONAL_COLLABORATION_DATA_SERVICE_H_
 #define COMPONENTS_DATA_SHARING_TEST_SUPPORT_MOCK_PERSONAL_COLLABORATION_DATA_SERVICE_H_
 

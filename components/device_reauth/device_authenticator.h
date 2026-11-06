@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthenticator interface and params
+// summary: Declares DeviceAuthParams and the DeviceAuthenticator interface for biometric authentication, with deprecated availability methods guarded by a refactor killswitch.
+// ---
+
 #ifndef COMPONENTS_DEVICE_REAUTH_DEVICE_AUTHENTICATOR_H_
 #define COMPONENTS_DEVICE_REAUTH_DEVICE_AUTHENTICATOR_H_
 

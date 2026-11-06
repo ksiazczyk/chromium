@@ -1,0 +1,4 @@
+# Docerion header of example1.
+type: test
+title: 'Fuzzer corpus example 1: desk profile with browser tabs'
+summary: Fuzzer seed input holding a saved desk profile with a browser app, two tabs, a tab group and template desk type.

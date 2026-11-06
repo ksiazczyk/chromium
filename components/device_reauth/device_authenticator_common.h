@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common authenticator class declarations
+// summary: Declares the per-profile DeviceAuthenticatorProxy keyed service and DeviceAuthenticatorCommon, which manages reauthentication timing and metrics recording.
+// ---
+
 #ifndef COMPONENTS_DEVICE_REAUTH_DEVICE_AUTHENTICATOR_COMMON_H_
 #define COMPONENTS_DEVICE_REAUTH_DEVICE_AUTHENTICATOR_COMMON_H_
 

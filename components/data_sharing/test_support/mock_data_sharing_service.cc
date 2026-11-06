@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock data sharing service implementation
+// summary: Provides the constructor and destructor for the mock DataSharingService test double.
+// ---
+
 #include "components/data_sharing/test_support/mock_data_sharing_service.h"
 
 #include "components/data_sharing/public/data_sharing_sdk_delegate.h"

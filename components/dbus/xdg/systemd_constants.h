@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd D-Bus constants
+// summary: Defines constants for the systemd D-Bus service name, object path, interfaces, methods, and active-state property values.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_SYSTEMD_CONSTANTS_H_
 #define COMPONENTS_DBUS_XDG_SYSTEMD_CONSTANTS_H_
 

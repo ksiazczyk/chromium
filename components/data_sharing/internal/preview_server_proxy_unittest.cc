@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preview server proxy unit tests
+// summary: Unit tests for PreviewServerProxy that verify preview request URLs across channels and field trials, data type filtering, and parsing of shared tab group server responses.
+// ---
+
 #include "components/data_sharing/internal/preview_server_proxy.h"
 
 #include <memory>

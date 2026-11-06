@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the data sharing internals WebUI
+summary: Defines the build_webui target that bundles the page's CSS, HTML and TypeScript sources with generated mojo bindings into the data sharing internals WebUI.

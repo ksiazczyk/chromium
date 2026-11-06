@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Migration state database unit tests
+// summary: Unit tests verifying initialization, update, get, and delete operations of MigrationStateDatabaseImpl in a temporary directory.
+// ---
+
 #include "components/data_sharing/migration/internal/migration_state_database_impl.h"
 
 #include "base/files/scoped_temp_dir.h"

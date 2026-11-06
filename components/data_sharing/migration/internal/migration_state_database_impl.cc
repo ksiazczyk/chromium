@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration state database implementation
+// summary: Implements the migration state database using sqlite_proto key-value storage on a dedicated task runner, capped at 20000 entries.
+// ---
+
 #include "components/data_sharing/migration/internal/migration_state_database_impl.h"
 
 #include "base/files/file_util.h"

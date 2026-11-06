@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk sync bridge unit tests
+// summary: Unit tests for the desk sync bridge, verifying sync merge, incremental changes, entry limits, metrics, and proto conversion behavior.
+// ---
+
 #include "components/desks_storage/core/desk_sync_bridge.h"
 
 #include <stddef.h>

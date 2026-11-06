@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the dbus component
+summary: DEPS file that permits includes from the top-level dbus directory within this component.

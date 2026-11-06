@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingServiceAndroid JNI bridge header (data_sharing_service_android.h)
+// summary: Declares the Android bridge class exposing DataSharingService operations such as group management, URL parsing, previews, and observer routing to Java.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_SERVICE_ANDROID_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_SERVICE_ANDROID_H_
 

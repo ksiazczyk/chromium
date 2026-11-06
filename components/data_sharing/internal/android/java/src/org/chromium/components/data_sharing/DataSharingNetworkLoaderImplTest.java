@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for the data sharing network loader
+// summary: Robolectric unit test verifying that loadUrl delegates to the native loader with the expected URL, post data and request type.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import static org.mockito.Mockito.times;

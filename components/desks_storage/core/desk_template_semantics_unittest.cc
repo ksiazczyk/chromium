@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk template semantics unit tests
+// summary: Parameterized tests checking that policy desk template JSON stays semantically equivalent after a sync proto round trip through DeskSyncBridge.
+// ---
+
 #include <string>
 #include <string_view>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAuthAvailabilityChecker interface
+// summary: Declares the interface for checking biometric and screen lock availability before sharing user credentials, including the Android BiometricStatus enum.
+// ---
+
 #ifndef COMPONENTS_DEVICE_REAUTH_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 #define COMPONENTS_DEVICE_REAUTH_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 

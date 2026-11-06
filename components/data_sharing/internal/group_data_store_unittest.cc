@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group data store unit tests
+// summary: Tests storing, retrieving, and deleting group data in the SQLite-backed store, including persistence behavior across simulated restarts.
+// ---
+
 #include "components/data_sharing/internal/group_data_store.h"
 
 #include <memory>

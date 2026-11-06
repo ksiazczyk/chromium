@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Desktop to mobile promos include rules
+summary: Declares the allowed include dependencies for the desktop-to-mobile promos component.

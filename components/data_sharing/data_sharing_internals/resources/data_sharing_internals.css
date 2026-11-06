@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the Data Sharing Internals page
+summary: Styles the internals WebUI page, including the event log table columns, tab panels and monospace dump output.
+*/
+
 body {
   color: #333;
 }

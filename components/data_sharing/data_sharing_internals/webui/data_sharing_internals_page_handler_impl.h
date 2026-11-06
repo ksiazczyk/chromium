@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing internals page handler class declaration
+// summary: Declares the page handler class implementing the Mojo PageHandler interface and observing the data sharing service and logger.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_DATA_SHARING_INTERNALS_WEBUI_DATA_SHARING_INTERNALS_PAGE_HANDLER_IMPL_H_
 #define COMPONENTS_DATA_SHARING_DATA_SHARING_INTERNALS_WEBUI_DATA_SHARING_INTERNALS_PAGE_HANDLER_IMPL_H_
 

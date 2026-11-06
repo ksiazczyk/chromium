@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestDataSharingService
+// summary: Test implementation of the DataSharingService interface that manages observers and returns persistent failure outcomes for group operations.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import org.chromium.base.Callback;

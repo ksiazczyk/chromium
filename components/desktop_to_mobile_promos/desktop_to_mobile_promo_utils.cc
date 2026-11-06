@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop to mobile promo notification string ID lookup
+// summary: Maps promo types to the title and body string resource IDs used for desktop-to-mobile push notifications.
+// ---
+
 #include "components/desktop_to_mobile_promos/desktop_to_mobile_promo_utils.h"
 
 #include "build/build_config.h"

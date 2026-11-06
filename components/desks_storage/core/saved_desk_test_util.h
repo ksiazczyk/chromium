@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved desk test utilities header
+// summary: Declares helper functions for adding test browser, PWA, and generic app windows to saved desk restore data.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_SAVED_DESK_TEST_UTIL_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_SAVED_DESK_TEST_UTIL_H_
 

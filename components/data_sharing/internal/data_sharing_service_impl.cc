@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing service implementation
+// summary: Implements DataSharingServiceImpl, mapping SDK status codes to action outcomes and wiring the sync bridge, network loader, group model, and avatar fetching.
+// ---
+
 #include "components/data_sharing/internal/data_sharing_service_impl.h"
 
 #include <optional>

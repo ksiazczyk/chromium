@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake preview server proxy header
+// summary: Declares a fake PreviewServerProxy for testing that serves configurable shared data preview outcomes per group ID.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_FAKE_PREVIEW_SERVER_PROXY_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_FAKE_PREVIEW_SERVER_PROXY_H_
 

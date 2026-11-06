@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG portal D-Bus constants
+// summary: Defines constants for the portal service name, object path, registry and FileChooser interfaces, and the Register method.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_PORTAL_CONSTANTS_H_
 #define COMPONENTS_DBUS_XDG_PORTAL_CONSTANTS_H_
 

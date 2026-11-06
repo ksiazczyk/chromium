@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop to mobile promo metrics declarations
+// summary: Declares histogram enums and logging functions for desktop-to-mobile promo bubbles and actions.
+// ---
+
 #ifndef COMPONENTS_DESKTOP_TO_MOBILE_PROMOS_DESKTOP_TO_MOBILE_PROMOS_METRICS_H_
 #define COMPONENTS_DESKTOP_TO_MOBILE_PROMOS_DESKTOP_TO_MOBILE_PROMOS_METRICS_H_
 

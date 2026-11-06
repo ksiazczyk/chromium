@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Admin template service declaration
+// summary: Declares a keyed service that exposes admin template models and updates them from policy and app registry changes.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_ADMIN_TEMPLATE_SERVICE_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_ADMIN_TEMPLATE_SERVICE_H_
 

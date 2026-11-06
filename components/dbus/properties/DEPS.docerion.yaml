@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the properties directory
+summary: Allows this directory to include headers from the top-level dbus module.

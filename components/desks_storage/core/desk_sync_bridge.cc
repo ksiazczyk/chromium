@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk sync bridge implementation
+// summary: Implements the sync-backed persistence layer for workspace desk templates, enforcing sync count and size quotas and converting entries for sync.
+// ---
+
 #include "components/desks_storage/core/desk_sync_bridge.h"
 
 #include <algorithm>

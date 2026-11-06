@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migratable sync service coordinator class declaration
+// summary: Declares MigratableSyncServiceCoordinatorImpl, which coordinates migratable sync services and persists migration state for crash recovery.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_MIGRATION_INTERNAL_MIGRATABLE_SYNC_SERVICE_COORDINATOR_IMPL_H_
 #define COMPONENTS_DATA_SHARING_MIGRATION_INTERNAL_MIGRATABLE_SYNC_SERVICE_COORDINATOR_IMPL_H_
 

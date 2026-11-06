@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group data proto conversion utilities header
+// summary: Declares GroupDataFromProto, which converts a protobuf GroupData message into the data sharing GroupData struct.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_GROUP_DATA_PROTO_UTILS_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_GROUP_DATA_PROTO_UTILS_H_
 

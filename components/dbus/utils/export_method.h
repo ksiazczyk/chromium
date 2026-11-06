@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus method export helper
+// summary: Header providing ExportMethod, which exports a D-Bus method with a strongly typed callback that parses arguments and writes typed replies or error responses.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_EXPORT_METHOD_H_
 #define COMPONENTS_DBUS_UTILS_EXPORT_METHOD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group data model unit tests
+// summary: Unit tests for the data sharing group data model, covering group metadata handling, sync entity changes, and group event behavior using sync test utilities.
+// ---
+
 #include "components/data_sharing/internal/group_data_model.h"
 
 #include <cstdint>

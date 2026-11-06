@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk template utility functions
+// summary: Implements helpers to find duplicate desk template names and to compare desk templates for equality.
+// ---
+
 #include "components/desks_storage/core/desk_template_util.h"
 
 #include <algorithm>

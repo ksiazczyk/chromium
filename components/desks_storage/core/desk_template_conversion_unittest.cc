@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk template conversion unit tests
+// summary: Unit tests verifying conversion of desk templates between JSON policy values, sync protos, and ash::DeskTemplate objects.
+// ---
+
 #include "components/desks_storage/core/desk_template_conversion.h"
 
 #include <string>

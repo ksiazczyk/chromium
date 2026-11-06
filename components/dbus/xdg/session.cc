@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG Desktop Portal session implementation
+// summary: Implements creation and closing of org.freedesktop.portal.Session D-Bus sessions, both via the Request pattern and direct method replies.
+// ---
+
 #include "components/dbus/xdg/session.h"
 
 #include "base/check.h"

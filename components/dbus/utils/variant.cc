@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus Variant implementation
+// summary: Implements the Variant class with move semantics, equality comparison, and serialization of wrapped values into D-Bus messages.
+// ---
+
 #include "components/dbus/utils/variant.h"
 
 #include "base/check.h"

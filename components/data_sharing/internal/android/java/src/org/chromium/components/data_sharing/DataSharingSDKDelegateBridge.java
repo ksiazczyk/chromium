@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge for the data sharing SDK delegate
+// summary: Java counterpart of the C++ DataSharingSDKDelegateAndroid that parses protobuf request params and forwards group operations to the SDK delegate.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import androidx.annotation.Nullable;

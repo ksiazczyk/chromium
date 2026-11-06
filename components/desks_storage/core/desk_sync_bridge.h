@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk sync bridge class declaration
+// summary: Declares DeskSyncBridge, a sync-backed DeskModel persistence layer implementing syncer::DataTypeSyncBridge for workspace desk templates.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_SYNC_BRIDGE_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_SYNC_BRIDGE_H_
 

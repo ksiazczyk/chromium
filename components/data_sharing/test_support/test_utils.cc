@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing test utility implementation
+// summary: Implements the GetDataSharingUrl test helper that builds a data sharing link URL from a group token.
+// ---
+
 #include "components/data_sharing/test_support/test_utils.h"
 
 #include "components/data_sharing/internal/data_sharing_service_impl.h"

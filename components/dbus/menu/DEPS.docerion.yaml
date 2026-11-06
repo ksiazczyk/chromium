@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the DBus menu directory
+summary: Restricts includes in this directory to dbus and selected ui subdirectories such as base, events, gfx, and menus.

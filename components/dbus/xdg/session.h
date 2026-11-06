@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG Desktop Portal session manager
+// summary: Declares the Session class that manages the lifecycle of an XDG Desktop Portal session and closes it automatically on destruction.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_SESSION_H_
 #define COMPONENTS_DBUS_XDG_SESSION_H_
 

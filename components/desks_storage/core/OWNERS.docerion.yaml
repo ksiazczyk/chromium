@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Desks storage core code owners
+summary: Sets code owners for the directory and delegates sync bridge files to the components sync OWNERS.

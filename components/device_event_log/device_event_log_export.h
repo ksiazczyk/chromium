@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the device event log component
+// summary: Defines the DEVICE_EVENT_LOG_EXPORT macro controlling symbol visibility for component builds on Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_DEVICE_EVENT_LOG_DEVICE_EVENT_LOG_EXPORT_H_
 #define COMPONENTS_DEVICE_EVENT_LOG_DEVICE_EVENT_LOG_EXPORT_H_
 

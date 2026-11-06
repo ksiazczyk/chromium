@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuccessBarrierCallback declaration
+// summary: Declares a callback wrapper that runs its done callback once all calls report success, or immediately with false on any failure.
+// ---
+
 #ifndef COMPONENTS_DBUS_PROPERTIES_SUCCESS_BARRIER_CALLBACK_H_
 #define COMPONENTS_DBUS_PROPERTIES_SUCCESS_BARRIER_CALLBACK_H_
 

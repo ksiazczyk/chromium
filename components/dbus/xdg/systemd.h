@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd scope unit interface
+// summary: Declares helpers to escape systemd unit names and set the systemd scope unit name for xdg-desktop-portal initialization.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_SYSTEMD_H_
 #define COMPONENTS_DBUS_XDG_SYSTEMD_H_
 

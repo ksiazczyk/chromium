@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group data store header
+// summary: Declares GroupDataStore, an in-memory cache and persistent SQLite storage for GroupData with version tokens, timestamps, and group deletion support.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_GROUP_DATA_STORE_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_GROUP_DATA_STORE_H_
 

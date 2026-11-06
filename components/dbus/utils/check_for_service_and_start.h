@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckForServiceAndStart API
+// summary: Declares CheckForServiceAndStart, which reports whether a service is running or was auto-started, with nullopt for D-Bus errors.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_CHECK_FOR_SERVICE_AND_START_H_
 #define COMPONENTS_DBUS_UTILS_CHECK_FOR_SERVICE_AND_START_H_
 

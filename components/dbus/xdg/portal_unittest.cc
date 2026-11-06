@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XDG desktop portal registrar unit tests
+// summary: Tests RequestXdgDesktopPortal setup flows with mocked D-Bus, including systemd handling, registration, and version queries.
+// ---
+
 #include "components/dbus/xdg/portal.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus message deserialization helper
+// summary: Header providing ReadMessage, which deserializes a D-Bus message into a typed tuple and reports format errors or extra data.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_READ_MESSAGE_H_
 #define COMPONENTS_DBUS_UTILS_READ_MESSAGE_H_
 

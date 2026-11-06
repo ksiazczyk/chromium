@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake desk sync bridge implementation
+// summary: In-memory fake of the desk sync bridge that stores desk template entries and notifies observers for use in tests.
+// ---
+
 #include "components/desks_storage/core/fake_desk_sync_bridge.h"
 
 #include "ash/public/cpp/desk_template.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the DBus menu component
+summary: GN build file defining the menu source set and its unit tests together with their internal and external dependencies.

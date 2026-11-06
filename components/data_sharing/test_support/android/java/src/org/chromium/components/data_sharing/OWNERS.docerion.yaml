@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for data_sharing test support
+summary: Defines per-file code review owners for SharedGroupTestHelper.java in the data_sharing Android test support directory.

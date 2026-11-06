@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for D-Bus supported type concepts
+// summary: Compile-time static assertion tests verifying which C++ types, containers and nested combinations satisfy the IsSupportedDBusType concept.
+// ---
+
 #include "components/dbus/utils/types.h"
 
 #include <map>

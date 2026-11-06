@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuccessBarrierCallback implementation
+// summary: Implements a barrier callback that invokes its done callback only after all calls succeed, or immediately with false on the first failure.
+// ---
+
 #include "components/dbus/properties/success_barrier_callback.h"
 
 #include "base/functional/bind.h"

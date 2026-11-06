@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Round-trip tests for D-Bus value reading and writing
+// summary: Unit tests that round-trip values of many D-Bus types through WriteValue and ReadValue to verify serialization and deserialization.
+// ---
+
 #include <fcntl.h>
 #include <unistd.h>
 

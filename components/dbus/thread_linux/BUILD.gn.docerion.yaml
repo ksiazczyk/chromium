@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the thread_linux component
+summary: Defines the thread_linux source_set with its sources, visibility, dependencies and compiler config overrides.

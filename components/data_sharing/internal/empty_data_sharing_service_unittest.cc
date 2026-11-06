@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty data sharing service unit test
+// summary: Verifies that EmptyDataSharingService constructs successfully and reports itself as an empty service.
+// ---
+
 #include "components/data_sharing/internal/empty_data_sharing_service.h"
 
 #include <memory>

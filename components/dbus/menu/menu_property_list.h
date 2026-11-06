@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu property type aliases and helper declarations
+// summary: Defines MenuPropertyList and related aliases and declares functions to compute menu item properties and property changes for DBus updates.
+// ---
+
 #ifndef COMPONENTS_DBUS_MENU_MENU_PROPERTY_LIST_H_
 #define COMPONENTS_DBUS_MENU_MENU_PROPERTY_LIST_H_
 

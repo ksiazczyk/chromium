@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NameHasOwner D-Bus call declaration
+// summary: Declares the NameHasOwner helper that asynchronously checks whether a bus name has an owner, returning the boolean result or nullopt on error.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_NAME_HAS_OWNER_H_
 #define COMPONENTS_DBUS_UTILS_NAME_HAS_OWNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session unit tests
+// summary: Unit tests for the XDG portal Session class, using mock D-Bus buses and object proxies to verify creation and close behavior.
+// ---
+
 #include "components/dbus/xdg/session.h"
 
 #include "base/functional/callback_helpers.h"

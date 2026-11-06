@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration group sync bridge unit tests
+// summary: Tests merge and incremental sync handling, storage keys, and observer notifications of the collaboration group sync bridge using an in-memory store.
+// ---
+
 #include "components/data_sharing/internal/collaboration_group_sync_bridge.h"
 
 #include <algorithm>

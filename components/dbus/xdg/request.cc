@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG portal request implementation
+// summary: Implements the org.freedesktop.portal.Request flow, connecting to Response signals, building handle tokens, and closing requests.
+// ---
+
 #include "components/dbus/xdg/request.h"
 
 #include <memory>

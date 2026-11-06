@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceAuthenticatorCommon unit tests
+// summary: Unit tests verifying reauthentication timing behavior across profiles using a fake authenticator and mocked time.
+// ---
+
 #include "components/device_reauth/device_authenticator_common.h"
 
 #include <memory>

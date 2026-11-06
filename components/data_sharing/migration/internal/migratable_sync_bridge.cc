@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migratable sync bridge implementation
+// summary: Implements a sync data type bridge that delegates merge and incremental sync changes to feature-specific processing during migration.
+// ---
+
 #include "components/data_sharing/migration/public/migratable_sync_bridge.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for D-Bus properties
+summary: Defines the properties source set and its unit tests, with visibility limits and dependencies on base, dbus, and components/dbus/utils.

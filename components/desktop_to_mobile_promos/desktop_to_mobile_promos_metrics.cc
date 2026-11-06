@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop to mobile promo metrics logging
+// summary: Logs histograms for promo bubble creation and user actions in desktop-to-mobile promos.
+// ---
+
 #include "components/desktop_to_mobile_promos/desktop_to_mobile_promos_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common authenticator implementation
+// summary: Implements DeviceAuthenticatorProxy and DeviceAuthenticatorCommon, handling auth validity periods, result histograms, and the last successful authentication timestamp.
+// ---
+
 #include "components/device_reauth/device_authenticator_common.h"
 
 #include "base/metrics/histogram_functions.h"

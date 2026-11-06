@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal collaboration data sync bridge implementation
+// summary: Implements the sync bridge for the SHARED_TAB_GROUP_ACCOUNT_DATA data type, including client tags, storage keys, conflict resolution, and trimming of remote specifics.
+// ---
+
 #include "components/data_sharing/internal/personal_collaboration_data/personal_collaboration_data_sync_bridge.h"
 
 #include <optional>

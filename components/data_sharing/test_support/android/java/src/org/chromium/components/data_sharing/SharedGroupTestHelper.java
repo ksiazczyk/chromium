@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedGroupTestHelper
+// summary: Java test helper that provides shared group member and group data fixtures and Mockito stubs for CollaborationService getGroupData calls in data_sharing tests.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import static org.mockito.ArgumentMatchers.eq;

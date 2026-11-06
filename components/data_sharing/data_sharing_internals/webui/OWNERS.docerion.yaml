@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the data sharing internals WebUI directory
+summary: Delegates ownership to the data sharing component and assigns Mojom file reviews to the IPC security owners.

@@ -1,0 +1,4 @@
+# Docerion header of example3.
+type: test
+title: 'Fuzzer corpus example 3: desk profile with Chrome apps'
+summary: Fuzzer seed input holding a desk profile with two Chrome app windows, including a snapped window with a snap percentage.

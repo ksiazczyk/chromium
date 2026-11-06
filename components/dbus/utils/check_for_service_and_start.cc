@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckForServiceAndStart implementation
+// summary: Checks whether a D-Bus service has an owner and attempts to autostart it via ListActivatableNames and StartServiceByName.
+// ---
+
 #include "components/dbus/utils/check_for_service_and_start.h"
 
 #include <algorithm>

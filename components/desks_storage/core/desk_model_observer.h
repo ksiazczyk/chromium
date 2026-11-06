@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk model observer interface
+// summary: Observer interface notifying about model load, destruction and template changes applied remotely via sync.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_MODEL_OBSERVER_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_MODEL_OBSERVER_H_
 

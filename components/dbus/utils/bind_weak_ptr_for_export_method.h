@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindWeakPtrForExportMethod helper
+// summary: Binds a method to a WeakPtr for D-Bus exported methods, returning a generic error when the target object has been destroyed.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_BIND_WEAK_PTR_FOR_EXPORT_METHOD_H_
 #define COMPONENTS_DBUS_UTILS_BIND_WEAK_PTR_FOR_EXPORT_METHOD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the data sharing SDK delegate Android bridge
+// summary: Unit test exercising the Android SDK delegate bridge for create group, read groups, read group with token and add member operations using a Java test delegate.
+// ---
+
 #include "components/data_sharing/internal/android/data_sharing_sdk_delegate_android.h"
 
 #include "base/run_loop.h"

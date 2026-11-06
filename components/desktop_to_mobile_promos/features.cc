@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile promo on desktop feature flags
+// summary: Defines feature flags, field trial parameters, and eligibility checks for desktop-to-mobile promos.
+// ---
+
 #include "components/desktop_to_mobile_promos/features.h"
 
 #include "base/feature_list.h"

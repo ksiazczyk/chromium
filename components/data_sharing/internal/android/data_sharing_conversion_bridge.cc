@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing conversion bridge implementation
+// summary: Implements JNI conversion helpers that turn C++ data sharing results such as group data, parse URL results and previews into Java objects for the Android bridge.
+// ---
+
 #include "components/data_sharing/internal/android/data_sharing_conversion_bridge.h"
 
 #include "base/android/jni_android.h"

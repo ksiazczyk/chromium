@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the Data Sharing Internals page
+// summary: Singleton proxy that creates the mojo page handler connection and exposes getAllGroups and the callback router to the page.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './data_sharing_internals.mojom-webui.js';
 
 export class DataSharingInternalsBrowserProxy {

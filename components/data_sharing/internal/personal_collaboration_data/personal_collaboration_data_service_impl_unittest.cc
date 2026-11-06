@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal collaboration data service unit tests
+// summary: Unit tests for PersonalCollaborationDataServiceImpl covering initialization, observer notifications, and queuing of actions before the sync bridge is ready.
+// ---
+
 #include "components/data_sharing/internal/personal_collaboration_data/personal_collaboration_data_service_impl.h"
 
 #include <memory>

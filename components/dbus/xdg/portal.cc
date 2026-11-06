@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG desktop portal registrar implementation
+// summary: Implements portal setup by setting the systemd scope unit, starting and registering with the portal service, and caching interface versions.
+// ---
+
 #include "components/dbus/xdg/portal.h"
 
 #include <map>

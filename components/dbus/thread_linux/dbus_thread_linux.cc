@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the shared Linux D-Bus thread and buses
+// summary: Implements a singleton that owns a dedicated D-Bus thread plus shared session and system buses with shutdown and disconnect handling.
+// ---
+
 #include "components/dbus/thread_linux/dbus_thread_linux.h"
 
 #include <utility>

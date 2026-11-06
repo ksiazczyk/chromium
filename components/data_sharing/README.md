@@ -1,3 +1,11 @@
+---
+type: readme
+title: Data Sharing
+summary: Introduces the data sharing component and explains how to run its C++ unit tests with the components_unittests filter file.
+relations:
+  - references /components/data_sharing/components_unittests.filter
+---
+
 # Data Sharing
 
 This component contains functionality for sharing data.

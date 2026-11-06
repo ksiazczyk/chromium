@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device reauth metrics enums
+// summary: Defines enums for the device reauthentication source and result that are persisted to logs and must stay in sync with enums.xml.
+// ---
+
 #ifndef COMPONENTS_DEVICE_REAUTH_DEVICE_REAUTH_METRICS_UTIL_H_
 #define COMPONENTS_DEVICE_REAUTH_DEVICE_REAUTH_METRICS_UTIL_H_
 

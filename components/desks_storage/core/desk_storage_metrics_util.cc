@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk storage metrics utilities implementation
+// summary: Implements helpers that record saved desk template size histograms for template, save-and-recall, and floating workspace template types.
+// ---
+
 #include "components/desks_storage/core/desk_storage_metrics_util.h"
 
 #include "base/logging.h"

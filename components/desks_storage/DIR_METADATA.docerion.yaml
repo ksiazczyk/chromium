@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for desks_storage
+summary: Maps the directory to a Buganizer component and names the owning team email address.

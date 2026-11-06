@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallMethodError implementation
+// summary: Implements CallMethodError, extracting the error name and message from a D-Bus error response.
+// ---
+
 #include "components/dbus/utils/call_method.h"
 
 #include "dbus/message.h"

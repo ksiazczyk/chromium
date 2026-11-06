@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the data sharing internals resources
+summary: Delegates code ownership to the shared OWNERS file of the components/data_sharing directory.

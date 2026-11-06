@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpperBoundString implementation
+// summary: Implements UpperBoundString by appending the maximum unsigned char value to a prefix to produce a range upper bound.
+// ---
+
 #include "components/database_utils/upper_bound_string.h"
 
 #include <limits>

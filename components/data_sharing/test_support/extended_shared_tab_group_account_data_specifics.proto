@@ -5,6 +5,12 @@
 // If you change or add any fields in this file, update proto_visitors.h and
 // potentially proto_enum_conversions.{h, cc}.
 
+// ---docerion
+// type: source
+// title: Extended shared tab group account data specifics proto definitions
+// summary: Defines protobuf messages for account-local metadata of shared tab groups, used by sync test utilities in the data sharing component.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

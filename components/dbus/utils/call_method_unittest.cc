@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CallMethod
+// summary: Tests CallMethod against mock bus and object proxies for success, multi-return, error, invalid response, and extra data cases.
+// ---
+
 #include "components/dbus/utils/call_method.h"
 
 #include <optional>

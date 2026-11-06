@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory test implementation of the data sharing SDK delegate
+// summary: In-memory DataSharingSDKDelegate implementation that fakes group creation, membership and read operations for testing.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import org.chromium.base.Callback;

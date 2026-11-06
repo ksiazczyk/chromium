@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbusMenu class declaration
+// summary: Declares DbusMenu, which exports a ui::MenuModel through the com.canonical.dbusmenu interface and tracks menu items, children, and properties.
+// ---
+
 #ifndef COMPONENTS_DBUS_MENU_MENU_H_
 #define COMPONENTS_DBUS_MENU_MENU_H_
 

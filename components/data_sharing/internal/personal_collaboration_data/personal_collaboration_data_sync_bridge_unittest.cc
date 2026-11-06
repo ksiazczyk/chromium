@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal collaboration data sync bridge unit tests
+// summary: Unit tests for PersonalCollaborationDataSyncBridge covering merge, incremental sync changes, conflict resolution, and storage key handling for shared tab group data.
+// ---
+
 #include "components/data_sharing/internal/personal_collaboration_data/personal_collaboration_data_sync_bridge.h"
 
 #include "base/functional/callback_helpers.h"

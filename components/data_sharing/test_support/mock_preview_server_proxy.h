@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PreviewServerProxy test double
+// summary: Declares a GMock mock of PreviewServerProxy that stubs GetSharedDataPreview calls in data sharing tests.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_TEST_SUPPORT_MOCK_PREVIEW_SERVER_PROXY_H_
 #define COMPONENTS_DATA_SHARING_TEST_SUPPORT_MOCK_PREVIEW_SERVER_PROXY_H_
 

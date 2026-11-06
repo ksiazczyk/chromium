@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing network loader unit tests
+// summary: Unit tests for DataSharingNetworkLoaderImpl using a mock endpoint fetcher to verify URL loading, HTTP status handling, and callback behavior.
+// ---
+
 #include "components/data_sharing/internal/data_sharing_network_loader_impl.h"
 
 #include <memory>

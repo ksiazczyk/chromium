@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_internals.mojom.
+type: source
+title: Mojo interfaces for the data sharing internals page
+summary: Defines Mojo interfaces for bootstrapping WebUI communication, fetching group data, and forwarding log messages to the page.

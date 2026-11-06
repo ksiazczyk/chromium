@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectToSignal helper
+// summary: Connects to D-Bus signals with typed argument parsing, delivering a tuple of arguments or a MessageFormatError to the callback.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_CONNECT_TO_SIGNAL_H_
 #define COMPONENTS_DBUS_UTILS_CONNECT_TO_SIGNAL_H_
 

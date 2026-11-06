@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing migration state protocol buffer
+// summary: Defines a protobuf message and enum tracking the states of share and unshare migration flows on initiating and remote devices.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

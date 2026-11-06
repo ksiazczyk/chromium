@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compile-time D-Bus signature utilities
+// summary: Header defining SignatureLiteral and compile-time mapping between C++ types and D-Bus signatures, including parsing signature literals into tuples.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_SIGNATURE_H_
 #define COMPONENTS_DBUS_UTILS_SIGNATURE_H_
 

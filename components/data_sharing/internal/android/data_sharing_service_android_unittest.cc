@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing service Android unit tests
+// summary: Unit tests for the Android data sharing service, using a Java test observer to verify group change notifications and collaboration group sync behavior.
+// ---
+
 #include "components/data_sharing/internal/android/data_sharing_service_android.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallMethod helper for D-Bus method calls
+// summary: Declares CallMethod, which invokes D-Bus methods with typed arguments and parses responses into CallMethodResult or CallMethodError.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_CALL_METHOD_H_
 #define COMPONENTS_DBUS_UTILS_CALL_METHOD_H_
 

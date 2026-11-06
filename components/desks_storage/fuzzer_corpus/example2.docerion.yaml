@@ -1,0 +1,4 @@
+# Docerion header of example2.
+type: test
+title: 'Fuzzer corpus example 2: desk profile with minimized window'
+summary: Fuzzer seed input holding a desk profile whose browser window is minimized and records its previous window state.

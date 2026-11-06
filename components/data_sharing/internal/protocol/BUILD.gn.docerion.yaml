@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for data sharing protocol
+summary: GN build file defining the proto_library target that compiles group_data_db.proto with a dependency on the public data sharing protocol.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for export_method
+// summary: Unit tests for the ExportMethod helper, verifying basic method replies and invalid-argument error responses with a mock exported object.
+// ---
+
 #include "components/dbus/utils/export_method.h"
 
 #include <memory>

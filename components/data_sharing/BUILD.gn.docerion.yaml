@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data sharing build targets and test support (BUILD.gn)
+summary: Defines GN targets for the data sharing component, including unit test groups, a gtest filter target, a proto test library, and C++/Android mock and fake test support sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Group data proto utils unit tests
+// summary: Tests conversion of GroupData protobuf messages to GroupData structs, including member and former member handling and ignoring of invitee or unspecified roles.
+// ---
+
 #include "components/data_sharing/internal/group_data_proto_utils.h"
 
 #include "components/data_sharing/public/group_data.h"

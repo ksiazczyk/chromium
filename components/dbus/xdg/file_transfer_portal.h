@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTransferPortal class declaration
+// summary: Declares the FileTransferPortal API for checking portal availability, registering files, and retrieving files by transfer key.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_FILE_TRANSFER_PORTAL_H_
 #define COMPONENTS_DBUS_XDG_FILE_TRANSFER_PORTAL_H_
 

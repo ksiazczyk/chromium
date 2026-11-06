@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDeskSyncService implementation
+// summary: Implements a fake desk sync service that wires a fake sync bridge and data type controller delegate for use in tests.
+// ---
+
 #include "components/desks_storage/core/fake_desk_sync_service.h"
 #include "base/logging.h"
 #include "fake_desk_sync_bridge.h"

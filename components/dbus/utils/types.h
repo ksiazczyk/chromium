@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus supported type concepts
+// summary: Header defining the IsSupportedDBusType C++ concept that identifies C++ primitives, vectors, maps, tuples and Variant as valid D-Bus types.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_TYPES_H_
 #define COMPONENTS_DBUS_UTILS_TYPES_H_
 
