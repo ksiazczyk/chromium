@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-android-external.txt.
+type: test
+title: aria-label-augment-inner-text expected Android external output
+summary: Expected Android external format output for the aria-label-augment-inner-text test, with aria-label augmenting the inner text of links and buttons.

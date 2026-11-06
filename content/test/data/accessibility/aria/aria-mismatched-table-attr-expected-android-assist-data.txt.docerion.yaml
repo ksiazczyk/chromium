@@ -1,0 +1,4 @@
+# Docerion header of aria-mismatched-table-attr-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-mismatched-table-attr test
+summary: Expected Android assist data accessibility output for a table test with mismatched aria row and column count and index attributes.

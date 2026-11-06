@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-expected-blink.txt.
+type: test
+title: Expected Blink output for the aria-meter test
+summary: Expected Blink accessibility tree serialization for the aria-meter test page, showing meter nodes with range values and static text children.

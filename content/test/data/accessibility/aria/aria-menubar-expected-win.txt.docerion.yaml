@@ -1,0 +1,4 @@
+# Docerion header of aria-menubar-expected-win.txt.
+type: test
+title: aria-menubar expected Windows data
+summary: Expected Windows accessibility tree output for the aria-menubar test page, showing a horizontal menubar role with three menu items.

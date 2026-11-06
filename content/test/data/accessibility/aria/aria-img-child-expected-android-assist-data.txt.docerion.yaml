@@ -1,0 +1,4 @@
+# Docerion header of aria-img-child-expected-android-assist-data.txt.
+type: test
+title: aria-img-child expected Android assist data
+summary: Expected Android assist data snapshot describing the accessibility tree for the aria-img-child test page.

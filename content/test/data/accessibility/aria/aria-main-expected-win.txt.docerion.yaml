@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-win.txt.
+type: test
+title: aria-main expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the aria-main role test page, showing the document and an IA2 landmark with xml-roles:main.

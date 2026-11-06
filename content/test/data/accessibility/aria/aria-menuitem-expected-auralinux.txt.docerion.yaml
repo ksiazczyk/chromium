@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-expected-auralinux.txt.
+type: test
+title: aria-menuitem expected AuraLinux accessibility tree
+summary: Expected AuraLinux accessibility tree snapshot for the aria-menuitem test showing a menu with File, Edit and a complex menuitem containing an entry.

@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-auralinux.txt.
+type: test
+title: aria-label-augment-inner-text expected Linux accessibility tree
+summary: Expected Linux accessibility tree output for the aria-label-augment-inner-text test, covering links and push buttons with aria-label names.

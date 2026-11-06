@@ -1,0 +1,4 @@
+# Docerion header of aria-math-expected-android.txt.
+type: test
+title: aria-math expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA math role test.

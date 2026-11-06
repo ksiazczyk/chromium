@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-childfocus-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for listbox child focus
+summary: Expected Blink accessibility tree snapshot for a listbox with focus set on a child option.

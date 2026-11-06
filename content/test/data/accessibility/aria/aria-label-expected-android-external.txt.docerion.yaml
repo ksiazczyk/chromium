@@ -1,0 +1,4 @@
+# Docerion header of aria-label-expected-android-external.txt.
+type: test
+title: Expected Android external output for the aria-label test
+summary: Expected Android external accessibility tree for the aria-label test, describing a focusable checkbox with content description 'aria label'.

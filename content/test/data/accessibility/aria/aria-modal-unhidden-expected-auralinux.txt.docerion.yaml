@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-unhidden-expected-auralinux.txt.
+type: test
+title: Expected Linux output for aria-modal-unhidden
+summary: Expected Linux accessibility tree output for the web test where a hidden modal alertdialog is revealed.

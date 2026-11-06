@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-visual-content-expected-uia-win.txt.
+type: test
+title: aria-label-with-visual-content expected UIA Windows output
+summary: Expected UIA accessibility tree snapshot for the aria-label with visual content naming test on Windows.

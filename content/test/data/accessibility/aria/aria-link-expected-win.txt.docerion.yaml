@@ -1,0 +1,4 @@
+# Docerion header of aria-link-expected-win.txt.
+type: test
+title: ARIA link expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the aria-link test page, showing a div with role link exposed as a system link.

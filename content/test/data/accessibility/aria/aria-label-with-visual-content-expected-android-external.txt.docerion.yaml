@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-visual-content-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for aria-label with visual content
+summary: Expected external Android accessibility tree snapshot for the aria-label-with-visual-content test page, showing which elements support naming from child content.

@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-android.txt.
+type: test
+title: aria-log expected Android
+summary: Expected Android accessibility tree for the aria-log test, showing a view with log role description and live region type.

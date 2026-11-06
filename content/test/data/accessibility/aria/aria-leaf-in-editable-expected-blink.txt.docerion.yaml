@@ -1,0 +1,4 @@
+# Docerion header of aria-leaf-in-editable-expected-blink.txt.
+type: test
+title: Expected Blink output for aria-leaf-in-editable test
+summary: Expected Blink accessibility tree for the test of ARIA presentational leaf content inside a contenteditable editor.

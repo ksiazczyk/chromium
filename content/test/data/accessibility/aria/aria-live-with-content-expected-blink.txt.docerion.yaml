@@ -1,0 +1,4 @@
+# Docerion header of aria-live-with-content-expected-blink.txt.
+type: test
+title: aria-live with content expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the aria-live with content test, detailing live status, relevance, atomic, and busy properties on marquee roles.

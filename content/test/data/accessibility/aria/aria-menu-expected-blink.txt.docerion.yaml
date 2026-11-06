@@ -1,0 +1,4 @@
+# Docerion header of aria-menu-expected-blink.txt.
+type: test
+title: ARIA menu expected Blink tree snapshot
+summary: Expected Blink internal accessibility tree snapshot for the ARIA menu test page.

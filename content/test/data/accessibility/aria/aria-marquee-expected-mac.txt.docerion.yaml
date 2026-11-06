@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-mac.txt.
+type: test
+title: aria-marquee expected macOS accessibility tree
+summary: Expected macOS AX tree snapshot for the marquee role test, showing marquee subroles and ARIA live values.

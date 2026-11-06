@@ -1,0 +1,4 @@
+# Docerion header of aria-live-expected-win.txt.
+type: test
+title: aria-live expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the aria-live test, listing live region roles and live statuses for off, polite, and assertive.

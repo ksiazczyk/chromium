@@ -1,0 +1,4 @@
+# Docerion header of aria-listitem-expected-mac.txt.
+type: test
+title: aria-listitem expected macOS output
+summary: Expected macOS AX accessibility tree dump for the aria-listitem test page with a content list and two items.

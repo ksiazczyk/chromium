@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disabled ARIA listbox test
+summary: Expected Blink accessibility tree dump for the aria-listbox-disabled test, listing disabled list box options with the Striped option selected.

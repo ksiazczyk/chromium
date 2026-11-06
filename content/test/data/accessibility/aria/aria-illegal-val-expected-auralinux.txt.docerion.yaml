@@ -1,0 +1,4 @@
+# Docerion header of aria-illegal-val-expected-auralinux.txt.
+type: test
+title: aria-illegal-val expected auralinux snapshot
+summary: Expected Linux accessibility tree snapshot for the aria-illegal-val test showing how illegal ARIA attribute values are exposed.

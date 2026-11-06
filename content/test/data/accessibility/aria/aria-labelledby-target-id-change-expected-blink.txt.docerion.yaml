@@ -1,0 +1,4 @@
+# Docerion header of aria-labelledby-target-id-change-expected-blink.txt.
+type: test
+title: Expected Blink output for aria-labelledby target ID change test
+summary: Expected Blink accessibility tree showing how a main element's name changes as its aria-labelledby target IDs are switched, removed and restored.

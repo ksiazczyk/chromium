@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-focusable-dialog.html.
+type: test
+title: aria-modal focusable dialog test page
+summary: HTML test page checking that the accessibility tree is not pruned when the ARIA modal dialog itself is focused, with Mac and Android expectations only.

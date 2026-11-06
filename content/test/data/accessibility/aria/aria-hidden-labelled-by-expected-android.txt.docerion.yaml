@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-labelled-by-expected-android.txt.
+type: test
+title: aria-hidden labelled-by expected Android tree
+summary: Expected Android WebView accessibility tree snapshot for the aria-hidden with aria-labelledby test case.

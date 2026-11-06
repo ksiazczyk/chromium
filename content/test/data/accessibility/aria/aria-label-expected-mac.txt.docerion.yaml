@@ -1,0 +1,4 @@
+# Docerion header of aria-label-expected-mac.txt.
+type: test
+title: Expected Mac output for the aria-label test
+summary: Expected macOS accessibility tree for the aria-label test, describing an AXCheckBox with description 'aria label'.

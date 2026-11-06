@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-auralinux.txt.
+type: test
+title: aria-main expected auralinux accessibility tree
+summary: Expected Linux accessibility tree dump for the aria-main role test page, listing the document web with a main landmark.

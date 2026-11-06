@@ -1,0 +1,4 @@
+# Docerion header of aria-math-expected-android-external.txt.
+type: test
+title: aria-math expected Android external actions
+summary: Expected Android external action snapshot for the ARIA math role test, listing focus and navigation actions.

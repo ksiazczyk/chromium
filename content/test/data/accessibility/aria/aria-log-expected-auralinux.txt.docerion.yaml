@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-auralinux.txt.
+type: test
+title: aria-log expected Auralinux
+summary: Expected Linux accessibility output for the aria-log test, listing the document web node and the log xml-roles entry.

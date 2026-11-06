@@ -1,0 +1,4 @@
+# Docerion header of aria-live-expected-mac.txt.
+type: test
+title: aria-live expected macOS output
+summary: Expected macOS AX accessibility tree dump for the aria-live test page with marquee and alert subroles and ARIA live values.

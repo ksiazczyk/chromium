@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-uia-win.txt.
+type: test
+title: aria-insertion-deletion expected UIA Win accessibility tree
+summary: Expected UIA Windows accessibility tree for the aria insertion and deletion test, with deletion and insertion groups and localized control types.

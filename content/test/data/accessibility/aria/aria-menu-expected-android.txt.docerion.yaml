@@ -1,0 +1,4 @@
+# Docerion header of aria-menu-expected-android.txt.
+type: test
+title: ARIA menu expected results for Android
+summary: Expected Android accessibility tree snapshot for the ARIA menu test page.

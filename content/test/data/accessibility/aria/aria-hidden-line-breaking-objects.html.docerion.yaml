@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-line-breaking-objects.html.
+type: test
+title: aria-hidden line-breaking objects test page
+summary: HTML test page placing block-level content inside an aria-hidden main element to check line-breaking objects.

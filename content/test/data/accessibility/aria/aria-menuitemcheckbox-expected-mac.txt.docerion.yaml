@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for menuitemcheckbox
+summary: Expected macOS accessibility tree output for a page with three menuitemcheckbox elements in unchecked, checked and mixed states.

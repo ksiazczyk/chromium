@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-tabindex-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-label with tabindex
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the aria-label-with-tabindex test page with landmark, heading and paragraph roles.

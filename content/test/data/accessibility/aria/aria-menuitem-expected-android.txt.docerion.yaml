@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-expected-android.txt.
+type: test
+title: aria-menuitem expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-menuitem test, listing menu items File, Edit and a complex menuitem with an embedded text field.

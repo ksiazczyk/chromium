@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-mac.txt.
+type: test
+title: aria-label-augment-inner-text expected macOS accessibility tree
+summary: Expected macOS accessibility tree output for the aria-label-augment-inner-text test, with AXLink and AXButton descriptions from aria-label.

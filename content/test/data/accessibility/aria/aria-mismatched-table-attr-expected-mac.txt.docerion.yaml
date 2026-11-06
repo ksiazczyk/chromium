@@ -1,0 +1,4 @@
+# Docerion header of aria-mismatched-table-attr-expected-mac.txt.
+type: test
+title: aria-mismatched-table-attr expected Mac output
+summary: Expected macOS accessibility tree snapshot for the aria-mismatched-table-attr test covering a grid with mismatched aria-rowcount and aria-colcount values.

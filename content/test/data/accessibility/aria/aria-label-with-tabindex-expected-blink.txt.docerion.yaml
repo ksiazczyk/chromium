@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-tabindex-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-label with tabindex
+summary: Expected Blink accessibility tree snapshot for the aria-label-with-tabindex test page, including regions, headings and inline text boxes.

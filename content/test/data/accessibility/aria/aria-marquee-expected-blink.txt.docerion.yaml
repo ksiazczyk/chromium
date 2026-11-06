@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-blink.txt.
+type: test
+title: aria-marquee expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the marquee role test, listing live region properties for each aria-live value.

@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-layered.html.
+type: test
+title: aria-modal layered test page
+summary: HTML test page verifying that a nested ARIA modal dialog prunes the accessibility tree so only the innermost dialog and its contents remain.

@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for disabled listbox
+summary: Expected Android assist data snapshot for a disabled listbox with selected and unselected options.

@@ -1,0 +1,4 @@
+# Docerion header of aria-illegal-val-expected-android-external.txt.
+type: test
+title: aria-illegal-val expected Android external snapshot
+summary: Expected Android external snapshot for the aria-illegal-val test showing how illegal ARIA attribute values are exposed.

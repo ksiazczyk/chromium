@@ -1,0 +1,4 @@
+# Docerion header of aria-math-expected-android-assist-data.txt.
+type: test
+title: aria-math expected Android assist data
+summary: Expected Android assist data snapshot for the ARIA math role test, describing the WebView view hierarchy.

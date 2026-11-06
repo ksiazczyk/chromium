@@ -1,0 +1,4 @@
+# Docerion header of aria-live-expected-auralinux.txt.
+type: test
+title: aria-live expected Linux output
+summary: Expected Linux accessibility tree dump for the aria-live test page showing container-live and live status for each region.

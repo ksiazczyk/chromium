@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-activedescendant-expected-mac.txt.
+type: test
+title: aria-listbox-activedescendant expected Mac snapshot
+summary: Expected macOS accessibility tree output before and after focusing a listbox with aria-activedescendant, showing selected children changes.

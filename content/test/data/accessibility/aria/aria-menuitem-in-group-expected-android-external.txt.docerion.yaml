@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-in-group-expected-android-external.txt.
+type: test
+title: aria-menuitem-in-group expected Android external data
+summary: Expected Android external accessibility snapshot for the aria-menuitem-in-group test, describing a group and its clickable menu item.

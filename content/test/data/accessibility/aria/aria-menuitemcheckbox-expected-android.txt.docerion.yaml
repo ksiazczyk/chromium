@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemcheckbox-expected-android.txt.
+type: test
+title: aria-menuitemcheckbox expected Android tree
+summary: Expected Android accessibility tree snapshot for the ARIA menuitemcheckbox test, covering unchecked, checked and indeterminate states.

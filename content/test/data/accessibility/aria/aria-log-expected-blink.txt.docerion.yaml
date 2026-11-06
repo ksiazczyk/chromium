@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-blink.txt.
+type: test
+title: aria-log expected Blink
+summary: Expected Blink internal accessibility tree for the aria-log test, showing the log node inside ignored generic containers.

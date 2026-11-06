@@ -1,0 +1,4 @@
+# Docerion header of aria-listitem-expected-blink.txt.
+type: test
+title: aria-listitem expected Blink output
+summary: Expected Blink accessibility tree dump for the aria-listitem test page, listing two list items with their static text.

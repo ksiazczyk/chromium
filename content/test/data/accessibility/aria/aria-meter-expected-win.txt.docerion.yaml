@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-expected-win.txt.
+type: test
+title: Expected Windows output for the aria-meter test
+summary: Expected Windows accessibility output for the aria-meter test page, showing progress bar roles with names and values.

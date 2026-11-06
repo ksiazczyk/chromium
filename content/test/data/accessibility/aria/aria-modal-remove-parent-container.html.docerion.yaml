@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-remove-parent-container.html.
+type: test
+title: aria-modal-remove-parent-container test page
+summary: HTML test page checking that removing the parent container of an active ARIA modal dialog stops pruning of the accessibility tree.

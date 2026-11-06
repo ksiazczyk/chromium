@@ -1,0 +1,4 @@
+# Docerion header of aria-labelledby-heading-expected-android-external.txt.
+type: test
+title: aria-labelledby-heading expected Android external output
+summary: Expected Android external accessibility snapshot for the aria-labelledby heading test.

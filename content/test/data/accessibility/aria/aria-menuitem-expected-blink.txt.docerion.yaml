@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-expected-blink.txt.
+type: test
+title: aria-menuitem expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the aria-menuitem test, describing menu items and their static text and text field children.

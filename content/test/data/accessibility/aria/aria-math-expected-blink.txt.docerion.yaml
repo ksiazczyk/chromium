@@ -1,0 +1,4 @@
+# Docerion header of aria-math-expected-blink.txt.
+type: test
+title: aria-math expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA math role test.

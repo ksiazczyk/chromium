@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-expected-mac.txt.
+type: test
+title: Expected Mac output for the aria-meter test
+summary: Expected macOS accessibility output for the aria-meter test page, showing level indicators with the meter subrole and values.

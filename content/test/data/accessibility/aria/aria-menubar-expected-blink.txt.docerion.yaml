@@ -1,0 +1,4 @@
+# Docerion header of aria-menubar-expected-blink.txt.
+type: test
+title: aria-menubar expected Blink data
+summary: Expected Blink internal accessibility tree output for the aria-menubar test page, including menu items and their static text nodes.

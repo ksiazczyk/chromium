@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-option-redundancy-expected-android.txt.
+type: test
+title: ARIA listbox option redundancy expected tree for Android
+summary: Expected Android accessibility tree for the listbox option redundancy test, showing one collection item named Search result.

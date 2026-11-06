@@ -1,0 +1,4 @@
+# Docerion header of aria-insertion-deletion-expected-android-assist-data.txt.
+type: test
+title: aria-insertion-deletion expected Android assist data
+summary: Expected Android assist data tree for the aria-insertion-deletion test, showing deletion and insertion spans in a paragraph.

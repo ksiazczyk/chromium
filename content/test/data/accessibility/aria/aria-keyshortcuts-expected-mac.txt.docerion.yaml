@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-mac.txt.
+type: test
+title: aria-keyshortcuts expected Mac accessibility tree
+summary: Expected macOS accessibility tree for the aria-keyshortcuts test, showing buttons with AXKeyShortcuts values.

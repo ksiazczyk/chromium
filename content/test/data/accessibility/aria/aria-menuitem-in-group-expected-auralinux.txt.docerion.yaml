@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-in-group-expected-auralinux.txt.
+type: test
+title: aria-menuitem-in-group expected AuraLinux accessibility tree
+summary: Expected AuraLinux accessibility tree snapshot for the aria-menuitem-in-group test showing a menu item inside a panel.

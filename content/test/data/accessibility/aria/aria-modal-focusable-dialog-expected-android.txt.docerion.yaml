@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-focusable-dialog-expected-android.txt.
+type: test
+title: aria-modal focusable dialog expected Android output
+summary: Expected Android accessibility tree snapshot for the focusable ARIA modal dialog test, showing the focused modal dialog and an out-of-tree button.

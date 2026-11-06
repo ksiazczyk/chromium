@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts.html.
+type: test
+title: aria-keyshortcuts test page
+summary: HTML test page with three buttons using aria-keyshortcuts to verify keyboard shortcut exposure in accessibility trees across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of aria-live-expected-android-external.txt.
+type: test
+title: aria-live expected Android external output
+summary: Expected Android external accessibility dump for the aria-live test page, including live region types and focus actions.

@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-tabindex-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for aria-label with tabindex
+summary: Expected macOS accessibility tree snapshot for the aria-label-with-tabindex test page, using AX roles such as AXLandmarkRegion and AXHeading.

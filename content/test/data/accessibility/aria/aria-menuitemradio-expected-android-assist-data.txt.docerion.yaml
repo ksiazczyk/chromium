@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemradio-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for menuitemradio
+summary: Expected Android assist data output for a page with three menuitemradio elements in unchecked, checked and mixed states.

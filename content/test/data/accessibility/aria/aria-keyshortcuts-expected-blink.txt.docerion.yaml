@@ -1,0 +1,4 @@
+# Docerion header of aria-keyshortcuts-expected-blink.txt.
+type: test
+title: aria-keyshortcuts expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the aria-keyshortcuts test, showing buttons with keyShortcuts attributes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-img-child-expected-auralinux.txt.
+type: test
+title: aria-img-child expected AuraLinux output
+summary: Expected AuraLinux accessibility tree snapshot listing a document with an image for the aria-img-child test.

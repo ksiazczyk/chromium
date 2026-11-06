@@ -1,0 +1,4 @@
+# Docerion header of aria-labelledby-refers-to-self-expected-blink.txt.
+type: test
+title: Expected Blink output for aria-labelledby refers-to-self test
+summary: Expected Blink accessibility tree for the test of aria-labelledby referring to the labelled element itself.

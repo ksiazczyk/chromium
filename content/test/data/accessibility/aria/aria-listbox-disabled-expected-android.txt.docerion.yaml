@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-disabled-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for disabled listbox
+summary: Expected Android accessibility tree snapshot for a disabled listbox with a selected option.

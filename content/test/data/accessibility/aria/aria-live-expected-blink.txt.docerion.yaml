@@ -1,0 +1,4 @@
+# Docerion header of aria-live-expected-blink.txt.
+type: test
+title: aria-live expected Blink output
+summary: Expected Blink accessibility tree dump for the aria-live test page with live status, relevance, and atomic attributes.

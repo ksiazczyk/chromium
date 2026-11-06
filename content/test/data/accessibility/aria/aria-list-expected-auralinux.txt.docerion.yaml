@@ -1,0 +1,4 @@
+# Docerion header of aria-list-expected-auralinux.txt.
+type: test
+title: ARIA list expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the aria-list test page, showing a list with three named list items.

@@ -1,0 +1,4 @@
+# Docerion header of aria-mismatched-table-attr-expected-uia-win.txt.
+type: test
+title: aria-mismatched-table-attr expected UIA Windows output
+summary: Expected UIA accessibility tree snapshot for the aria-mismatched-table-attr test covering a grid with mismatched aria-rowcount and aria-colcount values.

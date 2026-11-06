@@ -1,0 +1,4 @@
+# Docerion header of aria-label-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for the aria-label test
+summary: Expected AuraLinux accessibility tree for the aria-label test, describing a check box named 'aria label'.

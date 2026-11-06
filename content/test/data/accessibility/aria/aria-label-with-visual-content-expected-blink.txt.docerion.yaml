@@ -1,0 +1,4 @@
+# Docerion header of aria-label-with-visual-content-expected-blink.txt.
+type: test
+title: aria-label-with-visual-content expected Blink output
+summary: Expected Blink accessibility tree snapshot for the aria-label with visual content naming test.

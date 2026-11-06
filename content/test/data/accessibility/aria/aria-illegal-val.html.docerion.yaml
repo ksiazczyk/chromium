@@ -1,0 +1,4 @@
+# Docerion header of aria-illegal-val.html.
+type: test
+title: ARIA illegal value accessibility test
+summary: HTML test page checking how ARIA boolean and token properties with illegal values are exposed across Windows, Blink, and AuraLinux accessibility APIs.

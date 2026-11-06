@@ -1,0 +1,4 @@
+# Docerion header of aria-list-labeled.html.
+type: test
+title: aria-list-labeled test page
+summary: HTML test page with a ul list labeled via aria-label containing apple and orange items, used for accessibility tree verification.

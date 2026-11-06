@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-blink.txt.
+type: test
+title: aria-label-augment-inner-text expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree output for the aria-label-augment-inner-text test, including links, buttons and static text nodes.

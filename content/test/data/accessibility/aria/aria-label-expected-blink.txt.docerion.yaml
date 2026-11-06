@@ -1,0 +1,4 @@
+# Docerion header of aria-label-expected-blink.txt.
+type: test
+title: Expected Blink output for the aria-label test
+summary: Expected Blink accessibility tree for the aria-label test, describing a check box named 'aria label'.

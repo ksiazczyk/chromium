@@ -1,0 +1,4 @@
+# Docerion header of aria-level-expected-uia-win.txt.
+type: test
+title: aria-level-expected-uia-win
+summary: Expected Windows UIA accessibility tree snapshot for the aria-level test, covering tree items, DataGrid cells and list items with their levels.

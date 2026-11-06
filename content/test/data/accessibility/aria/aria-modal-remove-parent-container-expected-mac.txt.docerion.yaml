@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-remove-parent-container-expected-mac.txt.
+type: test
+title: Expected Mac output for aria-modal-remove-parent-container
+summary: Expected macOS accessibility tree output for the web test where the parent container of an active modal dialog is removed.

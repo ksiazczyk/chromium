@@ -1,0 +1,4 @@
+# Docerion header of aria-label-augment-inner-text-expected-android.txt.
+type: test
+title: aria-label-augment-inner-text expected Android accessibility tree
+summary: Expected Android accessibility tree output for the aria-label-augment-inner-text test, showing content descriptions from aria-label attributes.

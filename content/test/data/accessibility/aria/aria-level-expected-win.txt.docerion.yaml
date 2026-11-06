@@ -1,0 +1,4 @@
+# Docerion header of aria-level-expected-win.txt.
+type: test
+title: aria-level-expected-win
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the aria-level test, showing headings, outline items, cells and list items with levels.

@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitemradio-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility data for menuitemradio
+summary: Expected Android external accessibility output for a page with three menuitemradio elements in unchecked, checked and mixed states.

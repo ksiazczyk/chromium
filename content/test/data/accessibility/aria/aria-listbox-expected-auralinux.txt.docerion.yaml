@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for ARIA listbox test
+summary: Expected Linux accessibility tree for the aria-listbox test, showing a list box with selectable items and a horizontal separator.

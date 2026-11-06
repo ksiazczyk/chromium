@@ -1,0 +1,4 @@
+# Docerion header of aria-marquee-expected-android.txt.
+type: test
+title: aria-marquee expected Android accessibility tree
+summary: Expected Android accessibility tree for the aria-marquee test page, with marquee views marked focusable and with live region types.

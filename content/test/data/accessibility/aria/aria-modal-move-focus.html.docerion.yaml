@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-move-focus.html.
+type: test
+title: aria-modal-move-focus test page
+summary: HTML test page checking that when focus leaves an active ARIA modal dialog, content outside the dialog is no longer pruned from the accessibility tree.

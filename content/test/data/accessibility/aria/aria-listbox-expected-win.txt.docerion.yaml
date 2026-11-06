@@ -1,0 +1,4 @@
+# Docerion header of aria-listbox-expected-win.txt.
+type: test
+title: ARIA listbox expected accessibility tree for Windows
+summary: Expected Windows IA2 accessibility tree for the ARIA listbox test page with list, list item and separator roles.

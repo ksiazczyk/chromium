@@ -1,0 +1,4 @@
+# Docerion header of aria-log-expected-win.txt.
+type: test
+title: aria-log expected Windows
+summary: Expected Windows accessibility output for the aria-log test, showing a grouping role with the xml-roles:log attribute.

@@ -1,0 +1,4 @@
+# Docerion header of aria-list-expected-android-external.txt.
+type: test
+title: ARIA list expected Android external output
+summary: Expected Android external accessibility snapshot for the aria-list test page, showing a three-row list collection with its items.

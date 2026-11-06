@@ -1,0 +1,4 @@
+# Docerion header of aria-meter-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the aria-meter test
+summary: Expected Android assist data accessibility output for the aria-meter test page, showing meter roles rendered as progress bars with range values.

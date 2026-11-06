@@ -1,0 +1,4 @@
+# Docerion header of aria-main-expected-android-external.txt.
+type: test
+title: aria-main expected Android external
+summary: Expected Android external accessibility output for the aria-main test, showing the main role view with focus actions.

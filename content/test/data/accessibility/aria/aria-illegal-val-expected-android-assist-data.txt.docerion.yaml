@@ -1,0 +1,4 @@
+# Docerion header of aria-illegal-val-expected-android-assist-data.txt.
+type: test
+title: aria-illegal-val expected Android assist data snapshot
+summary: Expected Android assist data snapshot for the aria-illegal-val test showing how illegal ARIA attribute values are exposed.

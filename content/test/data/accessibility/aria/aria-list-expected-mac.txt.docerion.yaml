@@ -1,0 +1,4 @@
+# Docerion header of aria-list-expected-mac.txt.
+type: test
+title: ARIA list expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the aria-list test page, showing an AXContentList with three grouped items.

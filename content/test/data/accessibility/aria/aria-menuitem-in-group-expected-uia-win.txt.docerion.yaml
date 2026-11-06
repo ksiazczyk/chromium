@@ -1,0 +1,4 @@
+# Docerion header of aria-menuitem-in-group-expected-uia-win.txt.
+type: test
+title: aria-menuitem-in-group expected UIA Windows tree
+summary: Expected UIA Windows accessibility tree snapshot for the ARIA menuitem-in-group test, listing a menu item within a group.
