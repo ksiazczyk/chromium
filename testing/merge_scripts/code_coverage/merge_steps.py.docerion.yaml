@@ -1,0 +1,4 @@
+# Docerion header of merge_steps.py.
+type: script
+title: Merge code coverage profiles from multiple steps
+summary: Command-line script that merges .profdata coverage files from multiple build steps into a single profdata file using llvm-profdata.

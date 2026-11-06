@@ -1,0 +1,4 @@
+# Docerion header of 5a08e5c15251a31d4b619a93f6e5209136ed21c7.
+type: data
+title: 'CSP corpus: policy with many fetch directives'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer with a policy setting most fetch directives to 'self' plus an HTTPS script-src.

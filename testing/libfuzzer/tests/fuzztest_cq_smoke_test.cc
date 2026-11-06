@@ -16,6 +16,12 @@
 // fuzzing engines execute a FUZZ_TEST in ClusterFuzz (which occurs through
 // generated wrapper binaries and is tested in `fuzzer_smoke_test.cc`).
 
+// ---docerion
+// type: test
+// title: FUZZ_TEST CQ smoke test
+// summary: Basic smoke test ensuring FUZZ_TEST macros compile, register with GoogleTest and run as unit tests across all build configurations.
+// ---
+
 #include <string>
 
 #include "testing/gtest/include/gtest/gtest.h"

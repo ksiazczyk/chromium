@@ -1,0 +1,4 @@
+# Docerion header of f1.
+type: test
+title: Test corpus file f1
+summary: Empty input file in the libFuzzer test corpus directory, used as a seed or sample for fuzzing tests.

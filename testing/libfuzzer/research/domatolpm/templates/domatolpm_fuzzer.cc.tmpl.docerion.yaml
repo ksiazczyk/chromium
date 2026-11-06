@@ -1,0 +1,4 @@
+# Docerion header of domatolpm_fuzzer.cc.tmpl.
+type: source
+title: domatolpm_fuzzer.cc.tmpl fuzzer entry source template
+summary: Code template that generates the fuzzer entry source, appending literal grammar strings and dispatching fuzzcase fields for a domatolpm template.

@@ -1,0 +1,4 @@
+# Docerion header of 20747af2b2ef5724b5a00498ed626d5374d0bcd8.
+type: data
+title: 'CSP corpus: worker-src directive'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer exercising the worker-src directive with an HTTPS source.

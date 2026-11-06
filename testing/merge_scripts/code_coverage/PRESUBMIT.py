@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for code coverage merge scripts
+# summary: Presubmit script that runs the directory's *_test.py unit tests via depot_tools canned checks on upload and commit.
+# ---
+
 """Presubmit script for testing/merge_scripts/code_coverage.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

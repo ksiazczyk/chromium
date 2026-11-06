@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack trace test fuzzer
+// summary: Fuzzer that triggers a use-after-free or a CHECK failure depending on its input, used by the stack trace test.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

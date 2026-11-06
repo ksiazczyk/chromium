@@ -1,0 +1,4 @@
+# Docerion header of noop_merge.py.
+type: source
+title: No-op merge script
+summary: Merge script that copies the first supplied JSON as the output, intended mainly for unsharded tasks.

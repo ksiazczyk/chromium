@@ -1,0 +1,4 @@
+# Docerion header of fuzzer_support.mm.
+type: source
+title: Objective-C++ runtime for running libFuzzer in an iOS app
+summary: Implements the application and scene delegates that set up a minimal UI, start the libFuzzer driver, and terminate the app cleanly after fuzzing.

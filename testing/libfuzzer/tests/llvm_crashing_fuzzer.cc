@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LLVM crashing fuzzer
+// summary: Fuzzer that deliberately triggers a null pointer read to test crash handling across sanitizer configurations.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

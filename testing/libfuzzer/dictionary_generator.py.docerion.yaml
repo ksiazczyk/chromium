@@ -1,0 +1,4 @@
+# Docerion header of dictionary_generator.py.
+type: script
+title: Generate a fuzzer dictionary from binary and spec
+summary: Manually invoked script that extracts words from a fuzzer binary and a format specification to build a libFuzzer or AFL dictionary.

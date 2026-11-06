@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tint WGSL parsing fuzztest targets
+// summary: FuzzTest targets that parse WGSL programs and convert them to IR using a grammar-based domain and seeded arbitrary strings.
+// ---
+
 #include "third_party/dawn/src/tint/lang/wgsl/reader/reader.h"
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"
 #include "tint_wgsl_fuzzer_grammar.h"

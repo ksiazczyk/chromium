@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia image filter proto converter implementation
+// summary: Implements conversion of Input protobuf messages into valid flattened skia image filter strings suitable for SkImageFilter::Deserialize fuzzing.
+// ---
+
 
 #include <array>
 

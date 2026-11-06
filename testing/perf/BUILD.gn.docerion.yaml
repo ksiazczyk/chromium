@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build file defining the perf test source set and its unit tests for the testing/perf directory.

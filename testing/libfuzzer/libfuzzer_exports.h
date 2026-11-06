@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libFuzzer Exports Header
+// summary: Header declaring libFuzzer entry points with export attributes so macOS linkers keep symbols that are resolved via dlsym at runtime.
+// ---
+
 #ifndef TESTING_LIBFUZZER_LIBFUZZER_EXPORTS_H_
 #define TESTING_LIBFUZZER_LIBFUZZER_EXPORTS_H_
 

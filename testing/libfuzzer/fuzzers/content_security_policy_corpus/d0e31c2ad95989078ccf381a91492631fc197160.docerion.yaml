@@ -1,0 +1,4 @@
+# Docerion header of d0e31c2ad95989078ccf381a91492631fc197160.
+type: test
+title: 'CSP corpus: nonce-based script-src with strict-dynamic'
+summary: Fuzzer corpus entry with a nonce-based script-src policy combined with the strict-dynamic keyword.

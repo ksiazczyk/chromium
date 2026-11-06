@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libxml_xml_read_memory_fuzzer.cc
+// summary: Fuzzes libxml2's xmlReadMemory parser with default and randomized option flags, then re-serializes the parsed document.
+// ---
+
 #include <cassert>
 #include <cstddef>
 #include <cstdint>

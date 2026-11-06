@@ -1,0 +1,4 @@
+# Docerion header of results_merger_test.py.
+type: test
+title: Results merger unit tests
+summary: Unit tests for the results_merger module, covering merging of JSON test results, metadata tags, invalid versions, and unmergeable data.

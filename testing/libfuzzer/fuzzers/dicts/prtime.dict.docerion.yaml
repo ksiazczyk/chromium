@@ -1,0 +1,4 @@
+# Docerion header of prtime.dict.
+type: data
+title: Date and time parsing fuzzing dictionary
+summary: Dictionary of digits, weekday and month names, time zone abbreviations and separators for fuzzing date string parsing.

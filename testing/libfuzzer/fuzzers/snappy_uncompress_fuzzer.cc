@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snappy decompression fuzzer
+// summary: LibFuzzer fuzzer that decompresses input with Snappy while limiting output size to guard against decompression bombs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

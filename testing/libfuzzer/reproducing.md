@@ -1,3 +1,9 @@
+---
+type: guide
+title: Reproducing Crashes from ClusterFuzz
+summary: Step-by-step guide for reproducing ClusterFuzz-reported crashes locally, for both fuzzing engine and blackbox fuzzer cases, including symbolizing and minimizing.
+---
+
 # Reproducing Crashes from ClusterFuzz
 
 ## Introduction

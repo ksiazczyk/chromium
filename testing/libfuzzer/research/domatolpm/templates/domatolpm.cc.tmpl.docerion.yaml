@@ -1,0 +1,4 @@
+# Docerion header of domatolpm.cc.tmpl.
+type: source
+title: domatolpm.cc.tmpl C++ handler source template
+summary: Code template that generates C++ source defining handler functions that turn domatolpm proto messages into fuzzer input text, with value formatting and escaping helpers.

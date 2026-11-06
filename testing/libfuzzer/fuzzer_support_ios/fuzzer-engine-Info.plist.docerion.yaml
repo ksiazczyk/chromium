@@ -1,0 +1,4 @@
+# Docerion header of fuzzer-engine-Info.plist.
+type: config
+title: iOS fuzzer engine Info.plist
+summary: iOS application Info.plist configuring bundle metadata, launch images, orientations, and scene delegate settings for the libFuzzer app.

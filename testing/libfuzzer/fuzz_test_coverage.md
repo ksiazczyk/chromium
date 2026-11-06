@@ -1,3 +1,12 @@
+---
+type: guide
+title: Local code coverage for FuzzTests
+summary: Walks through configuring a coverage build, running a FuzzTest via coverage.py, and viewing the HTML report locally or remotely.
+relations:
+  - documents /tools/code_coverage/coverage.py
+  - references /tools/clang/scripts/update.py
+---
+
 # Generating Local Code Coverage for Fuzz Tests
 
 This document explains how to generate a local code coverage report for a

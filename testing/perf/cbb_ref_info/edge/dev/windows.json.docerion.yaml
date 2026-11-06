@@ -1,0 +1,4 @@
+# Docerion header of windows.json.
+type: data
+title: Edge dev browser metadata for Windows
+summary: JSON record specifying the Edge dev channel browser version 157.0.4329.0 on Windows for performance testing reference info.

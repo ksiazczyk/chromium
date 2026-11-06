@@ -1,0 +1,4 @@
+# Docerion header of zip_sources.py.
+type: script
+title: Zip Sources Referenced in Binary Debug Info
+summary: Script that parses DWARF debug info with dwarfdump and archives the referenced source files into a zip, invoked by libFuzzer buildbots.

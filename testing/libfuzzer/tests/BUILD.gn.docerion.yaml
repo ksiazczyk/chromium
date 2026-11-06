@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuzzing infrastructure tests build configuration
+summary: GN build file defining the fuzzing_unittests target plus fuzzer_test targets used to verify .options, .dict and seed corpus generation.

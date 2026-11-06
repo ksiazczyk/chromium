@@ -1,0 +1,4 @@
+# Docerion header of mac.json.
+type: data
+title: Chrome stable reference info for Mac
+summary: Records the Chrome stable version 156.0.8078.36 used as the reference build for Mac performance testing.

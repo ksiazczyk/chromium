@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuzzTarget implementation
+// summary: Implements the FuzzTarget helper that launches a fuzz target binary under libFuzzer or Centipede and collects its crashing inputs.
+// ---
+
 #include "testing/libfuzzer/tests/fuzz_target.h"
 
 #include "base/base_paths.h"

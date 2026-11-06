@@ -1,3 +1,11 @@
+---
+type: guide
+title: Fuzzing browsertests
+summary: Explains how to write and run experimental in-process fuzz cases inside a browser process environment using libFuzzer or centipede.
+relations:
+  - references /chrome/test/fuzzing/in_process_fuzzer.gni
+---
+
 # Fuzzing browsertests
 
 Fuzzing is effective if either:

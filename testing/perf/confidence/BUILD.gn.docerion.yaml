@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for benchmark confidence tools
+summary: GN build file defining the pinpoint_ci and compare_blink_perf executables plus the ratio_bootstrap_estimator static library used for post-processing benchmark data.

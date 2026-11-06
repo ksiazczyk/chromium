@@ -1,0 +1,4 @@
+# Docerion header of generate_v8_inspector_fuzzer_corpus.py.
+type: script
+title: V8 inspector fuzzer corpus generator
+summary: Python script that builds a fuzzer corpus for V8 inspector tests by inlining recursively loaded scripts and mocking missing utils methods.

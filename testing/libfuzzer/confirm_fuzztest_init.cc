@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzTest initialization hook for test suites
+// summary: C++ source that registers an init function so unit test suites containing fuzztests parse flags and call InitFuzzTest.
+// ---
+
 #include <string>
 #include <vector>
 

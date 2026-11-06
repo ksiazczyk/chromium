@@ -1,0 +1,4 @@
+# Docerion header of 53afb7330f338fe63aba317a51c09ac4ff98812a.
+type: data
+title: 'CSP corpus: script-src with unsafe-hashed-attributes and hash'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer covering script-src with 'unsafe-hashed-attributes' and a SHA-256 hash source.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seeded string comparison fuzztest fuzzer
+// summary: FuzzTest target with seeds that verifies string comparison instrumentation by searching for the string 'fish' and crashing on a match.
+// ---
+
 #include <cstdlib>
 #include <iostream>
 #include <string_view>

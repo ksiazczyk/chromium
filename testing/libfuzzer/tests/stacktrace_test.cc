@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer stack trace test
+// summary: GTest verifying that fuzzer crashes such as use-after-free and CHECK failures produce correctly symbolized stack traces.
+// ---
+
 #include <array>
 #include <string>
 

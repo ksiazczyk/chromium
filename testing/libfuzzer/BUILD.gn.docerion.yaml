@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chromium fuzzing engines
+summary: Defines GN targets, buildflags, and configs that wire fuzzing engines such as libFuzzer and Centipede into Chromium builds.

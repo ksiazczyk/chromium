@@ -1,0 +1,4 @@
+# Docerion header of merge_results_test.py.
+type: test
+title: Unit tests for the coverage merge scripts
+summary: Unit tests that verify argument parsing and profile merging behavior of merge_results and merge_steps using mocked inputs.

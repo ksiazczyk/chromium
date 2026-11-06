@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia path fuzzer shared helpers implementation
+// summary: Implements BuildPath, which constructs an SkPath from raw fuzzer input bytes for the Skia path fuzzers.
+// ---
+
 #include "testing/libfuzzer/fuzzers/skia_path_common.h"
 
 #include "third_party/skia/include/core/SkPath.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the iOS fuzzing engine
+summary: Defines the fuzzing_engine_main_ios source set that bundles the iOS fuzzer engine sources for the build.

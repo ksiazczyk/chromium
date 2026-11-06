@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String comparison instrumentation fuzzer
+// summary: Simple LibFuzzer fuzzer that exits when the input equals 'fish', used to manually verify string comparison instrumentation works.
+// ---
+
 #include <cstdlib>
 #include <iostream>
 #include <string>

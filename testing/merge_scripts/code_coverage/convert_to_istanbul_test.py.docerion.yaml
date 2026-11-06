@@ -1,0 +1,4 @@
+# Docerion header of convert_to_istanbul_test.py.
+type: test
+title: Tests for V8 to IstanbulJS conversion
+summary: Unit tests verifying conversion of raw V8 coverage to Istanbul format, including sourcemap validation cases; skipped on Windows.

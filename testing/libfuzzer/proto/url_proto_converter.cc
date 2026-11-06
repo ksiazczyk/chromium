@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL protobuf to string converter implementation
+// summary: Implements Convert() to assemble a URL string from a Url protobuf message, building scheme, slashes, userinfo, host, port, path, query and fragment for libFuzzer fuzzing targets.
+// ---
+
 #include <assert.h>
 #include <stdlib.h>
 

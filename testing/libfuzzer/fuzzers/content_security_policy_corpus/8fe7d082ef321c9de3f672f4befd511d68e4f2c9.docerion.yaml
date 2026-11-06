@@ -1,0 +1,4 @@
+# Docerion header of 8fe7d082ef321c9de3f672f4befd511d68e4f2c9.
+type: test
+title: 'CSP corpus: font-src directive'
+summary: Fuzzer corpus entry with a Content Security Policy restricting font sources to example.com.

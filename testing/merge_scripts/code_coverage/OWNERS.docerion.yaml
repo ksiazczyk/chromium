@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for code coverage merge scripts
+summary: Lists code owners for the coverage merge scripts, with per-file rules assigning JavaScript and Istanbul-related files to dedicated owners.

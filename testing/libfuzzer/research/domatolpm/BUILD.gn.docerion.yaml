@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for domatolpm research
+summary: Defines the GN group and source_set that compile the domatolpm context sources for libFuzzer research.

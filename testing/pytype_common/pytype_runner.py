@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Pytype runner for Chromium Python code
+# summary: Python module that runs pytype on given files and directories and reports results to ResultDB or a JSON output file.
+# ---
+
 import argparse
 import json
 import os

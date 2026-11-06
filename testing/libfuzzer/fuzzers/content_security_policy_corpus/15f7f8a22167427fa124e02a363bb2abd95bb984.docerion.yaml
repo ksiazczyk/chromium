@@ -1,0 +1,4 @@
+# Docerion header of 15f7f8a22167427fa124e02a363bb2abd95bb984.
+type: data
+title: 'CSP corpus: manifest-src directive'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer exercising the manifest-src directive with an HTTPS source.

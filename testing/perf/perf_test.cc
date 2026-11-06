@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perf test printing implementation
+// summary: Implements functions that print performance results to stdout in a controlled RESULT format for post-processing.
+// ---
+
 #include "testing/perf/perf_test.h"
 
 #include <stdio.h>

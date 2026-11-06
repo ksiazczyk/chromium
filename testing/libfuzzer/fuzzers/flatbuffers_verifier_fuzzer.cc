@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flatbuffers verifier fuzzer
+// summary: LibFuzzer entry point that verifies flatbuffers monster test buffers using the flatbuffers Verifier.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

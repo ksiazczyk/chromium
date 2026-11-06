@@ -1,0 +1,4 @@
+# Docerion header of standard_gtest_merge.pydeps.
+type: config
+title: Standard gtest merge dependency list
+summary: Generated list of Python module dependencies for standard_gtest_merge.py, used by build tooling for packaging.

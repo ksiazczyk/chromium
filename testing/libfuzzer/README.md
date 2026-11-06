@@ -1,3 +1,13 @@
+---
+type: readme
+title: Fuzzing in Chromium
+summary: Overview of fuzzing in Chromium with links to getting started guides, advanced topics, help channels, and dashboards.
+relations:
+  - references /mojo/docs/mojolpm.md
+  - references /testing/libfuzzer/blackbox_coverage.md
+  - references /testing/libfuzzer/efficient_fuzzing.md
+---
+
 # Fuzzing in Chromium
 
 [go/chrome-fuzzing](https://goto.google.com/chrome-fuzzing)

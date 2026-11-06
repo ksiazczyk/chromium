@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libyuv_scale_fuzzer.h
+// summary: Declares the Scale function shared by the libyuv scale libFuzzer and FuzzTest targets.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZERS_LIBYUV_SCALE_FUZZER_H_
 #define TESTING_LIBFUZZER_FUZZERS_LIBYUV_SCALE_FUZZER_H_
 

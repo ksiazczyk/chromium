@@ -1,0 +1,4 @@
+# Docerion header of date.dict.
+type: data
+title: Date format fuzzing dictionary
+summary: Dictionary of date and time format pattern fields, quote characters and separators for fuzzing date formatting or parsing.

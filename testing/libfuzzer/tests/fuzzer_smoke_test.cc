@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer smoke tests
+// summary: Parameterized GoogleTest suite running stub and crashing fuzz targets, including FuzzTest wrappers, expecting success or crash as appropriate.
+// ---
+
 #include <signal.h>
 
 #include <ostream>

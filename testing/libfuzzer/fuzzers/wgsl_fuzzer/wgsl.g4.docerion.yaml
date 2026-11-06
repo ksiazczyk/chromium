@@ -1,0 +1,4 @@
+# Docerion header of wgsl.g4.
+type: source
+title: WGSL ANTLR grammar for fuzz testing
+summary: ANTLR grammar approximating WGSL syntax, used with FuzzTest to exercise Tint's WGSL parser rather than fully describing the language.

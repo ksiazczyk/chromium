@@ -1,0 +1,4 @@
+# Docerion header of merge_js_results.py.
+type: script
+title: JavaScript coverage results merger
+summary: Entry-point script that merges JavaScript coverage results from sharded swarming runs into lcov reports, called by merge_results.py.

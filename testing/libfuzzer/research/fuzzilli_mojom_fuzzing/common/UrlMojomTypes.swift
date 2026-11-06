@@ -7,6 +7,12 @@
 /// See `MojoCommonProfile.swift` for the naming conventions these definitions
 /// follow and for how the lists below are registered.
 
+// ---docerion
+// type: source
+// title: Fuzzilli definitions for url.mojom types
+// summary: Defines Fuzzilli IL types, object groups, and code generators for the url.mojom Url and SchemeHostPort types.
+// ---
+
 extension CommonMojoStrings {
     static let urlMojomUrl = "url.mojom.Url"
     static let urlMojomSchemeHostPort = "url.mojom.SchemeHostPort"

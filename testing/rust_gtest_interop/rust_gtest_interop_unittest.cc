@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ test verifying Rust test registration
+// summary: C++ unit test that counts registered Rust test suites to verify Rust tests are registered in the Gtest binary.
+// ---
+
 #include <string_view>
 
 #include "build/build_config.h"

@@ -1,0 +1,4 @@
+# Docerion header of javascript_parser_proto.dict.
+type: data
+title: JavaScript parser proto fuzzing dictionary
+summary: Large dictionary of JavaScript tokens, keywords, built-in objects, literals and grammar building blocks for fuzzing the JavaScript parser prototype.

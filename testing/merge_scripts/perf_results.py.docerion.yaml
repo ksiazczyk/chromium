@@ -1,0 +1,4 @@
+# Docerion header of perf_results.py.
+type: source
+title: Performance results merge wrapper
+summary: Entry point that delegates merging of performance results to process_perf_results in tools/perf.

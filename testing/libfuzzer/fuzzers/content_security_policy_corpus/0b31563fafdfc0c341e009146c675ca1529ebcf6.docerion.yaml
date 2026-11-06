@@ -1,0 +1,4 @@
+# Docerion header of 0b31563fafdfc0c341e009146c675ca1529ebcf6.
+type: data
+title: "CSP corpus: minimal default-src 'self' policy"
+summary: Minimal seed input for the libFuzzer Content Security Policy fuzzer containing a default-src 'self' policy.

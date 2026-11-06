@@ -1,3 +1,11 @@
+---
+type: reference
+title: libFuzzer and ClusterFuzz Integration
+summary: Explains how libFuzzer fuzz targets integrate with ClusterFuzz, covering status links, build rules, buildbot setup, and corpus access via GCS.
+relations:
+  - references /testing/libfuzzer/fuzzer_test.gni
+---
+
 # libFuzzer and ClusterFuzz Integration
 
 ClusterFuzz is a distributed fuzzing infrastructure that automatically

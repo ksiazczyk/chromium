@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ratio bootstrap estimator header
+// summary: Header declaring a class that computes ratios between measured stochastic quantities with bootstrap confidence intervals, intended for performance benchmarking.
+// ---
+
 #ifndef TESTING_PERF_CONFIDENCE_RATIO_BOOTSTRAP_ESTIMATOR_H_
 #define TESTING_PERF_CONFIDENCE_RATIO_BOOTSTRAP_ESTIMATOR_H_
 

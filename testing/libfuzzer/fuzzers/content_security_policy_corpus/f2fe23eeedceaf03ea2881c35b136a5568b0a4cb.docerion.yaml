@@ -1,0 +1,4 @@
+# Docerion header of f2fe23eeedceaf03ea2881c35b136a5568b0a4cb.
+type: test
+title: CSP fuzzer corpus entry with object-src directive
+summary: Seed input for the libFuzzer content security policy fuzzer, providing an object-src directive sample to exercise CSP parsing.

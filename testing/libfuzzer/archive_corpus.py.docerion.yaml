@@ -1,0 +1,4 @@
+# Docerion header of archive_corpus.py.
+type: script
+title: Archive seed corpus into a zip
+summary: GN-invoked script that zips seed corpus files for a fuzzer and fails if the archive exceeds the 100 MB limit.

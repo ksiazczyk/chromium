@@ -1,0 +1,4 @@
+# Docerion header of generator.py.
+type: script
+title: Domato grammar to protobuf generator
+summary: Converts Domato grammar rules into protobuf definitions and generated C++ code for DomatoLPM-based fuzzers.

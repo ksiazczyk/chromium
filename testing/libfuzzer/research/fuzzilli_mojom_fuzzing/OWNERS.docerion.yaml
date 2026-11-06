@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for fuzzilli_mojom_fuzzing
+summary: Lists the code owners (bantikyan@chromium.org and ortuno@chromium.org) responsible for reviewing changes in this directory.

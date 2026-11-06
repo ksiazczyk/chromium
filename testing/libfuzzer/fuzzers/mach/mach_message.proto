@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf schema for Mach fuzzer messages
+// summary: Defines protobuf messages and enums modeling Mach messages, port rights, and descriptors used by the Mach fuzzer.
+// ---
+
 syntax = "proto2";
 
 package mach_fuzzer;

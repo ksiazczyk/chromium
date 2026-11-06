@@ -1,0 +1,4 @@
+# Docerion header of generate_javascript_parser_proto.py.
+type: script
+title: JavaScript parser proto generator
+summary: Python script that generates the proto definition and token-to-string conversion source for the JavaScript parser proto fuzzer from a dictionary file.

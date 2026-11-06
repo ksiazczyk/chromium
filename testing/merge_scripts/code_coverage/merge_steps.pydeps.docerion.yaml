@@ -1,0 +1,4 @@
+# Docerion header of merge_steps.pydeps.
+type: config
+title: Python dependency list for merge_steps
+summary: Generated list of Python module dependencies for merge_steps.py, produced by print_python_deps.py for the build system.

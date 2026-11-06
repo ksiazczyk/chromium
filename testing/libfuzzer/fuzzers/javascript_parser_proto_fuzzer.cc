@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript parser proto fuzzer
+// summary: Proto-based fuzzer that converts protobuf token sources into JavaScript text and parses it with V8 as scripts or modules.
+// ---
+
 #include <stdlib.h>
 
 #include <iostream>

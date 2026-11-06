@@ -1,0 +1,4 @@
+# Docerion header of regexp.dict.
+type: data
+title: AFL dictionary for JavaScript regex
+summary: Fuzzing dictionary listing JavaScript regular expression patterns, character classes, escapes and edge cases for exercising the regex parser.

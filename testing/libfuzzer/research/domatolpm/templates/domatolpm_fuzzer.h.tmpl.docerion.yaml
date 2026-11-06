@@ -1,0 +1,4 @@
+# Docerion header of domatolpm_fuzzer.h.tmpl.
+type: source
+title: domatolpm_fuzzer.h.tmpl fuzzer header template
+summary: Code template that generates the fuzzer header declaring handle_fuzzer and including the generated proto and handler headers.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Swarming merge scripts
+summary: Explains that this directory holds Swarming merge scripts that combine shard test results and links to their documentation.
+---
+
 # Swarming merge scripts
 
 This directory contains Swarming merge scripts. Merge scripts run to collect the

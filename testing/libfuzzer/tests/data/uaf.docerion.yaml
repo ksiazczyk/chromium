@@ -1,0 +1,4 @@
+# Docerion header of uaf.
+type: test
+title: uaf
+summary: Small text fixture containing 'uaf', likely named for use-after-free, used as test input data in the libFuzzer test suite.

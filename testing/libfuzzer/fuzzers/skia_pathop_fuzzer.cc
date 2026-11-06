@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia pathops fuzzer
+// summary: LibFuzzer fuzzer that applies a sequence of SkPathOps boolean operations to paths built from raw input bytes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

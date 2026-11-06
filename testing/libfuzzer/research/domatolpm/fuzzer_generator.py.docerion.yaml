@@ -1,0 +1,4 @@
+# Docerion header of fuzzer_generator.py.
+type: script
+title: DomatoLPM fuzzer file generator
+summary: Build script that renders Jinja templates into fuzzer proto, header and source files with grammar placeholders filled in.

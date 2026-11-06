@@ -7,6 +7,12 @@
 /// See `MojoCommonProfile.swift` for the naming conventions these definitions
 /// follow and for how the lists below are registered.
 
+// ---docerion
+// type: source
+// title: Fuzzilli definitions for skia.mojom types
+// summary: Defines Fuzzilli IL types, object groups, enumerations, and code generators for skia.mojom types such as BitmapN32ImageInfo and AlphaType.
+// ---
+
 extension CommonMojoStrings {
     static let skiaMojomBitmapN32ImageInfo = "skia.mojom.BitmapN32ImageInfo"
     static let skiaMojomAlphaType = "skia.mojom.AlphaType"

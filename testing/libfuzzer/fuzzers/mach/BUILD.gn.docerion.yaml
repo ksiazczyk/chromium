@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Mach fuzzer
+summary: Defines the proto_library and source_set build targets for the Mach message fuzzer's protobuf and converter sources.

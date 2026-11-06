@@ -1,0 +1,4 @@
+# Docerion header of windows.json.
+type: data
+title: Chrome Dev Windows version reference
+summary: JSON record pinning the Chrome Dev channel version 158.0.8106.0 used as reference info for Windows performance testing.

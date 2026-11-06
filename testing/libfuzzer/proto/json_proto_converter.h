@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON proto converter class header
+// summary: Declares the JsonProtoConverter class that turns JSON protobuf values, objects, and arrays into JSON strings.
+// ---
+
 #ifndef TESTING_LIBFUZZER_PROTO_JSON_PROTO_CONVERTER_H_
 #define TESTING_LIBFUZZER_PROTO_JSON_PROTO_CONVERTER_H_
 

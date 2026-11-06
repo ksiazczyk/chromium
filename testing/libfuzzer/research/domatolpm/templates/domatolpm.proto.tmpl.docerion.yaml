@@ -1,0 +1,4 @@
+# Docerion header of domatolpm.proto.tmpl.
+type: source
+title: domatolpm.proto.tmpl proto schema template
+summary: Code template that generates a proto3 schema with the message types of a domatolpm grammar, including imports and optional repeated line messages.

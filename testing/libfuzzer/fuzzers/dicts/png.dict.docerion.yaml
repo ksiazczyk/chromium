@@ -1,0 +1,4 @@
+# Docerion header of png.dict.
+type: data
+title: PNG fuzzing dictionary
+summary: AFL dictionary of PNG chunk names and the PNG file header for fuzzing PNG image decoding.

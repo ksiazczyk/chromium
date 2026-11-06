@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WOFF2 to TTF conversion fuzzer
+// summary: LibFuzzer entry point that exercises WOFF2 to TTF conversion through the woff2 decoding library.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libyuv_scale_fuzzer.cc
+// summary: Implements the shared Scale routine that exercises libyuv I420Scale and 16-bit scaling on randomly filled YUV image buffers.
+// ---
+
 #include "testing/libfuzzer/fuzzers/libyuv_scale_fuzzer.h"
 
 #include <stddef.h>

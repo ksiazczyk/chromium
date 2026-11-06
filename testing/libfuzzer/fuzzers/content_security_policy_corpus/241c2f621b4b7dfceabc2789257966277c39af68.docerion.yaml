@@ -1,0 +1,4 @@
+# Docerion header of 241c2f621b4b7dfceabc2789257966277c39af68.
+type: data
+title: 'CSP corpus: connect-src directive'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer exercising the connect-src directive with an HTTPS source.

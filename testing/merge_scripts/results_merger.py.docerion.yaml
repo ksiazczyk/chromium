@@ -1,0 +1,4 @@
+# Docerion header of results_merger.py.
+type: source
+title: Test results merger
+summary: Merges sharded test results in simplified JSON or Chromium JSON test results format version 3.

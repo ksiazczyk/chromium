@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON proto to JSON string converter implementation
+// summary: Implements JsonProtoConverter methods that serialize JSON protobuf messages into valid JSON text for fuzzer input.
+// ---
+
 #include "testing/libfuzzer/proto/json_proto_converter.h"
 
 namespace json_proto {

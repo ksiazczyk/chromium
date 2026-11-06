@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Merge scripts directory owners
+summary: OWNERS file listing the reviewer familiar with the Chromium recipe for this directory.

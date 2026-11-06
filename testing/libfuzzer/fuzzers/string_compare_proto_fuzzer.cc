@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf string comparison fuzzer
+// summary: Libprotobuf-mutator fuzzer that exits when the protobuf string value equals 'fish', testing string comparison instrumentation.
+// ---
+
 #include <cstdlib>
 #include <iostream>
 #include <string>

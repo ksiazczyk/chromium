@@ -1,0 +1,4 @@
+# Docerion header of df5f63d6a41ebb5f363da2c75e195f6a0678c570.
+type: test
+title: 'CSP corpus entry: all directives set to self'
+summary: libFuzzer seed input containing a Content Security Policy that restricts connect-, font-, frame-, img-, manifest-, media-, object-, script-, style- and worker-src to 'self'.

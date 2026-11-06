@@ -1,0 +1,4 @@
+# Docerion header of c05ca2448e645b6adcb21b20f57eb3204750e91b.
+type: test
+title: 'CSP corpus: media-src directive'
+summary: Fuzzer corpus entry with a Content Security Policy restricting media sources to example.com.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFuzzing dispatch implementation
+// summary: Implements the RendererFuzzing leaky singleton whose Run method dispatches fuzz inputs to the registered fuzzer matching the given fuzzer ID.
+// ---
+
 #include "testing/libfuzzer/renderer_fuzzing/renderer_fuzzing.h"
 
 #include <map>

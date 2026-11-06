@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proc macros for the gtest attribute
+// summary: 'Implements the #[gtest] attribute proc macro and related macros that turn Rust functions into registered Gtest tests.'
+// ---
+
 use proc_macro2::TokenStream;
 use quote::{format_ident, quote, quote_spanned, ToTokens};
 use syn::parse::{Parse, ParseStream};

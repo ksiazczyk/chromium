@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia path fuzzer shared helpers header
+// summary: Declares SpanReader read helpers and BuildPath used by the Skia path fuzzers to build paths from raw bytes.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZERS_SKIA_PATH_COMMON_H_
 #define TESTING_LIBFUZZER_FUZZERS_SKIA_PATH_COMMON_H_
 

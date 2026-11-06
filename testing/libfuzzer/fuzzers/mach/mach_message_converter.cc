@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach message converter implementation
+// summary: Implements conversion of protobuf messages into live Mach message buffers with port rights and out-of-line descriptors.
+// ---
+
 #include "testing/libfuzzer/fuzzers/mach/mach_message_converter.h"
 
 #include <string.h>

@@ -7,6 +7,12 @@
 /// See `MojoCommonProfile.swift` for the naming conventions these definitions
 /// follow and for how the lists below are registered.
 
+// ---docerion
+// type: source
+// title: Fuzzilli definitions for mojoBase.mojom types
+// summary: Defines Fuzzilli IL types, constructors, code generators, and object groups for mojoBase.mojom types such as BigBuffer, BigString16, and Uint128.
+// ---
+
 extension CommonMojoStrings {
     static let mojoBaseMojomBigBufferUnion = "mojoBase.mojom.BigBuffer"
     static let mojoBaseMojomBigBufferUnionBytes = "mojoBase.mojom.BigBuffer.bytes"

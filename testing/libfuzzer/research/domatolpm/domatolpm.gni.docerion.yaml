@@ -1,0 +1,4 @@
+# Docerion header of domatolpm.gni.
+type: config
+title: GN template for DomatoLPM code generation
+summary: Provides a GN template that runs the DomatoLPM generator on Domato grammar files to produce proto and C++ build targets.

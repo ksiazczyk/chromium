@@ -1,3 +1,13 @@
+---
+type: guide
+title: Getting Started with libprotobuf-mutator in Chromium
+summary: Walkthrough for writing libFuzzer fuzz targets with libprotobuf-mutator, covering protobuf inputs, grammar-based fuzzers, and GN build setup.
+relations:
+  - references /testing/libfuzzer/getting_started_with_libfuzzer.md
+  - references /testing/libfuzzer/fuzzers/url_parse_proto_fuzzer.cc
+  - references /testing/libfuzzer/proto/url.proto
+---
+
 # Getting Started with libprotobuf-mutator (LPM) in Chromium
 
 *** note

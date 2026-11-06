@@ -1,0 +1,4 @@
+# Docerion header of test.dict.
+type: test
+title: Test fuzzing dictionary
+summary: Simple word list serving as a libFuzzer dictionary for testing dictionary support.

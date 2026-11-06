@@ -23,6 +23,12 @@
 // TODO(sesse): Consider whether we should remove the first few
 // runs, as they are frequently outliers.
 
+// ---docerion
+// type: source
+// title: Blink style perftest comparison tool
+// summary: Utility that compares two runs of a Blink style perftest in perftest output format and computes confidence intervals for the benchmark results.
+// ---
+
 #include <stdio.h>
 #include <stdlib.h>
 

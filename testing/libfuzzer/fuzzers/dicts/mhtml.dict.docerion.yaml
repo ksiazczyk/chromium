@@ -1,0 +1,4 @@
+# Docerion header of mhtml.dict.
+type: data
+title: MHTML fuzzing dictionary
+summary: Dictionary of MHTML syntax elements, headers, boundaries and libFuzzer suggestions based on RFC 2557 for fuzzing MHTML parsing.

@@ -1,0 +1,4 @@
+# Docerion header of d6e5a37c382a8a78ddf8c262bdb5466b56f25e21.
+type: test
+title: CSP fuzzer corpus entry with connect-src and script-src directives
+summary: Seed input for the libFuzzer content security policy fuzzer, containing a policy with connect-src and script-src directives pointing to example hosts.

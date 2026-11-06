@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded sRGB ICC profile data
+// summary: Header providing a static byte array of an sRGB ICC color profile used as input data by color-space related fuzzers.
+// ---
+
 #ifndef TESTING_LIBFUZZER_FUZZERS_COLOR_SPACE_DATA_H_
 #define TESTING_LIBFUZZER_FUZZERS_COLOR_SPACE_DATA_H_
 

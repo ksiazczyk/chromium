@@ -1,0 +1,4 @@
+# Docerion header of 0b145b6957b72692af59e042237e721ad95d78bd.
+type: data
+title: 'CSP corpus: default-src with example hosts and connect-src none'
+summary: Seed input for the libFuzzer Content Security Policy fuzzer combining default-src sources with connect-src 'none'.

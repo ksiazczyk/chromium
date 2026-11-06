@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the fuzzing directory
+summary: Lists the email addresses of the people responsible for reviewing changes in testing/libfuzzer.

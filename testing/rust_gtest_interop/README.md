@@ -1,3 +1,11 @@
+---
+type: readme
+title: Rust integration into C++ Gtest targets
+summary: 'Explains how to add Rust unit tests to C++ Gtest targets and how to write Gtest tests in Rust using the #[gtest] macro and expect macros.'
+relations:
+  - references /testing/gtest/include/gtest/gtest.h
+---
+
 # Rust integration into C++ Gtest targets.
 
 This directory contains the tools for writing gtest-based tests in Rust and

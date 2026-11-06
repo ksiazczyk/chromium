@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LuciTestResult implementation
+// summary: Implements serialization of test results into the LUCI Test Results JSON format, covering status, variants, artifacts, and tags.
+// ---
+
 
 #include "testing/perf/luci_test_result.h"
 

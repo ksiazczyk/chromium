@@ -1,0 +1,4 @@
+# Docerion header of ChromiumProfile.swift.tmpl.
+type: source
+title: ChromiumProfile.swift.tmpl Fuzzilli profile template
+summary: Jinja template with Fuzzilli code generators and ILType and ObjectGroup definitions rendered into the Chromium Fuzzilli profile from WebIDL data.

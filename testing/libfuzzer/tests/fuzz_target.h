@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuzzTarget class header
+// summary: Declares the FuzzTarget helper for running a fuzz target binary and retrieving the crashing inputs it produces.
+// ---
+
 #ifndef TESTING_LIBFUZZER_TESTS_FUZZ_TARGET_H_
 #define TESTING_LIBFUZZER_TESTS_FUZZ_TARGET_H_
 

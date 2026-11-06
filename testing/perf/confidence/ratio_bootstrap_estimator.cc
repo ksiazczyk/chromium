@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ratio bootstrap estimator implementation
+// summary: Implements the ratio bootstrap estimator, including an inverse normal CDF based on Wichura's algorithm and BCa confidence interval computation.
+// ---
+
 #include "testing/perf/confidence/ratio_bootstrap_estimator.h"
 
 #include <limits>

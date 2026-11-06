@@ -1,0 +1,4 @@
+# Docerion header of check.
+type: test
+title: check
+summary: Small text fixture containing the word 'check', used as test input data in the libFuzzer test suite.

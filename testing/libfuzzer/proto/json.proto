@@ -5,6 +5,12 @@
 // The proto definition for JSON format has been written based on
 // http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf
 
+// ---docerion
+// type: source
+// title: JSON protobuf definition for fuzzing
+// summary: Defines protobuf messages modeling JSON values based on ECMA-404 so libprotobuf-mutator fuzzers can generate structured JSON input.
+// ---
+
 syntax = "proto2";
 
 package json_proto;

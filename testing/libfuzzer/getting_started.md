@@ -1,3 +1,12 @@
+---
+type: guide
+title: Getting started with fuzzing in Chromium
+summary: Tutorial on adding FuzzTest-based fuzz tests to Chromium, covering what to fuzz, writing tests, GN targets, DEPS updates and local runs.
+relations:
+  - references /testing/libfuzzer/getting_started_with_libfuzzer.md
+  - references /testing/test.gni
+---
+
 # Getting started with fuzzing in Chromium
 
 This document explains how to add fuzz tests to Chromium using [FuzzTest].

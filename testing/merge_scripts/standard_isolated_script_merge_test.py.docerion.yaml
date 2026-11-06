@@ -1,0 +1,4 @@
+# Docerion header of standard_isolated_script_merge_test.py.
+type: test
+title: Standard isolated script merge tests
+summary: Unit tests for the isolated script merge script, covering output merging, missing shards, and input parsing behaviour.

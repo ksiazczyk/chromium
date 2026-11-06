@@ -7,6 +7,12 @@
 // fuzzing skia. This should uncover bugs that could be used by a compromised
 // renderer to exploit the browser process.
 
+// ---docerion
+// type: source
+// title: Skia image filter protobuf fuzzer
+// summary: LibFuzzer entry point that converts a protobuf input into a Skia image filter and applies it to a canvas to fuzz Skia rendering.
+// ---
+
 #include <stdlib.h>
 
 #include <iostream>

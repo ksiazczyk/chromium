@@ -1,0 +1,4 @@
+# Docerion header of mac.json.
+type: data
+title: Safari Technology Preview browser info for Mac
+summary: JSON record capturing the Safari Technology Preview browser, channel, platform and version used as reference information for performance testing on macOS.

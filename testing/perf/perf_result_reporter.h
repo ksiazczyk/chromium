@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfResultReporter header
+// summary: Declares a helper class for safely registering and reporting performance metrics to avoid malformed perf dashboard data.
+// ---
+
 #ifndef TESTING_PERF_PERF_RESULT_REPORTER_H_
 #define TESTING_PERF_PERF_RESULT_REPORTER_H_
 

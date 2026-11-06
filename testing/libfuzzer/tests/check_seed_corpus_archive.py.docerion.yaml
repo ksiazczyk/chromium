@@ -1,0 +1,4 @@
+# Docerion header of check_seed_corpus_archive.py.
+type: test
+title: Seed corpus archive checker
+summary: Python helper that prints the number of files contained in a given zip seed corpus archive for use in test verification.
