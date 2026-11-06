@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real-time URL checks allowlist resource file test
+// summary: Unit test that validates the bundled real_time_url_checks_allowlist.pb backup resource file against expected allowlisted and non-allowlisted URLs.
+// ---
+
 #include "components/safe_browsing/android/real_time_url_checks_allowlist.h"
 
 #include <string.h>

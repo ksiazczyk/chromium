@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing build flags definition (BUILD.gn)
+summary: Defines a buildflag header exposing Safe Browsing feature availability flags such as FULL_SAFE_BROWSING and SAFE_BROWSING_DB_LOCAL based on the build mode.

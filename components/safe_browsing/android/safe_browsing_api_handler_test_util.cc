@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing API handler mock test utilities implementation
+// summary: Implements the WithMockSafeBrowsingApiHandler mixin that drives a Java-side mock Safe Browsing API handler for native unit tests.
+// ---
+
 #include "components/safe_browsing/android/safe_browsing_api_handler_test_util.h"
 
 #include "base/android/jni_android.h"

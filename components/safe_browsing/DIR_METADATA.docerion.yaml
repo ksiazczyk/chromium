@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for safe_browsing
+summary: Applies the shared Safe Browsing common metadata to this directory via a mixin reference.

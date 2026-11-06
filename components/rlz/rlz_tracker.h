@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZTracker class API header
+// summary: Declares the RLZTracker static API for initializing RLZ services, recording events, and retrieving access point RLZ strings and HTTP headers.
+// ---
+
 #ifndef COMPONENTS_RLZ_RLZ_TRACKER_H_
 #define COMPONENTS_RLZ_RLZ_TRACKER_H_
 

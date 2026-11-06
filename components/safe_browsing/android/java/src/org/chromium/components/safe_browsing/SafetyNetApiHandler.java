@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyNetApiHandler
+// summary: Java interface that SafetyNet API handler implementations must provide, covering initialization states, allowlist lookups, app verification and harmful app checks.
+// ---
+
 package org.chromium.components.safe_browsing;
 
 import androidx.annotation.IntDef;

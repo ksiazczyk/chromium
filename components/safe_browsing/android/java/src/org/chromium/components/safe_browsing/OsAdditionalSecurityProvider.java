@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsAdditionalSecurityProvider
+// summary: Queries whether the Android OS has enabled advanced-protection mode, notifies observers of changes, and provides an intent to open the OS advanced protection settings.
+// ---
+
 package org.chromium.components.safe_browsing;
 
 import android.Manifest;

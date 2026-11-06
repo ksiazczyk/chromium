@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing API handler bridge unit tests
+// summary: Tests the Safe Browsing API handler bridge, covering URL checks, Verify Apps, SafetyNet ID, and related histogram reporting with a mock API handler.
+// ---
+
 #include "components/safe_browsing/android/safe_browsing_api_handler_bridge.h"
 
 #include "base/command_line.h"

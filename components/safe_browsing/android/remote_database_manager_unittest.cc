@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote database manager unit tests
+// summary: Unit tests for the Android remote Safe Browsing database manager, using a mock Safe Browsing API handler to verify URL check results and cancellation.
+// ---
+
 #include "components/safe_browsing/android/remote_database_manager.h"
 
 #include <map>

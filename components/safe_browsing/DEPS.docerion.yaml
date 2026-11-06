@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing include dependency rules
+summary: Specifies allowed and restricted include dependencies for the safe_browsing component, keeping signin and sync usage limited to specific subdirectories.

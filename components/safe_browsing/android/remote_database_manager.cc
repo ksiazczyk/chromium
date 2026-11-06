@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote Safe Browsing database manager implementation
+// summary: Implements the Android database manager that sends URL check requests to a Safe Browsing service outside Chromium instead of using a local database.
+// ---
+
 #include "components/safe_browsing/android/remote_database_manager.h"
 
 #include <memory>

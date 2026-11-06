@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing API handler bridge native unit test helper
+// summary: Java helper with a mock SafetyNetApiHandler that native unit tests invoke to verify the Safe Browsing JNI bridge and preset lookup results.
+// ---
+
 package org.chromium.components.safe_browsing;
 
 import org.jni_zero.CalledByNative;

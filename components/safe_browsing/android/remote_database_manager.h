@@ -5,6 +5,12 @@
 // Implementation of the SafeBrowsingDatabaseManager that sends URLs
 // via IPC to a database that chromium doesn't manage locally.
 
+// ---docerion
+// type: source
+// title: Remote Safe Browsing database manager header
+// summary: Declares RemoteSafeBrowsingDatabaseManager, a SafeBrowsingDatabaseManager implementation that proxies URL checks to an external service without a local database.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_ANDROID_REMOTE_DATABASE_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_ANDROID_REMOTE_DATABASE_MANAGER_H_
 

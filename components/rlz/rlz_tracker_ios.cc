@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS RLZ tracker access points
+// summary: Defines the iOS omnibox RLZ access point, selecting the mobile or tablet variant based on the device form factor.
+// ---
+
 #include "components/rlz/rlz_tracker.h"
 
 #include "rlz/lib/rlz_lib.h"

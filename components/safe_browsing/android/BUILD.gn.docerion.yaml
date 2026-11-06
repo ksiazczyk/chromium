@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing Android build targets
+summary: Defines GN build targets for the Android Safe Browsing Java library, JNI headers, and native components such as the remote database manager and API handler.

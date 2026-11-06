@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL checks allowlist header
+// summary: Declares the RealTimeUrlChecksAllowlist singleton that stores allowlisted URL hashes on Android, along with its populate and lookup result enums.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_ANDROID_REAL_TIME_URL_CHECKS_ALLOWLIST_H_
 #define COMPONENTS_SAFE_BROWSING_ANDROID_REAL_TIME_URL_CHECKS_ALLOWLIST_H_
 

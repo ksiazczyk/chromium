@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL checks allowlist implementation
+// summary: Implements the singleton that parses and stores the real-time URL checks allowlist for Protego on Android, populating it from resources or dynamic updates.
+// ---
+
 #include "components/safe_browsing/android/real_time_url_checks_allowlist.h"
 
 #include "base/functional/bind.h"

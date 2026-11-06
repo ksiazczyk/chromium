@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZTrackerDelegate abstract interface
+// summary: Declares the abstract delegate interface that gives the RLZ tracker access to embedder-specific singletons and environment information such as brand, language and search callbacks.
+// ---
+
 #ifndef COMPONENTS_RLZ_RLZ_TRACKER_DELEGATE_H_
 #define COMPONENTS_RLZ_RLZ_TRACKER_DELEGATE_H_
 

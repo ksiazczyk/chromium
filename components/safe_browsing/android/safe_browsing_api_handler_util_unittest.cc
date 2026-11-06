@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing API handler utility unit tests
+// summary: Verifies that GetThreatMetadataFromSafeBrowsingApi maps threat types and attributes to the expected subresource filter metadata.
+// ---
+
 #include "components/safe_browsing/android/safe_browsing_api_handler_util.h"
 
 #include <string>

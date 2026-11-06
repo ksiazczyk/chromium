@@ -1,0 +1,4 @@
+# Docerion header of terms_chromium.html.
+type: reference
+title: Chromium placeholder terms of service page
+summary: Placeholder HTML page shown instead of the terms of service in Chromium builds, noting that official builds display the actual terms here.

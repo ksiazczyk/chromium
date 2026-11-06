@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the rlz component
+summary: Declares allowed include dependencies for the rlz component, permitting chromeos, google, mojo, net, rlz, ui and network headers while blocking content.
