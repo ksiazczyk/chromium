@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock identity registry for WebID tests
+// summary: Declares MockIdentityRegistry, a GMock IdentityRegistry subclass that mocks NotifyClose and NotifyResolve and exposes a weak pointer for tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_IDENTITY_REGISTRY_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_IDENTITY_REGISTRY_H_
 

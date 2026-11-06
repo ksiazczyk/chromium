@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket connector class declaration
+// summary: Declares WebSocketConnectorImpl, the content-layer implementation of blink::mojom::WebSocketConnector for frames, dedicated, shared and service workers.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBSOCKETS_WEBSOCKET_CONNECTOR_IMPL_H_
 #define CONTENT_BROWSER_WEBSOCKETS_WEBSOCKET_CONNECTOR_IMPL_H_
 

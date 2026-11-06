@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock federated identity auto-reauthn permission delegate
+// summary: Declares a gmock mock of the auto-reauthn permission context delegate covering settings, embargo and user mediation behaviour for WebID tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_AUTO_REAUTHN_PERMISSION_DELEGATE_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_AUTO_REAUTHN_PERMISSION_DELEGATE_H_
 

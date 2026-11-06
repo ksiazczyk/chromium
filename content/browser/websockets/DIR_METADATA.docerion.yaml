@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebSocket service directory metadata
+summary: Chromium DIR_METADATA entry assigning the WebSocket service directory to the Blink>Network>WebSockets component, the net-dev team and Buganizer component 1456696.

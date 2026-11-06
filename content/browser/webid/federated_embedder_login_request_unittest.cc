@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FederatedEmbedderLoginRequest unit tests
+// summary: Unit tests verifying that FederatedEmbedderLoginRequest::Get handles opener cycles and chains without hanging and finds requests set on opener WebContents.
+// ---
+
 #include "content/public/browser/webid/federated_embedder_login_request.h"
 
 #include "base/functional/callback_helpers.h"

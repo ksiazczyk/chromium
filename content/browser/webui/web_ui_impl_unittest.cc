@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIImpl unit tests
+// summary: Unit tests for WebUIImpl focused on building the local resource loader configuration for default and custom WebUI data sources.
+// ---
+
 #include "content/browser/webui/web_ui_impl.h"
 
 #include "base/test/bind.h"

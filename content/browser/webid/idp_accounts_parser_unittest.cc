@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdpAccountsParser unit tests
+// summary: Tests parsing of valid and invalid FedCM accounts endpoint responses, covering missing keys, empty lists, duplicate IDs, missing fields, and native UI delegation errors.
+// ---
+
 #include "content/browser/webid/idp_accounts_parser.h"
 
 #include "base/json/json_reader.h"

@@ -5,6 +5,12 @@
 // Reduced copy of
 // third_party/blink/web_tests/external/wpt/webrtc/third_party/sdp/sdp.js
 
+// ---docerion
+// type: source
+// title: SDP parsing utilities
+// summary: Provides small SDP parsing helpers for splitting lines and sections, reading the direction and parsing m-lines.
+// ---
+
 // Splits SDP into lines, dealing with both CRLF and LF.
 export function splitLines(blob) {
   return blob.trim().split('\n').map(line => line.trim());

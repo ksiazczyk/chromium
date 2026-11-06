@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDP accounts endpoint response parser implementation
+// summary: Parses accounts from the FedCM accounts endpoint JSON response, extracting fields such as hints, labels, approved clients, and identifiers into IdentityRequestAccount objects.
+// ---
+
 #include "content/browser/webid/idp_accounts_parser.h"
 
 #include "base/containers/flat_set.h"

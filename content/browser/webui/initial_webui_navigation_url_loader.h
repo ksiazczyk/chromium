@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the initial WebUI navigation URL loader
+// summary: Declares InitialWebUINavigationURLLoader, a NavigationURLLoader for initial WebUI navigations whose body is loaded in the renderer process.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_INITIAL_WEBUI_NAVIGATION_URL_LOADER_H_
 #define CONTENT_BROWSER_WEBUI_INITIAL_WEBUI_NAVIGATION_URL_LOADER_H_
 

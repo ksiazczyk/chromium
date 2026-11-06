@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory federated permission context implementation
+// summary: In-memory implementation of the FedCM permission and login state delegates, tracking embargo, third-party cookie access, and user mediation.
+// ---
+
 #include "content/browser/webid/in_memory_federated_permission_context.h"
 
 #include <algorithm>

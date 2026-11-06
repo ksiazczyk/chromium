@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM mappers unit tests
+// summary: Unit tests for FedCM disclosure field mapping, ordering, deduplication, and account field computation.
+// ---
+
 #include "content/browser/webid/mappers.h"
 
 #include <optional>

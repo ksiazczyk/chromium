@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatorImpl resident key unit tests
+// summary: Unit tests for resident key (discoverable credential) flows in the WebAuthn authenticator implementation, including account selection and platform integrations.
+// ---
+
 #include <list>
 #include <string>
 #include <vector>

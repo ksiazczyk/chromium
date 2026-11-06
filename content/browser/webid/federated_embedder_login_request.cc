@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FederatedEmbedderLoginRequest implementation
+// summary: Implements a WebContents-scoped federated embedder login request with a 20-second timeout, completion callbacks, and cycle-safe opener-chain lookup.
+// ---
+
 #include "content/public/browser/webid/federated_embedder_login_request.h"
 
 #include <string>

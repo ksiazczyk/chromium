@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request unit tests
+// summary: Unit tests for the FedCM Request class covering default state, mediation requirements, RP mode and context, and nonce tracking across identity providers.
+// ---
+
 #include "content/browser/webid/request.h"
 
 #include <memory>

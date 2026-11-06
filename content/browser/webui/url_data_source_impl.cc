@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data source implementation
+// summary: Implements URLDataSourceImpl, a refcounted wrapper around a URLDataSource with default behavior for type checks and template replacements.
+// ---
+
 #include "content/browser/webui/url_data_source_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN introspection manager browser implementation
+// summary: Browser-side singleton that manages WebNN introspection observers, enables or disables ML graph recording, binds introspection Mojo interfaces to renderer processes, and forwards recorded graph data to observers.
+// ---
+
 #include "content/browser/webnn/webnn_introspection_manager_impl.h"
 
 #include "content/browser/gpu/gpu_process_host.h"

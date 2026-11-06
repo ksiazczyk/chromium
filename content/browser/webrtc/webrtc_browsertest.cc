@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC peer connection browser tests
+// summary: Browser tests for peer connection audio and video calls, configuration handling, and network service crash recovery with fake devices.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email Verification Token verifier unit tests
+// summary: Unit tests that build and sign EVT and KB-JWT tokens with configurable options and verify acceptance and rejection paths of EvtVerifier.
+// ---
+
 #include "content/browser/webid/delegation/evt_verifier.h"
 
 #include <optional>

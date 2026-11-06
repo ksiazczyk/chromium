@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualAuthenticator class declaration
+// summary: Declares the VirtualAuthenticator class, a stateful simulated FIDO authenticator that stores credentials and options while delegating crypto to VirtualFidoDevice.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_VIRTUAL_AUTHENTICATOR_H_
 #define CONTENT_BROWSER_WEBAUTH_VIRTUAL_AUTHENTICATOR_H_
 

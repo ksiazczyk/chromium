@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsFetcher class header
+// summary: Declares the AccountsFetcher class that fetches accounts from a set of identity providers, together with its result and fetching parameter structs.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_ACCOUNTS_FETCHER_H_
 #define CONTENT_BROWSER_WEBID_ACCOUNTS_FETCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and review rules for WebUI browser code
+summary: Lists owners for the directory and requires WebUI platform owner review for changes to the content_web_ui_configs files.

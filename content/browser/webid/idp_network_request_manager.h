@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdpNetworkRequestManager class declaration
+// summary: Declares the manager of network requests and state for a single FedCM identity transaction between an RP and an IDP, with endpoint, well-known, and client metadata structures.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDP_NETWORK_REQUEST_MANAGER_H_
 #define CONTENT_BROWSER_WEBID_IDP_NETWORK_REQUEST_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab view component for WebRTC internals
+// summary: Provides a reusable tab component that creates, removes and switches tabs in the WebRTC internals UI.
+// ---
+
 // Creates a simple object containing the tab head and body elements.
 class TabDom {
   constructor(h, b) {

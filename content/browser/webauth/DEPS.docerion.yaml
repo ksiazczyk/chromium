@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webauth directory
+summary: Defines allowed include dependencies for content/browser/webauth, with per-file exceptions for unittests and test bases.

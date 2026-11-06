@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated SD-JWT handler implementation
+// summary: Implements handling of vc+sd-jwt tokens in federated identity requests, generating a one-time holder key, posting to the issuance endpoint, and parsing disclosures.
+// ---
+
 #include "content/browser/webid/delegation/federated_sd_jwt_handler.h"
 
 #include <optional>

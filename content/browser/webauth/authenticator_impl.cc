@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorImpl mojo service implementation
+// summary: Implements the per-frame Authenticator mojo service, delegating WebAuthn calls to AuthenticatorCommonImpl.
+// ---
+
 #include "content/browser/webauth/authenticator_impl.h"
 
 #include <memory>

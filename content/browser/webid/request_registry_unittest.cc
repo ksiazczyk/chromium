@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request registry unit tests
+// summary: Unit tests for the FedCM request registry, verifying IDP registration and request flows with mocked network, permission, and dialog delegates.
+// ---
+
 #include <memory>
 #include <ostream>
 #include <string>

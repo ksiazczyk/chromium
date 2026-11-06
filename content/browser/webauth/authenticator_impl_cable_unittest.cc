@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLE transport unit tests for AuthenticatorImpl
+// summary: Unit tests exercising WebAuthn requests over the caBLE v2 hybrid transport using mock Bluetooth adapters and virtual CTAP2 devices.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <optional>

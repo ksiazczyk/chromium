@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual authenticator implementation
+// summary: Implements the VirtualAuthenticator that simulates CTAP2 and U2F FIDO devices with configurable options, resident and non-resident registrations, and shared state for testing.
+// ---
+
 #include "content/browser/webauth/virtual_authenticator.h"
 
 #include <optional>

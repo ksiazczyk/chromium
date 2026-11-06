@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC diagnostics implementation unit tests
+// summary: Unit tests for the WebRTC diagnostics implementation, covering peer connection snapshots, observer notifications, truncation, and capture stopping.
+// ---
+
 #include "content/browser/webrtc/webrtc_diagnostics_impl.h"
 
 #include <string>

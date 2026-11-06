@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the webauth component
+summary: Declares the Blink>WebAuthentication tracker component, team email, and Buganizer component ID for this directory.

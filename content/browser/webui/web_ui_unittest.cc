@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI unit test
+// summary: Unit tests for WebUI message handling, verifying that a registered handler callback receives the expected number, flag, and text arguments via TestWebUI.
+// ---
+
 #include <utility>
 
 #include "content/public/test/test_web_ui.h"

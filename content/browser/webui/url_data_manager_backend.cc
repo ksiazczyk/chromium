@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data manager backend implementation
+// summary: Implements URLDataManagerBackend, the per-BrowserContext backend that resolves WebUI requests, builds response headers and registers the shared resources data sources.
+// ---
+
 #include "content/browser/webui/url_data_manager_backend.h"
 
 #include <algorithm>

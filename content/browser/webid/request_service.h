@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestService header
+// summary: Declares RequestService, a document-scoped manager coordinating FedCM requests for a RenderFrameHost that owns the active request handler session.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_REQUEST_SERVICE_H_
 #define CONTENT_BROWSER_WEBID_REQUEST_SERVICE_H_
 

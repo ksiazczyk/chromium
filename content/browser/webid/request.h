@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immutable FedCM token request parameters
+// summary: Declares the Request class holding immutable inputs, security context, and precomputed IdP lookup tables for a single FedCM token request.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_REQUEST_H_
 #define CONTENT_BROWSER_WEBID_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JWT signer and verifier declarations
+// summary: Declares Signer and Verifier callbacks plus helpers to create JWT signers, verifiers, and export public keys as JWK in the sdjwt namespace.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_JWT_SIGNER_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_JWT_SIGNER_H_
 

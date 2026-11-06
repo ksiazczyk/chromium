@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM browser tests
+// summary: Browser test suite exercising FedCM flows end to end with an embedded test server, mock delegates, and simulated identity provider and relying party sites.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

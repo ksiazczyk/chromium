@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake request info class declaration
+// summary: Declares WebSocketHandshakeRequestInfoImpl, which stores child and render frame IDs with a URL request and exposes accessors for them.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBSOCKETS_WEBSOCKET_HANDSHAKE_REQUEST_INFO_IMPL_H_
 #define CONTENT_BROWSER_WEBSOCKETS_WEBSOCKET_HANDSHAKE_REQUEST_INFO_IMPL_H_
 

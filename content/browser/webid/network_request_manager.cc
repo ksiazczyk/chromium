@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request manager implementation for WebID
+// summary: Implements network fetches for FedCM APIs, including well-known URL computation, JSON download and parsing, and response error classification.
+// ---
+
 #include "content/browser/webid/network_request_manager.h"
 
 #include <optional>

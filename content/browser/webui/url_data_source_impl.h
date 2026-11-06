@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data source header
+// summary: Declares URLDataSourceImpl and its deletion trait, wrapping URLDataSource implementations for refcounted ownership with UI-thread-safe deletion.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_URL_DATA_SOURCE_IMPL_H_
 #define CONTENT_BROWSER_WEBUI_URL_DATA_SOURCE_IMPL_H_
 

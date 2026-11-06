@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM mappers implementation
+// summary: Implements conversions between FedCM browser and renderer types, including disclosure fields, request token statuses, and error codes.
+// ---
+
 #include "content/browser/webid/mappers.h"
 
 #include <string>

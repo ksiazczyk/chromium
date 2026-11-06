@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator test base implementation
+// summary: Implements the test request delegate and common setup shared by WebAuthn authenticator tests, including transport and enclave callbacks.
+// ---
+
 #include "content/browser/webauth/authenticator_test_base.h"
 
 #include <memory>

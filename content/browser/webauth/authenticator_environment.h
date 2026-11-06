@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorEnvironment class declaration
+// summary: Declares the singleton managing per-frame virtual authenticator environments for the Web Authentication API.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_ENVIRONMENT_H_
 #define CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_ENVIRONMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTCInternals class declaration
+// summary: Declares the WebRTCInternals singleton that collects peer connection information from renderers, forwards it to UI observers, and sends data collection commands.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_H_
 #define CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_H_
 

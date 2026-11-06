@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL loader factory implementation
+// summary: Implements the URL loader factory that serves WebUI requests in the content layer, applying template replacements, byte ranges, and error handling while recording load-time metrics.
+// ---
+
 #include "content/public/browser/web_ui_url_loader_factory.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM metrics header
+// summary: Declares the FedCM Metrics class and persisted status enums for request token results and sign-in state matching.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_METRICS_H_
 #define CONTENT_BROWSER_WEBID_METRICS_H_
 

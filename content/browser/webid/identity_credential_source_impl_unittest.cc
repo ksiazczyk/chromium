@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityCredentialSourceImpl unit tests
+// summary: Unit tests for IdentityCredentialSourceImpl covering account suggestion fetching, account selection, and embedder login requests using mock delegates and network managers.
+// ---
+
 #include "content/browser/webid/identity_credential_source_impl.h"
 
 #include <memory>

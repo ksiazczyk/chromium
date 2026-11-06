@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request outcome enums
+// summary: Defines enums for WebAuthn get assertion, make credential, request mode, and credential request result outcomes used for metrics histograms.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_REQUEST_OUTCOME_ENUMS_H_
 #define CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_REQUEST_OUTCOME_ENUMS_H_
 

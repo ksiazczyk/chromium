@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC real webcam browser test
+// summary: Manual browser test that runs with a real webcam and checks GetUserMedia acquires a VGA 640x480 resolution by default.
+// ---
+
 #include "content/browser/webrtc/webrtc_webcam_browsertest.h"
 
 #include <vector>

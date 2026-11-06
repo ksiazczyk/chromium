@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN browser host implementation
+// summary: Implements the browser-side WebNN host that brokers operations for the sandboxed WebNN service and manages the WebNN Compiler utility process lifecycle, including crash throttling, on Windows and macOS.
+// ---
+
 #include "content/browser/webnn/webnn_browser_host_impl.h"
 
 #include <memory>

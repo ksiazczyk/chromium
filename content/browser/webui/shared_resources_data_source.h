@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared resources data source header
+// summary: Declares PopulateSharedResourcesDataSource, which fills a data source for chrome(-untrusted)://resources/ URLs.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_SHARED_RESOURCES_DATA_SOURCE_H_
 #define CONTENT_BROWSER_WEBUI_SHARED_RESOURCES_DATA_SOURCE_H_
 

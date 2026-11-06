@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for initial WebUI navigation
+// summary: Browser tests verifying that initial WebUI navigations commit correctly, including behavior with in-process resource loading v2 enabled or disabled.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/memory/ref_counted_memory.h"
 #include "base/test/bind.h"

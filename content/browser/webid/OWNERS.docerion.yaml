@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for FedCM browser code
+summary: Lists the owners responsible for reviewing FedCM and digital credentials changes in this directory.

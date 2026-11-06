@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM request construction and IdP registration handling
+// summary: Implements building of FedCM token requests, merging registered identity providers, and computing activation and redirect permissions.
+// ---
+
 #include "content/browser/webid/request.h"
 
 #include <algorithm>

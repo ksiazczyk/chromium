@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebID test DEPS include rules
+summary: Allowlists test-only includes for the WebID test content browser client header in the content layer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserInfoRequest implementation
+// summary: Implements the browser-side FedCM getUserInfo() request, validating origins, permissions and IdP sign-in status before fetching and returning the user's accounts.
+// ---
+
 #include "content/browser/webid/user_info_request.h"
 
 #include "base/functional/callback.h"

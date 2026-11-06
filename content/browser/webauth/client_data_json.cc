@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client data JSON builder
+// summary: Builds the WebAuthn client data JSON, including payment-related fields for secure payment confirmation requests.
+// ---
+
 #include "content/browser/webauth/client_data_json.h"
 
 #include "base/check.h"

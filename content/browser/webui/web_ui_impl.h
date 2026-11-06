@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIImpl class declaration
+// summary: Declares WebUIImpl, the browser-side WebUI implementation that owns controllers, message handlers, bindings, and Mojo interface brokering across frame lifetimes.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_WEB_UI_IMPL_H_
 #define CONTENT_BROWSER_WEBUI_WEB_UI_IMPL_H_
 

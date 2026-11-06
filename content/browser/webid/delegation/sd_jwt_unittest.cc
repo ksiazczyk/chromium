@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SD-JWT unit tests
+// summary: Unit tests covering JWK parsing and serialization, disclosure encoding and SD-JWT handling against examples from the IETF selective disclosure draft.
+// ---
+
 #include "content/browser/webid/delegation/sd_jwt.h"
 
 #include "base/base64.h"

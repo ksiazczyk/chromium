@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC connections count observer interface
+// summary: Defines an observer interface that is notified whenever the count of active WebRTC connections changes.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_CONNECTIONS_OBSERVER_H_
 #define CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_CONNECTIONS_OBSERVER_H_
 

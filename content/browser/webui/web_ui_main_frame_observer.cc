@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI main frame observer implementation
+// summary: Implements WebUIMainFrameObserver, which watches console errors on WebUI main frames and reports JavaScript errors on supported platforms.
+// ---
+
 #include "content/browser/webui/web_ui_main_frame_observer.h"
 
 #include <string>

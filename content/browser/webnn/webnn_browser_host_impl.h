@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN browser host class declaration
+// summary: Declares WebNNBrowserHostImpl, the per-GPU-process browser-side WebNN host that handles execution providers, compiler contexts, weights files, and compiled model copying.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBNN_WEBNN_BROWSER_HOST_IMPL_H_
 #define CONTENT_BROWSER_WEBNN_WEBNN_BROWSER_HOST_IMPL_H_
 

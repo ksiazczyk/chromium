@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIdentityRequestDialogController implementation
+// summary: Implements a fake identity request dialog controller that auto-selects accounts and grants consent for tests and the --use-fake-ui-for-fedcm flag.
+// ---
+
 #include "content/browser/webid/fake_identity_request_dialog_controller.h"
 
 #include "base/functional/callback.h"

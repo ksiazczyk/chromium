@@ -11,6 +11,12 @@
 // Each group has an expand/collapse button and is collapsed initially.
 //
 
+// ---docerion
+// type: source
+// title: Stats timeline graph drawing helpers
+// summary: Draws per-stat timeline graphs for peer connection reports on canvas, skipping stats types and values that are not useful to plot.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {TimelineDataSeries} from './data_series.js';

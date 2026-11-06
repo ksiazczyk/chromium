@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdpRegistrationHandler class declaration
+// summary: Declares a handler that fetches the IDP configuration for FedCM registration using a ConfigFetcher tied to a render frame host and network manager.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDP_REGISTRATION_HANDLER_H_
 #define CONTENT_BROWSER_WEBID_IDP_REGISTRATION_HANDLER_H_
 

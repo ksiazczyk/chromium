@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRtcConnectionsObserver class declaration
+// summary: Declares WebRtcConnectionsObserver, an observer that forwards active WebRTC connection count changes to a provided callback.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_WEBRTC_CONNECTIONS_OBSERVER_H_
 #define CONTENT_BROWSER_WEBRTC_WEBRTC_CONNECTIONS_OBSERVER_H_
 

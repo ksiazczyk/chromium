@@ -1,3 +1,9 @@
+---
+type: reference
+title: Advice to sites on clientDataJSON validation
+summary: Explains that sites must parse clientDataJSON to verify challenge and origin rather than compare templates, noting Chromium randomly inserts an extra member referencing this doc.
+---
+
 # Advice to sites regarding `clientDataJSON`
 
 When performing a registration or authentication with webauthn, it's critical that sites confirm that the returned [`clientDataJSON`](https://w3c.github.io/webauthn/#dom-authenticatorresponse-clientdatajson) contains the [challenge](https://w3c.github.io/webauthn/#cryptographic-challenges) originally provided. Otherwise old messages can be replayed. Likewise, sites must check the `origin` member to confirm that the action is not being proxied by another site.

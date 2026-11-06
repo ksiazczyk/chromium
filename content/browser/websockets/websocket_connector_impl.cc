@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket connector implementation
+// summary: Implements the WebSocketConnector Mojo interface, handling renderer-initiated WebSocket connections with origin handling, isolation info, client security state and DevTools instrumentation.
+// ---
+
 #include "content/browser/websockets/websocket_connector_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityRegistryDelegate interface for FedCM popup control
+// summary: Delegate interface that controls FedCM modal dialog popups, such as opening a sign-in popup when no accounts are available, with close, resolve, and origin-mismatch callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDENTITY_REGISTRY_DELEGATE_H_
 #define CONTENT_BROWSER_WEBID_IDENTITY_REGISTRY_DELEGATE_H_
 

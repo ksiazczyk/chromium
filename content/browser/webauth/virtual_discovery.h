@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDiscovery class declaration
+// summary: Declares a fully automated FidoDeviceDiscovery that is disconnected from real hardware and discovers VirtualFidoDevice instances.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_VIRTUAL_DISCOVERY_H_
 #define CONTENT_BROWSER_WEBAUTH_VIRTUAL_DISCOVERY_H_
 

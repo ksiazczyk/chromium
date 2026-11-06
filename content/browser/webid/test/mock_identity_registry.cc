@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock identity registry implementation
+// summary: Implements the constructor and destructor of MockIdentityRegistry, a GMock subclass of IdentityRegistry used as a test double for WebID identity flows.
+// ---
+
 #include "content/browser/webid/test/mock_identity_registry.h"
 
 #include "content/browser/webid/identity_registry.h"

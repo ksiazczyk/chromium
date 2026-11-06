@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mojo conformance browser tests
+// summary: Browser test that runs Mojo binding validation conformance cases through a WebUI by parsing conformance_*.data files and their expected results.
+// ---
+
 #include <array>
 #include <fstream>
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS TXT request implementation
+// summary: Sends DNS TXT queries for a hostname through a configurable DNS-over-HTTPS resolver and parses the answers into text records.
+// ---
+
 #include "content/browser/webid/delegation/dns_request.h"
 
 #include <optional>

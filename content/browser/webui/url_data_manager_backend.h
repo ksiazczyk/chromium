@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data manager backend header
+// summary: Declares URLDataManagerBackend, the UI-thread backend owned by BrowserContext that maps source names to data sources and validates WebUI URLs and schemes.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_URL_DATA_MANAGER_BACKEND_H_
 #define CONTENT_BROWSER_WEBUI_URL_DATA_MANAGER_BACKEND_H_
 

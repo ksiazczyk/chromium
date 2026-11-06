@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC data channel browser test
+// summary: Browser test for data channel garbage collection that is currently disabled due to flakiness.
+// ---
+
 #include "base/command_line.h"
 #include "content/browser/webrtc/webrtc_content_browsertest_base.h"
 #include "content/public/test/browser_test.h"

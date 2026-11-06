@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated request token callback helper
+// summary: Declares a helper for waiting on the StartTokenRequest mojo callback and inspecting its status, token, error and selected IdP config URL.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_FEDERATED_REQUEST_TOKEN_CALLBACK_HELPER_H_
 #define CONTENT_BROWSER_WEBID_TEST_FEDERATED_REQUEST_TOKEN_CALLBACK_HELPER_H_
 

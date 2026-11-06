@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM URL computations implementation
+// summary: Implements helpers that build token endpoint POST data, resolve and classify IdP error URLs by origin, and append login hint query parameters.
+// ---
+
 #include "content/browser/webid/url_computations.h"
 
 #include <algorithm>

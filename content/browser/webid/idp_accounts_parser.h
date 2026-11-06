@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdpAccountsParser class declaration
+// summary: Declares the parser for FedCM accounts endpoint responses, converting JSON dictionaries into account lists or full responses with invalid reasons on failure.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDP_ACCOUNTS_PARSER_H_
 #define CONTENT_BROWSER_WEBID_IDP_ACCOUNTS_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock capture device controller implementation
+// summary: Implements adding, removing and resetting mock cameras connected to the video capture service's video source provider.
+// ---
+
 #include "content/browser/webrtc/mock_capture_device_controller.h"
 
 #include <utility>

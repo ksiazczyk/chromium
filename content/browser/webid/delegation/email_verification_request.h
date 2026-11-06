@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmailVerificationRequest class header
+// summary: Declares the EmailVerificationRequest class that checks email verifiability and issues verification tokens per the Email Verification Protocol.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_EMAIL_VERIFICATION_REQUEST_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_EMAIL_VERIFICATION_REQUEST_H_
 

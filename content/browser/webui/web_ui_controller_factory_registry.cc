@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller factory registry implementation
+// summary: Implements the singleton registry that dispatches WebUI controller creation, type lookup, and URL acceptability checks to all registered WebUIControllerFactory instances.
+// ---
+
 #include "content/browser/webui/web_ui_controller_factory_registry.h"
 
 #include <stddef.h>

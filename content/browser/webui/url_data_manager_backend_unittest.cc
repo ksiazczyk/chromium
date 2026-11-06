@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL data manager backend unit tests
+// summary: Parameterized unit test verifying that a WebUI data source's origin matches the URL it serves, for both trusted and untrusted WebUI schemes.
+// ---
+
 #include "content/browser/webui/url_data_manager_backend.h"
 
 #include "content/browser/webui/web_ui_data_source_impl.h"

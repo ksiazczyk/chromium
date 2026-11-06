@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared resources data source implementation
+// summary: Populates a shared WebUI data source with static resources readable by every WebUI origin, adding ChromeOS-specific resource maps and deprecated Mojo bindings when enabled.
+// ---
+
 #include "content/browser/webui/shared_resources_data_source.h"
 
 #include <set>

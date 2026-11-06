@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC internals message handler unit tests
+// summary: Unit tests verifying that the message handler does not run JavaScript on the webrtc-internals page before its navigation has committed.
+// ---
+
 #include "content/browser/webrtc/webrtc_internals_message_handler.h"
 
 #include <memory>

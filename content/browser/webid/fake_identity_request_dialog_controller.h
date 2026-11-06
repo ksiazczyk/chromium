@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIdentityRequestDialogController class declaration
+// summary: Declares a fake dialog controller that fakes FedCM request dialogs to always provide user consent, used by tests and the fake UI command-line flag.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_FAKE_IDENTITY_REQUEST_DIALOG_CONTROLLER_H_
 #define CONTENT_BROWSER_WEBID_FAKE_IDENTITY_REQUEST_DIALOG_CONTROLLER_H_
 

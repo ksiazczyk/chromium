@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectRequest class declaration
+// summary: Declares DisconnectRequest, which fetches data for a FedCM disconnect request and completes it with a status callback.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DISCONNECT_REQUEST_H_
 #define CONTENT_BROWSER_WEBID_DISCONNECT_REQUEST_H_
 

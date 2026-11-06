@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN introspection manager class declaration
+// summary: Declares WebNNIntrospectionManagerImpl, a singleton hub that relays WebNN debugging data such as recorded graphs from renderers and the GPU-process service to browser-side observers.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBNN_WEBNN_INTROSPECTION_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_WEBNN_WEBNN_INTROSPECTION_MANAGER_IMPL_H_
 

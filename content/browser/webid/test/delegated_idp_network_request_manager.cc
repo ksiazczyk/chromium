@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegated IdP network request manager implementation
+// summary: Implements a delegating IdP network request manager that forwards all fetch, token, disconnect and image calls to a wrapped delegate for WebID browser tests.
+// ---
+
 #include "content/browser/webid/test/delegated_idp_network_request_manager.h"
 
 namespace content {

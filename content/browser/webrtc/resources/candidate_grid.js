@@ -7,6 +7,12 @@
  * @param {Element} peerConnectionElement
  */
 
+// ---docerion
+// type: source
+// title: ICE candidate grid for WebRTC internals
+// summary: Creates and updates the ICE candidate grid table shown for each peer connection in the WebRTC internals page.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 /**
  * A helper function for appending a child element to |parent|.

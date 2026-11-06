@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock identity request dialog controller for WebID tests
+// summary: Declares a GMock IdentityRequestDialogController that mocks accounts, failure, error, loading, verifying, native app and modal dialog UI methods for tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_IDENTITY_REQUEST_DIALOG_CONTROLLER_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_IDENTITY_REQUEST_DIALOG_CONTROLLER_H_
 

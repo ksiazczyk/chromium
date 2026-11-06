@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC diagnostics singleton accessor
+// summary: Implements the public WebRtcDiagnostics::GetInstance accessor returning the WebRtcDiagnosticsImpl singleton on the UI thread.
+// ---
+
 #include "content/public/browser/webrtc_diagnostics.h"
 
 #include "content/browser/webrtc/webrtc_diagnostics_impl.h"

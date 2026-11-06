@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI security browser tests
+// summary: Browser tests verifying WebUI security properties such as binding grants, chrome-untrusted isolation, and restrictions on requesting chrome and file URLs.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/hash/hash.h"
 #include "base/memory/ref_counted_memory.h"

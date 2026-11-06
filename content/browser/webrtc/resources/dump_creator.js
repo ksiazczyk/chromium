@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dump creation UI and RTC stats event recording
+// summary: Provides the dump creation UI and stores user media requests, peer connection records and RTC stats events for download as dump files.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 /** A list of getUserMedia requests. */

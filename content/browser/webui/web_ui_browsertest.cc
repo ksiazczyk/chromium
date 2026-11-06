@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI browser tests
+// summary: Browser test suite exercising WebUI behavior in the content layer, including navigation, message handlers, data sources, and dedicated and shared worker loading.
+// ---
+
 #include <memory>
 #include <utility>
 

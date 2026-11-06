@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestPageData header
+// summary: Declares RequestPageData, page user data tracking the pending web identity request handler to prevent two concurrent requests on the same page.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_REQUEST_PAGE_DATA_H_
 #define CONTENT_BROWSER_WEBID_REQUEST_PAGE_DATA_H_
 

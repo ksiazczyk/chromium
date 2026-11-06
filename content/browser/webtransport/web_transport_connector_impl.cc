@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransportConnector implementation
+// summary: Implements the browser-side WebTransportConnector Mojo interface, applying per-page or per-profile throttling before forwarding connection requests to the network service.
+// ---
+
 #include "content/browser/webtransport/web_transport_connector_impl.h"
 
 #include "base/not_fatal_until.h"

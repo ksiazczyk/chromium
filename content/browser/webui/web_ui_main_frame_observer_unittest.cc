@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIMainFrameObserver unit tests
+// summary: Unit tests for WebUIMainFrameObserver covering JavaScript error reporting behavior on Linux and ChromeOS using a fake error report processor.
+// ---
+
 #include "content/browser/webui/web_ui_main_frame_observer.h"
 
 #include <memory>

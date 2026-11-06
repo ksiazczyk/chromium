@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityProviderInfo header
+// summary: Declares the IdentityProviderInfo class holding IdP options, endpoints, metadata, brand icon, and fetched account lists populated during FedCM fetching.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDENTITY_PROVIDER_INFO
 #define CONTENT_BROWSER_WEBID_IDENTITY_PROVIDER_INFO
 

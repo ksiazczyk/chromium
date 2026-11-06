@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatorImpl unit tests
+// summary: Extensive unit tests for the WebAuthn AuthenticatorImpl covering make credential, get assertion, extensions, and related request flows.
+// ---
+
 #include "content/browser/webauth/authenticator_impl.h"
 
 #include <algorithm>

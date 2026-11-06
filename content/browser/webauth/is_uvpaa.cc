@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform-specific IsUVPAA implementations
+// summary: Implements IsUserVerifyingPlatformAuthenticatorAvailable checks for Mac iCloud Keychain and Touch ID, Windows WebAuthn API, and ChromeOS platform authenticators.
+// ---
+
 #include "content/browser/webauth/is_uvpaa.h"
 
 #include <optional>

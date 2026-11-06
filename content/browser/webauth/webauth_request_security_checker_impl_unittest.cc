@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebAuthn request security checker
+// summary: Unit tests verifying WebAuthn request security checks, including permissions policy enforcement and the remote desktop client override RP ID validation path with mocked delegates and metrics.
+// ---
+
 #include "content/browser/webauth/webauth_request_security_checker_impl.h"
 
 #include <string_view>

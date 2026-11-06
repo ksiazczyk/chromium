@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator test base header
+// summary: Declares test fakes and helper functions for building WebAuthn credential creation and request options in authenticator tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_TEST_BASE_H_
 #define CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_TEST_BASE_H_
 

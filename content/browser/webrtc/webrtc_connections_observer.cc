@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC connections observer implementation
+// summary: Implements WebRtcConnectionsObserver, which registers with WebRTCInternals and runs a callback whenever the count of active WebRTC connections changes.
+// ---
+
 #include "content/browser/webrtc/webrtc_connections_observer.h"
 
 #include "content/browser/webrtc/webrtc_internals.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock federated identity API permission delegate
+// summary: Declares a gmock mock of the federated identity API permission context delegate covering permission status, embargo and third-party cookie checks.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_API_PERMISSION_DELEGATE_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_API_PERMISSION_DELEGATE_H_
 

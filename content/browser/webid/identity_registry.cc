@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityRegistry implementation
+// summary: Implements IdentityRegistry as WebContents user data that validates notifier origins against the registered IdP and forwards close and resolve notifications to its delegate.
+// ---
+
 #include "content/browser/webid/identity_registry.h"
 
 #include "content/browser/webid/identity_registry_delegate.h"

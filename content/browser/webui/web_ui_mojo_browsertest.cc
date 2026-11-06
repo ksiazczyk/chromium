@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Mojo browser tests
+// summary: Browser tests for WebUI Mojo bindings, covering TypeScript Mojo interfaces, optional and mapped types, a test cache implementation, and navigation to dummy WebUI hosts.
+// ---
+
 #include <limits>
 #include <utility>
 

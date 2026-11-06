@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransportThrottleContext class declaration
+// summary: Declares WebTransportThrottleContext and its Tracker, which track pending WebTransport handshakes and enforce throttling per page or profile.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBTRANSPORT_WEB_TRANSPORT_THROTTLE_CONTEXT_H_
 #define CONTENT_BROWSER_WEBTRANSPORT_WEB_TRANSPORT_THROTTLE_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityCredentialSourceImpl implementation
+// summary: Implements the browser-side identity credential source, gathering sign-in account suggestions from pending FedCM requests or by fetching accounts for embedder-requested IdPs.
+// ---
+
 #include "content/browser/webid/identity_credential_source_impl.h"
 
 #include "base/functional/callback.h"

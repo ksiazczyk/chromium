@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorCommonImpl class declaration
+// summary: Declares the common WebAuthn authenticator implementation class and client capability name constants.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_COMMON_IMPL_H_
 #define CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_COMMON_IMPL_H_
 

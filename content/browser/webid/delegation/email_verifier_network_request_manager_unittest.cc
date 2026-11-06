@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verifier network request manager unit tests
+// summary: Unit tests for EmailVerifierNetworkRequestManager covering request destinations, JSON content type, and aborting requests when the frame is invalidated.
+// ---
+
 #include "content/browser/webid/delegation/email_verifier_network_request_manager.h"
 
 #include "base/check.h"

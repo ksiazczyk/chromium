@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media capture from DOM elements browser tests
+// summary: Browser tests for captureStream() from canvas, video and audio elements, verifying canvas capture colors and element capture parameters.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "content/browser/webrtc/webrtc_content_browsertest_base.h"

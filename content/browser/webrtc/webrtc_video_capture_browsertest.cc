@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video capture browser test
+// summary: Browser test that exercises video capture from JavaScript, including recovery after a simulated crash of the out-of-process video capture service.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "content/browser/webrtc/webrtc_webcam_browsertest.h"

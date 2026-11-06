@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC MediaRecorder browser tests
+// summary: Parameterized browser tests for MediaRecorder start, stop, resume, and data availability across codec and video acceleration configurations.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test base implementation
+// summary: Implements shared setup for WebRTC browser tests, including fake device flags, pixel output, ChromeOS audio fakes and getUserMedia call generation.
+// ---
+
 #include "content/browser/webrtc/webrtc_content_browsertest_base.h"
 
 #include "base/command_line.h"

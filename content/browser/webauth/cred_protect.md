@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chromium credProtect behavior in WebAuthn
+summary: Documents the credProtect levels Chromium requests based on residentKey and userVerification settings, and how explicit site-requested levels override these defaults.
+---
+
 # Chromium's credProtect behaviour in WebAuthn
 
 CTAP defines an extension called [`credProtect`](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#sctn-credProtect-extension) which restricts when credentials on security keys may be used. Support for it is required [in some cases](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#mandatory-features) and thus it is widely supported by security keys.

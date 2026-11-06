@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JWT signer implementation
+// summary: Implements JWT signing and verification for ES256, RS256, and EdDSA algorithms, including BIGNUM and EC key handling with BoringSSL.
+// ---
+
 #include "content/browser/webid/delegation/jwt_signer.h"
 
 #include <map>

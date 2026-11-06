@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDiscoveryFactory implementation
+// summary: Implements the discovery factory that creates virtual FIDO discoveries and feeds configured virtual authenticators into them.
+// ---
+
 #include "content/browser/webauth/virtual_fido_discovery_factory.h"
 
 #include <memory>

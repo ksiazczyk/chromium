@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityProviderInfo implementation
+// summary: Implements constructors and copy semantics for IdentityProviderInfo, which bundles provider options, endpoints, metadata, and request context for an identity provider.
+// ---
+
 #include "content/browser/webid/identity_provider_info.h"
 
 namespace content::webid {

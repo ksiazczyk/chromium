@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTransport throttle context unit tests
+// summary: Unit tests covering WebTransportThrottleContext throttling, pending session limits, and handshake failure penalties under the fine-grained throttling feature.
+// ---
+
 #include "web_transport_throttle_context.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI URL loader factory unit test
+// summary: Unit tests for the WebUI URL loader factory, using test data sources to exercise data requests, oversized virtual resources, and scheme handling.
+// ---
+
 #include "content/public/browser/web_ui_url_loader_factory.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JWT signer unit tests
+// summary: Unit tests verifying JWT signing with ES256, RS256 and Ed25519 keys, plus public key JWK export, for the WebID delegation JWT signer.
+// ---
+
 #include "content/browser/webid/delegation/jwt_signer.h"
 
 #include "base/base64.h"

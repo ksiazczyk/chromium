@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI config map unit tests
+// summary: Unit tests for the WebUIConfigMap singleton, covering adding, looking up, and removing configs for trusted and untrusted schemes, plus death tests guarding against non-Chrome URLs.
+// ---
+
 #include "content/public/browser/webui_config_map.h"
 
 #include <string_view>

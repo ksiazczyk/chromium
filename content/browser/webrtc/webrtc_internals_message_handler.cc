@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC internals WebUI message handler
+// summary: WebUI message handler that routes commands from the WebRTC internals page, such as enabling or disabling audio debug, event log, and data channel recordings.
+// ---
+
 #include "content/browser/webrtc/webrtc_internals_message_handler.h"
 
 #include "base/functional/bind.h"

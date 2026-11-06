@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer connection update log table
+// summary: Maintains the peer connection update log table, rendering timestamps and update entries with expandable detail views.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 import * as SDPUtils from './sdp_utils.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error URL loader header
+// summary: Declares StartNetworkErrorsURLLoader, which creates the data served for the browser's network error WebUI page.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_NETWORK_ERROR_URL_LOADER_H_
 #define CONTENT_BROWSER_WEBUI_NETWORK_ERROR_URL_LOADER_H_
 

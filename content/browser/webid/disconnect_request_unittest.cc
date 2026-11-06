@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisconnectRequest unit tests
+// summary: Unit tests for the FedCM disconnect request covering config and disconnect endpoint fetches, permission states, and metrics via mock delegates.
+// ---
+
 #include "content/browser/webid/disconnect_request.h"
 
 #include <memory>
