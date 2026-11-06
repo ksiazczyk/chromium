@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM service implementation
+// summary: Implements MojoCdmService, the Mojo ContentDecryptionModule interface backed by a media ContentDecryptionModule, handling sessions, certificates, and key events.
+// ---
+
 #include "media/mojo/services/mojo_cdm_service.h"
 
 #include <map>

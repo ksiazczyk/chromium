@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video decoder service header
+// summary: Declares MojoVideoDecoderService, a mojom::VideoDecoder implementation running in the GPU process that wraps a media::VideoDecoder and resolves CDM contexts.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_VIDEO_DECODER_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_VIDEO_DECODER_SERVICE_H_
 

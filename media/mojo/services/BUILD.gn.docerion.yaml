@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for media Mojo services
+summary: Defines the media_mojo_services component with its sources, dependencies, and platform-specific media client selections for the Chromium build.

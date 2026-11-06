@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4MuxerContext class declaration
+// summary: Declares the Mp4MuxerContext class holding per-track video and audio data plus the output position tracker.
+// ---
+
 #ifndef MEDIA_MUXERS_MP4_MUXER_CONTEXT_H_
 #define MEDIA_MUXERS_MP4_MUXER_CONTEXT_H_
 

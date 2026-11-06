@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for media Mojo services
+// summary: Provides helper functions that build mojom::PredictionFeatures and mojom::PredictionTargets structs for use in media capability prediction tests.
+// ---
+
 #include "media/mojo/services/test_helpers.h"
 
 namespace media {

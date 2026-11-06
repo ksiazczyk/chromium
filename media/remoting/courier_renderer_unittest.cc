@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CourierRenderer unit tests
+// summary: Unit tests for CourierRenderer using fake remoter, fake media resource, and a mock renderer client to exercise RPC-based remote playback behavior.
+// ---
+
 #include "media/remoting/courier_renderer.h"
 
 #include <memory>

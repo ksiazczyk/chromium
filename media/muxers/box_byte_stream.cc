@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxByteStream implementation for ISO-BMFF box writing
+// summary: Implements big-endian writing of ISO-BMFF boxes, including placeholder size and offset patching, string writing, and buffer growth.
+// ---
+
 #include "media/muxers/box_byte_stream.h"
 
 #include "base/containers/span.h"

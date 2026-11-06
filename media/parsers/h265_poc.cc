@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 picture order count implementation
+// summary: Implements H265POC, computing the H.265 picture order count for a slice from SPS, PPS and slice header state following the HEVC spec.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

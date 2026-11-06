@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 picture order count header
+// summary: Declares the H264POC class that computes picture order counts for H.264 slices and reports pending MMCO5 state.
+// ---
+
 #ifndef MEDIA_PARSERS_H264_POC_H_
 #define MEDIA_PARSERS_H264_POC_H_
 

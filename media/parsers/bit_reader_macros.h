@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared bit reader macros for H.26x parsers
+// summary: Header of macros for reading, skipping and validating bits that return an error on unexpected end of stream, shared by the H.26x parsers.
+// ---
+
 #ifndef MEDIA_PARSERS_BIT_READER_MACROS_H_
 #define MEDIA_PARSERS_BIT_READER_MACROS_H_
 

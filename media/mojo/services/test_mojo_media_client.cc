@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Mojo media client implementation
+// summary: Implements a test MojoMediaClient for MediaService that creates renderers with null audio and video sinks and a default CDM factory for testing.
+// ---
+
 #include "media/mojo/services/test_mojo_media_client.h"
 
 #include <memory>

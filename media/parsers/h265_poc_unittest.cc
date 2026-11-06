@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 POC unit tests
+// summary: Unit tests verifying H265POC picture order count computation across I, P and B frames and various NALU types.
+// ---
+
 #include <stdint.h>
 
 #include "media/parsers/h265_parser.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media remoting receiver class declaration
+// summary: Declares Receiver, a media::Renderer that forwards RPC commands from a CourierRenderer to the local renderer on the remote device.
+// ---
+
 #ifndef MEDIA_REMOTING_RECEIVER_H_
 #define MEDIA_REMOTING_RECEIVER_H_
 

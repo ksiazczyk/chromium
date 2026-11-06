@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Temporal scalability ID extractor header
+// summary: Declares TemporalScalabilityIdExtractor, which assigns temporal layer IDs per codec and parses bitstream metadata such as reference and refresh flags.
+// ---
+
 #ifndef MEDIA_PARSERS_TEMPORAL_SCALABILITY_ID_EXTRACTOR_H_
 #define MEDIA_PARSERS_TEMPORAL_SCALABILITY_ID_EXTRACTOR_H_
 

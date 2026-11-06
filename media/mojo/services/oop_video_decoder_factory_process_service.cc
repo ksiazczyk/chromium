@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOPVideoDecoderFactoryProcessService implementation
+// summary: Implements the out-of-process video decoder factory process service, initializing an InterfaceFactory and handling GPU channel loss and reestablishment.
+// ---
+
 #include "media/mojo/services/oop_video_decoder_factory_process_service.h"
 
 #include "base/functional/bind.h"

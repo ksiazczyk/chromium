@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Out-of-process video decoder service unit tests
+// summary: Unit tests for OOPVideoDecoderService and OOPVideoDecoderFactoryService covering construction, initialization, decoding, and video frame handling with mock Mojo interfaces.
+// ---
+
 #include "media/mojo/services/oop_video_decoder_service.h"
 
 #include <sys/mman.h>

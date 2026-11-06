@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Mojo media client implementation
+// summary: Implements the Android MojoMediaClient, creating a MediaCodec audio decoder and an Android CDM factory backed by frame interfaces.
+// ---
+
 #include "media/mojo/services/android_mojo_media_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 raw bits reader class declaration
+// summary: Declares the Vp9RawBitsReader class for reading raw bits streams as described in the RAW-BITS DECODING section of the VP9 specification.
+// ---
+
 #ifndef MEDIA_PARSERS_VP9_RAW_BITS_READER_H_
 #define MEDIA_PARSERS_VP9_RAW_BITS_READER_H_
 

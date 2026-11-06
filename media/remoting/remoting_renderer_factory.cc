@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemotingRendererFactory implementation
+// summary: Implements the renderer factory that listens for RPC_ACQUIRE_RENDERER messages and creates remoting Receiver instances wrapping the real renderer factory.
+// ---
+
 #include "media/remoting/remoting_renderer_factory.h"
 
 #include "base/task/bind_post_task.h"

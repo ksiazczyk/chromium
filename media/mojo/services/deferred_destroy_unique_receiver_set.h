@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredDestroyUniqueReceiverSet header
+// summary: Defines a mojo receiver set whose interface implementations are destroyed only after a deferred destroy callback permits it.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_DEFERRED_DESTROY_UNIQUE_RECEIVER_SET_H_
 #define MEDIA_MOJO_SERVICES_DEFERRED_DESTROY_UNIQUE_RECEIVER_SET_H_
 

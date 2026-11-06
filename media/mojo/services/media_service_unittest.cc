@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaService unit tests
+// summary: Unit tests exercising MediaService CDM and renderer creation through the test MojoMediaClient and mocked Mojo renderer clients.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

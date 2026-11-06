@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG parser header
+// summary: Declares JPEG marker constants, size limits, parsing result structures, and default table declarations for the baseline JPEG parser.
+// ---
+
 #ifndef MEDIA_PARSERS_JPEG_PARSER_H_
 #define MEDIA_PARSERS_JPEG_PARSER_H_
 

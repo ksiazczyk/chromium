@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StreamProvider
+// summary: Unit tests for StreamProvider that exercise demuxer stream initialization and reads using a mocked ReceiverController and simulated RPC messaging.
+// ---
+
 #include "media/remoting/stream_provider.h"
 
 #include "base/functional/callback_helpers.h"

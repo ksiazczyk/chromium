@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 picture order count implementation
+// summary: Implements H.264 picture order count computation per ITU-T H.264 section 8.2.1, including MMCO5 handling and state reset.
+// ---
+
 
 #include "media/parsers/h264_poc.h"
 

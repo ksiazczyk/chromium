@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IVF parser unit tests
+// summary: Unit tests parsing a VP8 IVF test file and checking file header fields, frame count and first frame data.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

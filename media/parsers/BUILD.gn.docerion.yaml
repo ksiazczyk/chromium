@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media parsers build configuration
+summary: GN build file defining the parsers source set, a Rust JPEG parser target, test support, unit tests and parser fuzzer targets.

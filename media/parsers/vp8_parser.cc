@@ -5,6 +5,12 @@
 // This file contains an implementation of a VP8 raw stream parser,
 // as defined in RFC 6386.
 
+// ---docerion
+// type: source
+// title: VP8 raw stream parser implementation
+// summary: Implements the VP8 raw stream parser per RFC 6386, parsing frame tags, headers, and partitions into a frame header structure.
+// ---
+
 #include "media/parsers/vp8_parser.h"
 
 #include <array>

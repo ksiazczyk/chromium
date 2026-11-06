@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaService implementation
+// summary: Implements the mojom::MediaService receiver that initializes a MojoMediaClient and creates interface factories on request.
+// ---
+
 #include "media/mojo/services/media_service.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererController class declaration
+// summary: Declares RendererController, a MediaObserver and RemotingSource that starts and stops media remoting sessions and manages data pipes between source and sink.
+// ---
+
 #ifndef MEDIA_REMOTING_RENDERER_CONTROLLER_H_
 #define MEDIA_REMOTING_RENDERER_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake remoter implementation for media remoting tests
+// summary: Implements FakeRemotingDataStreamSender and FakeRemoter, fake remoting mojo interfaces that read decoder buffers from data pipes and validate frames for tests.
+// ---
+
 #include "media/remoting/fake_remoter.h"
 
 #include <memory>

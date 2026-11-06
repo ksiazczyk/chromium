@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDrmSupportService unit tests
+// summary: Unit tests verifying key system support results for the Widevine key system and an unsupported key system.
+// ---
+
 #include "media/mojo/services/mediadrm_support_service.h"
 
 #include <memory>

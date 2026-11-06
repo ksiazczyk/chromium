@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 Annex-B stream parser implementation
+// summary: Implements parsing of H.264 NAL units, slice headers and parameter sets, including coded size and visible rect computation from the SPS.
+// ---
+
 #include "media/parsers/h264_parser.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 level limits implementation
+// summary: Maps H.264 levels to MaxMBPS, MaxFS, MaxDpbMbs and MaxBR values from spec table A-1 and checks streams against those limits.
+// ---
+
 #include "media/parsers/h264_level_limits.h"
 
 #include "base/logging.h"

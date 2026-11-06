@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock receiver controller and MockRemotee declarations
+// summary: Declares MockRemotee, a fake mojom::Remotee implementation, and MockReceiverController, a ReceiverController singleton for receiver-side testing.
+// ---
+
 #ifndef MEDIA_REMOTING_MOCK_RECEIVER_CONTROLLER_H_
 #define MEDIA_REMOTING_MOCK_RECEIVER_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation Mojo media client implementation
+// summary: Implements the Media Foundation MojoMediaClient, creating Media Foundation audio decoders, renderers, and CDM factories for the Media Foundation service utility process.
+// ---
+
 #include "media/mojo/services/media_foundation_mojo_media_client.h"
 
 #include "base/task/single_thread_task_runner.h"

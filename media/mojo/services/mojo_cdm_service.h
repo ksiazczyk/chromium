@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM service header
+// summary: Declares MojoCdmService, a mojom::ContentDecryptionModule implementation that wraps a media ContentDecryptionModule created through a CdmFactory.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_CDM_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_CDM_SERVICE_H_
 

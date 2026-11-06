@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Muxer interface
+// summary: Defines the Muxer interface for muxing encoded audio and video into a container, including VideoParameters, EncodedFrame, PutFrame, and Flush.
+// ---
+
 #ifndef MEDIA_MUXERS_MUXER_H_
 #define MEDIA_MUXERS_MUXER_H_
 

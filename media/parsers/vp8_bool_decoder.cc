@@ -40,6 +40,12 @@
 // project. (http://www.webmproject.org/code)
 // It is used to decode bits from a vp8 stream.
 
+// ---docerion
+// type: source
+// title: VP8 boolean decoder implementation
+// summary: Implements the VP8 boolean entropy decoder, adapted from libvpx's dboolhuff, to decode bits from VP8 streams.
+// ---
+
 #include "media/parsers/vp8_bool_decoder.h"
 
 #include <limits.h>

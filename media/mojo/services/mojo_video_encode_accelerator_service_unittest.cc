@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoVideoEncodeAcceleratorService unit tests
+// summary: Unit tests for MojoVideoEncodeAcceleratorService using a FakeVideoEncodeAccelerator backend and a mock Mojo client to verify encode service behavior.
+// ---
+
 #include "media/mojo/services/mojo_video_encode_accelerator_service.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo audio decoder service unit tests
+// summary: Unit tests for MojoAudioDecoderService covering decoder construction, decoding, reset, and bad-message handling using mock audio decoders and a test Mojo media client.
+// ---
+
 #include "media/mojo/services/mojo_audio_decoder_service.h"
 
 #include <memory>

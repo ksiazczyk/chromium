@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub GpuMojoMediaClient implementation
+// summary: Stub GpuMojoMediaClient for platforms without media support, returning no platform decoders and no supported configs.
+// ---
+
 #include "base/task/sequenced_task_runner.h"
 #include "base/task/single_thread_task_runner.h"
 #include "media/base/audio_decoder.h"

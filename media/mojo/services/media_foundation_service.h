@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation service
+// summary: Declares the MediaFoundationService Mojo service, which handles key system support queries and interface factory creation with CDM preloading support.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_SERVICE_H_
 

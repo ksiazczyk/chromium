@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM allocator declaration
+// summary: Declares MojoCdmAllocator, a CdmAllocator that allocates CDM buffers from a pool of available Mojo shared memory regions.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_CDM_ALLOCATOR_H_
 #define MEDIA_MOJO_SERVICES_MOJO_CDM_ALLOCATOR_H_
 

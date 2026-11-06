@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device capability checker implementation
+// summary: Checks whether Cast receiver models such as Chromecast are known to support media remoting, whether their video and audio codecs are compatible, and parses codec strings.
+// ---
+
 #include "media/remoting/device_capability_checker.h"
 
 #include "base/strings/string_util.h"

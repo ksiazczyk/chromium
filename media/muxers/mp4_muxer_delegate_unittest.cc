@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP4 muxer delegate unit tests
+// summary: Unit tests for the MP4 muxer delegate that feed encoded H.264/AAC streams and validate the resulting MP4 output with the MP4 stream parser.
+// ---
+
 #include "media/muxers/mp4_muxer_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebrtcVideoPerfRecorder unit tests
+// summary: Unit tests verifying that the recorder saves stats when the video configuration changes and finalizes records on empty updates.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

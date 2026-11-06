@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoEncodeAcceleratorService implementation
+// summary: Implements the mojom::VideoEncodeAccelerator Mojo interface in the GPU process, handling initialization, encoding, bitstream buffers and encoding parameter changes for hardware video encode.
+// ---
+
 #include "media/mojo/services/mojo_video_encode_accelerator_service.h"
 
 #include <memory>

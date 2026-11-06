@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers header for media Mojo services
+// summary: Declares helper functions for constructing PredictionFeatures and PredictionTargets Mojo structs used by media tests.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_TEST_HELPERS_H_
 #define MEDIA_MOJO_SERVICES_TEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmSupportService class declaration
+// summary: Declares MediaDrmSupportService, the exported Mojo service answering key system support queries.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIADRM_SUPPORT_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MEDIADRM_SUPPORT_SERVICE_H_
 

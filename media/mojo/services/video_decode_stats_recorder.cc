@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecodeStatsRecorder implementation
+// summary: Implements VideoDecodeStatsRecorder, which tracks prediction features and targets during playback and saves decode stats records on finalize.
+// ---
+
 #include "media/mojo/services/video_decode_stats_recorder.h"
 
 #include "base/functional/callback.h"

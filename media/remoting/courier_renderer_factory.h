@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CourierRendererFactory class declaration
+// summary: Declares the RendererFactory that creates CourierRenderer instances and exposes IsRemotingActive for the RendererFactorySelector.
+// ---
+
 #ifndef MEDIA_REMOTING_COURIER_RENDERER_FACTORY_H_
 #define MEDIA_REMOTING_COURIER_RENDERER_FACTORY_H_
 

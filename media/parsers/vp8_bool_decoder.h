@@ -40,6 +40,12 @@
 // project. (http://www.webmproject.org/code)
 // It is used to decode bits from a vp8 stream.
 
+// ---docerion
+// type: source
+// title: VP8 boolean decoder header
+// summary: Declares Vp8BoolDecoder for reading booleans and literals from VP8's boolean entropy coded streams as described in RFC 6386.
+// ---
+
 #ifndef MEDIA_PARSERS_VP8_BOOL_DECODER_H_
 #define MEDIA_PARSERS_VP8_BOOL_DECODER_H_
 

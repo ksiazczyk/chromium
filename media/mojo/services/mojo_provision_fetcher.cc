@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo provision fetcher implementation
+// summary: Implements MojoProvisionFetcher, which forwards ProvisionFetcher retrieval requests over a Mojo remote connection and delivers the responses back to callers.
+// ---
+
 #include "media/mojo/services/mojo_provision_fetcher.h"
 
 #include "base/functional/bind.h"

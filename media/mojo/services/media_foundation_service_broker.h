@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation service broker
+// summary: Declares the MediaFoundationServiceBroker, which binds the Media Foundation service, observes GPU info, and triggers sandboxing after initialization.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_SERVICE_BROKER_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_FOUNDATION_SERVICE_BROKER_H_
 

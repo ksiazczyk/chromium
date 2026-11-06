@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video encode accelerator provider implementation
+// summary: Implements MojoVideoEncodeAcceleratorProvider, which creates video encode accelerators in the GPU process using GPU channels and command buffer helpers.
+// ---
+
 #include "media/mojo/services/mojo_video_encode_accelerator_provider.h"
 
 #include <memory>

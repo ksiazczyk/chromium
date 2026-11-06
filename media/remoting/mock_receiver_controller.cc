@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock receiver controller implementation
+// summary: Implements MockRemotee and MockReceiverController, simulating a remoting receiver endpoint that writes decoder buffers to data pipes for testing.
+// ---
+
 #include "media/remoting/mock_receiver_controller.h"
 
 #include "base/check.h"

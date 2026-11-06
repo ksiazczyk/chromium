@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process video decoder factory service header
+// summary: Declares OOPVideoDecoderFactoryService, a per-process mojom::InterfaceFactory that creates video decoders for one origin inside a video decoder utility process.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_OOP_VIDEO_DECODER_FACTORY_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_OOP_VIDEO_DECODER_FACTORY_SERVICE_H_
 

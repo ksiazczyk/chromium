@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process video decoder service header
+// summary: Declares OOPVideoDecoderService, a mojom::VideoDecoder frontend in a utility process that adapts CDM context initialization for clients in the GPU process.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_OOP_VIDEO_DECODER_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_OOP_VIDEO_DECODER_SERVICE_H_
 

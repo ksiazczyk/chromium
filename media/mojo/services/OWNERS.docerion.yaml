@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for media Mojo services
+summary: Delegates per-file review ownership for audio, CDM, and decryptor files to the media/audio and media/cdm owners.

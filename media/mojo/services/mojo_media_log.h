@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMediaLog header
+// summary: Declares MojoMediaLog, the client side of a MediaLog delivered via Mojo, posting log records to a remote on a sequenced task runner.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_MEDIA_LOG_H_
 #define MEDIA_MOJO_SERVICES_MOJO_MEDIA_LOG_H_
 

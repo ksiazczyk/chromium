@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode performance history implementation
+// summary: Implements VideoDecodePerfHistory, which saves and queries video decode performance statistics for the MediaCapabilities API via a stats database.
+// ---
+
 #include "media/mojo/services/video_decode_perf_history.h"
 
 #include "base/format_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust JPEG parser with CXX bridge
+// summary: Implements baseline JPEG parsing in Rust and exposes parse results, headers, and error codes to C++ through a cxx bridge FFI.
+// ---
+
 const K_JPEG_MAX_HUFFMAN_CODE_LENGTHS: usize = 16;
 const K_JPEG_MAX_HUFFMAN_DC_SYMBOLS: usize = 12;
 const K_JPEG_MAX_HUFFMAN_AC_SYMBOLS: usize = 162;

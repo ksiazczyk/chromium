@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecodeStatsRecorder class declaration
+// summary: Declares VideoDecodeStatsRecorder, the Mojo implementation that starts, updates, and finalizes video decode stats records for a player.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_VIDEO_DECODE_STATS_RECORDER_H_
 #define MEDIA_MOJO_SERVICES_VIDEO_DECODE_STATS_RECORDER_H_
 

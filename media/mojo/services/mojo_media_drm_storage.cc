@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMediaDrmStorage implementation
+// summary: Implements MojoMediaDrmStorage, which proxies MediaDrmStorage operations such as persistent session handling to a remote mojom::MediaDrmStorage.
+// ---
+
 #include "media/mojo/services/mojo_media_drm_storage.h"
 
 #include <optional>

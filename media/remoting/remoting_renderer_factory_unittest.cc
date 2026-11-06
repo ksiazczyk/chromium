@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemotingRendererFactory unit tests
+// summary: Tests that RemotingRendererFactory creates renderers across threads and correctly handles the RPC_ACQUIRE_RENDERER handshake with the sender.
+// ---
+
 #include "media/remoting/remoting_renderer_factory.h"
 
 #include <memory>

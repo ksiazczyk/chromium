@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM file IO implementation
+// summary: Implements MojoCdmFileIO, a cdm::FileIO that reads and writes CDM persistent storage files through the mojom::CdmStorage Mojo interface with state tracking and UMA reporting.
+// ---
+
 #include "media/mojo/services/mojo_cdm_file_io.h"
 
 #include <utility>

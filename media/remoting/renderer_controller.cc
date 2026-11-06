@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererController implementation
+// summary: Implements the sender-side RendererController that monitors media player events, decides when to switch between local and remote rendering, and maps stop reasons to triggers and metrics.
+// ---
+
 #include "media/remoting/renderer_controller.h"
 
 #include <algorithm>

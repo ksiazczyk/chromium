@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM helper header
+// summary: Declares MojoCdmHelper, a CdmAuxiliaryHelper that lazily connects the CDM to FileIO, allocation, output protection, and platform verification services over Mojo.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_CDM_HELPER_H_
 #define MEDIA_MOJO_SERVICES_MOJO_CDM_HELPER_H_
 

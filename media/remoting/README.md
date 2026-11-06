@@ -1,3 +1,9 @@
+---
+type: readme
+title: //media/remoting
+summary: Explains that the folder lets local media play on remote devices, with command and control sent as serialized RPC protobuf messages defined by libcast.
+---
+
 # //media/remoting
 
 This folder provides an interface to play local content on remote devices.

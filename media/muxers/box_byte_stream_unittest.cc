@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BoxByteStream
+// summary: Verifies the BoxByteStream write APIs, box size placeholders, and offset flushing against expected big-endian output.
+// ---
+
 #include "media/muxers/box_byte_stream.h"
 
 #include <algorithm>

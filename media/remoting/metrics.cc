@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session metrics recorder implementation
+// summary: Implements SessionMetricsRecorder, recording UMA histograms for remoting session start and stop triggers, session duration, and audio/video configurations.
+// ---
+
 #include "media/remoting/metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: test
+// title: VP9 parser unit tests
+// summary: Parameterized unit tests validating VP9 parsing against sample streams and golden frame entropy dumps, including encrypted subsample cases.
+// ---
+
 // For some sample vp9 test videos, $filename, there is a file of golden value
 // of frame entropy, named $filename.context. These values are dumped from
 // libvpx.

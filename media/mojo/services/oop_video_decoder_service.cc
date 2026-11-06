@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process video decoder service implementation
+// summary: Implements OOPVideoDecoderService, a frontend that forwards video decoder Mojo calls to an in-process decoder and translates InitializeWithCdmContext into Initialize.
+// ---
+
 #include "media/mojo/services/oop_video_decoder_service.h"
 
 #include "base/notreached.h"

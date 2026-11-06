@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: WebP parser implementation
+// summary: Validates simple lossy WebP images against the RIFF container spec and parses their embedded VP8 key frames, enforcing file and frame size constraints.
+// ---
+
 #include "media/parsers/webp_parser.h"
 
 #include <limits.h>

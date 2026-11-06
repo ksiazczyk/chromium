@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CdmService unit tests
+// summary: Exercises CdmService CDM factory creation, idle handling and connection teardown using mock CDM factories and the Clear Key CDM.
+// ---
+
 #include "media/mojo/services/cdm_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encode accelerator provider factory implementation
+// summary: Implements MojoVideoEncodeAcceleratorProviderFactory, which binds its receiver and creates video encode accelerator providers within a utility process.
+// ---
+
 #include "media/mojo/services/mojo_video_encode_accelerator_provider_factory.h"
 #include "gpu/config/gpu_driver_bug_workarounds.h"
 #include "gpu/config/gpu_info.h"

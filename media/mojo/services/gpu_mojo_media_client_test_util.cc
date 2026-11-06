@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuMojoMediaClient test utilities
+// summary: Test helper that registers supplemental platform-supported audio and video codecs so decoder support checks reflect them during testing.
+// ---
+
 #include "media/mojo/services/gpu_mojo_media_client_test_util.h"
 
 #include "base/command_line.h"

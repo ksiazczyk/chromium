@@ -4,6 +4,12 @@
 //
 // This file contains an implementation of an H264 Annex-B video stream parser.
 
+// ---docerion
+// type: source
+// title: H.264 parser declarations
+// summary: Declares H264Parser and the structures for NAL units, SPS, PPS and slice headers used to parse H.264 Annex-B video streams.
+// ---
+
 #ifndef MEDIA_PARSERS_H264_PARSER_H_
 #define MEDIA_PARSERS_H264_PARSER_H_
 

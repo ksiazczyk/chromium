@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmServiceBroker class header
+// summary: Declares CdmServiceBroker, which hands out CdmService connections for a given CDM path and ensures the process is sandboxed before use.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_CDM_SERVICE_BROKER_H_
 #define MEDIA_MOJO_SERVICES_CDM_SERVICE_BROKER_H_
 

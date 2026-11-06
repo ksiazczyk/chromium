@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo audio encoder service declaration
+// summary: Declares MojoAudioEncoderService, the mojom::AudioEncoder implementation that wraps a media AudioEncoder for Mojo clients.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_AUDIO_ENCODER_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_AUDIO_ENCODER_SERVICE_H_
 

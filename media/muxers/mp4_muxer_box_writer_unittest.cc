@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP4 muxer box writer unit tests
+// summary: Unit tests that write MP4 movie, fragment, and box data through the box writers and verify the serialized output.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

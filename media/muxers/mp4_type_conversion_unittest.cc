@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP4 type conversion unit tests
+// summary: Unit tests verifying language code packing for various ISO 639-2/T codes and timescale conversion of time deltas.
+// ---
+
 #include "media/muxers/mp4_type_conversion.h"
 
 #include <stdint.h>

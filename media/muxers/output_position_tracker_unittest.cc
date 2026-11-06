@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutputPositionTracker unit tests
+// summary: Unit tests verifying that OutputPositionTracker writes spans correctly and reports the expected current position.
+// ---
+
 #include "media/muxers/output_position_tracker.h"
 
 #include <string>

@@ -4,6 +4,12 @@
 //
 // This file contains an implementation of an H264 Annex-B video stream parser.
 
+// ---docerion
+// type: source
+// title: H.264 bit reader class declaration
+// summary: Declares H264BitReader, a bit-level reader for H.264 Annex-B streams that handles emulation prevention bytes and stop bits.
+// ---
+
 #ifndef MEDIA_PARSERS_H264_BIT_READER_H_
 #define MEDIA_PARSERS_H264_BIT_READER_H_
 

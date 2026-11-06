@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoEncodeAcceleratorService class declaration
+// summary: Declares the MojoVideoEncodeAcceleratorService class that implements the mojom::VideoEncodeAccelerator interface for GPU-process hardware video encoding offload.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODE_ACCELERATOR_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODE_ACCELERATOR_SERVICE_H_
 

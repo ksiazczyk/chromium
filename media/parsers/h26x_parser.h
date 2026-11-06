@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H26x SEI metadata header
+// summary: Declares shared H.26x SEI structures for content light level, mastering display color volume and registered T35 user data.
+// ---
+
 #ifndef MEDIA_PARSERS_H26X_PARSER_H_
 #define MEDIA_PARSERS_H26X_PARSER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for //media/remoting
+summary: OWNERS file that delegates code review ownership to the owners list of media/cast.

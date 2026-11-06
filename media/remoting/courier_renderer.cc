@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CourierRenderer implementation
+// summary: Implements a media renderer that proxies playback operations, statistics tracking, and data pipes to a remote renderer via Open Screen RPC messaging.
+// ---
+
 #include "media/remoting/courier_renderer.h"
 
 #include <algorithm>

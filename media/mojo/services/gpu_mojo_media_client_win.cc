@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GPU Mojo media client
+// summary: Windows implementation of GpuMojoMediaClient that creates D3D11/D3D12 video decoders and Media Foundation audio encoders and reports supported audio decoder configurations.
+// ---
+
 #include "media/mojo/services/gpu_mojo_media_client.h"
 
 #include <d3d11.h>

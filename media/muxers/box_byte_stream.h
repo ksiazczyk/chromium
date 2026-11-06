@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxByteStream class for writing ISO-BMFF boxes
+// summary: Declares a helper class for writing big-endian ISO-BMFF boxes with deferred size and offset placeholders; the class is not thread safe.
+// ---
+
 #ifndef MEDIA_MUXERS_BOX_BYTE_STREAM_H_
 #define MEDIA_MUXERS_BOX_BYTE_STREAM_H_
 

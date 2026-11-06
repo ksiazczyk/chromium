@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 bit reader implementation
+// summary: Implements bit-granularity reading of H.264 streams, including emulation prevention byte detection and RBSP data checks.
+// ---
+
 #include "media/parsers/h264_bit_reader.h"
 
 #include "base/check.h"

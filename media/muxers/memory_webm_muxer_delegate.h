@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory WebM muxer delegate header
+// summary: Declares MemoryWebmMuxerDelegate, a memory-backed seekable writer that enables SeekHead generation for seekable WebM files.
+// ---
+
 #ifndef MEDIA_MUXERS_MEMORY_WEBM_MUXER_DELEGATE_H_
 #define MEDIA_MUXERS_MEMORY_WEBM_MUXER_DELEGATE_H_
 

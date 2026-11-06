@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback events recorder implementation
+// summary: Implements PlaybackEventsRecorder, which records WebEngine.Media user metrics for playback events such as play, pause, buffering, errors, and bitrate estimates.
+// ---
+
 #include "media/mojo/services/playback_events_recorder.h"
 
 #include "base/metrics/user_metrics.h"

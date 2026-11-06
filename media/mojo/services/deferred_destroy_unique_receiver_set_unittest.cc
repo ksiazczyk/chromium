@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeferredDestroyUniqueReceiverSet unit tests
+// summary: Tests deferred and immediate destruction of receiver implementations on disconnection, CloseAllReceivers and receiver set destruction.
+// ---
+
 #include "media/mojo/services/deferred_destroy_unique_receiver_set.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaResourceShim class header
+// summary: Declares MediaResourceShim, a MediaResource implementation that adapts Mojo demuxer streams and fires a callback once all streams are ready.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_RESOURCE_SHIM_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_RESOURCE_SHIM_H_
 

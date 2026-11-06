@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 NALU parser implementation
+// summary: Implements locating and advancing through H.265 Annex-B NALUs, including support for encrypted streams with subsample ranges.
+// ---
+
 #include "media/parsers/h265_nalu_parser.h"
 
 #include <stddef.h>

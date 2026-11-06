@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 parser implementation
+// summary: Implements full H.265 stream parsing of parameter sets, slice headers, scaling lists, and other syntax elements per the HEVC specification.
+// ---
+
 #include "media/parsers/h265_parser.h"
 
 #include <stddef.h>

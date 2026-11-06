@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media metrics provider
+// summary: Declares the MediaMetricsProvider Mojo implementation that collects per-player playback and pipeline information for UKM metric reporting.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_METRICS_PROVIDER_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_METRICS_PROVIDER_H_
 

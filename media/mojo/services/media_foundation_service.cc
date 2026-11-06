@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation service implementation
+// summary: Implements the Media Foundation Mojo service, querying Windows key system and codec or encryption capabilities and creating interface factories.
+// ---
+
 #include "media/mojo/services/media_foundation_service.h"
 
 #include <map>

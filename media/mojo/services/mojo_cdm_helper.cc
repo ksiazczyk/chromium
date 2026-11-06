@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM helper implementation
+// summary: Implements MojoCdmHelper, which connects a content decryption module to auxiliary Mojo services such as CDM file storage, buffer allocation, output protection, and UKM metrics.
+// ---
+
 #include "media/mojo/services/mojo_cdm_helper.h"
 
 #include <tuple>

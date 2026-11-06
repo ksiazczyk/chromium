@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake media resource header
+// summary: Declares FakeDemuxerStream and FakeMediaResource, gmock-based fakes that supply audio and video streams for remoting tests.
+// ---
+
 #ifndef MEDIA_REMOTING_FAKE_MEDIA_RESOURCE_H_
 #define MEDIA_REMOTING_FAKE_MEDIA_RESOURCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media parsers include rules
+summary: DEPS file restricting includes in media/parsers to base, build_config.h, media/base, media/parsers and ui/gfx.

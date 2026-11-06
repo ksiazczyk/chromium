@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia CDM provisioning fetcher unit tests
+// summary: Unit tests for the Fuchsia CDM provisioning fetcher, covering successful fetches and failure cases using a mock Chromium ProvisionFetcher.
+// ---
+
 #include "media/mojo/services/fuchsia_cdm_provisioning_fetcher_impl.h"
 
 #include <fuchsia/media/drm/cpp/fidl.h>

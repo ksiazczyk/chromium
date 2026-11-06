@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media metrics provider unit tests
+// summary: Unit tests verifying UKM and UMA metric recording behavior of MediaMetricsProvider across playback, incognito, and frame scenarios.
+// ---
+
 #include "media/mojo/services/media_metrics_provider.h"
 
 #include <stddef.h>

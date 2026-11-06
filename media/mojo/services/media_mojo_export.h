@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Mojo export macro
+// summary: Defines the MEDIA_MOJO_EXPORT macro used for component symbol export in the media Mojo services component.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MEDIA_MOJO_EXPORT_H_
 #define MEDIA_MOJO_SERVICES_MEDIA_MOJO_EXPORT_H_
 

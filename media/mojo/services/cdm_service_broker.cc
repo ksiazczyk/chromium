@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM service broker implementation
+// summary: Implements CdmServiceBroker, which loads the CDM module, ensures sandboxing including Mac seatbelt extensions, and binds the CdmService.
+// ---
+
 #include "media/mojo/services/cdm_service_broker.h"
 
 #include <utility>

@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the WebrtcVideoPerf interface.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoPerf fuzzer proto definitions
+// summary: Defines the protobuf message format describing the actions the MojoLPM fuzzer can perform against the WebrtcVideoPerf interface.
+// ---
+
 syntax = "proto2";
 
 package media.fuzzing.webrtc_video_perf.proto;

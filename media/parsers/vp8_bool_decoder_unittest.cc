@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 bool decoder unit tests
+// summary: Unit tests for the VP8 boolean decoder, checking ReadBool and literal decoding against fixed probability test data.
+// ---
+
 #include "media/parsers/vp8_bool_decoder.h"
 
 #include <stddef.h>

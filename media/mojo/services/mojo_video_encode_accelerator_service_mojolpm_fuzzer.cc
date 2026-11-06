@@ -31,6 +31,12 @@
 // pump the loop so async Encode completions and FakeVideoEncodeAccelerator reply
 // tasks drain between actions.
 
+// ---docerion
+// type: test
+// title: MojoLPM fuzzer for the VideoEncodeAccelerator Mojo interface
+// summary: MojoLPM fuzzer that binds a real MojoVideoEncodeAcceleratorService over a live Mojo pipe to fuzz the renderer-to-GPU video encode interface, including VideoFrame deserialization and bitstream buffer handling.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

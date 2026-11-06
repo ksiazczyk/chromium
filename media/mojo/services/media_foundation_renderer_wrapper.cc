@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer wrapper
+// summary: Wraps MediaFoundationRenderer behind the Renderer interface, handling initialization, GPU LUID change tracking, mute observation, and DCOMP surface registration.
+// ---
+
 #include "media/mojo/services/media_foundation_renderer_wrapper.h"
 
 #include "base/functional/callback_helpers.h"

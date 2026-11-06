@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM service context implementation
+// summary: Implements MojoCdmServiceContext, which registers CDM services and remote CDM contexts and resolves CdmContextRef instances by per-process CDM ID.
+// ---
+
 #include "media/mojo/services/mojo_cdm_service_context.h"
 
 #include "base/logging.h"

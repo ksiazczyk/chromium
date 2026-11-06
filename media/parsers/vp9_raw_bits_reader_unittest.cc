@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vp9RawBitsReader unit tests
+// summary: Unit tests verifying ReadBool, ReadLiteral and ReadSignedLiteral behavior of Vp9RawBitsReader, including handling of reads beyond the end of the buffer.
+// ---
+
 #include <stdint.h>
 
 #include <tuple>

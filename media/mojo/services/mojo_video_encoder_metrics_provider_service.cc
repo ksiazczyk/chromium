@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoEncoderMetricsProviderService implementation
+// summary: Implements the VideoEncoderMetricsProvider Mojo interface, reporting video encoder UKM and UMA metrics such as use case, codec profile, resolution, hardware flag and status.
+// ---
+
 #include "media/mojo/services/mojo_video_encoder_metrics_provider_service.h"
 
 #include <algorithm>

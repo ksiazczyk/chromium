@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Watch time recorder unit tests
+// summary: Unit tests for the WatchTimeRecorder, checking watch time, rebuffer and discard metrics reported through histograms and UKM via MediaMetricsProvider.
+// ---
+
 #include "media/mojo/services/watch_time_recorder.h"
 
 #include <stddef.h>

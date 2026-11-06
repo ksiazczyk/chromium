@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encode accelerator provider factory header
+// summary: Declares MojoVideoEncodeAcceleratorProviderFactory, a mojom factory living in a utility process that manages a set of video encode accelerator providers.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODE_ACCELERATOR_PROVIDER_FACTORY_H_
 #define MEDIA_MOJO_SERVICES_MOJO_VIDEO_ENCODE_ACCELERATOR_PROVIDER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 parser libFuzzer target
+// summary: LibFuzzer entry point that parses IVF container frames through the VP9 parser to detect parsing crashes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

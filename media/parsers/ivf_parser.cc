@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IVF parser implementation
+// summary: Implements IvfParser, validating the IVF file header and returning successive frames with their headers from a bitstream.
+// ---
+
 #include "media/parsers/ivf_parser.h"
 
 #include <cstring>

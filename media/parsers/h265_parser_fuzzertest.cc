@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 parser LibFuzzer test
+// summary: LibFuzzer entry point that feeds arbitrary input to the H.265 parser, walking NALUs and parsing VPS, SPS, PPS, SEI and slice headers.
+// ---
+
 #include <stddef.h>
 
 #include "base/containers/span.h"

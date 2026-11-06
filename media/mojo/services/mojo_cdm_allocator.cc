@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM allocator implementation
+// summary: Implements MojoCdmAllocator, a CdmAllocator that creates CDM buffers and video frames backed by reusable Mojo shared memory regions.
+// ---
+
 
 #include "media/mojo/services/mojo_cdm_allocator.h"
 

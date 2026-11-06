@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mp4Muxer class declaration
+// summary: Declares the Mp4Muxer class, which muxes encoded audio and video frames into MP4 output through a delegate.
+// ---
+
 #ifndef MEDIA_MUXERS_MP4_MUXER_H_
 #define MEDIA_MUXERS_MP4_MUXER_H_
 

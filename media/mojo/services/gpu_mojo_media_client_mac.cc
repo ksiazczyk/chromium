@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS GpuMojoMediaClient implementation
+// summary: macOS-specific GpuMojoMediaClient that creates VideoToolbox video decoders and AudioToolbox audio decoders and encoders.
+// ---
+
 #include <memory>
 
 #include "base/task/sequenced_task_runner.h"

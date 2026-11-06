@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Muxer timestamp adapter unit tests
+// summary: Unit tests for the timestamp adapter that check frame ordering, pause and resume handling, and flush behavior using mock muxers.
+// ---
+
 #include "media/muxers/muxer_timestamp_adapter.h"
 
 #include <map>

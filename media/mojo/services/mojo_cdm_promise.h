@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo CDM promise header
+// summary: Declares MojoCdmPromise, a CdmPromiseTemplate implementation backed by base callbacks for reporting CDM promise results over Mojo.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_CDM_PROMISE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_CDM_PROMISE_H_
 

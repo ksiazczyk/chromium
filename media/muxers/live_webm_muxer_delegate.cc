@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live WebM muxer delegate implementation
+// summary: Implements the live-mode WebM muxer delegate that writes non-seekable output to a client via a write data callback.
+// ---
+
 #include "media/muxers/live_webm_muxer_delegate.h"
 
 #include <string_view>

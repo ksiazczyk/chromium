@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDecryptorService header
+// summary: Declares MojoDecryptorService, a mojom::Decryptor implementation that proxies decryptor calls to a media::Decryptor over Mojo data pipes.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_MOJO_DECRYPTOR_SERVICE_H_
 #define MEDIA_MOJO_SERVICES_MOJO_DECRYPTOR_SERVICE_H_
 

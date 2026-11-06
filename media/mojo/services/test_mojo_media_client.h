@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test Mojo media client header
+// summary: Declares TestMojoMediaClient, a MojoMediaClient for MediaService used in tests to create renderers and a CDM factory.
+// ---
+
 #ifndef MEDIA_MOJO_SERVICES_TEST_MOJO_MEDIA_CLIENT_H_
 #define MEDIA_MOJO_SERVICES_TEST_MOJO_MEDIA_CLIENT_H_
 
