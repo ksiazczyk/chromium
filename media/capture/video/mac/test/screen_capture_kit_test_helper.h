@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenCaptureKit fake class declarations for tests
+// summary: Header declaring fake ScreenCaptureKit objects such as running applications, windows, displays, and shareable content for macOS capture tests.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MAC_TEST_SCREEN_CAPTURE_KIT_TEST_HELPER_H_
 #define MEDIA_CAPTURE_VIDEO_MAC_TEST_SCREEN_CAPTURE_KIT_TEST_HELPER_H_
 

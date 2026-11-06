@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RPC call message handler interfaces
+// summary: Defines handler interfaces that translate openscreen cast RPC messages into Chromium types and declares dispatch functions for initialization, renderer, and demuxer stream callback RPCs.
+// ---
+
 #ifndef MEDIA_CAST_OPENSCREEN_RPC_CALL_MESSAGE_HANDLER_H_
 #define MEDIA_CAST_OPENSCREEN_RPC_CALL_MESSAGE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for media cast Open Screen sources
+summary: Defines GN source sets for config conversions, decoder buffer reading, remoting utilities and their unit tests, with visibility restricted to cast streaming, mirroring and remoting components.

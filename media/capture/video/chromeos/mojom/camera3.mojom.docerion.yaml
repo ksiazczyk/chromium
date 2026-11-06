@@ -1,0 +1,4 @@
+# Docerion header of camera3.mojom.
+type: source
+title: Mojo definitions for Android camera HAL v3 streams and buffers
+summary: Defines Mojo structs, enums and interfaces mirroring the Android camera HAL v3 API, including streams, gralloc usage flags and buffer handles.

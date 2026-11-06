@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the Fuchsia video capture directory
+summary: Delegates ownership review of this directory to the owners listed in build/fuchsia/OWNERS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera HAL dispatcher implementation
+// summary: Implements CameraHalDispatcherImpl, which hosts the camera HAL dispatcher service, manages client connections, and handles effects and privacy switch control files.
+// ---
+
 #include "media/capture/video/chromeos/camera_hal_dispatcher_impl.h"
 
 #include <algorithm>

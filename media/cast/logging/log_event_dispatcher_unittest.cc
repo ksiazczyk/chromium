@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log event dispatcher unit tests
+// summary: Unit tests verifying subscription, event dispatch and cross-thread dispatch behavior of LogEventDispatcher using mock subscribers.
+// ---
+
 #include "media/cast/logging/log_event_dispatcher.h"
 
 #include <memory>

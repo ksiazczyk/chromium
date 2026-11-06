@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for config conversions
+// summary: Verifies conversion of audio and video capture and decoder configs between media and Open Screen representations, checking codec, layout, size and rate fields.
+// ---
+
 #include "media/cast/openscreen/config_conversions.h"
 
 #include <algorithm>

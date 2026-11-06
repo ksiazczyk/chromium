@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app device implementation
+// summary: Implements CameraAppDevice, including document corner detection via the cros document scanner service and portrait segmentation results.
+// ---
+
 #include "media/capture/video/chromeos/camera_app_device_impl.h"
 
 #include <algorithm>

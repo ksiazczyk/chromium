@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast environment test fixture header
+// summary: Declares WithCastEnvironment and TestWithCastEnvironment base classes that give tests access to a CastEnvironment, mock clock, and task runners.
+// ---
+
 #ifndef MEDIA_CAST_TEST_TEST_WITH_CAST_ENVIRONMENT_H_
 #define MEDIA_CAST_TEST_TEST_WITH_CAST_ENVIRONMENT_H_
 

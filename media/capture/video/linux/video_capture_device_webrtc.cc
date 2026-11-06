@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceWebRtc implementation
+// summary: Implements the WebRTC-based capture device that starts and stops capture through a webrtc VideoCaptureModule and reports capabilities and photo state.
+// ---
+
 #include "media/capture/video/linux/video_capture_device_webrtc.h"
 
 #include "base/notimplemented.h"

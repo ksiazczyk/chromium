@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media and Open Screen config conversion API
+// summary: Declares utility functions that convert audio and video decoder configs between Chromium media and Open Screen cast types.
+// ---
+
 #ifndef MEDIA_CAST_OPENSCREEN_CONFIG_CONVERSIONS_H_
 #define MEDIA_CAST_OPENSCREEN_CONFIG_CONVERSIONS_H_
 

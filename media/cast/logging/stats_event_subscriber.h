@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats event subscriber class declaration
+// summary: Declares the StatsEventSubscriber class and CastStat enum for aggregating Cast logging events into audio and video statistics, histograms, and resettable stat maps.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_STATS_EVENT_SUBSCRIBER_H_
 #define MEDIA_CAST_LOGGING_STATS_EVENT_SUBSCRIBER_H_
 

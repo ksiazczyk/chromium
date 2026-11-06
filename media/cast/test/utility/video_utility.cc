@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame population utilities for Cast tests
+// summary: Implements helpers that fill video frames with plaid stripe patterns or random noise for Cast testing.
+// ---
+
 #include "media/cast/test/utility/video_utility.h"
 
 #include <math.h>

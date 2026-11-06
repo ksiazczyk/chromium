@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOpenscreenEnvironment header
+// summary: Declares a gmock openscreen Cast Environment that fakes bound endpoints and intercepts packet sends during unit tests.
+// ---
+
 #ifndef MEDIA_CAST_TEST_MOCK_OPENSCREEN_ENVIRONMENT_H_
 #define MEDIA_CAST_TEST_MOCK_OPENSCREEN_ENVIRONMENT_H_
 

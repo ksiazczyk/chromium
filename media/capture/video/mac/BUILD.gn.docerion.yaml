@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mac video capture build configuration
+summary: GN build rules compiling the Mac video capture sources and their unit tests with the required frameworks and dependencies.

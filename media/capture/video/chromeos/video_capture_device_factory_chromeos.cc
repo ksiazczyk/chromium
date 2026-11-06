@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS video capture device factory implementation
+// summary: Implements the ChromeOS video capture device factory, creating camera devices through CameraHalDelegate and managing shared GPU resources.
+// ---
+
 #include "media/capture/video/chromeos/video_capture_device_factory_chromeos.h"
 
 #include <utility>

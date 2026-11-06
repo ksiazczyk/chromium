@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera trace utilities implementation
+// summary: Builds unique Perfetto trace tracks for camera events such as 3A stabilization, stream configuration, and capture requests.
+// ---
+
 #include "media/capture/video/chromeos/camera_trace_utils.h"
 
 namespace media {

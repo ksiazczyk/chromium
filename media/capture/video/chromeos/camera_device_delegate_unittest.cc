@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera device delegate unit tests
+// summary: Unit tests for CameraDeviceDelegate that use mock camera device Mojo interfaces to exercise stream configuration, capture requests, and photo capture behavior.
+// ---
+
 #include "media/capture/video/chromeos/camera_device_delegate.h"
 
 #include <stddef.h>

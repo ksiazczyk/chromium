@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast environment test fixture implementation
+// summary: Implements the WithCastEnvironment fixture, creating a CastEnvironment on a mock task environment and safely waiting for its deletion during teardown.
+// ---
+
 #include "media/cast/test/test_with_cast_environment.h"
 
 namespace media::cast {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 GPU memory buffer tracker header
+// summary: Declares the V4L2GpuMemoryBufferTracker, a buffer tracker for Linux mappable shared images owned by the video capture buffer pool.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_V4L2_GPU_MEMORY_BUFFER_TRACKER_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_V4L2_GPU_MEMORY_BUFFER_TRACKER_H_
 

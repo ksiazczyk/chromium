@@ -5,6 +5,12 @@
 // Implement a DirectShow sink filter used for receiving captured frames from
 // a DirectShow Capture filter.
 
+// ---docerion
+// type: source
+// title: DirectShow sink filter header
+// summary: Declares the SinkFilter DirectShow sink filter and GUID constants for media subtypes such as I420, HDYC, Z16, INVZ and Y16.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_SINK_FILTER_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_SINK_FILTER_WIN_H_
 

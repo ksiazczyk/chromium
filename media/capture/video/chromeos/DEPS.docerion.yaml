@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ChromeOS video capture directory
+summary: Sets allowed include paths for the directory and extra rules for specific unit test files.

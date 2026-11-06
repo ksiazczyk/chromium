@@ -1,0 +1,4 @@
+# Docerion header of cros_camera_client.mojom.
+type: source
+title: Mojo interface for the ChromeOS camera HAL client
+summary: Defines the CameraHalClient interface that receives the camera module Mojo channel from the HAL dispatcher.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSender interface
+// summary: Declares the pure virtual FrameSender interface for sending encoded frames to a Cast receiver, covering playout delay, key frames, and frame dropping.
+// ---
+
 #ifndef MEDIA_CAST_SENDER_FRAME_SENDER_H_
 #define MEDIA_CAST_SENDER_FRAME_SENDER_H_
 

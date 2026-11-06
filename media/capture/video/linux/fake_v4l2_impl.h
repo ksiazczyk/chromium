@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeV4L2Impl class declaration
+// summary: Declares FakeV4L2DeviceConfig and a V4L2CaptureDevice implementation that lets tests configure fake V4L2 devices.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_FAKE_V4L2_IMPL_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_FAKE_V4L2_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display rotation observer implementation
+// summary: Implements ScreenObserverDelegate, which listens for display rotation changes through the ChromeOS system event monitor service.
+// ---
+
 #include "media/capture/video/chromeos/display_rotation_observer.h"
 
 #include "chromeos/ash/components/mojo_service_manager/connection.h"

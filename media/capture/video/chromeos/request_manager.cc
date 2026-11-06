@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture request manager implementation
+// summary: Implements the capture flow between Chrome and the camera HAL process, sending capture requests, handling results and metadata, and submitting frames to clients.
+// ---
+
 #include "media/capture/video/chromeos/request_manager.h"
 
 #include <sync/sync.h>

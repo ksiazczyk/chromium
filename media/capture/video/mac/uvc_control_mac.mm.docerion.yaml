@@ -1,0 +1,4 @@
+# Docerion header of uvc_control_mac.mm.
+type: source
+title: UVC control implementation for Mac
+summary: Implements USB video class control requests for Mac cameras, covering pan, tilt, focus, exposure, brightness and related controls.

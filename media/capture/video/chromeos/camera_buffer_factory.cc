@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraBufferFactory implementation
+// summary: Implements creation of GPU shared images for camera capture buffers and resolution of HAL pixel formats to Chromium formats for given buffer usages.
+// ---
+
 #include "media/capture/video/chromeos/camera_buffer_factory.h"
 
 #include "base/functional/callback_helpers.h"

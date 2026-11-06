@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting proto enum conversion declarations
+// summary: Declares optional-returning conversion functions that map enums between media/base modules and openscreen cast remoting protobuf classes while keeping the modules decoupled.
+// ---
+
 #ifndef MEDIA_CAST_OPENSCREEN_REMOTING_PROTO_ENUM_UTILS_H_
 #define MEDIA_CAST_OPENSCREEN_REMOTING_PROTO_ENUM_UTILS_H_
 

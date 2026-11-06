@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture request builder implementation
+// summary: Builds Camera3 capture requests for the camera HAL process, assembling output stream buffers and buffer handles from stream types and capture settings.
+// ---
+
 #include "media/capture/video/chromeos/request_builder.h"
 
 #include <utility>

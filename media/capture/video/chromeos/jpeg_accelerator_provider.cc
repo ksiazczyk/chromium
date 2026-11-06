@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG accelerator provider implementation
+// summary: Implements the JPEG accelerator provider that registers with the Chrome OS mojo service manager and serves JPEG encode and decode accelerators.
+// ---
+
 #include "media/capture/video/chromeos/jpeg_accelerator_provider.h"
 #include "chromeos/ash/components/mojo_service_manager/connection.h"
 #include "third_party/cros_system_api/mojo/service_constants.h"

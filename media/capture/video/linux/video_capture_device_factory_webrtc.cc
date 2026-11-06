@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactoryWebRtc implementation
+// summary: Implements the WebRTC-based capture device factory that enumerates cameras through PipeWire and maps WebRTC video types to Chromium pixel formats.
+// ---
+
 #include "media/capture/video/linux/video_capture_device_factory_webrtc.h"
 
 #include "base/feature_list.h"

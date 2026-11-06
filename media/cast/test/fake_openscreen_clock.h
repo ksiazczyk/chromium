@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOpenscreenClock header
+// summary: Declares FakeOpenscreenClock, which adapts a base::TickClock into an openscreen clock now-function for Cast tests.
+// ---
+
 #ifndef MEDIA_CAST_TEST_FAKE_OPENSCREEN_CLOCK_H_
 #define MEDIA_CAST_TEST_FAKE_OPENSCREEN_CLOCK_H_
 

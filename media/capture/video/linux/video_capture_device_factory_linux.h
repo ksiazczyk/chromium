@@ -4,6 +4,12 @@
 
 // Implementation of a VideoCaptureDeviceFactoryLinux class.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactoryLinux header
+// summary: Declares the Linux video capture device factory class that wraps the V4L2 and WebRTC PipeWire factories behind the common factory interface.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_FACTORY_LINUX_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_FACTORY_LINUX_H_
 

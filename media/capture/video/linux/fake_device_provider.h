@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDeviceProvider class declaration
+// summary: Declares a fake DeviceProvider for the V4L2 factory that keeps a list of video capture device descriptors for testing.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_FAKE_DEVICE_PROVIDER_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_FAKE_DEVICE_PROVIDER_H_
 

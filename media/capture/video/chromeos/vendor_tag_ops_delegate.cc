@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vendor tag ops delegate implementation
+// summary: Implements VendorTagOpsDelegate, which queries camera vendor tag metadata over Mojo IPC and builds lookup maps by tag and name.
+// ---
+
 #include "media/capture/video/chromeos/vendor_tag_ops_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video capture client implementation
+// summary: Implements the gmock-based MockVideoCaptureClient that stands in for a VideoCaptureDevice::Client in unit tests, forwarding frame callbacks and dumping capture errors.
+// ---
+
 #include "media/capture/video/chromeos/mock_video_capture_client.h"
 
 #include <string>

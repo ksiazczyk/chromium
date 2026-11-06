@@ -4,6 +4,12 @@
 
 // Implementation of a VideoCaptureDeviceFactory class for Windows platforms.
 
+// ---docerion
+// type: source
+// title: Windows video capture device factory header
+// summary: Declares VideoCaptureDeviceFactoryWin, which creates and enumerates Windows capture devices through either the DirectShow or Media Foundation APIs.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_FACTORY_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_FACTORY_WIN_H_
 

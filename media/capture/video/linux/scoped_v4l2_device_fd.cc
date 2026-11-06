@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedV4L2DeviceFD implementation
+// summary: Implements an RAII wrapper that closes a V4L2 device file descriptor via the V4L2CaptureDevice interface on reset or destruction.
+// ---
+
 #include "media/capture/video/linux/scoped_v4l2_device_fd.h"
 
 #include "media/capture/video/linux/v4l2_capture_device.h"

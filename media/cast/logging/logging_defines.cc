@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast logging event definitions implementation
+// summary: Implements CastLoggingToString for logging event names and the constructors of the FrameEvent and PacketEvent structs.
+// ---
+
 #include "media/cast/logging/logging_defines.h"
 
 #include "base/notreached.h"

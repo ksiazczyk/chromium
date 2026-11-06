@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats event subscriber implementation
+// summary: Implements StatsEventSubscriber, a raw event subscriber that aggregates Cast frame and packet events into statistics such as latencies, bitrates, counts, and histograms.
+// ---
+
 #include "media/cast/logging/stats_event_subscriber.h"
 
 #include <algorithm>

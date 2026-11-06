@@ -6,6 +6,12 @@
 // MediaFoundation is used for capturing. MediaFoundation provides its own
 // threads for capturing.
 
+// ---docerion
+// type: source
+// title: Media Foundation video capture device header
+// summary: Declares VideoCaptureDeviceMFWin, the Windows VideoCaptureDevice implementation that captures via Media Foundation using its own capture threads.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_MF_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_VIDEO_CAPTURE_DEVICE_MF_WIN_H_
 

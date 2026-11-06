@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default Cast sender config declarations
+// summary: Declares helpers that return default audio and video sender configurations for Cast testing.
+// ---
+
 #ifndef MEDIA_CAST_TEST_UTILITY_DEFAULT_CONFIG_H_
 #define MEDIA_CAST_TEST_UTILITY_DEFAULT_CONFIG_H_
 

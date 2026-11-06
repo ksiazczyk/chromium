@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosCameraAutoFramingStateObserver implementation
+// summary: Implements an observer that connects to the cros-camera service via the mojo service manager and forwards auto framing state changes to a callback.
+// ---
+
 #include "media/capture/video/chromeos/camera_auto_framing_state_observer.h"
 
 #include "base/functional/callback_helpers.h"

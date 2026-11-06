@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoSender class header
+// summary: Declares VideoSender, which owns the objects for sending video, including the encoder, RTP packetization, congestion control, and RTCP handling.
+// ---
+
 #ifndef MEDIA_CAST_SENDER_VIDEO_SENDER_H_
 #define MEDIA_CAST_SENDER_VIDEO_SENDER_H_
 

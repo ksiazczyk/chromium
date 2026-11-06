@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast logging event to proto EventType conversion
+// summary: Implements ToProtoEventType, mapping CastLoggingEvent enum values to the corresponding media::cast::proto::EventType values for cast logging.
+// ---
+
 #include "media/cast/logging/proto/proto_utils.h"
 
 #include "base/notreached.h"

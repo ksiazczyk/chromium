@@ -1,0 +1,4 @@
+# Docerion header of video_capture_metrics_mac.mm.
+type: source
+title: Video capture metrics implementation for Mac
+summary: Logs histograms classifying AVCaptureDevice devices by manufacturer, transport type and underlying plugin on Mac.

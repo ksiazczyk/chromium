@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media cast Open Screen
+summary: Grants the directory access to mojo public C++ headers through a DEPS include rule.

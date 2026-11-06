@@ -1,0 +1,4 @@
+# Docerion header of camera_metadata.mojom.
+type: source
+title: Mojo structs for Android camera HAL metadata
+summary: Defines CameraMetadataEntry and CameraMetadata structs mirroring the Android camera HAL v3 metadata format.

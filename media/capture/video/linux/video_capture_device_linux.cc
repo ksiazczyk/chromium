@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceLinux implementation
+// summary: Implements the Linux V4L2 capture device, delegating capture start, stop, photo capture and power line frequency handling to a V4L2CaptureDelegate on a dedicated thread.
+// ---
+
 #include "media/capture/video/linux/video_capture_device_linux.h"
 
 #include <stddef.h>

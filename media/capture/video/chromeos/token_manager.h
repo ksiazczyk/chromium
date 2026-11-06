@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token manager header
+// summary: Declares TokenManager, which creates and authenticates security tokens for trusted camera service clients such as Chrome, Android and PluginVm.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_TOKEN_MANAGER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_TOKEN_MANAGER_H_
 

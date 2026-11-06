@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ScreenCaptureKit test support build file
+summary: GN build file defining the test_support source set that bundles the ScreenCaptureKit fake helper sources for macOS media capture tests.

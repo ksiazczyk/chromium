@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream buffer manager implementation
+// summary: Implements buffer reservation, allocation, acquisition and frame rotation handling for ChromeOS camera capture streams, including shared image management.
+// ---
+
 #include "media/capture/video/chromeos/stream_buffer_manager.h"
 
 #include <memory>

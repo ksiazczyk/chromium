@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoBitrateSuggester class header
+// summary: Declares the VideoBitrateSuggester class, which suggests a video bitrate from current network conditions and encoder performance monitored via frame drops.
+// ---
+
 #ifndef MEDIA_CAST_SENDER_VIDEO_BITRATE_SUGGESTER_H_
 #define MEDIA_CAST_SENDER_VIDEO_BITRATE_SUGGESTER_H_
 

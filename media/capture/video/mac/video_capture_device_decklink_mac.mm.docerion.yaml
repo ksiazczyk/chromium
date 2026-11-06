@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_decklink_mac.mm.
+type: source
+title: DeckLink capture device implementation for Mac
+summary: Implements Blackmagic DeckLink video capture on Mac via a reference-counted delegate that forwards frames, logs and errors.

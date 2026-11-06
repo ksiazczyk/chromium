@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows video capture device utility functions
+// summary: Implements helpers that convert camera control values between Windows units and the capture spec, plus camera rotation and internal display detection logic.
+// ---
+
 #include "media/capture/video/win/video_capture_device_utils_win.h"
 
 #include <cmath>

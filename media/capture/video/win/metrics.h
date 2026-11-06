@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture Windows metrics declarations
+// summary: Declares enums for the capture backend, backend usage, image capture outcome and Media Foundation functions requiring retry, plus a function to log retry counts.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_METRICS_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_METRICS_H_
 

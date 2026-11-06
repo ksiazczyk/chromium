@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encoding support unit tests
+// summary: Unit tests verifying hardware encoder enablement logic for VP8, VP9, AV1 and other codecs under feature flags and force enable/disable command-line switches.
+// ---
+
 #include "media/cast/encoding/encoding_support.h"
 
 #include <stdint.h>

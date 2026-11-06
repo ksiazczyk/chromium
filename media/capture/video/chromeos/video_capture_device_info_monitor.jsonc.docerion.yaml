@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_info_monitor.jsonc.
+type: config
+title: Video capture device info monitor policy
+summary: Mojo service manager policy definition allowing the ChromeOS browser to own and request the VideoCaptureDeviceInfoMonitor service.

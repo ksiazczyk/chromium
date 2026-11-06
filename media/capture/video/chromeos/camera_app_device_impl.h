@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAppDeviceImpl class header
+// summary: Declares CameraAppDeviceImpl, the Mojo bridge between the Chrome Camera App and the ChromeOS video capture device, exposing app-specific camera operations and metadata observers.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_APP_DEVICE_IMPL_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_APP_DEVICE_IMPL_H_
 

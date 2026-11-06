@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token manager implementation
+// summary: Implements generation, file storage and authentication of server and client camera access tokens, including registration and removal of PluginVm tokens.
+// ---
+
 
 #include "media/capture/video/chromeos/token_manager.h"
 

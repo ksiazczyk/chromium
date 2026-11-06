@@ -5,6 +5,12 @@
 // Implement a simple base class for DirectShow filters. It may only be used in
 // a single threaded apartment.
 
+// ---docerion
+// type: source
+// title: DirectShow filter base class declaration
+// summary: Declares a base class for DirectShow filters used by the Windows video capture implementation.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_FILTER_BASE_WIN_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_FILTER_BASE_WIN_H_
 

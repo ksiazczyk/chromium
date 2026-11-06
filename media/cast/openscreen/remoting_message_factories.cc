@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast remoting RPC message factories
+// summary: Builds Open Screen cast RpcMessage instances for renderer events such as errors, statistics updates, buffering state, config changes, size and opacity changes and time updates.
+// ---
+
 #include "media/cast/openscreen/remoting_message_factories.h"
 
 #include "media/base/audio_decoder_config.h"

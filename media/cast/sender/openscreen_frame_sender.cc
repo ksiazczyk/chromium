@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenscreenFrameSender implementation
+// summary: Implements the FrameSender API by wrapping an openscreen::cast::Sender, handling frame dropping, playout delay, and Chrome-to-Open Screen type translation.
+// ---
+
 #include "media/cast/sender/openscreen_frame_sender.h"
 
 #include <algorithm>

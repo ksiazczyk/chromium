@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoSender implementation
+// summary: Implements the Cast video sender, covering encoding, RTP packetization, congestion control, key frame requests, playout delay adjustment, and utilization metrics.
+// ---
+
 #include "media/cast/sender/video_sender.h"
 
 #include <stdint.h>

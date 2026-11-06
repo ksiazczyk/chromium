@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_info_monitor.mojom.
+type: source
+title: Video capture device info monitor Mojo interface
+summary: Defines the VideoCaptureDeviceInfoMonitor interface and observer for tracking updates to video capture device information such as camera ID to device ID mappings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture request builder header
+// summary: Declares RequestBuilder and BufferInfo, used to construct capture requests with stream buffers for the ChromeOS camera HAL process.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_REQUEST_BUILDER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_REQUEST_BUILDER_H_
 

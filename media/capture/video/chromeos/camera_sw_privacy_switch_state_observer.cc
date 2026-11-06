@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera software privacy switch state observer implementation
+// summary: Implements an observer that connects to the cros-camera service and forwards software privacy switch state changes to a callback.
+// ---
+
 #include "media/capture/video/chromeos/camera_sw_privacy_switch_state_observer.h"
 
 #include <utility>

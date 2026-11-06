@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS video capture BUILD.gn
+summary: GN build file defining the iOS capture source set with the pixel buffer rotator sources, base and capture dependencies, and the VideoToolbox framework.

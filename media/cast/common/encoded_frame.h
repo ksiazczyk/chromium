@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoded frame struct for Cast streaming
+// summary: Defines the EncodedFrame struct combining encoded audio or video data with metadata like frame IDs, RTP timestamps, reference time and playout delay.
+// ---
+
 #ifndef MEDIA_CAST_COMMON_ENCODED_FRAME_H_
 #define MEDIA_CAST_COMMON_ENCODED_FRAME_H_
 

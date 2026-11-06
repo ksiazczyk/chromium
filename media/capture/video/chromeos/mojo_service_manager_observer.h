@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo service manager observer header
+// summary: Declares MojoServiceManagerObserver, which monitors a mojo service's state via the ChromeOS mojo service manager and invokes register and unregister callbacks on the UI thread.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_MOJO_SERVICE_MANAGER_OBSERVER_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_MOJO_SERVICE_MANAGER_OBSERVER_H_
 

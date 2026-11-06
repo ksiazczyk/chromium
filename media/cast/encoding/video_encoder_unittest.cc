@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parameterized unit tests for VideoEncoder
+// summary: Tests VideoEncoder creation and frame encoding across H264, VP8, VP9, and AV1 codecs in both software and hardware encoder configurations.
+// ---
+
 #include "media/cast/encoding/video_encoder.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera HAL delegate unit tests
+// summary: Unit tests for CameraHalDelegate that use a mock camera module and vendor tag ops to verify built-in camera info retrieval and initialization behavior.
+// ---
+
 #include "media/capture/video/chromeos/camera_hal_delegate.h"
 
 #include <stddef.h>

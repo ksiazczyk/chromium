@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS video capture features and switches
+// summary: Defines command-line switches and the camera frame rotation feature for ChromeOS video capture, plus a helper that checks whether auto framing should be enabled.
+// ---
+
 #include "media/capture/video/chromeos/video_capture_features_chromeos.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RPC call message handler unit tests
+// summary: Unit tests using mock handlers to verify that RPC dispatch functions correctly route renderer, initialization, and demuxer stream callback messages.
+// ---
+
 #include "media/cast/openscreen/rpc_call_message_handler.h"
 
 #include <memory>

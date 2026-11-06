@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame population utility declarations
+// summary: Declares utility functions to populate video frames with a plaid pattern or noise for video testing.
+// ---
+
 #ifndef MEDIA_CAST_TEST_UTILITY_VIDEO_UTILITY_H_
 #define MEDIA_CAST_TEST_UTILITY_VIDEO_UTILITY_H_
 

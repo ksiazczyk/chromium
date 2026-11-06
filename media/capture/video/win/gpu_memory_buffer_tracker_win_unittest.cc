@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU memory buffer tracker unit tests
+// summary: Unit tests verifying that GpuMemoryBufferTrackerWin creates D3D11 textures with the expected size and NV12 format and recreates them after device loss, using a mocked DXGI device manager.
+// ---
+
 #include "media/capture/video/win/gpu_memory_buffer_tracker_win.h"
 
 #include <dxgi1_2.h>

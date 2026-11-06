@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia video capture device implementation
+// summary: Implements video capture from a fuchsia.camera3 device, including pixel format conversion to I420, rotation and flip handling, and frame delivery via sysmem buffers.
+// ---
+
 #include "media/capture/video/fuchsia/video_capture_device_fuchsia.h"
 
 #include <zircon/status.h>

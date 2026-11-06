@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast VideoEncoder interface
+// summary: Defines the Cast VideoEncoder interface for encoding video frames, updating the bit rate, and forcing key frames, callable on the MAIN Cast thread.
+// ---
+
 #ifndef MEDIA_CAST_ENCODING_VIDEO_ENCODER_H_
 #define MEDIA_CAST_ENCODING_VIDEO_ENCODER_H_
 

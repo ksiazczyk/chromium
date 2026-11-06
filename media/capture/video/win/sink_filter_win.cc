@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectShow sink filter implementation
+// summary: Implements SinkFilter, a DirectShow filter with a single input pin that forwards the requested media format to the pin and exposes its class ID.
+// ---
+
 #include "media/capture/video/win/sink_filter_win.h"
 
 #include "base/memory/scoped_refptr.h"

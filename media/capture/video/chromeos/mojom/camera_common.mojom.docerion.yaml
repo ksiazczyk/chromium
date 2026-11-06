@@ -1,0 +1,4 @@
+# Docerion header of camera_common.mojom.
+type: source
+title: Common ChromeOS camera Mojo types and camera module interface
+summary: Defines shared camera enums, structs and the CameraModule interface for querying camera info and opening camera HAL devices.

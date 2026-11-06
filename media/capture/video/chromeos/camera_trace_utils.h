@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera trace utilities header
+// summary: Declares the CameraTraceEvent enum and the GetTraceTrack helper for generating unique Perfetto trace tracks for camera events.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_TRACE_UTILS_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_TRACE_UTILS_H_
 

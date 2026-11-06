@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock D3D11 interface classes for capture tests
+// summary: Declares mock D3D11 interfaces and device context helpers used by the Windows capture unit tests.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_WIN_D3D_CAPTURE_TEST_UTILS_H_
 #define MEDIA_CAPTURE_VIDEO_WIN_D3D_CAPTURE_TEST_UTILS_H_
 

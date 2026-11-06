@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System event monitor implementation
+// summary: Implements the CrosSystemEventMonitor mojo service, converting and forwarding lid, display rotation, power and device change events to registered observers.
+// ---
+
 #include "media/capture/video/chromeos/system_event_monitor_impl.h"
 
 #include "base/system/system_monitor.h"

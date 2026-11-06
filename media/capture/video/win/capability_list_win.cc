@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture format capability matching for Windows
+// summary: Ranks supported capture formats and selects the best match for a requested video capture format on Windows.
+// ---
+
 #include "media/capture/video/win/capability_list_win.h"
 
 #include <algorithm>

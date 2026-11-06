@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting proto buffer conversion implementation
+// summary: Implements conversions between media decoder buffers, audio and video decoder configs, pipeline statistics and their openscreen cast protobuf equivalents, including wire-format byte array encoding.
+// ---
+
 #include "media/cast/openscreen/remoting_proto_utils.h"
 
 #include <algorithm>

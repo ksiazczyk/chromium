@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app device bridge implementation
+// summary: Implements the singleton mojo bridge that connects the Chrome camera app with the video capture service and tracks device state.
+// ---
+
 #include "media/capture/video/chromeos/camera_app_device_bridge_impl.h"
 
 #include <string>

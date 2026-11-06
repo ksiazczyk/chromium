@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 capture delegate GPU helper implementation
+// summary: Implements conversion of V4L2 video capture frames to NV12 format and copying them into GPU memory buffers, including libyuv format mapping and rotation handling.
+// ---
+
 #include "media/capture/video/linux/v4l2_capture_delegate_gpu_helper.h"
 
 #include <cstdint>

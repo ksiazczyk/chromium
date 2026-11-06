@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraDeviceDelegate implementation
+// summary: Implements the ChromeOS camera device delegate, handling stream configuration, capture requests, and camera controls such as brightness, zoom, and white balance.
+// ---
+
 #include "media/capture/video/chromeos/camera_device_delegate.h"
 
 #include <algorithm>

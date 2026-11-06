@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app device bridge header
+// summary: Declares CameraAppDeviceBridgeImpl, which creates and manages CameraAppDevice instances for camera app communication.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_APP_DEVICE_BRIDGE_IMPL_H_
 #define MEDIA_CAPTURE_VIDEO_CHROMEOS_CAMERA_APP_DEVICE_BRIDGE_IMPL_H_
 

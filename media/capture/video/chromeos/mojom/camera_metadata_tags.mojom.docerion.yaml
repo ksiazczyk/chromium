@@ -1,0 +1,4 @@
+# Docerion header of camera_metadata_tags.mojom.
+type: source
+title: Generated enums for Android camera HAL3 metadata tags
+summary: Auto-generated Mojo enums mapping Android camera HAL3 metadata tags and sections used by ARC, cros_camera_service and Chrome.

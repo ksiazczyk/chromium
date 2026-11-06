@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactoryWebRtc header
+// summary: Declares the WebRTC video capture device factory for Linux, including availability checks for PipeWire and xdg-desktop-portal and pixel format conversion helpers.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_FACTORY_WEBRTC_H_
 #define MEDIA_CAPTURE_VIDEO_LINUX_VIDEO_CAPTURE_DEVICE_FACTORY_WEBRTC_H_
 

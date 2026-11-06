@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the Cast streaming library
+summary: Defines GN build targets for the Cast streaming common, encoding, sender and test support components.

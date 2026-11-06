@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modular map utility templates
+// summary: Template helpers for maps with wrapping unsigned integer keys, returning the oldest entry and the previous entry of such a modular map.
+// ---
+
 #ifndef MEDIA_CAST_COMMON_MOD_UTIL_H_
 #define MEDIA_CAST_COMMON_MOD_UTIL_H_
 

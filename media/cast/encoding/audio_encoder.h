@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming audio encoder interface
+// summary: Declares the AudioEncoder class that feeds audio into codec-specific implementations and delivers encoded frames, including a thread-safe asynchronous encode callback.
+// ---
+
 #ifndef MEDIA_CAST_ENCODING_AUDIO_ENCODER_H_
 #define MEDIA_CAST_ENCODING_AUDIO_ENCODER_H_
 

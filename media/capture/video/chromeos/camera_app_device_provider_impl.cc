@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAppDeviceProviderImpl implementation
+// summary: Implements the CameraAppDeviceProvider Mojo interface, mapping source IDs to device IDs and forwarding device requests to the camera app device bridge.
+// ---
+
 #include "media/capture/video/chromeos/camera_app_device_provider_impl.h"
 
 #include <memory>

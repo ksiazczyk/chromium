@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameId type alias
+// summary: Aliases media::cast::FrameId to the Open Screen cast::FrameId, with a TODO to remove the alias and use the Open Screen type directly.
+// ---
+
 #ifndef MEDIA_CAST_COMMON_FRAME_ID_H_
 #define MEDIA_CAST_COMMON_FRAME_ID_H_
 

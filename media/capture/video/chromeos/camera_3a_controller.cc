@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera 3A controller implementation
+// summary: Implements auto-exposure, auto-focus and auto-white-balance control, including point of interest, for ChromeOS cameras.
+// ---
+
 #include "media/capture/video/chromeos/camera_3a_controller.h"
 
 #include <algorithm>

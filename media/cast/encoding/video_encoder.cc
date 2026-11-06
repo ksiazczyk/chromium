@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoder factory with encoder type metrics
+// summary: Implements VideoEncoder::Create, recording the codec and software or hardware encoder type to a UMA histogram and returning a MediaVideoEncoderWrapper.
+// ---
+
 #include "media/cast/encoding/video_encoder.h"
 
 #include "base/memory/ptr_util.h"

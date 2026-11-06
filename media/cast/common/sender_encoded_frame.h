@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SenderEncodedFrame struct header
+// summary: Declares SenderEncodedFrame, which extends EncodedFrame with sender-side fields for encoder utilization, lossiness, and encode and capture timing.
+// ---
+
 #ifndef MEDIA_CAST_COMMON_SENDER_ENCODED_FRAME_H_
 #define MEDIA_CAST_COMMON_SENDER_ENCODED_FRAME_H_
 

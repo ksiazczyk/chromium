@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast remoting RPC message factory declarations
+// summary: Declares factory functions that create RpcMessage objects for Cast Mirroring renderer and demuxer stream operations, leaving message handles to the caller.
+// ---
+
 #ifndef MEDIA_CAST_OPENSCREEN_REMOTING_MESSAGE_FACTORIES_H_
 #define MEDIA_CAST_OPENSCREEN_REMOTING_MESSAGE_FACTORIES_H_
 

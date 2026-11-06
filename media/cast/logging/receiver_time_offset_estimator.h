@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver time offset estimator interface
+// summary: Declares the ReceiverTimeOffsetEstimator interface for estimating sender-receiver clock offset bounds from raw cast events.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_RECEIVER_TIME_OFFSET_ESTIMATOR_H_
 #define MEDIA_CAST_LOGGING_RECEIVER_TIME_OFFSET_ESTIMATOR_H_
 

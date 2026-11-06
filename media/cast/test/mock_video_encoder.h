@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockVideoEncoder header
+// summary: Declares a gmock VideoEncoder that mocks frame encoding, bit rate changes, and key frame generation for Cast tests.
+// ---
+
 #ifndef MEDIA_CAST_TEST_MOCK_VIDEO_ENCODER_H_
 #define MEDIA_CAST_TEST_MOCK_VIDEO_ENCODER_H_
 

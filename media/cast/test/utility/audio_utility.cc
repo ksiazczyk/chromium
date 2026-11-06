@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast test audio bus factory implementation
+// summary: Implements TestAudioBusFactory, which generates sine wave AudioBuses of varying duration for Cast testing.
+// ---
+
 #include "media/cast/test/utility/audio_utility.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast logging event definitions
+// summary: Defines the CastLoggingEvent enum, EventMediaType and the FrameEvent and PacketEvent structs used throughout cast logging.
+// ---
+
 #ifndef MEDIA_CAST_LOGGING_LOGGING_DEFINES_H_
 #define MEDIA_CAST_LOGGING_LOGGING_DEFINES_H_
 

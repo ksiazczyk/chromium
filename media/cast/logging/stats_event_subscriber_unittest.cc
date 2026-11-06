@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stats event subscriber unit tests
+// summary: Unit tests for StatsEventSubscriber that dispatch synthetic frame and packet events through a log dispatcher and verify the resulting statistics and histograms.
+// ---
+
 #include "media/cast/logging/stats_event_subscriber.h"
 
 #include <stddef.h>

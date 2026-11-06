@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open Screen conversion helpers unit tests
+// summary: Unit tests verifying encoded frame, time, audio config and video config conversions between Chromium and Open Screen types.
+// ---
+
 #include "media/cast/common/openscreen_conversion_helpers.h"
 
 #include "media/cast/cast_config.h"

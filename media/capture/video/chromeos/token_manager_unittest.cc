@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token manager unit tests
+// summary: Unit tests verifying that TokenManager authenticates server, client, and plugin VM camera tokens and rejects unregistered or untrusted ones.
+// ---
+
 #include "media/capture/video/chromeos/token_manager.h"
 
 #include <string>

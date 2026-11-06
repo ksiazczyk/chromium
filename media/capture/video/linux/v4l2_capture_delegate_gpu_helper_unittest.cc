@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 capture delegate GPU helper unit tests
+// summary: Unit tests for the V4L2 capture delegate GPU helper, using mock capture clients and a test shared image interface to verify NV12 conversion into GPU memory buffers.
+// ---
+
 #include "media/capture/video/linux/v4l2_capture_delegate_gpu_helper.h"
 
 #include <ranges>

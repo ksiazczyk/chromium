@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame complexity estimator unit tests
+// summary: Unit tests checking complexity estimates for solid color, checkerboard and random noise frames against expected entropy-derived values.
+// ---
+
 #include "media/cast/encoding/frame_complexity_estimator.h"
 
 #include <stdint.h>

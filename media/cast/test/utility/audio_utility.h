@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast test audio bus factory header
+// summary: Declares TestAudioBusFactory for creating AudioBuses that continue a single sine wave across successive outputs.
+// ---
+
 #ifndef MEDIA_CAST_TEST_UTILITY_AUDIO_UTILITY_H_
 #define MEDIA_CAST_TEST_UTILITY_AUDIO_UTILITY_H_
 

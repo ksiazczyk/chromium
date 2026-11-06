@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mac video capture include rules
+summary: Directory dependency rules permitting includes from third_party/decklink in the Mac video capture code.

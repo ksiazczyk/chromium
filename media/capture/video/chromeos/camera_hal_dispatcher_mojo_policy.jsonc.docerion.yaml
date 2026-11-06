@@ -1,0 +1,4 @@
+# Docerion header of camera_hal_dispatcher_mojo_policy.jsonc.
+type: config
+title: Camera HAL dispatcher Mojo policy
+summary: Defines the Mojo service manager policy granting the browser identity ownership of the CrosCameraHalDispatcher service on ChromeOS devices.

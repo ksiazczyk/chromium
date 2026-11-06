@@ -1,0 +1,4 @@
+# Docerion header of camera_app.mojom.
+type: source
+title: Mojo interfaces between the Chrome Camera App and camera devices
+summary: Defines interfaces letting the Chrome OS Camera App communicate with camera devices for portrait capture, FPS ranges and capture intents.

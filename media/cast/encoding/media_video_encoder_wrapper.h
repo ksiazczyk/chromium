@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaVideoEncoderWrapper class declaration for Cast video encoding
+// summary: Declares MediaVideoEncoderWrapper, which adapts media::VideoEncoder for Cast streaming, caching per-frame metadata and performing encoding on the VIDEO thread.
+// ---
+
 #ifndef MEDIA_CAST_ENCODING_MEDIA_VIDEO_ENCODER_WRAPPER_H_
 #define MEDIA_CAST_ENCODING_MEDIA_VIDEO_ENCODER_WRAPPER_H_
 

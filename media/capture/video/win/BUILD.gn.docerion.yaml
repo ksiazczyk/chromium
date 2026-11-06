@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for Windows video capture
+summary: Defines the GN source sets, dependencies and linked Media Foundation libraries for the Windows video capture implementation and its unit tests.

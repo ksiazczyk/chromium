@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectShow pin base implementation
+// summary: Implements PinBase, a DirectShow IPin and IMemInputPin base class, including a media type enumerator, connection handling and allocator-related methods.
+// ---
+
 
 #include "media/capture/video/win/pin_base_win.h"
 

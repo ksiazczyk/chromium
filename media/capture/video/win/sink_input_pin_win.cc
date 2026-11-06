@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sink input pin implementation
+// summary: Implements SinkInputPin, validating supported DirectShow media types such as I420, YUY2, UYVY, MJPG, RGB and depth formats and delivering received frames to the observer.
+// ---
+
 #include "media/capture/video/win/sink_input_pin_win.h"
 
 #include <cstring>

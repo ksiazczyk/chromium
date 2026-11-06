@@ -1,0 +1,4 @@
+# Docerion header of document_scanner.mojom.
+type: source
+title: CrosDocumentScanner Mojo interface
+summary: Defines the Mojo interface and result struct for detecting document corners from a 256x256 NV12 image via the ML service.

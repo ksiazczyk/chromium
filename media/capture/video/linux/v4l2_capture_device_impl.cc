@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 capture device implementation
+// summary: Implements the V4L2CaptureDevice interface by delegating open, close, ioctl, mmap, munmap, and poll calls to the real Linux V4L2 system APIs.
+// ---
+
 #include "media/capture/video/linux/v4l2_capture_device_impl.h"
 
 #include <fcntl.h>

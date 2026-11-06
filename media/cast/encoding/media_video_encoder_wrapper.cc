@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media video encoder wrapper implementation
+// summary: Implements the Cast video encoder wrapper that selects hardware or software media video encoders per codec and computes encoder utilization for encoded frames.
+// ---
+
 #include "media/cast/encoding/media_video_encoder_wrapper.h"
 
 #include <algorithm>

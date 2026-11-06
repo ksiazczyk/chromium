@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Linux video capture
+summary: Defines GN source sets for Linux V4L2 capture, plus test support and unit test targets with their dependencies.

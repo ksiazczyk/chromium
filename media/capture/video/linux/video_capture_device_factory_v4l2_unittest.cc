@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureDeviceFactoryV4L2 unit tests
+// summary: Unit tests for the V4L2 capture device factory that use fake V4L2 and device provider implementations to verify device enumeration and frame capture.
+// ---
+
 #include "media/capture/video/linux/video_capture_device_factory_v4l2.h"
 
 #include "base/memory/raw_ptr.h"

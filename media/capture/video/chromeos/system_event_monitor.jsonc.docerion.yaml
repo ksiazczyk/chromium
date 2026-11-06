@@ -1,0 +1,4 @@
+# Docerion header of system_event_monitor.jsonc.
+type: config
+title: System event monitor service policy
+summary: Mojo service manager policy file that lets the ChromeOS browser own and request the CrosSystemEventMonitor service.

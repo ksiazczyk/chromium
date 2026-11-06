@@ -1,0 +1,4 @@
+# Docerion header of camera_features.mojom.
+type: source
+title: Mojo definitions for camera stream effects
+summary: Defines the Camera3StreamEffect union plus Portrait Mode configuration and segmentation result types.

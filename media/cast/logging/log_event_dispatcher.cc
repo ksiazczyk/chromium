@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log event dispatcher implementation
+// summary: Implements the thread-safe LogEventDispatcher that posts frame, packet and batch logging events to subscribers on a dedicated task runner.
+// ---
+
 #include "media/cast/logging/log_event_dispatcher.h"
 
 #include <algorithm>
