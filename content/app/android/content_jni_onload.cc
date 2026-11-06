@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI onload initialization for content on Android
+// summary: Runs base JNI initialization when the library loads and registers the content LibraryLoaded hook.
+// ---
+
 #include "content/public/app/content_jni_onload.h"
 
 #include "base/android/base_jni_init.h"

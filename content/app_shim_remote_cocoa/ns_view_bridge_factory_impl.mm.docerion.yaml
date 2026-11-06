@@ -1,0 +1,4 @@
+# Docerion header of ns_view_bridge_factory_impl.mm.
+type: source
+title: NSView bridge factory implementation
+summary: Implements the factory that creates RenderWidgetHost and WebContents NSView bridge owners, wiring Mojo receivers and remote accessibility for Cocoa views.

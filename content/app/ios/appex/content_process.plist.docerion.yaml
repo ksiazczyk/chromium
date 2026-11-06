@@ -1,0 +1,4 @@
+# Docerion header of content_process.plist.
+type: config
+title: Info plist for the content process app extension
+summary: Extension Info plist declaring the com.apple.web-browser-engine.content extension point and bundle identity for the content process.

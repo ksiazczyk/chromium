@@ -1,0 +1,4 @@
+# Docerion header of web_contents_occlusion_checker_mac.mm.
+type: source
+title: Web contents occlusion checker implementation
+summary: Implements the occlusion checker that updates web contents visibility on window state changes, including emergency shutoffs for macOS 26 and Stage Manager.

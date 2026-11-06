@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Library loader hooks for content on Android
+// summary: Early initialization hook run after the native library loads, setting up logging, ICU, and content URL schemes.
+// ---
+
 #include "content/app/android/library_loader_hooks.h"
 
 #include "base/i18n/icu_util.h"

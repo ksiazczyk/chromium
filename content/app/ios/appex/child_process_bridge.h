@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bridge header for iOS child process extensions
+// summary: Declares the ChildProcessExtension protocol and C entry points that bridge Swift app extensions to the Chromium child process code.
+// ---
+
 #ifndef CONTENT_APP_IOS_APPEX_CHILD_PROCESS_BRIDGE_H_
 #define CONTENT_APP_IOS_APPEX_CHILD_PROCESS_BRIDGE_H_
 

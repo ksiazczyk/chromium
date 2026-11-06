@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentMainRunner browser tests
+// summary: Browser tests that mock ContentMainDelegate hooks to verify the content startup sequence and process lifecycle behavior.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

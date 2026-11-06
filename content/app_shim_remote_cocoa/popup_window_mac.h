@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupWindowMac class header
+// summary: Declares PopupWindowMac, a helper that hosts a RenderWidgetHostViewCocoa in its own borderless popup NSWindow for views initialized with InitAsPopup.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_POPUP_WINDOW_MAC_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_POPUP_WINDOW_MAC_H_
 

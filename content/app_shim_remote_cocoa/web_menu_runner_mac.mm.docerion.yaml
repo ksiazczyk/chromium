@@ -1,0 +1,4 @@
+# Docerion header of web_menu_runner_mac.mm.
+type: source
+title: WebMenuRunner popup menu implementation for macOS
+summary: Implements WebMenuRunner by building an NSMenu from Blink menu items and running it as a native popup, returning the user selection or cancellation.

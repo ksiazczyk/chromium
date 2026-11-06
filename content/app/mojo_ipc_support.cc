@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo IPC support for the browser process
+// summary: Sets up Mojo IPC support in the browser process, optionally on a dedicated thread, and creates the browser startup data from the IO thread.
+// ---
+
 #include "content/app/mojo_ipc_support.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of web_contents_view_cocoa.mm.
+type: source
+title: Web contents view Cocoa implementation
+summary: Implements WebContentsViewCocoa, handling drag and drop, web contents visibility updates, and a screenshot-copying workaround for dropped files in PWAs.

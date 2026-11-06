@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox initialization helper
+// summary: Initializes Windows sandbox broker or target services and applies security mitigations depending on whether the process is a browser or sandboxed child.
+// ---
+
 #include "content/public/app/sandbox_helper_win.h"
 
 #include "base/command_line.h"

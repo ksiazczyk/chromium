@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for app_shim_remote_cocoa
+summary: Defines the allowed include dependencies for the directory, which should shrink until the code can move to components/remote_cocoa.

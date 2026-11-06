@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentMainRunner implementation
+// summary: Implements ContentMainRunnerImpl, orchestrating initialization, browser and child process startup, and shutdown across all content process types.
+// ---
+
 #include "content/app/content_main_runner_impl.h"
 
 #include <stddef.h>

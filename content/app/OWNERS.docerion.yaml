@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content/app
+summary: Lists per-file owners for the Windows sandbox helpers, main runner startup changes, and iOS XPC IPC security reviews.

@@ -1,0 +1,4 @@
+# Docerion header of child_process_bridge.mm.
+type: source
+title: Implementation of the iOS child process XPC bridge
+summary: Implements XPC connection handling, argument and stdio setup, temp directory bookmark resolution, sandbox entry, and GPU layer hierarchy transport.

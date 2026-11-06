@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostNSViewBridge class header
+// summary: Declares the Mojo bridge for a RenderWidgetHostViewMac's NSView, covering popups, display, text input, cursor, and dictionary overlay commands.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_RENDER_WIDGET_HOST_NS_VIEW_BRIDGE_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_RENDER_WIDGET_HOST_NS_VIEW_BRIDGE_H_
 

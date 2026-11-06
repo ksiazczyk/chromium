@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents NSView bridge header
+// summary: Declares WebContentsNSViewBridge, a wrapper around WebContentsViewCocoa that implements the mojom WebContentsNSView interface for in-process or cross-process clients.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_WEB_CONTENTS_NS_VIEW_BRIDGE_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_WEB_CONTENTS_NS_VIEW_BRIDGE_H_
 

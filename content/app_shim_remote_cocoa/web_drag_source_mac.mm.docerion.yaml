@@ -1,0 +1,4 @@
+# Docerion header of web_drag_source_mac.mm.
+type: source
+title: Web drag source for macOS
+summary: Implements the WebDragSource Cocoa class that writes web drop data to the macOS pasteboard, tags Chromium-initiated drags, and supports drag-out downloads.

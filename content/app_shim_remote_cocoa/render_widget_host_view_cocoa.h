@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostViewCocoa interface
+// summary: Declares the Cocoa NSView that handles text input and composition, cursor and keyboard lock, and forwards events to the render widget host.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_RENDER_WIDGET_HOST_VIEW_COCOA_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_RENDER_WIDGET_HOST_VIEW_COCOA_H_
 
