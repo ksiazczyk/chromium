@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the voice UI sources
+summary: Defines the ui_bundled source set with its dependencies and frameworks, plus the unit test target and its bundle data.

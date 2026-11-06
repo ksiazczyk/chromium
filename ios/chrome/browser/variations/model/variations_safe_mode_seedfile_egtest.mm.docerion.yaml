@@ -1,0 +1,4 @@
+# Docerion header of variations_safe_mode_seedfile_egtest.mm.
+type: test
+title: Variations safe mode seed file tests
+summary: Earl Grey tests verifying variations safe mode for the SeedFileTrial treatment group, using seed files across crash and relaunch flows.

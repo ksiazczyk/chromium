@@ -1,0 +1,4 @@
+# Docerion header of url_loading_observer_bridge_unittest.mm.
+type: test
+title: URL loading observer bridge unit tests
+summary: Unit tests verifying that UrlLoadingObserverBridge forwards URL loading events to an OCMock observer via the notifier browser agent.

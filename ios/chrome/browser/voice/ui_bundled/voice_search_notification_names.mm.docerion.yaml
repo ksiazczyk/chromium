@@ -1,0 +1,4 @@
+# Docerion header of voice_search_notification_names.mm.
+type: source
+title: Voice Search notification name definitions
+summary: Implementation defining the voice search and text-to-speech notification name constants declared in the matching header.

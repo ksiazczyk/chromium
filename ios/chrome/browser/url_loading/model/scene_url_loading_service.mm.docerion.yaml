@@ -1,0 +1,4 @@
+# Docerion header of scene_url_loading_service.mm.
+type: source
+title: Scene URL loading service implementation
+summary: Implements scene-level URL loading, including interceptor matching, incognito policy checks, and opening tabs via scene commands.

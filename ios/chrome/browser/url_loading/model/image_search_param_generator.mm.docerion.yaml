@@ -1,0 +1,4 @@
+# Docerion header of image_search_param_generator.mm.
+type: source
+title: Image search parameter generator implementation
+summary: Resizes and JPEG-encodes images on background threads and builds search-by-image load parameters.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loading utility functions
+// summary: Declares helpers for incognito URL checks, JavaScript URL loading, tab restoration, and building omnibox load parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_UTIL_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_UTIL_H_
 

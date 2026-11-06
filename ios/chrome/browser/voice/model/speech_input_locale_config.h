@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechInputLocaleConfig interface for voice search locales
+// summary: Declares the singleton interface supplying available Voice Search locales and text-to-speech language information.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_CONFIG_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_CONFIG_H_
 

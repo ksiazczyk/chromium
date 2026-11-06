@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_egtest.mm.
+type: test
+title: Unit conversion Earl Grey UI tests
+summary: Contains Earl Grey test cases that verify the unit conversion view controller's elements and unit type and unit switching interactions.

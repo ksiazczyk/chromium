@@ -1,0 +1,4 @@
+# Docerion header of upgrade_utils.mm.
+type: source
+title: Upgrade utils implementation
+summary: Implements IsAppUpToDate by reading the up-to-date flag from NSUserDefaults.

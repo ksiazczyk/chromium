@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text-to-speech player subclassing category
+// summary: Declares a category exposing the internal AVAudioPlayer property to TextToSpeechPlayer subclasses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_UI_BUNDLED_TEXT_TO_SPEECH_PLAYER_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_VOICE_UI_BUNDLED_TEXT_TO_SPEECH_PLAYER_SUBCLASSING_H_
 

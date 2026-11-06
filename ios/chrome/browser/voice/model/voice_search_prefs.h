@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice search preference key constants
+// summary: Declares preference key names for the voice search input locale and the text-to-speech setting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_PREFS_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_PREFS_H_
 

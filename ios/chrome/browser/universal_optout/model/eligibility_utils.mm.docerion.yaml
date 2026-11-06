@@ -1,0 +1,4 @@
+# Docerion header of eligibility_utils.mm.
+type: source
+title: Universal opt-out eligibility utility implementation
+summary: Implements OS version, feature flag, override and preference checks that determine Universal Opt-Out eligibility and GPC extension availability.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_update_query_params_delegate.mm.
+type: source
+title: IOSChromeUpdateQueryParamsDelegate implementation
+summary: Implements the delegate singleton and builds extra update parameters from the channel, product version, and application locale.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Unit conversion UI build targets (BUILD.gn)
+summary: Defines GN source sets for the unit conversion UI, grouping coordinator, view, and constants sources plus unit test and Earl Grey test targets with their dependencies.

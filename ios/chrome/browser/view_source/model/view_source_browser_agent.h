@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewSourceBrowserAgent class header
+// summary: Declares the browser agent that extracts the HTML source of the active web state for view-source debugging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VIEW_SOURCE_MODEL_VIEW_SOURCE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_VIEW_SOURCE_MODEL_VIEW_SOURCE_BROWSER_AGENT_H_
 

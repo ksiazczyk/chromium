@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion mutator protocol
+// summary: Defines the UnitConversionMutator protocol that notifies of unit type, source unit, target unit, and unit value field changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_MUTATOR_H_
 #define IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_MUTATOR_H_
 #import "ios/public/provider/chrome/browser/unit_conversion/unit_conversion_api.h"

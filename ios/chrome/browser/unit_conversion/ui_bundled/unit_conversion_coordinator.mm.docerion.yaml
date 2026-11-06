@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_coordinator.mm.
+type: source
+title: Unit conversion coordinator implementation
+summary: Implements the coordinator by wiring the mediator and view controller, reporting metrics on stop, and presenting a popover on iPad or half sheet on iPhone.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the update query params delegate
+// summary: Verifies that generated update query params contain the expected OS, architecture, product, channel, version, and language values.
+// ---
+
 #include "ios/chrome/browser/update_client/model/ios_chrome_update_query_params_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit type cell interface
+// summary: Declares the table cell that displays a unit such as meters or pounds and hosts the button that triggers the unit selection menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_TYPE_CELL_H_
 #define IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_TYPE_CELL_H_
 

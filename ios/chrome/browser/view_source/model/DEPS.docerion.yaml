@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for view source model
+summary: Declares the allowed dependency include rules for the view source model directory.

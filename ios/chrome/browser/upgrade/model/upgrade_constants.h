@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upgrade constants header
+// summary: Declares the upgrade center failure reason enum and the preference and user defaults keys used by the iOS upgrade flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UPGRADE_MODEL_UPGRADE_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_UPGRADE_MODEL_UPGRADE_CONSTANTS_H_
 

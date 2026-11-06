@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text-to-speech notification handler interface
+// summary: Declares a helper object that listens for text-to-speech notifications and manages the TTS player.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_UI_BUNDLED_TEXT_TO_SPEECH_NOTIFICATION_HANDLER_H_
 #define IOS_CHROME_BROWSER_VOICE_UI_BUNDLED_TEXT_TO_SPEECH_NOTIFICATION_HANDLER_H_
 

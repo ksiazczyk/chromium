@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for url loading model dependencies
+summary: Specifies allowed header include rules and per-file exceptions for the url loading model directory.

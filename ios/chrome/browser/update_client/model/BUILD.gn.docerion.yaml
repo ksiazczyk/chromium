@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the update client model
+summary: Defines the model source_set with the delegate sources and a testonly unit_tests source_set, listing their dependencies.

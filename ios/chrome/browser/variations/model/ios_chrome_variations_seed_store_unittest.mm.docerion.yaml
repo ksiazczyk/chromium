@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_variations_seed_store_unittest.mm.
+type: test
+title: IOSChromeVariationsSeedStore unit tests
+summary: Unit tests for the iOS Chrome variations seed store, covering seed validation and its integration with the core variations service.

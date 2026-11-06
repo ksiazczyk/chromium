@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechInputLocale struct for voice search
+// summary: Defines a struct describing a valid speech input locale with a canonical code and display name.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the voice search model directory
+summary: Defines GN source sets and dependencies for the voice search model, prefs, text-to-speech, and unit test code.

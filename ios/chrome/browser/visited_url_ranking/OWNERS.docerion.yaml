@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Visited URL ranking OWNERS
+summary: Defines code owners for the iOS visited URL ranking directory by including the shared components OWNERS file and listing olivierrobin@chromium.org.

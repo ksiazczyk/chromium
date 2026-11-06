@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion mediator interface
+// summary: Declares the UnitConversionMediator class that handles unit conversion operations, with a consumer property, metrics reporting, and shutdown methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechInputLocaleMatch interface
+// summary: Declares an object mapping unsupported locale codes to supported locales and a loader for the matches plist.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_MATCH_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_MATCH_H_
 

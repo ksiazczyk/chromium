@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_player_unittest.mm.
+type: test
+title: TextToSpeechPlayer unit tests
+summary: Unit tests verifying TextToSpeechPlayer notification posting and playback readiness state for prepared audio data.

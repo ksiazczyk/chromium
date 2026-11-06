@@ -1,0 +1,4 @@
+# Docerion header of variations_app_interface.mm.
+type: test
+title: VariationsAppInterface implementation
+summary: Implements the variations test app interface, manipulating seed stores and local state prefs for Earl Grey test scenarios.

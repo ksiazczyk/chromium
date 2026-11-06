@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for universal opt-out model
+summary: Defines GN source sets and dependencies for the universal opt-out model, constants, eligibility utils and their unit tests.

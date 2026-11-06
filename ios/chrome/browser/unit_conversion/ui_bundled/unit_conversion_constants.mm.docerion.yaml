@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_constants.mm.
+type: source
+title: Unit conversion UI constants definitions
+summary: Defines the accessibility identifier strings and histogram name constants declared for the unit conversion UI.

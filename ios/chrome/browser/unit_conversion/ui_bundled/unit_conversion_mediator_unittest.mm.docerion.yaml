@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_mediator_unittest.mm.
+type: test
+title: Unit conversion mediator unit tests
+summary: Tests the mediator's unit conversions, consumer updates, and metrics recording using OCMock and a test unit conversion provider helper.

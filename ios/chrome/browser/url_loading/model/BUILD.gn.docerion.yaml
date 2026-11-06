@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the url loading model
+summary: Defines source sets, dependencies, and test targets for the url loading model directory.

@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_playback_controller.mm.
+type: source
+title: Text-to-speech playback controller implementation
+summary: Implements the playback controller, cancelling TTS playback on navigation, web state changes, and shutdown.

@@ -1,0 +1,4 @@
+# Docerion header of upgrade_constants.mm.
+type: source
+title: Upgrade constants implementation
+summary: Defines the string values of the upgrade preference and user defaults keys declared in upgrade_constants.h.

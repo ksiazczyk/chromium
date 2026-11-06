@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image search parameter generator interface
+// summary: Declares helpers to resize and encode images and build web load parameters for image search.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_IMAGE_SEARCH_PARAM_GENERATOR_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_IMAGE_SEARCH_PARAM_GENERATOR_H_
 

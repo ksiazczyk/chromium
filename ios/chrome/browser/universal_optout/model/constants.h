@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal opt-out Help Center URL constant
+// summary: Declares the constant URL pointing to the Google Help Center article explaining the Universal Opt-Out feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIVERSAL_OPTOUT_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_UNIVERSAL_OPTOUT_MODEL_CONSTANTS_H_
 

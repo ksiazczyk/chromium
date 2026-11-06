@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice search URL rewriter declaration
+// summary: Declares a URL rewriter function that adds voice search flags to Google search URLs during voice search.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_URL_REWRITER_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_URL_REWRITER_H_
 

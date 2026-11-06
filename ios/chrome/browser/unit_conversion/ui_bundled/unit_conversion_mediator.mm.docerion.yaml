@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_mediator.mm.
+type: source
+title: Unit conversion mediator implementation
+summary: Implements the mediator that tracks unit type, source and target unit changes, updates the consumer, and records histograms and user action metrics.

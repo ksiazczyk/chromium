@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_listener.mm.
+type: source
+title: TextToSpeechListener implementation
+summary: Implements TextToSpeechListener by observing WebState page loads and extracting voice search audio data through the TTS parser.

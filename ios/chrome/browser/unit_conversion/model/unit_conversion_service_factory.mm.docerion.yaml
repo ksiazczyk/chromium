@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_service_factory.mm.
+type: source
+title: UnitConversionServiceFactory implementation
+summary: Creates UnitConversionService instances per profile, keeping an own instance in incognito.

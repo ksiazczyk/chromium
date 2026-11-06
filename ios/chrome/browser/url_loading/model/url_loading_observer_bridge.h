@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loading observer Objective-C bridge
+// summary: Declares the URLLoadingObserving protocol and a C++ bridge class that forwards URL loading events to Objective-C listeners.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_OBSERVER_BRIDGE_H_
 

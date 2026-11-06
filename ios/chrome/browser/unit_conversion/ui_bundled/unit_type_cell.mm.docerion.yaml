@@ -1,0 +1,4 @@
+# Docerion header of unit_type_cell.mm.
+type: source
+title: Unit type cell implementation
+summary: Implements the unit type cell layout, configuring the unit menu button with a chevron symbol and constraint-based sizing.

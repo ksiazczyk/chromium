@@ -1,0 +1,4 @@
+# Docerion header of variations_safe_mode_end_to_end_egtest.mm.
+type: test
+title: Variations safe mode end-to-end tests
+summary: End-to-end Earl Grey tests covering safe seed installation and crash streak handling across app relaunches on the Canary channel.

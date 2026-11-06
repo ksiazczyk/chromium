@@ -1,0 +1,4 @@
+# Docerion header of voice_search_url_rewriter.mm.
+type: source
+title: Voice search URL rewriter implementation
+summary: Rewrites Google search URLs by appending the voice search locale as hl and spknlang parameters plus voice search markers.

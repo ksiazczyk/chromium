@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlLoadParams structure
+// summary: Declares UrlLoadParams and UrlLoadStrategy, describing how URLs are opened, including disposition, incognito, insertion position, and origin options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_PARAMS_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_PARAMS_H_
 

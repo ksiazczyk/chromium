@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for view source model
+summary: Defines the model source_set listing the view source browser agent sources, dependencies and frameworks.

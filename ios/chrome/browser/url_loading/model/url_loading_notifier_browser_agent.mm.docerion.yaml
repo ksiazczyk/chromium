@@ -1,0 +1,4 @@
+# Docerion header of url_loading_notifier_browser_agent.mm.
+type: source
+title: UrlLoadingNotifierBrowserAgent implementation
+summary: Implements the notifier browser agent, forwarding URL loading events such as loads, failures, prerenders, and tab switches to observers.

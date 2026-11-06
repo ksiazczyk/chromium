@@ -1,0 +1,4 @@
+# Docerion header of new_tab_animation_tab_helper.mm.
+type: source
+title: New tab animation tab helper implementation
+summary: Implements the tab helper that tracks and reports whether the new tab insertion animation is disabled for a WebState.

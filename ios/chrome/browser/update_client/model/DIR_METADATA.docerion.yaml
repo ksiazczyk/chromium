@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the update client model
+summary: DIR_METADATA file that documents the directory metadata schema and applies the components/update_client COMMON_METADATA mixin.

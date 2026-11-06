@@ -1,0 +1,4 @@
+# Docerion header of url_loading_observer.mm.
+type: source
+title: UrlLoadingObserver implementation
+summary: Implements base UrlLoadingObserver methods, including a destructor check that the observer was removed from observer lists.

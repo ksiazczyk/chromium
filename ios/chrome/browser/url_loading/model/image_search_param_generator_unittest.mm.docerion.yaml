@@ -1,0 +1,4 @@
+# Docerion header of image_search_param_generator_unittest.mm.
+type: test
+title: Image search parameter generator unit tests
+summary: Unit tests verifying load parameter generation for image search, including nil image handling.

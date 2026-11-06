@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_player.mm.
+type: source
+title: Text-to-speech player implementation
+summary: Implements TTS audio playback via AVAudioPlayer, handling interruptions, decode errors, and stop notifications.

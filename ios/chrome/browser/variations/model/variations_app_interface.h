@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VariationsAppInterface test app interface
+// summary: Declares helper methods for variations Earl Grey tests to clear prefs, set test or crashing seeds, and read crash and fetch streaks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VARIATIONS_MODEL_VARIATIONS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_VARIATIONS_MODEL_VARIATIONS_APP_INTERFACE_H_
 
