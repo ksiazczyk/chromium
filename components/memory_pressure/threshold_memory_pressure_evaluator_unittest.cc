@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Threshold memory pressure evaluator unit tests
+// summary: Unit tests verifying pressure level calculation across moderate and critical thresholds, including Windows commit histograms and feature parameters.
+// ---
+
 #include "components/memory_pressure/threshold_memory_pressure_evaluator.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast authentication utility implementation
+// summary: Implements verification of Cast device auth challenge replies, including certificate validation, CRL handling, and nonce checks.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_auth_util.h"
 
 #include <vector>

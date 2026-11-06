@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router Mojom traits implementation
+// summary: Implements Mojo struct and union traits that convert between Mojom wire types and native media router C++ types such as IssueInfo and MediaSinkInternal.
+// ---
+
 #include "components/media_router/common/mojom/media_router_mojom_traits.h"
 
 #include "components/media_router/common/media_source.h"

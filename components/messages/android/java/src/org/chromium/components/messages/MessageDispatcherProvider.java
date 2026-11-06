@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageDispatcherProvider for window-bound dispatchers
+// summary: Associates a MessageDispatcher with a WindowAndroid through unowned user data and retrieves the dispatcher for callers, returning null when unavailable.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.base.UnownedUserDataKey;

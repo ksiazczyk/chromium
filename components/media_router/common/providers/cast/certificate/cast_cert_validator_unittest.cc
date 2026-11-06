@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Cast certificate verification
+// summary: Unit tests that verify Cast device certificate chains under different trust store configurations, checking expected results, common names, policies, and signature contexts.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_cert_validator.h"
 
 #include <memory>

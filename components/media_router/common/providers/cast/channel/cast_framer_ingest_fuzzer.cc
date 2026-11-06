@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz test for MessageFramer ingest
+// summary: LibFuzzer entry point that feeds arbitrary byte spans through MessageFramer::Ingest to find parsing crashes in cast message framing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast channel metrics recording implementation
+// summary: Records UMA histograms for cast certificate, nonce, and signature verification results and for channel flags set on launch sessions.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_channel_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

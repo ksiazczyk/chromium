@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeepAliveDelegate unit tests
+// summary: Unit tests for KeepAliveDelegate that verify ping and liveness timer behavior and error handling using mock timers and mock transport delegates.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/keep_alive_delegate.h"
 
 #include <stdint.h>

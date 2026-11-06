@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSource implementation
+// summary: Implements MediaSource and helpers for presentation URL validation, Cast and DIAL source URNs, and DIAL app URL construction.
+// ---
+
 #include "components/media_router/common/media_source.h"
 
 #include <algorithm>

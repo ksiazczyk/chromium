@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threshold memory pressure evaluator implementation
+// summary: Implements the threshold-based evaluator, including Windows commit-based pressure detection with configurable moderate and critical thresholds.
+// ---
+
 #include "components/memory_pressure/threshold_memory_pressure_evaluator.h"
 
 #include <utility>

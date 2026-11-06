@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the unnecessary discard monitor
+// summary: Unit tests verifying that the monitor reports reclaim target age and unnecessary discard counts through histograms in various overlapping discard scenarios.
+// ---
+
 #include "components/memory_pressure/unnecessary_discard_monitor.h"
 
 #include <memory>

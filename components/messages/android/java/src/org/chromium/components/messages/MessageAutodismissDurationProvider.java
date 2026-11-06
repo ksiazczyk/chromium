@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageAutodismissDurationProvider interface
+// summary: Interface that supplies the autodismiss duration for a message based on a custom duration and whether accessibility mode is on.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.build.annotations.NullMarked;

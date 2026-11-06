@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast channel GN build rules
+summary: Defines build targets, sources, dependencies, test support, and fuzzer targets for the cast channel component.

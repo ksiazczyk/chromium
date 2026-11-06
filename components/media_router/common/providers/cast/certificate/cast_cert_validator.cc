@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device certificate validator implementation
+// summary: Implements verification of Cast device certificates, including path building against the Cast trust store, CRL revocation checks, signature verification, and audio-only policy handling.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_cert_validator.h"
 
 #include <stddef.h>

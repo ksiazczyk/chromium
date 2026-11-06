@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast CRL parsing and verification implementation
+// summary: Implements parsing and verification of Cast certificate revocation list bundles, including the CRL trust store singleton and fallback CRL validity handling.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_crl.h"
 
 #include <memory>

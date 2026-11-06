@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Message UI dimension resources
+summary: Defines Android dimension values (dp) for the messages component, covering banner elevation, icon and button sizes, menu widths, and hide thresholds.
+-->
+
 <resources>
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <!-- For messages below the front messages, used in stacking animation. -->

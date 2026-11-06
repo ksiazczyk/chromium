@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MessageWrapper
+// summary: Robolectric unit test verifying that message properties set on MessageWrapper are correctly propagated to the underlying PropertyModel.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.mockito.Mockito.never;

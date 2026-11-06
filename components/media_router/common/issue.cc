@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issue class implementation
+// summary: Implements IssueInfo and Issue, generating unique IDs and providing factory methods for permission-rejected and info-based issues.
+// ---
+
 #include "components/media_router/common/issue.h"
 
 #include "base/atomic_sequence_num.h"

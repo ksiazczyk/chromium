@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageContainerTest Robolectric tests
+// summary: Robolectric tests verifying that MessageContainer notifies its accessibility delegate of focus, focus-cleared and multiple-child-view events.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.junit.Assert.assertNotEquals;

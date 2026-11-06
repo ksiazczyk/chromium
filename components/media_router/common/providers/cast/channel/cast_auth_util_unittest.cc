@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast authentication unit tests
+// summary: Unit tests for challenge reply authentication covering signatures, certificate chains, digest algorithms, CRLs, and nonces.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_auth_util.h"
 
 #include <string>

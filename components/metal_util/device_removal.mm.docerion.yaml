@@ -1,0 +1,4 @@
+# Docerion header of device_removal.mm.
+type: source
+title: Implementation of graceful exit on Metal device removal
+summary: Registers a Metal device observer that terminates the process with exit code zero on device removal so the browser relaunches the GPU process without counting a crash.

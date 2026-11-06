@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast certificate command-line switches
+// summary: Defines command-line switch constants enabling a Cast developer certificate path and VLOG logging of the device certificate chain.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/switches.h"
 
 namespace cast_certificate {

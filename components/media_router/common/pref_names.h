@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Router preference name declarations
+// summary: Declares extern constants naming Media Router local state and profile preferences.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PREF_NAMES_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PREF_NAMES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast certificate chain PEM printer implementation
+// summary: Encodes a DER-encoded Cast device certificate chain as a PEM string for printing and inspection.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_cert_printer.h"
 
 #include <string>

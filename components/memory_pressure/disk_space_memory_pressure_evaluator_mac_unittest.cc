@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac disk space pressure evaluator unit tests
+// summary: Verifies conversion of simulated disk space readings into pressure votes, covering ample, critical, and recovered space.
+// ---
+
 #include "components/memory_pressure/disk_space_memory_pressure_evaluator_mac.h"
 
 #include <memory>

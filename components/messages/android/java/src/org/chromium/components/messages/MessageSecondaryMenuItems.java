@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message secondary menu items manager
+// summary: Manages the secondary menu of a message by building a list menu with items, dividers, and accessibility descriptions on behalf of MessageWrapper.
+// ---
+
 package org.chromium.components.messages;
 
 import android.content.Context;

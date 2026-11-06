@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast certificate test helpers implementation
+// summary: Provides test utilities that locate Cast certificate test data, load test certificates, and scope CastTrustStore modifications.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_cert_test_helpers.h"
 
 #include <string_view>

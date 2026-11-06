@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics recording for messages
+// summary: Static utility methods recording Android.Messages histograms for message enqueueing, visibility, dismissal reasons, and time-to-action durations.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.base.TimeUtils;

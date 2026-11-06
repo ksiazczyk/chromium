@@ -18,6 +18,12 @@
 // https://chromium-coverage.appspot.com/reports/763373_fuzzers_only/linux/chromium/src/components/media_router/common/providers/cast/channel/report.html
 // for fuzz test coverage.
 
+// ---docerion
+// type: source
+// title: Fuzz test input protobuf definitions for Cast channel
+// summary: Defines protobuf messages that describe structured inputs for fuzz tests of Cast channel authentication and message utility functions in the Chromium media router.
+// ---
+
 syntax = "proto2";
 
 import "cast_channel.proto";

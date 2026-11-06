@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageBannerMediator
+// summary: Mediator implementing the message banner business logic, including swipe gestures, enter and exit animations, and tap protection.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.chromium.components.browser_ui.widget.gesture.SwipeGestureListener.ScrollDirection.DOWN;

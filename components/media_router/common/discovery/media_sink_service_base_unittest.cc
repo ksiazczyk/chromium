@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSinkServiceBase unit tests
+// summary: Unit tests for MediaSinkServiceBase verifying discovery completion behavior when the sink list is unchanged, reordered, or gains new sinks.
+// ---
+
 #include "components/media_router/common/discovery/media_sink_service_base.h"
 
 #include "base/memory/ptr_util.h"

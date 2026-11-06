@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java side of the native MessageWrapper
+// summary: Wraps a message for native features, exposing banner properties such as title, description, buttons, and icons over JNI to the native MessageWrapper.
+// ---
+
 package org.chromium.components.messages;
 
 import android.content.Context;

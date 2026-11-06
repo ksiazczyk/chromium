@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory system feature flag declarations
+// summary: Declares the memory system feature flags and the AllocationEtwTracingProcesses enum that selects which processes install the ETW allocation observer.
+// ---
+
 #ifndef COMPONENTS_MEMORY_SYSTEM_MEMORY_SYSTEM_FEATURES_H_
 #define COMPONENTS_MEMORY_SYSTEM_MEMORY_SYSTEM_FEATURES_H_
 

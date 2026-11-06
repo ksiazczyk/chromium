@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageBannerViewBinder
+// summary: View binder that applies message banner property model changes to the MessageBannerView UI.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.chromium.components.messages.MessageBannerProperties.CLOSE_BUTTON_CLICK_LISTENER;

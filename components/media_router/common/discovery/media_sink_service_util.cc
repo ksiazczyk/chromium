@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media sink service callback utilities
+// summary: Implements helpers that post sink discovery and available sink update callbacks onto a given sequenced task runner.
+// ---
+
 #include "components/media_router/common/discovery/media_sink_service_util.h"
 
 #include "base/functional/bind.h"

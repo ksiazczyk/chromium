@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker metadata for metal_util
+summary: Maps the directory to the Internals>Compositing component, the graphics-dev team email, and a Buganizer component ID.

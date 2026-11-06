@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Android manifest for the media router test support APK
+summary: Declares permissions and the exported test media route provider service used by the media router cast emulator test support APK.
+-->
+
   <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:tools="http://schemas.android.com/tools"
       package="org.chromium.components.media_router.test_support">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSinkInternal unit tests
+// summary: Unit tests for MediaSinkInternal covering sink ID validation, construction, assignment, and setting DIAL and Cast extra data.
+// ---
+
 #include "components/media_router/common/discovery/media_sink_internal.h"
 
 #include "components/media_router/common/test/test_helper.h"

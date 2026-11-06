@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast message utility implementation
+// summary: Implements helpers for creating and parsing Cast protocol messages, including enum tables that map Cast message types to their wire-format strings.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_message_util.h"
 
 #include <memory>

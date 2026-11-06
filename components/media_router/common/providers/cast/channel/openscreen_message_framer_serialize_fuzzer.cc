@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto fuzzer for Open Screen cast message serialization
+// summary: libFuzzer proto harness that serializes fuzzed CastMessage protos through the Open Screen cast message serialization path.
+// ---
+
 #include <cstdlib>
 #include <iostream>
 #include <string>

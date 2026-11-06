@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast socket service implementation
+// summary: Implements the CastSocketService singleton that creates, tracks, and closes Cast sockets by channel ID or IP endpoint on the IO thread.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_socket_service.h"
 
 #include <algorithm>

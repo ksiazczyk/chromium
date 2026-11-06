@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message queue delegate interface
+// summary: Interface with callbacks the message queue uses to prepare showing and hiding of messages and to report readiness, animation, and lifecycle state.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.build.annotations.NullMarked;

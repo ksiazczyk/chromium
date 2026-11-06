@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast message handler unit tests
+// summary: Unit tests for CastMessageHandler covering message parsing, app availability, session launch and stop, and error handling using mock sockets and task environments.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_message_handler.h"
 
 #include <string>

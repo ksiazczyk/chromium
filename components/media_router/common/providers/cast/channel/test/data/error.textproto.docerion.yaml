@@ -1,0 +1,4 @@
+# Docerion header of error.textproto.
+type: test
+title: Cast authentication error case test fixture
+summary: Text-format protobuf fixture describing an invalid cast authentication challenge reply with an INTERNAL_ERROR auth message and failing validation flags for channel tests.

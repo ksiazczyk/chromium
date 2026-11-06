@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveHandler class declaration
+// summary: Declares the KeepAliveHandler class, which manages ping and liveness timers for a CastSocket and intercepts heartbeat PING and PONG messages.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_KEEP_ALIVE_HANDLER_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_KEEP_ALIVE_HANDLER_H_
 

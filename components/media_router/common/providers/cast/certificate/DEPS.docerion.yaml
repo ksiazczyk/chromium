@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast certificate include rules (DEPS)
+summary: Grants the Cast certificate directory access to crypto, net, BoringSSL, and openscreen Cast certificate dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageFeatureList feature name constants
+// summary: Lists Messages feature names exposed from native code and offers helper methods to check whether each feature is enabled via MessageFeatureMap.
+// ---
+
 package org.chromium.components.messages;
 
 import org.chromium.build.annotations.NullMarked;

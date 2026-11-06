@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MessageDispatcherBridge
+// summary: Tests that calling Initialize makes the bridge report messages as enabled for the embedder.
+// ---
+
 #include "components/messages/android/message_dispatcher_bridge.h"
 
 #include "base/functional/bind.h"

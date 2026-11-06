@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagesTestHelper
+// summary: Helper class providing utility methods for tests that use messages, including attaching and resetting a test-only message dispatcher and querying enqueued messages.
+// ---
+
 package org.chromium.components.messages;
 
 import org.jni_zero.CalledByNative;

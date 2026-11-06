@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for providers
+summary: Defines include rules for the providers directory, granting access to headers from the net component.

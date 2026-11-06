@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast socket unit tests
+// summary: Unit tests for CastSocket covering connection setup, device auth challenge and reply handling, and message exchange over TLS channels.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_socket.h"
 
 #include <stdint.h>

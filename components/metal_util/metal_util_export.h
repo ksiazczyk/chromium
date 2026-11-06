@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metal util export macro header
+// summary: Defines the METAL_UTIL_EXPORT macro for dllexport, dllimport, or default visibility depending on component build and platform settings.
+// ---
+
 #ifndef COMPONENTS_METAL_UTIL_METAL_UTIL_EXPORT_H_
 #define COMPONENTS_METAL_UTIL_METAL_UTIL_EXPORT_H_
 

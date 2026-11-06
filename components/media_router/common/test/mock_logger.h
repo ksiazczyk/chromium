@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockLogger gmock class for the media router Logger interface
+// summary: Defines a gmock implementation of the media_router::mojom::Logger interface with mocked LogInfo, LogWarning, LogError and BindReceiver methods.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_TEST_MOCK_LOGGER_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_TEST_MOCK_LOGGER_H_
 

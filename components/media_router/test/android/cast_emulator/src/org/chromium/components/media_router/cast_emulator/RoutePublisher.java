@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RoutePublisher interface for the cast emulator
+// summary: Interface for publishing media routes (sinks) and creating route controllers for a given control category, discovery request, or route id in the cast emulator.
+// ---
+
 package org.chromium.components.media_router.cast_emulator;
 
 import androidx.mediarouter.media.MediaRouteProvider;

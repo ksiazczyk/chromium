@@ -1,0 +1,4 @@
+# Docerion header of media_status.mojom.
+type: source
+title: MediaStatus Mojom definitions
+summary: Defines the MediaStatus struct and MediaStatusObserver interface describing media playback state, including title, play state, volume, duration, and images.

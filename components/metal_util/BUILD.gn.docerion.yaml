@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the metal_util component
+summary: Defines the metal_util GN component target with its sources, dependencies, and Apple frameworks, adding device removal sources on macOS.

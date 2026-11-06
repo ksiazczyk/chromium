@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkInternal class declaration
+// summary: Declares MediaSinkInternal, which wraps a media sink with DIAL or Cast specific extra data, plus related structs and the Cast discovery type enum.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_DISCOVERY_MEDIA_SINK_INTERNAL_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_DISCOVERY_MEDIA_SINK_INTERNAL_H_
 

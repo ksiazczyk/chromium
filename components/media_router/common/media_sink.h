@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSink class declaration
+// summary: Declares the MediaSink class and SinkIconType enum, representing a routable sink with an ID, name, icon type, and media route provider ID.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_MEDIA_SINK_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_MEDIA_SINK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemorySystem class header
+// summary: Declares the MemorySystem class that initializes memory components such as GWP-ASan, the profiling client and the allocator dispatcher from optional parameter sets.
+// ---
+
 #ifndef COMPONENTS_MEMORY_SYSTEM_MEMORY_SYSTEM_H_
 #define COMPONENTS_MEMORY_SYSTEM_MEMORY_SYSTEM_H_
 

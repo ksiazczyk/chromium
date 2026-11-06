@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for messages Android test support
+summary: Defines GN targets for the messages Android test support, including generated JNI headers, a Java test support library, and a C++ static library with the test helper.

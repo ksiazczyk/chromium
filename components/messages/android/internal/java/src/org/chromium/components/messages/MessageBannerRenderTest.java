@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageBannerRenderTest
+// summary: Render tests that compare the message banner's visual output against reference images, including night mode variants.
+// ---
+
 package org.chromium.components.messages;
 
 import static android.view.View.VISIBLE;

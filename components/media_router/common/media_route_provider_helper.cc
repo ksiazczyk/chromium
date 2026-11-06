@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media route provider ID helper implementation
+// summary: Implements conversions between mojom::MediaRouteProviderId values and string names such as CAST, DIAL, and WIRED_DISPLAY.
+// ---
+
 #include "components/media_router/common/media_route_provider_helper.h"
 
 #include <ostream>

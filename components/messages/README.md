@@ -1,3 +1,13 @@
+---
+type: readme
+title: Messages UI
+summary: Developer guide for building message UI features on Android, covering message declaration, model building, enqueueing, dismissal, ownership, and built-in metrics.
+relations:
+  - references /components/messages/android/message_enums.h
+  - references /tools/metrics/histograms/metadata/android/enums.xml
+  - references /tools/metrics/histograms/metadata/android/histograms.xml
+---
+
 # Messages UI
 
 Message UI is an alternative to InfoBar UI on Android. It provides a set of APIs

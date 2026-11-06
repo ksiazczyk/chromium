@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast transport interface
+// summary: Declares the CastTransport interface and CastTransportImpl, a manager for reading and writing Cast messages over a socket with delegate callbacks.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_TRANSPORT_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_TRANSPORT_H_
 

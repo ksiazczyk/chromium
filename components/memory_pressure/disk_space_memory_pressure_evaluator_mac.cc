@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disk space pressure evaluator implementation
+// summary: Periodically checks free disk space on the home volume and votes critical memory pressure when it falls below 250 MiB.
+// ---
+
 #include "components/memory_pressure/disk_space_memory_pressure_evaluator_mac.h"
 
 #include <utility>

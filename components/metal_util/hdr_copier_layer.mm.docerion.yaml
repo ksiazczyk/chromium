@@ -1,0 +1,4 @@
+# Docerion header of hdr_copier_layer.mm.
+type: source
+title: HDR copier layer implementation with Metal tonemapping shaders
+summary: Implements an HDR copier layer for macOS that renders HLG and PQ video content through Metal shaders, including tonemapping transfer functions copied from gfx::ColorTransform.

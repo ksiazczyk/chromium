@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Android messages component
+summary: Defines android_library and robolectric test targets for the messages component, listing Java sources, resources, and dependencies.

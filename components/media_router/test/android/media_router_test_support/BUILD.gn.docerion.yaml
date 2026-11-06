@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the media router test support APK
+summary: Defines the android_apk target that packages the cast emulator Java code into the MediaRouterTestSupportApk with the Android manifest.

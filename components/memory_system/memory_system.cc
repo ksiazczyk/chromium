@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the memory system
+// summary: Initializes subsystems such as GWP-ASan, the heap profiler, the allocator dispatcher and the allocation trace recorder behind buildflags.
+// ---
+
 #include "components/memory_system/memory_system.h"
 
 #include "base/allocator/dispatcher/dispatcher.h"

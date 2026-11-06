@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared fuzzer input setup header
+// summary: Declares the helper that adjusts fuzzed authentication inputs before they are passed to the auth code under test.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_AUTH_UTIL_FUZZER_SHARED_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_AUTH_UTIL_FUZZER_SHARED_H_
 

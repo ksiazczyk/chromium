@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Memory system GN build definition
+summary: Defines the memory_system source set with its sources and conditional dependencies for GWP-ASan, heap profiling and the allocation recorder.

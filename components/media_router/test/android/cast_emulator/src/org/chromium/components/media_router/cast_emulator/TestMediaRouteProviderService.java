@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMediaRouteProviderService
+// summary: Service that registers the TestMediaRouteProvider with the Android media router support library for use in cast emulator tests.
+// ---
+
 package org.chromium.components.media_router.cast_emulator;
 
 import androidx.mediarouter.media.MediaRouteProvider;

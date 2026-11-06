@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Cast CRL verification
+// summary: Runs device certificate and CRL test cases from protobuf test suites, checking chain verification, CRL parsing, and revocation outcomes.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_crl.h"
 
 #include "base/files/file_util.h"

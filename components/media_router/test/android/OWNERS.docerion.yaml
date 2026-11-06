@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media router Android test OWNERS
+summary: OWNERS file that delegates code ownership for the media router Android test directory to the owners of components/media_router/browser/android.

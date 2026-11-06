@@ -1,0 +1,4 @@
+# Docerion header of media_router_traits_test_service.mojom.
+type: test
+title: Media Router traits test service Mojom interface
+summary: Mojom interface whose echo methods support testing of StructTraits serialization and deserialization for media router types such as MediaSink.

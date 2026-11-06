@@ -1,0 +1,4 @@
+# Docerion header of good.textproto.
+type: test
+title: Cast authentication valid reply test fixture
+summary: Text-format protobuf fixture describing a valid cast authentication challenge reply with passing validation flags, a signed response, and CRL revocation data for channel tests.

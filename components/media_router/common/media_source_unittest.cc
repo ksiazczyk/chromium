@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSource unit tests
+// summary: Unit tests covering presentation URL validation, legacy Cast URLs, auto-join IDs, and MediaSource constructors and factory methods.
+// ---
+
 #include "components/media_router/common/media_source.h"
 
 #include <string>

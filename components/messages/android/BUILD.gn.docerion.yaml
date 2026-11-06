@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Android messages component
+summary: Defines Java and C++ library targets, JNI header generation, resources, test support and unit tests for the messages component on Android.

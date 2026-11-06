@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast channel Logger implementation
+// summary: Implements the Logger that records the most recent socket events, authentication challenge reply errors, and net return values for each Cast channel.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/logger.h"
 
 #include <stdint.h>

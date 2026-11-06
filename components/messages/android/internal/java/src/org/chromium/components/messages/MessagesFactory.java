@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagesFactory factory for message components
+// summary: Factory that creates ManagedMessageDispatcher instances and attaches or detaches them as UnownedUserData on WindowAndroid.
+// ---
+
 package org.chromium.components.messages;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast certificate reader implementation
+// summary: Reads PEM certificate chains from files or strings and populates a BoringSSL in-memory trust store with them.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/cast_cert_reader.h"
 
 #include "base/files/file_util.h"

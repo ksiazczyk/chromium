@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast message handler implementation
+// summary: Implements CastMessageHandler, which sends Cast protocol messages and manages pending requests for app availability, session launch, stop, and volume over cast channels.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_message_handler.h"
 
 #include <algorithm>

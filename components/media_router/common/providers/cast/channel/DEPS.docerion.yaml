@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast channel include dependency rules
+summary: Specifies the allowed include paths for the cast channel directory, with extra rules for unit tests and fuzzers.

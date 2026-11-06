@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetParsedCertificate implementation
+// summary: Implements the openscreen Cast ParsedCertificate interface over BoringSSL parsed certificates, exposing DER serialization, validity times, common name and SPKI.
+// ---
+
 #include "components/media_router/common/providers/cast/certificate/net_parsed_certificate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the allocation trace recorder statistics reporter
+// summary: Declares a class that periodically fetches and prints AllocationTraceRecorder statistics for a given process type, interval and log severity.
+// ---
+
 #ifndef COMPONENTS_MEMORY_SYSTEM_ALLOCATION_TRACE_RECORDER_STATISTICS_REPORTER_H_
 #define COMPONENTS_MEMORY_SYSTEM_ALLOCATION_TRACE_RECORDER_STATISTICS_REPORTER_H_
 

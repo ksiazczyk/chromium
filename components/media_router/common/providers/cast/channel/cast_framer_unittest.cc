@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the cast message framer
+// summary: Unit tests covering MessageFramer serialization, message ingestion, oversized messages, and terminal error states for invalid input.
+// ---
+
 #include "components/media_router/common/providers/cast/channel/cast_framer.h"
 
 #include <stddef.h>

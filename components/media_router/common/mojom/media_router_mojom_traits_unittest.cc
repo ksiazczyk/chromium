@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router Mojom struct traits unit tests
+// summary: Unit tests that verify Mojo StructTraits serialization and deserialization of MediaSinkInternal for DIAL, Cast, and generic media sinks via an echo test service.
+// ---
+
 #include "components/media_router/common/mojom/media_router_mojom_traits.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-source memory pressure monitor implementation
+// summary: Implements MultiSourceMemoryPressureMonitor, creating platform evaluators, aggregating votes, emitting trace events, and dispatching memory pressure notifications.
+// ---
+
 #include "components/memory_pressure/multi_source_memory_pressure_monitor.h"
 
 #include "base/check_op.h"

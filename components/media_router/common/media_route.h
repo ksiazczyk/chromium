@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRoute class declaration
+// summary: Declares the MediaRoute class holding the status and metadata of a media route used to transmit and manage media on another device.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_MEDIA_ROUTE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_MEDIA_ROUTE_H_
 

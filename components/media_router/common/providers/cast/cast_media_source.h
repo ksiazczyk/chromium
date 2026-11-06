@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media source class declaration
+// summary: Declares the CastMediaSource class, CastAppInfo, auto-join and default action policies, and helpers for checking auto-join and site-initiated mirroring sources.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CAST_MEDIA_SOURCE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CAST_MEDIA_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageAnimationCoordinatorUnitTest
+// summary: Robolectric unit tests verifying the stacking and animation behavior of MessageAnimationCoordinator.
+// ---
+
 package org.chromium.components.messages;
 
 import static org.mockito.ArgumentMatchers.any;

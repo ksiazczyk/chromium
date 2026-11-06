@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threshold memory pressure evaluator class declaration
+// summary: Declares a memory pressure evaluator that checks available physical memory against moderate and critical thresholds, with Windows default factories.
+// ---
+
 #ifndef COMPONENTS_MEMORY_PRESSURE_THRESHOLD_MEMORY_PRESSURE_EVALUATOR_H_
 #define COMPONENTS_MEMORY_PRESSURE_THRESHOLD_MEMORY_PRESSURE_EVALUATOR_H_
 

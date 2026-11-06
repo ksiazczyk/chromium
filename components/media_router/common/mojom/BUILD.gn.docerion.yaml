@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Router Mojom build targets
+summary: GN build file defining the Mojom interface targets, their sources, dependencies, and typemaps for the media router component.

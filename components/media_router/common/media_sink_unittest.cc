@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSink unit tests
+// summary: Unit tests verifying MediaSink equality across differing sink IDs, names, and icon types.
+// ---
+
 #include "components/media_router/common/media_sink.h"
 
 #include "components/media_router/common/mojom/media_route_provider_id.mojom.h"

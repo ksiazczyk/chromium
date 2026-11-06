@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast socket service interface
+// summary: Declares CastSocketService and CastSocketServiceImpl, which manage, open, close, and look up Cast sockets and expose test hooks.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_SOCKET_SERVICE_H_
 #define COMPONENTS_MEDIA_ROUTER_COMMON_PROVIDERS_CAST_CHANNEL_CAST_SOCKET_SERVICE_H_
 

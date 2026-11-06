@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Discovery directory DEPS include rules
+summary: Defines include rules for the discovery directory, permitting dependencies on the net package.

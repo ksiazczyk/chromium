@@ -1,0 +1,4 @@
+# Docerion header of fuzz.dict.
+type: data
+title: Fuzzing dictionary for Cast channel messages
+summary: Fuzzer dictionary listing Cast channel enum values, namespaces, and JSON message fields used as seed tokens when fuzzing the cast channel code.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media router Mojom
+summary: DEPS file restricting allowed include directories such as mojo/public, net, and services/network/public for this directory.

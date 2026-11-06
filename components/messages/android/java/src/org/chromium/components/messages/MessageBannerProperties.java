@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageBannerProperties property keys for message banners
+// summary: Defines the PropertyModel keys describing message banner appearance and behaviour, including title, description, icon, widget appearance and action callbacks.
+// ---
+
 package org.chromium.components.messages;
 
 import android.graphics.Color;

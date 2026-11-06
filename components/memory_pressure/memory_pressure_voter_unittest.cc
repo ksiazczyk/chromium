@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory pressure voter unit tests
+// summary: Unit tests for MemoryPressureVoteAggregator and voters, checking vote evaluation, vote changes, and listener notification behavior.
+// ---
+
 #include "components/memory_pressure/memory_pressure_voter.h"
 
 #include <optional>

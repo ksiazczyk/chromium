@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messages feature flags for Android
+// summary: Declares base::Feature flags for the Android messages component, covering visibility callbacks, extra histograms, a hover close button, and dismissing navigation messages on page change.
+// ---
+
 #ifndef COMPONENTS_MESSAGES_ANDROID_MESSAGES_FEATURE_H_
 #define COMPONENTS_MESSAGES_ANDROID_MESSAGES_FEATURE_H_
 

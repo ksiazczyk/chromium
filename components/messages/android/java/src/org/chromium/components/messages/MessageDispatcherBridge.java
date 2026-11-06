@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageDispatcherBridge JNI bridge to native message code
+// summary: JNI entry points that let C++ feature code enqueue and dismiss messages via the Java MessageDispatcher, reporting failure when no dispatcher is available.
+// ---
+
 package org.chromium.components.messages;
 
 import org.jni_zero.CalledByNative;

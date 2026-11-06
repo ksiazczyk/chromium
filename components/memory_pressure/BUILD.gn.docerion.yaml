@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Memory pressure component build definition
+summary: GN build file defining the memory_pressure source set and its unit tests, with platform-specific sources for Apple and Fuchsia.

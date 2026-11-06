@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cast certificate bug tracking metadata (DIR_METADATA)
+summary: Declares the Monorail and Buganizer components used to file bugs for the Cast certificate provider code.

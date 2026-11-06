@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DummyRoutePublisher for Cast emulator tests
+// summary: Publishes dummy media sinks to the Android media route provider so they can be discovered in the device selection dialog during media router tests.
+// ---
+
 package org.chromium.components.media_router.cast_emulator.router;
 
 import android.content.IntentFilter;

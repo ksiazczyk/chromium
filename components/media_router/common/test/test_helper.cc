@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media router test helper implementation
+// summary: Implements factory functions for Cast, DIAL and wired display MediaSink objects plus a TestMediaSinkService using a mock one-shot timer.
+// ---
+
 #include "components/media_router/common/test/test_helper.h"
 
 #include "base/functional/callback_helpers.h"

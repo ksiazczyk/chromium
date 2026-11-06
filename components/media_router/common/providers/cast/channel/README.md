@@ -1,3 +1,11 @@
+---
+type: readme
+title: How to Run a Fuzz Test
+summary: Step-by-step instructions for building and running the cast channel libFuzzer targets, including corpus and ASan setup.
+relations:
+  - references /tools/mb/mb.py
+---
+
 # How to Run a Fuzz Test
 
 Create an appropriate build config:

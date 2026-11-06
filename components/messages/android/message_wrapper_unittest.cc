@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MessageWrapper
+// summary: Verifies the Java native pointer is cleared on destruction and that ShowLoadingSpinner returns false for a null window.
+// ---
+
 #include "components/messages/android/message_wrapper.h"
 
 #include <memory>

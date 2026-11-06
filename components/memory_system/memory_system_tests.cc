@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MTE mode browser test
+// summary: Browser test verifying that components_browsertests starts in MTE synchronous mode on hardware that supports memory tagging.
+// ---
+
 #include "base/cpu.h"
 #include "partition_alloc/tagging.h"
 #include "testing/gtest/include/gtest/gtest.h"

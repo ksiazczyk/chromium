@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media source implementation
+// summary: Implements CastMediaSource, parsing Cast presentation URLs, HTTP(S) presentation URLs, and mirroring URNs into Cast-specific data, including enum tables for policies and device capabilities.
+// ---
+
 #include "components/media_router/common/providers/cast/cast_media_source.h"
 
 #include <algorithm>

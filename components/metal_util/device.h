@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Metal default device selection
+// summary: Declares metal::GetDefaultDevice, which returns a low-power MTLDevice if one exists, otherwise the system default device.
+// ---
+
 #ifndef COMPONENTS_METAL_UTIL_DEVICE_H_
 #define COMPONENTS_METAL_UTIL_DEVICE_H_
 

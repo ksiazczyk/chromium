@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for media router Mojom files
+summary: Ownership file requiring IPC security owner review for Mojom files and Mojom traits files in this directory.
