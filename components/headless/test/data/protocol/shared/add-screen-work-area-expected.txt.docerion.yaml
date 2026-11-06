@@ -1,0 +1,4 @@
+# Docerion header of add-screen-work-area-expected.txt.
+type: test
+title: Add screen work area test expected output
+summary: Expected output for the CDP Emulation.addScreen protocol test with work area insets, listing screen infos including the available area.

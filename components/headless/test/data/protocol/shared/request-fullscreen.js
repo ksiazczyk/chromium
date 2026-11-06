@@ -5,6 +5,12 @@
 // META: --screen-info={1600x1200}
 // META: --window-size=800,600
 
+// ---docerion
+// type: test
+// title: Element requestFullscreen test
+// summary: Protocol test that enters and exits element fullscreen via user gesture and observes the resulting page resize events through CDP.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const html = `
       <html>

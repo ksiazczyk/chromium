@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600 label=1st}{800,600 800x600 label=2nd}
 
+// ---docerion
+// type: test
+// title: set-primary-screen test script
+// summary: Headless protocol test that changes the primary screen with CDP Emulation.setPrimaryScreen() and logs screen information before and after the change.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.setPrimaryScreen() API.');

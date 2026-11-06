@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emulated touch from mouse screen coordinates protocol test
+// summary: Headless protocol test that enables touch emulation from mouse events and validates the resulting touch screen coordinate offsets.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests screen coordinates for emulated touch events from mouse.');

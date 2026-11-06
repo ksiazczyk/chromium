@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the console message logger
+summary: GN build file defining the console_message_logger source set and its unit tests together with their build dependencies.

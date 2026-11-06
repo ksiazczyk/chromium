@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for in-process heap profiling
+summary: Sets allowed include rules for the heap profiling directory, with extra permissions granted to the controller unit test.

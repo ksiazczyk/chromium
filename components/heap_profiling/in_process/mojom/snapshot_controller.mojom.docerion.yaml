@@ -1,0 +1,4 @@
+# Docerion header of snapshot_controller.mojom.
+type: source
+title: SnapshotController Mojom interface
+summary: Defines the SnapshotController Mojom interface that lets the browser's HeapProfilerController trigger heap snapshots in child processes and record metrics for upload via CallStackProfileMetricsProvider.

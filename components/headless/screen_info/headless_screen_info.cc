@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless screen info parser implementation
+// summary: Implements parsing of --screen-info switch specifications into HeadlessScreenInfo values, validating parameters such as colorDepth, devicePixelRatio, and work area insets with error messages.
+// ---
+
 #include "components/headless/screen_info/headless_screen_info.h"
 
 #include <optional>

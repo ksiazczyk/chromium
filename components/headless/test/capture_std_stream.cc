@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standard stream capture implementation
+// summary: Implements pipe-based redirection to capture data written to a standard C stream such as stdout or stderr during tests.
+// ---
+
 #include "components/headless/test/capture_std_stream.h"
 
 #include <fcntl.h>

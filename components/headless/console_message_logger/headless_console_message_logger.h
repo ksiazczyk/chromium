@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the headless console message logger
+// summary: Declares LogConsoleMessage, which logs JavaScript console messages while headless runs in incognito mode.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_CONSOLE_MESSAGE_LOGGER_HEADLESS_CONSOLE_MESSAGE_LOGGER_H_
 #define COMPONENTS_HEADLESS_CONSOLE_MESSAGE_LOGGER_HEADLESS_CONSOLE_MESSAGE_LOGGER_H_
 

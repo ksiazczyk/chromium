@@ -1,0 +1,4 @@
+# Docerion header of fullscreen-window-size-scaled-expected.txt.
+type: test
+title: Scaled fullscreen window size expected output
+summary: Expected output for the headless protocol test that checks the fullscreen browser window size with a scaled display, recording the resulting 1600x1200 dimensions.

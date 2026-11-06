@@ -4,6 +4,12 @@
 //
 // META: --screen-info={label=1st devicePixelRatio=2} {400,300 label=2nd}
 
+// ---docerion
+// type: test
+// title: set-primary-screen-scaled test script
+// summary: Headless protocol test that switches the primary screen via CDP Emulation.setPrimaryScreen() in a two-screen setup with a device pixel ratio of 2 and logs screen info.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.setPrimaryScreen() API with scaling.');

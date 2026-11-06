@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600}
 
+// ---docerion
+// type: test
+// title: Large browser window size protocol test
+// summary: Headless protocol test that sets a browser window to 4096x2160, larger than the desktop, and checks the reported window bounds.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests browser window size larger than the desktop.`);

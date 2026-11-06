@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse event screen coordinates protocol test
+// summary: Headless protocol test that positions the browser window, dispatches a mouse event via CDP, and checks its screen coordinate offsets.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests that screen coordinates are correctly applied for mouse events.');

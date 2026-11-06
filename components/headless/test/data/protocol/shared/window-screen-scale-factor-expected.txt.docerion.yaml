@@ -1,0 +1,4 @@
+# Docerion header of window-screen-scale-factor-expected.txt.
+type: test
+title: Window screen scale factor expected output
+summary: Expected output for the protocol test checking window.devicePixelRatio with a simulated screen scale factor.

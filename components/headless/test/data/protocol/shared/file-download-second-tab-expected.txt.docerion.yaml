@@ -1,0 +1,4 @@
+# Docerion header of file-download-second-tab-expected.txt.
+type: test
+title: File download from second tab expected output
+summary: Expected output for the headless protocol test that downloads a file from a second tab, logging download begin and progress events.

@@ -1,0 +1,4 @@
+# Docerion header of get-screen-infos-expected.txt.
+type: test
+title: Emulation.getScreenInfos expected output
+summary: Expected output for the headless protocol test of the CDP Emulation.getScreenInfos API, listing the properties of two configured screens.

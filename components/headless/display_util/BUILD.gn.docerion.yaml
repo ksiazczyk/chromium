@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for headless display_util
+summary: GN build file defining the display_util source_set with the headless display utility sources and dependencies on base, ui/display and ui/gfx/geometry.

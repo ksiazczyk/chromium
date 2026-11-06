@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200}
 
+// ---docerion
+// type: test
+// title: window-inner-size protocol test
+// summary: Headless protocol test verifying that Browser.setContentsSize() updates window.innerWidth and innerHeight after a resize.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests Browser.setContentsSize() updating inner width and height.');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessModePolicy implementation
+// summary: Implements HeadlessModePolicy helpers that read the HeadlessMode policy value from a PrefService and check whether headless mode is disabled.
+// ---
+
 #include "components/headless/policy/headless_mode_policy.h"
 
 #include "components/headless/policy/headless_mode_prefs.h"

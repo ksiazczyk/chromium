@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screencast basics test
+// summary: Headless protocol test that starts a PNG screencast and confirms frames of alternating green and blue page backgrounds are received and acknowledged.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} =
       await testRunner.startBlank('Tests basic screencast functionality.');

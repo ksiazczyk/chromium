@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standard stream capture classes
+// summary: Declares CaptureStdStream plus CaptureStdOut and CaptureStdErr helpers that capture output written to stdout and stderr in tests.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_TEST_CAPTURE_STD_STREAM_H_
 #define COMPONENTS_HEADLESS_TEST_CAPTURE_STD_STREAM_H_
 

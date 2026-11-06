@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for heavy ad intervention strings
+summary: Configures the Monorail component UI>Browser>AdFilter and the public Buganizer component used for issues in this directory.

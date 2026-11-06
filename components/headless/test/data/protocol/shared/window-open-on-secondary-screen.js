@@ -9,6 +9,13 @@
 // http://crbug.com/429408227.
 // META: fork_headless_mode_expectations
 //
+
+// ---docerion
+// type: test
+// title: Window open on secondary screen protocol test
+// summary: Protocol test that opens a popup on a secondary screen and logs its window position, size and screen label via getScreenDetails.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests window open on a secondary screen.');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hidden target sync close test
+// summary: Protocol test that creates many hidden targets, crashes ten of them, and disposes the browser context to verify synchronous close behavior.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session} =
       await testRunner.startBlank(`Test hidden targets synchronous close`);

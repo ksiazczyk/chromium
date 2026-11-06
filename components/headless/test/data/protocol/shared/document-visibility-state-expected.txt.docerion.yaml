@@ -1,0 +1,4 @@
+# Docerion header of document-visibility-state-expected.txt.
+type: test
+title: Document visibility state test expectations
+summary: Expected output for the headless protocol test checking that document.visibilityState is visible at startup.

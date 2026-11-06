@@ -1,0 +1,4 @@
+# Docerion header of add-screen-expected.txt.
+type: test
+title: Add screen test expected output
+summary: Expected output for the CDP Emulation.addScreen protocol test, showing screen infos for two and three screens after adding external and internal screens.

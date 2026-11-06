@@ -1,0 +1,4 @@
+# Docerion header of range-mouse-event-after-node-removal-expected.txt.
+type: test
+title: Expected output for range mouse event after node removal test
+summary: Expected results for the protocol test that dispatches mouse events to a range input after DOM node removal, showing the original and final slider values.

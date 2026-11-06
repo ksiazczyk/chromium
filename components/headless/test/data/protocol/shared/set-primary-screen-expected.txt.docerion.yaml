@@ -1,0 +1,4 @@
+# Docerion header of set-primary-screen-expected.txt.
+type: test
+title: Expected output for set-primary-screen test
+summary: Expected results for the CDP Emulation.setPrimaryScreen() protocol test, listing screen information before and after the primary screen is changed.

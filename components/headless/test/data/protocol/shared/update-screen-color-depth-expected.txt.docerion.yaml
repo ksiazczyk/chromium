@@ -1,0 +1,4 @@
+# Docerion header of update-screen-color-depth-expected.txt.
+type: test
+title: Expected output for update-screen-color-depth test
+summary: Expected screen information after changing a screen's color depth to 32 through the CDP Emulation.updateScreen() API.

@@ -1,0 +1,4 @@
+# Docerion header of remove-screen-expected.txt.
+type: test
+title: Expected output for CDP Emulation.removeScreen() API test
+summary: Expected results for the Emulation.removeScreen() protocol test, covering invalid, unknown, primary, and last-screen removal errors plus remaining screen info.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad service header
+// summary: Declares the HeavyAdService keyed service that owns the heavy ad intervention blocklist and exposes initialization and blocklist load and clear notification callbacks.
+// ---
+
 #ifndef COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_SERVICE_H_
 #define COMPONENTS_HEAVY_AD_INTERVENTION_HEAVY_AD_SERVICE_H_
 

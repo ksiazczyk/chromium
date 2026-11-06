@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heavy ad blocklist unit tests
+// summary: Tests the blocklist policy parameters and allowed types under default and custom field trial parameter settings.
+// ---
+
 #include "components/heavy_ad_intervention/heavy_ad_blocklist.h"
 
 #include <stdint.h>

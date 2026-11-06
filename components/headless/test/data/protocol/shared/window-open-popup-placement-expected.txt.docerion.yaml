@@ -1,0 +1,4 @@
+# Docerion header of window-open-popup-placement-expected.txt.
+type: test
+title: Window open popup placement test expectations
+summary: Expected output for the protocol test verifying that a popup opens at the requested left, top, width and height.

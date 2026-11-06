@@ -1,0 +1,4 @@
+# Docerion header of request-fullscreen-on-secondary-screen-expected.txt.
+type: test
+title: Expected output for requestFullscreen on secondary screen test
+summary: Expected results for the protocol test that requests fullscreen for an element in a popup on a secondary screen, including the resulting page and screen size.

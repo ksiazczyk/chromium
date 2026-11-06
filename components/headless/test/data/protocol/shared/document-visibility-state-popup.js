@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Popup document visibility state protocol test
+// summary: Headless protocol test that repeatedly opens a popup window with an HTTP interceptor and logs its document.visibilityState.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests popup window document.visibilityState.');

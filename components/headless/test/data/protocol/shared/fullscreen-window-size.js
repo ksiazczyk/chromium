@@ -5,6 +5,12 @@
 // META: --screen-info={1600x1200}
 // META: --window-size=800,600
 
+// ---docerion
+// type: test
+// title: Fullscreen window size test
+// summary: Headless protocol test that sets a browser window to fullscreen on a 1600x1200 screen and logs the resulting window bounds via the CDP Browser domain.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} =
       await testRunner.startBlank(`Tests fullscreen browser window size.`);

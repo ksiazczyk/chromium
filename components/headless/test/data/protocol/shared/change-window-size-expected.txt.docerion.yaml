@@ -1,0 +1,4 @@
+# Docerion header of change-window-size-expected.txt.
+type: test
+title: Expected output for the change-window-size protocol test
+summary: Expected output snapshot verifying window bounds after Browser.setWindowSize in the headless protocol test suite.

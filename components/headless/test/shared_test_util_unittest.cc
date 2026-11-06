@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for headless shared test utilities
+// summary: Unit tests verifying shared script detection and expectation file path selection for unspecified, headless mode, and headless shell variants.
+// ---
+
 #include "components/headless/test/shared_test_util.h"
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the headless clipboard component
+summary: Defines the clipboard source_set with the headless clipboard sources and dependencies on //base and //ui/base/clipboard.

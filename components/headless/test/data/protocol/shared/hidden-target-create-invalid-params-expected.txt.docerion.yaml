@@ -1,0 +1,4 @@
+# Docerion header of hidden-target-create-invalid-params-expected.txt.
+type: test
+title: Hidden target create invalid params expected output
+summary: Expected error responses when creating hidden targets with invalid parameters such as non-background, new window, or tab targets.

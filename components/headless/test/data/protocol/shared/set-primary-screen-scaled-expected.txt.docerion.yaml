@@ -1,0 +1,4 @@
+# Docerion header of set-primary-screen-scaled-expected.txt.
+type: test
+title: Expected output for set-primary-screen-scaled test
+summary: Expected results for the Emulation.setPrimaryScreen() test with device pixel ratio scaling, showing screen layouts before and after the primary screen changes.

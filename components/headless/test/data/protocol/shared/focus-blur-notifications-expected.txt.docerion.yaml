@@ -1,0 +1,4 @@
+# Docerion header of focus-blur-notifications-expected.txt.
+type: test
+title: Focus and blur notifications expected output
+summary: Expected output for the headless protocol test that cycles focus between two buttons and logs the resulting focus and blur notifications.

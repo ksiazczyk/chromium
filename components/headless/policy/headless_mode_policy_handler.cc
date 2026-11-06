@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessModePolicyHandler implementation
+// summary: Implements the HeadlessModePolicyHandler as an IntRangePolicyHandler mapping the HeadlessMode policy to the kHeadlessMode pref.
+// ---
+
 #include "components/headless/policy/headless_mode_policy_handler.h"
 
 #include "components/headless/policy/headless_mode_policy.h"

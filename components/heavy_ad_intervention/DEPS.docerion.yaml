@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Lists the allowed include dependencies for code in the heavy ad intervention component.

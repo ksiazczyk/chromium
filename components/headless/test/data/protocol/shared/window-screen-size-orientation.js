@@ -4,6 +4,12 @@
 //
 // META: --screen-info={600x800}
 
+// ---docerion
+// type: test
+// title: Window screen size orientation test
+// summary: Protocol test verifying window.screen.orientation.type for a 600x800 portrait simulated screen.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests window screen size orientation.');

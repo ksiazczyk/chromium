@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document visibility state protocol test
+// summary: Headless protocol test that evaluates document.visibilityState on a blank page at startup and logs the result.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session} =
       await testRunner.startBlank('Tests document.visibilityState upon start.');

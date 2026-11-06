@@ -1,0 +1,4 @@
+# Docerion header of window-open-on-secondary-screen-headless-mode-expected.txt.
+type: test
+title: Window open on secondary screen headless mode expectations
+summary: Headless-mode-specific expected output for the secondary screen window open test, differing by one pixel in window height.

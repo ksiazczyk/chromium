@@ -5,6 +5,12 @@
 // META: --screen-info={800x600 \
 // META:   workAreaLeft=10 workAreaRight=90 workAreaTop=20 workAreaBottom=80}
 
+// ---docerion
+// type: test
+// title: Window zoom size matches work area test
+// summary: Protocol test that sets a window to maximized and fullscreen states and logs its bounds to check they match the work area.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests maximized/fullscreen window matches workarea.');

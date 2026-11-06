@@ -1,0 +1,4 @@
+# Docerion header of set-zoomed-window-bounds-expected.txt.
+type: test
+title: Expected output for set-zoomed-window-bounds test
+summary: Expected window bounds and states for the maximized and fullscreen setWindowBounds() test, including restores to the normal state.

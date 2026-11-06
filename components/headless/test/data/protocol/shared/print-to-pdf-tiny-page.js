@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print to PDF tiny page test
+// summary: Protocol test that calls Page.printToPDF with a paper size smaller than the default margins and expects an error instead of a renderer crash.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const html = `<!doctype html>
     <html><body>Hello, headless world!</body></html>

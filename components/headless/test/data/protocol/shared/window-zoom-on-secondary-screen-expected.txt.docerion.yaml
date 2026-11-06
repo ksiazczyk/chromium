@@ -1,0 +1,4 @@
+# Docerion header of window-zoom-on-secondary-screen-expected.txt.
+type: test
+title: Window zoom on secondary screen expected output
+summary: Expected output for the headless protocol test that maximizes and fullscreens a window on a secondary screen, recording its bounds and state.

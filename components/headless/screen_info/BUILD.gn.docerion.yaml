@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for headless screen info
+summary: Defines the screen_info source set and its unit_tests target, listing their sources and dependencies for the headless screen info component.

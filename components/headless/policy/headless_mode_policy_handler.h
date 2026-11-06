@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessModePolicyHandler class declaration
+// summary: Declares HeadlessModePolicyHandler, an IntRangePolicyHandler that controls the managed values of the headless mode pref.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_POLICY_HEADLESS_MODE_POLICY_HANDLER_H_
 #define COMPONENTS_HEADLESS_POLICY_HEADLESS_MODE_POLICY_HANDLER_H_
 

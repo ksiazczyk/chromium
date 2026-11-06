@@ -5,6 +5,12 @@
 // META: --screen-info={1600x1200}{1200x1600}
 // META: --window-size=800,600
 
+// ---docerion
+// type: test
+// title: Window zoom on secondary screen test
+// summary: Headless DevTools protocol test that moves a window to a secondary screen and checks maximized and fullscreen bounds via Browser.setWindowBounds.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests window zoom on a secondary screen.');

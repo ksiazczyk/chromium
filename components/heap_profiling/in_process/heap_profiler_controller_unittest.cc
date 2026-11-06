@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heap profiler controller unit tests
+// summary: Unit and multiprocess tests covering profiler enablement, snapshot scheduling, snapshot controllers, parameters, and recorded metrics.
+// ---
+
 #include "components/heap_profiling/in_process/heap_profiler_controller.h"
 
 #include <array>

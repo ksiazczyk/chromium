@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessModePolicy class and HeadlessMode enum
+// summary: Declares the HeadlessModePolicy class with the HeadlessMode enum and static helpers for reading the headless mode policy from prefs.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_POLICY_HEADLESS_MODE_POLICY_H_
 #define COMPONENTS_HEADLESS_POLICY_HEADLESS_MODE_POLICY_H_
 

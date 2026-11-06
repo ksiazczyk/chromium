@@ -4,6 +4,12 @@
 //
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Window open noopener click opener id protocol test
+// summary: Protocol test that clicks a rel=noopener link and verifies the newly attached target page has no window.opener.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests that opener is NOT specified on a page opened ' +

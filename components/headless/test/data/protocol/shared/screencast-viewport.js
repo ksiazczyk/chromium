@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screencast viewport test
+// summary: Headless protocol test that sets a 640x480 visible size and checks the dimensions of received screencast frames while toggling background colors.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests screencast viewport size.');

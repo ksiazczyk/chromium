@@ -1,0 +1,4 @@
+# Docerion header of window-open-middle-click-expected.txt.
+type: test
+title: Window open middle click test expectations
+summary: Expected output for the protocol test verifying that a middle click on a link opens a new tab.

@@ -1,0 +1,4 @@
+# Docerion header of change-window-state-expected.txt.
+type: test
+title: Expected output for the change-window-state protocol test
+summary: Expected output listing minimized, maximized and fullscreen window states after Browser.setWindowSize calls.

@@ -1,0 +1,4 @@
+# Docerion header of hidden-target-close-expected.txt.
+type: test
+title: Hidden target close expected output
+summary: Expected protocol test output for closing a hidden target and verifying the DetachedFromTarget event and filtered target lists.

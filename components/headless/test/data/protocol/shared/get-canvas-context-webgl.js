@@ -6,6 +6,12 @@
 // --enable-unsafe-swiftshader.
 // META: --enable-unsafe-swiftshader
 
+// ---docerion
+// type: test
+// title: WebGL canvas context test
+// summary: Headless protocol test that creates a canvas, calls getContext("webgl") in the page, and checks that a valid WebGLRenderingContext is returned, using SwiftShader.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session} = await testRunner.startBlank(
       'Tests that canvas.getContext("webgl") returns a valid context.');

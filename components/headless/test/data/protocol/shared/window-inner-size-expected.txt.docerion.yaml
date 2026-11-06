@@ -1,0 +1,4 @@
+# Docerion header of window-inner-size-expected.txt.
+type: test
+title: window-inner-size expected results
+summary: Expected output for the Browser.setContentsSize() test, logging the resulting inner window width and height.

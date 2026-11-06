@@ -4,6 +4,12 @@
 //
 // META: --screen-info={label='1st' devicePixelRatio=2.0}{label='2nd'}
 
+// ---docerion
+// type: test
+// title: Multiple screens primary scaled test
+// summary: Headless protocol test emulating two screens with a device pixel ratio of 2 on the primary and verifying reported origin, size and flags.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests multiple screens details primary scaled origin and size.');

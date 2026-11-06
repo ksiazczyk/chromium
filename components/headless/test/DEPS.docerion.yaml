@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Headless test include rules
+summary: DEPS rules allowing the headless test directory to include pdf, printing, Skia, re2 and ui/gfx headers.

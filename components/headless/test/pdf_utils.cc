@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF page bitmap rendering implementation
+// summary: Implements PDFPageBitmap, which renders a PDF page to a bitmap via the PDF library and exposes pixel color checks.
+// ---
+
 #include "components/headless/test/pdf_utils.h"
 
 #include <optional>

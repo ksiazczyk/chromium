@@ -1,0 +1,4 @@
+# Docerion header of large-browser-window-size-expected.txt.
+type: test
+title: Large browser window size test expected output
+summary: Expected output for the headless protocol test verifying a browser window can be sized larger than the desktop.

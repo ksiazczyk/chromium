@@ -4,6 +4,12 @@
 //
 // META: --screen-info={devicePixelRatio=3.0}
 
+// ---docerion
+// type: test
+// title: Screen details pixel ratio test
+// summary: Headless protocol test that emulates a device pixel ratio of 3 and checks screens report it via getScreenDetails.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} =
       await testRunner.startBlank('Tests screen details device pixel ratio.');

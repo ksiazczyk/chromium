@@ -1,0 +1,4 @@
+# Docerion header of update-screen-bounds-expected.txt.
+type: test
+title: Expected output for update-screen-bounds test
+summary: Expected screen information after updating a screen's position and size through the CDP Emulation.updateScreen() API.

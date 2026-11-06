@@ -1,0 +1,4 @@
+# Docerion header of popup-window-has-opener-expected.txt.
+type: test
+title: Popup window has opener expected output
+summary: Expected output for the test verifying that a window opened as a popup has a window.opener reference.

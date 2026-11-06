@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless command-line switch declarations
+// summary: Declares the headless command switch name constants in the headless::switches namespace.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_COMMAND_HANDLER_HEADLESS_COMMAND_SWITCHES_H_
 #define COMPONENTS_HEADLESS_COMMAND_HANDLER_HEADLESS_COMMAND_SWITCHES_H_
 

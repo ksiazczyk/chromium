@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for screen_info
+summary: Specifies the include rules permitting base, re2, and ui/gfx/geometry dependencies for the screen_info component.

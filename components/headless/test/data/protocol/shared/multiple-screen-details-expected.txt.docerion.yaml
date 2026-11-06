@@ -1,0 +1,4 @@
+# Docerion header of multiple-screen-details-expected.txt.
+type: test
+title: Multiple screen details expected output
+summary: Expected output listing label, bounds, available area, and flags such as isPrimary and colorDepth for two virtual screens in the screen configuration test.

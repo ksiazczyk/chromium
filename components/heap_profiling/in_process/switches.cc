@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap profiling switch definitions
+// summary: Defines the command-line switch constant that the browser passes to force heap profiling on for a subprocess.
+// ---
+
 #include "components/heap_profiling/in_process/switches.h"
 
 namespace heap_profiling::switches {

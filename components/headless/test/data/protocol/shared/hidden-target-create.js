@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hidden target create protocol test
+// summary: Protocol test that creates a hidden target through a browser session and verifies its session visibility, teardown, and error responses.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   await testRunner.startBlank(`Test creating hidden target`);
 

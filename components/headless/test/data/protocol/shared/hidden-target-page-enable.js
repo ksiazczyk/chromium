@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hidden target page enable test
+// summary: Protocol test that attaches to a hidden target and enables the Page domain in the resulting session.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   await testRunner.startBlank(`Test page enable in hidden target`);
 

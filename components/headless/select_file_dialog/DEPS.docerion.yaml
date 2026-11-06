@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for select_file_dialog
+summary: DEPS file allowing the component to include ui/gfx/native_ui_types.h and headers from ui/shell_dialogs.

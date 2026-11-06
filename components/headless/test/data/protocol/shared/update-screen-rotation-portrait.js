@@ -4,6 +4,12 @@
 //
 // META: --screen-info={600x800}
 
+// ---docerion
+// type: test
+// title: updateScreen portrait rotation protocol test
+// summary: Protocol browser test that rotates a portrait screen through 0, 90, 180 and 270 degrees via CDP Emulation.updateScreen() and logs the orientation changes.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.updateScreen() API portrait rotation handling.');

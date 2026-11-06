@@ -1,0 +1,4 @@
+# Docerion header of print-to-pdf-tiny-page-expected.txt.
+type: test
+title: Print to PDF tiny page expected output
+summary: Expected output showing the invalid print parameters error returned when printing a page smaller than the default margins to PDF.

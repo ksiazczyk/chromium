@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol test for Target.createTarget() window positioning
+// summary: Headless protocol test that creates a target with left, top, width and height parameters and logs the resulting window bounds.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       `Tests Target.createTarget() window positioning.`);

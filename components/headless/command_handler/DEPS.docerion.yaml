@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependencies for the headless command handler
+summary: Allows includes from devtools, content public APIs, and ui/base/resource within this component.

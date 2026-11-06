@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process snapshot controller implementation
+// summary: Implements the child-process Mojo endpoint that forwards snapshot requests to the local HeapProfilerController.
+// ---
+
 #include "components/heap_profiling/in_process/child_process_snapshot_controller.h"
 
 #include <memory>

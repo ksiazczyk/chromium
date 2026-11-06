@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for headless display_util
+summary: Declares the allowed include rules for the component, permitting base, ui/display and ui/gfx/geometry dependencies.

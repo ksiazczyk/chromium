@@ -1,0 +1,4 @@
+# Docerion header of window-open-click-opener-id-expected.txt.
+type: test
+title: window-open-click-opener-id expected results
+summary: Expected output for the click-opened popup test, asserting that TargetInfo.openerId is set to the initial target.

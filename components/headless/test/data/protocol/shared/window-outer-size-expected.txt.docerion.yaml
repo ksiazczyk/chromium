@@ -1,0 +1,4 @@
+# Docerion header of window-outer-size-expected.txt.
+type: test
+title: Window outer size expected output
+summary: Expected output for the protocol test checking the outer window size after the browser window is resized.

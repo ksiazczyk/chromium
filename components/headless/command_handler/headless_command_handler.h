@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless command handler class declaration
+// summary: Declares HeadlessCommandHandler, which observes WebContents and processes headless commands.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_COMMAND_HANDLER_HEADLESS_COMMAND_HANDLER_H_
 #define COMPONENTS_HEADLESS_COMMAND_HANDLER_HEADLESS_COMMAND_HANDLER_H_
 

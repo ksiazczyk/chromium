@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitmap color rectangle checking
+// summary: Implements CheckColoredRect, which locates a colored rectangle in a bitmap and verifies the surrounding background color with anti-aliasing tolerance.
+// ---
+
 #include "components/headless/test/bitmap_utils.h"
 
 #include <cstdlib>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless clipboard API header
+// summary: Declares the function to set the headless clipboard for the current thread and the test helper returning the sequence number request counter.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_CLIPBOARD_HEADLESS_CLIPBOARD_H_
 #define COMPONENTS_HEADLESS_CLIPBOARD_HEADLESS_CLIPBOARD_H_
 

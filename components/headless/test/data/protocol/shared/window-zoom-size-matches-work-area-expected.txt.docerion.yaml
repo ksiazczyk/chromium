@@ -1,0 +1,4 @@
+# Docerion header of window-zoom-size-matches-work-area-expected.txt.
+type: test
+title: Window zoom size matches work area expected output
+summary: Expected output for the protocol test verifying that maximized and fullscreen windows match the work area.

@@ -1,0 +1,4 @@
+# Docerion header of screen-details-multiple-screens-primary-scaled-expected.txt.
+type: test
+title: Multiple screens primary scaled expected output
+summary: Expected output for the test checking origin and size of two screens when the primary screen has a device pixel ratio of 2.

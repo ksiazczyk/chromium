@@ -1,0 +1,4 @@
+# Docerion header of emulate-touch-from-mouse-event-screen-coordinates-expected.txt.
+type: test
+title: Emulated touch from mouse screen coordinates test expectations
+summary: Expected output for the headless protocol test verifying screen coordinates of touch events emulated from mouse input.

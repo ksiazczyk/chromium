@@ -1,0 +1,4 @@
+# Docerion header of hidden-target-page-enable-expected.txt.
+type: test
+title: Hidden target page enable expected output
+summary: Expected output for attaching to a hidden target and enabling the Page domain in its session.

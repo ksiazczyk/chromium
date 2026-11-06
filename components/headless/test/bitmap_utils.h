@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitmap color rectangle checking API
+// summary: Declares CheckColoredRect helpers for verifying that a colored rectangle in a test bitmap is surrounded by the expected background color.
+// ---
+
 #ifndef COMPONENTS_HEADLESS_TEST_BITMAP_UTILS_H_
 #define COMPONENTS_HEADLESS_TEST_BITMAP_UTILS_H_
 

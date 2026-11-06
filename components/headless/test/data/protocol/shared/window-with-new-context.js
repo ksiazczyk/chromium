@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window with new context test
+// summary: Headless DevTools protocol test that creates a browser context, opens a target in a new window, attaches to it and disposes the context.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests Target.createTarget with new browser context');

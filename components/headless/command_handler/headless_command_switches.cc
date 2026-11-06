@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless command-line switch constants
+// summary: Defines switch names like dump-dom, print-to-pdf, screenshot, timeout, and virtual-time-budget.
+// ---
+
 #include "components/headless/command_handler/headless_command_switches.h"
 
 namespace headless::switches {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input clipboard operations protocol test
+// summary: Headless protocol test that exercises select-all, copy and paste key commands on an input field via the Input domain and logs the resulting values.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const html = `<!doctype html>
     <html><body>

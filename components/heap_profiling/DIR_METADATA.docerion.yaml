@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Heap profiling directory metadata
+summary: Maps the heap_profiling directory to the Internals>Instrumentation>Memory monorail component and a public Buganizer component ID.

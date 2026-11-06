@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the headless command handler
+summary: Defines grit resource packaging, repack, and library targets for the headless command handler component.

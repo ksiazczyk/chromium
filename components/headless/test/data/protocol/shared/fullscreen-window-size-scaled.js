@@ -5,6 +5,12 @@
 // META: --screen-info={3200x2400 devicePixelRatio=2.0}
 // META: --window-size=800,600
 
+// ---docerion
+// type: test
+// title: Scaled fullscreen window size test
+// summary: Headless protocol test that sets a browser window to fullscreen on a 3200x2400 screen with devicePixelRatio 2.0 and logs the resulting window bounds via CDP.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       `Tests scaled fullscreen browser window size.`);

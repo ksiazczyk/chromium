@@ -1,0 +1,4 @@
+# Docerion header of screen-details-pixel-ratio-expected.txt.
+type: test
+title: Screen details pixel ratio expected output
+summary: Expected output for the headless protocol test verifying that screen details report an emulated device pixel ratio of 3.

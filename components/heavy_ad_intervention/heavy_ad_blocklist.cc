@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heavy ad blocklist implementation
+// summary: Implements the heavy ad opt-out blocklist, configuring host policy parameters and the allowed blocklist type from field trial params.
+// ---
+
 #include "components/heavy_ad_intervention/heavy_ad_blocklist.h"
 
 #include <string>

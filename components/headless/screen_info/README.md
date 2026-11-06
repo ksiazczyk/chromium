@@ -1,3 +1,11 @@
+---
+type: readme
+title: Headless --screen-info switch
+summary: Documents the --screen-info switch for headless Chrome, covering screen origin, size, orientation, work area, color depth, device pixel ratio, internal flag, label, and rotation parameters.
+relations:
+  - documents /components/headless/screen_info/headless_screen_info.cc
+---
+
 # Headless `--screen-info` switch
 
 Headless Chrome and Chrome Headless Shell support headless screen configuration using `--screen-info` switch.

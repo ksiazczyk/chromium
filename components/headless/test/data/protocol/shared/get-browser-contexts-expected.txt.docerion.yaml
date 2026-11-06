@@ -1,0 +1,4 @@
+# Docerion header of get-browser-contexts-expected.txt.
+type: test
+title: Target.getBrowserContexts expected output
+summary: Expected output for the headless protocol test of Target.getBrowserContexts, covering context creation, disposal, and the error from disposing the default context.

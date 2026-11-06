@@ -1,0 +1,4 @@
+# Docerion header of remove-screen-get-screen-details-expected.txt.
+type: test
+title: Expected output for removeScreen with getScreenDetails test
+summary: Expected results for the protocol test that removes a secondary screen and verifies the remaining primary screen details reported by getScreenDetails().

@@ -1,0 +1,4 @@
+# Docerion header of window-size-switch-larger-than-screen-expected.txt.
+type: test
+title: Window size larger than screen expected output
+summary: Expected output for the headless protocol test that checks a --window-size larger than the screen, recording a 1600x1200 window size.

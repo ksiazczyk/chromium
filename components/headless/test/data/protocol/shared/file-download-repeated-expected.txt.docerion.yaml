@@ -1,0 +1,4 @@
+# Docerion header of file-download-repeated-expected.txt.
+type: test
+title: Repeated file download expected output
+summary: Expected output for the headless protocol test that downloads the same file four times, showing the completed download path for each attempt.

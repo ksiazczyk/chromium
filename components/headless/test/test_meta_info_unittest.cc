@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for test meta info parsing
+// summary: Unit tests covering META comment parsing, including command line switches, line continuations, feature flags, and invalid meta info errors.
+// ---
+
 #include "components/headless/test/test_meta_info.h"
 
 #include "base/command_line.h"

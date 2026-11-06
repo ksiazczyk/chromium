@@ -4,6 +4,12 @@
 //
 // META: --screen-info={1600x1200}
 
+// ---docerion
+// type: test
+// title: set-zoomed-window-bounds test script
+// summary: Headless protocol test that sets window states to maximized and fullscreen via CDP Browser.setWindowBounds() and logs the resulting bounds.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests maximized/fullscreen window setWindowBounds() result.');

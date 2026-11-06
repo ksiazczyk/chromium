@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heap profiler controller implementation
+// summary: Implements collection of sampled heap allocation snapshots, including scheduling, per-process-type handling, and metrics reporting.
+// ---
+
 #include "components/heap_profiling/in_process/heap_profiler_controller.h"
 
 #include <cmath>

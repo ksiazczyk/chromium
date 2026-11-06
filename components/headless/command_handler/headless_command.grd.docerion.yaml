@@ -1,0 +1,4 @@
+# Docerion header of headless_command.grd.
+type: config
+title: GRIT resource definition for headless command resources
+summary: Packages the headless command HTML and JavaScript into a data pack resource for the build.

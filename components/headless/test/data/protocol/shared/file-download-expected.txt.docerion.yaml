@@ -1,0 +1,4 @@
+# Docerion header of file-download-expected.txt.
+type: test
+title: File download expected output
+summary: Expected output for the headless protocol test that downloads a file by clicking an anchor link, logging Browser.downloadWillBegin and downloadProgress events.

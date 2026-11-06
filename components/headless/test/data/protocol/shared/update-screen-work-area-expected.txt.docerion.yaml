@@ -1,0 +1,4 @@
+# Docerion header of update-screen-work-area-expected.txt.
+type: test
+title: update-screen-work-area expected results
+summary: Expected output for the CDP Emulation.updateScreen() work area test, showing the updated screen info after applying work area insets.

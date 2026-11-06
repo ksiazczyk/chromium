@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless command handler implementation
+// summary: Implements processing of headless switches such as screenshot, print-to-pdf, and dump-dom via DevTools.
+// ---
+
 #include "components/headless/command_handler/headless_command_handler.h"
 
 #include <cstdint>

@@ -1,0 +1,4 @@
+# Docerion header of minimize-restore-window-expected.txt.
+type: test
+title: Minimize, restore and focus window test expected output
+summary: Expected output for the headless protocol test covering browser window minimize, restore and focus behavior.

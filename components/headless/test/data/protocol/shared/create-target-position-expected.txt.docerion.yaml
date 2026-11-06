@@ -1,0 +1,4 @@
+# Docerion header of create-target-position-expected.txt.
+type: test
+title: Expected output for the create-target-position protocol test
+summary: Expected output snapshot showing window bounds after Target.createTarget() with a specified position and size.

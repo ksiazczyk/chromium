@@ -4,6 +4,12 @@
 //
 // META: --screen-info={800x600}
 
+// ---docerion
+// type: test
+// title: updateScreen landscape rotation protocol test
+// summary: Protocol browser test that rotates a landscape screen through 0, 90, 180 and 270 degrees via CDP Emulation.updateScreen() and logs the orientation changes.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests CDP Emulation.updateScreen() API landscape rotation handling.');
